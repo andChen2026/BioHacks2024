@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01266486",
+    "briefTitle": "Effect of Metformin on Breast Cancer Metabolism",
+    "officialTitle": "A Phase 2 Single Arm Study to Examine the Effects of Metformin on Cancer Metabolism in Patients With Early Stage Breast Cancer Receiving Neoadjuvant Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 41,
+    "primaryOutcomeMeasure": "Measure Metformin Induced effects in phosphorylation of S6K, 4E-BP-1 and AMPK via immunohistochemical analysis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with histology proven locally advanced breast cancer (LABC) or tumours \\>3 cm in diameter.\n* ECOG performance status 0-1.\n* Age \u226518 years.\n* No prior treatment for breast cancer and scheduled to commence neoadjuvant chemotherapy in \\<3 weeks time.\n* Have given written informed consent and are capable of cooperating with protocol.\n* Adequate bone marrow, renal and liver function.\n\nExclusion Criteria:\n\n* Radiotherapy, major surgery, significant traumatic injury, endocrine therapy, immunotherapy, chemotherapy or experimental therapy during four weeks prior to starting or during trial.\n* Pregnancy or breast feeding\n* History of type 1 or type 2 diabetes.\n* Serum glucose greater than 7.0 mMol/L.\n* Treatment with metformin in the past year.\n* Estimated glomerular filtration rate (eGFR) \\<45ml/min.\n* Acute or chronic metabolic acidosis\n* Known hypersensitivity to metformin\n* Other psychological, social or medical condition, physical examination finding or a laboratory abnormality that the Investigator considers would make the patient a poor trial candidate or could interfere with protocol compliance or the interpretation of trial results.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

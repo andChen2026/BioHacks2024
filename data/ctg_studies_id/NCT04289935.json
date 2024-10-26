@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04289935",
+    "briefTitle": "Intelligent Vacuum Assisted Biopsy Immediately Before Surgery As an Intra- or Pre-Operative Surrogate for Patient Response to Neoadjuvant Chemotherapy for Breast Cancer",
+    "officialTitle": "Intelligent Vacuum Assisted Biopsy Immediately Before Surgery As an Intra- or Pre-Operative Surrogate for Patient Response to Neoadjuvant Chemotherapy for Breast Cancer (VISION I): a Multicenter Prospective Feasibility Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 420,
+    "primaryOutcomeMeasure": "Sensitivity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent according to ICH/GCP regulations before registration and prior to any trial specific procedures\n* unifocal, histologically confirmed invasive breast cancer with IHC luminal B (with or without overexpression or amplification of the HER2 receptor) and all ER negative (ER \\< 10%) breast cancers\n* Initial tumor size larger than 1 and less than 5 cm (cT1c to cT2), any N, M0\n* Clipping of the primary tumor center prior to the start of neo-adjuvant chemotherapy\n* Neo-adjuvant chemotherapy resulting in a radiological complete response or near complete response on MR-Imaging (confirmed within 28 days before or on registration) as described in the trial specific MR-Imaging instructions (available on the welcome page of the study specific SecuTrial link). MRI is strongly recommended, alternative ultrasound\n* Former tumor bed must be accessible for biopsy\n* Female or male aged \u2265 18 years\n* Adequate condition for breast cancer surgery\n* Patients with a previously treated malignancy are eligible, when the risk of the prior malignancy interfering with either safety or efficacy endpoints is very low\n\nExclusion criteria:\n\n* Metastatic breast cancer\n* Multifocal/Multicentric breast cancer\n* Inflammatory breast cancer\n* Luminal-A types of breast cancers (ER \u2265 10% and PgR \u2265 10 % and G1 or 2, and/or Ki-67 \u2264 20%, HER2 negative) or low risk if assessed by a validated genomic prognostic test (e.g. Mammaprint, Endopredict, Oncotype or Nanostring)\n* Distinct radiological sign of residual disease in the breast after neo-adjuvant chemotherapy by imaging\n* Intra-/peritumoral microcalcifications larger than 2 cm at time of diagnosis\n* Any local therapy (irradiation or surgery) to the currently treated breast prior to the trial intervention\n* Any other serious underlying medical, psychiatric, psychological, familial or geographical condition, which in the judgment of the investigator may interfere with the planned staging, trial intervention and follow-up, affect patient compliance or place the patient at high risk from trial intervention-related complications",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

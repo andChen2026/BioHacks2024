@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04245176",
+    "briefTitle": "Genetic Testing for All Breast Cancer Patients (GET FACTS)",
+    "officialTitle": "Genetic Testing for All Breast Cancer Patients (GET FACTS)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Invasive Breast Cancer, In Situ Breast Cancer, Genetic Testing",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "Change in patient's assessment of their personal contralateral breast cancer risk",
+    "eligibilityCriteria": "Inclusion Criteria\n\n* Patients with a new breast cancer diagnosis (invasive or in-situ) considering genetic testing\n* Patients with good understanding of written and spoken English\n* Patients with apparent cognitive capacity to make surgical decisions for themselves\n* Patients who are medically cleared for surgery\n* Patients must be at least age 18 but under 79\n\nExclusion Criteria\n\n* Previous breast cancer diagnosis (invasive or DCIS)\n* Metastatic breast cancer\n* Patients who have received prior broad-based panel testing (prior BRCA1/2 testing with negative results allowed)\n* Bilateral breast cancer\n* Known medical or surgical contraindication to contralateral mastectomy\n* Hematologic malignancy necessitating skin biopsy/fibroblast culture for germline genetic testing malignancy other than cervical cis or basal or squamous cell skin cancers.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

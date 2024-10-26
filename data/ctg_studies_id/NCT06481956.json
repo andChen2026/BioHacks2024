@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06481956",
+    "briefTitle": "T-DM1 Combined With CDK4/6 Inhibitor Ribociclib",
+    "officialTitle": "Phase II Clinical Study of Trastuzumab Emtansine (T-DM1) Combined With Cyclin-dependent Kinase 4/6 (CDK4/6) Inhibitor Ribociclib in the Treatment of Human Epidermal Growth Factor Receptor-2 (HER2)-Positive Advanced Breast Cancer",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "HER2-positive Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Objective Response Rate (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u226518 at the time of signing the informed consent.\n* Patient's ability to follow the study protocol as determined by the investigator.\n* A representative tumor tissue sample is required to confirm a HER2-positive diagnosis.\n\nHER2 expression status and ER expression status of invasive cancer lesions were determined based on previous pathological sections or current pre-treatment biopsy materials, and the HER2 IHC assay was locally confirmed to be consistent with 3+, or IHC assay with 2+, and further FISH detection was positive before study enrollment.\n\n* At least one evaluable lesion was detected by CT or MRI (see protocol for additional details).\n* For metastatic or recurrent breast cancer, there is currently no opportunity for surgical radical resection.\n* Metastatic or recurrent breast cancer that has received at least first-line rescue therapy in the past must have been treated with trastuzumab and taxanes.\n* The Physical status (ECOG) score of the Eastern Tumor Collaboration group was 0 or 1.\n* Sufficient haematology and organ function to meet the definition of laboratory test results, which must be provided within 14 days before the start of study therapy.\n* Fertile women should remain abstinent (no heterosexual intercourse) or use contraceptive methods.\n\nExclusion Criteria:\n\n* Past treatment with other antibody-drug conjugate (ADC) drugs or anti-tumor therapy with CDK4/6 inhibitors.\n* Past treatment with other anti-HER2 drugs other than trastuzumab, pertuzumab and tyrosine kinase inhibitors (TKI).\n* Advanced breast cancer with central nervous system metastasis.\n* Patients who have developed other malignancies in the 5 years prior to screening, except adequately treated cervical cancer in situ, non-melanoma skin cancer, localized prostate cancer, ductal carcinoma in situ, or stage I uterine cancer.\n* Severe dysfunction of vital organs prior to enrollment (see protocol details).\n* Received an investigational drug within 28 days prior to initiation of study therapy.\n* Known hypersensitivity or hypersensitivity to CDK4/6 inhibitors.\n* The results of the serum pregnancy test were positive.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

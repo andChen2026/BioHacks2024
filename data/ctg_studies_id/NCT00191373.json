@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00191373",
+    "briefTitle": "A Trial for HER2 Positive Breast Cancer Patients With Metastatic Disease",
+    "officialTitle": "Phase II Study of Gemcitabine and Trastuzumab Therapy in Patients With HER2 Overexpressing Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Cancer of the Breast, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 66,
+    "primaryOutcomeMeasure": "- Overall response rates",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed invasive breast cancer, with stage IV disease\n* Tumors tested by IHC must be 3+ positive for HER2 overexpression. Tumors tested by FISH must be positive by the specific FISH assay for genetic amplification of HER2. Tumors that are 3+ by IHC but negative by FISH assay are ineligible\n* Patients must have measurable disease\n* Patients may NOT have received prior chemotherapy or prior trastuzumab therapy for metastatic breast cancer.\n* Patients may have received prior chemotherapy and/or hormonal therapy for early stage breast cancer, including taxane-based chemotherapy regimens. Patients may NOT have received trastuzumab in the adjuvant setting unless disease free interval from completion of trastuzumab to time of relapse is greater than 12 months.\n\nExclusion Criteria:\n\n* Patients who have had prior gemcitabine chemotherapy and adjuvant trastuzumab and had less than 12- month disease free interval\n* Patients with known leptomeningeal carcinomatosis",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

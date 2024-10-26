@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00602628",
+    "briefTitle": "Radiation Therapy Planning Techniques in Reducing Damage to Normal Tissue in Women Undergoing Breast-Conserving Surgery for Ductal Carcinoma of the Breast",
+    "officialTitle": "WILL MULTIFUNCTIONAL MAGNETIC RESONANCE TECHNIQUES, DETAILED HISTOPATHOLOGICAL ANALYSIS AND PRONE TREATMENT POSITION IMPROVE ACCURACY OF TARGET VOLUME LOCALISATION & DEFINITION AND REDUCE EXPOSURE OF NORMAL TISSUES IN BREAST RADIOTHERAPY?",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "N/A",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Difference in lung NTDmean (biologically weighted [normalized] mean of total dose to lung normalized to 2 Gy fractions) in supine vs prone positions",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Planning to undergo breast-conserving surgery (BCS)\\* for unifocal ductal carcinoma in situ (DCIS) or grade 1-2 invasive ductal carcinoma (IDC) of the breast NOTE: \\*Patients who have underwent BCS and have titanium clips placed according to this protocol are eligible for this study.\n* No T4d or multifocal disease (as defined on mammography or ultrasound)\n* No G3 disease\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\nInclusion criteria:\n\n* Female\n* Menopausal status not specified\n\nExclusion criteria:\n\n* Cup size DD or greater\n* Ferromagnetic implants (exclude participation in MRI)\n* Claustrophobia (exclude participation in MRI)\n* Gadolinium allergy\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior surgery to ipsilateral breast\n* No prior neoadjuvant chemotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00002520",
+    "briefTitle": "Physician-Initiated Stop-Smoking Program for Patients Receiving Treatment for Early-Stage Cancer",
+    "officialTitle": "Brief Physician-Initiated Quit Smoking Strategies for Clinical Oncology Settings",
+    "overallStatus": "COMPLETED",
+    "conditions": "Bladder Cancer, Breast Cancer, Colorectal Cancer, Head and Neck Cancer, Lung Cancer, Lymphoma, Prostate Cancer, Testicular Germ Cell Tumor, Tobacco Use Disorder, Unspecified Adult Solid Tumor, Protocol Specific",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 434,
+    "primaryOutcomeMeasure": "Rate of Smoking Cessation at 6 months",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* One of the following diagnoses:\n\n  * Stage I or II bladder, colorectal, head and neck, lung, or other cancer\n  * Stage I-III testicular cancer\n  * Stage I-IV breast cancer, prostate cancer, or lymphoma\n* Must have smoked 1 or more cigarettes within the past month or define self as a smoker\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 19 and over\n\nSex:\n\n* Not specified\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* ECOG 0-1\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* Not specified\n\nHepatic:\n\n* Not specified\n\nRenal:\n\n* Not specified\n\nCardiovascular:\n\n* No history of recent heart attack\n\nOther:\n\n* Not pregnant\n* No other imminent medical needs requiring referral to a more intensive smoking cessation regimen\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* Not specified\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* Not specified\n\nSurgery:\n\n* Not specified\n\nOther:\n\n* No prior participation in the pilot phase study",
+    "sex": "ALL",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

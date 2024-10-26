@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04646564",
+    "briefTitle": "Radiotherapy for Extracranial Oligometastatic Breast Cancer",
+    "officialTitle": "Systemic Therapy With or Without Local Radiotherapy for Extracranial Oligometastatic Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Metastatic",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 170,
+    "primaryOutcomeMeasure": "Progression-free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 18-70 years old\n* ECOG performance status 0-2.\n* Newly-diagnosed or metachronous extracranial oligometastatic diseases confirmed by pathology or imaging, with or without locoregional disease (biopsy of metastasis is preferred).\n* Total number of locoregional and metastatic lesions of 1-5 , the maximum diameter of lesions \u22645 cm and at least one lesion could be evaluated by RECIST1.1.\n* Have received or plan to receive systemic therapy.\n* All lesions could be safely treated by radiotherapy.\n* Life expectancy \\> 6 months.\n* Have adequate organ function.\n\nExclusion Criteria:\n\n* Have metastases in the central nervous system.\n* have indications for palliative radiotherapy to reduce symptoms, such as pain, bleeding, obstruction, and pending fractures caused by the tumor.\n* Have moderate/severe liver dysfunction (Child Pugh B or C) from liver metastases, .\n* Malignant pleural effusion\n* Unable to tolerate radiotherapy due to serious comorbidity\n* Have received prior radiotherapy for target area\n* Pregnant or lactating women",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

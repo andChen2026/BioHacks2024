@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00535119",
+    "briefTitle": "Veliparib, Carboplatin, and Paclitaxel in Treating Patients With Advanced Solid Cancer",
+    "officialTitle": "A Phase 1 Study of ABT-888 in Combination With Carboplatin and Paclitaxel in Advanced Solid Malignancies",
+    "overallStatus": "COMPLETED",
+    "conditions": "Adult Solid Neoplasm, BRCA1 Mutation Carrier, BRCA2 Mutation Carrier, Hereditary Breast and Ovarian Cancer Syndrome",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 107,
+    "primaryOutcomeMeasure": "Recommended phase II dose (RP2D) for each stratum",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed advanced solid malignancy\n* Patients enrolled in stratum II of the study must have BRCA1/2 mutation (added 04/07/09)\n* Patients with CNS metastases must be stable after therapy for CNS metastases (such as surgery, radiotherapy or stereotactic radiosurgery) for \\> 3 months and must be off steroid treatment prior to study enrollment\n* ECOG performance status 0-2\n* Life expectancy \\> 12 weeks\n* ANC \u2265 1,500/\u03bcL\n* Platelet count \u2265 100,000/\u03bcL\n* Total bilirubin \u2264 1.5 times upper limit of normal (ULN)\n* AST and ALT \u2264 2.5 times ULN\n* Creatinine normal OR creatinine clearance \u2265 60 mL/min\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for \u2265 3 months after completion of study treatment\n* More than 3 weeks since prior chemotherapy (6 weeks for nitrosoureas or mitomycin C)\n* More than 3 weeks since prior radiotherapy\n* Prior veliparib allowed\n\nExclusion Criteria:\n\n* Known history of allergic reactions to veliparib, carboplatin, or Cremophor-paclitaxel\n* Uncontrolled intercurrent illness, including, but not limited to, any of the following:\n\n  * Ongoing or active infection\n  * Symptomatic congestive heart failure\n  * Unstable angina pectoris\n  * Cardiac arrhythmia\n* Psychiatric illness or social situations that would preclude compliance with study requirements\n* Peripheral neuropathy \\> grade 1\n* Inability to take oral medications on a continuous basis\n* Active seizure or history of seizure disorder\n* Evidence of bleeding diathesis\n* Received \\> 3 prior chemotherapy regimens for advanced stage disease for patients enrolled in stratum I (there is no upper limit on the number of prior regimens for patients enrolled in stratum II) (added 04/07/09)\n\n  * Adjuvant chemotherapy administered \u2265 2 years prior to enrollment to the study does not count as a prior chemotherapy regimen\n* Other concurrent investigational agents\n* Concurrent combination antiretroviral therapy for HIV-positive patients",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

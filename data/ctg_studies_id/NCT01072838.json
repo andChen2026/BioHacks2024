@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01072838",
+    "briefTitle": "Safety Study for Short-course Accelerated, Hypofractionated Partial Breast Radiotherapy (APBI) in Women With Early Stage Breast Cancer Using the Contura MLB",
+    "officialTitle": "Safety and Feasibility of Short-Course, Accelerated, Hypofractionated Partial Breast Radiotherapy in Women With Early Stage Breast Cancer Using the Contura MLB Breast Brachytherapy Catheter: A Phase II Trial",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Delivery of short-course APBI will result in locoregional disease control that is equal to that reported for conventional fractionation schemes for APBI.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Life expectancy \\> 10 years\n* Lumpectomy with clear margins (negative per NSABP criteria)\n* DCIS and/or invasive carcinoma\n* If invasive, nodes must be negative\n* T stage is Tis, T1 or T2\\<=3 cm max diameter\n* ER(+) or ER(-)/PR(+)\n\nExclusion Criteria:\n\n* Pregnant or breast feeding\n* Active collagen-vascular disease\n* Paget's disease of the breast\n* Prior history of breast cancer\n* Prior breast or thoracic radiotherapy\n* Multicentric carcinoma\n* Synchronous bilateral breast cancer\n* Surgical margins that cannot be assessed or that are positive\n* T Stage is T2\\>3 cm or greater\n* ER(-)/PR(-)",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05433480",
+    "briefTitle": "A Study of BPI-16350 in Combination With Fulvestrant in Patients With HR+ and HER2- Locally Advanced, Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "A Randomized, Double-Blind, Placebo-Controlled, Phase 3 Study to Compare Fulvestrant Plus BPI-16350 or Plus Placebo in Patients With HR+, HER2- Locally Advanced, Recurrent or Metastatic Breast Cancer With Disease Progression Following Endocrine Therapy",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 274,
+    "primaryOutcomeMeasure": "Investigator-assessed PFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Has the pathologically-confirmed diagnosis of locally advanced, recurrent or metastatic, HR positive, HER2 negative Breast Cancer\n* One previous line of chemotherapy for advanced/metastatic disease is allowed\n* Disease Progression following endocrine therapy\n* Have postmenopausal status\n* Have 1 of the following, as defined by the Response Evaluation Criteria in Solid Tumors (RECIST) v1.1: measurable disease or nonmeasurable bone-only disease\n* ECOG: 0\\~1\n* Adequate organ function\n\nExclusion Criteria:\n\n* Previous treatment with cytotoxic drugs within 4 weeks before enrollment\n* Previous treatment with endocrine or small molecule drug tyrosine kinase inhibitor TKI within 2 weeks before enrollment\n* Patients who received prior treatment with any CDK4/6 inhibitor, everolimus or fulvestant\n* HER2 positive\n* Patients with major surgery within 4 weeks, severe or unstable systemic disease, unstable/symptomatic CNS metastasis, other malignant tumors, ILD, clinical significant cardiac disease, bleeding or embolic disease, active infectious disease, conditions affecting drug swallow and absorption, etc\n* Pregnancy or lactation\n* Other conditions considered not appropriate to participate in this trial by the investigators",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

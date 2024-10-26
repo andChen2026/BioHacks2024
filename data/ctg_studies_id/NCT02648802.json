@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02648802",
+    "briefTitle": "Cavity Shaving in Breast Conserving Surgery for Breast Cancer Patients",
+    "officialTitle": "Cavity Shaving in Breast Conserving Surgery With Intraoperative Cavity Margin Assessment: A Single Center,Randomized,Controlled Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 181,
+    "primaryOutcomeMeasure": "Positivity rate of CMs by intraoperative frozen section analysis.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* At least 18 years of age and no more than 65 years of age\n* Able to understand and willing to sign an informed consent document\n* Willing and planning to undergo the breast-conserving surgery\n* ECOG\u2264 2\n\nExclusion Criteria:\n\n* Inflammatory breast cancer\n* Preference for mastectomy instead of breast-conserving surgery\n* Necessity to undergo oncoplastic breast surgery\n* Prior surgical treatment, including ultrasound-guided vacuum-assisted biopsy and excision biopsy.\n* Prior systemic therapy for this diagnosis, including neoadjuvant chemotherapy, neoadjuvant endocrine therapy.\n* History of prior breast/axillary radiation therapy\n* Known metastatic disease\n* Diagnosed as bilateral breast cancer or DCIS\n* History of other malignancy \u2264 5 years previous\n* Preoperation evaluation indicates tumor size\\>5cm\n* Preoperation evaluation indicates multicenter or multifocal breast cancer(including suspicious calcification on mammography)\n* Undergoing other clinical trials\n* With sever liver disfunction(Child-Pugh C)\n* With sever cardiac insufficiency\n* With sever renal disfunction\n* Pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

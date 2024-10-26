@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04685460",
+    "briefTitle": "3D Printed Bolus in Post-mastectomy Radiotherapy",
+    "officialTitle": "Clinical Study of 3D Printed Bolus for Volumetric Modulated Arc Therapy of Post-mastectomy Treatment",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms, Radiotherapy Side Effect",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 70,
+    "primaryOutcomeMeasure": "dose comparison",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* breast cancer patients with post-mastectomy treatment\n\nExclusion Criteria:\n\n* NA",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

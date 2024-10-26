@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01167192",
+    "briefTitle": "Neoadjuvant Platinum-based Chemoradiation Therapy for Locally Advanced Triple Negative Breast Cancer",
+    "officialTitle": "Effect of Neoadjuvant Platinum-based Chemoradiation Therapy for Locally Advanced Triple Negative Breast Cancer: Clinical Outcome and Correlation to Biological Parameters",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Response Rate as Measured by Number of Participants Who Achieved Complete Response (CR) or Partial Response (PR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient must be \\> or = 18 years of age\n* Patient must be female\n* Patient must have primary invasive ductal breast adenocarcinoma that either:\n\n  1. is newly diagnosed, without previous systemic treatment OR\n  2. has failed to respond to \\< or = 4 cycles of neoadjuvant anthracycline based therapy as assessed by clinical exam or imaging studies (mammogram, ultrasound or breast MRI).\n* Patient's tumor must be classified as clinically stage T2, T3, or T4 with any N (NX, N0, N1, N2, or N3) prior to any neoadjuvant treatment.\n* Patient must have an ECOG Performance Status of \\< or = 1.\n* Patient must have adequate organ function defined as:\n\n  1. Renal Function:\n\n     1. CrCl \u2265 60 ml/min for patients receiving cisplatin\n     2. CrCl \u2265 30 ml/min for patients receiving carboplatin.\n  2. Liver Function:\n\n     1. ALT, AST, ALK Phos \\< or = 1.5 x upper limit of institutional normal.\n     2. Bilirubin \\< or = 1.5 x upper limit of institutional normal.\n  3. Normal left ventricular function (LVEF \\> 50%) by MUGA or ECHO.\n  4. Hematologic:\n\n     1. Absolute Neutrophil Count \\> or = 1500/mcl\n     2. Platelets \\> or = 100,000/mcl\n     3. Hemoglobin \\> or = 8.0 g/dl\n* Patient must be able and willing to sign informed consent document.\n\nExclusion Criteria:\n\n* Patient must not have evidence of distant metastasis present by CT, bone scan, or PET-CT. If the bone scan or CT scans demonstrate indeterminate lesions, the nature of these lesions should be further clarified by additional testing such as PET or MRI at the discretion of the treating physician.\n* Patients having received neoadjuvant anthracycline based therapy must undergo restaging to exclude distant metastases prior to enrollment.\n* Patient must not have had any prior malignancies with the exception of curatively treated basal or squamous carcinoma of the skin or history of previous malignancies, treated with at least greater than 5 years disease free survival.\n* Patient's tumor must not express the following biomarkers or must have Allred score \\< 4 for: estrogen receptor, progesterone receptor, and is not Her2/neu amplified.\n* Women of child bearing potential may not be currently pregnant or breastfeeding at time of registration and must agree to use adequate contraception.\n* Patient must have \\> or = grade 2 peripheral neuropathy.\n* Patient must have a known hearing impairment (hearing loss or severe tinnitus). Hearing test will be performed at the discretion of the treating physician.\n* Patient must not have been previously treated with cisplatin or carboplatin for any condition.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

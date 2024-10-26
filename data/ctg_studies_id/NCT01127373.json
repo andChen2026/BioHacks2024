@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01127373",
+    "briefTitle": "Multi-Beam Intensity-Modulated Radiation Therapy for Node-Positive Breast Cancer",
+    "officialTitle": "Pilot Study of Multi-Beam Intensity-Modulated Radiation Therapy for Node-Positive Breast Cancer Patients Requiring Treatment of the Internal Mammary Lymph Nodes",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 116,
+    "primaryOutcomeMeasure": "Count of Participants Receiving Adjuvant Radiation Therapy Via Multi-beam IMRT Using Daily 3D Position Verification",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female gender\n* Age \u226518 years\n* An invasive primary breast cancer of any histology arising from breast parenchyma\n* Patient must be status post mastectomy or partial mastectomy with an assessment of axillary nodes via sentinel lymph node biopsy and/or axillary lymph node dissection\n* Pathologic confirmation of metastatic disease in at least one regional lymph node. Regional lymph nodes are defined as the ipsilateral axillary lymph nodes, ipsilateral supraclavicular lymph nodes, and ipsilateral internal mammary lymph nodes. Thus, any T stage is allowed as long as the N stage is \u22651 and M stage is 0.\n* Patient signed study-specific consent form.\n\nExclusion Criteria:\n\n* Patients with distant metastasis.\n* Patients who are pregnant or breastfeeding.\n* Patients with psychiatric or addictive disorders that would preclude obtaining informed consent.\n* Time between initial diagnosis of breast cancer and start of radiation therapy exceeds 13 months.\n* Estimated life expectancy judged to be less than one year by patient's treating radiation oncologist.\n* Prior radiation therapy to the ipsilateral or contralateral breast or thorax.\n* Primary breast cancer is a lymphoma or sarcoma histology.\n* Patients with a history of non-skin malignancy \\<5 years prior to the diagnosis of breast cancer.\n* Patients requiring radiation to the bilateral breasts.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

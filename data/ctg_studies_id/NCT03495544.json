@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03495544",
+    "briefTitle": "Study Estimating Association Between Germline Mutations and PD-L1 Expression in Breast Cancer",
+    "officialTitle": "Comparative, Multicenter Study Estimating Association Between Germline DNA-repair Genes Mutations and PD-L1 Expression Level in Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Hereditary Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 390,
+    "primaryOutcomeMeasure": "Diagnostic performance of PD-L1 expression in breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 1. The voluntary obtained informed consent signed by both the subject and the investigator.\n\n  2. Females 18 years age or more. 3. Histologically confirmed BC with known hormone receptors and HER2neu receptors status, Grade of tumor, diagnosed before enrolment into the study.\n\n  4. Availability of FFPE tissue samples received prior to any type of antitumor treatment start. Tumour tissue samples must be satisfied IHC requirements for PD-L1 testing.\n\n  5. Ability of blood samples receiving for NGS germline mutations testing. 6. Completed medical records (stage, receptors status, demographic data)\n\nExclusion Criteria:\n\n* Any evidence of uncontrolled system pathology, active infections, active bleeding diathesis, renal graft, including virus hepatitis B, C or HIV.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

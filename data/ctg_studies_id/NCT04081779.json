@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04081779",
+    "briefTitle": "Survivorship Care Plans and Telehealth Education for the Improvement of Access to Cancer Survivorship, the IMPACT Study",
+    "officialTitle": "IMPACT: Improving Access to Cancer Survivorship Via Telehealth",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Breast Carcinoma, Colorectal Carcinoma, Lung Carcinoma, Lymphoma, Prostate Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Initial participation rate of cancer survivors identified from community-based practices",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Cancer survivors who have completed curative therapy within the past 5 years (may still currently be on long-term/targeted non-cytotoxic agent maintenance therapy, e.g., tamoxifen or aromatase inhibitors for breast cancer survivors; androgen deprivation therapy for prostate cancer survivors)\n* History of either adult-onset (age \\>= 18) lymphoma, breast, colorectal, lung, or prostate cancer\n* Able to perform all study requirements, including responding to questionnaires\n* Willing to be randomized\n* Capable of providing informed consent\n* Consent to release oncology and primary care medical records\n* English or Spanish speakers\n* PRIMARY CARE PROVIDERS: PCPs responsible for delivering primary care to IMPACT study participants will be contacted about participating in the study after participant enrollment into the study.\n* ONCOLOGY STAFF: Oncology Staff (Oncologists, Nurse Practitioners, Physician's assistants) will be recruited from sites involved in the IMPACT study\n* CLINIC ADMINISTRATORS: Clinic administrators will be recruited from sites involved in the IMPACT study\n\nExclusion Criteria:\n\n* Currently on palliative or hospice care, or considering transferring to such care within the next 3 months\n* Lacks telephone access\n* Lacks mailing address or ability to receive study materials electronically\n* Currently being followed in a pediatric clinical setting (either for primary care or for cancer care)\n* History of having had \\> 1 cancer type diagnosed and treated (exception is for skin cancers treated with surgical excision alone; also, individuals who only have had relapse of their initial cancer remain eligible so long as they have completed curative therapy and meet all other eligibility criteria)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00477646",
+    "briefTitle": "Helping Women Stay Up-To-Date With Cancer Screening By Using a Prevention Care Manager or Usual Care",
+    "officialTitle": "New York Prevention Care Manager Project / Medicaid Managed Care Organization Version",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Cervical Cancer, Colorectal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 2241,
+    "primaryOutcomeMeasure": "Percentage of patients up-to-date (UTD) for colorectal cancer (CRC) screening",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Enrolled in a participating Medicaid Managed Care Organization (MMCO) as a Medicaid patient for \u2265 12 months\n* Not up-to-date (UTD) for colorectal cancer screening\n\n  * UTD status defined by any of the following:\n\n    * Home fecal occult blood test within the past 12 months\n    * Flexible sigmoidoscopy within the past 5 years\n    * Double-contrast barium enema within the past 5 years\n    * Colonoscopy within the past 10 years\n* Registered to receive primary care from a participating Community/Migrant Health Center, Diagnostic and Treatment Center, or other participating practice in New York City\n* Must have a telephone available\n* No MMCO claim for any of the following:\n\n  * Colorectal, breast, or cervical cancer\n  * Colon polyp removal\n  * Total colectomy\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Able to use telephone\n* No plans to move for \u2265 1 year\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT"
+}

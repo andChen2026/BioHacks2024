@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03742401",
+    "briefTitle": "Treatment of Breast Fibroadenoma With High Intensity Focused Ultrasound (HIFU)",
+    "officialTitle": "Treatment of Breast Fibroadenoma With High Intensity Focused Ultrasound (HIFU) vs Surgery: A Prospective Randomized Study",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Fibroadenoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2,
+    "primaryOutcomeMeasure": "Evaluation of the treatment of breast fibroadenoma by HIFU compared to surgery assessing the total induced cost in both study arms",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients 18 to 45 years old with at least one diagnosed breast fibroadenoma\n* Diagnosis of fibroadenoma must be based on:\n\n  * clinical examination\n  * ultrasound image alone for patients Under 35 years old. For women older than 35 years, a mammogram will be performed in addition to ultrasound. the BI-RADS score of this mammogram must be less than 3. In all cases where an uncertainly exists, the patient will not be included.\n  * histological confirmation after core needle biopsy by two independant readers (biopsy must be performed at least two weeks before therapy unless a micro biopsy has been already done less than 3 months before inclusion visit and histopathology slices are available)\n* the requirements for the distance from the skin and the following r\u00e9gions of the fibroadenoma are:\n\n  * depth anterior edge \\< 19.4mm\n  * nodule thickness \\> 7.3 mm\n  * depth of posterior edge \\> 12.5 mm\n  * depth to rib cage \\> 10mm\n* patient's fibroadenoma size is greater to equal to 0.3 cc (measured by ultrasound on the day of the procedure)\n* Lesions should be less than 20 mL\n* The lesion must be sonographically visible\n* Lesions presented during previous surveillance a minimum 20% increase volume AND/OR\n* Patient are presenting a pain level \\>= 3 as meaured on the VAS during the last 30 days AND/OR\n* Patient are presenting a anxiety level \\>= 3 as meaured on the VAS during the last 30 days before selection visit\n* Fibroadenoma is palpable\n* Patient candidate for sugery\n* Patient has signed a written informed consent\n* Patient with a social security coverage\n\nExclusion Criteria:\n\n* Patient is pregnant or lactating\n* Patient with history of laser or radiotherapy in the targeted breast\n* Core biopsy diagnosis suggestive of cytosarcoma phyllodes tumor or other malignancy\n* Patient with breast implant in the targeted breast\n* Patient with predominantly liquid nodule\n* Macro-calcifications in pre-focal HIFU path\n* Nipple and or areola in pre-focal HIFU path\n* Patient's fibroadenoma not clearly visible on the ultrasound images (in B-mode) at the inclusion visit\n* Scars or moles before the focal point of the HIFU\n* Patient participating in another clinical trial involving an investigational drug, or device",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

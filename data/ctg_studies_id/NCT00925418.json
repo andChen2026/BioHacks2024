@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00925418",
+    "briefTitle": "Evaluation of the Cryotherapy in the Prevention of Nails Toxicity Induced by Taxotere\u00ae in Breast or Prostate Cancer",
+    "officialTitle": "Randomized Trial Evaluating the Cryotherapy in the Prevention of Nails Toxicity Induced by Taxotere\u00ae in Patient Treated for Breast or Prostate Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Prostate Cancer, Nail Diseases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 168,
+    "primaryOutcomeMeasure": "Number of patients treated by Taxotere\u00ae with nail toxicity >= 2 (CTC-AE version 3.0)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with hormono-resistant breast cancer or metastatic prostate cancer treated by chemotherapy with Taxotere\u00ae.\n* Patients aged 18 and older\n* Nail toxicity \\< grade 2 (CTC-AE version 3.0)\n* Informed patients with signed consent\n\nExclusion Criteria:\n\n* History of treatment with taxane\n* Raynaud syndrome\n* Distal metastasis in superior extremity\n* Nail diseases\n* Distal arteriopathy\n* Cold intolerance\n* Peripheral neuropathy\\>=2\n* Pregnancy, breast feeding\n* Unable to give informed consent\n* Unable to have a medical follow-up for social, geographical, family or psychological reasons",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

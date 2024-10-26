@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00704158",
+    "briefTitle": "Study of CR011-vcMMAE to Treat Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "A Phase I/II Study of CR011-vcMMAE in Patients With Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 42,
+    "primaryOutcomeMeasure": "To evaluate the safety and tolerability of CR011-vcMMAE in breast cancer patients",
+    "eligibilityCriteria": "Main Inclusion Criteria:\n\n* Females with confirmed breast cancer\n* Age \u2265 18 years\n* Eastern Cooperative Oncology Group (ECOG) Performance Status 0 to 2\n* Locally advanced or metastatic disease who have received at least two prior chemotherapeutic regimens for breast cancer, as follows:\n\n  * At least one regimen must have been for locally advanced or metastatic disease\n  * Subject must have received an anthracycline, a taxane, and capecitabine in any combination unless the subject was intolerant to or not a candidate for any of these agents\n  * Hormonal therapy, biologic therapy (such as trastuzumab or bevacizumab), or immunotherapy do not count as one of the 2 regimens\n  * Subjects with HER2/neu overexpressing tumors must have been treated with trastuzumab except in situations where the subject was intolerant to or not a candidate for trastuzumab\n* Documented progressive disease within 6 months of the last regimen\n* Adequate bone marrow, renal and liver function\n* Signed informed consent\n\nMain Exclusion Criteria:\n\n* Chemotherapy, radiation, hormonal therapy, or bevacizumab within two weeks, or trastuzumab or investigational therapy within three weeks before treatment start\n* Neuropathy \\> NCI-CTCAE Grade 1\n* Active brain metastases.\n* New York Heart Association class III or IV heart disease\n* Unstable angina\n* Uncontrolled arrhythmia\n* A marked baseline prolongation of QT/QTc interval\n* Pregnant or breast-feeding women, and women of childbearing age and potential who are not willing to use effective contraception",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

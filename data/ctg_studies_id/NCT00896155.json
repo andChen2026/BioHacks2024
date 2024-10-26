@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00896155",
+    "briefTitle": "Trial of Concurrent Versus Sequential Tamoxifen With Radiotherapy in Breast Cancer Patients",
+    "officialTitle": "A Randomized Trial of Concurrent Versus Sequential Tamoxifen With Radiotherapy to Assess the Extent of Pulmonary Fibrosis and Disease Related Control and Survival in Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Pulmonary Fibrosis, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 260,
+    "primaryOutcomeMeasure": "Development of Lung fibrosis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with large operable lesions (pT/cT \\> 5 cm) or locally advanced breast cancers undergoing modified radical mastectomy or breast conservative surgery-(BCS) who need adjuvant post operative radiotherapy\n* Patients post mastectomy requiring radiotherapy because of nodal positivity\n* Completed planned chemotherapy schedule\n* ER and/or PR positive patients\n* Patients decided to be put on tamoxifen\n* Patients reliable for follow up\n\nExclusion Criteria:\n\n* Patients with BCT who have pT1 or pT2 breast lesions (N0,N1)\n* Patients for palliative radiotherapy to the chest wall/breast/supraclavicular fossa\n* Any patient requiring radiation to the axillary or internal mammary area\n* Recurrent disease or metastatic disease\n* Patients on concurrent chemotherapy and radiation",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

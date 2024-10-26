@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00093145",
+    "briefTitle": "Study of Albumin-bound Paclitaxel (Abraxane) in Combination With Carboplatin and Herceptin in Patients With Advanced Breast Cancer",
+    "officialTitle": "A Phase II Study of Weekly Dose-Dense Nanoparticle Paclitaxel (ABI-007), Carboplatin With Herceptin\u00ae As First-Line Therapy of Advanced HER-2 Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 32,
+    "primaryOutcomeMeasure": "Percentage of Participants Who Achieved an Objective Confirmed Complete or Partial Overall Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed adenocarcinoma of the breast\n* Tumor shows 3+ overexpression of the human epidermal growth factor receptor 2 (HER-2)/proto-oncogene by immunohistochemistry assay, or is fluorescence in situ hybridization (FISH)+\n* Stage IV disease\n* Measurable disease\n* At least 3 weeks since prior cytotoxic chemotherapy\n* At least 4 weeks since radiotherapy with full recovery\n* At least 4 weeks since major surgery with full recovery\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* At least 18 years old\n* Absolute neutrophil count (ANC) at least 1.5 x 10\\^9 cells/L\n* Platelets at least 100 x 10\\^9 cells/L\n* Hemoglobin at least 9 g/dL\n* Aspartame aminotransferase (AST), alanine aminotransferase (ALT) less than 2.5X upper limit normal\n* Alkaline Phosphatase less than 1.5X upper limit normal\n* Creatinine less than 1.5 gm/dL\n* Normal left ventricular ejection fraction\n* Negative pregnancy test\n* Agree to use method to avoid pregnancy\n* Informed Consent is obtained\n\nExclusion Criteria:\n\n* Up to one regimen of prior neo-adjuvant or adjuvant chemotherapy is allowed. One year since Taxane and Herceptin treatment.\n* Cumulative life-time dose of doxorubicin is greater than 360 mg/m\\^2\n* Concurrent immunotherapy or hormonal therapy\n* Parenchymal brain metastases, if present, must be documented to be clinically and radiographically stable for at least 6 months after treatment\n* Serious intercurrent medical or psychiatric illness, including serious active infection\n* History of congestive heart failure\n* History of other malignancy within the last 5 years which could affect the diagnosis or assessment of breast cancer\n* Patients who have received an investigational drug within the previous 3 weeks\n* Patient is currently enrolled in another clinical study receiving investigational therapies\n* Pregnant or nursing women",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

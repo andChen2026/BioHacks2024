@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02608281",
+    "briefTitle": "Evaluation of Diagnostic Accuracy of Contrast Enhanced Dual Energy Mammography Imaging in Comparison to CE-MRI",
+    "officialTitle": "Clinical Study to Evaluate Diagnostic Accuracy of Low Dose Contrast Enhanced Dual Energy Mammography Imaging in Comparison to CE-MRI",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Diagnosis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 110,
+    "primaryOutcomeMeasure": "Diagnostic accuracy of contrast enhanced dual energy mammography for breast cancer diagnosis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females at least 21 years of age or older\n* A screening mammogram classified as BI-RADS\u00ae 0, 4 or 5 followed by a diagnostic CE-MRI and a histological verification of a given lesions either by needle biopsy or open surgery\n* Signed informed consent after receiving a verbal and written explanation of the purpose and nature of this clinical study\n\nExclusion Criteria:\n\n* Pregnant or possible pregnant as well as lactating women\n* Have mammographic evidence of previous breast surgery, prior radiation to the breast, needle projection or pre-biopsy markings are evident on the mammogram\n* Breast implants\n* Patients who will undergo neo-adjuvant chemotherapy (BI-RADS 6)\n* Inmates or mentally disabled patient.\n* Renal insufficiency or contrast agent allergy\n* Patients who participated in other clinical studies within the last 12 months",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

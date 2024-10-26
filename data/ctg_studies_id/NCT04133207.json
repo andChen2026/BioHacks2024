@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04133207",
+    "briefTitle": "Clinical Outcome and Toxicity Data in Patients With Advanced Breast Cancer Treated With CDK Inhibitors Combined With Endocrine Therapy",
+    "officialTitle": "Registry Study of Patients With Advanced Breast Cancer Treated With Cyclin-dependent Kinase 4/6 (CDK4/6) Inhibitors Combined With Endocrine Therapy: the Experience of the Hellenic Cooperative Oncology Group",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Stage IV",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 340,
+    "primaryOutcomeMeasure": "Toxicity rates",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 18 years or older\n* \u0391ny menopausal status is allowed\n* HR-positive/HER2-negative advanced breast cancer\n* Patients treated with CDKi in combination with endocrine therapy for their advanced breast cancer\n* Combinations of CDKi with any endocrine therapy are allowed\n* More than two months of treatment with a CDKi is mandatory\n\nExclusion criteria:\n\n\u2022 Treatment with CDKi as (neo)adjuvant treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

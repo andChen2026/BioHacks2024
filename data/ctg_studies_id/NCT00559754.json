@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00559754",
+    "briefTitle": "A Study of Avastin (Bevacizumab) and Sequential Chemotherapy in Patients With Primary HER2 Negative Operable Breast Cancer.",
+    "officialTitle": "An Open Label Study to Assess the Effect of a Combination of Avastin and Docetaxel and Sequential Chemotherapy on Pathological Response in Patients With Primary Operable HER2 Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 72,
+    "primaryOutcomeMeasure": "Percentage of Participants With Pathological Complete Response (pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female patients, \\>=18 years of age;\n* primary HER2-negative operable breast cancer;\n* tumor \\>2cm in size;\n* ECOG performance status 0-1.\n\nExclusion Criteria:\n\n* previous treatment for breast cancer;\n* metastatic disease;\n* current or recent (within 10 days of first dose of Avastin) use of aspirin (\\>325mg/day) or full-dose anticoagulants for therapeutic purposes;\n* clinically significant cardiovascular disease.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

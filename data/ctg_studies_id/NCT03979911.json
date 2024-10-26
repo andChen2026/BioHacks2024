@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03979911",
+    "briefTitle": "Evaluation of Pertuzumab-Trastuzumab and Taxane in the Standard Treatment of Metastatic Breast Cancer",
+    "officialTitle": "Evaluation of Double HER2 Blocking by Pertuzumab-Trastuzumab and Taxane in the Standard Treatment of Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms, HER-2 Gene Amplification",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 63,
+    "primaryOutcomeMeasure": "Progression-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* metastatic breast cancer\n* HER2 positive\n* Received pertuzumab in combination with trastuzumab and taxane chemotherapy\n\nExclusion Criteria:\n\n* no HER2-positive breast cancer\n* no association with taxane chemotherapy\n* no metastatic breast cancer\n* refusal to consent",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

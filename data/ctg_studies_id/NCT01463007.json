@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01463007",
+    "briefTitle": "Partial Breast Irradiation Using Non Invasive Approach for Early Stage Breast Cancer",
+    "officialTitle": "ACCELERATED PARTIAL BREAST IRRADIATION USING NON-INVASIVE IMAGE-GUIDED BREAST BRACHYTHERAPY (ACCUBOOST) FOR EARLY STAGE BREAST CANCERS: A TOXICITY ASSESSMENT",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Early and Intermediate Toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. A confirmed histological diagnosis of invasive breast carcinoma or DCIS\n2. Age greater or equal to 50 years old\n3. Life expectancy \\> 6 months\n4. Treated by breast conserving surgery with axillary node dissection or sentinel lymph node biopsy\n5. Pathologic tumor size less than or equal to 2 cm\n6. Invasive ductal, mucinous, tubular or colloid histology\n7. Estrogen receptor positive for invasive carcinoma.\n8. Unifocal/unicentric disease\n9. Negative surgical margins greater than or equal to 2 mm\n10. Pathologic lymph node negative\n11. No evidence of lymphovascular invasion\n12. ECOG performance status of 0 or 1 (Appendix 1)\n13. Informed consent signed.\n\nExclusion Criteria:\n\n1. Known BRCA 1/2 Mutation; (BRCA 1 and 2 testing is not required)\n2. Autoimmune disorder\n3. Pregnancy\n4. Breast implants\n5. Psychiatric or addictive disorder that would preclude attending follow-up\n6. Neoadjuvant chemotherapy (adjuvant chemotherapy is permitted)\n7. Suspicious remaining microcalcification on post-surgery mammogram (unless biopsy proven benign)\n8. Lobular features on histology (pure or mixed) or sarcoma histology\n9. Node positive on axillary dissection or in the sentinel lymph node biopsy;\n10. Extensive in situ carcinoma (EIC)\n11. Multicentric or multifocal disease\n12. Paget's disease of the nipple\n13. Distant metastases\n14. Lumpectomy cavity not well visualized on AccuBoost imaging\n15. Lumpectomy cavity with 1cm margin (PTV) not adequately encompassed by any applicator (PTV \\> 6cm)\n16. Breast separation with compression \\> 7cm.\n17. Overlap of skin between orthogonal treatment axes.",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

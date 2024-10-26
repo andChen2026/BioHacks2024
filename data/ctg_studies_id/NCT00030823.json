@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00030823",
+    "briefTitle": "Vaccine Therapy in Treating Patients at High Risk for Breast Cancer Recurrence",
+    "officialTitle": "Vaccination Of High Risk Breast Cancer Patients With Heptavalent Antigen - Keyhole Limpet Hemocyanin Conjugate Plus The Immunological Adjuvant QS21",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 14,
+    "primaryOutcomeMeasure": "Safety",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of breast cancer at high risk for recurrence, defined by one of the following:\n\n  * Stage IV that is free of all known disease after eradication by surgery, radiotherapy, or chemotherapy\n\n    * May or may not have elevated CA 15-3 or CEA levels\n  * Stage I, II, or III previously treated with adjuvant chemotherapy and clinically free of identifiable disease, but have rising CA 15-3 or CEA levels\n\n    * Rising CA 15-3 and CEA defined as a prior normal level increased on 2 consecutive occasions at least 2 weeks apart\n\n      * For patients with a significant history of smoking who have a chronically elevated CEA (less than 15), CEA must be increased at least 1.5 times the uppermost chronic value on 2 consecutive occasions at least 2 weeks apart\n  * Stage III and completed adjuvant therapy no more than 24 months ago\n  * Recurrence in the ipsilateral axilla after lumpectomy and/or axillary dissection or modified radical mastectomy\n  * Recurrence in the ipsilateral breast after lumpectomy and/or axillary dissection\n  * Stage II with at least 4 positive axillary nodes and completed adjuvant therapy no more than 24 months ago\n  * Stage IV that is stable on hormonal therapy\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nSex:\n\n* Male or female\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* Karnofsky 80-100%\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* Lymphocyte count at least 500/mm\\^3\n* WBC at least 3,000/mm\\^3\n\nHepatic:\n\n* AST no greater than 1.5 times upper limit of normal (ULN)\n* Alkaline phosphatase no greater than 1.5 times ULN\n\nRenal:\n\n* Creatinine no greater than 1.5 times ULN\n\nCardiovascular:\n\n* No clinically significant New York Heart Association class III or IV cardiac disease\n\nOther:\n\n* Not pregnant\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No prior seafood allergy\n* No known prior immunodeficiency or autoimmune disease\n* No other active cancer except basal cell or squamous cell skin cancer\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* At least 6 weeks since prior immunotherapy\n* No prior vaccine with any of the antigens in this study\n\nChemotherapy:\n\n* See Disease Characteristics\n* At least 4 weeks since prior chemotherapy\n* No concurrent chemotherapy\n\nEndocrine therapy:\n\n* See Disease Characteristics\n\nRadiotherapy:\n\n* See Disease Characteristics\n* At least 4 weeks since prior radiotherapy\n* No concurrent radiotherapy\n\nSurgery:\n\n* See Disease Characteristics\n* At least 4 weeks since prior surgery\n* Concurrent surgery for local recurrence allowed if patient remains disease free",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

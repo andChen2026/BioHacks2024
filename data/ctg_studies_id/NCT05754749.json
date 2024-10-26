@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05754749",
+    "briefTitle": "Comparison of CE-DBT and MRI in Patients With Known Breast Lesions",
+    "officialTitle": "Comparison of Contrast Enhanced Digital Breast Tomosynthesis and Magnetic Resonance Imaging in Patients With Known Breast Lesions",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "Reader confidence in identifying lesions on CE-DBT compared to contrast enhanced dynamic breast MRI (arbitrary units)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women at least 18 years old\n* Planned or received conventional breast MRI at UNC Hospitals within 3 months prior to or after the research scan\n* Suspected breast lesion based on prior imaging (BIRADS 4 or greater)\n* Able to provide written informed consent\n\nExclusion Criteria:\n\n* Severe untreatable claustrophobia\n* Implanted metallic devices, parts, vascular clips, or other foreign bodies (including breast implants)\n* Known hypersensitivity to iodinated contrast agent or to any component of iodinated contrast refractory to standard medications (antihistamines, steroids)\n* Impaired kidney function (serum creatinine level \\> 1.8 mg/dl or a glomerular filtration rate \\< 60 as approximated using serum creatinine levels within the last 30 days prior to the research scan) unless anuric and on dialysis\n* Any woman who is pregnant or has reason to believe she is pregnant (the possibility of pregnancy has to be excluded by negative urine \u03b2-HCG results, obtained within 24 hours prior to the research scan, or on the basis of patient history, as defined by the UNC IRB SOP 4801)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

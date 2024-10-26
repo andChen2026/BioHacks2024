@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04823871",
+    "briefTitle": "Early Detection of High Grade Ovarian Cancer Using Uterine Lavage EHUD Study and Duplex Sequencing",
+    "officialTitle": "Pilot Study of Early Detection of High Grade Ovarian Cancer Using Uterine Lavage and Duplex Sequencing",
+    "overallStatus": "COMPLETED",
+    "conditions": "Ovarian Epithelial Cancer, Carcinoma in Situ, Ovarian Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 406,
+    "primaryOutcomeMeasure": "Variant allele frequencies (VAF) for variants identified in both unfiltered and filtrate uterine lavage from the same patient.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent obtained\n* Age \u2265 18 years and \u2264 80 years\n* Women undergoing primary surgery for suspected High grade serous carcinoma (HGSC) If premenopausal in luteal phase (minimum 14 days after last day of menstrual period) or:\n* Women with high risk for breast or ovarian cancer (HBOC) undergoing prophylactic resection of tubes with or without ovaries. If premenopausal in luteal phase except amenorrhea under hormonal contraception (incl. levonorgestrel -IUD)\n\nExclusion Criteria:\n\n* Incapacitated women\n* Pregnant women\n* Prior hysterectomy\n* Prior bilateral salpingectomy\n* Prior tubal ligation\n* First half of menstrual cycle\n* Interval debulking\n* Current cytotoxic chemotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

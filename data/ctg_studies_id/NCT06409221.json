@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06409221",
+    "briefTitle": "VISION: Triple Negative Breast Cancer Sample and Clinical Data Acquisition Study",
+    "officialTitle": "VISION: Defining Biomarkers of Chemotherapy & Immunotherapy Response and Validation of the Breast Cancer Therapeutic Response Predictive Algorithm for Early Triple Negative Breast Cancers",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Cancer, Breast, Triple Negative Breast Cancer, Early-stage Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Validate accuracy of the Breast cancer therapeutic response predictive algorithm for predicting pathological complete response (pCR) in the early TNBC population treated with neoadjuvant chemotherapy.",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Age: \u2265 18 years\n* Mental Capacity: Individual should be able to give informed consent, if alive\n* Triple Negative Breast Cancer (TNBC)\n\n  * Oestrogen receptor (ER) negative with an Allred score of \u2264 2 or, equivalent pathology scoring system e.g., \u226410% (0 - 10%) tumour nuclei staining\n  * HER2 negative: 1+ on immunohistochemistry or 2+ immunohistochemistry and FISH/D-Dish negative\n  * Progesterone receptor (PgR) negative = PgR score of \u22642 or equivalent pathology scoring system e.g., \u226410% (0 - 10%) tumour nuclei staining\n  * Androgen receptor (AR) status (if known): negative or positive\n* TNBC phenotype: HER2 negative tumours with borderline ER or PgR scoring on immunohistochemistry e.g., ER 3/8 and PgR 0/3 negative which were managed as early TNBC can be included but should be discussed on a case-by-case basis prior to study registration with Principal Investigator.\n* Lymph node involvement: Lymph node negative or positive; any number including clinical/pathological N3 involvement (TNM staging \u2265 V.8.0)\n* Cancer Staging: Stage 2 or stage 3 breast cancer\n* Treated considered standard of care neoadjuvant chemotherapy: an anthracycline, a taxane, an alkylating agent, +/- a platinum, +/- immunotherapy\n* Available archival tissue samples\n\nKey Exclusion Criteria:\n\n* Stage IV de novo metastatic breast cancer are not eligible\n* Stage I breast cancers are not eligible\n* Women who were diagnosed with more than one cancer type within 3 years of the breast cancer diagnosis of TNBC are not eligible\n* Received neoadjuvant radiotherapy\n* Received neoadjuvant endocrine treatment\n* Women pregnant at the time of the TNBC diagnosis\n* Significant medical co-morbidities which could have influenced the participant's prognosis are excluded. Examples include cardiac failure, moderate - severe renal failure, active hepatitis, HIV, active TB, ischaemic heart disease etc.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

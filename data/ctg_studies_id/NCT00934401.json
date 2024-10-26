@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00934401",
+    "briefTitle": "Positron Emission Mammography With Fluorothymidine (FLT) to Evaluate Treatment Response to Chemotherapy in Breast Cancer",
+    "officialTitle": "Positron Emission Mammography With 3'-Deoxy-3'-[18F] Fluorothymidine (FLT PEM) for Evaluation of Response to Neoadjuvant Chemotherapy in Breast Cancer",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Uptake of FLT (SUV) within the tumor",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Ability to understand and willingness to sign a written informed consent document.\n2. Subject must have histologically confirmed breast cancer.\n3. Subject must be scheduled to receive neoadjuvant chemotherapy followed by surgery for their standard cancer care. Treatment decisions will be made by the treating surgeon and the medical oncologist.\n4. Females at least 18 years of age.\n5. Karnofsky at least 60% at time of screening.\n6. Life expectancy of greater than 6 months.\n7. Subject must have normal organ and marrow function (as defined below) within 30 days of study enrollment:\n\n   * leukocytes at least 3,000/microL\n   * absolute neutrophil count at least 1,500/microL\n   * platelets at least 100,000/microL\n   * total bilirubin Equal or less than 1.0 mg/dl\n   * AST(SGOT) no greater than 2.5 X institutional upper limit of normal\n   * ALT (SGPT) no greater than 2.5 X institutional upper limit of normal\n   * Creatinine Equal or less than 1.4 mg/dl\n   * BUN Equal or less than 20 mg /dl\n8. The effects of FLT on the developing human fetus are unknown. For this reason, women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation. Should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately. A screening urine hCG will be administered in the Nuclear Medicine to women of childbearing potential before each FLT scan and pregnant women will not be accepted as subjects in this study.\n\nExclusion Criteria:\n\n1. Subjects who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier.\n2. Subject with a Karnofsky score of below 60.\n3. Pregnant women are excluded from this study. FLT PET has potential for teratogenic effects. Because there are potentially unknown risks for adverse events in nursing infants secondary to treatment of the mother with FLT, breastfeeding should be discontinued if the mother is imaged with FLT and may not resume for 48 hours after the FLT imaging.\n4. Subjects taking nucleoside analog medications such as those used as antiretroviral agents.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

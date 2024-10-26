@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00501332",
+    "briefTitle": "Evaluation of Maxy-G34 in Breast Cancer Patients Treated With TAC (Docetaxel, Adriamycin, Cyclophosphamide) Chemotherapy",
+    "officialTitle": "A Phase IIa, Open Label, Controlled, Dose Ranging Study of Maxy-G34 as an Adjunct to TAC Chemotherapy in High-Risk Patients With Stage I, II, or IIIa Breast Cancer.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Chemotherapy-Induced Neutropenia, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "To determine the duration of grade 4 neutropenia after administration of Maxy-G34 in chemotherapy cycle 1.",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n1. Males and females at least 18 years of age\n2. Diagnosis of high-risk stage I, II or IIIa breast cancer suitable for adjuvant TAC chemotherapy as based on investigator judgment\n3. Candidates for TAC chemotherapy, and no prior treatment with anthracyclines\n\nKey Exclusion Criteria:\n\n1. Received chemotherapy within last 3 month prior to screening, or expected to receive any chemotherapy other than TAC and / or immunotherapy between screening and 30 days after last planned study drug administration\n2. Any clinically significant findings on history or examination that, in the opinion of the investigator, would preclude administration of TAC chemotherapy in the full dose, including abnormal liver function, inadequate cardiac function or clinically significant cardiac disease, neuropathy or other disease\n3. Prior bone marrow or peripheral blood hematopoietic stem cell transplant\n4. Any active cancer or history of prior malignancy within the last 5 years except carcinoma in situ of the cervix, basal cell carcinoma or squamous cell carcinoma of the skin or any surgically cured malignancy diagnosed 5 years or more before diagnosis of breast cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

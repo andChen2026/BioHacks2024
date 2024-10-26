@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02126449",
+    "briefTitle": "DIetary REstriction as an Adjunct to Neoadjuvant ChemoTherapy for HER2 Negative Breast Cancer",
+    "officialTitle": "DIetary REstriction as an Adjunct to Neoadjuvant ChemoTherapy for HER2 Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Fasting Mimicking Diet, Breast Cancer, Neoadjuvant Chemotherapy, Pathological Complete Response",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 131,
+    "primaryOutcomeMeasure": "The percentage of patients with grade III/IV toxicity according to the National Cancer Institute Common Terminology Criteria for Adverse Events version (NCI CTCAE) v4.03.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with stage II or III (cT1cN+ or \u2265T2 any cN, cM0) breast cancer receiving neoadjuvant AC-T\n* Measurable disease (breast and/or lymph nodes)\n* HER2 negative core biopsy Age \u226518 years\n* WHO performance status 0-2\n* Adequate bone marrow function : white blood cells (WBCs) \u22653.0 x 109/l, neutrophils \u22651.5 x 109/l, platelets \u2265100 x 109/l\n* Adequate liver function: bilirubin \u22641.5 x upper limit of normal (UNL) range, ALAT and/or ASAT \u22642.5 x UNL, Alkaline Phosphatase \u22645 x UNL\n* Adequate renal function: the calculated creatinine clearance should be \u226550 mL/min\n* Patients must be accessible for treatment and follow-up\n* Written informed consent according to the local Ethics Committee requirements\n* Willing to fill in quality of life questionnaires\n* Able to read and write in Dutch\n\nExclusion Criteria:\n\n* History of breast cancer (invasive or non-invasive)\n* Previous malignancy within 5 years, with exception of a history of a previous basal cell carcinoma of the skin or pre-invasive carcinoma of the cervix.\n* Serious other diseases such as recent myocardial infarction, clinical signs of cardiac failure or clinically significant arrhythmias\n* Diabetes Mellitus\n* Body mass index (BMI) \\< 19 kg/m2\n* Pregnancy or lactating\n* Significant food allergies which would make the subject unable to consume the food provided (ex: nuts or soy)\n* Any metabolic disorders that may affect gluconeogenesis or adaptation to short fasting periods.\n* Medical or psychological condition which in the opinion of the investigator would not permit the patient to complete the study or sign meaningful informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

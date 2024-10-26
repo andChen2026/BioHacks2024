@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00899574",
+    "briefTitle": "Imiquimod for Breast Cancer Patients With Chest Wall Recurrence or Skin Metastases",
+    "officialTitle": "Phase II Evaluation of Imiquimod, a Topical Toll-like Receptor 7 (TLR7) Agonist in Breast Cancer Patients With Chest Wall Recurrence or Skin Metastases",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Objective Response (Complete Clinical Response+ Partial Response)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with biopsy-confirmed breast cancer (prior histological documentation is acceptable).\n* Patients with measurable skin metastases (chest wall recurrence and/or non-chest wall skin metastases are eligible).\n* Skin metastases not suitable for or patient refusing definitive surgical resection and radiation.\n* (Cohort 1) Concurrent systemic cancer therapy (hormones, biologics or chemotherapy) is allowed if distant metastases have been non-progressing (stable or responding) on that regimen for \\> or = 12 weeks and skin metastases are non-responsive (stable or progressing) as assessed by the investigator.\n\n(Cohort 2) Any concurrent systemic therapy is allowed\n\n* Age at least 18 years.\n* Eastern Cooperative Oncology Group (ECOG) performance status \\< or = 2.\n* Patients must have biopsy-accessible tumor (skin metastases) and agree to biopsies required by protocol.\n* Patients must have adequate organ and bone marrow function as defined below:\n\n  * absolute neutrophil count \\> or = 1,500/microliter\n  * hemoglobin \\> or = 9.5 grams/deciliter\n  * platelets \\>or = 75,000/microliter\n  * total bilirubin \\< or = 1.5 X institutional upper limit of normal\n  * Aspartate aminotransferase (AST)/Alanine aminotransferase (ALT) \\< or = 2.5X institutional upper limit of normal\n  * creatinine \\< or = 1.5 X institutional upper limit of normal\n* Informed consent.\n\nExclusion Criteria:\n\n* Brain metastases unless resected or irradiated and stable \\> or = 8 weeks.\n* Treatment with other investigational agents.\n* Patients who have received radiotherapy, high-potency corticosteroids, intralesional therapy, laser therapy or surgery other than biopsy to the target area within 4 weeks prior to first dosing of study agent.\n* Patients who have received hyperthermia to the target area within 10 weeks prior to first dosing of study agent.\n* Patients with an uncontrolled bleeding disorder.\n* Patients who will be therapeutically anticoagulated with heparins or coumadin at the time of the biopsy (they are eligible if anticoagulation can be held prior to biopsy as per investigator). Patients on aspirin and other platelet agents are eligible.\n* Patients with known immunodeficiency or receiving immunosuppressive therapies.\n* History of allergic reactions to imiquimod or its excipients.\n* Uncontrolled intercurrent medical illness or psychiatric illness/social situations that would limit compliance with study requirements.\n* Pregnancy or lactation.\n* Women of childbearing potential not using a medically acceptable means of contraception.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

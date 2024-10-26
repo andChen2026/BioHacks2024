@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02455882",
+    "briefTitle": "Tissue Procurement Protocol for Patients Undergoing Treatment for Early-Stage Breast Cancer",
+    "officialTitle": "Tissue Procurement Protocol for Patients Undergoing Treatment for Early-Stage Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 14,
+    "primaryOutcomeMeasure": "Collection of samples for analysis of somatic mutations",
+    "eligibilityCriteria": "Entry Criteria for patients receiving neoadjuvant or adjuvant therapy (groups 1 and 2)\n\nInclusion Criteria\n\n* All patients must have a primary invasive breast cancer with the primary tumor intact (T2-4, any N, any M). Inflammatory breast cancer is permitted.\n* For the neoadjuvant cohort (group 1), the patient's clinical plan includes neoadjuvant systemic therapy (chemotherapy, hormonal therapy, and/or biologic therapy) prior to surgery on the breast.\n* For the adjuvant cohort (group 2), the patient's clinical plan includes surgical resection of the primary breast mass followed by adjuvant chemotherapy (with or without endocrine therapy or biologic therapy such as trastuzumab).\n* Patients in the neoadjuvant cohort must have had mammography performed at the University of Michigan, OR outside film review prior to enrollment.\n* All patients are required to sign an informed consent document regarding the experimental purpose of the research biopsies and serum banking, in accordance with the University of Michigan IRB standards.\n\nExclusion Criteria - For the neoadjuvant cohort (group 1): Tumors diagnosed by excisional biopsy, or incisional biopsy that does not leave at least 2 cm of measurable disease by physical examination, mammography, or ultrasound (with the exception of inflammatory breast cancer)\n\n- For the adjuvant cohort (group 2): Tumors diagnosed by excisional or incisional biopsy and which are not likely to have at least 2 cm of residual tumor remaining\n\n* Patients must not have received any prior chemotherapy, hormonal therapy, or radiation therapy for their current breast cancer. Patients who received tamoxifen or other agents for prevention of breast cancer may be included.\n* Patients with another active systemic malignancy within the past year.\n\nEntry Criteria for patients with newly diagnosed locoregional or distant disease recurrence (who did not enroll at the time of initial adjuvant or neoadjuvant chemotherapy) (group 3)\n\nInclusion Criteria\n\n* Patients must have been previously diagnosed with non-invasive or invasive breast cancer.\n* Patients must have been diagnosed with biopsy-proven recurrence of breast cancer at any site\n* All patients are required to sign an informed consent document regarding the experimental purpose of the research biopsies and serum banking, in accordance with the University of Michigan IRB standards.\n\nExclusion Criteria\n\n* Patients must not have received any chemotherapy, hormonal therapy, or radiation therapy for treatment of their recurrent breast cancer.\n* Patients must not have been diagnosed with another active systemic malignancy within the past year.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04865549",
+    "briefTitle": "Sentinel Node After Neoadjuvancy In Node-Positive Breast Cancer",
+    "officialTitle": "Sentinel Node After Neoadjuvancy In Node-Positive Breast Cancer: SANA Multicentric Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 90,
+    "primaryOutcomeMeasure": "Targetted axilary dissection detection rate in cN+ after neoadjuvant therapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age equal to or greater than 18 years\n* Patients with a diagnosis of T1-T3 primary infiltrating breast carcinoma\n* Axillary clinical involvement (cN +)\n* Confirmation by FNAC or BAG of lymph node involvement\n* Candidates for neoadjuvant chemotherapy including anthracyclines and taxanes\n\nExclusion Criteria:\n\n* T4 tumors\n* Supra / infraclavicular lymph node or internal mammary chain (cN3) involvement\n* Previous ipsilateral breast or axillary surgery\n* Distant metastasis at diagnosis (M1)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

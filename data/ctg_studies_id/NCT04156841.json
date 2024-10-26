@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04156841",
+    "briefTitle": "Sentinel Lymph Node Biopsy in Early Breast Cancer: a Real-world Multicenter Cross-sectional Study (CABS001 Study)",
+    "officialTitle": "Sentinel Lymph Node Biopsy in Early Breast Cancer: a Real-world Multicenter Cross-sectional Study (CABS001 Study)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Sentinel Lymph Node",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 21000,
+    "primaryOutcomeMeasure": "the performance rate of sentinel lymph node biopsy (SLNB) in patients with early stage breast cancer in China",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* breast cancer confirmed by fine needle aspiration or biopsy\n* SLNB with or without axillary lymph node dissection\n* receiving conventional systematic treatment or regional treatment\n* complete medical record.\n\nExclusion Criteria:\n\n* IV stage breast cancer\n* combined with secondary invasive malignant tumor\n* diagnosed with other serious disease, including congestive heart failure (NYHA cardiac function grade II, III, IV) or congestive heart failure, unstable angina pectoris, myocardial infarction, high-risk uncontrollable heart rate disorder or other serious cardiovascular diseases within 6 months\n* difficulty breathing at rest or need oxygen therapy\n* severe infection\n* uncontrolled diabetes\n* serious psychological or mental disorders\n* poor compliance.",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

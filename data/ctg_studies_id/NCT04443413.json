@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04443413",
+    "briefTitle": "Phase III Study of 5tx Vs 15tx of RT (x-rays or Protons) Including RNI in Breast Cancer Patients",
+    "officialTitle": "A Phase III Trial of Hypofractionated Radiotherapy to the Whole Breast or Post-Mastectomy Chest Wall Including Regional Nodal Irradiation",
+    "overallStatus": "RECRUITING",
+    "conditions": "Anatomic Stage I Breast Cancer AJCC V8, Anatomic Stage II Breast Cancer AJCC V8, Anatomic Stage III Breast Cancer AJCC V8",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 146,
+    "primaryOutcomeMeasure": "Complication rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\>= 18 years\n* Histological confirmation of breast cancer\n* Breast conserving surgery or mastectomy (reconstruction is allowed)\n* Clinical or pathologic T1-T4c, N0-3, M0 disease\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 to 2\n* Able to and provides Institutional Review Board (IRB) approved study specific written informed consent\n* Indications for breast or post mastectomy radiation with regional nodal radiotherapy per the discretion of the treating physician\n* If uncertain of eligibility please consult the principal investigator (PI)\n\nExclusion Criteria:\n\n* Medical contraindication to receipt of radiotherapy\n* Severe active co-morbid systemic illnesses or other severe concurrent disease which, in the judgment of the investigator or PI, would make the patient inappropriate for entry into this study or interfere significantly with the proper assessment of safety and toxicity of the prescribed regimens\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements or providing informed consent\n* Active systemic lupus or scleroderma\n* Prior receipt of ipsilateral breast or chest wall radiation\n* Persistent positive margins on ink after definitive surgery either for ductal carcinoma in situ (DCIS) or invasive cancer\n* No active metastatic disease from other origin\n* Recurrent breast cancer\n* Patient requires bilateral breast radiation treatment\n* cT4d patients (inflammatory breast cancer)\n* Patients that may not be compliant or fit for the study at the discretion of the PI\n* Male patients",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

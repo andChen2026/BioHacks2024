@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04936243",
+    "briefTitle": "TIPOPS (Telemedicine vs In Person Oncology Patient Surveillance)",
+    "officialTitle": "A Randomized Control Trial of Telemedicine vs In Person Oncology Patient Surveillance",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Prostate Cancer, Patient Engagement, Patient Preference, Patient Satisfaction",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Patient Experience Comparison",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* For breast cancer participants: Early-stage breast cancer defined as Stages I-IIIA at diagnosis or localized prostate cancer defined as Stages I-III\n* For breast cancer participants: participant has completed definitive treatment for early stage breast cancer including surgery, radiation, chemotherapy, anti-HER2 antibody treatment. Participant may or may not be taking oral anti-estrogen treatment such as tamoxifen or an aromatase inhibitor\n* For prostate cancer participants: participant is on active surveillance or has undergone definitive surgery for localized prostate cancer\n* Participant is on a surveillance follow up visit schedule occurring at every three to seven month intervals\n* Willingness and ability to use Patient Gateway portal\n* Participant has access to an electronic device that can support a video and audio virtual visit platform (for example, laptop computer, desktop computer, smart phone)\n* Participants can be women or men\n* Age \u2265 18 years\n\nExclusion Criteria:\n\n* Patients whose next visit requires cytotoxic chemotherapy, radiation therapy, anti-HER2 antibody therapy or investigational cancer agents are ineligible\n* Patients with distant metastatic breast cancer\n* Patients with locally advanced or metastatic prostate cancer\n* Patients treated by radiation therapy for prostate cancer\n* Patients whose next visit requires a prostate biopsy\n* Prisoners\n* Non-English speaking patients (non-English speaking patients will be excluded from the trial given the challenges of delivering telemedicine with the use of medical interpreters. There are also logistical challenges in obtaining the study endpoints, which are largely survey based, with non-English speakers as well as the possibility that study endpoints will be influenced by the presence of a medical interpreter during a visit).",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

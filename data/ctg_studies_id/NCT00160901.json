@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00160901",
+    "briefTitle": "Complementary Therapies for the Reduction of Side Effects During Chemotherapy for Breast Cancer",
+    "officialTitle": "Prospective Randomized Trial With Complementary Therapies During Chemotherapy at the Women's Hospital of the University of Heidelberg",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Difference in the sum score of the most common side effects of a chemotherapy (fatigue, nausea, loss of appetite, constipation, diarrhea) measured by the EORTC QLQ C30 3-5 weeks after and before 3 cycles of chemotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Indication for chemotherapy for breast cancer for at least 3 cycles\n\nExclusion Criteria:\n\n* Prior chemotherapy within 12 months\n* use of herbal or nutritional supplements or other complementary or alternative medications \u2265 7 days prior to start of chemotherapy and during the trial\n* allergy to study medication\n* Selenium intoxication\n* Current use of cumarins or other medication influencing the coagulation system\n* Edema in case of impaired cardial or renal function\n* Other severe medical condition\n* Psychiatric or central neurological disorders\n* Regular fluid intake \\< 2000 ml per day",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

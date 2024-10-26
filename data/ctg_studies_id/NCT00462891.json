@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00462891",
+    "briefTitle": "A Mammography FastTrack Program in Increasing the Number of Women Undergoing Breast Cancer Screening",
+    "officialTitle": "Breast Cancer Screening and Follow-Up in a PBRN: The Mammography FastTrack Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 6730,
+    "primaryOutcomeMeasure": "Proportion of overdue patients completing mammography screening in intervention and control groups",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Any outpatient at a participating Massachusetts General Primary Care Practice-Based Research Network (MGPC-PBRN) practice within the past 3 years\n\n  * No patient who the Massachusetts General Hospital system lists as having a primary care provider who is not in one of the MGPC-PBRN networks (linking patients with a provider or practice)\n  * No patient who is not linked to specific provider or practice (randomized portion of study)\n* Billing, scheduling, and clinical electronic data sources required\n* No mammogram within the past 2 years (randomized portion of study)\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Age 42 to 69 years (randomized portion of study)\n* Female\n* Menopausal status not specified\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior bilateral mastectomy (randomized portion of study)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

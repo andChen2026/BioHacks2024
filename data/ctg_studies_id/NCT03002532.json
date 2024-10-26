@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03002532",
+    "briefTitle": "Hippocampal-sparing Whole Brain Radiotherapy for Brain Metastases From Breast Cancer",
+    "officialTitle": "Whole Brain Irradiation With Hippocampal Sparing for Brain Metastases From Breast Cancer: Neurocognitive Function and Prognosis Analysis",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Metastatic, Brain Metastases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "neurocognitive function",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with advanced breast cancer who is confirmed historically.\n* New developing brain metastases (BM) is confirmed by gadolinium contrast-enhanced magnetic resonance imaging (MRI), with or without clinical symptoms and pathology, and without a history of BM treatment.\n* At least 2 BM lesions with the diameter of the largest lesion \\< 40 mm is eligible. And the distance from the border of a mass to the hippocampal margin should be more than 15 mm.\n* The Eastern Cooperative Oncology Group (ECOG) is from 0 to 2, and the expected life expectancy is \u22653 months.\n\nExclusion Criteria:\n\n* Concurrent chemoradiation.\n* Patient who had received cranial irradiation previously.\n* Patient who are enrolled in other clinical trial at the same time.\n* Patient who has severe co-morbidity or infection.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

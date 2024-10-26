@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01381874",
+    "briefTitle": "A Study of Abiraterone Acetate Plus Prednisone With or Without Exemestane in Postmenopausal Women With Estrogen Receptor-Positive (ER+) Metastatic Breast Cancer Progressing After Letrozole or Anastrozole Therapy",
+    "officialTitle": "Randomized, Open-Label Study of Abiraterone Acetate (JNJ-212082) Plus Prednisone With or Without Exemestane in Postmenopausal Women With ER+ Metastatic Breast Cancer Progressing After Letrozole or Anastrozole Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic ER+ Her2- Breast Cancer, Postmenopausal",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 297,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients must be postmenopausal\n* ER+, Human epidermal growth factor receptor 2 (Her2) negative metastatic breast cancer\n* Disease must have been sensitive to anastrozole or letrozole therapy prior to disease progression\n* No more than two prior lines of therapy in the metastatic setting, of which no more than one was chemotherapy\n* Eastern Cooperative Oncology Group (ECOG) performance status score of \\<=1\n* Patients with disease confined only to bone may be included, but patients with purely sclerotic lesions may not participate in the study\n\nExclusion Criteria:\n\n* Prior treatment with exemestane, ketoconazole, aminoglutethimide, or a CYP17 inhibitor. Prior treatment with ketoconazole for \\<= 7 days is permitted and topical formulations of ketoconazole are permitted\n* Potential patients must not have taken anastrozole, letrozole, fulvestrant, or any chemotherapy for at least 2 weeks (bevacizumab for at least 3 weeks) before randomization\n* Anticancer immunotherapy or investigational agent within 4 weeks before randomization, or anticancer radiotherapy (except palliative) or anticancer endocrine therapy within 2 weeks before randomization\n* Serious or uncontrolled nonmalignant disease, including active or uncontrolled infection\n* Clinical or biochemical evidence of hyperaldosteronism or hypopituitarism\n* Any condition that, in the opinion of the investigator, would compromise the well-being of the patient or that could prevent, limit, or confound the protocol-specified assessments",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02489448",
+    "briefTitle": "Neoadjuvant MEDI4736 Concomitant With Weekly Nab-paclitaxel and Dose-dense AC for Stage I-III Triple Negative Breast Cancer",
+    "officialTitle": "Single Arm Neoadjuvant Phase I/II Study of MEDI4736 (Anti-PD-L1 Antibody) Concomitant With Weekly Nab-paclitaxel and Dose-dense Doxorubicin/Cyclophosphamide (ddAC) Chemotherapy for Clinical Stage I-III Triple Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 68,
+    "primaryOutcomeMeasure": "Pathologic Complete Response (pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Newly diagnosed histologically confirmed stage I-III, ER, PR and HER2 negative invasive breast cancer as defined by the ASCO CAP guidelines for whom systemic chemotherapy would be indicated based on physician judgment following standard NCCN practice guidelines.\n2. Willing and able to provide written informed consent for voluntary participation in the trial.\n3. Willing to undergo a baseline tumor core needle biopsy and blood draws for correlative science studies.\n4. Eighteen years of age or older on the day of signing informed consent.\n5. Female subjects must either be of non-reproductive potential or must have a negative urine or serum pregnancy test upon study entry.\n6. Patients should have adequate organ function to tolerate chemotherapy, as defined by:\n\n   * peripheral granulocyte count of \\> 1,500/mm3\n   * platelet count \\> 100,000/mm3\n   * hemoglobin \\>9 g/dL\n   * total bilirubin \\< 1.5 x upper limit of normal (ULN)\n   * aspartate aminotransferase (AST) and alanine aminotransferase (ALT) each \\< 1.5 x ULN\n   * serum creatinine \\< 1.5 x ULN or serum creatinine clearance \\< 50mL/min\n   * INR/PT/PTT each \\< 1.5 x ULN\n   * TSH within normal limits\n\nExclusion Criteria:\n\n1. Patients who underwent partial excisional biopsy or lumpectomy, segmental mastectomy or modified radical mastectomy or sentinel node.\n2. Patients for whom anthracycline, paclitaxel or antibody therapies are contraindicated.\n3. Patients with active autoimmune disease or documented autoimmune disease within 2 years. Patients with hypothyroidism that is clinically stable and have normal TSH levels with hormone replacement, or patients with vitiligo or psoriasis not requiring treatment remain eligible for the study.\n4. Active or prior documented inflammatory bowel disease (Crohn's disease, ulcerative colitis).\n5. Patients with known active hepatitis B or C or HIV infection or with history of tuberculosis.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

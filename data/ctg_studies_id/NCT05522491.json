@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05522491",
+    "briefTitle": "Olaparib in the Treatment of BRCA1/2 Unmutated and BRCA1 Promoter Methylated Recurrent and Metastatic Triple-negative Breast Cancer",
+    "officialTitle": "An Open-label, Single-arm, Single-center Exploratory Clinical Study of Olaparib in the Treatment of BRCA1/2 Unmutated and BRCA1 Promoter Methylated Recurrent and Metastatic Triple-negative Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Solid Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "ORR ORR",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 1. Age 18-70 years old, female; 2. Histologically confirmed recurrent and metastatic TNBC patients without BRCA1/2 mutation and BRCA1 promoter methylation.\n\nNote: Triple-negative breast cancer is defined as estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor receptor (HER2) negative. ER and PR negative were defined as: ER\\<1% positive, PR\\<1% positive. HER2 negativity was defined as: HER2 (-) or (1+) or HER2 (2+) FISH negative by immunohistochemistry.\n\n3. The number of treatment lines at the stage of recurrence and metastasis should not exceed 2 lines.\n\n4. According to RECIST1.1 criteria, there is at least one evaluable lesion; 5. ECOG physical condition score \u2264 1 point; 6. Expected survival period \u2265 3 months;\n\nExclusion Criteria:\n\n* 1. Pregnant, breastfeeding women, or those who are fertile and unwilling to take effective contraceptive measures; 2. Patients who have received chemotherapy, radiotherapy, targeted therapy and other anti-tumor treatments within 4 weeks before enrollment; 3. Previous use of PARP inhibitors, including olaparib and other PARP inhibitors; 4. Known serious cardiovascular disease, myocardial infarction, or arterial thrombosis, or unstable angina pectoris, or known heart failure in the past 6 months, QT interval\\>450ms; 5. The toxicity of the previous treatment regimen has not recovered before enrollment, and there are still toxic reactions of grade 1 or above (except for alopecia); 6. Clinically obvious gastrointestinal abnormalities that may affect the intake, transport or absorption of drugs (such as inability to swallow, chronic diarrhea, intestinal obstruction, etc.) or patients with total gastrectomy; 7. Patients with known or suspected brain metastases, including central nervous system and spinal cord compression or meningeal metastases; 8. History of severe central nervous system disease (including epilepsy patients); 9. In the past 5 years, suffering from a second primary malignant tumor other than breast cancer and receiving related treatment; 10. Known congenital or acquired immunodeficiency, active hepatitis, active tuberculosis and other active infections; 11. Patients who are allergic to this test drug or similar drugs; 12. Those who have participated in clinical trials of other drugs within 28 days before screening, or plan to participate in any other clinical trials during this study; 13. Any other disease or condition of clinical significance (such as active or uncontrolled infection, etc.) that the investigator believes may affect compliance with the protocol or affect the patient's signing of ICF",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

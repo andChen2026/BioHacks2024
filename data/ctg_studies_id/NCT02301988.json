@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02301988",
+    "briefTitle": "A Study of Ipatasertib (GDC-0068) in Combination With Paclitaxel as Neoadjuvant Treatment for Participants With Early Stage Triple Negative Breast Cancer",
+    "officialTitle": "A Phase II Randomized, Double-Blind, Study of Ipatasertib (GDC-0068), an Inhibitor to AKT, in Combination With Paclitaxel as Neoadjuvant Treatment for Patients With Early Stage Triple Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 151,
+    "primaryOutcomeMeasure": "Percentage of Participants With Pathological Complete Response (pCR) in Breast and Axilla as Defined by ypT0/Tis ypN0 in the American Joint Committee on Cancer Staging System (in All Participants)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Premenopausal or postmenopausal women\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Histologically documented, Stage Ia to operable Stage IIIa, triple-negative carcinoma of the breast with primary tumor greter than or equal to (\\>/=) 1.5 centimeters (cm) in largest diameter (cT1-3) by MRI\n* Adequate hematologic and organ function within 14 days before the first study treatment\n* Availability of tumor tissue from formalin-fixed, paraffin-embedded (FFPE) core biopsy of breast primary tumor\n* For female participants of childbearing potential, agreement to use highly effective form(s) of contraception for the duration of the study and for at least 6 months after last dose of study treatment\n\nExclusion Criteria:\n\n* Known human epidermal growth factor 2 (HER2)-positive, estrogen receptor (ER)-positive, or progesterone receptor (PgR)-positive breast cancer\n* Any prior treatment for the current primary invasive breast cancer\n* Participants with cT4 or cN3 stage breast tumors\n* Metastatic (Stage IV) breast cancer\n* Bilateral invasive breast cancer\n* Multicentric breast cancer\n* Any disease, metabolic dysfunction, physical examination finding, or clinical laboratory finding that contraindicates the use of an investigational drug or that may affect the interpretation of the results or render the participant at high risk from treatment complications",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

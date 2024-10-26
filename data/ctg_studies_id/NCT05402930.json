@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05402930",
+    "briefTitle": "Angiomammography and Neoadjuvant Chemotherapy",
+    "officialTitle": "Usefulness of Angiomammography for Predicting the Response to Neoadjuvant Chemotherapy in Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Number of patients with a pCR accoreding to angiomammography, based on a 50% reduction in lesion size at angiomammography",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female aged 18 and over\n* Histologically proven breast cancer by large gauge needle\n* No evidence of distant metastasis\n* Neoadjuvant chemotherapy with or without concomitant targeted therapy\n* Breast tumor initially measurable by clinical examination\n\nExclusion Criteria:\n\n* Refusal to perform the biopsy or surgery\n* Pregnant or possibly pregnant woman\n* Usual contraindication to contrast product\n\n  * Significant kidney failure\n  * Allergy to contrast medium\n* frank hyperthyroidism\n* Usual contraindications to MRI",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

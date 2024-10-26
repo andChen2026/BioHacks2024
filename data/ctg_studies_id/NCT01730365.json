@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01730365",
+    "briefTitle": "Optical Detection of Malignancy During Percutaneous Interventions",
+    "officialTitle": "Discrimination of Benign and Malignant Human Tissue During Percutaneous Interventions Using Optical Spectroscopy Techniques",
+    "overallStatus": "COMPLETED",
+    "conditions": "Pulmonary Coin Lesion, Colon Cancer Liver Metastasis, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 104,
+    "primaryOutcomeMeasure": "Differentiation between normal and malignant tissue",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with a suspicious lesion in lung or liver who are scheduled for a standard core biopsy procedure\n* Patient planned for percutaneous RFA of colorectal liver metastasis\n* Written informed consent\n* Patients \u2265 18 years old\n* Breast patients with a BIRADS score 4 or 5\n\nGeneral Exclusion criteria:\n\n* Patients who have higher risk of bleeding\n* Patients with suspected sensitivity to light; e.g. patients who have had photodynamic therapy\n\nBreast Specific Exclusion criteria:\n\n* Patients who have a history of breast cancer and/or who have received prior chemotherapy, endocrine therapy, or radiation therapy\n* Patients who have breast implants\n* Patients needing a stereotactic breast biopsy (i.e. non palpable-, ultrasound opaque lesions)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

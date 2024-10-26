@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03282825",
+    "briefTitle": "Clinical Study of Decitabine and Paclitaxel Combination Therapy",
+    "officialTitle": "An Open-labelled, Parallel, Multiple Ascending Dose, Phase Ib Clinical Study of Decitabine and Paclitaxel Combination Therapy in Treating Patients With Metastatic and Locally Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 18,
+    "primaryOutcomeMeasure": "Maximum Tolerant Dose (MTD) and Dose Limiting Toxicity (DLT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. age \u2265 19 years as female\n2. be unable to operate for therapy with HER2 negative breast adenocarcinoma and metastatic breast cancer, one or more chemotherapy\n3. according to RECIST ver.1.1, one or more evaluable lesion\n4. Eastern cooperative oncology group(ECOG) performance score is o or 1\n5. lesion for core biopsy\n6. Within 28days of planned first study treatment day, laboratory safety test is satisfied. ANC \u22651500cells/microliter, Platelet count \u2265 100,000 cells/microliter, Hemoglobin\u22658.5g/dl, ALT and AST \u2264 2ULN, ALP\u22642.5ULN, Serum total bilirubin\u22641.25 ULN, PT-INR and aPTT\u22641.5ULN, Creatinine\u226550ml/min\n7. menopause or informed that effective contraception must be used during the entire treatment period of this study and for 6 months after exiting from the study\n8. Given signed and dated written informed consent form\n\nExclusion Criteria:\n\n1. Symptomatic metastasis and Leptomeningeal metastasis\n2. Injection of paclitaxel for metastatic breast cancer within 6 months\n3. HER2, Positive Breast adenocarcinoma\n4. cancertherapy for whole body within 3 weeks\n5. radiotherapy for metastatic region within 4 weeks\n6. major surgery, open biopsy and trauma within 4 weeks\n7. less than 4 weeks post major surgery\n8. treatment with consistently systemic corticosteroid or immunosuppressive drug\n9. more than 2 grade for peripheral neuropathy\n10. Congenital ling QT syndrome or QTc interval \\> 480 milisecond\n11. occur myocardial infartion within 6 months\n12. unstable angina pectoris\n13. HIV(+) or AIDS\n14. HBsAg(+) or HCV(+)\n15. treatment bisphosphonate for hypercalcemia\n16. except metastatic and locally advanced breast cancer, personal history with malignancy within 5 years\n17. hypersensitivity reaction with paclitaxel or Cremophor EL formulation\n18. Pregnant or breast feeding\n19. be unable or unwilling to abide by the study protocol or to cooperate fully with the investigator or designee",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

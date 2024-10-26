@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01432223",
+    "briefTitle": "Primary Chemotherapy With Anthracycline Followed by Nab-paclitaxel and Trastuzumab",
+    "officialTitle": "Phase II Study of Primary Chemotherapy With Anthracycline-based Regimen Followed by Nab-paclitaxel and Trastuzumab in Patients With HER2 Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, HER-2 Positive Breast Cancer, Effects of Chemotherapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "To evaluate the pathological complete response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed invasive breast cancer\n* T1c-3 N0-2a\n* Confirmed of hormonal receptor status\n* HER2 positive confirmed by IHC 3+ or FISH+\n* LVEF \\> 50% by echocardiogram or MUGA\n* Adequate EKG\n* No prior treatment for breast cancer\n* PS 0-1\n* Required baseline laboratory data WBC \\> 4,000/mm3 and Neut \\> 2,000/mm3 PLT \\> 100,000/mm3 Hb \\> 9.0g/dl AST and ALT \\< ULNx2.5 T-Bil \\< 1.5mg/dl Serum creatinin \\< 1.5mg/dl\n* Written informed consent\n\nExclusion Criteria:\n\n* With history of hypersensitivity reaction for important drug in this study\n* With history of invasive breast cancer\n* Bilateral invasive breast cancer\n* Patients with medical conditions that renders them intolerant to primary chemotherapy and related treatment, including infection, diarrhea, intestinal paralysis, severe Diabetes Mellitus\n* Positive for HBs antigen and with history of HVB\n* With history of congestive heart failure, uncontrolled or symptomatic angina pectoris, arrhythmia or myocardial infarction, poorly controlled hypertension\n* With severe edema\n* With severe peripheral neuropathy\n* With severe psychiatric disorder\n* Pregnant or nursing women\n* Cases who physician judged improper to entry this trial",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

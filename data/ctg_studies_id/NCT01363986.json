@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01363986",
+    "briefTitle": "A Study of Herceptin (Trastuzumab) in Combination With Whole Brain Radiotherapy in Patients With HER-2 Positive Breast Cancer",
+    "officialTitle": "A Multicenter, Open Label Study to Assess the Effect of Trastuzumab + Whole Brain Radiotherapy (WBRT) on Brain Metastases From HER-2 Positive Breast Cancer. (bHERt-2)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 3,
+    "primaryOutcomeMeasure": "Number of Participants With Brain Objective Response According to Response Evaluation Criteria In Solid Tumors (RECIST) Criteria at Cycle 7",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients, \\>/=18 years of age\n* Diagnosis of breast carcinoma with HER-2 overexpression\n* At least one measurable brain metastasis\n* Patients for whom, according to investigator assessment, whole brain radiotherapy is the best therapeutic option\n* Performance status (WHO) \\</=2\n* Life expectancy \\>/=3 months\n\nExclusion Criteria:\n\n* Presence of neoplastic meningitis\n* Any prior radiotherapy to the brain\n* Patients for whom, according to investigator assessment, stereotactic radiotherapy is the best therapeutic option\n* Previous neoplasms, other than breast carcinoma, within 5 years since enrolment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

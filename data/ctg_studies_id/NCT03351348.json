@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03351348",
+    "briefTitle": "Bupivacaine vs Placebo for Unilateral Mastectomy Surgical Site Post-operative Pain Control",
+    "officialTitle": "Double Blind, Randomized, Placebo Controlled Trial of Locally Instilled Bupivacaine in the Surgical Bed After Unilateral Mastectomy Without Reconstruction",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 144,
+    "primaryOutcomeMeasure": "number of patients that have moderate to severe pain",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females \u2265 18 years of age\n* Patients undergoing unilateral mastectomy with or without SLNB or axillary dissection\n* Patients scheduled for surgery at the JRSC or MSK Monmouth\n* Previously enrolled patients \\> 6 months from contralateral mastectomy\n\nExclusion Criteria:\n\n* Male breast cancer patients\n* Patients who are non-English speaking\n* Patients having any immediate breast reconstructive procedure\n* Patients are having bilateral mastectomy\n* Patients who report a baseline pain score \\> 3, unrelated to a breast procedure\n* Patients who take long acting opioid medication use\n* Patients will be excluded if they are having their mastectomy performed with tumescence\n* Patients weighing \\< 40kg as 20cc of bupivacaine 0.5% is greater than the maximum allowed dose\n* Patients within 6 months of previous enrollment for surgery for contralateral mastectomy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

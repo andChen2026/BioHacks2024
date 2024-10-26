@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01949376",
+    "briefTitle": "Mild Cognitive Impairment in Breast Cancer Patients",
+    "officialTitle": "Hippocampal Predictors of Cognitive Impairment (HippoPCI) in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Cognitive Impairment",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 84,
+    "primaryOutcomeMeasure": "Rates of change in cognitive function from before treatment to after treatment initiation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, within the age range of 40-70\n* HT Patients - any stage of breast cancer without brain metastasis, will undergo hormonal therapy without chemotherapy\n* CT and HT Patients - any stage of breast cancer without brain metastasis, will undergo chemotherapy and hormonal therapy\n* CT Patients - any stage of breast cancer without brain metastasis, has undergone surgery prior to screening, will undergo chemotherapy without hormonal therapy\n* RT or NT Patients - any stage of breast cancer without brain metastasis, will not undergo chemotherapy or hormonal therapy; may undergo radiation therapy or have no therapy\n* Controls - cognitively normal on the basis of annual neuropsychological and research neurological examinations done as part of the Uniform Data Set (UDS), of the NIA Alzheimer's Disease Centers (ADC) program, recruited from the NU CNADC Clinical Core.\n* All subjects must have given signed, informed consent prior to registration on study.\n\nExclusion Criteria:\n\n* Individuals who report significant medical, neurologic, or psychiatric illness, including but not limited to:\n* Major depression\n* Schizophrenia\n* ADHD\n* Autism\n* Alzheimer's disease\n* Dementia\n* Obsessive-compulsive disorder\n* Post-traumatic stress disorder\n* Individuals with an Inventory of Depressive Symptomatology - Self Report (IDS-SR) score of 30 or higher, since this level of depression could affect cognitive test performance.\n* Brain surgery or head injury\n\n  * Individuals reporting previous head injury\n  * Individuals requiring neurosurgical procedures\n* Ineligibility for MRI scanning, including but not limited to:\n\n  * Individuals who have non-MRI compatible medical implants or devices\n  * Individuals who have any potential metal in their bodies\n  * Individuals who have claustrophobia\n  * Individuals with permanent makeup\n* Individuals reporting consumption of drugs that would affect cognition (neuropsychiatric or illicit)\n* Individuals indicating a history of breast cancer will be excluded from the healthy control group\n* Women who are pregnant or are planning to become pregnant during study.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

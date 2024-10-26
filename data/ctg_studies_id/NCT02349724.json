@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02349724",
+    "briefTitle": "A Clinical Research of CAR T Cells Targeting CEA Positive Cancer",
+    "officialTitle": "A Clinical Research of Chimeric Antigen Receptor(CAR) T Cells Targeting CEA Positive Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Lung Cancer, Colorectal Cancer, Gastric Cancer, Breast Cancer, Pancreatic Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 75,
+    "primaryOutcomeMeasure": "Adverse events of each patient.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Relapsed or refractory CEA positive lung cancer, pancreatic cancer, gastric cancer, breast cancer and colorectal cancer.\n2. KPS\\>60.\n3. Life expectancy\\>3 months.\n4. Gender unlimited, age from 18 years to 80 years.\n5. Disease progresses but reserves reaction to recent treatments.\n6. Patients who have failed at least one line of a standard treatment.\n7. No serious mental disorder.\n8. Patients must have adequate cardiac function(no cardiac disease, LVEF\u226540% ), adequate pulmonary function as indicated by room air oxygen saturation of \\>94%, and adequate renal function(Cr\u2264133umol/L).\n9. No other serious diseases(autoimmune disease, immunodeficiency etc.).\n10. No other tumors.\n11. Patients volunteer to participate in the research.\n\nExclusion Criteria:\n\n1. KPS\\<50.\n2. Patients are allergic to cytokines.\n3. MODS.\n4. Uncontrolled active infection.\n5. Acute or chronic GVHD.\n6. Treated with T cell inhibitor.\n7. Pregnancy and nursing females.\n8. HIV affected.\n9. Other situations we think improper for the research.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

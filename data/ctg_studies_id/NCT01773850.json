@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01773850",
+    "briefTitle": "Comparison of Stationary Breast Tomosynthesis and 2-D Digital Mammography in Patients With Known Breast Lesions",
+    "officialTitle": "Comparison of Carbon Nanotube X-ray Stationary Digital Breast Tomosynthesis and 2-D Digital Mammography in Patients With Known Breast Lesions.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 54,
+    "primaryOutcomeMeasure": "Receiver Operative Curve (ROC) Area Under the Curve (AUC) (percentage)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women at least 18 years old.\n* Scheduled for breast biopsy of at least one breast lesion.\n* Lesion detected on mammogram.\n* Symptomatic by patient self-report, patient self-breast exam or clinical exam.\n* Able to provide informed consent.\n\nExclusion Criteria:\n\n* Male. (It is uncommon for men to present for imaging and the overwhelming majority of findings are non-cancerous and do not lead to biopsy; male breast cancer represents \\<1% of newly diagnosed breast cancer)\n* Less than 18 years of age.\n* Patient unable to give consent.\n* Institutionalized subject (prisoner or nursing home patient).\n* Any woman who is pregnant or has reason to believe she is pregnant or any woman who is lactating",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

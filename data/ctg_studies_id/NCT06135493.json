@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06135493",
+    "briefTitle": "Prevention of Paclitaxel-induced Peripheral Neuropathy in Breast Cancer Patients",
+    "officialTitle": "Efficacy of Losartan in the Prevention of Paclitaxel-induced Peripheral Neuropathy in Breast Cancer Patients.",
+    "overallStatus": "RECRUITING",
+    "conditions": "Peripheral Neuropathy Due to Chemotherapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 84,
+    "primaryOutcomeMeasure": "Development of paclitaxel-induced peripheral neuropathy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females older than 18 years diagnosed with biopsy-confirmed breast cancer (Early breast cancer eligible for adjuvant or neoadjuvant) who are scheduled to receive paclitaxel 80 mg/m2.\n\nExclusion Criteria:\n\n* Known hypersensitivity to Losartan.\n* Not Known Hypertensive patients\n* Not Known Diabetic patients\n* Treatment with Losartan/ARBs/ACE-I prior to the study.\n* Previous neuropathy\n* Renal impairment (Serum creatinine \\> 2 mg/dl)\n* Significant liver disease: liver enzymes 2 folds the upper normal limit\n* Metastatic breast cancer\n* Pregnancy or lactation\n* Taking other medication for neuropathic pain\n* Significant Hypotension",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

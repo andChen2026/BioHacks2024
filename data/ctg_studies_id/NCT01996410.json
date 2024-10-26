@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01996410",
+    "briefTitle": "The Efficacy of Acupuncture in Treating Chemotherapy Side Effects in Breast Cancer Patients",
+    "officialTitle": "The Efficacy of Acupuncture in Treating Chemotherapy Side Effects in Breast Cancer Patients",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer Stages I Through III",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "MDASI Score of Chemotherapy-associated Symptoms With Acupuncture Treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 18 years or older\n* English speaking/reading/writing\n* Breast cancer stages I through III\n* Any performance status suitable for chemotherapy as determined by the physician\n* Primary or secondary chemotherapy, but enrolling patients prior to a chemotherapy regimen regardless of previous radiation therapy exposure and/or previous mastectomy.\n* Scheduled to receive either of the following two regimens:\n* Adriamycin (60 mg/m2), Cytoxan (600 mg/m2), Taxol (175 mg/m2)\n* Adriamycin (60 mg/m2), Cytoxan (600 mg/m2), Taxol (80 g/m2)\n* Taxotere (75mg/m2), Cytoxan (600 mg/m2)\n* Taxotere (75 mg/m2), Carboplatin (AUC 6), Perjeta (840 mg loading fixed dose, followed by 420 mg maintenance fixed dose)\n\nExclusion Criteria:\n\n* History of narcolepsy\n* Sleep apnea requiring continuous positive airway pressure (CPAP)\n* Other acupuncture treatment within one month of enrollment\n* Acupuncture treatment for chemotherapy in the past\n* Current participation in any other research studies",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

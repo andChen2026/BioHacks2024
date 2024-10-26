@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00428896",
+    "briefTitle": "A Feasibility Study With Iressa in Resistant Cytokeratin-Positive Tumor Cells Circulating in the Blood of Women With Breast Cancer",
+    "officialTitle": "A Pilot Feasibility Study to Evaluate the Efficacy of ZD1839 (IRESSA) in Eliminating Chemo- and Hormone- Resistant Cytokeratin-Positive Tumour Cells Circulating in the Blood of Women With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Efficacy of ZD1839 by quantitative analysis of CK-19 mRNA CTCs",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Provision of written informed consent\n* Histologically or cytologically confirmed breast cancer\n* Metastatic breast cancer (stage IIIB and IV)\n* Patients should have received at least one course of standard systemic chemotherapy for their metastatic disease. There should be at least one month between end of chemotherapy treatment and trial entry.\n* ER+ve patients should have received adjuvant hormonal treatment\n* Detection of CK-19 mRNA positive cells in the blood by real time PCR despite the previous administration of chemotherapy and if appropriate hormonal therapy\n* Aged 18 years and over\n* Paraffin-embedded tissue available for tumour histology (EGFR testing, ER, PgR, Her-2-neu testing)\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 to 2\n* Patients willing to undergo regular detection of circulating occult tumour cells in the blood by immunocytochemistry and/or RT-PCR\n* Life expectancy of at least 12 weeks\n\nExclusion Criteria:\n\n* Any concurrent systemic treatment for breast cancer (including chemotherapy, radiotherapy, hormonotherapy, monoclonal antibodies)\n* Known severe hypersensitivity to ZD1839 or any of the excipients of this product\n* Any evidence of clinically active interstitial lung disease (patients with chronic, stable, radiographic changes who are asymptomatic need not be excluded)\n* Other co-existing malignancies or malignancies diagnosed within the last 5 years with the exception of basal cell carcinoma or cervical cancer in situ\n* Any unresolved chronic toxicity greater than common toxicity criteria (CTC) grade 2 from previous anticancer therapy (except alopecia)\n* Serum bilirubin greater than 1.5 times the upper limit of reference range (ULRR)\n* As judged by the investigator, any evidence of severe or uncontrolled systemic disease (e.g., unstable or uncompensated respiratory, cardiac, hepatic, or renal disease)\n* Alanine amino transferase (ALT) or aspartate amino transferase (AST) greater than 3 times the ULRR.\n* Evidence of any other significant clinical disorder or laboratory finding that makes it undesirable for the subject to participate in the study\n* Pregnancy or breast feeding (women of child-bearing potential). Women of childbearing potential must practice acceptable methods of birth control to prevent pregnancy\n* Concomitant use of phenytoin, carbamazepine, rifampicin, barbiturates, or St John's Wort\n* Treatment with a non-approved or investigational drug within 30 days before Day 1 of study treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

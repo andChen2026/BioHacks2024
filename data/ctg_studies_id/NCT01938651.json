@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01938651",
+    "briefTitle": "Ultra High Field MRI and MRS Techniques in Diagnosing Breast Cancer",
+    "officialTitle": "Ultra-High Field (7 Tesla) MRI/MRS Evaluation of Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 3,
+    "primaryOutcomeMeasure": "Sensitivity and specificity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subjects must have signed an approved consent form\n* Must be at least 18 years old\n* Subjects must have undergone x-ray mammography and/or ultrasonography\n* Subjects must have undergone standard clinical (1.5 Tesla) MRI as part of their standard-of-care diagnostic workup:\n\n  * To evaluate the extent of disease for a previously diagnosed cancer, or\n  * To evaluate a clinically suspected lesion that was occult on mammography and/or ultrasonography, or\n  * Because the patient is considered high-risk (according to National Comprehensive Cancer Network \\[NCCN\\] criteria)\n* Subjects must be classified Breast Imaging-Reporting and Data System (BI-RADS) 4 or 5\n* Subjects must be scheduled for diagnostic biopsy to evaluate a lesion that measures \\>10 mm in the greatest dimension.\n\nExclusion Criteria:\n\n* Subjects who have distant metastases\n* Subjects who have any type of bioimplant activated by mechanical, electronic, or magnetic means (e.g., cochlear implants, pacemakers, neurostimulators, biostimulators, electronic infusion pumps, aneurysm clip, etc), because such devices may be displaced or malfunction\n* Subjects who have any type of ferromagnetic bioimplant that could potentially be displaced by the magnetic field of the MRI scanner\n* Subjects who may have shrapnel imbedded in their bodies (such as from war wounds), metal workers, and machinists (potential for metallic fragments in or near the eyes)\n* Subjects with a history of renal disease (including renal cancer), diabetes, or human immunodeficiency virus (HIV)\n* Creatinine \\>= 1.5 times upper limit of normal\n* Estimated glomerular filtration rate \\< 30 mL/min\n* Subjects who are pregnant or breast-feeding; the MRI Procedure Screening Form will be used to identify and exclude subjects who are pregnant or breastfeeding; a urine pregnancy test/or serum human chorionic gonadotropin (HCG) will also be performed for pre-menopausal women who are not using contraceptives\n* Subjects who have exhibited past allergic or other adverse reactions in response to intravenous injection of Magnevist (gadopentetate dimeglumine) or other gadolinium-containing contrast agents\n* Subjects who exhibit noticeable anxiety and/or claustrophobia or who exhibit severe vertigo when they are moved into the magnet bore\n* Subjects incapable of giving informed written consent, for the following reasons:\n\n  * Inability to adhere to the experimental protocols for any reason\n  * Inability to communicate with the research team\n  * Limited ability to give informed consent due to mental disability, altered mental status, confusion, or psychiatric disorders\n  * Prisoners or other individuals deemed to be susceptible to coercion",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

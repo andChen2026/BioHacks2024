@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04127019",
+    "briefTitle": "Adjuvant 6 Cycles of Docetaxel and Cyclophosphamide or 3 Cycles of Cyclophosphamide/Epirubicin/Fluorouracil Followed by 3 Cycles of Docetaxel Versus 4 Cycles of Epirubicin and Cyclophosphamide Followed by Weekly Paclitaxel in Operable Breast Cancer (MASTER)",
+    "officialTitle": "Adjuvant Six Cycles of Docetaxel and Cyclophosphamide or Three Cycles of Cyclophosphamide/Epirubicin/Fluorouracil Followed by Three Cycles of Docetaxel Versus Four Cycles of Epirubicin and Cyclophosphamide Followed by Weekly Paclitaxel in Operable Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Primary Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2079,
+    "primaryOutcomeMeasure": "disease-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients, age at diagnosis 18 - 75 years\n* Histological confirmed unilateral primary invasive carcinoma of the breast\n* Adequate surgical treatment with complete resection of the tumor (R0) and resection of \\> or = 10 axillary nodes or SLN in clinically N0 patients\n* Node positive disease or node negative disease with at least one other risk factor (tumor size \\> or = 2 cm, grade \\> or = II)\n* No evidence for distant metastasis (M0) after conventional staging\n* Performance Status ECOG \\< or = 1\n* The patient must be accessible for treatment and follow-up\n* LVEF\\> 50%\n* Negative pregnancy test (urine or serum) within 7 days prior to randomization in premenopausal patients\n* Leucocytes \\> or = 4 x 10\\^9/L\n* platelets \\> or = 100 x 10\\^9/L\n* haemoglobin \\> or = 9 g/dL\n* total bilirubin \\< or = 1.5 UNL\n* ASAT (SGOT) and ALAT (SGPT) \\< or = 2.5 UNL\n* creatinine \\< 175 mmol/L (2 mg/dL)\n\nExclusion Criteria:\n\n1. Has received neoadjuvant therapy (include chemotherapy, targeted therapy, radiotherapy or endocrine therapy\uff09;\n2. Has bilateral breast cancer;\n3. Has previous history of additional malignancy, with the exception of adequately treated basal cell carcinoma and cervical carcinoma in situ.\n4. Has metastic (Stage 4) breast cancer;\n5. Has any \\>T4 lesion (UICC1987) (with skin involvement, mass adhesion and fixation, and inflammatory breast cancer);\n6. Is pregnant, is breast feeding women, or women of childbearing age who cannot practice effective contraceptives;\n7. Patients participating in other clinical trials at the same time;\n8. Has severe organ dysfunction (cardiopulmonary liver and kidney) insufficiency, left ventricular ejection fraction (LVEF) \\< 50% (cardiac ultrasound); severe cardio cerebral vascular disease within the 6 months previous of randomization (such as unstable angina, chronic heart failure, uncontrolled hypertension with blood pressure\\>150/90mmgh, myocardial infarction, or cerebral blood vessel); diabetic patients with poor blood glucose control; patients with severe hypertension;\n9. Has known allergy to taxane and excipients;\n10. Has severe or uncontrolled infection.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03302819",
+    "briefTitle": "London Investigation Into diElectric Scanning of Lesions",
+    "officialTitle": "Performance Evaluation of the MARIA (Multi Static Array Processing of Radiowave Image Acquisition) Radar Breast Imaging System in Patients With Breast Cancer and in Patients Assessed in the Symptomatic Breast Clinic.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 994,
+    "primaryOutcomeMeasure": "Proportion of patients with breast cancer in whom breast cancer is correctly identified by MARIA",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Attending a symptomatic breast care clinic OR Patients who have a diagnosed or suspected breast cancer (P5/M5/U5/B5).\n* Female sex\n* 18 years or older.\n* Able to provide informed consent.\n* Not in any identified, vulnerable group.\n\nExclusion Criteria:\n\n* Unable to mount MARIA\u2122 patient bed using provided 2-step\n* Unable to lie in the prone position\n* Patients who have undergone biopsy less than 5 days before the MARIA\u2122 scan\n* Patients with implanted electronics.\n* Patients with breast implants.\n* Patients with nipple piercings (unless they are removed prior to the MARIA\u2122 scan)\n* Breast sizes smaller than 197ml or greater than 1L in volume",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

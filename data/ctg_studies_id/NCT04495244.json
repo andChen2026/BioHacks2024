@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04495244",
+    "briefTitle": "A Study to Identify Breast Cancer (IDBC)",
+    "officialTitle": "Investigation of a Novel Blood Test to Identify Breast Cancer (IDBC)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Female",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "Performance of the Syantra DX Breast Cancer test as assessed by sensitivity and specificity",
+    "eligibilityCriteria": "Inclusion criteria\n\n* Aged 30-75 years\n* Normal breast examination - No cancer detected/suspected by physical exam, diagnostic radiology or screening mammography\n* Women with suspected Invasive Breast Cancer\n* Individuals with an abnormal or suspicious mammogram\n* Abnormal screening mammogram with suspected benign breast disease or proliferative changes\n\nExclusion criteria\n\n* Cancer diagnosis\n* Male\n* Breast surgery within the previous 12 months (for any reason) or recent breast biopsy (including needle core biopsy)\n* Previous history of any cancer\n* Concomitant or other concurrent anti-cancer therapy\n* Inoperable or inflammatory breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05853432",
+    "briefTitle": "A Descriptive Study of Baseline Characteristics, Clinical Outcomes, and Treatment Patterns of HR+/HER2- Advanced or Metastatic Breast Cancer Patients Treated With Alpelisib Plus Fulvestrant Who Have Received Fulvestrant in Any Prior Line of Therapy",
+    "officialTitle": "A Descriptive Study of Baseline Characteristics, Clinical Outcomes, and Treatment Patterns of HR+/HER2- Advanced or Metastatic Breast Cancer Patients Treated With Alpelisib Plus Fulvestrant Who Have Received Fulvestrant in Any Prior Line of Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "HR+/HER2- Advanced or Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 157,
+    "primaryOutcomeMeasure": "Overall survival (OS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Had a curated record for advanced or metastatic breast cancer diagnosis.\n* Note: Diagnosis of a/mBC is based on a curated record of M stage=M1, Stage 4/4a/4b, presence of metastatic tumor, Stage 3b/3c or presence of secondary neoplasm.\n* Had patient activity documented in ConcertAI Patient 360 Breast Cancer database (defined as a record of a clinic visit, medication administration, vital test, or lab test) or death within 90 days after the advanced or metastatic breast cancer diagnosis date.\n* Had documented receipt of treatment with alpelisib plus fulvestrant on or after the advanced or metastatic diagnosis date.\n* Had documented receipt of treatment with fulvestrant before the index date (start date of the earliest alpelisib plus fulvestrant regimen). This included (neo) adjuvant therapies.\n* Age \u226518 years on the index date.\n\nExclusion Criteria:\n\n* Had documented hormone receptor-negative (defined as both estrogen receptor-negative and progesterone receptor-negative) or HER2-positive status any time prior to index date (but prioritizing results closest to index date, if there were conflicting results).\n* Patient had a clinical trial registration date (i.e., participated in a clinical trial) on or before the index date.\n* Patients with \"negative\" PIK3CA test before index date (in case of multiple tests, the one closer to the index date was used).",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

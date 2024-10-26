@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05889728",
+    "briefTitle": "Pilot Trial to Assess 68Ga Bombesin PET/CT (NeoB) Imaging for Staging of Breast Cancer",
+    "officialTitle": "Assessment of the Diagnostic and Theranostic Potential of Ga Bombesin PET/CT (NeoB) Imaging for Staging of ER/PR + HER2- Breast Cancer Patients With Metastatic Disease: Comparison to Conventional Imaging",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Assessment of Diagnostic Accuracy using a standard of truth (Biopsy, response to treatment RECIST and correlate images)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients aged 18 or above\n* Ability to provide informed consent documentation indicating that they understand the purpose of and procedures required for the study, and are willing to participate in the study\n* Estrogen/Progesterone receptor +ve HER2 negative disease confirmed on prior biopsy (primary or metastatic site).\n* Metastatic breast cancer being staged or re-staged prior to treatment of metastatic disease (including those presenting with up-front metastatic disease with primary breast cancer in-situ and those who have progressed on a line of treatment for metastatic breast cancer that are suitable for another line of treatment)\n* Metastatic breast cancer being staged or restaged prior to change in treatment with standard imaging within 3 weeks of enrolment (CT CAP, bone scan, FDG PET CT)\n\nExclusion Criteria:\n\n* Pregnancy or lactation (patients should use highly effective methods of contraception during and for 12h after administration)\n* Significant inter-current acute illness as per investigator discretion that prevent undertaking study procedures\n* History of current active malignancy as per investigator discretion other than breast cancer.\n* Known or expected hypersensitivity to 68Ga NeoB",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

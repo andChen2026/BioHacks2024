@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03573804",
+    "briefTitle": "The Prone to Supine Breast MRI Trial",
+    "officialTitle": "The Prone to Supine Breast MRI Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 72,
+    "primaryOutcomeMeasure": "Number of Successful Segmentation of Supine MRI Images",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18 years.\n* Female gender.\n* Histologic diagnosis of invasive breast cancer or ductal carcinoma in situ\n* Tumor size at least 1 cm in diameter as visualized on mammogram or US.\n* A diagnostic breast MRI is considered to be clinically indicated.\n* Ability to voluntarily provide informed consent to participate prior to any study-related assessments/procedures being conducted.\n\nExclusion Criteria:\n\n* Absolute contraindication to MRI, including presence of implanted electrical device (pacemaker or neurostimulator), aneurysm clip, or metallic foreign body in or near eyes.\n* Severe claustrophobia.\n* Contraindication to use of gadolinium-based intravenous contrast, including life- threatening allergy or compromised renal function (eGFR \\< 30 ml/min/1.73m2).\n* History of median sternotomy.\n* Pregnancy. Patient attestation that they are not pregnant will be acceptable.\n* Patients who have received neoadjuvant chemotherapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

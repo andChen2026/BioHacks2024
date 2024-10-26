@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03301493",
+    "briefTitle": "Genomic Testing and Resulting Medical Decisions",
+    "officialTitle": "The Use of Genomic Testing and the Resulting Medical Decisions According to Target Identification",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cancer of Unknown Origin, Cancer Refractory, Cancer of Stomach, Cancer Head Neck, Cancer of Skin, Cancer, Lung, Cancer Colorectal, Cancer of Esophagus, Cancer, Bladder, Cancer, Uterus, Cancer Cervix, Cancer Liver, Cancer, Kidney, Cancer, Breast, Hematologic Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Types of:molecular profiling methods",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nThis registry will include cancer patients for which broad genomic profiling is indicated as assessed by the medical need and as deemed appropriate by the physician, for example\n\n* cancer with high mutational load and suspicion of regular or frequent formation of neoantigens\n\n  * skin, lung, stomach, esophagus, colorectum, bladder, uterus, cervix, liver, head and neck, kidney, breast\n  * lymphoma B-cell\n* any other neoplastic disease where molecular targeting is performed but treatment fails\n* cancer of unknown primary origin (CUP)\n* planned or already carried out comprehensive genomic testing as of Jan 1, 2016 note: this registry will not initially register patients who are tested for only 1-5 mutations by conventional means, but patients undergoing genomic profiling based on NGS)\n* a patient\u00b4s signed informed consent\n* Patients \u2265 18 years of age\n\nExclusion Criteria:\n\n* Due to the non-interventional design of the registry there are no specific exclusion criteria.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

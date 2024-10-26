@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00426556",
+    "briefTitle": "Efficacy and Safety of Everolimus in Combination Therapy, in Patients With HER2-overexpressing Metastatic Breast Cancer",
+    "officialTitle": "A Phase Ib/II Study Investigating the Combination of Everolimus With Trastuzumab and Paclitaxel in Patients With HER2-overexpressing Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 88,
+    "primaryOutcomeMeasure": "Phase II: Overall Response Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female or male patients \u2265 18 years old with WHO performance status \u2264 1\n* HER-2 over-expressing metastatic breast cancer cells confirmed by histology\n* Progressive disease on prior trastuzumab alone/or in combination with other anticancer agents, or relapsed any time after completion of this therapy (phase l)\n* Patient resistance to trastuzumab and taxanes (Phase ll)\n* Measurable disease according to RECIST (Phase ll)\n* Patients neurologically stable with adequate bone marrow, liver and renal function\n\nExclusion Criteria:\n\n* Patients receiving endocrine therapy for breast cancer \u2264 2 weeks prior to study treatment start\n* Patients currently receiving chemotherapy, immunotherapy or radiotherapy or who have received these \u2264 4 weeks prior to study treatment start or patients who have received lapatinib \u2264 2 weeks prior to study treatment start\n* Patients who have previously received mTOR inhibitors\n\nOther protocol-defined inclusion/exclusion criteria may apply",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

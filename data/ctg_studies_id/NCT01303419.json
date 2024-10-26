@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01303419",
+    "briefTitle": "Contrast-Enhanced Digital Mammography (CEDM) for Identifying a Change in Management of Women With Newly Diagnosed Breast Cancer",
+    "officialTitle": "A Multicenter, Open-Label, Crossover Trial to Assess Non-Inferiority of Dual Energy Contrast-Enhanced Digital Mammography (DE-CEDM) Compared to Contrast-Enhanced Breast Magnetic Resonance Imaging (CE-BMRI) for Identifying a Change in Patient Management in Women With Newly Diagnosed Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 224,
+    "primaryOutcomeMeasure": "Completion of CE-BMRI and DE-CEDM",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Woman 21 years of age or older\n* The subject is able and willing to comply with study procedures and signed and dated informed consent is obtained.\n* Newly diagnosed with Breast Cancer (DCIS or invasive) identified through core biopsy or fine-needle aspiration (FNA) within last 30 days.\n* Will have or have had a bilateral CE-BMRI performed within 30 days AFTER the new breast cancer diagnosis.\n\nExclusion Criteria:\n\n* Woman who has already had a lumpectomy for the index lesion.\n* Woman undergoing neoadjuvant chemotherapy treatment, hormone treatment or radiation therapy.\n* Woman who is pregnant or who believe she may be pregnant.\n* Woman who has breast implant.\n* Woman who has a contraindication to the intravenous use of iodinated or gadolinium-chelated contrast agent (e.g., allergy to either agent or severely impaired renal function).",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

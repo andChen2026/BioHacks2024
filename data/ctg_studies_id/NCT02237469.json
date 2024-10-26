@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02237469",
+    "briefTitle": "Prone Breast Radiotherapy Treatment Planning Observational Study",
+    "officialTitle": "Retrospective Dosimetric Study of Prone Radiotherapy for Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer Female",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 280,
+    "primaryOutcomeMeasure": "Radiation dose to heart and lungs",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast conserving surgery\n* Adjuvant radiation treatment\n* Simulation done prone and supine\n\nExclusion Criteria:\n\n* Simulation in only one position",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

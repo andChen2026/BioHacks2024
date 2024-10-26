@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00687102",
+    "briefTitle": "Cognition in the Study of Tamoxifen and Raloxifene",
+    "officialTitle": "Effects of Selective Estrogen Receptor Modulators on Cognitive Aging: Cognition in the Study of Tamoxifen and Raloxifene",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cognition, Aging",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 1498,
+    "primaryOutcomeMeasure": "Mean Change From Baseline on the the Benton Visual Retention Test Scores by Treatment Group",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women enrolled in STAR trial at a site participating in Co-STAR\n* 65 years of age or older\n* Have been randomized into STAR but have not started taking the study drug OR enrolled in STAR for a minimum of one year\n* Have not been diagnosed with dementia\n* Have signed a separate consent document for the Co-STAR Study\n* Previous diagnoses of chronic neurologic disease (Parkinson's disease, stroke, epilepsy, multiple sclerosis), history of head injury, depression, alcohol addiction, drug addiction, and other neurologic or psychiatric conditions will be recorded but will not serve as exclusion factors for this study\n\nExclusion Criteria:\n\n* Not enrolled in the STAR Trial\n* Younger than 65 years of age\n* Diagnosed with dementia",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01646034",
+    "briefTitle": "High Dose Chemotherapy in Oligo-metastatic Homologous Recombination Deficient Breast Cancer",
+    "officialTitle": "High-dose Alkylating Chemotherapy in Oligo-metastatic Breast Cancer Harboring Homologous Recombination Deficiency",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 74,
+    "primaryOutcomeMeasure": "Event free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histologically or cytologically confirmed infiltrating breast cancer\n2. Oligometastatic disease defined as one to three distant metastatic lesions, with or without primary tumor, local recurrence, or locoregional lymph node metastases, including the ipsilateral axillary, parasternal, and periclavicular regions. All lesions must be amenable to resection or radiotherapy with curative intent. Staging examinations must have included a PET-CT-scan and a MRI of the liver in case of liver metastases. Clustered lymph nodes that can be irradiated with curative intent in a single field are defined as a single lesion. Histologic or cytologic confirmation of at least one distant metastatic lesion is required.\n3. No prior line of chemotherapy for metastatic disease (a maximum of 3 months of palliative endocrine therapy is allowed).\n4. The tumor must be HER2-negative (either score 0 or 1 at immunohistochemistry or negative at in situ hybridization in case of score 2 or 3 at immunohistochemistry).\n5. The tumor is deficient in homologous recombination and/or the patient has a deleterious germline BRCA1 or BRCA2 mutation.\n6. At least stable disease of all tumor lesions after three courses of induction chemotherapy\n7. Age \u226518 years\n8. World Health Organisation (WHO) performance status 0 or 1\n9. Adequate bone marrow function (ANC \u22651.0 x 109/l, platelets \u2265100 x 109/l)\n10. Adequate hepatic function (ALAT, ASAT and bilirubin \u22642.5 times upper limit of normal)\n11. Adequate renal function (creatinine clearance \u226560 ml/min)\n12. If clinically recommended echocardiography, MUGA, or MRI to evaluate if LVEF \u226550%;\n13. Signed written informed consent\n14. Able to comply with the protocol\n\nExclusion Criteria:\n\n* No malignancy other than breast cancer, unless treated with curative intent without the use of chemotherapy or radiation therapy\n* No current pregnancy or breastfeeding. Women of childbearing potential must use adequate contraceptive protection.\n* No concurrent anti-cancer treatment or investigational drugs",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

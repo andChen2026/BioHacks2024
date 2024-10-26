@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00016406",
+    "briefTitle": "S0012 Doxorubicin, Cyclophosphamide, and Paclitaxel With or Without Filgrastim in Treating Women With Inflammatory or Locally Advanced Breast Cancer",
+    "officialTitle": "A Comparative Randomized Study of Standard Doxorubicin and Cyclophosphamide Followed by Weekly Paclitaxel Vs. Weekly Doxorubicin and Daily Oral Cyclophosphamide Plus G-CSF Followed by Weekly Paclitaxel As Neoadjuvant Therapy For Inflammatory and Locally Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 399,
+    "primaryOutcomeMeasure": "Comparison of microscopic pathologic response rates",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed inflammatory or locally advanced breast cancer\n\n  * Stage IIB (T3, N0, M0), IIIA (T3, N1-2, M0 or T0-2, N2, M0), or IIIB (T4, any N, M0 or any T, N3, M0)\n  * Unresectable or otherwise appropriate for neoadjuvant therapy\n  * Confirmed by core needle or incisional biopsy\n\n    * Punch biopsy allowed if invasive disease is documented\n* No distant metastases\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* Not specified\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* Zubrod 0-2\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* Absolute neutrophil count at least 1,500/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n\nHepatic:\n\n* Bilirubin no greater than upper limit of normal (ULN)\n* SGOT or SGPT no greater than 2 times ULN\n\nRenal:\n\n* Creatinine no greater than ULN\n\nCardiovascular:\n\n* No congestive heart failure or angina pectoris\n* LVEF greater than lower limit of normal\n\nOther:\n\n* No other malignancy within the past 5 years except adequately treated basal cell or squamous cell skin cancer or carcinoma in situ of the cervix\n* HIV negative\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* No prior chemotherapy for breast cancer\n\nEndocrine therapy:\n\n* No prior hormonal therapy for breast cancer\n\nRadiotherapy:\n\n* No prior radiotherapy for breast cancer\n\nSurgery:\n\n* No prior definitive surgery for breast cancer\n\nOther:\n\n* No other concurrent anticancer therapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02400190",
+    "briefTitle": "The IDEA Study (Individualized Decisions for Endocrine Therapy Alone)",
+    "officialTitle": "The IDEA Study (Individualized Decisions for Endocrine Therapy Alone)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 202,
+    "primaryOutcomeMeasure": "Loco-regional Recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Postmenopausal status, as defined by (a) patients age 60 or greater, or, (b) patients age 50-69 with either (a) s/p bilateral oophorectomy, or, (b) intact uterus without menses in the past 12 months, or, (c) biochemical confirmation of postmenopausal status.\n* Histopathological confirmation of Stage 1 (pT1N0M0) invasive breast cancer status post breast conserving surgery\n* Negative axillary nodes (isolated tumor cells with no cluster measuring \\>0.2mm allowed)\n\n  * Allowable options for axillary staging include:\n  * Sentinel node biopsy only\n  * Sentinel node biopsy followed by axillary dissection\n  * Axillary dissection only\n* Margins of excision \u22652mm\n* ER+, PR+, Her2 - using the current College of American Pathologists guidelines\n* Oncotype-DX RS \u2264 18\n* Disease must be unifocal on clinical, radiologic, and pathologic examination\n* Registration within 90 days of last surgical procedure for breast cancer treatment\n* Patient must willingly sign study specific informed consent prior to study entry\n* Patient must be a candidate for and willing to take endocrine therapy for minimum of 5 years (aromatase inhibitor or tamoxifen). Patients who have already begun endocrine therapy after lumpectomy are eligible.\n* Patient must have had breast imaging (mammogram or MRI) of the ipsilateral breast within 6 months and contralateral breast within 1 year of study entry.\n* Patient must have Zubrod performance status 0-2\n\nExclusion Criteria:\n\n* Evidence of multifocal or multicentric breast cancer that has not been biopsy-proven negative. Note that MRI is not required for this study, but if performed, evidence of disease beyond the site of the primary tumor in the ipsilateral breast or in the contralateral breast must be biopsy-proven not to be malignant before registration.\n* Metastatic disease. Note that no specific staging studies are mandated, but any studies performed must not provide clear evidence of metastatic spread.\n* Previous radiation therapy to the breast region\n* Prior DCIS or invasive breast cancer\n* Bilateral breast cancer\n* Prior non-breast invasive malignancy other than non-melanoma skin cancer, unless there has been no evidence of disease for at least 5 years\n* Known carrier of a mutation known to predispose towards breast cancer development (including BRCA-1 and BRCA-2). Note: testing for mutation status is not required for this protocol; this criterion applies only to patients who have been tested and have known carrier status.",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

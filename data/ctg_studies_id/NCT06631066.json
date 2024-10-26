@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06631066",
+    "briefTitle": "Effect of Neoadjuvant Chemoradiation on Pathologic Complete Response Rates in Locally Advanced Breast Cancer Patients",
+    "officialTitle": "Effect of Neoadjuvant Chemoradiation on Pathologic Complete Response Rates in Locally Advanced Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 160,
+    "primaryOutcomeMeasure": "pathologic complete response rates",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patients.\n2. Age: 21 years or older.\n3. ECOG performance status (PS) score 0 to 2.\n4. Locally advanced tumors (stage IIIA or above) of any subtype.\n5. Early breast cancer of the HER2+ or TNBC subtype when:\n\n   1. Node-negative, T2 or T3.\n   2. Node-positive, any T stage.\n\nExclusion Criteria:\n\n1. Patients initially presenting with metastatic breast cancer.\n2. Patients unfit to receive planned regimen of treatment that had a poor PS (i.e.: PS 3 and 4).\n3. Inflammatory breast cancer (T4d) patients.\n4. Patients having contraindications to radiotherapy (e.g.: Pregnancy, history of previous chest wall, breast, or axillary irradiation)\n5. History of previous ipsilateral breast surgery.\n6. Comorbidities that would affect skin healing or integrity, like uncontrolled diabetes mellitus or active autoimmune collagen or vascular diseases",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

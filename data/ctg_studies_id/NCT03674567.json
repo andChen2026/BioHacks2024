@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03674567",
+    "briefTitle": "Dose Escalation and Expansion Study of FLX475 Monotherapy and in Combination With Pembrolizumab",
+    "officialTitle": "Phase 1/2 Dose-Escalation and Expansion Study of FLX475 Alone and in Combination With Pembrolizumab in Advanced Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Advanced Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 323,
+    "primaryOutcomeMeasure": "Safety and tolerability of FLX475 as a single agent and in combination with pembrolizumab measured by the incidence of adverse events, including dose-limiting toxicities and maximum tolerated dose",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Documented advanced or metastatic cancer ineligible for standard therapies with one of the following histologies\n\n  * Dose Escalation: non-small cell lung cancer, head and neck squamous cell carcinoma, nasopharyngeal carcinoma, metastatic triple negative breast cancer, urothelial carcinoma, gastric cancer, esophageal carcinoma, cervical cancer, classical Hodgkin lymphoma\n  * Dose Expansion: nasopharyngeal carcinoma, lymphoma, head and neck squamous cell carcinoma, cervical cancer, non-small cell lung cancer, triple-negative breast cancer\n* Eastern Cooperative Oncology Group (ECOG) Performance Status 0-1\n* Evaluable disease at baseline (at least one measurable target lesion by imaging for expansion cohorts)\n* Tumor available for biopsy\n\nExclusion Criteria:\n\n* History of allergy or severe hypersensitivity to biologic agents\n* History of Grade 3-4 immune-related adverse events leading to discontinuation of prior immuno-oncology treatment\n* Active autoimmune disease or serious autoimmune disease within past 2 years requiring systemic therapy\n* History of idiopathic pulmonary fibrosis, organizing pneumonia, drug-induced pneumonitis, idiopathic pneumonitis, (non-infectious) pneumonitis that required steroids, or symptoms of active pneumonitis\n* Prior allogeneic hematopoietic stem cell transplant within 5 years, or prior allogeneic organ transplant\n* Active graft-versus-host disease",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

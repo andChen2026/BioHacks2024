@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00288249",
+    "briefTitle": "Safety and Efficacy Study of a New Chemotherapy Agent to Treat Metastatic Breast Cancer",
+    "officialTitle": "Prospective, Multicenter, Randomized, Independent-group, Open-label Phase II Study to Investigate the Efficacy, Safety and Tolerability of 4 Regimen With 3 Doses of ZK 219477 (16 and 12 mg/m2 Body Surface Area as 3-hour Infusion or 22 mg/m2 Body Surface Area as 30-minute or 3-hour Infusion) in Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Breast Cancer, Metastatic",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 82,
+    "primaryOutcomeMeasure": "Tumor response rate (complete or partial response according to RECIST)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Metastatic breast cancer\n* No previous treatment with taxanes, and vinca alkaloids\n* Use of highly effective birth control methods in females of child-bearing potential\n\nExclusion Criteria:\n\n* More than 2 previous chemotherapies\n* Previous participation in another trial within the last 4 weeks\n* Breast feeding\n* Active infections",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

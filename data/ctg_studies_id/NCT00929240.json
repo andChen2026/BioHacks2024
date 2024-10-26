@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00929240",
+    "briefTitle": "A Study of Avastin (Bevacizumab) + Xeloda (Capecitabine)as Maintenance Therapy in Patients With HER2-Negative Metastatic Breast Cancer",
+    "officialTitle": "A Randomized Study of the Effect of Maintenance Therapy With Bevacizumab + Capecitabine Versus Bevacizumab Alone on Progression-free Survival in Patients With HER2-negative Metastatic Breast Cancer That Has Not Progressed During First-line Docetaxel Plus Bevacizumab Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 287,
+    "primaryOutcomeMeasure": "Percentage of Participants With Disease Progression or Death (Maintenance Phase Data Cutoff October 4, 2013)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* adult patients, \\>=18 years of age;\n* HER2-negative metastatic breast cancer\n* candidates for taxane-based chemotherapy;\n* ECOG performance status of 0 or 1.\n\nExclusion Criteria:\n\n* previous chemotherapy for metastatic breast cancer;\n* prior adjuvant/neo-adjuvant chemotherapy within 6 months prior to study;\n* prior radiotherapy for treatment of metastatic disease;\n* chronic daily treatment with aspirin (325 mg/day) or clopidogrel(\\>75mg/day).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00678626",
+    "briefTitle": "Phase 2 Trial Of CP-751,871 And Docetaxel In Advanced Breast Cancer",
+    "officialTitle": "A Randomized Phase 2, Open-Label Study Of CP-751,871 In Combination With Docetaxel And Docetaxel Alone As A First Line Treatment Of Patients With Advanced Breast Cancer",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Progression Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histologically or cytologically confirmed diagnosis with evidence of either metastatic disease (Stage IV) of locally recurrent disease not amenable to curative resection or radiation therapy (Stage IIIB).\n* Her-2negative breast cancer or unknown Her-2 status.\n* at least 1 measurable lesion as defined by RECIST.\n* ECOG status 0-1\n* adequate bone marrow, hepatic and renal function.\n* left ventricular ejection fraction of greater than or equal to 50%.\n* willingness to discontinue hormonal therapy.\n\nExclusion Criteria:\n\n* any previous chemotherapy for advanced disease.\n* prior exposure to taxanes as (neo) adjuvant treatment less than 12 months prior to randomization.\n* symptomatic brain metastases.\n* prior anti-IGF-1R based investigational therapy.\n* peripheral neuropathy greater than grade 2.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

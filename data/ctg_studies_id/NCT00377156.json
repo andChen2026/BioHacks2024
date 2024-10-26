@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00377156",
+    "briefTitle": "Stereotactic Radiation Therapy With or Without Whole-Brain Radiation Therapy in Treating Patients With Brain Metastases",
+    "officialTitle": "Phase III Randomized Trial of the Role of Whole Brain Radiation Therapy in Addition to Radiosurgery in Patients With One to Three Cerebral Metastases",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Cognitive/Functional Effects, Lung Cancer, Metastatic Cancer, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 213,
+    "primaryOutcomeMeasure": "Neurocognitive Progression as Measured by the Number of Participants With Cognitive Deterioration by 3 Months",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of cerebral metastases meeting the following criteria:\n\n  * One to three presumed brain metastases\n  * Metastases must be from a histologically confirmed extracerebral site (e.g., lung, breast, prostate)\n\n    * Histologic confirmation may have been from the primary tumor site, from another metastatic site (e.g., osseous metastasis, adrenal metastasis), or from the metastatic brain lesion(s)\n  * Each lesion must measure less than 3.0 cm by contrast MRI of the brain performed within the past 21 days\n  * Lesions must not be within 5 mm of the optic chiasm or within the brainstem\n* Eligibility for treatment with gamma knife or linear accelerator-based radiosurgery confirmed by a radiation oncologist\n* No primary germ cell tumor, small cell carcinoma, or lymphoma\n* No leptomeningeal metastases\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Male or female\n* Menopausal status not specified\n* ECOG performance status 0-2\n* Not pregnant\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n\n  * Male patients must continue to use contraception for 3 months after the completion of radiotherapy\n* No pacemaker or other MRI-incompatible metal in the body\n* No known allergy to gadolinium\n\nPRIOR CONCURRENT THERAPY:\n\n* More than 7 days since prior and no concurrent chemotherapy\n* No prior cranial radiotherapy\n* No prior resection of cerebral metastases\n* Concurrent hormonal agents, steroids, and/or anticonvulsants allowed",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

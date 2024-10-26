@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05906407",
+    "briefTitle": "COGNITION: Genomics-Guided Precision Oncology in Early High-Risk Breast Cancer",
+    "officialTitle": "COGNITION: Comprehensive Assessment of Clinical Features, Genomics and Further Molecular Markers to Identify Patients With Early Breast Cancer for Enrolment on Marker Driven Trials (Molecular Diagnostic Platform)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Early-Stage Breast Cancer, Neoadjuvant Therapy",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "Comprehensive assessment of clinical patient data, collection of biomaterial and implementation of genomics- / molecular- and immune- guided precision medicine in eBC into the clinics.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female and male breast cancer patients aged \u226518 years.\n* Patients with primary early breast cancer (irrespective of subtypes) or - as an exception - patients with isolated loco-regional relapses that can be treated with a curative intention\n* Study entry is possible for patients with primary eBC at three timepoints:\n\n  * Option A: patients planned to receive neoadjuvant chemotherapy are enrolled before starting the neoadjuvant treatment\n  * Option B: patients with clinical non-complete response can be enrolled after the last cycle of neoadjuvant chemotherapy before surgery Note: Option A/B are strongly preferred entry time-points\n  * Option C: eBC patients after surgery and planned or conducting standard-of-care (SoC) post-neoadjuvant chemotherapy can be enrolled after surgery until the last cycle of standard post-neoadjuvant chemotherapy, if they fulfill the following criteria\n\n    * HER2+ BC or TNBC: non-pCR\n    * HR+/HER2- BC: non-pCR and CPS-EG score \u2265 3 or non-pCR, ypN+ and CPS-EG-score \u2265 2 Note: Option C is not the preferred entry time-point Note: in case of loco-regional relapse, neoadjuvant treatment is not mandatory\n* Patients must be willing to donate a recent tumour sample to the registry Note: fresh tumour tissue is preferred\n* Patients, who agreed to and were able to sign the informed consent form (ICF).\n\nExclusion Criteria:\n\n* Patients who did not sign or withdrew the informed consent form (ICF).\n* Inability to retrieve tissue for molecular profiling Any physical or mental handicap or severe comorbidities that would hamper the adequate cooperation with the patient.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

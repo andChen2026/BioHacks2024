@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00629616",
+    "briefTitle": "Efficacy of Anastrozole and Fulvestrant in Patients With ER Positive, HER2 Negative, Operable Breast Cancer",
+    "officialTitle": "A Randomized Multicenter Phase II Study Identifying Hormone Sensitivity Profiles and Evaluating the Efficacy of Anastrozole and Fulvestrant in the Neo-adjuvant Treatment of Operable Breast Cancer in Postmenopausal Women.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 116,
+    "primaryOutcomeMeasure": "Clinical tumor response as assessed by RECIST criteria",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed infiltrating breast adenocarcinoma\n\n  * Large, operable tumor\n  * Stage T2 (\u2265 3 cm) or T3-T4 (excluding inflammatory disease), N0-N3, M0 disease\n\n    * No bilateral inflammatory breast tumors (T4d \\[PEV-2 or PEV-3\\])\n  * Elston-Ellis grade I or II and mitotic index 1 or 2 (if \\< 65 years of age)\n* At least 1 embedded and 1 frozen biopsy sample available\n* No multifocal or multicentric tumors for which breast conservation cannot be envisaged\n* No ErbB2-overexpressing tumors (HER2 3+ by IHC OR HER2 2+ by IHC and FISH positive)\n* Hormone receptor status:\n\n  * Estrogen receptor and/or progesterone receptor positive tumor (\\> 10%) as assessed by IHC\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Postmenopausal\n* ECOG performance status 0-2\n* ANC \u2265 2,000/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Hemoglobin \u2265 10 g/dL\n* Creatinine \u2264 1.5 times upper limit of normal (ULN)\n* Total bilirubin \u2264 1.25 times ULN\n* AST and ALT \u2264 1.5 times ULN\n* Alkaline phosphatase \u2264 2.5 times ULN\n* No other cancer within the past 10 years, except basal cell skin cancer or previously treated carcinoma in situ of the cervix\n* No uncontrolled cardiac pathology, including any of the following:\n\n  * Angina pectoris\n  * Congestive cardiac insufficiency\n  * Myocardial infarction within the past 3 months\n* No known history of hemorrhagic diathesis\n* No known allergy to the study drugs or their excipients\n* No congenital galactosemia, glucose malabsorption syndrome, or lactase deficiency\n* No chronic somatic or psychiatric illness with pejorative prognosis\n* No geographical, social, or psychiatric condition that would preclude study compliance and follow-up schedule\n* No individual deprived of liberty or placed under the authority of a tutor\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior chemotherapy, hormonal therapy, or any targeted treatment for the breast tumor\n* At least 2 weeks since prior hormone replacement therapy for menopause\n* No concurrent long-term anticoagulation treatment\n* No concurrent participation on another therapeutic trial involving an experimental molecule",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

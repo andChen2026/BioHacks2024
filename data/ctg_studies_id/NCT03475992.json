@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03475992",
+    "briefTitle": "Pilot Clinical Study on a Low-power Electromagnetic Wave Breast Imaging Device for Cancer Screening Purposes.",
+    "officialTitle": "Pilot Clinical Evaluation of a Microwave Imaging System for Early Breast Cancer Detection",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Breast Cyst",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Number of Serious Adverse Events, Directly Related to Normal Functioning of the Device",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Subjects must be able and willing to give written informed consent and to comply with the requirements of this study protocol\n2. Subject must have attended the Symptomatic Breast Unit with a palpable breast lump\n3. Subjects must have had a mammogram in the clinical assessment period (\u2264 6 weeks before the microwave breast investigation)\n4. Subjects must be able to comfortably lie reasonably still in a prone position for up to 15 minutes\n5. Subjects with bra size larger than 32B and cup size larger or equal to B.\n6. Subjects whose breast size is adapted to the cylindrical container of the MBI system with sufficient margin to allow the presence of transition liquid around the breast. Final decision to be taken by the physicians based on their judgement.\n\nExclusion Criteria:\n\n1. Subjects unable to provide written informed consent\n2. Subjects who are pregnant or breast-feeding\n3. Subjects who have had previous surgery to the breast\n4. Subjects who have previously received chemotherapy or radiotherapy to the breast\n5. Subjects who have had a breast biopsy less than two weeks prior to imaging\n6. Subjects with any active or metallic implant (e.g. cardiac pacemaker, stents, internal cardiac defibrillator, cardiac resynchronisation device, nerve stimulator...), or subjects bearing any non-removable metallic object (e.g. piercing) on their torso\n7. Post-biopsy patients whose breast tissue is not healed sufficiently for the imaging procedure, in the opinion of the investigator\n8. Patients who have had or plan to have a breast cyst aspiration before MBI.\n9. Subjects with significant co-morbidities which, in the opinion of the investigator, may influence the result of the study\n10. Subjects with prior or concurrent malignancy\n11. Subjects under the age of 18 years old\n12. Subjects with evidence of inflammation and/or erythema of the breast as well as any subjects who have a break in the skin which would be in contact with the coupling fluid\n13. Subjects who would be unsuitable for an MBI scan, unlikely to attend a follow up visit, or would otherwise be unsuitable for such an investigation, in the opinion of the Investigator",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

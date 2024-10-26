@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03684408",
+    "briefTitle": "Radiofrequency Chip for Localization of Non-Palpable Breast Lesions",
+    "officialTitle": "Use of a Radiofrequency Chip for Localization of Non-Palpable Breast Lesions: A Comparison to Wire Localization",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 38,
+    "primaryOutcomeMeasure": "Number of Participants With Successful Localization",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women requiring image guided pre-operative breast tumor localization\n\nExclusion Criteria:\n\n* Tumors deeper than 6 cm from the skin surface\n* More than one tumor requiring localization\n* Tumors requiring bracketing\n* Tumors requiring Magnetic Resonance Imaging localization\n* Inability to complete survey\n* Pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05084625",
+    "briefTitle": "PACED-digitized Support During Adjuvant Endocrine Therapy",
+    "officialTitle": "PACED-Patient-centred Digital Support During Adjuvant Endocrine Breast Cancer Treatment",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Treatment Adherence, Quality of Life, Treatment Side Effects",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Difference between the two groups with regard to change in quality of life from baseline to 12 months measured by Questionnaires European Organisation for Research and Treatment for Cancer Quality of life C30 (EORTC QLQ C30).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Hormone receptor positive breast cancer\n* On adjuvant endocrine treatment 0-16 weeks ago\n\nExclusion Criteria:\n\n* Cognitively impaired\n* No access to a mobile phone or internet\n* Not understanding Swedish",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01928615",
+    "briefTitle": "A Study of Subcutaneously Administered Herceptin (Trastuzumab) in Patients With Human Epidermal Growth Factor Receptor 2 (HER2)-Positive Early Breast Cancer",
+    "officialTitle": "LISAH: An Open-label, Randomised Phase II Study Assessing Quality of Life Associated With Subcutaneous Trastuzumab Injected Into the Thigh or Upper Arm in Patients With HER2-positive Early Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2,
+    "primaryOutcomeMeasure": "Quality of Life Score",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female and male patients \u2265 years of age.\n* HER2-positive early breast cancer.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1.\n* Hormonal therapy will be allowed as per institutional guidelines.\n* Patients must be Herceptin (trastuzumab) na\u00efve.\n* Left ventricular ejection fraction (LVEF) of \u2265 55%.\n* Histologically confirmed non-metastatic primary invasive adenocarcinoma of the breast.\n* No evidence of residual, locally recurrent, or metastatic disease after completion of surgery and chemotherapy, or during concurrent chemotherapy (neo-adjuvant or adjuvant).\n* Use of concurrent curative radiotherapy will be permitted.\n\nExclusion Criteria:\n\n* History of other malignancy which could affect compliance with the protocol or interpretation of results. Patients with curatively treated carcinoma in situ of the cervix or basal cell carcinoma, and patients with other curatively treated malignancies who have been disease-free for at least 5 years, are eligible.\n* Patients with severe dyspnea at rest or requiring supplementary oxygen therapy.\n* Patients with other concurrent serious diseases that may interfere with planned treatment, including severe pulmonary conditions/illness.\n* Serious cardiac illness or medical conditions that would preclude the use of Herceptin, specifically, a history of documented congestive heart failure (CHF), high-risk uncontrolled arrhythmias, angina pectoris requiring medication, clinically significant valvular disease, evidence of transmural infarction on electrocardiogram (ECG), or diagnosed poorly controlled hypertension.\n* Pregnant or lactating women.\n* Women of childbearing potential and male patients with partners of childbearing potential who are unable or unwilling to use adequate contraceptive measures during study treatment.\n* Concurrent enrollment in another clinical trial using an investigational anti-cancer treatment, including hormonal therapy, bisphosphonate therapy, and immunotherapy, within 28 days prior to the first dose of study treatment.\n* Known hypersensitivity to trastuzumab, murine proteins, to any of the excipients of Herceptin including hyaluronidase, or a history of severe allergic or immunological reactions, eg, difficult to control asthma.\n* Inadequate bone marrow, hepatic, or renal function.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

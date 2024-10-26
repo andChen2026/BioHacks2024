@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04179318",
+    "briefTitle": "the New Geneswell BCT in Vitro Diagnosis of Breast Cancer Prognosis",
+    "officialTitle": "A Retrospective, International Multicenter, Single Arm Clinical Trial of the New Geneswell BCT in Vitro Diagnosis of Breast Cancer Prognosis",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Comparative assessment between risk groups",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The patients were diagnosed with invasive breast cancer with positive hormone receptor (including positive estrogen receptor or progesterone receptor) and negative human epidermal growth factor receptor 2 (HER2)\n* Axillary lymph node assessment : pN0 or PN1\n* Women aged 18 and over\n* Patients without chemotherapy after operation\n\nExclusion Criteria:\n\n* Patients with negative hormone receptor \uff08both estrogen and progesterone receptor are negative\uff09\n* Human epidermal growth factor receptor 2 \uff08HER2\uff09 positive\n* Pathological nodule evaluation: pN2 or pN3\n* Male patients\n* Patients receiving chemotherapy after surgery",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00303615",
+    "briefTitle": "Androgen Therapy for Management of Estrogen/Progesterone Receptor Negative ER(-)PR(-) Metastatic Breast Cancer",
+    "officialTitle": "Androgen Therapy for Management of Estrogen/Progesterone Receptor Negative ER(-)PR(-) Metastatic Breast Cancer, Phase II Study",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 5,
+    "primaryOutcomeMeasure": "Time to disease progression",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Over 18 years of age\n* ER Negative and PR Negative\n* Progression of disease in the metastatic setting despite taxane or other chemotherapeutic therapies including Herceptin (patients on Herceptin may continue this therapy while on study)\n* Maximized chemotherapy in the metastatic setting or patient experienced side effects contributing to decreased quality of life and elects to defer chemotherapy\n* Evaluable disease by either:\n\n  * CT Scan with or without contrast (lesions must be greater than 2 mm)\n  * PET Scan, or Bone Scan, or Plain skeletal films\n  * Chest wall or skin recurrence (digital photo to capture evaluable disease)\n* Evaluable symptoms (pain, shortness of breath, fatigue, anorexia)\n* Performance Status of 0, 1, or 2\n* Bilateral mammogram performed within one year before registration\n\nExclusion Criteria:\n\n* Uncontrolled hypercalcemia greater than 11\n* Uncontrolled congestive heart failure greater than 2 NYHA class\n* Central Nervous System metastasis\n* Concomitant steroid use\n* Performance Status of greater than 2\n* Bilirubin greater than 5.5",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

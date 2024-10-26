@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04145388",
+    "briefTitle": "Family History Study on Cancer Risk",
+    "officialTitle": "Systems-Level Capture of Family History Data to Assess Risk of Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Lynch Syndrome, Colorectal Cancer, Breast Cancer, Ovarian Cancer, Family Characteristics, Genetic Predisposition",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 18623,
+    "primaryOutcomeMeasure": "Number of patients identified at high risk of cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients with \u22652 years of prior membership, \u22651 clinical visit in prior two years, and a listed email are eligible\n* Patients must also have received healthcare services during the past 2 years at Kaiser Permanente Northern California (KPNC) sampling sites\n\nExclusion Criteria:\n\n* Patients outside the targeted geographic area\n* Patients who cannot speak or read English (given some survey instruments are validated only in English)\n* Kaiser Permanente Northern California members in the no-contact database for research studies",
+    "sex": "ALL",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

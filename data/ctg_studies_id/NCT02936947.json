@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02936947",
+    "briefTitle": "Study to Evaluate the Benefit of a High Frequency Ventilation System During Lung or Breast Cancer Radiotherapy Treatment",
+    "officialTitle": "Study to Evaluate the Benefit of a High Frequency Ventilation System During Lung or Breast Cancer Radiotherapy Treatment",
+    "overallStatus": "TERMINATED",
+    "conditions": "Lung Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 8,
+    "primaryOutcomeMeasure": "HFPV vs free breathing: 1/3 decrease of V20 (lung) or 1/2 decrease of Dmax (breast)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* breast cancer eligible for tomotherapy or linear accelerator with ABC system\n* lung cancer eligible for curative tomotherapy and with a significant breathing movements amplitude\n* lung cancer eligible for ablative stereotaxis\n* WHO 0 or 1\n\nExclusion Criteria:\n\n* patients requiring oxygen or not able to lie on the back (dyspnea)\n* pulmonary functions altered\n* cardiac insufficiency\n* patient not able to breathe with the High Frequency Ventilation System\n* risk of pneumothorax when experiencing High Frequency Ventilation",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

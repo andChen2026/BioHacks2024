@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02294565",
+    "briefTitle": "VST-1001 (Dilute Fluorescein) for Lymphatic Mapping & Localization of Lymph Nodes in Patients With Breast Cancer",
+    "officialTitle": "A Phase I/II Study of VST-1001 (Dilute Fluorescein) for Lymphatic Mapping and Localization of Lymph Nodes Draining a Primary Tumor Site in Patients With Clinically Node Negative Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 147,
+    "primaryOutcomeMeasure": "LYMPH NODE-LEVEL CONCORDANCE of Visually Observed VST-1001 Fluorescence and 99mTc-Labeled Sulfur Colloid Radioactivity, where CONCORDANCE is defined relative to radioactive nodes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of primary breast cancer.\n* Diagnosed with invasive adenocarcinoma, or DCIS for which a SLNB is the recommended standard of care, or breast cancer with all of the following conditions met:\n\n  * FNA results positive for cancer cells\n  * positive clinical breast examination\n  * mammography and/or US and/or MRI abnormality(ies) consistent with malignancy.\n* N0 and M0 at the time of study entry.\n* ECOG 0, 1, or 2\n\nExclusion Criteria:\n\n* A tumor with direct extension to the chest wall and/or to the skin.\n* Diffuse tumors or multiple malignant tumors in the breast.\n* Prior breast malignancy of the ipsilateral breast.\n* Patient currently receiving or had prior treatment for the currently diagnosed breast cancer.\n* Medical conditions and/or prior surgical procedures that have the potential to substantially alter the lymphatic drainage pattern from the primary tumor to the lymph node basin.\n* Inability to localize 1 or 2 lymph node drainage basin(s) via lymphatic mapping.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03733106",
+    "briefTitle": "Prospective Trial of Digital Breast Tomosynthesis (DBT) in Breast Cancer Screening.",
+    "officialTitle": "Prospective Randomized Trial of Digital Breast Tomosynthesis (DBT) Plus Standard 2D Digital Mammography (2DDM) or Synthetic 2D Digital Mammography (S2D) Compared to Standard 2DDM in Breast Cancer Screening.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 100000,
+    "primaryOutcomeMeasure": "To compare the cost effectiveness of breast cancer screening with digital breast tomosynthesis and 2DDM vs standard screening with 2DDM",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women aged 50-70 years attending for routine breast cancer screening\n\nExclusion Criteria:\n\n* women aged 47-49 and 71-73 invited to participate in the age extension trial\n* women who are unable to give informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

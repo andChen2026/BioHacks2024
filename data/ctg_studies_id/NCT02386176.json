@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02386176",
+    "briefTitle": "Assessment of Automated Breast Ultrasound",
+    "officialTitle": "The Assessment of the Role of Automated Breast Ultrasound (ABUS) in Screening Women With Dense Breasts for Early Detection of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 598,
+    "primaryOutcomeMeasure": "false positive rates",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 40 to 75 years of age with a\n* defined region of extremely dense breast tissue or heterogeneously dense or extremely dense parenchyma by prior digital mammography report (i.e., \"dense breasts\")\n* presenting for routine annual mammography with digital breast tomosynthesis.\n\nExclusion Criteria:\n\n* Known to be at high risk for breast cancer due to known or suspected pathologic breast cancer susceptibility gene (BRCA) (i.e. first-degree relative with known mutation) or prior chest radiation therapy before age 30;\n* No mammogram within the prior 3 years;\n* Signs or symptoms of breast disease including lump, bloody or spontaneous clear nipple discharge, eczema of the nipple;\n* Pregnancy at the time of screening by self report or lactation within the prior 6 months;\n* Breast implants, as assessment of breast density may be problematic;\n* Recent prior breast surgery or breast biopsy or cyst aspiration within the prior 12 months;\n* Had prior screening with DBT and not a hand held ABUS, or had prior screening with ABUS and not DBT.\n* Prior malignancy other than: Breast cancer at least one year earlier (12 full months have elapsed since the last treatment surgery) with no known distant metastases and no known residual tumor, or Basal or squamous cell skin cancer or in situ cervical cancer, or Other cancer for which the patient has been disease free for \u2265 5 years, with no recurrence of cancer in the last five years and no residual disease detected in the last five years\n* Unwilling or unable to provide consent.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

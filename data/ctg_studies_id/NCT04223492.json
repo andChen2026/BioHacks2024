@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04223492",
+    "briefTitle": "Liquid Biopsies and Imaging in Breast Cancer",
+    "officialTitle": "Liquid Biopsies and Imaging in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 61,
+    "primaryOutcomeMeasure": "Residual Cancer Burden index in surgical resection specimen",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven invasive breast carcinoma\n* Planned for neoadjuvant chemotherapy (and in case of a Her2-positive tumor: addition of trastuzumab and/or pertuzumab)\n\nExclusion Criteria:\n\n* Luminal A breast cancer (defined as: ER-positive and HER2-negative by immunohistochemistry and Bloom and Richardson grade 1 or 2)\n* Inflammatory breast cancer\n* Distant metastases on PET/CT\n* Other active malignant disease in the past 5 years (excluded squamous cell or basal cell carcinoma of the skin)\n* Pregnant or lactating women\n* Contra-indications for MRI according to standard hospital guidelines\n* Contra-indications for gadolinium-based contrast-agent, including known prior allergic reaction to any contrast-agent, and renal failure, defined by GFR \\< 30 mL/min/1.73m2",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

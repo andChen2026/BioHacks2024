@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00194740",
+    "briefTitle": "Taxotere Plus Weekly Navelbine and G-CSF: A Study in Stage IV Breast Cancer",
+    "officialTitle": "Taxotere Plus Weekly Navelbine and G-CSF: A Phase II Study in Stage IV Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 48,
+    "primaryOutcomeMeasure": "Response to treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have stage IV, microscopically-confirmed carcinoma of the breast with histologic slides and/or blocks available for review.\n* Patients must have relapse or progression while receiving, or within 12 months of having received, anthracycline-containing (doxorubicin or mitoxantrone) regimen as either adjuvant treatment or therapy for advanced breast cancer. Prior Taxol by 3- or 24-hour infusion is permitted. Patients who have received a maximum dose of anthracycline (greater than 450 mg/m2) are also eligible.\n* Patients must have measurable (bidimensionally) or evaluable disease.\n* Patients must be 18 or more years of age.\n* Patients must have a Karnofsky Performance Status greater than or equal to 70% at screen and on the first day of treatment.\n* Patients must have a life expectancy of more than 16 weeks.\n* Prior irradiation is permitted, provided that prior irradiation does not exceed 25% of the estimated bone marrow volume and provided that measurable/evaluable disease exists outside the radiation field OR there must be histologic proof of progressive disease within a radiation field.\n* Informed consent must be obtained prior to registration.\n* Patients must be more than 2 weeks from prior surgery; more than 3 weeks from radiation therapy to the pelvis, spine or long bones; more than 3 weeks from prior chemotherapy (more than 6 weeks for mitomycin C or nitrosureas), or more than 2 weeks from prior hormonal therapy.\n* All patients must have appropriate central venous access.\n\nExclusion Criteria:\n\nPatients are excludes if their:\n\n* Granulocyte count is less than 1,500/mm3.\n* Platelet count is less than 100,000/mm3.\n* Hemoglobin is less than 9 gm/dl.\n* Creatinine is greater than 2.0 mg/dl.\n* Total bilirubin is greater than ULN (institutional upper limit of normal)..\n* SGOT (AST) and/or SGPT (ALT) is greater than 1.5 x ULN concomitant with alkaline phosphatase greater than 2.5 x ULN.\n\nPatients are excluded if they are:\n\n* In visceral crisis characterized by rapidly progressive hepatic or lymphangitic lung metastases.\n* Medically unstable.\n* Pregnant or lactating.\n\nPatients are excluded if they have:\n\n* Uncontrolled CNS disease.\n* Pre-existing clinically significant peripheral neuropathy except for abnormalities due to cancer.\n* Psychological, familial, sociological or geographical conditions which do not permit weekly medical follow-up and compliance with the study protocol.\n* Prior therapy with Navelbine.\n* Sensitivity to E. Coli-derived proteins.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

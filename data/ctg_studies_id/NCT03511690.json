@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03511690",
+    "briefTitle": "Testing an Intelligent Tutoring System to Enhance Genetic Risk Assessment",
+    "officialTitle": "Testing an Intelligent Tutoring System Intervention to Enhance Genetic Risk Assessment in Underserved Blacks and Latinas at Risk of Hereditary Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Hereditary Breast and Ovarian Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 95,
+    "primaryOutcomeMeasure": "Breast Cancer Genetics Knowledge",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Self-identify as Black and/or Latina\n* English proficiency\n* Be 18 years old or older\n* Be able to provide informed consent\n* Be at risk of carrying HBOC mutation using personal/family cancer histories based on the NCCN guidelines\n\nExclusion Criteria:\n\n* Prior participation in genetic counseling or genetic testing for hereditary cancer risk.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

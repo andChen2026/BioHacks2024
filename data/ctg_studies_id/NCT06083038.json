@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06083038",
+    "briefTitle": "Utilizing Continuous Glucose Monitoring to Characterize and Manage Hyperglycemia in Patients Initiating Alpelisib",
+    "officialTitle": "Utilizing Continuous Glucose Monitoring (CGM) to Characterize and Manage Hyperglycemia in Patients Initiating Alpelisib",
+    "overallStatus": "RECRUITING",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "Time to peak glucose level following the administration of alpelisib",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Adults aged 18 or older with a diagnosis of metastatic breast cancer that are initiating treatment with alpelisib.\n2. Must be willing and able to comply with study visits and procedures.\n3. Must meet standard clinical criteria for utilization of alpelisib including hormone-receptor positive/HER2 negative cancer with the presence of a PIK3CA mutation.\n4. Oncologist plans to use alpelisib until progression of disease or unacceptable toxicity.\n5. Patients must receive cancer care during alpelisib treatment phase with a HealthPartners oncologist and be willing to see IDC/HealthPartners Diabetes Education for diabetes management.\n6. Must have a compatible smartphone, access to a compatible smartphone, or the ability to upload CGM reader from home or bring the reader in to a medical visit at least once a month for uploading, to allow for remote management of diabetes and data collection.\n7. Life expectancy of at least 3 months\n\nExclusion Criteria:\n\n1. Known history of serious allergy to skin-adhesive material or previous cutaneous reaction to a continuous glucose monitor.\n2. Known currently uncontrolled diabetes, defined as the most recent HbA1c over 10% or history of DKA within 6 months prior to enrollment.\n3. Concurrent use of high-dose vitamin C, defined as \u2265 1g of oral vitamin C daily, or intravenous Vitamin C infusions.\n4. Any other concurrent severe and/or uncontrolled medical condition that, in the opinion of the investigator, would cause unacceptable safety risk, compromise compliance with the protocol, or contraindicate participation in the study. One example being known requirement for high dose steroids at the time of possible enrollment into the study.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02625935",
+    "briefTitle": "Prospective Observational Study Evaluating Treatment Decision Impact of Prosigna\u00ae in Early Stage Breast Cancer Patients",
+    "officialTitle": "A Prospective Observational Study Evaluating Treatment Decision Impact of Prosigna\u00ae in Early Stage Breast Cancer Patients Who Are Candidates for Genomic Testing",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 206,
+    "primaryOutcomeMeasure": "The proportion of patients for whom the choice of treatment was changed as a result of receiving the Prosigna test results.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Surgically resected node-negative, estrogen receptor-positive, HER2-negative early-stage invasive breast cancer (T1-T2, N0, pN0 (i+), pN0 (mol+), M0)\n\n  1. Estrogen receptor status will be evaluated by Immunohistochemistry (IHC) and more than 1% of stained tumor cells will be considered positive.\n  2. HER2 status will be evaluated by IHC and/or by in-situ fluorescence hybridization (0 or 1+, or 2+ will be considered negative in the absence of in-situ fluorescence hybridization).\n* Postmenopausal females, which is defined as:\n\n  1. Natural Amenorrhea \\> 12 months, regardless of age\n  2. Bilateral oophorectomy, regardless of age (the oophorectomy must have been carried out at least 4 weeks before entering the study)\n  3. Radiological castration with amenorrhea \\> 3 months, regardless of age\n  4. Hysterectomy and postmenopausal blood levels of FSH/LH\n* Able to give informed consent\n* Eligible for treatment of breast cancer with adjuvant chemotherapy, as determined by the treating physician\n* ECOG performance status of 0 or 1\n\nExclusion Criteria:\n\n* Tumor specimen from core needle biopsy (CNB)\n* Tumor stage T3-T4\n* Non-invasive breast cancer (e.g., Paget's disease, DCIS)\n* Tumors with nodes that are not N0, pN0 (i+), or pN0 (mol+)\n* Tumors that are estrogen receptor (ER) negative or HER2-positive\n* Have metastatic disease\n* Have received another genomic test for prognosis of early breast cancer (i.e., Oncotype Dx, Mammaprint, or BCI)\n* Unable to give informed consent\n* Unable to complete patient reported outcome surveys\n* Have contraindications for adjuvant chemotherapy, as determined by the treating physician\n\n  o Age, performance status, significant comorbidities, etc.\n* ECOG performance status \\> 1",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

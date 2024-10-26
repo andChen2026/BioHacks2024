@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02571530",
+    "briefTitle": "Super-selective Intra-arterial Cerebral Infusion of Trastuzumab for the Treatment of Cerebral Metastases of HER2/Neu Positive Breast Cancer",
+    "officialTitle": "Phase 1 Trial of Super-selective Intra-arterial Cerebral Infusion of Trastuzumab After Blood-Brain Barrier Disruption for the Treatment of Cerebral Metastases of HER2/Neu Positive Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Neoplasm Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2,
+    "primaryOutcomeMeasure": "Maximum tolerated dose (MTD)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Male and female patients 18 years of age or older\n2. Karnofsky Performance Status (KPS) of 70 or higher\n3. Capable of giving informed consent or have an acceptable surrogate capable of giving consent of the subject's behalf\n4. Have a documented history of HER2/neu positive breast cancer that is 3+ on immunohistochemical staining or positive on fluorescent in-situ hybridization (FISH) or chromogenic in-situ hybridization (CISH) and have evidence of parenchymal metastatic tumor(s) on brain imaging studies.\n5. Adequate labs for procedure with trastuzumab, including but not limited to White Blood Count (WBC), Hemoglobin, Hematocrit, Platelet Count, Prothrombin Time (PT), International Normalized Ratio (INR), Sodium, Potassium, Chloride, Glucose, Blood Urea Nitrogen (BUN), Serum Creatinine (CR)\n\nExclusion Criteria:\n\n1. Age less than 18 years\n2. KPS less than 70\n3. Brain metastases without history of HER2/neu positive breast cancer\n4. Leptomeningeal dissemination of brain metastases\n5. Pregnancy or refusal to use contraception during a 3 month period before and 7 month period after Intra-arterial (IA) trastuzumab administration\n6. Prior administration of intraarterial trastuzumab\n7. Subjects with inadequate baseline Left Ventricular Ejection Fraction (LVEF)\n8. Subjects with history of infusion reaction with trastuzumab\n9. Subjects who have had blood brain barrier (BBB) disruption with mannitol within 48 hours\n10. Subjects with evidence of midline shift or herniation\n11. Subjects with resectable brain metastases or whose cerebral tumors are amenable to stereotactic radio-surgery\n12. Subjects who have not progressed after therapy for brain metastases",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

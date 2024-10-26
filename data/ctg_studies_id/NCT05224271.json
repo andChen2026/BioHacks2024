@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05224271",
+    "briefTitle": "Evaluating Patient Reported Outcomes in Radiation Therapy, the PRO-RT Study",
+    "officialTitle": "Patient Reported Outcomes in Radiation Therapy (PRO-RT)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Carcinoma, Head and Neck Carcinoma, Lung Carcinoma, Malignant Solid Neoplasm",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 18,
+    "primaryOutcomeMeasure": "Survey completion rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18+\n* English speaking\n* Consented for Outcomes Registry Study (15-000136)\n* Undergoing radiotherapy for cancer treatment with curative intent\n* Willing to and able to give consent and participate in study\n* Willing to complete all surveys\n* Able to access a device (computer, smartphone, or tablet) with web access every day to complete study surveys\n* Willing to connect to a device (i.e., a smartphone, Fitbit, or tablet) that can regularly link to Hugo for data transfer\n* Willing to share personal information to Tremendous to be able to obtain the Visa e-cards for time and effort put into this study\n* Willing to use the Hugo health data sharing platform\n* Willing to create a Mayo Clinic Patient Portal (if not already created)\n\nExclusion Criteria:\n\n* Unable to give consent and enroll prior to administration of baseline survey\n* Partial breast radiation therapy (RT) (3 fraction), due to overlap in cadence used for all disease sites\n* Stereotactic body radiation therapy (SBRT) to the lung, due to overlap in cadence used for all disease sites\n* Co-enrollment on another PRO related study (soft rule)\n\n  * Coordinator would need to get source data from Adam via Hugo\n  * Response data will only be accessible by select people",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

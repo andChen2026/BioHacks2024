@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01279304",
+    "briefTitle": "Radiotherapy After Primary Chemotherapy for Breastcancer",
+    "officialTitle": "Radiotherapy After Primary CHEMotherapy for cT1-2cN1M0 Breast Cancer.: a Multicentre Prospective Registration Study.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 851,
+    "primaryOutcomeMeasure": "locoregional recurrence rate",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* cT1-2 invasive breast cancer, without or with one or more pathologically proven tumour positive axillary lymph nodes (either by sentinel node biopsy, ultrasound/palpation guided biopsy or fine needle aspiration)\n* At least 3 cycles of primary systemic treatment have been given (irrespective of the regimen)\n* No standard axillary lymph node dissection is performed prior to chemotherapy\n\nExclusion criteria:\n\n* cT3-T4 invasive breast cancer prior to any treatment\n* Patients with \\> 3 suspicious axillary nodes on imaging\n* cN2-3 prior to any treatment\n* More than focally irradical surgery and breast conserving therapy\n\nTo investigate whether a patient is eligible for the RAPCHEM study, a meticulous examination of the axilla is necessary. Therefore each patient should undergo an ultrasound of the axilla and if possible an ultrasound guided needle biopsy UNB (FNA or core). The US/UNB can be performed instantly or as second look in case of enlarged nodes on MRI. The criteria for performing an UNB are:\n\n* Cortex \\>2.3 mm not measured at the poles of the node; or\n* Disappearance of the fatty hilum; or\n* Asymmetric bulging of the cortex of a lymph node;\n\nIf a PET-CT is performed the worst outcome of the two studies is accepted as the real clinical stage of the axilla (i.e. 1 PA proven positive lymph node on ultrasound and 3 on PET-CT; means 3 positive lymph nodes)\n\nThe N status of the axilla prior to chemotherapy is based upon:\n\n* Positive PET-CT of more than one but less than 4 axillary nodes; since the specificity of PET positive nodes in a proven breast cancer patient is very high, pathology confirmation is not absolutely required\n* Positive US of axillary nodes; at least one should be pathology proven tumour positive\n* The worst outcome of 1 and 2 represents the most reliable clinical axillary staging.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

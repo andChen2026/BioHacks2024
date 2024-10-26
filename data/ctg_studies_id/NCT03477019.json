@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03477019",
+    "briefTitle": "Ultrasound-enhanced Delivery of Chemotherapy to Patients With Liver Metastasis From Breast- and Colorectal Cancer",
+    "officialTitle": "Ultrasound-enhanced Delivery of Chemotherapy to Patients With Liver Metastasis From Breast- and Colorectal Carcinoma- a Randomized Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Colorectal Neoplasms, Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 17,
+    "primaryOutcomeMeasure": "difference in measured response between treated and untreated lesions",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically verified breast carcinoma or colorectal carcinoma\n* 2 or multiple liver metastases\n* considered eligible by a consulting oncologist for first line treatment with chemotherapy in the group of taxanes (patients with breast cancer) or the combination regimen FOLFIRI (patients with colorectal carcinoma)\n* Signed informed consent and expected cooperation of the patients for the treatment and follow up must be obtained and documented according to ICH GCP, and national/local regulations\n\nExclusion Criteria:\n\n* Known contraindications for ultrasound contrast-enhancement agent Sonovue\u00ae (Bracco)\n* Hematological bleeding status before experimental treatment: Hb \\< 8g/dL, trc \\< 80 x109/l, APTT\u02c3 45s, INR \u02c3 1,5\n* Considered eligible for surgical removal of liver metastases\n* Pregnancy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

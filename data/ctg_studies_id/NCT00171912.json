@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00171912",
+    "briefTitle": "Imatinib Mesylate in Patients With Various Types of Malignancies Involving Activated Tyrosine Kinase Enzymes",
+    "officialTitle": "Imatinib Mesylate in Patients With Various Types of Malignancies Involving Activated Tyrosine Kinase Enzymes",
+    "overallStatus": "COMPLETED",
+    "conditions": "Hypereosinophilic Syndrome, Systemic Mastocytosis, Chronic Myelomonocytic Leukemia, Dermatofibrosarcoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 38,
+    "primaryOutcomeMeasure": "To assess the efficacy and the safety of imatinib mesylate therapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Malignancy likely related to an activated tyrosine kinase enzyme sensitive to imatinib mesylate.\n2. Spread of the disease to the rest of the body (confirmed by tissue sample) beyond the skin.\n3. Malignant tissue showing activation of certain tyrosine kinases (ABL, ARG, KIT (CD117), or PDGF-R alpha or beta) \\& preferably within 6 weeks of entry.\n\nExclusion Criteria:\n\n1. Certain leukaemias (abl-mutated), some gastrointestinal stromal tumours (c-KIT-positive) or certain systemic mastocytosis (if c- KIT D816V mutation).\n2. A primary prostate, breast, lung or brain tumour,\n3. Patient has previously been treated with imatinib mesylate except where treatment was more than 6 months previously and there is no suggestion of clinical resistance nor lack of response.\n\nOther protocol-defined inclusion / exclusion criteria may apply.",
+    "sex": "ALL",
+    "minimumAge": "16 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

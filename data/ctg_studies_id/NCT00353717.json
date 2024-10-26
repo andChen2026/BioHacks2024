@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00353717",
+    "briefTitle": "Combined Treatment of Cetuximab and Paclitaxel in Basal Like Breast Carcinoma",
+    "officialTitle": "Phase II of Combined Treatment of Cetuximab and Paclitaxel in Basal Like Breast Carcinoma",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "tumor markers tumor size by ct",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with metastatic breast carcinoma of the basal like subtype with available biopsy for analysis and ECOG PS of 2 or less\n\nExclusion Criteria:\n\n* Pregnancy\n* BUN, blood creatinine, AST, ALT \\> X3 of upper limits of normal\n* More than previous 2 chemotherapy lines in the metastatic settings or the use of previous inhibitors of EGFR",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

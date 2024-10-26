@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00923871",
+    "briefTitle": "Automating Breast Radiation Therapy (RT)",
+    "officialTitle": "Automating the Breast Radiation Therapy Process to Improve Efficiency",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 160,
+    "primaryOutcomeMeasure": "To generate on-line IMRT treatment plans using automated tools based on CBCT images acquired at the treatment unit.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with breast cancer who will receive standard two-field tangential whole breast radiation therapy with dose prescription of 4240 cGy in 16 fractions, 5000 cGy in 25 fractions or 4000 cGy in 16 fractions.\n* Patients with any stage of breast cancer.\n* Patients with prior treatment such as surgery or chemotherapy for any type of cancer.\n* Able to provide a written informed consent.\n* 18 years of age or older.\n\nExclusion Criteria:\n\n* \\< 18 years of age.\n* Unable to provide informed consent.\n* Males.\n* Patients who received partial breast radiation and not the standard dose.\n* Patients who will not receive 4240 cGy in 16 fractions, 5000 cGy in 25 fractions, or 4000 cGy in 16 fractions.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

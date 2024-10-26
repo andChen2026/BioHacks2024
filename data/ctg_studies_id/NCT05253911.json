@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05253911",
+    "briefTitle": "Tucatinib in Patients With Locally Advanced or Metastatic HER2-positive Breast Cancer Who Received at Least Two Prior Anti-HER2 Treatment Regimens.",
+    "officialTitle": "Tucatinib in Patients With Locally Advanced or Metastatic HER2-positive Breast Cancer Who Received at Least Two Prior Anti-HER2 Treatment Regimens: a Multicenter, International, Prospective, Non-interventional Study in Germany and Austria (TRACE)",
+    "overallStatus": "RECRUITING",
+    "conditions": "HER2-positive Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Time to deterioration of EORTC global health scale by at least 10 points",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged 18 years or older.\n* Histologically confirmed HER2+ breast cancer with HER2 positivity defined as a 3+ score by immunohistochemistry (IHC) or a positive result by in situ hybridization (ISH), optionally combined with a IHC2+ score.\n* Diagnosis of locally advanced or metastatic HER2+ breast cancer, including patients with brain metastases.\n* Prior treatment with at least two prior anti-HER2-based regimens.\n* Decision for treatment with tucatinib in combination with trastuzumab and capecitabine according to current SmPC of tucatinib either in\n\n  1st/2nd palliative treatment line (Cohort 1) or 3rd/4th palliative treatment line (Cohort 2).\n* Progression after or intolerance of last systemic anti-HER2-based therapy.\n* Indication for treatment with tucatinib as assessed by the treating physician.\n* Signed written informed consent (only if patient is alive at time of inclusion, not applicable for retrospective inclusion of deceased patients).\n* Knowledge of German language.\n* Other criteria according to current SmPC of tucatinib\n\nExclusion Criteria:\n\n* Contraindications according to SmPC of tucatinib\n* Participation in an interventional clinical trial within 30 days prior to enrolment or simultaneous participation in an interventional clinical trial.\n* Treatment with tucatinib/trastuzumab/capecitabine (=study treatment) in 5th or higher palliative therapy line.\n* Onset of tucatinib treatment later than 22 days after start of therapy line (in case tucatinib administration is started later than trastuzumab and/or capecitabine for any reason)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

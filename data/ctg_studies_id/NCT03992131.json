@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03992131",
+    "briefTitle": "A Study to Evaluate Rucaparib in Combination With Other Anticancer Agents in Participants With a Solid Tumor (SEASTAR)",
+    "officialTitle": "SEASTAR: A Phase 1b/2, Open-label, Parallel Arm Study to Assess the Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of Oral Rucaparib in Combination With Other Anticancer Agents in Patients With a Solid Tumor",
+    "overallStatus": "TERMINATED",
+    "conditions": "Ovarian Cancer, Triple-negative Breast Cancer, Urothelial Carcinoma, Solid Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Number of Participants With Objective Response, as Assessed by the Investigator Per Response Evaluation Criteria in Solid Tumors (RECIST) Version (v)1.1 (Phase 2)",
+    "eligibilityCriteria": "Inclusion Criteria Phase 1b (all arms):\n\n* Solid tumor, advanced or metastatic, progressed on standard treatment participants in Arm B must have either triple negative breast cancer OR urothelial carcinoma OR ovarian cancer OR have a solid tumor with a deleterious mutation in BRCA1, BRCA2, PALB2, RAD51C or RAD51D\n* Measurable disease per RECIST v1.1\n* Adequate organ function\n* Eastern Cooperative Oncology Group (ECOG) 0 or 1\n* Tumor tissue for genomic analysis\n\nExclusion Criteria Phase 1b (all arms):\n\n* Known history of myelodysplastic syndrome (MDS)\n* Symptomatic and/or untreated central nervous system (CNS) metastases\n\nInclusion Criteria Phase 2 (all arms):\n\n* Histologically or cytologically confirmed solid tumor, previously treated and measurable per RECIST v1.1, as follows:\n* Arm A: ovarian cancer with gBRCAwt disease, either platinum-sensitive OR platinum-resistant\n* Arm B: Metastatic triple negative breast cancer OR advanced/ metastatic urothelial carcinoma OR relapsed ovarian cancer\n* At least 1 prior line of standard therapy for advanced disease\n* Adequate organ function\n* ECOG 0 or 1\n* Tumor tissue for genomic analysis\n\nExclusion Criteria Phase 2 (all arms):\n\n* Prior poly (adenosine diphosphate \\[ADP\\]-ribose) polymerase (PARP) inhibitor treatment allowed for participants with ovarian cancer\n* Known history of MDS\n* Symptomatic and/or untreated CNS metastases",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

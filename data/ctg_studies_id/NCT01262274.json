@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01262274",
+    "briefTitle": "Randomized Phase II Trial of Anastrozole Plus Metronomic Tegafur-uracil as Neo-adjuvant Therapy in Postmenopausal Breast Cancer",
+    "officialTitle": "Randomized Phase II Trial of Anastrozole in Combination With/Without Metronomic Tegafur-uracil as Neo-adjuvant Therapy in Postmenopausal Primary Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 57,
+    "primaryOutcomeMeasure": "Response Rate (confirmed by calipers CT or MRI)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically-confirmed diagnosis of invasive breast cancer\n* Clinical stage T2, N0 or N1, M0 (TNM Classification)\n* Patients must be postmenopausal\n* Tumors are estrogen receptor (ER) positive and human epidermal growth factor receptor (HER2) negative\n* ECOG Performance status (PS) 0 or 1\n* Patients must be able to swallow tablets and capsules\n* Candidates for mastectomy or breast-conserving surgery\n* Adequate bone marrow, liver and renal function\n* Written informed consent was obtained from all patients before randomization.\n\nExclusion Criteria:\n\n* Inoperable, bilateral or inflammatory breast cancer\n* multiple carcinoma\n* Personal history of invasive carcinoma\n* Patients receive systemic therapy of corticosteroid\n* Patients receive estrogen preparation or raloxifene\n* Patients with other concurrent severe and/or uncontrolled medical disease\n* Patients whom doctors judged inadequate to the enrollment of this study by other reasons.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

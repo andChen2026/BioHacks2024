@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00295893",
+    "briefTitle": "Combination Chemotherapy With or Without Trastuzumab in Treating Patients With Stage II or Stage III Breast Cancer",
+    "officialTitle": "Randomized Phase II Study of Docetaxel, Adriamycin, and Cytoxan (TAC) Versus Adriamycin/Cytoxan, Followed by Abraxane/Carboplatin (ACAC) +/- Trastuzumab as Neoadjuvant Therapy for Patients With Stage II-III Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 121,
+    "primaryOutcomeMeasure": "Count of Patients With Pathologic Complete Response (pCR)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically proven infiltrating ductal or lobular breast carcinoma\n\n  * Stage II or III disease\n  * Inflammatory breast cancer allowed\n* Hormone-receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status \\< 2\n* Male or female\n* Menopausal status not specified (for female patients)\n* Absolute neutrophil count \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Bilirubin normal (except for patient's with Gilbert's disease)\n* Creatinine \u2264 1.2 mg/dL\n* Creatinine clearance \u2265 70 mL/min\n* Ejection fraction \u2265 50% on MUGA\n* No neuropathy \u2265 grade 1\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective nonhormonal contraception\n* No prior malignant disease within the past 5 years, excluding:\n\n  * Squamous cell or basal cell skin carcinoma\n  * Stage I or in situ cervical carcinoma\n* No noninvasive (in situ) breast carcinoma within the past 5 years\n\nPRIOR CONCURRENT THERAPY:\n\n* At least 5 years since prior antiestrogen treatment for any indication other than breast cancer prevention (tamoxifen, raloxifene, or an aromatase inhibitor)\n* No prior radiotherapy to the chest wall",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

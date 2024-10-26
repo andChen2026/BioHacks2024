@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00613275",
+    "briefTitle": "Patient Navigation in the Safety Net:CONNECTeDD",
+    "officialTitle": "Patient Navigation in the Safety Net:CONNECTeDD",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Cervical Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 4038,
+    "primaryOutcomeMeasure": "Develop,implement and evaluate a primary care-based,patient navigation program using patient navigators in the Community Health Centers. We will investigate the effect of this intervention on timing and quality of cancer-related care",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Receive care at one of the 6 participating community Health centers\n* Have received a positive breast or colorectal cancer screening test requiring follow-up on a different day\n* Have been newly diagnosed with breast or colorectal cancer\n* Have received notification by the provider of an abnormal breast or colorectal screening result\n\nExclusion Criteria:\n\n* Cognitively impaired\n* Institutionalized (nursing home, incarcerated)\n* Children \\<18\n* Actively involved in cancer treatment at time of presentation\n* Currently or previously navigated with (a) navigation documented in the medical record or (b) patient can articulate that they are in a navigation program or case management program for cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00620373",
+    "briefTitle": "Molecular Breast Imaging as a Screening Tool for Women With Dense Breasts",
+    "officialTitle": "Evaluation of Low-dose Molecular Breast Imaging as a Screening Tool in Women With Mammographically Dense Breasts and Increased Risk of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 969,
+    "primaryOutcomeMeasure": "Diagnostic Yield",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Past prior screening mammography (SM) interpreted as negative or benign (This screening must have been performed at Mayo Clinic Rochester, Minnesota).\n2. Past prior SM interpreted as heterogeneously dense or extremely dense (This screening must have been performed at Mayo Clinic Rochester, Minnesota).\n3. Women younger than 50 years who had not undergone prior mammography, as most of these women have dense breasts.\n4. Subjects had to have at least one of the following risk factors:\n\n   1. Known mutation in breast cancer susceptibility gene 1 (BRCA1) or breast cancer susceptibility gene 2 (BRCA2)\n   2. History of chest, mediastinal, or axillary irradiation\n   3. Personal history of breast cancer\n   4. History of prior biopsy showing atypical ductal hyperplasia, atypical lobular hyperplasia, lobular carcinoma in situ, or atypical papilloma\n   5. Gail or Claus model lifetime risk greater than or equal to 20%\n   6. Gail model 5 year risk greater or equal to 2.5%\n   7. Gail model 5 year risk greater or equal to 1.6%\n   8. One first-degree relative with history of breast cancer\n   9. Two second-degree relatives with history of breast cancer\n\nExclusion Criteria:\n\n1. They are unable to understand and sign the consent form\n2. They are pregnant or lactating\n3. They are physically unable to sit upright and still for 40 minutes.\n4. They have self-reported signs or symptoms of breast cancer (palpable mass, bloody nipple discharge, axillary mass etc.).\n5. They have had needle biopsy within 3 months, or breast surgery within 1 year prior to the study.\n6. They are currently taking tamoxifen, evista (raloxifene), or an aromatase inhibitor for adjuvant therapy or chemoprevention.",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

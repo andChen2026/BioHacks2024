@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00721058",
+    "briefTitle": "Pre-operative Contrast Enhanced CT to Improve Delineation of the Tumorbed in Radiotherapy for Breast Cancer.",
+    "officialTitle": "Pre-operative Contrast Enhanced CT to Improve Delineation of the Tumorbed in Radiotherapy for Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "The percentage of the PTV-2 receiving < 85% of the dose, if treated with the RT-plan for PTV-1.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eligible for breast conserving therapy i.e. histologically proven breast cancer\n* Operable disease\n* Visible mass on mammography or ultrasound \\> 0.5 c\n\nExclusion Criteria:\n\n* All contra-indications for breast conserving therapy, i.e. previous radiotherapy of the breast, multicentricity, inoperable disease, or too large tumor in a relatively too small breast, pregnancy.\n* Contra-indications for intravenous contrast, i.e. iodine allergy, renal malfunction (kreatinine clearance \\< 60 ml/min), , previous allergic reaction to i.v. contrast, M. Kahler, use of NSAIDs, Diuretics or Metformine.\n* Absence of tumor mass \\> 0.5 cm on conventional mammography or ultrasound",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

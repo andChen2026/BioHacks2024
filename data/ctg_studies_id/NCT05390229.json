@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05390229",
+    "briefTitle": "Screening Contrast-enhanced Mammography",
+    "officialTitle": "Comparison of the Performance of Diagnostic Contrast-enhanced Mammography and Magnetic Resonance Imaging for Suspicious Breast Lesion at Screening",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Diagnostic value for breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female aged 18 and over\n* At least one breast lesion with BIRADS classification 5\n\nExclusion Criteria:\n\n* Refusal to perform the biopsy or surgery\n* Pregnant or possibly pregnant woman\n* Usual contraindication to contrast product\n\n  * Significant kidney failure\n  * Allergy to contrast medium\n* hyperthyroidism\n* Usual contraindications to MRI",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

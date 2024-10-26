@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02529384",
+    "briefTitle": "Multiple B-value Diffusion-weighted Imaging(DWI) in Evaluation of Breast Lesions",
+    "officialTitle": "Multiple B-value Diffusion-weighted Imaging in Evaluation of Breast Lesions\uff1aCompare Biexponential Model, Stretched Exponential Model, Conventional Monoexponential DWI and Pathological Specimens.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms, DWI",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "The values of Apparent diffusion coefficient (ADC, mm^2/s), tissue diffusivity (D, mm^2/s), pseudo-diffusion coefficient (D*, mm^ 2/s) measured from the DWI image",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patient with breast lesion (Breast Imaging Reporting and Data System 2,3,4,5)\n* Operation is take in Tang-du hospital\n\nExclusion Criteria:\n\n* Postoperative patient\n* Suffer radiotherapy,chemotherapy and endocrine treatment\n* Serious image artifacts\n* Lesion with diameter less than 3mm\n* Scan during menstrual period\n* Other magnetic resonance imaging contraindications",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

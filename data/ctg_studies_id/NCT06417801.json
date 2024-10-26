@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06417801",
+    "briefTitle": "Prevalence of Emerging Treatment-induced Mutations in Metastatic ER-positive Breast Cancer.",
+    "officialTitle": "PANGEIA-2: Prevalence of Emerging Treatment-induced Mutations in metastaticER Positive Breast Cancer.",
+    "overallStatus": "RECRUITING",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 70,
+    "primaryOutcomeMeasure": "Prevalence of emerging ESR1 mutations",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nCohort 1:\n\n* BC patients, male and female, 18 years old and older, pre or post menopausal, with HR+ (ER and/or PR positive), Her-2 negative (confirmed centrally) locally advanced irresectable and/or metastatic disease\n* Confirmation of HR and Her-2 status may be performed in the primary tumor or in the metastatic lesion (patients with discordant results may be included)\n* Patients must be candidates to CDK4/6i therapy in combination with endocrine therapy in the first line setting (with or without ovarian suppression)\n* Patients may have received one previous line of chemotherapy in the metastatic setting, but no endocrine therapy in the metastatic setting is allowed\n* Patients may have received chemotherapy in the neo/adjuvant setting\n* Patients may have received endocrine therapy (with or without ovarian suppression) in the neo/adjuvant setting\n* Patients may have received a CDK4/6i in the adjuvant setting, provided they are still candidates for CDK4/6i therapy in the metastatic setting\n* Patients must be able to undergo a liquid biopsy procedure before starting their first line treatment\n* All patients must fill and sign an informed consent form.\n\nCohort 2:\n\n* BC patients, male and felame, 18 years old and older, pre or post menopausal, with HR+ (ER and/or PR positive), Her-2 negative (confirmed centrally) locally advanced irresectable and/or metastatic disease who have progressed on a CDK4/6i in combination with endocrine therapy (with or without ovarian suppression) in the first or second line setting\n* All other non-conflicting inclusion criteria for cohort 1 apply.\n\nExclusion Criteria:\n\nPatients with HR+ (ER and/or PR positive) and Her-2 negative disease NOT confirmed centrally\n\n* Patients with NO radiologic and/or pathologic confirmed locally irresectable and/or metastatic breast cancer\n* Patients who are NOT candidates for further systemic treatment after diagnosis of metastatic disease or disease progression\n* Patients who have already started a CDK4/6i in combination with endocrine therapy (with or without ovarian suppression) for metastatic disease in the first line setting (for cohort 1); and patients who have already started a new line of treatment for metastatic disease after disease progression on a CDK4/6i in combination with endocrine therapy (with or without ovarian suppression)(for cohort 2)\n* Patients who are NOT able to undergo a liquid biopsy procedure\n* Patients who are NOT able to provide informed consent.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

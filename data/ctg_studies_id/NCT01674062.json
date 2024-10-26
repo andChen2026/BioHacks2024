@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01674062",
+    "briefTitle": "A Study of Perjeta (Pertuzumab) in Combination With Herceptin (Trastuzumab) in Participants With Metastatic Breast Cancer",
+    "officialTitle": "An Exploratory Phase II, Single-Arm, Multicenter Study to Evaluate the Efficacy and Safety of the Combination of Pertuzumab and Herceptin (Trastuzumab) in Patients With HER2-Positive Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 95,
+    "primaryOutcomeMeasure": "Cohorts 1 and 2: Percentage of Participants With a Confirmed Best Overall Response of Complete Response (CR) or Partial Response (PR) According to Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.0 During Dual-Agent Treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females greater than or equal to (\u2265) 18 years of age, with histologically-confirmed HER2-positive breast cancer\n* Metastatic breast cancer, with progression on trastuzumab-based therapy as last treatment for metastatic disease\n* Less than or equal to (\u2264) 3 chemotherapy regimens prior to study entry\n* Last trastuzumab dose \u22649 weeks before study entry for participants receiving pertuzumab + trastuzumab, and \u22654 weeks for participants receiving pertuzumab monotherapy\n* Left ventricular ejection fraction \u226555% at study entry\n\nExclusion Criteria:\n\n* Previous treatment with an anti-cancer vaccine or any targeted therapy other than trastuzumab\n* Brain metastases\n* History of any cardiac adverse event related to trastuzumab therapy\n* Any other malignancy in the last 5 years, except for basal cell cancer or cancer in situ of the cervix",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

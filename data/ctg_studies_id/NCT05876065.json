@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05876065",
+    "briefTitle": "Capecitabine and Cyclophosphamide (XC) as Maintenance Therapy for Advanced Breast Cancer",
+    "officialTitle": "Efficacy and Safety of Capecitabine and Cyclophosphamide (XC) Versus Physician's Choice as Maintenance Therapy for Advanced Breast Cancer: a Randomized, Controlled, Open-label Clinical Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 86,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, age\u226518 years old\n* ECOG\u22642\n* Pathologically confirmed primary breast cancer, with pathologically or radiologically confirmed recurrent or metastatic lesions\n* HR+/HER2+ or HR-/HER2+ or HR-/HER2-\n* At least one measurable lesion or bone-only disease (osteolytic or mixed) according to RECIST v1.1\n* Disease control (complete response + partial response + stable disease) after salvage treatment\n* Expected survival \u22656 months\n* Adequate organ function\n\nExclusion Criteria:\n\n* during pregnancy and lactation\n* Patients with central nervous system metastasis",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

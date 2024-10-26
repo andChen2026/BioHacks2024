@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02086578",
+    "briefTitle": "Study Assessing the Potential for Reduced Rates of Implant Failure Using Multi-Beam Intensity-Modulated Radiation Therapy for Locally Advanced Breast Cancer Patients with Implant Reconstructions",
+    "officialTitle": "Phase II Study Assessing the Potential for Reduced Rates of Implant Failure Using Multi-Beam Intensity-Modulated Radiation Therapy for Locally Advanced Breast Cancer Patients with Implant Reconstructions",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 124,
+    "primaryOutcomeMeasure": "efficacy of multi-beam IMRT",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females who are age \u2265 18 years of age with a life expectancy estimated to be at least 2 years\n* Histologically-confirmed invasive breast cancer by MSKCC\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Status post mastectomy with surgical assessment of axillary nodes\n* Immediate reconstruction with tissue expander (Group 2) or permanent implant (Group 1) prior to RT performed at MSKCC\n* If PMRT is recommended, the treatment fields will include the axillary, supraclavicular, and internal mammary nodes.\n\nExclusion Criteria:\n\n* Absence of a breast reconstruction prior to RT (placement of tissue expander is sufficient for group 2)\n* Pregnant or breastfeeding.\n* Psychiatric or addictive disorders that would preclude obtaining informed consent or filling out Breast-Q\u00a9 questionnaires.\n* Prior radiation therapy to the ipsilateral breast/nodes or thorax.\n* The criterias outlined above apply to the patients enrolled to meet the primary objective of the study. Additional criteria for patients in the cardiac substudy portion of the protocol are outlined in the protocol",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

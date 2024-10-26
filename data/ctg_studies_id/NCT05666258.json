@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05666258",
+    "briefTitle": "Gene Expression Profiling to Help Define the Need for Neo-Adjuvant Chemotherapy in HR+, HER- Breast Cancer Patients",
+    "officialTitle": "Gene Expression Profiling to Help Define the Need for Neo-Adjuvant Chemotherapy in HR+, HER- Breast Cancer Patients",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "De-escalation of breast cancer surgery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Tumour characteristics: HR+, HER-\n* Histopathological tumour characteristics: cT1-3, cN1, cM0, all histological types included\n* Age: 18-85 years\n\nExclusion Criteria:\n\n* Tumour characteristics: cT4, cN2-3, cM1\n* Age: \\<18 or \\>85 years old\n* Received chemotherapy in the last 5 years\n* Pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

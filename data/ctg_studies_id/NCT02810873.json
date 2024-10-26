@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02810873",
+    "briefTitle": "Positron Emission Tomography Imaging Using Copper Cu 64 TP3805 in Patients With Breast Cancer",
+    "officialTitle": "PET Imaging of Breast Cancer Using Oncogene Expression",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 19,
+    "primaryOutcomeMeasure": "Number of F-18-FDG Positive Lesions That Are Detected by the Copper Cu 64 TP3805 Analog",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Breast cancer shown with abnormal mammogram and histology verification (stage-1 patients will also need to have a positive F-18-FDG whole-body scan)\n* Tumor mass of 1 cm or larger, as determined by mammography, ultrasound, or magnetic resonance imaging (MRI)\n* Signed informed consent form approved by the institutional review board (IRB)\n\nExclusion Criteria:\n\n* Pregnant or lactating female\n* Patient with asthma",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

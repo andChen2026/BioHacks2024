@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01120184",
+    "briefTitle": "A Study of Trastuzumab Emtansine (T-DM1) Plus Pertuzumab/Pertuzumab Placebo Versus Trastuzumab [Herceptin] Plus a Taxane in Participants With Metastatic Breast Cancer (MARIANNE)",
+    "officialTitle": "A Randomized, 3 Arm, Multicenter, Phase III Study to Evaluate the Efficacy and the Safety of T-DM1 Combined With Pertuzumab or T-DM1 Combined With Pertuzumab-Placebo (Blinded for Pertuzumab), Versus the Combination of Trastuzumab Plus Taxane, as First Line Treatment in HER2 Positive Progressive or Recurrent Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1095,
+    "primaryOutcomeMeasure": "Percentage of Participants With Death or Disease Progression According to Independent Review Facility (IRF) Assessment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult participants \\>/=18 years of age\n* HER2-positive breast cancer\n* Histologically or cytologically confirmed adenocarcinoma of the breast with locally recurrent or metastatic disease, and be a candidate for chemotherapy. Participants with locally advanced disease must have recurrent or progressive disease, which must not be amenable to resection with curative intent.\n* Participants must have measurable and/or non-measurable disease which must be evaluable per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1\n* Eastern Cooperative Oncology Group (ECOG) Performance Status 0 or 1\n* Adequate organ function as determined by laboratory results\n\nExclusion Criteria:\n\n* History of prior (or any) chemotherapy for metastatic breast cancer or recurrent locally advanced disease\n* An interval of \\<6 months from the last dose of vinca-alkaloid or taxane cytotoxic chemotherapy until the time of metastatic diagnosis\n* Hormone therapy \\<7 days prior to randomization\n* Trastuzumab therapy and/or lapatinib (neo- or adjuvant setting) \\<21 days prior to randomization\n* Prior trastuzumab emtansine or pertuzumab therapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

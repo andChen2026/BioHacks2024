@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02254031",
+    "briefTitle": "Dose Escalation of Bivatuzumab Mertansine in Female Patients With CD44v6 Positive Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "An Open Phase I Dose Escalation Study of Bivatuzumab Mertansine Administered Intravenously Once Per Week for Three Weeks in Female Patients With CD44v6 Positive Recurrent or Metastatic Breast Cancer With Repeated Administration Courses in Patients With Clinical Benefit",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 8,
+    "primaryOutcomeMeasure": "Maximum tolerated dose (MTD)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. female patients aged 18 years or older\n2. patients with breast cancer positive for CD44v6 in at least 50 % of the tumour cells\n3. patients with local and / or regional recurrent disease or distant metastases who are refractory to anthracyclines and / or taxanes (unless contraindications to taxanes and / or anthracyclines) or not amenable to established treatments\n4. measurable tumour deposits by one or more radiological techniques (MRI, CT)\n5. life expectancy of at least 6 months\n6. Eastern Cooperative Oncology Group (ECOG) performance score \u2264 2\n7. patients must have given written informed consent (which must be consistent with International Conference of Harmonisation-Good Clinical Practice (ICH-GCP) and local legislation)\n\nExclusion Criteria:\n\n1. hypersensitivity to humanised or murine antibodies, immunoconjugates or the excipients of the trial drugs\n2. known secondary malignancy requiring therapy\n3. active infectious disease\n4. brain metastases requiring therapy\n5. neuropathy grade 2 or above\n6. absolute neutrophil count less than 1,500/mm3\n7. platelet count less than 100,000/mm3\n8. bilirubin greater than 1.5 mg/dl (\\> 26 \u03bcmol/L, syst\u00e8me internationale (SI) unit equivalent)\n9. aspartate amino transferase (AST) and/or alanine amino transferase (ALT) greater than 3 times the upper limit of normal\n10. serum creatinine greater than 1.5 mg/dl (\\> 132 \u03bcmol/L, SI unit equivalent)\n11. concomitant non-oncological diseases which are considered relevant for the evaluation of the safety of the trial drug\n12. chemo- or immunotherapy within the past four weeks prior to treatment with the trial drug or during the trial (except for present trial drug)\n13. radiotherapy to breast and thorax region within the past four weeks prior to treatment with the trial drug or during the trial\n14. women who are sexually active and unwilling to use a medically acceptable method of contraception\n15. pregnancy or lactation\n16. treatment with other investigational drugs or participation in another clinical trial within the past four weeks before start of therapy or concomitantly with this trial (except for present trial drug)\n17. patients unable to comply with the protocol",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

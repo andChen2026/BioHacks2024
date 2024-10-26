@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02230319",
+    "briefTitle": "Prevention of Paclitaxel Neuropathy With Cryotherapy",
+    "officialTitle": "Prevention of Paclitaxel Neuropathy With Cryotherapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 39,
+    "primaryOutcomeMeasure": "Incidence of grade 2 peripheral neuropathies induced by weekly paclitaxel.",
+    "eligibilityCriteria": "Inclusion Criteria\n\n1. Women 18 years of age or older\n2. Histologically or cytological proven diagnosis of breast cancer Stage I- III.\n3. Must pl an to receive weekly paclitaxel treatment in either the adjuvant or neoadjuvant setting.\n4. May have received prior treatment including, radiation, surgery chemotherapy hormone and biologics.\n5. Eastern Cooperative Oncology Group (ECOG) performance status \u2264 1\n6. Patient signed informed consent.\n7. Patient willing and able to comply with scheduled visits and treatment plan.\n\nExclusion Criteria\n\n1. Patient presents with Grade 2 or greater peripheral neuropathy.\n2. History of Raynaud's Disease.\n3. Patient presents open or poorly-healing wounds on the hands or feet.\n4. Patients with cold intolerance.\n5. Patient has any other concurrent severe and/or uncontrolled medical condition that would, in the investigator's judgment contraindicate patient participation.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

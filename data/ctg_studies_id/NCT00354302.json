@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00354302",
+    "briefTitle": "Bone Mineral Density in Postmenopausal Women With Primary Breast Cancer Who Are Receiving Treatment on Clinical Trial",
+    "officialTitle": "The Influence of Five Years of Adjuvant Anastrozole or Exemestane on Bone Mineral Density In Postmenopausal Women With Primary Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Osteoporosis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 497,
+    "primaryOutcomeMeasure": "Percentage change of bone mineral density (BMD) measured at 2 years (from baseline) in the L1-L4 region of the spine and the hip",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Enrolled in and meets eligibility requirements for protocol CAN-NCIC-MA27\n* Acceptable quality dual-energy x-ray absorptiometry (DEXA) of the L1-L4 postero-anterior spine and hip within 12 weeks prior to randomization on protocol CAN-NCIC-MA27\n* Hormone receptor status:\n\n  * Estrogen receptor- and/or progesterone receptor-positive tumor\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Postmenopausal\n* No malabsorption syndrome\n* No known cholecalciferol (vitamin D) deficiency, active hyper- or hypoparathyroidism, or Paget's disease\n* No uncontrolled thyroid disease, Cushing's disease, or other pituitary disease\n* No other bone disease (including osteomalacia or osteogenesis imperfecta)\n\nPRIOR CONCURRENT THERAPY:\n\n* More than 6 months since prior drugs (investigational or not), including bisphosphonates, for the prevention of osteoporosis (stratum I)\n* More than 12 months since prior and no concurrent anticonvulsants\n* More than 6 months since prior and no concurrent corticosteroids at doses \\> 5 mg/day of prednisone (or equivalent) for \\> 2 weeks\n* More than 12 months since prior and no concurrent anabolic steroids\n* No prior bisphosphonates (stratum II)\n* No concurrent sodium fluoride at daily doses \u2265 5 mg/day\n* No long-term (i.e., \\> 6 months) use of coumarins\n* No concurrent drugs (investigational or not), including bisphosphonates, for the prevention of osteoporosis (for patients with no osteopenia or osteoporosis \\[stratum I\\])",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00309920",
+    "briefTitle": "Combination Chemotherapy With or Without Darbepoetin Alfa in Treating Women With Stage III Breast Cancer",
+    "officialTitle": "Adjuvant Therapy of Breast Cancer: Impact of Erythropoiesis Stimulating Factors on Event Free Survival High Risk Breast Cancer Treatment",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1234,
+    "primaryOutcomeMeasure": "Disease-free survival at 6 months to 5 years after treatment",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer\n\n  * Stage III disease (pT1, N2-3, M0)\n  * No metastatic disease by thoracic x-ray, full-body bone scan, and liver sonography\n* No inflammatory disease or Paget's disease\n* Disease completely resected (R0) and \u2265 10 axillary lymph nodes removed\n\n  * Underwent surgery approximately 42 days ago\n  * At least 9 positive lymph nodes\n  * No prior sequential mastectomy\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Menopausal status not specified\n* ECOG performance status 0-1\n* WBC \u2265 3,500/mm\\^3\n* Creatinine \u2264 1.4 mg/dL\n* Platelet count \u2265 100,000/mm\\^3\n* Bilirubin \u2264 2.0 mg/dL\n* No pre-existing symptomatic peripheral neuropathy\n* Not pregnant or nursing\n* No hypersensitivity to darbepoetin alfa, epoetin alfa, or any of their components\n* No other malignancy except curatively treated basal cell skin cancer or carcinoma in situ of the cervix\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No participation in another clinical study\n* No prior therapies that would preclude study participation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

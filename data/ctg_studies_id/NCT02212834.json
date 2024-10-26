@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02212834",
+    "briefTitle": "Surveillance Imaging Modalities for Breast Cancer Assessment",
+    "officialTitle": "Comparative Effectiveness of Surveillance Modalities in Breast Cancer Survivors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 36444,
+    "primaryOutcomeMeasure": "Number of Breast Cancers Detected",
+    "eligibilityCriteria": "Inclusion Criteria: Surveillance imaging exams in women included in the Breast Cancer Surveillance Consortium who are 18+ years of age at the the of a Stage 0-III incident breast cancer diagnosis between January 1, 2005 and December 31, 2012.\n\n-\n\nExclusion Criteria:\n\n* Women with a diagnosis of lobular carcinoma in situ\n* Women with missing cancer staging data from Surveillance, Epidemiology and End Results (SEER) Program records\n* Women with Stage 4 breast cancer at time of diagnosis\n* Women with a diagnosis of a second breast cancer event within six months of the primary diagnosis\n* Women who die within six months of primary diagnosis\n* Women who have had a double mastectomy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00462696",
+    "briefTitle": "MRI in Evaluating Early Response to Chemotherapy in Women Receiving Chemotherapy for Infiltrating Breast Cancer",
+    "officialTitle": "Study Evaluating the Contribution of MRI for the Evaluation of Early Response to Neoadjuvant Chemotherapy in Patients With Infiltrative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Reproducibility and repeatability of MRI",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed infiltrative breast cancer meeting 1 of the following criteria:\n\n  * Operable T2 or T3, M0 disease\n  * Locally advanced disease (T4a, b, or c)\n\n    * No T4d disease\n* Indication for neoadjuvant chemotherapy before breast-conserving surgery\n\n  * No desire by patient for complete mastectomy\n* No overexpression of HER-2\n* No multifocal tumor\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Menopausal status not specified\n* Life expectancy \\> 6 months\n* No contraindication to MRI with contrast, including any of the following:\n\n  * Claustrophobia\n  * Prior major allergies\n  * Cardiac pacemaker\n  * Surgical clips\n  * Certain cardiac valves\n  * Sunken or hollow filters\n  * Implanted pump\n  * Cochlear implants\n  * Metallic foreign body (intra-ocular)\n* No contraindication to chemotherapy or surgery\n* No other serious condition that would preclude study therapy\n* No other uncontrolled medical condition, including any of the following:\n\n  * Thyroid disease\n  * Neuropsychiatric disease\n  * Infection\n  * Insufficient coronary capacity\n  * NYHA class III-IV heart disease\n* No HIV positivity\n* Not pregnant or nursing\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior chemotherapy, radiotherapy, or surgery for ipsilateral breast cancer\n* No prior biopsy of tumor before MRI\n* No MRI at another center within the past 15 days\n* No participation in another investigational study of anticancer therapy within the past 30 days",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

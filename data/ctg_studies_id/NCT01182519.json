@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01182519",
+    "briefTitle": "Lung Inflammation and Lung Metastases From Breast Cancer",
+    "officialTitle": "Association of Smoking, Lung Inflammation and Lung Metastases From Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "The association between urinary PGE-M and the presence or absence of lung metastases",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Registered patient at MSKCC\n* Histologically proven breast cancer. It is not necessary that pathology be reviewed at MSKCC\n* Age \u226518 years Group 1 (A and B)\n* Diagnosed with metastatic breast cancer on biopsy or imaging study.\n* Patients will be considered to have lung metastases, and will be assigned to group 1A if any of the following criteria are met, otherwise patients will be assigned to group 1B \"No known Lung Metastases,\" Biopsy-proven lung metastasis.\n* Pleural effusion with cytologic evidence of malignancy.\n* Pleural effusion, exudative in character, without alternative explanation and attributed, in the opinion of the clinician to metastatic disease.\n* Symptoms attributable to lung metastases and a radiological pattern interpreted by a radiologist as suspicious for metastatic disease.\n* Any pulmonary nodule on chest radiograph, CT scan, PET-CT or MRI, which is interpreted by the clinician and radiologist to be metastatic in etiology, whether or not a biopsy was performed, and regardless of symptoms.\n* A radiographic pattern interpreted by a radiologist as consistent with lymphangitic carcinomatosis.\n\nGroup 2 (Controls)\n\n* History of early breast cancer and currently no evidence of disease\n\nExclusion Criteria:\n\n* Inability to provide written informed consent.\n* Inability to complete smoking and NSAID questionnaire.\n* Steroid use within the previous 4 weeks.\n* Radiotherapy to the breast, chest wall or axilla within the previous 3 months.\n* Men with breast cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

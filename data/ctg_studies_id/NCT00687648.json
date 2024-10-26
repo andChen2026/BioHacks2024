@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00687648",
+    "briefTitle": "Cyclophosphamide, Methotrexate, and Prednisolone With or Without Aromatase Inhibitor Therapy in Treating Postmenopausal Women With Metastatic Breast Cancer",
+    "officialTitle": "Randomised Phase II Study of Metronomic Chemotherapy Plus the Same Aromatase Inhibitor Compared to Metronomic Chemotherapy Alone in Women With Hormone Receptor Positive, Her-2 Non-Overexpressing Advanced Breast Cancer Whose Disease Has Progressed While Receiving an Aromatase Inhibitor, Correlating Response With Circulating Endothelial Progenitor Cells, VEGF and VEGFR",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 70,
+    "primaryOutcomeMeasure": "Clinical benefit response rate (complete response, partial response, or stable disease for > 24 weeks)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive breast cancer\n\n  * Metastatic disease\n* Measurable disease, as defined by RECIST criteria\n* Evidence of disease progression while receiving a third-generation aromatase inhibitor\n* No extensive visceral disease (\\> 50% liver or lung parenchymal involvement)\n* No pleural effusion or ascites\n* No HER2/neu overexpression\n* Hormone receptor status:\n\n  * Estrogen receptor- or progesterone receptor-positive tumor\n\nPATIENT CHARACTERISTICS:\n\n* Postmenopausal, as defined by any of the following:\n\n  * Over 60 years of age\n  * 50-59 years of age with plasma follicle-stimulating hormone, luteinizing hormone, and estradiol in the postmenopausal range and amenorrhea for \\> 1 year\n  * Any age with documented bilateral oophorectomy\n* ECOG performance status (PS) 0-2 (Karnofsky PS 60-100%)\n* Life expectancy \\> 6 months\n* Leukocytes \u2265 3,000/\u03bcL\n* Absolute neutrophil count \u2265 1,500/\u03bcL\n* Platelet count \u2265 100,000/\u03bcL\n* Total bilirubin normal\n* AST/ALT \u2264 2.5 times upper limit of normal\n* Creatinine normal OR creatinine clearance \u2265 60 mL/min\n* Not pregnant\n* Fertile patients must use effective contraception\n* No other prior malignancies except curatively treated basal cell carcinoma of the skin or carcinoma in situ of the cervix\n* No history of allergic reactions attributed to compounds of similar chemical or biologic composition to cyclophosphamide, methotrexate, prednisolone, anastrozole, letrozole, or exemestane\n* No concurrent uncontrolled illness including, but not limited to, any of the following:\n\n  * Ongoing or active infection\n  * Symptomatic congestive heart failure\n  * Unstable angina pectoris\n  * Cardiac arrhythmia\n  * Psychiatric illness/social situations that would limit compliance with study requirements\n\nPRIOR CONCURRENT THERAPY:\n\n* No more than 2 lines of prior chemotherapy or endocrine therapy for advanced disease\n* No other concurrent chemotherapy, immunotherapy, anticancer hormonal therapy, or anticancer surgery\n* No other concurrent anticancer therapy\n* No other concurrent investigational agents\n* No concurrent combination anti-retroviral therapy for HIV-positive patients",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01621906",
+    "briefTitle": "18F-FLT-PET Imaging of the Brain in Patients With Metastatic Breast Cancer to the Brain Treated With Whole Brain Radiation Therapy With or Without Sorafenib: Comparison With MR Imaging of the Brain",
+    "officialTitle": "Pilot Study of 18F-FLT-PET Imaging of the Brain in Patients With Metastatic Breast Cancer to the Brain Treated With Whole Brain Radiation Therapy With or Without Sorafenib: Comparison With MR Imaging of the Brain",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer to the Brain",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 17,
+    "primaryOutcomeMeasure": "Overall Response Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically-confirmed (confirmation done at MSKCC) metastatic adenocarcinoma of the breast\n* Radiologic evidence of new and/or progressive brain metastases ((\u226510 mm in longest dimension) by MRI imaging of the Brain\n* Planned WBRT based on number (\u2265 3 lesions) and/or size (\u2265 1 cm) of brain metastases.\n* Age \u226518 years; males and females\n* Patients who require additional clinically indicated stereotactic radiosurgery (SRS) in addition to WBRT will also be eligible.\n* Life expectancy of \\>12 weeks.\n* Karnofsky Performance Status (KPS) \u2265 70%.\n* Creatinine \u22642.0 times the upper limit of normal.\n* Women of childbearing potential must have a negative serum pregnancy test performed within 7 days prior to enrollment, must be non-lactating and must agree to use adequate contraception prior to enrollment and for the duration of study participation.\n* No limit to prior therapies with last anti-cancer treatment \u22652 weeks from initiation of WBRT. Please note: there is no washout period required for trastuzumab, pertuzumab, for patients who have developed new parenchymal brain metastases while on these agents.\n\nExclusion Criteria:\n\n* Leptomeningeal metastases Please note: leptomeningeal metastases may be allowed if it is limited to cranial metastasis (MRI spine should be completed, within 4 weeks of enrollment, to show that no other leptomeningeal metastases is present) and is not the only metastasis present in the brain.\n* Concurrent administration of lapatinib or other tyrosine kinase inhibitors other than sorafenib\n* Craniotomy or any other major surgery, open biopsy, or significant traumatic injury within 4 weeks of randomization.\n* Concurrent anti-cancer therapy (chemotherapy, hormonal therapy, radiation therapy, surgery, immunotherapy, biologic therapy, or tumor embolization) other than sorafenib, and protocol-specified whole-brain radiotherapy.\n* Use of any investigational drug within 30 days or 5 half-lives, whichever is longer, preceding enrollment.\n* Inability to comply with protocol and /or not willing or not available for follow-up assessments.\n* Any condition which in the investigator's opinion makes the patient unsuitable for the study participation.\n* Patient is incontinent of urine or stool (which would make them unable to tolerate lying still for 60 minutes).\n* Claustrophobia\n* Known allergic reaction to Gd-DTPA\n* Renal insufficiency with recent (\\<3 month old) creatinine \\>2.0",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

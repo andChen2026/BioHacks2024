@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04836156",
+    "briefTitle": "Neoadjuvant Therapy Study Guided by Drug Screening in Vitro for Human Epidermal Growth Factor Receptor 2 (HER2) Negative Early Breast Cancer Patients",
+    "officialTitle": "Neoadjuvant Therapy Study Guided by Drug Screening in Vitro Patient-derived Tumor-like Cell Clusters for Human Epidermal Growth Factor Receptor 2 (HER2) Negative Early Breast Cancer Patients",
+    "overallStatus": "RECRUITING",
+    "conditions": "HER2-negative Early Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "pathological complete response(pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* invasive breast cancer\n* HER2 negative\n* T2 or node positive\n* Eastern Cooperative Oncology Group(ECOG) 0-1\n\nExclusion Criteria:\n\n* stage IV\n* inflammatory breast cancer\n* Severe chronic disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

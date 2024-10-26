@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03646955",
+    "briefTitle": "Partial Breast Versus no Irradiation for Women With Early Breast Cancer",
+    "officialTitle": "The DBCG RT Natural Trial: Partial Breast Versus no Irradiation for Women >=60 Years Operated With Breast Conservation for an Early Breast Cancer: a Clinically Controlled Randomized Phase III Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Local Neoplasm Recurrence, Distantly Metastatic Malignant Neoplasm, Death, Fibrosis Breast, Depigmentation/Hyperpigmentation of Skin, Telangiectasia, Scar, Pain, PROMs",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 926,
+    "primaryOutcomeMeasure": "Invasive local recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nFemale patient \\>=60 years\n\nPrimary tumour characteristics by conventional histopathology\n\n* unilateral and unifocal non-lobular histology grade 1-2\n* maximum microscopic size \\<=20mm\n* node negative determined by sentinel node or axillary lymph node dissection\n* estrogen receptor \\>=10% positive\n* HER2 negative (by IHC and/or in situ hybridization)\n* resection margin \\>=2 mm for invasive carcinoma and any ductal carcinoma in situ associated with the cancer\n\nSurgical type is breast conservation\n\nPerformance status ECOG 0-2\n\nNo evidence of distant metastasis\n\nExclusion Criteria:\n\n* multifocal or multicentric invasive carcinoma or ductal carcinoma in situ\n* evidence of clinical or pathological T4 breast cancer\n* grade 3 malignancy\n* previous breast cancer or DCIS irrespective of disease-free interval\n* previous radiation therapy to the breast or thorax,\n* previous neoplasm within 5 years except carcinoma in situ of the cervix, endometrium or coli, melanoma in situ.\n* comorbidity precluding the patient from radiation therapy (e.g. cardiovascular or pulmonary disease, scleroderma, systemic lupus erythematosus).\n* mental/psychiatric disorder which precludes the patient from understanding the randomization and the follow up.\n* documented hereditary breast cancer or with high genetic risk of breast cancer\n* life expectancy \\<10 years",
+    "sex": "FEMALE",
+    "minimumAge": "60 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

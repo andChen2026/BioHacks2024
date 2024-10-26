@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00899418",
+    "briefTitle": "Studying Tumor Tissue Samples to Learn More About DNA Changes and Response in Patients With Breast Cancer Treated With Bevacizumab on Clinical Trial ECOG-2100",
+    "officialTitle": "Differential Response of Breast Cancer Patients on E2100 Treated With Bevacizumab as a Function of Genetic Polymorphisms of VEGF and KDR",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Time to progression in patients with a known polymorphism vs those with wild-type vascular endothelial growth factor (VEGF) gene",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed adenocarcinoma of the breast\n* Enrolled on clinical trial ECOG-2100 and received treatment with bevacizumab\n* Paraffin-embedded tumor samples available\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Menopausal status not specified\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

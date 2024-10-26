@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03708393",
+    "briefTitle": "Imagio Feasibility Multi-Reader, Multi-Case Study",
+    "officialTitle": "Imagio Feasibility Multi-Reader, Multi-Case Study of Optoacoustic Images Versus Imagio Ultrasound to Guide Decision to Biopsy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 155,
+    "primaryOutcomeMeasure": "The Gain in Imagio IUS Alone Specificity vs Imagio (IUS+OA) Specificity at Fixed 95-99% Sensitivity (fSp), Cohort 1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n- Female subjects participating in the PIONEER-0 Study of the Imagio Breast Imaging System with known clinical status\n\nExclusion Criteria:\n\n- Female subjects who did not have known clinical status in the PIONEER-0 Study of the Imagio Breast Imaging System with known clinical status",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

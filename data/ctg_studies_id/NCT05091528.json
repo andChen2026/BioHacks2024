@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05091528",
+    "briefTitle": "A Safety and Activity Study of SBT6050 in Combination With Other HER2-directed Therapies for HER2-positive Cancers",
+    "officialTitle": "An Open-label, Phase 1/2, Dose-escalation and Expansion Study of SBT6050 Combined With Other HER2-directed Therapies in Subjects With Pretreated Unresectable Locally Advanced and/or Metastatic HER2-expressing or HER2-amplified Cancers",
+    "overallStatus": "TERMINATED",
+    "conditions": "HER2-positive Breast Cancer, HER2-positive Gastric Cancer, HER2-positive Colorectal Cancer, HER2-expressing Non-small Cell Lung Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2,
+    "primaryOutcomeMeasure": "Proportion of Participants With Dose Limiting Toxicities",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Advanced or metastatic HER2-expressing (IHC 2+ or 3+) or HER2-amplified solid tumors\n* Measurable disease per the the Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1 criteria\n* Tumor lesion amenable for biopsy or able to submit an adequate recent archived tumor tissue for baseline testing, as follows:\n\n  1. Breast cancer and colorectal cancer (CRC): archival biopsy tissue obtained after the last HER2-directed therapy (excluding trastuzumab and pertuzumab), or a fresh biopsy\n  2. Gastric cancer and non-small-cell lung cancer (NSCLC): archival biopsy tissue taken within the past 12 months and after completion of last HER2-directed therapy, or a fresh biopsy\n* ECOG Performance Status of 0 or 1\n* Adequate hematologic, hepatic, renal, and cardiac function\n\nExclusion Criteria:\n\n* History of allergic reactions to certain components of study treatment therapies\n* Untreated brain metastases\n* Currently active (or history of) autoimmune disease\n* Taking the equivalent of \\>10 mg / day of prednisone\n* Taking a medication that moderately induces CYP2C, strongly inhibits CYP2C8, or interacts with both enzymes (CYP3A and CYP2C8)\n* Uncontrolled or clinically significant interstitial lung disease (ILD) / pneumonitis that requires systemic corticosteroid treatment or suspected ILD / pneumonitis\n* HIV infection, active hepatitis B or hepatitis C infection",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

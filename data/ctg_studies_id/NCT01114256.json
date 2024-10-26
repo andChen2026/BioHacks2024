@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01114256",
+    "briefTitle": "FNA Tumor Sampling for CD137 Modulation: A Pilot Study",
+    "officialTitle": "FNA Tumor Sampling for CD137 Modulation: A Pilot Study",
+    "overallStatus": "TERMINATED",
+    "conditions": "Head and Neck Cancer, Breast Cancer, Head and Neck Cancers, Non-Hodgkin Lymphoma, Colorectal Adenocarcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 83,
+    "primaryOutcomeMeasure": "evaluation of change in CD137 positive NK cells in blood & tumors in response to therapeutic moAbs",
+    "eligibilityCriteria": "ALL Patients:\n\n1. Patient must have a lymphoma, squamous cell carcinoma of the head and neck, HER2+ breast adenocarcinoma, colorectal adenocarcinoma, or other solid tumor.\n2. Patients must not have received any immunosuppressive or anti cancer agent within 2 weeks prior to the first planned FNA biopsy.\n3. The patient's therapeutic plan must include a standard therapeutic monoclonal antibody (such as rituximab, cetuximab/panitumumab or trastuzumab) or an investigational monoclonal antibody) to be administered on a schedule such that a FNA biopsy can be done within one week prior, and/or peripheral blood drawn immediately prior to the first dose of the therapeutic mAb and immediately to 24-336 hours post dose. Patients not receiving any other anti- cancer or immunosuppressive (steroids) modality within that time frame are preferred, though use of such agents does not exclude them from the study.\n4. Patients not receiving any immunosuppressive or anti-cancer agent within 2 weeks prior to the first planned FNA biopsy are preferred.\n5. Informed consent must occur and be documented per institutional rules prior to the first planned FNA biopsy and blood draw.\n\nPatients Providing an FNA in addition to Blood Samples: Criteria applicable to FNA, and not required for patients providing PBMCs without FNA. Patients without tumors amenable to FNA will be candidates for blood sampling only.\n\nIf patients do not meet inclusion criteria, then they will be excluded from participating in this study.\n\n1. Patients must have a normal WBC and platelet count, must have no evidence of coagulopathy and must not have received irreversible platelet inhibitors (aspirin) for 2 weeks and reversible platelet inhibitors (other NSAIDS) for one week prior to the initial FNA biopsy.\n2. Patients may not be taking therapeutic anticoagulation (target INR of \\>=2) (warfarin or heparin).\n3. Patients must have tumor masses amenable to minimally invasive fine needle aspiration by direct visualization and/ or palpation of the tumor. Generally this will be a biopsy of the primary tumor site or superficial regional lymph nodes.",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

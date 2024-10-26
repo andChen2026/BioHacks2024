@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04824378",
+    "briefTitle": "Study on Classification Method of Indocyanine Green Lymphography Based on Deep Learning",
+    "officialTitle": "Study on Classification Method of Indocyanine Green Lymphography in Diagnosing Breast Cancer-related Lymphedema Based on Deep Learning",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Related Lymphedema, Deep Learning",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Establish a PKUPH model for the diagnosis of lymphedema by ICG based on deep learning",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* From October 2016 to present, about 200 patients who have been admitted to the Breast Surgery Clinic due to the main complaint of upper extremity edema, are willing to accept ICG lymphography, arm circumference measurement, drainage measurement, bioelectrical impedance measurement, main complaint scale, etc. .\n\nExclusion Criteria:\n\n* Bilateral breast cancer; history of contrast agent allergy; arteriovenous thrombosis in the affected limb; regional lymph node recurrence; no informed consent; severe heart and brain diseases; primary lymphatic system disease (such as lymphatic leakage); unilateral only The limbs received ICG imaging.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

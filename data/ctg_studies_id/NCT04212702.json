@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04212702",
+    "briefTitle": "ESR1 Mutations in Asian ER+ Metastatic Breast Cancer on Hormonal Therapy-based Treatments",
+    "officialTitle": "The Landscape of ESR1 Mutations in Asian Estrogen Receptor-positive Metastatic Breast Cancer Patients Detected by Liquid Biopsy and Impact on Hormonal Therapy-based Treatments",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 123,
+    "primaryOutcomeMeasure": "The percentage of ESR1 LBD mutation variant",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* (1) Female patients who are \u2265 20 years old at the time of informed consent.\n* (2) Have histologically confirmed ER positive (defined as \u22651%) and/ or progesterone receptor (PR) positive (defined as \u22651%) breast cancer.\n* (3) Have histologically confirmed HER2-negative breast cancer as defined by immuno-histochemistry (IHC) \u2264 2+, and/or fluorescence in situ hybridization (FISH) negative.\n* (4) Patients who fits either one of the following two criteria are eligible: I. Have radiological or objective evidence of inoperable locally advanced or metastatic breast cancer and are planned to be given HT single agent, HT plus other targeted therapy, HT plus everolimus (reimbursed by National Health Insurance), HT plus metronomic oral chemotherapy or oral chemotherapy only by the treating physician. II. Locally advanced but operable patients before the resection of the primary tumor.\n\nExclusion Criteria:\n\n* (1) Patients not suitable for oral anti-cancer treatment as determined by the investigator.\n* (2) Known hypersensitivity to mammilian target of rapamycin (mTOR) inhibitors, e.g. Sirolimus (rapamycin).\n* (3) Patients with a known history of HIV seropositivity. Screening for HIV infection at baseline is not required.\n* (4) Patients being treated with drugs recognized as being strong inhibitors or inducers of the isoenzyme CYP3A.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

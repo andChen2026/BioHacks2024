@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01186991",
+    "briefTitle": "Study Evaluating the Safety and Efficacy of Onartuzumab And/or Bevacizumab in Combination With Paclitaxel in Participants With Metastatic, Triple Negative Breast Cancer",
+    "officialTitle": "A Randomized, Phase II, Multicenter, Double-Blind, Placebo-Controlled Study Evaluating the Safety and Efficacy of Onartuzumab And/or Bevacizumab in Combination With Paclitaxel in Patients With Metastatic, Triple-Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 185,
+    "primaryOutcomeMeasure": "Progression-free Survival (PFS) According to Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v1.1) in Participants Who Have not Received Prior Systemic Therapy or Have Progressed to Prior First-line Treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1\n* Histologically confirmed estrogen receptor (ER)-, progesterone receptor (PR)-, and human epidermal growth factor 2 (HER2)-negative (triple-negative) adenocarcinoma of the breast\n* Confirmed availability of tumor tissue\n\nExclusion Criteria:\n\n* Prior therapy with two or more regimens for metastatic breast cancer\n* Any systemic anti-cancer therapy within 3 weeks prior to Day 1 of Cycle 1\n* Major surgical procedure, open biopsy, or significant traumatic injury within 30 days prior to Day 1 of Cycle 1\n* Prior therapy with a taxane for metastatic breast cancer\n* Prior therapy with bevacizumab, sorafenib, sunitinib, or other putative vascular endothelial growth factor (VEGF) pathway-targeted therapy following diagnosis of breast cancer\n* Prior therapy with hormones and/or trastuzumab\n* Inadequate hematology, renal, or hepatic organ function\n\nBevacizumab Exclusion Criteria:\n\n* Uncontrolled hypertension (systolic pressure greater than \\[\\>\\] 150 millimeters of mercury \\[mmHg\\] and/or diastolic pressure \\> 100 mmHg), with or without anti-hypertensive medication\n* Evidence of bleeding diathesis or coagulopathy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

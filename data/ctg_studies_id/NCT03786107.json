@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03786107",
+    "briefTitle": "HER-Seq: A Blood-based Screening Study to Identify Patients With HER2 Mutations for Enrollment Into Clinical Research Studies of Neratinib",
+    "officialTitle": "HER-Seq: A Blood-based Screening Study to Identify Patients With HER2 Mutations for Enrollment Into Clinical Research Studies of Neratinib",
+    "overallStatus": "TERMINATED",
+    "conditions": "Hormone Receptor-Positive, HER2-Negative Metastatic Breast Cancer, Metastatic Cervical Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1583,
+    "primaryOutcomeMeasure": "Number of Participants Eligible for Neratinib Treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women and men who are \u226518 years old at signing of informed consent\n* Eastern Cooperative Oncology Group (ECOG) status of 0 to 2\n* Provide written informed consent to participate in the study and for circulating tumor DNA screening\n* Must be able to provide blood sample(s) for HER2 mutation testing\n* Participants with imaging or histologically confirmed, HR-positive, HER2-negative MBC who are presently receiving or have received CDK4/6 inhibitor as a prior therapy in any setting, or participants with imaging or histologically confirmed metastatic cervical cancer\n* At least one measurable lesion, as defined by RECIST v1.1\n\nExclusion Criteria:\n\n* Participants with breast cancer with known HER2-positive or HER2-amplified tumors\n* Participants with breast cancer with HR-negative tumors\n* Participants who have received HER2-directed TKI\n* Participants with previously documented somatic KRAS activating mutation",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

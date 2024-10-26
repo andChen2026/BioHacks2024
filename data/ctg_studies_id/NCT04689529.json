@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04689529",
+    "briefTitle": "Unnecessary Mastectomy Due to False Size Prediction by Preoperative Imaging Studies in Breast Cancer",
+    "officialTitle": "The Percentage of Unnecessary Mastectomy Due to False Size Prediction by Preoperative Imaging Studies in Breast Cancer Patients Who Underwent Neoadjuvant Chemotherapy",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Surgery, IMAGE, Chemotherapy Effect",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 360,
+    "primaryOutcomeMeasure": "Final pathology report",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer patients over 20 years of age undergoing surgery at Seoul National University Hospital\n* Patients to undergo total mastectomy\n* Patients who received neoadjuvant chemotherapy and undergoing total mastectomy were the main subjects, but as a control group, patients who did not receive neoadjuvant chemotherapy but undergoing total mastectomy were included as subjects.\n\nExclusion Criteria:\n\n* In case of total mastectomy at the request of the patient\n* Except for cases where total resection is performed regardless of size because it is a lesion under the areola and is close to the nipple.",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

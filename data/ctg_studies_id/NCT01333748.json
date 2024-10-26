@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01333748",
+    "briefTitle": "Search Allelic Imbalance of Expression of BRCA Genes in Hereditary Risk of Breast and/or Ovarian Cancer",
+    "officialTitle": "Search Allelic Imbalance of Expression of BRCA Genes in Hereditary Risk of Breast and/or Ovarian Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Hereditary Breast and Ovarian Cancer Syndrome",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 530,
+    "primaryOutcomeMeasure": "estimate the proportion of patients with allelic imbalance at the level of expression of BRCA1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nFor patients\n\n* Women with breast cancer and / or ovarian cancer meet criteria suggestive of a hereditary predisposition\n* Deleterious mutation of BRCA1 and BRCA2 sought and not highlighted\n* Age \u2265 18 years\n* Agreeing to participate in the study (a collection of signed informed consent)\n\nFor control population\n\n* Women with no history of breast and / or ovarian cancer and no family history of breast and / or ovarian cancer among family members on the 1st and 2nd degree before age 50 for breast cancer and before 60 years for ovarian cancer\n* Agreeing to participate in the study (a collection of signed informed consent)\n\nExclusion Criteria:\n\nFor patients:\n\n* Patients with a known deleterious mutation in BRCA1 and BRCA2\n* Patients do not meet criteria suggestive of a hereditary predisposition\n* Persons deprived of liberty or under guardianship (including guardianship)\n\nFor control population:\n\n* Males\n* Personal or family history of breast and / or ovarian cancer (breast or ovarian cancer in their family experienced 1st and 2nd degree before age 50 for breast cancer before age 60 for cancer ovarian)\n* Persons deprived of liberty or under guardianship (including guardianship)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

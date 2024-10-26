@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02658214",
+    "briefTitle": "Durvalumab and Tremelimumab in Combination With First-Line Chemotherapy in Advanced Solid Tumors",
+    "officialTitle": "A Phase Ib Study to Evaluate the Safety and Tolerability of Durvalumab and Tremelimumab in Combination With First-Line Chemotherapy in Patients With Advanced Solid Tumors.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Small Cell Lung Carcinoma, Carcinoma, Squamous Cell of Head and Neck, Stomach Neoplasms, Triple Negative Breast Neoplasms, Ovarian Neoplasms, Fallopian Tube Neoplasms, Peritoneal Neoplasms, Esophagogastric Junction Neoplasms, Carcinoma, Pancreatic Ductal, Esophageal Squamous Cell Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 32,
+    "primaryOutcomeMeasure": "Laboratory findings (including: clinical chemistry, hematology, and urinalysis)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. \u226518 years\n2. Written informed consent\n3. Patients with histologically or cytologically documented chemotherapy-na\u00efve locally advanced unresectable or metastatic ovarian/peritoneal/fallopian tube cancer, SCCHN, TNBC, SCLC, gastric cancer/GEJ, PDAC and ESCC.\n4. ECOG performance status of 0 or 1\n5. Patients must be considered suitable candidates for, and able to receive, first line chemotherapy for metastatic disease\n6. At least 1 lesion, not previously irradiated, that can be accurately measured at baseline\n7. No prior exposure to immune-mediated therapy\n8. Adequate organ and marrow function as defined below\n\nExclusion Criteria:\n\n1. Receipt of any investigational anticancer therapy within 28 days or 5 halflives, whichever is longer, prior to the first dose of study treatment\n2. Brain metastases or spinal cord compression unless asymptomatic or treated and stable off steroids and anti-convulsants for at least 1 month prior to study treatment\n3. Any unresolved Grade \u22652 toxicity from previous anticancer therapy\n4. Active or prior documented autoimmune or inflammatory disorders\n5. Uncontrolled intercurrent illness, including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, uncontrolled hypertension, unstable angina pectoris, cardiac arrhythmia, interstitial lung disease, or psychiatric illness/social situations that would limit compliance with study requirement, substantially increase risk of incurring AEs from study drugs, or compromise the ability of the patient to give written informed consent\n6. Mean QT interval corrected for heart rate using Fridericia's formula (QTcF) \u2265470 ms 20. Active tuberculosis\n7. Active infection including tuberculosis, hepatitis B, hepatitis C, or human immunodeficiency virus (HIV)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

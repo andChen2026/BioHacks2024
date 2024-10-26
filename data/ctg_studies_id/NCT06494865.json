@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06494865",
+    "briefTitle": "\" Role of Diffusion Weighted Image in the Diagnosis and Follow up of Breast Cancer\"",
+    "officialTitle": "\" Role of Diffusion Weighted Image in the Diagnosis and Follow up of Breast Cancer\"",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Rate of correlated false positive results of MRI DWI for the lesion with the positive results by histopathology.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \\* Female gender\n\n  * Age more than 18 years\n  * Patients presented with breast lump\n  * Patients with recurrent breast cancer following chemotherapy or radiotherapy sessions.\n\nExclusion Criteria:\n\n* Male gender\n\n  * Age younger than 18 years\n  * Patients with recent breast trauma in the same diseased breast within the last 6 months\n  * Lactating female presented with acute symptoms as trauma or breast abscess\n  * Contraindication to perform MRI examination .these include : Cardiac pacemaker -Metallic aneurysm clips",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

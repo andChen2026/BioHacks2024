@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00136539",
+    "briefTitle": "Neoadjuvant Therapy With Herceptin and Taxol for Breast Cancer",
+    "officialTitle": "Neoadjuvant Therapy With Herceptin and Taxol for Stage II/III Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 41,
+    "primaryOutcomeMeasure": "To determine the response of HER2-positive breast cancer to treatment with Herceptin and Taxol prior to surgery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have Stage II or III histologically diagnosed breast cancer\n* Primary invasive breast cancers that overexpress the HER2/neu oncogene\n* Age older than 18 years\n* Eastern Cooperative Oncology Group (ECOG) performance status of \\< 1\n* White blood cell (WBC) \\> 4000/mm3\n* Platelet count \\> 100,000/mm3\n* Bilirubin \\< 1 x upper limit of normal (ULN)\n* SGOT \\< 1 x ULN\n* Creatinine \\< 1.5mg/dl\n* Normal cardiac function and electrocardiogram (EKG) showing absence of ischemic changes or ventricular hypertrophy\n\nExclusion Criteria:\n\n* Excisional biopsy, sentinel node dissection or axillary node dissection.\n* Prior history of breast cancer unless: diagnosed at least 2 years ago, present cancer is not in a previously irradiated breast, no prior therapy with anthracycline or taxane, no prior high-dose chemotherapy with stem cell or bone marrow transplant.\n* Pregnant or breast-feeding women\n* Uncontrolled infection\n* Active or severe cardiovascular or pulmonary disease\n* Peripheral neuropathy of any etiology that exceeds grade 1\n* Prior history of malignancy treated without curative intent\n* Uncontrolled diabetes",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

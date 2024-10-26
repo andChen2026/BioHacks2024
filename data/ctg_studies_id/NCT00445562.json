@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00445562",
+    "briefTitle": "Blood Sample Collection and Health Information Collection From Patients With Invasive Breast Cancer and Their Brothers and Sisters",
+    "officialTitle": "Breast Cancer Siblings Database",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Collection of blood samples and medical and background information",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Meets 1 of the following criteria:\n\n  * Pathologically confirmed invasive breast cancer (patient)\n\n    * No ductal carcinoma in situ\n  * Affected OR unaffected sibling\n\n    * Affected sibling must have had (or currently has) breast cancer only\n    * Unaffected sibling must be female\n    * No deceased siblings\n    * Must be a full-blood related sibling\n* Patients receiving treatment on clinical trial ECOG-E1Y97 or ECOG-E3Y92 are not eligible\n\nPATIENT CHARACTERISTICS:\n\n* Not specified\n\nPRIOR CONCURRENT THERAPY:\n\n* Not specified",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

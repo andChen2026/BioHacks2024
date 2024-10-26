@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00638963",
+    "briefTitle": "Temozolomide as a Prophylaxis Against Brain Recurrence in Participants With Metastatic Breast Cancer (P05225 AM2)",
+    "officialTitle": "Temozolomide in Metastatic Breast Cancer Patients at High Risk of Brain Recurrence: Impact on the Incidence of Brain Metastases (STOP)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasm, Brain Neoplasm, Second Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Percent of Participants With Recurrence of Brain Metastases",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of metastatic breast cancer.\n* Participants must have completed first line of metastatic chemotherapy and have achieved complete or partial response or disease stability for at least 6 months from the first confirmation of disease stabilization.\n* No clinical sign of brain progression.\n* At least one of the following 3 conditions: HER2 +++, Young age (\\< 50 years), and/or estrogen receptor (ER)-/progesterone receptor (PgR)-\n* Eastern Cooperative Oncology Group (ECOG) performance status \u22642.\n* Life expectancy \u22653 months.\n* Neutrophils \u22651.5 x 10\\^9/L, platelets \u2265100 x 10\\^9/L, hemoglobin \u22659 g/dL, lymphocytes \u22651 x 10\\^9/L.\n* Bilirubin level either normal or \\<1.5 x ULN (upper limit of normal).\n* AST (aspartate aminotransferase) and ALT (alanine aminotransferase) \u22642.5 x ULN (\u22645 x ULN if liver metastases are present).\n* Serum creatine \\<1.5 x ULN.\n* Effective contraception if the risk of conception exists.\n\nExclusion Criteria:\n\n* Concurrent chronic systemic immune therapy not indicated in the study protocol.\n* Any investigational agent(s) within 4 weeks prior to entry.\n* Participants that have completed 2nd, 3rd, or 4th line metastatic chemotherapy or participant in active chemotherapy treatment.\n* Clinically relevant coronary artery disease or a history of a myocardial infarction within the last 12 months.\n* Acute or sub acute intestinal occlusion or history of inflammatory bowel disease.\n* Known Grade 3 or Grade 4 allergic reaction to any of the components of the treatment.\n* Known drug abuse/alcohol abuse.\n* Legal incapacity or limited legal capacity.\n* Medical or psychological condition which in the opinion of the investigator would not permit the participant to complete the study or sign meaningful informed consent.\n* Women who are pregnant or breastfeeding.\n* Any concurrent malignancy other than non-melanoma skin cancer, or carcinoma in situ of the cervix (participants with a previous malignancy but without evidence of disease for \u22655 years will be allowed to enter the trial).",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

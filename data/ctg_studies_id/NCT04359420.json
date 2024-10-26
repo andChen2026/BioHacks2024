@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04359420",
+    "briefTitle": "What Are the Benefits and Harms of Risk Stratified Screening in the NHS Breast Screening Programme: Study Protocol",
+    "officialTitle": "What Are the Benefits and Harms of Risk Stratified Screening as Part of the NHS Breast Screening Programme: Study Protocol for a Multi-site Non-randomised Comparison of BC-Predict Versus Usual Screening",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 32298,
+    "primaryOutcomeMeasure": "Prescription of chemoprevention.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* born biologically female,\n* invited for either (a) first breast screening appointment (any age) or: (b) aged 57-63 years (only at East Cheshire and East Lancashire breast screening programmes),\n* able to provide informed consent and complete a risk assessment questionnaire.\n\nExclusion Criteria:\n\n* previously has had breast cancer,\n* has had bilateral mastectomy, or\n* has previously participated in the related PROCAS (Predicting Risk Of Cancer At Screening) study",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

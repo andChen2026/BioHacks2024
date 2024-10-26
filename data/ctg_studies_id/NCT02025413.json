@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02025413",
+    "briefTitle": "Isolation of Circulating Tumor Cells Using a Novel EMT-Based Capture Method",
+    "officialTitle": "Isolation of Circulating Tumor Cells Using a Novel EMT-Based Capture Method",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Progressive Castration-resistant Prostate Cancer, Metastatic Progressive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DEVICE_FEASIBILITY",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "Feasibility as measured by successfully detecting at least one CTC in at least 2 out of 10 subjects, comparing the non-detection rate over time.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nProstate cancer patients will be eligible for inclusion in this study only if all of the following criteria apply:\n\n1. Histologically confirmed diagnosis of adenocarcinoma of the prostate. Small cell or neuroendocrine tumors of the prostate are also permitted.\n2. Clinical or radiographic evidence of metastatic disease.\n3. Castrate levels of testosterone (\\<50 ng/dl)\n4. Evidence of disease progression on or following most recent therapy as evidenced clinically by the treating physician or by either of the following:\n\n   * Two consecutive PSA levels greater than the PSA nadir achieved on ADT, separated by greater than one week\n   * Radiographic evidence of disease progression as defined by new bone scan lesions or growth of soft tissue/visceral metastases \\>1 cm in diameter (2 cm for lymph nodes).\n5. Age \\> 18 years.\n6. Ability to understand and the willingness to sign a written informed consent document.\n\nBreast cancer patients will be eligible for inclusion in this study only if all of the following inclusion criteria apply:\n\n1. Histologically confirmed diagnosis of invasive breast cancer.\n2. Clinical or radiographic evidence of metastatic disease.\n3. Evidence of disease progression on the current or following the most recent therapy, determined either clinically by the treating physician or by radiographic evidence as defined by new bone scan lesions or soft tissue/visceral metastases \\>1 cm in diameter (2 cm for lymph nodes).\n4. Age \\> 18 years.\n5. Ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\nA patient will not be eligible for inclusion in this study if any of the following criteria apply:\n\n1. History of intercurrent or past medical or psychiatric illness that would make participation in a blood drawing protocol difficult or not feasible at the discretion of the principal investigator or co-investigator(s).\n2. Treatment with an anthracycline or mitoxantrone within 1 week of CTC collection",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

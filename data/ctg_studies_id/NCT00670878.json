@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00670878",
+    "briefTitle": "Studying the Benefits of Adjuvant Sequential vs. Combined Taxane Based Chemotherapy, Followed by Different Biological Treatment Strategies in Early, HER2-positive Breast Cancer",
+    "officialTitle": "Prospectively Randomized Phase III Trial, Studying the Benefits of Adjuvant Sequential vs. Combined Taxane Based Chemotherapy, Followed by Different Biological Treatment Strategies in Early, HER2-positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 799,
+    "primaryOutcomeMeasure": "Disease free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Primary epithelial invasive carcinoma of the breast pT1-4, pN0-3, M0\n* Evidence of HER2-neu overexpressing (IHC +++) or amplifying (FISH +) tumor\n* Histopathological proof of axillary lymph node metastases (pN1-3) or high risk node negative, defined as at least two criteria of the following: 'pT\u00b32, histopathological grade 3, age \u00a3 35, negative hormone receptor'\n* Complete resection of the primary tumor with margins of resection free of invasive carcinoma not more than 6 weeks ago\n* Females \\>= 18 years of age\n* Performance Status \\<2 on ECOG-Scale\n* Adequate bone marrow reserve: leucocytes \u00b3 3.0 x 109/l and platelets \u00b3 100 x 109/l\n* Bilirubin within one fold of the reference laboratory's normal range, ASAT (SGOT), ALAT (SGPT) and AP within 1,5 fold of the reference laboratory's normal range for patients\n* Intention of regular follow up visits for the duration of the study\n* Ability to understand the nature of the study and to give written informed consent\n* Women of childbearing potential must agree to use an effective method of contraception (Pearl-Index \\< 1, e.g. , intrauterine devices or sterilization) during treatment and for at least 6 months thereafter.\n\nExclusion Criteria:\n\n* Inflammatory breast cancer\n* Previous or concomitant cytotoxic or other systemic antineoplastic treatment which is not part of this study\n* A second primary malignancy (except in situ carcinoma of the cervix or adequately treated basal cell carcinoma of the skin)\n* Cardiomyopathy with impaired ventricular function (NYHA \\> II), cardiac arrhythmias influencing LVEF and requiring medication, history of myocardial infarction or angina pectoris within the last 6 months, or arterial hypertension not being controlled by medication\n* Any known hypersensitivity reaction against docetaxel, epirubicin, cyclophosphamide, gemcitabine or any other medication included in the study protocol. The contraindication, warning notices and measures of precaution of the products, as notified in the product information, have to be respected\n* Instable diabetes mellitus, out of sufficient medical control\n* Use of any investigational agent within 3 weeks prior to inclusion\n* Patients in pregnancy or breast feeding (in premenopausal women contraception has to be assured)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04982926",
+    "briefTitle": "A Study of TAS2940 in Participants With Locally Advanced or Metastatic Solid Tumor Cancer",
+    "officialTitle": "A Phase 1 Study of TAS2940 in Patients With Locally Advanced or Metastatic Solid Tumors With EGFR and / or HER2 Aberrations",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Solid Tumor, Glioblastoma, Non-small Cell Lung Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 29,
+    "primaryOutcomeMeasure": "Dose Escalation:Maximum Tolerated Dose (MTD)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Have histologically confirmed solid cancer that is locally advanced and metastatic and available standard treatment options have been exhausted\n* Have adequate organ function\n* ECOG PS 0-1\n\nDose Escalation:\n\n* Have measurable or non- measurable disease per RECIST criteria v1.1 or RANO\n* Any solid tumor with EGFR and / or HER2 aberration\n\nDose Expansion:\n\n* Have measurable disease per RECIST criteria v1.1 for solid tumor (excluding primary brain tumor) or RANO (for glioblastoma)\n* Cohort A: Non-small cell lung cancer (NSCLC)\n* Cohort B: HER2 positive breast cancer\n* Cohort C: Recurrent or refractory glioblastoma\n* Cohort D: Other solid tumors with EGFR or HER2 aberrations\n\nExclusion Criteria:\n\n* Non-stable brain metastases\n* Have significant cardiovascular disorder\n* Have not recovered from prior cancer treatment\n* A serious illness or medical condition",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05826197",
+    "briefTitle": "Prediction of Axillary Lymph Node Metastasis Status in Breast Cancer Based on PET/CT Radiomics",
+    "officialTitle": "A Study on the Construction of a Comprehensive Predictive Model for Axillary Lymph Node Metastasis in Breast Cancer",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Radiomics score",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 1) 18F-FDG PET/CT for breast occupancy; 2) adult female patients with pathologically confirmed breast cancer (age \u226518 years); 3) no history of surgery, radiotherapy, or chemotherapy before 18F-FDG PET/CT; and 4) interval between 18F-FDG PET/CT and puncture/surgery \u22642 weeks.\n\nExclusion Criteria:\n\n* 1) multifocal, bilateral, or occult breast cancer; 2) incomplete clinical or pathological data; 3) poor PET/CT image quality, when metabolic tumor volume(MTV) cannot be automatically segmented; and 4) concomitant malignant tumors.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

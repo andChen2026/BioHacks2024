@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00915369",
+    "briefTitle": "A Clinical Trial to Study the Effects of Nanoparticle Based Paclitaxel Drug, Which Does Not Contain the Solvent Cremophor, in Advanced Breast Cancer",
+    "officialTitle": "A Multicentre Phase I Study Of Cremophor FreePaclitaxel Nanoparticle In Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "The primary outcomes of the study would be the Pharmacokinetic data at all the four dose levels (220, 260, 310 and 375 mg/m2); Ability to identify a dose higher than 220 mg/m2 that demonstrate better efficacy and manageable toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with histopathologically /cytologically confirmed advanced breast cancer, refractory / recurrent\\* to previous anthracycline treatment as adjuvant or first line therapy for metastasis.\n* Patients with ER/PR -ve or ER/PR receptor status unknown (defined as no histopathological evidence for confirmation of ER/PR status)\n* Patients must be of 18-65 years of age (inclusive of both)\n* Patients with ECOG performance status between 0 - 2\n* Patients with at least one measurable lesion as per RECIST\n\nExclusion Criteria:\n\n* Patients with ER/PR positive status. Patients who demonstrate HER2 over expression will be excluded. Alternatively, the patients enrolled should have previously received trastuzumab. HER2 over expression should be demonstrated by IHC 3+, IHC 2+ or with FISH/CIS.\n* Patients with known history of hypersensitivity to paclitaxel or any other taxane or compounds chemically / biologically related to paclitaxel or excipients.\n* Patients requiring any concurrent chemotherapy, hormonal therapy immunotherapy, therapy with biologicals or radiotherapy for the disease. (Patients requiring local radiotherapy for non- target bone lesion will be included).\n* Patients with known CNS lesions (brain metastasis or carcinomatous meningitis).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

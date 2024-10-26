@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05207514",
+    "briefTitle": "Compare the Efficacy and the Safety of Taxotere and Nanoxel M as Neoadjuvant Chemotherapy in Breast Cancer",
+    "officialTitle": "Open-label, Randomized, Active-controlled, Multicenter, Phase III Clinical Trial to Compare the Efficacy and the Safety of Taxotere and Nanoxel M as Neoadjuvant Chemotherapy in Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "Pathological complete response (pCR) rate using the definition of ypT0/Tis ypN0",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients who were diagnosed with primary breast cancer by core biopsy\n2. Patients who have been identified as HER2 negative in the tissue obtained through core needle biopsy and have confirmed the positive / negative status of ER (Estrogen receptor) and Progesterone receptor (PR)\n\n   * HER2 positive is defined as IHC 3+ or FISH +\n3. Patinets whose TNM stage confirmed by CT or MRI (T2-T3, anyN, M0 or T1-3, N1-3, M0)\n\nExclusion criteria:\n\n1. Patients who have distant metastasis\n2. Patients who have cystitis or urinary obstruction\n3. Patients who have history of thromboembolism or coagulation disorder\n4. Patients who have Interstitial lung disease ans liver cirrhosis ( \\> Child-Pugh class B)\n5. Patients who have Insulin-Dependent Type II diabete mellitus",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

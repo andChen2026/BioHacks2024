@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01942135",
+    "briefTitle": "Palbociclib (PD-0332991) Combined With Fulvestrant In Hormone Receptor+ HER2-Negative Metastatic Breast Cancer After Endocrine Failure (PALOMA-3)",
+    "officialTitle": "MULTICENTER, RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED, PHASE 3 TRIAL OF FULVESTRANT (FASLODEX (REGISTERED)). WITH OR WITHOUT PD-0332991 (PALBOCICLIB) +/- GOSERELIN IN WOMEN WITH HORMONE RECEPTOR-POSITIVE, HER2-NEGATIVE METASTATIC BREAST CANCER WHOSE DISEASE PROGRESSED AFTER PRIOR ENDOCRINE THERAPY",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 521,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS) as Assessed by the Investigator",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women 18 years or older with metastatic or locally advanced disease, not amenable to curative therapy\n* Confirmed diagnosis of HR+/HER2- breast cancer\n* Any menopausal status\n* Progressed within 12 months from prior adjuvant or progressed within 1 month from prior advanced/metastatic endocrine breast cancer therapy\n* On an LHRH agonist for at least 28 days, if pre-/peri-menopausal, and willing to switch to goserelin (Zoladex \u00ae) at time of randomization.\n* Measurable disease defined by RECIST version 1.1, or bone-only disease\n* Eastern Cooperative Oncology Group (ECOG) PS 0-1\n* Adequate organ and marrow function, resolution of all toxic effects of prior therapy or surgical procedures\n* Patient must agree to provide tumor tissue from metastatic tissue at baseline\n\nExclusion Criteria:\n\n* Prior treatment with any CDK inhibitor, fulvestrant, everolimus, or agent that inhibits the PI3K-mTOR pathway\n* Patients with extensive advanced/metastatic, symptomatic visceral disease, or known uncontrolled or symptomatic CNS metastases\n* Major surgery or any anti-cancer therapy within 2 weeks of randomization\n* Prior stem cell or bone marrow transplantation\n* Use of potent CYP3A4 inhibitors or inducers",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

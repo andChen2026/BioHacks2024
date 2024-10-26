@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01531036",
+    "briefTitle": "3D Breast Ultrasound Elastography in Patients Under Neoadjuvant Chemotherapy",
+    "officialTitle": "Imagerie 3D d'\u00e9lasticit\u00e9 du Sein Par \u00e9chographie Ultrarapide au Cours d'un Traitement Par chimioth\u00e9rapie n\u00e9oadjuvante.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Malignant Breast Tumours",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 33,
+    "primaryOutcomeMeasure": "3D volumetric elasticity measurements",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients having already undergone a breast MRI\n* Patients presenting with breast lesions measuring between20-50mm in ultrasound\n\nExclusion Criteria:\n\n* Multifocal lesions\n* History of breast cancer\n* Breast implants\n* Inflammatory breast disease\n* Pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

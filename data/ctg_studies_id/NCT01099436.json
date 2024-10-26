@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01099436",
+    "briefTitle": "Neo-Adjuvant Chemotherapy (TAC) With or Without Zoledronic Acid in Treating HER2-negative Breast Cancer Patients",
+    "officialTitle": "A Phase III Randomized Trial With NEOadjuvant Chemotherapy (TAC) With or Without ZOledronic Acid for Patients With HER2- Negative Large Resectable or Locally Advanced Breast Cancer(NEO-ZOTAC)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 250,
+    "primaryOutcomeMeasure": "Pathologic complete response after neoadjuvant chemotherapy with or without zoledronic",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer\n\n  * Large resectable or locally advanced disease\n\n    * T2 (\u2265 2 cm and positive lymph nodes), T2 (\u2265 3 cm), \u2265 T3, T4, any N, M0 disease\n* Measurable disease (breast and/or lymph nodes)\n* HER2-negative disease by core biopsy\n* No evidence of distant metastases (M1)\n* No prior breast cancer\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Menopausal status unspecified\n* WHO performance status 0-2\n* Not pregnant or nursing\n* WBC \u2265 3.0 x 10\\^9/L\n* Neutrophil count \u2265 1.5 x 10\\^9/L\n* Platelet count \u2265 100 x 10\\^9/L\n* Bilirubin \u2264 1.5 times upper limit of normal (UNL)\n* ALT and/or AST \u2264 2.5 times UNL\n* Alkaline phosphatase \u2264 5 times UNL\n* Creatinine clearance \u2265 50 mL/min\n* Accessible for treatment and follow-up\n* No previous malignancy within the past 5 years except basal cell carcinoma of the skin or pre-invasive carcinoma of the cervix\n* No peripheral neuropathy \\> grade 2 (of any cause)\n* No other serious diseases including recent myocardial infarction, clinical signs of cardiac failure, or clinically significant arrhythmias\n* No poor dental health\n* No known hypersensitivity reaction to any of the components of the treatment\n* No medical or psychological condition that, in the opinion of the investigator, would not permit the patient to complete the study or sign meaningful informed consent\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior breast surgery except for biopsy\n* No prior chemotherapy or radiotherapy\n* No prior bisphosphonates",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

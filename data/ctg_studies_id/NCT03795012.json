@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03795012",
+    "briefTitle": "Trial With Eribulin or Eribulin+ Endocrine Therapy in Locally-recurrent or Metastatic Breast Cancer Patients",
+    "officialTitle": "A Multicenter, Randomized, Phase II Trial Evaluating the Efficacy of Eribulin Monotherapy and Eribulin Plus Endocrine Therapy in Locally-recurrent or Metastatic Breast Cancer Patients After Progression on Endocrine Therapy (REVERT)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 22,
+    "primaryOutcomeMeasure": "The overall response rate (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* ER-positive and/or PR-positive breast cancer.\n* HER2-negative breast cancer.\n* Unresectable locally advanced or metastatic breast cancer.\n* Confirmed disease progression while in the last aromatase inhibition-containing regimen in the metastatic setting.\n* At least one taxane or anthracycline regimen in either the adjuvant or the neoadjuvant setting.\n* Patients with no prior line of chemotherapy in the metastatic setting.\n* At least 1 and up to 3 prior lines of endocrine therapy in the metastatic setting.\n* ECOG score 0 or 1.\n* Patients have adequate bone marrow and organ function.\n* Patients must have measurable disease (RECIST v.1.1).\n* Premenopausal with LHRH analogues for at least 28 days) and postmenopausal women.\n* Patients must agree to not breastfeed during the study and for 3 months after the last dose of study treatment.\n* Life expectancy greater or equal to 12 weeks.\n* Patients agree to collection of blood samples (liquid biopsy) and optional collection of metastatic tumour sample (biopsy) at the time of inclusion and progression (if appropriate).\n\nExclusion Criteria:\n\n* Have received radiation therapy or limited-field palliative radiotherapy within two weeks prior to Cycle 1, Day 1, or patients who have not recovered from radiotherapy-related toxicities.\n* Have received prior chemotherapy for locally advanced or metastatic disease.\n* Have peripheral neuropathy grade 2 or greater.\n* QTc \\> 480 msec on basal assessments, history of congenital or personal history of long QT syndrome, Brugada syndrome, or Torsade de Pointes (TdP), or uncontrolled electrolyte disorders\n* Child-bearing potential women not using highly effective methods of contraception.\n* Known hypersensitivity to eribulin, endocrine therapy or its excipients.\n* Other malignancies within the previous two years except adequately treated basal cell or squamous cell skin cancer or carcinoma in situ of cervix or breast.\n* Known uncontrolled metastases to the central nervous system (CNS) or any progressing CNS disease.\n* Have a serious concomitant systemic disorder incompatible with the study.\n* Major surgical procedure or significant traumatic injury within 28 days prior to randomization.\n* Have received any anti-cancer biology or investigational treatment within 30 days prior to randomization.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

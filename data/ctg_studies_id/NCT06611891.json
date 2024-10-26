@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06611891",
+    "briefTitle": "Evaluation of Somatostatin Receptor Expression in PET 68Ga-DOTATOC in Patients Followed for Metastatic Breast Cancer",
+    "officialTitle": "Evaluation of Somatostatin Receptor Expression in PET 68Ga-DOTATOC in Patients Followed for Metastatic Breast Cancer",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer Metastatic",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Presence of lesions expressing SST2 receptors in 68Ga-DOTATOC in patients followed for metastatic breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age over 18\n* Patients with metastatic breast cancer who have completed at least one first line of systemic therapy for metastatic breast cancer\n* Patient labeled on the primary lesion ER+HER2- (20)\n* Presence of metastatic liver and bone lesions identifiable with 18F-FDG PET-Scan\n* Presence of at least 10 identifiable secondary lesions in 18F-FDG PET-Scan\n* No therapeutic change between 18F-FDG PET-Scan and 68Ga-DOTATOC PET-Scan.\n* Performing the PET scan with 68Ga-DOTATOC within a maximum of 21 days after the 18F-FDG PET-Scan\n* Person affiliated to or benefiting from social security\n* Person who has given written informed consent\n\nExclusion Criteria:\n\n* Patients followed or with history of other active neoplastic pathology (including neuroendocrine tumor)\n* Known allergy to 68Ga-DOTATOC or its excipients\n* Subject refusing to sign the consent to participate\n* Minor subject\n* Subject excluded from another study\n* Persons referred to Articles L1121-5 to L1121-8 of the Public Health Code (CSP)\n* Subject cannot be contacted in case of emergency",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

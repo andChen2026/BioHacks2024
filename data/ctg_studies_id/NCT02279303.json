@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02279303",
+    "briefTitle": "Rx for Better Breast Health",
+    "officialTitle": "Prescription for Better Breast Health",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 153,
+    "primaryOutcomeMeasure": "Achieve USDA-recommended dietary intake based on five major food groups",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females 18 years or older\n* Primary diagnosis of breast cancer\n* Fluency in English\n* B.M.I. \\>= 30\n* Available for follow-up for 12 months\n\nExclusion Criteria:\n\n* Clinical evidence of metastatic disease\n* Not diagnosed with primary breast cancer\n* Lack fluency in English\n* B.M.I. \\< 30",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

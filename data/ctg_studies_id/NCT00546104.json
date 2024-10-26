@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00546104",
+    "briefTitle": "Phase II Dasatinib Study in Advanced Breast Cancer",
+    "officialTitle": "A Phase II Trial of Dasatinib to Treat Women With Stage IV or Inoperable Stage III Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 31,
+    "primaryOutcomeMeasure": "Estimation of the Proportion of Progression-free Patients at 16 Wks.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Measurable Stage IV or inoperable Stage III advanced breast cancer.\n* There is no limit on the number of prior therapies.\n* At least 3 weeks since prior chemotherapy, biological or hormonal therapy.\n* At least 2 weeks since surgical biopsy.\n* At least 3 weeks since major (open thoracic/abdominal/cardiac) surgery.\n* No central nervous system (CNS) metastases except solitary brain metastasis\n* No cardiac dysfunction\n* left ventricular ejection fraction (LVEF) \u2265 50% as determined by multiple gated acquisition scan (MUGA)/echocardiogram\n* Adequate blood counts\n* Normal liver and kidney function\n* Negative serum pregnancy test.\n* Able to provide informed consent\n\nExclusion Criteria:\n\n* Pregnant or breast feeding.\n* Prior treatment with dasatinib.\n* Bone as the only site of disease.\n* Significant gastrointestinal bleeding\n* Septicemia, infection, acute hepatitis, hypokalemia, or hypomagnesemia",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

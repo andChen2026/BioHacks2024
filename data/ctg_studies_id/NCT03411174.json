@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03411174",
+    "briefTitle": "Hypofractionated PBI After BCS for Low-risk Breast Cancer Patients",
+    "officialTitle": "Hypofractionated Partial Breast Irradiation After Breast-conserving Surgery for Low-risk Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "The change of breast cosmetic outcome",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Age\u2265 50 years\n* Treated with breast conversing surgery and sentinel lymph node biopsy or axillary lymph node dissection\n* Negative surgical margins\n* Pathologically confirmed invasive breast cancer\n* A pathological T1N0M0 tumor -IHC: ER+/PR+/HER2-\n* Tumor bed is labeled with Titanium clips\n* Received adjuvant hormonal treatment\n* No adjuvant chemotherapy\n* ECOG:0-1\n* Written informed consent.\n\nExclusion Criteria:\n\n* Age\\<50 years\n* KPS\\<70\n* Treated with neoadjuvant chemotherapy\n* Treated or being treated with chemotherapy\n* With severe comorbidity\n* Previous breast cancer or other malignant tumor history\n* Previous radiotherapy for breast or thorax\n* Medical contraindication for radiotherapy\n* Pregnant or nursing",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

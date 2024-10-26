@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04365114",
+    "briefTitle": "Patient Outcomes From Second Film-readers and Test Threshold Relaxation in Breast Screening",
+    "officialTitle": "Patient Outcomes From Second Film-readers and Test Threshold Relaxation in Breast Screening: An Observational Retrospective Cohort Study",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Breast Cancer, Ductal Carcinoma in Situ",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 10000000,
+    "primaryOutcomeMeasure": "Number of women overdiagnosed (the cancer would not have become symptomatic within the woman's lifetime) using compensatory drop method",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women who attended the English National Health Service (NHS) breast cancer screening service at least once between 1988 and 2016, aged between 47 and 73\n* All eligible episodes of screening for each woman (we expect women to be screened around 7 times each)\n\nExclusion Criteria:\n\n* Women who did not attend routine English NHS Breast screening service within the specified date and age range, even if they attended symptomatic breast cancer services, high risk (family history) breast screening services, or if they were referred for mammograms by their general practitioner",
+    "sex": "FEMALE",
+    "minimumAge": "47 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

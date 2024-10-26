@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02286362",
+    "briefTitle": "An Observational Study of the Safety of Herceptin Given Subcutaneously in Patients With Early HER2-positive Breast Cancer",
+    "officialTitle": "N/A",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 510,
+    "primaryOutcomeMeasure": "Safety (composite outcome measure): Incidence, nature, and severity according to NCI-CTCAE v. 4.0 of: adverse events (AEs), serious AEs, grade >/= 3 AEs, non-serious adverse drug reaction or causality unknown, AESI (congestive heart failure)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged \\>/= 18 years\n* Patients with HER2-positive early breast cancer who according to national guidelines are eligible for neoadjuvant or adjuvant HER2+ treatment\n* Patients for whom the investigator has decided to start a treatment with Herceptin SC\n* Trastuzumab treatment naive or non-naive (previously intravenous treatment)\n* Informed consent\n\nExclusion Criteria:\n\n* Patients previously treated with Herceptin SC treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

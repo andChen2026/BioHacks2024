@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00087399",
+    "briefTitle": "Gabapentin With or Without Antidepressants in Treating Hot Flashes in Women Who Have Had Breast Cancer or Have Concerns About Taking Hormone Therapy",
+    "officialTitle": "A Phase III Randomized, Trial of Gabapentin Alone or in Conjunction With an Antidepressant in the Management of Hot Flashes in Women Who Have Inadequate Control With an Antidepressant Alone",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Hot Flashes",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 118,
+    "primaryOutcomeMeasure": "Hot flash reduction by diary record at 4 weeks",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* History of breast cancer OR a concern about taking hormonal therapy due to a fear of developing breast cancer\n* Experiencing bothersome hot flashes, defined as patient-reported occurrence \u2265 14 times per week AND sufficiently severe to prompt desire for additional therapeutic intervention despite current use of an antidepressant\n\n  * Currently (\u2265 2 weeks) being treated with a stable dose of an antidepressant\n\n    * No monoamine oxidase inhibitors or tricyclics\n* No current evidence of malignant disease\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nSex\n\n* Female\n\nPerformance status\n\n* ECOG 0-1\n\nLife expectancy\n\n* At least 6 months\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective barrier contraception\n\nPRIOR CONCURRENT THERAPY:\n\nChemotherapy\n\n* More than 4 weeks since prior antineoplastic chemotherapy\n* No concurrent antineoplastic chemotherapy\n\nEndocrine therapy\n\n* More than 4 weeks since prior androgens, estrogens, or progestational agents\n* More than 2 weeks since prior dehydroepiandrosterone (DHEA) for treatment of hot flashes\n* No concurrent androgens, estrogens, or progestational agents, including oral contraceptives\n* No concurrent DHEA for treatment of hot flashes\n* Concurrent tamoxifen, raloxifene, or aromatase inhibitor therapy allowed if on a stable dose for at least 4 weeks prior to study entry and during study treatment\n\nOther\n\n* No prior gabapentin\n* More than 2 weeks since other prior treatment for hot flashes (e.g., clonidine or Bellergal-S\u00ae)\n* Concurrent vitamin E or soy supplements allowed if on a stable dose for at least 1 month prior to study entry and during study treatment\n* No other concurrent treatment for hot flashes (e.g., clonidine or Bellergal-S\u00ae)\n* No other concurrent antidepressants",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03014076",
+    "briefTitle": "Immunotherapy Vaccine and Herceptin in Breast Cancer",
+    "officialTitle": "Phase Ib Trial of Combination Immunotherapy With HER2/Neu Peptide GP2 + GM-CSF Vaccine and Trastuzumab in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breastcancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Treatment-Related Adverse Events as Assessed by CTCAE v4.0",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18 years\n* HER2/neu+ over-expressing breast cancer (IHC 3+ or FISH \u22652.0)\n* Patients who are receiving adjuvant trastuzumab as standard of care treatment\n* Completion of breast cancer therapy (i.e., surgery, radiation, and chemotherapy as appropriate per standard of care for patients' specific cancer) to exclude trastuzumab (Patients on oral hormonal therapy as part of their adjuvant breast cancer treatment will be maintained on their regimens.)\n* Enrollment must occur so that patients' trastuzumab treatment and vaccine schedule overlap for all 6 vaccinations and so that first vaccination occurs after a standard of care Multiple Gated Acquisition Scan (MUGA)\n* ECOG performance status (PS) 0-1\n* Clinically cancer-free (no evidence of disease; excluding +CTC)\n* If the patient is of childbearing potential, she must be willing to practice adequate contraception through the study treatment period and for 2 months after completion of the injection sites\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Clinical and/or radiographic evidence of residual or persistent breast cancer\n* Receiving immunosuppressive therapy to include methotrexate or steroids (note: the use of prednisone, or equivalent, \\<2.0mg/day, is allowed)\n* Tbili \\>1.8, creatinin \\>2, hemoglobin \\<10, platelets \\<100,000/mm\u00b3, WBC \\<2,000\n* Active pulmonary disease requiring medication to include multiple inhalers\n* Patients may not be receiving any other investigational agents (except with permission of the Lead Principal Investigator)\n* Pregnant or are nursing\n* History of autoimmune disease (patients with vitiligo not excluded)\n* HIV positive\n* Previous or concomitant malignancies at other sites, except effectively treated non- melanoma skin cancers or carcinoma in situ of the cervix or effectively treated malignancy that has been in remission for over 5 years and highly likely to have been cured\n* Other concurrent severe medical problems, unrelated to the malignancy, that would significantly limit full compliance with the study or expose the patient to unacceptable risk\n* Uncontrolled congestive heart failure or hypertension, unstable heart disease (coronary artery disease or myocardial infarction) or uncontrolled arrhythmia at the time of enrollment\n* Psychiatric, addictive, or any disorder which compromises ability to give truly informed consent for participation in this study or adequate compliance",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

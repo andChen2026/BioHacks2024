@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02941835",
+    "briefTitle": "Preoperative Breast Irradiation",
+    "officialTitle": "Preoperative Breast Irradiation, the PROBI Trial. A Phase I/II Feasibility Trial",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "Postoperative surgical complications",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven invasive breast carcinoma\n* cT1-2N0 breast cancer\n* cM0\n* female patients \u2264 50 years\n* planned breast conserving surgery\n* ability to undergo irradiation and surgery\n* signed written informed consent\n\nExclusion Criteria:\n\n* prior surgery or radiotherapy for the protocol tumor (neoadjuvant chemotherapy or endocrine therapy is allowed)\n* planned oncoplastic reduction mammoplasty\n* cTis\n* extensive calcifications on mammagram (Birads 3,4 or 5)\n* cT3-4 and/or cN1-3 invasive carcinoma\n* distant metastasis",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00915018",
+    "briefTitle": "Study Evaluating Neratinib Plus Paclitaxel VS Trastuzumab Plus Paclitaxel In ErbB-2 Positive Advanced Breast Cancer",
+    "officialTitle": "A Randomized, Open-Label, Two-Arm Study Of Neratinib Plus Paclitaxel Versus Trastuzumab Plus Paclitaxel As First-Line Treatment For ErbB-2-Positive Locally Recurrent Or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 479,
+    "primaryOutcomeMeasure": "Progression-Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* ErbB-2 positive locally recurrent or metastatic breast cancer\n* Eastern Cooperative Oncology Group (ECOG) 0-2\n* Measurable disease\n* Availability of tumor tissue for HER2 status confirmation\n\nExclusion Criteria:\n\n* Prior systemic anti-cancer therapy other than endocrine therapy for locally recurrent or metastatic disease\n* Prior erbB-2 inhibitor other than trastuzumab or lapatinib in the neoadjuvant or adjuvant setting\n* Progression/recurrence within 12 months after completion of adjuvant or neoadjuvant therapy\n* History of heart disease\n* History of gastrointestinal disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

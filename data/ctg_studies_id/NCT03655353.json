@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03655353",
+    "briefTitle": "A Study of 68Ga-ABY-025 PET for Non-invasive Quantification of HER2-expression in Advanced Breast Cancer",
+    "officialTitle": "A Multicenter Phase II/III-study of 68Ga-ABY-025 PET for Non-invasive Quantification of HER2-expression in Advanced Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 160,
+    "primaryOutcomeMeasure": "HER2- expression by using 68Ga-ABY-025 PET.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Signed written informed consent.\n2. Age \u226518 years.\n3. Histologically or cytologically confirmed HER2-positive or borderline positive (for definition see below) adenocarcinoma of the breast.\n\n   HER2-positive defined as:\n   1. 3+ by immunohistochemistry \\[IHC\\] in \\>10% of cell areas.\n   2. 2+ by IHC in \\>10% of cell areas and HER2/CEP17 ratio \u22652.0 or HER2 copy number \u2265 6.0 by in situ hybridization \\[ISH\\]).\n\n      HER2-borderline positive defines as:\n   3. 2+ by IHC and HER2/CEP17 ratio \\<2.0 and/or HER2 copy number 4.0 - 6.0 by in situ hybridization \\[ISH\\]) (\"equivocal\").\n   4. 2+ by IHC and HER2/CEP17 ratio \\<2.0 and/or HER2 copy number \\<4.0 by in situ hybridization \\[ISH\\]) (\"2+ ISH negative\").\n   5. Known inhomogeneous HER2-expression in the primary tumor with HER2-positive areas \\<10% (\"inhomogeneous\").\n4. Primary breast cancer planned for neoadjuvant therapy (Stage II-III, T2-4N0-3) or metastatic (M1; at least 80 pts).\n5. At least one tumor lesion \u2265 10 mm.\n6. At least one tumor lesion available for biopsy.\n7. Newly diagnosed or confirmed progression and planned for therapy with trastuzumab emtansine or anti-HER2 targeted therapy(-ies) concomitant with chemotherapy (HER2-positive cohort) or chemotherapy (HER2-negative patients).\n8. WHO performance status \u2264 2.\n9. Predicted survival \\> 12 weeks.\n10. Negative pregnancy test in women of childbearing potential (premenopausal or \\<12 months of amenorrhea post-menopause and who have not undergone surgical sterilization). Women of childbearing potential must use highly effective method of contraception, i.e combined hormonal contraception, or progestogen-only hormonal contraception, or intrauterine device, or intrauterine hormone-releasing system, or bilateral tubal occlusion, or vasectomized partner, or sexual abstinence\n\nExclusion Criteria:\n\n1. Histologically or cytologically confirmed HER2-negative breast cancer defined as IHC 0 or 1+.\n2. Other manifest malignancy.\n3. Serious uncontrolled concomitant disease including congestive heart failure that would contraindicate the use of any anti-HER2 therapy.\n4. Inadequate organ function, suggested by the following laboratory results:\n\n   * Absolute neutrophil count \\<1,500 cells/mm3\n   * Total bilirubin \u22651.5 x ULN (unless the patient has documented Gilbert's syndrome)\n   * AST (SGOT) or ALT (SGPT) \\>5.0 \u00d7 ULN\n   * Serum creatinine clearance \\<30 ml/min\n5. Patients of childbearing potential and sexually active and not willing to use highly effective contraceptive.\n6. Assessed by the Investigator to be unable or unwilling to comply with the requirements of the protocol.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

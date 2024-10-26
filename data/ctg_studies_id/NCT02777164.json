@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02777164",
+    "briefTitle": "Evaluation of a 3D Functional Metabolic Imaging and Risk Assessment System for Classifying Women at High Risk of Breast Cancer",
+    "officialTitle": "Evaluation of a Three Dimensional Functional Metabolic Imaging and Risk Assessment System for Classifying Women at High Risk of Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 740,
+    "primaryOutcomeMeasure": "The difference in the area under the ROC curve (AUC) of mammography plus MIRA compared to mammography alone.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nA. Subjects who are asymptomatic and scheduled to undergo routine screening mammography\n\nOR\n\nB. Subjects scheduled for image guided needle biopsy as a result of findings obtained during standard of care imaging modalities\n\nAND\n\nC. Subjects has a prior mammogram and have been diagnosed with extremely or heterogeneously dense breast tissue (Density C or D)\n\nExclusion Criteria:\n\n1. Male by birth.\n2. Individual is less than 30 and greater than 70 years old.\n3. Contraindication to bilateral mammography or MRI\n4. Subjects who are unable to read, understand and execute the informed consent procedure.\n5. Subjects who have had mammography ultrasound or MRI examination performed on the day of the study prior to MIRA scan.\n6. Subjects who have significant existing breast trauma.\n7. Subjects who have undergone lumpectomy/mastectomy.\n8. Subjects who have undergone breast reduction or breast augmentation.\n9. Subjects who have undergone any other type of breast surgery, excluding surgical biopsy.\n10. Subjects who have large breast scar / Breast deformation\n11. Subjects who have undergone a breast needle biopsy or a surgical biopsy within the 6 month period prior to their intended enrollment into the study.\n12. Subjects who have a temperature \\> 100\u00b0 F (37.8C) degrees on the day of the MIRA imaging\n13. Subjects who are pregnant or lactating\n14. Subjects with known Raynaud's Disease\n15. Subjects that are claustrophobic or have physical limitations that do allow them to sit in the system chair for the required imaging session.\n16. Subjects with implanted pacemaker/defibrillator, implanted venous access device (portacath) or other implanted devices\n17. Subject with kidney failure\n18. Subject with known allergy to gadolinium\n19. Subject with a history of multiple contrast MRI scans (more than 4 MRI scans over the past two year)\n20. Inmates (45 CFR 46.306) or mentally disabled individuals\n21. Subjects with a BI-RADS category 6 (e.g. for which mammogram was performed for the purpose of planning cancer therapy)\n22. Subjects currently participating in another investigational clinical study\n23. Subjects who participated in the Calibration Phase will not be able to participate in the Testing Phase",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

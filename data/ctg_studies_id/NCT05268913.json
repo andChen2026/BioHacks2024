@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05268913",
+    "briefTitle": "Towards Early Detection of Breast Cancer in High Risk Population",
+    "officialTitle": "Robust EArly Detection of bReast Cancer in hIgh riSK Premenopausal Population Using Novel Lipid Based Imaging Methods",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Amount of lipid composition in the breast",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n-\n\nWomen with BRCA1/2 genes:\n\n* female 18-55 years old, premenopausal\n* BRCA 1/2 gene carriers\n* not having any metabolic disorders (e.g., diabetes)\n* not on any long term medications that may affect lipid metabolism (e.g., statins)\n* BMI \\< 30\n\nWomen with breast cancer (no obesity):\n\n* females 18-55 years old, premenopausal\n* confirmed diagnosis of invasive ductal carcinoma of the breast\n* not having any metabolic disorders (e.g., diabetes)\n* not on any long term medications that may affect lipid metabolism (e.g., statins)\n* BMI \\< 30\n\nWomen with breast cancer (obesity):\n\n* BMI \\> 30\n* otherwise as women with breast cancer\n\nWomen with obesity:\n\n* females 18-55 years old, premenopausal\n* not having any metabolic disorders (e.g., diabetes)\n* not on any long term medications that may affect lipid metabolism (e.g., statins)\n* BMI \\> 30\n\nExclusion Criteria:\n\n* females under 18 or over 55 years old, postmenopausal\n* males\n* have metabolic disorders (e.g., diabetes)\n* on long term medications that may affect lipid metabolism (e.g., statins)\n* contraindicated for MR investigation (poor renal function and metal implants)\n* (for patients) concurrent cancer in other sites\n* (for patients) started hormone treatment, chemotherapy or breast surgery\n* non-English speakers",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

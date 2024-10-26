@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06132776",
+    "briefTitle": "The Mamma HiToP Study",
+    "officialTitle": "High Tone Therapy for Chemotherapy-induced Neuropathy in Breast Cancer Patients",
+    "overallStatus": "RECRUITING",
+    "conditions": "Chemotherapy-induced Peripheral Neuropathy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 160,
+    "primaryOutcomeMeasure": "Alleviation of paresthesias (VAS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* - Patients with histologically verified breast cancer and neoadjuvant or adjuvant treatment with a taxane derivate (e.g., Paclitaxel, Docetaxel): This group was chosen due to relatively high risk of neuropathy due to this special therapeutic agent 1,9.\n* Cumulative dose of at least 3 cycles\n* Interval of 2 weeks since the last chemotherapeutic cycle in order to prevent false worsenings due to delayed neurotoxic effects\n* Life expectancy of at least 3 months\n* Eastern Cooperative Oncology Group (ECOG) Performance Status score of 0-2 (that is, the capability to walk and to spend less than 50% of waking hours sitting or lying)\n* Ability to walk (with or without aids)\n* European Organisation for Research and Treatment of Cancer (EORTC) common toxicity criteria (CTC) peripheral sensory neuropathy grade 1 or 2\n* Intensity of paresthesias of \\> 3/10 on the Visual Analog Scale (VAS)\n\nExclusion Criteria:\n\n* - Prevalent neuropathy of different etiology\n* Serious central-neurological or psychiatric disorder that would interfer with a proper order of the study, according to the judgement of the investigators\n* Epilepsy\n* Minors or persons unable to give informed consent\n* Current neurotoxic medication\n* Implanted pacemakers or defibrillators\n* Pregnancy\n* Wounds in the area to be treated, acute local or systemic infection\n* Peripheral arterial occlusive disease \\> grade 2",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

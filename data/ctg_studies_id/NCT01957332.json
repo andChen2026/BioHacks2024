@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01957332",
+    "briefTitle": "IMaging PAtients for Cancer Drug selecTion - Metastatic Breast Cancer",
+    "officialTitle": "Towards Patient Tailored Cancer Treatment Supported by Molecular Imaging IMPACT: IMaging PAtients for Cancer Drug selecTion - Metastatic Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 217,
+    "primaryOutcomeMeasure": "Clinical utility",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient with first presentation of MBC, regardless of ER and HER2 status of the primary tumor, who is eligible for first-line systemic therapy.\n* Patient with non-rapidly progressive MBC, not requiring urgent initiation of chemotherapy, based on clinician's evaluation which may include:\n\n  * no recent (\\< 2 weeks prior to screening visit) significant worsening of MBC related signs and symptoms according to patient history.\n  * in case of liver metastases: no significant increase in liver function tests alanine aminotransferase aspartate transaminase (ASAT) and alanine transaminase (ALAT) in 2 weeks prior to screening visit. (Significant increase of liver function test is defined as 50% increase of absolute amount of ASAT/ALAT.)\n* Patients in whom standard imaging work-up of MBC was recently (\u2264 28 days) performed. Standard imaging must include: CT chest/abdomen, 18F-FDG-PET and bone scintigraphy.\n* Patient with measurable or clinically evaluable (bone only) disease on recent standard work up of MBC are eligible.\n* Metastatic lesion(s) of which a histological biopsy can safely be obtained according to standard clinical care procedures.\n* Primary tumor blocks available for confirmatory central laboratory ER/HER2 testing in the UMCG. If available a snap frozen sample of the primary tumor will also be centralized in the University Medical Center Groningen (UMCG).\n* WHO performance status 0-2.\n* Patient is able to undergo PET imaging procedures.\n* Age \\>18 years of age, willing and able to comply with the protocol as judged by the investigator.\n* Signed written informed consent.\n\nExclusion Criteria:\n\n* Contraindications for systemic treatment (as will be assigned based on biopsy and experimental scan results), either chemotherapy, hormonal therapy or anti-HER2 therapy, based on clinical judgment of treating medical oncologist and patient history.\n* Pregnant or lactating women.\n* Prior allergic reaction to immunoglobulins or immunoglobulin allergy.\n* Inability to comply with study procedures.\n* Rapidly progressive (visceral) disease requiring rapid initiation of chemotherapy.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

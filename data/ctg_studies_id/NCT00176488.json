@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00176488",
+    "briefTitle": "Epirubicin and Vinorelbine in Treating Patients With Stage II, Stage III, or Stage IV Breast Cancer",
+    "officialTitle": "A Phase II Trial of Sequential Epirubicin/Vinorelbine in Patients With Advanced Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 31,
+    "primaryOutcomeMeasure": "Efficacy of the Sequential Use of a DNA Damaging Drug (Epirubicin) Followed by a Vinca Alkaloid (Vinorelbine) in the Treatment of Breast Cancer.",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed stage IIB (T3, N0), IIIA, IIIB, or IV breast carcinoma\n* Original tumor must be available for analysis of p53 status\n* Measurable disease, defined as any lesion that can be accurately measured in \u2265 1 dimension with longest diameter \u2265 20 mm using conventional techniques OR \u2265 10 mm with spiral CT scan\n\n  * Stage IIIB disease will be assessed by clinical exam (monitoring skin changes as well as tumor size)\n* No visceral crisis (lymphangitic pulmonary spread, or liver or marrow replacement sufficient to cause significant organ dysfunction)\n* No untreated CNS metastases\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* ECOG performance status 0-2\n* Life expectancy \u2265 8 weeks\n* Absolute neutrophil count \u2265 1,000/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Hemoglobin \u2265 10 g/dL\n* Bilirubin normal\n* AST \u2264 3 times normal (\u2264 5 times normal if liver metastases are present)\n* Creatinine \u2264 1.5 mg/dL\n* Ejection fraction \u2265 lower limit of normal by MUGA scan or ECG\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective nonhormonal contraception\n* No other malignancy except for adequately treated basal cell or squamous cell skin cancer or in situ cervical cancer\n* No pre-existing disease (i.e., cardiac, pulmonary, neurologic, or other disease) that the investigator judges to be clinically significant\n* No active infectious process, severe malnutrition, or intractable emesis\n\nPRIOR CONCURRENT THERAPY:\n\n* Recovered from all prior therapy\n* At least 3 weeks since prior radiotherapy\n* At least 3 weeks since prior chemotherapy\n\n  * Maximum prior doxorubicin hydrochloride dose must be \u2264 300 mg/m\u00b2 OR equivalent anthracycline (epirubicin hydrochloride) dose must be \u2264 540 mg/m\u00b2 OR calculated total anthracycline dose must be \u2264 540 mg/m\u00b2 (determined as 1.8 times total doxorubicin hydrochloride dose plus epirubicin hydrochloride dose)\n* No prior chemotherapy for metastatic disease\n* Prior adjuvant chemotherapy, radiotherapy, and/or hormonal therapy for breast cancer allowed\n* No concurrent radiotherapy except for brain metastases",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04150731",
+    "briefTitle": "16\u03b1-18F-fluor-17\u03b2-estradiol PET/CT for Visualisation of Estrogen Receptor Positive Liver Metastases From Breast Cancer",
+    "officialTitle": "16\u03b1-18F-fluor-17\u03b2-\u00f8stradiol PET/CT Til Visualisering af \u00f8strogenreceptor-positive Levermetastaser Fra brystkr\u00e6ft",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 8,
+    "primaryOutcomeMeasure": "Sensitivity of parametric FES-PET/CT",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with known disseminated breast cancer\n* Metastatic ER+ HER2- breast cancer with metastases in the liver, at least two separate liver foci visualised on CT\n* Diagnostic CT scan done in connection with clinical control\n* Treatment with aromatase inhibitors, and potential additional treatment\n* Postmenopausal\n\nExclusion Criteria:\n\n* Treatment with Tamoxifen or Fulvestrant completed within 5 weeks prior to FES-PET/CT\n* ER- metastases\n* Life expectancy under three months\n* Claustrophobia\n* Any pain which makes it impossible to lie in the scanner for 90 minutes",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01605396",
+    "briefTitle": "A Phase II Trial of Ridaforolimus and Exemestane, Compared to Ridaforolimus, Dalotuzumab and Exemestane in Participants With Breast Cancer (MK-8669-064)",
+    "officialTitle": "A Phase II Randomized Trial of the Combination of Ridaforolimus and Exemestane, Compared to Ridaforolimus, Dalotuzumab and Exemestane in High Proliferation, Estrogen Receptor Positive Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "1. Progression-free Survival (PFS) According to Response Criteria in Solid Tumors Version 1.1 (RECIST 1.1) Based on Blinded Independent Central Review (BICR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females with a histologically confirmed diagnosis of breast cancer that is metastatic or locally advanced (locally advanced tumors must not be amenable to\n\nsurgery or radiation therapy with curative intent) with the following pathological characteristics determined locally: estrogen receptor positive and Human Epidermal Growth Factor Receptor 2 (HER-2) negative, and Ki67 (a tumor marker) \u2265 15% determined by the central study laboratory\n\n* Post-menopausal\n* With advanced breast cancer whose disease was refractory to previous letrozole or anastrozole\n* Has at least one confirmed measurable metastatic lesion\n* Has a performance status \u2264 1 on the Eastern Cooperative Oncology Group (ECOG) performance scale\n* Has a life expectancy of at least 3 months\n* Adequate organ function\n\nExclusion Criteria:\n\n* Is receiving any other concurrent systemic tumor therapy, including\n\nhormonal agents and HER-2 inhibitors\n\n* Previously received rapamycin or rapamycin analogs, including\n\nridaforolimus, temsirolimus, or everolimus\n\n* Received prior treatment with Insulin-like Growth Factor 1 Receptor (IGF-1R) inhibitors, Phosphatidylinositol 3-Kinase (PI3K) inhibitors, or\n\nother experimental agents that target PI3K, Protein Kinase B (AKT), or Mammalian Target of Rapamycin (mTOR) pathway\n\n* Is receiving chronic corticosteroids administered at doses greater than\n\nthose used for normal replacement therapy\n\n* Has active brain metastasis or leptomeningeal carcinomatosis; patients\n\nwith adequately treated brain metastases are eligible if they meet certain criteria\n\n* Known allergy to macrolide antibiotics\n* Has an active infection requiring antibiotics\n* Significant or uncontrolled cardiovascular disease\n* Poorly controlled Type 1 or 2 diabetes\n* Is known to be Human Immunodeficiency Virus (HIV) positive\n* Has a known history of active hepatitis B or C. Healthy carriers of hepatitis B are not allowed on this study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

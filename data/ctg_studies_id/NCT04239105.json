@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04239105",
+    "briefTitle": "Detection of Circulating Tumor Cells in Breast Cancer Patients Using a Novel Microfluidic and Raman Spectrum Device",
+    "officialTitle": "Detection and Analysis of Circulating Tumor Cells (CTCs) in Patients With Breast Cancer Using a Novel Microfluidic and Raman Spectrum Device",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms, Circulating Tumor Cells",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "The level of CTC markers in breast cancer patients' peripheral blood",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All subjects need to sign the informed consent form.\n* Age of at least 20 and at most 70 years.\n* Cancer group subjects with pathology report confirmed to be malignant.\n* Chemotherapy is necessary before or after surgery.\n* Control group need to have mammogram /ultrasound results category1-3.\n* Patients must be available for and compliant to treatment and follow-up.\n\nExclusion Criteria:\n\n* Not willing to sign the informed consent form.\n* Pregnant or lactating patients.\n* Prior or concomitant secondary malignancy.\n* Any other serious medical pathology, such as congestive heart failure.\n* Other condition which may affect the CTC results.\n* Males.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

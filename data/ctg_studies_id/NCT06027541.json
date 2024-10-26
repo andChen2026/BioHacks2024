@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06027541",
+    "briefTitle": "Young Patients With Early Breast Cancer",
+    "officialTitle": "Prospective Research of Young Patients With Early Breast Cancer",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer Female",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "5-year disease free survival (DFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* patients with breast cancer received operation in Peking Union Medical College Hospital\n* age \u226440 year old and \u226520 years old\n* treatment regimen was made in Peking Union Medical College Hospital\n\nExclusion Criteria:\n\n* patients without pathological information\n* patients with metastasis\n* patients with history of other malignant tumor (except for completely cured cervical carcinoma in situ or basal cell carcinoma or squamous cell skin carcinoma)\n* patients with palliative resection of breast",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT"
+}

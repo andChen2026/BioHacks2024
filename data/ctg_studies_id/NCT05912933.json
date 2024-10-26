@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05912933",
+    "briefTitle": "A Study to Learn About the Relationship Between Hepatic Impairment and Myelosuppression (Decreased Bone Marrow Function) in Breast Cancer Patients Treated With the Study Medicine Palbociclib (Pal-bow-sai-klib)",
+    "officialTitle": "Evaluation of Incidence of Myelosuppression (Grade 4 Neutropenia) in Breast Cancer Patients With Mild, Moderate or Severe Hepatic Impairment Treated With Palbociclib Compared to Patients With Reserved Hepatic Function in the Post-marketing Setting: Cohort Study Using the Medical Information Database Network (MID-NET) Database",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1300,
+    "primaryOutcomeMeasure": "Number of Participants With/Without Hepatic Impairment for Grade 4 Neutropenia in New Users of Palbociclib",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Having prescription records of palbociclib from 15 December 2017 to 29 February 2024.\n* Having any breast cancer records in same month as the first prescription date.\n* Having laboratory tests and visit records (SS-MIX2) on or before 180 days prior to the first prescription date\n* Having SS-MIX2 hospital-visit records within 180 days before the first prescription date\n\nExclusion Criteria:\n\n* Having an absolute neutrophil count (ANC) less than the threshold value for grade 4 neutropenia within 30 days of the first prescription of palbociclib\n* Having any records of anti-HER2 medication",
+    "sex": "ALL",
+    "minimumAge": "0 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01969643",
+    "briefTitle": "A Safety Study of SGN-LIV1A in Breast Cancer Patients",
+    "officialTitle": "A Phase 1, Open-Label, Dose-Escalation Study to Evaluate the Safety and Tolerability of SGN-LIV1A in Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER2 Positive Breast Neoplasms, Hormone Receptor Positive Breast Neoplasms, Triple Negative Breast Neoplasms, HER2 Mutations Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 290,
+    "primaryOutcomeMeasure": "Incidence of adverse events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathologically confirmed diagnosis of breast cancer with radiographic evidence of incurable, unresectable, locally advanced or metastatic disease (LA/MBC)\n* One of the following:\n\n  * Part A: Triple-negative disease (ER/PR/HER2-negative) and received at least 2 prior cytotoxic regimens in the incurable, unresectable, LA/MBC setting; or ER-positive and/or PR-positive/HER2-negative disease and received at least 2 prior cytotoxic regimens in the incurable, unresectable, LA/MBC setting and are no longer a candidate for hormonal therapy (not enrolling new patients);\n  * Part B: Combination Arm: HER2-positive disease and received at least 2 prior cytotoxic regimens in the incurable, unresectable, LA/MBC setting (not enrolling new patients);\n  * Part C: Triple-negative disease and received 2-4 prior non-hormonally-directed therapies in the MBC setting (not enrolling new patients);\n  * Part D and Part E (dose-expansion cohort): Triple-negative disease and received 1 prior non-hormonally-directed or cytotoxic therapy in the MBC setting; or\n  * Part E: HR+(ER-positive and/or PR-positive)/HER2-negative disease who are chemotherapy-eligible and not considered a candidate for further hormonal therapy. Must have received no more than 1 prior non-hormonally-directed or cytotoxic therapy in the LA/MBC setting.\n* Part F: All of the following:\n\n  * Triple negative breast cancer\n  * No prior cytotoxic chemotherapy for unresectable locally advanced or metastatic stage disease\n  * Tumor tissue PD-L1 expression CPS \\<10 expression\n* Parts A, B, C, and D: Newly obtained or archived tumor tissue biopsy, must be collected for central pathology determination of LIV-1 expression\n* Parts E and F: Archival or fresh baseline tumor sample is required.\n* Measurable disease\n* Eastern Cooperative Oncology Group performance status 0 or 1\n* Combination Arm: adequate heart function\n\nExclusion Criteria:\n\n* Pre-existing neuropathy Grade 2 or higher\n* Parts A, B, C, and D: Cerebral/meningeal disease that is related to the underlying malignancy and has not been definitively treated. Parts E and F: Known or suspected cerebral/meningeal metastasis that has not been definitively treated.\n* Prior treatment with LV or prior treatment with an MMAE-containing therapy\n* Combination Arm: hypersensitivity to trastuzumab",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

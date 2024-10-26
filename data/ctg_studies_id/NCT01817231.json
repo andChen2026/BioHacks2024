@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01817231",
+    "briefTitle": "Epidemiological Analysis of Vitamin D and Breast Cancer Risk in Saudi Arabian Women",
+    "officialTitle": "Vitamin D Status and Breast Cancer in Saudi Arabian Women: Case Control Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Vitamin D Deficiency",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 240,
+    "primaryOutcomeMeasure": "serum vitamin D",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Invasive breast cancer (cases) or healthy women (controls),\n* receiving standard medical check-ups at the women's clinic\n* Female,\n* between the ages of 18 and 75 years\n* BMI \u2264 40 kg/m2\n* residence in Saudi Arabia for more than 5 years\n* absence of chronic diseases that could affect vitamin D metabolism, including renal, hepatic, endocrine, or autoimmune disease.\n\nExclusion Criteria:\n\nreceiving standard medical check-ups at the women's clinic\n\n* Male,\n* less than 18 or greater than 75 years of age\n* BMI \\> 40 kg/m2\n* Not a resident of Saudi Arabia for more than 5 years\n* Presence of chronic diseases that could affect vitamin D metabolism, including renal, hepatic, endocrine, or autoimmune disease.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03831178",
+    "briefTitle": "Docosahexaenoic Acid (DHA) for Women With Breast Cancer in the Neoadjuvant Setting",
+    "officialTitle": "Docosahexaenoic Acid (DHA) for Women With Breast Cancer in the Neoadjuvant Setting",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 52,
+    "primaryOutcomeMeasure": "Percent change in Ki67 index from baseline to surgical excision.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women with invasive (clinical stage I, II and III) breast cancer, for whom neoadjuvant systemic therapy with chemotherapy is recommended prior to surgery.\n2. ECOG Performance status of 0 or 1.\n3. Hematology and Biochemistry assessments (CBC and differential, PTT, PT/INR, AST, Alk Phos, Bilirubin, and Creatinine) within normal range unless determined not clinically significant by the qualified investigator.\n4. Ability to take oral medications.\n5. Adequate tissue specimen for diagnosis, biomarkers, and endpoint Ki67 assays.\n\nExclusion Criteria:\n\n1. Patients undergoing surgery prior to chemotherapy.\n2. Current or previous (within 2 months) daily use (\\>1 day/week) use of omega-3, fish oil, or other supplements or functional foods containing docosahexaenoic acid (at daily doses \\> 200 mg).\n3. Known allergy to soy or corn.\n4. Continued intake of supplements containing Vitamin C, Vitamin E or \u03b2-carotene exceeding the DRI, or other anti-oxidant supplements.\n5. Symptomatic but untreated cholelithiasis.\n6. History of deep venous thrombosis, active thrombophlebitis, pulmonary embolism, stroke, acute myocardial infarction, congestive cardiac failure, untreated hypertension, known inherited hypercoagulable disorder.\n7. Diagnosis of any other malignancy within the previous year except for adequately treated basal cell or squamous cell skin cancer.\n8. Medically documented history of a psychiatric disorder that would preclude consent\n9. Partial or complete loss of vision or diplopia, from ophthalmic vascular disease.\n10. Hypersensitivity to DHA or to any ingredient in the formulation or component of the container.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

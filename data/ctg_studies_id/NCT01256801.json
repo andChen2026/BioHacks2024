@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01256801",
+    "briefTitle": "Gene Expression Profiling of Breast Cancer Cells Predict the Response of Malignant Pleural Effusion",
+    "officialTitle": "Gene Expression Profiling of Breast Cancer Cells in Pleural Effusion Prodict the Response of Malignant Pleural Effusion to Immunotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Neoplasm Metastasis, Gene Expression Profiling, Immunotherapy",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 36,
+    "primaryOutcomeMeasure": "immunotherapy response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients should be histologically confirmed with metastatic breast cancer and malignant pleural effusion\n* an Eastern Cooperative Oncology Group (ECOG) performance status of 0-2;\n* At least one measurable lesion;\n* Normal cardiac, hepatic, renal and bone marrow functions;\n* Life expectancy \u22653 months;\n* Discontinuity of previous chemotherapy for a minimum of 4 weeks.\n* Not receive chemotherapy in pleural cavity\n\nExclusion Criteria:\n\n* previous history of other malignancies;\n* previous surgery history on the needle biopsy organ;\n* Serious or uncontrolled concurrent medical illness.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

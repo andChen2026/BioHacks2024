@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04012229",
+    "briefTitle": "IMpact of Breast cAncer Gene Status on Survival in Adjuvant Breast Cancer (IMBASSA)",
+    "officialTitle": "IMpact of BrcA Status on Survival in Adjuvant Breast Cancer (IMBASSA)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, BRCA1 Mutation, BRCA2 Mutation",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2295,
+    "primaryOutcomeMeasure": "Age of diagnosis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients older than 18 years old,\n* Histologically confirmed invasive early breast cancer\n* Neo-adjuvant and/or adjuvant chemotherapy with the first cure of chemotherapy received between January 1st, 2003 and December 31th, 2013\n\nExclusion Criteria:\n\n* Clinical, radiological or histological confirmed metastatic disease\n* Non-invasive breast cancer,\n* Patients who received incomplete treatment\n* Patients who did not speak French",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

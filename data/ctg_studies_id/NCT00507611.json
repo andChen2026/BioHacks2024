@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00507611",
+    "briefTitle": "Axillary Lymph Node Status After Completion of Preoperative Neoadjuvant Systemic Chemotherapy in Patients",
+    "officialTitle": "Sentinel Lymph Node Mapping and Biopsy For Predicting the Axillary Lymph Node Status After Completion of Preoperative Neoadjuvant Systemic Chemotherapy in Patients Who Had Biopsy-Proven Axillary Lymph Node Involvement at Initial Presentation",
+    "overallStatus": "COMPLETED",
+    "conditions": "Invasive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 11,
+    "primaryOutcomeMeasure": "the proportion of women with successful identification of the SLN with a 95% confidence interval of not greater than 10%.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must be female and 18 years of age or older.\n* Patients must have a clinical T1, T2, or T3 tumor size.\n* Patients must have a histopathologic tissue diagnosis of breast cancer by a core-type of breast biopsy\n* Patients must have had biopsy-proven involvement of the axillary lymph nodes at initial presentation based on fine needle aspiration (FNA) cytology, core/Tru-cut biopsy, or pre-treatment SLN biopsy that will require an axillary lymph node dissection to be performed at the time of the definitive breast cancer surgery.\n* Patients will have had to undergone preoperative neoadjuvant systemic chemotherapy.\n* Patients may be candidates for either lumpectomy or mastectomy.\n* Patients may have a history of a previously treated metachronous contralateral breast cancer in the past.\n* Patients may have synchronous bilateral breast cancer.\n\nExclusion Criteria:\n\n* Patients must not be pregnant (The absence of pregnancy must be documented by any one of the following: negative serum pregnancy test, the history of surgical sterilization, or the absence of menstruation for at least six months prior to enrollment in the study)\n* Patients may not have a history of previous treated ipsilateral breast cancer in the past.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

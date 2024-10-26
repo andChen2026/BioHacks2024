@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00235235",
+    "briefTitle": "A Correlative Study for Predicting Response and Toxicity in Patients Receiving Chemotherapy for Breast Cancer",
+    "officialTitle": "Predicting Response and Toxicity in Patients Receiving Chemotherapy for Breast Cancer: A Multicenter Genomic, Proteomic and Pharmacogenomic Correlative Study: Hoosier Oncology Group COE-01",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "To correlate tumor gene expression (genomic profile) with response to commonly used chemotherapies in patients with advanced breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the breast with locally advanced or metastatic disease.\n* Disease amenable to pre-treatment core or incisional biopsy with adequate tissue for histology and genomic/proteomic analysis.\n* Measurable disease as assessed within 21 days prior to being registered for protocol therapy by RECIST.\n* Planned chemotherapy with one of the following regimens:\n\n  1. Doxorubicin 60 mg/m2 + Cyclophosphamide 600 mg/m2 day 1 of every 21-day cycle\n  2. Capecitabine 1000 mg/m2 BID days 1-14 of every 21-day cycle\n  3. Vinorelbine 25 mg/m2 days 1, 8, 15 of every 28-day cycle\n  4. Gemcitabine 1000 mg/m2 days 1, 8, 15 of every 28-day cycle\n\nExclusion Criteria:\n\n* No serious uncontrolled medical or surgical condition that the investigator feels might compromise study participation.\n* Negative pregnancy test obtained within 7 days prior to being registered for protocol therapy for women of child bearing potential.\n* Unwillingness to use adequate contraception (or practicing complete abstinence). Subjects should be advised that adequate contraception (or complete abstinence) must be continued while on treatment and for a period of 3 months after the final dose of chemotherapy.\n* No breast-feeding.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

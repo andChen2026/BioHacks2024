@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02748213",
+    "briefTitle": "A Study of Herceptin (Trastuzumab) in Women With Human Epidermal Growth Factor Receptor (HER) 2-Positive Advanced and/or Metastatic Breast Cancer",
+    "officialTitle": "An Open-Label, Randomized Phase II Study of Herceptin (Trastuzumab), Taxotere (Docetaxel), and Xeloda (Capecitabine) in Combination, Versus Herceptin (Trastuzumab) Plus Taxotere (Docetaxel), in Patients With Advanced and/or Metastatic Breast Cancers That Overexpress HER2",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 225,
+    "primaryOutcomeMeasure": "Percentage of Participants With a Best Overall Response of Complete Response (CR) or Partial Response (PR) According to Response Evaluation Criteria in Solid Tumors (RECIST)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed, HER2-positive advanced and/or metastatic breast cancer not amenable to curative therapy\n* At least one measurable lesion according to RECIST\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Baseline left ventricular ejection fraction (LVEF) at least 50%\n\nExclusion Criteria:\n\n* Pregnant, lactating, or women of childbearing potential who are not surgically sterile or not willing to use adequate contraceptive methods\n* Previous treatment with Herceptin or other anti-HER therapies, or any previous chemotherapy for advanced or metastatic disease\n* Past medical history significant for any cardiac or central nervous system (CNS) disorders\n* Poor hematologic, renal, or hepatic function\n* Chronic corticosteroid therapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

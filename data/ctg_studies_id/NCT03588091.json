@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03588091",
+    "briefTitle": "Neoadjuvant Study of Pyrotinib in Combination With Trastuzumab in Patients With HER2 Positive Breast Cancer",
+    "officialTitle": "A Randomized, Muticenter Double-blind Phase III Study of Neoadjuvant Pyrotinib Plus Trastuzumab and Docetaxel Compared With Placebo Plus Trastuzumab and Docetaxel in Women With HER2 Positive Early Stage or Locally Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 355,
+    "primaryOutcomeMeasure": "Percentage of Participants With Pathological Complete Response (pCR) at the Time of Surgery evaluated by independent review committee(IRC)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female patients, 18 years \u2264 age \u2264 75 years\uff1b\n* Performance Status- Eastern Cooperative Oncology Group (ECOG) 0-1\n* Histologically confirmed invasive breast cancer\uff08early stage or locally advanced\uff09:Primary tumour greater than 2 cm diameter\n* HER2 positive (HER2+++ by IHC or FISH+)\n* Known hormone receptor status.\n* Cardiovascular:Baseline left ventricular ejection fraction (LVEF)\u226555% measured by ECHO\n* Signed informed consent form (ICF)\n\nExclusion Criteria:\n\n* metastatic disease (Stage IV) or inflammatory breast cancer\n* Previous or current history of malignant neoplasms, except for curatively treated:Basal and squamous cell carcinoma of the skin,Carcinoma in situ of the cervix.\n* clinically relevant cardiovascular disease:Known history of uncontrolled or symptomatic angina, clinically significant arrhythmias, congestive heart failure, transmural myocardial infarction, uncontrolled hypertension \u2265180/110);\n* Unable or unwilling to swallow tablets.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

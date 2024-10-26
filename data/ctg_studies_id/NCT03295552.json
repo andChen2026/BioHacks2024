@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03295552",
+    "briefTitle": "Decitabine Plus Carboplatin in the Treatment of Metastatic TNBC",
+    "officialTitle": "Decitabine Plus Carboplatin in the Treatment of Metastatic Triple Negative Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 12,
+    "primaryOutcomeMeasure": "Overall response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female aged between 18 years and 70 years old.\n* Pathologically confirmed metastatic triple negative breast cancer (TNBC). Paraffin-embedded tissue were available from metastatic or primary sites to confirm its TNBC status or for further translational research. TNBC was defined as ER-, PR-, and HER2-.\n* Metastatic TNBC should not be treated with more than 1-line for metastatic disease.\n* Patients can not be treated with carboplatin in the metastatic setting.\n* For patients received carboplatin treatment in the adjuvant setting, they should have at least one year disease interval between last dosage of carboplatin and trial recruiting.\n* Patients had at least one measurable lesion according to RECIST criteria version 1.1.\n* ECOG Performance Status (PS) of 0-1.\n* Adequate liver and renal organ function.\n* Dated and signed IEC/IRB-approved informed consent.\n\nExclusion Criteria:\n\n* More than 1 one therapy for metastatic TNBC, Patients may receive bisphosphonates and other therapies to treat bone metastases.\n* Less than four weeks since last radiotherapy.\n* Pregnancy or lactation or unwillingness to use adequate method of birth control.\n* Active or uncontrolled infection.\n* Hypersensitivity to carboplatin or decitabine\n* Male breast cancer.\n* Treated with any DNA demethylating agents\n* Young patients with pregnancy or lactation or unwillingness to use adequate method of birth control.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

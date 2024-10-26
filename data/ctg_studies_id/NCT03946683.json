@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03946683",
+    "briefTitle": "Cyberknife for Early Stage Breast Cancer",
+    "officialTitle": "Cyberknife Radiosurgery for Early Stage Breast Cancer: A Winthrop-University Hospital Pilot Study of Cyberknife Partial Breast Radiosurgery for Tumors 3 cm or Less",
+    "overallStatus": "COMPLETED",
+    "conditions": "Early Stage Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "Local Control Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with stage 0, I, or II (Tis, Ti, or T2 \\<=3cm \\& NO) histologically confirmed invasive non-lobular carcinoma or ductal carcinoma in situ of the breast with a lesion \\<= 3 cm, treated with wide excision.\n* Negative inked histologic margins of excision or reexcision and clear of invasive tumor and DClS by at least 2mm\n* Negative post-excision or post-reexcision mammography if cancer presented with malignancy-associated microcalcifications; no remaining suspicious microcalcifications in the breast before radiotherapy.\n* No involved axillary lymph nodes by routine histologic examination (H\\&E) of sentinel node(s) or of nodes identified from axillary dissection.\n* Enrollment and initiation of CyberKnife therapy within 42 days of last breast cancer surgery or last chemotherapy treatment.\n\nExclusion Criteria:\n\n* Patients with invasive lobular carcinoma or nonepithelial breast malignancies such as sarcoma or lymphoma.\n* Patients with multicentric carcinoma or with other clinically or radiographically suspicious areas in the ipsilateral breast unless confirmed to be negative for malignancy by biopsy.\n* Patients who are pregnant.\n* Patients who have any histologically confirmed positive axillary nodes.\n* Patients with collagen vascular diseases, specifically systemic lupus erythematosis, scleroderma, or dermatomyositis with a creatine phosphokinase level above normal or with an active skin rash.",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT"
+}

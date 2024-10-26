@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01610050",
+    "briefTitle": "A Phase I Study of LFA102 in Japanese Patients",
+    "officialTitle": "A Phase I, Multicenter, Open-label Study of LFA102 Administered Intravenously in Japanese Patients With Castration-resistant Prostate Cancer or Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Castration-resistant Prostate Cancer, Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 14,
+    "primaryOutcomeMeasure": "Dose Limiting Toxicities (DLT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of prostate cancer\n* Histologically or cytologically confirmed locally advanced or metastatic breast cancer\n\nExclusion Criteria:\n\n* Patients with untreated and/or symptomatic metastatic CNS disease\n* Prior anaphylactic or other severe infusion reaction\n* Treatment with agent which affect prolactin levels\n* Active autoimmune disease\n\nOther protcol-defined Inclusion/Exclusion criteria may apply.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

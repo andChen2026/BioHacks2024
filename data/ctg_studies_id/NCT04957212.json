@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04957212",
+    "briefTitle": "Comparing Efficacy and Safety Between Pertuzumab\u00ae and Perjeta\u00ae in Neoadjuvant Treatment of HER2+ Breast Cancer",
+    "officialTitle": "A Phase III, Randomized, Two-armed, Parallel, Triple-blind, Active-controlled, Equivalency Clinical Trial of Efficacy and Safety Pertuzumab\u00ae (CinnaGen Co.) Compared With Perjeta\u00ae (Originator Pertuzumab) in Neoadjuvant Treatment of HER2+ Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 214,
+    "primaryOutcomeMeasure": "Breast Pathological Complete Response (bpCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients aged 18-70 years.\n* Diagnosed with locally advanced (T2-3, N2-3, M0 or T4a-c, any N, M0), inflammatory (T4d, any N, M0) or operable (T2-3, N0-1, M0), invasive breast cancer.\n* Primary tumor \\> 2 cm in diameter.\n* HER2 positive breast cancer confirmed (Tumors must be IHC 3+ or FISH/CISH + for IHC 2+ tumors).\n* Baseline LVEF \u2265 55% measured by echocardiography.\n* Performance status ECOG \u2264 1\n* Signed informed consent.\n\nExclusion Criteria:\n\n* Metastatic disease (Stage IV) or bilateral breast cancer.\n* Previous anticancer therapy or radiotherapy for any malignancy.\n* Other malignancy, except for carcinoma in situ of the cervix or basal cell carcinoma.\n* Received any investigational treatment within 4 weeks of study start.\n* At least 4 weeks since major surgery.\n* Uncontrolled hypertension (systolic \\> 150 and/or diastolic \\> 100), unstable angina, CHF of any NYHA classification, serious cardiac arrhythmia requiring treatment, history of myocardial infarction within 6 months of enrollment.\n* Hematological, biochemical and organ dysfunction:\n\n  1. Inadequate bone marrow function: Absolute Neutrophil Count (ANC) \\< 1500 cells/ \u00b5L, Platelet count \\< 100,000 cells/ \u00b5L and Hb \\< 9 g/dL).\n  2. Impaired liver function: serum \\[total\\] bilirubin \\> 1.25 x ULN, AST/ALT \\> 1. 5 x ULN with ALP \\> 2.5 x ULN\n  3. Inadequate renal function: serum creatinine \\> 1.5 x ULN.\n* Dyspnea at rest or other diseases which require continuous oxygen therapy.\n* Severe uncontrolled systemic disease (e.g., clinically significant cardiovascular, pulmonary, metabolic, etc).\n* Current chronic daily treatment with corticosteroids (dose of \u226510 mg Oral prednisolone, or equivalent \\[excluding inhaled steroids\\])\n* Subjects with known infection with HIV, HBV, and HCV.\n* Known hypersensitivity to any of the study drugs or excipients.\n* Pregnant and/or lactating women or subjects with reproductive potential not willing to use effective methods of contraception.\n* Subjects assessed by the investigator to be unable or unwilling to comply with the requirements of the protocol (e.g.: physical, psychological and mental problems)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

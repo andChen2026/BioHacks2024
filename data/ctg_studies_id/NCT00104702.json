@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00104702",
+    "briefTitle": "Radiation Therapy in Treating Older Women Who Are Undergoing Surgery for Stage I or Stage II Breast Cancer",
+    "officialTitle": "Radio-Surgical Treatment of Breast Cancer of Women Aged Over 70: Phase II Trial of Feasibility and Reproducibility of a Concentrated and Focalized Radiotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "Reproducibility",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of invasive breast cancer\n\n  * Stage I or II disease\n\n    * Tumor size \u2264 30 mm\n\n      * Located in any breast quadrant\n    * No nodal involvement\n* No inflammatory breast cancer\n* No positive margins after surgical resection (performed on study)\n* No microcalcifications\n* Hormone receptor status\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* Over 70\n\nSex\n\n* Female\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* Karnofsky 70-100%\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Not specified\n\nHepatic\n\n* Not specified\n\nRenal\n\n* Not specified\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* Not specified\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* Not specified",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

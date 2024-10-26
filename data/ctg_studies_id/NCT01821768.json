@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01821768",
+    "briefTitle": "Axillary Ultrasound With or Without Sentinel Lymph Node Biopsy in Detecting the Spread of Breast Cancer in Patients Receiving Breast Conservation Therapy",
+    "officialTitle": "A Prospective Randomized Trial of Sentinel Lymph Node Biopsy Versus no Additional Staging in Patients With Clinical T1-T2 N0 M0 Invasive Breast Cancer and Negative Axillary Ultrasound",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 69,
+    "primaryOutcomeMeasure": "Regional (axillary) recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient must be female.\n* Patient must be at least 18 years of age.\n* Patient's clinical stage must be documented as tumor size less than 5 cm, with no palpable nodes and no evidence of metastatic disease (T1 or T2 N0 M0). For patients who will receive neoadjuvant systemic therapy, pre-treatment clinical stage should be used.\n* Patient must have a negative (normal) axillary ultrasound performed at Siteman Cancer Center. Lymph nodes will be evaluated based on morphologic features. AUS wil be considered positive (abnormal)if lymph nodes are noted to be completely hypoechoic (absent hilum) or have focal hypoechoic cortical thickening/lobulation greater than 4 mm.\n* Patient must have a tissue diagnosis of invasive breast carcinoma\n* Patient must have Eastern Cooperative Oncology Group (ECOG) status \\</= 2, as documented in patient's medical record.\n* Patient must be available for follow-up.\n* A patient with a history of previous malignancy is eligible for this study as long as the patient meets the following criteria for a cancer survivor. A cancer survivor is eligible provided that the following criteria are met (1) The patient has undergone potentially curative therapy for all prior malignancies; (2) There has been no evidence of any prior malignancies for at least five years with no evidence of recurrence (except for effectively treated basal cell or squamous carcinoma of the skin, carcinoma in-situ of the cervix that has been effectively treated by surgery alone, or lobular carcinoma in-situ of the ipsilateral or contralateral breast treated by surgery alone); and (3) The patient is deemed by their treating physician to be at low risks for recurrence from prior malignancies.\n* Patient, or the patient's legally acceptable representative, must provide a signed and dated written informed consent prior to registration and any study-related procedures.\n* Patient must provide written authorization to allow the use and disclosure of their protected health information. NOTE: This may be obtained in either the study-specific informed consent or in a separate authorization form and must be obtained from the patient prior to study registration.\n* Patient must be a candidate for sentinel lymph node biopsy (SLNB).\n\nExclusion Criteria:\n\n* Patient in lactating (breast-feeding) or pregnant.\n* Patient has concurrent invasive bilateral breast malignancies or multicentric disease.\n* Patient has had previous ipsilateral axillary surgery such as excisional biopsy of lymph nodes(s), treatment of hidradenitis.\n* Patient is considered poor candidate surgical candidate due to non-malignant systemic disease.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02340858",
+    "briefTitle": "Percutaneous Irreversible Electroportion for Unresectable Breast Cancer",
+    "officialTitle": "Safety and Efficacy of Irreversible Electroporation (IRE) for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Treatment efficacy as measured by modified Response Evaluation Criteria In Solid Tumors (RECIST) criteria by Computed Tomography (CT) or Magnetic Resonance (MR) imaging.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women 18 years or older with unresectable breast cancer, not amenable/willing to adenomammectomy.\n2. breast carcinoma diagnosed by core needle biopsy.\n3. Any menopausal status.\n4. No history of en bloc open surgical biopsy and/or lumpectomy for diagnostic/treatment of the index breast cancer.\n5. Tumor size \u2264 5.0 cm in greatest diameter. Largest size measured by required scans (mammogram, ultrasound and MRI) will be used to determine eligibility.\n6. Tumor enhancement on pre-study MRI.\n7. Tumor with \\< 25% intraductal components in the aggregate.\n8. Progressed within 12 months from prior adjuvant or progressed within 1 month from prior advanced/metastatic endocrine breast cancer therapy,\n9. Non-pregnant and non-lactating. Patients of childbearing potential must have a negative serum or urine pregnancy test.\n10. Adequate breast size for safe IRE. Male breast cancer patients and female breast cancer patients with breasts too small to allow safe IRE are not eligible as the minimal thickness of the breast tissue does not lend itself to IRE. NOTE: For patients with breast implants, the treating physician must document that adequate distance exists between the lesion and the implant to ensure that the ablated lesion will not contact or jeopardize the implant.\n11. Adequate organ and marrow function, resolution of all toxic effects of prior therapy or surgical procedures\n12. Patient must agree to provide tumor tissue from metastatic tissue at baseline.\n\nExclusion Criteria:\n\n1. Patients with multifocal and/or multicentric ipsilateral breast cancer, multifocal calcifications, or evidence of excessive DCIS.\n2. History of rotational vacuum assisted core biopsies, en bloc open surgical biopsy and/or lumpectomy for diagnosis/treatment of the index breast cancer.\n3. Prior or planned neoadjuvant chemotherapy for breast cancer.\n4. Patients with thrombocytopenia and or any other coagulation abnormality",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

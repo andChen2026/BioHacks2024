@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03354611",
+    "briefTitle": "Contrast-Enhanced Cone Beam Breast CT for Diagnostic Breast Imaging",
+    "officialTitle": "Contrast-Enhanced Cone Beam Breast CT for Diagnostic Breast Imaging",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 21,
+    "primaryOutcomeMeasure": "Breast lesions",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female sex\n* Age 35 years or older\n* Any ethnicity\n* Have an abnormality detected by Breast Self Exam (BSE), or Clinical Breast Exam (CBE), or have an abnormality detected by an imaging modality.\n* Will undergo study imaging within four weeks from the date of diagnostic mammography, prior to breast biopsy (if needed).\n* Able to provide informed consent\n* Post-menopausal, surgically sterile, or effective birth control. For women of childbearing potential, negative pregnancy test or has signed pregnancy test waiver\n* If required by standard of care, eGFR \\>45 within 48 hours to 6 weeks of CE-CBBCT exam\n\nExclusion Criteria:\n\n* Pregnancy\n* Lactation\n* Unknown pregnancy status AND\n* has refused pregnancy testing and\n* has refused to sign a pregnancy test waiver\n* Women who are unable or unwilling to understand or to provide informed consent\n* Women with physical limitations that may prohibit resting prone on the exam table, such as, but not limited to: frozen shoulder, recent heart surgery, pace maker.\n* Women who are unable to tolerate study constraints.\n* Women who have received radiation treatments to the thorax or breast area for malignant and nonmalignant conditions, such as (but not limited to):\n\n  * Treatment for enlarged thymus gland as an infant\n  * Irradiation for benign breast conditions, including breast inflammation after giving birth\n  * Treatment for Hodgkin's disease\n  * Women who have participated in a prior breast clinical trial that gave additional radiation dose, such as an additional mammogram.\n  * Women who have received large numbers of diagnostic x-ray examinations for monitoring of disease such as (but not limited to):\n* Tuberculosis\n* Severe scoliosis\n\nAdditional Exclusion Criteria Due To Contrast Injection:\n\n* Allergic to iodinated contrast material\n* Previous non-ionic contrast reaction\n* Any conditions below regardless of eGFR\n\n  * Renal Disease\n  * Chronic renal dysfunction\n  * Renal Transplant (or waiting for a transplant)\n  * One kidney or other birth defect\n  * Polycystic Kidneys\n  * Renal Tumor/Renal Cancer\n  * History of liver failure/cirrhosis/liver transplant/pending liver transplant\n  * Congestive heart failure\n  * Multiple myeloma\n  * Hyperthyroidism\n  * Pheochromocytoma\n  * Sickle Cell Disease\n  * Asthma requiring daily use of inhaler Additional exclusion criteria due to machine limitations\n* Patient's body weight is over the limit of the scanner table (440 lbs or 200kg)",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

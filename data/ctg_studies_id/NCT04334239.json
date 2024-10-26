@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04334239",
+    "briefTitle": "Effectiveness of Care in Certified Cancer Centres in Germany",
+    "officialTitle": "Wirksamkeit Der Versorgung in Onkologischen Zentren",
+    "overallStatus": "COMPLETED",
+    "conditions": "Colorectal Cancer, Breast Cancer, Ovarian Cancer, Cervix Cancer, Endometrial Cancer, Bronchial Cancer, Prostate Cancer, Head and Neck Tumor, CNS Tumor, Pancreatic Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 670000,
+    "primaryOutcomeMeasure": "Overall survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* first hospitalization due to diagnosis of colorectal cancer, pancreatic cancer, breast cancer, gynecologic tumors, lung cancer, prostate cancer, head and neck tumors, or neuro-oncological tumors 2009-2017 \\[WIdO\\]\n* hospitalization due to primary diagnosis of colorectal cancer, pancreatic cancer, breast cancer, gynecologic tumors, lung cancer, prostate cancer, head and neck tumors, or neuro-oncological tumors 2006-2017 \\[CCR\\]\n\nExclusion Criteria:\n\n* prevalent diagnosis of colorectal cancer, pancreatic cancer, breast cancer, gynecologic tumors, lung cancer, prostate cancer, head and neck tumors, or neuro-oncological tumors 2006-2017\n* exception: outpatient cancer diagnosis up to 12 months prior to first hospitalization is not regarded as prevalent",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

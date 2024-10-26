@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02613923",
+    "briefTitle": "A Sleep Intervention to Improve Outcomes Among Women at High Risk of Breast Cancer",
+    "officialTitle": "A Pilot Sleep Intervention to Improve Outcomes Among Women at High Risk of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Sleep",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 17,
+    "primaryOutcomeMeasure": "Difference in Change in Pittsburgh Sleep Quality Index (PSQI) score between groups",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women at high risk of breast cancer due to one or more of the following:\n\n   * Carry deleterious mutations in the BRCA1, BRCA2, PTEN, TP53, STK11, or CDH1 genes\n   * Previous diagnosis of lobular carcinoma in situ (LCIS), atypical ductal hyperplasia (ADH) or atypical lobular hyperplasia (ALH)\n   * Lifetime risk of 20% or greater as calculated by the National Cancer Institute (NCI) Breast Cancer Risk Assessment Tool or the Tyrer-Cuzick IBIS Risk Assessment Tool\n2. Ability to access the internet and watch videos online.\n3. Valid email address.\n4. Self-reported sleep duration of 6 hours per night or less\n\nExclusion Criteria:\n\n1. Previous diagnosis of cancer.\n2. Lack of ability to read and converse in English.\n3. Lack of ability to give informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

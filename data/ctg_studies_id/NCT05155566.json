@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05155566",
+    "briefTitle": "Treatment Patterns And Clinical Outcomes Among Patients in Latin America Receiving First Line Palbociclib Combinations For HR+/HER2- Advanced/Metastatic Breast Cancer In Real World Settings.",
+    "officialTitle": "Treatment Patterns And Clinical Outcomes Among Patients in Latin America Receiving First Line Palbociclib Combinations For HORMONE RECEPTOR POSITIVE/ HUMAN EPIDERMAL GROWTH FACTOR RECEPTOR 2 NEGATIVE (HR+/HER2-) Advanced/Metastatic Breast Cancer In Real World Settings",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Metastatic",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 847,
+    "primaryOutcomeMeasure": "Progression Free Rate at Month 6",
+    "eligibilityCriteria": "Physician inclusion criteria:\n\n* Oncologist or gynecologist.\n* Responsible for treating \u22654-10 (depending on country) ABC/MBC patients who meet the eligibility criteria.\n* Agrees to participate in the study and complete the case report forms (CRFs) within the data collection period.\n\nPatient inclusion criteria:\n\n* HR+/HER2- breast cancer diagnosis with confirmed metastatic or advanced disease.\n* Received palbociclib as a first line therapy.\n* No prior or current enrolment in an interventional clinical trial for ABC/MBC.\n* Minimum of six months of follow up data since palbociclib initiation.\n\nPhysician exclusion criteria:\n\n* Qualified less than 2 years ago or more than 35 years ago.\n* Participated in observational research for ABC/MBC in the last 3 months.\n* Have not prescribed either palbociclib plus fulvestrant or palbociclib plus aromatase inhibitor as first line therapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

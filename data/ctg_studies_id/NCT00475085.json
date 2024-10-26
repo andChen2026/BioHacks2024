@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00475085",
+    "briefTitle": "Prevention of Delayed Nausea A Phase III Double-Blind Placebo-Controlled Clinical Trial",
+    "officialTitle": "Prevention of Delayed Nausea A Phase III Double-Blind Placebo-Controlled Clinical Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Nausea",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 1021,
+    "primaryOutcomeMeasure": "Home Record: Severity of Delayed Nausea",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Have a diagnosis of cancer and be chemotherapy naive.\n* Must be scheduled to receive a chemotherapy treatment containing doxorubicin hydrochloride, epirubicin hydrochloride, cisplatin, carboplatin, or oxaliplatin (any dose or schedule) without concurrent radiotherapy or interferon treatment\n* Chemotherapy may be for adjuvant, neoadjuvant, curative or palliative intent.\n* Dose-dense regimens (e.g. chemotherapy with doxorubicin or epirubicin given every two weeks)are allowed.\n* For the purposes of this study, Day 1 of chemotherapy will be defined as the day of administration of cisplatin, carboplatin, oxaliplatin, doxorubicin or epirubicin.\n* Regimens with multiple-day doses of doxorubicin, epirubicin, cisplatin, carboplatin, oxaliplatin, dacarbazine, hexamethylmelamine, nitrosoureas, or streptozocin are not allowed. Chemotherapy agents, other than those listed above, may be given orally, intravenously, or by continuous infusion on one or multiple days.\n* Able to understand English\n\nExclusion criteria:\n\n* No symptomatic brain metastases\n* No concurrent or impending bowel obstruction\n* Regimens containing liposomal doxorubicin or cisplatin are not allowed.\n* No concurrent pimozide, terfenadine, astemizole, or cisapride\n* No concurrent doxorubicin hydrochloride liposome or cisplatin\n* No concurrent multiple-day doses of dacarbazine, altretamine, nitrosoureas, streptozocin, cisplatin, carboplatin, or oxaliplatin",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

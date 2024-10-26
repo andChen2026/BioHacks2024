@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00428220",
+    "briefTitle": "A Continuation Study Using Sunitinib Malate For Patients Leaving Treatment On A Previous Sunitinib Study.",
+    "officialTitle": "An Open-label Sunitinib Malate (su011248) Continuation Protocol For Patients Who Have Completed A Prior Sunitinib Study And Are Judged By The Investigator To Have The Potential To Benefit From Sunitinib Treatment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer, Advanced Breast Cancer, Metastatic Castration Resistant Prostate Cancer, Metastatic Renal Cell Cancer, Non-Small Cell Lung Cancer, Thyroid Cancer, Advanced/Metastatic Non-Small Cell Lung Cancer, Advanced Gastric Cancer, Gastrointestinal Stromal Tumor, Hepatocellular Carcinoma, Pancreatic Islet Cell Carcinoma, Pancreatic Neuroendocrine Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 223,
+    "primaryOutcomeMeasure": "Number of Participants With Treatment-emergent Adverse Events (AEs) (All Causalities)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Must have ended treatment from one of the following sunitinib studies: A6181030, A6181064, A6181078, A6181087, A6181094, A6181107, A6181108, A6181110, A6181111, A6181112, A6181113, A6181120, A6181126 and A6181170. Other Pfizer sponsored sunitinib studies may be included in the future.\n\nExclusion Criteria:\n\n* See inclusion criteria",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

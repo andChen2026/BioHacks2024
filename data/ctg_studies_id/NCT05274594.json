@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05274594",
+    "briefTitle": "Efficacy of Preoperative Radiotherapy for Non-responder Patients After Neoadjuvant Chemotherapy",
+    "officialTitle": "Efficacy of Preoperative Radiotherapy for Non-responder Patients After Neoadjuvant Chemotherapy: a Pilot Observational Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Radiotherapy; Complications, Survivorship, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 37,
+    "primaryOutcomeMeasure": "Complete response rate following neoadjuvant radiotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* American Joint Committee on Cancer (AJCC) clinical T1-3\n* Biopsy proven N+\n* Non-metastatic (M0)\n* Patients who are planned to receive adjuvant radiotherapy at initial evaluation\n* Patients who are candidate for neoadjuvant chemotherapy\n* Patients who did not achieved clinical complete response after neoadjuvant chemotherapy\n\nExclusion Criteria:\n\n* AJCC clinical T4\n* AJCC Clinical N-\n* AJCC Clinical M1\n* Patients who achieved clinical complete response after neoadjuvant chemotherapy\n* Patients who did not consent to have neoadjuvant radiotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00066443",
+    "briefTitle": "Epirubicin, Docetaxel, and Pegfilgrastim in Treating Women With Locally Advanced or Inflammatory Breast Cancer",
+    "officialTitle": "A Phase I/II Study Of Increasing Doses Of Epirubicin And Docetaxel Plus Pegfilgrastim For Locally Advanced Or Inflammatory Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 93,
+    "primaryOutcomeMeasure": "Toxic effects",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive adenocarcinoma of the breast, meeting any of the following criteria:\n\n  * T4, NX, M0\n  * Any T, N2-N3, M0\n  * Inflammatory breast cancer (redness over at least one-third of the breast), M0\n* No evidence of metastatic disease by chest x-ray, abdominal ultrasound or CT scan and bone scan\n* Diagnosed within the past 8 weeks\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 16 and over\n\nSex\n\n* Female\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* ECOG 0-2\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Absolute granulocyte count at least 2,000/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n* Hemoglobin at least 10 g/dL\n\nHepatic\n\n* Bilirubin less than upper limit of normal (ULN)\n* Must meet criteria for 1 of the following:\n\n  * ALT and AST no greater than 1.5 times ULN AND alkaline phosphatase no greater than 2.5 times ULN\n  * ALT and AST normal AND alkaline phosphatase no greater than 5 times ULN\n\nRenal\n\n* Creatinine no greater than 1.5 times ULN\n\nCardiovascular\n\n* Resting LVEF normal by MUGA or echocardiogram\n* No congestive heart failure\n* No angina pectoris\n* No myocardial infarction within the past year\n* No uncontrolled hypertension\n* No uncontrolled arrhythmias\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective non-hormonal contraception\n* No other malignancy within the past 5 years except adequately treated nonmelanoma skin cancer or curatively treated carcinoma in situ of the cervix\n* No symptomatic peripheral neuropathy grade 2 or greater\n* No active infection\n* No history of significant neurological or psychiatric disorders, including dementia or seizures\n* No peptic ulcer\n* No unstable diabetes mellitus\n* No contraindication to dexamethasone\n* No known sensitivity to E. coli-derived or polyethylene glycol products\n* Willing to undergo core biopsies once prior to registration and core biopsies at 2 other timepoints while on study\n* Geographically accessible for treatment and follow-up\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* No prior immunotherapy for breast cancer\n\nChemotherapy\n\n* No prior chemotherapy for breast cancer\n\nEndocrine therapy\n\n* No prior hormonal therapy for breast cancer\n* No concurrent corticosteroids except for premedication or hypersensitivity reaction\n* No concurrent oral contraception\n\nRadiotherapy\n\n* No prior radiotherapy for breast cancer\n\nSurgery\n\n* No prior surgery for breast cancer other than biopsy\n\nOther\n\n* No prior systemic therapy for breast cancer\n* No other concurrent investigational drugs or anticancer treatment\n* No concurrent preventative IV antibiotics",
+    "sex": "FEMALE",
+    "minimumAge": "16 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

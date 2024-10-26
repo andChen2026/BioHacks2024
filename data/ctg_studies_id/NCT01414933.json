@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01414933",
+    "briefTitle": "High Throughput Technologies to Drive Breast Cancer Patients to Specific Phase I/II Trials of Targeted Agents",
+    "officialTitle": "High Throughput Technologies to Drive Breast Cancer Patients to Specific Phase I/II Trials of Targeted Agents",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 423,
+    "primaryOutcomeMeasure": "number of patients included in early phase trials evaluating targeted drugs",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Men and Women with histologically diagnosed breast cancer\n* Metastatic relapse or stage IV breast cancer at diagnosis\n* Metastases amenable to biopsy\n* Age \\<70 years old\n* PS 0/1\n* No restriction regarding the number of previous chemotherapy or endocrine therapies\n\nExclusion Criteria:\n\n* Age \\<18\n* Life expectancy \\<3 months\n* Symptomatic or progressing brain metastases\n* Progressive patients at the time of biopsy\n* LVEF \\<50% (MUGA or ultrasonography)\n* Inadequate bone marrow reserve or organ function as demonstrated by any of the following laboratory values:\n* Absolute neutrophil count \\< 1.5 x 109/L\n* Platelet count \\< 100 x 109/L\n* Haemoglobin \\< 90 g/L\n* ASAT/ALAT \\> 2.5 times the upper limit of normal (ULN) if no demonstrable liver metastases or \\> 5 times ULN in the presence of liver metastases\n* Total bilirubin \\> 1.5 times ULN\n* Creatinine \\>1.5 times ULN\n* Corrected calcium \\> ULN\n* Phosphate \\> ULN\n* Abnormal blood coagulation that contra-indicates biopsy\n* Patients deprived of liberty or placed under the authority of a tutor",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

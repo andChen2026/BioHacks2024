@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00282035",
+    "briefTitle": "RAPID: Randomized Trial of Accelerated Partial Breast Irradiation",
+    "officialTitle": "An RCT to Determine if APBI, Utilizing 3D CRT, is as Effective as Whole Breast Irradiation Following Breast Conserving Surgery in Women With Ductal Carcinoma in Situ or Invasive Breast Cancer With Negative Axillary Lymph Nodes",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2135,
+    "primaryOutcomeMeasure": "ipsilateral breast tumour recurrence defined as recurrent invasive or in situ cancer in the ipsilateral breast including the axillary tail.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 1a. Female patient with a new histological diagnosis of DCIS only. OR\n\n  1b. Female patient with a new histological diagnosis of invasive carcinoma of the breast and no evidence of metastatic disease.\n\n  2. Treated by BCS with microscopically clear resection margins for invasive and non-invasive disease (or no residual disease on re- excision).\n\n  3. Negative axillary node involvement including micrometastasis \\<= 0.2mm or positive cells only identified by IHC as determined either by: (i) sentinel node biopsy (ii) axillary node dissection or (iii) clinical exam for patients with DCIS only\n\nExclusion Criteria:\n\n* 1. Age \\< 40 years.\n\n  2. A known deleterious mutation in BRCA 1 and/or BRCA 2.\n\n  3. Tumour size \\> 3 cm in greatest diameter on pathological examination (including both the invasive and non-invasive component).\n\n  4. Tumour histology limited to lobular carcinoma only.\n\n  5. History of cancer:\n  * Patients with another active malignancy or malignancy treated \\< 5 years prior to randomization are excluded.\n  * Patients with a prior diagnosis of invasive or non-invasive breast cancer in either breast are excluded regardless of disease free interval. Patients with concurrent invasive or non-invasive contralateral breast cancer are also excluded.\n  * Patients with prior or concurrent basal cell or squamous cell skin cancers are eligible for the trial.\n\n    6. More than one primary tumour in different quadrants of the same breast.\n\n    7. Previous irradiation to the ipsilateral breast that would preclude whole breast irradiation.\n\n    8. Presence of an ipsilateral breast implant or pacemaker.\n\n    9. Serious non-malignant disease (e.g. cardiovascular, pulmonary, systemic lupus erythematosus (SLE), scleroderma) which would preclude definitive radiation treatment.\n\n    10. Estrogen receptor status (ER) not known.\n\n    11. For patients not treated with adjuvant chemotherapy: unable to commence radiation therapy within 12 weeks of the last surgical procedure on the breast.\n\n    12. For patients treated with adjuvant chemotherapy: unable to commence within 8 weeks of the last dose of chemotherapy.\n\n    13. Currently pregnant or lactating.\n\n    14. Psychiatric or addictive disorders which would preclude obtaining informed consent or adherence to protocol.\n\n    15. Geographic inaccessibility for follow-up.\n\n    16. Inability to localize surgical cavity on CT (i.e., no evidence of surgical clips or seroma).\n\n    17. Inability to adequately plan the patient for the experimental technique.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

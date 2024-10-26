@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02070393",
+    "briefTitle": "Breast-Sparing Proton Therapy for Hodgkin's Disease",
+    "officialTitle": "Breast-Sparing Proton Therapy for Hodgkin's Disease in Young Females Demonstrated By Positron Emission Tomograpy (PET) Scanning: A Pilot Study",
+    "overallStatus": "TERMINATED",
+    "conditions": "Hodgkins Disease",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 3,
+    "primaryOutcomeMeasure": "Comparative DVH data for delivered proton plan and accompanying photon plan for target volume and normal tissues.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female sex\n* Age \\>/= 10 years old and \\< 30 years old\n* Pathologically confirmed classical Hodgkin's Lymphoma\n* At least one site of disease located above the diaphragm\n* Signed study-specific consent prior to initiation of therapy\n* Women of child-bearing potential must have a negative pregnancy blood test within 7 days of starting protocol therapy.\n\nExclusion Criteria:\n\n* Previous radiation therapy to any part of the body.\n* Parenchymal lung involvement at initial presentation or any patient that may need whole lung irradiation as per institutional guidelines.\n* Lymphocyte predominant histology not eligible.\n* Significant infection or other coexistent medical condition that would preclude protocol therapy such as:\n\n  * History of HIV/AIDS\n  * History of collagen Vascular Disease\n  * Symptomatic congestive heart failure\n  * Unstable angina pectoris or myocardial infarction within 6 months\n  * Uncontrolled hypertension (systolic blood pressure \\> 160 mm Hg or diastolic blood pressure \\> 100 mm Hg on 2 consecutive measurements separated by 1 week).\n  * History of uncontrolled diabetes\n  * Psychiatric illness/social situations that would compromise patient safety or limit compliance with study requirements",
+    "sex": "FEMALE",
+    "minimumAge": "10 Years",
+    "stdAges": "CHILD, ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01617954",
+    "briefTitle": "PRospective Study Of MammaPrint in Patients With an Intermediate Recurrence Score",
+    "officialTitle": "PRospective Study Of MammaPrint in Patients With an Intermediate Recurrence Score",
+    "overallStatus": "COMPLETED",
+    "conditions": "Hormone Receptor Positive Malignant Neoplasm of Breast",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 820,
+    "primaryOutcomeMeasure": "Difference in recommended adjuvant chemotherapy treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with histologically proven invasive stage I-II, node negative, hormone receptor positive, Her2 negative breast cancer, who received an Oncotype DX intermediate score (18-30)\n* \u2265 18 years of age at time of consent\n* Written informed consent\n\nExclusion Criteria:\n\n* Insufficient tissue remaining for Mammaprint FFPE\n* Tumor sample shipped to Agendia with \u2264 30% tumor cells or that fails QA or QC criteria\n* Women who have started or completed adjuvant chemotherapy or neo-adjuvant chemotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

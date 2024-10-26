@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05570266",
+    "briefTitle": "Genetic and Non-Genetic Breast Cancer Risk Prediction Evaluation in Indonesian Samples",
+    "officialTitle": "Genetic and Non-Genetic Breast Cancer Risk Prediction Evaluation in Indonesian Samples",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 322,
+    "primaryOutcomeMeasure": "Absolute risk difference between breast cancer patients and non-breast cancer patients in terms of their non-genetic risk",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* For case group\n\n  1. Had been diagnosed with primary breast cancer or tested positive for high penetrance genes (e.g. BRCA 1/2)\n  2. Menarche age \\>12 years old\n  3. Premenopausal\n* For control group\n\n  1. Premenopausal\n  2. Menarche age \\>12 years old\n  3. Asymptomatic\n  4. Consented for the study and follow up\n\nExclusion Criteria:\n\n* For case group:\n\nFirst degree family history of breast or ovarian cancer\n\n* For control group:\n\n  1. Family history of breast or ovarian cancer\n  2. First-degree relationship with the cases",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

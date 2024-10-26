@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00321464",
+    "briefTitle": "A Study Comparing Denosumab vs. Zoledronic Acid for the Treatment of Bone Metastases in Breast Cancer Subjects.",
+    "officialTitle": "A Randomized, Double-Blind, Multicenter Study of Denosumab Compared With Zoledronic Acid (Zometa\u00ae) in the Treatment of Bone Metastases in Subjects With Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Bone Metastases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 2049,
+    "primaryOutcomeMeasure": "Time to First On-Study Skeletal Related Event (SRE) (Non-inferiority)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults with histologically or cytologically confirmed breast adenocarcinoma\n* radiographic evidence of at least one bone mets\n* Easter Cooperative Oncology Group status of 0, 1 or 2;\n* adequate organ function\n\nExclusion Criteria:\n\n* Current or prior IV bisphosphonate administration\n* current or prior oral bisphosphonates for bone mets\n* life expectancy of less than 6 months",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

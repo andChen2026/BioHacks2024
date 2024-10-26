@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02983045",
+    "briefTitle": "A Dose Escalation and Cohort Expansion Study of NKTR-214 in Combination With Nivolumab and Other Anti-Cancer Therapies in Patients With Select Advanced Solid Tumors",
+    "officialTitle": "A Phase 1/2, Open-label, Multicenter Study of the Combination of NKTR-214 and Nivolumab or the Combination of NKTR-214, Nivolumab, and Other Anti-Cancer Therapies in Patients With Select Locally Advanced or Metastatic Solid Tumor Malignancies",
+    "overallStatus": "COMPLETED",
+    "conditions": "Melanoma, Renal Cell Carcinoma, Non Small Cell Lung Cancer, Urothelial Carcinoma, Triple Negative Breast Cancer, HR+/HER2- Breast Cancer, Gastric Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 557,
+    "primaryOutcomeMeasure": "Part 1 Dose Escalation: Incidence of Dose-limiting Toxicity (DLT) During the DLT Evaluation Window",
+    "eligibilityCriteria": "INCLUSION CRITERIA - For Parts 1-4:\n\n* Histologically confirmed diagnosis of a locally advanced (not amenable to curative therapy such as surgical resection) or metastatic solid tumors\n* Life expectancy \\> 12 weeks\n* Patients must not have received prior interleukin-2 (IL-2) therapy\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Measurable disease per RECIST 1.1\n* Patients with stable brain metastases under certain criteria\n* Fresh and archival tumor tissue available Tumor specific inclusion criteria may apply.\n\nEXCLUSION CRITERIA - For Parts 1-4:\n\n* Use of an investigational agent or an investigational device within 28 days before administration of first dose of NKTR--214\n* Females who are pregnant or breastfeeding\n* Participants who have an active autoimmune disease requiring systemic treatment within the past 3 months or have a documented history of clinically severe autoimmune disease that requires systemic steroids or immunosuppressive agents\n* History of organ transplant that requires use of immune suppressive agents\n* Active malignancy not related to the current diagnosed malignancy\n* Evidence of clinically significant interstitial lung disease or active, noninfectious pneumonitis\n* Participants who have had \\< 28 days since the last chemotherapy, biological therapy, or \\< 14 days from approved tyrosine kinase inhibitor (TKI) therapy, or systemic or inhaled steroid therapy at doses greater than 10mg of prednisone Tumor specific exclusion criteria may apply.\n\nOther protocol defined inclusion/exclusion criteria may apply",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

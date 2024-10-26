@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01941407",
+    "briefTitle": "First Line Metastatic Breast Cancer Treatment (ESMERALDA)",
+    "officialTitle": "A PHASE II TRIAL EVALUATING THE COMBINATION OF ERIBULIN (HALAVEN\u00ae) + BEVACIZUMAB (AVASTIN\u00ae) AS A FIRST LINE TREATMENT IN PATIENTS WITH METASTATIC HER2- BREAST CANCER",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 61,
+    "primaryOutcomeMeasure": "Number of patient with non progressive disease",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18 ans\n* Patient with metastatic mammary adenocarcinoma\n* Hormone receptors ER and PR positive or negative for HER 2 negative\n\nExclusion Criteria:\n\n* Prior chemotherapy for metastatic disease\n* Previous treatment with eribulin or bevacizumab\n* Presence of symptomatic brain metastases or meningeal",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

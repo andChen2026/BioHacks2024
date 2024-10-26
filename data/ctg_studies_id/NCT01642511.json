@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01642511",
+    "briefTitle": "Internal Mammary Sentinel Lymph Node Biopsy in Early Breast Cancer Patients With Clinically Axillary Node -Negative",
+    "officialTitle": "Phase II Trail of Internal Mammary Sentinel Lymph Node Biopsy in Early Breast Cancer Patients With Clinically Axillary Node -Negative",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 407,
+    "primaryOutcomeMeasure": "Visualization rate of IMSLN",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* primary breast cancer\n* clinically axilla-negative\n\nExclusion Criteria:\n\n* enlarged internal mammary nodes by imaging",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02247037",
+    "briefTitle": "Patient-derived Xenograft (PDX) Modeling of Treatment Response for Triple Negative Breast Cancer",
+    "officialTitle": "Patient-derived Xenograft (PDX) Modeling of Treatment Response for Triple Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 68,
+    "primaryOutcomeMeasure": "Patient Tumor Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* a histological diagnosis of invasive triple negative breast cancer determined by standard immunohistochemical analysis.\n* must be candidates for neoadjuvant chemotherapy according to standard of care guidelines or have evidence of metastatic disease.\n* must agree to a biopsy for research purposes at time of diagnosis and to undergo surgery at the hospitals of the Mount Sinai Health System.\n\nPatients with the following MAY be eligible:\n\n- a histological diagnosis of ER and/or PR positive breast cancer with an overall receptor expression \u2264 30% breast cancer determined by standard immunohistochemical analysis\n\nExclusion Criteria:\n\n* concurrent disease or condition that would make the patient inappropriate for study participation,\n* any serious medical or psychiatric disorder that would interfere with the subject's safety, or inability to provide informed consent.\n* vulnerable populations will not be included.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

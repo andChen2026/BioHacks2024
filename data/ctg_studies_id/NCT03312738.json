@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03312738",
+    "briefTitle": "A Study of Everolimus Plus Exemestane in Chinese Postmenopausal Women With Estrogen Receptor Positive, Locally Advanced, Recurrent, or Metastatic Breast Cancer After Recurrence or Progression on Non-steroidal Aromatase Inhibitor",
+    "officialTitle": "A Randomized, Double-blind, Placebo Controlled, Phase II Study of Everolimus in Combination With Exemestane in the Treatment of Chinese Postmenopausal Women With Estrogen Receptor Positive, HER-2 Negative, Locally Advanced, Recurrent, or Metastatic Breast Cancer After Recurrence or Progression on Prior Letrozole or Anastrozole",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 159,
+    "primaryOutcomeMeasure": "Progression-free Survival (PFS) Based on Local Radiology Review of Tumor Assessment",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Chinese Postmenopausal women with ER+ HER2- locally advanced, recurrent, or metastatic breast cancer. Locally advanced breast cancer must not be amenable to curative treatment by surgery or radiotherapy.\n* Histological or cytological confirmation of estrogen-receptor positive (ER+) breast cancer\n* Postmenopausal women. Postmenopausal status was defined either by:\n\n  * Prior bilateral oophorectomy\n  * Or age \u226560\n  * Or age \\< 60 and amenorrhea for 12 or more months\n* Recurrence or progression on prior NSAI was defined as:\n\n  * Recurrence while on, or within one year (12 months) of end of adjuvant treatment with letrozole or anastrozole\n  * Or Progression while on or within one month (30 days) of the end of prior treatment with letrozole or anastrozole\n* Radiological or objective evidence of recurrence or progression on or after the last systemic therapy prior to enrollment\n* Patient had as per RECIST 1.1\n\n  * measurable disease or non-measurable lytic or mixed (lytic + blastic) bone lesions in the absence of measurable disease.\n  * non-measurable lytic or mixed (lytic + blastic) bone lesions in the absence of measurable disease.\n* Patient was able to swallow and retain oral medication\n* Patient met the hematologic and biochemistery laboratory values at the screening visit\n* Patient had a WHO performance status \u22642\n* Written informed consent obtained prior to any screening procedures\n\nExclusion Criteria:\n\n* HER2-overexpressing patients by local laboratory testing (IHC 3+ staining or in situ hybridization positive), based on the most recent test.\n* Patients who had received more than one chemotherapy line for ABC\n* Patients with symptomatic visceral disease and candidates to chemotherapy\n* Patients with only non-measurable lesions other than lytic or mixed (lytic and blastic) bone metastasis (e.g. pleural effusion, ascites etc.)\n* Patients receiving concomitant immunosuppressive agents or chronic corticosteroids used at the time of study entry except topical applications, inhaled sprays, eye drops or local injections.\n* Uncontrolled diabetes mellitus as defined by HbA1c \\>7% despite adequate therapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

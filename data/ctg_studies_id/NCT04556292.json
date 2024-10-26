@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04556292",
+    "briefTitle": "A Phase II Study to Assess the Efficacy and Safety of SC10914 in the Metastatic Breast Cancer Patients",
+    "officialTitle": "A Phase 2, Open-Label, Multi-Center Study of SC10914 in Germline BRCA Mutation Subjects With Locally Advanced and/or Metastatic Breast Cancer, Who Have Received More Than 2 Prior Chemotherapy Regimens for Metastatic Disease",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Metastatic, BRCA 1 Gene Mutation, BRCA 2 Gene Mutation",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 78,
+    "primaryOutcomeMeasure": "Objective Response Rate (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Germline mutation in BRCA1 or BRCA2\n2. Histologically or cytologically confirmed breast cancer with evidence of metastatic disease.\n3. Prior therapy with an anthracycline and/or a taxane in either an adjuvant or metastatic setting\n4. Patients who have received platinum (cisplatin or carboplatin, either as monotherapy or in combination) for advanced breast cancer are eligible to enter the study provided platinum-free interval at least 6 months (time from last dose of platinum chemotherapy to disease progression\n5. Patients who have received platinum as potentially curative treatment for a prior cancer (e.g. ovarian cancer) or as adjuvant/neoadjuvant treatment for breast cancer are eligible provided at least 12 months have elapsed between the last dose of platinum-based treatment and eligible .\n6. Patients with estrogen and/or progesterone receptor-positive disease must have received and progressed on at least one endocrine therapy (adjuvant or metastatic), or have disease that the treating physician believes to be inappropriate for endocrine therapy .\n7. At least one lesion (measurable and/or non-measurable) that can be accurately assessed at baseline by CT (MRI where CT is contraindicated) and is suitable for repeated assessment as per RECIST 1.1.\n8. ECOG performance status 0-1.\n9. Adequate bone marrow, kidney and liver function\n\nExclusion Criteria:\n\n1. Prior treatment with PARP inhibitor.\n2. Patients with HER2 positive disease\n3. Untreated and/or uncontrolled brain metastases\n4. Known HIV (Human Immunodeficiency Virus) infection.\n5. Persistent toxicities (\u2265CTCAE grade 2) caused by previous cancer therapy, excluding alopecia\n6. Pregnant or breast feeding women",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

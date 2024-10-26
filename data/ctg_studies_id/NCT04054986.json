@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04054986",
+    "briefTitle": "Study of the Imaging Agent 18F-Var3 in Patients With Breast Cancer",
+    "officialTitle": "Phase 1 Study Using First-in-Human Acidosis Imaging With [18F]AlF-cysVar3 pHLIP\u00ae (18F-Var3) in Patients With Breast Cancer for Determination of Safety, Biodistribution and Radiation Dosimetry",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Incidence of Treatment-Emergent Adverse Events as assessed by CTCAE v5.0",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 years or greater\n* Biopsy-proven breast malignancy\n* \\>/= 1 viable lesion, \\>/= 1 cm, confirmed on CT, MR, or FDG PET/CT within 4 weeks of protocol enrollment\n* Newly diagnosed or recurrent disease, on or off therapy\n* ECOG performance of 0-2 \\*Note: Lesions are considered viable if they are stable or increasing soft tissue lesions, or if they are FDG-avid bone lesions\n\nExclusion Criteria:\n\n* Life expectancy \\< 3 months\n* Pregnancy or lactation\n* Biopsy or other surgical procedures within 48 hours prior to receiving study intervention\n* Patients who cannot undergo PT/CT scanning because of weight limits. PET/CT scanners may not be able to function with patients over 400 pounds",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06044623",
+    "briefTitle": "Implementing Geriatric Assessment for Dose Optimization of Cyclin-dependent Kinase (CDK) 4/6-inhibitors in Older Breast Cancer Patients",
+    "officialTitle": "Implementing Geriatric Assessment for Dose Optimization of CDK 4/6-inhibitors in Older Breast Cancer Patients - a Pragmatic Randomized-controlled Trial (IMPORTANT Trial)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Metastatic Breast Cancer, Advanced Breast Cancer, Quality of Life, Toxicity, Older Patients",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 495,
+    "primaryOutcomeMeasure": "Time to treatment failure",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nThe following inclusion criteria will be applied:\n\n1. Patients male or female aged at least 70 years old at the time of informed consent.\n2. Histologically or cytologically confirmed diagnosis of HR-positive (defined as estrogen-receptor \u2265 1%), HER2-negative breast cancer according to analysis of the most recent tumor specimen by local laboratory.\n3. Advanced (locoregionally recurrent or metastatic) breast cancer not amenable to curative treatment.\n4. No prior systemic treatment for advanced disease (recurrence during neo-/adjuvant endocrine therapy is allowed). A prior period of treatment with aromatase inhibitors or fulvestrant for up to 28 days from the CDK 4/6-inhibitor initiation is allowed.\n5. Adjuvant treatment with CDK 4/6-inhibitors is allowed provided a disease-free interval from treatment end \\>12 months.\n6. Either measurable disease or non-measurable bone only disease, but evaluable according to RECIST criteria 1.1.\n7. Written informed consent prior to any study-specific procedures.\n8. Adequate organ function as defined in the summary of product characteristics (SmPC) for the CDK 4/6-inhibitors that is planned to be used.\n9. Able to swallow capsules.\n10. Able to understand and consent in English language or in native language for each participating country.\n\nExclusion Criteria:\n\nEligible patients will be excluded if they have one of the following criteria:\n\n1. Patients considered from treating physician as non-suitable for treatment with CDK 4/6-inhibitors.\n2. Contraindications according to SmPC for the CDK 4/6-inhibitors that is planned to be used.\n3. Presence of visceral crisis, lymphangitis carcinomatosis, or leptomeningeal carcinomatosis.\n4. History of any other cancer (except of non-melanoma skin cancer or carcinoma in-situ of the cervix), unless in complete remission with no therapy for a minimum of 3 years.\n5. Participating in other interventional trial.",
+    "sex": "ALL",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

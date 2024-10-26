@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05011721",
+    "briefTitle": "Digital Phenotyping in Young Breast Cancer Patients Treated With Neoadjuvant Chemotherapy",
+    "officialTitle": "Digital Phenotyping (Physical Activity, Heart Rate, Sleep) in Young Breast Cancer Patients Treated With Neoadjuvant Chemotherapy",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Describe physical activity profiles in breast cancer patients under 70 years of age treated by neoadjuvant chemotherapy",
+    "eligibilityCriteria": "Inclusion criteria :\n\n* female\n* \u2265 18 years old and \\<70 years old\n* histologically confirmed BC, whatever the histological subtype (hormone receptor positive (RH+), negative (RH-), with (HER2+) overexpression or without (HER2-) HER2 overexpression, or triple negative)\n* planned NAC (up to the day of the first neoadjuvant chemotherapy treatment)\n* Eastern Cooperative Oncology Group Performance status \u22642\n* willing to participate for the entire duration of the study\n* ability to use a compatible smartphone or Tablet PC to download the application Withings Health Mate (from iOS 10 and Android 5.0 or above)\n* Internet access\n* valid health insurance\n* able to read, write and understand French\n\nExclusion criteria :\n\n* presence of metastases\n* Presence of bilateral breast cancer\n* a history of cancer other than basal cell skin lesions and cervical dysplasia\n* pregnancy, likelihood of pregnancy, or breastfeeding\n* impossibility of follow-up throughout the study for medical, social, family, geographic or psychological reasons\n* deprived of liberty through a judicial or administrative decision.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

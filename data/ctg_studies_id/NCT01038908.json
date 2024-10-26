@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01038908",
+    "briefTitle": "Breast Lymph Node Mapping",
+    "officialTitle": "Axillary Reverse Mapping in Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Map arm lymphatic drainage system in the axilla",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. 19-100 years old\n2. Not pregnant or breastfeeding\n3. Breast cancer requiring LN evaluation for the breast\n4. Willing participation following an informed consent process\n\nExclusion Criteria:\n\n1. Patient \\< 19 y/o or \\> 100 y/o\n2. Pregnant or breastfeeding\n3. Allergy to blue dye\n4. Locally advanced axillary disease\n5. History of receiving neoadjuvant chemotherapy treatment\n6. Prior axillary surgery or radiation therapy",
+    "sex": "ALL",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

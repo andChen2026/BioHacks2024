@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06105632",
+    "briefTitle": "A Study to Learn About the Study Medicine Called PF-07220060 in Combination With Fulvestrant in People With HR-positive, HER2-negative Advanced or Metastatic Breast Cancer Who Progressed After a Prior Line of Treatment",
+    "officialTitle": "AN INTERVENTIONAL, OPEN-LABEL, RANDOMIZED, MULTICENTER PHASE 3 STUDY OF PF-07220060 PLUS FULVESTRANT COMPARED TO INVESTIGATOR'S CHOICE OF THERAPY IN PARTICIPANTS OVER 18 YEARS OF AGE WITH HORMONE RECEPTOR-POSITIVE, HER2-NEGATIVE ADVANCED/METASTATIC BREAST CANCER WHOSE DISEASE PROGRESSED AFTER PRIOR CDK 4/6 INHIBITOR-BASED THERAPY",
+    "overallStatus": "RECRUITING",
+    "conditions": "Advanced or Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS) progression, as determined by blinded independent central review (BICR) per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological confirmation of breast cancer with evidence of locally advanced or metastatic disease, which is not amenable to surgical resection or radiation therapy with curative intent.\n* Documented estrogen receptor (ER) and/or progesterone receptor (PR)- positive tumor\n* Documented HER2-negative tumor\n* Able to provide a sufficient amount of representative formalin fixed, paraffin embedded (FFPE) tumor tissue specimen.\n* Must have received CDK4/6i plus NSAI defined per study protocol. There must be documented PD during or after CDK4/6i treatment.\n* Measurable disease or non-measurable bone only disease as defined by RECIST version 1.1.\n* Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) \u22642.\n\nExclusion Criteria:\n\n* Any medical or psychiatric condition that may increase the risk of study participation or make the participant inappropriate for the study.\n* In visceral crisis at risk of immediately life-threatening complications in the short term.\n* Known active uncontrolled or symptomatic central nervous system metastases, carcinomatous meningitis, or leptomeningeal disease.\n* Prior treatment with any of the following:\n* Everolimus or investigational anti-cancer agents in any setting\n* Prior chemotherapy in the advanced setting\n* Radiation within 2 weeks of randomization\n* Current use or anticipated need for any prohibited food, supplements or concomitant medication(s) (ie, other anti-cancer therapies, other endocrine therapies, growth factors, chronic systemic corticosteroids, strong cytochrome P450 3A4/5 \\[CYP3A4/5\\] or uridine 5' diphosphate-glucuronosyltransferase 2B7 \\[UGT2B7\\] inhibitors and inducers, direct oral anticoagulants, proton pump inhibitors).\n* Inadequate renal function, hepatic dysfunction, or hematologic abnormalities.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

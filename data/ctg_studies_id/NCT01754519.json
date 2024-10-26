@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01754519",
+    "briefTitle": "Radiation Therapy in Treating Post-Menopausal Women With Early Stage Breast Cancer Undergoing Surgery",
+    "officialTitle": "Phase II Trial of Single Fraction Radiation Therapy (SFRT) at Roswell Park Cancer Institute for Select Patients With Early Stage Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Ductal Breast Carcinoma In Situ, Estrogen Receptor Negative, Estrogen Receptor Positive, HER2/Neu Negative, Invasive Cribriform Breast Carcinoma, Invasive Ductal Carcinoma, Not Otherwise Specified, Lobular Breast Carcinoma In Situ, Mucinous Breast Carcinoma, Papillary Breast Carcinoma, Progesterone Receptor Positive, Stage I Breast Cancer, Stage II Breast Cancer, Stage IIIA Breast Cancer, Stage IIIC Breast Cancer, Tubular Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "Number of Patients With Adverse Events as a Measure of Safety and Tolerability",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Core needle biopsy (e.g. Mammotome, core, stereotactic, ultrasound guided) showing invasive mammary cancer (with or without concomitant ductal carcinoma or lobular carcinoma in situ) or ductal carcinoma in situ; acceptable histologic types of invasive mammary cancer include ductal, tubular, mucinous, papillary, cribriform and \"NOS\" (not otherwise specified); invasive lobular cancer is excluded\n* Age \\>= 50 years and postmenopausal with no menses for at least one year prior to study enrollment\n* Age \\> 70 years with invasive breast cancer clinical size =\\< 3 cm OR Age 50 - 70 years with invasive breast cancer clinical size =\\< 1.5 cm OR Age \\>= 50 years and postmenopausal with any grade ductal carcinoma in situ (DCIS) clinical extent =\\< 1.5 cm (clinical tumor size will be determined by pre-operative breast imaging-mammography, ultrasound and/or magnetic resonance imaging; in cases of multiple measurements, the largest recorded single dimension will be used to determine eligibility)\n* Hormone receptor status\n\n  * Estrogen or progesterone receptor positive or\n  * Estrogen and progesterone receptor negative and clinical tumor size =\\< 1.0 cm\n* Human epidermal growth factor receptor 2 (HER2)/neu negative on the core biopsy analysis defined as 0 or 1+ by immunohistochemistry or not amplified by fluorescent in situ hybridization analysis\n* Tumor \\>= 0.5 cm from skin as defined by breast ultrasound\n* Unicentric tumor\n* Axillary lymph nodes negative by pre-operative physical examination in all cases and pathologic examination from surgery for invasive disease\n* Negative surgical margins, defined as no margin-labeling ink on tumor cells from margin evaluation\n\nExclusion Criteria:\n\n* Initial core biopsy showing invasive lobular cancer\n* Estrogen receptor and progesterone receptor negative tumor with clinical size \\> 1 cm\n* Any Her 2+ breast cancer (immunohistochemistry 3+; or amplified by fluorescence in situ hybridization \\[FISH\\])\n* Cancer in a patient with a known inherited susceptibility mutation in breast cancer (BRCA)1 or BRCA2\n* Multicentric breast cancer (two foci of known cancer in the breast separated by greater than 5 cm, or in separate quadrants\n* Clinically or pathologically positive axillary lymph nodes\n* Any prior breast cancer\n* Prior breast radiation therapy",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

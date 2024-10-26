@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01266668",
+    "briefTitle": "The Impact of Rituximab in Patients With Primary Breast Diffuse Large B Cell Lymphoma (DLBCL)",
+    "officialTitle": "Matched Pair Analysis Comparing the Outcomes of Primary Breast and Nodal Diffuse Large B Cell Lymphoma in Patients Treated With R-CHOP; Consortium for Improving Survival of Lymphoma (CISL) Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Lymphoma, Large B-Cell, Diffuse",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Overall Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage I or II of primary breast DLBCL treated with R-CHOP\n* Stage I or II of nodal DLBCL treated with R-CHOP\n\nDefinition of primary breast DLBCL - Isolated breast involvement with or without nodal disease, which include distant nodal disease as well as regional nodal disease\n\nDefinition of nodal DLBCL\n\n- The disease was only limited to the lymph nodes or lymphoid organs\n\nExclusion Criteria:\n\n* Primary breast DLBCL or nodal DLBCL treated without rituximab\n* Secondary breast DLBCL\n* Recurrent DLBCL\n* Stage III or IV of nodal DLBCL with extranodal involvement as a dissemination process",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

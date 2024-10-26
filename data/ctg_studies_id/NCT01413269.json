@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01413269",
+    "briefTitle": "Randomized Study of Hypofractionated and Conventional Fractionation Radiotherapy After Breast Conservative Surgery",
+    "officialTitle": "Phase 3 Open-labeled Randomized Clinical Study of Comparing Hypofractionated and Conventional Radiotherapy for Breast Cancer Patients After Breast Conservative Surgery",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 720,
+    "primaryOutcomeMeasure": "in-breast recurrence rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. KPS\\>=60\n2. histology confirmed invasive breast cancer\n3. received breast conservative surgery(wide local excision and axilla dissection, or axillary sentinel node biopsy if sentinel node is negative)\n4. surgical margins negative\n5. primary tumor \u22645cm in the largest diameter\n6. no internal mammary node or supraclavicular node metastases or distant metastasis\n7. can tolerate chemotherapy,hormone therapy (if needed) and radiotherapy\n8. for patients not need chemotherapy\uff0cenrollment date is required no more than 8 weeks from surgery date\n9. for patients with chemotherapy first,enrollment date is required no more than 8 weeks from the last date of chemotherapy\n10. patients signed written inform consent form\n\nExclusion Criteria:\n\n1. ductal carcinoma in situ\n2. prior neoadjuvant chemotherapy\n3. prior breast cancer history\n4. bilateral breast cancer\n5. pregnant or during lactation\n6. prior or concomitant malignant tumor excluded skin cancer(not malignant melanoma) and cervix carcinoma in situ\n7. active collagen vascular disease\n8. prior neoadjuvant hormone therapy\n9. immediate ipsilateral breast reconstruction",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

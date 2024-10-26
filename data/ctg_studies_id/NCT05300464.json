@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05300464",
+    "briefTitle": "A Clinical Investigation to Confirm the Ability of MammoWave in Breast Lesions Detection",
+    "officialTitle": "A Clinical Investigation (Multicentric, Single Arm, Prospective, Stratified) to Confirm the Ability of MammoWave (Microwave Mammogram) in Breast Lesions Detection",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "MammoWave sensitivity (number of 'true positive' results)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed Informed consent Form\n* Women\n* Adult \u2265 18 years old\n* Having a radiologist study output obtained using mammography within the last month. Such radiologist study output may be integrated with ultrasound and /or magnetic resonance imaging output if deemed necessary by the responsible investigator and when available. The radiological output will be integrated with histological one if deemed necessary by the responsible investigator and when available.\n* Patients willing to comply with study protocol and recommendations\n\nExclusion Criteria:\n\n* Patients who belong to any vulnerable group\n* Patients with implanted electronic devices\n* Patients who have undergone biopsy less than one week before MammoWave scan\n* Patients with nipple piercings (unless they are removed prior to examination)\n* Pregnancy or breastfeeding",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

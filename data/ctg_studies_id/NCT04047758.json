@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04047758",
+    "briefTitle": "Palbociclib Combined With an Aromatase Inhibitor in Breast Cancer",
+    "officialTitle": "Efficacy, Tolerability, and Safety of Palbociclib Combined With an Aromatase Inhibitor in Hormone Receptor-positive/Human Epidermal Growth Factor Receptor 2-negative Locally Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 420,
+    "primaryOutcomeMeasure": "Progression-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with histological and imaging findings-confirmed hormone receptor-positive/human epidermal growth factor receptor 2-negative breast cancer;\n* postmenopausal patients;\n* eligible patients receiving one or more treatment strategies who are followed up in the center where they receive treatment;\n* provision of written informed consent.\n\nExclusion Criteria:\n\n* Age \\< 18 years;\n* pregnant woman;\n* participating in other clinical trials.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

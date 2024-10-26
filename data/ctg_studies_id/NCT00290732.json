@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00290732",
+    "briefTitle": "Liposomal Doxorubicin Before Mastectomy in Treating Women With Invasive Breast Cancer",
+    "officialTitle": "A Phase I Study Assessing the Feasibility and Safety of Intraductal Administration of Pegylated Liposomal Doxorubicin (Doxil) in Women With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Maximum Tolerated Dose (MTD)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed infiltrating carcinoma of the breast meeting any of the following criteria:\n\n  * T1-3, any N disease\n  * Proven ductal carcinoma in situ\n* Unresected disease\n\n  * Planned mastectomy as definitive surgical procedure\n\n    * Known or suspected metastatic disease allowed provided mastectomy is planned\n* Nonpalpable tumor allowed (e.g., initial T2-3 tumor that responded to preoperative therapy)\n* No inflammatory breast cancer or other T4 features\n* Successful baseline ductogram\n\n  * Baseline nipple aspiration procedure must identify a duct productive of nipple aspirate fluid\n  * No severe nipple retraction\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female patients\n* Menopausal status not specified\n* ECOG performance status 0-2\n* Absolute neutrophil count \u22651,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Hemoglobin \u2265 9.0 g/dL\n* Creatinine \u2264 2 times upper limit of normal (ULN)\n* Bilirubin \u2264 2 times ULN\n* AST and ALT \u2264 2.5 times ULN\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No significant history of severe allergy to iodinated contrast material or debilitating anxiety that may not allow for a ductogram\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* Prior preoperative chemotherapy, trastuzumab (Herceptin\u00ae), or hormonal therapy allowed provided it was completed 7-14 days prior to study treatment\n* No prior radiation therapy, excisional biopsy, breast reduction, areolar surgery, or breast implant (present or past history of implant that was removed)\n* No other prior procedure that may have altered the breast ductal system in the ipsilateral breast\n* No other concurrent chemotherapy, radiotherapy, endocrine therapy, or biologic agents for breast cancer\n* No other concurrent investigational drugs\n* Concurrent bisphosphonates allowed",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

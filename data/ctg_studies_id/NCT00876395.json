@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00876395",
+    "briefTitle": "Everolimus in Combination With Trastuzumab and Paclitaxel in the Treatment of HER2 Positive Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "A Randomized Phase III, Double-Blind, Placebo-Controlled Multicenter Trial of Everolimus in Combination With Trastuzumab and Paclitaxel, as First Line Therapy in Women With HER2 Positive Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 719,
+    "primaryOutcomeMeasure": "Progression-free Survival (PFS) Per Investigators' Assessment Based on Local Radiology Review - Full Population",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult Women (\u2265 18 years old).\n* Histologically or cytologically confirmed invasive breast carcinoma with local recurrence or radiological evidence of metastatic disease.\n* Must have at least one lesion that can be accurately measured or bone lesions in the absence of measurable disease.\n* HER2+ patients by local laboratory testing (IHC 3+ staining or in situ hybridization positive).\n* Prior trastuzumab and/or chemotherapy (taxanes included) as neo-adjuvant or adjuvant treatment is allowed but should be discontinued \\> 12 months prior to randomization.\n* Prior treatment for breast cancer with endocrine therapy (adjuvant or metastatic settings) is allowed but should be discontinued at randomization. Patients treated with bisphosphonates at entry or who start bisphosphonates during study may continue this therapy during protocol treatment.\n* Documentation of negative pregnancy test.\n* Organ functions at time of inclusion.\n\nExclusion Criteria:\n\n* Prior mTOR inhibitors for the treatment of cancer.\n* Other anticancer therapy for locally advanced or metastatic breast cancer except for prior hormonal therapy.\n* Patients with only non-measurable lesions other than bone metastasis (e.g. pleural effusion, ascites, etc).\n* Radiotherapy to \u2265 25% of the bone marrow within 4 weeks prior to randomization\n* History of central nervous system metastasis.\n* Impairment of gastrointestinal (GI) function or GI disease or active ulceration of the upper gastrointestinal tract.\n* Serious peripheral neuropathy.\n* Cardiac disease or dysfunction.\n* Uncontrolled hypertension.\n* HIV.\n* Pregnant,",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

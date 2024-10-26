@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01934478",
+    "briefTitle": "Radiotherapy Alternates Human Epidermal Growth Factor 2 (Her2) Expression in Human Breast Cancer",
+    "officialTitle": "Study on Human Epidermal Growth Factor 2 (Her2) Expression Changes in Human Breast Cancer After Radiotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Human Epidermal Growth Factor 2 Negative Carcinoma of Breast",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 5,
+    "primaryOutcomeMeasure": "Her2 changes during radiotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histological confirmed advanced breast cancer\n* cancer sample can be obtained by fine needle biopsy\n* IHC and FISH confirmed Her2 negative\n* radiotherapy indication for local residual cancer\n\nExclusion Criteria:\n\n* no radiotherapy indication\n* patient refuse",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

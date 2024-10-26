@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05141708",
+    "briefTitle": "Treatment Patterns and Clinical Outcomes Among Talazoparib-Treated Adults With HER2-Negative mBC With gBRCA1/2m",
+    "officialTitle": "Treatment Patterns and Clinical Outcomes Among Talazoparib-Treated Adults With HER2-Negative Metastatic Breast Cancer and Germline BRCA1/2 Mutations: An Observational Study Using Flatiron Electronic Health Record (EHR) Database",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer, Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 33,
+    "primaryOutcomeMeasure": "Time to Treatment Failure (TTF) for Talazoparib",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPatients must meet all of the following inclusion criteria to be eligible for inclusion in the study:\n\n* Diagnosed with breast cancer (ICD-9 174.x or 175.x or ICD-10 C50x)\n* At least two visits in the Flatiron database on or after January 1, 2011\n* Pathology consistent with breast cancer\n* Has evidence of stage IV or recurrent metastatic breast cancer with a metastatic diagnosis date on or after January 1, 2011. This includes patients who were diagnosed with stage IV at diagnosis or were diagnosed with earlier stage disease, then developed a distant metastasis later on, or had recurrence of the disease via a distant metastasis\n* Confirmed receipt of talazoparib as treatment for mBC via abstraction initiated between January 1, 2018 and September 30, 2020\n* HER2 negative test result on or before the start of patient's first talazoparib-containing line of therapy, as defined by Flatiron's line of therapy rules\n* BRCA1, BRCA2, BRCA1 and BRCA2 germline mutation, or BRCA germline mutation not otherwise specified, identified on or before the start date of patient's first talazoparib-containing line of therapy, as defined by Flatiron's line of therapy business rules\n* Age 18 years or older at the time of first talazoparib-containing line of therapy\n\nExclusion Criteria:\n\n* Lacking relevant unstructured documents in the Flatiron database for review by the abstraction team\n* Receipt of drug as part of a clinical trial (captured in the database as \"clinical study drug\" without additional information about active ingredient or whether the patient received placebo), defined as any non-cancelled order, administration, or oral episode for a drug used in a clinical trial, on or prior to start of first talazoparib line of therapy, as defined by Flatiron's line of therapy business rules",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

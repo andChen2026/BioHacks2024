@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04257474",
+    "briefTitle": "Barriers to Screening Breast MRI Utilization Among Patients at Elevated Risk",
+    "officialTitle": "Barriers to Screening Breast MRI Utilization Among Patients at Elevated Risk (B-SUPER)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 265,
+    "primaryOutcomeMeasure": "Reporting Receipt of MRI Breast Screening at Any Time",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Ability to speak/read English\n* Within 2 years of last screening mammogram\n* Pathogenic BRCA1/2 mutations OR estimated lifetime risk \u226520% per the National Cancer Institute (NCI) Breast Cancer Risk Assessment Tool (BCRAT)\n\nExclusion Criteria:\n\n* Women who have received a prior diagnosis of breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

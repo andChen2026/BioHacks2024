@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00577122",
+    "briefTitle": "Medroxyprogesterone +/- Cyclophosphamide & Methotrexate in Hormone Receptor-Negative Recurrent/Metastatic Breast Cancer",
+    "officialTitle": "MPA Revisited: A Phase II Study of Anti-Metastatic, Anti-Angiogenic Therapy in Postmenopausal Patients With Hormone Receptor Negative Breast Cancer. A Translational Breast Cancer Research Consortium (TBCRC) Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Estrogen Receptor-negative Breast Cancer, Progesterone Receptor-negative Breast Cancer, Recurrent Breast Cancer, Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Clinical Benefit Rate (CR + PR + SD > 6 Months).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the breast with measurable locally recurrent or metastatic disease\n* Primary tumor must be ER negative and PR negative\n* Patients must be post-menopausal\n* Patients may have had up to 3 prior chemotherapy regimens for recurrent/metastatic disease\n* Adequate organ function as evidenced by laboratory studies outlined in section 3.6 of the protocol\n* Patients with treated, asymptomatic brain metastases are eligible provided chronic steroid therapy is not required\n\nExclusion Criteria:\n\n* Patients must not have extensive pleural effusion or ascites\n* Patients must not have history of DVT or pulmonary embolism w/in past 12 mo\n* Patients must not have had chemotherapy or hormonal therapy within 2 weeks of study entry\n* Patients must not have had radiation therapy within 1 week of study entry.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

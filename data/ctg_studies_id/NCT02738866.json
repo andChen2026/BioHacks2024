@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02738866",
+    "briefTitle": "Palbociclib With Fulvestrant for Metastatic Breast Cancer After Treatment With Palbociclib and an Aromatase Inhibitor",
+    "officialTitle": "Phase II Trial of Palbociclib With Fulvestrant in Individuals With Hormone Receptor-Positive, HER2-Negative Metastatic Breast Cancer Who Have Progressed on Treatment With Palbociclib and an Aromatase Inhibitor",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Progression-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women may be premenopausal or postmenopausal\n* Metastatic or locally advanced breast cancer, not amenable to surgery or radiation with curative intent\n* ER-positive and/or PR-positive, HER2-negative tumor\n* Prior treatment: progressed on and following at least 6 months of combined treatment with palbociclib and AI therapy; up to one (1) prior line of chemotherapy for advanced disease is allowed in addition to any number of prior lines of endocrine therapy; no prior treatment with fulvestrant, everolimus, or any agent whose mechanism of action is to inhibit the PI3K-mTOR pathway in the metastatic setting\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* Evaluable or measurable disease\n* Disease that is amenable to biopsy\n* Adequate hematologic and renal function\n* History of central nervous system metastasis is allowed if treated and stable\n* Prior radiation therapy is allowed if recovered from toxicity and disease evaluable for response outside of the radiation fields or evidence of post-radiation progression of previously irradiated sites of disease\n* Ability to understand and willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Women who are pregnant or breast-feeding\n* Concurrent use of inhibitors or inducers of CYP3A4, or medications which prolong the QTc interval\n* Major surgery, chemotherapy, radiotherapy, or other anti-cancer therapy within 2 weeks before registration; prior radiotherapy to \u226525% of bone marrow are not eligible independent of when it was received\n* Any other malignancy within 3 years prior to registration, except for adequately treated basal cell or squamous cell skin cancer, or carcinoma in situ of the cervix\n* Any severe cardiac event within 6 months of registration\n* Prior hematopoietic stem cell or bone marrow transplantation\n* Known abnormalities in coagulation such as bleeding diathesis, or treatment with anticoagulants precluding intramuscular injections of fulvestrant or goserelin (if applicable)\n* Known or possible hypersensitivity to palbociclib, fulvestrant, goserelin (if applicable) or to any of their excipients\n* Known human immunodeficiency virus infection\n* Other severe acute or chronic medical or psychiatric condition, including recent or active suicidal ideation or behavior, or laboratory abnormality that may increase the risk associated with study participation or investigational product administration or may interfere with the interpretation of study results and, in the judgment of the investigator, would make the patient inappropriate for entry into this study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

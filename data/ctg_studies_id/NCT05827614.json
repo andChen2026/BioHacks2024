@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05827614",
+    "briefTitle": "Study of the CHK1 Inhibitor BBI-355, an EcDNA-directed Therapy (ecDTx), in Subjects with Tumors with Oncogene Amplifications",
+    "officialTitle": "An Open-Label, Multicenter, First-in-Human, Dose-Escalation and Dose-Expansion, Phase 1/2 Study of BBI-355 and BBI-355 in Combination with Select Targeted Therapies in Subjects with Locally Advanced or Metastatic Solid Tumors with Oncogene Amplifications",
+    "overallStatus": "RECRUITING",
+    "conditions": "Non-small Cell Lung Cancer, Non-Small Cell Lung Adenocarcinoma, Non-Small Cell Squamous Lung Cancer, Head and Neck Squamous Cell Carcinoma, Esophageal Cancer, Gastric Cancer, Breast Cancer, Bladder Cancer, Ovarian Cancer, Endometrial Cancer, Liposarcoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Frequency and severity of treatment emergent adverse events (TEAEs) of BBI-355 as a single agent and in combination with each of the following agents: erlotinib or futibatinib",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Locally advanced or metastatic non-resectable solid tumors, whose disease has progressed despite all standard therapies or for whom no further standard or clinically acceptable therapy exists,\n* Single agent arm: Evidence of oncogene amplification,\n* BBI-355 combination with erlotinib arm: Evidence of amplification of wildtype EGFR,\n* BBI-355 combination with futibatinib arm: Evidence of amplification of wildtype FGFR1, FGFR2, FGFR3, or FGFR4,\n* Availability of FFPE tumor tissue, archival or newly obtained,\n* Measurable disease as defined by RECIST Version 1.1,\n* Adequate hematologic function,\n* Adequate hepatic and renal function,\n* Eastern Cooperative Oncology Group performance status (ECOG PS) 0 or 1,\n* Other inclusion criteria per study protocol.\n\nKey Exclusion Criteria:\n\n* Well-known tumor activating oncogene mutations or fusions,\n* Prior exposure to CHK1 inhibitors,\n* BBI-355 combination with erlotinib arm: Prior exposure to EGFR inhibitors,\n* BBI-355 combination with futibatinib arm: Prior exposure to FGFR inhibitors,\n* Hematologic malignancies,\n* Primary CNS malignancy, leptomeningeal disease, or symptomatic active CNS metastases, with exceptions per study protocol,\n* Prior or concurrent malignancies, with exceptions per study protocol,\n* History of HBV, HCV, or HIV infection,\n* Clinically significant cardiac condition,\n* Active or history of interstitial lung disease (ILD) or pneumonitis, or history of ILD or pneumonitis requiring steroids or other immunosuppressive medications,\n* QTcF \\> 470 msec,\n* Prior organ allograft transplantations or allogeneic peripheral blood stem cell/bone marrow transplantation,\n* Other exclusion criteria per study protocol.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00722059",
+    "briefTitle": "Detection and/or Evaluation of Dense Breast Abnormalities Using Tomosynthesis and Digital Mammography",
+    "officialTitle": "Assessment of Emerging Technology: Comparison of Breast Tomosynthesis and Digital Mammography in the Evaluation of Heterogeneously Dense and Extremely Dense Breasts",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Breast Abnormalities",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Measure of digital tomosynthesis and digital mammography test performance.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females 30 years of age or older.\n* Dense Breasts.\n* Has undergone clinical two view mammogram and diagnostic breast imaging evaluation.\n* Suspicious or palpable mass and scheduled for biopsy.\n\nExclusion Criteria:\n\n* Pregnant or lactating women.\n* Prior personal history of breast cancer.\n* Prior breast augmentation with implants or silicon injection. male patients.\n* No two view mammogram as part of breast imaging evaluation.\n* Breast density of almost entirely fatty/scattered fibroglandular densities.",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

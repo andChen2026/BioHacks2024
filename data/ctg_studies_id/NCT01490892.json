@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01490892",
+    "briefTitle": "Quantitative Subharmonic Breast Imaging",
+    "officialTitle": "Quantitative Subharmonic Breast Imaging",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 219,
+    "primaryOutcomeMeasure": "Number of Breast Cancer Lesions Characterized as Malignant or Benign With 3D SHI, Harmonic Imaging (HI) or Power Doppler Imaging (PDI)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Be a female diagnosed by x-ray mammography (performed within 90 days prior to the study procedure) as having a solid breast mass or abnormal area without a mass.\n* Be scheduled for a biopsy (core / excisional / lumpectomy) of the mass or region of abnormality or for mastectomy within 30 days after this study procedure.\n* Be at least 18 years of age.\n* Be medically stable.\n* If a female of child-bearing potential, must have a negative pregnancy test.\n* Have signed Informed Consent to participate in the study.\n\nExclusion Criteria:\n\n* Males\n* Females who are pregnant or nursing.\n* Patients whose breast lesion is unequivocally a cyst by unenhanced US.\n* Patients currently on chemotherapy or with other primary cancers requiring systemic treatment.\n* Patients who are medically unstable, patients who are seriously or terminally ill, and patients whose clinical course is unpredictable. For example:\n* Patients on life support or in a critical care unit.\n* Patients with unstable occlusive disease (eg, crescendo angina)\n* Patients with clinically unstable cardiac arrhythmias, such as recurrent ventricular tachycardia.\n* Patients with uncontrolled congestive heart failure (NYHA Class IV)\n* Patients with recent cerebral hemorrhage.\n* Patients with clinically significant and unstable renal and/or liver disease (eg, transplant recipients in rejection)\n* Patients who have undergone surgery within 24 hours prior to the study sonographic examination.\n* Patients with known hypersensitivity to perflutren\n* Patients who have received any contrast medium (X-ray, MRI, CT, of US) in the 24 hours prior to the research US exam\n* Patients with cardiac shunts.\n* Patients with congenital heart defects.\n* Patients with severe emphysema, pulmonary vasculitis, or a history of pulmonary emboli.\n* Patients with confirmed or suspected liver lesions.\n* Patients with respiratory distress syndrome.\n* Patients who have had excisional biopsy/lumpectomy of the current area of interest within the past 6 weeks.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

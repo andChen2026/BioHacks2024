@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01973309",
+    "briefTitle": "A Study of Vantictumab (OMP-18R5) in Combination With Paclitaxel in Locally Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "A Phase 1b Dose Escalation Study of Vantictumab (OMP-18R5) in Combination With Paclitaxel in Patients With Locally Recurrent or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 37,
+    "primaryOutcomeMeasure": "Safety and tolerability of vantictumab in combination with paclitaxel in patients with locally recurrent or metastatic breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed Informed Consent Form\n* Age \u226518 years\n* Histologically documented adenocarcinoma of the breast with locally recurrent or metastatic disease\n\n  o Patients with breast cancer overexpressing HER2 are not eligible.\n* Availability of tumor tissue, either archival FFPE or obtained at study entry through fresh biopsy\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* All acute treatment-related toxicity from prior therapy must have resolved to Grade \u2264 1 prior to study entry\n* Adequate hematologic and end-organ function\n* Evaluable or measurable disease per RECIST v1.1\n* For women of childbearing potential, agreement to use two effective forms of contraception\n\nExclusion Criteria:\n\n* Known significant dose delays during prior treatment with a taxane due to drug-related toxicities\n* Prior treatment with more than two regimens of systemic cytotoxic chemotherapy for locally recurrent or metastatic disease\n* Treatment with any anti-cancer therapy within 3 weeks prior to initiation of study treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

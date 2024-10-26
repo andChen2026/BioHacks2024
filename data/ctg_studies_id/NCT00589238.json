@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00589238",
+    "briefTitle": "Paclitaxel, Doxorubicin, and Cyclophosphamide With Or Without Carboplatin in Treating Women With Locally Advanced Breast Cancer That Can Be Removed by Surgery",
+    "officialTitle": "Randomised Phase II Trial of Neoadjuvant Weekly Paclitaxel Plus Carboplatin Compared to Weekly Paclitaxel Alone Followed in Both Arms by Doxorubicin and Cyclophosphamide for Operable or Locally Advanced Basal-like Subtype Breast Cancer Correlating BRCA-1 mRNA and Protein Expression With Carboplatin Response",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 16,
+    "primaryOutcomeMeasure": "Pathological complete response rate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive basal-type breast cancer meeting the following criteria:\n\n  * Newly diagnosed disease\n  * Locally advanced or operable primary disease \\> 2 cm, without evidence of metastatic disease\n  * Clinical T2 (\\> 2 cm), T3 (\\> 5 cm), or T4 primary tumors with or without clinical lymph node involvement (N0-3)\n\n    * T4 tumors are defined by any of the following:\n\n      * Skin ulceration\n      * Satellite nodules\n      * Peau d' orange (skin edema)\n      * Chest wall invasion\n      * Inflammatory breast cancer\n* Her-2/neu 0-1+ by IHC (or negative by fluorescent in situ hybridization if Her-2 2+ by immunohistochemistry)\n* No metastatic disease\n* Hormone receptor status:\n\n  * Estrogen and progesterone receptor-negative disease\n\nPATIENT CHARACTERISTICS:\n\nInclusion criteria:\n\n* Female\n* Menopausal status not specified\n* ECOG performance status (PS) 0-2 or Karnofsky PS 60-100%\n* Life expectancy \\> 10 years\n* Leukocytes \u2265 3,000/\u03bcL\n* Absolute neutrophil count \u2265 1,500/\u03bcL\n* Platelets \u2265 100,000/\u03bcL\n* Total bilirubin normal\n* AST and ALT \u2264 2.5 times upper limit of normal\n* Creatinine normal OR creatinine clearance \u2265 60 mL/min\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n* Cardiac ejection fraction \u2265 50% as assessed by MUGA scan or 2D echocardiogram\n\nExclusion criteria:\n\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to paclitaxel, carboplatin, or other agents used in the study\n* Pre-existing peripheral neuropathy\n* Uncontrolled intercurrent illness including, but not limited to, any of the following:\n\n  * Ongoing or active infection\n  * Symptomatic congestive heart failure\n  * Unstable angina pectoris\n  * Cardiac arrhythmia\n  * Psychiatric illness or social situations that would limit compliance with study requirements\n* Prior malignancies except for basal cell carcinoma of the skin or curatively treated carcinoma in situ of the cervix\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior chemotherapy or radiotherapy\n* No HIV-positive patients receiving combination antiretroviral therapy\n* No concurrent primary growth factor prophylaxis\n* No other concurrent investigational agents\n* No other concurrent chemotherapy, immunotherapy, hormonal cancer therapy, surgery for cancer, or experimental medications",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

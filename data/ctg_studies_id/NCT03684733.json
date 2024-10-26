@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03684733",
+    "briefTitle": "Magnetic Resonance Breast Tissue Characterisation to Improve Risk Stratification for Breast Cancer",
+    "officialTitle": "Magnetic Resonance Breast Tissue Characterisation to Improve Risk Stratification for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "BRCA1 Mutation, BRCA2 Mutation, Mammography, MRI",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "Arm 1 (Cohort 1), Arm 2 (Cohorts 2 & 3) : breast density",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nCohort 1:\n\n* Normal breast tissue in one or both breasts\n* Aged \\> 39.5 years\n* \u2264 6 months between XRM and MRI examinations\n\nCohort 2:\n\n* Genetically proven BRCA1 or 2 mutation carrier\n* Age 39.5 - 50.5 years\n* \u2264 6 months between XRM and MRI examinations\n\nCohort 3:\n\n* Previous mantle radiotherapy\n* Age 39.5 - 50.5 years\n* \u2264 6 months between XRM and MRI examinations\n\nCohort 4:\n\n* Radiologically healthy breast tissue as assessed by XRM\n* Age 39.5 - 50.5 years\n* Able to attend MRI screening within 6 weeks of XRM\n\nExclusion Criteria:\n\nCohort 1:\n\n- Treatment or medication between XRM and MRI examinations\n\nCohort 2:\n\n* Previous breast cancer diagnosis and/or treatment\n* Treatment or medication between XRM and MRI examinations\n\nCohort 3:\n\n* Previous breast cancer diagnosis and/or treatment\n* Treatment or medication between XRM and MRI examinations\n\nCohort 4:\n\n* Previous breast cancer diagnosis and/or treatment\n* MRI incompatible implants\n* Claustrophobia\n* Inability to tolerate a 40 minute MRI breast examination\n* Patients with renal failure or problems with IV access",
+    "sex": "FEMALE",
+    "minimumAge": "39 Years",
+    "stdAges": "ADULT"
+}

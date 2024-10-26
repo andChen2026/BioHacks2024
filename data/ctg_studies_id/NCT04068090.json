@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04068090",
+    "briefTitle": "Taxane Induced Peripheral Neuropathy in Chinese Patients With Breast Cancer",
+    "officialTitle": "Taxane Induced Peripheral Neuropathy in Chinese Patients With Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Total score from the FACT-GOG-Ntx questionnaire",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of breast cancer\n* Females aged 16 and older\n* Planning to receive or previous treated with taxanes\n\nExclusion Criteria:\n\n* Poorly controlled or insulin-dependent diabetes or other condition likely to predispose to neurotoxicity",
+    "sex": "FEMALE",
+    "minimumAge": "16 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05005936",
+    "briefTitle": "Comparing the Performance of Automated Breast Ultrasonography to Hand-Held Whole Breast Ultrasonography in Breast Cancer Treatment Response Assessment",
+    "officialTitle": "Comparing the Performance of Automated Breast Ultrasonography (ABUS) to Hand-Held Breast Ultrasonography (WBUS) in Breast Cancer Treatment Response Assessment in a Tertiary Cancer Center: A Prospective Study",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Area under the receiver operating characteristic (ROC) curve",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The subjects to be studied will include patients seen in MD Anderson Breast imaging clinic at the Texas Medical Center (TMC)\n* With breast cancer or suspicion of breast cancer\n* Male or female who is older than 18 years of age\n* Of any race\n* Who consent to obtain technologist performed breast ultrasound and automated breast ultrasound\n* English and non-English speakers (with language interpreter to assist in translation for non-English speakers)\n\nExclusion Criteria:\n\n* Patient who is less than 18 years of age\n* Imaging obtained outside of MD Anderson TMC\n* Surgery pathology from outside of MD Anderson will be excluded from this study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

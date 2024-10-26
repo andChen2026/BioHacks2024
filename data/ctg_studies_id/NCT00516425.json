@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00516425",
+    "briefTitle": "Doxorubicin or Epirubicin and Cyclophosphamide in Treating Older Women With Invasive Breast Cancer",
+    "officialTitle": "Adjuvant Cytotoxic Chemotherapy In Older Women",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Relapse-free interval",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive breast carcinoma\n* Primary operable breast cancer that was surgically treated by wide local excision or mastectomy with clear margins (\\> 1 mm apart from deep margin if full thickness resection)\n\n  * No more than 8 weeks since prior definitive surgery\n* Early-stage disease with no evidence of metastases clinically or on routine staging investigations\n\n  * No T4 and/or N3 disease\n* Prior axillary staging required, including 1 of the following:\n\n  * Sentinel node biopsy\n  * Axillary sampling or clearance\n\n    * All node-positive patients must have had axillary clearance or radiotherapy to the axilla\n* Must be at high risk of relapse within 5 years (risk factors evaluated at clinician's discretion)\n* No other invasive breast cancer, systemically treated ductal carcinoma in situ (DCIS), or solid tumor within the past 5 years\n* No prior hematologic malignancy or melanoma\n* Hormone receptor status:\n\n  * Estrogen receptor (ER)- or progesterone receptor (PR)-negative OR ER/PR-weakly positive (e.g., Allred/Quick score \u2264 5 OR H score \u2264 100)\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Postmenopausal\n* Performance status 0-1\n* Hemoglobin \\> 9 g/dL\n* WBC \\> 3,000/mm\u00b3\n* Platelet count \\> 100,000/mm\u00b3\n* Bilirubin normal (unless known Gilbert's disease is present)\n* Albumin normal\n* AST and ALT \u2264 1.5 x upper limit of normal (ULN)\n* Creatinine \u2264 1.5 x ULN\n* Creatinine clearance \\> 50 mL/min\n* No active or uncontrolled infection\n* Must be available for routine long-term hospital follow-up\n* Must have normal cardiac function and no significant cardiac disease by ECHO or MUGA\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* At least 4 weeks since prior preoperative endocrine therapy\n* No prior systemic therapy for this breast cancer or mantle radiotherapy\n* No prior breast-conserving surgery in which there is a contraindication for, or decline of postoperative radiotherapy\n* No concurrent hormone replacement therapy (HRT)",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

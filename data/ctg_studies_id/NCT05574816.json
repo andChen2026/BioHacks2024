@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05574816",
+    "briefTitle": "Evaluation of the Diagnostic Performance of a Bra Prototype to Detect Breast Cancer",
+    "officialTitle": "Evaluation of the Diagnostic Performance of a Bra Prototype to Detect Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "Aria Under Receiver Operating Characteristic (ROC) Curve",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age between 18 and 75.\n* No breast cancer surgery background\n* Bra size : S/M or M/L\n\nSpecific criteria for the \"no breast lump\" cohort:\n\n- Negative mammography result (ACR 1 a 2).\n\nSpecific criteria for the \"breast lump\" cohort:\n\n- Suspicious breast lump discovered during the mammography (ACR 4b ou c ou ACR 5) and for which there is an indication of microbiopsy.\n\nExclusion Criteria:\n\n* Breast cancer background (surgery or radiotherapy)\n* Breast lump classified as ACR 3 ou ACR 4a during the mammography",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

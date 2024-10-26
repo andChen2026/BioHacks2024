@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00878709",
+    "briefTitle": "Study Evaluating The Effects Of Neratinib After Adjuvant Trastuzumab In Women With Early Stage Breast Cancer",
+    "officialTitle": "A Randomized, Double-Blind, Placebo-Controlled Trial Of Neratinib (HKI-272) After Trastuzumab In Women With Early-Stage HER-2/Neu Overexpressed/Amplified Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2840,
+    "primaryOutcomeMeasure": "Invasive Disease-free Survival (iDFS) in Neratinib Arm Compared to Placebo Arm at Year 2",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage II through IIIC HER-2/erbB-2 positive breast cancer with node positive disease.\n* Been treated for early breast cancer with standard of care duration of trastuzumab.\n* Could have been treated neoadjuvantly but have not reached pathologic complete response.\n\nExclusion Criteria:\n\n* Positive clinical and radiologic assessments for local or regional recurrence of disease at the time of study entry.\n* History of heart disease.\n* Corrected QT (QTc) interval \\>0.45 seconds\n* History of gastrointestinal disease with diarrhea as the major symptom.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00003612",
+    "briefTitle": "Combination Chemotherapy and Trastuzumab in Treating Women With Metastatic Breast Cancer",
+    "officialTitle": "Randomized Phase II Trial of Paclitaxel, Carboplatin and rhuMAb Her-2 (Herceptin) as First-Line Chemotherapy in Patients With Metastatic Breast Cancer Who Overexpress Her-2",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 92,
+    "primaryOutcomeMeasure": "response rate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed metastatic adenocarcinoma of the breast\n* Strong overexpression of HER-2 by immunohistochemistry (3+)\n\n  * 0-2+ tumors allowed if demonstrate amplification by FISH\n* Bidimensionally measurable disease\n* Brain metastasis must not represent sole site of disease\n* No untreated brain metastasis receiving radiotherapy\n* Previously treated brain metastases in continued response to radiotherapy and/or surgery for at least 2 months allowed\n* Hormone receptor status:\n\n  * Positive or negative\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* ECOG 0-2\n\nLife expectancy:\n\n* At least 3 months\n\nHematopoietic:\n\n* Absolute neutrophil count at least 1,500/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n\nHepatic:\n\n* Bilirubin no greater than 1.5 mg/dL\n* AST no greater than 3 times upper limit of normal (ULN) (5 times ULN if liver metastases present)\n\nRenal:\n\n* Creatinine no greater than 1.5 times ULN\n\nCardiovascular:\n\n* No myocardial infarction within the past 6 months\n* No congestive heart failure or unstable angina\n* No clinically significant pericardial effusion or arrhythmia\n\nOther:\n\n* No other invasive malignancy within the past 5 years except curatively treated basal cell or squamous cell skin cancer or carcinoma in situ of the cervix\n* No active uncontrolled infection\n* No prior allergic reaction to Cremophor EL, anesthetics, or muscle relaxants\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No concurrent filgrastim (G-CSF)\n\nChemotherapy:\n\n* Prior adjuvant chemotherapy allowed\n* Prior taxane therapy allowed\n* No prior cisplatin or carboplatin\n* No prior chemotherapy for metastatic disease\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* See Disease Characteristics\n* No prior radiotherapy to more than 25% of marrow\n* At least 4 weeks since prior radiotherapy\n* No concurrent radiotherapy\n\nSurgery:\n\n* See Disease Characteristics\n* At least 4 weeks since prior surgery and recovered\n\nOther:\n\n* At least 7 days since prior parenteral antibiotics",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

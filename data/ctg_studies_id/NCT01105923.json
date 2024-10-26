@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01105923",
+    "briefTitle": "Study of an Intervention to Improve Problem List Accuracy and Use",
+    "officialTitle": "Making Accurate Problem Lists in the EHR",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Attention Deficit Disorder With Hyperactivity, Asthma, COPD, Breast Cancer, Coronary Artery Disease, Congestive Heart Failure, Diabetes, Glaucoma, Hemophilia, Hypertension, Hyperthyroidism, Hypothyroidism, Myasthenia Gravis, Osteoporosis, Osteopenia, Renal Failure, Renal Insufficiency, Sickle Cell Disease, Stroke",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 140,
+    "primaryOutcomeMeasure": "Intervention acceptance",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Independent healthcare provider (physician, NP, PA)\n* Practices at participating site\n\nExclusion Criteria:\n\n* None",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

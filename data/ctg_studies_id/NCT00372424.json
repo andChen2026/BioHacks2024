@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00372424",
+    "briefTitle": "Study Of SU011248 In Combination With Docetaxel And Trastuzumab In Patients With Advanced Breast Cancer HER-2 Positive",
+    "officialTitle": "An Explorative Study Of The Tolerability Of SU011248 In Combination With Docetaxel And Trastuzumab As First-Line Treatment In Patients With Breast Cancer Over-Expressing HER-2",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "Number of Participants With Treatment-Emergent Adverse Events (AEs) or Serious Adverse Events (SAEs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer with evidence of unresectable, locally recurrent, or metastatic disease.\n* Tumors over-expressing Her-2\n* Candidate for treatment with docetaxel/trastuzumab\n\nExclusion Criteria:\n\n* Histology of inflammatory carcinoma\n* AST and/or ALT \\>1.5 x ULN concomitant with ALP \\>2.5 x ULN",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

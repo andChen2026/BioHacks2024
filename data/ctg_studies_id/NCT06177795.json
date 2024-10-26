@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06177795",
+    "briefTitle": "Increasing Screening for Cancer Using EHR-Nudges",
+    "officialTitle": "I-SCREEN: Increasing Screening for Cancer Using a Randomized Evaluation of EHR-based Nudges",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 21416,
+    "primaryOutcomeMeasure": "Proportion of patients who complete a screening mammogram within 3 months after the visit",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nAll patients must meet the following criteria to be eligible:\n\n1. Women between 40 and 74 years of age\n2. A scheduled new or return (non-urgent/sick) primary care visit at one of the study practices (Penn Trial) or with one of the study primary care providers (UH Trial)\n3. Are overdue and eligible for a mammogram per Health Maintenance\n4. Does not have a future scheduled mammogram appointment\n\nFor the Penn Trial patient intensification nudge, at least one of the following criteria must be met to be considered high risk and randomized to receive the intensification nudge:\n\n1. Medicare Insurance\n2. Medicaid Insurance\n3. No EHR patient portal account\n4. Zero log-ins to EHR patient portal in the previous year\n\nExclusion Criteria:\n\nPatients will be excluded from the study if:\n\n1. History of bilateral mastectomy\n2. Have a mammogram exclusion modifier in Health Maintenance\n3. Have no phone number (home or mobile) listed in their chart (Penn Trial only)",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

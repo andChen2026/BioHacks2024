@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00311636",
+    "briefTitle": "Triptorelin in Preventing Early Menopause in Premenopausal Women Who Are Receiving Chemotherapy for Stage I, Stage II, or Stage III Breast Cancer That Has Been Removed By Surgery",
+    "officialTitle": "Prevention of Chemotherapy-induced Menopause by Temporary Ovarian Suppression With Triptorelin Vs. Control in Young Breast Cancer Patients. A Randomized Phase III Multicenter Study [PROMISE]",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 280,
+    "primaryOutcomeMeasure": "Chemotherapy-induced early menopause as measured by follicle-stimulating hormone, 17 beta estradiol levels, and menstrual activity resumption at 1 year following the completion of chemotherapy",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed breast cancer resected at time of original diagnosis\n\n  * Stage I-III disease\n* Candidate for 1 of the following adjuvant chemotherapy regimens:\n\n  * FEC (fluorouracil, epirubicin hydrochloride, and cyclophosphamide) every 21 or 28 days\n  * CMF (cyclophosphamide, methotrexate, and fluorouracil) every 28 days\n  * A\u2192CMF (doxorubicin hydrochloride followed by CMF)\n  * EC\u2192P (epirubicin hydrochloride and cyclophosphamide every 21 days followed by paclitaxel every 21 days)\n  * FEC\u2192P (FEC every 21 days followed by paclitaxel every 21 days)\n  * EC\u2192D (EC every 21 days followed by docetaxel every 21 days)\n  * AC (doxorubicin hydrochloride and cyclophosphamide) every 21 days\n  * AC\u2192P (AC every 21 days followed by paclitaxel every 21 days)\n  * E\u2192CMF (epirubicin hydrochloride followed by CMF every 28 days)\n* No evidence of metastases or localized or distant recurrence\n\n  * Investigation to exclude metastases required for any suspicious manifestation\n* Premenopausal, defined as the presence of active menstrual cycles or normal menses within six weeks before initiation of chemotherapy\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* No other malignancy within the past 5 years except basal cell or squamous cell skin cancer or adequately treated in situ carcinoma of the cervix\n* No history of noncompliance to medical regimens or patients who are considered potentially unreliable\n* Not pregnant or nursing\n* Negative pregnancy test\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior chemotherapy and/or radiotherapy for cancer or non-neoplastic disease\n* No other concurrent hormonal therapy except for tamoxifen",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00148720",
+    "briefTitle": "Capecitabine in Women With Operable Breast Cancer",
+    "officialTitle": "A Phase II Study of Preoperative Capecitabine in Women With Operable Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Invasive Breast Carcinoma, Primary Invasive Breast Cancer, Stage I Breast Cancer, Stage II Breast Cancer, Stage III Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "To determine the response rate following four cycles of preoperative capecitabine in women with operable breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological confirmation of primary invasive breast cancer\n* Stage I-III operable breast cancer.\n* Primary tumor must be greater than or equal to 2cm by radiographic imaging or palpitation\n* Women greater than 18 years of age\n* ECOG performance status 0-1\n* WBC \\> 4000/mm3\n* Platelet count \\> 100,000/mm3\n* SGOT \\< 2x ULN\n* Calculated creatinine clearance \\> 50ml/min\n\nExclusion Criteria:\n\n* Evidence of metastatic (stage IV) cancer on physical exam or any diagnostic study.\n* Pregnant or breast-feeding women\n* Inflammatory breast cancer\n* HER2 positive disease\n* History of hypersensitivity to a 5-FU or known dihydropyrimidine dehydrogenase (DPD) deficiency\n* Uncontrolled intercurrent illness\n* Prior history of breast cancer are ineligible except: diagnosed at least 2 years ago; present cancer is not in previously irradiated breast; no prior chemotherapy in the past 5 years; no prior high-dose chemotherapy with stem cell or bone marrow transplant.\n* Excisional biopsy performed prior to enrollment\n* Uncontrolled coagulopathy\n* Lack of physical integrity of the upper gastrointestinal tract or malabsorption syndrome.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

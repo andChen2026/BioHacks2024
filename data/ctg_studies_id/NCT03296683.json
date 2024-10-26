@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03296683",
+    "briefTitle": "Evaluation of a 3D Functional Metabolic Imaging and Risk Assessment System in Classifying Women for Likelihood of Breast Cancer",
+    "officialTitle": "Evaluation of a Three Dimensional Functional Metabolic Imaging and Risk Assessment System in Classifying Women for Likelihood of Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 1200,
+    "primaryOutcomeMeasure": "Increase in incremental cancer detection rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n\\*\\*Calibration Phase:\n\nA.Subjects who are asymptomatic and scheduled to undergo routine screening mammography.\n\nOR\n\nB.Subjects scheduled for image guided needle biopsy as a result of findings obtained during standard of care (mammography, ultrasound and/or MRI)\n\n\\*\\*Testing Phase:\n\nA. Subjects scheduled to undergo routine screening mammography and at least one of the following :\n\n* Subjects whose most recent (within 3 years) prior mammogram was interpreted as heterogeneously dense (ACR BI-RADS Breast Density 3) or extremely dense (ACR BI-RADS Breast Density 4).\n* Subjects whose current 10-year IBIS breast cancer risk is 5% or higher.\n\nEXCLUSION CRITERIA, valid for both calibration and testing phases:\n\n1. Male by birth.\n2. Individual is less than 24 years old.\n3. Contraindication to bilateral mammography or MRI.\n4. Subjects who are unable to read, understand and execute the informed consent procedure.\n5. Subjects who have had mammography, ultrasound or MRI examination performed on the day of the study prior to MIRA scan.\n6. Subjects who have significant existing breast trauma.\n7. Subjects who have undergone lumpectomy/mastectomy.\n8. Subjects who have undergone breast reduction or breast augmentation.\n9. Subjects who have undergone any other type of breast surgery.\n10. Subjects who have large breast scar / Breast deformation.\n11. Subjects who have undergone a breast needle biopsy within the 6 month period prior to their intended enrollment into the study.\n12. Subjects who have a temperature \\> 100\u00b0 F (37.8C) degrees on the day of the MIRA imaging.\n13. Subjects who are pregnant or lactating.\n14. Subjects who have had placement of an internal breast marker.\n15. Subjects with known Raynaud's Disease.\n16. Subjects that are claustrophobic or have physical limitations that do allow them to sit in the system chair for the required imaging session.\n17. Subjects with implanted pacemaker/defibrillator, implanted venous access device (portacath) or other implanted devices.\n18. Subjects with a BI-RADS category 6 (e.g. for which mammogram was performed for the purpose of planning cancer therapy).\n19. Subjects affected with epilepsy.\n20. Subjects who participated in the Calibration Phase will not be able to participate in the Testing Phase.",
+    "sex": "FEMALE",
+    "minimumAge": "24 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

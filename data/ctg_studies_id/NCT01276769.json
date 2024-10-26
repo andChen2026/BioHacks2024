@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01276769",
+    "briefTitle": "Comparison Study of Neoadjuvant Paclitaxel Plus Carboplatin/Epirubicin Treatment in Triple-negative Breast Cancer",
+    "officialTitle": "Phase IIb Trial of Paclitaxel Plus Carboplatin Versus Paclitaxel Plus Epirubicin as Neoadjuvant Treatment in Locally Advanced Triple-negative Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Pathology of specimens derived from the breast modified radical mastectomy/Breast-conserving surgery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged from 18 to 70 years;\n* WHO Performance status (ECOG) of 0 or 1\n* Core biopsy histologically proven \u2161a-\u2162c phase breast cancer (regardless of the type);\n* Immunohistochemisty\uff08IHC\uff09\uff1aER-\uff0cPR-\uff0cCerB2-\uff1bTriple negative \uff08ER-PR-Her-2-\uff09 Hormone receptor negativity is defined as ER\\<10%, PR\\<10% (IHC), HER2 negativity is defined as IHC 0-1+, or \\[IHC 2+ and FISH or CISH negative\\]\uff1b\n* Adequate hematological function (neutrophil count \u00b3 2x109/l, platelet count \u00b3 100x 109/l, Hemoglobin \\> 9 g/dl);\n* Adequate hepatic function: ASAT and ALAT \u00a3 1.5 ULN alkaline phosphatases \u00a3 2.5 ULN,total bilirubin \u00a3 1,5 ULN;\n* Adequate renal function: serum creatinine \u00a3 1.5 ULN;\n* Adequate cardiac function, LEVF value \\> 50% by Muga scan or echocardiography\uff0cand electrocardiogram doe not show specific abnormality\uff1b\n* Patients accepting contraception intake during the overall length of treatment if of childbearing potential;\n* Signed written informed consent.\n\nExclusion Criteria:\n\n* Any tumor \u00b3 T4a (UICC1987) (cutaneous invasion, deep adherence, inflammatory breast cancer);\n* ER+ or PR+ or Her-2 overexpression\n* Any chemotherapy, hormonal therapy or radiotherapy before\n* Previous cancer in the preceding 10 years;\n* Patients already included in another therapeutic trial involving an experimental drug;\n* Patients with other concurrent severe and/or uncontrolled medical disease or infection which could compromise participation in the study;\n* LEVF \\< 50% (MUGA scan or echocardiography);\n* Clinically significant cardiovascular disease (e.g. unstable angina, congestive heart failure, uncontrolled hypertension (\\>150/90), myocardial infarction or cerebral vascular accidents) within 6 months prior to chemotherapy;\n* Known prior severe hypersensitivity reactions to agents that will be received;\n* Women who are pregnant or breastfeeding. Adequate birth control measures should be taken during study treatment phase;\n* Women with a positive pregnancy test en enrollment or prior to study drug administration;\n* Patients with any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule; those conditions should be discussed with the patient before registration in the trial;\n* Individual deprived of liberty or placed under the authority of a tutor.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02222922",
+    "briefTitle": "A Study Of PF-06647020 For Adult Patients With Advanced Solid Tumors",
+    "officialTitle": "A FIRST-IN-HUMAN PHASE 1, DOSE ESCALATION, SAFETY AND PHARMACOKINETIC STUDY OF PF-06647020 IN ADULT PATIENTS WITH ADVANCED SOLID TUMORS",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 138,
+    "primaryOutcomeMeasure": "Number of Participants With Dose Limiting Toxicities (DLTs) - Q3W Regimen",
+    "eligibilityCriteria": "Q2W Inclusion Criteria:\n\n* Diagnosis of platinum resistant or refractory OVCA having received 2 or fewer prior lines, or recurrent advanced NSCLC having received 3 or fewer prior lines\n* Performance Status of 0, 1, or 2\n* Adequate bone marrow, kidney, and liver function\n\nQ2W Exclusion Criteria:\n\n* OVCA pts excluded with any of the following: non-epithelial, including malignant mixed mullerian tumors, unresolved bowel obstruction\n* Brain metastases requiring steroids\n* Major surgery, radiation therapy, or systemic anti-cancer therapy within 4 weeks of study treatment start\n* Active and clinically significant bacterial, fungal, or viral infection\n\nQ3W Inclusion Criteria:\n\n* Diagnosis of solid tumor that is advanced/metastatic and resistant to standard therapy or for whom no standard therapy is available\n* Performance Status of 0 or 1\n* Adequate bone marrow, kidney, and liver function\n* Part 2 includes ovarian cancer, target expressing triple negative breast cancer and non small cell lung cancer patients\n\nQ3W Exclusion Criteria:\n\n* OVCA pts excluded with any of the following: non-epithelial, including malignant mixed mullerian tumors, prior radiotherapy to pelvis/abdomen, pts with CA-125 only disease, unresolved bowel obstruction\n* Brain metastases requiring steroids\n* Major surgery, radiation therapy, or systemic anti-cancer therapy within 4 weeks of study treatment start\n* Active and clinically significant bacterial, fungal, or viral infection",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

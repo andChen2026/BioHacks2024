@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05406635",
+    "briefTitle": "Imaging Versus Cardiac Biomarker Monitored HER2 Directed Therapy in Patients With Breast Cancer",
+    "officialTitle": "A National Randomized Non-inferiority Trial: Imaging Versus Cardiac Biomarker Monitored HER2 Directed Therapy in Patients With Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cardiotoxicity, HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 220,
+    "primaryOutcomeMeasure": "Left ventricular ejection fraction (LVEF)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with non-metastatic HER2 positive breast cancer\n* Scheduled for standard chemotherapy and HER2 directed therapy with trastuzumab +/- pertuzumab\n* Age \\> 18 years\n* Sinus rhythm on ECG\n* NT-proBNP below125 pg/ml\n* Troponin below threshold limit value\n* LVEF \\> 55% by MUGA scan or an echocardiogram\n\nExclusion Criteria:\n\n* Contra indications for cardiac magnetic resonance imaging (CMRI)\n* Chronic obstructive pulmonary disease with FEV1 \\<80 % of predicted",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

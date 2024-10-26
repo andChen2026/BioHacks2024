@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00983684",
+    "briefTitle": "Comparison of Intra-operative Radiotherapy With Post-operative Radiotherapy for Women With Early Breast Cancer",
+    "officialTitle": "TARGIT: A Randomised Controlled Trial to Compare Targeted Intra-operative Radiotherapy With Conventional Post-operative Radiotherapy After Conservative Breast Surgery for Women With Early Stage Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Invasive Breast Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 3451,
+    "primaryOutcomeMeasure": "Local relapse within the treated breast.",
+    "eligibilityCriteria": "Inclusion criteria\n\n* Age 45 years or older\n* Operable invasive breast cancer (T1 and small T2, N0-1, M0) confirmed by cytological or histological examination\n* Suitable for breast conserving surgery\n* Previously diagnosed and treated contralateral breast cancer may be entered but will be randomised to a separate stratum.\n* Available for regular follow-up for at least ten years.\n\nNote: Individual centres may wish to restrict entry to a more exactly defined subset of patients, in which case, only patients with these characteristics may be entered by that particular centre. For example, centres may decide at outset to recruit only women over 50 or even over 65 years of age. Such policies must be pre-defined in writing and approved by the International Steering Committee.\n\nExclusion criteria\n\n* More than one obvious cancer in the same breast as diagnosed by clinical examination, mammography or ultrasonography.\n* Bilateral breast cancer at the time of diagnosis.\n* Ipsilateral breast had a previous cancer and/or irradiation.\n* Patients known to have BRCA2 gene mutations, but testing for gene mutations is not required\n* Lobular cancer or Extensive intraductal Component (EIC =\\>25% of the tumour is intraductal) on core biopsy or initial pathology (if performed)\n* Patients undergoing primary medical treatment (hormones or chemotherapy) as initial treatment with neoadjuvant intent of reducing tumour size should be excluded; those given short duration (up to 4 weeks) systemic therapy can be included.\n* Patients presenting with gross nodal disease, considered to be clinically malignant or proven cytologically or by scanning. In general, 4 or more positive nodes or extranodal spread are not suitable for Targit alone and should receive EBRT as well. However, individual centres may decide that anything more than micrometastasis should receive EBRT.\n* Patients with any severe concomitant disease that may limit their life expectancy.\n* Previous history of malignant disease does not preclude entry if the expectation of relapse-free survival at 10 years is 90% or greater.\n* Any factor included as exclusion criterion in the local centre's Treatment Policy. This is particularly relevant to patients entered into the post pathology stratum.\n* No more than 30 days can have elapsed between last breast cancer surgery (not axillary) and entry into the trial for patients in the post-pathology stratification.",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

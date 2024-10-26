@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00253500",
+    "briefTitle": "Epirubicin in Treating Women Who Are Undergoing Surgery for Stage I, Stage II, or Stage III Breast Cancer",
+    "officialTitle": "Prediction of Response or Resistance to Dose Intensified Pre-Operative Epirubicin Therapy of Operable Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "Complete pathological response rate by tumor analysis after surgery",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive breast cancer\n\n  * Stage I, II, or III disease (T1, T2, or T4; N0-2; M0)\n\n    * Resectable disease\n* Unidimensionally measurable disease\n\n  * Primary tumor \u2265 2 cm\n* No known distant metastases\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nSex\n\n* Female\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* ECOG 0-2\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* WBC \u2265 3,500/mm\\^3\n* Hemoglobin \u2265 8 g/dL\n* Platelet count \u2265 100,000/mm\\^3\n* No known untreated bleeding diathesis\n\nHepatic\n\n* AST \u2264 2 times upper limits of normal\n* Bilirubin \u2264 1.5 mg/dL\n\nRenal\n\n* Creatinine \u2264 1.5 mg/dL OR\n* Creatinine clearance \u2265 60 mL/min\n\nCardiovascular\n\n* LVEF \u2265 50% on echocardiogram, MUGA, or cardiac catheterization\n\nOther\n\n* Not pregnant or breastfeeding\n* Fertile patients must use effective contraception\n* Negative pregnancy test\n* No concurrent illness that would preclude study treatment\n* No known hypersensitivity to Escherichia coli-derived proteins, pegfilgrastim, filgrastim (G-CSF), or any other component of these products\n\nPRIOR CONCURRENT THERAPY: Not specified",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

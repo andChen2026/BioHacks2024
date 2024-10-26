@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01900821",
+    "briefTitle": "National Mammography Database",
+    "officialTitle": "N/A",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Screening and Diagnosis",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 8000000,
+    "primaryOutcomeMeasure": "Cancer Detection Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All\n\nExclusion Criteria:\n\n* None",
+    "sex": "ALL",
+    "minimumAge": "2 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

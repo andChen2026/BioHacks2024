@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00676663",
+    "briefTitle": "Study to Evaluate Exemestane With and Without Entinostat (SNDX-275) in Treatment of Postmenopausal Women With Advanced Breast Cancer",
+    "officialTitle": "A Phase 2, Randomized, Double-Blind, Multicenter Study of Exemestane With and Without SNDX-275 in Postmenopausal Women With Locally Recurrent or Metastatic Estrogen Receptor-Positive Breast Cancer, Progressing on Treatment With a Non-Steroidal Aromatase Inhibitor",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Estrogen Receptor-Positive Breast Cancer, Breast Cancer, Estrogen Receptor-Positive, ER+ Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 130,
+    "primaryOutcomeMeasure": "Progression-free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Postmenopausal female patients\n* Histologically or cytologically confirmed estrogen receptor positive (ER+) breast cancer\n* Relapsed or progressed on prior treatment with aromatase inhibitor (AI)\n* Metastatic disease must be measurable\n* Patients receiving palliative radiation at the non-target lesions must have a 2 week wash out period following completion of the treatment prior to enrollment\n* Patient may have had one prior chemotherapy as part of first line therapy as long as it was received before initiation of prior AI\n* Eastern Cooperative Oncology Group (ECOG) performance status: 0 to 1\n* Laboratory parameters: a)Hemoglobin \u2265 9.0 g/dL; platelets \u2265 100.0 x 10\\^9/L; Absolute Neutrophil Count (ANC \u2265) 1.5 x 10\\^9/L without the use of hematopoietic growth factors b)Creatinine less than 2.5 times the upper limit of normal for the institution c)Aspartate transaminase (AST) and alanine transaminase (ALT) less than 2.5 times the upper limit of normal for the institution\n* Able to understand and give written informed consent and comply with study procedures\n\nExclusion Criteria:\n\n* Relapse on treatment with non-steroidal AI after less than 12 months for patients in the adjuvant setting\n* Progressive disease after less than 3 months treatment with most recent AI for patients with metastatic disease\n* Rapidly progressive, life-threatening metastases\n* Any palliative radiotherapy to the measurable lesion\n* Previous treatment with SNDX-275 or any other histone deacetylase (HDAC) inhibitor including valproic acid\n* Allergy to benzamides or inactive components of the study drug\n* A history of allergies to any active or inactive ingredients of exemestane\n* Any concomitant medical condition that precludes adequate study treatment compliance\n* Patient is currently enrolled in (or completed within 30 days before study drug administration) another investigational drug study\n* Patient is currently receiving treatment with valproic acid, Zolinza (vorinostat) or any other HDAC inhibitor or deoxyribonucleic acid (DNA) methyltransferase inhibitor or any systemic anticancer treatment (with the exception of Lupron)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

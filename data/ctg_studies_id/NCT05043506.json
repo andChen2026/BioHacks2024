@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05043506",
+    "briefTitle": "European Treatment Patterns and Outcomes Associated With First-Line CDK4/6 Inhibition and Hormonal Therapies",
+    "officialTitle": "European Treatment Patterns and Outcomes Associated With First-Line CDK4/6 Inhibition and Hormonal Therapies Assessed in a Real-World Non-Interventional Study (EUCHARIS)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1939,
+    "primaryOutcomeMeasure": "Real-world progression free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Is male or female\n* Has histologically or cytologically confirmed breast cancer diagnosis (HR+/HER2- breast cancer)\n* Has received a diagnosis of locally advanced breast cancer not amenable to curative radiation or surgical cure or of metastatic breast cancer (i.e., advanced breast cancer \\[ABC\\]); diagnosis may be de novo (initial diagnosis at ABC stage) or recurrent from earlier-stage disease (initial diagnosis of earlier-stage disease with subsequent progression to advanced disease)\n* Has initiated a required first-line therapy of interest: Palbociclib plus AI as first-line therapy for ABC between September 1, 2016, and July 31, 2020, or AI monotherapy as first-line therapy for ABC between January 1, 2010,, and July 31, 2020\n* Was aged 18 years or older at the time of diagnosis of ABC\n* Is living or deceased at the time of record abstraction\n* Has a complete medical record, covering treatment for ABC, including any transfer record from other facilities (if applicable) that is available to the abstractor for data abstraction\n\nExclusion Criteria:\n\n* The patient's first treatment after ABC diagnosis was chemotherapy (including induction chemotherapy)\n* The patient has evidence of other active malignant neoplasms within 3 years (except nonmelanoma skin cancer or carcinoma in situ) prior to diagnosis of ABC; patients diagnosed with second primary cancer after ABC diagnosis will not be excluded\n* The patient has evidence of prior treatment with any CDK4/6 inhibitor (i.e. palbociclib, abemaciclib, ribociclib) in the early-stage breast cancer setting or treatment with abemaciclib or ribociclib in the ABC setting\n* The patient has participated in a clinical trial related to treatment of ABC (including after first-line therapy \\[i.e., palbociclib plus AI or AI monotherapy\\])",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

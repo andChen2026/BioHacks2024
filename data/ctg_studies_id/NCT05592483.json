@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05592483",
+    "briefTitle": "An Observational Study of Patients Receiving T-DXd for Treatment of HER2+, and HER2-low Unresectable and/or Metastatic Breast Cancer",
+    "officialTitle": "A Multi-center, Multi-country Prospective Observational Study of Patients Initiating T-DXd in the First or Second Treatment Line for HER2+, and HER2-low Unresectable and/or Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "Real-World Time to Next Treatment (rwTTNT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients \u226518 years of age at time of consent.\n* Histological or cytological confirmed diagnosis of unresectable and/or mBC.\n* Documented HER2 status via a validated method.\n* Adult patients with unresectable or metastatic HER2+ breast cancer who have received a prior anti-HER2-based regimen in the metastatic setting or in the neoadjuvant or adjuvant setting and developed disease recurrence during or within 6 months of completing therapy.\n\nOr\n\nAdult patients with unresectable or metastatic HER2 low (IHC 1+ or IHC 2+/ISH-) breast cancer who have received a prior chemotherapy in the metastatic setting or developed disease recurrence during or within 6 months of completing adjuvant chemotherapy.\n\n* Decision to newly initiate monotherapy T-DXd per standard of care.\n* Capable of providing informed consent and completing questionnaires.\n\nExclusion Criteria:\n\n* Pregnancy or breastfeeding.\n* History of other primary malignancies in 2 years prior to unresectable and/or mBC diagnosis.\n* Patients who at time of data collection for this study are participating in or have participated in an interventional study that remains blinded.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

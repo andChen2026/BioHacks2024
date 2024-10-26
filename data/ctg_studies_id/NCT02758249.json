@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02758249",
+    "briefTitle": "Anesthetic Effect on Immune Cell in Patients With Cancer",
+    "officialTitle": "Anesthetic Effect on Immune Cell in Patients With Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 47,
+    "primaryOutcomeMeasure": "immune cell (NK cell and CD8+ T cell)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* patient who was planned to undergo breast cancer surgery.\n\nExclusion Criteria:\n\n* age \\< 20 years old\n* history of hypersensitivity reaction in propofol or sevoflurane\n* history of previous cancer\n* patient with ongoing inflammation",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

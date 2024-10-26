@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02033551",
+    "briefTitle": "A Study Evaluating Veliparib as a Single Agent or in Combination With Chemotherapy in Subjects With Solid Tumors",
+    "officialTitle": "An Extension Study to Evaluate the Safety of Veliparib as Single Agent Therapy or in Combination With Chemotherapy in Subjects With Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Ovarian Cancer, Colon Cancer, Lung Cancer, Gastric Cancer, Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 47,
+    "primaryOutcomeMeasure": "Number of subjects with adverse events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Must have confirmed solid malignancy that is metastatic, and standard curative measures or other therapy that may provide clinical benefit do not exist or are no longer effective.\n* For Veliparib monotherapy (must have tumor with defects in DNA repair mechanisms (BRCA mutation or high grade ovarian cancer or solid tumors for combination therapy.\n* If the subject has known brain metastases must have clinically controlled neurologic symptoms, defined as surgical excision and/or radiation therapy followed by 21 days of stable neurologic function and no evidence of Central Nervous System (CNS) disease progression as determined by comparing a computed tomography (CT) scan or magnetic resonance imaging (MRI) scan performed during screening to a prior scan performed at least 4 weeks earlier and provided that the subject is asymptomatic, has no evidence of cavitation or hemorrhage, and does not require corticosteroids (must have discontinued steroids at least 3 months prior to study drug administration).\n* Subject must have adequate bone marrow, renal and hepatic function per local laboratory reference range.\n\nExclusion Criteria:\n\n* Subject has a clinically significant and uncontrolled major medical condition(s) including but not limited to:\n* Uncontrolled seizure disorder, including focal or generalized seizure within the last 12 months;\n* Uncontrolled nausea/vomiting/diarrhea;\n* Active uncontrolled infection;\n* Symptomatic congestive heart failure;\n* Unstable angina pectoris or cardiac arrhythmia;\n* Psychiatric illness/social situation that would limit compliance with study requirements;\n* Any medical condition, which in the opinion of the study investigator, places the subject at an unacceptably high risk for toxicities.\n* Subjects who have hypersensitivity to Carboplatin, Paclitaxel or Cremophor should be excluded from arm B.\n* Subject has received any of the following anti-cancer therapies 21 days prior to the first dose of study drug or a biologic agent for anti-neoplastic intent within 30 days prior to the first dose of study drug.\n* Subject who requires parenteral nutrition, tube feeding or has evidence of a partial bowel obstruction or perforation within 28 days prior to study drug.\n* The subject has had another active malignancy within the past 3 years except for any cancer in situ that the Principal Investigator considers to be cured.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

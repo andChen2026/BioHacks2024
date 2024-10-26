@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02744053",
+    "briefTitle": "DCE-MRI and MBI in Assessing Tumor Response to Chemotherapy in Patients with Triple Negative Breast Cancer",
+    "officialTitle": "Multimodality Breast Imaging for the Assessment of Tumor Response to Neoadjuvant Chemotherapy in Triple Negative Breast Cancer Patients",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Estrogen Receptor Negative, HER2/Neu Negative, Progesterone Receptor Negative, Triple-Negative Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 96,
+    "primaryOutcomeMeasure": "Percent change in volume of index tumors and estimated area under receiver operating characteristic (ROC) curves assessed by digital mammogram, ultrasound, dynamic contrast enhanced molecular resonance imaging (DCE-MRI) and molecular breast imaging (MBI)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The patient has proven TNBC, defined by standard pathologic assays as negative for estrogen receptor (ER) and progesterone receptor (PR) (\\< 10% tumor staining) and negative for human epidermal growth factor 2 (HER2) (immunohistochemistry \\[IHC\\] score \\< 3, gene copy number not amplified)\n* TNBC patients who are previously untreated and enrolled in the prospective Institutional Review Board (IRB) approved clinical trial: 2014-0185\n* Patients who are able to understand and give consent to participating in the study\n\nExclusion Criteria:\n\n* Is pregnant (confirmed by the patient as imaging clinic standard of care) or nursing mother\n* Has lesions involving chest wall\n* Has known allergy to Tc99m sestamibi\n* Has known contraindications to MRI\n* Has contraindication to MRI contrast",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

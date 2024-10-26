@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02287675",
+    "briefTitle": "Sentinel Lymph Node Biopsy Findings in Patients With Breast Cancer",
+    "officialTitle": "A Randomized, Double-Blinded Trial Comparing Lymphoseek and 99mTc-Sulfur Colloid With Regard to Pre-op Imaging and Imaging Drug Kinetics and Intra-op Lymphatic Mapping and Sentinel Lymph Node Biopsy Findings in Patients With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Injection Site Clearance for Lymphoseek and 99mTc-Sulfur Colloid (SC).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The subject must be female and 18 years of age or older.\n* The subject must be a preoperative clinical Tis, T1, T2, T3, T4, as well as clinical N0 and clinical M0 breast cancer\n* The subject must have a diagnosis of primary breast cancer.\n* The subject must be a candidate for surgical intervention, either with lumpectomy and SLNB or with mastectomy and SLNB, as the treatment of her breast cancer.\n* The subject must have an Eastern Cooperative Oncology Group (ECOG) performance status of Grade 0 - 2\n* The subject must provide written informed consent with Health Insurance Portability and Accountability Act (HIPAA) authorization before participating in the study\n\nExclusion Criteria:\n\n* The subject has clinical or radiological or pathologic evidence of metastatic cancer, including any abnormal or enlarged clinical palpable lymph nodes or core biopsy/surgical biopsy/fine-needle-aspiration evidence of malignant cell within any lymph nodes.\n* The subject has a known hypersensitivity to vital blue dye (VBD) in a case where vital blue dye was planned for use during SLNB.\n* The subject has a positive pregnancy test or is lactating.\n* The subject has had prior surgery to the indicated breast or axilla.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

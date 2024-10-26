@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05623280",
+    "briefTitle": "Artificial Intelligence Analysis of Fluorescence Image to Intraoperatively Detect Metastatic Sentinel Lymph Node.",
+    "officialTitle": "Artificial Intelligence Analysis of Fluorescence Image to Intraoperatively Detect Metastatic Sentinel Lymph Node in Patients With Breast Cancer.",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Sentinel Lymph Node",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Diagnosis of lymph node metastasis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients aged 18-70 years female.\n* The preoperative core needle biopsy or open surgical excision biopsy diagnosis as breast cancer.\n* No clinical examination of suspicious axillary lymph node-positive.\n* Preoperative clinical or radiologic evidence without distant metastases (M0).\n* The patient has good compliance with the planned protocol during the study and signed informed consent.\n\nExclusion Criteria:\n\n* Pregnancy, breastfeeding.\n* Allergy to ICG.\n* Former operation or radiotherapy in the axilla or breast or thoracic wall in the same side of breast cancer.\n* Psychiatric or cognitive impairment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

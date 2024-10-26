@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02293954",
+    "briefTitle": "Copper Cu 64 Anti-CEA Monoclonal Antibody M5A PET in Diagnosing Patients With CEA Positive Cancer",
+    "officialTitle": "Pilot Study: Detection of Carcinomas Using 64Cu-Labeled M5A Antibody to Carcinoembryonic Antigen (CEA)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Colon Cancer, Extrahepatic Bile Duct Cancer, Gallbladder Cancer, Gastrointestinal Cancer, Liver and Intrahepatic Biliary Tract Cancer, Lung Cancer, Metastatic Cancer, Pancreatic Cancer, Rectal Cancer, Thyroid Gland Medullary Carcinoma, Unspecified Adult Solid Tumor, Protocol Specific",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Tumor Uptake of 64Cu-DOTA-hT4.66-M5A at Day 1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have histologically confirmed primary or metastatic cancer; if biopsies were performed at an outside facility, the histology must be reviewed and confirmed by the Department of Pathology at the City of Hope\n* Patients must have tumors that produce CEA as documented by a current or past history of an elevated serum CEA above the institutional limit of normal, or by immunohistochemical methods; NOTE: Patients with colorectal cancer are exempt from this requirement since \\> 95% are CEA positive\n* Women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control or abstinence) prior to study entry and for six months following duration of study participation; should a woman become pregnant or suspect that she is pregnant while participating on the trial, she should inform her treating physician immediately\n* Patients must have a known site of disease; please note, for patients undergoing neoadjuvant therapy, this requirement must be met retrospectively prior to the start of neoadjuvant therapy; patients who are in radiological/clinical remission after neoadjuvant therapy, prior to infusion of radiolabeled antibody, are still eligible\n* Although not mandated by the protocol, the results of the CT scan and labs (complete blood count \\[CBC\\], comprehensive metabolic panel \\[CMP\\]) that are performed as part of the standard work up should be available and should have been done within 2 months prior to study entry\n* All subjects must have the ability to understand and the willingness to sign a written informed consent\n* Prior therapy (chemotherapy, immunotherapy, radiotherapy) must be completed at least 2 weeks prior to infusion of radiolabeled antibody\n\nExclusion Criteria:\n\n* Patients should not have any uncontrolled illness including ongoing or active infection\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to copper Cu 64 anti-CEA monoclonal antibody M5A (64Cu-M5A)\n* Patients must not have received prior chemotherapy or radiation for \\>= 2 weeks before study enrollment\n* Pregnant women are excluded from this study; breastfeeding should be discontinued is the mother is treated with 54Cu-m5A\n* Any patient who has had exposure to mouse or chimeric (human/mouse) immunoglobulin and has antibody to the M5A\n* Subjects, who in the opinion of the investigator, may not be able to comply with the safety monitoring requirements of the study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

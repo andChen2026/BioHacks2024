@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03920098",
+    "briefTitle": "Chilean Maternal & Infant Cohort Study II (CHiMINCs-II)",
+    "officialTitle": "The Chilean Maternal and Infant Nutrition Cohort Study II",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Density, Body Composition, Nutritional Status, Mental Health Issue",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1927,
+    "primaryOutcomeMeasure": "Breast absolute (AFGV) fibro-glandular volume measured by DXA technique",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 18 or more years of age\n* Gestation \\<15 weeks at first prenatal visit\n* No intention to move outside the city of Santiago in the next to years\n\nExclusion Criteria:\n\n* High-risk pregnancy (i.e., preeclampsia, pre- existing diabetes)\n* Pre-existing cancer or family history of breast cancer\n* Intended to migrate from the public to the private health care system",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

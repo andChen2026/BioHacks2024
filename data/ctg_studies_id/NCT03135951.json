@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03135951",
+    "briefTitle": "Pharmacokinetics of SPI-2012 (Eflapegrastim) in Breast Cancer Patients Receiving Docetaxel and Cyclophosphamide (TC) Chemotherapy",
+    "officialTitle": "Pharmacokinetics of SPI-2012 (Eflapegrastim) in Breast Cancer Patients Receiving Docetaxel and Cyclophosphamide (TC) Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Pharmacokinetics",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "Peak Plasma Concentration (Cmax)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Newly diagnosed, histologically confirmed early-stage breast cancer, defined as operable Stage I to Stage IIIA breast cancer.\n* Candidate to receive adjuvant or neoadjuvant TC chemotherapy.\n* ANC \u22651.5x10\\^9/L\n* Platelet count \u2265100x10\\^9/L\n* Hemoglobin \\>9 g/dL\n* Calculated creatinine clearance \\>50 mL/min\n* Total bilirubin \u22641.5 mg/dL\n* AST and ALT \u22642.5xULN\n* Alkaline phosphatase \u22642.0xULN\n* ECOG \u22642\n\nExclusion Criteria:\n\n* Active concurrent malignancy (except non melanoma skin cancer or carcinoma in situ of cervix) or life-threatening disease. If history of prior malignancies or contralateral breast cancer, must be disease free for at least 5 years.\n* Known sensitivity to E. coli derived products or known sensitivity to any of the products to be administered during dosing.\n* Concurrent adjuvant cancer therapy.\n* Locally recurrent/metastatic breast cancer.\n* Previous exposure to filgrastim, pegfilgrastim, or other G-CSF products in clinical development within 12 months prior to the administration of study drug.\n* Active infection, receiving antibiotics or any serious underlying medical condition which would impair the ability of the patient to receive protocol-specified treatment.\n* Prior bone marrow or hematopoietic stem cell transplant\n* Used any investigational drugs, biologics, or devices within 30 days prior to study treatment or plans to use any of these during the course of the study.\n* Prior radiation therapy within 30 days prior to enrollment.\n* Major surgery within 30 days prior to enrollment.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

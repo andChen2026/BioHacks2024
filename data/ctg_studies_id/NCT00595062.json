@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00595062",
+    "briefTitle": "Quadrant High Dose Rate Intraoperative Radiation Therapy (IORT) for Early-Stage Breast Cancer: A Pilot Study",
+    "officialTitle": "Quadrant High Dose Rate Intraoperative Radiation Therapy (IORT) for Early-Stage Breast Cancer: A Pilot Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 51,
+    "primaryOutcomeMeasure": "To determine tissue tolerance of the breast to a single intraoperative course of radiation.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Core biopsy or prior open biopsy to establish the diagnosis.\n* Over age 60.\n* No physical or imaging evidence of multicentricity or multifocality.\n* Size equal or less than 2.0 cm radiographically, clinically node negative.\n* Patients scheduled for breast conserving surgery\n\nExclusion Criteria:\n\n* Patients younger than 61 years\n* Patients with evidence of multicentric or multifocal disease seen on imaging (mammography )\n* Patients with a lesion exceeding 2 cm radiographically\n* Paget's disease or pure DCIS without invasive ductal carcinoma\n* Histotype not inclusive of ductal carcinoma\n* Condition precluding radiation therapy\n* Condition precluding regular follow-up\n* Evident dimpling of the skin above the tumor\n* Usual contraindications for BCS",
+    "sex": "FEMALE",
+    "minimumAge": "60 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

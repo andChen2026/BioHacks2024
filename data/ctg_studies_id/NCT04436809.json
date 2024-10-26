@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04436809",
+    "briefTitle": "Sentinel Node Biopsy Alone or With Axillary Dissection After Primary Chemotherapy",
+    "officialTitle": "Sentinel Node Biopsy Alone or With Axillary Dissection in cT2 cN0/1 Breast Cancer Patients After Primary Chemotherapy: a Prospective Interventional Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 353,
+    "primaryOutcomeMeasure": "Overall Survival (OS) and Disease-Free Survival (DFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* cT2 cN0/1 breast cancer\n* Scheduled for neoadjuvant chemotherapy,\n* Informed consent,\n\nExclusion Criteria:\n\n* Previous malignancy at another site\n* Synchronous breast cancer at diagnosis\n* Distant metastasis at diagnosis\n* Clinically involved axilla (cN1) after neoadjuvant chemotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04253366",
+    "briefTitle": "Clinical Investigation to Evaluate the Ability of MammoWave in Breast Lesions Detection",
+    "officialTitle": "A Multicentric, Single Arm, Prospective, Stratified Clinical Investigation to Evaluate the Ability of MammoWave in Breast Lesions Detection",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 353,
+    "primaryOutcomeMeasure": "MammoWave sensitivity (number of 'true positive' results)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Signed Informed consent Form\n2. Women\n3. Adult \u226518 years old\n4. Having a radiologist study output obtained using conventional exams (such as breast specialist visit and mammography and/or ultrasound and/or magnetic resonance imaging) within the last month.\n5. Patients willing to comply with study protocol and recommendations.\n6. Patients with intact breast skin (i.e. without bleeding lesion, scar).\n\nExclusion Criteria:\n\n1. Patients that are enrolled in another clinical study\n2. Patients who belong to any vulnerable group.\n3. Patients with implanted electronics.\n4. Patients who have undergone biopsy less than one week before MammoWave scan\n5. Patients with breast implants\n6. Patients with nipple piercings (unless they are removed before MammoWave exam).\n7. Participation in other studies in the last month before screening\n8. Pregnancy or breastfeeding",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

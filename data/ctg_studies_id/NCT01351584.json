@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01351584",
+    "briefTitle": "Tumour Registry Breast Cancer",
+    "officialTitle": "Clinical Registry to Present Treatment and Sequences of Treatments in Routine Practice in Germany",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 4500,
+    "primaryOutcomeMeasure": "Course of Antineoplastic Treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer\n* 18 years and older\n* Antineoplastic or antihormonal treatment\n\nExclusion Criteria:\n\n* No breast cancer\n* Below 18 years\n* No antineoplastic or antihormonal treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

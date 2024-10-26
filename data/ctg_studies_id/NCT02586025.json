@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02586025",
+    "briefTitle": "Study in Participants With Early-Stage or Locally Advanced Human Epidermal Growth Factor Receptor (HER) 2-Positive Breast Cancer to Evaluate Treatment With Trastuzumab Plus (+) Pertuzumab + Docetaxel Compared With Trastuzumab + Placebo + Docetaxel",
+    "officialTitle": "A Randomized, Multicenter, Double-Blind, Placebo-Controlled, Phase III Study to Evaluate Pertuzumab in Combination With Docetaxel and Trastuzumab as Neoadjuvant Therapy, and Pertuzumab in Combination With Trastuzumab as Adjuvant Therapy After Surgery and Chemotherapy in Patients With Early-Stage or Locally Advanced HER2-Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 329,
+    "primaryOutcomeMeasure": "Percentage of Participants With Total Pathologic Complete Response (tpCR) as Assessed by the Independent Review Committee (IRC)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed invasive breast carcinoma with a primary tumor size of more than (\\>) 2 centimeters (cm) by standard local assessment technique\n* Breast cancer stage at presentation: early-stage (T2-3, N0-1, M0) or locally advanced (T2-3, N2 or N3, M0; T4, any N, M0)\n* HER2-positive breast cancer confirmed by a Sponsor-designated central laboratory and defined as 3+ score by immunohistochemistry in \\> 10 percent (%) of immunoreactive cells or HER2 gene amplification (ratio of HER2 gene signals to centromere 17 signals equal to or more than \\[\\>=\\] 2.0) by in situ hybridization\n* Known hormone receptor status (estrogen receptor and/or progesterone receptor)\n* Eastern Cooperative Oncology Group Performance Status equal to or less than (\\<=) 1\n* Baseline left ventricular ejection fracture \\>= 55% measured by echocardiography (preferred) or multiple gated acquisition scan\n* Negative serum pregnancy test\n\nExclusion Criteria:\n\n* Stage IV metastatic breast cancer\n* Inflammatory breast cancer\n* Previous anti-cancer therapy or radiotherapy for any malignancy\n* History of other malignancy within 5 years prior to screening, except for appropriately-treated carcinoma in situ of the cervix, non-melanoma skin carcinoma, or Stage I uterine cancer\n* Concurrent anti-cancer treatment in another investigational trial, including hormone therapy, bisphosphonate therapy, or immunotherapy\n* Major surgical procedure unrelated to breast cancer within 4 weeks prior to randomization or from which the participant has not fully recovered\n* Serious cardiac illness or medical condition\n* Other concurrent serious diseases that may interfere with planned treatment, including severe pulmonary conditions/illness\n* Any abnormalities in liver, kidney or hematologic function laboratory tests immediately prior to randomization\n* Sensitivity to any of the study medications, any of the ingredients or excipients of these medications, or benzyl alcohol\n* Pregnant or lactating",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02711137",
+    "briefTitle": "Open-Label Safety and Tolerability Study of INCB057643 in Subjects With Advanced Malignancies",
+    "officialTitle": "A Phase 1/2, Open-Label, Dose-Escalation/Dose-Expansion, Safety and Tolerability Study of INCB057643 in Subjects With Advanced Malignancies",
+    "overallStatus": "TERMINATED",
+    "conditions": "Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 137,
+    "primaryOutcomeMeasure": "Number of Participants With Treatment Emergent Adverse Events (TEAE's).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed diagnosis of relapsed or refractory advanced or metastatic malignancies:\n\n  * Part 1: solid tumors or lymphomas, or hematologic malignancies\n  * Part 2: histologically confirmed disease in specific tumor types\n  * Part 3: advanced solid tumor or hematologic malignancy\n  * Part 4: select advanced solid tumor or hematologic malignancy\n* For Part 1 and 2, subjects must have progressed following at least 1 line of prior therapy and there is no further established therapy that is known to provide clinical benefit (including subjects who are intolerant to the established therapy)\n* For Parts 3 and 4, subjects must have progressed following at least 1 line of prior therapy, and the treatment with the select SOC agent is relevant for the specific disease cohort.\n* Life expectancy \\> 12 weeks, for MF subjects in Parts 3 and 4, life expectancy \\> 24 weeks\n* Eastern Cooperative Oncology Group (ECOG) performance status\n\n  * Parts 1 and 3: 0 or 1\n  * Parts 2 and 4: 0, 1, or 2\n* Willingness to avoid pregnancy or fathering children\n\nExclusion Criteria:\n\n* Inadequate bone marrow function per protocol-specified hemoglobin, platelet count, and absolute neutrophil count\n* Inadequate organ function per protocol-specified total bilirubin, AST and ALT, creatinine clearance and alkaline phosphatase.\n* Receipt of anticancer medications or investigational drugs within protocol-specified intervals\n* Unless approved by the medical monitor, may not have received an allogeneic hematopoietic stem cell transplant within 6 months before treatment, or have active graft-versus-host-disease following allogeneic transplant\n* Unless approved by the medical monitor, may not have received autologous hematopoietic stem cell transplant within 3 months before treatment\n* Any unresolved toxicity \u2265 Grade 2 (except stable Grade 2 peripheral neuropathy or alopecia) from previous anticancer therapy\n* Radiotherapy within the 2 weeks before initiation of treatment. Palliative radiation treatment to nonindex or bone lesions performed less than 2 weeks before treatment initiation may be considered with medical monitor approval\n* Currently active and uncontrolled infectious disease requiring systemic antibiotic, antifungal, or antiviral treatment\n* Untreated brain or central nervous system (CNS) metastases or brain/CNS metastases that have progressed\n* History or presence of abnormal electrocardiogram (ECG) that, in the investigator's opinion, is clinically meaningful\n* Type 1 diabetes or uncontrolled Type 2 diabetes\n* HbA1c of \u2265 8% (all subjects will have HbA1c test at screening)\n* Any sign of clinically significant bleeding\n* Coagulation panel within protocol-specified parameters",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

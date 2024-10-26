@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04107142",
+    "briefTitle": "Haplo / Allogeneic NKG2DL-targeting Chimeric Antigen Receptor-grafted \u03b3\u03b4 T Cells for Relapsed or Refractory Solid Tumour",
+    "officialTitle": "A Phase I Dose-escalation Trial to Evaluate Haploidentical / Allogeneic Natural Killer Group 2D Ligand (NKG2DL)-Targeting Chimeric Antigen Receptor-grafted Gamma Delta (\u03b3\u03b4) T Cells (CTM-N2D) in Subjects With Relapsed or Refractory Solid Tumour",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Colorectal Cancer, Triple Negative Breast Cancer, Sarcoma, Nasopharyngeal Carcinoma, Prostate Cancer, Gastric Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "N/A",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Number of Patients with Dose Limiting Toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Men or women \u226518 years old.\n* Patient with specific cancer indications (see below).\n* Disease must be measurable according to the corresponding guidelines.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 or 2.\n* Patient with adequate bone marrow reserve (Haemoglobin \u226510g/dl, Absolute Neutrophil Count (ANC)\u22651,500/mm3, Platelet\u2265100,000/mm3), hepatic function (Aspartate Aminotransferase (AST) and Alanine Aminotransferase (ALT) \\< 3x upper limit of normal), renal function (serum creatinine \\< 120 \u00b5mol/L) and cardiac function (Left ventricular ejection fraction of \u226550% by ECHO).\n* Patient must already have a previous tumour biopsy to confirm the disease.\n* Patient must agree to sign the informed consent form (ICF).\n\nCancer-specific inclusion criteria of subject:\n\n* Colorectal cancer: A documented metastatic colorectal adenocarcinoma and having received, being intolerant to or being unfit for at least two prior standard cancer therapy regimens as part of their primary treatment regimen or part of their treatment for management of recurrent/persistent disease.\n* Breast cancer: A metastatic triple-negative breast cancer and having received at least two prior cancer therapy regimens as part of their treatment for management of recurrent/persistent disease.\n* Sarcoma, nasopharyngeal cancer, prostate cancer or gastric cancer: A metastatic cancer and having received at least two prior cancer therapy regimens as part of their treatment for management of recurrent/persistent disease.\n\nExclusion Criteria:\n\n* Patients with a tumour metastasis in the central nervous system.\n* Patients who receive or are to receive any investigational product within the 4 weeks before the planned day for the first CTM-N2D administration.\n* Patients who receive or are to receive chemotherapy within the 8 weeks before the planned day for the first CTM-N2D administration.\n* Patients who are planned to receive concurrent growth factor, systemic steroid or other immunosuppressive therapy or cytotoxic agent.\n* Patients who underwent major surgery within 4 weeks before the planned day for the first CTM-N2D administration.\n* Patients who have active infections necessitating the use of antibiotics/antivirals treatment.\n* Patients with a history of autoimmune disease.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

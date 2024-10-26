@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05692661",
+    "briefTitle": "A Dose Escalation Study of Proton and Carbon Ion Irradiation for HER2 Positive and Triple Negative Breast Cancer",
+    "officialTitle": "A Dose Escalation Study of Proton and Carbon Ion Irradiation for HER2 Positive and Triple Negative Breast Cancer After Breast Conserving Surgery",
+    "overallStatus": "RECRUITING",
+    "conditions": "Triple Negative Breast Cancer, HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Acute toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed HER2 positive or Triple Negative invasive breast carcinoma.(HER2 positive: immunohistochemistry \\[IHC\\] 3+ and or fluorescence in situ hybridization \\[FISH\\] amplified; Triple Negative: estrogen receptor \\[ER\\] and progesterone receptor \\[PR\\] \\< 1%, HER2 negative \\[IHC 1+ or 2+ FISH non-amplified\\])\n* Age \u2265 18 years and \u2264 80 years.\n* The primary tumor must be excised via breast conserving surgery.\n* Stage p T1-2 N0 M0\n* ECOG performance status \u22642.\n\nExclusion Criteria:\n\n* Invasive breast cancer not confirmed by pathology.\n* Distant metastasis\n* Prior thoracic radiation.\n* Pregnancy or lactating.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

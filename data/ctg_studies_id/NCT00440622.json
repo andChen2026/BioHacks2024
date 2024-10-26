@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00440622",
+    "briefTitle": "Study of Gemcitabine and Herceptin Versus Xeloda and Herceptin in HER-2 (+) Metastatic Breast Cancer Patients",
+    "officialTitle": "A Multicenter Randomized Phase III Study of Gemcitabine Plus Herceptin Combination Versus the Capecitabine Plus Herceptin Combination in Pretreated Patients With HER-2 Positive Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 90,
+    "primaryOutcomeMeasure": "Time to progression (TTP) between the two treatment arms",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Informed consent\n* Histologically confirmed metastatic breast adenocarcinoma (stage IV) without any prior chemotherapy received\n* HER-2 overexpression 2+ or 3+ using IHC or FISH +\n* Measurable disease\n* At least one prior chemotherapy regimen\n* Not in a prior irradiation field\n* No patients with brain metastatic disease who has not been irradiated or uncontrolled brain metastatic disease after irradiation\n* No more than 25% of myeloproductive bone marrow irradiated. More than 4 weeks since prior radiotherapy and recovered\n* Age 18 - 75 year old\n* Performance status (WHO) 0-2\n* Life expectancy more than 12 weeks\n* Absolute neutrophil count \\> 1500/mm\\^3, platelet count \\> 100000/mm\\^3, hemoglobin \\> 9 gr/mm\\^3)\n* Adequate liver (bilirubin \\< 2 mg/dL, SGOT/SGPT \\< 2 times upper limit of normal, ALP \\< 3 times upper limit of normal, creatinine \\< 1.5 upper limit of normal\n* Adequate cardiac function (LVEF \\> 50%)\n\nExclusion Criteria:\n\n* Pregnant or nursing\n* Positive pregnancy test\n* Concurrent agents ketoconazole, macrolide antibiotics, zidovudine which may induce P-450 cytochrome\n* Motor or sensory neuropathy \\> grade 1 according to NCIC toxicity criteria\n* History of allergic reaction attributed to docetaxel\n* Psychiatric illness or social situation that would preclude study compliance\n* Other concurrent uncontrolled illness\n* Other invasive malignancy within the past 5 years except cured basal cell skin carcinoma and cervical carcinoma in situ",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

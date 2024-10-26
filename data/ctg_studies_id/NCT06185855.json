@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06185855",
+    "briefTitle": "A Simplified Approach to Predicting the Malignancy of Breast Lesions: Nomogram in Ultrasonography",
+    "officialTitle": "A Simplified Approach to Predicting the Malignancy of Breast Lesions: Nomogram in Ultrasonography",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer Diagnosis, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 550,
+    "primaryOutcomeMeasure": "Accuracy of the Ultrasonographic Nomogram in Predicting Breast Lesion Malignancy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients who underwent breast lesion surgery at Renji Hospital affiliated with Shanghai Jiao Tong University School of Medicine during the specified period (January 2020 to June 2023).\n* Patients who had a preoperative ultrasound examination of the breast lesion at the same hospital.\n* Availability of complete clinical and ultrasonographic data for the patients.\n* Histopathological confirmation of breast lesions post-surgery.\n\nExclusion Criteria:\n\n* Patients who received neoadjuvant therapy (chemotherapy, targeted therapy, immunotherapy, etc.) prior to surgery.\n* Patients diagnosed with metastatic breast malignancy.\n* Cases with poor quality or incomplete ultrasound images.\n* Patients with a Breast Imaging Reporting and Data System (BI-RADS) category 1 diagnosis.\n* Incomplete clinical records or missing critical data relevant to the study.",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

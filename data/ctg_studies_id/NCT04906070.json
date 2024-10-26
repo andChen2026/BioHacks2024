@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04906070",
+    "briefTitle": "Radiation Therapy (HB-001) by Alpha-particle Sources for Recurrent Malignant Solid Tumors in Japan",
+    "officialTitle": "Study of the Safety and Efficacy of Radiation Therapy (HB-001) by Alpha-particle Sources for Recurrent Malignant Solid Tumors in Japan",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Head and Neck Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 14,
+    "primaryOutcomeMeasure": "Tumor response to HB-001",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Head and neck cancer or breast cancer patients with histopathological proven malignancies who have a history of radiation therapy and who have been diagnosed with refractory malignancies with or without medical treatment.\n2. Tumor size is 5 cm or less in the longest diameter\n3. Age 18 years or older\n4. Eastern Cooperative Oncology Group performance status is 2 or less\n5. Life expectancy: 6 months or longer\n6. Vital signs (systolic and diastolic blood pressure, pulse rate, body temperature, and respiratory rate) are stable\n7. Platelet count \\>= 100,000/mm3 and prothrombin time Prothrombin Time-International Normalized Ratio \\<= 1.8\n8. Women of childbearing potential have to be confirmed not pregnant by a pregnancy test and have to agree to prevent conception throughout the study.\n9. Having received explanation about the study, consented to participate in the study and signed the informed consent form.\n10. Measurable disease according to RECIST v1.1\n\nExclusion Criteria:\n\n1. The size of the tumor more than 5 cm in the maximum diameter.\n2. ECOG performance status is 3 or higher\n3. Continuously receiving medication that may have a significant impact on the evaluation of safety or efficacy, such as immunosuppressants and/or corticosteroids.\n4. History of serious allergy to the medicine for the treatments like anesthesia.\n5. There are tumors to be preferentially treated such as metastatic lesion other than the target tumor\n6. Having received chemotherapeutic drugs (except hormonal agents), immunotherapeutic agents, and molecular targeting agents in the past 30 days, which may affect the assessment of the safety or efficacy of the HB-001 brachytherapy.\n7. Having received immune checkpoint inhibitor in the past 2 months, which may affect the assessment of the safety or efficacy of the HB-001 brachytherapy.\n8. Having participated in different clinical studies in the past 30 days, which may affect the assessment of the safety or efficacy of HB-001 brachytherapy\n9. Pregnant women or breast-feeding mothers\n10. Those who do not wish to sign the informed consent form",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01479192",
+    "briefTitle": "Fenretinide in Healthy Young Women at Genetic and Familial Risk",
+    "officialTitle": "Breast Cancer Prevention With Fenretinide in Young Women at Genetic and Familil Risk. A Phase III Randomized Clinical Trial",
+    "overallStatus": "TERMINATED",
+    "conditions": "High-Risk Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Breast cancer incidence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. 20-46 years old women with a known BRCA \u00bd mutation or with a risk of being a mutation carrier \u226520%.\n2. Performance status =0\n3. Willingness to avoid pregnancy during treatment and 12 months after drug cessation\n4. No clinical and radiological evidence of breast cancer and ovarian disease\n5. Signed informed consent\n\nExclusion Criteria:\n\n1. History of breast cancer or any other malignancy with the exclusion of CIN and non-melanoma skin cancer\n2. Child bearing or breast feeding\n3. Genetic test result (BRCA)=true negative\n4. Blood test alterations (grade \u22652 based on the NCI Common Toxicity Criteria)\n5. Previous or concurrent use of SERMs, e.g. tamoxifen (for more than 12 months; if less, a two-months wash-out is required before entering the study)\n6. Severe psychiatric disorders or inability to comply to the protocol procedures\n7. Any other factor that, at the investigator's discretion, contraindicates the use of fenretinide",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT"
+}

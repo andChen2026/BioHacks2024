@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00126451",
+    "briefTitle": "A Clinical Trial of Oral Suberoylanilide Hydroxamic Acid (SAHA) in Patients With Relapsed or Refractory Breast, Colorectal and Non-Small Cell Lung Cancer (0683-011)(TERMINATED)",
+    "officialTitle": "A Phase II Clinical Study of Oral Suberoylanilide Hydroxamic Acid in Patients With Relapsed or Refractory Breast, Colorectal, and Non-small Cell Lung Cancer.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Colorectal Cancer, Non-small-cell Lung Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 16,
+    "primaryOutcomeMeasure": "Response rate of relapsed/refractory breast, colorectal and non-small cell lung cancer to SAHA using RECIST criteria.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient must be 18 years or older with confirmed diagnosis of breast adenocarcinoma, colorectal carcinoma or non-small cell lung cancer\n* Patients must have relapsed or refractory disease following at least one chemotherapeutic treatment regimen.\n* Has a measurable, positron emission tomography (PET) assessable lesion\n* Adequate blood, liver, bone marrow and kidney functions\n* Has not received any chemotherapy for at least 4 weeks prior to entry in this study\n* Agrees to take adequate measures to prevent pregnancy.\n\nExclusion Criteria:\n\n* Patient has had prior treatment with histone deacetylase (HDAC) inhibitor.\n* Patient has had treatment with investigational agents within the last 30 days.\n* Patient has active infection or had intravenous (IV) antibiotic, antiviral, or antifungal medications within 2 weeks of the start of study drugs.\n* Patient has HIV, hepatitis B or hepatitis C infection.\n* Patient is pregnant or lactating.\n* Patient has allergy to any component of the study drug.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03815890",
+    "briefTitle": "Pre-operative Trial for Breast Cancer With Nivolumab in Combination With Novel IO",
+    "officialTitle": "Pre-operative Phase II Trial for Breast Cancer With Nivolumab in Combination With Novel IO (BELLINI Trial)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Pathological complete response rate per cohort,",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed written informed consent\n* 18 years or older at moment of inclusion;\n* Female gender;\n* WHO performance status 0 or 1;\n* Resectable primary breast cancer stage I-III. Nodal status must be examined by ultrasound, fine needle aspiration, sentinel node biopsy, or FDG-PET scan.\n* The tumors must be:\n\n  * at least 10 mm (minimum cT1c) as determined by MRI\n  * TNBC defined as ER\\<10%, HER2-negative OR luminal B defined as ER\u226510%, HER2-negative with either Ki67\u226520% or PR =\\<20% OR grade 3. HER2 negative is defined as an IHC score of \\<2 or 2+ with a negative ISH.\n  * For TNBC patients: TIL\u22655%\n  * For LumB breast cancer patients: TIL\u22651%\n  * For cohort 3B: N0 status, TN and TIL \u226550%\n  * For cohort 4B: N0 status, TNBC and TIL 30-49%\n  * For cohort 5B: N0 status, TNBC and TIL \u226550% \u25cf Patients with multifocal/multicentric breast cancer are eligible if triple negative breast cancer histology as well as sufficient TIL percentages (30-49% in cohort 4B, \u226550% in cohort 5B) have been confirmed in all tumor lesions.\n\nExclusion Criteria:\n\n* evidence or suspicion of metastatic disease. Evaluation of the presence of distant metastases may include chest X-ray, liver ultrasound, isotope bone-scan, CT-scan of chest and abdomen and/or FDG-PET scan, according to local procedures;\n* evidence of a concurrent contralateral or ipsilateral second primary infiltrating breast cancer. Evaluation of the presence of a concurrent second primary breast cancer may include mammography, breast ultrasound and/or MRI breast;\n* other malignancy except carcinoma in situ and basal-cell and squamous carcinoma of the skin, unless the other malignancy was treated \u22655 years ago with curative intent without the use of chemotherapy or radiotherapy\n* previous radiation therapy or chemotherapy;\n* prior treatment with checkpoint inhibitors (including anti- PD1, -PD-L1, -CTLA-4);\n* concurrent anti-cancer treatment, neoadjuvant therapy or another investigational drug;",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02005549",
+    "briefTitle": "A Study of Avastin (Bevacizumab) in Combination With Chemotherapy in Patients With Primary Breast Cancer",
+    "officialTitle": "A Phase II Study of Bevacizumab With Docetaxel and Capecitabine in the Neoadjuvant Setting for Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 18,
+    "primaryOutcomeMeasure": "Percentage of Participants With Pathological Complete Response (pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female patients, 18-70years of age;\n* histologically-proven invasive breast cancer;\n* no prior or current neoplasm except for non-melanoma skin cancer, or in situ cancer of the cervix;\n* no distant disease/secondary cancer.\n\nExclusion Criteria:\n\n* pregnant or lactating women;\n* pre-operative local treatment for breast cancer;\n* prior or concurrent systemic antitumor therapy;\n* clinically significant cardiac disease.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

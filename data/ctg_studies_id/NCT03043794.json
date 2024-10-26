@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03043794",
+    "briefTitle": "Study of Stereotactic Radiotherapy for Breast Cancer",
+    "officialTitle": "A Phase II Study of Preoperative Single Fraction Stereotactic Body Radiotherapy to the Intact Breast in Early Stage Low Risk Breast Cancer: Analysis of Radiation Response",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "Treatment Response Measured by Residual Cancer Burden (RCB)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female sex\n* Age \\> or = to 50 years of age\n* Invasive ductal carcinoma\n* Clinically and radiographically T1 tumor\n* Clinically node negative\n* Clearly demarcated tumor on magnetic resonance imaging (MRI), as determined by treating physician (MRI may be done after enrollment if not done prior)\n* Planning breast conserving surgery including sentinel node biopsy\n* \u226510% expression of ER and/or PR\n* HER2- using the current College of American Pathologists guidelines\n* Post-menopausal\n* Willing and able to provide informed consent\n\nExclusion Criteria:\n\n* Medical conditions that may increase risk for poor cosmetic outcome (i.e. Lupus, rheumatoid arthritis, scleroderma\n* Pure DCIS without invasive cancer\n* Patients who have received or will be receiving neoadjuvant systemic therapy, endocrine therapy, or targeted agents\n* Breast implant in the involved breast unless the implant will be removed prior to initiation of study treatment\n* Positive pregnancy test\n* Subjects without placement of a biopsy clip at the diagnostic procedure who are unwilling to undergo clip placement.\n* Unable to meet dosimetric constraints due to tumor location and/or patient anatomy\n* Planning mastectomy\n* Unable to tolerate prone positioning",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

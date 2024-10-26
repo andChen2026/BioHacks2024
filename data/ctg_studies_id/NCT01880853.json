@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01880853",
+    "briefTitle": "Ultrasound and Mammography for Screening Breast Cancer in Chinese Women",
+    "officialTitle": "N/A",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 47709,
+    "primaryOutcomeMeasure": "screening yield",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent\uff1b\n* residence from community or working units\n\nExclusion Criteria:\n\n* pregnancy\uff1b\n* lactation\uff1b\n* known metastatic cancer\uff1b\n* signs or symptoms of breast disease\uff1b\n* presence of breast implants, breast surgery within prior 12 months\uff1b\n* had mammography or ultrasound exam within prior 12 months\n* males.",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03510689",
+    "briefTitle": "Genetics and Heart Health After Cancer Therapy",
+    "officialTitle": "Genetics and Heart Health After Cancer Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Hereditary Breast/Ovarian Cancer (brca1, Brca2), Heart Diseases, Drug-Induced Cardiomyopathy",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 79,
+    "primaryOutcomeMeasure": "Left Ventricular Ejection Fraction",
+    "eligibilityCriteria": "Inclusion Criteria\n\n* \u226518 years of age\n* Initial diagnosis of Breast Cancer in 2005 or later\n* Documented BRCA testing (results from a local laboratory are acceptable) showing\n\n  * confirmation of a germline mutation in BRCA1 or BRCA2 that is predicted or suspected to be deleterious OR\n  * confirmation that no mutation was detected in BRCA1 or BRCA2\n* Non-carriers will have been treated with an anthracycline-based chemotherapy regimen; carriers may or may not have been treated with an anthracycline-based chemotherapy regimen.\n* Approximately at least 12 months from initiation of adjuvant treatment or neo-adjuvant chemotherapy\n* Able to provide informed consent\n\nExclusion Criteria\n\n* Stage IV Breast Cancer\n* Genetic testing confirming a variant of unknown significance (VUS) or benign polymorphism in BRCA1 or BRCA2\n* V02 Testing contraindicated for any reason, including:\n\n  * Myocardial infarction (within past 3 months)\n  * High-risk unstable angina;\n  * High-risk or uncontrolled cardiac arrhythmias;\n  * Symptomatic severe aortic stenosis;\n  * Uncontrolled symptomatic heart failure;\n  * Acute pulmonary embolus or pulmonary infarction;\n  * Acute myocarditis or pericarditis;\n  * Acute aortic dissection;\n  * Coronary revascularization procedure within the past three months;\n  * Uncontrolled hypertension, defined as systolic blood pressure \u2265 180mmHg or diastolic blood pressure \u2265 100mmHg;\n  * Clinically significant valvular heart disease (severe stenosis or regurgitation);\n  * Known aortic aneurysm; or\n  * Any other condition which, in the opinion of the investigator, may impede testing of the study hypothesis or make it unsafe to engage in the V02 test\n* Women who are pregnant\n* Any other clinically significant medical disease or condition that, in the investigator's opinion, may interfere with protocol adherence or a subject's ability to give informed consent",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

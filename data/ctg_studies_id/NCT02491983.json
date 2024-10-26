@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02491983",
+    "briefTitle": "Palbociclib in Combination With Fulvestrant or Letrozole in Patients With ER+, HER2- Advanced Breast Cancer",
+    "officialTitle": "A Randomized, Multicenter, Open-label, Phase II Trial to Evaluate the Efficacy and Safety of Palbociclib in Combination With Fulvestrant or Letrozole in Patients With HER2 Negative, ER+ Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 486,
+    "primaryOutcomeMeasure": "1-year Progression Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women 18 years or older with metastatic or locally advanced disease, not amenable to curative therapy\n2. Confirmed diagnosis of HR+/HER2- breast cancer\n3. Post-menopausal status\n4. No prior chemotherapy line in the metastatic setting\n5. Measurable disease defined by RECIST version 1.1, or non-measurable disease\n6. Eastern Cooperative Oncology Group (ECOG) PS 0-1\n7. Adequate organ and marrow function, resolution of all toxic effects of prior therapy or surgical procedures\n8. Resolution of all acute toxic effects of prior anti-cancer therapy or surgical procedures to NCICTCAE version 4.0 Grade equal or minor than 1\n\nExclusion Criteria:\n\n1. ER or HER2 unknown disease\n2. HER2 positive disease based on local laboratory results\n3. Locally advanced breast cancer candidate for a radical treatment\n4. Prior (neo)adjuvant endocrine treatment with DFI \u2264 12-months from completion of treatment.\n5. Patients with rapidly progressive visceral disease or visceral crisis.\n6. Major surgery within 4 weeks of start of study drug\n7. Patients with an active, bleeding diathesis\n8. Serious concomitant systemic disorder incompatible with the study\n9. Are unable to swallow tablets\n10. Chronic daily treatment with corticosteroids with a dose of \u2265 10mg/day methylprednisolone equivalent\n11. Known active uncontrolled or symptomatic CNS metastases\n12. Known hypersensitivity to letrozole, fulvestrant or any of their excipients, or to any PD-0332991 excipients\n13. QTc \\> 480 msec on basal assessments, personal history of long or short QT syndrome, Brugada syndrome or known history of QTc prolongation, or Torsade de Pointes\n14. Uncontrolled electrolyte disorders that can compound the effects of a QTc-prolonging drug",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

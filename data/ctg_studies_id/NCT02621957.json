@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02621957",
+    "briefTitle": "Effect of GDC-0810 on the Pharmacokinetics of Pravastatin in Healthy Female Subjects of Non-Childbearing Potential",
+    "officialTitle": "A Phase 1, Open-Label Study to Evaluate the Effect of GDC-0810 on the Pharmacokinetics of Pravastatin in Healthy Female Subjects of Non-Childbearing Potential",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "Maximum Observed Concentration (Cmax) of Pravastatin",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female subjects between 18 and 65 years of age, inclusive.\n* Female subjects of non-childbearing potential including non-pregnant, non-lactating, and either postmenopausal or surgically sterile for at least 45 days post procedure.\n* Within BMI range 18.5 to \\</= 29.9 kg/m\\^2, inclusive.\n* In good health, as determined by no clinically significant findings from medical history, physical examination, 12-lead electrocardiogram (ECG), vital signs, and clinical laboratory evaluations.\n* Receive an explanation of the mandatory pharmacogenomic (PgX) component of the study.\n\nExclusion Criteria:\n\n* Significant history or clinical manifestation of any significant metabolic, allergic, dermatological, hepatic, renal, hematological, pulmonary, cardiovascular, gastrointestinal, neurological, or psychiatric disorder.\n* Previous history of adverse reaction to statins.\n* Participation in any other investigational study drug trial in which receipt of an investigational study drug occurred within 30 days or 5 half-lives, whichever is longer, prior to Check-in (Day -1) in Period 1.\n* Use of systemic hormone replacement therapy within 1 year prior to Check-in (Day -1).\n* History of use of tamoxifen, aromatase inhibitor or any other endocrine agent for treatment of breast cancer.\n* Female subject is pregnant lactating, or breast feeding.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

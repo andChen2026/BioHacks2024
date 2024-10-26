@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04522557",
+    "briefTitle": "Type I Interferon Alfa-2a in Postmastectomy Breast Reconstruction",
+    "officialTitle": "Type I Interferon Alfa-2a in Postmastectomy Breast Reconstruction",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 21,
+    "primaryOutcomeMeasure": "Dose-limiting toxicity (DLT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Signed the informed consent.\n2. Female aged between 18 and 70 years.\n3. Pathologically diagnosed operable breast cancer.\n4. WHO Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.\n5. Newly diagnosed breast cancer.\n6. The important organ functions meet the following criteria:\n\n   * WBC \\>=3.0 x 10\\^9/L; Neutrophilic granulocytes \\>=1.5\u00d710\\^9/L; Platelet \\>=100 x 10\\^9/L; Hb \\>=9 g/dL;\n   * Total bilirubin no more than 1.5 times the normal upper limit (ULN); AST and ALT no more than 1.5 times ULN; AKP no more than 2.5 times ULN;\n   * Serum creatinine no more than 1.5 times ULN or Clearance rate of creatinine \\>= 60ml/min;\n   * Thyroid stimulating hormone (TSH) \\<= ULN (T3, T4 levels need to be detected simultaneously if abnormalities, the patient can be included if T3, T4 levels is normal);\n   * LVEF basement \\>= 50%.\n\nExclusion Criteria:\n\n1. Evidence of distant metastasis.\n2. Any contraindication of nipple-areolar complex (NAC) saving mastectomy (NSM):\n\n   * Intraoperative biopsy revealed carcinoma invasion of NAC.\n   * Paget's disease of breast.\n   * Tumor distant from NAC less than 1 cm.\n3. Any invasive malignancy diagnosed within previous 5 years (other than successfully treated cervical carcinoma in situ, skin basal cell carcinoma or cutaneous squamous cell carcinoma).\n4. At least 4 months since prior interferon therapy.\n5. At least 3 weeks since prior major surgery requiring general anesthesia.\n6. At least 3 weeks since prior radiotherapy or chemotherapy.\n7. Hypersensitivity to interferon or other components: urticaria, angioedema, bronchial stenosis, anaphylaxis, or Stevens-Johnson syndrome.\n8. Prior organ allograft.\n9. Use of an unlicensed or other investigational drug within 4 weeks.\n10. Any severe comorbidities, inability to give informed consent or unavailability for follow-up, including but not limited to any of the following:\n\n    * Heart failure above NYHA class 2 level; high-risk uncontrollable arrhythmia; unstable angina pectoris; myocardial infarction within 1 intervention.\n    * Chronic obstructive pulmonary disease requires treatment.\n    * Chronic liver disease (cirrhosis, chronic active hepatitis, etc.).\n    * Cerebrovascular accident occurred within 6 months.\n    * Severe epilepsy or central nervous system diseases.\n    * Hypertension which cannot be well controlled by antihypertensive drugs.\n    * Abnormal coagulation, bleeding tendency, or receiving thrombolysis or anticoagulant therapy.\n    * Chronic renal insufficiency.\n    * Active infection.\n    * Psychiatric disability, etc.\n11. Pregnant or lactating women.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

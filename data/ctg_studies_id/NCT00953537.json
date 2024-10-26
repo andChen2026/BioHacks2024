@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00953537",
+    "briefTitle": "Predicting Response to Capecitabine in Women With Metastatic Breast Cancer",
+    "officialTitle": "Multicentric Pilot Study of Dihydropyrimidine Dehydrogenase (DPD) Deficiency for Predicting Capecitabine Toxicity in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 303,
+    "primaryOutcomeMeasure": "Capecitabine-related toxicity (i.e., hematological, diarrhea, and hand-foot syndrome) recorded during the first and second courses",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Radiologically (by scintography) or histologically confirmed metastatic breast cancer\n* At least 1 measurable or evaluable target lesion\n* Receiving capecitabine as monotherapy or with targeted antiangiogenic therapies (e.g., bevacizumab or trastuzumab)\n* No uncontrolled brain metastases\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* Life expectancy \u2265 3 months\n* Fertile patients must use effective contraception\n* No chronic uncontrolled illness\n* No congestive heart failure\n* No peripheral venous disease\n* No severe uncontrolled infection\n* No hypoxemic respiratory failure\n* No prior primary cancer except for basal cell carcinoma of the skin\n* No psychologic disorder\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No capecitabine co-administered with chemotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

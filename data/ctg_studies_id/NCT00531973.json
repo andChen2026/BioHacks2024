@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00531973",
+    "briefTitle": "A Study of Liposomal Doxorubicin in Women With Breast Cancer Exploiting Tissue Doppler Imaging",
+    "officialTitle": "Liposomal Doxorubicin-Investigational Chemotherapy-Tissue Doppler Imaging Evaluation (LITE) Randomized Pilot Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Comparison of changes of PW-TDI systolic function parameters. The co-primary end-point ill be the comparison of changes from baseline to 12-month follow-up of PW-TDI diastolic function parameters.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women with age \u226518 and \u226465 years\n* histological and/or cytological diagnosis of clinically non-metastatic breast cancer (c/pTall, c/pNall, cM0)\n* indication for integrated treatment with surgical intervention associated with adjuvant or neo-adjuvant chemotherapy, endocrinological and radiation therapy, including adjuvant or neo-adjuvant chemotherapy with anthracycline\n* ECOG (Eastern Cooperative Oncology Group) performance status \u22642\n* normal kidney, hepatic and hematological function\n* normal LV ejection fraction at baseline (\u226550%)\n* negative pregnancy test in fecund women\n\nExclusion Criteria:\n\n* metastatic breast cancer\n* past radiation therapy and chemotherapy\n* hypertension and other cardiovascular risk factors\n* prior valvular heart disease\n* cardiomyopathy\n* chronic or acute congestive heart failure\n* LV systolic dysfunction (ejection fraction\\<50%)\n* abnormal complete blood count\n* pregnancy\n* breast-feeding",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00842465",
+    "briefTitle": "Prolactin Receptor and Breast Diseases",
+    "officialTitle": "Characterization and Implication of Prolactin Receptor Mutants in Human Breast Diseases",
+    "overallStatus": "COMPLETED",
+    "conditions": "Benign Breast Disease, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 735,
+    "primaryOutcomeMeasure": "Sequencing of PRLR",
+    "eligibilityCriteria": "Inclusion criteria :\n\n* benign breast diseases\n\n  * 10 \\< age \\< 25 for simple FA\n  * 10 \\< age \\< 50 for other diseases .no hormonal treatment for at least 3 months if patients took cyproterone acetate; 1 month for other ovaries-interfering hormonal treatment, and 1 week for ovaries-non-interfering hormonal treatments.\n  * Signature of the informed consent form (icf) by patients or their legal representative (for patients under age of 18.)\n* breast cancer :\n\n  * having a breast cancer with a planned surgery\n  * age \\> 55 years\n  * post menopausal with not menopause substitution treatment\n  * signature of the icf\n* control group :\n\n  * 18 \\< age \\< 60\n  * signature of the icf\n\nExclusion criteria :\n\n* no signature or no conformity of the icf\n* no social security",
+    "sex": "FEMALE",
+    "minimumAge": "10 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

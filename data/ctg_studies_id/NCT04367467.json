@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04367467",
+    "briefTitle": "Effect of PARP Inhibitors on Glomerular Filtration Rate",
+    "officialTitle": "Effect of PARP Inhibitors on Glomerular Filtration Rate",
+    "overallStatus": "TERMINATED",
+    "conditions": "Solid Tumor, Ovarian Cancer, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2,
+    "primaryOutcomeMeasure": "Change in eGFR from Baseline to On-Treatment, 3-9 weeks after PARPi Initiation (Time Point B)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients age 18 years or older\n* Diagnosed with any solid organ cancer\n* Planned to receive a PARP inhibitor (olaparib, niraparib, rucaparib, veliparib, or talazoparib)\n* Able to consent to study related procedures\n* If unable to give informed consent, must have healthcare proxy or legally authorized representative\n* Fluent in conversational English (Informed Consent form currently in English language)\n\nExclusion Criteria:\n\n* Patients who will not receive ongoing cancer care at Penn Medicine\n* Major psychiatric illness or cognitive impairment that in the judgment of the study investigators or study staff would preclude study participation\n* Any patients who are unable to comply with the study procedures as determined by the study investigators or study staff\n* Patients on dialysis",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

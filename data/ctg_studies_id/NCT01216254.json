@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01216254",
+    "briefTitle": "Clinical Trial Comparing Outcomes of Breast Conserving Operations With Classic v High-frequency Electrocoagulation",
+    "officialTitle": "Prospective, Randomized Clinical Trial Comparing Pain Sensation, Seroma Formation and Quality od Life Following BCT With SLND in Breast Cancer Patients Operated With Classic Versus High-frequency Electrocoagulation.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Pain Control",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female\n* age 18-100\n* breast cancer\n* stage IIA and II B (cT1a-3; cN0-1; cM0)\n* no previous breast surgery\n* no previous cancer\n* obtained informed consent\n\nExclusion Criteria:\n\n* stages I, III, IV\n* localised breast infection\n* previous breast surgery for any cause\n* previous cancer\n* no voluntary consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

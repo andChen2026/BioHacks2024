@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00610181",
+    "briefTitle": "Magnetic Resonance Imaging in Patients With Breast Cancer",
+    "officialTitle": "Magnetic Resonance Imaging (MRI) for Preoperative Staging of Patients With Invasive Lobular Carcinoma of the Breast",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 96,
+    "primaryOutcomeMeasure": "Change in surgical management of patients with invasive lobular carcinoma of the breast and young breast cancer patients as a result of preoperative breast MRI",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with pure invasive lobular carcinoma or mixed invasive ductal-lobular carcinoma with the ductal component not greater that 25% OR patients under the age of 40 at diagnosis, irrespective of tumor histology\n2. For women with invasive lobular carcinoma, if the pathology report from the diagnostic biopsy states that they have \"predominantly\" lobular histology or lobular cancer with \"focal\" areas/nests of ductal carcinoma, these cases will automatically be assumed to have at least 75% lobular component.\n3. Women with multifocal or multicentric breast cancer are eligible if any one of the biopsy confirmed tumors meets the histologic designations outlined in Inclusion criteria #1 and #2 above.\n4. Must be able to complete the MR examination within 30 days of mammography and ultrasound of the breast.\n5. Age \\>18 years\n6. Surgery planned at MDACC\n7. Eastern Cooperative Oncology Group (ECOG) status 0-2\n8. Creatinine and glomerular filtration rate measured or calculated within 2 weeks of MRI date\n\nExclusion Criteria:\n\n1. Patients receiving neoadjuvant chemotherapy\n2. Patients with pacemakers\n3. Patients with severe claustrophobia\n4. Obese patients exceeding the equipment weight limits and/or the circumference of the MRI portal\n5. Interval between MRI and conventional locoregional staging studies (mammography/breast US) greater than 30 days.\n6. Known allergy to gadolinium\n7. Patients with clips/prostheses/implanted devices that are not MRI compatible\n8. Compromised renal function, with a measured or calculated glomerular filtration rate of less than 60 ml/min/1.73m\\^2.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

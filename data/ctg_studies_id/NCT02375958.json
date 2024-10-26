@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02375958",
+    "briefTitle": "PCA062 in pCAD-positive Tumors.",
+    "officialTitle": "A Phase 1 Multi-center, Open-label Dose Escalation and Expansion Study of PCA062 Administered Intravenously in Adult Patients With p-CAD Positive Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Triple Negative Breast Cancer, Head & Neck Cancer, Esophageal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 47,
+    "primaryOutcomeMeasure": "Incidence rate of dose limiting toxicities",
+    "eligibilityCriteria": "Inclusion criteria:\n\n1. Male or female \u2265 18 years of age\n2. Documented pCAD expressing tumor cells with the exception of HNSCC and ESCC. An archived tumor sample collected within 36 months prior to baseline if available, or a new tumor biopsy sample must be available for molecular pre-screening.\n3. Consent for a tumor biopsy at screening\n4. Progressive disease and no effective therapy exists\n5. Measurable disease as per RECIST v1.1 criteria\n6. ECOG Performance status of \u2264 2\n\nExclusion criteria:\n\n1. CNS metastatic involvement\n2. Clinically significant cardiac, respiratory, gastrointestinal, renal, hepatic or neurological conditions.\n3. A history of serious allergic reactions, which in the opinion of the investigator pose an increased risk of serious infusion reactions.\n4. Monocular vision or has media opacities or any other condition that precludes monitoring of the retina or the fundus, or has a history of ophthalmology exam with retina or cornea abnormalities\n5. Previously treated with anti-pCAD biologic therapies.\n6. Received anti-cancer therapies within the following time frames prior to the first dose of study treatment:\n\n   * Conventional cytotoxic chemotherapy: \u22644 weeks\n   * Biologic therapy (eg, antibodies), other than ADCs: \u22644 weeks\n   * Non-cytotoxic small molecule therapeutics: \u22645 T1/2 or \u22642 weeks (whichever is longer)\n   * Other investigational agents: \u22644 weeks\n   * Radiation therapy (palliative setting is allowed.): \u22644 weeks\n   * Major surgery: \u22642 weeks\n7. Patient has out of range laboratory values defined as:\n\n   * Hematological values:\n   * Absolute neutrophil count (ANC) \\<1.5 x 109/L\n   * Hemoglobin (Hgb) \\<9 g/dL\n   * Platelets \\<100 x 109/L\n   * Hepatic and renal function\n   * Total bilirubin \\>1.5 x upper limit of normal (ULN). For patients with Gilbert's syndrome, total bilirubin \\>2.5 x ULN.\n   * Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) \\>3 x ULN for patients without tumor involvement of the liver or \\>5 x ULN for patients with tumor involvement of the liver.\n   * Serum creatinine \\>1.5 x ULN and/or measured creatinine clearance \\< 40 ml/min",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

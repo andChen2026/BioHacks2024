@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05365204",
+    "briefTitle": "A Study for Optimization of 6% Hydroxyethyl Starch Based Indocyanine Green Near-infrared Fluorescence Navigated Sentinel Lymph Node Biopsy for Breast Cancer Patients",
+    "officialTitle": "A Study for Optimization of 6% Hydroxyethyl Starch Based Indocyanine Green Near-infrared Fluorescence Navigated Sentinel Lymph Node Biopsy for Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Sentinel Lymph Node",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Signal-to-background ratio (SBR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer, adults\n\nExclusion Criteria:\n\n* Patient aged \\< 20 years old\n* Primary lesion without indication of sentinel lymph node biopsy in current guidelines (Low-risk ductal carcinoma in situ or metastatic breast cancer)\n* Patient who is allergic to primary tracers (including Tc99m and blue dye)\n* Patient who is allergic to indocyanine green",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

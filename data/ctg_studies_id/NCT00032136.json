@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00032136",
+    "briefTitle": "Exemestane Compared With Tamoxifen in Treating Postmenopausal Women With Breast Cancer",
+    "officialTitle": "An Open Label, Randomized Multicenter Comparative Trial Of 5 Years Adjuvant Exemestane Treatment Versus 5 Years Adjuvant Tamoxifen Treatment In Postmenopausal Women With Early Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4400,
+    "primaryOutcomeMeasure": "Relapse-free survival",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed early adenocarcinoma of the breast\n\n  * Completely excised by surgery with curative intent (R0)\n\n    * Any N OR\n    * Any primary tumor greater than 3 cm OR\n    * Any primary tumor grade III and greater than 1 cm\n  * M0\n* No positive supraclavicular nodes\n* Hormone receptor status:\n\n  * Estrogen and/or progesterone receptor positive\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* Any age\n* See Menopausal status\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* Postmenopausal\n\n  * Any age with bilateral oophorectomy or amenorrhea for at least 5 years OR\n  * Age 50 or over:\n\n    * Natural amenorrhea for at least 1 year OR\n    * Chemotherapy-induced amenorrhea for at least 2 years OR\n    * Radiation-induced amenorrhea (at least 3 months since prior radiotherapy) OR\n  * Under age 50:\n\n    * If amenorrheic for less than 5 years (any cause) or prior hysterectomy without bilateral surgical oophorectomy, follicle-stimulating hormone must be assayed to confirm postmenopausal status\n\nPerformance status:\n\n* ECOG 0-2\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* Platelet count greater than 100,000/mm3\n* WBC greater than 3,000/mm3\n\nHepatic:\n\n* SGOT or SGPT less than 2.5 times upper limit of normal (ULN)\n\nRenal:\n\n* Creatinine less than 1.5 times ULN\n\nCardiovascular:\n\n* No uncontrolled cardiac disease\n* No unstable angina\n* No congestive heart failure or arrhythmia requiring medical therapy\n* No myocardial infarction within the past 3 months\n\nOther:\n\n* No severe osteoporosis\n* No other malignancies within the past 5 years except adequately treated carcinoma in situ of the cervix or basal cell skin cancer\n* No other serious concurrent disease that would preclude study\n* No psychiatric disorders that would preclude study\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* No prior neoadjuvant chemotherapy\n* No more than 10 weeks since completion of prior adjuvant chemotherapy\n\nEndocrine therapy:\n\n* No prior adjuvant hormonal therapy for breast cancer\n* No prior neoadjuvant hormonal therapy (prior to surgery) for duration of more than 4 weeks\n* At least 4 weeks since prior hormone replacement therapy\n\nRadiotherapy:\n\n* Not specified\n\nSurgery:\n\n* See Disease Characteristics\n* No more than 10 weeks since completion of curative surgery\n\nOther:\n\n* No other concurrent investigational agents or participation in another clinical study (except adjuvant cytotoxic chemotherapy studies)\n* Concurrent bisphosphonates allowed",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

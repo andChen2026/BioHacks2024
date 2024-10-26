@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06640426",
+    "briefTitle": "Messaging Intervention to Increase Medicare Annual Wellness Visits -- the NUDGE AWV Clinical Trial",
+    "officialTitle": "Messaging Intervention to Increase Medicare Annual Wellness Visits: the MIMA Randomized Clinical Trial",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Annual Wellness Visit, Breast Cancer Screening, Colon Cancer Screening",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 50000,
+    "primaryOutcomeMeasure": "Annual Wellness Visit scheduling",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 65 or older\n* Have either a mobile phone number or an email address on file with the health system\n* Included in and non-compliant on the Ascension AWV Clinical Priority Goal measure\n* Have consented to receive electronic communications from the health system\n\nExclusion Criteria:\n\n* Patients whose primary care providers are exempted from the campaign by the health system\n* Completed MAWV appointment in previous 30 days\n* Has an upcoming AWV appointment scheduled\n* Have received a nudge campaign from the Clinical Transformation team in the past 90 days\n* Patients who have previously opted out of receiving electronic communications from the health system in our message delivery platform (Salesforce)",
+    "sex": "ALL",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

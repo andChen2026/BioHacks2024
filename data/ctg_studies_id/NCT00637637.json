@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00637637",
+    "briefTitle": "External-Beam Radiation Therapy With or Without Indinavir and Ritonavir in Treating Patients With Brain Metastases",
+    "officialTitle": "Radiation Therapy in Combination With Indinavir / Ritonavir (Crixivan / Norvir) for the Treatment of Brain Metastases: a Randomized Phase II Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Time to treatment failure in the brain (TTF) as determined by the radiological response rate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed metastatic cancer with brain metastases\n\n  * Biopsy of brain metastases is not required\n* All cancer types allowed, except for the following:\n\n  * Prostatic adenocarcinoma\n  * Sarcoma\n  * Melanoma\n  * Germ cell carcinoma,\n  * Small-cell lung cancer\n* Measurable disease by MRI of the brain\n* Not requiring immediate surgical decompression (may qualify after surgery, if remaining measurable brain lesions)\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-2 (corresponds to recursive partitioning analysis groups I or II)\n* Life expectancy \\> 4 months\n* Able to understand the aim of trial and to comply with follow-up\n* No HIV seropositivity\n\nPRIOR CONCURRENT THERAPY:\n\n* Prior dexamethasone allowed provided it is tapered before initiation of study radiotherapy\n* Not requiring cytotoxic treatment within 3 months after study radiotherapy\n* At least 1 week since prior and no concurrent phenytoin",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

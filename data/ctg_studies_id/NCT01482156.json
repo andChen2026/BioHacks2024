@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01482156",
+    "briefTitle": "Dose Finding Study of RAD001 (Everolimus, Afinitor\u00ae) in Combination With BEZ235 in Patients With Advanced Solid Tumors",
+    "officialTitle": "An Open-label, Multi-center Phase I Dose-finding Study of RAD001 (Everolimus, Afinitor\u00ae) in Combination With BEZ235 in Patients With Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Solid Tumors, Metastatic Breast Cancer, Metastatic Renal Cell Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "Probability of a Dose Limiting Toxicity (DLT) by the end of the first treatment cycle (DLT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Male and female patients age 18 years or older\n* In the dose finding phase, patients with histologically or cytologically confirmed advanced solid malignancies that are metastatic or unresectable\n* In the dose expansion phase, the enrollment will be limited to patients with:\n\nPatients with metastatic renal cell carcinoma (mRCC) whose disease had progressed despite prior treatment with VEGFR-TKI (vascular endothelial growth factor receptor tyrosine kinase inhibitor) therapy (at least one but no more than two lines of VEGFR-TKI therapy) Patients with metastatic breast cancer (MBC) which is ER+/HER2-, whose disease had progressed despite prior treatment with at least one but no more than two lines of chemotherapy and at least one prior line of endocrine therapy in the metastatic setting\n\n* WHO performance status of 0-2\n* Lab parameters within specifically defined criteria\n* Patients with measurable disease per RECIST 1.0\n\nExclusion Criteria:\n\n* Patients who have previously received mTOR inhibitors or PI3K inhibitors\n* Patients with CNS metastases unless previously treated with surgery, whole-brain radiation or stereotactic radiosurgery plus the disease having been stable for at least 2 months without steroid use for at least 1 month prior to the first dose of RAD001 and BEZ235. Subjects are not permitted to receive enzyme-inducing anti-epileptic drugs.\n* Major surgery within 2 weeks prior to study enrollment\n* Patient taking anti-cancer drug concomitantly\n* Received radiation within 4 weeks prior to study enrollment (2 weeks if limited field radiation)\n* Receive chemotherapy 4 weeks prior to study enrollment\n* Received live attenuated vaccines within 1 week prior to study enrollment\n* History of HIV\n* Any other severe and/or uncontrolled medical condition\n\nOther protocol-defined inclusion/exclusion criteria may apply",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

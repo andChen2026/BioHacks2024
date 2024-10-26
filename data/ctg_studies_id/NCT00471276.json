@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00471276",
+    "briefTitle": "Efficacy And Safety Of Sunitinib In Women With Advanced Breast Cancer",
+    "officialTitle": "A Phase II Study Of Sunitinib Malate Single Agent For The Treatment Of Women With Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 83,
+    "primaryOutcomeMeasure": "Number of Participants With Objective Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically proven diagnosis of breast cancer\n* Metastatic or locally recurrent disease that is, in the opinion of the investigator, not amenable to resection or radiation therapy\n* Patients with at least one measurable lesion as per RECIST\n\nExclusion Criteria:\n\n* Inflammatory breast cancer\n* Prior treatment with VEGF inhibitors (unless in adjuvant setting at least 12 months ago)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

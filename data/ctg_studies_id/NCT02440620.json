@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02440620",
+    "briefTitle": "Cardiac Toxicity in Medical Treatment of Breast Cancer",
+    "officialTitle": "Cardiac Toxicity in Medical Treatment of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Heart Failure, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "Global longitudinal strain by two dimentional speckle tracking.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of HER2 positive breast cancer\n* Adjuvant treatment with trastuzumab\n\nExclusion Criteria:\n\n* Left ventricle ejection fraction (LVEF) \\<50%\n* Chronic or persistent atrial fibrillation\n* History of moderate or severe valvular heart disease.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

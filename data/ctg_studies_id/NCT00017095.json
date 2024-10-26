@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00017095",
+    "briefTitle": "Biomarker (p53 Gene) Analysis and Combination Chemotherapy Followed by Radiation Therapy and Surgery in Treating Women With Large Operable or Locally Advanced or Inflammatory Breast Cancer",
+    "officialTitle": "First Prospective Intergroup Translational Research Trial Assessing the Potential Predictive Value of p53 Using a Functional Assay in Yeast in Patients With Locally Advanced/Inflammatory or Large Operable Breast Cancer Prospectively Randomised to a Taxane Versus a Non Taxane Regimen",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1856,
+    "primaryOutcomeMeasure": "Progression-free survival",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer\n\n  * Locally advanced or inflammatory disease\n\n    * T4a-d, any N, M0 OR\n    * Any T, N2 or N3, M0\n    * Large operable T2 or T3 tumors\n* No bilateral breast cancer\n* Frozen tumor sample available\n\n  * 1 incisional biopsy OR\n  * 2 trucut biopsies from a 14G needle\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 70 and under\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* WHO 0-1\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* Neutrophil count greater than 1,500/mm\\^3\n* Platelet count greater than 100,000/mm\\^3\n\nHepatic:\n\n* Bilirubin less than 1.2 mg/dL\n* SGOT less than 60 IU/L\n\nRenal:\n\n* Creatinine less than 1.35 mg/dL\n\nCardiovascular:\n\n* LVEF normal by echocardiography or MUGA\n\nOther:\n\n* No other malignancy within the past 5 years except basal cell or squamous cell skin cancer or carcinoma in situ of the cervix\n* No serious uncontrolled medical condition\n* No uncontrolled psychiatric or addictive disorders\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* No prior chemotherapy\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* No prior radiotherapy\n\nSurgery:\n\n* See Disease Characteristics",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00897299",
+    "briefTitle": "Identifying Genes That Predict Recurrence in Women With Breast Cancer Treated With Chemotherapy",
+    "officialTitle": "Identifying Genomic Predictors of Recurrence After Adjuvant Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Estrogen Receptor, Her-2, Pgr",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 900,
+    "primaryOutcomeMeasure": "Distant, local/regional, and ipsilateral breast relapse",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of breast cancer\n\n  * Node positive OR high-risk node negative disease\n  * Tumor \\> 1.0 cm in diameter\n* No locally advanced, inflammatory, or metastatic breast cancer\n* Previously treated with 4 courses of anthracycline-containing chemotherapy (i.e., doxorubicin and docetaxel OR doxorubicin and cyclophosphamide)\n* Enrolled on clinical trial ECOG-E2197\n* Adequate tumor material available in ECOG Pathology Coordination Center\n* Previously consented to future cancer-related research\n* Hormone receptor status known\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Menopausal status not specified\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

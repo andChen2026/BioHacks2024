@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04240548",
+    "briefTitle": "Radiation Therapy for ypN0 Breast Cancer",
+    "officialTitle": "Role of Regional Nodal Irradiation in Node Positive Breast Cancer Patients With ypN0 After Preoperative Chemotherapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 160,
+    "primaryOutcomeMeasure": "Regional Nodal Failure ( axillary, internal mammary or supraclavicular recurrences )",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* WHO performance status 0-1\n* Invasive Breast Cancer with cT1-3 cN1-2 at time of diagnosis\n* Axillary nodal involvement can be detected using, clinical examination, ultrasound, CT scan or PET scan\n* Pathologic confirmation using, FNAC, core biopsy or excisional biopsy\n* ER, PR, Her2 neu and Ki67 status should be available for all patients\n* All patients should have received standard preoperative chemotherapy prior to surgery\n* At the time of surgery, all patients should have axillary clearance with at least 6 nodes harvested from the axilla\n* Patients who have undergone mastectomy or lumpectomy with negative margins with ypN0, ypN0(+i) or ypN0(+mol) are eligible for randomization\n\nExclusion Criteria:\n\n* Poor performance status\n* Definitive clinical or radiologic evidence of metastatic disease\n* T4 tumors including inflammatory breast cancer\n* N3 disease detected clinically or by imaging\n* Patients with histologically positive axillary nodes after preoperative chemotherapy\n* Positive surgical margin after definitive surgery\n* Previous ipsilateral or contralateral breast cancer\n* Previous chest wall or breast irradiation\n* Second primary cancer\n* Active connective tissue disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

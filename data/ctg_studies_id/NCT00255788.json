@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00255788",
+    "briefTitle": "Everolimus in Treating Patients WIth Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "A Randomized Phase II Study of Two Different Schedules of RAD001C in Patients With Recurrent/Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 49,
+    "primaryOutcomeMeasure": "Response rate by clinical evaluation every 4 weeks and radiologic reevaluation every 8 weeks",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer\n\n  * Metastatic or recurrent disease\n  * Considered incurable\n* Measurable disease, defined as \u2265 1 unidimensionally measurable lesion \u2265 20 mm by conventional techniques or \u2265 10 mm by spiral CT scan\n* Two primary breast cancers allowed\n* Paraffin-embedded primary or metastatic tumor sample available\n* No known brain metastases\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nSex\n\n* Male or female\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* ECOG 0-2\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Absolute granulocyte count \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n\nHepatic\n\n* Bilirubin \u2264 1.5 times upper limit of normal (ULN)\n* AST and ALT \u2264 2.5 times ULN\n\nRenal\n\n* Creatinine \u2264 1.5 times ULN\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No active uncontrolled infection\n* No upper gastrointestinal condition or other condition that would preclude ability to take oral medication\n* No other serious medical condition that would preclude study participation\n* No psychiatric illness or neurologic disorder that would preclude study compliance\n* No other malignancy within the past 5 years except curatively treated nonmelanoma skin cancer or carcinoma in situ of the cervix or bladder\n\nPRIOR CONCURRENT THERAPY:\n\nChemotherapy\n\n* At least 4 weeks since prior chemotherapy\n* Prior adjuvant chemotherapy allowed\n* No more than 1 prior chemotherapy regimen for metastatic or recurrent disease\n\nEndocrine therapy\n\n* At least 5 days since prior hormonal therapy\n\nRadiotherapy\n\n* At least 4 weeks since prior radiotherapy except for low-dose, limited-fraction, palliative, nonmyelosuppressive radiotherapy, defined as radiotherapy to \\< 20% of functioning bone marrow\n* If prior radiotherapy was to sole site of disease, must have subsequent documented disease progression at that site\n\nSurgery\n\n* At least 3 weeks since prior major surgery\n\nOther\n\n* Concurrent prophylactic bisphosphonates allowed, if started prior to study entry\n* No concurrent potent inhibitors of cytochrome 3A4, such as erythromycin, diltiazem, or ketoconazole and similar antifungals\n* No other concurrent anticancer therapy\n* No other concurrent investigational agents\n* No concurrent grapefruit juice",
+    "sex": "ALL",
+    "minimumAge": "16 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

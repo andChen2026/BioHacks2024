@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02364388",
+    "briefTitle": "IMAging With Opto-acoustics to downgradE BI-RADS claSsificaTion Relative tO Other Diagnostic Methodologies (MAESTRO)",
+    "officialTitle": "IMAging With Opto-acoustics to downgradE BI-RADS claSsificaTion Relative tO Other Diagnostic Methodologies (MAESTRO)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 217,
+    "primaryOutcomeMeasure": "OA/US Specificity (Downgrade (%) for BI-RADS 4A & 4B) of Benign Masses",
+    "eligibilityCriteria": "Inclusion Criteria\n\n* Female\n* 18 years of age or older\n* Have an undiagnosed suspicious finding which may include more than one solid or complex cystic suspicious mass, classified by CDU as BI-RADS 4a or 4b within 3 weeks of their baseline Imagio Scan\n\nExclusion Criteria:\n\n* Have a condition or impediment that could interfere with the intended field of view (within one probe length or 4 cm of the mass), (i.e., breast implants within the previous 12 months, or tattoos)\n* Pregnant or lactating\n* Patient has received chemotherapy for any type of cancer within 90 days from date of screening CDU",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

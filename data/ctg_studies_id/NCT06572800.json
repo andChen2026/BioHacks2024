@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06572800",
+    "briefTitle": "Tka Assay for CDK4/6i",
+    "officialTitle": "Use of DiviTum-TKa as a Biomarker Assay for CDK4/6 Inhibitor Medication Compliance and Drug-Drug Interaction Assessment in ER/PR Positive Metastatic Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Anatomic Stage IV Breast Cancer AJCC v8, Metastatic HER2-Negative Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Proportion of patients with thymidine kinase activity (TKa) values that switch from profile 3 to profile 1 or 2 after medication compliance and drug-drug interaction assessment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants must have histologically confirmed metastatic ER-positive (\\> 10%), PR-positive or PR-negative, and HER2-negative (0 by immunohistochemistry \\[IHC\\] or if +1 or +2 by IHC, not amplified by fluorescence in situ hybridization \\[FISH\\]) breast cancer; ER positivity, PR positivity, and HER2 negativity as per the 2018 joint American Society of Clinical Oncology (ASCO)/College of American Pathologists (CAP) guidelines.\n* Participants must be starting CDK4/6 inhibitor and endocrine therapy as part of first-line therapy per standard of care and be previously CDK4/6 inhibitor-na\u00efve.\n* Participants must be enrolled prior to starting CDK4/6 inhibitor therapy.\n* Participants must be \u2265 18 years of age.\n* Participants must have an Eastern Cooperative Oncology Group (ECOG) Performance Status \\< 3.\n* Willing and able to provide written informed consent for the trial.\n\nExclusion Criteria:\n\n* Participants without evidence of metastatic disease prior to registration.\n* Participants with prior use of CDK4/6 inhibitor therapy.\n* Participants who are unable to provide informed consent for the trial.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

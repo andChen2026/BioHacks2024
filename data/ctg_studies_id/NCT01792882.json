@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01792882",
+    "briefTitle": "Prospective Collection of Surplus Surgical Tumor Tissues and Pre-surgical Blood Samples",
+    "officialTitle": "Prospective Collection of Surplus Surgical Tumor Tissues and Pre-surgical Blood Samples",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer, Colorectal Cancer, Lung Cancer, Prostate Cancer, Hematologic Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Tumor genetic sequence variation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Any adult age\n* Any sex\n* Able to provide consent for surplus tissue and/or blood donation\n* Diagnosed with one of the cancer indications listed below:\n* Scheduled to undergo surgical resection of tumor (exception for hematological cancers)\n* Have not yet received treatment for cancer\n\nExclusion Criteria:\n\n* Not diagnosed with required cancer indication\n* Not scheduled to undergo surgical resection of the tumor\n* Have already received cancer treatment (such as chemotherapy, radiation, surgery) for the current cancer or a previously diagnosed cancer\n* Not able to donate an adequate volume of blood to meet minimum requirements\n\nCANCER INDICATIONS:\n\n1. Bladder Cancer - Urothelial carcinoma - nonpapillary\n2. Bladder Cancer - Urothelial carcinoma - papillary\n3. Brain Cancer - Astrocytoma\n4. Brain Cancer - Glioblastoma\n5. Brain Cancer - Medulloblastoma\n6. Breast Cancer - Ductal Carcinoma\n7. Breast Cancer - Lobular Carcinoma\n8. Cervical Cancer - Squamous Cell Carcinoma\n9. Colorectal Cancer - Adenocarcinoma\n10. Esophageal Cancer - Adenocarcinoma\n11. Gastric Cancer\n12. Head and Neck Cancer - Squamous Cell Carcinoma\n13. Hematologic Cancer - Acute Lymphocytic Leukemia (ALL)\n14. Hematologic Cancer - Acute Myeloid Leukemia (AML)\n15. Hematologic Cancer - Chronic Lymphocytic Leukemia (CLL)\n16. Hematologic Cancer - Diffuse Large B-cell Lymphoma\n17. Hematologic Cancer - Multiple Myeloma (MM)\n18. Hematologic Cancer - Non-Hodgkins Lymphoma (NHL)\n19. Kidney Cancer - Papillary Carcinoma\n20. Kidney Cancer - Renal cell Carcinoma\n21. Liver Cancer - Hepatocellular Carcinoma\n22. Lung Cancer - Adenocarcinoma\n23. Lung Cancer - Squamous Cell Cancer\n24. Melanoma\n25. Pancreatic Cancer - Ductal Adenocarcinoma\n26. Prostate Cancer - Adenocarcinoma\n27. Sarcomas\n28. Thyroid Cancer - Follicular Carcinoma\n29. Thyroid Cancer - Papillary Carcinoma\n30. Uterine Cancer - Endometrial Carcinoma",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

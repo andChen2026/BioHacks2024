@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02712723",
+    "briefTitle": "Letrozole Plus Ribociclib or Placebo as Neo-adjuvant Therapy in ER-positive, HER2-negative Early Breast Cancer",
+    "officialTitle": "Femara (Letrozole) Plus Ribociclib (LEE011) or Placebo as Neo-adjuvant Endocrine Therapy for Women With ER-positive, HER2-negative Early Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 121,
+    "primaryOutcomeMeasure": "Rate of Pre-operative Endocrine Prognostic Index (PEPI) score 0 at surgery between ribociclib containing arms (combined) vs letrozole alone arm",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Pathologically confirmed invasive breast cancer by core needle biopsy\n* Female subjects, age \u2265 18 years\n* Only postmenopausal women will be eligible.\n* Performance Status: Eastern Cooperative Oncology Group (ECOG) score 0-2\n* Invasive breast cancer must be ER+ in \u226566 % of the cells or ER Allred score 6-8\n* Invasive breast cancer must be HER2 negative.\n* Clinical Stage II or III (by clinical measurement and/or breast imaging)\n\nKey Exclusion Criteria:\n\n* Subjects meeting any of the exclusion criteria at baseline will be excluded from study participation.\n* Current use of other investigational agents\n* Inflammatory breast cancer defined as clinically significant erythema of the breast and/or documented dermal lymphatic invasion (not direct skin invasion by tumor or peau d'orange without erythema)\n* An excisional biopsy of this breast cancer\n* Surgical axillary staging procedure prior to study entry\n* Hormone replacement therapy of any type, megestrol acetate, or raloxifene within four weeks prior to first study treatment\n* Clinical or radiographic evidence of metastatic disease\n* Clinically significant, uncontrolled heart disease\n* Herbal preparations/medications as listed in Appendix B of the protocol",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

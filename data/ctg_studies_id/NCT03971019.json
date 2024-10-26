@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03971019",
+    "briefTitle": "Survival Benefits of Statins in Breast Cancer Patients",
+    "officialTitle": "Survival Benefits of Statins in Breast Cancer Patients With Abnormal Lipid Metabolism",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 314,
+    "primaryOutcomeMeasure": "DFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Diagnosed as invasive breast cancer, it has been treated surgically, confirmed by histology, cytology or imaging.\n2. Female patients (35-75 years old);\n3. The low-risk patients with ASCVD are detailed in Annex 1.\n4. Signed written informed consent approved by IRB or IEC\n\nExclusion Criteria:\n\n1. The subjects were pregnant or lactating.\n2. Pregnancy test positive (urine or serum) in women with potential pregnancy within 7 days before administration.\n3. Other invasive tumors (including the second primary breast cancer) may affect the evaluation of outcomes and the compliance of schemes, but subjects who have been cured and survived disease-free for at least five years can be selected.\n4. Patients with chronic underlying liver diseases who have abnormal liver function and/or clinical manifestations:\n\n   Serum total bilirubin \\> 2.5 \\*ULN; or INR \\> 1.5 although there was no increase in bilirubin Serum ALT or AST \\> 3 \\*ULN; Alkaline phosphatase \\> 2.5 \\*ULN; Elevated ALT or AST may gradually recover, but with progressively increased fatigue, nausea and vomiting, fever, right upper abdominal pain or tenderness.\n5. Extremely high risk ASCVD patients Including acute coronary syndrome (ACS), stable coronary heart disease, revascularization, ischemic cardiomyopathy, ischemic stroke, transient ischemic attack, peripheral atherosclerosis, etc.\n6. High-risk ASCVD patients (in accordance with one of the following circumstances):\n\n   LDL-C\\>4.9 mmol/L or TC\\>7.2 mmol/L Diabetic patients with 1.8 mmol/L \\< LDL-C \\< 4.9 mmol/L (or) 3.1 mmol/L \\< TC \\< 7.2 mmol/L and age \\< 40 years\n\n   The 10-year risk of ASCVD was moderate and younger than 55 years old. The remaining life risk was assessed. Those with any of the following two or more risk factors are defined as high risk:\n\n   Systolic or diastolic blood pressure (\\> 160 mmHg) or (\\> 100 mmHg)\n   * Non-HDL-C\\>5.2 mmol/L (200 mg/dl)\n   * HDL-C \\< 1.0 mmol/L (40 mg/dl)\n   * BMI\\>28 kg/m2 Smoking\n7. In the abnormal group of simple TG (triglyceride), TG (\\> 5.7 mmol/L)\n8. Other serious diseases, including:\n\n   Congestive heart failure (NYHA grade II, III, IV); dyspnea at rest or requiring oxygen therapy; severe infection; uncontrolled diabetes mellitus;\n9. If there are serious mental or mental disorders, it is estimated that the subjects'compliance to participate in this study is not strong.\n10. Drug allergies to research drugs are known.\n11. Participated in other drug clinical trials in the past 30 days.\n12. Failure to complete at least one cycle of clinical trials based on this protocol, and failure to evaluate safety and effectiveness.\n13. Serious violation of this study program, not in accordance with the prescribed dose, method and course of treatment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

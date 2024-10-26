@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05783622",
+    "briefTitle": "Study of JANX008 in Subjects with Advanced or Metastatic Solid Tumor Malignancies",
+    "officialTitle": "An Open-Label, Multicenter, Phase 1/1b Study of JANX008 in Subjects with Advanced or Metastatic Solid Tumor Malignancies",
+    "overallStatus": "RECRUITING",
+    "conditions": "Non-Small Cell Lung Cancer, Renal Cell Carcinoma, Squamous Cell Carcinoma of the Head and Neck, Colorectal Carcinoma, Small Cell Lung Cancer, Pancreatic Ductal Adenocarcinoma, Triple-negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 130,
+    "primaryOutcomeMeasure": "Incidence of Dose Limiting Toxicities (DLT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subjects \u226518 years of age at the time of signing informed consent\n* Histologically or cytologically documented locally advanced or metastatic NSCLC, SCCHN, CRC, RCC, SCLC, PDAC, TNBC\n* Progressed or was intolerant to all available therapies known to confer clinical benefit appropriate for the tumor type\n* Adequate organ function\n* At least 1 measurable lesion per RECIST 1.1\n\nExclusion Criteria:\n\n* Treatment with anti-cancer therapy within 28 days or \u22645 elimination half-lives, whichever is earlier, before enrollment\n* Prior treatment with EGFR-targeted bispecific T cell engager or CAR-T cell therapy\n* Prior treatment with CD3 engaging bispecific antibodies\n* Clinically significant cardiovascular diseases\n* Active clinically significant infection (bacterial, viral, fungal, mycobacteria, or other)\n* On supplemental oxygen\n* Any medical condition or clinical laboratory abnormality likely to interfere with assessment of safety or efficacy of study treatment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

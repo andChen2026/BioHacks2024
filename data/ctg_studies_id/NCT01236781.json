@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01236781",
+    "briefTitle": "Comparison of Full-Field Digital Mammography With Digital Breast Tomography for Screening Call-Back Rates",
+    "officialTitle": "Comparison of Full-Field Digital Mammography With Digital Breast Tomosynthesis Image Acquisition in Relation to Screening Call-Back Rate",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 550,
+    "primaryOutcomeMeasure": "Primary Aim: Recall Rates",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women 25 years of age or older;\n* No history of breast cancer;\n* Group A only: Asymptomatic and scheduled for screening mammography;\n* Group B only: Asymptomatic and recalled for diagnostic testing due to positive findings on recent screening using FFDM, completed within 30 days prior to registration (BI-RADS 0: additional imaging needed);\n* Willing to provide a written informed consent.\n\nExclusion Criteria:\n\n* Pregnancy or intent to become pregnant;\n* Unable or unwilling to tolerate compression associated with mammography;\n* Breast implants;\n* Breasts too large to allow for adequate positioning for the DBT examination;\n* Group B only: Patients with FFDM taken at screening who are unwilling or unable to submit images to ACRIN;\n* Group B only: Unwilling to undergo tomosynthesis on both breasts as well as potentially additional diagnostic imaging based on tomosynthesis findings;\n* Unable or unwilling to complete screening and (as necessary) diagnostic imaging at same facility;\n* Tomosynthesis or mammography within 11 months prior to registration (excluding the screening mammography required for Group B).",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

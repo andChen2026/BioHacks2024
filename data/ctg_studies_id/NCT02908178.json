@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02908178",
+    "briefTitle": "Comparative Effectiveness of Sentinel Lymph Node Biopsy for Ductal Carcinoma In Situ",
+    "officialTitle": "Comparative Effectiveness of Sentinel Lymph Node Biopsy (SLNB) for Ductal Carcinoma In Situ (DCIS)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Ductal Carcinoma In Situ",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 28291,
+    "primaryOutcomeMeasure": "Side Effects (Claim-based Measure), Including Lymphedema, Seroma, Wound Infection, or Pain",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female DCIS patients older than 67 years and younger than 94 years who were enrolled in a fee-for-service Medicare program and resided in the SEER areas.\n* Aim 1: DCIS patients who received breast conserving surgery (BCS) as their first surgery\n* Aim 1: DCIS patients who were diagnosed DCIS between January 1998 and December 2011\n* Aim 2: DCIS patients who were diagnosed DCIS between January 2001 and December 2013\n\nExclusion Criteria:\n\n* Aim 1: DCIS patients who received mastectomy as their first surgery\n* Aim 2: DCIS patients who received BCS at the beginning yet received mastectomy in the end",
+    "sex": "FEMALE",
+    "minimumAge": "67 Years",
+    "stdAges": "OLDER_ADULT"
+}

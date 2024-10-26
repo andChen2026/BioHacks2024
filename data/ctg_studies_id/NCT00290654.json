@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00290654",
+    "briefTitle": "Internal Radiation Therapy After Lumpectomy in Treating Women With Ductal Carcinoma in Situ",
+    "officialTitle": "Twin Cities Brachytherapy Study for Ductal Carcinoma in Situ A Phase II Trial",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "Number of Patients With Ipsilateral Breast Tumor Recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Ductal carcinoma in situ (DCIS) confirmed by excisional or needle biopsy\n* Size: \\< 3 cm on mammogram\n* Unicentric disease\n* Ability to place MammoSite device at time of lumpectomy or within 4 weeks of lumpectomy\n* Patient Age: \u2265 18 years, no upper limit\n* Life expectancy \\> 5 years\n\nExclusion Criteria:\n\n* Prior history of cancer other than basal or squamous cell skin cancer or in situ cancer of the cervix\n* Pregnant or breast feeding\n* Multicentric disease\n* Diagnosis of collagen vascular diseases, such as systemic lupus erythematosis, scleroderma, or dermatomyositis",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

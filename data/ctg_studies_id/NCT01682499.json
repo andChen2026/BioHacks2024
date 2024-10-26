@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01682499",
+    "briefTitle": "Calcium and Magnesium Infusion for the Prevention of Taxane Induced Neuropathy",
+    "officialTitle": "Calcium and Magnesium Infusion for the Prevention of Taxane Induced Neuropathy in Earlier Stage Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Paclitaxel-induced Neuropathy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "to assess paclitaxel-related neuropathy (grade 2 or greater)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 21 years\n* History of stage I-III breast cancer\n* Patient scheduled to be receiving adjuvant or neo-adjuvant paclitaxel given every week for 12 weeks or given every two weeks for 4 cycles\n* Serum magnesium level \u2264 UNL\n* Serum calcium level \u2264 UNL\n* Serum creatinine \u2264 1.5 x UNL\n* Signed informed consent\n\nExclusion Criteria:\n\n* Pre-existing peripheral neuropathy of any grade\n* Current treatment for arrhythmias\n* Concurrent treatment with anticonvulsants, tricyclic antidepressants, or other neuropathic medications such as carbamazepine, phenytoin, gabapentin, lamotrigine, or concurrent treatment with other neuropathic chemotherapy agents\n* Current narcotic use",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

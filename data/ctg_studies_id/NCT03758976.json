@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03758976",
+    "briefTitle": "Sweden Cancerome Analysis Network - Breast Recurrence (SCAN-B-rec)",
+    "officialTitle": "SCAN-B-rec: Infrastructure, Technology Platform and Clinical Research Development to Profile and Monitor Metastatic Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with pathologically confirmed advanced breast cancer (ABC), including locally advanced inoperable disease and stage IV disease.\n2. Age \\> 18 years.\n3. Performance status according to Eastern Cooperative Oncology Group (ECOG) \u2264 2.\n4. ABC must be radiologically or clinically assessable, by means of at least one of the following techniques: clinical examination, computerized tomography (CT-scan), magnetic resonance imaging (MRI), bone scintigraphy or positron emission tomography (PET).\n5. Patients must have a radiological evaluation done maximum 6 weeks prior to inclusion.\n6. Signed informed consent according to ICH/GCP, and national/local regulations.\n\nExclusion Criteria:\n\nUntreated psychiatric disorders that will impair the patient's ability to comply with study treatment or protocol.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

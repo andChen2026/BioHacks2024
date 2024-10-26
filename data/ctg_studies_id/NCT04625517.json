@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04625517",
+    "briefTitle": "Performance of Contrast-Enhanced Spectral Mammography to Assess Neoadjuvant Chemotherapy Response (CEDM)",
+    "officialTitle": "Performance of Contrast-Enhanced Spectral Mammography to Assess Neoadjuvant Chemotherapy Response (CEDM)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Sensitivity of Predicting pCR (Pathologic Complete Response) for CEDM",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Ipsilateral intact biopsy-proven breast cancer clinical stage T1-T4 (by imaging)\n* Available mammography and ultrasound imaging of the existing index cancer, with orthogonal measurements\n* Prior history of ipsilateral or contralateral breast cancer, presenting with a new primary or recurrent disease\n* Patients who were determined to be candidates for either neoadjuvant chemotherapy or neoadjuvant endocrine therapy by the treating physician\n* Women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry, for the duration of study participation, and for days following completion of study participation. Should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately.\n\nExclusion Criteria:\n\n* History of ipsilateral mastectomy\n* Women who already started neoadjuvant chemotherapy or endocrine therapy\n* Woman who may be pregnant or nursing an infant\n* Prior history of anaphylactic or anaphylactoid reaction to any contrast.\n* Prior allergy to iodine or iodinated contrast.\n* Impaired renal function measured by estimated glomerular filtration rate (eGFR) \\< 60 milliliters per minute.\n* Patients with known distant metastasis.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

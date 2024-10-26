@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03282097",
+    "briefTitle": "Decisions About Cancer Screening in Alzheimer's Disease",
+    "officialTitle": "Decisions About Cancer Screening in Alzheimer's Disease",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cancer, Breast, Alzheimer Disease",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 442,
+    "primaryOutcomeMeasure": "Decisional Conflict Scale",
+    "eligibilityCriteria": "Patient Inclusion Criteria:\n\n* Female and 75 years or older\n* At least one mammogram in the past five years\n* Primary care visit scheduled in the next 12 months\n* Diagnosis of Alzheimer's disease or related dementia as determined by ICD-10 code\n* Ability to provide informed consent or assent\n* Ability to communicate in English\n\nPatient Exclusion Criteria:\n\n* Permanent resident of a nursing facility\n* Had a mammogram in the past 6 months\n* Primary care visit scheduled is the first visit with the PCP\n* Made a decision to stop getting mammograms\n* History of Atypical Ductal Hyperplasia, lobular carcinoma in situ, ductal carcinoma in situ, or non-invasive breast cancer\n* Has mild cognitive impairment, serious mental illness such as bipolar or schizophrenia as determined by ICD-10 code\n\nCaregiver Inclusion Criteria:\n\n* 18 years or older\n* Primary family caregiver of the patient\\*\n* Must have a telephone\n* Ability to provide informed consent\n* Ability to communicate in English\n\nCaregiver Exclusion Criteria:\n\n* Caregiver is a non-family member who is not a legal Healthcare Power of Attorney\n* Less than a 7th grade education\\*\\*\n* Made a decision that the patient will stop getting mammograms\n* Has a diagnosis of AD or has a serious mental illness such as bipolar or schizophrenia as determined by ICD-10 code",
+    "sex": "FEMALE",
+    "minimumAge": "75 Years",
+    "stdAges": "OLDER_ADULT"
+}

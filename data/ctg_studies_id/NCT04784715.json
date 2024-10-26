@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04784715",
+    "briefTitle": "Trastuzumab Deruxtecan (T-DXd) With or Without Pertuzumab Versus Taxane, Trastuzumab and Pertuzumab in HER2-positive Metastatic Breast Cancer (DESTINY-Breast09)",
+    "officialTitle": "Phase III Study of Trastuzumab Deruxtecan (T-DXd) With or Without Pertuzumab Versus Taxane, Trastuzumab and Pertuzumab in HER2-positive, First-line Metastatic Breast Cancer (DESTINY-Breast09)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer; HER2-positive; Metastatic",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1157,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS) by Blinded Independent Central Review (BICR) assessment",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Patients must be \u226518 years of age\n* Pathologically documented breast cancer that:\n\n  1. is advanced or metastatic\n  2. is locally assessed and prospectively centrally confirmed as HER2-positive (IHC3+ or ISH+)\n  3. is documented by local testing as hormone receptor (HR)-positive or HR-negative disease in the metastatic setting\n* No prior chemotherapy or HER2-targeted therapy for advanced or metastatic breast cancer or only 1 previous line of endocrine therapy in the metastatic setting. Participants who have received chemotherapy or HER2-targeted therapy in the neo-adjuvant or adjuvant setting are eligible if \\> 6 months from treatment to metastatic diagnosis.\n* Has protocol-defined adequate organ and bone marrow function\n* ECOG performance status 0 or 1\n\nKey Exclusion Criteria:\n\n* Ineligible for any of the agents on the study.\n* Any substance abuse or other medical conditions that, in the investigator's opinion, may interfere with subject's participation or study results\n* Patients with spinal cord compression or clinically active central nervous system metastases. Participants with clinically inactive brain metastases or treated brain metastases that are no longer symptomatic may be included in the study.\n* Active or prior documented interstitial lung disease (ILD)/pneumonitis or suspected ILD/pneumonitis that cannot be ruled out by imaging at screening\n* Prior randomization or treatment in a previous trastuzumab deruxtecan study regardless of treatment arm assignment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

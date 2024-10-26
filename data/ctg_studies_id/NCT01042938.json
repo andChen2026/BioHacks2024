@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01042938",
+    "briefTitle": "Curcumin for the Prevention of Radiation-induced Dermatitis in Breast Cancer Patients",
+    "officialTitle": "Curcumin for the Prevention of Radiation-induced Dermatitis in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "Severity of Dermatitis in Radiation Treatment Site in Breast Cancer Patients",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female with a diagnosis of, non-inflammatory breast adenocarcinoma and be referred for post-operative radiotherapy without concurrent chemotherapy.\n* Participants must be at least 21 years of age.\n* Participants must not be pregnant.\n* Participants can be from any racial or ethnic origin.\n* Breast adenocarcinoma could have been treated by either lumpectomy or mastectomy with or without adjuvant or neoadjuvant chemotherapy or hormonal treatment.\n* Participants with in situ breast cancer are eligible.\n* Participants who are prescribed concurrent hormone treatment with radiation treatment are eligible.\n* Participants must be scheduled to receive five sessions of radiation therapy per week (1 session per day) for at least four weeks using standard (1.8-2.0 Gy per session)or Canadian (2.2-2.5 Gy per session)irradiation fractionation.\n* A time period of three weeks must elapse after chemotherapy and surgery before beginning the study.\n* The total dose prescribed to the whole breast should be 50 Gy or greater.\n* Participants must be able to understand English and able to complete assessment forms (all assessment forms are in English).\n* Participants must be able to swallow medication.\n* Topical skin agents, e.g., Aquaphor, Cetaphil, or other emollients, are allowed either PRN or prophylactically.\n* Participant must give informed consent.\n\nExclusion Criteria:\n\n* Patients with bilateral breast cancer are not eligible.\n* Patients who have had previous radiation therapy to the breast or chest are not eligible.\n* Patients who are prescribed chemotherapy concurrently with radiation treatment are not eligible.\n* Patients who will be receiving treatment with Herceptin (trastuzumab), anti-coagulants, or anti-human epidermal growth factor receptor (EGFR) drugs, e.g. Iressa (gefitinib), Erbitux (cetuximab, C225), concurrently with their radiation therapy are not eligible.\n* Patients cannot have had breast reconstructions, implants, and/or expanders.\n* Patients with known radiosensitivity syndromes (e.g., Ataxia-telangiectasia) are not eligible.\n* Patients with collagen vascular disease, vasculitis, unhealed surgical sites, or breast infections are not eligible.\n* Patients whose baseline blood tests meet the following criteria are not eligible: greater than or equal to Grade 2 change Hemoglobin (i.e., 25% decrease from baseline); greater than or equal to Grade 1 change in Platelets (i.e., less than 75,000/mm3); greater than or equal to Grade 2 change in PT and PTT(i.e., 1.5-2x upper level normal (ULN)); greater than or equal to Grade 1 change in AST, ALT (i.e., greater than 2.5x ULN); greater than or equal to Grade 1 change in Bilirubin (i.e., greater than 1.5x ULN); greater than or equal to Grade 1 change in Creatinine (i.e., greater than 2x ULN).",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

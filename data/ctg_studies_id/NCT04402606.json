@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04402606",
+    "briefTitle": "Study on Skin Toxicities Induced by Cancer Treatments",
+    "officialTitle": "DERMACLIC : Study on Skin Toxicities Induced by Cancer Treatments",
+    "overallStatus": "COMPLETED",
+    "conditions": "Solid Tumor, Adult, Breast Cancer, Lung Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 292,
+    "primaryOutcomeMeasure": "Estimate the rates of severe skin toxicities (grade 2) induced by cancer treatments, at 8 months after the start of treatment.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patient, male or female, aged 18 years and older, with a solid tumor breast or lung, localized, locally advanced or not, metastatic or not;\n2. Patient in medical oncology consultation requiring systemic anti-tumor therapy (chemotherapy, targeted therapy, hormone therapy, immunotherapy) in neo-adjuvant, adjuvant or metastatic;\n3. Treatment planned for a minimum period of 3 months (from the date of inclusion);\n4. Having a social security protection;\n5. Signed informed consent form of the study.\n\nExclusion Criteria:\n\n1. Patient treated for lymphoma, leukemia or inflammatory breast cancer ;\n2. Patient with a solid tumour which location is other than breast or lung;\n3. Patient with a tumor wound ;\n4. Patient with a general condition \\> 2 at baseline (ECOG classification) ;\n5. Patient receiving anti-tumor treatment with radiotherapy exclusively or associated with concomitant radiotherapy ;\n6. Patient unable to receive information about the study and to give consent ;\n7. Persons deprived of liberty or guardianship ;\n8. Impossible submission to study procedures for geographical or psychological reasons.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

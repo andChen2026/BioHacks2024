@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05787249",
+    "briefTitle": "Improving Utilization of Supplemental Breast MRI Screening for Women with Extremely Dense Breasts",
+    "officialTitle": "Improving Utilization of Supplemental Breast MRI Screening for Women with Extremely Dense Breasts",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 1600,
+    "primaryOutcomeMeasure": "Ordering and/or scheduling of supplemental breast MRI",
+    "eligibilityCriteria": "Patient participants:\n\nInclusion Criteria:\n\n* Women aged 40-74\n* Recent non-actionable mammogram of less than 6 months\n* Mammogram performed at Penn Center for Advanced Medicine, Penn Presbyterian Hospital, Pennsylvania Hospital, or Radnor\n* Valid mobile phone number\n\nExclusion Criteria:\n\n* Prior history of breast cancer\n* No breast MRI within the past 2 years\n* No prior actionable mammogram within 6 months\n* No recent or concurrent ultrasound\n\nProvider participants:\n\nInclusion Criteria:\n\n* Provider needs to have ordered the initial screening mammogram\n* Employed by Penn Health System and access to Penn Chart",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

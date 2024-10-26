@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01238029",
+    "briefTitle": "Dose Finding Study for Combination of Capecitabine, Lapatinib and Vinorelbine in Metastatic Breast Cancer",
+    "officialTitle": "Combinational Therapy of Capecitabine, Lapatinib and Vinorelbine for the Treatment of Patients With her2/Neu Positive, Relapsed or Metastatic Breast Carcinoma Following Treatment Failure With Trastuzumab",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer, HER2 Positive, First or Second Line Therapy, Failure or Contraindication of Trastuzumab Therapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 12,
+    "primaryOutcomeMeasure": "Identification of maximal tolerable Dose (MTD) of combination with Capecitabine and Lapatinib and Vinorelbine",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Written informed consent\n* Able to comply with the protocol\n* ECOG performance status 0-1\n* Adequate contraception\n* Confirmed Her2/neu-positive, adenocarcinoma of the breast\n* At least one measurable lesion according to RECIST 1.1 criteria\n* First or second chemotherapy after diagnosis of metastasis\n* Lapatinib treatment indicated (adjuvant trastuzumab treatment \\<12 months ago or progressive disease with trastuzumab treatment)\n* No signs and symptoms of CHF (chronic heart failure), LVEF (left ventricular ejection fraction) at study start at least 55%\n* Adequate hepatic and renal function value\n* Adequate hematologic function values\n\nExclusion Criteria:\n\n* Pregnant or lactating women\n* Concurrent participation in another clinical trial. Prior participation is allowed if the last study medication was administered more than 4 weeks prior to randomization\n* Asymptomatic with regards to tumor illness\n* Previous treatment with lapatinib, capecitabine or vinorelbine\n* Necessity of planned treatment with other chemotherapeutics oder anti-hormone therapy\n* Major surgical procedure, open biopsy or significant traumatic injury within 28 days prior to randomization, or anticipation of the need for major surgery during the course of the study\n* Evidence of cardiovascular disease, e.g. myocardial infection, unstable angina pectoris or arrhythmia\n* History of vascular or cardiovascular disease within the past 6 months\n* All illnesses that result in malabsorption of oral medication or inability to take oral medication\n* Concurrent treatment with anti-viral drugs based on sorivudine or with aminoglycosides\n* Concurrent treatment with any drug interfering with study medication, especially, those that induce CYP3A\n* Concurrent treatment with allopurinol\n* Other malignancies (except for basal cell carcinoma of the skin and cervical carcinoma in situ); patient can be included in the study if no recurrent disease has been observed for at least 5 years\n* Concurrent illnesses or other circumstances that could interfere with trial participation, efficacy or safety of the patient",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02024074",
+    "briefTitle": "Evaluation of Magnetic Resonance Imaging (MRI) vs Molecular Breast Imaging (Tc-MBI) in Breast Cancer Patients",
+    "officialTitle": "Performance of Tc99m Sestamibi Molecular Breast Imaging (Tc-MBI) Versus Magnetic Resonance Imaging in the Diagnosis of Breast Carcinoma: A Pilot Study",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "Cancer detection rates by Sestambi imaging",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nWomen Patients must be 18 years of age or older. Patients will have biopsy proven unilateral breast cancer with ipsilateral or contralateral suspicious lesions on contrast-enhanced breast MRI and be a candidate for additional tissue biopsy.\n\nPatients must be able to remain still for Tc-MBI scanning Patients must be able to provide written informed consent\n\nExclusion Criteria:\n\nMen, age less than 18, inability to remain still for Tc-MBI scanning, cannot provide written informed consent, known untreated bilateral breast cancer, evidence of distant metastasis disease (M=1), pregnancy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

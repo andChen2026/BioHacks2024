@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05231863",
+    "briefTitle": "Tyrosine Kinase Inhibitors (TKIs) in Trastuzumab Emtansine (T-DM1) Resistant HER2-positive Metastatic Breast Cancer: A Real-world Study",
+    "officialTitle": "Tyrosine Kinase Inhibitors (TKIs) Based Therapy in Trastuzumab Emtansine (T-DM1) Resistant HER2-positive Metastatic Breast Cancer: A Real-world Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female and 18-70 years old\n* Metastatic or locally recurrent HER2-positive breast cancer\n* Patients received TKIs-based therapy after T-DM1 failure in treatment for metastasis\n* Complete and accurate medical data\n\nExclusion Criteria:\n\n- Incomplete medical data",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

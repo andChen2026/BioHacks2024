@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00451555",
+    "briefTitle": "Enzastaurin Plus Fulvestrant vs. Placebo Plus Fulvestrant in Breast Cancer",
+    "officialTitle": "A Randomized, Double-Blind, Phase II Trial of Fulvestrant Plus Enzastaurin Versus Fulvestrant Plus Placebo in Aromatase Inhibitor-Resistant Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 156,
+    "primaryOutcomeMeasure": "Percentage of Participants Who Achieved a Best Response of Complete Response, Partial Response, and Stable Disease (CR+PR+SD) (Clinical Benefit Rate)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female participants with a histological-documented diagnosis of locally advanced or metastatic breast cancer. The primary or metastatic tumor must be estrogen response (ER) and/or parathyroid hormone receptor (PtR) positive.\n\nNote: Hormone receptor positivity is defined as ER or PtR greater than 10 fmol/mg by biochemical assay or 10% positive cells by immunohistochemistry\n\n* Participants are resistant to aromatase inhibitors (AI) therapy\n* Females with postmenopausal status\n* Previous radiation therapy is allowed, but should have been limited\n* Measurable or non-measurable disease\n* Have a performance status of 0, 1, or 2 on the Eastern Cooperative Oncology Group (ECOG) scale\n* Have adequate organ function\n* Have an estimated life expectancy of at least 24 weeks\n* Must sign an informed consent document\n\nExclusion Criteria:\n\n* Have had prior treatment with fulvestrant or enzastaurin\n* Are receiving concurrent administration of any other antitumor therapy, with the exception of gonadotropin-releasing hormone (GnRH) antagonists.\n* Have received treatment within the last 4 weeks with a drug that has not received regulatory approval for any indication at the time of study entry\n* Have received supplemental estrogen or progesterone within 4 weeks prior to study entry\n* Are hormone estrogen receptor (HER2)-positive\n* Are unable to discontinue use of anticoagulants\n* Have hypercalcemia\n* Have a second primary malignancy that is clinically detectable at the time of consideration for study enrollment\n* Have documented central nervous system (CNS) metastases, symptomatic pulmonary lymphangitis, or involvement of more than 1/3 of the liver\n* Have a serious concomitant systemic disorder\n* Have a serious cardiac condition\n* Are unwilling or unable to discontinue use of carbamazepine, phenobarbital, or phenytoin at least 14 days prior to study therapy\n* Are unable to swallow tablets.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

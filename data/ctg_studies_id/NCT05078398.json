@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05078398",
+    "briefTitle": "Postoperative Opt-In Narcotics Treatment in Breast",
+    "officialTitle": "Postoperative Opt-In Narcotics Treatment in Breast",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Breast Surgery, Opioid Use",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 240,
+    "primaryOutcomeMeasure": "Daily peak pain scores on an 11-point numeric rating scale [0-10, with 0 indicating no pain and 10 indicating worst pain possible]",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Undergoing outpatient breast surgery (less than 24 hour stay)\n* Understands written English\n\nExclusion Criteria:\n\n* Current ongoing opioid use\n* Increased complexity of surgery requiring longer hospital stay",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

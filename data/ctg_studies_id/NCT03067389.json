@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03067389",
+    "briefTitle": "Combined Breast Cancer Risk Study",
+    "officialTitle": "Evaluation of a Combined Breast Cancer Risk Derived From a Polygenic Risk Score and the Tyrer-Cuzick Model",
+    "overallStatus": "COMPLETED",
+    "conditions": "Hereditary Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 553,
+    "primaryOutcomeMeasure": "To demonstrate that a combined breast cancer risk derived from a polygenic risk score and a breast cancer risk assessment model is a better predictor of breast cancer than the risk assessment model alone",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nWomen without breast cancer:\n\n* 18 to 84 years of age\n* Western/Northern European, Central/Eastern European, or Ashkenazi ancestry\n* No history of invasive breast cancer\n\nWomen with a history of breast cancer:\n\n* 18 to 84 years of age\n* Western/Northern European, Central/Eastern European, or Ashkenazi ancestry\n* Pathologically confirmed invasive breast cancer diagnosed within the past 12 months\n\nExclusion Criteria:\n\n* Unwilling to provide written informed consent\n* Women with history of ductal carcinoma in situ (DCIS).\n* Patient has had a prior breast biopsy, exclusive of a breast biopsy diagnostic of breast cancer, that showed either hyperplasia, atypical hyperplasia, lobular carcinoma in situ (LCIS), or the specific histologic result is unknown to the patient",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

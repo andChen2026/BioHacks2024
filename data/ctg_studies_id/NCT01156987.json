@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01156987",
+    "briefTitle": "Improved Breast MRI With SWIFT",
+    "officialTitle": "Improved Breast Dynamic Contrast Enhanced-magnetic Resonance Imaging (DCE-MRI) With Sweep Imaging With Fourier Transform (SWIFT)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 31,
+    "primaryOutcomeMeasure": "Lesions",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with a clinically or mammographically identified suspicious breast mass that is likely to be biopsied or surgically removed.\n\nExclusion Criteria:\n\n* Pregnancy\n* Ferromagnetic implants\n* History of shotgun wounds and shrapnel\n* Obesity (\\>250 pounds)\n* Cardiac pacemaker\n* Incompatible implanted medical device\n* Severe claustrophobia\n* Major surgeries with potential of ferromagnetic implants\n* Severe asthma and allergies\n* i-STAT system, a handheld blood analyzer (I-STAT) creatinine test, estimated glomerular filtration rate (GFR) \\<30\n* Metallic object (greater than 2 cm in length) in the breast\n* Metallic ink tatoo within 20 cm of the breast (approximately 8 inches)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

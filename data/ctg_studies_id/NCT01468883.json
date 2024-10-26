@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01468883",
+    "briefTitle": "The Treatment of Stage I and II Carcinoma of the Breast With Mastectomy and Axillary Dissection Versus Excisional Biopsy, Axillary Dissection, and Definitive Irradiation",
+    "officialTitle": "The Treatment of Stage I and II Carcinoma of the Breast With Mastectomy and Axillary Dissection vs. Excisional Biopsy Axillary Dissection, and Definitive Irradiation",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 256,
+    "primaryOutcomeMeasure": "Results of excisional biopsy followed by radiation therapy versus modified radiacal mastectomy",
+    "eligibilityCriteria": "* INCLUSION CRITERIA:\n\nFemale patients of any age with a dominant breast mass meeting the following requirements are eligible for this protocol:\n\nOn clinical evaluation the tumor must be confined to the breast and axillary lymph nodes (stage I and II).\n\nBiopsy of the tumor must be classified as a primary breast neoplasm of epithelial origin.\n\nPatients must be geographically accessible for follow-up and willing to return for the follow-up at the NCI.\n\nPatient must be mentally competent to understand and give informed consent for the protocol.\n\nEXCLUSION CRITERIA:\n\nPatients will be excluded from this protocol for the following reasons:\n\nAdvanced local disease or distant metastases (stage III and IV);\n\nInflammatory cancer;\n\nChronic diseases such as heart, lung, liver, kidney, blood, or metabolic disorders which may render the patient a poor operative risk;\n\nHistory of another cancer other than skin cancer (non-melanoma);\n\nConcurrent pregnancy or lactation;\n\nNon-palpable lesions manifested only by nipple discharge or skin rash (Paget's disease);\n\nPrevious therapy to the breast cancer other than excisional biopsy;\n\nMultiple masses or multiple suspicious areas on mammogram unless all but one are proven histologically benign; and\n\nBilateral breast carcinoma, either invasive or in-situ.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02688725",
+    "briefTitle": "Post-Mastectomy Surveillance to Detect Recurrence in Breast Cancer Patients",
+    "officialTitle": "Post-Mastectomy Surveillance to Detect Locally Recurrent Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "To determine the number of breast cancer recurrences following mastectomy detected by surgeon-performed ultrasound.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* must be \u2265 18 years of age.\n* histologic diagnosis of invasive (ductal or lobular) or in situ (ductal) breast cancer (American Joint Committee on Cancer, 7th edition stage 0, I, II, III, or IV) -previously treated with mastectomy\n\nExclusion Criteria:\n\n* pregnant or breast feeding.\n* cannot tolerate lying supine for breast ultrasound examination.\n* mastectomy for lobular carcinoma in situ, atypical ductal hyperplasia, or extensive microcalcifications in the absence of concurrent DCIS or invasive breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

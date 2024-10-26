@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05728632",
+    "briefTitle": "Cardioprotective Effects of Nebivolol Versus Placebo in Patients Undergoing Chemotherapy With Anthracyclines",
+    "officialTitle": "Cardioprotective Effects of Nebivolol Versus Placebo in Patients Undergoing Chemotherapy With Anthracyclines (CONTROL Trial)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Lymphoma, Large B-Cell, Diffuse, Cardiotoxicity, Left Ventricular Dysfunction, Chemotherapy Effect",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Left Ventricular Ejection Fraction reduction assessed by Cardiac Magnetic Resonance",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u226518 years\n* Established histologic diagnosis of breast cancer or diffuse large B-cell lymphoma\n* Planned chemotherapy with anthracyclines\n* left ventricular ejection fraction \u226555% (assessed by echocardiography)\n* Ability to provide informed consent\n\nExclusion Criteria:\n\n* Known intolerance/contraindications to betablocker therapy\n* History of coronary artery disease\n* History of cardiomyopathy\n* History of heart failure\n* Ongoing treatment with betablockers for other indications\n* Heart rate at baseline \\<60 beats per minute\n* Arterial blood pressure at baseline \\<100/60 mmHg\n* Contraindications to undergo cardiac magnetic resonance (e.g., non-compatible pacemakers or metallic prosthesis)\n* Pregnancy or lactation\n* Current participation to another study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

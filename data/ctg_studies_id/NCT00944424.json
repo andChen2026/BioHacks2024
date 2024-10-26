@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00944424",
+    "briefTitle": "Phase III Trial of High Dose vs. Standard Dose Vit D2 With Docetaxel in Met Breast ca",
+    "officialTitle": "GORG - 002 Randomized Phase III Trial to Determine the Effectiveness of High Dose Versus Standard Dose of Vitamin D2 (Ergocalciferol) Given With Docetaxel in Patients With Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 260,
+    "primaryOutcomeMeasure": "Time to progression is from the start of Docetaxel to disease progression. Patients who have not progressed at the time of study completion or who are lost to follow-up are censored at the last Vitamin D administration date.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven metastatic adenocarcinoma of the breast.\n* Gender: female.\n* Age \u226518 years.\n* ECOG performance status \u2264 2.(see appendix I)\n* 25 (OH) Vitamin D level \u2264 100nmol/L (40ng/L).\n* No more than 1 prior chemotherapy regimen not including Docetaxel or Paclitaxel for metastatic breast cancer.\n* Patients progressed on Doxorubicin or epirubicin as first line for metastatic breast cancer is eligible.\n* Concurrent bisphosphonate therapy allowed.\n* Life expectancy more than 6 months\n* At least 12 months since prior adjuvant or neo-adjuvant chemotherapy including Taxanes regimens.\n* Adequate hematologic, hepatic and renal function.\n* Written informed consent.\n\nExclusion Criteria:\n\n* Pregnant or lactating women.\n* Male breast cancer.\n* Women of childbearing potential unless surgically sterile or using adequate measures of contraception.\n* Metastatic inflammatory breast cancer.\n* CNS metastasis.\n* Leptomeningeal carcinomatosis.\n* Malignant hypercalcemia.\n* History of kidney stones.\n* History of active primary hyperparathyroidism.\n* Normal 25 (OH) Vitamin D level \u2265100 nmol/L or \u2265 40 ng/L.\n* Previous or concomitant malignancy of any type, except adequately treated basal cell carcinoma of the skin or in situ cervix cancer.\n* Patient on any anti-Psychotic medications or Steroid therapy.\n* History of malabsorption syndrome (pancreatic insufficiency, celiac disease and tropical sprue).\n* Any of the following abnormal baseline hematological values:\n\n  * ANC \\< 1.0 x109/L, or platelets \\< 100.000 x 109/L.\n* Any of the following abnormal laboratory tests: total serum bilirubin \\>2.00 x ULN (upper limit of normal), AST, ALT \\> 2.5 x ULN or ALP \\>2.50 x ULN (upper limit of normal).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

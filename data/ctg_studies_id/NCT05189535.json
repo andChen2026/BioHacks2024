@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05189535",
+    "briefTitle": "\"Prevention of Paclitaxel-Induced Peripheral Neuropathy in Breast Cancer Patients\"",
+    "officialTitle": "\"Evaluation of the Effect of Pentoxifylline on the Prevention of Paclitaxel-Induced Peripheral Neuropathy in Breast Cancer Patients\"",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female, Peripheral Neuropathy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 66,
+    "primaryOutcomeMeasure": "Incidence of Paclitaxel induced-peripheral neuropathy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients (18-80 years old).\n* Female patients.\n* Pathologically proved breast cancer.\n* Breast cancer patients who will receive adjuvant and neoadjuvant weekly paclitaxel for 12 weeks.\n* Eastern Cooperative Oncology Group (ECOG) performance \u2264 2\n* Adequate bone marrow function.\n* Adequate liver and kidney function.\n\nExclusion Criteria:\n\n* Patients with preexisting clinical neuropathy.\n* Patients with diabetes mellitus.\n* Metastatic breast cancer.\n* Patients receiving medications that ameliorate neuropathy like; antidepressants, anticonvulsants, opioids, adjuvant or topical analgesics.\n* Patients treated with medications that increase the risk of neuropathy.\n* Hypersensitivity to pentoxifylline or xanthine derivatives.\n* Patients with recent (within 1 month) surgery, myocardial infarction (MI), intracranial or retinal bleeding or active peptic ulcer.\n* Patients at high risk for bleeding or taking medications that increase risk of bleeding.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

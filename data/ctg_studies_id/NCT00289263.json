@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00289263",
+    "briefTitle": "Maintenance Chemotherapy in Metastatic Breast Cancer",
+    "officialTitle": "Maintenance Paclitaxel Vs Control After Anthracycline/Paclitaxel Combined First-Line Chemotherapy in Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 524,
+    "primaryOutcomeMeasure": "Time to disease progression with maintenance paclitaxel versus observation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent.\n* Patients with metastatic breast cancer in response or stable disease after six to eight courses of first line induction chemotherapy treatment\n* Measurable and/or evaluable disease\n* Performance status ECOG 0, 1, 2.\n* Normal cardiac function, confirmed by left ventricular ejection fraction (LVEF).\n\nExclusion Criteria:\n\n* Presence of peripheral neuropathy \\> grade 2 by NCI Common Toxicity Criteria (NCI-CTC) following induction chemotherapy\n* Adjuvant taxane-based therapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

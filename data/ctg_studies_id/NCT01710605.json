@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01710605",
+    "briefTitle": "Medico-economic Interest of Taking Into Account Circulating Tumor Cells (CTC) to Determine the Kind of First Line Treatment for Metastatic, Hormone-receptors Positive, Breast Cancers",
+    "officialTitle": "Randomized Trial to Evaluate the Medico-economic Interest of Taking Into Account Circulating Tumor Cells (CTC) to Determine the Kind of First Line Treatment for Metastatic, Hormone-receptors Positive, Breast Cancers.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Ductal Infiltrating Metastatic Breast Cancer, Hormone-receptors Positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 800,
+    "primaryOutcomeMeasure": "Progression free survival evaluation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with metastatic ductal adenocarcinoma breast cancer\n* 18 years old or more\n* Hormone receptors positive breast cancer (ER+ and/or PR+) on the last pathological analysis available.\n* Acceptable patient's clinical situation compatible with chemotherapy or hormonotherapy administration\n* PS \\<4\n* Life expectancy \\> 3 months\n* Evidence of measurable or evaluable disease (RECIST 1.1 criteria)in the 28 days before selection\n* Information of the patient and signature of the informed consent form\n\nExclusion Criteria:\n\n* Patient treated by chemotherapy or hormonotherapy for their metastatic disease (treatment failure under adjuvant hormonotherapy are accepted)\n* Her2 positive breast cancer\n* History of other stage II or III cancer in the 5 years. History of other metastatic cancer (whatever the time between the two cancers).\n* Persons deprived of their freedom or under guardianship.\n* Women unable to comply with the medical follow-up of the study for geographical, social or mental reasons.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

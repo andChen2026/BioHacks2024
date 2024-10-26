@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00095888",
+    "briefTitle": "3-AP and Gemcitabine in Treating Patients With Refractory Metastatic Breast Cancer",
+    "officialTitle": "A Phase II Trial Of Gemcitabine And Triapine In Refractory Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Male Breast Cancer, Recurrent Breast Cancer, Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 68,
+    "primaryOutcomeMeasure": "Confirmed response (complete or partial response)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed breast cancer\n\n  * Refractory metastatic disease\n* Measurable disease\n\n  * At least 1 unidimensionally measurable lesion \u2265 20 mm by conventional techniques OR \u2265 10 mm by spiral CT scan\n* Must have received 1, and only 1, prior chemotherapy regimen for metastatic disease\n* Patients overexpressing HER2/neu antigen must have received a prior trastuzumab (Herceptin\u00ae)-containing regimen\n* No known brain metastases\n* Hormone receptor status:\n\n  * Not specified\n* Male or female\n* Performance status - ECOG 0-2\n* At least 12 weeks\n* WBC \u2265 3,000/mm\\^3\n* Absolute neutrophil count \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Bilirubin normal\n* AST and ALT \u2264 2.5 times upper limit of normal\n* Creatinine normal\n* Creatinine clearance \u2265 60 mL/min\n* No uncontrolled congestive heart failure\n* No unstable angina pectoris\n* No cardiac arrhythmia\n* No severe pulmonary disease requiring oxygen\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No glucose-6-phosphate dehydrogenase (G6PD) deficiency\n* No other uncontrolled illness\n* No active or ongoing infection\n* No history of allergic reaction attributed to compounds of similar chemical or biological composition to 3-AP (Triapine\u00ae) or other study agents\n* No psychiatric illness or social situation that would preclude study compliance\n* No other malignancy within the past 5 years\n* See Disease Characteristics\n* No concurrent immunotherapy\n* No concurrent routine colony-stimulating factors (e.g., filgrastim \\[G-CSF\\] or sargramostim \\[GM-CSF\\])\n* See Disease Characteristics\n* More than 4 weeks since prior chemotherapy (6 weeks for nitrosoureas or mitomycin)\n* No prior gemcitabine for metastatic disease\n* No other concurrent chemotherapy\n* More than 4 weeks since prior hormonal therapy\n* More than 4 weeks since prior radiotherapy\n* No concurrent radiotherapy\n* Recovered from prior therapy\n* No concurrent antiretroviral therapy for HIV-positive patients\n* No other concurrent investigational therapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

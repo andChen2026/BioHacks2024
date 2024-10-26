@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00337064",
+    "briefTitle": "Partial Breast Radiation to the Lumpectomy Cavity With IMRT in Elderly Women",
+    "officialTitle": "Phase I/II Trial to Evaluate Partial Breast Radiation to the Region of the Lumpectomy Cavity Using Intensity Modulated Radiation in Elderly Women With Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Stage I Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 75,
+    "primaryOutcomeMeasure": "Acute sdie effects",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage I ductal breast cancer,\n* Status post lumpectomy/partial mastectomy and axillary dissection or sentinel lymph node biopsy\n* Age over 65\n* Pathologically negative margins\n* No lymphovascular invasion\n* Able to begin radiation treatment 3-8 weeks post surgery, unless receiving chemotherapy first\n* Lumpectomy cavity is visible in CT\n* Patient is female\n\nExclusion Criteria:\n\n* Lymphovascular invasion\n* Positive nodes or tumor size greater than 2 cm\n* Positive margins\n* Age less than 65\n* Patient is male",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

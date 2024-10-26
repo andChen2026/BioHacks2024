@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01303679",
+    "briefTitle": "1st Line Treatment of Bevacizumab-Taxane vs Bevacizumab-Exemestane in Metastatic Breast Cancer",
+    "officialTitle": "Phase III Randomized Multicenter Trial Comparing Continued Maintenance Therapy With the Bevacizumab + Taxane Versus Bevacizumab + Substituting Exemestane in Patients With Metastatic Breast Cancer or Locally Advanced With Estrogen Receptor Positive and Having at Least a Stable Disease After 16 to 18 Weeks of Treatment With Bevacizumab + Taxane.",
+    "overallStatus": "TERMINATED",
+    "conditions": "First Line Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 117,
+    "primaryOutcomeMeasure": "Primary free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18 ans.\n* Metastatic breast cancer or locally advanced\n* RE+, HER2-\n* Patient receiving paclitaxel-bevacizumab first line chemotherapy\n\nExclusion Criteria:\n\n* Previous treatment by exemestane (both in adjuvant or metastatic treatment).\n* 1st line of chemotherapy different thaan paclitaxel-bevacizumab.\n* Treatment by paclitaxel-bevacizumab \\> 18 weeks.\n* HER2 positifs et/ou r\u00e9cepteurs aux oestrog\u00e8nes n\u00e9gatifs.\n* Previous thrombosis event within the 6 months before inclusion .\n* Previous significant surgery within the 28 days before treatment start\n* Previuous coagulopathy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

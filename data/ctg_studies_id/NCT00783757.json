@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00783757",
+    "briefTitle": "TOBI to Monitor Response to Neoadjuvant Therapy in Breast Cancer",
+    "officialTitle": "Functional Metabolic Near-infrared Tomographic Optical Breast Imaging (TOBI) to Monitor Response to Neoadjuvant Therapy in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DEVICE_FEASIBILITY",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "To explore the feasibility of measuring optically derived parameters in the clinical setting.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult female patients presenting to the MGH Cancer Center Gillette Center for breast cancer neoadjuvant therapy\n* Subject who have had or will have a clinically indicated pre-treatment breast MRI\n\nExclusion Criteria:\n\n* Younger than 18 years of age\n* Open wounds on breast\n* Breast implants, because they may interfere with readings\n* Subjects who will be receiving preoperative therapy for \\<28 days\n* Breast surgery or biopsy \\< 10 days prior to optical imaging scan\n* Medical or psychiatric or other medical condition that the principal investigator believes may result in inability to complete the study\n* Bilateral breast cancers or a history of contralateral breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

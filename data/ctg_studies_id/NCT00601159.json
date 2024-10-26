@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00601159",
+    "briefTitle": "Gemcitabine and Cisplatin as First Line Combination Therapy in Patients With Triple-negative MBC",
+    "officialTitle": "Phase \u2161 Study of Gemcitabine and Cisplatin as First Line Combination Therapy in Patients With Triple-negative MBC",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 70,
+    "primaryOutcomeMeasure": "PFS (progression free survival)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Give written informed consent prior to study, with understanding that the patient has the right to withdraw from the study at any time without prejudice\n* Be female and \u226518 and \u226475 years of age\n* Be ambulatory and have ECOG performance stastus of \u22641\n* Have histological confirmed breast cancer,and the speciman confirmed ER negative,PR negatiev, and HER-2 negative by immunochemistry technich of Fudan cancer hospital.\n* Locally advanced or metastastic breast cancer who didn't receive first-line chemotherapy. No matter whether the patient has received anthracyclin or taxane treatment as neo-adjuvant or adjuvant treatment.\n* Have at least one target lesion according to the RECIST criteria.\n\nExclusion criteria:\n\n* Preganant or lactating women\n* Advaced patient has received one or more chemotherapies\n* Chemotherapy within four weeks preceding treatment start\n* ECOG \u2265 2\n* Radiotherapy to the axial skeleton within the 4 weeks preceding study treatment start or insufficient recovery from the effects of prior radiotherapy\n* Participation in any investigational drug study within 4 weeks preceeding treatment start\n* Evidence of CNS metastasis\n* History of another malignacy within the last five years except cured basal cell carcinoma of skin and carcinoma in-situ of uterine cervix or a contralateral breast cancer\n* Abnormal laboratory values: hemoglobin \\< 8. 0g/dl, neutrophil\\< 1.5\u00d7109/L, platelet\\< 100\u00d7109/L.\n* serum creatine \\> upper limit of normal (ULN)\n* serum bilirubin \\> ULN\n* ALT and AST \\>5\u00d7ULN\n* AKP \\>5\u00d7ULN\n* Serious uncontrolled intercurrence infection\n* Life expectancy of less than 3 months",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02688166",
+    "briefTitle": "Cardiac MRI Biomarker Testing (GCC 1618)",
+    "officialTitle": "Cardiac Magnetic Resonance Imaging and Biomarker Testing for Evaluating Cardiac Injury Resulting From Radiation Therapy in Cancer: A Pilot Study",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Lung Cancer (Non-Small Cell), Thoracic Cancer, Thymic Cancer, Mesothelioma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Evaluate for evidence of changes in cardiac function measured by cardiac MRI prior to and following external beam radiotherapy who are receiving moderate doses of radiation to the heart.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer patients who are undergoing internal mammary lymph node radiation which is the investigators institutional policy for patients with axillary lymph node involvement\n* Clinical AJCC (AJCC, 7th ed.) II, IIIA or IIIB with non-operable disease or those who refuse surgery who are recommended concurrent chemoradiation. Patients who present with N2 or N3 disease and an undetectable NSCLC primary tumor are eligible.\n* Any lung cancer, thymic cancer or mesothelioma patient getting either chemoradiation or radiation alone wherein heart gets radiation exposure\n* Patients who have received systemic treatment (up to 4 cycles of induction chemotherapy, or up to 6 months of targeted therapy) and are rendered candidate for concurrent chemoradiation are also eligible\n* Patients with recurrent disease overlapping or in close proximity to heart getting hypofractionated or conventionally fractionated proton therapy alone.\n* Intensity modulated radiotherapy, 3-D conformal radiotherapy, electron radiotherapy, and proton radiotherapy will be permitted.\n* Patients who develop local or nodal recurrence after surgery and rendered candidate for definitive concurrent chemoradiation are also eligible.\n* The patient must give protocol-specific consent on an IRB approved consent form prior to completion of protocol specific testing/procedures.\n* 18 years of age or older.\n\nExclusion Criteria:\n\n* Pregnant/breast feeding patients or those not willing to undertake contraception if of child-producing potential while on study\n* Patients with Stage IV disease\n* Patients with contraindications to MRI examination (e.g. gadolinium allergies/reactions, metallic implants, incompatible implanted electronic/cardiac devices, over scanner weight tolerance etc.)\n* Patients with hepatorenal syndrome\n* Patients with Chronic Kidney Disease defined as eGFR \\<30 ml/min\n* Patients unable to lie supine for 30 minutes for MRI examination\n* Patients having undergone prior radiation therapy to the chest",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

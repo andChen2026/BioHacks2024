@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00382018",
+    "briefTitle": "S0500 Treatment Decision Making Based on Blood Levels of Tumor Cells for Metastatic Breast Cancer Treated With Chemo",
+    "officialTitle": "A Randomized Phase III Trial to Test the Strategy of Changing Therapy Versus Maintaining Therapy for Metastatic Breast Cancer Patients Who Have Elevated Circulating Tumor Cell Levels at First Follow-Up Assessment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 624,
+    "primaryOutcomeMeasure": "Overall Survival",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer\n\n  * Clinical evidence of metastatic disease (stage IV disease)\n  * Newly metastatic disease OR progressive metastatic disease while on hormonal therapy\n* Meets 1 of the following criteria:\n\n  * Measurable disease\n  * Bone-only disease\\* NOTE: \\*Patients with nonmeasurable disease that does not include bone are not eligible\n* HER-2 status determined by immunohistochemistry (IHC) or fluorescent in situ hybridization (FISH) assay\n\n  * HER-2 positivity is defined as IHC 3+ or FISH+\n  * If IHC is indeterminate (2+), FISH must be performed to classify disease\n* Planning to undergo first-line chemotherapy for metastatic disease\n* Patients with brain metastases must have stable disease for \\> 90 days after completion of prior radiotherapy to the brain\n* No leptomeningeal disease\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Menopausal status not specified\n* Zubrod performance status 0-2\n* Not pregnant or nursing\n* Negative pregnancy test\n* No other malignancy within the past 5 years except adequately treated basal cell or squamous cell skin cancer or stage I or II cancer currently in complete remission\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* Prior hormonal therapy, bisphosphonate therapy, trastuzumab (Herceptin\u00ae), and/or bevacizumab for metastatic disease allowed\n\n  * Any number of exogenous hormonal therapies for metastatic disease and/or as adjuvant therapy allowed\n* At least 1 year since prior adjuvant chemotherapy\n* At least 2 weeks since prior minor surgery and recovered\n* At least 4 weeks since prior major surgery and recovered\n* No prior chemotherapy for metastatic disease\n* Concurrent hormonal therapy and/or bisphosphonate therapy allowed\n* Concurrent trastuzumab and/or bevacizumab allowed",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

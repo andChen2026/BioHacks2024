@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03217539",
+    "briefTitle": "The Swedish Two-County Trial of Mammography Screening",
+    "officialTitle": "The Two-County Swedish Mammography Screening Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 133065,
+    "primaryOutcomeMeasure": "Breast cancer death",
+    "eligibilityCriteria": "Inclusion criteria\n\n* Female\n* Aged 40-74\n* No history of breast cancer\n\nExclusion criteria\n\n\u2022 Breast cancer diagnosis prior to randomization",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

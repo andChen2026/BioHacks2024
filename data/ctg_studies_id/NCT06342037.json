@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06342037",
+    "briefTitle": "NOvel Immunotherapy Strategies for Advanced Triple Negative Breast Cancer (TNBC) Patients: TONIC-3 Trial",
+    "officialTitle": "NOvel Immunotherapy Strategies for Advanced Triple Negative Breast Cancer (TNBC) Patients: TONIC-3 Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "PFS-12",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Metastatic or incurable locally advanced triple negative breast cancer with confirmation of Estrogen receptor (ER) and Human Epidermal growth factor Receptor 2 (HER2) negativity (ER \\<10%, HER2 IHC 0, 1+ or 2+ with no amplification) on a histological biopsy of a metastatic lesion\n* Patients with PD-L1 negative disease determined using the Combined Positivity Score (CPS\\<10) (Dako 22C3 IHC) OR previously treated with anti-PD(L)1 in the (neo)adjuvant or metastatic setting (irrespective of PD-L1 status).\n* Metastatic lesion accessible for histological biopsy\n* 18 years or older\n* World Health Organisation (WHO) performance status of 0 or 1\n* Maximum of three lines of chemotherapy, including antibody-drug conjugates and Poly-ADP Ribose Polymerase (PARP)-inhibitors, for metastatic disease and with evidence of progression of disease\n* Measurable or evaluable disease according to RECIST1.1\n* Disease Free Interval (defined as time between first diagnosis or locoregional recurrence and first metastasis) longer than 1 year. This does not apply to patients with de novo metastatic disease or patients who did not receive (neo)adjuvant chemotherapy.\n* Adequate bone marrow, kidney and liver function\n\nExclusion Criteria:\n\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris\n* Symptomatic brain metastases (subjects with asymptomatic brain metastases are eligible if these are free of progression for at least 4 weeks)\n* History of leptomeningeal disease localization\n* History of having received other anticancer therapies within 2 weeks of start of the study drug\n* History of severe allergic anaphylactic reactions to chimeric or humanized antibodies or fusion proteins\n* Known hypersensitivy to Chinese hamster ovary cell products or to any component of the atezolizumab or tiragolumab formulation\n* History of immunodeficiency, autoimmune disease, conditions requiring immunosuppression (\\>10 mg daily prednisone equivalents) or chronic infections.\n* Prior treatment with an anti-CTLA4 or anti-TIGIT antibody.\n* Administration of live vaccine within 30 days of planned start of study therapy.\n* Active other cancer\n* Positive test for hepatitis B, hepatitis C, HIV and/or Epstein Barr virus (EBV)\n* History of uncontrolled serious medical or psychiatric illness\n* Current pregnancy pregnancy or breastfeeding.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

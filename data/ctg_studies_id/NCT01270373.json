@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01270373",
+    "briefTitle": "NeoSAMBA: Neoadjuvant: Does the Sequence of Anthracycline and Taxane Matters: Before or After?",
+    "officialTitle": "Randomized Phase II Trial of the Sequences of Anthracyline and Taxane in Locally Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 112,
+    "primaryOutcomeMeasure": "Pathological complete response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Stage IIB to IIIB HER-2 negative breast cancer\n2. ECOG performance status \u2264 2\n3. Neuropathy grade \\<1 by the Common Terminology Criteria for Adverse Events version 3.0 (CTCAE v 3.0)\n4. Adequate hematologic function with:\n\n   * Absolute neutrophil count (ANC) \\>1500/\u03bcL\n   * Platelets \u2265100,000/\u03bcL\n   * Hemoglobin \u2265 9 g/dL\n5. Adequate hepatic and renal function with:\n\n   * Serum bilirubin \u2264 1.5 x the institutional upper limit of normal (ULN)\n   * Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) \u22642.5 x institutional ULN\n   * Alkaline phosphatase \u22642.5 x institutional ULN\n   * Serum creatinine \u22641.5 x ULN or calculated creatinine clearance \u2265 50 mL/min\n6. Adequate cardiac function\n\n   * Left ventricular ejection fraction (LVEF) within institutional normal range\n7. Knowledge of the investigational nature of the study and ability to provide consent for study participation\n\nExclusion criteria\n\n1. Pregnancy\n2. Bilateral, synchronous breast cancer\n3. Previous diagnosis of breast or other cancer\n4. Any other disease(s), psychiatric condition, metabolic dysfunction, that contraindicates the use of study drugs or that would make the patient inappropriate for this study",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

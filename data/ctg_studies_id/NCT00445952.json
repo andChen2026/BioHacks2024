@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00445952",
+    "briefTitle": "Natural History Study of Fungal Infections of the Blood in Patients With Cancer or in Patients Who Have Undergone a Stem Cell Transplant",
+    "officialTitle": "Fungemia Survey in Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 304,
+    "primaryOutcomeMeasure": "Relative incidence of fungemia",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Group A:\n\n  * Meets any of the following criteria:\n\n    * Diagnosis of hematological malignancy including, but not limited to, any of the following:\n\n      * Acute lymphoblastic leukemia\n      * Acute myeloid leukemia\n      * Myelodysplastic syndromes\n      * Chronic lymphocytic leukemia\n    * Diagnosis of solid tumor, including, but not limited to, any of the following:\n\n      * Breast cancer (hormone receptor status not specified)\n      * Lung cancer\n      * Colon cancer\n    * Recipient of a hematopoietic stem cell transplantation, including, but not limited to, any of the following:\n\n      * Allogeneic or autologous bone marrow transplantation\n      * Peripheral blood stem cell transplantation\n  * Admitted to a participating hospital ward (defined as \u2265 1 overnight stay)\n* Group B:\n\n  * Meets the same criteria as in group A\n  * Positive blood culture for a fungus\n\nPATIENT CHARACTERISTICS:\n\n* Male or female\n* Menopausal status not specified\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior participation in this study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

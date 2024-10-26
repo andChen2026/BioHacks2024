@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02566109",
+    "briefTitle": "Community Hospital Identification of High CV Risk Patients During Cancer Treatment",
+    "officialTitle": "Community Hospital Identification of High CV Risk Patients During Cancer Treatment (CHI)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Left Ventricular Ejection Fraction (LVEF) at Baseline, 2 Month Using Fast MRI, and 6 Months",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Newly diagnosed Stage I-III breast cancer (including inflammatory and newly diagnosed recurrent breast cancer) or lymphoma with a \\> 2 year life expectancy\n* Scheduled to receive chemotherapy with an Anthracycline (doxorubicin or epirubicin)\n* = or \\> 21 years of age\n* Prior cancers allowed if no evidence of disease\n* ECOG 0 or 1\n* Enrollment in NCI Protocol #: WF 98213. Patients must receive Fast MRI and 3D ECHO along with Baseline (98213) MRI prior to first chemotherapy treatment.\n\nExclusion Criteria:\n\n* Patients with ferromagnetic cerebral aneurysm clips or other intraorbital/intracranial metal; pacemakers, defibrillators, functioning neurostimulator devices or other implanted electronic devices.\n* Most breast tissue expanders are not allowed. (If uncertain, inform the MRI tech to confirm eligibility status.)\n* Unable to provide informed consent\n* Symptomatic Claustrophobia\n* Pregnant or breasting feeding. Due to unknown risks and potential harm to the unborn fetus a negative serum pregnancy test within 10 days prior to registration is required in patients with child-bearing potential. For this reason patients of child-bearing potential must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence (not having sex), oral contraceptives, intrauterine device (IUD), DeProvera, tubal ligation, or vasectomy of the partner (with confirmed negative sperm counts) in a monogamous relationship (same partner). An acceptable, although less reliable method involves the careful use of condoms and spermicidal foam or gel and/or cervical cap or sponge prior to study entry and for the duration of study participation. Should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her study physician immediately.",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

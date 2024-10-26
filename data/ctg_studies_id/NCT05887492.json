@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05887492",
+    "briefTitle": "Study of TNG260 and an Anti-PD Antibody in STK11 Mutated Solid Tumors",
+    "officialTitle": "A Phase 1/2, Open-Label Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Efficacy of TNG260 as Single Agent and in Combination With an Anti-PD-1 Antibody In Patients With STK11 Mutated Advanced Solid Tumors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Non Small Cell Lung Cancer, Solid Tumors, Adult, Endometrial Cancer, Pancreatic Cancer, Cervical Cancer, Breast Cancer, Carcinoma of Unknown Primary",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 126,
+    "primaryOutcomeMeasure": "Determine the MTD and RP2D(s) (Phase 1 only)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Is \u226518 years of age at the time of signature of the main study ICF.\n* Has ECOG performance status of 0 or 1.\n* Has measurable disease based on RECIST v1.1.\n* All participants must have documented STK11 mutation in a solid tumor, which is identified through a validated analytical method\n* Has confirmed histologic or cytologic diagnosis of a locally advanced or metastatic solid tumor.\n* Adequate organ function/reserve per local labs\n* Adequate liver function per local labs\n* Adequate renal function per local labs\n* Negative serum pregnancy test result at screening\n* Written informed consent must be obtained according to local guidelines\n\nExclusion Criteria:\n\n* Known allergies, hypersensitivity, or intolerance to TNG260, PD-1 antibody or its excipients\n* Uncontrolled intercurrent illness that will limit compliance with the study requirements\n* Active infection requiring systemic therapy\n* Currently participating in or has planned participation in a study of another investigational agent or device\n* Impairment of GI function or disease that may significantly alter the absorption of oral TNG260\n* Active prior or concurrent malignancy.\n* Central nervous system metastases associated with progressive neurological symptoms\n* Current active liver disease from any cause\n* Clinically relevant cardiovascular disease\n* A female patient who is pregnant or lactating",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

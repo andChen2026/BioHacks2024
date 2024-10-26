@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04543851",
+    "briefTitle": "CARA Treatment Pilot Study for Breast Positioning",
+    "officialTitle": "CARA Treatment Pilot Study for Breast Positioning",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Side Effect",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Number of participants for whom dose volume treatment planning constraints are not met using CARA support for breast setup",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPatients diagnosed with completely excised stage I or II invasive breast cancer, or ductal carcinoma in situ (DCIS), who have undergone breast-conserving surgery and are scheduled to undergo adjuvant breast radiotherapy;\n\nAny breast size with a skin fold of depth 1 cm or greater at the infra-mammary crease at the time of radiation treatment planning, or brassiere cup size equal to or larger than D;\n\nPatients undergoing nodal radiotherapy are eligible if the above criteria are met;\n\nPatients undergoing boost radiotherapy are eligible if the above criteria are met, but only if the surgical scar does not extend inferior to the nipple line of the breast;\n\nLanguage is not a barrier if there are interpreters/family members to translate;\n\nPatients having had chemotherapy are eligible for this study;\n\nExclusion Criteria:\n\nInability to give informed consent or comply with requirements of the trial;\n\nFailure of healing of the surgical scar or significant post-operative wound infection;\n\nPrior radiotherapy to either breast or to the chest;\n\nPresence of significant connective tissue disease (e.g. systemic sclerosis); known radiation hypersensitivity phenotype (e.g. ataxia telangiectasia);\n\nInability to return for assessment at both one week and two weeks following completion of radiotherapy;\n\nBreast reconstruction;\n\nUse of Mepitel\u00ae wound dressing product.",
+    "sex": "ALL",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

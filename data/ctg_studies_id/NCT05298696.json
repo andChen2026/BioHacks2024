@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05298696",
+    "briefTitle": "Efficacy of Cilostazol in Prevention of Peripheral Neuropathy",
+    "officialTitle": "Safety and Efficacy of Cilostazol in Prevention of Paclitaxel Induced Peripheral Neuropathy in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Peripheral Neuropathy, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 71,
+    "primaryOutcomeMeasure": "Incidence of chemotherapy induced-peripheral neuropathy using National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) criteria",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Breast cancer patients who will receive paclitaxel post-anthracycline therapy.\n2. Eastern Cooperative Oncology Group (ECOG) performance status from 0 to 2.\n3. Adequate bone marrow function (white blood count \u22654,000/mm3, platelet count\u2265100,000/mm3), liver function (serum total bilirubin \\<1.5 mg/dl), renal function (creatinine \\< 1.5 mg/dl).\n\nExclusion Criteria:\n\n1. Patients with signs and symptoms of clinical neuropathy at baseline.\n2. Patients with diabetes mellitus or alcoholic disease.\n3. Patients receiving vitamin/ supplementation drugs that interfere with the study intervention.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

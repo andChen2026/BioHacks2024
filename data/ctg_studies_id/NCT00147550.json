@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00147550",
+    "briefTitle": "MEK Inhibitor PD-325901 To Treat Advanced Breast Cancer, Colon Cancer, And Melanoma.",
+    "officialTitle": "A Multicenter, Open-Label, Noncomparative Phase 1-2 Clinical And Pharmacokinetic Study Of Oral PD 0325901 In Patients With Advanced Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Melanoma, Colonic Neoplasms, Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 79,
+    "primaryOutcomeMeasure": "Objective Response Rate, Safety.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\>= 18 years old\n* Tumor accessible for biopsy and willingness to undergo baseline and 1 post treatment biopsy\n* Biopsiable, histologically or cytologically confirmed metastatic or inoperable breast cancer, colon cancer, or melanoma. Prior treatment requirement : i) no more than 2 prior cytotoxic chemotherapy regimens for metastatic disease for patients with breast or colon cancers; ii) No prio cytotoxic therapy for patients with melanoma, or iii) measurable lesion (s) that have not been irradiated.\n* Adequate renal, liver, and bone marrow function, determined within 2 weeks prior to the first treatment, defined as the following: Serum creatinine \\<1.5 x ULN, total bilirubin \\<2 x ULN, aspartate aminotransferase (AST) or alanine aminotransferase (ALT) \\<3 x ULN (\\<5 x ULN for patients with liver involvement); absolute neutrophil count (ANC) \\>1500/ul; and platelet \\>100,000/ul\n* Hemoglobin \\>9.0 g/dL. Treatment with transfusions or erythropoietin to elevate the hemoglobin level for eligibility purposes is not permitted. Patients must have discontinued erythropoietin at least 2 weeks prior to the first dose of study medication\n* Serum calcium \\<1 x ULN and phosphorus \\<1 x ULN\n* Patients having reproductive potential must use adequate method of birth control. Patients may not be pregnant or breastfeeding.\n* ECOG Status of 0,1, or 2.\n* Must be able to swallow intact study medication and have no gastrointestinal disorders that may affect absorption of the drug\n* Must be able to follow instructions or protocol specified procedures, or have a daily care giver who will be responsible for administering study medication.\n* Must be able to give written informed consent.\n\nExclusion Criteria:\n\n* No parathyroid disorder or history of malignancy associated hypercalcemia\n* No ongoing radiation therapy or radio-cytotoxic therapy within prior 4 weeks; No immunotherapy, biologic therapy, hormonal, or molecular targeted therapy within prior 2 weeks\n* No concurrent serious infection or life-threatening illness (unrelated to tumor)\n* No history of any cancer other than the present condition (except nonmelanoma skin cancer or carcinoma in situ of the cervix), unless in complete remission and off all therapy for that disease for a minimum of 3 years\n* No untreated brain metastases.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

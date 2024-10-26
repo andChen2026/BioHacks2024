@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02097459",
+    "briefTitle": "Prognostic Evaluation of Changing Endocrine Therapy in Women With Breast Cancer",
+    "officialTitle": "Prognostic Evaluation of Changing Endocrine Therapy in Perimenopausal and Recently Postmenopausal Women With Early-stage Hormone Receptor-Positive Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "Disease free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent must be obtained and documented according to the local regulatory requirements prior to beginning specific protocol procedures.\n* Age of at least 45 and at most 55 years.\n* Performance status (Karnofsky-Index) \\>80%\n* Steroid receptor (estrogen and progesterone) positive tumor (diagnosis according to hospital standard-procedures).\n* No clinical evidence of local recurrence or distant metastases.\n* Complete staging work-up within 3 months prior to registration. All patients must have (bilateral) mammography or breast MRI, chest X-ray; other tests may be performed as clinically indicated.\n* Patients have taken the SERMs as endocrine therapy for 2-4 years.\n* Patients who have had amenorrhea for at least half a year.\n* Life expectancy of at least 10 years, disregarding the diagnosis of cancer.\n* Adequate organ function including normal red and white blood count, platelets, serum creatinine, bilirubin, and transaminases within normal range of the institution.\n* Patients must be available for and compliant to treatment and follow-up.\n* Patients registered on this trial must be treated and followed up at the participating center.\n\nExclusion Criteria:\n\n* Known hypersensitivity reaction to the investigational compounds or incorporated substances.\n* Hormone receptor-negative breast cancer.\n* Local recurrence and/or metastasis of breast cancer.\n* History of hysterectomy.\n* Pregnant or lactating patients. Patients of childbearing potential must have a negative pregnancy test (urine or serum) within 14 days prior to registration.\n* History of osteoporosis and/or fractures due to osteoporosis.\n* Prior or concomitant secondary malignancy (except non-melanomatous skin cancer or carcinoma in situ of the uterine cervix)\n* Any other serious medical pathology, such as congestive heart failure; unstable angina; history of myocardial infarction during the previous year; uncontrolled high risk arrhythmias\n* Other serious illness or medical condition that may interfere with the understanding and giving of informed consent and the conduct of the study.\n* Concurrent treatment with other experimental drugs or any other anti-cancer therapy.\n* Males.",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT"
+}

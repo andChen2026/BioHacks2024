@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04722978",
+    "briefTitle": "Standard Chemotherapy Plus Moxifloxacin as First-line Treatment for Metastatic Triple-negative Breast Cancer",
+    "officialTitle": "Standard Chemotherapy Plus Moxifloxacin as First-line Treatment for Metastatic Triple-negative Breast Cancer : a Multicenter, Double-blind, Placebo-controlled, Phase 3 Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 228,
+    "primaryOutcomeMeasure": "progression-free survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) score of 0 to 1.\n* Histologically confirmed invasive ductal carcinoma, no specific type (NOS)\n* ER negative and progesterone receptor (PR) negative (defined as \\< 1% positive cells by IHC), human epidermal growth factor receptor 2 (HER2) negative (defined as IHC 0-1 staining or fluorescent in situ hybridization (FISH) negative).\n* No prior therapy after first recurrence or diagnosis of metastatic disease.\n* At least 1 measurable lesion as defined by Response Evaluation Criteria in Solid Tumors (RECIST) criteria.\n* Neutrophil-to-lymphocyte ratios (NLR) in peripheral blood \u2265 2.\n* Adequate organ function including bone marrow, renal function, hepatic function, and cardiac reserve (Left ventricular ejection fraction (LVEF) by echocardiogram \u226545%).\n* Compliance with the study protocol.\n* Have provided written and signed informed consent.\n\nExclusion Criteria:\n\n* Pregnant or breast feeding.\n* Definitive breast cancer susceptibility gene (BRCA) mutation, Programmed Cell Death-Ligand 1 (PD-L1) positive, microsatellite instability-high (MSI-H), and mismatch repair deficient (dMMR).\n* Patients who are receiving or will receive other biological agents or immunotherapy.\n* Uncontrolled medical problems.\n* Evidence of active acute or chronic infection.\n* Hepatic, renal, cardiac, or bone marrow dysfunction as detailed above.\n* Concurrent malignancy or history of other malignancy within the last five years.\n* Known severe hypersensitivity to moxifloxacin\n* Patients were unable or unwilling to comply with program requirements.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

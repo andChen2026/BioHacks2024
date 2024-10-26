@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00028535",
+    "briefTitle": "Interleukin-12, Paclitaxel, and Trastuzumab in Treating Patients With Solid Tumors",
+    "officialTitle": "Phase I Trial of Interleukin-12 in Combination With Paclitaxel Plus Herceptin in Patients With Her2-positive Malignancies",
+    "overallStatus": "COMPLETED",
+    "conditions": "Male Breast Cancer, Recurrent Breast Cancer, Recurrent Endometrial Carcinoma, Recurrent Gastric Cancer, Recurrent Non-small Cell Lung Cancer, Recurrent Ovarian Epithelial Cancer, Recurrent Small Cell Lung Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 18,
+    "primaryOutcomeMeasure": "MTD of IL-12, defined as the dose level one level beneath that dose at which 2 or more of 6 patients showed DLT, based on the NCI CTC version 2.0",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed HER2/neu-overexpressing (2+ or 3+) malignancy by any standardized assay (fluorescence in-situ hybridization allowed)\n* Measurable or evaluable disease\n* Failed standard curative therapy\n* No brain or CNS metastasis\n* Hormone receptor status:\n\n  * Not specified\n* Male or female\n* Performance status - Karnofsky 70-100%\n* At least 6 months\n* Absolute neutrophil count at least 1,500/mm\\^3\n* Hemoglobin at least 8 g/dL (transfusion or epoetin alfa allowed)\n* Platelet count at least 100,000/mm\\^3\n* Bilirubin no greater than 1.5 times upper limit of normal (ULN)\n* AST and ALT no greater than 3.0 times ULN\n* Hepatitis B surface antigen negative\n* Creatinine no greater than 1.5 times ULN\n* Calcium no greater than 11 mg/dL (calcium-lowering agents allowed)\n* No active or unstable cardiovascular disease\n* No cardiac disease requiring drug or device intervention\n* No coronary artery disease\n* No congestive heart failure\n* Cardiac ejection fraction normal by echocardiogram or MUGA scan\n* No significant peripheral neuropathy\n* No significant CNS disease\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* HIV negative\n* No serious concurrent infection requiring IV antibiotic therapy\n* No clinically significant autoimmune disease (e.g., rheumatoid arthritis)\n* No clinically significant gastrointestinal bleeding\n* No uncontrolled peptic ulcer disease\n* No inflammatory bowel disease\n* No other major illness that would preclude study participation\n* No other concurrent malignancy except non-melanoma skin cancer or carcinoma in situ of the cervix\n* No prior interleukin-12\n* No prior trastuzumab (Herceptin\u00ae)\n* At least 3 weeks since prior chemotherapy\n* At least 3 weeks since prior hormonal therapy\n* No concurrent systemic corticosteroids\n* At least 3 weeks since prior radiotherapy\n* At least 3 weeks since prior surgery\n* At least 3 weeks since prior investigational drug",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

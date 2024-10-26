@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01060345",
+    "briefTitle": "A Pilot Study of Chemo-prevention of Green Tea in Women With Ductal Carcinoma in Situ",
+    "officialTitle": "A Pilot Study of Chemo-prevention of Green Tea in Women With Ductal Carcinoma in Situ (DCIS)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Ductal Carcinoma in Situ",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Percent Change in K167 Staining",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed DCIS by breast core biopsy with a corresponding lesion on breast MRI of at least 1-cm3 in volume.\n* Patients may have undergone treatment with prior chemotherapy if this was greater than 12 months prior to current diagnosis.\n* Age \\>18 years.\n* ECOG performance status \\<2 (Karnofsky \\>60%)\n* Life expectancy of greater than 12 months.\n* Normal organ and marrow function as defined below:\n* leukocytes \\>3,000/mcL\n* absolute neutrophil count \\>1,500/mcL\n* platelets \\>100,000/mcL\n* total bilirubin within normal institutional limits\n* AST(SGOT) \\& ALT(SGPT)within normal institutional limits\n* creatinine \\<1.5 times institutional upper limit of normal or creatinine clearance \\>60 mL/min/1.73 m2\n* Ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n* Pregnancy\n* Patients who have undergone prior excisional biopsy for DCIS.\n* Patients who are unable to undergo MRI due to claustrophobia or other reason.\n* Patients with ipsilateral treatment for DCIS or breast cancer within 12 months prior to entering this study.\n* Patients receiving any other chemotherapy or investigational agents.\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to green tea extracts or sensitivity to green tea.\n* Uncontrolled concurrent illness including, but not limited to: ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

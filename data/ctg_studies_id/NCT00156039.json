@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00156039",
+    "briefTitle": "Randomized Trial of Follow-up Strategies in Breast Cancer",
+    "officialTitle": "A Randomized Trial of Follow-up Strategies in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 968,
+    "primaryOutcomeMeasure": "Rate of clinically catastrophic events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with breast cancer on well follow-up at regional cancer centres in Ontario and Manitoba\n* Diagnosed at least 12 months previously (range 9-15 months)\n* Without evidence of active disease (i.e., stages IIIB and IV excluded)\n* Free from any primary treatment complications\n\nExclusion Criteria:\n\n* Primary treatment at least 3 months previously, except for continued use of tamoxifen\n* Still experiencing complications of primary treatment (patients will become eligible once complications resolve provided they are within the 6 month window)\n* Unable to identify an acceptable family physician to provide follow-up\n* Language or literacy skills inconsistent with completing questionnaires\n* Unable to comply with study protocol including completion of questionnaires\n* Previously enrolled in a study which requires continued follow-up in specialist or peripheral clinics\n* Actively followed at a cancer centre for another primary cancer",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

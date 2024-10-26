@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02800317",
+    "briefTitle": "RISAS Procedure in Node Positive Breast Cancer Following NAC",
+    "officialTitle": "Primary Radioactive Iodine Seed Localisation in the Axilla in Axillary Node Positive Breast Cancer Combined With Sentinel Node Procedure (RISAS) Following Neoadjuvant Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm, Neoadjuvant Therapy, Axillary Lymph Nodes, Pathological Complete Response",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 248,
+    "primaryOutcomeMeasure": "Identification rate and accuracy (sensitivity, negative predictive value (NPV) and false negative rate (FNR)) of RISAS-procedure for identifying axillary pCR, with 95% confidence intervals will be calculated.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patient with pathologically confirmed axillary lymph node positive invasive primary breast cancer, treated with neoadjuvant chemotherapy\n* Willing and able to undergo all study procedures.\n* Has personally provided written informed consent.\n\nExclusion Criteria:\n\n* Age \\< 18\n* Pregnancy or lactation\n* Contra indications for undergoing iodine seed placement or sentinel lymph node biopsy, such as allergic reaction on iodine, 99m Technetium or patent blue.\n* Recurrent breast cancer\n* Previous axillary surgery or radiotherapy\n* Patients with periclavicular lymph node metastases (cN3)\n* Patients with advanced breast cancer (i.e. patients with distant metastases, treated without any furter surgical procedures)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

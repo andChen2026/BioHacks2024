@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05614518",
+    "briefTitle": "Diagnostic Performance and Safety of 18F-NaF-PET/CT in Bone Metastases Compared With 99mTc\u2043MDP-BS\u00b1SPECT",
+    "officialTitle": "A Randomized, Open-Label, Crossover, Controlled, Multi-center Clinical Study to Assess the Diagnostic Performance and Safety of 18F-NaF-PET/CT in Bone Metastases of Malignant Tumors Compared With 99mTc\u2043MDP-BS\u00b1SPECT",
+    "overallStatus": "COMPLETED",
+    "conditions": "Bone Metastases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 280,
+    "primaryOutcomeMeasure": "Assess the sensitivity and specificity of 18F-NaF-PET/CT compared with 99mTc-MDP-BS\u00b1SPECT based on subjects.",
+    "eligibilityCriteria": "1. Male or female, age 18 to 75 years, inclusive.\n2. It is confirmed to be lung cancer, prostate cancer or breast cancer by combining medical history, imaging and pathological examination, and radionuclide bone imaging is required, and any one of the following is required:\n\n   1. Bone imaging within 3 months before the signing the ICF cannot exclude bone metastasis.\n   2. Associated with clinical manifestations related to bone metastasis, including bone pain, activity disorder, pathological fracture, spinal cord or spinal nerve compression symptoms, alkaline phosphatase elevation, hypercalcemia or Prostate Specific Antigen (PSA) \\>10 ng / ml.\n   3. Those with definite metastasis outside the primary tumor focus.\n   4. Patients with a history of bone metastasis.\n   5. Patients who need to confirm the status of bone metastasis for tumor staging.\n3. According to the standard of the Eastern Cooperative Oncology Group (ECOG), the score was 0-1.\n4. The expected survival of the Patients was \\> 6 months.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

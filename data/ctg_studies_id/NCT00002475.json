@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00002475",
+    "briefTitle": "Cyclophosphamide Plus Vaccine Therapy in Treating Patients With Advanced Cancer",
+    "officialTitle": "A Trial of Active Intralymphatic Immunotherapy With Interferon-Treated Cells and Cyclophosphamide",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Colorectal Cancer, Kidney Cancer, Lung Cancer, Malignant Mesothelioma, Pancreatic Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Clinical response (patients with evaluable disease)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed cancer not amenable to cure or long-term control by surgery, radiotherapy, chemotherapy, or hormonal manipulations, including the following tumor types:\n\n  * Colon cancer\n  * Lung cancer\n  * Renal cancer\n  * Breast cancer\n  * Pancreatic cancer\n* Metastatic disease or subclinical disease at high risk of recurrence\n* No brain metastases unresponsive to irradiation or surgery\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nSex:\n\n* Not specified\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* ECOG 0-2 OR\n* Karnofsky 70-100%\n\nLife expectancy:\n\n* At least 3 months\n\nHematopoietic:\n\n* Not specified\n\nHepatic:\n\n* Not specified\n\nRenal:\n\n* Not specified\n\nCardiovascular:\n\n* No prior or concurrent significant cardiovascular disease\n\nPulmonary:\n\n* No prior or concurrent pulmonary disease\n\nOther:\n\n* No prior or concurrent autoimmune disease\n* No other prior or concurrent major medical illness\n* HIV negative\n* No clinical evidence of AIDS\n* Not pregnant\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* See Disease Characteristics\n* At least 4 weeks since prior chemotherapy\n\nEndocrine therapy:\n\n* See Disease Characteristics\n* At least 4 weeks since prior hormonal therapy\n* No concurrent chronic steroid therapy\n\nRadiotherapy:\n\n* See Disease Characteristics\n* At least 4 weeks since prior radiotherapy\n\nSurgery:\n\n* See Disease Characteristics",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

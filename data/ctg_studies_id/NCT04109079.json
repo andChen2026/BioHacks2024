@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04109079",
+    "briefTitle": "Axillary Management in Breast Cancer Patients with Needle Biopsy Proven Nodal Metastases After Neoadjuvant Chemotherapy",
+    "officialTitle": "ATNEC - Axillary Management in T1-3N1M0 Breast Cancer Patients with Needle Biopsy Proven Nodal Metastases At Presentation After Neoadjuvant Chemotherapy",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Sentinel Lymph Node, Neoplasm, Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1900,
+    "primaryOutcomeMeasure": "Disease free survival (DFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* cT1-3N1M0 breast cancer at diagnosis (prior to NACT) by American Joint Committee on Cancer (AJCC) staging 8th edition\n* Patients with occult primary breast cancer (no identifiable invasive cancer in the breast) with FNA or core biopsy proven nodal metastases are also eligible for the study.\n* Fine-needle aspiration (FNA) or core biopsy confirmed axillary nodal metastases at presentation\n* Oestrogen receptor and HER2 status evaluated on primary tumour\n* Received standard NACT as per local guidelines (Patients undergoing neoadjuvant endocrine therapy as part of another clinical trial are eligible)\n* Imaging of the axilla, as required, to assess response to NACT (per local guidelines)\n* Undergo a dual tracer sentinel node biopsy (SNB) after NACT with at least 3 nodes removed in total (sentinel nodes and marked node).\n* If a single tracer SNB is performed, the patient is eligible only if the involved node is marked before or during NACT, and at least 3 nodes (including the marked node) are removed during sentinel node biopsy.\n* If the node is not marked, or the marked node is not removed, the patient is eligible only if the histology report shows evidence of down-staging with complete pathological response e.g. fibrosis or scarring in at least one node and at least 3 nodes removed.\n* If fewer than 3 nodes are found on histology, the patient is eligible only if BOTH points a) and b) below, are met:\n\n  1. involved node was marked and removed during SNB; and\n  2. removed marked node shows evidence of downstaging on histology e.g. fibrosis or scarring.\n* If the sentinel node(s) cannot be localised on SNB: axillary node sampling should be performed, the patient will be eligible if at least 3 nodes are removed (including the marked node).\n* No evidence of nodal metastases post NACT (isolated tumour cells, micro or macro metastasis)\n* Patients with complete pathological response in the axilla but residual disease in the breast post NACT are eligible for the study.\n\nExclusion Criteria:\n\n* Bilateral synchronous invasive breast cancer\n* Sentinel node biopsy prior to NACT\n* Previous axillary surgery on the same body side as the scheduled targeted sampling\n* Any previous cancer within 5 years or concomitant malignancy except\n\n  * basal or squamous cell carcinoma of the skin\n  * in situ carcinoma of the cervix\n  * in situ melanoma\n  * contra- or ipsilateral in situ breast cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

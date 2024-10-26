@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02403271",
+    "briefTitle": "A Multi-Center Study of Ibrutinib in Combination With MEDI4736 in Subjects With Relapsed or Refractory Solid Tumors",
+    "officialTitle": "A Multi-Center Study of the Bruton's Tyrosine Kinase (BTK) Inhibitor, Ibrutinib, in Combination With Durvalumab (MEDI4736), in Subjects With Relapsed or Refractory Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Non-Small Cell Lung Cancer, Breast Cancer, Pancreatic Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 124,
+    "primaryOutcomeMeasure": "Phase 1b: Number of Participants With Adverse Events as a Measure of Safety and Tolerability of Ibrutinib and Durvalumab (MEDI4736) and to Find the Recommended Phase II Dose.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Pathologically confirmed: Non-small cell lung cancer (NSCLC, adenocarcinoma or squamous-cell carcinoma), Breast Cancer (HER2 positive or triple negative), Pancreatic Cancer (adenocarcinoma)\n2. Relapsed or refractory disease (Stage III or IV): NSCLC or pancreatic cancer must have failed at least 1 prior treatment. Breast cancer must have failed at least 2 prior treatments.\n3. Measurable lesion by RECIST 1.1\n4. Adequate hematologic function:\n\n   * ANC \\>1500 cells/mm3\n   * Platelet count \\>100,000 cells/mm3\n   * HGB \\>9.0 g/dL\n5. Adequate hepatic and renal function:\n\n   * AST and ALT \u22642.5 x ULN for subjects without liver metastases and \u22643.5 x ULN for subjects with liver metastases\n   * Bilirubin \u22641.5 x ULN (unless bilirubin rise is due to Gilbert's syndrome or of non-hepatic origin)\n   * Creatinine \u22642.0 x ULN and Creatinine Clearance \u226540 mL/min (Cockcroft-Gault or 24-hour creatinine clearance collection)\n6. PT/INR \\<1.5 x ULN and PTT/ aPTT \\<1.5 x ULN\n\nExclusion Criteria:\n\n1. Mixed small cell and NSCLC histology\n2. A history of CNS involvement except as follows: Subjects with previously treated CNS metastases that are adequately treated with whole brain radiotherapy, that are neurologically stable, and do not require corticosteroids for symptomatic management for at least 14 days prior to first dose of study drug. There must be no clear evidence of radiographically active disease for at least 90 days prior to enrollment.\n3. Anti-tumor therapy within 21 days of study Day 1\n4. Prior treatment with ibrutinib or other BTK inhibitor anti-CD137 or CTLA-4 antibody. The following are exceptions to this criterion: Subjects previously treated with an anti-PD1, anti-PD-L1, or anti-PD-L2 antibody.\n5. History of allogeneic organ transplant\n6. Treatment with a strong cytochrome P450 (CYP) 3A inhibitor",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

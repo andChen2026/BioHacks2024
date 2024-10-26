@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01009983",
+    "briefTitle": "Paclitaxel, Carboplatin, and Panitumumab in Treating Patients With Metastatic Breast Cancer",
+    "officialTitle": "A Phase II Clinical Trial of Weekly Paclitaxel and Carboplatin in Combination With Panitumumab in Metastatic Breast Cancer Patients With Triple Negative Disease",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Recurrent Breast Cancer, Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 14,
+    "primaryOutcomeMeasure": "Antitumor Activity as Assessed by Objective Tumor Response According to RECIST Criteria",
+    "eligibilityCriteria": "Inclusion\n\n* Pathologically confirmed invasive breast cancer with ER \\< 10%, PR \\< 10%, by IHC, HER2 1+ or 0 or FISH negative\n* Measurable (\\>= 1 cm) or assessable disease detectable by imagining or physical exam\n* Patients with bone only disease have measurable lesions on x-ray, MRI, or CT scan\n* Only one or no prior therapy for metastatic or recurrent breast cancer is allowed\n* Prior chemotherapy or radiation therapy is permitted but at least 2 weeks should elapse prior to study enrollment\n* Prior therapy with bevacizumab is permitted but at least 2 weeks should elapse prior to study enrollment\n* Prior therapy with bevacizumab is permitted but at least 28 days should elapse from the last bevacizumab treatment prior to study enrollment\n* ECOG PS or 0-1\n* Signed protocol specific informed consent prior to registration\n* Life expectancy greater than 3 months\n* Please contact study investigator and/or consult the protocol document for specific laboratory criteria\n* Tissue block available from primary breast cancer\n* Premenopausal women must have a negative serum or urine pregnancy test prior to starting on study treatment (post-menopausal is defined as \\> 6 months of amenorrhea prior hysterectomy)\n\nExclusion\n\n* More than or equal to 2 prior regimens for metastatic breast cancer\n* Leptomeningeal disease\n* Brain metastasis except for a solitary lesion that was resected or treated with gamma knife with no residual disease on CT or MRI or received whole brain RT and f/u MRI was normal with no residual neurologic deficit\n* History of interstitial lung disease (ie pneumonitis, pulmonary fibrosis) or evidence of interstitial lung disease on baseline chest computerized tomography (CT) scan\n* History of irreversible neuropathy\n* Another malignancy other than carcinoma in situ of the cervix or skin cancer\n* Active uncontrolled bacterial viral or fungal infection\n* Active pregnancy or breast feeding\n* Patients with pre-existing neuropathy \\>= grade 2\n* History of myocardial infarction, symptomatic congestive heart failure, unstable angina pectoris, or cardiac arrhythmia\n* Patients with previous history of CTCAE grade \\>= 3 hypersensitivity to paclitaxel or Cremophor EL are not eligible",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

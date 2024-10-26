@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03176238",
+    "briefTitle": "Study in Post-menopausal Women With Hormone Receptor Positive, HER2-negative Advanced Breast Cancer",
+    "officialTitle": "A Phase IIIb, Multi-center, Open-label Study of RAD001 in Combination With EXemestane in Post-menopausal Women With EStrogen Receptor Positive, Human Epidermal Growth Factor Receptor 2 Negative Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Post Menopausal Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 235,
+    "primaryOutcomeMeasure": "Summary of Number of Participants With Treatment Emergent Adverse Events (TEAE) - All Grades",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Postmenopausal women with metastatic, recurrent or locally advanced breast cancer not amenable to curative treatment by surgery or radiotherapy.\n* Histological or cytological confirmation of hormone-receptor positive (HR+) breast cancer.\n* Disease refractory to non-steroidal aromatase inhibitors, defined as:\n* Recurrence while on, or within 12 months (365 days) of completion of adjuvant therapy with letrozole or anastrozole, or\n* Progression while on, or within one month (30 days) of completion of letrozole or anastrozole treatment for locally advanced or metastatic breast cancer (ABC).\n* Radiological or objective evidence of recurrence or progression on or after the last systemic therapy prior to enrolment.\n* Patients must have had:\n* At least one lesion that could have been accurately measured in at least one dimension\n\n  * 20 mm with conventional imaging techniques or \u2265 10 mm with spiral CT or MRI, or\n* Bone lesions: lytic or mixed (lytic + blastic) in the absence of measurable disease as defined above.\n* Adequate bone marrow, coagulation, liver and renal function.\n* ECOG performance status \u2264 2.\n\nExclusion Criteria:\n\n* Patients overexpressing HER2 by local laboratory testing (IHC 3+ staining or in situ hybridization positive). Patients with IHC 2+ must have a negative in situ hybridization test.\n* Patients with only non-measurable lesions other than bone metastasis (e.g. pleural effusion, ascites).\n* Patients with more than one prior chemotherapy line for ABC. A chemotherapy line is an anticancer regimen(s) that contained at least 1 cytotoxic chemotherapy agent, given for a minimum of 21 days.\n* Previous treatment with mTOR inhibitors.\n* Known hypersensitivity to mTOR inhibitors, e.g. Sirolimus (rapamycin).\n* Patients with a known history of HIV seropositivity. Screening for HIV infection at baseline was not required.\n* Patient who were being treated with drugs recognized as being strong inhibitors or inducers of the isoenzyme CYP3A\n* History of brain or other CNS metastases, including leptomeningeal metastasis.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

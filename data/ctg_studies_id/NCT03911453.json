@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03911453",
+    "briefTitle": "Window of Opportunity Trial, PARP Inhibitor Rucaparib Affect on PD-L1 Expression in Triple Negative Breast Tumors",
+    "officialTitle": "Window of Opportunity Trial to Evaluate Change in PD-L1 Expression in Triple Negative Breast Tumors in Response to the PARP Inhibitor Rucaparib",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Measurement of expression of PD-L1 by IHC via core biopsy.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Have histologically documented triple negative breast cancer (TNBC) (defined as ER expression \u226410% by IHC, progesterone receptor (PR) expression\u226410% by IHC and HER2 0 or 1+ by IHC or Fluorescence in situ hybridization (FISH) ratio \\<2 or human epidermal growth factor receptor 2 (HER2) gene copy number of \\<6)\n2. Early stage breast cancer (stage I-III) and not be candidate for neoadjuvant chemotherapy\n3. Be informed of the investigational nature of the study and all pertinent aspects of the trial\n4. Have Eastern Cooperative Oncology Group (ECOG) performance status of 0-2\n5. Have the ability to understand and the willingness to sign a written informed consent document in accordance with institutional and federal guidelines\n6. Be \u2265 21 years of age\n7. Have serum creatinine \\< 1.5 x institutional upper limit of normal (IULN) or a calculated creatinine clearance \u2265 30ml/min (calculated by Cockcroft Gault equation), bilirubin \u2264 2.0, and an serum glutamic oxaloacetic transaminase (SGOT)/s erum glutamic pyruvic transaminase (SGPT)/alkaline phosphatase \u2264 2.0 x IULN\n8. Have adequate bone marrow function (ANC \\>1000, Platelets \\>100,000/ml, Hemoglobin \\>10gm/dL)\n9. Women of childbearing potential or male patients of reproductive potential with female partners of childbearing potential must not consider getting pregnant and must avoid pregnancy during the study and for at least 6 months after the last dose of rucaparib. Female and male patients of reproductive potential must practice highly effective methods of contraception with their partners, if of reproductive potential, during treatment and for 6 months following last dose of rucaparib\n\nExclusion Criteria:\n\n1. Ongoing or prior treatment with a PARPi for breast cancer or other malignancies\n2. Receiving concurrent anti-neoplastic therapy for their breast cancer or another malignancy\n3. Known documented or suspected hypersensitivity to the components of the study drug or analogs.\n4. Pre-existing gastrointestinal disorders or defects (like duodenal stent etc) that would, in the opinion of the investigator, interfere with absorption of rucaparib",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

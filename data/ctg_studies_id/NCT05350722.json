@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05350722",
+    "briefTitle": "Single-dose Preoperative Partial Breast Irradiation in Low-risk Breast Cancer Patients",
+    "officialTitle": "Single-dose Preoperative Partial Breast Irradiation in Low-risk Breast Cancer Patients",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Pathologic complete response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* WHO performance scale \u22642.\n* Females at least 50 years of age with unifocal cT1N0 breast cancer on mammography, ultrasound and MRI.\n\n  * Patients with an indication for chemotherapy or HER2-targeted therapy according to Dutch National Oncoline Guidelines or own hospital protocols are not eligible. Patients with an indication for endocrine therapy are eligible.\n  * Tumor size as assessed on MRI.\n* On tumor biopsy:\n\n  * Bloom-Richardson grade 1 or 2.\n  * Non-lobular invasive histological type carcinoma.\n  * LCIS or (non-extensive) DCIS is accepted.\n  * ER positive tumor receptor.\n  * HER2 negative tumor.\n* Tumor-negative sentinel node (excluding isolated tumor cells).\n* Adequate communication and understanding skills of the Dutch language.\n\nExclusion Criteria:\n\n* Legal incapacity.\n* BRCA1, BRCA2 or CHEK2 gene mutation.\n* Distant metastasis.\n* Previous history of breast cancer or DCIS.\n* Other type of malignancy within 5 years before breast cancer diagnosis. Patients with adequately treated malignancy longer than 5 years before breast cancer diagnosis are eligible for inclusion.\n* For adequately treated carcinoma in situ of the cervix or basal cell carcinoma of the skin no specific time span to breast cancer diagnosis is required for inclusion.\n* Collagen synthesis disease.\n* Signs of extensive DCIS component on histological biopsy or on imaging (e.g. no extensive calcifications on mammography).\n* Invasive lobular carcinoma.\n* MRI absolute contraindications as defined by the Department of Radiology.\n* Nodal involvement with cytological or histological confirmation.\n* Indication for treatment with (neo-)adjuvant chemotherapy.\n* Non-feasible dosimetric RT plan.",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

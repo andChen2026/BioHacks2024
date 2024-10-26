@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01985724",
+    "briefTitle": "Sequential Administration of FE75C and Docetaxel Versus Docetaxel/Cyclophosphamide in HER-2 Negative, Node Positive Breast Cancer",
+    "officialTitle": "A Multicenter Randomized Study Comparing the Dose Dense, G-CSF-supported Sequential Administration of FE75C Followed by Docetaxel Versus Docetaxel/Cyclophosphamide Doublet as Adjuvant Chemotherapy in Women With HER-2 Negative, Axillary Lymph Node Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 650,
+    "primaryOutcomeMeasure": "3-year disease-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with histologically-confirmed unilateral invasive ductal or lobular breast adenocarcinoma\n* Within 60 days after the surgical excision of the primary tumor with tumor-free operation margins; at least 10 axillary lymph nodes have to be removed.\n* Tumor involvement of at least one axillary lymph node\n* Absence of any clinical or radiological evidence of local or metastatic disease\n* Premenopausal or postmenopausal women aged 18-75 years old\n* Adequate bone marrow function (absolute neutrophil count \\>1500/mm3, platelet count \\>100.000/mm3, hemoglobin \\>10gr/mm3)\n* Adequate liver (bilirubin \\<1.0 times upper limit of normal and SGOT/SGPT \\<2.5 times upper limit of normal) and renal function (creatinine \\<1.5mg/dl)\n* Adequate cardiac function (LVEF\\>50%)\n* Written informed consent\n\nExclusion Criteria:\n\n* Positive pregnancy test.\n* Psychiatric illness or social situation that would preclude study compliance.\n* Other concurrent uncontrolled illness.\n* Prior or concurrent antineoplastic therapy e.g. hormonal therapy, radiation therapy, chemotherapy, biological agents.\n* Previous history of other invasive malignancy other than non-melanomatous skin cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

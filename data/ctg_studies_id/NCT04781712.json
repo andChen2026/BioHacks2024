@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04781712",
+    "briefTitle": "Feasibility of a Modular mHealth for Tailored Rehabilitation of Breast Cancer",
+    "officialTitle": "Feasibility of a Modular mHealth for Tailored Rehabilitation During the Treatment of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 44,
+    "primaryOutcomeMeasure": "satisfaction score in app contents",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Unilateral breast cancer at TNM stage 0 \\~ III\n* Patients who will undergo the treatment (chemotherapy, radiation therapy, and hormone therapy) after surgery\n* Patients who had a mobile phone (Android or iOS)\n\nExclusion Criteria:\n\n- Patients who have metastases or recurrence to other organs were excluded",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

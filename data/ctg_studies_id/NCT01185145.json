@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01185145",
+    "briefTitle": "Accelerated Partial Breast Radiotherapy With Either Mammosite or Intensity Modulated Radiotherapy",
+    "officialTitle": "A Phase II Study of Accelerated Partial Breast Radiotherapy With Either a Novel Breast Brachytherapy Technique - Mammosite or Intensity Modulated Radiotherapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 291,
+    "primaryOutcomeMeasure": "Overall Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Be a Tis, T1, N0, M0 AJC Classification\n* Have negative surgical margins (\\> or = 2 mm) after final surgery\n* Should have adequate skin spacing between balloon surface and surface the skin (\\> 7 mm)\\*\n* Patients with infiltrating lobular histologies should have breast MRI scanning as part of the initial staging to verify localized T1, or Tis disease\n* Multifocal findings (define as 2 or more breast quadrants) on MRI scanning should be further evaluated by ultrasound and, if necessary biopsy, to exclude multiquadrant disease.\n\nExclusion Criteria:\n\n* Be pregnant or breast-feeding\n* Have collagen-vascular disease\n* Inadequate surgical margins (\\< 2 mm)\n* Patients with malignant/suspicious calcifications",
+    "sex": "ALL",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

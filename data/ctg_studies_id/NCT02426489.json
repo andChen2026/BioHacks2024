@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02426489",
+    "briefTitle": "Improving Diagnosis of Breast Cancer by Using a Combined MRI and Positron Emission Mammography (MRI-PEM) System",
+    "officialTitle": "Improving Diagnosis of Breast Cancer by Using a Combined MRI and Positron Emission Mammography (MRI-PEM) System",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "Diagnostic accuracy of combination MRI/positron emission mammography (diagnostic accuracy, defined as the number of correct assessments divided by the number of all assessments)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female over 21 years of age;\n* with a suspicious lesion found in the breast and recommended for biopsy or have a confirmed diagnosis of cancer;\n* and in good health (other than having breast lesions);\n* and can lie still in a prone position for 30 minutes in an MRI scanner.\n\nExclusion Criteria:\n\n* Pregnancy;\n* unwilling to give informed consent;\n* have implanted prosthetic heart valve,\n* pacemaker,\n* neurostimulator,\n* surgical clips or other metallic implants;\n* have engaged in occupations or received orthodontic work which may have caused lodging of ferromagnetic materials in the body;\n* are claustrophobic;\n* have been allergic to contrast agents;\n* are diabetic;\n* or have a history of kidney disease.",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02275871",
+    "briefTitle": "Comparison of Contrast-enhanced Spectral Mammography (CESM) to MRI in Screening High Risk Women for Breast Cancer",
+    "officialTitle": "Dual-energy Contrast-enhanced Digital Subtraction Mammography (CESM) as a Tool to Screen High Risk Women for Breast Cancer: a Comparison to Screening Breast MRI",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 44,
+    "primaryOutcomeMeasure": "Number of cancers and false positive findings identified on CESM versus MRI as a measure of sensitivity and specificity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women\n* Age \\> or equal to 30 years\n* High risk (\\>20% lifetime risk)\n* Has a bilateral mammogram within the last 7 months\n* Has had a same day high risk screening MRI\n\nExclusion Criteria:\n\n* Participants who have a known allergy or contraindication to iodinated contrast.\n* Participants who have a known allergy to food or medications.\n* Participants who have renal insufficiency or failure.\n* Participants who are pregnant or breastfeeding.\n* Participants with a concurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia.",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

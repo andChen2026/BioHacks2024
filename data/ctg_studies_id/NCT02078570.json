@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02078570",
+    "briefTitle": "Breast Cancer Biomarker Sample Collection for the dtectDx v2 Assay Proof of Concept Protocol",
+    "officialTitle": "N/A",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Quantitative Protein Algorithmic Score (QPAS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult women from 25 years of age to below 75 years of age\n* Breast evaluation results of ACR BI-RADS\u00ae Category 3 or 4 by imaging and physicians clinical and radiological evaluation\n* Study visit and blood collection within 4 weeks (28 days) of ACR BI-RADS assessment\n* Patient agrees to with additional health data being gathered at 6 months post assessment for diagnostic follow-up\n* Samples collected under IRB approval and Informed Consent\n* Testing performed under IRB approval or waiver (as applicable)\n* Previous approved procedures to enroll patients: breast augmentation \\& cyst aspiration\n\nExclusion Criteria:\n\n* Adults from 76 years of age or older and below 25 years of age\n* Final breast evaluation results other than a ACR BI-RADS Category 3 or 4\n* Subjects that have had a breast biopsy performed during the 6 months prior to the study visit\n* Samples not collected under IRB approval and Informed Consent\n* Testing not performed under IRB approval or waiver (as applicable)\n* Prior breast cancer diagnosis.",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

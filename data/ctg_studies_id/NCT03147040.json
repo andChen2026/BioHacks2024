@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03147040",
+    "briefTitle": "AssessinG Efficacy of Carboplatin and ATezOlizumab in Metastatic Lobular Breast Cancer",
+    "officialTitle": "AssessinG Efficacy of Carboplatin and ATezOlizumab in Metastatic Lobular Breast Cancer: GELATO-trial",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 23,
+    "primaryOutcomeMeasure": "Number of patients free of progression at 6 months",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed and written informed consent\n* Age 18 year or older\n* Metastatic or incurable locally advanced lobular breast cancer with confirmation of the lobular histology and E-cadherin loss on a biopsy of a metastatic lesion.\n* Metastatic lesion accessible for histological biopsies\n* Evidence of progression of disease\n* A maximum of two lines of palliative chemotherapy\n* WHO performance status of 0 or 1\n* Evaluable disease or measurable according to RECIST 1.1\n\nExclusion Criteria:\n\n* Leptomeningeal disease localization\n* History of having received other anticancer therapies within 2 weeks of start of the study drug\n* History of immunodeficiency, autoimmune disease, conditions requiring immunosuppression\n* Prior treatment with immune checkpoint blockade\n* Live vaccine within 2 weeks prior to start of study\n* Active other cancer\n* Active hepatitis B",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

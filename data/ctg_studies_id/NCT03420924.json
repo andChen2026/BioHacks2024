@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03420924",
+    "briefTitle": "Thermal Suit With Forced-air Warming in Breast Cancer Surgery",
+    "officialTitle": "Thermal Suit With Forced-air Warming in Breast Cancer Surgery: A Randomized Clinical Investigation",
+    "overallStatus": "COMPLETED",
+    "conditions": "Hypothermia, Accidental",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Core temperature",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* primary breast cancer surgery\n* unilateral resection or mastectomy with or without axillar lymphadenectomy\n* body mass index 25-40\n\nExclusion Criteria:\n\n* ASA \\> III\n* decreased mental status\n* inadequate Finnish language skills\n* other than general anaesthesia",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

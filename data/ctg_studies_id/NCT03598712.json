@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03598712",
+    "briefTitle": "Local Compression Seroma DIminution Objective (CLODIS)",
+    "officialTitle": "Interest of Local Compression by Thoracic Bandage on the Management of Seroma in Patients Treated by Mastectomy With or Without Lymphadenectomy. Local Compression Seroma DIminution Objective",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Mastectomy, Seroma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Number of puncture(s) after inclusion in both patient groups",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient followed for histologically proven breast cancer treated by total mastectomy, whether or not dissociated from the sentinel node technique, with or without axillary curing.\n* Patient with a second seroma puncture with a volume greater than or equal to 250 ml.\n* Neo adjuvant chemotherapy authorized.\n* Absence of known metastases.\n* Patient has given written consent.\n\nExclusion Criteria:\n\n* Mastectomy with immediate reconstruction.\n* Partial mastectomy.\n* Concurrent bilateral mastectomy.\n* Delay in healing observed at inclusion.\n* Patient under legal protection.\n* Chronic respiratory failure.\n* Patient with a pacemaker.\n* Personality disorders and known progressive psychiatric pathology.\n* Inability to submit to trial follow-up",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

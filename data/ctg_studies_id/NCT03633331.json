@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03633331",
+    "briefTitle": "Palbociclib and Letrozole or Fulvestrant in Treating Patients With Estrogen Receptor Positive, HER2 Negative Metastatic Breast Cancer",
+    "officialTitle": "A Phase II Trial Assessing the Tolerability of Palbociclib in Combination With Letrozole or Fulvestrant in Patients Aged 70 and Older With Estrogen Receptor-Positive, HER2-Negative Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Estrogen Receptor-positive Breast Cancer, HER2/Neu Negative, Stage IV Breast Cancer AJCC v6 and v7",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 93,
+    "primaryOutcomeMeasure": "Incidence of Adverse Events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Documentation of disease: estrogen receptor positive and/or progesterone receptor (PR) positive, HER2 negative metastatic breast cancer; histologic confirmation is required\n* Measurable disease or non-measurable disease\n* Planning to begin palbociclib for metastatic disease; one prior line of endocrine therapy and/or chemotherapy for metastatic disease is allowed; patients may begin or have already begun endocrine therapy before they start palbociclib treatment, but no more than two weeks prior to registration\n* No prior therapy with a CDK inhibitor\n* Resolution of all acute toxic effects of prior therapy or surgical procedures to CTCAE grade =\\< 1 (except alopecia) or to baseline toxicities prior to previous therapy or surgical procedures, prior to registration\n* No untreated brain metastases; patients with treated brain metastases must have completed treatment with steroids to be eligible\n* No known interstitial lung disease\n* No second malignancies other than non-melanoma skin cancers or cervical carcinoma in situ; however, patients are not considered to have a \"currently active\" malignancy if they have completed therapy and are free of disease for \\>= 3 years\n* No active infection requiring treatment with antibiotics\n* Patients must be able to swallow and retain oral medication\n* Eastern Cooperative Oncology Group (ECOG) performance status 0, 1 or 2\n* Patients must be able to read and comprehend English or Spanish\n* Absolute neutrophil count (ANC) \\>= 1500/mm\\^3 (1.5 x 10\\^9/L)\n* Platelet count \\>= 100,000/mm\\^3 (100 x 10\\^9/L)\n* Creatinine clearance \\>= 30 ml/min calculated using the Cockcroft-Gault formula\n* Total serum bilirubin =\\< 1.5 upper limit of normal (ULN) (\\< 3 ULN if Gilbert's disease)\n* Aspartate aminotransferase (AST) and/or alanine aminotransferase (ALT) =\\< 3 x ULN (=\\< 5.0 x ULN if liver metastases present)\n* Alkaline phosphatase =\\< 2.5 x ULN (=\\< 5 x ULN if bone or liver metastases present)",
+    "sex": "ALL",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

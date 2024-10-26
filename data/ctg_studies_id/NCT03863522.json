@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03863522",
+    "briefTitle": "Automated Method for Breast Cancer Detection",
+    "officialTitle": "Automated Method for Breast Cancer Detection",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer Diagnosis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 116,
+    "primaryOutcomeMeasure": "Correlation of Diagnostic Cartridge With Histopathology as Assessed by Number of Participants With Same Diagnosis From Both Cancer Detection Cartridge and Core Biopsy or Resected Lesion",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient must be female\n* Patient must be 18 years of age or older\n* Patient has been recommended for ultrasound core needle biopsy of a suspicious breast lesion\n\nExclusion Criteria:\n\n* Patients may be excluded for any condition that in the opinion of the investigator may not make it safe to take part (e.g. certain medicines).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

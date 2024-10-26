@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00278070",
+    "briefTitle": "Metronomic Oral Vinorelbine in Patients With Metastatic Tumors",
+    "officialTitle": "Metronomic Vinorelbine in Patients With Metastatic Tumors: Phase II Translational Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Non Small Cell Lung Cancer, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": "N/A",
+    "primaryOutcomeMeasure": "time to treatment failure",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent\n* Ages 16 - 75 years\n* Genders: both\n* Performance status 0-2 according to the World Health Organization (WHO) scale\n* Life expectancy of at least 16 weeks\n* Adequate bone marrow, hepatic and renal functions\n* Absence of brain metastasis\n* Metastatic/locally advanced refractory prostate, breast or non-small cell lung cancer previously treated with no more than two chemotherapeutic regimens\n* White blood cells \\>= 3500/mm\\^3\n* Absolute neutrophil count \\>= 1500/mm\\^3\n* Platelets \\>= 100,000/mm\\^3\n* Total serum bilirubin less than 1.5 mg/dl\n* Serum transaminases less than 2.0 x upper normal limit (UNL) unless attributed to liver metastases\n* Serum creatinine within normal range\n\nExclusion Criteria:\n\n* Major active infection\n* More than two prior chemotherapy regimens for metastatic disease\n* Any of the following within the 12 months prior to starting the study treatment:\n\n  * myocardial infarction,\n  * severe/unstable angina,\n  * coronary/peripheral artery bypass graft,\n  * congestive heart failure,\n  * cerebrovascular accident or transient ischemic attack, or pulmonary embolism,\n  * cardiac dysrhythmias of grade \\>/= 2,\n  * atrial fibrillation of any grade, or\n  * heart rate corrected interval (QTc) \\> 450 msec for males or \\> 470 msec for females.\n* Hypertension that cannot be controlled with medications (\\> 150/100 mmHg despite optimal medical therapy)\n* Ongoing anti-coagulation therapy\n* Pregnancy or breastfeeding\n* Other severe acute or chronic medical or psychiatric condition, or laboratory abnormality that would impart, in the judgment of the investigator, excess risk associated with study participation or study drug administration; or which, in the judgment of the investigator, would make the patient inappropriate for entry into the trial.",
+    "sex": "ALL",
+    "minimumAge": "16 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

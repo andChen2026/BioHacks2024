@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02982148",
+    "briefTitle": "Methylene Blue Intradermal Injection for Sentinel Lymph Node Biopsy for Breast Cancer Patients",
+    "officialTitle": "Comparison Between Intradermal Injection and Subcutaneous Injection With Methylene Blue for Sentinel Lymph Node Biopsy for Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Female, Early-Stage Breast Cancer, Sentinel Lymph Node",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 352,
+    "primaryOutcomeMeasure": "detective rate of sentinel lymph node",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* who sign the informed consent form\n* pathological diagnosed, without distant metastasis, early stage invasive breast cancer patients\n* did not undergo neoadjuvant chemotherapy, endocrinotherapy or targeted therapy previously\n* without breast and axillary surgery history\n* Ejection fraction score in normal range accord to cardiac doppler\n* Eastern Cooperative Oncology Group score \u22640-2\n* axillary lymph node clinical negative\n\nExclusion Criteria:\n\n* pregnancy\n* any history of malignant tumor within five years\n* diagnosis of multi-center, multi-focal or bilateral breast cancer\n* history of breast tumor incision biopsy or vacuum-assisted biopsy\n* methylene blue allergic\n* appear with severe systematic disease or disfunction of any organ",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05352737",
+    "briefTitle": "Exploring the Role of Serum Methylmalonic Acid (MMA) in Breast Cancer",
+    "officialTitle": "A Retrospective Study Exploring the Role of Serum Methylmalonic Acid (MMA) in Breast Cancer---focusing on Metastasis, Chemotherapy Resistance, and Ageing Effects",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "MMA levels",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patients older than 18 years at diagnosis.\n2. First diagnosis of invasive breast cancer.\n3. All pathological parameters are available to identify histological subtype according to standard procedures.\n4. Availability of frozen serum samples at diagnosis.\n5. Voluntarily signed Informed Consent obtained before blood drawing for biobanking was performed.\n\nExclusion Criteria:\n\n1. Pregnant at diagnosis.\n2. stage 0 disease (in situ).\n3. Bilateral BC at diagnosis or multifocal unilateral BC with different histology.\n4. Other subtypes than Invasive ductal carcinoma.\n5. Prior breast cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

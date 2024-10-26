@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06488391",
+    "briefTitle": "The Impact of Respiratory Training of DIBH Radiotherapy for Breast Cancer",
+    "officialTitle": "The Impact of Patients' Daily Independent Breathing Training on the Accuracy and Side Effects of Deep Inspiratory Breath-Hold Radiotherapy for Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "The daily measured setup error values of the image-guided radiotherapy device during the patient's treatment process.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast Cancer Radiotherapy Patients\n* A single breath-hold can last for more than 10 seconds\n\nExclusion Criteria:\n\n* A single breath-hold can last for more than 10 seconds",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

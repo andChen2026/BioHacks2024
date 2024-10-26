@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01589367",
+    "briefTitle": "Neoadjuvant Letrozole Plus Metformin vs Letrozole Plus Placebo for ER-positive Postmenopausal Breast Cancer",
+    "officialTitle": "Phase II Randomized Study of Neoadjuvant Metformin Plus Letrozole vs Placebo Plus Letrozole for ER-positive Postmenopausal Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Hormone Receptor Positive Malignant Neoplasm of Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 208,
+    "primaryOutcomeMeasure": "Clinical response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Estrogen receptor positive breast cancer\n* Clinically measurable tumor size(stage II/III)\n* No evidence of distant metastasis\n* Postmenopause women 'Age\u226560yr' OR 'previous bilateral oophorectomy' OR 'FSH\\>30 with no bleeding history within 1yr'\n* ECOG 0-2\n* Adequate hepatorenal, bone marrow function 'serum Cr\\<1.4mg/dL' AND 'Bilirubin\\< upper limit of normal x 1.5 AND 'AST/ALT \\< upper limit of normal x 1.8 AND 'ALP \\< upper limit of normal x 1.8 AND 'Hemoglobin \\>10 g/dL' AND 'ANC \\>1,500/mm3' AND 'Platelet \\>100,000/mm3'\n* Spontaneous signed into the written informed consent\n\nExclusion Criteria:\n\n* Who does not meet the above inclusion criteria\n* History of other carcinoma\n* Uncontrolled infection\n* History of psychiatric, epileptic disease\n* Male breast cancer\n* Diabetes 'HbA1c\u22656.5' OR 'FBS\u2265126mg/dL'\n* Hypersensitivity or intolerance to metformin\n* Risk of metformin associated lactic acidosis 'Congestive heart disease of NYHA Class llll/IV' OR 'History of other acidosis' OR 'Alcohol intake more than either 3 bottles beer OR 1 bottle Soju'\n* During medication of metformin, sulfonylureas, thiazolidinediones, insulin\n* Diffuse microcalcification in mammogram\n* Multiple OR bilateral OR inflammatory breast cancer\n* Chemotherapy or endocrine therapy within 2yr due to history of breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04015531",
+    "briefTitle": "Hypofractionated Versus Conventional Fractionation Radiotherapy",
+    "officialTitle": "Hypofractionated Versus Conventional Fractionation Radiation After Conservative Surgery or Mastectomy With Irradiation of Lymph Node Drainage: a Phase II Randomized Clinical Trial for the Evaluation of Acute Toxicity",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Radiation Toxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "CTCAE Toxicity Assessement - Acute Toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female;\n* Older than 18;\n* Breast cancer stage T1 - T3;\n* At least 1 lymph node positive;\n* Treated with mastectomy or conservative surgery;\n* Negative surgical margins;\n* No distant metastasis;\n* No supraclavicular or internal mammary nodes metastases;\n* Adjuvant systemic therapy with chemotherapy, endocrine therapy or anti-HER2 (Human - - Epidermal Growth Factor Receptor 2) treatment is accepted;\n* Signed informed consent.\n\nExclusion Criteria:\n\n* Positive surgical margins;\n* Concomitant chemotherapy;\n* Supraclavicular or internal mammary nodes metastases;\n* Distant metastasis;\n* Previous thoracic radiotherapy;\n* Bilateral breast cancer;\n* Patients with collagen diseases;\n* Unable or unwilling to sign inform consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01403688",
+    "briefTitle": "Effects of Controlled Ovarian Hyperstimulation (COH) With Letrozole and Gonadotropin",
+    "officialTitle": "Effects of Controlled Ovarian Hyperstimulation (COH) With Letrozole and Gonadotropin in Women at High Risk for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Infertility, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 9,
+    "primaryOutcomeMeasure": "evaluation with pre- and post-treatment(COH) breast cytomorphometry and biomarkers",
+    "eligibilityCriteria": "Inclusion criteria:\n\n1. Women must be at increased risk for breast cancer based on any of the following criteria:\n\n   * Age 30 or older with no prior live birth.\n   * Mutations associated with hereditary cancer (BRCA1 or 2, P53, PTEN)\n   * Family history of breast cancer including one first degree or multiple second degree relatives\n   * History of chest radiation before age 30\n   * Multiple prior breast biopsies\n   * Precancerous conditions (DCIS, LCIS, AH)\n   * Prior history of breast or ovarian cancer\n   * Estimated mammographic breast density \\> 50%\n2. Must be undergoing infertility treatment at the University of Kansas with Controlled Ovarian Hyper-stimulation (COH)\n3. Must be between the ages of 21-45 (both inclusive) with Day 3 FSH less than 12 IU/L, Day 3 E2 less than 80 pg/ml\n\nExclusion criteria:\n\n1. Women under 21 or over 45 years old\n2. Day 3 FSH over 12 IU/L, Day 3 E2 over 80 pg/ml\n3. Women who do not meet risk criteria above\n4. History of hypersensitivity to letrozole or gonadotropin\n5. Uterine and adnexal pathology\n6. Use of clomid or gonadotropin within 30days before the letrozole cycle\n7. Any severe chronic disease of relevance for reproductive function",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT"
+}

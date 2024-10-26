@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05444231",
+    "briefTitle": "Breaking Through the Brain Fog: An Online Research Study",
+    "officialTitle": "Breaking Through the Brain Fog: An Online RCT for Breast Cancer Survivors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "BrainHealth Index Score",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nFemale breast cancer survivors who...\n\n* are between ages of 30-80\n* were diagnosed with Stage I-III\n* received chemotherapy\n* completed chemotherapy at least 6 months ago but not more than 5 years\n* endorse changes in thinking since end of chemotherapy treatment\n* have working internet and a device\n* consider themselves fluent in English\n\nExclusion criteria:\n\n* Males\n* A re-occurrence of breast cancer or a diagnosis of another\n* An uncorrected hearing or vision issue that would hinder ability to read and/or listen to training material\n* Participation in a cognitive training program in the last 12 months.\n* A reported substance abuse problem\n* Diagnosis of a neurodegenerative disease or psychotic disorder\n* History of stroke, concussion, or brain injury since completing chemotherapy\n* Inability to function independently due to Autism Spectrum Disorder diagnosis",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

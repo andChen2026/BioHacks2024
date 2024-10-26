@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05554211",
+    "briefTitle": "Tranexamic Acid Usage in Bilateral Mastectomy to Reduce Post-surgical Drainage",
+    "officialTitle": "Tranexamic Acid Usage in Bilateral Mastectomy to Reduce Post-surgical Drainage",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, BRCA Mutation",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Drain output",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female aged 18 years or older\n* Scheduled or plans to schedule a bilateral mastectomy\n* Able to understand informed consent and sign it voluntarily\n\nExclusion Criteria:\n\n* Male without breasts\n* Females who have previously undergone either unilateral or bilateral mastectomy as they do not have breasts on which the drug could be tested\n* Patients with a hypersensitive or allergic reaction to TxA\n* Patients with an active clotting disorder\n* Patients with a subarachnoid hemorrhage within the past 3 months of screening\n* Patients on chronic, extracorporeal renal replacement therapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

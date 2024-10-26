@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04046159",
+    "briefTitle": "Radiotherapy Versus Low-Dose Tamoxifen Following Breast Conserving Surgery for Low-Risk Breast Ductal Carcinoma in Situ",
+    "officialTitle": "Radiotherapy Versus Low-Dose Tamoxifen Following Breast Conserving Surgery for Low-Risk and Estrogen Receptor-Positive Ductal Carcinoma in Situ of Breast: an International Open-label Randomized Non-inferiority Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Ductal Carcinoma in Situ",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 810,
+    "primaryOutcomeMeasure": "Breast tumor recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women\n2. New histologically diagnosed breast ductal carcinoma in situ (DCIS).\n3. Age \u2265 40 years\n4. Low risks of BRCA (breast cancer)1 and BRCA2: Manchester Score \\< 10\n5. The DCIS must be detected by mammogram and must be unicentric, and no-mass lesion.\n6. Status post breast conserving surgery\n7. Pathological characteristics (all characteristics) 7.1 Lesions \u2264 2.5 cm in greatest dimension on pathologic specimen (use the largest measured size from the pathology report to obtain the required measurement of \u2264 2.5 cm).\n\n   7.2 Must be classified as low or intermediate nuclear grade DCIS but without comedo necrosis according to Pathologic Guidelines (section 9.2.2) 7.3 Margins as assessed by the ink method will be 3 mm or greater. 7.4 Must be estrogen receptor (ER)-positive DCIS, ER percentage must be \u226510%\n8. Clinically node negative.\n\nExclusion Criteria:\n\n1. Known BRCA1 or BRCA2 mutation\n2. Age \\< 40 years\n3. Women whose DCIS is palpable at the time of diagnosis, or multi-centric (mammography), or mass (mammography), or who have bloody nipple discharge.\n4. Pathological characteristics 4.1 Lesions measuring greater than 2.5 cm in greatest dimension on pathologic specimen.\n\n   4.2.High-grade lesions or low to intermediate grade with comedo necrosis as classified by the Guidelines.\n\n   4.3. Margins as assessed by the ink method will be less than 3 mm. 4.4. ER-negative DCIS or ER-positive percentage \\< 10% in tumor cells\n5. Post-mastectomy patients\n6. Prior diagnosis of neoplasm within 5 years, except cervical intraepithelial neoplasia type 1 (CIN1) or localized non-melanomatous skin cancer.\n7. Evidence of clinically significant cardiac disease, as defined by cardiac disease (New York Cardiac disease grade II), history of myocardial infarction, cerebral stroke, unstable arrhythmia, and unstable angina pectoris within 12 months before study entry.\n8. Pregnant or lactating status.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

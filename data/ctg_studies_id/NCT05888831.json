@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05888831",
+    "briefTitle": "A Study of BMS-986449 With and Without Nivolumab in Participants With Advanced Solid Tumors",
+    "officialTitle": "A Phase 1/2 Study of BMS-986449 Alone and in Combination With Nivolumab in Participants With Advanced Solid Tumors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Advanced Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Number of participants with Dose-Limiting Toxicities (DLTs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All participants must have a histologically or cytologically confirmed, advanced, unresectable/metastatic, solid malignancy (measurable by Response Evaluation Criteria in Solid Tumors \\[RECIST\\] v1.1), and have received, be refractory to, ineligible for, or intolerant of existing therapy(ies) known to provide clinical benefit for the condition of the participant.\n\n  * Part 1A may have a solid malignancy of any histology.\n  * Part 1B is restricted to participants with Non-small cell lung cancer (NSCLC).\n  * Part 1C is restricted to participants with Triple-negative breast cancer (TNBC).\n* Tumor biopsy must be obtained for all participants (unless medically precluded).\n\nExclusion Criteria:\n\n* History of Grade \u2265 3 toxicity related to prior T-cell agonist or checkpoint inhibitor therapy (eg, anti-cytotoxic T-lymphocyte-associated antigen 4 \\[CTLA-4\\], or anti-PD- 1/programmed death-ligand 1 \\[PD-L1\\] treatment, or any other antibody or drug specifically targeting T-cell co-stimulation or other immune checkpoint pathways) except those that are unlikely to re-occur with standard countermeasures.\n* Current or recent (within 3 months of study intervention administration) gastrointestinal disease or gastrointestinal surgery (eg, intestinal/gastric/colon resection) that could impact the absorption of study intervention.\n* Any significant acute or chronic medical illness which would interfere with study intervention or follow-up in the opinion of the investigator.\n\nOther protocol-defined criteria may apply.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

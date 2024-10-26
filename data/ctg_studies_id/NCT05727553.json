@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05727553",
+    "briefTitle": "Implementation of Online Adaptive Radiotherapy for Breast Cancer Patients on Ethos (BREAST-ART)",
+    "officialTitle": "Implementation of Online Adaptive Radiotherapy for Breast Cancer Patients on Ethos",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Time spend on the online adaptive workflow",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer patients referred for postoperative radiotherapy of the breast, chest wall, axillary levels, tumor bed boost or partial breast irradiation.\n* Age of 18 years and older.\n* Adequate understanding and communicating the Dutch language.\n* Written informed consent for use of routinely collected clinical data and to fill out questionnaires.\n\nExclusion Criteria:\n\n* Patients not suitable for postoperative radiotherapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

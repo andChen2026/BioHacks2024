@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01784393",
+    "briefTitle": "Chemoradiation for Bone Metastasis",
+    "officialTitle": "Chemoradiation With Capecitabine for Palliation of Pain From Bone Metastasis",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Bone Metastasis, Pain",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 29,
+    "primaryOutcomeMeasure": "Change from Baseline in pain score at 12 wks",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. The patient must be 18 years of age or older\n2. The patient must have histologically proven breast adenocarcinoma\n3. Radiographic evidence of bone metastasis is required .Acceptable studies include plain radiographs, radionuclide bone scans, computed tomography scans and magnetic resonance imaging\n4. The patient must have pain that appears to be related to the radiographically documented metastasis\n5. Patients receiving systemic therapy with Capecitabine to metastatic disease (according to health basket)\n6. Patients must have an estimated life expectancy of 3 months or greater\n7. Patients will be eligible for treatment of multiple metastases only if these can be included in no more than two treatment sites\n8. Signed study specific informed consent\n9. Karnofsky Performance Status \\> 40\n10. Calculated Creatinine Clearance \\> 50 ml/min\n11. ALT and AST no greater than 3 5 times the institutional normal; bilirubin and serum creatinine no greater than 1.5 times normal; ANC greater than 1500, and platelets at least 100,00\n\nExclusion Criteria:\n\n1. Prior radiation therapy or prior palliative surgery to the painful site\n2. Impending fracture of the treatment site or planned surgical fixation of the bone\n3. Patients with clinical or radiographic evidence of spinal cord or cauda equina compression\n4. Patients receiving systemic radionuclides (strontium, samarium, etc.) within 60 days prior to registration",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

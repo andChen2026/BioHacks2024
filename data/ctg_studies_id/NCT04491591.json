@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04491591",
+    "briefTitle": "Implementing BREASTChoice Into Practice",
+    "officialTitle": "Implementing Breast Reconstruction Clinical Decision Support in Diverse Practice Settings",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Reconstruction, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 396,
+    "primaryOutcomeMeasure": "Knowledge as Measured by Decision Quality Instrument",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* Diagnosis of incident or recurrent stage 0-III breast carcinoma\n\nExclusion Criteria:\n\n* Stage IV breast carcinoma\n* Histology type besides ductal/lobular carcinoma (e.g. phyllodes, sarcoma - these rare tumors differ in treatment and prognosis)\n* Prior mastectomy and are seeking delayed breast reconstruction\n* No malignancy (i.e., considering mastectomy for prophylaxis only)\n* Cannot give informed consent or use provided study materials due to self-reported or observed cognitive, visual, or emotional barriers\n\nInclusion Criteria for Clinicians:\n\n-Clinicians who provide breast cancer care within the plastic and reconstructive surgery at Barnes Jewish Hospital, Siteman Cancer Center, Barnes Jewish West County, Christian Hospital North East, and the Stefanie Spielman Comprehensive Breast Center of OSU who provide care for patients considering breast reconstruction after mastectomy\n\nExclusion Criteria for Clinicians:\n\n-Plastic and reconstructive clinicians working at other breast clinic locations, and surgeons who do provider breast reconstruction care to patients who have undergone a mastectomy due to breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

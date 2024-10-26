@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04061408",
+    "briefTitle": "FSRT in Breast Cancer Patients With Brain Metastases",
+    "officialTitle": "A Phase II Pilot Study of Fractionated Stereotactic Radiotherapy(FSRT) in Breast Cancer Patients With 1 to 10 Brain Metastases",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Brain Metastases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 170,
+    "primaryOutcomeMeasure": "intracranial local tumor control rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed HER2 positive advanced breast cancer\n* Age\\>18 years.\n* 1 to 10 brain metastases confirmed by enhanced brain MRI\n* KPS\u226570\n* Life expectancy of more than 12 weeks\n* Prior therapy of oral dexamethasone not exceeding 16mg/d\n* Time interval from prior therapy was more than 2 weeks, and evaluation of adverse events is no more than grade 1.\n* Maximum diameter of intracranial metastases is less than 3cm measured by enhanced brain MRI(2-3mm)\n* Prior endocrine therapy were allowed\n* Anti-Her2 targeted treatment were allowed\n* Screening laboratory values must meet the following criteria( and should be obtained within 28 days prior to registration):\n\nAbsolute Neutrophil Count (ANC) \u2265 1.5 x 109/L, Platelets\u2265 90 x 109/L, Hemoglobin \u2265 90 g/L Aspartate aminotransferase/alanine aminotransferase (AST/ALT) \u22642.5 x ULN without liver metastasis,\u2264 5 x ULN with liver metastases Serum BUN and creatinine \u2264 1.5 x Upper Limit of Normal (ULN)\n\n* Time interval from chemotherapy was more than 2 weeks, endocrine therapy and anti-Her2 targeted treatment are allowed to be used concurrently with FSRT\n* Signed the informed consent form prior to patient entry\n\nExclusion Criteria:\n\n* Leptomeningeal or hemorrhagic metastases\n* Uncontrolled epilepsy\n* Severe complication: cardiovascular disease, end-stage renal disease, severe hepatic disease, infection etc.\n* Pregnancy or lactation period\uff0c women of child-bearing age who are unwilling to accept contraceptive measures.\n* Inability to complete enhanced MRI\n* Patients who are difficult or unable to be followed-up\n* Not suitable for inclusion for specific reasons judged by sponsor\n* Patients who are receiving cytotoxic drug concomitantly\n* Have received prior radiotherapy for brain metastasis",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

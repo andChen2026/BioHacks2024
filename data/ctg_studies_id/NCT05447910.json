@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05447910",
+    "briefTitle": "Analysis of Letrozole in Patients With Operable Hormone Receptor Positive, HER2 Negative Breast Cancer",
+    "officialTitle": "Comprehensive Single-Cell Transcriptional Analysis of Aromatase Inhibitor-Resistant Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Adenocarcinoma, Invasive Breast Carcinoma, Resectable Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 21,
+    "primaryOutcomeMeasure": "Differences in tumor microenvironment subpopulations in aromatase inhibitor (AI)-sensitive version (vs.) AI-resistant hormone receptor (HR)+ breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* SCREENING:\n* Female \\>= 18 years\n* Postmenopausal and suitable to receive aromatase inhibitor as per physician's discretion\n* Histologically confirmed un-resected operable invasive adenocarcinoma of the breast \u2265 0.5 cm with estrogen receptor (ER) and/or progesterone receptor (PR) positive \u2265 10%, and no human epidermal growth factor receptor 2 (HER2) amplification or overexpression\n* Patients must not have received any prior chemotherapy, radiation therapy, or endocrine therapy for their current breast cancer. Patients who received tamoxifen or raloxifene or another agent for prevention of breast cancer may be included\n* Willing and able to provide research tissue samples\n* Willing and able to provide research blood samples\n\nExclusion Criteria:\n\n* Immunocompromised patients including patients known to be human immunodeficiency virus (HIV) positive or those on chronic steroids\n\n  * NOTE: Must be off systemic steroids at least 14 days prior to pre-registration. However, topical steroids, inhalants or steroid eye drops are permitted\n* Known history of active autoimmune disease that has required systemic treatment within =\\< 30 days (i.e., with use of disease modifying agents, corticosteroids, or immunosuppressive drugs) prior to pre-registration\n\n  * NOTE: Replacement therapy (e.g., thyroxine, insulin, or physiologic corticosteroid replacement therapy for adrenal or pituitary insufficiency) is not considered a form of systemic treatment. Patients with vitiligo, Graves disease, or psoriasis not requiring systemic treatment within the past 30 days are not excluded. Patients with Celiac disease controlled with diet modification are not excluded",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

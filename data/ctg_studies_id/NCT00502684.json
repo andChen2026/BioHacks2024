@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00502684",
+    "briefTitle": "Perioperative Administration of COX 2 Inhibitors and Beta Blockers to Women Undergoing Breast Cancer Surgery",
+    "officialTitle": "Perioperative Administration of COX 2 Inhibitors and Beta Blockers in Women Undergoing Breast Cancer Surgery: an Intervention to Decrease Immune Suppression, Metastatic Potential and Cancer Recurrence",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Primary Operable Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 32,
+    "primaryOutcomeMeasure": "No. & cytotoxic activity of NK cells, levels of NKT cells, lymphocytes, monocytes and granulocytes; cytokine levels; In vitro cytokine secretion; levels of cortisol and VEGF. Cancer recurrence in 5 years",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women that are scheduled to undergo surgery of a single, stage I-III, invasive ductal or lobular carcinoma tumor with curative intent\n* No evidence of metastatic disease prior to surgery. Minimal workup would include chest XR, abdominal ultrasound and bone scan.\n* Age between 20 and 70 year old.\n* ASA score of 1-2\n* The patient is able to understand the study objectives and procedures, able to comply with the protocol, and is capable to sign an informed consent.\n\nExclusion Criteria:\n\n* Patients with metastatic disease, known prior to surgery.\n* Patients in whom surgical resection is planned without curative intent.\n* Patients who have undergone neoadjuvant treatment.\n* Patients with renal failure, measured by creatinine level \\>1.5\n* Patients with significant heart failure (NYHA functional class 3 or higher)\n* Patients with significant liver failure (known cirrhosis, Bilirubin level\\>2)\n* Patients suffering from asthma\n* Patients with known allergy to one or more of the study medications\n* Patients with known allergy to any medication from the non-steroidal anti-inflammatory drug group.\n* Patients with diabetes mellitus (type 1 or 2).\n* Patients treated chronically with one or more of the study medications\n* Patients treated chronically with any type of Beta adrenergic blocker.\n* Patients treated chronically with any type of COX inhibitor.\n* Patients with second or third degree AV block.\n* Patients with sinus bradycardia (patients with heart rate of less than 50).\n* Patients with sick sinus syndrome.\n* Patients with current atrial fibrillation/flutter.\n* Patients with Printzmetal's angina\n* Patients with hypertension\n* Patients with right sided heart failure owing to pulmonary hypertension.\n* Patients with significant cardiomegaly\n* Patients with (current) pheochromocytoma\n* Patients with chronic Digoxin treatment\n* Patients with active peptic disease\n* Patients with peripheral vascular disease\n* Patients with history or concomitant malignant disease of any type other than breast cancer.\n* Patients who were treated with chemotherapy in the last 10 years for any reason besides neo-adjuvant therapy for breast cancer within the last six months.\n* Pregnant woman.\n* Patients currently participating in any other clinical trial",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

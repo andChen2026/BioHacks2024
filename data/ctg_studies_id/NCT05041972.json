@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05041972",
+    "briefTitle": "ARX788 in Selected HER2-mutated or HER2-amplified/Overexpressed Solid Tumors (ACE-Pan Tumor-02)",
+    "officialTitle": "A Global Phase 2 Study to Evaluate the Efficacy and Safety of ARX788 for Selected HER2-mutated or HER2-amplified/Overexpressed Solid Tumors",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "HER2 Mutation-Related Tumors, HER2 Amplified Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Objective response rate (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 years and older\n* Life expectancy \\> 3 months\n* Eastern Cooperative Oncology Performance Status \u2264 1\n* HER2 status must be determined from a local Clinical Laboratory Improvement Amendments (CLIA) or equivalent-certified laboratory.\n* Cohort 1, Cohort 2, and Explanatory Cohort A: HER2 mutated subjects with pre-specified HER2 activating mutation. Subjects with HER2 mutations in NSCLC (Cohort 1), breast cancer (Cohort 2), and other solid tumors (Cohort A) who have not received prior HER2 antibody drug conjugate (ADC) treatment are eligible.\n* Cohort 3: Subjects with HER2 amplifications in biliary tract cancers (BTC) who have not received prior HER2 ADC treatment are eligible.\n* Cohort 4: Subjects with HER2 amplifications in colorectal cancer (CRC), ovarian, endometrial, NSCLC and other solid tumors who have not received prior HER2 ADC treatment are eligible.\n* Cohort 5 HER2 mutation or HER2 amplification: subjects with HER2 mutated or amplified tumors and have been previously treated with HER2 ADC are eligible.\n* Subjects who are resistant or refractory to previous standard care of treatment.\n* Subjects with stable brain metastases.\n* Adequate organ functions.\n\nExclusion Criteria:\n\nAny subject who meets any of the following criteria is excluded from the study:\n\n* For Cohort 4: breast and gastric/GEJ cancer are excluded.\n* Prior history of interstitial lung disease, pneumonitis, or other clinically significant lung disease within 12 months.\n* History of ocular events, any current ongoing active ocular infections, or any chronic corneal disease unless approved by Medical Monitor.\n* Exposure to any other investigational or commercial anticancer agents or therapies administered with the intention to treat malignancy within 14 days before the first dose of ARX788.\n* Clinically significant surgical intervention (excluding diagnostic biopsy) within 21 days of the first dose of ARX788.\n* Radiotherapy administered less than 21 days prior to the first dose of ARX788, or localized palliative radiotherapy administered less than 7 days prior to the first dose of ARX788, or radiotherapy-induced toxicity of Grade 2 or greater based on NCI-CTCAE v 5.0.\n\nThere are additional inclusion and exclusion criteria. The study center will determine if criteria for participation are met.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

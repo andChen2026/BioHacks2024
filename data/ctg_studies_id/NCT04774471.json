@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04774471",
+    "briefTitle": "Advanced Diffusion Tensor MRI for Breast Cancer",
+    "officialTitle": "Advanced Diffusion Tensor MRI for Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Breast Diseases",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 68,
+    "primaryOutcomeMeasure": "Pathologic diagnosis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* scheduled for ultrasound or stereotactic guided breast biopsy\n* \\> 18 years of age\n* able to tolerate up to 90 minutes in the MRI scanner\n\nExclusion Criteria:\n\n* Male\n* Has a medical condition that, in the opinion of the investigator, puts the subject at significant risk\n* Has any contraindication to the MRI examination as determined by standard NorthShore University Health System relative to MRI safety\n* Cannot comprehend or complete the Informed Consent Form",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

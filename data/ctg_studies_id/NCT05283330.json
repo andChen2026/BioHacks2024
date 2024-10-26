@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05283330",
+    "briefTitle": "Safety and Tolerability of \u00b2\u00b9\u00b2Pb-DOTAM-GRPR1 in Adult Subjects With Recurrent or Metastatic GRPR-expressing Tumors",
+    "officialTitle": "A Phase 1 Open-Label Dose Escalation and Expansion Study to Determine the Safety, Tolerability, Dosimetry, and Preliminary Efficacy of \u00b2\u00b9\u00b2Pb-DOTAM-GRPR1 in Adult Subjects With Recurrent or Metastatic GRPR-expressing Tumors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cervical Cancer, Prostate Cancer Metastatic, Breast Cancer, Colon Cancer, NSCLC, Cutaneous Melanoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "To determine the Recommended Phase 2 Dose (RP2D) of \u00b2\u00b9\u00b2Pb-DOTAM-GRPR1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or female \u226518 years old with the following histologically confirmed metastatic or recurrent GRPR-expressing tumors:\n\n  1. Metastatic castrate resistant prostate cancer (mCRPC);\n  2. HR+/HER2- breast cancer;\n  3. Colorectal cancer;\n  4. Cervical cancer;\n  5. Cutaneous melanoma;\n  6. Non-small-cell lung cancer (NSCLC).\n* Biopsies must demonstrate the following on immunohistochemistry (IHC):\n\n  * 51-80% positively staining cells; and\n  * Moderate intensity of staining.\n* Subjects with recurrent disease must have progressed on at least 2 prior systemic therapies.\n* Presence of at least 1 site of measurable disease per RECIST 1.1 within 1 month prior to Cycle 1 Day 1. For subjects with prostate cancer, bone lesions may be used to fulfill the eligibility requirements per PCWG3 in lieu of measurable disease per RECIST 1.1.\n* Eastern Cooperative Oncology Group (ECOG) status 0-2.\n* Sufficient bone marrow capacity and organ function as defined by:\n\n  1. White blood cell (WBC) \u22652,500/ mm\u00b3\n  2. Absolute neutrophil count (ANC) \u22651500/mm\u00b3\n  3. Platelets \u226575,000/mm\u00b3\n  4. Hemoglobin (HgB) \u22659.0 g/dL;\n\nExclusion Criteria:\n\n* Previous whole-body radiotherapy or peptide receptor radionuclide therapy (PRRT) with either alpha or beta emitters, or subjects with mCRPC who have received radium-223 (\u00b2\u00b2\u00b3Ra).\n* Known hypersensitivity to any component of \u00b2\u00b9\u00b2Pb-DOTAM-GRPR1.\n* Exposure to any other GRPR-targeting therapeutic agents.\n* History of chronic pancreatitis\n* History of pneumonitis.\n* Impaired cardiac function defined as:\n\n  1. New York Heart Association (NYHA) class III or IV;\n  2. QTc \\> 470 msec for females and QTc \\>450 msec for males on screening electrocardiogram (ECG) or congenital long QT syndrome;\n  3. Acute myocardial infarction or unstable angina pectoris \\< 3 months prior to study enrollment.\n* Cyclical chemotherapy, radiotherapy, or biologic therapy (e.g. antibodies), continuous or intermittent, small molecule therapeutics, or any investigational agents within a period which is \u2264 5 half-lives or \u2264 4 weeks (whichever is longer) prior to Day 1.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

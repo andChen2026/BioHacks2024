@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03246009",
+    "briefTitle": "Fusion Protein rHSA/GCSFclinical Study on Breast Cancer Patients",
+    "officialTitle": "Efficacy and Safety Phase Ib Study of Recombinant Human Serum Albumin/ Granulocyte Colony-Stimulating Factor Fusion Protein for Injection to Prevent Neutrophilic Granulocytopenia Among Chemotherapy Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Chemotherapy-induced Neutropenia, Cancer, Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Number of adverse events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18-65.\n* Diagnosed breast cancer\uff0creceived chemotherapy.\n* ECOG performance status 0 or 1.\n* ANC\u22651.5\u00d710 9/L, PLT\u2265100\u00d710 9/L. No bone marrow metastasis,blood coagulation function normally, no Hemorrhagic tendency.\n* Leukocyte reduction occurred after chemotherapy,WBC\u22643.0x109/L or ANC\u22641.5x109/L.\n* No obvious abnormal ecg examination.\n* Cr\uff0cTBIL, AST, ALT\u22641.5\u00d7ULN\uff0cno serious underlying disease.\n* Signed informed consent.\n\nExclusion Criteria:\n\n* Chemotherapy within past 4 weeks.\n* Uncontrolled inflammatory disease,axillary temperature\u226538\u2103.\n* Merging other malignant tumor.\n* Pregnancy or nursing status.\n* Participation in another clinical trial with and investigational product within 3 months prior to study entry.\n* Severe diabetes mellitus, or poor blood sugar controller.\n* Allergic disease or allergic constitution. History of protein allergy.\n* History of drug addiction and alcoholism.\n* Hematopoietic stem cell transplantation or organ transplantation.\n* Received antibiotic treatment within 72 hours before chemotherapy.\n* Long-term use of hormones or immunosuppressive agents.\n* Severe mental or neurological disorders.\n* Chronic disease of severe cardiac, kidney and liver.\n* Other conditions that would be excluded from this study according to doctors'judgment.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

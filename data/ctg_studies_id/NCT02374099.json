@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02374099",
+    "briefTitle": "Study to Assess the Efficacy and Safety of the Epigenetic Modifying Effects of CC-486 (Oral Azacitidine) in Combination With Fulvestrant",
+    "officialTitle": "A Phase 2, Randomized, Open-label, Two-arm Study to Assess the Efficacy and Safety of the Epigenetic Modifying Effects of CC-486 (Oral Azacitidine) in Combination With Fulvestrant in Postmenopausal Women With ER+, HER2- Metastatic Breast Cancer Who Have Progressed on an Aromatase Inhibitor",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 97,
+    "primaryOutcomeMeasure": "Kaplan-Meier Estimate of Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subject is female \u2265 18 years of age (at the time of signing the informed consent form) with metastatic breast cancer not amenable to curative treatment by surgery or radiotherapy.\n* Subject is considered postmenopausal\n* Subject has a histologically and/or cytologically confirmed diagnosis of estrogen-receptor positive breast cancer by local laboratory (based on most recently analyzed biopsy).\n* Subject has human epidermal growth factor receptor 2 negative (HER2-) breast cancer (based on most recently analyzed biopsy) defined as a negative in situ hybridization test or an Immunohistochemistry (IHC) status of 0, 1+ or 2+. If IHC is 2+, a negative in situ hybridization (FISH, CISH, or SISH) test is required by local laboratory testing.\n* Subject had disease refractory to an AI\n* Subject has an Eastern Cooperative Oncology Group ( ECOG) performance status of 0-1.\n* Subject has radiological documented measurable disease (ie, at least one measureable lesion as per Response Evaluation Criteria In Solid Tumors (RECIST) Version 1.1).\n\n  * If no measurable disease is present, then at least one predominantly lytic bone lesion must be present\n* Subject has adequate organ function.\n* Subject has adequate bone marrow function.\n\nExclusion Criteria:\n\n* Subject has received \\> 1 prior line of chemotherapy in the metastatic setting\n* Subject has received any chemotherapy within 21 days prior to randomization.\n* Subject has received prior treatment with fulvestrant.\n* Subject has been previously treated with azacitidine (any formulation), decitabine, or any other hypomethylating agent.\n* Subject has a history of, or current symptomatic brain metastasis.\n* Subject has severe renal impairment (creatinine clearance \\< 30 ml/min).\n* Subject has an impaired ability to swallow oral medication.\n* Subject has a contraindication to receiving IM injections (eg, bleeding disorders, anticoagulant use).\n* Subject has significant active cardiac disease within the previous 6 months including unstable angina or angina requiring surgical or medical intervention, significant cardiac arrhythmia, or New York Heart Association (NYHA) class 3 or 4 congestive heart failure.\n* Subject is a female of Childbearing Potential \\[defined as a sexually mature woman who (1) has not undergone hysterectomy (the surgical removal of the uterus) or bilateral oopherectomy (the surgical removal of both ovaries) or (2) has not been naturally postmenopausal for at least 12 consecutive months (ie, has had menses at any time during the preceding 12 consecutive months)\\].",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

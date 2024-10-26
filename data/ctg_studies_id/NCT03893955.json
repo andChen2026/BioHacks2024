@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03893955",
+    "briefTitle": "A Study to Determine the Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of ABBV-927 With ABBV-368, Budigalimab (ABBV-181) and/or Chemotherapy in Participants With Locally Advanced or Metastatic Solid Tumors",
+    "officialTitle": "A Phase 1, Multicenter, Open-Label Study to Determine the Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of Combinations of ABBV-927 With ABBV-368, Budigalimab (ABBV-181) and/or Chemotherapy in Subjects With Locally Advanced or Metastatic Solid Tumors",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Cancer, Advanced Solid Tumors, Triple-Negative Breast Cancer (TNBC), Non-small-cell-lung-cancer (NSCLC), Metastatic Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Dose Expansion: Objective Response Rate (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adequate liver, kidney and hematology function as demonstrated by laboratory values detailed in the study protocol.\n* An Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n\nDose-Escalation:\n\n* Arm A: Participants with an advanced solid tumor who have progressed on standard therapies known to provide clinical benefit and/or participants who have refused or are intolerant of such therapy.\n* Arm B (non-small-cell-lung-cancer \\[NSCLC\\]): Participants with histologically or cytologically confirmed NSCLC who previously progressed during or after an anti-programmed cell death (PD)-1 or PD ligand 1 (PD-L1) therapy and a platinum-based regimen in the recurrent or metastatic setting.\n\nDose-Expansion:\n\n* Arm 1, 2, and 3 (triple-negative breast cancer \\[TNBC\\]): Participants with histologically or cytologically confirmed breast adenocarcinoma that is estrogen receptor/progesterone receptor/human epidermal growth factor receptor (HER)2-negative who must have disease progression during or after at least 1 systemic therapy that included a taxane in the metastatic or recurrent setting and who are treatment-na\u00efve to immunotherapy.\n* Arm 4 (TNBC): Participants with histologically or cytologically confirmed TNBC who have received no previous anti-cancer therapy for TNBC, and who are PD-L1 negative on tumor tissue by immunohistochemistry (IHC) assay.\n* Arm 5 (NSCLC): Participants with histologically or cytologically confirmed NSCLC who previously progressed either during or after an anti-PD-1 or PD-L1 therapy and a platinum-based regimen in the recurrent or metastatic setting.\n\nExclusion Criteria:\n\n* Has history of inflammatory bowel disease or pneumonitis.\n* Has uncontrolled metastases to the central nervous system.\n* Has a concurrent malignancy that is clinically significant, treatment is required, or the participant is not clinically stable.\n* Has had a major surgery \u2264 28 days prior to the first dose of study drug or the surgical wound is not fully healed.\n* Has previously treated with an anti-PD- or PD-L1-targeting agent and had during the course of their therapy:\n* any immune-mediated toxicity of Grade 3 or worse severity\n* treatment of the toxicity with systemic corticosteroids\n* any hypersensitivity to the PD-1 or PD-L1-targeting agent\n* any treatment-related toxicity resulting in discontinuation of the PD-1 or PD-L1 targeting agent",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00291759",
+    "briefTitle": "ABCSG 8 - Adjuvant Treatment in Patients With Hormone Receptor-positive Breast Cancer With Good to Moderate Differentiation.",
+    "officialTitle": "Adjuvant Endocrine Therapy in Postmenopausal Patients With HR +ve BC With Good to Moderate Differentiation - ARNO (Arimidex + Nolvadex). Primary Treatment for 2 Years With Tamoxifen Thereafter Randomisation to: Tamoxifen 3 Years or Anastrozole 3 Years.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 3858,
+    "primaryOutcomeMeasure": "To assess the difference in event free survival and overall survival (subject to stand-alone or combined/meta-analysis) between postmenopausal women with HR +ve early BC who switched from tamoxifen to anastrozole and those who continued on tamoxifen.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Invasive mammary carcinoma after radical treatment, without prior chemo/hormone/radiation therapy.\n* At least 6 lymph nodes examined.\n* Good or intermediate tumour differentiation.\n* \\<6 weeks before start of adjuvant therapy.\n* Oestrogen or Progesterone positive\n\nExclusion Criteria:\n\n* Premenopausal.\n* Preoperative hormonal/antihormonal/radiation/cytoxic chemo. Second malignant tumour/status post second malignant tumour.\n* In-situ/T4 carcinoma.\n* Age \\>80 years.\n* World Health Organisation performance index \\>3.\n* Serious accompanying diseases",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

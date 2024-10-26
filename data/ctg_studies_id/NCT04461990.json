@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04461990",
+    "briefTitle": "Clinical Study of Imaging Genomics Based on Machine Learning for BCIG",
+    "officialTitle": "Clinical Study of Imaging Genomics Based on Machine Learning for Breast Cancer Molecular Typing and Risk Prediction (BCIG)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Molecular Typing, Pathology, Image, Body",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1500,
+    "primaryOutcomeMeasure": "Image prediction model of different molecular typing",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Pathological and immunohistochemical diagnosis of breast cancer by biopsy\n2. No MRI contraindications and no biopsy before MRI\n3. Without radiotherapy and chemotherapy before enrollment\n\nExclusion Criteria:\n\n1. Those with previous history of breast cancer surgery, hormone replacement therapy and chest radiotherapy\n2. Patients with severe diseases who cannot cooperate with the examination\n3. People with contraindications to MRI\n4. The researchers believe that other conditions are not suitable for breast MRI examination",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

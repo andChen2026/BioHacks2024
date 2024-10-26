@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05153135",
+    "briefTitle": "Description of Treatment Patterns and Description and Comparison of Healthcare Resource Utilization and Costs of Women With Metastatic HR+/HER2- Breast Cancer Treated With CDK4/6 Inhibitors",
+    "officialTitle": "Description of Treatment Patterns and Description and Comparison of Healthcare Resource Utilization and Costs of Women With Metastatic HR+/HER2- Breast Cancer Treated With CDK4/6 Inhibitors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 4320,
+    "primaryOutcomeMeasure": "Number of inpatient (IP) admissions",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n- Evidence of treatment with a CDK4/6 inhibitor regardless of the line of therapy.\n\nThe initiation of the first CDK4/6 inhibitor was defined as the index date, and the first CDK4/6 inhibitor initiated was defined as the index treatment\n\n* BC diagnosis: Two diagnosis codes of BC (International Classification of Diseases, 9th Revision, Clinical Modification \\[ICD-9-CM\\]: 174.xx and International Classification of Diseases, 10th Revision, Clinical Modification \\[ICD-10-CM\\]: C50.xx \\[excluding C50.x2 - male BC\\]) on two medical service claims separated by at least 30 days\n* Metastatic disease diagnosis: At least two medical claims for a secondary neoplasm (ICD-9-CM codes: 196.xx-197.xx, 198.xx, ICD-10-CM codes: C77.xx, C78.xx, C79.xx) on separate dates, with the first one occurring no more than 30 days before the first diagnosis for BC\n* HR+/HER2-: At least one prescription fill or administration of an ET (anastrazole, exemestane, ethinyl estradiol, fulvestrant, fluoxymesterone, letrozole, megestrol acetate, tamoxifen, or toremifene), HR+/HER2- therapy (everolimus), or CDK4/6 inhibitor (i.e., abemaciclib, palbociclib, or ribociclib) at any time following the diagnosis of BC, and no claims for treatments indicated for HER2+ BC, including trastuzumab, lapatinib, afatinib, pertuzumab, or ado-trastuzumab, at any time in the data period\n* Women of at least 18 years of age as of the index date\n* At least 6 months of continuous health plan coverage prior to and at least 1 month of continuous health plan coverage after the index date\n\nExclusion Criteria:\n\n* None",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

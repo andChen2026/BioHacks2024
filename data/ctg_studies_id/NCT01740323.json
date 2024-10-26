@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01740323",
+    "briefTitle": "Phase II Study of Curcumin vs Placebo for Chemotherapy-Treated Breast Cancer Patients Undergoing Radiotherapy",
+    "officialTitle": "Meriva for Treatment-induced Inflammation and Fatigue in Women With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "PBMC NF-kB DNA Binding Measured in ng/Well",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female breast cancer patients over the age of 18 will be recruited for this study. Patients enrolled in the study will meet standard criteria for whole breast XRT.\n\nExclusion Criteria:\n\n* Subjects will be excluded for a number of medical conditions that are contraindications to XRT and/or might confound the relationship among fatigue, and inflammation, including pregnancy, major psychiatric disorders, autoimmune or inflammatory disorders, chronic infectious diseases (e.g. HIV, hepatitis B or C), neurologic disorders and uncontrolled cardiovascular, metabolic, pulmonary or renal disease (as determined by medical history, physical examination and laboratory testing). Subjects with a history of a major psychiatric disorder including Schizophrenia or Bipolar Disorder or a diagnosis of Substance Abuse or Dependence within the past 1 year (as determined by standardized psychiatric interview) will be excluded. Subjects taking drugs known to affect the immune system (e.g. glucocorticoids, methotrexate) will also be excluded. Subjects using supplements or other natural products with one week of starting medications, excluding vitamins and calcium supplementation or at the discretion of the attending physician, will be excluded. Patients who have evidence of infection as determined by history, physical exam or laboratory testing (complete blood count and urinalysis) at baseline will be excluded. In addition, patients who develop evidence of infection (as determined by history, physical exam or laboratory testing) during the study will be discontinued from the study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

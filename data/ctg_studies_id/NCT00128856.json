@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00128856",
+    "briefTitle": "Gemcitabine, Doxorubicin and Paclitaxel (GAT) as Neoadjuvant Treatment of Breast Cancer Patients",
+    "officialTitle": "Phase II Pharmacogenomic and Clinical Trial for the Administration of Gemcitabine-doxorubicin-paclitaxel (GAT) as Neoadjuvant Treatment of Patients With Stage III Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "Pathological complete response (pCR) rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage III breast cancer disease, with histological confirmation by true-cut or open-biopsy.\n* Ages between 18 and 75 years old. Patients older than 70 must have an adequate quality of life to be eligible.\n* Patients cannot have received previous treatment with chemotherapy, hormone therapy, radiotherapy or immune therapy.\n* Performance status of 0,1, 2 Eastern Cooperative Oncology Group (ECOG).\n* At least a 6 month life expectancy.\n* Neutrophils \\> 1500; platelets \\> 100000; haemoglobin \\> 10 mg/dL.\n* Adequate renal and hepatic functions, with serum creatinine \\< 1.2 mg/dl and total bilirubin \\< 2 mg/dl.\n* Adequate contraceptive methods during the study and up to 3 months after.\n* Adequate cardiac function assessed by physical exam, electrocardiogram and left ventricular ejection fraction \\> 55%.\n\nExclusion Criteria:\n\n* Inflammatory carcinoma or stage I, II or IV breast cancer disease.\n* Males.\n* Active infection.\n* Other neoplasms except for basal skin carcinoma or cervical in situ carcinoma adequately treated. Other previous neoplasms are allowed if diagnosed and treated more than 5 years before study registration.\n* Concomitant serious disease provoking organ failure (heart, renal, hepatic, respiratory).\n* Pre-existing motor or sensorial neuropathy \\> grade 1.\n* Inability for treatment compliance.\n* History of hypersensitivity to compounds such as cremophor, cyclosporine or vitamin K.\n* History of arrhythmias or congestive heart failure, even when controlled; or active cardiac blocking of second or third grade.\n* History of myocardial infarction in the previous 6 months.\n* Hypertension not controlled.\n* Pregnant or lactating women.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

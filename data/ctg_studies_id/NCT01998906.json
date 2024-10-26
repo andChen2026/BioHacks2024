@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01998906",
+    "briefTitle": "A Study of Herceptin (Trastuzumab) in Combination Chemotherapy in Women With Locally Advanced Breast Cancer",
+    "officialTitle": "A Randomized, Open-label Study of the Effect of Paclitaxel, Doxorubicin, and CMF Neoadjuvant Chemotherapy, With and Without Herceptin, on Tumor Response in Women With HER2-positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 330,
+    "primaryOutcomeMeasure": "Event-Free Survival (EFS) - Percentage of Participants With an Event",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female patients, \\>=18 years of age, with locally advanced breast cancer.\n\nExclusion Criteria:\n\n* previous therapy for any invasive malignancy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

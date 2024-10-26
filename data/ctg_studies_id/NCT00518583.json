@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00518583",
+    "briefTitle": "Phase II Study in Patients With Operable Breast Cancer",
+    "officialTitle": "A Phase II Study of Pre-Operative Pegylated Liposomal Doxorubicin (PLD), Paclitaxel, and Trastuzumab in Patients With Operable Breast Cancer Over-expressing Her2-neu",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Identify the pCR rate of neoadjuvant chemotherapy using the proposed 18-week regimen of PLD + paclitaxel + trastuzumab",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Dx of clinical T1c-T3, N0-1, M0 breast cancer\n* Interval between diagnosis and consent of \\<- 62 days\n* Life expectancy of 10 years\n* LVEF by MUGA \\>= lower limit of normal for the testing facility\n* Negative serum pregnancy test\n* Adequate bone marrow, renal, liver function\n* Negative bone scan\n* HRT discontinued before study entry\n* Adequate contraceptive methods\n\nExclusion Criteria:\n\n* Male breast cancer\n* Less than 21 years of age\n* Ulceration, infiltration of the skin, complete fixation or severe skin edema\n* N3 disease in which nodes are matted and fixed\n* Suspicious palpable supraclavicular nodes\n* CT evidence of malignant internal mammary nodes\n* Pregnancy or breast feeding at time of study entry\n* Prior therapy for breast cancer\n* Prior anthracycline for any malignancy\n* Prior breast malignancy of the contralateral breast\n* Prior non-breast malignancy within 5 years\n* Non-malignant disease that would preclude follow up\n* MI within 6 months, NYHA Class II or greater heart failure\n* Psychiatric disorders or conditions that would preclude provision of informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

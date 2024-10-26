@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01091883",
+    "briefTitle": "Study Comparing the Safety and Effectiveness of Magnetic Resonance Guided Focused Ultrasound (MRgFUS) and External Beam Radiation (EBRT) for Treatment of Metastatic Bone Tumors and Multiple Myeloma",
+    "officialTitle": "Phase IIIA Study Comparing the Safety and Effectiveness of MR Guided Focused Ultrasound and External Beam Radiation for Treatment of Metastatic Bone Tumors and Multiple Myeloma",
+    "overallStatus": "COMPLETED",
+    "conditions": "Bone Cancer, Bone Metastases, Pain",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Safety of treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Men and women age 18 years and older.\n2. Able and willing to give consent and to attend all study visits\n3. Patients with bone metastasis or primary bone lesion identifiable by imaging techniques.\n4. Worst NRS Pain Score of \u2265 4 from the tumor to be treated.\n5. Targeted tumor(s) are accessible to both ExAblate and EBRT (ExAblate accessible lesions are located in ribs, extremities (excluding joints), pelvis, shoulders and in the posterior aspects of the following spinal vertebra: Lumbar vertebra (L3 - L5), Sacral vertebra (S1 - S5), please see ExAblate \"Information for Prescribers\".\n6. Targeted tumor(s) area is smaller than 100cm2.\n7. Tumor(s) clearly visible by non-contrast MRI.\n8. No radiation therapy to the treated lesion during one month prior to enrollment.\n9. Radiation therapy is not contraindicated\n10. Bisphosphonate, chemo or hormone therapy intake should remain stable throughout follow up duration.\n\nExclusion Criteria:\n\n1. Patients who either\n\n   * Need pre-treatment surgical stabilization of the affected bony structure OR\n   * prior surgical stabilization of tumor site\n2. Targeted tumor is in a vertebra body or in the posterior aspects of the cervical part of the vertebral column.\n3. Targeted tumor is in the skull.\n4. Patients on anti-coagulation therapy or with an underlying uncontrolled bleeding disorder.\n5. Patients with life expectancy \\< 6-Months.\n6. Patients with unstable cardiac status including:\n\n   * Unstable angina pectoris on medication.\n   * Patients with documented myocardial infarction within last 40 days to protocol entry.\n   * Congestive heart failure NYHA Class IV\n7. Severe hypertension (diastolic BP \\> 100 on medication).\n8. Patients with standard contraindications for MR imaging such as non-MRI compatible implanted ferromagnetic objects/devices.\n9. Known intolerance or allergies to MRI contrast agent (e.g. Gadolinium or Magnevist)\n10. KPS score of below 60\n11. Severe cerebro-vascular disease (multiple CVA or CVA within 6 months)\n12. Individuals who are not able or willing to tolerate the required prolonged stationary position during treatment (approximately 2 hrs.)\n13. Target tumor is less then 1cm from spinal cord, skin, or hollow viscera.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

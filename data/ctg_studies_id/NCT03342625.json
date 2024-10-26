@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03342625",
+    "briefTitle": "High Intensity Focused Ultrasound Treatment of Breast Tumors. BRIFU Study",
+    "officialTitle": "High Intensity Focused Ultrasound Treatment of Breast Tumors. BRIFU Study (Breast Resection By HIFU)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "Efficacy of HIFU for the treatment of breast tumors, based on histological criteria",
+    "eligibilityCriteria": "Inclusion Criteria :\n\n1. Histologically proven infiltrating ductal carcinoma with the analysis of hormone receptors, tumor grade, Her-2 expression.\n2. T0 lesion, unifocal or plurifocal, with or without micro-calcifications associated, measuring 15 mm maximum major axis on ultrasound.\n3. Clinical N0.\n4. Bra cup size greater than or equal to B.\n5. Markable and identifiable lesion in MRI.\n6. Indication of partial or total mastectomy in case of multifocal lesions or extensive calcification associated with axillary surgery.\n7. Breast assessment performed by a referent radiologist: Mammography, ultrasound, clinical examination.\n8. No contraindication to MRI.\n\nExclusion Criteria :\n\n1. Infiltrating lobular carcinoma and Pure ductal carcinoma in situ.\n2. Bilateral lesion.\n3. Non-detectable MRI lesions, within 10 mm of the skin, greater than 15 mm on ultrasound.\n4. Unifocal palpable tumor.\n5. Cup size bra equal to A.\n6. Cutaneous lesion on the breast to be treated by HIFU.\n7. Impossibility of ventral decubitus immobility, extended arm, during 1 hour.\n8. Pregnant or postpartum patient.\n9. Patient participating in another interventional clinical trial within 30 days of enrollment and during the trial.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04929054",
+    "briefTitle": "PCR Based CEUS in BI RADS 4A Nodules",
+    "officialTitle": "Principal Component Regression Based Contrast Enhanced Ultrasound Evaluating System in the Management of BI-RADS 4A Breast Nodules",
+    "overallStatus": "UNKNOWN",
+    "conditions": "PCA, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 260,
+    "primaryOutcomeMeasure": "surgery or biopsy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\npatients with BI-RADS 4A breast lesion\n\nExclusion Criteria:\n\n(i) absence of a pathologic diagnosis; (ii) presence of breast nodules that were too large to compare with normal parenchyma; (iii) patients with radiotherapy and chemotherapy of breast cancer; and (iv) skin disorders.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

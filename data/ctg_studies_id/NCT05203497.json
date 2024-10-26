@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05203497",
+    "briefTitle": "Molecular Imaging of HER2 Expression in Breast Cancer Using 99mTc-ZHER2.",
+    "officialTitle": "SPECT Imaging of Human Epidermal Growth Factor Receptor 2 (HER2) Expression in Breast Cancer Using Technetium-99m-labelled Affibody Molecule-based Tracer 99mTc-ZHER2:41071.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Gamma camera-based whole-body 99mTc-ZHER2:41071 uptake value (% per organ)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Subject is \\> 18 years of age\n2. Diagnosis of primary breast cancer with possible lymph node metastases\n3. Availability of results from HER2 status previously determined on material from the primary tumor, either\n\n   1. HER2-positive, defined as a DAKO HercepTest\u2122 score of 3+ or FISH positive or\n   2. HER2-negative, defined as a DAKO HercepTest\u2122 score of 0 or 1+; or else if 2+ then FISH negative\n4. Volumetrically quantifiable tumour lesions on CT or MRI, with at least one lesion \\> 2.0 cm in greatest diameter outside of the liver and kidneys\n5. Hematological, liver and renal function test results within the following limits:\n\n   * White blood cell count: \\> 2.0 x 109/L\n   * Hemoglobin: \\> 80 g/L\n   * Platelets: \\> 50.0 x 109/L\n   * ALT, ALP, AST: =\\< 5.0 times Upper Limit of Normal\n   * Bilirubin =\\< 2.0 times Upper Limit of Normal\n   * Serum creatinine: Within Normal Limits\n6. A negative pregnancy test for all patients of childbearing potential. Sexually active women of childbearing potential participating in the study must use a medically acceptable form of contraception for at least 30 days after study termination\n7. Subject is capable to undergo the diagnostic investigations to be performed in the study\n8. Informed consent\n\nExclusion Criteria:\n\n1. Second, non-breast malignancy\n2. Active current autoimmune disease or history of autoimmune disease\n3. Active infection or history of severe infection within the previous 3 months (if clinically relevant at screening)\n4. Known HIV positive or chronically active hepatitis B or C\n5. Administration of other investigational medicinal product within 30 days of screening\n6. Ongoing toxicity \\> grade 2 from previous standard or investigational therapies, according to US National Cancer Institute's",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

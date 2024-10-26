@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01542814",
+    "briefTitle": "Collection of FUJIFILM's 3Dimensional Mammograms",
+    "officialTitle": "Acquisition of Mammography Images for Clinical Evaluation of FUJIFILM 3Dimensional Mammography",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "Acquire screening cases with and without breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female.\n* Any ethnic or racial origin.\n* Must come through the study via the screening or diagnostic pathway described above.\n* Have the ability to understand the requirements of the study, to provide written informed consent, and to comply with the study protocol.\n* Meet none of the exclusion criteria.\n\nExclusion Criteria:\n\n* \u2022 Presence of a breast implant.\n\n  * Women with only a single breast; for example, post mastectomy patients.\n  * Is pregnant or believes she may be pregnant.\n  * A woman who has delivered and who has expressed the intention to breast-feed or is currently breast-feeding.\n  * A woman who has significant existing breast trauma.\n  * Have self-reported severe non-focal or bilateral breast pain affecting subject's ability to tolerate mammography examinations.\n  * A woman who has had a mammogram performed for the purpose of therapy portal planning.\n  * Inadequate technical quality mammography images, such as insufficient anatomical coverage or significant motion artifacts.\n  * Cannot, for any known reason, undergo follow-up mammography examinations (where clinically indicated) at the participating institution.\n  * Is an inmate (see US Code of Federal Regulations 45CFR46.306).",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

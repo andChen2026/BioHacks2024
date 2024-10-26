@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03059875",
+    "briefTitle": "Place of Comprehensive Geriatric Assessment in Patients \u2265 75 Years Care, With Breast Cancer, After Screening With FOG (Oncology Geriatric Filter)",
+    "officialTitle": "Place of Comprehensive Geriatric Assessment (CGA) in Patients \u2265 75 Years Care, With Breast Cancer, After Screening With FOG (Oncology Geriatric Filter): Comparison Between CGA Before Surgery (Strategy A) vs. After Surgery (Strategy B)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Surgery, 75 Years Old and More, Female Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 79,
+    "primaryOutcomeMeasure": "Compare Comprehensive Geriatric Assessment before the surgery and Comprehensive Geriatric Assessment after the surgery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* First breast cancer localized, indication of surgery\n* Onco-geriatric filter (FOG) \\>= 1 ou \\< 4\n\nExclusion Criteria:\n\n* Male, less of 75 years old\n* Contraindication of surgery\n* Breast cancer with metastasis\n* Onco-geriatric filter (FOG) = 0 or 4",
+    "sex": "FEMALE",
+    "minimumAge": "75 Years",
+    "stdAges": "OLDER_ADULT"
+}

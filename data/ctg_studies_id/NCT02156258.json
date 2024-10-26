@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02156258",
+    "briefTitle": "Acquisition of Breast Mammography Images",
+    "officialTitle": "Acquisition of Digital Mammography and Breast Images for Clinical Evaluation of FujifilmDigital Breast Tomosynthesis",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1232,
+    "primaryOutcomeMeasure": "Number of Participants for Whom Study Image Data Were Collected",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nFor Screening Subjects\n\n* Be at least 40 years of age, are\n* Asymptomatic,\n* Scheduled for a routine screening mammogram\n\nFor Recall Subjects\n\n* Be at least 18 years of age,\n* Received a BIRADS 0 within the last 60 days\n* Are recalled for additional imaging\n\nFor Diagnostic Subjects\n\n* Be at least 18 years of age,\n* Scheduled for a biopsy due to an assessment of Breast Imaging and Reporting Data (BI-RADS\u00ae) 4 or 5 after diagnostic work-up of a suspicious screening or clinical finding within the last 60 days.\n* Understand requirements and willing to participate in study\n\nExclusion Criteria:\n\n* Presence of a breast implant.\n* Women with only a single breast; for example, post mastectomy patients.\n* Is pregnant or believes she may be pregnant.\n* A woman who has delivered and who has expressed the intention to breast-feed or is currently breast-feeding.\n* A woman who has significant existing breast trauma within the last one year.\n* Have self-reported severe non-focal or bilateral breast pain affecting subject's ability to tolerate digital mammography and/or breast tomosynthesis examinations.\n* A woman who has had a mammogram performed for the purpose of therapy portal planning within the last year.\n* Cannot, for any known reason, undergo follow-up digital mammography and/or breast tomosynthesis examinations (where clinically indicated) at the participating institution.\n* Is an inmate (see US Code of Federal Regulations 45CFR46.306).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

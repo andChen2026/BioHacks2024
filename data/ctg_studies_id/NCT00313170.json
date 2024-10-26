@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00313170",
+    "briefTitle": "A Clinical Trial to Compare Efficacy and Tolerability of Fulvestrant 250mg, 250mg Plus 250mg Loading Regimen and 500mg",
+    "officialTitle": "Phase II Study to Evaluate the Efficacy and Tolerability of Fulvestrant 250mg, 250mg Plus 250mg Loading Regimen and 500mg in Postmenopausal Women With ER +ve Advanced Breast Cancer Progressing or Relapsing After Previous Endocrine Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Breast Cancer, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 144,
+    "primaryOutcomeMeasure": "Objective Response (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast Cancer has continued to grow after having received treatment with an anti-estrogen hormonal treatment such as tamoxifen or an aromatase inhibitor.\n* Requiring hormonal treatment.\n* Postmenopausal women (woman who has stopped having menstrual periods)\n\nExclusion Criteria:\n\n* Treatment with more than one previous regimen of systemic anticancer therapy other than endocrine therapy for advanced BC.\n* Treatment with more than one previous regimen of endocrine therapy for advanced BC.\n* An existing condition that prevents compliance.",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

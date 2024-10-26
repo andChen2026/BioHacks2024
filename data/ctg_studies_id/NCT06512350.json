@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06512350",
+    "briefTitle": "Identifying Patterns in the Breath of Individuals With Breast Cancer",
+    "officialTitle": "Using Infrared Spectroscopy to Analyze Volatile Organic Compounds in the Breath of Patients With Breast Cancer",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Compare the breath spectra from patients with breast cancer and from healthy controls using mathematical/statistical models to further develop Breathe BioMedical's technology and machine learning algorithms.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female (sex as assigned at birth);\n* Aged 40 - 74 years;\n* Mammography confirmed dense breast tissue (BI-RADS density score of C or D);\n* Scheduled for standard of care biopsy or MRI;\n* Fluent in language of consent (English, Spanish, or French);\n* Ability to give informed consent;\n* Able to provide a breath sample.\n\nExclusion Criteria:\n\n* Mammography confirmed fatty breast tissue (BI-RADS A or B);\n* Prior history of breast cancer;\n* Previous surgical biopsy or surgical excision of breast cancer in the past six months;\n* History of cancer (except basal cell or squamous cell carcinoma of the skin) in the past year;\n* Acute respiratory infection and/or symptoms in the past seven days;\n* MRI BI-RADS 3 undergoing active surveillance (MRI requiring six-month follow-up).",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

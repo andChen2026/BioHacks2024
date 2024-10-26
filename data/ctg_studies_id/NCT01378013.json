@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01378013",
+    "briefTitle": "SurgicAl Metabolic Phenotyping Longitudinal Evaluation Study",
+    "officialTitle": "Metabolic Phenotyping and Systems Biology in Surgery",
+    "overallStatus": "COMPLETED",
+    "conditions": "Colon Cancer, Breast Cancer, Trauma, Inflammatory Bowel Disease, Hernia",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Sepsis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Elective surgery (n=200)\n\n   * Patients with cancer. This will include patients with malignancy of the gastrointestinal and colorectal tract (including those excised by microsurgery)cancer of the breast or solid tumours of the kidney.\n   * Patients with benign disease of the bowel requiring surgery e.g. inflammatory bowel disease\n   * Benign surgical conditions, usually operated on in a day surgery setting. These will specifically be of the biliary tree (gall stones) and the anterior abdominal wall (e.g. Hernia surgery)\n   * Patients will be recruited if seen under the 'two week' wait rule with suspected cancer for the general surgery, upper GI surgery, Breast and Urology surgery teams at St. Mary's hospital in the outpatient setting will be recruited\n   * Patients attending for elective inpatient surgery under the general, upper GI or breast surgery teams at St. Mary's hospital, London will be recruited at the pre admission clinic.\n2. Acute surgery (n=200) Patients presenting to Accident and emergency under the care of the general surgery on call team will be recruited into this study group. This study group will have the following subgroups:\n\n   * Acute abdominal pain\n   * Patients with acute sepsis thought to be of surgical origin as diagnosed by their history, clinical examination and routine investigations.\n   * Patients suffering major trauma with an Injury severity score (ISS) of \\>15, multiple injuries, who require surgery or who have \\>1 organ system that is failed or who are admitted to the intensive care department.\n\nExclusion Criteria:\n\n* All patients under the age of 18 years\n* All patients who are pregnant\n* Patients receiving Advanced Life Support by cardiopulmonary resuscitation on their arrival in hospital.\n* Patients with advanced cancer only suitable for palliative care at presentation to the clinical team.\n* Patients presenting for the first time with other known malignancies for which they are receiving treatment e.g. Prostate cancer\n* Patients already recruited into other clinical studies.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

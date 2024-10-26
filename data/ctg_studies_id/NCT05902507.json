@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05902507",
+    "briefTitle": "Magnetic Resonance Imaging in Radiotherapy for Breast Cancer",
+    "officialTitle": "Magnetic Resonance Imaging in RadiotheRapy fOr bReast Cancer (MIRROR): A Pilot Study of MRI Simulation",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Percentage of participants who completed scan",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Participants with an Eastern Cooperative Oncology Group (ECOG) performance status \\<=2 (or Karnofsky \u2265\\>=60%, see Appendix A).\n2. Participants with the ability to understand and the willingness to sign a written informed consent document.\n3. Participants may separately enroll on therapeutic clinical trials when they enroll on this trial. Note: All interventions on this protocol are standard of care, so enrollment on other therapeutic protocols is allowed at the discretion of the treating physician.\n4. Patients must have pathologically confirmed invasive or in situ breast cancer.\n5. Patients must have tumors in which adjuvant breast radiotherapy following breast conserving surgery is indicated, as determined by the treating physician.\n6. Patients must be female. Note: Male patients are excluded due to the rarity of male breast cancer and difficulty in pursuing breast conserving surgery for male patients.\n\nExclusion Criteria:\n\n1. Participants with a contraindication to MRI per the MRI checklist.\n2. Patients with breast tumor or tumor bed not visualized at CT or MRI during RT planning.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

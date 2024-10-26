@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03517813",
+    "briefTitle": "CESM ABMR Breast Cancer Screening Trial",
+    "officialTitle": "Comparative Performance of Contrast-enhanced Spectral Mammography (CESM) and Abbreviated Breast MRI (ABMR) With Standard Breast MRI for Breast Cancer Screening",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Screening",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 256,
+    "primaryOutcomeMeasure": "Abnormal interpretation rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Able and willing to provide signed declaration of informed consent or have a legally authorized representative provide signed declaration of informed consent for participation in all study procedures;\n* Women aged \u226518 years at the time of enrollment\n* Referred clinically for breast MRI for any indication\n\nExclusion Criteria:\n\n* Known allergy or contraindication to iodinated contrast\n* Are currently pregnant based on urine pregnancy test\n* Have breast implants\n* Are lactating",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

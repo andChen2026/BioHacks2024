@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00516542",
+    "briefTitle": "Dehydroepiandrosterone (DHEA) and Letrozole in Treating Patients With Metastatic Breast Cancer",
+    "officialTitle": "A Phase I Study of DHEA in Combination With Letrozole in ER- Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Dose-limiting toxicity",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of breast cancer\n\n  * Metastatic disease\n* Hormone receptor status\n\n  * Estrogen receptor- and progesterone receptor-negative\n  * Androgen receptor-positive\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-3\n* Postmenopausal (\\> 60 years of age)\n* Leukocyte count \\> 3,000/uL\n* Absolute neutrophil count \\> 1,500/uL\n* Platelet count \\> 100,000/uL\n* Total bilirubin normal\n* AST and ALT \\< 2.5 times upper limit of normal\n* Creatinine normal OR creatinine clearance \\> 60 mL/min\n\nPRIOR CONCURRENT THERAPY:\n\n* At least 4 weeks since prior chemotherapy\n* At least 4 weeks since prior biologic therapy\n* At least 4 weeks since prior radiotherapy\n* At least 30 days since prior investigational agents\n* No concurrent dehydroepiandrosterone or androstenedione supplements\n* No concurrent chemotherapy or radiotherapy\n* No concurrent hormone therapy or immunotherapy (including trastuzumab \\[Herceptin\u00ae\\])",
+    "sex": "ALL",
+    "minimumAge": "60 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

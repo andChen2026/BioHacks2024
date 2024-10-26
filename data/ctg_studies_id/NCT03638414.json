@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03638414",
+    "briefTitle": "ePainQ - Feasibility Study",
+    "officialTitle": "ePainQ - a Web-based Pain Self-management System for Patients Undergoing Surgery for Breast Cancer: Feasibility Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasm Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Successful completion of the ePainQ questionnaire",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nAged over 18 years of age at the time of diagnosis of cancer Primary operable (TNM categories: T1, T2, T3, N0, N1, M0\u037e invasive breast cancer or non-invasive breast cancer (diagnosed on core biopsy or diagnostic incision biopsy) Ability to give informed consent Access to the internet (those without access to the internet may participate in the cohort arm) Ability to speak and write english\n\nExclusion Criteria:\n\n* Male Disease unsuitable for surgery e.g. inoperable, locally recurrent or metastatic disease Previously treated invasive breast cancer There will be a restriction to people who are able to speak/read English. This is due to lack of funding for translation of study documents Pregnant women Patients without capacity to consent or those with a major psychiatric disorder No internet access (those without access to the internet may participate in the cohort arm)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

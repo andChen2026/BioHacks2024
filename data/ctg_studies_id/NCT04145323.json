@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04145323",
+    "briefTitle": "Novel Application of Indocyanine Green as a Biomarker to Identify Tissue Necrosis in Mastectomy Patients",
+    "officialTitle": "Novel Application of Indocyanine Green as a Biomarker to Identify Tissue Necrosis in Mastectomy Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Necrosis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "N/A",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Comparison of Necrotic tissue area determined visually by the operating surgeon vs indocyanine Green (ICG) microangiography",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, age 18 years or older\n* Subject undergoes mastectomy\n* Subject receives intraoperative ICG during their breast reconstruction procedure\n* Subject is expected to need at least 4 days of hospitalization as determined by the attending plastic surgeon on admission\n* Subject understands the study procedures and can provide informed consent to participate in the study and authorization for release of relevant protected health information to the study investigator.\n\nExclusion Criteria:\n\n* Subject has known contraindication to ICG injection, i.e. previous reaction to ICG (adverse event rate 1 in 42,00010)\n* Subject has Iodine allergy\n* Subject is pregnant",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

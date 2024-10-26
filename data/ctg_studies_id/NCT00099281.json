@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00099281",
+    "briefTitle": "DPPE in Combination With Epirubicin and Cyclophosphamide in the Treatment of Breast Cancer",
+    "officialTitle": "A Phase III Study of DPPE Combined With Epirubicin and Cyclophosphamide vs Epirubicin and Cyclophosphamide Alone as First Line Treatment in Metastatic/Recurrent Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Metastases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 700,
+    "primaryOutcomeMeasure": "Overall survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological proof of breast cancer\n* Documented evidence of metastatic and/or recurrent breast cancer\n* Presence of at least one bi-dimensional or uni-dimensional lesion\n* ECOG status 0, 1 or 2\n* Quality of life",
+    "sex": "FEMALE",
+    "minimumAge": "16 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

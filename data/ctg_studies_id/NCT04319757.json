@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04319757",
+    "briefTitle": "ACE1702 in Subjects With Advanced or Metastatic HER2-expressing Solid Tumors",
+    "officialTitle": "A Phase I, Open Label, Dose Escalation Study of ACE1702 Cell Immunotherapy in Subjects With Advanced or Metastatic HER2-expressing Solid Tumors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Locally Advanced Solid Tumor, Metastatic Cancer, Solid Tumor, HER2-positive Gastric Cancer, HER2-positive Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 36,
+    "primaryOutcomeMeasure": "Adverse events, including Dose Limiting Toxicities (DLTs) and Serious Adverse Events (SAEs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent\n* Subjects must be \u2265 18 years of age ( \u2265 20 years of age for Taiwan site)\n* Subject with advanced or metastatic solid tumors that is not amenable to surgical resection and is not eligible or has refused other approved therapeutic options that have demonstrated clinical benefit.\n* Histologically confirmed HER2 expression.\n* Eastern Cooperative Oncology Group (ECOG) Performance Status \u2264 1\n* Measurable or non-measurable evaluable disease according to RECIST 1.1\n* Adequate hematologic and end-organ function at baseline\n* Oxygen saturation via pulse oxygenation \u2265 90% at rest on room air\n\nExclusion Criteria:\n\n* Untreated central nervous system (CNS) metastases\n* Multiple primary malignancies\n* Clinically significant cardiovascular disease such as New York Heart Association (NYHA) cardiac disease (class III or greater)\n* Pregnant or lactating female\n* Serious, uncontrolled medical disorder that, in the opinion of the Investigator, would impair the ability of the subject to receive study treatment\n* History of autoimmune or immune mediated symptomatic disease\n* Any anti-cancer chemotherapy or targeted small molecule therapy, or experimental therapy/device within 4 weeks or 5 half-lives of the drug prior to planned start of the study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

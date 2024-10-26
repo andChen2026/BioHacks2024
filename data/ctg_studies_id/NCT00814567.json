@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00814567",
+    "briefTitle": "Radiation Therapy in Women With Low Risk Early-Stage Breast Cancer Who Have Undergone Breast Conservation Surgery",
+    "officialTitle": "Randomised Trial Testing Intensity Modulated and Partial Organ Radiotherapy After Breast Conservation Surgery for Early Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2018,
+    "primaryOutcomeMeasure": "Local tumor control in the ipsilateral breast (i.e., true recurrence plus new primary tumor) as confirmed by cytological or histological assessment",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of low-risk early stage breast cancer, meeting the following criteria:\n\n  * Invasive adenocarcinoma\n\n    * No invasive carcinoma of classical lobular type\n    * lympho-vascular invasion present or absent\n  * Tumor size pathologically determined to be \u2264 3.0 cm in diameter (pT1-2) (\\< 3.1 cm maximum microscopic diameter of invasive component)\n  * Unifocal disease\n  * Grade I, II, or III disease\n  * Axillary lymph nodes negative or 1-3 nodes positive (pN0 or pN+(1-3))\n* Must have undergone breast conservation surgery with or without adjuvant systemic therapy\n\n  * Minimum microscopic margin of non-cancerous tissue \u2265 2 mm (excluding deep margin if this is at deep fascia)\n* At low risk of local recurrence after radiotherapy (\\< 1% annual risk local recurrence)\n* No prior mastectomy\n* No blood-borne metastases\n\nPATIENT CHARACTERISTICS:\n\n* No prior malignancy except nonmelanoma skin cancer\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior endocrine therapy or chemotherapy\n\n  * Neoadjuvant endocrine therapy allowed provided the tumour is \\< 3.0 cm and all other inclusion criteria are met\n  * No primary endocrine therapy as a replacement for surgery\n* No concurrent chemoradiotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

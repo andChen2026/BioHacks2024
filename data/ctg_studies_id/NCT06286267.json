@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06286267",
+    "briefTitle": "AI-Assisted System for Accurate Diagnosis and Prognosis of Breast Phyllodes Tumors",
+    "officialTitle": "Development of an Artificial Intelligence-Based System for Precise Diagnosis and Prognosis of Breast Phyllodes Tumors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Phyllodes Breast Tumor, Artificial Intelligence, Multiomics, Prognostic Cancer Model, Diagnosis",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 4000,
+    "primaryOutcomeMeasure": "Sensitivity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients diagnosed with a phyllodes tumor of the breast\n\nExclusion Criteria:\n\n* Blurred images, imaging artifacts",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

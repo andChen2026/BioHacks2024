@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05573893",
+    "briefTitle": "PROVIDENCE - Prospective Non-interventional Study (NIS) to Examine Patient-reported Outcomes and Real-world Clinical Data in Patients With HER2-positive or HER2-low Unresectable or Metastatic Breast Cancer Treated With Trastuzumab Deruxtecan",
+    "officialTitle": "Prospective Non-interventional Study (NIS) to Examine Patient-reported Outcomes and Real-world Clinical Data in Patients With HER2-positive or HER2-low Unresectable or Metastatic Breast Cancer Treated With Trastuzumab Deruxtecan",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Neoplasms, Breast Cancer, Neoplasm Metastasis",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 800,
+    "primaryOutcomeMeasure": "Real-world Time To Next Treatment (rwTTNT1)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Adults \u2265 18 years old\n2. Patients (irrespective of sex and gender) with pathologically documented breast cancer that:\n\n   * is unresectable or metastatic\n   * has confirmed HER2+ or HER2-low tumor status by local pathology\n   * was previously treated with one or more anti-HER2 directed therapy if the tumor is HER2+ OR\n   * was previously treated with prior chemotherapy in the metastatic setting or developed disease recurrence during or within 6 months of completing adjuvant chemotherapy if the tumor is HER2-low.\n3. Has documented radiologic progression (during or after most recent treatment)\n4. Patient is eligible for T-DXd treatment in line with the specifications mentioned in the ENHERTU\u00ae SmPC and is scheduled for T-DXd treatment \\*\n5. Patient is able to read and understand either German or English\n6. Signed written informed consent\n\n   * The prescription of the medicinal product is clearly separated from the decision to include the patient in this NIS.\n\nExclusion Criteria:\n\n1. Start of T-DXd treatment for more than 30 days before enrolment (eCRF registration date)\n2. Known hypersensitivity to T-DXd or any of the excipients of the drug\n3. Pregnancy or breast feeding\n4. Current or planned participation in an interventional clinical trial\n5. Current or planned systemic treatment of any tumor other than unresectable or metastatic BC\n\nPatients who have never received any T-DXd dose will be discontinued from the study and will be considered as a late screening failure, no further documentation besides reason and date of discontinuation is needed.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01082068",
+    "briefTitle": "Study of XL147 (SAR245408) or XL765 (SAR245409) in Combination With Letrozole in Subjects With Breast Cancer",
+    "officialTitle": "A Phase 1/2 Dose-Escalation Study of XL147 (SAR245408) or XL765 (SAR245409) in Combination With Letrozole in Subjects With Hormone Receptor-Positive and HER2-Negative Breast Cancer Refractory to a Nonsteroidal Aromatase Inhibitor",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 72,
+    "primaryOutcomeMeasure": "Safety and tolerability of XL147 and letrozole and XL765 and letrozole",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The subject has histologically confirmed breast cancer that is ER+ and/or PGR+.\n* The subject's breast cancer is negative for HER2.\n* The subject has recurrent or metastatic breast cancer that is refractory to a nonsteroidal aromatase inhibitor and has either disease progression or disease recurrence.\n* Subjects previously treated with letrozole must be able to tolerate the approved dose and schedule of letrozole.\n* For subjects enrolled in Phase 2, either archival tumor samples must be available, or the subject must be willing to undergo a fresh biopsy.\n* In Phase 2, at least 30 subjects in each arm must have measurable disease\n* The subject is a postmenopausal female.\n* If a subject is currently receiving bisphosphonates, the subject must have received the bisphosphonates for at least 2 months before starting study treatment.\n* The subject has an Eastern Cooperative Oncology Group (ECOG) performance status of \u2264 1.\n* The subject has adequate organ and marrow function.\n* The subject has no other diagnosis of malignancy or evidence of other malignancy for 2 years before screening for this study (except non-melanoma skin cancer or in situ carcinoma of the cervix).\n* The subject is capable of understanding and complying with the protocol requirements and has signed the informed consent document.\n\nExclusion Criteria:\n\n* The subject has received prior treatment with a selective inhibitor of PI3K, AKT, and/or mTOR.\n* Certain restrictions on prior therapies apply.\n* The subject has not recovered from toxicity due to prior therapy to Grade \u2264 1 or to pre-therapy baseline.\n* The subject has untreated, symptomatic, or progressive brain metastases.\n* The subject has only non-measurable lesions, other than bone, skin, or chest wall metastasis\n* The subject has to start cytotoxic chemotherapy due to rapid progressive disease involving major organs.\n* The subject has prothrombin time/ International Normalized Ratio (PT/ INR) or partial thromboplastin time (PTT) test results at screening that are above 1.3 x the laboratory upper limit of normal.\n* The subject has uncontrolled significant intercurrent illness.\n* The subject has a baseline corrected QT interval (QTc) \\> 470 ms.\n* The subject has a diagnosis of uncontrolled diabetes mellitus.\n* The subject is known to be positive for the human immunodeficiency virus (HIV).\n* The subject has a previously identified allergy or hypersensitivity to components of the study treatment formulation(s).\n* The subject is unable or unwilling to abide by the study protocol or cooperate fully with the investigator or designee.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

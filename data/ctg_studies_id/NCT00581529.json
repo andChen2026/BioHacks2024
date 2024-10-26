@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00581529",
+    "briefTitle": "Partial Breast Irradiation Using Accelerated Intensity Modulated Radiotherapy",
+    "officialTitle": "Partial Breast Irradiation Using Accelerated Intensity Modulated Radiotherapy in Early Stage Breast Cancer After Breast-Conserving Surgery",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 34,
+    "primaryOutcomeMeasure": "Rate of Local Control at 5 Years",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient with unifocal histologically proven breast cancer, with or without calcifications in mammogram.\n* DCIS (Ductal carcinoma in situ) (Tis, Stage 0)\n* Non-lobular infiltrating carcinoma, maximum of 2 cm in diameter. (T1, Stage I)\n* The patient was operated on and the tumor was excised with lumpectomy\n* The tumor is reported with negative margins \\>3 mm, as per our hospital protocol.\n* For invasive carcinoma, axillary lymph nodes are negative by sentinel lymph node (SLN) mapping and biopsy or by formal axillary lymph node dissection.\n* The patient is over 40 years old with life expectancy of at least 5 years\n* Karnofsky status must be at least 70. See appendix I.\n* Pre- and post-menopausal women are eligible for entry.\n* The patient must be aware of the neoplastic nature of her disease and must be willing to consent after being informed of the potential benefits, side effects and risks of radiotherapy. Institutional Review Board approval of this protocol and a consent form is required.\n\nExclusion Criteria:\n\n* No concurrent or neoadjuvant chemotherapy is allowed. Patient is permitted to be treated with chemotherapy or hormone therapy only after completion of the radiation treatment.\n* Patients with diffuse calcifications, multifocal or multicentric disease, lymph-vascular invasion are excluded.\n* Patients cannot participate if there is extensive LCIS (Lobular carcinoma in situ) in specimen or extensive DCIS.\n* Patients are excluded if systemic disease is present or the patient has been irradiated to the ipsilateral breast or the chest wall.\n* Patients who are carriers of BRCA 1/2 mutations or at high risk for hereditary breast cancer due to strong family history (more than one pre-menopausal family member with breast cancer or any ovarian cancer) are excluded because of the increased potential for in-breast recurrence elsewhere in the breast in the absence of whole breast radiotherapy.\n* Patients with scleroderma, or systemic or discoid lupus are excluded due to the potential for significant radiotherapy associated toxicity.\n* Pregnant woman cannot participate in the study.\n* Patients who have serious medical problems which would limit survival to \\<5 years or a psychiatric condition which would prevent informed consent cannot participate.\n* Patients who are unable to lie on their back and raise their arms above their heads in the treatment planning position for radiotherapy are excluded.\n* Patients that have mammographically occult disease are excluded.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

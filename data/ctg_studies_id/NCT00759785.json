@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00759785",
+    "briefTitle": "A Study of Dalotuzumab (MK-0646) in Breast Cancer Patients (MK-0646-013)",
+    "officialTitle": "A Study to Establish Proof-of-Biology for MK-0646 in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 48,
+    "primaryOutcomeMeasure": "Percentage of Participants Demonstrating a Decrease in the Growth Factor Signature (GFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participant has operable stage I-IIIa breast cancer of the following subtypes: (1) estrogen receptor (ER)-negative, progesterone receptor (PR)-negative, and human epidermal growth factor receptor 2 (HER2)-negative breast cancer; (2) ER-positive tumor meeting one of the following criteria: histologic grade 3; histologic grade 2 and PR-negative; histologic grade 2 and Ki67 antigen \u226510%. Tumor is at least 2 cm in diameter as assessed by physical or radiographic exam\n* Participant is female and \u226518 years of age\n\nExclusion Criteria:\n\n* Participant is pregnant, breastfeeding or planning to become pregnant while in the study\n* Participant has received prior chemotherapy, biological therapy or radiation\n* Participant has participated in a clinical trial in the last 30 days\n* Participant has a history of drug or alcohol abuse in the last year\n* Participant is human immunodeficiency virus (HIV) positive. Patient has a history of Hepatitis B or C\n* Participant has poorly controlled diabetes mellitus",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

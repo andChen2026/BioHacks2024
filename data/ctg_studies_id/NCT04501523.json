@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04501523",
+    "briefTitle": "A Prospective, Phase II Trial Using ctDNA to Initiate Post-operation Boost Therapy After NAC in TNBC",
+    "officialTitle": "A Prospective, Phase II Trial Using Circulating Tumor DNA to Initiate Post-operation Boost Therapy After Neoadjuvant Chemotherapy in Triple-negative Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Triple-negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 460,
+    "primaryOutcomeMeasure": "5 years Disease free survival(DFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Must have histologically or cytologically confirmed triple negative (ER-/PR-/HER2-) invasive breast cancer, clinical stage II-III at diagnosis (AJCC 6th edition) based on initial evaluation by physical examination and/or breast imaging prior to study registration.ER and PR will be considered negative if \u2264 1% of cells stain weakly positive. HER2 will be considered negative if scored 0 or 1+ by immunohistochemistry (IHC) or 2+ by IHC associated with a fluorescence in situ hybridization (FISH) ratio of \\< 2.0 or \\< 6 copies per cell.\n* Must receive preoperative (neoadjuvant) chemotherapy. NOTE: Acceptable preoperative regimens include those recommended by NCCN guidelines. Participants who received preoperative therapy as part of a clinical trial may enroll.\n* ctDNA positive at baseline, after NAC or after surgery\n* Eastern Cooperative Oncology Group (ECOG) performance status 0, 1 or 2\n* Written informed consent to provide research blood samples and tumor samples\n* Patients must be willing to have frequent blood tests (every 3 months ) and receive a 12 month course of tislelizumab if randomised to tislelizumab treatment on ctDNA detection\n* No evidence of distant metastatic disease on staging scans conducted at the time of diagnosis\n\nExclusion Criteria:\n\n* Previously participated in other interventional trials\n* Previous malignancy within 3 years of breast cancer diagnosis\n* Pregnancy or breastfeeding\n* No written consent\n* Unable to receive standard NAC and subsequent radiotherapy(if needed)\n* Active autoimmune disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

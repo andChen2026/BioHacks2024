@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04045496",
+    "briefTitle": "A First-in-Human, Phase 1 Study of JAB-3312 in Adult Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase 1, Multi-Center, Open-Label Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Preliminary Evidence of Antitumor Activity of JAB-3312 in Adult Patients With Advanced Solid Tumors",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Non-small Cell Lung Cancer, Colorectal Cancer, Pancreatic Ductal Carcinoma, Esophageal Squamous Cell Carcinoma, Head and Neck Squamous Cell Carcinoma, Breast Cancer, Other Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Number of participants with dose limiting toxicities",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Subject must be \u226518 years-of-age at the time of signature of the informed consent form (ICF).\n2. Eastern Cooperative Oncology Group (ECOG) Performance Status score of 0 or 1.\n3. Subjects with histologically or cytologically confirmed advanced solid tumors which have progressed despite standard therapy or for which no standard therapy exists.\n4. Subjects with life expectancy \u22653 months.\n5. Patients must have at least one measurable lesion as defined by RECIST v1.1.\n6. Patients who have sufficient baseline organ function.\n\nExclusion Criteria:\n\n1. Severe autoimmune disease (including immune-related adverse events of prior immune-oncology therapy) or autoimmune disorder that requires chronic systemic corticosteroid treatment at immunosuppressive doses (prednisone \\>10 mg/day or equivalent).\n2. Known malignant central nervous system disease other than neurologically stable, treated brain metastases.\n3. History or evidence of interstitial lung disease, radiation pneumonitis which required steroid treatment, or idiopathic pulmonary fibrosis, pleural or pericardial effusion that required intervention such as a drain.\n4. 8. History of seropositive status for hepatitis B, hepatitis C and human immunodeficiency virus (HIV).\n5. History or evidence of active infections (Grade \u22652).\n6. History or evidence of significant inflammatory or vascular eye disorder.\n7. History of an allogeneic bone marrow or solid organ transplant.\n8. Use of systemic anti-cancer agent (except for anti-androgen therapy for prostate cancer) or investigational drug \u226428 days prior to the first dose of JAB-3312.\n9. History of radiation therapy \u226428 days prior to the first dose of JAB-3312, or likely to require radiation therapy at any time until the 30 days after the last dose of JAB-3312.\n10. History of transfusion of whole blood, red blood cell or platelet packets \u22642 weeks before the start of treatment.\n11. Subjects experiencing unresolved Grade \\>1 toxicity before the start of treatment.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

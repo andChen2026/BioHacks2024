@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02482376",
+    "briefTitle": "Preoperative Single-Fraction Radiotherapy in Early Stage Breast Cancer",
+    "officialTitle": "A Phase II Preoperative Single-Fraction Partial Breast Radiotherapy in Early Stage Breast Cancer: Analysis of Pathologic Response",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 68,
+    "primaryOutcomeMeasure": "Physician reported rates of good/excellent cosmesis.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women with a biopsy proven diagnosis of ductal carcinoma in situ or invasive carcinoma of the breast\n\n   a. Biopsy tissue (either slides or block) from outside institutions will be reviewed to confirm diagnosis.\n2. Breast preservation candidates (no prior breast or nodal radiotherapy, no imaging evidence of multicentric or multifocal disease, no pregnant women, and no comorbid conditions precluding surgery)\n3. Clinical T1N0M0 invasive carcinoma or Ductal carcinoma in situ (DCIS) \\< or equal to 2cm\n4. 60 years of age or older or 50-59 with a low Oncotype score (0-17) Oncotype is not required for women diagnosed with DCIS.\n5. Estrogen receptor positive (ER+), Human epidermal growth factor 2 negative (HER2-) HER-2 status is not required for women diagnosed with DCIS.\n6. Women of child-bearing potential must consent to use adequate contraception during the course of the study. Female subjects must agree to use a medically acceptable contraceptives including: (1) surgical sterilization (such as a tubal ligation or hysterectomy), (2) approved hormonal contraceptives (such as birth control pills, patches, implants or injections), (3) barrier methods (such as a condom or diaphragm) used with a spermicide, or (4) an intrauterine device (IUD). Contraceptive measures such as Plan B (TM), sold for emergency use after unprotected sex, are not acceptable methods for routine use.\n7. White blood cells (WBC) \\> 3000, Hemoglobin ( Hgb) \\> 9, platelets \\>100000 within 30 days of consent\n8. Eligible for contrasted magnetic resonance imaging (MRI) on initial evaluation with glomerular filtration rate (GFR) \u2265 60 ml/min. A diagnostic MRI ordered within one month will be considered an acceptable alternative and will not be repeated.\n9. Outside breast imaging will be reviewed at Duke to confirm findings are consistent with trial eligibility.\n\nExclusion Criteria:\n\n1. Neoadjuvant chemotherapy\n2. Breast implant in the breast to be treated with SBRT\n3. Medical conditions that may increase risk for poor cosmetic outcome (i.e. Lupus, rheumatoid arthritis, scleroderma)\n4. Subjects unable to receive study treatment planning secondary to body habitus or inability to lie flat on the stomach at length\n5. HER2 positive\n6. Positive serum pregnancy test\n7. Insufficient breast imaging to judge clinical stage\n8. Subjects without placement of a biopsy clip at the diagnostic procedure who are unwilling to undergo clip placement.\n9. Subjects in whom treatment planning constraints cannot be met",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

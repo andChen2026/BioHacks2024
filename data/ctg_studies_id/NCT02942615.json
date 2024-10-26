@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02942615",
+    "briefTitle": "The Safety Management of Cardiac Toxicity in Breast Cancer Patients Under Multidiscipline Therapy.",
+    "officialTitle": "A Randomized Multi-center Phase III Study About the Safety Management of Cardiac Toxicity in Breast Cancer Patients Under Multidiscipline Therapy.",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Neoplasms, Cardiotoxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 220,
+    "primaryOutcomeMeasure": "cardiac toxicity event free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients willing to participate the research and sign the informed consent file;\n* Patients aged 18-80 years;\n* KPS\u226570;\n* Pathological diagnosis for invasive breast cancer;\n* Patients received anthracycline/paclitaxel based chemotherapy, or herceptin based targeted therapy;\n* No functional heart disease;\n* LVEF\u226550%;\n* Patients received breast conserving surgery;\n* Patients received modified radical mastectomy: T1-2 with N1-3 or T3-4 with any N;\n* Tumor margin negative;\n* No metastases;\n* No other malignant tumor history.\n\nExclusion Criteria:\n\n* Patients with metastases;\n* Tumor margin positive;\n* Patients received modified radical mastectomy with T1-2 and N0;\n* Patients have other malignant tumor;\n* Patients have a history of heart disease;\n* Patients received chest radiotherapy previously;\n* Patients with severe organic and functional disease;\n* Unqualified patients with sufficient reasons;\n* Cannot or no willing to sign the informed consent file;\n* Patients with autoimmune disease;\n* Women with pregnancy, planned pregnancy or lactating.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

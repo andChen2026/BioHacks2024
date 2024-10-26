@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05275569",
+    "briefTitle": "Personalized Electroacupuncture Treatment for Chemotherapy-induced Nausea and Vomiting in Breast Cancer (PET)",
+    "officialTitle": "Personalized Electroacupuncture Treatment Combined With Standard Antiemetic Drugs for Chemotherapy-induced Nausea and Vomiting in Patients With Breast Cancer Receiving Highly Emetogenic Chemotherapy",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 234,
+    "primaryOutcomeMeasure": "Proportion of Patients With Significant Nausea, Rescue Treatment and Number of Times of Vomiting Occurs After chemotherapy (complete protection).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. 18 years of age or older, of any nationality;\n2. Eastern Cooperative Oncology Group performance status of 0-2;\n3. For patients with breast cancer, molecular typing is not limited, receiving for the first time chemotherapy with anthracyclines+ cyclophosphamide (EC or AC) or carboplatin (AUC\u22654)/cisplatin -based HEC regimen. Patients with previous chemotherapy use could be enrolled if they received it \\>3 months;\n4. Predicted life expectancy of \u22653 months;\n5. Adequate bone marrow, kidney, and liver function;\n6. Adequate contraception if premenopausal women;\n7. Written informed consent by the patient before enrolment.\n\nExclusion Criteria:\n\n1. Patients already submitted to chemotherapy;\n2. Is scheduled to receive any non-HEC on Day 1;\n3. Received or is scheduled to receive radiation therapy to the abdomen, pelvis, head and neck within 1 week prior to Day 1 or between Days 1 to 5 in cycle 1;\n4. Has symptomatic primary or metastatic symptomatic central nervous system malignancy causing nausea and/or vomiting;\n5. Have ongoing emesis or CTCAE grade 2 or greater nausea;\n6. Significant mental conditions;\n7. Any allergies to study drug, antiemetics or dexamethasone;\n8. Significantly abnormal laboratory values (platelets, absolute neutrophils, AST, ALT, bilirubin or creatinine);\n9. Patients who are pregnant or breast-feeding;\n10. Inflammatory skin reaction;\n11. Has lymphedema in acupuncture stimulation area;\n12. Patients who are afraid of electroacupuncture stimulation or allergic to stainless steel needles;\n13. Received acupuncture treatments for any conditions less than 4 weeks before HEC;\n14. The current use of any drugs with antiemetic activity (e.g. 5-HT3 RA, dopamine receptor antagonist, minor tranquilizer, antihistamine);\n15. Patients with concomitant severe diseases or with a predisposition to emesis such as gastrointestinal obstruction, active peptic ulcer, hypercalcemia and symptomatic brain metastasis;\n16. Patients receiving other concomitant antiemetic treatments or submitted to antiemetic treatments in the 24 hours before chemotherapy;\n17. Patients receiving concomitant steroids, except when administered at physiologic doses;\n18. Patients receiving concomitant benzodiazepines, except when used for nocturnal sedation.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

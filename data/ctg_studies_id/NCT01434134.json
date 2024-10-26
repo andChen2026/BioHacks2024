@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01434134",
+    "briefTitle": "Prevention of Cardiac Dysfunction During Adjuvant Breast Cancer Therapy",
+    "officialTitle": "Prevention of Cardiac Dysfunction During Adjuvant Breast Cancer Therapy: A Randomized, Placebo-controlled, 2x2 Factorial, Double Blind Trial of Candesartan and Metoprolol",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Heart Failure",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 130,
+    "primaryOutcomeMeasure": "Change in left ventricular ejection fraction, as assessed by cardiac MRI",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 18-70 years\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n* Serum creatinine \\< 140 \u03bcmol/L or estimated creatinine clearance \\> 60 ml/min (using the modification of diet and renal disease (MDRD) formula)\n* Systolic blood pressure \\>= 110 mgHg and \\< 170 mmHg\n* LVEF \\>= 50%\n\nExclusion Criteria:\n\n* Hypotension, defined as systolic blood pressure \\< 110 mmHg\n* Bradycardia, defined as heart rate \\< 50 b.p.m.\n* Prior anthracycline chemotherapy regimen\n* Prior malignancy requiring chemotherapy or radiotherapy\n* Symptomatic heart failure\n* Systolic dysfunction (LVEF \\< 50%)\n* Clinically significant coronary artery disease, valvular heart disease, significant arrhythmias, or conduction delays.\n* Uncontrolled arterial hypertension defined as systolic blood pressure \\> 170 mm Hg\n* Treatment with ACEI, ARB or beta-blocker within the last 4 weeks prior to study start\n* Intolerance to ACEI, ARB or beta-blocker\n* Uncontrolled concomitant serious illness\n* Pregnancy or breastfeeding\n* Active abuse of drugs or alcohol\n* Suspected poor compliance\n* Inability to tolerate the MRI scanning protocol",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

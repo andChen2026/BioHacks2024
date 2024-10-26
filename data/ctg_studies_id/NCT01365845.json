@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01365845",
+    "briefTitle": "Proton Therapy for Lymph Nodes in Breast Cancer",
+    "officialTitle": "Proton Therapy for Peripheral Lymph Nodes in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 18,
+    "primaryOutcomeMeasure": "Volume of Heart Receiving \u2265 5 Gray (Gy)/Cobalt Gray Equivalent (CGE)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathologically confirmed invasive adenocarcinoma of the breast stage I-III (TX, T0-4, N0-3) with medially located tumor and/or axillary node invasion.\n* Patients must have undergone either mastectomy or breast conservation surgery.\n* Patients are required to have axillary staging which can include sentinel node biopsy alone if sentinel node is negative.\n* Patient must require peripheral lymph node radiation per physician discretion.\n\nExclusion Criteria:\n\n* Evidence of distant metastasis (M1).\n* Prior radiotherapy to the area of interest.\n* Prior history of cardiovascular disease per physician discretion.\n* Prior or concurrent cancer other than non-melanomatous skin cancer unless disease free for at least 5 years.\n* Collagen vascular disease, specifically dermatomyositis with a CPK level above normal or with an active skin rash, systemic lupus erythematosis or scleroderma.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

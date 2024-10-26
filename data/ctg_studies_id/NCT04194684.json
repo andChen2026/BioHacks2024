@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04194684",
+    "briefTitle": "Nab-Paclitaxel in Patients With ER+/HER2- Recurrent Metastatic Breast Cancer",
+    "officialTitle": "Nab-Paclitaxel in Patients With ER+/HER2- Recurrent Metastatic Breast Cancer\uff1aa Multi-center Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 108,
+    "primaryOutcomeMeasure": "Objective Response Rate (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female, 18 to 70 years old;\n2. histologically confirmed recurrent or metastatic breast cancer, ER-positive (\\> 10%), HER-2 negative (Definition: immunohistochemical \\[IHC\\] 0, 1+, or in situ hybridization \\[ISH\\] negative It is defined as the ratio of HER2 gene copy number to the number of CEP17 signals is less than 2.0, or for single probe detection, the HER2 gene copy number is less than 6);\n3. After transfer, \u22642 lines and \u22651 line endocrine therapy, and progress;\n4. at least one measurable lesion according to RECIST 1.1 ;\n5. ECOG score\u22642;\n6. Expected survival\u22653 months;\n7. Bone marrow function: white blood cells\u22653\u00d7109/L, neutrophils\u22651.5\u00d7109/L, platelets \u2265100\u00d7109 / L, hemoglobin\u226590g / L;\n8. Liver and kidney function: total bilirubin (TBIL) \u22641.5 times the upper limit of normal value, alanine aminotransferase (ALT), aspartate aminotransferase (AST) are \u22642.5 times the upper limit of normal value; if due to liver metastasis, the above indicators \u22645 times the upper limit of normal value; serum creatinine (Cr) \u22641.5 times the upper limit of normal value;\n9. taxane adjuvant chemotherapy for more than 1 year;\n10. Women of childbearing age have a negative pregnancy test and must agree to take effective contraceptive measures during the study and within 3 months after the last dose\n11. Sign written informed consent before the test.\n\nExclusion Criteria:\n\n1. Received chemotherapy after transfer;\n2. Patients with congestive heart failure with a grade II or above identified by the New York Heart Association (NYHA) score;\n3. Uncontrolled brain metastases;\n4. Severe systemic infections;\n5. Peripheral neuropathy of degree II or above within 4 weeks before enrollment, or patients known to be allergic or intolerant to this drug;\n6. Important organ diseases:liver and kidney dysfunction, history of myocardial infarction, unstable heart disease, chronic active hepatitis, etc .;\n7. History of other malignant tumors within 5 years (except cured cervical cancer or skin basal cell carcinoma);\n8. Received other anti-tumor treatments or other experimental drugs within 1 month before starting treatment;\n9. Patients participating in other clinical trials at the same time;\n10. Any medical condition in which the investigator considers the patient unsuitable for study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

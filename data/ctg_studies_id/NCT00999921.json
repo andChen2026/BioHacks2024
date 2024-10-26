@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00999921",
+    "briefTitle": "Effects of Tamoxifen in Premenopausal Women With Benign Breast Disease Not at High-Risk of Developing Breast Cancer",
+    "officialTitle": "A Single Blinded Randomized Controlled Trial of the Comparative Effects of Tamoxifen and Evening Primrose Oil in Premenopausal Non-high Risk Patients With Benign Breast Disease With Respect to the Estrogen Receptor Status.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Benign Breast Disease, Fibrocystic Disease of Breast, Fibroadenoma, Mastalgia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 256,
+    "primaryOutcomeMeasure": "Number of Participants Analysed for Reduction in Lump Size ( 60% Reduction in Lump Size Considered to be a Satisfactory Response)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinical, Radiographic and Histological diagnosis of Benign Breast Disease.\n* Benign Breast disease amenable to hormonal therapy.\n\nExclusion Criteria:\n\n* Postmenopausal women.\n* Premenopausal women with pregnancy or other contraindications to tamoxifen.\n* Girls less than 16 years.\n* Very large lesions which require surgery for cosmesis.\n* High risk breast lesions like epitheliosis, atypia or atypical hyperplasia on histopathology or susceptible lesions prone to develop malignancy.\n* Lesions like duct ectasia where hormone therapy is not likely to be of benefit.\n* Inflammatory lesions which are amenable to antibiotic therapy or surgical drainage for treatment.\n* Patients unwilling to undergo treatment.",
+    "sex": "FEMALE",
+    "minimumAge": "16 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

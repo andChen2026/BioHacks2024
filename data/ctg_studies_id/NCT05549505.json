@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05549505",
+    "briefTitle": "A Trial Using ARV-471 or Anastrozole in Post-Menopausal Women With Breast Cancer Prior to Surgery",
+    "officialTitle": "An Open-label, Randomized, Non-comparative Phase 2 Study of ARV-471 or Anastrozole in Post-menopausal Women With ER+/HER2- Breast Cancer in the Neoadjuvant Setting",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 152,
+    "primaryOutcomeMeasure": "Evaluate the effects of ARV-471 and anastrozole, respectively, on Ki-67 expression in tumors after 2 weeks of treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Post-menopausal females \u2265 18 years\n* Histologically or cytologically confirmed ER+ and HER2- breast cancer (per local assessment). ER and HER2 status must be documented:\n\n  * ER+ disease, with ER staining of \u2265 10% of tumor cell nuclei by IHC per ASCO/CAP Guidelines (Allison 2020).\n  * HER2- disease by either IHC or in situ hybridization per ASCO/CAP guidelines\n  * Ki-67 score \u2265 5%, analyzed locally\n* Clinical T1c-T4c, N0-N2, M0 breast cancer amenable to definitive surgical resection, without bilateral breast ductal carcinoma in situ or invasive breast cancer\n* The primary tumor must be at least 1.5 cm by imaging\n* ECOG performance status of 0 or 1 Willingness to undergo a screening biopsy, an on-treatment biopsy and surgical resection\n\nExclusion Criteria:\n\n* Any other active malignancy within 3 years prior to enrollment, except for adequately treated basal cell or squamous cell skin cancer, or cervical carcinoma in situ\n* Any of the following in the previous 6 months: Myocardial infarction; Severe unstable angina; Coronary/peripheral artery bypass graft; Symptomatic congestive heart failure (New York Heart Association class III or IV); Cerebrovascular accident; Transient ischemic attack; Symptomatic pulmonary embolism or other clinically significant episode of thromboembolism\n* Any of the following in the previous 6 months: Congenital long QT syndrome; Torsade de Pointes; Sustained ventricular tachyarrhythmia and ventricular fibrillation; Left anterior hemiblock (bifascicular block); Ongoing cardiac dysrhythmias of NCI CTCAE \u2265 Grade 2; Atrial fibrillation of any grade (\u2265 Grade 2 in the case of asymptomatic lone atrial fibrillation)\n* QTcF \\> 470 msec\n* Active, uncontrolled bacterial, fungal or viral infection, including HBV, HCV, and HIV or AIDS-related illness\n* Active inflammatory gastrointestinal disease, chronic diarrhea, known uncontrolled diverticular disease, or previous gastric resection or lap band surgery\n* Cirrhosis meeting criteria for Child Pugh B and C\n* Prior treatment for breast cancer including systemic therapy (eg, chemotherapy, hormonal therapy), radiation, surgery, or any investigational agents\n* Any live vaccines within 14 days of planned start of first dose of study drug.\n* Major surgery (as defined by the Investigator) within four weeks of first dose of study drug",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

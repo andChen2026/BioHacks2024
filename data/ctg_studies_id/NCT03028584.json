@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03028584",
+    "briefTitle": "Survivorship Care Plans in a Community Oncology Practice",
+    "officialTitle": "Feasibility of Delivering Electronic Health Record (EHR)-Based Survivorship Care Plans and Planning to Cancer Survivors in a Community Oncology Practice",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Prostate Cancer, Colorectal Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "EHR-based SCPs and care planning",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinicians: Provide cancer care to BrCa, CRCa or PrCa\n* Clinicians: Are a physician, advanced practice practitioner, nurse, or equivalent\n* Patients: Have a diagnosis of breast, colorectal, or prostate cancer for which and EHR-based SCP will be provided\n* Patients: Have been treated with curative intent (e.g. surgery, chemotherapy and/or radiation therapy) for a Stage 1-3 cancer diagnosis\n* Patients: Have received some part of active cancer treatment\n* Patients: Have complete active treatment (defined as surgery, chemotherapy, and/or radiation therapy). HER2-based and endocrine therapies may be ongoing and do NOT need to have been completed\n\nExclusion Criteria:\n\n* Unable to complete or unwilling to answer questions in English\n* Patients: Received all active cancer treatment elsewhere (e.g. \"observation - only\" patients)\n* Patients: Have metastatic cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

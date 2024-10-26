@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00450359",
+    "briefTitle": "Computer-Aided Breast Cancer Detection in Women Undergoing Screening Mammography",
+    "officialTitle": "A Prospective Evaluation of Computer Aided Detection (CAD) in the NHS Breast Screening Programme [CADET II]",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 30000,
+    "primaryOutcomeMeasure": "Breast cancer detection rate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Currently undergoing 2-view mammography for routine breast cancer screening at any of the following participating National Health Services Breast Cancer Screening Program centers:\n\n  * Manchester\n  * Coventry\n  * Nottingham\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Menopausal status not specified\n\nPRIOR CONCURRENT THERAPY:\n\n* Not specified",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

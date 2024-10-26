@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01067989",
+    "briefTitle": "Low-Dose/Metronomic(LDM)Chemotherapy for Metastatic Breast Cancer",
+    "officialTitle": "Antiangiogenic Treatment Strategy With Metronomic Chemotherapy Regimen Combined With a Cox-2 Inhibitor and a Bisphosphonate for Patients With Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Chemotherapy, Breast Cancer, Metastatic",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 22,
+    "primaryOutcomeMeasure": "To determine the efficacy by rate of clinical benefit (CB): rate of response (RR) + rate of Stable Disease (SD)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologic proof of infiltrating duct carcinoma of breast.\n* Her-2 negative tumors.\n* ECOG performance status: 0-1.\n* Presence of measurable disease: primary and/or metastatic.\n* CBC showing normal values or any toxicity limited to grade I.\n* SMA showing liver and renal functions \\< 1.5 normal values\n* previous treatment with an anthracycline and with a taxane is mandatory either as neoadjuvant/adjuvant treatment or for metastatic disease.\n* previous treatment by chemotherapy for metastatic disease is allowed (up to three lines, allowing for MTD Capecitabine to be one of them).\n* previous treatment by a bisphosphonate is allowed. However,those patients who up to the study had not received any bisphosphonate and those who had received Clodronate- will receive Pamidronate; those who had been under Pamidronate- will receive Zoledronate; those who had been under Zoledronate- will continue with it.\"\n* The patient's signature on the informed consent.\n\nExclusion Criteria:\n\n* Her-2 neu positive tumor\n* Inability to visit the clinic for outpatient treatment and evaluation\n* Active/symptomatic brain metastases.\n* ECOG performance status: 2-4.\n* Presence of Hand -Foot syndrome, at grade \\> 2.\n* CBC with any grade \\>2 toxicity\n* SMA showing liver functions \\> 1.5 normal values\n* SMA showing renal functions \\> normal values -Current continuous treatment by steroids or by NSAIDs, or by anti- coagulants for \"non protocol\" reasons.\n* presence of exclusively non-measurable disease (I/E: exclusive bone disease with non-representative tumor markers).\n* previous radiotherapy to the \"only measurable disease\".\n* pleural or peritoneal effusion that may represent a \"third space\".\n* history of active peptic ulcer.\n* symptomatic coronary heart disease.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

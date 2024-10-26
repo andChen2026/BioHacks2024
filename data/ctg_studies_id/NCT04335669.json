@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04335669",
+    "briefTitle": "NordicTrip, a Translational Study of Preoperative Chemotherapy in TNBC",
+    "officialTitle": "A Translational Randomized Phase III Study Exploring the Effect of the Addition of Capecitabine to Carboplatine Based Chemotherapy in Early \"Triple Negative\" Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Triple Negative Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 325,
+    "primaryOutcomeMeasure": "Pathological complete response rate.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Signed written informed consent approved by the Ethical Review Board (IRB).\n2. Age \u2265 18 to \\< 76 years.\n3. Histologically confirmed unilateral adenocarcinoma of the breast where neoadjuvant chemotherapy followed by definitive surgery is planned.\n4. Node positive disease (N1-3) or if clinically N0 Tumor size \\>20 mm. When deciding T-stage the following hierarchy applies,\n\n   1. MRI\n   2. Ultrasound\n   3. Mammography\n   4. Clinical examination\n5. ER negative tumor defined by at least one the following:\n\n   1. ER \\< 1% cells positive by immunohistochemistry (IHC) or ER \u2264 10% cells positive by IHC and basal-like subtype using gene expression analysis\n   2. ER \\< 10% cells positive by IHC and PgR \\< 10% cells positive by IHC\n6. HER2-normal tumor defined according to applicable national guidelines\n7. Consent for germline mutation screening for BRCA1, BRCA2 and other inherited breast cancer associated genes.\n8. WHO performance status 0 or 1.\n9. Negative pregnancy test in women of childbearing potential (premenopausal or \\<12 months of amenorrhea post-menopause and who have not undergone surgical sterilization).\n10. Willingness of female patients of childbearing potential, male patients, and their sexual partners to use an effective means of contraception during the treatment period and at least 6 months thereafter.\n11. Willingness by the patient to undergo treatment and study related procedures according to the protocol.\n\nExclusion Criteria:\n\n1. Clinical or radiological signs of metastatic disease.\n2. History of other malignancy within the last 5 years, except for carcinoma in situ of the cervix or non-melanoma skin cancer.\n3. Previous chemotherapy for cancer or other malignant disease.\n4. Charlson comorbidity index, excluding score for malignancy: (CCI) \\> 2, Comment: In patients 70-75 a CCI = 3 is allowed, see appendix B.\n5. Inadequate organ function, suggested by the following laboratory results:\n\n   a Absolute neutrophil count \\< 1,5 x 109/L\n\n   b Platelet count \\< 100 x 109/L\n\n   c Hemoglobin \\< 90 g/L\n\n   d Total bilirubin greater than the upper limit of normal (ULN) unless the patient has documented Gilbert\u00b4s syndrome\n\n   e ASAT (SGOT) and/or ALAT (SGPT) \\> 2,5 x ULN\n\n   f ASAT (SGOT) and/or ALAT (SGPT) \\> 1,5 x ULN with concurrent serum alkaline phosphatase (ALP) \\> 2,5 x ULN\n\n   g Serum creatinine clearance \\< 50 ml/min\n6. Concurrent peripheral neuropathy of grade 3 or greater (NCI-CTCAE, Version 5.0).\n7. Patient who is actively breast feeding.\n8. Assessed by the Investigator to be unable or unwilling to comply with the requirements of the protocol.\n9. Patients with known deficiency of the DPD-enzyme who completely lack DPD.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

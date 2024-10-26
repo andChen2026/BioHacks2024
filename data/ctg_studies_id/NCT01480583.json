@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01480583",
+    "briefTitle": "GRN1005 Alone or in Combination With Trastuzumab in Breast Cancer Patients With Brain Metastases",
+    "officialTitle": "A Phase II, Multi-center, Open-label Study Evaluating GRN1005 Alone or in Combination With Trastuzumab in Breast Cancer Patients With Brain Metastases",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Brain Metastases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 85,
+    "primaryOutcomeMeasure": "Intra-cranial objective response rate in breast cancer patients with brain metastasis",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n1. Age \u2265 18 years\n2. Histologically or cytologically-documented breast cancer (HER2 status and ER/PgR status must be known)\n3. Brain metastasis from breast cancer with or without prior WBRT\n4. At least one radiologically-confirmed and measurable metastatic brain lesion (\u2265 1.0 cm in the longest diameter) by Gd-MRI of the brain \\< 14 days prior to first dose (Metastatic brain lesions previously treated with SRS may not be target or non-target lesions)\n5. Patients must be neurologically stable: On stable doses of corticosteroids and anticonvulsants (not EIAEDs, including phenytoin, phenobarbitol, carbamazepine, fosphenytoin, primidone, oxcarbazepine) for \u2265 5 days prior to obtaining the baseline Gd-MRI of the brain and \u2265 5 days prior to first dose\n6. KPS \u2265 70%\n7. Completed WBRT for intra-cranial lesions \u2265 28 days prior to first dose\n\nKey Exclusion Criteria:\n\n1. NCI CTCAE v4.0 Grade \u2265 2 neuropathy\n2. CNS disease requiring immediate neurosurgical intervention (e.g., resection, shunt placement, etc.)\n3. Known leptomeningeal disease",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

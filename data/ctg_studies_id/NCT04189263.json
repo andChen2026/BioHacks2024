@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04189263",
+    "briefTitle": "BREADS: Breast Adjuvant Diet Study",
+    "officialTitle": "IIT2018-21-Amersi-BREADS BREADS: Breast Adjuvant Diet Study",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Mean change in weight",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed breast cancer\n* Planning to start adjuvant hormonal therapy using an aromatase inhibitor or has started adjuvant hormonal therapy using an aromatase inhibitor\n* Able to read, write, and understand English\n* BMI \u2265 24 kg/m2\n* Age \u2265 18 years\n* ER and/or PR positive (defined as having \u2265 1% staining for ER and/or PR on IHC)\n* Post-menopausal\n\n  * The absence of menstrual cycles in women who have not undergone hysterectomy for at least 12 months preceding cancer diagnosis OR\n  * History of a bilateral oophorectomy OR\n  * History of a hysterectomy and age \\>55 OR\n  * No menses for \\<1 year with FSh and estradiol levels in postmenopausal range according to institutional standards\n* ECOG Performance Status 0 or 1\n* Female\n* Written informed consent obtained from subject and ability for subject to comply with requirements of the study\n\nExclusion Criteria:\n\n* Use of hormonal therapy other than aromatase inhibitors\n* History of other malignancy within the past 5 years, except for malignancies with a \\> 95% likelihood of cure (e.g. thyroid cancer, non-melanoma skin cancer)\n* Already consuming a severe carbohydrate restricted (\\<20 g carbohydrates per day) diet or vegetarian diet\n* Currently on or plans to start chemotherapy (HER2/neu targeted therapy okay)\n* Medical comorbidities that in the opinion of the investigator limits the patient's ability to complete the study\n* Symptomatic metastases (Metastases allowed if asymptomatic)\n* Current use of appetite suppressant medications\n* Current use of any weight loss medications including herbal weight loss supplements or if patients are enrolled in a diet/weight loss program",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

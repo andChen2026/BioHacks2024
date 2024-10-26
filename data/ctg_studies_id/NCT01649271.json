@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01649271",
+    "briefTitle": "Phase I Trial of Afatinib and Trastuzumab in HER2 Overexpressing Cancer.",
+    "officialTitle": "Phase I Trial of Afatinib in Combination With 3 Weekly Trastuzumab in Patients With Tumours Overexpressing HER2. Once the MTD of Afatinib With 3 Weekly Trastuzumab Was Established the Safety of This Dose Will be Assessed Also in Combination With Weekly Trastuzumab.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Stomach Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 13,
+    "primaryOutcomeMeasure": "MTD of Afatinib in Combination With Trastuzumab Based on the Number of Patients With DLTs During the First Treatment Cycle (Afatinib).",
+    "eligibilityCriteria": "Inclusion criteria:\n\n1. Patients aged 18 years and older\n2. Patients with cancers overexpressing HER2 by Immunohistochemistry test( IHC) 3+ and/or IHC 2+ with positive gene amplification by FISH (confirmation on archived tissue needed)\n3. Written informed consent that is consistent with ICH-GCP guidelines.\n4. Patients must be eligible for treatment with trastuzumab.\n5. Patients must have adequate organ function (kidney, liver, bone marrow, cardiac)\n6. Eastern Cooperative Oncology Group (ECOG) = 0 or 1.\n7. Measurable disease according to RECIST 1.1 (Phase Ib).\n\nExclusion criteria:\n\n1. Active brain metastases.\n2. Prior treatment with erbB family targeting therapies within the past four weeks before start of therapy or concomitantly with the trial other than trastuzumab and/or lapatinib.\n3. Patients having more than 2 lines of chemotherapy for the treatment of metastatic breast cancer (Phase Ib).",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

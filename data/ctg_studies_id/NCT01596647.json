@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01596647",
+    "briefTitle": "Pharmacokinetic Drug-drug Interaction Study of Dovitinib (TKI258) in Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase I, Multi-center, Open-label, Drug-drug Interaction Study to Assess the Effect of TKI258 on the Pharmacokinetics of Caffeine, Diclofenac, Omeprazole and Midazolam Administered as a Four-drug Cocktail in Patients With Advanced Solid Tumors, Excluding Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Solid Tumors, Excluding Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 39,
+    "primaryOutcomeMeasure": "Probe substrate pharmacokinetics (PK) parameters: Cmax (Maximum (peak) concentration of drug)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with a cytopathologically or histopathologically confirmed diagnosis of an advanced solid tumor, excluding breast cancer which has progressed despite standard therapy or for which no standard therapy exists\n* ECOG performance status 0 or 1 and anticipated life expectancy \u2265 3 months\n* Patient must meet protocol-specific laboratory values\n\nExclusion Criteria:\n\n* Patients with brain metastases\n* Patients who have received or who are expected to receive any prohibited medications and therapies\n* Patients who have received CYP1A2 inducer, CYP2C9/2C19 inducer or CYP3A4 inducer medications within 30 days prior to start study treatment or are expected to receive during the first 14 days after starting the study treatment\n* Patients with a known hypersensitivity to benzodiazepines\n* Patients who have not recovered from previous anti-cancer therapies\n* Patient with impairment of gastrointestinal (GI) function or GI disease that may significantly alter the absorption of TKI258\n* Patients who have concurrent severe and/or uncontrolled concomitant medical conditions that could compromise participation in the study\n* Female patients who are pregnant or breast-feeding\n* Fertile males or women not willing to use highly effective methods of contraception\n* Other protocol-defined inclusion/exclusion criteria will apply",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

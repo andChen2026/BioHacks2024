@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00871858",
+    "briefTitle": "Anastrozole or Fulvestrant in Treating Postmenopausal Patients With Breast Cancer",
+    "officialTitle": "Response to Neoadjuvant Treatment With Anti-aromatase Anastrozole and Anti-estrogen Fulvestrant: a Randomized Phase II Study in Postmenopausal Patients With Hormone-sensitive Non-metastatic Breast Cancer and an Exploratory Study of Molecular Signatures of Response.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Objective Response Rate (ORR) Determined by Clinical Palpation",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive breast cancer, meeting 1 of the following criteria:\n\n  * SBR grade I-II disease (patients \\< 65 years of age)\n  * SBR grade I-III disease (patients \\> 65 years of age)\n* T2 (2-5 cm), T3, or T4B, and N0-1 disease\n* No metastatic disease\n* Breast lesion not amenable to breast-conserving resection\n* No inflammatory breast cancer\n* No prior breast cancer\n* Hormone receptor status:\n\n  * Estrogen receptor- and/or progesterone receptor-positive\n\nPATIENT CHARACTERISTICS:\n\n* Postmenopausal\n* No other cancer within the past 5 years except for adequately treated skin carcinoma or carcinoma in situ of the cervix\n* No contraindication to anti-hormonal treatment\n* No psychological, familial, social, or geographical reasons that would preclude follow up\n\nPRIOR CONCURRENT THERAPY:\n\n* At least 8 days since prior hormone replacement therapy\n* No concurrent anti-vitamin K treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

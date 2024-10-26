@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02619123",
+    "briefTitle": "Tailored Screening for Breast Cancer in Premenopausal Women",
+    "officialTitle": "Tailored Screening for Breast Cancer in Premenopausal Women. A Translational, Randomized Population-based Trial",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 33200,
+    "primaryOutcomeMeasure": "Comparison of cumulative incidence of interval cancer cases by arm and by density group",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women 44-45 years old resident in the screening area\n\nExclusion Criteria:\n\n* previous diagnosis of invasive or in situ breast cancer\n* women with family high risk for breast cancer\n* previous diagnosis of other cancers in the last 5 years\n* early menopause women or in hormone replacement therapy",
+    "sex": "FEMALE",
+    "minimumAge": "44 Years",
+    "stdAges": "ADULT"
+}

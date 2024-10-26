@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00869973",
+    "briefTitle": "Aprepitant in the Prevention of Delayed Emesis Induced by Cyclophosphamide Plus Anthracyclines in Breast Cancer Patients",
+    "officialTitle": "Aprepitant in the Prevention of Delayed Emesis Induced by Moderately Emetogenic Chemotherapy (Cyclophosphamide Plus Anthracyclines) in Breast Cancer Patients: a Double-blind Randomized Study",
+    "overallStatus": "TERMINATED",
+    "conditions": "Emesis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 580,
+    "primaryOutcomeMeasure": "Percentage of complete responses (no vomiting and no rescue treatment) on days 2-5 after chemotherapy administration",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* patients with breast cancer, receiving for the first time chemotherapy with cyclophosphamide + anthracyclines (FAC, FEC, AC, EC).\n* patients over 18 years old and those who signed informed consent\n* adequate contraception if premenopausal women\n\nEvery other anticancer drug in the first 24 hours will be administered after the end of cyclophosphamide plus anthracycline.\n\nExclusion Criteria:\n\n* patients already submitted to chemotherapy\n* patients receiving any chemotherapy on days 2-4 after treatment\n* patients with concomitant severe diseases or with predisposition to emesis such as intestinal obstruction, active peptic ulcer, hypercalcemia and brain metastases\n* contraindications to corticosteroids (i.e., active peptic ulcer or previous bleeding from peptic ulcer\n* patients submitted to concomitant radiotherapy or submitted to radiotherapy in the 15 days before chemotherapy or planned to receive radiotherapy during the 8 days after chemotherapy\n* patients receiving other concomitant antiemetic treatments or submitted to antiemetic treatments in the 24 hours before chemotherapy\n* patients with nausea or vomiting in the 24 hours before chemotherapy\n* patients receiving concomitant steroids, except when administered at physiologic doses\n* patients receiving concomitant benzodiazepines, except when used for nocturnal sedation\n* patients with WBC count \\<3000/mm3 or platelet count \\<70000/mm3\n* patients who are pregnant or breast-feeding",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

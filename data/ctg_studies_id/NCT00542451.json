@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00542451",
+    "briefTitle": "Adjuvant Paclitaxel and Trastuzumab for Node-Negative HER2-Positive Breast Cancer",
+    "officialTitle": "A Phase II Trial of Adjuvant Paclitaxel and Trastuzumab for Node-Negative HER2-Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Carcinoma of the Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 406,
+    "primaryOutcomeMeasure": "3-year Disease Free Survival (DFS) Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed invasive carcinoma of the breast\n* Tumors must be less than or equal to 3cm in greatest dimension\n* Must have node-negative breast cancer according to teh AJCC 7th edition\n* ER/PR determination is required. ER- and PR-assays should be performed by immunohistochemical methods\n* HER-2 positive: IHC 3+ or FISH \\>2\n* Bilateral breast cancers that individually meet eligibility criteria are allowed\n* Patients should have tumor tissue available, and a tissue block of sufficient size to make 15 slides must be sent to DFCI for testing\n* Less than or equal to 84 days from mastectomy or from axillary dissection or sentinel node biopsy if the patient's most extensive breast surgery was a breast-sparing procedure\n* All tumor should be removed by either a modified radical mastectomy or a segmental mastectomy (lumpectomy), with either a sentinel node biopsy or axillary dissection\n* 18 years of age or older\n* ECOG Performance Status of 0 or 1\n* Adequate bone marrow function, hepatic function, and renal function as outlined in protocol\n* Left ventricular ejection fraction of greater than or equal to 50%\n* Willingness to discontinue any hormonal agent prior to registration and while on study\n* Willingness to discontinue sex hormonal therapy, e.g. birth control pills, prior to registration and while on study\n* Patients with a history of ipsilateral DCIS are eligible if they were treated with wide-excision alone, without radiation therapy\n* Patients undergoing breast conservation therapy must not have any contraindications to radiation therapy\n\nExclusion Criteria:\n\n* Pregnant or nursing women\n* Locally advanced tumors at diagnosis, including tumors fixed to the chest wall, peau d'orange, skin ulcerations/nodules, or clinical inflammatory changes\n* History of prior chemotherapy in past 5 years\n* History of prior trastuzumab therapy\n* Active, unresolved infection\n* Prior history of any other malignancy in the past 5 years, except for early stage tumors of the skin or cervix treated with curative intent\n* Sensitivity to benzyl alcohol\n* Grade 2 or greater neuropathy per NCI's CTCAv3.0. (Exception: Any chronic neurologic disorder will be looked at on a case-by-case basis by the study chair).\n* Active cardiac disease as outlined in protocol.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

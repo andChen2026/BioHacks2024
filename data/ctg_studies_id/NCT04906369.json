@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04906369",
+    "briefTitle": "Optimizing Treatment of Stage IV Breast Cancer Through Real-Time Disease Monitoring",
+    "officialTitle": "Optimizing Treatment of Metastatic Breast Cancer Through Real-Time Disease Monitoring",
+    "overallStatus": "SUSPENDED",
+    "conditions": "Anatomic Stage IV Breast Cancer AJCC v8, Metastatic Breast Carcinoma, Prognostic Stage IV Breast Cancer AJCC v8",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Identification of patients with high circulating tumor-derived deoxyribonucleic acid (ctDNA) fractions (> 50%)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults \\> 18 years of age\n* Stage IV breast cancer undergoing cancer treatment\n\nExclusion Criteria:\n\n* Stage I-III breast cancer\n* Unwilling or unable to give consent\n* Patients with a prior or concurrent malignancy, excluding non-melanoma skin cancers and non-invasive cancers whose natural history or treatment does not have the potential to interfere with the assessment of the investigational marker",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02917421",
+    "briefTitle": "Accelerated Radiation Therapy (ART) to the Breast and Nodal Stations",
+    "officialTitle": "Accelerated Radiation Therapy (ART) To The Breast And Nodal Stations After Neo-Adjuvant Systemic Therapy And Surgery: A Feasibility Study",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 88,
+    "primaryOutcomeMeasure": "Acute Toxicity Will be Measured by Evaluating the Number of Patients Who Experience Grade II-III Dermatitis Within 60 Days of Radiation Therapy.",
+    "eligibilityCriteria": "The study will also include patients who because of COVID had undergone up to 3 months neoadjuvant hormonal therapy before surgery for clinical T1/T2 BC.\n\nInclusion Criteria:\n\n* Age older than 18\n* Pre- or post-menopausal women with Stage I-III breast cancer\n* Status post neoadjuvant systemic therapy\n* Status post-chemotherapy breast surgery\n* Original biopsy-proven invasive breast cancer, excised with negative margins of at least 1 mm (patients with focally positive margin are not excluded).\n* Status post segmental mastectomy or mastectomy, with either negative sentinel node biopsy and/or axillary node dissection (at least 6 nodes removed).\n* Patient needs to be able to understand and demonstrate willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Previous radiation therapy to the ipsilateral breast and/or nodal area\n* Active connective tissue disorders, such as lupus or scleroderma requiring flare therapy\n* Pregnant or lactating women\n* Concurrent chemotherapy, with the exception of anti HER2neu therapies\n* Inadequate axillary dissection in a setting of positive sentinel node\n* Patients with more than 5 nodes involved at axillary dissection will be excluded from this study since they will be eligible to receive radiotherapy to level I and II axilla.",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

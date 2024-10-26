@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02234479",
+    "briefTitle": "MediHoney for Radiation Dermatitis",
+    "officialTitle": "A Pilot Study: Topical Application of Medihoney for Management of Radiation Dermatitis",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Radiation Dermatitis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 34,
+    "primaryOutcomeMeasure": "Number of Participants Whom Received Medihoney Treatment and Were Analyzed Weekly for Skin Changes While Undergoing Radiation Therapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer treated with either lumpectomy or mastectomy (with or without reconstruction).\n* The patient must be female.\n* Radiation therapy planned to whole breast/chestwall area (can include lymph node radiation; conventional 3D radiation, IMRT/IGRT, and hypofractionation are all allowed).\n* Age \u2265 18 years old.\n\nExclusion Criteria:\n\n* Previous radiation therapy to chest area that would result in overlapping radiation fields.\n* Wound care issues.\n* Patients undergoing concurrent cytotoxic chemotherapy and radiation therapy (concurrent Herceptin and/or tamoxifen/aromatase inhibitors and RT is allowed).\n* Patients receiving HDR (savi or mammosite) brachytherapy treatments.\n* Patients with an allergy and/or sensitivity to Hydrophor, honey, and/or Medihoney.\n* Immunocompromised status.\n* Age \\< 18 years old.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

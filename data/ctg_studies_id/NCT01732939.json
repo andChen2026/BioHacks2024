@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01732939",
+    "briefTitle": "Phase II Study of Neoadjuvant Chemotherapy Regimen Choice in Breast Cancer",
+    "officialTitle": "N/A",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "pathological complete response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of invasive ductal or lobular breast cancer.\n* Previously untreated (no chemotherapy or hormonal therapy or radiation therapy) invasive breast cancer.\n* no anti-Her2 therapy if HER2 positive ( defined as 3+ IHC or FISH positive)\n* Performance Status ECOG \\<2\n* Age \\> 18 years\n* Tumor \\> 2.0 cm by MRI and/or sonographic or clinical exam measurements.or Karnofsky \\>50%\n* Lab test :\n\n  * Absolute neutrophil count \\> 1,500/mm3\n\n    * Total Bilirubin \u2264 2\u00d7ULN\n    * AST and ALT \u2264 2.5\u00d7ULN\n  * serum creatinine \u2264 1.5\u00d7ULN\n\nExclusion Criteria:\n\n* Pregnant or breast feeding patients are excluded\n* stage \u2163 breast cancer\n* History of non-breast malignancies within the 5 years prior to study entry, except for the following: carcinoma in situ of the cervix, carcinoma in situ of the colon,melanoma in situ, and basal cell and squamous cell carcinomas of the skin\n* uncontrolled cardiac disease\n* Active infection or chronic infection requiring chronic suppressive antibiotics\n* History of hypersensitivity reaction to investigating drugs",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

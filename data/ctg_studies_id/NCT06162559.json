@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06162559",
+    "briefTitle": "Neoadjuvant Trastuzumab, Pertuzumab and Tucatinib Without Chemotherapy in HER2-positive Breast Cancer: the TRAIN-4 Study",
+    "officialTitle": "Neoadjuvant Trastuzumab, Pertuzumab and Tucatinib Without Chemotherapy in HER2-positive Breast Cancer: the TRAIN-4 Study",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Incidence and severity of adverse events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Signed written informed consent\n2. Histologically confirmed primary invasive breast cancer\n3. Stage II - IIIA primary breast cancer according to TNM-staging (8th edition, AJCC); (largest tumor diameter on DCE-MRI \u2265 2cm (cT2-3) and/or cN1-2 confirmed with FNA or histology)\n4. HER2 overexpression defined as circumferential membrane staining that is complete, intense and in \\>10% of invasive tumor cells (IHC 3+) on pre-treatment biopsy\n5. Known estrogen- and progesterone-receptor expression of the invasive tumor\n\n   a. ER-negative or PR-negative is defined as \\<10% of invasive tumor cell nuclei are immunoreactive in the presence of evidence that the sample can express ER and/or PR\n6. WHO performance status 0-1\n7. Age \u2265 18 years\n8. LVEF \u226550% measured by echocardiography or MUGA\n9. Eligible for neoadjuvant treatment\n10. Laboratory requirements within 21 days prior to enrollment:\n\n    1. Adequate bone marrow function (ANC \u22651.5 x 109/l, platelets \u2265100 x 109/l);\n    2. Adequate hepatic function (ALAT, ASAT and bilirubin \u22642.5 times upper limit of normal). Subjects with Gilbert's syndrome may have a total bilirubin \u22652.5 \u00d7 the ULN range, if no evidence of biliary obstruction exists.\n    3. Adequate renal function: creatinine clearance \\>50 ml/min estimated using the Cockcroft-Gault equation or MDRD equation, or based on a 24-hour urine collection measurement.\n\nExclusion Criteria:\n\n1. Current pregnancy or breastfeeding\n2. Current or previous other malignancy unless treated without systemic therapy and more than five years ago\n3. Psychological, familial, sociological, or geographical condition potentially hampering compliance with the study protocol and follow-up schedule\n4. Use of a strong CYP3A4 or CYP2C8 inhibitor within five half-lives of the inhibitor, or used a strong CYP3A4 or CYP2C8 inducer within five days prior to first dose of study treatment\n5. Known chronic liver disease\n6. History of inflammatory bowel disease or bowel resection\n7. Contraindications for MRI\n8. Inflammatory breast cancer, cT4 and/or cN3 tumors\n9. Occult breast cancer (cT0)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

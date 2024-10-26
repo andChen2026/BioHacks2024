@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05534438",
+    "briefTitle": "A Study on Adding Precisely Targeted Radiation Therapy (Stereotactic Body Radiation Therapy) to the Usual Treatment Approach (Drug Therapy) in People With Breast Cancer",
+    "officialTitle": "Stereotactic Body Radiation Therapy (SBRT) to Extend the Benefit of Systemic Therapy in Patients With Solitary Disease Progression",
+    "overallStatus": "RECRUITING",
+    "conditions": "Oligometastatic Breast Carcinoma, Breast Cancer, Metastatic Breast Cancer, Metastatic Breast Carcinoma, ER+ Breast Cancer, HER2+ Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Progression free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 or older\n* Willing and able to provide informed consent\n* Metastatic breast cancer, biopsy proven\n\n  * ER+/HER2-, defined as \\>5% ER+ staining\n  * HER2+ (regardless of ER status), including HER2-low and high expressors\n* History of at least 6 months, sustained response to systemic therapy (clinically or radiographically defined as complete or stable response without progression)\n* Isolated site of disease progression on FDG PET scan\n* Consented to 12-245\n* ECOG performance status 0-1\n\nExclusion Criteria:\n\n* Pregnancy\n* Serious medical comorbidity precluding radiation, including connective tissue disorders\n* Intracranial disease (including previous intracranial involvement)\n* Previous radiotherapy to the intended treatment site that precludes developing a treatment plan that respects normal tissue tolerances.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

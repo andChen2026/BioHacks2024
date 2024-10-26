@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01198301",
+    "briefTitle": "Gene Expression Profiling of Metastatic Breast Cancer Predict the Therapeutic Response to Chemotherapy",
+    "officialTitle": "Gene Expression Profiling of Metastatic Breast Cancer Predict the Therapeutic Response to Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Neoplasm Metastasis",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 42,
+    "primaryOutcomeMeasure": "Chemotherapy response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients should be histologically confirmed with metastatic breast cancer;\n* Patients who had completed the planned chemotherapy regimen with no major protocol violation;\n* an Eastern Cooperative Oncology Group (ECOG) performance status of 0-2;\n* At least one measurable lesion;\n* Normal cardiac, hepatic, renal and bone marrow functions;\n* Life expectancy \u22653 months;\n* Discontinuity of previous chemotherapy for a minimum of 4 weeks.\n\nExclusion Criteria:\n\n* previous history of other malignancies;\n* previous surgery history on the needle biopsy organ;\n* Central nervous system metastases;\n* Serious or uncontrolled concurrent medical illness.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

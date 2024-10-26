@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00743314",
+    "briefTitle": "Single-Photon Emission Computed Tomography, Computed Tomography Lymphoscintigraphy, and Intensity-Modulated Radiation Therapy in Treating Patients Who Have Undergone Surgery for Stage I or Stage II Breast Cancer",
+    "officialTitle": "Integration of SPECT/CT Lymphoscintigraphy Into Breast Cancer Radiation for LymphaticSparing",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Lymphedema",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "N/A",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Philips Precedence SPECT/CT\u00ae and GE PET/CT Fusion software integration",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Biopsy-proven primary invasive breast cancer, meeting one of the following criteria:\n\n  * Stage I or II disease with negative sentinel or axillary node dissections\n  * Stage II disease with micrometastases (defined as \\< 2.0 mm focus) in 1-2 lymph nodes and/or a single positive axillary node \u2264 1 cm with no extracapsular extension\n* Completed all surgical intervention (e.g., lumpectomy, mastectomy)\n* Planning adjuvant whole breast irradiation including the low axilla\n* No bilateral or recurrent breast cancer\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-2\n* Not pregnancy or nursing\n* Negative pregnancy test\n* Able to complete questionnaire(s) alone or with assistance\n* No active infection\n* No history of invasive cancer within the past 5 years, except basal cell or squamous cell skin cancers\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior surgery or radiation to the ipsilateral breast or axilla\n* No concurrent neoadjuvant chemotherapy or radiotherapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

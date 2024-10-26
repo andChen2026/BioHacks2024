@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00503841",
+    "briefTitle": "Erlotinib in Treating Women Undergoing Surgery For Stage I, Stage II, or Stage III Breast Cancer",
+    "officialTitle": "A Pilot Study of the Effect of Erlotinib (Tarceva\u00ae) on Biomarkers in Estrogen Receptor Negative Breast Cancer Expressing the Epidermal Growth Factor Receptor and Interleukin 1\u03b1",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 44,
+    "primaryOutcomeMeasure": "Effect of Erlotinib Hydrochloride on Expression of IL-1a in Patients With ER- Negative, EGFR- Positive and (IL-)1a-positive Breast Cancer",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\nInclusion\n\n* Cytologically or histologically confirmed adenocarcinoma of the breast\n\n  * Stage I-III disease\n  * BI-RADS 4 or 5 abnormalities on breast imaging and undergoing core needle biopsy for diagnosis\n  * Participants must have a lesion of at least 1-cm on breast imaging studies (mammogram, ultrasound, or MRI)\n  * Participants must have breast cancer amenable to surgery with curative intent and must have agreed to undergo such surgery\n\n    * The surgical procedure must be scheduled in the near future to accommodate a treatment period of no less and no more than 15 days\n* Clinically positive for the overexpression of EGFR and interleukin-1\u03b1\n* Clinically negative for expression of the estrogen receptor (ER-negative) and progesterone receptor (PgR-negative)\n\n  * May be positive or negative for HER2\n\nExclusion\n\n* Locally advanced or metastatic disease not amenable to surgery\n* Known brain metastases\n\nPATIENT CHARACTERISTICS:\n\nInclusion\n\n* Female\n* Menopausal status not specified\n* ECOG performance status (PS) 0-2 or Karnofsky PS 60-100%\n* ANC \u2265 1000/mm\u00b3\n* Platelet count \u2265 75,000/mm\u00b3\n* AST and ALT \u2264 2.5 times upper limits of normal (ULN)\n* Alkaline phosphatase \u2264 2.5 times ULN\n* Bilirubin \u2264 2 times ULN\n* Hemoglobin \\> 9 g/dL\n* Creatinine within normal institutional limits OR creatinine clearance \\>60 mL/min\n* Negative serum pregnancy test within 7 days of enrollment for pre-menopausal women and women within 6 months of menopause\n* Women of child-bearing potential and their partners must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation\n\nExclusion\n\n* Pregnant or nursing\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to erlotinib hydrochloride\n* Uncontrolled intercurrent illness including, but not limited to, any of the following:\n\n  * Ongoing or active infection\n  * Symptomatic congestive heart failure\n  * Unstable angina pectoris\n  * Cardiac arrhythmia\n  * Psychiatric illness/social situations that would limit compliance with study requirements\n\nPRIOR CONCURRENT THERAPY:\n\nExclusion\n\n* Received any other therapy (i.e., surgery, radiation, hormone treatment, biologic therapy, and/or chemotherapy) for the treatment of breast cancer\n* Concurrent use of anti-neoplastic or anti-tumor agents not part of the study therapy, including chemotherapy, radiation therapy, immunotherapy, and hormonal anticancer therapy\n* Receiving any other investigational agents",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

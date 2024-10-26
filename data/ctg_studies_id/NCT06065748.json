@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06065748",
+    "briefTitle": "A Study to Evaluate Efficacy and Safety of Giredestrant Compared With Fulvestrant (Plus a CDK4/6 Inhibitor), in Participants With ER-Positive, HER2-Negative Advanced Breast Cancer Resistant to Adjuvant Endocrine Therapy (pionERA Breast Cancer)",
+    "officialTitle": "A Phase III Randomized, Open-Label Study Evaluating Efficacy and Safety of Giredestrant Compared With Fulvestrant, Both Combined With a CDK4/6 Inhibitor, in Patients With Estrogen Receptor-Positive, HER2-Negative Advanced Breast Cancer With Resistance to Prior Adjuvant Endocrine Therapy",
+    "overallStatus": "RECRUITING",
+    "conditions": "Estrogen Receptor-Positive, HER2-Negative Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1050,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS) in the ESR1 mutation (ESR1m) Subgroup",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Locally advanced or metastatic adenocarcinoma of the breast, not amenable to treatment with curative intent\n* Documented estrogen receptor-positive (ER+), HER2-negative (HER2-) tumor assessed locally on the most recent tumor biopsy (or an archived tumor sample if a recent tumor sample is not available for testing)\n* Confirmed ESR1 mutation status (ESR1m versus ESR1nmd) in baseline circulating tumor DNA (ctDNA) through central laboratory testing\n* Resistance to prior adjuvant endocrine therapy (ET). Prior use of neo/adjuvant CDK4/6i is allowed.\n* No prior systemic anti-cancer therapy for advanced disease\n* Measurable disease as defined per RECIST v.1.1 or non-measurable (including bone-only) disease\n* Eastern Cooperative Oncology Group Performance Status (ECOG PS) 0-1\n* For pre/perimenopausal women and for men: willing to undergo and maintain treatment with approved LHRH agonist therapy (as per local guidelines) for the duration of study treatment\n\nExclusion Criteria:\n\n* Prior systemic therapy (e.g., prior chemotherapy, immunotherapy, or biologic therapy) for locally advanced unresectable or metastatic breast cancer\n* Prior treatment with another SERD (e.g., fulvestrant, oral SERDs) or novel ER-targeting agents\n* Advanced, symptomatic, visceral spread that is at risk of life-threatening complications in the short term\n* Active cardiac disease or history of cardiac dysfunction\n* Clinically significant history of liver disease",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

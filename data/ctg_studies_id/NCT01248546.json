@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01248546",
+    "briefTitle": "Tomosynthesis in the Oslo Breast Cancer Screening Program",
+    "officialTitle": "Digital Breast Tomosynthesis in the Oslo Mammography Screening Program",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Recall Rate, Cancer Detection Rate, False Positive Rate, Positive Predictive Value",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 25000,
+    "primaryOutcomeMeasure": "Screening performance indicators",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women 50 to 69 years who have signed the informed consent\n\nExclusion Criteria:\n\n* Women with pacemaker, implants, and severely disabled",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

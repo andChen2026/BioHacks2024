@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00375427",
+    "briefTitle": "Safety and Efficacy of Zoledronic Acid in Patients With Breast Cancer With Metastatic Bone Lesions",
+    "officialTitle": "A Prospective, Randomized, Multi-center Comparative 2-arm Trial of Efficacy and Safety of Zoledronic Acid (Every 3-months vs. Every 4 Weeks) Beyond Approximately 1 Year of Treatment With Zoledronic Acid in Patients With Bone Lesions From Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer With Bone Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 430,
+    "primaryOutcomeMeasure": "Annual Overall Skeletal Morbidity Rate (SMR)",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Female patients \u2265 18 years of age.\n* Written informed consent given.\n* Histologically confirmed Stage IV breast cancer with at least one bone metastasis radiologically confirmed.\n* Previous treatment with zoledronic acid every 3-4 weeks, for 9-12 infusions over no more than 15 months.\n* Eastern Cooperative Oncology Group (ECOG) performance status \u22642 .\n* Life expectancy \u2265 1 year.\n\nExclusion criteria:\n\n* More than 3 months since last infusion of Zoledronic Acid (Zometa\u00ae).\n* Treatments with other bisphosphonate than Zoledronic Acid (Zometa\u00ae) at any time prior to study entry.\n* Serum creatinine \\> 3 mg/dL (265 \u03bcmol/L) or calculated (Cockcroft-Gault formula) creatinine clearance (CLCr) \\< 30 mL/min CrCl = ({\\[140-age (years)\\] x weight(kg)}/ \\[72 x serum creatinine (mg/dL)\\])x 0.85\n* Corrected (adjusted for serum albumin) serum calcium \\< 8 mg/dl (2 mmol/L) or \\> 12 mg/dL ( 3.0 mmol/L).\n* Current active dental problem including infection of the teeth or jawbone (maxilla or mandibular); dental or fixture trauma, or a recurrent or prior diagnosis of osteonecrosis of the jaw (ONJ), of exposed bone in the mouth, or of slow healing after dental procedures.\n* Recent (within 6 weeks) or planned dental or jaw surgery (e.g. extraction, implants).\n* Pregnant patients (with a positive pregnancy test prior to study entry) or lactating patients. Women of childbearing potential not using effective methods of birth control (e.g. abstinence, oral contraceptives or implants, IUD, vaginal diaphragm or sponge, or condom with spermicide).\n* History of non-compliance to medical regimens or potential unreliable behavior.\n* Known sensitivity to study drug(s) or class of study drug(s).\n* Patients with severe medical condition(s) that in the view of the investigator prohibits participation in the study\n* Use of any other investigational agent in the last 30 days.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

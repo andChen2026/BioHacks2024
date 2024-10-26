@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02202746",
+    "briefTitle": "A Study to Assess the Safety and Efficacy of the VEGFR-FGFR-PDGFR Inhibitor, Lucitanib, Given to Patients With Metastatic Breast Cancer",
+    "officialTitle": "A Phase 2, Open-label, Multicenter, Safety and Efficacy Study of Oral Lucitanib in Patients With FGF Aberrant Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Metastatic Breast Cancer, MBC, HER2 Positive, HER2, Estrogen Receptor Positive, ER, Triple Negative",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 178,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS) According to RECIST Version 1.1 as Determined by the Investigator",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed metastatic breast cancer relapsed or refractory to approved standard available treatment\n* Prior treatment with standard first line therapy in the metastatic setting\n* Availability of tumor tissue sufficient for confirmatory testing of FGFR1 and 11q amplification status\n* Demonstrated progression of disease by radiological or clinical assessment (Measurable disease according to RECIST Version 1.1 is NOT required for enrollment)\n* Estimated life expectancy \\>6 months\n\nExclusion Criteria:\n\n* Current or recent treatment with biologic anticancer therapies\n* Ongoing AEs from prior anticancer therapies\n* Active central nervous system (CNS) metastases\n* Clinically significant or uncontrolled hypertension or cardiac disease\n* Females who are pregnant or breastfeeding",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

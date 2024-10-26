@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00897455",
+    "briefTitle": "Studying Breast Cancer Risk in Women Who Are BRCA1/BRCA2 Mutation Carriers",
+    "officialTitle": "Genetic Modifiers of BRCA1/BRCA2-Related Breast Cancer Risk in BRCA1/BRCA2 Mutation Carriers - CIMBA 5",
+    "overallStatus": "UNKNOWN",
+    "conditions": "brca1 Mutation Carrier, brca2 Mutation Carrier, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 10000,
+    "primaryOutcomeMeasure": "Identification of potential genetic modifiers of breast cancer risk",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Known positive BRCA1/BRCA2 mutation carrier\n* With or without a personal history of breast cancer prior to enrollment in clinical trial GOG-0199\n* Currently enrolled in clinical trial GOG-0199 AND meets the following criteria:\n\n  * Completed baseline questionnaire (BQ-199)\n  * Provided information on prior breast cancer history, including date of diagnosis\n  * Provided complete data from the DNA analysis on the genetic variants of interest\n  * Signed an approved informed consent and authorization permitting release of personal health information\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

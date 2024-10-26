@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00756834",
+    "briefTitle": "Case Collection Study for Collecting Images for the Development and Validation of Computer Aided Detection Software",
+    "officialTitle": "A Multi-center, Controlled, Consecutive Collection of Screening or Diagnostic Full Field Digital Mammography Images Acquired on the Mammomat Novation DR System for Development and Validation of Computer Aided Detection (CAD) Software",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 135,
+    "primaryOutcomeMeasure": "The study will assess the performance of the MammoDetector\u2122 Pro to correctly mark biopsy-proven breast cancers imaged on the Siemens Mammomat NovationDR FFDM system compared to conventional film-screen mammography (FSM).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Mammograms obtained from women 40 years of age and over;\n2. Mammograms obtained from women only;\n3. There are at least four standard views (right cranio-caudal \\[RCC\\], right medio-lateral oblique \\[RMLO\\], left cranio-caudal \\[LCC\\], left medio-lateral oblique \\[LMLO\\]) of the breast;\n4. Informed consent is obtained.\n\n   Mammograms of biopsy-proven cancer cases will be considered eligible for inclusion in the study if they meet the following criteria:\n5. Biopsy-proven malignant case that was assigned a BI-RADS category 4 or 5 with a suspicious lesion and the corresponding pathology report for the suspicious lesion is available.\n6. Cases which have one or more lesion.\n\n   Routine screening \"Normal\" cases will be considered eligible for inclusion in the study if they meet the following criteria:\n7. The case is a routine screening mammogram assigned a BI-RADS category 1 or 2 by a certified radiologist\n\nExclusion Criteria:\n\nCases are excluded from the study if they have any of the following conditions:\n\n1. Mammographic needle projection or pre-biopsy markings are evident on the mammogram (these may cause false marks).\n2. The mammograms include artifacts created by breast implant.\n3. The mammograms are of poor quality (e.g., the digital image has very poor contrast);\n\n   Mammograms of biopsy-proven cancer cases will be excluded from the study if they have any of the following conditions:\n4. Cases in which the lesion is only palpable or visible by another modality (e.g., Ultrasound, MRI).\n5. The pathology is not related to a specific region. That is, there is more than one biopsy region and the pathology reports cannot be related to the appropriate mammographic lesion. For example, a mammogram with multiple lesions and multiple related pathology reports on the same date and it is not clear which pathology report belongs to each lesion.\n6. The pathology report is more than three months after the FFDM or FSM mammogram.\n7. The mammogram was performed for the purpose of planning cancer therapy (e.g., radiation) (BIRADS 6).\n8. Cases in which the lesion is characterized as an architectural distortion. -",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

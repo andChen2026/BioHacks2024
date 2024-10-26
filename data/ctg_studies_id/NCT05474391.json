@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05474391",
+    "briefTitle": "MammaPrint Value for Pre-menopausal Breast Cancer Patients",
+    "officialTitle": "The Value of MammaPrint in Adjuvant Therapy Decision Among Pre-menopausal Breast Cancer Patients: a Survey Based on Clinical Staff",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Treatment decision survey",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. pre-menopausal breast cancer patients aged less than 50 years old.\n2. Pathology confirmed invasive dutal carcinoma or invasive lobular carcinoma.\n3. receiving breast conserving surgery or mastectomy with/without reconstruction; sentinel lymph node biopsy or axillary lymph node dissection.\n4. TNM staging: T1b-T2N0-1M0.\n5. molecular subtype: ER positive/HER2 negative.\n6. MammaPrint testing before initiation of adjuvant therapy.\n\nExclusion Criteria:\n\n1. Incomplete medical history.\n2. Pregnancy or lactation.\n3. Contradiction of chemotherapy or ovarian function suppression.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT"
+}

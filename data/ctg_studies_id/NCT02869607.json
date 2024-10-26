@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02869607",
+    "briefTitle": "Institut Paoli Calmettes Breast Cancer Database",
+    "officialTitle": "Institut Paoli Calmettes Breast Cancer Database",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Diagnosis",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 45000,
+    "primaryOutcomeMeasure": "Survival of patients with breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient with a diagnosis of breast cancer\n\nExclusion Criteria:\n\n-",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

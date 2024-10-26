@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04824014",
+    "briefTitle": "4FMFES-PET Imaging of ER+ Advanced Breast Cancers",
+    "officialTitle": "Evaluation of the Diagnostic, Prognostic and Follow-up Potential of 4,16\u03b1-[16\u03b1-18F]Difluoro-11\u03b2-methoxyestradiol (4FMFES) PET Imaging for Estrogen Receptor Positive Advanced Breast Cancers",
+    "overallStatus": "RECRUITING",
+    "conditions": "ER+ Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Correlation of 4FMFES-PET uptake with histopathological markers, notably ER immunohistochemistry (IHC) score",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Advanced breast cancer patients, i.e. stage 3 or 4 diseases.\n* Aged 18 or older at the time of breast cancer diagnosis.\n* Histopathologic review confirming diagnosis of ER positive breast cancer.\n* Male patients, although rare, can participate.\n* Patient must have given informed consent.\n* ECOG performance status 0-3.\n* ER must be positive in at least 10% of tumor cells in either the core biopsy or a therapeutic surgical resection.\n* Any HER2-neu status.\n* Patient eligible for and willing to receive systemic treatment.\n\nExclusion Criteria:\n\n* Patients who are pregnant or nursing.\n* Patients unable to tolerate PET/CT for 30 minutes.\n* Patients taking anti-ER hormone therapy that can pharmacologically blockade estrogen receptors (ex: Tamoxifen, Fulvestrant). Patients can undergo 4FMFES-PET if anti-ER therapy was interrupted at least 8 weeks prior imaging. Aromatase inhibitors and LHRH analogs are not expected to interfere with 4FMFES uptake and are thus permitted to be taken prior and during this study.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

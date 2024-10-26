@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02517593",
+    "briefTitle": "Genetic Risk Estimation of Breast Cancer Prior to Preventive Medication Uptake",
+    "officialTitle": "Genetic Risk Estimation of Breast Cancer Prior to Preventive Medication Uptake: A Pilot Study to Determine if a Polygenic Risk Score Influences the Decision to Accept Breast Cancer Preventive Medications (Tamoxifen, Raloxifene, or Exemestane) Amongst Non-BRCA Women at Risk",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 151,
+    "primaryOutcomeMeasure": "Patient self-reported intention to take a breast cancer preventing medication",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women \\> 35 years old and \\< 75 years old\n2. Women with either of the following:\n\n   A. a NCI-BCRAT 5 year risk of \u2265 3% which corresponds to the level in which there is moderate evidence of treatment benefit outweighing risk according to the US Preventative Services Task Force (32); or B. Women with a IBIS (Tyrer-Cuzik) score for the 10 year risk of breast cancer of \u22655%\n3. Able to participate in all aspects of the study\n4. Understand and signed the study informed consent\n\nExclusion Criteria:\n\n1. Women whose BCRAT falls below the threshold (\\<3 % 5 year risk) of moderate benefit according to the US Preventative Task Force AND Women whose IBIS score is \\<5% for the 10 year risk\n2. Women with known BRCA1 and BRCA2 mutations\n3. Women with known contra-indications to Tamoxifen, raloxifene or exemestane\n4. Unable to give informed consent\n5. Prior history of invasive breast cancer or ductal carcinoma in situ\n6. At risk due to prior radiation therapy to the chest",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

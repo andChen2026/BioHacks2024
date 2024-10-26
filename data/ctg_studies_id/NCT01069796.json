@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01069796",
+    "briefTitle": "Bevacizumab + Paclitaxel + Capecitabine in Triple Negative Metastatic Breast Cancer",
+    "officialTitle": "A Multi Phase II Clinical Trials Evaluating the Association of Bevacizumab With Weekly Paclitaxel and Capecitabine in First Line Treatment for Patients With Triple Negative Metastatic or Locally Advanced Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Triple Negative Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 64,
+    "primaryOutcomeMeasure": "objective response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female histologically confirmed adenocarcinoma of the breast ER-, PR-, HER2- disease\n* Measurable disease\n* Patients may received prior radiotherapy as adjuvant treatment or/and metastatic disease provided that they have progressive disease at study entry\n\nExclusion Criteria:\n\n* Prior chemotherapy for metastatic disease\n* HER2 positive and/or hormonal receptor positive",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

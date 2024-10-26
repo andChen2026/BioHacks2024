@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01217385",
+    "briefTitle": "Monitoring and Predicting Chemotherapy Response Using DOSI",
+    "officialTitle": "Diffuse Optical Spectroscopy Imaging in Monitoring and Predicting Response in Patients With Locally Advanced Breast Cancer Undergoing Chemotherapy Before Surgery",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Accuracy of %Change in TOI Between Baseline and Mid-therapy to Predict Pathologic Response (pCR +/-)",
+    "eligibilityCriteria": "Inclusion Criteria\n\n1. Pathologically confirmed diagnosis of invasive breast cancer, determined to be a candidate for primary systemic (neoadjuvant) therapy and for surgical resection of residual primary tumor following completion of neoadjuvant therapy;\n2. Tumor size \\>2cm, measured on imaging or estimated by physical exam;\n3. No contraindications for primary chemotherapy;\n4. Planned definitive breast surgery (mastectomy or lumpectomy/breast conservation) following completion of neoadjuvant therapy;\n5. Age 18 years or older;\n6. ECOG Performance Status \u2264 2 (Karnofsky \u2265 60%; see Appendix II);\n7. Normal organ and marrow function as follows:\n\n   * leukocytes \u2265 3,000/\u03bcl;\n   * absolute neutrophil count \u2265 1,500/\u03bcl;\n   * platelets \u2265 100,000/\u03bcl;\n   * total bilirubin within normal institutional limits;\n   * AST(SGOT)/ALT(SGPT) \u2264 2.5 times the institutional upper limit of normal;\n   * creatinine within normal institutional limits; OR\n   * creatinine clearance \u2265 30 mL/min/1.73 m2 for patients with creatinine levels above institutional normal;\n8. If female, postmenopausal for a minimum of one year, OR surgically sterile, OR not pregnant, confirmed by a pregnancy test as per institutional Standard of Care (SOC), and willing to use adequate contraception (hormonal or barrier method of birth control; abstinence) for the duration of study participation;\n9. Able to understand and willing to sign a written informed consent document and a HIPAA authorization in accordance with institutional guidelines;\n\nExclusion Criteria\n\n1. Previous treatment (chemotherapy, radiation, or surgery) to involved breast; including hormone therapy;\n2. Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements;\n3. Medically unstable;\n4. Under age 18;\n5. Pregnant or nursing;\n6. Previous malignancy, other than basal cell or squamous cell carcinoma of the skin or in situ carcinoma of the cervix, from which the patient has been disease free for less than 5 years.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

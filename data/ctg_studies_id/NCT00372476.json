@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00372476",
+    "briefTitle": "Efficacy and Safety of Imatinib and Vinorelbine in Patients With Advanced Breast Cancer",
+    "officialTitle": "Open-label Trial of Imatinib in Combination With Vinorelbine for Patients With Advanced Breast Carcinoma: ICON",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 33,
+    "primaryOutcomeMeasure": "Maximum tolerated dose (MTD)",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Histologically documented diagnosis of invasive breast cancer that is locally advanced or metastatic\n* Previous anthracycline containing chemotherapy\n* Presence of a certain protein on the cell surface (c-kit (CD117) and /or PDGF-receptor)\n* Preferably tumor samples should be taken within 6 weeks of study entry. Most recent primary tumor tissue has to be available for analysis\n* Acceptable health status (Eastern Cooperative Oncology Group \\[ECOG\\]-performance status 0,1, 2 or 3)\n\nExclusion criteria: (for the second-line therapy)\n\n* Patient with Grade III/IV cardiac problems (i.e., congestive heart failure, myocardial infarction within 6 months of study) and with severe and/or uncontrolled medical disease (i.e., uncontrolled diabetes, chronic renal disease, or active uncontrolled infection).\n* Patient has a known brain metastasis, chronic liver disease (i.e., chronic active hepatitis, and cirrhosis) and diagnosis of (HIV) infection.\n* Patient received chemotherapy within 4 weeks prior to study entry, unless the disease is rapidly progressing.\n* Patient previously received radiotherapy to \u2265 25 % of the bone marrow and had a major surgery within 2 weeks prior to study entry.\n* Patient received either Vinorelbine or Imatinib in previous treatment regimens\n\nOther protocol-defined inclusion/exclusion criteria may apply",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

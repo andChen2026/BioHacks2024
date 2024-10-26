@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03737695",
+    "briefTitle": "Clinical Information and Biospecimen Collection from Patients with Recurrent or Stage IV Breast Cancer",
+    "officialTitle": "AURORA US: Prospective Biospecimen Repository in Metastatic Breast Cancer",
+    "overallStatus": "SUSPENDED",
+    "conditions": "Anatomic Stage IV Breast Cancer AJCC V8, Invasive Breast Carcinoma, Metastatic Breast Carcinoma, Peritoneal Effusion, Recurrent Breast Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Comprehensive biorepository creation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed or suspected invasive breast cancer\n* Radiographic evidence of distant metastatic disease\n* Clinical or radiographic evidence of disease progression OR presenting with de novo stage IV disease\n* Available archived tissue from the initial breast primary (formalin fixed paraffin embedded \\[FFPE\\] tissue is acceptable; fresh frozen tissue is preferred if available)\n* Accessible lesion representative of recurrent or metastatic breast cancer for biopsy\n\n  * Type 1 specimen collection: Patients undergoing a clinically directed tissue biopsy or tissue collection who are willing to have additional specimens taken for research during the same procedure. Sites for tissue acquisition may include the breast, skin/chest wall, lymph node/soft tissue, liver, bone, lung, brain, pleural fluid, and ascites as needed for routine clinical care\n  * Type 2 specimen collection: Patients undergoing a tissue biopsy or tissue collection for research purposes only. Sites for tissue acquisition include the breast, skin/chest wall, lymph node/soft tissue, liver, bone, pleural fluid, and ascites. Research directed lung biopsies and brain biopsies are not permitted. Procedures for tissue acquisition are restricted to those performed under local anesthesia or intravenous (IV) conscious sedation; biopsies that require general anesthesia are not permitted in this situation\n* Previous cytologic confirmation of malignant pleural effusion or ascites if that is the planned source of fresh specimen collection for study participation\n* Age 18 years or older\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* Ability to understand and the willingness to sign an informed consent document\n\nExclusion Criteria:\n\n* Concurrent disease or condition that in the opinion of the treating oncologist or the provider performing the biopsy procedure renders the patient inappropriate for study participation\n* Concurrent serious medical or psychiatric disorder that may interfere with the subject's safety during the biopsy or tissue collection procedure\n* Dementia, altered mental status, or any psychiatric condition that would prohibit the understanding or rendering of informed consent\n* History of a serious or life-threatening allergic reaction to local anesthetics (e.g., lidocaine, xylocaine) used during a biopsy procedure\n* Pregnancy (due to the risk of conscious sedation or anesthesia to mother and fetus)\n* Any condition or laboratory finding that in the opinion of the treating oncologist or the provider performing the biopsy procedure would make participation in this protocol hazardous for the patient",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

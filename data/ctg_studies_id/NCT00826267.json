@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00826267",
+    "briefTitle": "6 Weeks Treatment of Locally Advanced Breast Cancer With BIBW 2992 (Afatinib) or Lapatinib or Trastuzumab",
+    "officialTitle": "Randomised Phase II Study of Neoadjuvant BIBW 2992 Versus Herceptin Versus Lapatinib in Her2 Positive Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 29,
+    "primaryOutcomeMeasure": "Objective Response (OR)",
+    "eligibilityCriteria": "Inclusion criteria:\n\n1. Female, age 18 years or older.\n2. Histologically proven breast cancer who have not received any prior therapy.\n3. Locally advanced disease Stage IIIa with no evidence of distant metastatic disease other than anatomical site lymph nodes.\n4. HER2-positive.\n\nExclusion criteria:\n\n1. Absolute neutrophil count (ANC) less than 1500/mm3.\n2. Platelet count less than 100 000/ mm3.\n3. Hemoglobin level less than 9.0 g/dl.\n4. Bilirubin greater than 1.5 mg/dI.\n5. Aspartate amino transferase (AST) or alanine amino transferase (ALT) greater than twice the upper limit of normal.\n6. Serum creatinine greater than 1.5 times of the upper normal limit.\n7. Significant or recent acute gastrointestinal disorders with diarrhea\n8. Pregnancy or breast-feeding.\n9. Organ system dysfunction including cardiac (LVEF \\< 50%).\n10. Prior chemotherapy, radiotherapy or hormone therapy. Previous treatment with trastuzumab, EGFR, or EGFR/HER2-inhibitors.\n11. Other malignancies diagnosed within the past five years.\n12. Serious active infection. HIV, active hepatitis B or C.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

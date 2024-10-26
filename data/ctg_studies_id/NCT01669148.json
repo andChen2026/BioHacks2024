@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01669148",
+    "briefTitle": "Breast Cancer Detection: Comparison of Breast Tomosynthesis and Conventional Mammography",
+    "officialTitle": "Breast Cancer Detection: Comparison of Breast Tomosynthesis and Conventional Mammography",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 496,
+    "primaryOutcomeMeasure": "Detection of Breast Cancer (Sensitivity)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Any ethnic origin\n* No contraindication for routine bilateral mammography\n\nExclusion Criteria:\n\nPotential subjects with any of the following will not be enrolled in the study:\n\n* Any contraindications to mammographic screening, including, but not limited to:\n* Significant existing breast trauma\n* Under the age of 30 at the time of consent\n* Breast Implants\n* Prior Surgeries\n\n  * Unable to understand and execute written informed consent\n  * Pregnant\n  * Lactating",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

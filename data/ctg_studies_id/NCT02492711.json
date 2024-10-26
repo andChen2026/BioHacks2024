@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02492711",
+    "briefTitle": "Margetuximab Plus Chemotherapy vs Trastuzumab Plus Chemotherapy in the Treatment of HER2+ Metastatic Breast Cancer",
+    "officialTitle": "A Phase 3, Randomized Study of Margetuximab Plus Chemotherapy vs Trastuzumab Plus Chemotherapy in the Treatment of Patients With HER2+ Metastatic Breast Cancer Who Have Received Prior Anti-HER2 Therapies and Require Systemic Treatment",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER-2 Positive Breast Cancer, Metastatic Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 624,
+    "primaryOutcomeMeasure": "Progression-free Survival (PFS) as Determined by Independent Radiological Review.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically-proven metastatic or locally-advanced relapsed/refractory HER2+ breast cancer based on the most recently available tumor biopsy collected from the patient. Tumors may be estrogen receptor (ER)/progesterone receptor (PgR) positive or negative.\n* Have received at least 2 prior lines of anti-HER2 directed therapy in the metastatic setting, or in case of having received (neo)adjuvant pertuzumab, at least 1 prior line of anti-HER2 directed therapy in the metastatic setting. In either case, patients must have received prior treatment with pertuzumab, in the (neo)adjuvant or metastatic setting. Prior radiotherapy, hormonal therapies, and other anti-HER2 therapies are allowed.\n* Prior treatment with at least one, and no more than three, lines of therapy overall in the metastatic setting. Patients must have progressed on or following, the most recent line of therapy.\n* Resolution of all chemotherapy or radiation-related toxicities to \u2264 Grade 1\n* Life expectancy \u2265 12 weeks\n* Acceptable laboratory parameters\n* Women of childbearing potential must have negative pregnancy test performed within 14 days of randomization and on the first day of treatment. All subjects must agree to use an effective form of contraception for the duration of study treatment and for 7 months after the last dose of study drug.\n\nInfusion sub-study prior therapy requirements: Same as above, except:\n\n* Must have received 4 or more prior lines or therapy in the metastatic setting\n* Must have received prior trastuzumab, pertuzumab, and T-DM1\n\nExclusion Criteria:\n\n* Known, untreated brain metastasis. Patients with signs or symptoms of brain metastasis must have a CT or MRI performed within 4 weeks prior to randomization to specifically exclude the presence of radiographically-detected brain metastases\n* History of uncontrolled seizures within 6 months of randomization\n* History of prior allogeneic bone marrow, stem-cell, or solid organ transplantation\n* History of clinically significant cardiovascular disease\n* Clinically-significant pulmonary compromise, including a requirement for supplemental oxygen use to maintain adequate oxygenation\n* Any condition that would be a contraindication to receiving trastuzumab as described in the approved local label or a condition that would prevent treatment with the physician's choice of chemotherapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

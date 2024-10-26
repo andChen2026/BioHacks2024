@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03948568",
+    "briefTitle": "Evaluating Optimal Timing of Endocrine Therapy and Radiation Therapy in Early-stage Breast Cancer (REaCT-RETT)",
+    "officialTitle": "A Pragmatic Randomised, Multicentre Trial Evaluating Optimal Timing of Endocrine Therapy and Radiation Therapy in Early-stage Breast Cancer (REaCT-RETT)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Early-stage Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 262,
+    "primaryOutcomeMeasure": "Endocrine toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with newly diagnosed early stage, hormone receptor positive breast cancer\n* Planned to receive both endocrine therapy and post-operative radiotherapy\n* Able to provide verbal consent\n\nExclusion Criteria:\n\n* Previous endocrine therapy for invasive breast cancer\n* Previous radiotherapy for breast cancer in the same breast",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

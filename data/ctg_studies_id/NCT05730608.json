@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05730608",
+    "briefTitle": "18F-FDG PET/CT Imaging for Breast Cancer",
+    "officialTitle": "Improving Breast Cancer Staging With 18F-FDG PET/CT Imaging (The IMBRECAS PET Study)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Female, Breast Cancer Recurrent",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Change in staging and/or management due to added 18F-FDG PET/CT scan",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with high risk primary or recurrent breast cancer\n* Non pregnant women \\> 18 years\n* Not receiving active treatment of other cancer types.\n* Eastern Cooperative Oncology Group (ECOG) status 0-2.\n\nExclusion Criteria:\n\n* Pregnant woman\n* Males\n* Age under 18\n* Patients receiving active treatment for other cancers\n* Poor general conditipon (ECOG 3 or higher)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01864083",
+    "briefTitle": "FACBC PET and PEM as a Staging Tool and Indicator of Therapeutic Response in Breast Cancer Patients",
+    "officialTitle": "FACBC PET and PEM as a Staging Tool and Indicator of Therapeutic Response in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "assess the diagnostic accuracy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women presenting for evaluation at MSKCC with biopsy proven primary IDC or ILC\n* No prior therapy for IDC or ILC\n* Clinical need for local disease staging with breast MR (Group A only)\n* Clinical need for neoadjuvant chemotherapy (Group B only)\n* Patients must provide written informed consent\n\nExclusion Criteria:\n\n* Age \\<21 years\n* Men\n* Pregnancy or lactation\n* Patients who have already started treatment for the current malignancy\n* Patients who cannot undergo PET scanning (i.e. because of weight limits)\n* Patients who are known to have contraindication for MRI (e.g. metal implants)\n* Patients may only participate in group #1 or group #2, but not both",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

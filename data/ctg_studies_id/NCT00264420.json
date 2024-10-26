@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00264420",
+    "briefTitle": "Safety and Efficacy Study of Concomitant Radiotherapy and Zoledronic Acid for Bone Metastases Palliation",
+    "officialTitle": "A Phase I Pilot Trial to Study the Safety and Efficacy of Concomitant Radiotherapy and Zoledronic Acid for the Palliation of Bone Metastases From Breast Cancer, Prostate Cancer and Lung Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Bone Metastases, Breast Cancer, Lung Cancer, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "PET-CT",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \\>18 years of age\n* biopsy proven breast, lung, and/or prostate cancer\n* boney metastases with an indication for radiation, either diagnosed radiologically or biopsy proven\n* Karnofsky Performance Status \\>60\n* Life expectancy of at least 6 months\n* Serum creatinine level \u2264 2.0 mg/dL and calculated creatinine clearance of \\> 60 mL/min\n* Leukocyte count \u2265 3500/mm3\n* Hemoglobulin \\> 11 g/dl\n* Platelets \\> 100,000 / mm3\n* Total bilirubin \\< 2.5 mg/dl\n\nExclusion Criteria:\n\n* pregnant and lactating women (breast and lung cancer)\n* hormonotherapy started less than 3 months prior to randomization (prostate cancer)\n* history of allergic reactions to bisphosphonates\n* receiving concomitant nephrotoxic chemotherapy\n* participation in another clinical trial with an investigational drug or completed an investigational drug trial within the past 30 days\n* liver function tests \\> 1.5 times normal values\n* IV calcitonin administration less than 30 days prior to randomization\n* laboratory evidence of renal disease\n* previous RT to the region of bone metastasis which will be treated in this study\n* currently receiving oral or IV bisphosphonate therapy\n* presence of ascites\n* clinically significant electrocardiographic changes\n* hypercalcemia, pathologic fracture, or epidural spinal cord compression\n* other organ metastasis\n* known hypersensitivity to Zometa\u00ae (zoledronic acid) or other bisphosphonates\n* current active dental problems including infection of the teeth or jawbone (maxilla or mandibular); dental or fixture trauma, or a current or prior diagnosis of osteonecrosis of the jaw (ONJ), of exposed bone in the mouth, or of slow healing after dental procedures.\n* recent (within 6 weeks) or planned dental or jaw surgery (e.g.. extraction, implants)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

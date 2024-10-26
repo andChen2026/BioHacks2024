@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01446159",
+    "briefTitle": "Study of MEDI-573 Plus Standard Endocrine Therapy for Women With Hormone-sensitive Metastatic Breast Cancer",
+    "officialTitle": "A Phase 1b/2 Randomized Study of MEDI-573 in Combination With an Aromatase Inhibitor (AI) Versus AI Alone in Women With Metastatic Breast Cancer (MBC)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Hormone-sensitive, HER-2 Negative Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 188,
+    "primaryOutcomeMeasure": "Phase 1b and Phase 2: Number of Participants With Treatment Emergent Adverse Events (TEAEs) and Treatment Emergent Serious Adverse Events (TESAEs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically-confirmed MBC not deemed amenable to curative surgery or curative radiation therapy\n* Tumors are positive for ER, PgR, or both\n* Tumors must be negative for HER2 (by FISH, CISH or IHC)\n* Female gender and age \u2265 18 years at time of study entry\n* Postmenopausal\n* Karnofsky Performance Status \u2265 70\n* Life expectancy of \u2265 6 months\n\nExclusion Criteria:\n\n* Subjects who received prior chemotherapy, hormonal therapy, immunotherapy or biologic therapy for advanced or metastatic disease with the following exceptions:\n\n  * Prior adjuvant therapy with an AI and/or tamoxifen is allowed, provided treatment ended at least 2 weeks prior to the first dose of MEDI-573\n  * Prior neoadjuvant and/or adjuvant chemotherapy for breast cancer is allowed\n* Extensive symptomatic visceral disease including hepatic involvement and pulmonary lymphangitic spread of tumor, or disease that is considered by the investigator to be rapidly progressing or life threatening (eg, subjects who are intended for chemotherapy)\n* Active brain metastases with the exception of subject has been treated and are asymptomatic and there has been no evidence of CNS progression for at least 4 weeks of first dose of MEDI-573\n* Evidence of ongoing spinal cord compression or leptomeningeal carcinomatosis\n* Unresolved toxicities from prior therapy with the exception of alopecia that have not resolved to \u2264 Grade 1 at the time of starting study treatment\n* Previous treatment with agents that target the IGF receptor\n* History of allergy or reaction attributed to compounds of chemical or biologic composition similar to those of MEDI-573 or AI\n* History of another invasive malignancy within 5 years except for curatively resected nonmelanoma skin cancer or carcinoma in situ of the cervix\n* Poorly controlled diabetes mellitus",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

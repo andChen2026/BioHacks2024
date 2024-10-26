@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01717261",
+    "briefTitle": "Single Pre-Operative Radiation Therapy (SPORT) for Low Risk Breast Cancer",
+    "officialTitle": "N/A",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Acute toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female aged 60 years or older.\n* Invasive ductal carcinoma.\n* Unifocal disease.\n* Tumors less than 2cm.\n* No clinical evidence of nodal disease.\n* Estrogen receptor status (ER) positive.\n* Her2 negative.\n\nExclusion Criteria:\n\n* Age less than 60 years.\n* BRCA 1 and/or BRCA 2 mutation.\n* Tumour histology limited to lobular carcinoma only.\n* Neoadjuvant hormonal manipulation or chemotherapy.\n* More than one primary tumour in different quadrants of the same breast.\n* Inability to view tumor on imaging.",
+    "sex": "FEMALE",
+    "minimumAge": "60 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

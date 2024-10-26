@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03583944",
+    "briefTitle": "A Study to Evaluate Safety, Tolerability and Efficacy of Eribulin Mesylate in Treating Adult Females With Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "Post Marketing Trial (Phase IV) on the Safety, Tolerability And Efficacy of Eribulin Mesylate in Treating Patients With Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Number of Participants Reporting one or More Treatment-emergent Adverse Events (TEAEs) and Serious Adverse Events (SAEs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Participants with locally advanced or metastatic breast cancer.\n2. Participants must have progressed after at least after at least one chemotherapeutic regimen for advanced disease. Prior therapy should have included an Anthracycline and a Taxane unless participants who are not suitable for these treatments.\n3. Participants must have documented disease progression within or on 6 months from their last anti-cancer therapy.\n4. Eastern Cooperative Oncology Group (ECOG) performance status less than or equal to (\\<=) 2.\n5. Participants must have normal organ and marrow function as defined below:\n\n   * Absolute neutrophil count greater than (\\>) 1,500 per microliter (/mcL)\n   * Hemoglobin \\>10.0 gram per deciliter (g/dL)\n   * Platelets \\>100,000/mcl\n   * Serum total bilirubin less than (\\<) 1.5\\*upper limit of normal (ULN)\n   * Serum aspartate aminotransferase (AST) (Serum glutamic oxaloacetic transaminase \\[SGOT\\]) and alanine aminotransferase (ALT) (Serum glutamic pyruvic transaminase \\[SGPT\\]) \\<3\\*ULN or \\<5\\*ULN in the presence of liver metastases\n   * Serum creatinine \\<1.5 mg/dL.\n6. Females in reproductive age willing to follow adequate barrier contraceptive measures during the conduct of study.\n\nExclusion Criteria:\n\n1. Hypersensitivity to the active substance or any of the excipients.\n2. Participants who have received chemotherapy, radiation, or biological therapy within two weeks, or hormonal therapy within one week before study treatment start, or any investigational drug within four weeks before study treatment start.\n3. Participants receiving any other investigational agents.\n4. Uncontrolled intercurrent illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, recent myocardial infarction, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements, or other comorbid condition that investigator believes may compromise participant's condition.\n5. Participants requiring concurrent anti-cancer therapy during the study period.\n6. Participants with brain or subdural metastases are not eligible, unless they have completed local therapy and have discontinued the use of corticosteroids for this indication for at least 4 weeks before starting study treatment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

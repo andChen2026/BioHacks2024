@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00035594",
+    "briefTitle": "Pegfilgrastim as Support to Advanced Breast Cancer Patients Receiving Chemotherapy",
+    "officialTitle": "A Double-Blind, Placebo-Controlled, Multicenter, Randomized Study Evaluating the Prophylactic Use of Pegfilgrastim on the Incidence of Febrile Neutropenia in Subjects With Advanced Breast Cancer Treated With Single Agent Docetaxel",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neutropenia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 928,
+    "primaryOutcomeMeasure": "Proportion of subjects developing febrile neutropenia",
+    "eligibilityCriteria": "* Advanced breast cancer\n* 18 years of age or older\n* Patients who will be receiving Taxotere (docetaxel) chemotherapy",
+    "sex": "N/A",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

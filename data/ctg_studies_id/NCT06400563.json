@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06400563",
+    "briefTitle": "MRg-NIRS Imaging System Breast Cancer Trial",
+    "officialTitle": "Evaluation of the Magnetic Resonance-guided (MRg) Near-infrared Spectroscopy (NIRS) Imaging System Platform in Breast Cancer Patients",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Optical sensitivity of the MRg-NIRS platform",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Females age \u2265 18 years old\n2. Participants capable of providing written informed consent\n3. Women with a recent diagnosis of breast cancer.\n4. Women who are in pre-surgical planning must have an estimated tumor size of 1.5 cm or less on available imaging.\n5. Women who are in pre-surgical planning must have had a breast biopsy at least 10 days prior to the MRg-NIRS exam.\n\nExclusion Criteria:\n\n1. Participants with absolute or relative contraindication to MRI:\n\n   1. the presence of an electronic implant, such as a pacemaker\n   2. the presence of a metal implant, such as an aneurysm clip\n   3. claustrophobia\n   4. renal failure (FDA's guidance for gadolinium of a creatinine clearance less than 30 mL/1.73 m2 BSA)\n2. Pregnant women\n3. Breast implants\n4. Personal history of breast cancer in the ipsilateral breast.\n5. Prisoners\n6. Participants with visually inadequate healing from breast biopsy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

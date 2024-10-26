@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00232661",
+    "briefTitle": "PROACT - Pre-Operative Arimidex Compared To Tamoxifen",
+    "officialTitle": "A Randomised, Double-blind, Study Comparing ARIMIDEX\u2122 With NOLVADEX\u2122 as Neo-adjuvant and Adjuvant Treatment in Post-menopausal Women With Large Operable (T2 (\u22653cm), T3, N0-2, M0) or Potentially-operable, Locally Advanced (T4b, N0-2, M0), ER+ and/or PR+ Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 452,
+    "primaryOutcomeMeasure": "Objective tumour response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Operable or potentially operable breast cancer\n* Invasive breast cancer proven to be hormone-sensitive (ER+/PR+)\n* Patients who might benefit from endocrine treatment prior to surgery\n* Postmenopausal\n* Signed written informed consent\n\nExclusion Criteria:\n\n* Inoperable breast cancer\n* Patient unwilling to undergo surgery\n* Any reason why the patient may not be able to conform to study requirements\n* Any previous treatment for breast cancer\n* Previous Tamoxifen use as a part of breast cancer prevention trials\n* Not willing to stop taking drugs that affect sex-hormones such as HRT\n* Previous history of breast cancer\n* Previous history of invasive malignancy within the last 10 years\n* Any other severe disease that may prevent surgery, place the patient at risk, or influence the study results\n* Treatment with an experimental drug within the last 3 months\n* Risk of transmitting HIV, Hepatitis B or C",
+    "sex": "FEMALE",
+    "minimumAge": "60 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

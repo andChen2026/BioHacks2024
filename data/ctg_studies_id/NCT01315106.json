@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01315106",
+    "briefTitle": "High Resolution 3D Diffusion-weighted Breast MRI",
+    "officialTitle": "High Resolution 3D Diffusion-weighted Breast MRI",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Sensitivity of the new MRI method",
+    "eligibilityCriteria": "Inclusion Criteria:1. Patient scheduled for contrast-enhanced breast MRI to image possible breast cancer.\n\n2. Female\n\n3. Age \\>18 Exclusion Criteria:1. Lactation\n\n2. Pregnancy\n\n3. Patient undergoing chemotherapy. These patients are excluded because chemotherapy changes the biology of breast cancers. Since the ultimate objective of the research is to develop a new imaging method for breast MRI screening (detection of previously unknown tumors), results in treated tumors would not be relevant. Including treated tumors could yield a misleading assessment of the performance of the new method since treated tumors have different imaging characteristics than de novo tumors.\n\n4. Patient scheduled for pre-operative chemotherapy. These patients are excluded if they are going to be treated only on the basis of fine needle aspiration. The project seeks to correlate all tumors detected with standard histopathology of their untreated neoplasm. This exclusion criteria will be very unusual because most patients planning neoadjuvant chemotherapy do so on the basis of a pre-chemo core needle biopsy, which provide adequate histopathologic proof necessary for enrollment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

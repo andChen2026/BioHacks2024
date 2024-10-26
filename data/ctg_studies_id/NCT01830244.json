@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01830244",
+    "briefTitle": "IST Neoadjuvant Abraxane in Newly Diagnosed Breast Cancer",
+    "officialTitle": "Tailored Neoadjuvant Epirubicin and Cyclophosphamide (EC) and Nanoparticle Albumin Bound (Nab) Paclitaxel for Newly Diagnosed Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Pathological complete response in the breast",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The patient must have consented to participate and must have signed and dated an appropriate approved consent form.\n* Female 18 Years and older\n* The Eastern Cooperative Oncology Group (ECOG) performance status must be 0 or 1\n* The diagnosis of invasive adenocarcinoma of the breast must have been made by core needle biopsy or limited incisional biopsy.\n* Patients must have tumor diameter \\>2 cm measurable at least clinically; by physical exam, unless the patient has inflammatory breast cancer, in which case measurable disease by physical exam is not required or ultrasonographic staging (T2, T3 or T4 a, b, c tumours with any clinical node status N0-N2).\n* Left ventricular ejection fraction (LVEF) assessment by 2-D echocardiogram or Multi Gated Acquisition Scan (MUGA scan) performed within 3 months prior to study entry must be greater or equal to 50%.\n* Adequate haematological, renal and hepatic function (neutrophils \\>=2 \u00d7 109/L, platelets \u2265100 \u00d7 109/L, hemoglobin \\>=100g/L, total bilirubin \u2264 1.5 upper limit of normal (ULN), aspartate aminotransferase and alanine aminotransferase \u22641.5 \u00d7 ULN, alkaline phosphatases \u22642.5 ULN, creatinine \u2264 1.5 ULN).\n* Negative pregnancy test\n\nExclusion Criteria:\n\n* Severe cardiovascular, hepatic, neurologic or renal comorbid conditions\n* Primary surgical treatment of the tumor or excisional biopsy or lumpectomy performed prior to study entry.\n* Surgical axillary staging procedure prior to study entry.\n* Definitive clinical or radiologic evidence of metastatic disease.\n* History of ipsilateral invasive breast cancer regardless of treatment or ipsilateral ductal carcinoma in situ (DCIS) treated with radiotherapy (RT).\n* Non-breast malignancies unless the patient is considered to be disease-free for 5 or more years prior to study entry and is deemed by her physician to be at low risk for recurrence. Patients with the following cancers are eligible if diagnosed and treated within the past 5 years: carcinoma in situ of the cervix, melanoma in situ, and basal cell and squamous cell carcinoma of the skin.\n* Previous therapy with anthracyclines or taxanes for any malignancy.\n* Treatment including RT, chemotherapy, and/or targeted therapy, administered for the currently diagnosed breast cancer prior to study entry.\n* Continued therapy with any hormonal agent such as raloxifene, tamoxifen, or other Selective estrogen receptor modulator (SERM).\n* Any sex hormonal therapy, e.g., birth control pills and ovarian hormone replacement therapy\n* History of hepatitis B or C.\n* Sensory/motor neuropathy greater or equal to grade 2, as defined by the current version of the NCI's CTCAE.\n* Pregnancy or continuing lactation at the time of study entry.\n* Use of any investigational agent within 4 weeks prior to enrollment in the study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

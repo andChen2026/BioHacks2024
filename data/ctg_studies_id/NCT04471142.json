@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04471142",
+    "briefTitle": "Effectiveness of Compressive Bandage Use in Seroma Prevention",
+    "officialTitle": "Effectiveness of Compressive Bandage Use in Post-Treatment Seroma Prevention Breast Cancer Surgery",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Seroma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 270,
+    "primaryOutcomeMeasure": "Seroma Incidence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 18 and over\n* underwent mastectomy assurgical treatment for breast cancer.\n\nExclusion Criteria:\n\n* bilateral breast cancer;\n* patient undergoing neoadjuvant radiotherapy;\n* infection in the surgical wound or hematoma;\n* autoimmune disease reporting (dermatomyositis, hidradenitis suppurativa, nephropathy, lupus erythematosus, morphea, psoriasis, pemphigus vulgaris, scleroderma);\n* patients with difficulties in understanding.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

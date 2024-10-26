@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00740532",
+    "briefTitle": "Molecular Features Predicting Response/Resistance to Trastuzumab in Metastatic Breast Cancer Patients",
+    "officialTitle": "Observational Study Assessing Molecular Features Predicting Response/Resistance to Trastuzumab in Metastatic Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 11,
+    "primaryOutcomeMeasure": "Association of a specific biomarker with response to Herceptin-based therapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Hystological diagnosis of breast cancer\n* Availability of tumor tissue\n* Availability to assess the response to Trastuzumab according to RECIST criteria\n* Availability of clinical data\n\nExclusion Criteria:\n\n* Unavailability of tumor tissue\n* Impossibility to assess the response to Trastuzumab according to RECIST criteria",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

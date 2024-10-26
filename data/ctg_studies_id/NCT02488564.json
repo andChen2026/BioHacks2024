@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02488564",
+    "briefTitle": "A Study of Liposomal Doxorubicin + Docetaxel + Trastuzumab + Metformin in Operable and Locally Advanced HER2 Positive Breast Cancer",
+    "officialTitle": "Clinical and Translational Phase II Study of Liposomal Doxorubicin Plus Docetaxel and Trastuzumab With Metformin as Primary Systemic Therapy for Operable and Locally Advanced Recombinant Human ErbB-2 (HER2) Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER-2 Positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 49,
+    "primaryOutcomeMeasure": "Pathologic complete response rate(pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have histologically confirmed breast cancer\n* HER2 overexpressing cancer\n* Patients with operable breast cancer (T1c and cytologically N1-2, or cT2-3, N0-N2, M0) or locally advanced breast cancer (T4a-d, N0-N2, M0) (AJCC 7th edition 2010).\n* No prior therapy for breast cancer\n* Both sexes, age \u2265 18 years and \\< 75 years\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n* Life expectancy \\> 3 months\n* Neutrophil count \u2265 2 x 109/ L, leukocytes count \u2265 3 x 109/ L and platelet count \u2265 100 x 109/ L\n* Total bilirubin \u2264 1 upper-normal limits (UNL) of the Institutional normal values and alanine aminotransferase (ASAT (GOT) and/or alanine aminotransferase ALAT (GPT) \u2264 2.5 UNL, alkaline phosphatase \u2264 5 UNL. Patients with ASAT and/or ALAT \\> 1.5 UNL and alkaline phosphatase \\> 2.5 UNL aren't eligible for the trial.\n* Creatinine \u2264 1.5 mg/dL\n* Left ventricular ejection fraction (LVEF) \u2265 50% (evaluated by echocardiogram or multiple gated acquisition scan (MUGA) scan -only one method must be employed for each patient)\n* Written informed consent\n* Homa Index calculated using the Matthews'formula\n\nEXCLUSION CRITERIA:\n\n* Prior chemotherapy or radiotherapy for breast cancer.\n* History of prior malignancy in the last 10 years (other than non-melanoma skin cancer or excised cervical carcinoma in situ).\n* Other serious illness or medical condition\n* Congestive heart failure or angina pectoris even if medically controlled. Previous history of myocardial infarction, uncontrolled high risk hypertension or arrhythmia\n* History of significant neurologic or psychiatric disorders including dementia or seizures\n* Active infection\n* Concurrent treatment with other experimental drugs.\n* Participation in another clinical trial with any investigational agents within 30 days prior to study screening.\n* Geographic inaccessibility to treatment and followup\n* Pregnant and lactating women\n* Diabetes-insulin dependant and non-insulin dependant",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

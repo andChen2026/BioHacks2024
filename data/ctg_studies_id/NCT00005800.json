@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00005800",
+    "briefTitle": "Doxorubicin and Docetaxel in Treating Women With Stage III Breast Cancer",
+    "officialTitle": "A Phase II Neoadjuvant Trial of Sequential Doxorubicin and Docetaxel for the Treatment of Stage III Breast Cancer Measuring STAT Activation as a Predictor of Response to Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "Pathological Response Rate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or pathologically confirmed stage III breast cancer\n\n  * Clinical evidence of primary invasive breast tumor greater than 5 cm in dimension (T3) and no evidence of metastatic disease clinically or by staging studies including computed tomography (CT) scan of the chest, abdomen, and pelvis, and a bone scan\n* Inflammatory breast carcinoma defined as diffuse brawny induration of the skin of the breast with an erysipeloid edge due to embolization of the dermal lymphatics and pathologic evidence of dermal lymphatic invasion\n* No bilateral breast cancer unless synchronous\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 to 70\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* Eastern Cooperative Oncology Group (ECOG) 0-1\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* WBC at least 3,000/mm\\^3\n* Absolute neutrophil count at least 1,000/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n\nHepatic:\n\n* Bilirubin less than 2.0 mg/dL\n* SGOT/SGPT less than 1.5 times upper limit of normal (ULN)\n* Alkaline phosphatase no greater than 4 times ULN provided SGOT/SGPT no greater than ULN\n\nRenal:\n\n* Creatinine no greater than 1.5 mg/dL\n\nCardiovascular:\n\n* If prior cardiac event or ischemia on electrocardiogram, must be cleared by cardiologist\n* LVEF at least 50% by resting MUGA\n* No severe cardiac dysfunction\n* No prior or concurrent angina pectoris, congestive heart failure, or major ventricular arrhythmias\n* No uncontrolled essential hypertension\n\nOther:\n\n* Not pregnant or nursing\n* Fertile patients must use effective nonhormonal barrier contraception\n* No other prior malignancy within the past 5 years except adequately treated basal cell or squamous cell skin cancer, carcinoma in situ of the cervix, or intraductal or lobular carcinoma in situ of the breast\n* No other serious medical or psychiatric illness that would preclude study consent or treatment\n* No prior severe and intolerable reactions to filgrastim (G-CSF)\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* No prior chemotherapy\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* No prior radiotherapy to the breast\n\nSurgery:\n\n* Not specified",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

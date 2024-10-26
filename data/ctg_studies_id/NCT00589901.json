@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00589901",
+    "briefTitle": "An All-Oral Combination of Capecitabine and Cyclophosphamide in Patients With Metastatic Breast Cancer (MBC)",
+    "officialTitle": "Phase II Study of an All-Oral Combination of Capecitabine (X) and Cyclophosphamide (C) in Patients With Anthracycline- and Taxane-Pretreated Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "TTP (first treatment of this regimen to disease progression)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed breast cancer\n* Anthracycline and taxane pretreated metastatic breast cancer\n* Have not been previously treated with capecitabine\n* ECOG performance status of \u2264 1\n* Are female and \u2265 18 and \u2264 70 years of age\n* Have at least one target lesion according to the RECIST criteria\n\nExclusion Criteria:\n\n* Pregnant or lactating women\n* ECOG \u2265 2\n* Have been treated with capecitabine\n* Evidence of CNS metastasis\n* History of another malignancy within the last five years except cured basal cell carcinoma of skin and carcinoma in-situ of uterine cervix or a contralateral breast cancer\n* Abnormal laboratory values: hemoglobin \\< 8.0 g/dl, neutrophils \\< 1.5\u00d710\\^9/L, platelets \\< 100\u00d710\\^9/L, serum creatinine \\> upper limit of normal (ULN), serum bilirubin \\> ULN, ALT and AST \\> 5\u00d7ULN, AKP \\> 5\u00d7ULN\n* Serious uncontrolled intercurrent infection\n* Life expectancy of less than 3 months",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

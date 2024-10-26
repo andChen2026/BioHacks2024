@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02213744",
+    "briefTitle": "MM-302 Plus Trastuzumab vs. Chemotherapy of Physician's Choice Plus Trastuzumab in HER2-Positive Locally Advanced/Metastatic Breast Cancer Patients",
+    "officialTitle": "A Randomized, Multicenter, Open Label Study of MM-302 Plus Trastuzumab vs. Chemotherapy of Physician's Choice Plus Trastuzumab in Anthracycline Naive Patients With Locally Advanced/Metastatic HER2-Positive Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, HER2 Positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 113,
+    "primaryOutcomeMeasure": "Independently assessed progression-free survival according to modified Response Evaluation Criteria in Solid Tumors (RECIST) 1.1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed invasive cancer of the breast\n* Patients must have documented locally advanced/metastatic disease, defined by the investigator, which is not amenable to resection with curative intent.\n* Patients must have HER2-positive breast cancer as defined by ASCO/CAP 2013 guidelines that is confirmed by a Sponsor-designated central laboratory\n* Patients must have progressed on, or be intolerant to pertuzumab in the LABC/MBC setting or had disease recurrence within 12 months of pertuzumab treatment in the neoadjuvant or adjuvant setting.\n* Patients must have progressed on, or be intolerant to ado-trastuzumab emtansine in the LABC/MBC setting\n* Patients must have been previously treated with trastuzumab in any setting (which may have been previously administered with or without pertuzumab)\n* ECOG Performance Status of 0 or 1\n\nExclusion Criteria:\n\n* Patients who have previously been treated with doxorubicin, liposomal doxorubicin, epirubicin, mitoxantrone, or any other anthracycline derivative\n* Subjects with central nervous system (CNS) metastases, unless they have been treated and are stable without symptoms for 4 weeks after completion of treatment and must be off steroids for at least 4 weeks prior to enrollment\n* Patients with any class of New York Heart Association (NYHA) CHF or heart failure with preserved ejection fraction (HFPEF)\n* Patients with a history of known coronary artery disease or a myocardial infarction within the last 12 months\n* Patients with a known history of serious cardiac arrhythmias requiring treatment (exception: controlled atrial fibrillation, paroxysmal supraventricular tachycardia)\n* Patients who previously discontinued trastuzumab due to unacceptable cardiac toxicity\n* Patients with a history of LVEF decline to below 50% during or after prior trastuzumab/lapatinib or other HER2 directed therapy.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02921191",
+    "briefTitle": "Descriptive Analysis of G-CSF Use in Patients With Breast Cancer, Lung Cancer, or Lymphoma Treated",
+    "officialTitle": "Descriptive Analysis of First-Cycle Prophylactic Use of G-CSF in Patients With Breast Cancer, Lung Cancer, or Lymphoma Treated With High Neutropenia Risk Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Lung Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 57725,
+    "primaryOutcomeMeasure": "Hospitalizations for severe neutropenia",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Individuals with baseline period of 183 days with continuous medical and pharmacy coverage preceding the first prescription fill for G-CSF\n* Breast or lung cancer patients receiving their first cycle of Grade III and IV myelosuppressive chemotherapy regimen treated prophylactically with G-CSF.\n\nExclusion Criteria:\n\nDuring baseline 365 days, any patient with a claim for (or with)\n\n* Chemotherapy drug.\n* Skilled nursing facility (SNF) or hospice care\n* Diagnosis for a secondary breast cancer diagnosis\n* A second cancer diagnosis (i.e., not breast, lung, lymphoma)\n* Bone marrow or stem cell transplant\n* Radiotherapy\n* Chemo cycle \\>First: (exclude any chemotherapy cycles post the index G-CSF date)\n* HIV/AIDS\n* Hepatic disease\n* Other non-oncology related neutropenia",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

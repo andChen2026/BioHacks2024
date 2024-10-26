@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01740336",
+    "briefTitle": "A Study of Paclitaxel With GDC-0941 Versus Paclitaxel With Placebo in Participants With Locally Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "A Phase II, Randomized Study of Paclitaxel With GDC-0941 Versus Paclitaxel With Placebo in Patients With Locally Recurrent or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 183,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS) Assessed as per Modified Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1 (v1.1)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the breast, with measurable or non-measurable locally recurrent or metastatic disease\n* Human epidermal growth factor receptor 2 (HER2)-negative and hormone receptor (HR) (estrogen receptor and/or progesterone receptor)-positive disease as defined by local guidelines\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Adequate hematologic and end organ function\n* Women of childbearing potential must agree to remain abstinent or to use two adequate methods of contraception, including at least one method with a failure rate of less than (\\<) 1 percent (%) per year, during the treatment period and for at least 30 days after the last dose of study treatment or 6 months after discontinuation of paclitaxel, whichever is longer\n\nExclusion Criteria:\n\n* Prior non-capecitabine chemotherapy for locally recurrent or metastatic disease\n* Prior treatment with a phosphoinositide 3-kinase (PI3K) inhibitor for advanced or metastatic breast cancer\n* History of intolerance to a taxane-containing therapy\n* History of clinically significant cardiac or pulmonary dysfunction\n* History of malabsorption syndrome or other condition that would interfere with enteral absorption\n* Clinically significant history of liver disease\n* Active autoimmune disease or active inflammatory disease\n* Immunocompromised status due to current known active infection with human immunodeficiency virus (HIV) or due to the use of immunosuppressive therapies for other conditions\n* Need for current chronic corticosteroid therapy\n* Pregnant, lactating, or breastfeeding women\n* Current severe, uncontrolled systemic disease\n* Known untreated or active central nervous system (CNS) metastases",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

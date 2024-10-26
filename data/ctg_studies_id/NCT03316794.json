@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03316794",
+    "briefTitle": "A Study of SC-005 in Subjects With Triple Negative Breast Cancer (TNBC)",
+    "officialTitle": "An Open-Label Study of SC-005 in Subjects With Triple Negative Breast Cancer (TNBC)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2,
+    "primaryOutcomeMeasure": "Number of Participants with Dose-limiting Toxicities (DLTs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed advanced TNBC that is relapsed, refractory, or progressive and not eligible for another standard therapy that would confer clinical benefit to the subject.\n\n  * Advanced disease is defined as metastatic disease or locally advanced disease that is not amenable to surgery or radiotherapy with curative intent\n  * TNBC is defined as:\n* \\<1% staining by immunohistochemistry (IHC) for estrogen (ER) and progesterone (PR) receptors, 0 or 1+ IHC for human epidermal growth factor receptor 2 (HER2), OR\n* Negative for HER2 amplification by in situ hybridization (ISH) for 2+ IHC disease.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Adequate hematologic, hepatic, and renal function.\n\nExclusion Criteria:\n\n* Any significant medical condition including any suggested by Screening laboratory findings that, in the opinion of the Investigator or Sponsor, may place the subject at undue risk from the study.\n* Has ECG abnormalities that make QT interval corrected (QTc) evaluation difficult (e.g., severe morphologic abnormalities).\n* Prior exposure to a pyrrolobenzodiazepine or indolino-benzodiazepine based drug, or known hypersensitivity or contraindication to SC-005 or excipient contained in the drug formulation.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

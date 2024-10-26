@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03790423",
+    "briefTitle": "18F-ASIS PET/CT Imaging of Tissue Factor Expression In Patients With Primary and Metastastic Cancer",
+    "officialTitle": "Phase I: PET Imaging of Tissue Factor (TF) Expression in Patients With Primary and Metastastic Cancer Using 18F-ASIS.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Lung Cancer, Pancreatic Cancer, Ovarian Cancer, Cervix Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "1.Biodistribution of the radiotracer 18F-ASIS estimated by PET",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosed with breast, lung, pancreatic, cervix or ovarian cancer\n* Capable of understanding the patient information in Danish and giving full informed consent\n\nExclusion Criteria:\n\n* Pregnancy\n* Breast-feeding\n* Weight above 140 kg\n* History of allergic reaction attributable to compounds of similar chemical or biologic composition to 18F-ASIS",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03289286",
+    "briefTitle": "Pilot Study Evaluating a Perioperative E-follow-up Protocol in Patients With Ambulatory Surgery for Breast Cancer",
+    "officialTitle": "Pilot Study Evaluating a Perioperative E-follow-up Protocol in Patients With Ambulatory Surgery for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Rate of patients without failure to the e-follow-up. A failure is defined by absence of connection to the electronic tool and the mismatch between the alert level and severity of complications.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patient eligible for an ambulatory surgery of breast cancer (partial mastectomy with or without lymph node sampling)\n2. Ambulatory surgery planned 10 days or more after inclusion date\n3. Age \\> or = 18 years old\n4. Affiliated to the french social security system\n5. Patient must provide written informed consent prior to any study-specific procedure or assessment\n\nExclusion Criteria:\n\n1. Surgery other than breast cancer surgery in ambulatory (benign breast surgery, other surgical specialities)\n2. Patient who cannot connect to the electronic tool at home (no computer, no tablet computer or no internet connection)\n3. Pregnant or breastfeeding women\n4. Any psychological, familial, geographic or social situation, according to the judgment of investigator, potentially preventing the provision of informed consent or compliance to study procedure\n5. Patient protected by law",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

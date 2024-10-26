@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01254526",
+    "briefTitle": "Study of the Safety and Pharmacology of GDC-0980 in Combination With Paclitaxel With or Without Bevacizumab in Patients With Locally Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "A Phase Ib, Open-Label, Dose-Escalation Study of the Safety and Pharmacology of GDC-0980 in Combination With Paclitaxel With or Without Bevacizumab in Patients With Locally Recurrent or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 52,
+    "primaryOutcomeMeasure": "Incidence and nature of dose-limiting toxicities (DLTs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Locally recurrent or metastatic breast cancer, not amenable to resection with curative intent\n* For Arm C: Overexpression of HER2\n* Eastern Cooperative Oncology Group Performance Status of 0 or 1\n* Adequate hematologic and organ function\n* Evaluable or measurable disease per RECIST (Response Evaluable Criteria in Solid Tumors)\n* Female patients of childbearing potential must use an acceptable method of contraception to prevent pregnancy and to continue its use for the duration of the study\n\nExclusion Criteria:\n\n* Prior anti-cancer therapy of more than two regimens of systemic cytotoxic chemotherapy for advanced or metastatic breast cancer\n* Prior anti-cancer therapy (e.g., chemotherapy, biologic therapy, or hormonal therapy) within a specified timeframe of the first dose of study treatment\n* History of Type 1 or Type 2 diabetes requiring regular medication\n* History of clinically significant cardiac or pulmonary dysfunction\n* History of malabsorption syndrome or other condition that would interfere with enteral absorption\n* Any condition requiring full-dose anticoagulants\n* Leptomeningeal disease as a manifestation of cancer\n* Active infection requiring IV antibiotics\n* Active autoimmune disease that is not controlled by non-steroidal anti-inflammatory drugs, inhaled steroids, or the equivalent of \\<= 10 mg/day of prednisone\n* Known clinically significant history of liver disease, including active viral, alcoholic, or other hepatitis, or cirrhosis\n* Known HIV infection\n* Known untreated or active CNS metastases\n* Pregnancy, lactation, or breastfeeding\n* Major surgical procedure, open biopsy, or significant traumatic injury within a within a specified timeframe of the first dose of study treatment\n\nFor Arm B:\n\n* Uncontrolled hypertension, complication from hypertension, myocardial infarctions, unstable angina, vascular disease or stroke within a specified timeframe of the first dose of study treatment\n* Evidence of bleeding diathesis or significant coagulopathy including hemoptysis within a specified timeframe of the first dose of study treatment\n* History of abdominal conditions (e.g., fistula, perforation, obstruction) that would preclude use of bevacizumab\n* Serious, non-healing wound, active ulcer, or untreated bone fracture\n* Proteinuria",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

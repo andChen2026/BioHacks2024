@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04822597",
+    "briefTitle": "Pain Control for Breast Cancer Patients Receiving Injection of Radioactive Tracer",
+    "officialTitle": "Optimizing Topical Pain Control for Breast Cancer Patients Undergoing Pre-operative Radiotracer Injection for Sentinel Lymph Node Mapping",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Sentinel Lymph Node, Breast Neoplasms, Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 167,
+    "primaryOutcomeMeasure": "Median Post-Procedural Pain Score",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* greater than or equal to 18 years of age\n* biopsy proven breast cancer\n* standard radiotracer injection (intradermal injection in the upper outer quadrant of the involved breast)\n* radiotracer injection occurs on the same day as sentinel lymph node surgery\n\nExclusion Criteria:\n\n* males\n* pregnancy\n* local anesthetic allergy or active use of the following medications:\n\n  * Abametapir (risk X)\n  * Conivaptan (risk X)\n  * Fusidic Acid (risk X)\n  * Idelalisib (risk X)\n  * Mifepristone (risk D)\n  * Stiripentol (risk D)\n  * Amiodarone (risk C)\n  * Dofetilide (risk C)\n  * Dronedarone (risk C)\n  * Ibutilide (risk C)\n  * Sotalol (risk C)\n  * Vernakalant (risk C)\n* Non-English speaking/reading\n* Unable to provide informed consent\n* Unable to participate with surveys\n* Undergoing radiotracer injection the day prior to surgery or intra-operatively at the time of initial surgical scheduling\n\n  * If patients are initially scheduled for same-day preoperative injection, complete all enrollment procedures (including randomization), and surgery is re-scheduled for a day prior to surgery or for intra-operative injection, they will be excluded if:\n\n    * randomized to a lidocaine patch arm (Arms C or D)\n    * re-scheduled for an intra-operative injection \u2022 Planned non-standard radiotracer injection site",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02286778",
+    "briefTitle": "Eradication of Malignant Carcinoma in the Breast Tissue",
+    "officialTitle": "The Eradication of Malignant Carcinoma in the Breast Tissue Using an ATP (Adenosine-5'-Triphosphate) Inhibitor",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Number of participants tumor free",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinical diagnosis of breast cancer\n* Referred to the study by their treating physician\n\nExclusion Criteria:\n\n* Any type of treatment for breast cancer before starting the study",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06155305",
+    "briefTitle": "Organoids Based Drug Sensitivity in Neoadjuvant Chemotherapy of Breast Cancer",
+    "officialTitle": "Consistency of Organoids Based Drug Sensitivity and Efficacy of Neoadjuvant Chemotherapy in Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Organoids, Breast Cancer, Neoadjuvant Chemotherapy",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 58,
+    "primaryOutcomeMeasure": "Correlation between drug sensitivity test results in patient-derived organoid models and clinical outcomes.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Signed informed consent form and willingness to participate in the clinical study.\n2. Female patients aged between 18 and 70 years old.\n3. Confirmed early-stage breast cancer eligible for surgery (AJCC stages I to IIIA), with a tumor diameter of \u2265 2cm detected by MRI and without distant metastasis (M0).\n\n   The largest lesion among multiple lesions has a diameter of \u2265 2cm.\n4. ECOG performance status score of 0-1.\n5. No significant abnormalities in liver and kidney function (BIL \\<1.5-fold upper limit of normal (ULN)\uff1bALT\\<2.5\u00d7ULN; AST\\<2.5\u00d7ULN\uff1bCrea\u22641\u00d7ULN).\n\nExclusion Criteria:\n\n1. Received prior treatments.\n2. Locally advanced breast cancer not amenable to surgery or inflammatory breast cancer (AJCC stage unresectable III).\n3. Bilateral breast cancer.\n4. Multiple breast cancers distributed in different quadrants.\n5. Patients not suitable for neoadjuvant chemotherapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02692209",
+    "briefTitle": "A Multi-Reader Multi-Case Pivotal Trial",
+    "officialTitle": "A Multi-Reader Multi-Case Controlled Clinical Trial to Evaluate the Comparative Accuracy of the Fujifilm FFDM Plus DBT Versus FFDM Alone in the Detection of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 298,
+    "primaryOutcomeMeasure": "Correct Lesion Localization: Area Under the Receiver Operating Characteristic (ROC) Curve (AUC) for FFDM + DBT Versus FFDM Alone Based on Probability of Malignancy (POM) Scores and Requiring Correct Lesion Localization.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eligible subjects under protocol FMSU2013-004A, defined as female subjects with known true clinical status and with complete FFDM and DBT examinations, in which there is sufficient anatomical coverage, sufficient contrast, and no significant motion or other artifacts, as determined by the image-acquisition sites.\n* Meet none of the exclusion criteria under protocol FMSU2013-004A.\n\nExclusion Criteria:\n\n* Subjects who are in violation of protocol FMSU2013-004A.\n* Subjects who meet exclusion criteria under protocol FMSU2013-004A.\n* Subjects with unknown clinical status.\n* Any subject whose positive mammogram was not read during the truthing process (see section 8) will not be considered for the pivotal MRMC reader study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

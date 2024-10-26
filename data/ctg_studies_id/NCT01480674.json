@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01480674",
+    "briefTitle": "An Observational Study of Patients With HER2-Positive Metastatic or Locally Advanced Breast Cancer Treated With Herceptin (Trastuzumab) in 1st Line and Without Progression For 3 Years",
+    "officialTitle": "A Retrospective Study to Characterize Patients With HER2-positive Metastatic or Locally Advanced Breast Cancer, Treated by Herceptin\u00ae as 1st Line-therapy and Without Progression for at Least 3 Years Followed by a 1-year Prospective Study for Patients Still Alive",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 160,
+    "primaryOutcomeMeasure": "Tumor Hormone Receptor Status of Participants Without Progression",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients, \\>/= 18 years of age\n* HER2-positive metastatic breast cancer or locally advanced breast cancer\n* Systemic treatment included Herceptin as 1st line therapy\n* Without progression for at least 3 years after the beginning of Herceptin treatment\n* Alive or not alive and treated or not treated with Herceptin at the time of inclusion\n\nExclusion Criteria:\n\n* Disease progression \\<3 years after beginning 1st-line therapy with Herceptin",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

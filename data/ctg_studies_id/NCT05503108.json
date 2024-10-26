@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05503108",
+    "briefTitle": "Fasting Mimicking Diet Program to ImpRovE ChemoTherapy in Hormone Receptor Postive (HR+), HER2- Breast Cancer",
+    "officialTitle": "DIRECT-2: Fasting Mimicking Diet Program to ImpRovE ChemoTherapy in HR+, HER2- Breast Cancer",
+    "overallStatus": "SUSPENDED",
+    "conditions": "Fasting Mimicking Diet, HER2-negative Breast Cancer, Hormone Receptor-positive Breast Cancer, Pathological Complete Response, Objective Response Rate, Neoadjuvant Chemotherapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Pathological response rate (pCR). Both percentage of pCR and 90-100% tumor loss according to Miller & Payne",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinical stage II-III (cT1cN+ or \u2265T2 any cN, cM0), HR+, HER2- breast cancer\n* Detectable and measurable disease (breast and/or lymph nodes)\n* World Health Organization (WHO) performance status 0-2\n* Adequate organ function assessed by standard pre-treatment assessment:\n* Adequate bone marrow function: white blood cells (WBCs) \u22653.0 x 109/l, neutrophils \u22651.5 x 109/l, platelets \u2265100 x 109/l\n* Adequate liver function: bilirubin \u22641.5 x upper limit of normal (UNL) range, ALAT and/or ASAT \u22642.5 x UNL, Alkaline Phosphatase \u22645 x UNL\n* Adequate renal function: the calculated creatinine clearance should be \u226550 mL/min\n* Available for treatment and follow-up\n* Written informed-consent\n* Willing to fill in Quality Of Life and Cognition questionnaires\n* Ability to read and understand Dutch language, accessibility to a computer with internet connection and independent use of computer\n\nExclusion Criteria:\n\n* Patient history of invasive or ipsilateral non-invasive breast cancer\n* Active malignancy in the last 5 years, with the exclusion of basal cell carcinoma or pre-invasive cervical neoplasia/dysplasia.\n* Body mass index (BMI) \\< 18.5 kg/m2\n* Pregnancy or lactating\n* Food allergy for ingredients of FMD (nuts, soy, honey)\n* A metabolic condition affecting gluconeogenesis or adaptation to periodic fasting. (Diabetes Mellitus for example)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

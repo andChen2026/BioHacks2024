@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05689112",
+    "briefTitle": "Microscopy Imaging of Whole-mount Stained Human Tissues",
+    "officialTitle": "Microscopy Imaging of Whole-mount Stained Human Tissues: Development of an Imaging Platform for Intraoperative Tumor Margin Delineation",
+    "overallStatus": "RECRUITING",
+    "conditions": "Tumor, Brain, Tumor, Breast, Tumor Skin",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 250,
+    "primaryOutcomeMeasure": "The assessment between tumor cases and control cases",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients who are more than 20 years old.\n2. Diagnosed as patients suffered by skin tumor, brain tumor and breast tumor.\n\nExclusion Criteria:\n\n1. Patients who can't speak and communicate with others.\n2. Patients who can't make eventual and exact pathological assessment for his/her diseases.\n3. Patients who only can fit for slicing tumor.\n4. Removed tissues which obviously vary after severe ray radiation under microscopy observation.\n5. Diameter of tumors are under 1 centimeter.\n6. Breast carcinoma in situ.",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

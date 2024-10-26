@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06506955",
+    "briefTitle": "Futibatinib in Patients Previously Enrolled in an Antecedent Futibatinib as Monotherapy or Combination Therapy.",
+    "officialTitle": "An Open-label, Rollover Study of Futibatinib in Patients Previously Enrolled in an Antecedent Futibatinib Study",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Advanced/Metastatic Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "Number of participants with serious adverse events, treatment-related adverse events, and any AEs leading to treatment discontinuation graded according to NCI-CTCAE v5.0.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Provide written informed consent.\n* Receiving futibatinib as monotherapy or as combination therapy in an antecedent futibatinib study and deriving clinical benefit with no undue risk as assessed by the investigator.\n* Women of childbearing potential (WOCBP) must have a negative pregnancy test (urine or serum) within 7 days prior to receiving treatment. Both males and females of reproductive potential must agree to use effective birth control during study treatment and for a specified time after the last dose of study treatment.\n* Ability to take medications orally (PO) (feeding tube is not permitted).\n\nExclusion Criteria:\n\n\u2022 Has met any discontinuation criteria within the antecedent futibatinib study.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

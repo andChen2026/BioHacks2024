@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02769299",
+    "briefTitle": "Cardiotoxicity of Radiation Therapy (CTRT)",
+    "officialTitle": "Cardiotoxicity of Radiation Therapy (CTRT)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Lung Cancer, Mediastinal Lymphomas",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 147,
+    "primaryOutcomeMeasure": "Number of CV injury",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 years or older.\n* Patients with left sided breast cancer newly initiating fractionated whole breast/chest wall with regional nodal photon or proton radiation therapy.\n* Patients with right sided breast cancer with newly initiating fractionated photon or proton radiation therapy with mediastinal nodal proton or photon radiation therapy that will include cardiac dose.\n* Lung cancer patients treated with definitive intent (greater than or equal to 50 Gy) using fractionated thoracic radiotherapy with proton or photon radiation therapy. Patients receiving concurrent chemotherapy will be allowed.\n* Patients with mediastinal lymphoma, whose lowest extent of mediastinal disease is at or below the level of the carina, treated with consolidative radiation with definitive intent (greater than or equal to 20 Gy) using fractionated thoracic radiotherapy with proton or photon radiation therapy.\n* Ability to read and comprehend English.\n\nExclusion Criteria:\n\n* Prior radiotherapy to the region of the study cancer that would result in overlap of radiation therapy fields\n* Patients receiving stereotactic body radiotherapy\n* Patients unable to undergo MR imaging will be excluded from the optional MR, but will not be excluded from the main study.\n* Life expectancy less than 12 months\n* Vulnerable patients as noted in 5 below (children, pregnant women, fetuses, neonates, or prisoners)\n* Patients with estimated glomerular filtration rate of less than 60 ml/min/1.73sq.m will be excluded from the optional MR, but will not be excluded from the main study.\n* Non-diagnostic echocardiography windows",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

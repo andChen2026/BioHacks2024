@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00754767",
+    "briefTitle": "L-Carnitine L-Tartrate in Preventing Peripheral Neuropathy Caused By Chemotherapy in Women With Metastatic Breast Cancer",
+    "officialTitle": "Pilot Study of L-Carnitine Supplementation in the Prevention of Chemotherapy-induced Peripheral Neuropathy in Women With Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Chemotherapeutic Agent Toxicity, Neurotoxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 2,
+    "primaryOutcomeMeasure": "Vibratory Threshold as Assessed by the Rydel-Seiffer Quantitative Tuning Fork",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of breast cancer\n\n  * Metastatic disease\n* Scheduled to receive \u2265 1 of the following chemotherapy drugs:\n\n  * Paclitaxel\n  * Docetaxel\n  * Capecitabine\n  * Gemcitabine hydrochloride\n\n    * Concurrent enrollment in the University of Minnesota study \"Population Pharmacokinetics and Pharmacogenetics of Gemcitabine in Adult Patients with Solid Tumors\" (Human Subjects Code 0508M72989) required\n  * Albumin-bound paclitaxel (Abraxane)\n  * Doxorubicin hydrochloride\n\nPATIENT CHARACTERISTICS:\n\n* Life expectancy \u2265 6 months\n* Serum creatinine \\< 2.0 mg/dL\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n* No history of seizures\n* No uncontrolled hypertension\n* No history of stroke\n* No malabsorption syndrome\n* No cognitive impairment\n* No history of psychiatric disability affecting informed consent or compliance with drug intake\n* Able to take oral medication\n* Able to complete questionnaire(s) alone or with assistance\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No concurrent warfarin\n* No concurrent radiotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

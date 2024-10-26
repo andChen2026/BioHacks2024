@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04797299",
+    "briefTitle": "Prospective Evaluation of Breast-Conserving Surgery Alone in Low-Risk Ductal Carcinoma in Situ (DCIS)",
+    "officialTitle": "Prospective Evaluation of Breast-Conserving Surgery Alone in Low-Risk Ductal Carcinoma in Situ Defined by a Molecular Expression Assay Combined with Clinico-Pathological Features",
+    "overallStatus": "RECRUITING",
+    "conditions": "DCIS",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 526,
+    "primaryOutcomeMeasure": "Ipsilateral local recurrence (LR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patient \\> 45 years of age with DCIS without microinvasion.\n2. Tumour size \u2264 2.5cm.\n3. Treated by BCS with clear resection margins \u2265 2 mm or no residual disease on re-excision.\\*\n\n   \\* Patients with anterior margins and posterior margins \u22651 mm are eligible. Or if the dissection was confirmed to be taken to skin and down to fascia with no DCIS present at inked margins.\n4. Oncotype DX DCIS score with a predicted 10-year risk of LR \u226410%.\n\nExclusion Criteria:\n\n1. Multifocal DCIS.\n2. History of any invasive breast cancer or non-invasive breast cancer in the ipsilateral breast.\n3. Synchronous or previous invasive or non-invasive breast cancer.\n4. Prior history of invasive cancer within the last 5 years, excluding non-melanoma skin cancers.\n5. ECOG performance status \u22653.\n6. Life expectancy \\<10 years.\n7. Geographic inaccessibility for follow-up.",
+    "sex": "FEMALE",
+    "minimumAge": "46 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

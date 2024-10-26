@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02526498",
+    "briefTitle": "Accelerated Partial Breast Radiation Therapy Using High-Dose Rate Brachytherapy in Treating Patients With Early Stage Breast Cancer After Surgery",
+    "officialTitle": "TRI-fraction Radiotherapy Utilized to Minimize Patient Hospital Trips : A Phase II Trial (TRIUMPH-T Trial)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Ductal Breast Carcinoma In Situ, Estrogen Receptor Positive, Invasive Breast Carcinoma, Progesterone Receptor Positive, Stage IA Breast Cancer, Stage IB Breast Cancer, Stage IIA Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Number of Participants With Adverse Events Greater Than Grade 2 Serious Toxicity Rate, Defined as Toxicity Greater Than Grade 2 Using Common Terminology Criteria for Adverse Events Version 4.0 Criteria",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Must sign informed consent\n* Surgical treatment of the breast must have been lumpectomy; the margins of the resected specimen must be histologically free of tumor (negative surgical margins per National Surgical Adjuvant Breast and Bowel Project \\[NSABP\\] criteria)\n* On histologic examination, the tumor must be ductal carcinoma in situ (DCIS) and/or invasive breast carcinoma\n* For patients with invasive breast cancer, an axillary staging procedure must be performed (either sentinel node biopsy \\[SNB\\] alone or axillary dissection \\[with a minimum of six axillary nodes removed\\], and the axillary node\\[s\\] must be pathologically negative); patients over 70 with estrogen receptor positive (ER+) tumors no greater than 2 cm do not require axillary evaluation, but MUST be clinically node negative on examination and all available imaging (clinical N0)\n* The T stage must be Tis, T1, or T2; if T2, the tumor must be =\\< 3.0 cm in maximum diameter\n* Estrogen receptor positive tumor and/or progesterone receptor positive tumor\n\nExclusion Criteria:\n\n* Pregnant or breast-feeding\n* Active collagen-vascular disease\n* Paget's disease of the breast\n* Prior history of DCIS or invasive breast cancer\n* Prior breast or thoracic radiation therapy (RT) for any condition\n* Multicentric carcinoma (DCIS or invasive)\n* Synchronous bilateral invasive or non-invasive breast cancer\n* Surgical margins that cannot be microscopically assessed or that are positive\n* Positive axillary node(s)\n* T stage of T2 with the tumor \\> 3 cm in maximum diameter or a T stage \\>= 3\n* Estrogen receptor negative and progesterone receptor negative tumor\n* Any of the dosimetric treatment criteria as defined have not been met; patients who become ineligible due to inability to meet dosimetric criteria should not receive treatment as defined in this protocol and will come off the study; any subsequent adjuvant radiation will be delivered at the discretion of the treating physician",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05056857",
+    "briefTitle": "Neutrophil Extracellular Traps Formation in Breast Cancer Patients Taking Tamoxifen",
+    "officialTitle": "Neutrophil Functions in Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 290,
+    "primaryOutcomeMeasure": "Quantification of neutrophil extracellular traps (NETs) in blood samples of pre- and postmenopausal women being treated with tamoxifen for varying periods of time.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Age criteria for pre-menopausal group: Equal to or greater than 18 years of age and less than or equal to 45 years of age. Patients of age 46-50 will be included if they have not had menstrual cessation for 12 consecutive months.\n* Age criteria for menopausal group: At least 51 years of age (median age of menopause). Menopause is defined as cessation of menstrual cycle for 12 consecutive months.\n* Diagnosed with ER+ breast cancer\n* Being treated with tamoxifen (TAM) for at least 6 months\n* CONTROL SUBJECTS: Newly diagnosed ER+ breast cancer patients of the same age group as above on TAM for 0-6 months. This criterion is based on our preliminary results showing that patients taking TAM for 6-7 months exhibit near baseline level of NETs\n\nExclusion Criteria:\n\n* Pregnant -The immune modulations geared toward maintenance of pregnancy are known to cause wide-spread alterations in innate and adaptive immune cell functions. In this scenario, divorcing the pregnancy-related changes in myeloid cell function from those relevant to sepsis and cancer will be complicated.\n* History of severe congenital neutropenia due to genetic disorders, such as Kostmann Disorder (HAX1 gene mutation), ELA2 gene mutation, Wiskott-Aldrich syndrome (WAS), Growth Factor Independent 1 Protein (GFI1) gene mutation, Colony Stimulating Factor 3 Receptor (CSF3R) gene mutation, Schwachman-Diamond Syndrome, Barth Syndrome, WHIM Syndrome, and Chadiak-Higashi Syndrome (this list notably does not include Myelodysplastic Syndrome, or Acute/Chronic Myeloid Leukemia)\n* History of autoimmune disorders, which can affect the body's inflammatory response, such as rheumatoid arthritis, lupus, Crohn's disease, multiple sclerosis, and psoriasis.\n* History of chronic viral infections (human immunodeficiency virus \\[HIV\\], hepatitis), which can lead to reduced or variable immune cell function.\n* A recent positive coronavirus disease (COVID) test",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

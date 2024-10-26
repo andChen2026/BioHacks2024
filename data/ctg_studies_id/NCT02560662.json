@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02560662",
+    "briefTitle": "PhysSurg-B : Physical Activity in Relation to Surgical Operations - Breast Cancer",
+    "officialTitle": "PhysSurg-B : Physical Activity in Relation to Surgical Operations, a Prospective Open-label Randomized Controlled Multicenter Study of the Effect of Physical Activity on Recovery After Breast Cancer Surgery",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "Change in self-reported physical and psychological recovery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All female patients at the participating hospital scheduled for breast cancer surgery will be asked to participate.\n\nExclusion Criteria:\n\n* Inability to understand given information.\n* Inability to perform the intervention, as assessed by the person performing inclusion.\n* Withdrawal of informed consent.\n* Male sex.\n* Stage IV breast cancer at diagnosis.\n* Neoadjuvant breast cancer treatment.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

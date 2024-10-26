@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02599974",
+    "briefTitle": "PET-CT in the Initial Staging of Breast Cancer and in the Early Assessment of Response to Neoadjuvant Chemotherapy",
+    "officialTitle": "Role of Fluorodeoxyglucose (FDG) PET-CT in the Initial Staging of Breast Cancer (ASAINT 1) and in the Early Assessment of Response to Neoadjuvant Chemotherapy (ASAINT 2)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Positron-Emission Tomography",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "Pathological complete response in M0 patients at baseline PET (stage II-III)",
+    "eligibilityCriteria": "Inclusion Criteria :\n\n* Histologically confirmed breast cancer\n* Stage II and III breast cancer\n* Neo-adjuvant chemotherapy\n* Baseline PET-CT-scan (ASAINT 1 and 2)\n* PET-CT-scans after second cycle of neo-adjuvant chemotherapy (ASAINT 2)\n* Tumor biopsy for diagnosis and biological analysis with hormone receptors and Human Epidermal Growth Factor Receptor-2 (HER2) available\n* Surgical intervention after completion of neo-adjuvant chemotherapy\n* Evaluable pathological response\n\nExclusion Criteria :\n\n* Other tumor localization\n* Non controlled diabetes mellitus\n* Pregnancy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

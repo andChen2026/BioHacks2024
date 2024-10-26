@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06024213",
+    "briefTitle": "A French Observational Study of Indocyanine Green for Patients With Breast Cancer Having a Sentinel Lymph Node Biopsy.",
+    "officialTitle": "French, Prospective, Post-marketing Study to Describe the Use, Detection Performance and Safety Profile of Infracyanine\u00ae (Indocyanine Green) for Breast Cancer Patients Undergoing a Sentinel Lymph Node (SLN) Biopsy.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 101,
+    "primaryOutcomeMeasure": "Sentinel lymph node detection rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Aged \u226518 years\n* Undergoing breast cancer surgery with an indication for sentinel lymph node biopsy\n* Receiving Infracyanine\u00ae (indocyanine green; alone or in combination with blue dye or 99mTc) for intraoperative identification of sentinel lymph node according to the Summary of Product Characteristics\n\nExclusion Criteria:\n\n* Male\n* Pregnant or nursing female\n* Previous allergy to indocyanine green or to any excipients\n* Already included in a surgical trial\n* Patient opposed to collection and processing of their data",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

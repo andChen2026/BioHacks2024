@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00416403",
+    "briefTitle": "Effect of Fluvastatin on Biomarkers in Women Who Are Undergoing Surgery for Ductal Carcinoma In Situ or Stage I Breast Cancer",
+    "officialTitle": "Randomized Phase II Biomarker Pilot Trial of Fluvastatin Use in Women With Ductal Carcinoma in Situ (DCIS) or Stage I Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "Change in proliferation after statin exposure, as measured by Ki-67 level",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed ductal carcinoma in situ (DCIS) or stage I breast cancer by stereotactic core or incisional biopsy\n* Planning to undergo surgery in 3-6 weeks\n\n  * Patients undergoing re-excision due to evidence of tumor present at surgical margins are eligible\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Menopausal status not specified\n* ALT and AST \u2264 10% above upper limit of normal\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* Able to tolerate statins\n* Willing to undergo 2 blood draws (separated by approximately 3-4 weeks) during study participation (control arm)\n\nPRIOR CONCURRENT THERAPY:\n\n* No other concurrent statins\n* No concurrent chemotherapy\n* No concurrent administration of any of the following:\n\n  * Niacin\n  * Propranolol\n  * Cholestyramine\n  * Cyclosporine\n  * Digoxin\n  * Erythromycin\n  * Itraconazole\n  * Gemfibrozil\n  * Phenytoin\n  * Diclofenac\n  * Tolbutamide\n  * Glyburide\n  * Losartan\n  * Cimetidine\n  * Ranitidine\n  * Omeprazole\n  * Rifampin\n  * Warfarin\n* No initiation of new hormonal therapy during study participation\n* Concurrent participation in other clinical trials (e.g., for DCIS or prevention) is allowed",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06607601",
+    "briefTitle": "CARE Initiative: Real-world Emulation of the PALOMA-2 Trial",
+    "officialTitle": "CARE Initiative Study: Real-world Emulation of the PALOMA-2 Comparative Effectiveness Trial of Palbociclib and Letrozole vs. Placebo and Letrozole for the First-line Treatment of ER+/HER2- Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 724,
+    "primaryOutcomeMeasure": "Real-world progression-free survival (rwPFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer diagnosis\n* Histology not indicative of non-adenocarcinoma histologies\n* Metastatic disease\n* Estrogen-receptor positive (ER+)\n* No prior systemic treatment for metastatic breast cancer\n* Post-menopausal\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 - 2 or missing or Karnofsky performance status \\&gt;=50 or missing\n* No lab results indicating inadequate organ function, as defined in the PALOMA-2 RCT protocol\n\nExclusion Criteria:\n\n* Human epidermal growth factor receptor 2 (HER2) positive tumor\n* Diagnosis of brain, central nervous system, and/or spinal cord metastases\n* Neoadjuvant or adjuvant treatment with anastrozole or letrozole \u226412 months before metastatic diagnosis\n* Prior treatment with treatment with ribociclib, abemaciclib, or palbociclib\n* Treatment with a CYP3A4 inhibitor or inducer or drugs known to prolong the QT interval, as specified in the PALOMA-2 trial protocol, in the 7 days prior to study treatment initiation\n* Anti-cancer therapy or major cancer-related surgery within 2 weeks before study treatment initiation\n* Diagnosis of a second primary malignancy within 3 years prior to study treatment initiation\n* Diagnosis of long or short QT syndrome, Brugada syndrome, QTc prolongation, or Torsade de Pointes\n* Diagnosis of hypocalcemia, hypokalemia, or hypomagnesemia\n* Diagnosis of myocardial infarction, angina, ongoing cardiac dysrhythmias, atrial fibrillation, congestive heart failure, cerebral infarction, transient ischemic attack, or pulmonary embolism in the 6 months prior to study treatment initiation\n* Diagnosis of inflammatory bowel disease chronic diarrhea, or short bowel syndrome\n* Diagnosis of human immunodeficiency virus infection",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

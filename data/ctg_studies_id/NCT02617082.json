@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02617082",
+    "briefTitle": "Partial Breast Irradiation for Low-risk Ductal Carcinoma In Situ After Breast-conserving Surgery",
+    "officialTitle": "Phase II Study of Partial Breast Irradiation for Low-risk Ductal Carcinoma In Situ After Breast-conserving Surgery",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 828,
+    "primaryOutcomeMeasure": "ipsilateral breast tumor recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* 18\\~65 years old\n* Pathologically confirmed DCIS, low- or intermediate- grade DCIS: (lesions of \u22642.5 cm diameter, resection margins of at least 3 mm, nuclei grade: 1-2), high grade DCIS: (lesions of \u22641 cm diameter, resection margins of at least 3 mm, nuclei grade: 3)\n* Treated with breast conserving surgery\n* Tumor bed is labeled with Titanium clips\n* No malignancy history\n* ECOG score 0\\~1\n* Written informed consent\n\nExclusion Criteria:\n\n* DCIS of both breast\n* invasive breast cancer\n* Multicentric disease\n* Patients underwent mastectomy\n* Previous radiation therapy of breast\n* Medical contraindication for radiotherapy\n* Pregnant or nursing\n* suspicious calcification after surgery",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

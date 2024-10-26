@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03455270",
+    "briefTitle": "G1T48, an Oral SERD, Alone and in Combination With Palbociclib in ER-Positive, HER2-Negative Advanced Breast Cancer",
+    "officialTitle": "A Phase 1, Open-Label, Multicenter Study to Assess the Safety, Tolerability, Pharmacokinetics, and Preliminary Antitumor Activity of Ascending Doses of G1T48 Alone and in Combination With Palbociclib in Women With Estrogen Receptor-Positive, HER2-Negative Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Carcinoma, Ductal, Breast, Breast Cancer Female, Breast Neoplasm, Breast Cancer, Metastatic Breast Cancer, Advanced Breast Cancer, Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 107,
+    "primaryOutcomeMeasure": "Dose Limiting Toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* For Part 1, postmenopausal women only\n* For Parts 2 and 3, any menopausal status\n* Confirmed diagnosis of ER-positive, HER2-negative advanced breast cancer, not amenable to curative therapy\n* For Part 1, prior treatment with less than 4 prior lines of chemotherapy\n* For Part 2, prior treatment with less than 2 prior line of chemotherapy\n* For Part 3, prior treatment with no more than 1 prior line of chemotherapy\n* For Parts 1 and 2, prior treatment with less than 4 prior endocrine therapies for metastatic breast cancer\n* For Part 3, prior treatment with no more than 1 prior line of endocrine therapies for metastatic breast cancer\n* For Parts 1 and 2, patients must satisfy 1 of the following criteria for prior therapy:\n\n  * Progressed during treatment or within 12 months of completion of adjuvant therapy with an aromatase inhibitor\n  * Progressed after the end of prior aromatase inhibitor therapy for advanced/metastatic breast cancer\n* For Part 3, patients must satisfy 1 of the following criteria for prior therapy:\n\n  * Received \u2265 24 months of endocrine therapy in the adjuvant setting prior to recurrence or progression\n  * Received \u2265 6 months of endocrine therapy in the advanced/metastatic setting prior to progression\n* For Part 1, evaluable or measurable disease\n* For Parts 2 and 3, evaluable (approximately 25%) or measurable disease (approximately 75%) as defined by RECIST, Version 1.1 including bone-only disease\n* ECOG performance status 0 to 1\n* Adequate organ function\n\nExclusion Criteria:\n\n* For Part 3, prior treatment with CDK4/6 inhibitor, investigational oral SERDs or SERCAs in any setting\n* Active uncontrolled/symptomatic CNS metastases, carcinomatous meningitis, or leptomeningeal disease\n* Anticancer therapy within 14 days of first G1T48 dose or within 28 days for antibody-based therapy\n* Concurrent radiotherapy, radiotherapy within 14 days of first G1T48 dose, previous radiotherapy to the target lesion sites, or prior radiotherapy to \\> 25% of bone marrow\n* Prior hematopoietic stem cell or bone marrow transplantation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

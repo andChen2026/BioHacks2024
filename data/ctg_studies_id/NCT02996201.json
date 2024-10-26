@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02996201",
+    "briefTitle": "Electronic Patient Reporting of Side Effects to Chemotherapy: A Cluster Randomized Controlled Trial",
+    "officialTitle": "Electronic Patient Reporting of Side Effects to Chemotherapy Among Breast Cancer Patients Using the Patient-Reported Outcomes Version of Common Terminology Criteria for Adverse Events (PRO-CTCAE): A Cluster Randomized Controlled Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Adverse Event, Cancer, Breast, Chemotherapeutic Toxicity, Patient Outcomes Assessments",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 700,
+    "primaryOutcomeMeasure": "Dose adjustments reported in the medication treatment sheet before each cycle of chemotherapy (5 time points with three weeks interval)",
+    "eligibilityCriteria": "Gender \u2022Female: only female participants are being studied\n\nMinimum age\n\n\u202218 years\n\nMaximum age \u2022N/A\n\nAccepts Healthy Volunteers\n\n\u2022No\n\nEligibility Criteria\n\nInclusion criteria\n\n* Breast cancer patients starting adjuvant chemotherapy in the period November 1, 2015 - September 1, 2016 in Danish oncology clinics\n\nExclusion Criteria:\n\n* More than six scheduled cycles of chemotherapy\n* Not able to read and understand Danish language",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

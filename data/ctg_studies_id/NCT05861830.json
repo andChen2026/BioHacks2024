@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05861830",
+    "briefTitle": "Dalpiciclib With Endocrine Therapy for Advanced Breast Cancer After CDK4/6 Inhibitor Failure (DAWNA-FES)",
+    "officialTitle": "An Exploratory Study on Predicting the Efficacy of Dalpiciclib in Combination With Endocrine Therapy for HR-Positive and HER2-Negative Recurrent/Metastatic Breast Cancer Patients After CDK4/6 Inhibitor Treatment Failure Using 18F-FES PET/CT",
+    "overallStatus": "RECRUITING",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Investigator-assessed PFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The recent pathology results showed HR-positive and HER2-negative.\n* 18F-FES-PET/CT showed at least one ER-positive lesion.\n* Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) score: 0-2 points.\n* Expected survival time \u2265 3 months.\n* Previous antitumor therapy: (1) (neo)adjuvant treatment with Palbociclib or Abemaciclib or Ribociclib or relapse after adjuvant treatment with Palbociclib or Abemaciclib or Ribociclib; (2) receiving Palbociclib or Abemaciclib or Ribociclib-based treatment in the context of metastatic breast cancer or disease progression after treatment; (3) previously received \u22641 line of chemotherapy for recurrent or metastatic breast cancer; (4) previously received \u22643 lines of endocrine therapy for recurrent or metastatic breast cancer.\n* Willing to undergo 18F-FDG PET/CT standard imaging.\n* At least one measurable lesion outside the skull according to RECIST V1.1.\n* The function of important organs meets the requirements.\n* The subjects have recovered from any adverse event related to previous tumor treatment (\u2264 Grade 1) before the first administration of the investigational drug.\n\nExclusion Criteria:\n\n* 18F-FES-PET/CT shows that all lesions are ER-negative.\n* Previously received treatment with Dalpiciclib.\n* MRI or lumbar puncture confirms leptomeningeal metastasis.\n* Imaging confirms central nervous system metastasis.\n* Participants with visceral crisis, rapid disease progression, and patients not suitable for endocrine therapy.\n* Participants with ascites, baseline pleural effusion with clinical symptoms, and pericardial effusion requiring drainage within the first 4 weeks of treatment.\n* Unable to swallow, intestinal obstruction, or other factors that affect drug administration and absorption.\n* Participants diagnosed with any other malignancy within the past 5 years, excluding non-melanoma skin cancer treated with curative intent. Basal cell or squamous cell skin cancer, or cervical intraepithelial neoplasia and papillary thyroid cancer.\n* Participants who have undergone major surgery or suffered a major injury within 4 weeks before starting treatment, or are expected to undergo major surgical treatment.\n* Known history of allergy to the components of this treatment regimen.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

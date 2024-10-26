@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00356148",
+    "briefTitle": "The Efficacy of Prophylactic Antibiotic Administration During Breast Cancer Surgery in Overweight Patients.",
+    "officialTitle": "Phase IV Study of Determining the Efficacy of Ampicillin/Sulbactam Combination as Antibiotic Prophylaxis During Breast Cancer Surgery in Patients With a Body Mass Index (BMI) Over 25.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 372,
+    "primaryOutcomeMeasure": "Number of Patients With Body Mass Index (BMI) Over 25 Who Developed Surgical Site Infection (SSI) in Groups Who Received Antibiotic Prophylaxis (Prophylaxis Group) and no Prophylaxis (No Prophylaxis Group).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women at any age with early stage breast cancer (stage I-II) and American Society of Anesthesiologists (ASA) score of I-II.\n\nExclusion Criteria:\n\n* Ductal carcinoma in situ (DCIS; stage 0 cancer),\n* Advanced or distant metastatic stage,\n* Receiving any neoadjuvant therapy,\n* History of receiving any antibiotics within prior 3 months,\n* History of immunodeficiency,\n* Having a remote infection,\n* History of reaction to study antibiotics,\n* Denial of signing the consent form.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

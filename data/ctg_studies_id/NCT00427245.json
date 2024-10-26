@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00427245",
+    "briefTitle": "Goserelin in Preventing Early Menopause in Premenopausal Women Undergoing Chemotherapy for Stage I, Stage II, or Stage III Breast Cancer",
+    "officialTitle": "Ovarian Protection Trial In Premenopausal Breast Cancer Patients [OPTION]",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Infertility, Menopausal Symptoms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "Rate of premature menopause, defined as cessation of menses during a course of chemotherapy with no recovery for at least 12 months",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive breast cancer\n\n  * Stages I-IIIB with node-positive or -negative disease (N0-2)\n  * Operable disease\n* Must meet 1 of the following criteria:\n\n  * Has undergone mastectomy or breast-conserving surgery with complete excision of primary tumor within the past 8 weeks\n  * Scheduled to receive neoadjuvant chemotherapy\n* No metastatic breast cancer, including supraclavicular fossa metastases\n* Hormone receptor status meeting 1 of the following criteria:\n\n  * Estrogen receptor (ER) and progesterone receptor poor or negative AND not a candidate for adjuvant endocrine therapy\n  * ER positive AND no requirement for ovarian suppression as a necessary part of treatment\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Premenopausal with regular menses in the 12 months preceding surgery\n* No other prior or concurrent invasive malignancy except adequately treated basal cell or squamous cell skin cancer or carcinoma in situ of the cervix\n* Suitable fitness status for chemotherapy\n* Adequate hepatic, renal, and bone marrow function\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior chemotherapy or endocrine therapy",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06186700",
+    "briefTitle": "Effect of Pentoxifylline on Preventing Chemotherapy-induced Mucositis in Patients With Breast Cancer",
+    "officialTitle": "Effect of Pentoxifylline on Preventing Chemotherapy-induced Mucositis in Patients With Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "The incidence of mucositis in the two groups using WHO grading of oral mucositis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Adult female patients \\>18 years old with histologic confirmation of invasive breast cancer\n2. Planned to administer neoadjuvant chemotherapy protocol comprised of doxorubicin/ cyclophosphamide followed by paclitaxel (AC/T)\n3. Adequate hepatic, renal, and bone marrow functions\n\nExclusion Criteria:\n\n1. Patients on a treatment regimen of phosphodiesterase inhibitors\n2. Patients who are taking antiplatelet or anticoagulant treatment\n3. Patients who are allergic to phosphodiesterase inhibitors\n4. History of recent hemorrhagic events\n5. Active peptic ulcer\n6. patients who have mouth or teeth problem.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

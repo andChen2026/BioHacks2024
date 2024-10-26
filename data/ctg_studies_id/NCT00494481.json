@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00494481",
+    "briefTitle": "E3 Breast Cancer Taxotere Combination",
+    "officialTitle": "A Phase II, Double-blind, Placebo Controlled, Randomized Study to Assess the Efficacy and Safety of ZD6474 in Combination With Docetaxel (Taxotere\u2122) vs Docetaxel Alone as 2nd Line Treatment for Advanced Breast Cancer (ABC).",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 64,
+    "primaryOutcomeMeasure": "Number of Patients With a Disease Progression Event",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females with histological/cytological confirmation of breast cancer.\n* Subjects with a measurable lesion or bone lesions\n\nExclusion Criteria:\n\n* Previous radiotherapy within 6 weeks\n* Significant cardiac events, arrhythmias or other cardiac conditions",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

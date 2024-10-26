@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05993559",
+    "briefTitle": "Necessity of Post-mastectomy Radiotherapy After Neoadjuvant Chemotherapy and Mastectomy",
+    "officialTitle": "Necessity of Post-mastectomy Radiotherapy in Breast Cancer Patients With an Excellent Response After Neoadjuvant Chemotherapy: A Phase 3, Multicenter, Randomized Controlled Study",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1314,
+    "primaryOutcomeMeasure": "5 year invasive disease free survival (iDFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients 20 years of age or older with histologically confirmed invasive breast cancer.\n2. Patients with clinical stage IIB-III at the time of diagnosis (including cases of cT1N1 with multiple masses observed during clinical stage IIA). Patients are considered node positive if they have either suspected lymph node metastasis on imaging studies (U/S, breast MRI, PET-CT) or confirmed by pathology.\n3. Patients who have undergone mastectomy after prior neoadjuvant chemotherapy.\n4. Patients with pathologic complete response (pCR) or residual cancer burden (RCB) class 0-I based on postoperative pathology.\n\n   Complete remission is defined as ypT0/is ypN0. RCB class 0 means complete remission and RCB class 1 is defined as an RCB score \u22650-1.36 as determined by the pathology department at the site.\n5. Patients not previously treated for invasive breast cancer.\n6. Patients with a systemic performance status of 0-2 based on ECOG.\n7. Patients who signed the informed consent prior to study entry.\n\nExclusion Criteria:\n\n1. Patients with a prior history of invasive breast cancer (patients with a prior history of intraepithelial carcinoma of the breast may be enrolled)\n2. Patients with bilateral breast cancer\n3. Patients with a prior diagnosis of cancer other than breast cancer within 5 years (however, adequately treated skin cancer other than melanoma and thyroid cancer are eligible for enrollment.)\n4. Patients with pathologically or imaging confirmed systemic metastases\n5. Patients with a history of prior irradiation or isotope therapy to the rib cage and axillary region contralateral to the breast cancer lesion\n6. Patients with suspected supraclavicular/infraclavicular lymph node metastases and internal mammary lymph node metastases\n7. Pregnant or lactating patients\n8. Patients who have difficulty understanding the contents of the consent form and completing the survey.",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

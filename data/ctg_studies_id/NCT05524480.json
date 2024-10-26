@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05524480",
+    "briefTitle": "Accelerating the Implementation of a Breast and Cervical Cancer Screening and HPV Vaccination Intervention",
+    "officialTitle": "Accelerating the Implementation of a Breast and Cervical Cancer Screening and HPV Vaccination Intervention for Under-served Hispanics",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Cancer Prevention",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "Reach is measured by the proportion of women who participate in SEMM education sessions among those that are eligible in the clinic (among all eligible patients) & in the community (the number of participants that receive SEMM education).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nOrganization inclusion criteria:\n\n* Clinic or community health center (CHC) with LHWs serving Latina populations.\n* Expressed intent to participate in the implementation of SEMM.\n* Serve low-income populations with low or no-cost screening and vaccination.\n* Provide comprehensive primary health care services.\n\nSEMM Participant Inclusion criteria:\n\n* Latinas who self-identify as Hispanic/Latina.\n* Latinas who have at least one unmet breast or cervical cancer prevention need, following Electronic Clinical Quality Measures.\n* (1) Latinas aged 21-64 years who have not had a Pap test in the past 3 years, and (2) Latinas aged 30-64 who have not had a HPV test in the past 5 years (CMS eCQM ID: CMS124v9).\n* (3) Latinas aged 51-74 years who have not had a mammogram in the past 2 years (CMS eCQM ID: CMS125v9).\n* (4) Latinas aged 18-26 years who have not initiated HPV vaccination.\n\n  * Note: Some women will have more than one unmet need (e.g., HPV vaccination and pap test), so they will be included in more than one non-adherent group.\n\nExclusion Criteria:\n\nOrganization exclusion criteria:\n\n- Clinics/Community Health Centers not located in Texas.\n\nSEMM Participant Exclusion criteria:\n\n- Latinas with a prior or current cancer diagnosis due to modified cancer screening surveillance guidelines for cancer survivors.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

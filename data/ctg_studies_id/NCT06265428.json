@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06265428",
+    "briefTitle": "A Study to Compare DB-1303/BNT323 Versus T-DM1 in Breast Cancer",
+    "officialTitle": "A Phase III, Multicenter, Open-label, Randomized Study to Compare DB-1303 Versus T-DM1 in Patients With HER2-positive Unresectable/Metastatic Breast Cancer Who Have Been Treated With Trastuzumab and a Taxane (Dynasty-Breast01)",
+    "overallStatus": "RECRUITING",
+    "conditions": "HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 224,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS) by Blinded Independent Central Review (BICR) assessment per Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST 1.1)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or female adults \u2265 18 years at the time of voluntary signing of informed consent.\n* Pathologically confirmed unresectable or metastatic HER2 positive breast cancer previously treated with trastuzumab and taxane\n* Eastern Cooperative Oncology Group (ECOG) performance status score is 0 or 1.\n* Presence of at least one measurable lesion according to RECIST v1.1\n* Expected survival time \u2265 12 weeks.\n* Patients must give informed consent to this study and voluntarily sign written informed consent form prior to the study.\n\nExclusion Criteria:\n\n* Prior anti-HER2 ADC therapy.\n* Previous history of interstitial lung disease/noninfectious pneumonitis/radiation pneumonitis requiring steroid therapy.\n* Known serious hypersensitivity to the active ingredients of the study drug, inactive ingredients in the formulation, or other antibody drugs.\n* Multiple primary malignancies within 3 years, except for adequately resected non-melanoma skin cancer, curatively treated in situ tumor, or contralateral breast cancer\n* Uncontrolled infection requiring intravenous antibiotics, antiviral or antifungal agents, autoimmune disease requiring treatment, uncontrolled diabetes, hypertension, or other systemic disease that makes compliance with study procedures difficult\n* Unrecovered toxicity from prior anticancer therapy, defined as toxicity (except for alopecia) not recovered to \u2264Grade 1 (NCI-CTCAE v5.0) or baseline.\n\nNOTE: Other protocol defined Inclusion/Exclusion criteria may apply.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

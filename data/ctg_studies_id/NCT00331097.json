@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00331097",
+    "briefTitle": "ELDA: Elderly Breast Cancer - Docetaxel in Adjuvant Treatment",
+    "officialTitle": "Adjuvant Chemotherapy in Elderly Patients With Breast Cancer: Weekly Docetaxel vs. CMF",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "disease free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed invasive unilateral breast cancer\n* Age \\> 65 and \\< 80 years\n* Intermediate-high risk of recurrence according to St. Gallen criteria: ER negative and PgR negative, or axillary lymph node metastasis, or tumor size \\> 2 cm, or tumor grade 2 or 3 (intermediate or high)\n\nExclusion Criteria:\n\n* Performance status \\>1\n* Distant metastasis\n* Concomitant malignancy or malignancy within previous 5 years (except basal cell or spinocellular skin cancer and in situ cervical cancer if they have been adequately treated\n* Previous breast cancer treatment\n* Neutrophils \\< 2000/mm3 or platelets \\< 100000/mm3 or haemoglobin \\< 10 g/dl\n* Creatinine \\> 1.25 the upper normal limit\n* GOT and-or GPT and/or bilirubin \\> 1.25 the upper normal limit\n* Concomitant conditions that contraindicate the use of the drugs in the protocol\n* Incapacity or refusal to provide informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

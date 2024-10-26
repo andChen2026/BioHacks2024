@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01346579",
+    "briefTitle": "Biomarkers in Tissue Samples From Older Women With Breast Cancer",
+    "officialTitle": "PIK3CA Mutation Status as a Biomarker in Elderly Women With Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 505,
+    "primaryOutcomeMeasure": "Breast cancer-free interval for patients with PIK3CA-mutated tumors",
+    "eligibilityCriteria": "* Participants with stage I breast cancer (T1N0M0) and estrogen-receptor status positive or unknown\n* Patients underwent lumpectomy with negative margins and were clinically node-negative",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

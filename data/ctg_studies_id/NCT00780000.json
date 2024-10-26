@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00780000",
+    "briefTitle": "Clinical Trial of Intravenous Alvespimycin in Patients With Her2 Positive Breast Cancer",
+    "officialTitle": "Phase 2 Clinical Trial of Intravenous Alvespimycin [KOS-1022] in Patients With Her2 Positive Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "Objective tumor response rate (either RECIST or WHO complete response, partial response or minor response) confirmed by CT and MRI as the preferred methods for tumor assessments and Chest x-ray is acceptable for pulmonary lesions",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* KPS performance status of \\>= 80% (\"normal activity with effort\")\n* Metastatic breast cancer with Her2 amplification by FISH or 3+ Her2 overexpression by immunohistochemistry (\"IHC\")\n* Must have received no more than one prior cytotoxic chemotherapy regimen in the metastatic setting\n* Measurable disease by RECIST Criteria\n\nExclusion Criteria:\n\n* Received prior lapatinib, an investigational ErbB-2 and/or an investigational EGFR dual tyrosine kinase inhibitors\n* Administration of any other chemotherapy, biological, immunotherapy or investigational agent within 14 days prior to receipt of study medication\n* Pregnant or breast-feeding women. Known CNS metastases, unless treated and without clinically significant neurological deficits\n* Moderately severe dry eye\n* Congestive heart failure, or a left ventricular ejection fraction\n* Myocardial infarction or active ischemic heart disease within 12 months prior to study drug administration\n* Previous malignancies unless free of recurrence for at least 5 years",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

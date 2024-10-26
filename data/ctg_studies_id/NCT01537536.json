@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01537536",
+    "briefTitle": "Trial of Neoadjuvant EndoTAG-1 in Combination With Paclitaxel in HER2-negative Breast Cancer",
+    "officialTitle": "An Open-label Phase II Trial Evaluating the Efficacy and Safety of Neoadjuvant EndoTAG-1 in Combination With Paclitaxel in Patients With HER2-negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 18,
+    "primaryOutcomeMeasure": "MRI-estimated tumour volume at the end of neoadjuvant EndoTAG-1 + paclitaxel administration vs. baseline.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. newly diagnosed histologically confirmed BC with breast infiltrating carcinoma of histological grade \\> 1 (either operable, or locally advanced or inflammatory) candidate for neoadjuvant chemotherapy\n2. HER2-negative tumor, defined according to immunohistochemistry or using fluorescent in-situ hybridization (FISH)\n3. ECOG performance status 0 or 1\n4. Gender: female\n5. Age : \\>= 18 years old\n6. Negative pregnancy test (females of childbearing potential)\n7. Willingness to perform double-barrier-contraception during study and for 6 months post chemotherapy treatment (females of childbearing potential)\n8. Signed informed consent\n\nExclusion Criteria:\n\n1. Metastatic or relapsed disease\n2. Major surgery \\< 3 weeks prior to enrollment\n3. Severe pulmonary obstructive or restrictive disease\n4. Uncontrolled inflammatory disease (autoimmune or infectious)\n5. Clinically significant cardiac disease (NYHA stadium \\> 2)\n6. Results of laboratory tests (hematology, chemistry) outside specified limits:\n\n   * WBC \u2264 3 x 109/L\n   * ANC \\< 1.5 x 109/L\n   * Platelets \\< 100 x 109/L\n   * Hb \u2264 9.0 g/dl (\u2264 5.6 mmol/l)\n   * PTT/ INR \\> 1.5 x ULN\n   * AST or ALT \\> 2.5 x ULN\n   * Alkaline Phosphatase \\> 2 x ULN\n   * Total Bilirubin \\> 1.5 x ULN\n7. Pregnancy or nursing status\n8. Known positive HIV testing\n9. Known hypersensitivity to any component of the EndoTAG-1, paclitaxel or FEC formulations\n10. History of malignancy other than breast cancer \\< 5 years prior to enrollment, except skin cancer (i.e. basal or squamous cell carcinoma) treated locally\n11. History of active or significant neurological disorder or psychiatric disorder that would prohibit the understanding and giving of informed consent, or would interfere in the clinical and radiological evaluation of central nervous system during the trial\n12. Concurrent treatment with other experimental products. Participation in another clinical trial with any investigational product within 30 days prior to study entry",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

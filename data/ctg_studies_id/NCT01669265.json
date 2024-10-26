@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01669265",
+    "briefTitle": "Sentinel Lymph Node Total Tumoral Load as a Predictor of Non Sentinel Node Involvement in Early Breast Cancer",
+    "officialTitle": "Sentinel Lymph Node Total Tumoral Load as a Predictor of Non Sentinel Node Involvement in Early Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 701,
+    "primaryOutcomeMeasure": "Estimate the negative predictive value of the technique OSNA.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathologically confirmed invasive breast carcinoma\n* Stage T1-3,N0 evaluated by physical exam or imaging according to AJCC v.7 and best clinical local practices\n* Intraoperative evaluation of sentinel lymph node (SLN) by OSNA\n* Complete dissection of axillary lymph nodes after the evaluation of the SLNs by OSNA\n* Pathology report of the tumor and dissected lymph nodes that includes the following information:\n\n  * primary tumor size (mm), tumor grade (Scarff-Bloom Richardson), estrogen receptor status\n  * progesterone receptor status\n  * HER2 status (ASCO/CAP guidelines)\n  * Ki67 index\n  * presence/absence of lymphovascular invasion\n  * total number of sentinel and non-sentinel lymph nodes dissected during surgery\n  * total number of positive and negative sentinel and non-sentinel lymph nodes, \\*size of the metastasis in both sentinel and non-sentinel lymph nodes\n  * total tumoral load in each sentinel lymph node, expressed as number of CK19 mRNA copies per microliter.\n\nExclusion Criteria:\n\n* Patients who underwent neoadjuvant chemotherapy\n* CK19-negative breast tumor\n* ALND with \\<10 lymph nodes\n* In situ carcinoma only\n* Metastatic breast cancer at time of diagnosis",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

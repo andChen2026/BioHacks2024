@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01110954",
+    "briefTitle": "Fluorescence-guided Resection in Breast Cancer",
+    "officialTitle": "Evaluation of the Suitability of PD L 506 for Intraoperative Visualisation of Palpable and Nonpalpable Breast Cancer Tissue",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Tumour",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 8,
+    "primaryOutcomeMeasure": "Fluorescence intensity in breast cancer tissue",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent\n* Caucasian female postmenopausal patients\n* Patients with histologically confirmed primary palpable and nonpalpable breast cancer sized up to 5 cm (T1 - T2)\n\nExclusion Criteria:\n\n* Suspicious lymphogenic metastases (cN1-3)\n* Acute or chronic hepatic diseases\n* Manifest renal diseases with renal dysfunction\n* Relevant cardiac disease\n* Preceding therapy of breast tumour under investigation\n* Patients with multiple attempts of hook-wire placement in preparation of surgery\n* Dementia or psychic condition that might interfere with the ability to understand the study and thus give a written informed consent\n* Simultaneous participation in another clinical study or participation in another clinical study in the 30 days directly preceding treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

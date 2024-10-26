@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06258993",
+    "briefTitle": "A Randomized Two-Arm Proof of Concept Study Testing A Novel Approach to Exercise Promotion Based on Affect-regulation",
+    "officialTitle": "Increasing Physical Activity Among Breast Cancer Survivors: Use of the ORBIT Model to Refine and Test a Novel Approach to Exercise Promotion Based on Affect-regulation (Study 2)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 85,
+    "primaryOutcomeMeasure": "Average Minutes of Daily Moderate-vigorous Physical Activity Measured Using the ActiGraph wGT3X-BT Accelerometer at 2 Weeks Follow-up",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \u226518 years old\n* Within 5 years of completing primary cancer treatment (surgery, chemotherapy, and radiation) for Stage 0-III breast cancer\n* \\<60 mins/week moderate-vigorous physical activity (MVPA) with no major changes for the past 6- months\n* Own an Android or iPhone smartphone (or tablet) and willing to use it to complete app-based surveys during assessment periods\n* Willing to wear the ActiGraph monitor during assessment periods\n* Access to internet to complete REDCap survey assessments\n\nExclusion Criteria:\n\n* Non-English speaking/not able to read English\n* Evidence of major contraindications for exercise (informed by the 2020 Physical Activity Readiness-Questionnaire (PAR-Q)+)\n* Currently pregnant\n* History of severe mental illness or currently taking mood stabilizing medications (antipsychotics, anticonvulsants, or lithium)\n* Evidence of moderate-severe depressive symptoms (indicated by a score\u2265 10 on the Patient Health Questionnaire-8)\n* Evidence of moderate-severe cognitive impairment (indicated by a score \\< 3 on a 6-item cognitive screener)\n* Evidence of clinically significant substance use as indicated by a score of \u2265 2 on the CAGE- AID screener.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

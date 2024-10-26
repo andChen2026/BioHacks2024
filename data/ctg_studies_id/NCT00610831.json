@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00610831",
+    "briefTitle": "Computed Radiography (CR) Data Collection for Mammography Computer Aided Detection (CAD)",
+    "officialTitle": "Computed Radiography (CR) Data Collection for Mammography Computer Aided Detection (CAD)",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "To collect mammogram from patients with breast cancer using the Carestream Mammo CR device.",
+    "eligibilityCriteria": "Inclusion Requirements\n\n* Women age 40 to 85\n* Recommended for biopsy and BI-RADS assessment of category 4 (suspicious abnormality) or 5 (highly suggestive of malignancy)\n* Able to have MLO and CC views taken\n* Good general health\n* Able and willing to provide a written Informed Consent\n\nExclusion Requirements\n\n* Under age 40\n* Pregnant or suspicious of being pregnant\n* Breast implants\n* Breasts too large to be adequately positioned on a 24 x 30 cassette\n* Personal history of breast cancer treated with a lumpectomy\n* Unable or unwilling to provide a written Informed Consent form",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

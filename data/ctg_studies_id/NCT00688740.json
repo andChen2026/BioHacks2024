@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00688740",
+    "briefTitle": "Docetaxel in Node Positive Adjuvant Breast Cancer",
+    "officialTitle": "A Multicenter Phase III Randomized Trial Comparing Docetaxel in Combination With Doxorubicin and Cyclophosphamide (TAC) Versus 5-fluorouracil in Combination With Doxorubicin and Cyclophosphamide (FAC) as Adjuvant Treatment of Operable Breast Cancer Patients With Positive Axillary Lymph Nodes.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1491,
+    "primaryOutcomeMeasure": "Number of Participants With Disease-Free Survival Events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven breast cancer (invasive adenocarcinoma with at least one axillary lymph node showing evidence of tumor among a minimum of six resected lymph nodes).\n* Definitive surgical treatment must be either mastectomy, or breast conserving surgery with axillary lymph node dissection for operable breast cancer. Margins of resected specimen from definitive surgery must be histologically free of invasive adenocarcinoma and ductal carcinoma.\n\nExclusion criteria:\n\n* Prior systemic anticancer therapy for breast cancer (immunotherapy, hormonotherapy, chemotherapy).\n* Prior anthracycline therapy or taxoids (paclitaxel, docetaxel) for any malignancy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02216136",
+    "briefTitle": "Tumor: Breast Ratio Study",
+    "officialTitle": "A Prospective Trial to Assess Tumor :Breast Ratio and Patient Satisfaction in Following Lumpectomy Versus Mastectomy With Reconstruction",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, LCIS, DCIS",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 162,
+    "primaryOutcomeMeasure": "Quality of Life as Measured by the Breast Q",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient must be scheduled to undergo breast conservation therapy (BCT), mastectomy or mastectomy with immediate reconstruction (defined as initiating the reconstructive process at time of mastectomy) for ductal carcinoma in situ (DCIS), lobular carcinoma in situ (LCIS), and early stage breast cancer (Clinical Stages IA-IIB). Stage IIB tumors are 2-5 cm with micrometastases 0.2 to 2.0 cm in lymph nodes; or 2-5 cm tumor with 1-3 positive axillary or internal mammary lymph nodes, or \\>5 cm with no lymph node involvement. Clinical staging, based on imaging and physical exam will be used for enrollment. Patients that are upstaged due to unexpected findings at the time of surgery/assessment of surgical pathology will be excluded at that time. For staging reference please see http://www.cancer.gov/cancertopics/pdq/treatment/breast/patient/page2#keypoint13\n* If multifocal/multicentric disease of the ipsilateral breast is encountered and patients are still deemed eligible for BCT or mastectomy per standard of care, then the tumor area will be calculated as the total volumes of the identified foci.\n* Patient must be between 18-72 years old\n* Patient must be able to understand and willing to sign a written informed consent document\n\nExclusion Criteria:\n\n* Cognitive impairment\n* History of radiation to the chest wall or breasts\n* Patients unable to undergo MRI due to metallic implant or claustrophobia\n* Patients that are pregnant since breast MRI is contraindicated\n* History of previous breast surgery other than primary cosmetic augmentation or breast reduction\n* Identification of a concurrent or synchronous contralateral cancer during the enrollment period\n* Any patient that would not have been considered for BCT or reconstruction\n* BCT patients planning to proceed with reconstruction during their study participation timeline",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

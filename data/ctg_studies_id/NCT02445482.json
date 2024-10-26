@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02445482",
+    "briefTitle": "SOLTI Breast Cancer Molecular Screening Program (AGATA)",
+    "officialTitle": "SOLTI Molecular Screening Program: a Pilot Study to Implement Personalized Therapy for Patients With Advanced or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 260,
+    "primaryOutcomeMeasure": "Platform's effectiveness mesured as the proportion of patients included in clinical trials with targeted agents based on the tumor molecular profiling",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female or Male patients\n* Between 18 and 70 years of age\n* Signed informed consent prior to any screening procedure\n* Advanced or Metastatic breast cancer of any subtype confirmed both pathologically and radiologically (stage IIIb- IV disease)\n* The patient may present with a responding, stable or progressive disease\n* The subjects must be about to receive, or receiving, or will have completed treatment for their metastatic disease with any line of treatment in either a clinical trial or the healthcare setting\n* Availability of one archived initial or metastatic tumor sample. If archived material were not available, a biopsy of the metastatic cancer should be performed to obtain such material.\n* Measurable or non-measurable disease\n* Quality of life score according to ECOG scale \u2264 2\n* Minimal life expectancy of 3 months\n\nExclusion Criteria:\n\n* Presence of progressive disease at the time of inclusion requiring treatment initiation before genomic profile results are obtained\n* LVEF\\<50% (MUGA)\n* Inadequate bone marrow reserve or organ dysfunction shown by any of the following laboratory values:\n* Absolute neutrophil count\n* Platelet count\\< 100 x 109/L\n* Hemoglobin \\< 90 g/dL\n* AST/ALT \\> 2.5 times the upper limit of normality if no demonstrable hepatic metastases, or \\> 5 times the upper limit of normality in the presence of hepatic metastases\n* Total bilirubin \\> 1.5 times the upper limit of normality\n* Creatinine\\>1.5 times the upper limit of normal\n* Corrected calcium \\> upper limit of normality\n* Phosphate \\> upper limit of normality\n* Presence of any other type of cancer, except suitably",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

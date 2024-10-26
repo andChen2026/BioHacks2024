@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02213991",
+    "briefTitle": "Intraoperative Radiotherapy for Korean Patients With Breast Cancer",
+    "officialTitle": "A Phase II Trial Investigating Acute Local Toxicities of Intraoperative Radiotherapy as a Boost Dose in Korean Breast Cancer Patients Undergoing Breast Conserving Surgery",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 215,
+    "primaryOutcomeMeasure": "Acute local toxicity in breast receiving IORT",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed and newly diagnosed non-metastatic operable primary breast cancer\n* Primary tumor \\<5cm, measured by ultrasonography - N0-3 (any N if resectable) and no evidence of distant metastasis (M) (isolated supraclavicular node involvement allowed)\n* Age \u226518-years women with good performance status (ECOG 0-1)\n* No breast operation is allowed except diagnostic biopsy\n* Women with ductal carcinoma in situ diagnosed by preoperative biopsy are allowed\n\nExclusion Criteria:\n\n* Pregnancy or unwillingness to use a reliable contraceptive method in women of child-bearing potential.\n* Patients who received prior chemotherapy or radiotherapy for breast cancer\n* Patients who have history of cancer other than in situ uterine cervix cancer or non-melanoma skin cancer\n* The depth of tumor from skin measured by ultrasonography is less than 1cm.\n* Contraindications to breast conservative surgery\n\n  * Multicentric breast cancer (tumors in more than one quadrant)\n  * Diffuse malignant appearing microcalcification\n  * Prior therapeutic radiation to the breast region\n  * Small breast, which is not possible to achieve clear margins in relation to a cosmetically acceptable result\n  * History of collagen vascular disease, such as active scleroderma and active lupus\n* Postoperative exclusion\n\n  * Patients who require re-excision due to positive resection margin\n  * The depth of cavity from skin after lumpectomy is less than 0.5cm",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

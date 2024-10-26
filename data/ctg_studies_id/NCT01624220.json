@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01624220",
+    "briefTitle": "A Prospective Study Using Implanted Fiducial Markers to Assess Treatment Accuracy and Esophageal Toxicity in Spinal Stereotactic Body Radiation Therapy",
+    "officialTitle": "A Prospective Study Using Implanted Fiducial Markers to Assess Treatment Accuracy and Esophageal Toxicity in Spinal Stereotactic Body Radiation Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Spinal Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 41,
+    "primaryOutcomeMeasure": "Assess Use of Implanted Fiducial Markers in Treatment Planning and Delivery Workflow for Frame-Based Spinal Stereotactic Body Radiation Therapy (Spinal SBRT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. STAGE 1: \\>/= 18 years old\n2. STAGE 1: Pathologically confirmed diagnosis of cancer, including, but not limited to non-small cell lung cancer, breast, prostate, renal cell, melanoma, gastrointestinal, sarcoma, thyroid, head and neck primary, and carcinoma of unknown primary\n3. STAGE 1: Signed informed consent\n4. STAGE 2: 1-3 above, and Patients undergoing single fraction spinal SBRT\n\nExclusion Criteria:\n\n1. STAGE 1: Patient with radiosensitive histologies (lymphoma, multiple myeloma, small cell carcinomas, germ cell tumors)\n2. STAGE 1: Extensive (\\> 50%) height loss of the involved vertebral body\n3. STAGE 1: Inability to tolerate lying flat on treatment table for greater than 30 minutes\n4. STAGE 1: Pregnancy\n5. STAGE 2: Prior irradiation of the spine site and level to be treated\n6. STAGE 2: Patients with primary disease arising in the posterior elements of the VB in question\n7. STAGE 2: History of Barrett's esophagus, esophageal webbing, stricture, or fistula\n8. STAGE 2: Prior radiation to the esophagus",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

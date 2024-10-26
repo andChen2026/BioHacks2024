@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02092636",
+    "briefTitle": "Ultrasound and Near Infrared Imaging for Breast Cancer Diagnosis and Neoadjuvant Chemotherapy Monitoring",
+    "officialTitle": "Ultrasound and Near Infrared Imaging for Breast Cancer Diagnosis and Neoadjuvant Chemotherapy Monitoring",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Hemoglobin concentration",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 18 years and older who have breast lumps or abnormalities (actual or suspected) are eligible for the study.\n* Women and members of all races and ethnic groups are eligible for this study.\n* Diagnostic Group: These patients will include women who have breast lumps/lesions visible by ultrasound and are prescribed follow up with an ultrasound-guided biopsy at the UCHC Cancer Center for evaluation and diagnosis of actual/suspected breast abnormalities.\n* Neoadjuvant Chemotherapy Group: These patients will include women who have breast lumps/lesions visible by ultrasound and have been diagnosed with breast cancers and will undergo neoadjuvant chemotherapy. These patients may be identified from the diagnostic group or after initial diagnosis. Patients will only be enrolled to one of the two groups.\n* Process Validation Group: This group will contain data from about five women who did not have ultrasound visible lumps on the day of the planned biopsy. Data from the NIR/US scan will be used to validate instrument measurements.\n\nExclusion Criteria:\n\n* All Subjects who fail to meet the inclusion criteria are ineligible for the study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

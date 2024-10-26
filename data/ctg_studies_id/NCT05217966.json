@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05217966",
+    "briefTitle": "Single Pre-Operative Radiation Therapy - With Delayed or No Surgery (SPORT-DNS)",
+    "officialTitle": "Single Pre-Operative Radiation Therapy - With Delayed or No Surgery (SPORT-DNS) for Low Risk Breast Cancer: A Phase II Study",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Incidence of pathological complete response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female aged 50 years or older.\n2. Postmenopausal status (Defined as: age 60 OR bilateral ovariectomy OR amenorrhea \\> 12 months prior to breast cancer diagnosis without using oral contraceptives/hormone replacement therapy) (65).\n3. World Health Organization (WHO) performance status 0-2.\n4. Invasive ductal carcinoma proven by biopsy done \u2264 12 weeks from treatment start.\n5. Unifocal disease on preoperative staging ultrasound or MRI done \u2264 12 weeks from treatment start.\n6. Tumors less than or equal to 2cm clinically on physical exam, as well as on breast ultrasound.\n7. No clinical evidence of nodal disease (i.e. cN0), on physical examination done \u2264 12 weeks from treatment start, as well as on breast ultrasound.\n8. Estrogen receptor status (ER) positive on biopsy \u2265 80%.\n9. Progesterone receptor status (PR) positive on biopsy \u2265 20%.\n10. Her2 negative on biopsy.\n11. No lymphovascular invasion on biopsy.\n12. Low Oncotype DX recurrence score performed on biopsy specimen (RS \u226418).\n13. Planned surgery is a partial mastectomy with sentinel lymph node biopsy.\n\nExclusion Criteria:\n\n1. Age less than 50 years.\n2. Premenopausal or uncertain menopausal status.\n3. A known deleterious mutation in BRCA 1 and/or BRCA 2.\n4. Clinical tumor size \\> 2.0 cm in greatest diameter on staging ultrasound.\n5. Tumor histology limited to lobular carcinoma only.\n6. Clinically positive axillary nodes (cN+).\n7. Lymphovascular invasion on biopsy.\n8. Pure ductal or lobular carcinoma in situ on biopsy.\n9. Extensive intraductal component on biopsy.\n10. Neoadjuvant hormonal manipulation or chemotherapy.\n11. Prior non basal cell or squamous cell skin cancers within 5 years.\n12. More than one primary tumor in different quadrants of the same breast.\n13. Diffuse microcalcifications on mammography.\n14. Paget's disease of the nipple.\n15. Previous irradiation to the ipsilateral breast.\n16. Presence of an ipsilateral breast implant or pacemaker.\n17. Serious non-malignant disease (e.g. cardiovascular, pulmonary, systemic lupus erythematosus (SLE), scleroderma) which would preclude definitive radiation treatment.\n18. Estrogen receptor status (ER) not known.\n19. Currently pregnant or lactating.\n20. Psychiatric or addictive disorders which would preclude obtaining informed consent or adherence to protocol.\n21. Geographic inaccessibility for follow-up.\n22. Lack of preoperative staging with breast and axillary ultrasound.\n23. Inability to adequately plan the patient for the experimental technique.\n24. Prior breast cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

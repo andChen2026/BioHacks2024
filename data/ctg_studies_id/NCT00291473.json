@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00291473",
+    "briefTitle": "Safety and Immunogenicity of CHP-HER2 and CHP-NY-ESO-1 Protein With OK-432 in Antigen-Expressing Cancers",
+    "officialTitle": "Safety and Immunogenicity of Cholesterol-Bearing Hydrophobized Pullulan HER2 Protein 146 (CHP-HER2) and NY-ESO-1 Protein (CHP-NY-ESO-1) in Combination With OK-432 in HER2- and/or NY-ESO-1-Expressing Cancers",
+    "overallStatus": "COMPLETED",
+    "conditions": "Esophageal Cancer, Lung Cancer, Stomach Cancer, Breast Cancer, Ovarian Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 9,
+    "primaryOutcomeMeasure": "adverse events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histological confirmation of cancer.\n2. HER2 expression in tumor cells scored as 1+ or more which should be confirmed by IHC using at least two antibodies (archived issue; see Appendix 1 and Reference 1 for methodology).\n\n   or NY-ESO-1 expression by reverse transcriptase and polymerase chain reaction (RT-PCR) analysis (Appendix 2), preferably, or immunohistochemistry\n3. Patients must\n\n   1. are at high risk of recurrence, more than 25% of probability, after complete resection or even after post-operative adjuvant treatment, and effective adjuvant therapy is not available or refused; or\n   2. have metastatic disease, and treatment has failed, or in the situation where effective therapy is not available, or has been refused.\n4. Complete recovery from surgery (at least 4 weeks).\n5. Laboratory values within the following limits:\n\n   Hemoglobin 9.0 g/dL or more, or 10.0 g/dL or more if \\<50 kg Neutrophil count \\>1.5 x 109/L Lymphocyte count \\>0.5 x 109/L Platelet count \\>100 x 109/L Serum creatinine \u2264 1.8 mg/dL Serum bilirubin \u2264 2 mg/dL\n6. Performance status \\> 70 (Karnofsky Scale) and life expectancy \\>3 months.\n7. Age 18 years or more.\n\nExclusion Criteria:\n\n1. Clinically significant heart disease (NYHA Class III or IV).\n2. Cardiac dysfunction; less than 50% of ejection fraction by echocardiogram.\n3. Immunodeficiency disease.\n4. Other serious illnesses, eg, serious infections requiring antibiotics, bleeding disorders.\n5. Previous bone marrow or stem cell transplant.\n6. Metastatic disease to the central nervous system, unless treated and stable.\n7. known HIV antibody positivity.\n8. Anaphylactic reaction to previous vaccination.\n9. Hypersensitivity to penicillin\n10. Chemotherapy, any type of radiation therapy, or immunotherapy within 4 weeks before study entry (6 weeks for nitrosoureas).\n11. Concomitant treatment with steroids. Topical or inhalational steroids are permitted.\n12. Participation in any other clinical trial involving another investigational agent within 4 weeks prior to enrollment.\n13. Pregnancy or nursing .\n14. Refusal, by women of childbearing potential, to use medically acceptable means of contraception.\n15. Mental impairment that may compromise the ability to give informed consent.\n16. Lack of availability for immunological and clinical follow-up assessment.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

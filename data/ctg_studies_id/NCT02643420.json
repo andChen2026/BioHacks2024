@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02643420",
+    "briefTitle": "SPI-2012 vs Pegfilgrastim in the Management of Neutropenia in Participants With Breast Cancer With Docetaxel and Cyclophosphamide (ADVANCE)",
+    "officialTitle": "RAnDomized Trial of SPI-2012 Versus Pegfilgrastim in the Management of Chemotherapy Induced Neutropenia in Breast CANCEr Patients Receiving Docetaxel and Cyclophosphamide (TC) (ADVANCE)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neutropenia, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 406,
+    "primaryOutcomeMeasure": "Duration of Severe Neutropenia (DSN) in Cycle 1",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* New diagnosis of histologically confirmed early-stage breast cancer (ESBC), defined as operable Stage I to Stage IIIA breast cancer\n* Candidate for adjuvant or neoadjuvant TC chemotherapy\n* Eastern Cooperative Oncology Group (ECOG) performance score \u2264 2\n* Absolute neutrophil count (ANC) \u2265 1.5\u00d710\\^9/L\n* Platelet count \u2265 100\u00d710\\^9/L\n* Hemoglobin \\> 9 g/dL\n* Creatinine clearance \\> 50 mL/min\n* Total bilirubin \u2264 1.5 mg/dL\n* Aspartate Aminotransferase per Serum Glutamic-Oxaloacetic Transaminase (AST/SGOT) and Alanine Aminotransferase per Serum Glutamic-Pyruvic Transaminase (ALT/SGPT) \u2264 2.5\u00d7 Upper Limit of Normal (ULN).\n* Alkaline phosphatase \u2264 2.0\u00d7ULN\n\nKey Exclusion Criteria:\n\n* Active concurrent malignancy (except non-melanoma skin cancer or carcinoma in situ of the cervix) or life-threatening disease\n* Locally recurrent or metastatic breast cancer\n* Known sensitivity to E. coli -derived products or to any products to be administered during dosing\n* Concurrent adjuvant cancer therapy\n* Previous exposure to filgrastim, pegfilgrastim, or other G-CSF products in clinical development within 12 months prior to the administration of study drug\n* Active infection, receiving anti-infectives, or any serious underlying medical condition that would impair ability to receive protocol treatment\n* Prior bone marrow or stem cell transplant\n* Use of any investigational drugs, biologics, or devices within 30 days prior to study treatment or plans to use any of these during the course of the study\n* Radiation therapy within 30 days prior to enrollment\n* Major surgery within 30 days prior to enrollment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

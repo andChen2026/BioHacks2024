@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02934828",
+    "briefTitle": "Study of Preoperative Chemotherapy for Early Triple Negative or HER2-positive Operable Breast Cancer",
+    "officialTitle": "A Randomized Study of Preoperative Chemotherapy or Postoperative Chemotherapy for Early Triple Negative or Human Epidermal Growth Factor Receptor 2 (HER2)-Positive Operable Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 230,
+    "primaryOutcomeMeasure": "Recurrence-Free Survival (RFS) of neoadjuvant and adjuvant treatment in TNBC and her2 positive breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Invasive breast cancer confirmed by pathology evaluation of core biopsy\n2. Tumors must be ER/PgR status negative (immunohistochemistry\uff08IHC\uff09 \\< 10%) and lack of HER2/neu overexpression or amplification as measured by local hospital pathology laboratory (IHC +/- fluorescence in situ hybridization (FISH) and IHC \\< 3+, and FISH \\< 2.2) as described in the NCCN Guidelines\n3. Female between18 to 70 years of age, Eastern Cooperative Oncology Group(ECOG) Performance Status 0 or 1\n4. Early-stage TNBC or HER2 positive breast cancer according to the American Joint Committee on Cancer (AJCC) Staging Manual Clinical Stage IIA or IIB, Stage IIIA operable breast cancer\n5. Previously untreated\n6. Adequate hematologic function (absolute neutrophil count \u2265 1,500 cells/\u00b5L; hemoglobin \\> 9 g/dL, platelets \\> 100,000/\u00b5L.)\n7. Adequate hepatic function: total bilirubin \u2264 upper limit of normal (ULN), serum albumin \u2265\u2265 3.0 g/dL, alanine aminotransferase and aspartate aminotransferase \u2264 1.5 x ULN.\n\nExclusion Criteria:\n\n1. ICH:ER/PgR status positive\n2. HER2 positive breast cancer Patients with reduced ejection fraction \\<50% are not eligible\n3. Patients with second malignancies\n4. Patients with bilateral breast cancer\n5. allergic constitution",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

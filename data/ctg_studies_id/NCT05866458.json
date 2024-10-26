@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05866458",
+    "briefTitle": "Radiation OmisSion in PAtients With CLinically Node Negative Breast Cancer Undergoing Lumpectomy",
+    "officialTitle": "Radiation OmisSion in PAtients With CLinically Node Negative Breast Cancer Undergoing Lumpectomy and With a PathologIc Complete REsponse After Neoadjuvant Chemotherapy",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 352,
+    "primaryOutcomeMeasure": "Ipsilateral breast tumour recurrence (IBTR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patient with a new histological diagnosis of clinical T1-3 N0 breast cancer (any tumour sub-type).\n2. Negative lymph node involvement at initial presentation, documented by imaging (US or MRI), fine needle aspiration (FNA) or core needle biopsy.\n3. Treated with a minimum of 8 weeks NAC, with patients with Her2+ disease receiving targeted anti-Her2+ therapy.\n4. Marker clip placed in the tumour bed prior to or during neoadjuvant chemotherapy when the tumour can still be identified.\n5. Treated by BCS with complete excision of the tumour bed and axillary staging surgery (either sentinel lymph node biopsy or axillary lymph node dissection).\n6. Final pathology demonstrating a pCR \\[defined as absence of residual invasive and in-situ breast cancer within the breast or lymph nodes (ypT0N0)\\].\n\nExclusion Criteria:\n\n1. Age less than 50 years.\n2. Inflammatory breast cancer or breast cancer invading the skin or chest wall (T4 disease).\n3. Multicentric disease (i.e., breast cancer involving more than one quadrant in the same breast).\n4. Prior history of ipsilateral or contralateral in-situ or invasive breast cancer. Patients with a history of lobular carcinoma in-situ (LCIS) are ineligible.\n5. Synchronous contralateral in-situ or invasive breast cancer.\n6. BRCA (breast cancer gene) 1 or 2 genetic mutation carrier, or other genetic mutation present associated with increased risk of breast cancer.\n7. Other previous non-breast malignancies except adequately treated non-melanoma skin cancers, in situ cancers or other cancers curatively treated with no evidence of disease for \u2265 5 years.\n8. Inability to complete entire course of neoadjuvant therapy (minimum of 8 weeks of treatment).\n9. Patients with HR+ (hormone receptor) disease who are not planned to have endocrine therapy initiated.\n10. Patients with Her2+ disease who have not received or are not planned to receive Her2 targeted therapy.\n11. ECOG (Eastern Cooperative Oncology Group) performance status \\> 3.\n12. Inability to provide informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

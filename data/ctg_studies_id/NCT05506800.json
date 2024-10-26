@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05506800",
+    "briefTitle": "Guangzhou Women's Health Cohort Study (GWHCS)",
+    "officialTitle": "Guangzhou Women's Health Cohort Study (GWHCS)",
+    "overallStatus": "SUSPENDED",
+    "conditions": "Cervical Cancer, Breast Cancer, Lung Cancer, Colorectal Cancer, Endometrial Cancer, Ovarian Cancer, Hypertension, Diabetes, Reproductive Disorder",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000000,
+    "primaryOutcomeMeasure": "Incidence and mortality rate of cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 35-64 years old\n* Women with registered permanent residence in Guangzhou\n* Women with informed consent\n\nExclusion Criteria:\n\n* Women without informed consent\n* Women with reading and/or writing difficulties\n* Women with serious mental disorders",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT"
+}

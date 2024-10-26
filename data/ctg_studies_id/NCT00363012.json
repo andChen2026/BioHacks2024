@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00363012",
+    "briefTitle": "Immune Response in Patients Who Have Undergone Vaccine Therapy for Stage III or Stage IV Breast Cancer That Overexpresses HER2",
+    "officialTitle": "Development of HER-2/Neu (HER2) ICD Memory Immunity After Vaccination With a Plasmid Encoding HER2 ICD in Patients With Advanced Stage HER2 Overexpressing Breast and Ovarian Cancers",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 56,
+    "primaryOutcomeMeasure": "Immunologic memory response to HER-2/neu (HER2) intracellular domain protein",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of stage III/IV breast cancer\n\n  * Completed chemotherapy\n  * Receiving trastuzumab (Herceptin\u00ae) monotherapy\n* Successful completion of HER-2/neu (HER2) intracellular domain (ICD) plasmid-based vaccine trial (Protocol 01-9773-D06: \"A Phase I Safety and Efficacy Trial of a DNA Plasmid Based Vaccine Encoding the HER-2/neu Intracellular Domain In Subjects With HER-2/neu-Overexpressing Tumors\") within the past 3 months\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Male or female (male patients are not excluded)\n* Menopausal status not specified\n* Zubrod performance status 0\n* Unable to bear children (female patients)\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No cytoreductive chemotherapy within the past 30 days\n* No cytotoxic treatment and/or systemic corticosteroids within the past month\n* Concurrent local radiotherapy or hormonal therapy allowed",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

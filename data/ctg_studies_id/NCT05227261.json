@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05227261",
+    "briefTitle": "Early Detection of Five Common Cancers Using the ctDNA Analysing Test",
+    "officialTitle": "Assessment of a Novel Blood Test in Early Detection of the Five Common Cancers Based on the Investigation of the Circulating Tumour DNA",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cancer, Lung, Cancer, Breast, Cancer Liver, Cancer, Colorectal, Liquid Biopsy, Circulating Tumour DNA, Cancer, Gastric",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 10000,
+    "primaryOutcomeMeasure": "Positive predictive value, Negative predictive value of the blood ctDNA test in early detecting cancers",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged 40 or above at enrolment\n* Neither clinical suspicion of cancer nor history of confirmed cancer has been reported\n* Agree to be contacted at 6 months and 12 months following enrolment to collect information about general health status and progress of cancer (if possible)\n* Provide written informed consent\n\nExclusion Criteria: If a potential participant has any one of the following criteria, he/she will not be able to be enrolled in the study:\n\n* History of cancer (cancer has either been confirmed or been treated within the past 3 years)\n* History of blood transfusion or bone marrow transplantation within the past 3 years\n* Does not agree to participate in study\n* The subject has clinical manifestations of dementia.",
+    "sex": "ALL",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

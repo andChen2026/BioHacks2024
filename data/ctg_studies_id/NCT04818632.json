@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04818632",
+    "briefTitle": "AZD9833 China PK Study",
+    "officialTitle": "A Phase 1 Dose Escalation and Expansion Study of AZD9833 Alone or in Combination With Palbociclib or Everolimus in Chinese Patients With Oestrogen Receptor Positive (ER+), Human Epidermal Growth Factor Receptor 2 Negative (HER2-) Metastatic Breast Cancer (mBC)",
+    "overallStatus": "COMPLETED",
+    "conditions": "ER+, HER2-, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "The number of subjects with dose-limiting toxicity, as defined in the protocol.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Any menopausal status:\n\n   1. Pre-menopausal women must have commenced treatment with an LHRH agonist at least 4 weeks prior to the start of study intervention and must be willing to continue to receive LHRH agonist therapy for the duration of the study.\n   2. Post-menopausal defined according to standard criteria in the protocol.\n2. Histological or cytological confirmation of adenocarcinoma of the breast.\n3. Documented positive ER status and HER2 negative status of primary or metastatic tumour tissue.\n4. ECOG performance status 0 to 1.\n5. Metastatic disease and radiological or objective evidence of progression on or after the last systemic therapy prior to the start of study intervention.\n6. At least one lesion as per RECIST Version 1.1 that can be accurately assessed at baseline and is suitable for repeated assessment by CT, MRI, or plain X-ray or clinical examination.\n7. Recurrence or progression on at least one line of endocrine therapy in the metastatic disease setting.\n8. For Part A and Part B cohort 1, patients should be eligible for SERD monotherapy treatment.\n9. For Part B Cohort 2, patients should be eligible for SERD treatment and CDK4/6 inhibitors, and prior treatment with CDK4/6 inhibitors is not permitted.\n10. For Part B Cohort 3, patients should be eligible for SERD treatment and mTOR inhibitors, and prior treatment with mTOR inhibitors is not permitted.\n\nExclusion Criteria:\n\n1. Previous treatment with AZD9833.\n2. Presence of life-threatening metastatic visceral disease, uncontrolled CNS metastatic disease or life-threatening extensive hepatic involvement.\n3. Any evidence of severe or uncontrolled systemic diseases, including uncontrolled hypertension and active bleeding diatheses, or infection requiring intravenous antibiotic therapy, which makes it undesirable for the patient to participate in the study or which would jeopardize compliance with the protocol.\n4. Inadequate bone marrow reserve or organ function.\n5. Any clinically important and symptomatic heart disease.\n6. Any concurrent anti-cancer treatment.\n7. Refractory nausea and vomiting, uncontrolled chronic gastrointestinal diseases, inability to swallow the formulated product, or previous significant bowel resection that would preclude adequate absorption of AZD9833 (and palbociclib and everolimus).\n\nThe above information is not intended to contain all considerations relevant to a patient's potential participation in a clinical trial.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

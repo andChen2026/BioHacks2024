@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05602792",
+    "briefTitle": "A Study of T3011 Administered Via Intratumoral Injection in Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase I/IIa Study to Assess the Safety, Tolerability, Biodistribution and Pharmacodynamic of T3011 Herpes Virus Administered Via Intratumoral Injection in Patients With Advanced Solid Tumors.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Advanced Solid Tumor, Sarcoma, HNSCC, Breast Cancer, Esophagus Cancer, NSCLC, Non-melanoma Skin Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 233,
+    "primaryOutcomeMeasure": "In part I and part II, Evaluate the safety and tolerability of escalating doses of single dose and multiple dose IT T3011.Characterize DLTs and identify the MTD of IT T3011.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 1. Age 18\\~70 years Part I ; Age 18 years or older (Part II and III ). 2. Histologically or pathologically confirmed diagnosis of locally recurrent or metastatic advanced malignancy.\n\n  3. Measurable disease per RECIST version 1.1. 4. Must have at least 1 tumor lesion that is accessible for IT injection of T3011 in the opinion of the investigator.\n\n  5. Eastern Cooperative Oncology Group (ECOG) performance status 0-1. 6. Life expectancy \\> 12 weeks. 7. Women of child-bearing potential (WCBP) and men must agree to use adequate contraception prior to study entry, while on study treatment, and for six months after receiving last dose of T3011.\n\n  8. WCBP must have a negative serum pregnancy test Within 7 days prior to W1D1. 9. Capable of understanding and complying with protocol requirements.\n\nExclusion Criteria:\n\n* 1. Last dose of previous anticancer therapy \\< 4 weeks. 2. Prior treatment with another oncolytic virus or gene therapy. 3. Previous intolerance to anti-PD-(L)1 monoclonal antibody or previous history of immunotherapy induced non-infectious pneumonitis/interstitial lung disease.\n\n  4. History of seizure disorders within 12 months of Screening. 5.History of allergic reactions attributed to compounds of similar biological composition to HSV-1, IL-12, or anti-PD-1 monoclonal antibody.\n\n  6. Requires continued concurrent therapy with any drug active against HSV. 7. Pregnant or lactating.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

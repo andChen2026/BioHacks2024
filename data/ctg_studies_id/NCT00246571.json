@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00246571",
+    "briefTitle": "Study Of SU011248 Versus Chemotherapy For Patients With Previously Treated Triple Receptor Negative Breast Cancer",
+    "officialTitle": "A Randomized Phase 2 Study Of SU011248 Versus Standard-Of-Care For Patients With Previously Treated, Advanced, Triple Receptor Negative (ER, PR, HER2) Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 217,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Recurrent or metastatic breast cancer\n* Estrogen receptor (ER), progestin receptor (PR) and HER2/neu receptor (HER2) negative status\n* Prior treatment with an anthracycline and a taxane in the adjuvant or advanced disease setting\n* Relapse following adjuvant chemotherapy within 6 months of last treatment and/or received one or two chemotherapy regimens for advanced disease\n\nExclusion Criteria:\n\n* More than two chemotherapy regimens for advanced disease\n* Uncontrolled/symptomatic spread of cancer to the brain",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00909558",
+    "briefTitle": "Safety and Effectiveness Study of Autologous Natural Killer and Natural Killer T Cells on Cancer",
+    "officialTitle": "A Phase I Open Label, Single Site, Safety and Efficacy Study of the Effects of Autologous Natural Killer and Natural Killer T Cell Immunotherapy on Malignant Disease",
+    "overallStatus": "SUSPENDED",
+    "conditions": "Breast Cancer, Glioma, Hepatocellular Cancer, Squamous Cell Lung Cancer, Pancreatic Cancer, Colon Cancer, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Is there any measurable effect upon the underlying cancer as assessed by an increase or decrease in the tumor as measured from baseline using established criteria?",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or female not less than 18 years of age or over 80 years of age.\n* Life expectancy of \u2265 24 weeks as measured by the Eastern Cooperative Oncology Group (ECOG) performance status.\n* Subjects must present with one of the following disease pathologies: Breast Cancer, Glioma, Hepatocellular Cancer, Squamous Cell Lung Cancer, Pancreatic Cancer, Colon Cancer or Prostate Cancer\n* The pathology must be an assessable disease (measurable by CT scan or MRI) that is refractory to standard treatments (e.g., chemotherapy, radiation, etc.)\n* Negative for hepatitis B, hepatitis C, HIV, and CMV.\n* Subjects must present with leukocyte counts above 3,000/\u03bcL and platelet counts above 100,000/ \u03bcL.\n* Subjects must present with minimum hemoglobin levels of 10.\n* If female, subject is surgically sterile (hysterectomy, bilateral tubal ligation, or bilateral oophorectomy), post menopausal (no menses \\>12 months), or using a high-efficiency method of contraception such as implant, injectable, combination oral contraceptive, intrauterine device (IUD) or sexual abstinence, or has a vasectomized partner.\n* If female of childbearing potential, subject is not pregnant, breast-feeding or planning a pregnancy during the study, and has a negative pregnancy test on screening visit.\n* Able to comprehend and sign an informed consent document and comply with the requirements of the study.\n\nExclusion Criteria:\n\n* No measurable malignant disease by CT scan or tumor markers.\n* Life expectancy of \u2264 24 weeks as measured by the Eastern Cooperative Oncology Group (ECOG) performance status.\n* Age of less than 18 years or over 80 years of age.\n* Documented/confirmed positive testing for hepatitis B, hepatitis C, HIV, or CMV.\n* Prior or current history of autoimmune disease.\n* Pregnant or lactating women.\n* Leukocyte count \\< 3,000 /\u03bcL prior to leukapheresis.\n* Platelet count \\< 100,000/\u03bcL prior to leukapheresis.\n* Hemoglobin levels below 10.\n* PTT (prothrombin time) of \\< 12 seconds or \\> than 15 seconds.\n* aPTT (activated partial thromboplastin time) of \\< 25 seconds or \\> than 39 seconds.\n* Failure or refusal to sign informed consent for the study.\n* Culture fails to meet specifications for study.\n* Subject has any other medical condition that, in the opinion of the investigator, might significantly affect the ability to safely participate in the study or affect the conduct of the study.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

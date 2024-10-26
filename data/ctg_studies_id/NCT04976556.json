@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04976556",
+    "briefTitle": "Breast Cancer Detection in Breast Surgical Specimens With the Histolog Scanner, Slide-free Confocal Microscope",
+    "officialTitle": "Breast Carcinoma Detection in Ex-vivo Fresh Breast Surgical Specimens Using the Histolog Scanner, Slide-free Confocal Microscopy Scanner",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 181,
+    "primaryOutcomeMeasure": "Accuracy, Sensitivity, Specificity, Positive predictive value, Negative predictive value for breast cancer detection",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult female patient \u226518 years old\n* Women with diagnosed, operable invasive or in situ ductal carcinoma, invasive lobular carcinoma who are deemed breast surgery candidates (i.e. lumpectomy or mastectomy).\n* Patient able to read, understand and give informed consent\n\nExclusion Criteria:\n\n* Patient not informed\n* Patient previously treated for breast carcinoma\n* Patient has undergone presurgical neo-adjuvant treatment\n* Patient is pregnant/lactating\n* Patient is male\n* Participation in any other clinical study that would affect data acquisition",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

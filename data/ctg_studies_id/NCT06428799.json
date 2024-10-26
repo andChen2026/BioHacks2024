@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06428799",
+    "briefTitle": "Evaluation of Carebot AI MMG Medical Device for Breast Lesion Detection and Density Assessment",
+    "officialTitle": "Evaluation of Carebot AI MMG Medical Device for Detection and Radiographic Assessment of Breast Lesions and Quantitative Analysis of Breast Density: A Multicentric, Multi-Reader Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Breast Tumor Benign",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 122,
+    "primaryOutcomeMeasure": "Performance Test",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The medical device is intended for use in women over 18 years of age who are indicated for screening mammography using digital mammography.\n\nExclusion Criteria:\n\n* The medical device cannot be used in patients with breast implants.\n* The medical device cannot be used in male breast examination.\n* The medical device cannot be used in patients under 18 years of age.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

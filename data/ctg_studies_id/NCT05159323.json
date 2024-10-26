@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05159323",
+    "briefTitle": "Quantitative Assessment of Diffusion Spectrum Imaging in Breast Cancer",
+    "officialTitle": "Quantitative Parameters of Diffusion Spectrum Imaging: Correlation With Histopathologic Characteristics in Patients With Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Carcinoma; Magnetic Resonance Imaging; Diffusion Spectrum Imaging",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 64,
+    "primaryOutcomeMeasure": "Pathologic characteristic",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Breast cancer was confirmed by surgery or biopsy.\n2. Pathologically diagnosis of estrogen receptor (ER), progesterone receptor (PR), human epidermal growth factor 2 (HER-2), Ki-67, and lymphatic vessel invasion (LVI) status in breast cancer.\n3. Routine MRI and DSI scans were performed within one week before the pathologic examination.\n\nExclusion Criteria:\n\n1. Patients who had received treatment before DSI scanning.\n2. Patients who underwent breast tumor biopsy within two weeks before DSI image acquisition.\n3. Pathology results of breast masses were other diseases besides breast cancer.\n4. Post-processing of DSI data cannot be performed due to poor image quality, such as motion artifacts.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

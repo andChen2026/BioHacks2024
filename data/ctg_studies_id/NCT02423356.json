@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02423356",
+    "briefTitle": "Strain Echocardiography to Predict Cardiotoxicity in Patients Receiving Chemotherapy Containing Doxorubicin",
+    "officialTitle": "The Ability of Strain Echocardiography to Predict Cardiotoxicity in Patients Receiving Standard Chemotherapy Regimens Containing Doxorubicin",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Lymphoma, Sarcoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 12,
+    "primaryOutcomeMeasure": "Composite cardiotoxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients must be at least 18 years old at the time of informed consent\n2. Patients must be able to speak and read English.\n3. Patients must be able to provide written informed consent and HIPAA authorization\n4. Patients must have a current diagnosis of sarcoma, lymphoma, or HER2(-) breast cancer\n5. Patients must be deemed appropriate for doxorubicin-based chemotherapy regardless of individual diagnosis or stage of disease.\n6. Patients must have planned treatment with doxorubicin:\n\n   * Patients with sarcoma must have an initial planned regimen including 75 mg/m2 doxorubicin for at least 4 cycles. NOTE: Patients can be on additional chemotherapeutic agents.\n   * Patients with lymphoma must have an initial planned regimen including 50 mg/m2of doxorubicin for at least 6 cycles. NOTE: Patients can be on additional chemotherapeutic agents.\n   * Patients with breast cancer must have an initial planned regimen including 60 mg/m2 of doxorubicin for at least 4 cycles. Breast cancer patient enrollment will stop once 60 breast cancer patients have been enrolled.\n\n   NOTE: Patients can be on additional chemotherapeutic agents.\n7. Patients must have their echocardiograms performed such that strain may be calculated using either GE or Tomtec software.\n\nExclusion Criteria:\n\n1. Clinical history of heart failure or ejection fraction (EF) on initial exam is \\<53%.\n2. Initial echocardiograms are not interpretable.\n3. Wall motion abnormalities are present on initial echocardiograms.\n4. Strain on initial echocardiograms cannot be calculated.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

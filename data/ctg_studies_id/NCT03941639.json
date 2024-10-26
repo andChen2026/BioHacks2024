@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03941639",
+    "briefTitle": "Using Imaging Data and Genomic Data to Predict Metastasis of Breast Cancer After Treatment",
+    "officialTitle": "Using Imaging Data and Genomic Data to Predict Metastasis of Breast Cancer After Treatment",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "area under the receiver operating characteristic curve (AUC)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinical diagnosis of breast cancer\n* With mammogram\n* With surgical treatment\n* With chemotherapy, radiotherapy or both\n\nExclusion Criteria:\n\nClinical diagnosis of other major diseases",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

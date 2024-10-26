@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01596530",
+    "briefTitle": "Evaluation of Drug Activity in Women With Breast Cancer and no Previous Herceptin Treatment",
+    "officialTitle": "A Randomised Double-Blind Placebo-controlled Multicentre Phase I Study to Assess the Biological Activity of AZD8931 in Patients With Early Breast Cancer Who Are Ineligible for Treatment With Trastuzumab as Defined by IHC Status",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 3,
+    "primaryOutcomeMeasure": "Comparison of the effects of AZD8931 versus placebo on cytoplasmic p-MAPK after 7 days or more days of treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females aged 18 or older Early stage breast cancer and planned surgery\n* Ineligible for Trastuzumab (Herceptin) treatment as per local guidelines\n* World health Organisation performance status of 0 to 1 Tumour size amenable to obtaining adequate biopsies pre dosing.\n\nExclusion Criteria:\n\n* Eligible for Trastuzumab (Herceptin) Treatment Known sensitivity to AZD8931, its excipients or drugs in its class;\n* Including oral tyrosine kinase inhibitors History of eye conditions e.g. previous injury within 3 months or clinically significant eye disease\n* Concurrent malignancy Unable to discontinue medication or herbal supplement known to inhibit CYP3A4 or CYP2D6",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

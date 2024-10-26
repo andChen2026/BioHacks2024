@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01217333",
+    "briefTitle": "Telephone-Based Decision Support for Rural Patients",
+    "officialTitle": "Telephone-Based Decision Support for Rural Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 74,
+    "primaryOutcomeMeasure": "Decisional Self-Efficacy (DSE)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females age 18 or older\n* Diagnosis of Ductal Carcinoma in Situ (DCIS) or local recurrence of DCIS\n* New (stage 1, 2, 3, 4) invasive breast cancer or recurrence\n* Upcoming appointment to see a surgeon or oncologist to discuss treatment options\n* Surgeons or oncologists whom the patient is consulting\n* Able to speak, read, and understand English or Spanish\n\nExclusion Criteria:\n\n* Females less than 18 years of age\n* Males with breast cancer\n* Females with breast cancer who are also pregnant (pregnancy changes the breast cancer treatment)\n* Clients who are determined to have \"diminished mental capacity\" according to the standards of the CRCMC Policy on Mental Competence",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

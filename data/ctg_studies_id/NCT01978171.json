@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01978171",
+    "briefTitle": "Prediction of Everolimus-induced Interstitial Lung Disease",
+    "officialTitle": "Prediction of Everolimus-induced Interstitial Lung Disease in Breast Cancer Patients; Maximizing Efficacy by Reducing Toxicity",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 27,
+    "primaryOutcomeMeasure": "predictive factors of everolimus-induced ILD",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult women with metastatic or locally advanced breast cancer not amenable to curative treatment by surgery or radiotherapy.\n* Histological or cytological confirmation of estrogen-receptor positive (ER+) breast cancer\n* Postmenopausal women\n* Radiological or clinical evidence of recurrence or progression on last systemic therapy prior to enrollment\n* Resistance to treatment with a non-steroidal aromatase inhibitor\n* Serum platelets \u2265 100x10E9/l\n* Everolimus dose adjustment is recommended for patients with hepatic impairment (Child-Pugh A/B/C)\n* Performance status ECOG 0 - 2 (Karnofsky index: 60 - 100)\n\nExclusion Criteria:\n\n* Patients with a HER2-overexpressing tumor\n* Known hypersensitivity to mTOR inhibitors, e.g. sirolimus (rapamycin).\n* Patients with a known history of HIV seropositivity or hepatitis B or C\n* Uncontrolled diabetes mellitus\n* Impairment of gastrointestinal function or gastrointestinal disease that may significantly alter the absorption of study drugs (e.g., ulcerative disease, uncontrolled nausea, vomiting, diarrhea, malabsorption syndrome)\n* Patients being treated with drugs recognized as being strong inhibitors or inducers of the isoenzyme CYP3A",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

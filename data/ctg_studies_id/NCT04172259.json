@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04172259",
+    "briefTitle": "ACHP-THP vs EC-THP as Neoadjuvant Therapy for HER2-positive EBC",
+    "officialTitle": "A Multi-center Randomized Phase II Study of Doxorubicin Liposome Versus Epirubicin Plus Cyclophosphamide Combined With Trastuzumab and Pertuzumab(HP), Followed by Taxon Plus HP as Neoadjuvant Therapy for HER2-positive Early Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Neoadjuvant Chemotherapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 156,
+    "primaryOutcomeMeasure": "Pathological Complete Response rate (pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patient, \\>/= 18 years of age, \\</= 70 years of age.\n* HER2-positive breast cancer\n* Histologically confirmed invasive breast carcinoma\n* Clinical stage T2-4/N0-3/M0 or node positive at presentation (patients with T1 tumors will not be eligible)\n* Known hormone-receptor status\n* Non previous anti-breast cancer neoadjuvant chemotherapy\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Adequate hematologic, renal and liver function\n* Screening Left ventricular ejection fraction (LVEF) \\>/= 50% on echocardiogram (ECHO)\n* Adequate organ function\n\nExclusion Criteria:\n\n* Stage IV (metastatic) breast cancer or bilateral breast cancer\n* History of any prior (ipsi- or contralateral breast cancer except lobular carcinoma in situ)\n* History of other malignancy within the last 5 years except for appropriately treated carcinoma in situ of the cervix, non-melanoma skin carcinoma, Stage I uterine cancer, or other non-breast malignancies with a similar outcome to those mentioned above\n* Cardiopulmonary dysfunction as defined by protocol\n* Current severe, uncontrolled systemic disease\n* Pregnant or lactating women\n* Any known active liver disease, e.g. due to HBV, HCV, autoimmune hepatic disorders, or sclerosing cholangitis\n* Concurrent serious uncontrolled infections requiring treatment or known infection with HIV\n* History of intolerance, including Grade 3 to 4 infusion reaction or\n* hypersensitivity to trastuzumab or chemotherapy drugs",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

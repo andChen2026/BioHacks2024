@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00873600",
+    "briefTitle": "Outpatient Health Care Program for Older Patients Receiving Chemotherapy for Newly Diagnosed Breast Cancer or Colon Cancer",
+    "officialTitle": "A Randomized Controlled Trial of Outpatient Geriatric Evaluation and Management Among Older Patients With Breast and Colon Cancer",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer, Cognitive/Functional Effects, Colorectal Cancer, Psychosocial Effects of Cancer and Its Treatment",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Chemotherapy tolerability as measured by dose reduction, treatment delay, and incidence of grade 3-5 toxicities",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adenocarcinoma, including one of the following:\n\n  * Breast cancer (female), meeting the following criteria:\n\n    * Stage I-III (T1-4, N0-3, M0) disease\n    * Has undergone complete surgical removal of invasive cancer by mastectomy or lumpectomy\n    * Has undergone either sentinel lymph node dissection or axillary lymph node dissection with adequate TNM staging\n  * Colon cancer (male or female), meeting the following criteria:\n\n    * Stage I-III (T1-3, any N, M0) disease\n    * Has undergone appropriate surgical resection with TNM staging\n* Newly diagnosed disease\n* Scheduled to receive chemotherapy\n\n  * Agrees to receive chemotherapy AND is able to receive chemotherapy within 3 months after surgery\n* No distant metastases\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* Life expectancy \u2265 6 months\n* Fluent in English\n* Not living in a nursing home\n* No end-stage disease\n* No severe dementia\n* No other clinically active malignancy within the past 5 years or within 3 months after diagnosis of current malignancy\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior chemotherapy for the malignancy\n* More than 1 year since prior treatment on an inpatient/outpatient geriatric evaluation and management unit",
+    "sex": "ALL",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

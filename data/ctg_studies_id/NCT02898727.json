@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02898727",
+    "briefTitle": "A Study of Local Therapy for the Treatment of Brain Metastases From HER2 Positive Breast Cancer",
+    "officialTitle": "A Phase II Study of Local Therapy Only (Stereotactic Radiosurgery and/or Surgery) for Treatment of up to 5 Brain Metastases From HER2 Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "to assess the percentage of patients treated with whole brain radiotherapy within 12 months after completion of local therapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* Metastatic HER2 positive breast cancer\n* 1-5 synchronous brain metastases\n* At least one metastases requiring treatment\n* Maximum volume of any single PTV \\<10cm3\n* Summated volume of all lesions to be treated with SRS is \\< 15cm3. If a lesion is too small for treatment and will be observed, then its volume is not included in this summation\n* ECOG 0-2\n* Absent or stable extracranial disease or active extracranial disease that is likely to be controlled with further HER-2 targeted therapy\n* Receiving systemic HER2 targeted therapy, or planned to receive within 4 weeks of completion of brain metastasis treatment\n* Able to undergo MRI scanning\n\nExclusion Criteria:\n\n* Previous treatment to the target brain metastases (excluding surgery within 6 weeks of registration)\n* Previous whole brain radiotherapy (WBRT)\n* Any brain metastasis that is greater than 30mm in size and unable to be resected\n* Leptomeningeal disease\n* Pregnant or breastfeeding",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

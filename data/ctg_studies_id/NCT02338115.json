@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02338115",
+    "briefTitle": "Defining an Exposure Target for Weekly Paclitaxel Infusion in Breast Cancer Patients",
+    "officialTitle": "Defining an Exposure Target for Weekly Paclitaxel Infusion in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Severe neuropathy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of invasive breast cancer\n* Systemic treatment with paclitaxel for curative intent (neoadjuvant, adjuvant, or oligometastatic disease per PI discretion)\n* 80 mg/m2 1-hour infusions weekly for up to 12 weeks\n* Female sex\n\n  -\\>18 years old\n* Ability to understand and the willingness to sign a written informed consent.\n\nExclusion Criteria:\n\n* Any prior or concurrent treatment with neurotoxic chemotherapy including any taxane, vinca alkaloid, platinum, bortezomib, or thalidomide. Note that concurrent biologic treatment with trastuzumab/pertuzumab for HER2+ patients or prior treatment with Adriamycin/cyclophosphamide are not reasons for exclusion.\n* Distant metastatic disease\n* Concurrent treatment with duloxetine or enrollment on clinical study of neuroprotective agent\n* History of allergic reaction to paclitaxel or cremophor EL\n* Current signs or symptoms of severe peripheral neuropathy\n* Known family history of hereditary peripheral neuropathy or Charcot-Marie-Tooth disease\n* Known current pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

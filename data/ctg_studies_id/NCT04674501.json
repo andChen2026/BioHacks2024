@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04674501",
+    "briefTitle": "Radiotherapy for Thoracic and Breast Cancer and the Related Cardiotoxicity Following Treatment (RACCOON)",
+    "officialTitle": "A Prospective Cohort Study of Patients Receiving Radiotherapy for Thoracic and Breast Cancer and the Related Cardiotoxicity Following Treatment (RACCOON)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Patients Who Receive Thoracic Irradiation",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Cardiotoxicity rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with solid cancer who are subject to thoracic irradiation.\n2. Patients who are 20 years old or older\n3. Eastern Cooperative Oncology Group Performance Status Scale 0-2\n4. Patients with cognitive abilities to receive virtual reality information\n\nExclusion Criteria:\n\n1. Patients with a history of previous thoracic irradiation\n2. Patients who refused consent\n3. Patients with a history of heart failure before radiotherapy",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

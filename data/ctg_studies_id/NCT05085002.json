@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05085002",
+    "briefTitle": "A Study of Lerociclib in Participants With Advanced Breast Cancer",
+    "officialTitle": "A Phase 2 Study to Evaluate the Safety and Efficacy of Lerociclib in Participants With Advanced Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Incidence of AEs and SAEs",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Participant must be 18 or the legal age of consent in the jurisdiction in which the study is taking place, at the time of signing the informed consent.\n2. Histologically and/or cytologically confirmed diagnosis of estrogen-receptor positive and/or progesterone receptor positive breast cancer by local laboratory and has HER2-negative breast cancer.\n3. Advanced (locoregionally recurrent not amenable to curative therapy, eg, surgery and/or radiotherapy, or metastatic) breast cancer\n4. Eastern Cooperative Oncology Group performance status (ECOG PS) 0 or 1.\n5. Adequate bone marrow and organ function\n6. Female that is not pregnant and agrees to contraceptive use that is consistent with local regulations regarding the methods of contraception to be used during the study\n7. Males agree to use a highly effective method of contraception and will refrain from donating sperm from the first dose of any study intervention\n8. Participant is capable of giving signed informed consent\n\nExclusion Criteria:\n\n1. Symptomatic visceral disease or any disease burden that makes the participant ineligible for endocrine therapy per the Investigator's best judgment.\n2. Peritoneal carcinomatosis.\n3. Inflammatory breast cancer at screening.\n4. Participant with central nervous system (CNS) involvement unless they are at least 4 weeks from prior therapy completion to starting the study treatment and have stable CNS tumor at the time of screening and not receiving steroids and/or enzyme inducing anti-epileptic medications for brain metastases.\n5. Clinically significant, uncontrolled heart disease and/or cardiac repolarization abnormality\n6. Has a history of prolonged QT syndrome or Torsades de Pointes\n7. Has received prior treatment with chemotherapy (except for neoadjuvant/ adjuvant chemotherapy) or any CDK4/6 inhibitor.\n8. Has received prior treatment with fulvestrant.\n9. Use of systemic estrogens\n10. Participant is currently receiving any of the following substances and cannot be discontinued 14 days prior to start the treatment:\n\n    * Known strong or moderate CYP3A inducers or strong inhibition of CYP3A\n    * Substances that have a narrow therapeutic window and are predominantly metabolized through CYP3A4/5.\n11. Echocardiogram done within the past 12 months with ejection fraction of \u2264 45% or documented history of congestive heart failure with reduced ejection fraction.\n12. Evidence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection or oral temperature \\> 38\u00b0C at screening\n13. Interstitial pneumonia or severe impairment of lung function",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00942396",
+    "briefTitle": "Study to Compare the Diagnostic Accuracy of Nuance Full-Field Digital Mammography to Screen-Film Mammography",
+    "officialTitle": "Study to Compare the Diagnostic Accuracy of Nuance Full-Field Digital Mammography to Screen-Film Mammography",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 250,
+    "primaryOutcomeMeasure": "Area under ROC curve based on subjects' maximum POM scores; sensitivity based on subjects' maximum BI-RADS scores with 4 or higher as positive for cancer; and specificity based on subjects maximum BI-RADS scores with 4 or higher as positive for cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Subject is 40 years of age or older\n2. Subject is presenting for routine breasts cancer screening (Cohort I) OR Subject has one or both breasts scored 4 or 5 on the BI-RADS scale as a result of SFM either for routine breast cancer screening or for follow-up or diagnostic mammography (Cohort II)\n3. Subject's schedule permits the SFM and the FFDM to be performed no more than 30 days apart and with no intervention between the exams\n4. Subject will provide prospective, written informed consent\n5. Subject is considered capable of complying with study procedures including a willingness to return for a one-year follow-up exam -\n\nExclusion Criteria:\n\n1. Subject is pregnant or possibly pregnant or planning pregnancy within the next 15 months\n2. Subject has undergone a breast augmentation or breast implant? Has subject had any of the following breast procedures?\n\n   Fine needle or cyst aspiration NOT Eligible if within past year Biopsy Not Eligible if within past year Lumpectomy (for breast cancer) Mastectomy (for breast cancer) Radiation therapy Breast reconstruction Breast reduction Not Eligible if within past year\n3. Subject has had an invasive breast procedure or operation within the past year\n4. Subject has significant existing breast trauma\n5. Subject has a history of breast cancer treated with operation or radiation\n6. Subject has any other condition or personal circumstance that, in the judgment of the investigator, might interfere with the collection of complete good quality data",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00146042",
+    "briefTitle": "UMCC 9901: Phase II Study of Tailored-Dose Docetaxel + Trastuzumab in Her-2 Positive Metastatic Breast Cancer",
+    "officialTitle": "Phase II Study of Tailored-Dose Docetaxel + Trastuzumab in Her-2 Positive Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER-2 Positive Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 22,
+    "primaryOutcomeMeasure": "To assess whether assignment of docetaxel dose based on the ERMBT will result in decreased variability in drug area under the curve when compared to dosing based on body surface area.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with biopsy proven, measurable metastatic breast cancer. Patients with bone-only, and/or effusion-only disease are excluded.\n* HER-2 neu positive by standard immunohistochemical criteria (2+ positivity).\n* No prior chemotherapy for distant metastatic disease.\n* Prior paclitaxel in the adjuvant setting is allowed.\n* Karnofsky performance status equal to 70 or greater.\n* ANC \\> 1500, Hgb \\> 10, plt \\> 100.\n* Patients with some degree of hepatic dysfunction and renal dysfunction are encouraged, in order to evaluate the ability of the ERMBT in tailoring dose in these patient populations.\n\nExclusion Criteria:\n\n* Age less than 18 years.\n* Allergy to erythromycin.\n* Previous treatment with docetaxel. Prior paclitaxel is allowed.\n* Grade \\> 2 peripheral neuropathy.\n* No confounding factors present to provide misinterpretation of data (i.e., concurrent malignancy).\n* Patients who are pregnant or nursing will not be eligible for this protocol. Women of childbearing age who are not practicing reliable birth control must have a documented negative serum HCG.\n* Patients who require concurrent treatment with drugs which are known to induce or inhibit CYP3A activity will be ineligible for the trial. This list includes the drugs midazolam, anti-mycotic agents (ketoconazole and related compounds), macrolide antibiotics (erythromycin and related compounds), nifedipine, anti-seizure drugs, and rifampin (induction).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06291896",
+    "briefTitle": "A Clinical Investigation to Evaluate Microwave Imaging Via MammoWave\u00ae in a Population-based Screening Program for Early Breast Cancer Detection",
+    "officialTitle": "A Multicentric, Prospective Clinical Investigation to Evaluate Microwave Imaging Via MammoWave\u00ae in a Population-based Screening Program for Early Breast Cancer Detection to Make Breast Cancer Screening More Accurate, Inclusive, and Female-friendly",
+    "overallStatus": "RECRUITING",
+    "conditions": "Women's Health: Neoplasm of Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 10000,
+    "primaryOutcomeMeasure": "MammoWave\u00ae sensitivity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged between 45 and 74 years\n* Asymptomatic\n* Signed informed consent form before starting any study activity\n* Average risk of BC (every woman except those with know BRCA1, 2, TP53, and/or previous BC)\n* Mammographic test, either 2D FFDM or 3D Digital Breast Tomosynthesis (DBT) (collecting oblique mediolateral projection \\[MLO\\] of the right breast, craniocaudal projection \\[CC\\] of the right breast, MLO projection of the left breast, CC projection of the left breast), performed within the past month with available results or planned to be performed in the same day of the MammoWave test or in the subsequent days\n* Spontaneous willingness to comply with CIP and recommendations\n\nExclusion Criteria:\n\n* Woman with breast prostheses\n* Women with symptoms or some sign of suspected BC\n* Women with BRCA1, 2, TP53 or previous BC\n* Pregnant women\n* Women who do not have mammographic manifestation of the tumor (known occult breast tumor with only axillar manifestation)\n* Women with breast size larger than the largest MammoWave cup size",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

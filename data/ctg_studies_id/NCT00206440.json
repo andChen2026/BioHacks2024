@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00206440",
+    "briefTitle": "Nexium Study To Suppress Nausea During Chemotherapy",
+    "officialTitle": "Evaluation of the Efficacy of Esomeprazole in Suppressing Nausea and Vomiting in Patients Undergoing Chemotherapy for Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Nausea",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 43,
+    "primaryOutcomeMeasure": "Number of Times a Subject Felt Sick to Her Stomach and Number of Times a Subject Required Rescue Medication",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nFor inclusion, participants must:\n\n* be female, age 18 years or older\n* sign an informed consent\n* have Stage I, II, or III breast cancer\n* be receiving at least four cycles of anthracycline-based chemotherapy which may include: doxorubicin/cyclophosphamide AC),5-fluorouracil/doxorubicin/cyclophosphamide (FAC), fluoruracil/epirubicin/cyclophosphamide (FEC) or dose dense chemotherapy regimen (AC every two weeks) as their agents for neoadjuvant or adjuvant chemotherapy\n* patient must receive a serotonin receptor antagonist and a steroid for premedication\n* have a negative serum pregnancy test within 7 days prior to starting study if pre-menopausal\n* have adequate renal function, defined by a serum creatinine within 1.5 times the upper limit of normal\n* have adequate liver function, defined by a total bilirubin, SGOT, alkaline phosphatase and albumin within 1.5 times the upper limits of normal\n* have adequate bone marrow function, defined as a WBC \\>4.0, platelet count \\>100K, and HCT \\>30\n* have no prior or current malignancies for which chemotherapy was utilized\n* have a performance status of at least 2 according to the Eastern Cooperative Oncology Group World Health Organization or a Karnofsky score of 50% or greater.\n\nExclusion Criteria:\n\n* pregnancy or unwillingness to use a reliable contraceptive method in women of child-bearing potential\n* severe or underlying chronic illness or disease\n* renal insufficiency or liver abnormalities\n* chronic use of steroids\n* uncontrolled GERD\n* current use of proton pump inhibitors\n* history of Barrett's esophagus\n* history of erosive gastritis\n* intolerance to serotonin receptor antagonists\n* current use of aprepitant or palonosetron as antiemetics\n* concomitant use of H2-receptor antagonists (ranitidine, cimetidine, famotidine or nizatidine) or metaclopramide",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

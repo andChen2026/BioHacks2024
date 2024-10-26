@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05113927",
+    "briefTitle": "Wide Field OCT + AI for Positive Margin Rates in Breast Conservation Surgery.",
+    "officialTitle": "A Prospective, Multi-center, Randomized, Double-arm Trial to Determine the Impact of the SELENE System on Positive Margin Rates in Breast Conservation Surgery.",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 531,
+    "primaryOutcomeMeasure": "The occurrence of at least one unaddressed positive margin for a subject.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Age 18 years or older\n* Patients undergoing elective breast conservation surgery for the treatment of Stage 0-III invasive ductal and/or ductal carcinoma in situ\n* May include subjects treated with neo-adjuvant therapy (endocrine and/or chemotherapeutic), but not required for study inclusion\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Male\n* Metastatic cancer (Stage IV)\n* Lobular carcinoma as primary diagnosis\n* Previous ipsilateral breast surgery for benign or malignant disease within two years (this includes implants and breast augmentation)\n* Subjects with multi-centric disease (histologically diagnosed cancer in two different quadrants of the breast), unless resected in a single specimen\n* Subjects with bilateral disease (diagnosed cancer in both breasts)\n* Participating in any other investigational margin assessment study which can influence collection of valid data under this study\n* Use of cryo-assisted localization\n* Currently lactating\n* Current pregnancy\n* Subjects for whom the specimen margins have been destroyed, damaged, or are otherwise not intact prior to imaging (device arm only) imaging",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

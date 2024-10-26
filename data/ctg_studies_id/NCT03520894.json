@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03520894",
+    "briefTitle": "Radiotherapy in Preoperative Setting With CyberKnife for Breast Cancer",
+    "officialTitle": "Radiotherapy in Preoperative Setting With CyberKnife as Treatment in Early Breast Cancer: an Explorative Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Early Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Rate of acute skin toxicity events, measured according to RTOG/EORTC scale",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Signed informed consent\n2. Women \u2265 50 years old\n3. Histological diagnosis of invasive breast cancer\n4. ER positive (\u2265 10% of tumoral cells present ER) and/or PR positive (\u2265 10% of tumoral cells present PR)\n5. Grading 1 or 2\n6. Her2 negative (IHC 0-1+; in patients with IHC 2+, absence of amplification at FISH\n7. No lymphovascular invasion evidence at biopsy\n8. Early breast cancer (T1 N0 M0) clinically and radiologically defined (ultrasound study/ magnetic resonance)\n9. Patients eligible for BCS.\n\nExclusion Criteria:\n\nExtension of breast disease within 5 mm from the skin surface 2. Tumor size \\&gt; 2 cm 3. Patients affected by collagenopathies 4. Patients with BRCA1/2 mutations 5. Previous irradiation to homolateral breast 6. Previous irradiation to homolateral thoracic wall 7. DCIS and/or Paget's disease 8. Psychiatric disorders preventing informed consent signature.\n\n-",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01257932",
+    "briefTitle": "Monitoring and Predicting Breast Cancer Neoadjuvant Chemotherapy Response Using Diffuse Optical Spectroscopic Imaging",
+    "officialTitle": "Monitoring and Predicting Breast Cancer Neoadjuvant Chemotherapy Response Using Diffuse Optical Spectroscopic Imaging",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Diagnostic Tool Breast Cancer Response to Neoadjuvant Chemotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, 18 years of age or older, non pregnant or nursing.\n* Diagnosis of breast cancer and will be receiving chemo therapy treatments\n\nExclusion Criteria:\n\n* 18 years of age or younger, pregnant or nursing.\n* Previous treatment including chemo therapy, radiation, surgery, and hormone therapy.\n* Previous diagnosis with other form of cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

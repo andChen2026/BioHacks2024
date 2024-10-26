@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03372902",
+    "briefTitle": "Development Of A Blood Test To Improve The Performance Of Breast Cancer Screening",
+    "officialTitle": "MSK Discovery Study: Use of cfNA To Distinguish Between Benign and Malignant BI-RADS 4 Radiographic Lesions",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Breast Benign",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 725,
+    "primaryOutcomeMeasure": "number of participants with malignant biopsy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females with one or more BI-RADS 4 radiographic lesions who are undergoing ultrasound, stereotactic or MRI-guided breast biopsy at MSKCC or at an MSK Alliance Member Site. If multiple imaging modalities were employed (mammogram, ultrasound, MRI) and no integrated score is provided, then the highest BI-RADS score will be used.\n* Age \u2265 18 years at the time of breast biopsy\n* Willing to provide blood samples for research purposes before biopsy.\n* Able to provide written informed consent\n\nExclusion Criteria:\n\n* Women with a BI-RADS 4 lesion who had the lesion previously biopsied\n* Females with a current active malignancy other than non-melanoma skin cancers. Females are considered not to have a \"current active\" malignancy if they have completed therapy and have no evidence of systemic disease for at least three years from the initial diagnosis\n* Currently pregnant women\n* History of bilateral mastectomy.\n* Participant has or is currently participating in another GRAIL-sponsored protocol",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

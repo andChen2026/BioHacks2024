@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06312176",
+    "briefTitle": "A Study of Sacituzumab Tirumotecan (MK-2870) as a Single Agent and in Combination With Pembrolizumab (MK-3475) Versus Treatment of Physician's Choice in Participants With HR+/HER2- Unresectable Locally Advanced or Metastatic Breast Cancer (MK-2870-010)",
+    "officialTitle": "An Open-label, Randomized Phase 3 Study of MK-2870 as a Single Agent and in Combination With Pembrolizumab Versus Treatment of Physician's Choice in Participants With HR+/HER2- Unresectable Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1200,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS) ( sacituzumab tirumotecan versus treatment of physician's choice [TPC]; pembrolizumab + sacituzumab tirumotecan versus TPC)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Has unresectable locally advanced or metastatic centrally-confirmed hormone receptor positive (HR+)/human epidermal growth factor receptor 2 negative (HER2-) breast cancer\n* Has radiographic disease progression on one or more lines of endocrine therapy for unresectable locally advanced/metastatic HR+/HER2- breast cancer, with one in combination with a CDK4/6 inhibitor\n* Is a chemotherapy candidate\n* Has an eastern cooperative oncology group (ECOG) performance status of 0 to 1 assessed within 7 days before randomization\n* Has adequate organ function\n* Human immunodeficiency virus (HIV)-infected participants must have well controlled HIV on antiretroviral therapy\n* Participants who are Hepatitis B surface antigen (HBsAg) positive are eligible if they have received HBV antiviral therapy for at least 4 weeks, and have undetectable HBV viral load\n* Participants with a history of Hepatitis C virus (HCV) infection are eligible if HCV viral load is undetectable\n\nExclusion Criteria:\n\n* Has breast cancer amenable to treatment with curative intent\n* Has experienced an early recurrence (\\<6 months after completing adjuvant/neoadjuvant chemotherapy) and therefore is eligible to receive second-line (2L) treatment\n* Has symptomatic advanced/metastatic visceral spread at risk of rapidly evolving into life-threatening complications\n* Has received prior chemotherapy for unresectable locally advanced or metastatic breast cancer\n* Active autoimmune disease that has required systemic treatment in the past 2 years\n* History of (noninfectious) pneumonitis/interstitial lung disease that requires steroids, or has current pneumonitis/interstitial lung disease\n* Has an active infection requiring systemic therapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

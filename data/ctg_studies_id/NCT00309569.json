@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00309569",
+    "briefTitle": "Randomized Study Comparing Pre- and Postoperative vs. Conventional Adjuvant Treatment in Receptor-negative Patients",
+    "officialTitle": "A Randomized Phase III Study Comparing Pre- and Postoperative vs. Conventional Adjuvant Treatment Hormone Receptor-negative Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Early Stage Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 429,
+    "primaryOutcomeMeasure": "Overall survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with bioptically verified breast cancer\n* Estrogen receptor-negative status\n* Age: \\< 70 years\n* WHO Performance Status \\< 2\n* Laboratory parameters\n\n  1. hematopoiesis: \\> 3500/mm3 leukocytes, \\> 100,000/mm3 thrombocytes\n  2. renal function: creatinin \\< 1.5mg%\n  3. hepatic function: GOT max. 2.5 x UNL\n  4. bilirubin: \\< 2.0 mg %\n  5. metabolic parameters: Na, Ca, K in normal range\n* \\</= 4 weeks interval since surgery\n* Informed consent\n\nExclusion Criteria:\n\n* Patients with locally inoperable cancer, M1\n* Other preoperative tumor-specific radiotherapy, chemotherapy or endocrine treatment\n* Pregnancy or lactation\n* General contraindication against cytostatic treatment\n* T4 cancer; inflammatory disease, simultaneous or sequential bilateral breast cancer\n* Lacking compliance or understanding of disease\n* Serious concomitant disease\n* Second carcinoma or status post second carcinoma (except for treated squamous cell carcinoma of the skin or cervical carcinoma in situ)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

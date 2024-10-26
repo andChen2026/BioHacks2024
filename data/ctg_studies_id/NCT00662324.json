@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00662324",
+    "briefTitle": "Development of a Clinical Trial Specific Question Prompt List",
+    "officialTitle": "Development of a Clinical Trial Specific Question Prompt List",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Lung Cancer, Prostate Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 67,
+    "primaryOutcomeMeasure": "To develop a targeted Question Prompt List for Clinical Trials and evaluate its acceptability to cancer patients considering clinical trial participation.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Population Segment 1 who have participated in a clinical trial\n* Diagnosis and treatment at MSKCC of lung, prostate or breast cancer\n* Completion of a Phase I, II, or III clinical trial at MSKCC\n* Ability to provide informed consent\n\nPatient caregiver eligibility requirements will be:\n\n* Nomination by patient as the primary caregiver\n* Ability to provide informed consent\n\nPopulation Segment 2 who have not participated in a clinical trial:\n\n* Diagnosis and treatment at MSKCC of lung, prostate or breast cancer or the primary patient caregiver\n* Ability to provide informed consent\n\nPatient caregiver eligibility requirements will be:\n\n* Nomination by patient as the primary caregiver\n* Ability to provide informed consent\n\nPopulation Segment 3 who are health care professionals:\n\n* A current health care professional at MSKCC\n* Current involvement in recruiting patients with lung, prostate or breast cancer to Phase I,II, or III clinical trials at MSKCC\n* Ability to provide informed consent\n\nExclusion Criteria:\n\nPotential subjects will be considered ineligible for either/both phases of this study if they are:\n\n* Fewer than 18 years of age\n* Cognitively or physically impaired, rendering them incapable of providing informed consent to participate in the study\n* Population Segment 2 participants will be excluded if they have ever participated in a clinical trial.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

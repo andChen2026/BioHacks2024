@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00095706",
+    "briefTitle": "Treatment of HER2-Positive Metastatic Breast Cancer With Herceptin and Bevacizumab (Antibodies Against HER2 and VEGF)",
+    "officialTitle": "Phase I/II Combined Biological Therapy of Breast Cancer Using Monoclonal Antibodies Directed Against HER2/Neu Proto-Oncogene and Vascular Endothelial Growth Factor",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "To establish the maximum tolerated dose (MTD) or recommended phase II dose of rhuMAb VEGF (bevacizumab) administered intravenously every 14 days to patients with HER2-amplified relapsed or metastatic breast cancer receiving concomitant Herceptin therapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Metastatic or relapsed locally advanced breast cancer\n* HER2-positive by FISH\n* No prior chemotherapy for metastatic disease\n* ECOG performance status 0-2\n* Normal left ventricular ejection fraction\n* Bidimensionally measurable disease\n* Oxygen saturation \\> 90% on room air\n\nExclusion Criteria:\n\n* Other invasive malignancy within 5 years\n* More than 3 different metastatic sites\n* \\>50% liver involvement by metastasis\n* Newly diagnosed untreated Stage IIIB breast cancer\n* Prior chemotherapy for metastatic disease\n* Clinically significant cardiovascular disease\n* History or evidence of CNS disease\n* Major surgery within 28 days prior to day 0\n* Current or recent use of parenteral anticoagulants\n* WBC \\< 3,000/uL\n* Platelet count \\< 75,000/uL\n* Hemoglobin \\< 9.0 g/dL\n* Total Bilirubin \\> 2.0 mg/dL\n* AST or ALT \\> 5 time upper limit of normal for subjects with documented liver metastases; \\> 2.5 times upper limit of normal for subjects without evidence of liver metastases\n* Proteinuria (\\> 1g protein/24 hours at baseline)\n* Prior therapy with Herceptin or rhuMAb VEGF (bevacizumab)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

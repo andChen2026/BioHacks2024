@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02978716",
+    "briefTitle": "Trilaciclib (G1T28), a CDK 4/6 Inhibitor, in Combination With Gemcitabine and Carboplatin in Metastatic Triple Negative Breast Cancer (mTNBC)",
+    "officialTitle": "Phase 2 Study of the Safety, Efficacy, and Pharmacokinetics of G1T28 in Patients With Metastatic Triple Negative Breast Cancer Receiving Gemcitabine and Carboplatin Chemotherapy",
+    "overallStatus": "TERMINATED",
+    "conditions": "Triple-Negative Breast Neoplasms, Breast Neoplasm, Breast Cancer, Triple-Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 102,
+    "primaryOutcomeMeasure": "Duration of Severe (Grade 4) Neutropenia (DSN) During Cycle 1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of hormone receptor (HR)-negative, human epidermal growth factor receptor 2 (HER2)-negative (locally recurrent or metastatic TNBC) breast cancer\n* Available TNBC diagnostic tumor tissue (archived tissue allowed)\n* Evaluable disease\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 to 1\n* Adequate organ function\n* Predicted life expectancy of 3 or more months\n\nExclusion Criteria:\n\n* More than 2 prior chemotherapy regimens for locally recurrent or metastatic TNBC. If \\> 12 months have elapsed between the date of last adjuvant/neoadjuvant chemotherapy administration and first documented local or distant disease recurrence the therapy will not be considered a line of therapy in the locally recurrent or metastatic TNBC setting.\n* CNS metastases or leptomeningeal disease requiring immediate treatment with radiation therapy or steroids.\n* Investigational drug within 30 days of first trilaciclib (G1T28) dose\n* Concurrent radiotherapy, radiotherapy within 14 days of first trilaciclib (G1T28) dose\n* Cytotoxic chemotherapy within 3 weeks of first trilaciclib (G1T28) dose\n* Prior hematopoietic stem cell or bone marrow transplantation",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

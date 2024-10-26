@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01151215",
+    "briefTitle": "Study of Anastrozole +/- AZD8931 in Postmenopausal Women With Endocrine Therapy Naive Breast Cancer",
+    "officialTitle": "A Phase II, Randomised, Double-blind, Placebo-controlled, Multi-centre Study to Assess the Efficacy and Safety of AZD8931 In Combination With Anastrozole, Compared to Anastrozole Alone, in Post Menopausal Women With Hormone Receptor Positive, Endocrine Therapy Naive, Locally Advanced or Metastatic Breast Cancer (MINT).",
+    "overallStatus": "TERMINATED",
+    "conditions": "Neoplasms, Breast Neoplasms, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 482,
+    "primaryOutcomeMeasure": "Progression Free Survival as Evaluated by Response Evaluation Criteria In Solid Tumors (RECIST) 1.1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients that have locally advanced or metastatic breast cancer. Lesions should not be amenable to surgery or radiation of curative intent\n* Hormone therapy-naive\n* Estimated life expectancy of more than 12 weeks\n\nExclusion Criteria:\n\n* Last dose of prior anti-cancer therapy received within 14 days (or longer if required)\n* Any eye injury or corneal surgery within 3 months prior to receiving first dose of study drug.\n* Currently receiving (and unwilling to discontinue) oestrogen replacement therapy. (last dose \\<7 days prior to randomisation)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

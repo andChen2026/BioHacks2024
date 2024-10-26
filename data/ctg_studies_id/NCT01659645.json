@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01659645",
+    "briefTitle": "Anti-1-amino-3-[18F]Fluorocyclobutyl-1-carboxylic Acid (Anti-[18F](FACBC)Positron Emission Tomography (PET-CT) of the Breast",
+    "officialTitle": "Amino Acid Transport Imaging of Breast Carcinoma Via Anti-3-[18F]FACBC PET-CT: A Pilot Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 12,
+    "primaryOutcomeMeasure": "Presence of FACBC radiotracer in breast carcinoma on FACBC PET scan",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients must be 18 years of age or older.\n2. Patients will have a breast mass and/or lymph nodes na\u00efve to therapy about to undergo biopsy or post-biopsy pre-therapy. Patients with known or suspected recurrent disease will be eligible for this protocol.\n3. Ability to lie still for PET scanning\n4. Patients must be able to provide written informed consent\n\nExclusion Criteria:\n\n1. Age less than 18.\n2. Inability to lie still for PET scanning.\n3. Cannot provide written informed consent.\n4. Current therapy for breast carcinoma.\n5. Positive serum or urine pregnancy test within 24 hours of study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

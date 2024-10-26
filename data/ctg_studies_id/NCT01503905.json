@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01503905",
+    "briefTitle": "Neoadjuvant Chemotherapy for Operable Premenopausal Breast Cancer Patients",
+    "officialTitle": "Comparison of the Effectiveness of Neoadjuvant Chemotherapy and the Outcomes Associated With Chemo-induced Amenorrhea Between Docetaxel Plus Epirubicin, and Docetaxel Plus Epirubicin Plus Cyclophosphamide as Neoadjuvant Chemotherapy for Operable Premenopausal Breast Cancer Patients.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Nos Premenopausal",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "Progression-free survival of patients.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. The patients signed the written informed consent.\n2. The patients present with operable breast cancers that were diagnosed by histopathology and have no distant metastasis.\n3. The patients have no history of anti-cancer therapies including chemotherapy, radiation therapy, hormone therapy and surgical therapy.\n4. The patients have normal cardiac functions by echocardiography.\n5. The patients' ECOG scores are \u2264 0-2.\n6. The age of patient is \u2265 18 years old; And the patients are premenopausal females.\n7. The patients are disposed to practice contraception during the whole trial.\n8. The results of patients' blood tests are as follows:\n\n   * Hb \u2265 90 g/L\n   * WBC \u2265 4.0\u00d7109/L\n   * Plt \u2265 100\u00d7109/L\n   * Neutrophils \u2265 1.5\u00d7109/L\n   * ALT and AST \u2264 triple of normal upper limit.\n   * TBIL \u2264 1.5 times of normal upper limit.\n   * Creatinine \u2264 1.25 times of normal upper limit.\n\nExclusion Criteria:\n\n1. The patients have other cancers at the same time or have the history of other cancers in recent five years, excluding the controlled skin basal cell carcinoma or skin squamous cell carcinoma or carcinoma in situ of cervix.\n2. The patients have active infections that were not suitable for chemotherapy.\n3. The patients have severe non-cancerous diseases.\n4. The patients are undergoing current administration of anti-cancer therapies, or are attending some other clinical trails.\n5. The patients whose breast cancers are HER2 positive and choose to undergo the neoadjuvant chemotherapy that includes herceptin regimen.\n6. The patients are pregnant or lactational, or they refuse to practice contraception during the whole trial.\n7. The patients are in some special conditions that they can't understand the written informed consent, such as they are demented or hawkish.\n8. The patients have allergic history of the chemotherapeutic agents.\n9. The patients have bilateral breast cancers.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

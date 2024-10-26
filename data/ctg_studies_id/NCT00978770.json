@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00978770",
+    "briefTitle": "MRI in Predicting Early Response to Chemotherapy in Patients With Locally Advanced Breast Cancer",
+    "officialTitle": "Neo Comice Pilot; Efficacy of Advanced Semi-automated Functional Magnetic Resonance (MR) Imaging in the Early Prediction of Response of Locally Advanced Breast Cancer to Neoadjuvant Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "N/A",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Failed scan rate (i.e., the number of scans that failed protocol) grouped by cause, including patient refusal, protocol violation in timing, major errors in scan protocols, and minor errors in scan protocol",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Newly diagnosed, histologically proven breast cancer\n\n  * Stage T2-4B, N0-3C, and M0 disease\n  * Locally advanced primary disease\n* Underwent both x-ray mammography and breast ultrasound scanning during the current treatment episode\n* Scheduled for neoadjuvant chemotherapy\n\nPATIENT CHARACTERISTICS:\n\n* Not pregnant or nursing\n* Medically stable\n* No renal failure\n* No serious breast trauma within the past 3 months\n* No known allergic reaction associated with previous administration of a paramagnetic contrast agent\n* No known contraindication to magnetic resonance (MR) scanning\n\n  * Must pass the normal safety requirements of MR, particularly pacemakers and cardiac defibrillators\n  * No disability preventing MR scanning in the prone position\n  * No body habitus incompatible with MR system entry\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior chemotherapy\n* No prior surgery or radiotherapy for cancer in the ipsilateral breast\n\n  * More than 4 months since prior surgery to the ipsilateral breast for benign breast disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

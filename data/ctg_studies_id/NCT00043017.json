@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00043017",
+    "briefTitle": "Magnetic Resonance Imaging in Women Receiving Chemotherapy for Stage III Breast Cancer",
+    "officialTitle": "Contrast-Enhanced Breast MRI For Evaluation Of Patients Undergoing Neoadjuvant Treatment For Locally-Advanced Breast Cancer (I-SPY 1/ACRIN 6657)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 356,
+    "primaryOutcomeMeasure": "Disease-free three-year survival",
+    "eligibilityCriteria": "ACRIN 6657 eligibility criteria match that of CALGB Correlative Science trial 150007. Patients with histologically-documented tumors per CALGB criteria that are at least 3 cm who choose to undergo neoadjuvant chemotherapy will be eligible to participate in the Correlative Science and Imaging companion trials (CALGB 150007/ACRIN 6657). The therapeutic regimen will consist of AC followed by a taxane for patients enrolled under the original trial protocol, and will consist of a taxane alone (Type 1) or taxane followed by AC (Type 1 followed by Type 2) for patients enrolled as part of the protocol extension.\n\n1. Inclusion Criteria Specific to the ACRIN 6657 MRI Study 1.1 IRB approval/Signed informed consent 1.2 Patients must have a calculated creatinine clearance of \\> 30 mL/min (modified Cockcroft and Gault formula) based on a serum creatinine level obtained within 28 days of registration in order to participate.\n\n   Creatinine Clearance for Males: (\\[140-age (years)\\] X weight (kg)/(serum creatinine X 72) Creatinine Clearance for Females: Creatinine Clearance (male) X 0.85\n2. Exclusion Criteria Specific to the ACRIN 6657 MRI Study 2.1 Pregnancy 2.2 Ferromagnetic prostheses",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

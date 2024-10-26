@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00454805",
+    "briefTitle": "AZD2171 in Addition to Fulvestrant in Patients With Advanced Breast Cancer.",
+    "officialTitle": "A Phase II, Double-Blind, Placebo Controlled, Randomized Study to Assess the Efficacy and Safety of AZD2171 in Combination With Fulvestrant vs Fulvestrant Alone in Hormone Sensitive (ER+ve or PgR+ve) Post Menopausal Metastatic Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 75,
+    "primaryOutcomeMeasure": "Progression Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent\n* Females with histological/cytological confirmation of hormone sensitive breast cancer with evidence of metastatic disease\n* One or more evaluable lesions\n\nExclusion Criteria:\n\n* Prior hormonal therapy with fulvestrant\n* More than one course of prior systemic cytotoxic chemotherapy for metastatic breast cancer\n* Prior biologic therapy for ABC including Anti-VEGF agents\n* Radiation therapy within 4 weeks prior to provision of consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

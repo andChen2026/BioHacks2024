@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00797199",
+    "briefTitle": "Monitoring of Breast Tissue Change Due to Hormone Replacement Therapy in Post-menopausal Women Using OBS",
+    "officialTitle": "Short-term Evaluations of Breast Tissue Change in Post-menopausal Women Using Optical Breast Spectroscopy (OBS)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 14,
+    "primaryOutcomeMeasure": "Changes in OBS parameters",
+    "eligibilityCriteria": "Cases\n\nInclusion Criteria:\n\n* Post-menopausal\n* Attending the Endocrinology clinic at SMH\n* Will start HRT treatment\n\nExclusion Criteria:\n\n* Current or Past HRT treatment\n* Prior breast cancer\n* Benign breast disease\n* Bilateral breast biopsy\n* Fine needle aspiration (FNA) within a year\n* Cosmetic alteration (reduction/augmentation)\n* Gynecological surgery\n* Past or current chemo- therapeutic or prevention treatment\n\nControls\n\nInclusion Criteria:\n\n* Not on HRT treatment\n\nExclusion Criteria:\n\n* Current or Past HRT treatment\n* Prior breast cancer\n* Benign breast disease\n* Bilateral breast biopsy\n* Fine needle aspiration (FNA) within a year\n* Cosmetic alteration (reduction/augmentation)\n* Gynecological surgery\n* Past or current chemo- therapeutic or prevention treatment",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

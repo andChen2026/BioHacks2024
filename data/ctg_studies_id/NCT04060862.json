@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04060862",
+    "briefTitle": "A Study of Ipatasertib Plus Palbociclib and Fulvestrant Versus Placebo Plus Palbociclib and Fulvestrant in Hormone Receptor Positive and HER2 Negative Locally Advanced Unresectable or Metastatic Breast Cancer",
+    "officialTitle": "A Phase Ib/III Study of Ipatasertib Plus Palbociclib and Fulvestrant Versus Placebo Plus Palbociclib and Fulvestrant in Hormone Receptor Positive and HER2 Negative Locally Advanced Unresectable or Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS) in Intent-to-Treat (ITT), as determined by the investigator according to Response Evaluation Criteria in Solid Tumors, Version 1.1 (RECIST v1.1)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* HR+ HER2- adenocarcinoma of the breast that is locally advanced unresectable or metastatic\n* For women of childbearing potential: agreement to remain abstinent or use contraception, and agreement to refrain from donating eggs\n* For men: agreement to remain abstinent or use contraceptive methods, and agreement to refrain from donating sperm\n* Radiologic/objective relapse during adjuvant endocrine therapy or disease progression during the initial 12 months of 1L endocrine therapy in locally advanced unresectable or metastatic breast cancer\n* At least one measurable lesion via Response Evaluation Criteria in Solid Tumors, Version 1.1\n* Phase III only: Tumor specimen from the most recently collected, available tumor tissue\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding, or intending to become pregnant\n* Prior treatment with fulvestrant or other selective estrogen receptor down-regulator\n* Prior treatment with PI3K inhibitor, mTOR inhibitor or AKT inhibitor\n* Phase III only: Prior treatment with CDK4/6 inhibitor for locally advanced unresectable or metastatic breast cancer\n* Prior treatment with a cytotoxic chemotherapy regimen for metastatic breast cancer\n* History of Type I or Type II diabetes mellitus requiring insulin\n* History of or active inflammatory bowel disease or active bowel inflammation\n* Lung disease: pneumonitis, interstitial lung disease, idiopathic pulmonary fibrosis, cystic fibrosis, Aspergillosis, active tuberculosis, or history of opportunistic infections",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

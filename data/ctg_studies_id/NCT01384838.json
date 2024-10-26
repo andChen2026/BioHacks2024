@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01384838",
+    "briefTitle": "Exercise Training in Postmenopausal Patients With Breast Cancer",
+    "officialTitle": "Randomized Trial of Exercise Training in Postmenopausal Patients With Hormone-receptor Positive Breast Cancer Undergoing Treatment With Aromatase Inhibitors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Physical Activity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Individual maximum power output in watt (Pmax) on a bicycle ergometer after 6 months of controlled or unobserved physical activity.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent\n* Postmenopausal women with hormone receptor positive breast cancer (as defined by HR \\>= ++ and/or PR \\>= ++) who are treated with aromatase inhibitors\n* ECOG performance status \\<= 2\n* all age groups\n\nExclusion Criteria:\n\n* Pathologic ergometry\n* Uncontrolled diabetes mellitus\n* Uncontrolled hypertension\n* COPD \\> II\n* Active opportunistic infection\n* NYHA heart failure III or IV",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

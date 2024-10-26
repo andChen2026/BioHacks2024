@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00714909",
+    "briefTitle": "Determination of Predictive Value of Echography Doppler Abnormalities",
+    "officialTitle": "CAVECCAS Value of Risk Factors for Symptomatic Catheter Related Thrombosis in Patients With Breast Cancer Treated With Adjuvant Chemotherapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Upper Extremity Deep Vein Thrombosis, Secondary",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "Symptomatic catheter related thrombosis, as confirmed by echography doppler, phlebography or angiography scan",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women over 18\n* histologically proven breast cancer\n* localized breast cancer without metastasis\n* adjuvant or neo adjuvant chemotherapy\n* insertion of central catheter with port for chemotherapy\n* central catheter for more than three months\n* inform consent\n* follow up for three months\n\nExclusion Criteria:\n\n* ongoing anticoagulant therapy\n* previous central catheter\n* femoral catheter\n* double lumen catheter\n* central catheter without port\n* platelets \\< 80G/L, TQ \\< 50%, fibrinogen \\< 1 g/L\n* creatinin \\> 175mole/L",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

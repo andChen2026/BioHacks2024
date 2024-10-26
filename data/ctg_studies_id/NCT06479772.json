@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06479772",
+    "briefTitle": "Evaluation of the Potential Impact of an Artificial Intelligence Solution in Second Reading of Organized Screening.",
+    "officialTitle": "Evaluation of the Potential Impact of an Artificial Intelligence Solution in Second Reading of Organized Screening.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 55589,
+    "primaryOutcomeMeasure": "Percentage of real negatives",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 50 to 74 participating in the organized screening campaign.\n* Having had a screening mammogram with a final L1 result of \"normal\" (ACR 1/ BI-RADS 1) or \"benign\" (ACR 2/ BI-RADS 2).\n* For which a second reading interpretation is available\n* Screening mammograms performed during the years 2015 to2019 (In order to have follow-up data (subsequent mammogram or information on the person's future)\n\nExclusion Criteria:\n\n- Mammography not performed as part of organized screening",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00615602",
+    "briefTitle": "Six vs 12 Months of Trastuzumab With Docetaxel Following FEC as Adjuvant Treatment in N+ Breast Cancer",
+    "officialTitle": "A Multicenter Randomized Phase III Study Comparing 6 Versus 12 Months of Trastuzumab in Combination With Dose Dense Docetaxel Following FE75C as Adjuvant Treatment of Women With Axillary Lymph Node Positive Breast Cancer Over-expressing HER2",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 489,
+    "primaryOutcomeMeasure": "3-year disease-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with histologically-confirmed unilateral invasive ductal or lobular breast adenocarcinoma\n* HER2/c-neu over expression should be documented by either immunohistochemistry (score 3+) or FISH/CISH positivity. A score of 2+ by immunohistochemistry is acceptable only if FISH/CISH positive\n* Within 60 days after the surgical excision of the primary tumor with tumor-free operation margins; at least 10 axillary lymph nodes have to be removed.\n* Tumor involvement of at least one axillary lymph node (N0 with HER2/c-neu over expression are also eligible)\n* Absence of any clinical or radiological evidence of local or metastatic disease\n* Premenopausal or postmenopausal women aged 18-75 years old\n* Adequate bone marrow function (absolute neutrophil count \\>1500/mm3, platelet count \\>100.000/mm3, hemoglobin \\>10gr/mm3)\n* Adequate liver (bilirubin \\<1.0 times upper limit of normal and SGOT/SGPT \\<2.5 times upper limit of normal) and renal function (creatinine \\<1.5mg/dl)\n* Adequate cardiac function (LVEF\\>50%). Normal electrocardiogram and absence of significant heart disease\n* Written informed consent\n\nExclusion Criteria:\n\n* Positive pregnancy test.\n* Psychiatric illness or social situation that would preclude study compliance.\n* Other concurrent uncontrolled illness.\n* Prior or concurrent antineoplastic therapy e.g. hormonal therapy, radiation therapy, chemotherapy, biological agents.\n* Previous history of other invasive malignancy other than non-melanomatous skin cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

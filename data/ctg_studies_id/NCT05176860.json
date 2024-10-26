@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05176860",
+    "briefTitle": "Evaluation of Novel Cone-Beam CT for Guidance and Adaptation of Precision Radiotherapy",
+    "officialTitle": "Evaluation of Novel Cone-Beam CT for Guidance and Adaptation of Precision Radiotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Lung Cancer, Liver Cancer, Breast Cancer, Other Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "CBCT Image Quality",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subject is scheduled for treatment on one of the five TrueBeam platforms at the NS Health QE2 site.\n* Subject is receiving radiation therapy using a breath-hold technique (for example, lung, liver and left breast cancers).\n\nExclusion Criteria:\n\n* Patient is pregnant or has plans for pregnancy during the period of treatment.\n* Patient is unwilling to consent to participating to the study, or for whom informed consent is not possible.",
+    "sex": "ALL",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

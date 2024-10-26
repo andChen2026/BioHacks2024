@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06622967",
+    "briefTitle": "KNUCH CadAI-B-1(KCB-1)",
+    "officialTitle": "Multinational Clinical Trial of Real-time Artificial Intelligence System (CadAI-B) for Breast Ultrasound: Prospective Clinical Validation Study",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Neoplasm, Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Lesion and Per-patient Diagnostic Performance",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 20 years or older\n* Individuals scheduled to undergo breast ultrasound for diagnostic evaluation\n* Patients whose Ground Truth can be determined through biopsy, surgery, or follow-up\n\nExclusion Criteria:\n\n* Images containing artifacts that may affect the interpretation\n* Presence of breast implants\n* Significant breast trauma or mastitis at the time of the breast ultrasound that could cause distortion in image interpretation\n* History of surgery or chemotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

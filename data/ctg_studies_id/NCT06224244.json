@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06224244",
+    "briefTitle": "External Hypofractionated Radiotherapy With Simultaneous Integrated Boost in Early Breast Cancer Patients",
+    "officialTitle": "A Prospective Phase II Trial of an Accelerated Hypofractionated Radiotherapy Schedule With Risk-adapted Simultaneous Integrated Boost (HF-SIB) in Early Breast Cancer Patients Undergoing Breast Conserving Surgery",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Neoplasms, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 180,
+    "primaryOutcomeMeasure": "Late Effects Normal Tissue Task Force (LENT)-Subjective, Objective, Management, Analytic (SOMA) scale",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven invasive or in situ unifocal adenocarcinoma of the breast\n* Breast conserving surgery\n* Pathological pTis G3, pT1-2 any Grade, pN0 or pN0(sn) (isolated tumor cells \\[i+\\] allowed) pN1mic, M0 stage\n* Postoperative negative (no ink) final surgical margins\n* Patient requires a whole breast radiotherapy plus a tumor bed boost\n* Female patients aged \u2265 18 years of any menopausal status\n* ECOG performance status 0-2\n\nExclusion Criteria:\n\n* Past history of malignancy except basal cell skin cancer and CIN cervix uteri or non-breast malignancy allowed if treated with curative intent and at least 5 years' disease free\n* Mastectomy\n* Concomitant chemotherapy (primary or sequential chemotherapy allowed) (Chemotherapy and radiotherapy must be separated by a minimum of 2 weeks). (Patients receiving neo-adjuvant chemotherapy are not excluded)\n* Known disorders associated with a higher risk for complications following radiotherapy such as collagen vascular disease, dermatomyositis, systemic lupus erythematosus or scleroderma\n* Any psychological, familiar, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule\n* Any serious uncontrolled medical disorder, non-malignant systemic disease, or active uncontrolled infection. Example include but are not limited to uncontrolled ventricular arrhythmia, recent (within 3 months) myocardial infarction or uncontrolled major seizure disorder\n* Pregnant or lactating patients\n* Presence of ipsilateral breast implant\n* Prior breast or thoracic radiotherapy for any condition",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

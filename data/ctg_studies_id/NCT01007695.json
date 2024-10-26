@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01007695",
+    "briefTitle": "Molecular Signature of Valproic Acid in Breast Cancer With Functional Imaging Assessment - a Pilot",
+    "officialTitle": "Molecular Signature of Valproic Acid in Breast Cancer With Functional Imaging Assessment - a Pilot",
+    "overallStatus": "TERMINATED",
+    "conditions": "Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 31,
+    "primaryOutcomeMeasure": "Determine if valproic acid levels correlate with histone acetylation in leukocytes during treatment and whether either valproic acid levels or histone acetylation in leukocytes predict histone acetylation in tumor samples post treatment.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Biopsy-proven invasive adenocarcinoma of the breast 1.5cm or larger by clinical exam or imaging including ultrasound, mammogram, CT, or MRI\n2. Females at least 18 years-old,\n3. Not pregnant, as demonstrated by a negative serum or urine pregnancy test in women of child bearing potential, and not planning on becoming pregnant\n4. Willing to have a biopsy at the start of study if adequate sample for gene array is not available.\n5. Willing to have a biopsy at the end of the trial if breast surgery is not planned.\n6. ECOG Performance status 0-2\n7. Able to provide informed consent and have signed an approved consent form that conforms to federal and institutional guidelines\n\nExclusion Criteria:\n\n1. Need for immediate chemotherapy as determined by the patients' physicians, e.g., present or imminent compromise of vital organs or unacceptable symptoms from the tumor.\n2. Known hypersensitivity to valproic acid or its components or peanut allergy\n3. Inadequate bone marrow, kidney, and liver function (greater than grade 1 by CTCAE version 4) as defined by the protocol.\n4. Immunocompromised due to medications or HIV as documented in medical history\n5. Use of other antiepileptics or medications with known interactions with valproic acid (See protocol for full list)\n6. Inborn errors of metabolism (valproic acid is contraindicated in patients with known urea cycle disorders)\n7. History of pancreatitis\n8. Use of a ketogenic diet\n9. Inability to have an MRI due to extreme claustrophobia, possible metal fragments in the eye, cardiac pacemaker, implanted cardiac defibrillator, aneurysm clips, carotid artery vascular clamp, neurostimulator, insulin or infusion pump, implanted drug infusion device, bone growth/fusion stimulator, or cochlear, otologic, or ear implant\n10. Tumor that is unlikely to yield adequate tissue for genomic studies in the opinion of the principle investigator",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

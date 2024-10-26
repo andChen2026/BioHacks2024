@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00500383",
+    "briefTitle": "Breast Cancer Risk Assessment Using Optical Breast Spectroscopy (OBS)",
+    "officialTitle": "Breast Cancer Risk Assessment Using Optical Breast Spectroscopy (OBS)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 372,
+    "primaryOutcomeMeasure": "Difference in rate of change between the high risk groups and the respective controls",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nBrCa carriers (cases)\n\n* Attending one of the three participating high-risk screening centres\n* Confirmed BrCa1 or BrCa2 mutation status through genetic testing\n\nHigh-Risk (cases)\n\n* Attending one of the three participating high-risk screening centres\n* Confirmed negative BrCa1/2 status through genetic testing\n\nBrCa non-carriers (controls)\n\n* Attain a GAIL model score of \\<1.1 and have \\<10% risk of carrying the BRCa mutation Determined by the Penn II model)\n* Controls from high-risk screening centre with confirmed BrCa1/2 negative status through genetic testing\n* Preference will be given to sisters or first degree cousins of BrCa carriers\n\nExclusion Criteria:\n\nCases and Controls\n\n* Prior diagnosis or Breast or Ovarian Cancer\n* Bilateral biopsy or fine needle aspiration within 1 year of study start\n* Bilateral mastectomy, lumpectomy or cosmetic alteration (reduction/augmentation)\n* Previous or current chemotherapy or prevention therapy (Tamoxifen)\n* Less than 3 years post pregnancy at study start\n* inability to provide informed consent due to language or cognitive difficulties\n\n  \\*For controls only\n* Family history of breast cancer where family member had an early diagnosis (before age 45 years)\n* Family history or ovarian cancer",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT"
+}

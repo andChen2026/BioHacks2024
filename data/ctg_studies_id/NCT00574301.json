@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00574301",
+    "briefTitle": "Percutaneous Removal and Margin Ablation for Breast Cancer",
+    "officialTitle": "Percutaneous Removal and Margin Ablation for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 32,
+    "primaryOutcomeMeasure": "To quantify the degree of tumor-free margin achieved with image-guided vacuum assisted biopsy followed by ablation with radiofrequency ablation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, 18 to 90 years of age\n* Non-pregnant, not breastfeeding\n* Pre-study documentation of:\n* Size \u22641.5 cm cancer successfully removed by US-guided IVEB within 30 days of registration\n* Uni-centricity, unilateral cancer by radiology (mammogram and MRI)\n* Location of abnormality \\> 1 cm from the skin\n* Ductal Carcinoma, Invasive (Grade I-III) or In-Situ\n* No palpable axillary or supraclavicular lymph nodes\n* Good general health\n* Zubrod Performance Status of 0, 1, or 2\n* If prior non-breast malignancy, must have 5 year disease-free survival\n* No prior chemotherapy\n* Hormonal therapy must be stopped\n* Therapy with tamoxifen must have been of 14 days or less duration\n\nExclusion Criteria:\n\n* Subjects less than 18 years of age or greater than 90 years of age\n* Pregnant or breastfeeding\n* Male\n* Prior Breast Biopsy affected breast\n* Breast implants\n* Multicentric disease, bilateral disease\n* Residual disease after IVEB of \\> 1cm on MRI\n* Lesions \\> 1.5 cm in diameter\n* Lesions \\< 1 cm from skin surface\n* Previous radiation therapy to the breast",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

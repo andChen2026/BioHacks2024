@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02465892",
+    "briefTitle": "Pillars4Life Trial",
+    "officialTitle": "Pillars4Life Randomized Control Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Lung Cancer, Esophageal Cancer, Colon Cancer, Pancreatic Cancer, Liver Cancer, Renal Cancer, Bladder Cancer, Prostate Cancer, Ovarian Cancer, Cervical Cancer, Uterine Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 284,
+    "primaryOutcomeMeasure": "Chronic pain",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Current pain level \u22653 and at least one prior score \u22653 on a 0-10 scale as reported in EPIC;\n* Age \u226518 years\n* Diagnosed with Breast, GI, GU, GYN, or Thoracic cancer\n* Actively receiving care at the Duke Cancer Center, Durham Regional Hospital, or Duke Raleigh Hospital\n* Able/willing to have an online interaction with the Pillars4Life online CORE program curriculum\n* Life expectancy \u22656 months\n* Providing informed consent\n* Able to read/write English.\n\nExclusion Criteria:\n\n* none",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

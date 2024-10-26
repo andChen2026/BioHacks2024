@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00381901",
+    "briefTitle": "Trastuzumab for 6 Months or 1 Year in Treating Women With Nonmetastatic Breast Cancer That Can Be Removed By Surgery",
+    "officialTitle": "Protocol of Herceptin Adjuvant With Reduced Exposure, a Randomised Comparison of 6 Months vs 12 Months in All Women Receiving Adjuvant Herceptin [PHARE]",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 3400,
+    "primaryOutcomeMeasure": "Time to recurrence",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adenocarcinoma of the breast\n* Nonmetastatic disease\n\n  * Positive or negative axillary nodes\n  * Tumor size \u2265 10 mm\n* Resectable disease\n* Must have received \u2265 4 courses of chemotherapy for this disease\n* A 12-month adjuvant treatment with trastuzumab (Herceptin\u00ae) has been initiated\n\n  * Informed consent form must be signed between the third and sixth months of trastuzumab therapy\n* Overexpression of HER-2 in the invasive component of the primary tumor as indicated by 1 of the following:\n\n  * 3+ by immunohistochemistry (IHC)\n  * 2+ by IHC and confirmation by fluorescent in situ hybridization (FISH) or chromogenic in situ hybridization (CISH)\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Menopausal status not specified\n* LVEF considered favorable for continuing trastuzumab treatment as measured by echocardiography or MUGA at 2-4 months after beginning adjuvant trastuzumab\n* No serious cardiac illness or medical condition precluding trastuzumab treatment, including any of the following:\n\n  * History of documented congestive heart failure\n  * High-risk uncontrolled arrhythmias\n  * Angina pectoris requiring antianginal medication\n  * Severe dyspnea at rest or oxygen-dependent\n* No known hypersensitivity to trastuzumab, murine proteins, or any of the excipients\n* Not pregnant or nursing\n* No social, geographical, or psychological condition that would preclude study participation\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* Other prior anti-HER-2 therapy allowed\n* No prior trastuzumab other than initiation of trastuzumab adjuvant therapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

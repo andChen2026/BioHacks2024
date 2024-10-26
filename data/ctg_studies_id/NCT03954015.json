@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03954015",
+    "briefTitle": "Comparison of Three Methods for Early Detection of Breast Cancer",
+    "officialTitle": "Contrast Enhanced Ultrasound (CEUS) With US Microvessel Imaging, Contrast Enhanced Dual Energy Mammography (CEDM) and Contrast Enhanced Breast MR (CEMR): Comparison of Three Methods for Early Detection of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Proliferative Breast Disease",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 3,
+    "primaryOutcomeMeasure": "CEUS true positive diagnosis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Provision of signed and dated informed consent form\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Patients, greater than 30 years of age\n* In good general health as evidenced by medical history\n* BIRADS 4 or 5 suspicious breast lesions who are scheduled for breast biopsy.\n\nExclusion Criteria:\n\n* Patients who are less than 30 years of age\n* Have known or suspected cardiac shunts\n* Have history of hypersensitive allergic reactions to any imaging contrast agents\n* Pregnant (a urine pregnancy test will be given at no cost to the patient)\n* Are nursing babies\n* Poor renal function\n* Are unwilling or unable (such as having a pacemaker) to undergo a CEMR",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04446494",
+    "briefTitle": "Identification and Preservation of Arm Lymphatics",
+    "officialTitle": "Identification and Preservation of Arm Lymphatics (DEPART) in Axillary Dissection for Breast Cancer to Reduce Arm Lymphedema Events: A Multicenter Randomized Clinical Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Related Lymphedema",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 1200,
+    "primaryOutcomeMeasure": "Rate of arm lymphedema",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients aged 18 years or older with T1-3 invasive breast cancer;\n* Clinically node-positive breast cancer, defined as positive on preoperative axillary palpation, ultrasound examination, and computed tomography scan with contrast;\n* Patients who underwent mastectomy with a positive sentinel lymph node (SLN);\n* Patients who underwent breast-conserving surgery containing more than two positive SLNs.\n\nExclusion Criteria:\n\n* Neoadjuvant chemotherapy;\n* Previous history of breast cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

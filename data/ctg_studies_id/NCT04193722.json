@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04193722",
+    "briefTitle": "The Effect of Hyperbaric OxygeN Therapy on brEast Cancer Patients With Late Radiation toxicitY - UMBRELLA HONEY Trial",
+    "officialTitle": "The Effect of Hyperbaric Oxygen Therapy on Breast Cancer Patients With Late Radiation Toxicity",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Radiation Toxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 189,
+    "primaryOutcomeMeasure": "Change in breast/chest wall pain: EORTC QLQ-BR23 questionnaire",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Self reported pain grade 3-4 (on a scale of 1-4) as assessed by the late radiation toxicity questionnaire;\n* Participation \\>12 months in the UMBRELLA cohort;\n* Previous treatment with radiotherapy for breast cancer;\n* Completed surgery and (neo)adjuvant systemic therapy except adjuvant endocrine therapy, for breast cancer.\n\nExclusion Criteria:\n\n* Poor responder to questionnaires (i.e. return of \u2264 2 UMBRELLA questionnaires);\n* Previous HBOT;\n* Contra-indications for HBOT (e.g. (severe) chronic obstructive pulmonary disease (COPD) or asthma, pacemaker, morbid obesity, epilepsy in medical history, severe heart failure);\n* Current metastatic disease or recurrent breast cancer.\n\nAdditional exclusions criteria based on screening visit:\n\n* Inability to follow schedule of all consecutive HBO treatments (e.g. due to scheduled holidays \\> 2 days);\n* Not meeting criteria for HBOT (e.g. due to complaints similar to late radiation toxicity, not caused by radiotherapy).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00896623",
+    "briefTitle": "SWOG 8897-A DNA Analysis in Predicting Treatment Outcome in Women With Breast Cancer in SWOG 8897",
+    "officialTitle": "Pharmacogenetics in Relation to Breast Cancer Outcomes in SWOG 8897",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1577,
+    "primaryOutcomeMeasure": "Differences in outcome according to common variant alleles",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of breast cancer\n\n  * Node-negative breast cancer\n* Enrolled on clinical trial SWOG-8897\n\n  * Archived tissue from patients with normal lymph nodes in the low-risk group receiving no treatment and those in the intermediate group receiving treatment\n* Hormone receptor status known\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Pre- or post-menopausal\n\nPRIOR CONCURRENT THERAPY:\n\n* Not specified",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

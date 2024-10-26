@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01331954",
+    "briefTitle": "Treatment of Breast Fibroadenoma With High Intensity Focused Ultrasound (HIFU)",
+    "officialTitle": "Treatment of Breast Fibroadenoma With High Intensity Focused Ultrasound (HIFU): a Feasibility Study",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Fibroadenoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Reduction of breast fibroadenoma volume at ultrasonography",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* One breast fibroadenoma with diagnosis based on:\n\n  * Clinical examination\n  * Ultrasound image\n  * For women older than 35 years: mammogram with BI-RADS score \\< 3\n  * Histologic confirmation by two independent readers\n* Fibroadenoma size between 1 cm and 3 cm at its largest dimension (measured by ultrasound)\n\nExclusion Criteria:\n\n* Patient pregnant or lactating\n* Bi-RADS score \\> 2 at the mammogram, or microcalcifications within the lesion.\n* History of breast cancer or history of laser or radiation therapy to the target breast\n* Breast implants\n* Breast cyst\n* Fibroadenoma not clearly visible on the ultrasound images (in B mode)\n* Patient participating in other trials using drugs or devices",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

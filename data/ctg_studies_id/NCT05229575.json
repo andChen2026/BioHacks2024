@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05229575",
+    "briefTitle": "Breast Stereotactic Radiotherapy to Primary Tumors in Metastatic Patients",
+    "officialTitle": "Breast Stereotactic Radiotherapy to Primary Tumors in Metastatic Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Maximum tolerated dose of stereotactic body radiotherapy (SBRT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age: 18 years or older\n* Histologically confirmed diagnosis of invasive breast carcinoma (biological immunohistochemical profile: luminal and/or human epidermal growth factor receptor 2 positive)\n* Distant metastatic disease not progressing after 6 months of systemic therapy\n* Zubrod Performance status of 0-1\n* Unifocal tumour \\< 5 cm tumor size\n* Tumor CT or 18-labeled fluorodeoxyglucose positron emission tomography (5FDG-PET) detectable\n* No surgery being recommended at time of enrollment.\n\nExclusion Criteria:\n\n* prior radiotherapy\n* active systemic lupus erythematosus, or any history of scleroderma, dermatomyositis with active rash\n* Women who are pregnant or lactating.\n* Psychiatric or addictive disorders that preclude obtaining informed consent or adherence to protocol",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

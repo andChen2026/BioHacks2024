@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02162719",
+    "briefTitle": "A Study Assessing the Safety and Efficacy of Adding Ipatasertib to Paclitaxel Treatment in Participants With Breast Cancer That Has Spread Beyond the Initial Site, and the Cancer Does Not Have Certain Hormonal Receptors",
+    "officialTitle": "A Randomized, Phase II, Multi-Center, Placebo-Controlled Study of Ipatasertib (GDC-0068), an Inhibitor of Akt, in Combination With Paclitaxel as Front-Line Treatment for Patients With Metastatic Triple-Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 124,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically documented triple-negative adenocarcinoma of the breast that is inoperable locally advanced or metastatic and is not amenable to resection with curative intent\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Availability of a representative formalin-fixed, paraffin-embedded (FFPE) tumor specimen, required prior to randomization\n* Measurable disease, according to the RECIST v1.1\n* Adequate hematologic and organ function within 14 days before the first study treatment\n* For female participants of childbearing potential, agreement (by both participant and partner) to use an effective form of contraception for the duration of the study and for 6 months after last dose of study treatment\n\nExclusion Criteria:\n\n* Any previous therapy, including chemotherapy or hormonal or targeted therapy, for inoperable locally advanced or metastatic triple-negative adenocarcinoma of the breast. Participants may have received prior neoadjuvant or adjuvant chemotherapy and/or radiation treatment for locally advanced triple negative adenocarcinoma, provided all treatments were completed greater than or equal to (\\>/=) 6 months prior to Cycle 1 Day 1. Locally recurrent disease must not be amenable to resection with curative intent\n* Any radiation treatment to metastatic site within 28 days of Cycle 1, Day 1\n* Known Human Epidermal Growth Factor Receptor 2 (HER2) positive, erythrocyte receptor (ER) positive, or progesterone receptor (PR) positive breast cancer\n* Previous therapy with Akt, PI3K, and/or mTOR inhibitors\n* Major surgical procedure, open biopsy, or significant traumatic injury within 30 days prior to Cycle 1, Day 1 or anticipation of need for a major surgical procedure during the course of the study\n* Known presence of the brain or spinal cord metastasis, as determined by computed tomography (CT) or magnetic resonance imaging (MRI) evaluation during screening or prior radiographic assessments",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04872985",
+    "briefTitle": "Pyrotinib in Combination With Neoadjuvant Chemotherapy in HR+/HER2-, HER4 High Expression Breast Cancer Patients: A Phase II Trial",
+    "officialTitle": "Efficacy and Safety of Pyrotinib in Combination With Neoadjuvant Chemotherapy in Stage II-III HR+/HER2-, HER4 High Expression Breast Cancer Patients: A Phase II, Single-center, Randomized, Double-Blinded, Placebo-Controlled Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Hormone-receptor Positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 140,
+    "primaryOutcomeMeasure": "tpCR (total pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Presenting with histological(by core needle biopsy or by limited incisional biopsy) proven hormone receptor positive (ER\u226510% and/or PR \u22651%), HER2 negative(IHC \u22642+ and/or FISH-) , stage II/ III breast cancer.\n* Have clinical indication for neoadjuvant therapy.\n* HER4 IHC score \u2265 4.\n* Measurable disease (breast and/or lymph nodes).\n* The Eastern Cooperative Oncology Group (ECOG) performance status must be 0 or 1.\n* Adequate bone marrow function (within 4 weeks prior to registration): WBC\u22653.0x109/l, neutrophils \u22651.5 x 109/l, platelets \u2265100 x 109/l.\n* Adequate liver function (within 4 weeks prior to registration): bilirubin \u22641.5 x upper limit of normal (UNL) range, ALAT and/or ASAT \u22642.5 x UNL, Alkaline Phosphatase \u22645 x UNL.\n* Adequate renal function (within 4 weeks prior to registration): the calculated creatinine clearance should be \u226550 ml/min.\n* Patients must have the ability to swallow oral medication.\n* Without history of any kind of treatment to known malignancy (solid tumor or hematologic).\n* Written informed consent.\n* Accessible for treatment and follow-up.\n\nExclusion Criteria:\n\n* Evidence of stage IV breast cancer.\n* Contralateral invasive breast cancer or Inflammatory breast cancer.\n* History of non-breast malignancies (except for in situ cancers treated only by local excision and basal cell and squamous cell carcinomas of the skin) within 5 years prior to randomization.\n* Known metastatic disease from any malignancy (solid tumor or hematologic).\n* Serious other diseases as infections (hepatitis B, C and HIV), recent myocardial infarction, clinical signs of cardiac failure or clinically significant arrhythmias or on screening, any of the following cardiac parameters: bradycardia (heart rate \\<50 at rest) or QTcF \u2265450 msec.\n* Known hypersensitivity reaction to any of the components of the treatment.\n* Pregnancy or lactation at the time of randomization.\n* Medical or psychological condition which in the opinion of the investigator would not permit the patient to complete the study or sign meaningful informed consent.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

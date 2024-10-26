@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05250336",
+    "briefTitle": "Tumor-Infiltrating Lymphocytes and Programmed Cell Death - Ligand 1 in Breast Cancer",
+    "officialTitle": "Prognostic and Predictive Value of Tumor-Infiltrating Lymphocytes and Programmed Cell Death - Ligand 1 in Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Tumor Infiltrating Lymphocytes, Programmed Cell Death Ligand 1",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Correlation of TILs and PDL-1 in various molecular sub-types",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Primary Breast cancer\n* Completed scheduled treatment at SGPGI\n* Adequate quality histopathology material available in Department of Pathology archives\n* With minimum 6 months follow up\n\nExclusion Criteria:\n\n* Insufficient data\n* Incomplete treatment\n* Insufficient follow up information\n* Insufficient histological material for review",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

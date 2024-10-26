@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00130494",
+    "briefTitle": "Zoledronic Acid Administration to Metastatic Breast Cancer Patients With Non-symptomatic Bone Lesions",
+    "officialTitle": "Multicenter, Open-label, Randomized Phase III Trial for Administration of Zoledronate to Breast Cancer Metastatic Patients With Non-symptomatic Bone Lesions",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Neoplasm Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 97,
+    "primaryOutcomeMeasure": "Time to first bone metastases",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent.\n* Age \\>= 18 years old.\n* Metastatic breast cancer patients with lytic, sclerotic or mixed bone lesions.\n* Non-symptomatic bone lesions, defined as pain absence, lack of bone complications (fracture, hypercalcemia, Central Nervous System (CNS) compression), no need of analgesic chronic administration for bone disease.\n* A maximum of two chemotherapy lines for metastatic disease.\n* A maximum of two hormone therapy lines for metastatic disease.\n* Normal, minimally altered renal function (serum creatinine \\< 1.5 x Upper Normal Limit (UNL)).\n* Normal serum calcium levels.\n* Performance status 0,1 (World Health Organization (WHO)).\n* Negative pregnancy test before study recruitment.\n\nExclusion Criteria:\n\n* Previous treatment with bisphosphonates or raloxifene in the 30 days prior to randomization.\n* Metastasis in CNS.\n* History of hypersensitivity to bisphosphonates.\n* Pregnant or lactating women.\n* Third chemotherapy line for metastatic disease.\n* Third hormone therapy line for metastatic disease.\n* Males.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

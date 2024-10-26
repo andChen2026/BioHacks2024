@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02975128",
+    "briefTitle": "Minimal Invasive Breast Cancer Excision Using the Breast Lesion Excision System Under Ultrasound Guidance",
+    "officialTitle": "Minimal Invasive Breast Cancer Excision Using the Breast Lesion Excision System Under Ultrasound Guidance",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breastcancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 22,
+    "primaryOutcomeMeasure": "Frequency of successful complete tumor excision by the BLES system.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* 19 years or older\n* US visible breast cancer with maximum diameter of 15 mm on US\n* Histologically proven invasive breast cancer\n* Willing and able to undergo preoperative breast MRI\n* Able to provide informed consent\n\nExclusion Criteria:\n\n* Poor US visibility of the breast cancer\n* Breast cancer closer than 6 mm to the dermis, nipple or pectoral muscle.\n* Contra-indications to breast MRI or intravenous contrast administration\n* Contra-indications for the use of diathermia\n* Unable to provide informed consent\n* Patients with breast implants\n* Patients with implanted electronics\n* Pregnancy\n* Neoadjuvant chemotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

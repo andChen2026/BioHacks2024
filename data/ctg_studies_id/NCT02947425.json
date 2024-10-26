@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02947425",
+    "briefTitle": "TARGeted Intraoperative radioTherapy (TARGIT) Registry Database",
+    "officialTitle": "TARGIT R: TARGeted Intraoperative radioTherapy (TARGIT) Registry Database",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Early-Stage Breast Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "Local tumour control (defined as no recurrent tumour in the ipsilateral breast)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Recommended treatment by MDT\n* Consent has been obtained to have patient data to be collected\n\nExclusion Criteria:\n\n* Pregnancy (females who have a positive pregnancy test prior to surgery)\n* Under 18 years of age",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

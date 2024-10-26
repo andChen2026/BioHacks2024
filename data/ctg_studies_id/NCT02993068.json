@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02993068",
+    "briefTitle": "Stand up to Cancer: MAGENTA (Making Genetic Testing Accessible)",
+    "officialTitle": "Stand up to Cancer: MAGENTA (Making Genetic Testing Accessible)",
+    "overallStatus": "RECRUITING",
+    "conditions": "BARD1 Gene Mutation, BRCA1 Gene Mutation, BRCA2 Gene Mutation, BRIP1 Gene Mutation, Estrogen Receptor Negative, HER2/Neu Negative, MLH1 Gene Mutation, MSH2 Gene Mutation, MSH6 Gene Mutation, PALB2 Gene Mutation, PMS2 Gene Mutation, Progesterone Receptor Negative, RAD51C Gene Mutation, RAD51D Gene Mutation, Triple-Negative Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 5200,
+    "primaryOutcomeMeasure": "Mean cancer stress scores",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 30 or older. Note: Participants must meet each of Criteria 1-4.\n* Have access to a healthcare provider and be willing to share genetic results with that provider\n* Have at least one ovary\n* Have a valid United States mailing address for receipt of saliva kit\n* Participants must meet any one of the following 6 criteria:\n* Diagnosed with breast cancer at age 45 or younger\n* Diagnosed with triple negative (negative for estrogen receptor, progesterone receptor and not human epidermal growth factor receptor 2 \\[Her2\\] amplified) breast cancer at 60 or younger\n* Have one blood relative with a mutation in BRCA1, BRCA2, BRIP1, PALB2, RAD51C, RAD51D, BARD1, MSH2, MSH6, MLH1, or PMS2\n* Have one relative with ovarian cancer\n* Have at least 2 relatives with breast cancer on the same side of the family, one of which is =\\< 50 years of age\n* Have one male relative with breast cancer\n\nExclusion Criteria:\n\n* Personal history of ovarian cancer\n* Unable to read, speak, and understand English\n* Unable to provide informed consent\n* Unwilling to complete baseline and follow-up questionnaires\n* Unable to access the internet\n* Previous genetic testing or counseling regarding cancer risk\n* Previous bone marrow transplant\n* Previous blood transfusion (7 days prior to genetic testing)\n* Active hematologic malignancy (cancer that begins in blood-forming tissue, such as leukemia or lymphoma)",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

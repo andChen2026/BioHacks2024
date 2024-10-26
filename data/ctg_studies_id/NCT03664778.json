@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03664778",
+    "briefTitle": "Abbreviated Breast MRI After Cancer Treatment",
+    "officialTitle": "Cancer Detection Rate of Abbreviated (Fast) Breast MRI (AB-MR) After Negative Digital Breast Tomosynthesis in Women Status Post Conservation Therapy (BCT)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Neoplasms, Carcinoma, Intraductal, Noninfiltrating",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Invasive breast cancer detection",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Status post primary breast cancer (both invasive and DCIS) treated with breast conservation therapy at least three years prior to recruitment\n2. Negative DBT examination within six months prior to recruitment\n3. All breast densities\n4. Clinically asymptomatic - no palpable masses or focal thickening, etc.\n\nExclusion Criteria:\n\n1. Patients who are pregnant or lactating.\n2. Patients who have not had a mammogram (digital breast tomosynthesis) in the past 6 months.\n3. Patients who are unwilling or unable to provide written informed consent.\n4. Patients symptomatic for breast disease (e.g. experiencing discharge, lumps, etc.).\n5. Recent breast surgery in the past two years including breast enhancements (e.g. implants or injections) benign surgical biopsies.\n6. Patients who are unable to receive an MRI with Gadolinium contrast.\n7. Patients who have not had an MRI of the breast within the past year.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

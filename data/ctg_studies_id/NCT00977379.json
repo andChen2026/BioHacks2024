@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00977379",
+    "briefTitle": "A Study of Whole Brain Radiation Therapy and Capecitabine in Breast Cancer Participants With Newly Diagnosed Brain Metastasis",
+    "officialTitle": "XERAD: Open-Label, Phase II, Randomized, Comparative, Multicentre Trial of Concurrent Whole Brain Radiation Therapy (WBRT) and Capecitabine (Xeloda\u00ae) Followed by Maintenance Capecitabine Compared With Standard WBRT in Breast Cancer Patients With Newly Diagnosed Brain Metastasis",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Percentage of Participants With Best Objective Central Nervous System (CNS) Response, Assessed by Centralized Independent Expert According to Magnetic Resonance Imaging (MRI) - Intent-to-Treat (ITT) Population",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with histologically confirmed breast cancer with known human epidermal receptor-2 (HER2) and hormone status\n* Newly diagnosed CNS metastasis with at least one brain lesion measuring greater than or equal to (\\>/=) 1 centimeter (cm) or two lesions measuring \\>/= 0.5 to less than (\\<) 1 cm in longest dimension\n* Participant not eligible for or refusing surgery or stereotactic radiosurgery\n* Eastern cooperative oncology group (EOCG) performance status 0 to 2\n\nExclusion Criteria:\n\n* Prior treatment of brain metastases\n* Leptomeningeal disease\n* Known contra-indication to radiotherapy or magnetic resonance imaging (MRI) or capecitabine",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

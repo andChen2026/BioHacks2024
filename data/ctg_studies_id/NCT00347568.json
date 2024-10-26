@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00347568",
+    "briefTitle": "BC-DAISY: A Breast Cancer Decision Aid System",
+    "officialTitle": "BC-DAISY: A Breast Cancer Decision Aid System",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 195,
+    "primaryOutcomeMeasure": "Usability feedback on new decision aid for women at high risk for breast cancer from patients and physicians.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* between the ages of 21 - 75\n* at least one first degree relative with breast cancer or a Gail Model score signifying high risk\n* female\n* having had contact with a PCP (physician or nurse practitioner)within the last year\n* being a patient at a participating clinic (for usability and pilot study)\n\nExclusion Criteria:\n\n* Inability to give informed, voluntary consent\n* History of breast cancer or LCIS\n* Language, vision, or reading difficulties, or non-English speaking\n* Pregnancy\n* women over 75 because of the lack of data guiding the impact of preventive treatments among this age group.",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

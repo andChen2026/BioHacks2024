@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05771974",
+    "briefTitle": "The AIUR Trial: Surgical Gloves to Prevent Peripheral Neuropathy",
+    "officialTitle": "A Randomized Controlled Trial Using Surgical Gloves to Prevent Chemotherapy-induced Peripheral Neuropathy by Paclitaxel in Breast Cancer Patients",
+    "overallStatus": "RECRUITING",
+    "conditions": "Chemotherapy-induced Peripheral Neuropathy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 104,
+    "primaryOutcomeMeasure": "Changes in the 11 items neurotoxicity component of the Functional Assessment of Cancer Therapy-Taxane (FACT-NTX) Therapy subscale",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age greater or equal to 19 years, under 70 years old\n* Stage II-III breast cancer\n* No distant metastasis\n* Patient scheduled to be receiving adjuvant or neoadjuvant paclitaxel for at least 12 weeks\n* Signed informed consent\n* Eastern Cooperative Oncology Group (ECOG) performance status \u2264 2 (Karnofsky \u226560%)\n\nExclusion Criteria:\n\n* Recurred breast cancer\n* Patients who have previously received treatment that could cause neuropathy; taxane or platinum-based chemotherapy, antitubulins, proteasome inhibitors\n* Known history of neuropathy\n* Chronic kidney disease\n* Raynaud's phenomenon\n* Peripheral vascular disease; peripheral arterial ischemia\n* Cold intolerance\n* Allergy in natural rubber latex or surgical gloves\n* Patients who have dermatitis, wound, or musculoskeletal problems in hand at enrollment\n* Current use medications which may mitigate chemotherapy-induced peripheral neuropathy; duloxetine, gabapentin/pregabalin, Baclofen-amitriptyline-ketamine (BAK; topical amitriptyline, ketamine, \u00b1baclofen), oral cannabinoids, tricyclic antidepressants, ganglioside-monosialic acid",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

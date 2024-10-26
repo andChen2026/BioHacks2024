@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01299623",
+    "briefTitle": "Breast Cancer Prevention Education",
+    "officialTitle": "Disseminating Breast Cancer Prevention to African American Women",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Prevention",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 366,
+    "primaryOutcomeMeasure": "Intervention uptake",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* African American women\n* Ages 35-70\n* No personal history of cancer\n* Resident of Philadelphia metropolitan area\n\nExclusion Criteria:\n\n* Non-African American\n* Male\n* Under 35 or over 70 years of age\n* Personal history of cancer\n* Not a resident of Philadelphia Metropolitan Area",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

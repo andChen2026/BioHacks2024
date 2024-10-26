@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02338245",
+    "briefTitle": "Study of ASLAN001 in Combination With Capecitabine in MBC That Has Failed on Prior Trastuzumab",
+    "officialTitle": "Randomized Phase 2A/2B Study to Compare the Efficacy and Safety of ASLAN001 + Capecitabine to Lapatinib + Capecitabine in Patients With HER 2-Positive MBC That Has Failed on Prior Trastuzumab Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "To compare the efficacy of ASLAN001 in combination with capecitabine, to lapatinib in combination with capecitabine in the percentage change from baseline tumor size at Week 12",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with documented histological confirmation of breast cancer with HER 2 overexpression or gene amplification prior to study entry.\n* Patients with HER 2-positive metastatic breast cancer that have failed on prior first line treatment with trastuzumab or who have progressed within 1 year of treatment with trastuzumab in adjuvant setting.\n* Presence of at least one radiographically measurable disease (bone metastases and ascites are not considered measurable lesions).\n* Patients of the respective country's legal age or older at the time of written informed consent.\n* Patients with acceptable organ and hematological function\n\nExclusion Criteria:\n\n* Patients with radiation treatment or major surgical procedures within 21 days prior to study entry.\n* Patients with malabsorption syndrome, diseases significantly affecting gastrointestinal function, resection of the stomach or small bowel, or difficulty in swallowing and retaining oral medications.\n* Patients with an uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, unstable angina pectoris, cardiac arrhythmia, diabetes, hypertension, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Patients with any history of other malignancy unless in remission for more than 1 year. (Nonmelanoma skin carcinoma and carcinoma-in-situ of uterine cervix treated with curative intent is not exclusionary).\n* Patients with symptomatic central nervous system metastasis and/or on systemic steroids or anticonvulsants within 3 months before the first dose of randomized therapy.\n* Patients who are pregnant or breast-feeding.\n* Patients who were previously treated with ASLAN001 and/or with lapatinib.\n* Patients who have received more than 2 lines of any therapies in metastatic stage.\n* Patients who have received any investigational drug (or have used an investigational device) within 21 days or received any antineoplastic monoclonal antibodies within a period of 5 half-lives before receiving the first dose of randomized therapy.\n* Patients with unresolved or unstable serious toxicity from prior administration of another investigational drug and/or prior cancer treatment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

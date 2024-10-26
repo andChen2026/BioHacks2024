@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02806050",
+    "briefTitle": "Palbociclib and FES PET",
+    "officialTitle": "Early Identification of Patients Who Benefit From Palbociclib in Addition to Letrozole",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "The relation between low uptake on FES-PET to response per lesion",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nIn order to be eligible to participate in this study, a subject must meet all of the following criteria:\n\n1. Patients with ER positive (i.e. \\>1% staining), HER2 negative metastatic breast cancer (preferably assessment on fresh metastasis biopsy, alternatively archival metastasis biopsy)\n2. Post-menopausal status defined as:\n\n   * Age \u226560 years\n   * Previous bilateral oophorectomy\n   * Age \\<60 years and amenorrhea for \\>12 months in the absence of interfering hormonal therapies (such as LH-RH agonists and ER-antagonists\n   * Age \\<60 years using ER antagonists should have amenorrhea for \\>12 months and FSH \\>24U/L and LH\\>14U/L\n3. Adequate bone marrow and organ function defined as follows:\n\n   * Absolute neutrophil count \\> 1.5 x 109/L\n   * Platelet count \\>100 x 109/L\n   * White blood cell count \\>3 x 109/L\n   * AST and ALT \\<3.0 x upper limit of normal (ULN) or \\<5 xULN in case of known liver metastases.\n   * Alkaline phosphatase \\<2.5 x ULN\n   * Total serum bilirubin \\< ULN or total bilirubin \\<3.0 x ULN with direct bilirubin within normal range in patients with Gilbert's Syndrome\n   * Creatinine clearance \\>50mL/min\n   * Lipase/amylase \\<1/5 x ULN\n   * Prothrombin time, partial thromboplastin time and INR \\<1.5 x ULN\n4. ECOG performance 0-2\n5. Signed written informed consent\n6. Able to comply with the protocol\n7. Age \u226518 years\n\nExclusion Criteria:\n\nA potential subject who meets any of the following criteria will be excluded from participation in this study:\n\n1. Life expectancy \\< 3 months\n2. Evidence of central nervous system metastases\n3. Presence of life-threatening visceral metastases\n4. Prior use of CDK4/6 inhibitor\n5. Use of estrogen receptor ligands including estrogens, fulvestrant or tamoxifen \\<6 weeks before study entry.\n6. Use of other anticancer therapy \\< 2 weeks prior to start with palbociclib\n7. Concurrent malignancy\n8. Active cardiac disease or a history of cardiac dysfunction\n9. Patient is currently receiving any of the following medications and cannot be discontinued 7 days prior to the start of treatment that are known strong inducers or inhibitors of CYP3A4/5, known risk to prolong the QT interval or induce Torsades de Pointes, or narrow therapeutic window and are predominantly metabolized through CYP3A4/5.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

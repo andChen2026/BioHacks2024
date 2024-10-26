@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04170920",
+    "briefTitle": "Pilot Study of a an App to Improve Medication Adherence in Breast Cancer Survivors Receiving AIs",
+    "officialTitle": "Pilot Study of a Mobile Health Strategy to Improve Medication Adherence in Breast Cancer Survivors Receiving Aromatase Inhibitors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, DCIS",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 62,
+    "primaryOutcomeMeasure": "Participants who use the LifeExtend-AI application 5 or more days per week",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. \u2265 18 years old at the time of informed consent\n2. Regular access to a smartphone capable of downloading the application\n\n   1. iOS 11 or later (iPhone5, iPhone SE or newer)\n   2. Android 6 or later (Android 9 is current version)\n3. History of DCIS, stage I, II, or III invasive breast cancer\n4. Currently prescribed an aromatase inhibitor (letrozole, anastrozole, exemestane) or planned to be initiated on one by the time of signing informed consent. Patient already on an AI must have been prescribed this medication for a total of 36 months or less.\n\n   1. Ovarian suppression with AI is allowed in premenopausal patients.\n   2. Prior SERM and now switching to an AI for the first time is allowed.\n   3. Concurrent trastuzumab, pertuzumab, or TDM1 is allowed.\n   4. Concurrent neratinib or other oral cancer directed medication is not allowed.\n5. ECOG performance status of 0-2\n\nExclusion Criteria:\n\n1. Metastatic breast cancer or other active malignancy\n\n   1. Locally recurrent breast cancer is allowed if treated with surgical excision and AI is prescribed with curative intent.\n   2. History of prior treated malignancies, other than breast cancer, that are now stable, are in remission, and do not require active therapy, are acceptable\n2. Unable to read the English language or otherwise participate in the study procedures in the opinion of the treating investigator.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

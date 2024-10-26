@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01709370",
+    "briefTitle": "Letrozole and CDK 4/6 Inhibitor for ER Positive, HER2 Negative Breast Cancer in Postmenopausal Women",
+    "officialTitle": "Phase II Neoadjuvant Study of Letrozole in Combination With PD0332991 (Oral CDK 4/6 Inhibitor) for ER Positive, HER2 Negative Breast Cancer in Postmenopausal Women",
+    "overallStatus": "UNKNOWN",
+    "conditions": "ER Positive, HER2 Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "Objective response rates",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Postmenopausal women\n* Primary tumor greater than 2 cm in diameter\n* Histologically proven invasive breast cancer\n* Positive estrogen receptor\n* Negative HER-2 receptor\n* ECOG performance status \u2264 1 or Karnofsky performance status \u2265 70%\n* Laboratory values must be follows:\n\nAbsolute neutrophil count \u2265 1,500/mm3; Platelets \u2265 100,000/mm3; Hemoglobin \u2265 9 g/dL; Bilirubin \u2264 1.5 \u00d7 institutional upper limit of normal (ULN); Serum Creatinine \u2264 1.5 \u00d7 ULN; Alkaline phosphatase \u2264 2 \u00d7 ULN; AST and ALT \u2264 2 \u00d7 ULN; Normal finding of ECG - QTc \u2264 470 msec (based on the mean value of the triplicate ECGs); Left ventricular ejection fraction (LVEF) \u2265 60%.\n\n* Able to give written informed consent form\n* Able to follow prescription instructions reasonably well\n\nExclusion Criteria:\n\n* Male\n* Severe psychiatric disorder\n* Prior history of other malignancy within 5 years of study entry, aside from basal cell carcinoma or the skin or carcinoma-in-situ of the uterine cervix\n* Locally advanced breast cancer (T3N1 or Any T4 or Any N2, N3), or distant metastasis\n* Multifocal or multicentric breast cancer except that the largest lesion is greater than 2cm\n* Major surgery within 3 weeks of first study treatment\n* Current use or anticipated need for:\n\nFood or drugs that are known strong CYP3A4 inhibitors; drugs that are known strong CYP3A4 inducers\n\n* Severe cardiovascular diseases in the previous 6 months\n* Active inflammatory bowel disease or chronic diarrhea\n* Renal Impairment\n* Poor adrenal function\n* Hepatitis B and/or hepatitis C carriers (unless with normal hepatic function)\n* Known human immunodeficiency virus infection\n* Known hypersensitivity to anti-aromatase drugs or any cell cycle inhibitor\n* Other severe acute or chronic medical or psychiatric condition, or laboratory abnormality that would impart, in the judgment of the investigator, excess risk associated with study participation or study drug administration, or which, in the judgment of the investigator, would make the patient inappropriate for entry into this study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

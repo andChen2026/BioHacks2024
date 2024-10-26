@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02813317",
+    "briefTitle": "Optimizing the Care Pathways of Patients Treated for Operable Breast.",
+    "officialTitle": "Optimizing the Care Pathways of Patients Treated for Operable Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Surgery",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 617,
+    "primaryOutcomeMeasure": "Care pathways description of early breast cancer patients.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Signed written informed consent.\n2. Patients aged \u226518 years.\n3. Previously untreated, operable breast cancer\n4. Affiliation with the social security system (or a similar coverage)\n5. Patient living in one of these french department : \"Hauts-de-Seine (92)\", \"les Yvelines (78)\", or \"le Val d'Oise (95)\".\n6. Female gender.\n\nExclusion Criteria:\n\n1. Previous history of breast cancer.\n2. Metastatic, locally advanced, or inflammatory breast cancer, as defined by the AJCC (American Joint Committee on Cancer, 7th Edition).\n3. Any prior treatment for primary breast cancer.\n4. Patient with any psychological, sociological or geographical condition potentially hampering compliance with the study follow-up schedule.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

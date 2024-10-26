@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03077841",
+    "briefTitle": "Hypofractionated Partial Breast Irradiation in Treating Patients With Early Stage Breast Cancer",
+    "officialTitle": "Optimizing Preventative Adjuvant Linac-Based Radiation: The OPAL Trial a Phase II/III Study of Hypofractionated Partial Breast Irradiation in Women With Early Stage Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Ductal Breast Carcinoma In Situ, Early-Stage Breast Carcinoma, Invasive Breast Carcinoma, Stage 0 Breast Cancer AJCC v6 and v7, Stage I Breast Cancer AJCC v7, Stage IA Breast Cancer AJCC v7, Stage IB Breast Cancer AJCC v7, Stage II Breast Cancer AJCC v6 and v7, Stage IIA Breast Cancer AJCC v6 and v7, Stage IIB Breast Cancer AJCC v6 and v7",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 928,
+    "primaryOutcomeMeasure": "Risk of grade 2 or higher toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of pathologically-confirmed invasive breast cancer or ductal carcinoma in situ\n* Pathologic T stage of Tis, T1, or T2 with total size of tumor =\\< 3 cm (this size criteria applies to both pure DCIS and invasive tumors)\n* For patients with invasive breast cancer, pathologic N stage of N0, N0 (i-), or N0 (i+); pathologic staging of the axilla is not required for patients with pure DCIS\n* Treatment with breast conserving surgery\n* Unifocal primary tumor based on imaging and clinical assessment; microscopic multifocality is allowed\n* Final surgical margins negative defined as no tumor on ink; lobular carcinoma in situ involving the final surgical margin will be disregarded\n* For invasive cancers, the tumor must be estrogen receptor positive (defined as 10% or greater expression of estrogen receptor)\n* If the patient has a history of a prior non-breast cancer, all treatment for this cancer must have been completed at least one month prior to study registration and the patient must have no evidence of disease for this prior non-breast cancer\n* Patients must be enrolled on the trial within 12 weeks of the later of two dates: the final breast conserving surgical procedure or administration of the last cycle of cytotoxic chemotherapy\n* Final criteria for eligibility established after simulation: The tumor bed can be readily visualized on simulation computed tomography (CT) and is localized to one quadrant or region of the breast that is amenable to partial breast irradiation\n\nExclusion Criteria:\n\n* Tumor invasion of the skin including dermis, chest wall, or pectoralis musculature\n* Any evidence of nodal positivity beyond pathologic stage of pN0(i+)\n* Systemic chemotherapy prior to final breast conserving surgery\n* Patient is pregnant or nursing\n* History of therapeutic irradiation to the breast, lower neck, mediastinum or other area in which there could potentially be overlap with the affected breast\n* History of prior invasive or in situ cancer in either breast\n* Current diagnosis of bilateral breast cancer\n* History of lupus or scleroderma",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

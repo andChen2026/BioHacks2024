@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01555944",
+    "briefTitle": "Prospective Observational Study in Patients With Metastatic Breast Cancer Treated With Anthracyclines",
+    "officialTitle": "Screening and Management of Cardiovascular Risk in Belgian Women Aged > or = 65 Years With Metastatic Breast Cancer Before and After Anthracycline Treatment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "cardiovascular risk factors",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women aged 65 years old or more\n* with confirmed metastatic breast cancer (MBC)\n* who will be treated with anthracyclines in first or second line\n* who have a Karnofsky score at baseline of 50\n* who agree and are able to fill in the EORTC QLQ-C30 questionnaire\n* who gave their informed consent\n\nExclusion Criteria:\n\n* women having contra-Indications for anthracyclines\n* women aged \\< 65 years old\n* with no metastatic breast cancer\n* who will not be eligible for an anthracycline treatment in first or second line MBC\n* who have a Karnofsky less than 50\n* who disagree or are unable to fill in the EORTC QLQ-C30 questionnaire\n* women refusing or not having signed their informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

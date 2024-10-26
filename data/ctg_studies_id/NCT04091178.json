@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04091178",
+    "briefTitle": "Vitamin D Supplementation to Correct the Vitamin D Deficiency for Breast Cancer",
+    "officialTitle": "A PHASE II Multicentric Trial Evaluating a High Dose Vitamin D Supplementation to Correct the Vitamin D Deficiency for Breast Cancer Treated by Adjuvant Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 57,
+    "primaryOutcomeMeasure": "Normalisation of Vitamin D level",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast adenocarcinoma should receive 6 cycles of adjuvant chemotherapy\n* Women \u2265 18 years old (no age limit)\n* Performance status :0 or 1\n* Patients must be affiliated to a Social Security System\n* Signed informed consent obtained before any study specific procedures.\n* Vitamin D deficiency confirmed ( vitamin D result must be \\< at 30 ng/ml)\n\nExclusion Criteria:\n\n* Metastatic disease\n* Patients with previous or concomitant other (not breast cancer) malignancy within the past 5 years EXCEPT adequately treated basal or squamous cell carcinoma of the skin or in situ carcinoma of the cervix. Patients who have had a previous other malignancy must have been disease free for at least five years\n* calcium or colecalciferol contraindications (vitamin D hypersensitivity - disease or an other condition result in hypercalcaemia or hypercalciuria -Calcic lithiasis- high vitamin D level)\n* Presence of the following diseases in the last 3 years : endocrinal disease, A phosphor calcic disorder treated by vitamin D supplementation at 1000 UI/day or more (this patient who have received a dose \\< 1000 UI/day, will be included after have to stop Vitamin D at least 48 hours ) - Osteopenia or osteoporosis confirmed treated\n* Concomittant treatment with an other experimental product\n* Pregnant or breastfeeding women\n* Legal incapacity or physical, psychological or mental status interfering with the patient's ability to sign the informed consent or to terminate the study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01783444",
+    "briefTitle": "A Phase II Study of Everolimus in Combination With Exemestane Versus Everolimus Alone Versus Capecitabine in Advance Breast Cancer.",
+    "officialTitle": "A Three-arm, Randomized, Open Label, Phase II Study of Everolimus in Combination With Exemestane Versus Everolimus Alone Versus Capecitabine in the Treatment of Postmenopausal Women With Estrogen Receptor Positive, Locally Advanced, Recurrent, or Metastatic Breast Cancer After Recurrence or Progression on Prior Letrozole or Anastrozole.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 309,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS) - Everolimus Plus Exemestane Versus Everolimus Alone",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n- Women with locally advanced, recurrent, or metastatic breast cancer along with confirmation of estrogen-receptor positive (ER+). Measurable disease defined as at least one lesion \u2265 10 mm by CT or MRI that can be accurately measured in at least one dimension (CT scan slice thickness \u2264 5 mm) OR \u2022 Bone lesions: lytic or mixed (lytic + blastic) in the absence of measurable disease as defined above.\n\nKey Exclusion Criteria:\n\n- Patients who received more than one chemotherapy line. Patients with only non-measurable lesions other than lytic or mixed (lytic and blastic) bone metastasis.Previous treatment with exemestane, mTOR inhibitors, PI3K inhibitors or AKT inhibitors.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

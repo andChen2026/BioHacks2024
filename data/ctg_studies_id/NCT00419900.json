@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00419900",
+    "briefTitle": "Use of Hair to Diagnose the Presence of Breast Cancer",
+    "officialTitle": "N/A",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "Accuracy (sensitivity and specificity) of the breast cancer test based on detection of an abnormal pattern of hair x-ray diffraction compared to the gold standard of mammography plus biopsy where indicated",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult women (aged \\>20) who are undergoing mammography, and\n* Who are willing and able to provide informed consent; and\n* Who have usable scalp and/or pubic hair\n\nExclusion Criteria:\n\n* Women who have dyed or permed their scalp hair within the previous 6 weeks and whose pubic hair is unavailable;\n* Women with a history of breast cancer ever or other cancers (excluding non-melanoma skin cancer and CIN \\[cervical intra-epithelial neoplasia\\]) within 5 years.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

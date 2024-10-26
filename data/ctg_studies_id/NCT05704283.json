@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05704283",
+    "briefTitle": "3D Ultrasound for the Imaging of Lymph Nodes in Patients With Breast Cancer",
+    "officialTitle": "3D Ultrasound Imaging of the Axillary Lymph Nodes",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Lymph node diagnosis by radiologist (benign or malignant) (Aim 2)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with lymph node biopsy or lymph node clip placement as per routine clinical care.\n* Age of 18 or older.\n\nExclusion Criteria:\n\n* Vulnerable subjects such as prisoners and adults lacking capacity to consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

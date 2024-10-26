@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00944528",
+    "briefTitle": "Single Dose Partial Breast Radiotherapy",
+    "officialTitle": "Single Dose Partial Breast Radiotherapy Using Extra-cranial Radiosurgery in Patients With Early Stage Breast Cancer - a Phase I Dose Escalation Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "Maximum Tolerated Dose",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with a biopsy proven diagnosis of low/intermediate grade ductal carcinoma in situ or invasive ductal (or other favorable histology) carcinoma of the breast\n* Breast preservation candidates (no prior breast or nodal radiotherapy, no imaging evidence of multicentric or multifocal disease, no pregnant women, and no comorbid conditions precluding surgery)\n* Clinical T1N0M0\n* 55 years of age or older\n* Estrogen receptor (ER) positive,\n* No evidence of lymphovascular space invasion on initial biopsy\n* Not pregnant. If not post-menopausal must adhere to birth control measures\n* White blood cell count \\> 3000, Hemoglobin \\> 9, platelets \\>100000\n* Must be eligible for MRI on initial evaluation and GFR at least 60 ml/min\n\nExclusion Criteria:\n\n* Neoadjuvant chemotherapy\n* Breast implants\n* Medical conditions that may increase risk for poor cosmetic outcome (i.e. Lupus, rheumatoid arthritis, scleroderma)\n* Patients unable to receive study treatment planning secondary to body habitus or inability to lie flat on the stomach at length\n* HER-2/neu positive\n* Positive serum pregnancy test",
+    "sex": "FEMALE",
+    "minimumAge": "55 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

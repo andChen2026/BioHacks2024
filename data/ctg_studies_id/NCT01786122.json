@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01786122",
+    "briefTitle": "Clinical Trial: Effectiveness and Efficiency of Physical Exercise in Cancer Patients",
+    "officialTitle": "PHYSICAL EXERCISE TO IMPROVE THE QUALITY OF LIFE OF CANCER PATIENTS DURING TREATMENT PROCESS: EFICANCER STUDY",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Non-Small-Cell Lung Carcinoma, Digestive System Neoplasms, Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 250,
+    "primaryOutcomeMeasure": "Changes in Health Related Quality of Life (EORTC QLQ-C30)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age between 18-70 years\n* Diagnosis of digestive system cancer , breast cancer or histologically confirmed NSCLC stage IV Physical Status (PS) 0 or 1.\n* First-line chemotherapy treatment for each type of standard tumor\n* Adequate renal, liver and blood function.\n\nExclusion Criteria:\n\n* Brain metastases\n* Risk of fracture (bone metastases)\n* Unstable heart disease, uncontrolled BP Systolic Blood Pressure((SBP)\\> 200 or Diastolic Blood Pressure (DBP)\\> 110), heart failure (NYHA II or greater), constrictive pericarditis\n* Other diseases at the discretion of the investigator to be a contraindication for physical exercise.\n* Perform regular physical activity (150 minutes / week of moderate or vigorous 75)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

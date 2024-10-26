@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03771833",
+    "briefTitle": "M5 vs. M6 Comparison Study With a Sub Study Into the Dielectric Constant of Aspirated Cyst Fluid",
+    "officialTitle": "Comparison of M5 and M6 Versions of the MARIA Imaging System on Patients Attending Symptomatic Breast Clinic in Cheltenham, United Kingdom (UK), Including a Sub-study to Research the Dielectric Constant of Aspirated Cyst Fluid",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cyst, Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 22,
+    "primaryOutcomeMeasure": "Establish the presence or absence of a difference in the MARIA(R) outputs obtained with M5 and M6 when the participants is not moved between scans and when they are moved between scans",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* attending a symptomatic breast care clinic at the study site\n* have a palpable lump in the breast\n* female sex\n* 18 years or older\n* able to provide informed consent\n* not in any identified vulnerable group\n\nExclusion Criteria:\n\n* unable to mount MARIA patient bed using provided 2-step\n* unable to lie in the prone position for a period of up to 15 minutes\n* patient who have undergone biopsy less than 5 days before the MARIA scan\n* patient with implanted electronics\n* patient with breast implants\n* patients with nipple piercings (unless they are removed prior to the MARIA scan)\n* breast size too small or too large to be suitable for both arrays\n\nFurther:\n\n* participants with a large cyst or cysts that require draining at their clinical appointment will not be eligible for Arm 1, as the procedure to drain their cyst will change the appearance of the cyst from the imaging that they have done that day to the MARIA image obtained around 10 days later\n* Arm 1 and 2 are mutually exclusive",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

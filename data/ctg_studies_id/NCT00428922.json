@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00428922",
+    "briefTitle": "Trastuzumab (Herceptin), Bevacizumab, and Docetaxel (Taxotere) Trial in Stage IV Metastatic Breast Cancer (MBC) Patients",
+    "officialTitle": "Phase II Trial of Trastuzumab (Herceptin), Bevacizumab, and Docetaxel (Taxotere) Trial in Stage IV Metastatic Breast Cancer (MBC) Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "Progression-free Survival (PFS) and to Evaluate Safety of the Trastuzumab, Bevacizumab and Docetaxel Regimen.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed breast cancer with evidence of metastatic disease\n* HER2 3+ or FISH (fluorescent in situ hybridization)+\n* Age \u2265 18 years\n* No prior trastuzumab, except as given in the adjuvant or neoadjuvant setting.\n* No prior chemotherapy in the metastatic setting.\n\nExclusion Criteria:\n\n* CNS (central nervous system) metastases\n* Prior radiation therapy within the last 4 weeks\n* Pregnant (positive pregnancy test) or lactating women\n* Major surgical procedure, open biopsy, non-healing wounds, or significant traumatic injury within 28 days prior to starting study or anticipation of need for major surgical procedure during the study\n* Minor surgical procedures such as fine needle aspirations or core biopsies within 7 days prior to start of study.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

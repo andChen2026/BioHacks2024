@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01304251",
+    "briefTitle": "Effects of Short-term Fasting on Tolerance to Chemotherapy",
+    "officialTitle": "Effects of Short-term Fasting on Tolerance to Adjuvant Chemotherapy in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 13,
+    "primaryOutcomeMeasure": "chemotherapy-induced neutropenia",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female breast cancer patients, receiving adjuvant TAC-chemotherapy\n* Age \u2265 18 years old\n* WHO performance status 0-2\n* Adequate bone marrow function: white blood cells (WBCs) \u2265 3.0 x 109/l, neutrophils \u2265 1.5 x 109/l, platelets \u2265 100 x 109/l\n* Adequate liver function: bilirubin \u2264 1.5 x upper limit of normal (UNL) range, ALAT and/or ASAT \u2264 2.5 x UNL, Alkaline Phosphatase \u22645 x UNL\n* Adequate renal function: the calculated creatinine clearance should be \u2265 50 mL/min\n* Survival expectation \\> 3 months\n* Patients must be accessible for treatment and follow-up\n* Written informed consent according to the local Ethics Committee requirements\n\nExclusion Criteria:\n\n* Serious other diseases such as recent myocardial infarction, clinical signs of cardiac failure or clinically significant arrhythmias\n* Diabetes Mellitus\n* body mass index (BMI) \\< 19 kg/m2\n* Pregnancy or lactating\n* Medical or psychological condition which in the opinion of the investigator would not permit the patient to complete the study or sign meaningful informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

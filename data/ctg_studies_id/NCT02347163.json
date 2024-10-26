@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02347163",
+    "briefTitle": "Pre-operative Zoledronate in Triple Negative Breast Cancer",
+    "officialTitle": "A Multicenter, Single-arm, Phase II Study to Evaluate the Activity of Pre-operative Zoledronate in Triple Negative Breast Cancer Patients, According to p53 Level",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 22,
+    "primaryOutcomeMeasure": "Assessment of zoledronate effect on Ki67 proliferative surrogate biomarker expression, according to p53 expression",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of non-metastatic operable primary invasive TN breast cancer subjected to diagnostic core biopsy\n* TNBC defined as HER2/ER/PgR negative receptors\n* Ki67 and p53 expression determined by IHC\n* Tumour tissue availability at time of diagnosis for IHC evaluation of p53/PIN1, YAP/TAZ and Ki67 protein expression and for RT-PCR molecular testing of critical genes: p53/PIN1, YAP/TAZ\n* Age \u2265 18 years old\n* ECOG (Eastern Cooperative Oncology Group) performance status \u2264 1\n* Patients with reproductive potential. Female patients must have a negative serum pregnancy test within 7 days prior to start of trial. Patients must agree to use a medically acceptable method of contraception throughout the treatment period and for 3 months (female patients) and 6 months (male patients) after discontinuation of treatment\n* Written informed consent signed prior to enrolment according to ICH/GCP.\n\nExclusion Criteria:\n\n* Presence of metastatic disease\n* Clinical indication of debulking neo-adjuvant treatment\n* Previous investigational treatment for any condition within 4 weeks from study registration\n* Treatment with bisphosphonates, denosumab or other drug that, in the Investigator's judgment, affects bone metabolism\n* Treatment with statins or other drugs that, in the Investigator's judgment, potentially affect the mevalonate pathway\n* Any previous treatment for the currently diagnosed breast cancer, including radiation therapy, chemotherapy, biotherapy and/or hormonal therapy\n* Inadequate bone marrow, hepatic or renal function including the following\n\n  1. Hb\\< 9.0 g/dL, absolute neutrophil count \\< 1.5 x 109/L, platelets \\<100 x 109/L\n  2. Total bilirubin \\> 1.5 x ULN, excluding cases where elevated bilirubin can be attributed to Gilberts Syndrome\n  3. AST (SGOT), ALT (SGPT) \\> 2.5 x ULN Creatinine \\> 1.2 x ULN, calcium \\<8.6mg/dL\n* Co-existing active infection or serious concurrent illness that, at the judgment of the investigator, contra-indicate the inclusion of the patient in the study\n* Co-existing dental diseases that form a contraindication to the use of zol or need for immediate dental work\n* Any medical or other condition that in the investigator's opinion renders the patient unsuitable for this study due to unacceptable risk\n* Psychiatric disorders or altered mental status precluding understanding of the informed consent process and/or completion of the necessary study assessment and procedures\n* Anticipation of need for major surgical procedure during the course of the trial\n* Known hypersensitivity to any excipients of zoledronate\n* Pregnant or breast feeding women.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

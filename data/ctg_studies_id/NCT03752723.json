@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03752723",
+    "briefTitle": "Study of GX-I7 in Combination With Pembrolizumab in Refractory or Relapsed (R/R) TNBC Subjects(GX-I7-CA-006/KEYNOTE-899)",
+    "officialTitle": "A Phase 1b/2, Open Label, Dose Escalation Study to Evaluate Safety, Tolerability, Pharmacodynamics and Antitumor Activity of GX-I7 in Combination With Pembrolizumab in Subjects With Refractory or Relapsed (R/R) TNBC",
+    "overallStatus": "COMPLETED",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 84,
+    "primaryOutcomeMeasure": "Incidence and nature of DLTs",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n1. Triple negative must be defined as guidelines of American Society of Clinical Oncology(ASCO)/ College of American Pathologist(CAP): Estrogen Receptor (ER) \\< 1% positive tumor nuclei, Progesterone Receptor (PR) \\< 1% positive tumor nuclei, and negative for HER2 by IHC 1+, 0 or negativity status confirmed by in situ hybridization (ISH).\n2. Subject must have received anthracycline and taxane based chemotherapy for TNBC\n3. Has measurable disease as defined by RECIST 1.1 as assessed by the the local site Investigator/radiology.\n4. Female subjects, age \u2265 19 years at the time of consent.\n\nKey Exclusion Criteria:\n\n1. Known severe hypersensitivity (\u2265 Grade 3) to pembrolizumab, pembrolizumab formulation excipients or GX-I7 formulation excipients or cyclophosphamide formulation.\n2. Has received prior therapy with an anti-PD-1, anti-PD-L1, or anti-PD-L2 agent or with an agent directed to another co-inhibitory T-cell receptor (ie, CTLA-4, OX-40, CD137) or has previously participated in a Merck pembrolizumab (MK-3475) clinical trial.",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

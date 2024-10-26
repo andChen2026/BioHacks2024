@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02281812",
+    "briefTitle": "Radiofrequency Ablation in Breast Cancer",
+    "officialTitle": "Impact of Radiofrequency Ablation on Surgical Margins in Early Stage of Malignant Breast Tumors",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Intraoperative free margins (distance between the tumor and the margin in order to indicate if extensions are mandatory.)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast single tumor,\n* Clearly visible by ultrasound,\n* Diameter \\< 2 cm\n* Located \\>1 cm from the chest wall and skin;\n* Ductal carcinoma according to previous biopsy,\n* \\< 20% of intraductal carcinoma\n\nExclusion Criteria:\n\n* Breast cancer in men;\n* Personal history of ipsilateral breast cancer;\n* Age \\<40 years;\n* Pregnancy or breastfeeding;\n* Suspicion of intraductal extension or multifocality by mammography or MRI;\n* Tumour not visible by ultrasound;\n* Diameter \\> 2 cm;\n* Distance to muscle or skin \\<1 cm;\n* Lobular carcinoma;\n* Intraductal carcinoma in \\> 20% of the biopsy sample\n* Patients undergoing neoadjuvant chemotherapy or hormonotherapy.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03804255",
+    "briefTitle": "Assessment of Current Biomarker Testing Practices for Common Solid Cancers in Precision Oncology in the Community Setting",
+    "officialTitle": "Biomarker Testing in Common Solid Cancers: An Assessment of Current Practices in Precision Oncology in the Community Setting",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Carcinoma, Colorectal Carcinoma, Community Practice, Lung Carcinoma, Melanoma, Solid Neoplasm",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Presence of reflexive testing protocols for guideline-recommended biomarkers",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The study population is all onsite pathology practices within NCORP components and subcomponents that provide services to adult oncology groups.\n* An onsite pathology practice is a laboratory (lab) that is financially administered and operated by an NCORP component or subcomponent. This excludes commercial reference laboratories, such as Quest and LabCorp. To describe biomarker testing practices across NCORP components/subcomponents, we will use the pathology practice as the unit of analysis. Participating components/subcomponents should meet \\[element A\\] AND \\[at least one element of B OR C OR D\\] AND element E.\n\n  * A) NCORP component/subcomponent provides services to adult oncology groups.\n  * B) A single onsite pathology lab (and its set of testing practices), may provide biomarker/pathology testing services to one or more components or subcomponents. Irrespective of the number of components/subcomponents that use this pathology lab, we will consider this as one pathology practice, and one unit of analysis.\n  * C) Several onsite pathology labs may provide services to one NCORP component or subcomponent, e.g. if the NCORP component or subcomponent represents a health system with several hospitals, and each hospital may have its own onsite pathology lab, with each pathology lab following its own set of testing practices. Therefore, each lab will represent one pathology practice and one unit of analysis.\n  * D) More than one onsite pathology lab may use a common set of testing practices and provide services to one or more NCORP components or subcomponents. Given common testing practices, we will consider these labs as one pathology practice, and one unit of analysis.\n  * E) The pathology practice has an informed individual who is willing to serve as a representative and gather information to complete the assessment items. This person typically is the pathology practice medical director, pathology practice administrative director and/or their designees.",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

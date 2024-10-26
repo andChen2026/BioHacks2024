@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00657137",
+    "briefTitle": "APRiCOT-B: Study to Evaluate Apricoxib in Combination With Lapatinib and Capecitabine in the Treatment of HER2/Neu+ Breast Cancer (TP2001-202)",
+    "officialTitle": "A Phase 2 Study of the Efficacy and Safety of Apricoxib in Combination With Lapatinib and Capecitabine in the Treatment of Patients With HER2/Neu+ Breast Cancer Who Have Failed Trastuzumab and Chemotherapy Including a Taxane",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 12,
+    "primaryOutcomeMeasure": "To determine the anti-tumor activity of the combination of apricoxib/lapatinib-capecitabine compared with placebo/lapatinib-capecitabine as measured by time to disease progression.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females with pathologically determined locally advanced or metastatic human epidermal growth factor receptor 2 positive (HER2/neu+) breast cancer\n* Have progressed after treatment with chemotherapy including a taxane and trastuzumab\n* Must have measurable disease by RECIST\n* ECOG PS of 0,1, or 2\n* MUGA scan or echocardiogram results show left ventricular ejection fraction greater than or equal to 50%\n\nExclusion Criteria:\n\n* Radiation therapy within 2 weeks, chemotherapy within 3 weeks, or noncytoxic investigational agents within 4 weeks of initiating study treatment\n* Evidence of New York Heart Association class III or greater cardiac disease\n* History of MI, stroke, ventricular arrhythmia, or symptomatic conduction abnormality\n* History of congenital QT prolongation\n* Concurrent severe or uncontrolled medical disease\n* Symptomatic central nervous system metastases\n* Pregnant or nursing women\n* Hypersensitivity or intolerance to apricoxib, lapatinib, capecitabine, 5-FU, sulfonamides, aspirin, or NSAIDs\n* Severe renal insufficiency\n* History of upper GI bleeding, ulceration, or perforation- Concurrent use of potent CYP3A4 inhibitors and CYP3A4 inducers\n* Prior treatment with capecitabine\n* Patients on anti-arrhythmic treatment\n* Prior lapatinib therapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

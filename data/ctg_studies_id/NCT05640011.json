@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05640011",
+    "briefTitle": "Clinical Validation of an Artificial Intelligence Algorithm to Help Interpret Mammograms",
+    "officialTitle": "Clinical Validation of an Artificial Intelligence Algorithm to Help Interpret Mammograms",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Evaluate the diagnostic performance (sensitivity, specificity) for operator tumor detection assisted by mammographic diagnostic aid software, and compare it to the diagnostic performance of an unassisted operator.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult woman (40 to 75 years old)\n* Treatment at the University Hospitals of Strasbourg between 2010 and 2020 for breast cancer\n* including mammography and histological evidence available\n* Patient who has already given her consent for the reuse of her anonymous data for research purposes\n\nExclusion Criteria:\n\n* Woman who expressed her opposition to participating in the study",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

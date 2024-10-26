@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04036370",
+    "briefTitle": "Continuous Pectoral Nerve Block in Breast Cancer Surgery",
+    "officialTitle": "The Effect of Continuous Pectoral Nerve Block on Postoperative Analgesia Consumption in Breast Cancer Surgery",
+    "overallStatus": "COMPLETED",
+    "conditions": "Nerve Blocks, Breast Surgery, Postoperative Pain",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 48,
+    "primaryOutcomeMeasure": "analgesia consumption",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* American Society of Anesthesiology (ASA) I-II\n* 18-65 years\n* Body mass index (BMI) \u226440 kg/m2\n* Elective breast cancer surgery\n\nExclusion Criteria:\n\n* ASA \u22654\n* under 18 years of age or over 65 years of age\n* declining to give written informed consent\n* history of allergy to the local anesthetics\n* contraendications of peripheral block or local anesthetic infiltration (local infection, coagulopathy, etc)\n* history of breast surgery\n* treatment due to psychiatric disorder\n* history of treatment for chronic pain\n* history of nerve blocks in order to treat postoperative pain",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

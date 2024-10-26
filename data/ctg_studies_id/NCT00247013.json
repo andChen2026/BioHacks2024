@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00247013",
+    "briefTitle": "Automated Tele Counseling for Screening Mammography",
+    "officialTitle": "Automated Tele Counseling for Screening Mammography",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2120,
+    "primaryOutcomeMeasure": "Number of women who have repeat screening mammogram",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Ages 50-74\n* A recent (within the last 6 months) negative screening mammogram\n\nExclusion Criteria:\n\n* Lack a permanent address or planning to move from the Boston area during the study period\n* No home telephone or no touch tone service\n* Cannot use a telephone unassisted\n* Cannot understand conversational English over the telephone\n* Major medical illness that would preclude participation\n* History of breast cancer\n* Mammography or other breast diagnostic procedures (except CBE) or therapeutic procedures since the last screening mammogram\n* Another member of household enrolled in the study (to eliminate possible study contamination)",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

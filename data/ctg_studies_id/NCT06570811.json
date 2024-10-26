@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06570811",
+    "briefTitle": "Coenzyme Q10 and Chemotherapeutic Toxicity in Breast Cancer Patients",
+    "officialTitle": "Effect of Coenzyme Q10 (COQ10) on Chemotherapeutic Toxicity in Cancer Patients",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Chemotherapeutic Toxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Clinical assessment of the possible effect of COQ10 on some of the expected paclitaxel adverse events using grading system provided by Common Terminology Criteria for Adverse Events (CTCAE) version 5 (V5)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. women with newly diagnosed breast cancer r \u226518 years old.\n2. Naive to chemotherapy.\n3. Eastern Cooperative Oncology Group (ECOG) performance status from 0-2\n\nExclusion Criteria:\n\n1. Advanced liver disease (defined as liver enzyme elevation \\>3-fold upper limit of normality, or cirrhosis); chronic kidney disease (CKD, defined as an estimated glomerular filtration rate (eGFR) \\<60 ml min-1 1.73 m-2).\n2. Patients with a history of allergy to Coenzyme Q10 and similar compounds.\n3. Concomitant use of opioids, anticonvulsants, tricyclic antidepressants, other neuropathic pain medication.\n4. Pregnancy or breast feeding.\n5. hereditary muscle disorders.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03878823",
+    "briefTitle": "Safety and Pharmacokinetics of ODM-209",
+    "officialTitle": "Safety and Pharmacokinetics of ODM-209 in Patients With Metastatic Castration-resistant Prostate Cancer or Estrogen Receptor-positive, Human Epidermal Growth Factor Receptor 2-negative Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Prostate Cancer Metastatic, Advanced Breast Cancer, Castration-resistant Prostate Cancer, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 38,
+    "primaryOutcomeMeasure": "Maximum tolerated dose (MTD)",
+    "eligibilityCriteria": "MAIN INCLUSION CRITERIA:\n\n* Written informed consent (IC) obtained.\n* Age \u2265 18 years.\n* ECOG performance status 0-1.\n* Adequate marrow, liver and kidney function.\n* Able to swallow study treatment.\n\nMain Prostate cancer specific inclusion criteria:\n\n* Histologically confirmed adenocarcinoma of the prostate.\n* Castration resistant prostate cancer with serum testosterone \\< 50 ng/dl.\n* Metastatic disease.\n* Ongoing androgen deprivation therapy with GnRH analogue, or have had bilateral orchiectomy.\n* Have had treatment with at least one line of second generation androgen receptor targeting therapy and one line of chemotherapy.\n\nMain Breast cancer specific inclusion criteria:\n\n* Histologically confirmed breast carcinoma\n* ER positive, HER2-negative advanced breast cancer\n* Postmenopausal or pre/perimenopausal if amendable to be treated with GnRH agonist or antagonist.\n* Documented disease progression after treatment with at least 2 lines of systemic treatment for advanced breast cancer. Of these, at least one line must have been endocrine treatment in combination with a cdk4/6 inhibitor.\n\nMAIN EXCLUSION CRITERIA\n\n* History of pituitary dysfunction.\n* Known brain metastases or active leptomeningeal disease.\n* Active infection or other medical condition that would make corticosteroids contraindicated.\n* Hypotension or uncontrolled hypertension.\n* Clinically significant cardiovascular disease, e.g. myocardial infarction, arterial thrombotic events, or pulmonary embolism in the past six months, unstable angina, or congestive heart failure (New York Heart Association \\[NYHA\\] class II-IV).\n* Prolonged QTcF interval.\n* Use of any investigational drug 4 weeks prior to the start of the study treatment.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

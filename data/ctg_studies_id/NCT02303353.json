@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02303353",
+    "briefTitle": "Data Base Project for Acquisition of Cancer Patient Data in Practices and Ambulant Therapy",
+    "officialTitle": "Data Base Project for Acquisition of Cancer Patient Data in Practices and Ambulant Therapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "Anti-cancer treatments (Course of the disease and type of applied anti-cancer therapies. Assessment of guidelines' implementation)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 18 years and older\n* Tumor disease (carcinoma of either breast, ovary, lung, colon, stomach, pancreas, rectum or plasmacytoma)\n* Written informed consent\n\nExclusion Criteria: none",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

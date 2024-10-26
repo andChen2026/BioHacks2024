@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01975142",
+    "briefTitle": "Validity of HER2-amplified Circulating Tumor Cells to Select Metastatic Breast Cancer Considered HER2-negative for Trastuzumab-emtansine (T-DM1) Treatment.",
+    "officialTitle": "Validity of HER2-amplified Circulating Tumor Cells to Select Metastatic Breast Cancer Considered HER2-negative for Trastuzumab-emtansine (T-DM1) Treatment.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer, HER2 Negative Primary Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 155,
+    "primaryOutcomeMeasure": "Tumor response rate to T-DM1 in patients with HER2 amplified circulating tumor cells",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nInclusion criteria for screening:\n\n* Breast adenocarcinoma considered HER2-negative on the primary tumour or unknown status HER2\n* A least one metastatic site and/or inoperable loco-regional relapse\n* Measurable disease (RECIST v1.1)\n* Age from 18 to 75 years\n* Performance status of 0-2\n* Efficient contraceptive in non-menopause women\n\nInclusion criteria for treatment :\n\n* At least 1 (Cohort \" L \") or 3 (cohort \" H \") HER2 amplified CTC\n* Performance status of 0-2\n* Adequate cardiac function\n* Adequate hematological and biochemical blood tests\n\nExclusion Criteria:\n\n* Life expectancy of less than 3 months\n* Previous history of any other stage III or IV invasive cancer\n* Male breast cancer\n* Uncontrolled brain metastases\n* Significant cumulated exposure to anthracyclines\n* Current or previous significant history of cardio-vascular/pulmonary disease\n* Previous use of trastuzumab",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

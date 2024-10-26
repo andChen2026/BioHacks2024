@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06277141",
+    "briefTitle": "The Vitality Mammography Messaging Study",
+    "officialTitle": "The Vitality Mammography Study - Testing the Effectiveness of a Booking Platform on Receipt of Screening Mammography - a Randomized Controlled Trial.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 7655,
+    "primaryOutcomeMeasure": "Comparison of mammography screening rates using WhatsApp",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females aged 50 to 75 years, who are members of the Discovery Health Medical Plan and who are also members of Vitality and who have not had a screening mammogram in the preceding three years and who have not previously been diagnosed with breast cancer.\n\nExclusion Criteria:\n\n* CPA Blocks\n* If member's address location, based on their Discovery profile, was further than 5km radius to the Radiologist practice",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

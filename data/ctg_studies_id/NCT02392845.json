@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02392845",
+    "briefTitle": "A Pilot Dose Escalation Trial of a Densified Chemotherapy Association of Docetaxel and Epirubicin Driven by Mathematical Modeling in Metastatic Breast Cancer Patients: The MODEL1 Study",
+    "officialTitle": "A Pilot Dose Escalation Phase I Trial of a Densified Chemotherapy Association of Docetaxel and Epirubicin Driven by Mathematical Modeling in Metastatic Breast Cancer Patients: The MODEL1 Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 17,
+    "primaryOutcomeMeasure": "Assessment of the risk of Dose-limiting Toxicities",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 years,\n* ECOG performance status \u2264 2\n* Diagnosed with metastatic HER2-negative hormone-resistant chemotherapy-naive breast cancers, previous adjuvant chemotherapy treatment are allowed.\n* Histologically or cytologically proven breast cancer metastases or associated with CA 15-3 levels 50% above the normal value\n* Hormone resistance defined by the presence of negative hormone receptors or disease progression within 6 months of the initiation of hormone therapy.\n* Adequate renal and liver function (ASAT and ALAT \\< twice the upper limit normal value (ULN) if no liver metastases, or \\< 4\u00d7ULN if liver metastases; total bilirubin \\< 2\u00d7ULN),\n* Adequate cardiac function (left ventricular ejection fraction (LVEF) \\> 50%),\n* Neutrophils \u2265 1200/mm3\n* Platelets \u2265 105/mm3\n\nExclusion Criteria:\n\n* Cerebral metastases and meningeal involvement,\n* Other malignant diseases,\n* Significant comorbidities,\n* Previous chemotherapy for metastatic disease, or previous chemotherapy with a total cumulative dose greater than 600 mg/m\u00b2 for EPI or greater than 450 mg/m\u00b2 for DTX",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

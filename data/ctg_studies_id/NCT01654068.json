@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01654068",
+    "briefTitle": "Conformal High Dose Intensity Modulated Radiation Therapy for Disease to Thoracic and Lumbar Spine",
+    "officialTitle": "Conformal High Dose Intensity Modulated Radiation Therapy for Asymptomatic Metastatic Disease to the Thoracic and Lumbar Spine",
+    "overallStatus": "TERMINATED",
+    "conditions": "Vertebral Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 14,
+    "primaryOutcomeMeasure": "Time to Any Skeletal Related Event",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological confirmation of malignancy (non-small cell lung cancer, breast cancer (hormone refractory), prostate cancer (hormone refractory), lymphoma, renal cell carcinoma, myeloma by either biopsy or cytology of the primary or metastatic lesion.\n* Patients must have radiological documentation of metastatic disease to the thoracic or lumbar spine including both positron emitted tomography (PET) or nuclear medicine bone scan (NMBS) and Magnetic Resonance Imaging (MRI) within 4 weeks prior to study entry.\n* Patients with one to three spinal metastases to the thoracic or lumbar spine will be included.\n* Spinal metastatic lesions should be limited to one vertebral body level or \u2264 6cm in greatest dimension.\n* Tumors should not directly abut the spinal cord, and have at least 5mm separation from the spinal cord. For patients with tumors closer than 5mm, inclusion is permissible at the discretion of the treating radiation oncologist such that dosimetric review demonstrates that the total dose to spinal cord is within tolerable range of \\<10Gy to 10% partial volume or max point dose 18 Gy.\n* Patients must be able to fit into either the Elekta Stereotactic Body Frame or the Elekta Stereotactic BodyFix immobilization device.\n* Must be \u2265 18 years of age.\n* ECOG status 0-2.\n* Women of childbearing potential and male participants must use an effective contraception method. (Until at least 60 days following treatment.)\n* Negative urine pregnancy test within at least one week before starting treatment in women of child-bearing age.\n* Patients must sign a study-specific informed consent form.\n\nExclusion Criteria:\n\n* Patients with evidence of spinal instability OR neurologic deficit resulting from bony compression of neurologic structures.\n* Patients with other systemic illness, or have not recovered adequately from their primary treatment or who have evidence of progression of their current cancer prior to therapy that, in the investigator's opinion, would preclude their inclusion.\n* Patient may not receive concomitant cytotoxic anti-neoplastic therapy during treatment. Patients may be allowed to use hormonal suppression therapy or bisphosphonates for hypercalcemia.\n* Pregnant or lactating women.\n* Any patient with symptoms of pain, compression fracture, neurologic deficit will not be included.\n* Patients previously treated with radiation therapy to the thoracic or lumbar spinal levels of involved disease will not be included.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

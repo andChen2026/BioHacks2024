@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05396118",
+    "briefTitle": "Simultaneous Hyperpolarized [1-13C]Pyruvate and 18F-FDG PET/MRS in Cancer Patients",
+    "officialTitle": "Phase IIa Clinical Trial: Feasibility Study on Non-Invasive Simultaneous Hyperpolarized [1-13C]Pyruvate Magnetic Resonance Spectroscopy and 18F-FDG PET (hyperPET) for Metabolic Imaging in Patients With Cancer",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Breast Cancer, Neuroendocrine Tumors, Neuroendocrine Carcinoma, Neuroendocrine Carcinoma Metastatic, Lymphoma, Sarcoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "Whole-tumor lactate/pyruvate ratio measured with MRS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosed with breast cancer, gastro-entero-pancreatic neuroendocrine neoplasms (GEP-NEN) grades G1, G2 or G3, lymphoma or sarcoma\n* Measurable solid tumor of at least 1.5 cm\n* Capable of understanding the patient information in Danish and giving full informed consent\n\nExclusion Criteria:\n\n* Pregnancy\n* Breast-feeding\n* Weighs above 140 kg and/or with abdominal circumference exceeding the gantry of the PET/MR coil (120 cm)\n* History of allergic reaction attributable to compounds of similar chemical or biologic composition to 18F-FDG or pyruvate\n* Patients who are unable to lie in the MR scanner for up to 90 minutes\n* Pace-maker\n* Metallic implantations within the past 6 weeks\n* Non-MR compatible implants\n* Claustrophobia\n* Participants who have not fasted for a minimum of 4 hours prior to the planned scan time",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

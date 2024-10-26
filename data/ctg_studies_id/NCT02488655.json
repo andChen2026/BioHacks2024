@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02488655",
+    "briefTitle": "Treatment of Breast Fibroadenoma With FastScan HIFU",
+    "officialTitle": "Treatment of Breast Fibroadenoma With FastScan High Intensity Focused Ultrasound (HIFU)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Fibroadenoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "Number of participants with adverse events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients 18 years or older with one diagnosed breast fibroadenoma.\n* Diagnosis of fibroadenoma must be based on :\n\n  * clinical examination,\n  * ultrasound image alone for patients under 35 years old. For women older than 35 years, a mammogram will be performed in addition to ultrasound. The BI-RADS (Breast Imaging, Reporting and Data System) score of this mammogram must be less than 3.\n  * histologic confirmation after core needle biopsy by two independent readers (biopsy must be performed at least two weeks before therapy unless a microbiopsy has been already done less than 3 months before inclusion visit and histopathology slices are available).\n* The requirements for the distance from the skin and the following regions of the fibroadenoma are:\n\n  * \u2264 23 mm from the posterior border of the fibroadenoma\n  * \u2265 5 mm from the anterior border of the fibroadenoma\n  * \u2265 11mm from the focal point of the HIFU treatment. These criteria shall be evaluated immediately prior to treatment once breast is immobilized and potentially compressed\n* The rib cage should not be in the prefocal ultrasound path or behind the target fibroadenoma (minimum distance behind the focal point= 10 mm). This criterion shall only be reached in treatment conditions, once breast is immobilized and potentially compressed.\n* Patient's fibroadenoma is 1 cm or greater at its largest dimension\n* Fibroadenoma is palpable\n* Patient has signed a written informed consent.\n\nExclusion Criteria:\n\n* Patient who is pregnant or lactating.\n* Patient with a BI-RADS score \\> 2 at the mammogram, or presence of microcalcifications within the lesion.\n* Patient with history of breast cancer or history\n* Patient with history of laser or radiation therapy to the target breast\n* Patient with breast implants in the target breast\n* Patient with a breast cyst\n* Patient's fibroadenoma not clearly visible on the ultrasound images (in B mode) at the inclusion visit\n* Patient participating in other trials using drugs or devices.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

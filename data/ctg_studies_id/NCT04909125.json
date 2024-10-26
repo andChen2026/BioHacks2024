@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04909125",
+    "briefTitle": "Breast Fractionation Study - Standard Versus Investigational Fractionation Trial - Nodal Radiation",
+    "officialTitle": "Standard Versus Investigatioinal Fractionation Trial - Nodal Radiation",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Post Mastectomy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 132,
+    "primaryOutcomeMeasure": "Fatigue",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 years and older\n* ECOG performance status 0-2\n* Ability to understand and willingness to sign a written informed consent document\n* Stage pT1-3, pN0-3, M0 histologically proven breast cancer no matter the status of ER/PR/HER2 receptor testing\n* Managed with either mastectomy or breast conserving surgery\n* Suitable for radiation therapy to the breast/chest wall and regional lymph nodes\n* Neoadjuvant and adjuvant systemic therapy with chemotherapy, endocrine therapy and anti-HER2 therapy is accepted\n* Neoadjuvant radiotherapy (reverse sequencing) accepted\n* Breast implants and expanders are accepted\n* Patients with connective tissue disease are allowed if the treating radiation oncologist finds radiation therapy indicated\n* Life expectancy minimum 10 years\n* Patients with non-breast malignancies are accepted if the patient has been disease free for five years and/or has a low risk of recurrence as estimated by the treating radiation oncologist (to be determined at initial patient appointment)\n\nExclusion Criteria:\n\n* Prior radiotherapy to the ipsilateral breast or chest wall\n* Pregnancy or lactation\n* Radiosensitivity syndrome\n* Permanent pacemaker/defibrillator within radiotherapy field\n* Oncoplastic surgery where boost volume unacceptable (clinician discretion)\n* Conditions indicating that the patient cannot go through radiation therapy or follow up, or a condition where the treating oncologist thinks the patient should not participate in the trial (for example, language barriers)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

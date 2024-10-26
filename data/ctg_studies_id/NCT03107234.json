@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03107234",
+    "briefTitle": "Involvement of the Inositol-trisphosphate Receptor in Invasive or Migratory-type Breast Cancers",
+    "officialTitle": "Involvement of the Inositol-trisphosphate Receptor in Invasive or Migratory-type Breast Cancers",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Inosine Triphosphatase",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Level of expression of IP3R3 defined by an immunohistochemical score",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* CCI / CLI to be operated\n* Grade SBR 1, 2 or 3\n* Undifferentiated RE / PR status\n* HER2 status undifferentiated\n* Ki 67 indifferent\n* Metastatic or not\n* ADP axillary invaded or not\n* Major Patients\n\nExclusion Criteria:\n\n* CIC / CIL\n* Males",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01597999",
+    "briefTitle": "Benefits of Breast MRI for Predicting of Histopathologic Cell Type of Small Breast Cancer",
+    "officialTitle": "Accuracy of Magnetic Resonance Imaging (MRI) in Predicting Aggressiveness of Early Breast Cancer According to Molecular Subtypes Identified by ER PR and HER-2 Status",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Invasive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "study the benefits of DCE-MRI using Gadovist in prognostic determination of early invasive breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with invasive ductal carcinoma\n* Patients undergoing DCE-MRI scan which are assessed according to BI-RADS lexicon\n* Breast cancer patients with pathological diagnosed invasive ductal carcinoma with hormonal receptor (ER, PR and HER-2) response\n* Patients who have signed on informed consent form Patients will undergo MRI imaging and the physicians will practice according to practice guidelines.\n\nExclusion Criteria:\n\n* Patients under 18 years old or during pregnancy\n* Patients with MRI's contraindications e.g. patients with cardiac pacemaker or are allergic to MRI contrast agent Patients with unstable clinical abnormality and might get unexpected clinical treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

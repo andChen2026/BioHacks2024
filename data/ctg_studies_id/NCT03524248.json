@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03524248",
+    "briefTitle": "Development of Real-time Image-guided Radiotherapy",
+    "officialTitle": "Development of Real-time Image-guided Radiotherapy",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Lung Cancer, Skin Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 159,
+    "primaryOutcomeMeasure": "Develop real-time 4D video imaging guidance with combination use of cone-beam computerized tomography (CBCT) useful for daily setup and target motion tracking in advanced image-guided radiotherapy (IGRT).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All patients benefit from advanced IGRT can participate to the study except for those emergent and pediatric patients (age \\<18 years) who require special care or there is no time for the setup the 4D video systems\n* The patient population would be selected according to the technical progress and clinical needs\n\nExclusion Criteria:\n\n* None",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

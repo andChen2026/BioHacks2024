@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03245112",
+    "briefTitle": "Halaven Patient Registry (Metastatic Breast Cancer, MBC)",
+    "officialTitle": "Retrospective Data Collection and Analysis of the Therapeutic Effect of Eribulin for Advanced Breast Cancer Patients.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Metastatic Breast Cancer, Advanced Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Disease Control Rate (DCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* An eligible patient to be entered into the Registry is defined as:\n\n  1. Patient with advanced breast cancer.\n  2. Halaven was given or has been treating during the period of 1 Jan 2015 to 31 Dec 2016.\n  3. Halaven was given as single or combination.\n  4. Patient received at least one cycle treatment (a 21-day cycle or 2 doses) of Halaven.\n  5. Patient with at least 80% of the required information of the Registry CRF to be entered. It will be calculated automatically by the Registry system.\n\n     Patient to be selected for the Registry will be based on chorological order of a patient occurred in a study center during the defined period of the Registry, if all other eligibility criteria are met.\n\n     Exclusion Criteria:\n* Those who not meet the inclusion criteria will be excluded.",
+    "sex": "FEMALE",
+    "minimumAge": "24 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

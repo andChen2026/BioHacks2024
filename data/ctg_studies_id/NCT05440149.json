@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05440149",
+    "briefTitle": "The Postoperative Radiotherapy in N1 Breast Cancer Patients",
+    "officialTitle": "The Postoperative Radiotherapy After Breast Conserving Surgery or Mastectomy in N1 Breast Cancer Patients: A Prospective, Multicenter, Phase III Clinical Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Radiotherapy, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1106,
+    "primaryOutcomeMeasure": "Disease-Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients aged 19 years or older.\n* A female patient who underwent breast-conserving surgery or mastectomy for invasive breast cancer.\n* Patient with stage pN1 after surgery on histopathologic examination.\n\n  * However, if mastectomy was performed, 5 or more nodes should be resected in the case of 1 positive node, and axillary lymph node dissection (ALND) should be performed in case of 2 or 3 positive nodes.\n* Patients undergoing or planning to undergo hormone therapy in the case of hormone receptor positive.\n* Patients who have received or are expected to undergo targeted therapy in the case of human epidermal growth factor receptor(HER)-2 positive.\n* Patients with Eastern Cooperative Oncology Group (ECOG) Scale 0-2.\n* Patients who agreed to participate in the study.\n\nExclusion Criteria:\n\n* Patients who have received prior \\[neoadjuvant\\] chemotherapy.\n* Patients receiving radiation therapy for salvage or palliative purposes.\n* Patients with stage T4.\n* Patients with ipsilateral supraclavicular and internal mammary lymph node metastases or distant metastases.\n* Male breast cancer patient.\n* Patients who have previously received radiation therapy to the ipsilateral breast or supraclavicular region.\n* Patients having a history of cancer other than thyroid cancer, cervical carcinoma in situ, or skin cancer.\n* Patients diagnosed with ductal breast carcinoma in situ, lobular carcinoma in situ, phyllodes, metaplastic cancer, or benign tumors based on histological diagnosis.",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00256698",
+    "briefTitle": "Anastrozole Monotherapy Versus Maximal Oestrogen Blockade With Anastrozole and Fulvestrant Combination Therapy",
+    "officialTitle": "FACT: Anastrozole Monotherapy Versus Maximal Oestrogen Blockade With Anastrozole and Fulvestrant Combination Therapy; an Open Randomized, Comparative, Phase III Multicentre Study in Postmenopausal Women With Hormone Receptor Positive Breast Cancer in First Relapse After Primary Treatment of Localized Tumor.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 514,
+    "primaryOutcomeMeasure": "Time to Progression (TTP)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent, postmenopausal females, histological or cytological confirmed oestrogene and/or progesterone (PgR) receptor positive breast cancer, local recurrence or metastasis\n\nExclusion Criteria:\n\n* Previous systemic endocrine therapy for advanced or recurrent disease; prior fulvestrant therapy\n* Premenopausal women",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01714128",
+    "briefTitle": "FES-PET for Patients Treated on NCI Protocol 8762",
+    "officialTitle": "Positron Emission Tomography (PET) With 18F-Fluoroestradiol (FES) as a Predictor of Response in Patients With Breast Cancer Scheduled to be Treated With MK-2206 in Combination With Either an Aromatase Inhibitor or Fulvestrant on NCI Protocol 8762",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "FES baseline tumor SUV measurement",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients must have agreed and signed consent to participate in NCI protocol 8762 and be scheduled to receive the first dose of MK-2206 in a minimum of 48 hours and a maximum of 30 days after the FES-PET/CT imaging.\n\n   Note: Patients need to be on the endocrine agent for at least 1 week prior to the FES-PET/CT imaging.\n2. Patients must have measurable disease (defined by RECIST criteria) or the presence of bone lesions if there is no measurable lesion.\n3. Patient must be \u2265 18 years of age.\n4. Patient must be able to tolerate and have no contraindication to FES-PET/CT imaging.\n5. Patient must be able and willing to give informed consent.\n\nExclusion Criteria:\n\n1. Patient must have no other active cancer at the time of study entry.\n2. The research FES-PET/CT scan could not be scheduled more than 48 hours before starting therapy with MK-2206.\n3. Patient cannot have received treatment for any other malignancy, with the exception of non-melanoma skin cancer, in the past 5 years.\n4. Patients scheduled to receive chemotherapy as the primary source of treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

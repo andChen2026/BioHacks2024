@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01334021",
+    "briefTitle": "Genetic Testing in Predicting Tumor Response in Patients with Stage I-III HER2 Negative Invasive Breast Cancer",
+    "officialTitle": "Feasibility, Validation and Implementation of Genomic Testing for Chemotherapy and Endocrine Sensitivity of HER2 Negative Primary Invasive Breast Cancer (Clinical Stage I to III)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Anatomic Stage I Breast Cancer AJCC V8, Anatomic Stage IA Breast Cancer AJCC V8, Anatomic Stage IB Breast Cancer AJCC V8, Anatomic Stage II Breast Cancer AJCC V8, Anatomic Stage IIA Breast Cancer AJCC V8, Anatomic Stage IIB Breast Cancer AJCC V8, Anatomic Stage III Breast Cancer AJCC V8, Anatomic Stage IIIA Breast Cancer AJCC V8, Anatomic Stage IIIB Breast Cancer AJCC V8, Anatomic Stage IIIC Breast Cancer AJCC V8, Anatomic Stage IV Breast Cancer AJCC V8, Invasive Breast Carcinoma, Prognostic Stage I Breast Cancer AJCC V8, Prognostic Stage IA Breast Cancer AJCC V8, Prognostic Stage IB Breast Cancer AJCC V8, Prognostic Stage II Breast Cancer AJCC V8, Prognostic Stage IIA Breast Cancer AJCC V8, Prognostic Stage IIB Breast Cancer AJCC V8, Prognostic Stage III Breast Cancer AJCC V8, Prognostic Stage IIIA Breast Cancer AJCC V8, Prognostic Stage IIIB Breast Cancer AJCC V8, Prognostic Stage IIIC Breast Cancer AJCC V8, Prognostic Stage IV Breast Cancer AJCC V8",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1100,
+    "primaryOutcomeMeasure": "Feasibility defined as the ability to classify patients into 1 of 4 cohorts",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The patient can undergo biopsy or surgery of a primary tumor site for suspected or proven invasive breast cancer of clinical stage I to III; stage IV patients will be allowed and included in the feasibility assessment, but will not be included in outcomes analysis for secondary objectives\n* The clinical or radiologic primary tumor size is at least 1 cm diameter\n\nExclusion Criteria:\n\n* The patient has proven HER2-positive breast cancer, defined as a pathology report of amplification of the gene or 3+ score for immunohistochemical staining\n* The patient has received prior systemic therapy or radiation therapy for breast cancer\n* The patient has a prior history of invasive or metastatic cancer within 5 years of diagnosis of breast cancer, excluding squamous cell or basal cell carcinoma of the skin\n* The patient had prior excisional biopsy of the primary invasive breast cancer\n* There is hematoma or biopsy site changes that obscure the primary tumor\n* Patients deemed medically ineligible for any adjuvant or neoadjuvant therapy. Patients with ER-positive (+) tumors deemed medically eligible for hormonal therapy, but not chemotherapy will be considered eligible for this protocol. Patients with ER-negative (-) tumors who are not candidates for adjuvant anthracycline based chemotherapy will be considered ineligible for this protocol. Patients who undergo biopsy and are later found to be ineligible for adjuvant therapy will be assessed for the primary objective, but will be excluded from the secondary objectives",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

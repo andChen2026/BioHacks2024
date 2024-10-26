@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05914831",
+    "briefTitle": "Ultra-hypofractionated for Whole Breast Irradiation (WBI) Compared to Partial Breast Irradiation (PBI)",
+    "officialTitle": "Ultra-hypofractionated for Whole Breast Irradiation (WBI) Compared to Partial Breast Irradiation (PBI): A Single-Institution Prospective Phase 2 Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Acute toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast-conserving surgery\n* Invasive ductal carcinoma\n* Age \u2265 50\n* Tumor size \u2264 3 cm\n* R0 resection\n* Unicentric/unifocal carcinoma or multifocal carcinoma within 2 cm of the primary neoplasm\n* pN0 (sentinel lymph node biopsy or axillary lymph node dissection performed), N1mi\n* Hormone receptor status - any\n* Histological grade G1 or G2\n\nExclusion Criteria:\n\n* Neoadjuvant systemic therapy\n* TNBC (triple-negative breast cancer)\n* Extensive intraductal component (EIC)\n* Lymphovascular invasion (LVI)\n* associated DCIS \\> 2.5 cm in size or high nuclear grade",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01592825",
+    "briefTitle": "PiA: Prognosis Used Every Day for Patients With Operable Breast Cancer - Comparison of Invasion Factors uPA/PAI-1 With Other Prognostic Factors",
+    "officialTitle": "PiA Trial: a Cross-sectional, Multicenter, Consecutive Cohort Evaluating the Distribution of uPA/PAI-1 Versus St. Gallen Algorithm in >1000 Prospectively Included Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Event free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* newly diagnosed breast cancer\n* no metastasis detected\n* operation for breast cancer\n* female patient\n* unilateral breast cancer\n* informed consent given\n* age min. 18 yrs.\n\nExclusion Criteria:\n\n* metastasis of breast cancer\n* bilateral breast cancer\n* other cancer within the last 5yrs",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

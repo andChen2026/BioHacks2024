@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02606708",
+    "briefTitle": "Accelerated Intensity Modulated Radiation Therapy (AIMRT) to the Breast After Segmental Mastectomy",
+    "officialTitle": "Accelerated Intensity Modulated Radiation Therapy (AIMRT) to the Breast After Segmental Mastectomy: a Pilot Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 314,
+    "primaryOutcomeMeasure": "Number of Participants With Local Recurrence in Breast",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pre- or post-menopausal women with Stage I and II breast cancer\n* Biopsy-proven invasive breast cancer, excised with negative margins of at least 1 mm\n* Status post segmental mastectomy. and after sentinel node biopsy and/or axillary node dissection\n* At least 2 weeks from last chemotherapy\n* Tumors \\< 5 mm do not require nodal assessment\n\nExclusion Criteria:\n\n* Previous radiation therapy to the ipsilateral breast.\n* More than 3 involved nodes identified at axillary staging, requiring adjuvant axillary radiation.\n* Active connective tissue disorders, such as lupus or scleroderma.\n* Prior or concurrent malignancy other than basal or squamous cell skin cancer or carcinoma in-situ of the cervix, unless disease-free \\> 5 years.\n* Pregnant or lactating women.",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

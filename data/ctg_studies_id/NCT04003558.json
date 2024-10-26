@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04003558",
+    "briefTitle": "Deep Learning Algorithms for Prediction of Lymph Node Metastasis and Prognosis in Breast Cancer MRI Radiomics (RBC-01)",
+    "officialTitle": "Deep Learning Algorithms for Prediction of Lymph Node Metastasis and Prognosis in Breast Cancer MRI Radiomics (RBC-01)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Neoplasm Female, Early-stage Breast Cancer, Radiomics, Axillary Lymph Node, Survival, Prosthesis",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1500,
+    "primaryOutcomeMeasure": "Disease free survival (DFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The primary lesion was diagnosed as invasive breast cancer\n* Patients can have regional lymph node metastasis,but no distant organ metastasis\n* Complete the breast MRI examination before treatment\n* Accept breast cancer surgery or lymph node biopsy\n* Eastern Cooperative Oncology Group performance status 0-2\n\nExclusion Criteria:\n\n* Inflammatory breast cancer\n* Accompanied with other primary malignant tumors\n* Perform surgery,radiotherapy and lymph node biopsy before breast MRI examination\n* Patients who have neoadjuvant chemotherapy\n* Patients had distant and contralateral axillary lymph node metastasis\n* The pathologic diagnosis was extensive ductal carcinoma in situ",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

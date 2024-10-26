@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06027632",
+    "briefTitle": "Remotely Supervised Computerized Cognitive Stimulation to Reduce Post-chemotherapy Cognitive Difficulties in Patients Treated for Localized Breast Cancer",
+    "officialTitle": "Remotely Supervised Computerized Cognitive Stimulation to Reduce Post-chemotherapy Cognitive Difficulties in Patients Treated for Localized Breast Cancer: a Multicenter Randomized Controlled Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Cognitive Dysfunction",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Average change in the score of the Perceived Cognitive Impairment (PCI) subscale score of the Functional Assessment of Cancer Therapy-Cognitive Function (FACT-Cog)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient diagnosed with localized breast cancer\n* Age 18 or older,\n* Who have received adjuvant or neo-adjuvant chemotherapy and are currently undergoing adjuvant radiotherapy (ongoing hormone therapy is permitted) until 30 days after end of radiotherapy.\n* Patients who report cognitive complaints that significantly impact their quality of life, as evaluated by the quality of life subscale of the FACT-Cog questionnaire. This subscale is composed by 4 questions:\n\n  1. I have been upset about these problems;\n  2. These problems have interfered with my ability to work;\n  3. These problems have interfered with my ability to do things I enjoy;\n  4. These problems have interfered with the quality of my life.\n\nPatients are eligible if their score on this subscale is at or below the 10th percentile, based on age guidelines and normative data (Lange et al., 2015), namely:\n\n* \u2264 8 for patients aged 30-49 years\n* \u2264 9 for patients aged 50-69 years\n* \u2264 10 for patients aged 70-89 years\n\n  * Patients who have completed at least three years of primary school education, as determined by the Barbizet scale,\n  * Patient with access to a functional laptop/computer with a keyboard, internet connection and an e-mail account - being able to use those tools alone,\n  * Fluent in French,\n  * Patients who have provided informed consent to participate in the study.\n\nExclusion Criteria:\n\n* Personality disorder or any known progressive psychiatric pathology (e.g. schizophrenia),\n* Previous neurological history with ongoing cognitive symptoms (sequelae of head trauma, stroke, multiple sclerosis, epilepsy, neurodegenerative pathology, etc.),\n* Excessive alcohol intake or drug use, which could compromise participation to the intervention\n* Major visual and/or hearing deficit,\n* Patient who might not be able to complete neuropsychological testing, (including those with significant cognitive disorders that impede the completion of cognition tests, as determined by the cognitive screening test MoCA (MONTREAL COGNITIVE ASSESSMENT) and based on age and educational level according to GRECOGVASC (Reflection Group for Vascular COGnitive Assessment) normative data)\n* Already participating in a cognitive training program,\n* Refusal to participate,\n* Patient deprived of liberty or under guardianship,\n* Patient who might not be able to participate due to geographic, social or psychopathological reasons.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Months",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

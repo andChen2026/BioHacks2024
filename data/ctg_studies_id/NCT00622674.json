@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00622674",
+    "briefTitle": "Bortezomib and Cetuximab in Treating Patients With Advanced Solid Tumors",
+    "officialTitle": "Phase I Study of Bortezomib (Velcade) and Cetuximab (Erbitux) for Patients With Solid Tumors Expressing EGFR",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Colorectal Cancer, Head and Neck Cancer, Kidney Cancer, Lung Cancer, Pancreatic Cancer, Sarcoma, Unspecified Adult Solid Tumor, Protocol Specific",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 37,
+    "primaryOutcomeMeasure": "Maximum tolerated dose (MTD) of bortezomib",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of solid tumor that overexpresses epidermal growth factor receptor (EGFR) including, but not limited to, the following:\n\n  * Breast cancer\n  * Lung cancer\n  * Colon cancer\n  * Pancreatic cancer\n  * Head and neck cancer\n  * Kidney cancer\n  * Sarcoma\n* Advanced disease\n\n  * Must have failed or become intolerant to prior standard therapy and is no longer likely to respond to such therapy\n* Measurable or nonmeasurable disease\n* ECOG performance status 0-1\n* ANC \u2265 1,500/mm\u00b3\n* Platelet count \\> 100,000/mm\u00b3\n* Hemoglobin \\> 9 g/dL\n* Bilirubin \\< 1.5 times upper limit of normal (ULN)\n* Alkaline phosphatase \\< 3.0 times ULN (5.0 times ULN if liver has tumor involvement)\n* Aspartate aminotransferase (AST) and alanine aminotransferase (\\*ALT) \\< 3.0 times upper limit of normal (ULN) (5.0 times ULN if liver has tumor involvement)\n* Creatinine clearance \\> 30 mL/min\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for 3 months after completion of study treatment\n* Recovered from all prior therapy\n* Prior systemic chemotherapy, immunotherapy, or biological therapy allowed\n* At least 14 days since prior radiotherapy or systemic therapy\n* At least 30 days since prior investigational agents\n* At least 14 days since other prior investigational drugs (for reasons other than the treatment of cancer)\n\nExclusion Criteria:\n\n* Untreated or symptomatic central nervous system (CNS) metastases\n* Concurrent serious systemic disorders (e.g., active infection) that, in the opinion of the investigator, would compromise the safety of the patient or compromise the patient's ability to complete the study\n* Uncontrolled diabetes\n* Myocardial infarction within the past 6 months\n* New York Heart Association (NYHA) class III or IV heart failure\n* Uncontrolled angina\n* Severe uncontrolled ventricular arrhythmias\n* Evidence of acute ischemia or active conduction system abnormalities by ECG\n* Peripheral neuropathy Common Terminology Criteria for Adverse Events (CTCAE) grade \\> 2\n* Known hypersensitivity to bortezomib, boron, or mannitol\n* Serious medical or psychiatric illness likely to interfere with study participation\n* Prior bortezomib and/or cetuximab\n* Concurrent filgrastim (G-CSF) or other hematologic support during course 1 of study treatment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

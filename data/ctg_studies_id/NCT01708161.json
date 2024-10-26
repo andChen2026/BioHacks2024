@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01708161",
+    "briefTitle": "A Phase Ib/II Study of the Combination of BYL719 Plus AMG 479 in Adult Patients With Selected Solid Tumors",
+    "officialTitle": "A Phase Ib/II Study of the Combination of BYL719 Plus AMG 479 in Adult Patients With Selected Solid Tumors",
+    "overallStatus": "TERMINATED",
+    "conditions": "PIK3CA Mutated Advanced Solid Tumors, PIK3CA Amplified Advanced Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 47,
+    "primaryOutcomeMeasure": "Dose Limiting Toxicities (DLTs) - Phase Ib",
+    "eligibilityCriteria": "Key inclusion criteria:\n\n* Written informed consent.\n* Patients aged \u2265 18 years (male or female).\n* Patients with the following histologically/cytologically-confirmed advanced solid tumors with documented somatic PIK3CA mutations or amplifications in tumor tissue:\n* Hormone receptor positive breast carcinoma\n* Ovarian carcinoma\n* Other tumors upon agreement with sponsor\n* Adequate organ function\n* Negative serum pregnancy test\n\nKey exclusion criteria:\n\n* Patients with known history of severe infusion reactions to monoclonal antibodies.\n* Patients with primary CNS tumor or CNS tumor involvement.\n* History of thromboembolic event requiring full-dose anti-coagulation therapy any time prior to enrollment.\n* Clinically significant cardiac disease.\n* History of another malignancy within last 2 years.\n* Pregnant or nursing (lactating) women.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

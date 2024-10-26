@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04906330",
+    "briefTitle": "Oncoliq: Test for Early Breast Cancer Detection.",
+    "officialTitle": "Oncoliq: Test for Early Breast Cancer Detection.",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "miRNA levels in plasma",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women patients performing gynecological control\n* Between 50-70 years old\n* Without personal history of oncological disease\n* Informed consent signed\n\nExclusion Criteria:\n\n* Patients who don\u00b4t meet the inclusion criteria.\n* Active infection with SARS-CoV-2 (COVID-19).",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

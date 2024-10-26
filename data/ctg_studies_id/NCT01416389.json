@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01416389",
+    "briefTitle": "A Study of LY2523355 in Participants With Breast Cancer",
+    "officialTitle": "A Randomized Phase 2 Study of LY2523355 Versus Ixabepilone in Patients With Metastatic or Locally Recurrent Breast Cancer Who Have Received Prior Taxane Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 39,
+    "primaryOutcomeMeasure": "Change in Tumor Size (CTS) From Baseline to the End of Cycle 2",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Have histologic or cytologic diagnosis of metastatic or locally recurrent breast cancer that is not amenable to therapy given with curative intent.\n* Have measurable disease defined by Response Evaluation Criteria In Solid Tumors (RECIST) 1.1 guidelines.\n* Have received 2 or more prior standard cytotoxic chemotherapy regimens for metastatic breast cancer and be, in the opinion of the investigator, an appropriate candidate for experimental therapy. Regimens received in the neoadjuvant or adjuvant setting are not counted as prior regimens.\n* Have received a prior taxane in the neoadjuvant, adjuvant, or metastatic setting.\n* Have recovered from the acute effects of prior chemotherapy, hormonal therapy, and radiation prior to study enrollment.\n* Have a performance status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) scale.\n* Have adequate organ function.\n\nExclusion Criteria:\n\n* Have Common Terminology Criteria for Adverse Events (CTCAE) Grade 2 or greater (moderate or worse) peripheral neuropathy\n* Have a second primary malignancy.\n* Have symptomatic, untreated, or uncontrolled central nervous system metastases.\n* Have received autologous stem cell transplant following high-dose chemotherapy.\n* Have serious preexisting medical conditions that in the opinion of the investigator would preclude participation in this study.\n* Have active symptomatic fungal, bacterial, and/or known viral infection including active human immunodeficiency virus (HIV) or viral hepatitis.\n* Have previously received LY2523355 in another study investigating this agent or therapy with ixabepilone or an ixabepilone-containing regimen.\n* Have a history of radiation therapy involving more than 25 percent of the bone marrow.\n* Have a Fridericia corrected QT (QTcF) interval of \\>470 milliseconds (msec) on screening electrocardiogram (ECG).\n* Have QRS widening of \\>120 msec on screening ECG.\n* Cannot change or stop taking a strong Cytochrome P450 3A4 (CYP3A4) inhibitor or CYP3A4 inducer per the ixabepilone label.\n* Have hypersensitivity to drugs formulated with Cremophor\u00ae EL per the ixabepilone label.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

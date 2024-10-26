@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01101425",
+    "briefTitle": "Male Breast Cancer: Understanding the Biology for Improved Patient Care",
+    "officialTitle": "Clinical and Biological Characterization of Male Breast Cancer: an International EORTC, BIG, TBCRC and NABCG Intergroup Study.",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Clinical outcomes: survival, progression free survival, time to locoregional relapse, time to distant relapse, time to second primary.",
+    "eligibilityCriteria": "Retrospective part (closed to patients registration):\n\n* Men with histologically proven invasive breast carcinoma diagnosed since 1990 to 2010.\n* A FFPE tissue sample from the primary tumor (e.g. biopsy or surgery) is mandatory\n\nProspective part:\n\n* All men, with histologically proven invasive breast cancer, newly presenting at the center irrespective of the stage of disease, initial diagnosis date or treatment received.\n\n  * patients cannot be registered in both the retrospective and protective parts of the study\n  * patients who newly present at the center in the 3 months prior to center activation are still eligible as long as they were not previously included in the retrospective part of the study\n* Before patient registration, written informed consent must be obtained according to ICH/GCP, and national/local regulations.\n* Collection of left-over FFPE and frozen tumor samples as well as blood is optional.\n\nBoth parts:\n\n* Concomitant DCIS or LCIS are allowed only if invasive cancer is present.\n* Patients should be 18 years or over at the time of diagnosis.\n* The study will accept all stages of disease (e.g. early BC, locally advanced and metastatic disease) independent of the treatment received. Patients with past or concurrent other malignancies are eligible.",
+    "sex": "MALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

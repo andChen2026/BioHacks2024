@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02440191",
+    "briefTitle": "3DCRT vs. IMRT in Early Breast Cancer",
+    "officialTitle": "Postoperative Radiotherapy With Intensity-modulated Radiation Therapy (IMRT) Using Simultaneous Integrated Boost Versus 3-dimensional Conformal Radiotherapy (3D-CRT) in Early Breast Cancer: a Prospective Randomized Trial",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Radiation Toxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 690,
+    "primaryOutcomeMeasure": "Disease-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. histologically confirmed breast cancer after breast-conserving surgery\n2. pT1-2N0\n3. no evidence of distant metastasis\n4. no previous malignancy\n5. patient age, 20 - 80 years\n6. Karnofsky performance score \u2265 70\n7. adequate bone marrow, liver, and renal function (leucocytes \\> 4,000/mm3, hemoglobin \\> 10 g/dL, platelets \\> 100,000/mm3; serum bilirubin \\< 1.5 mg/dL, serum transaminase \\< 2.5 times the upper normal limit; serum creatinine \\< 1.5 mg/dL).\n8. completion of scheduled chemotherapy\n\nExclusion Criteria:\n\n1. carcinoma in situ of breast\n2. distant metastasis\n3. mastectomy\n4. male\n5. both breast cancer",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

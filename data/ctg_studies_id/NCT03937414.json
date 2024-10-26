@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03937414",
+    "briefTitle": "Intraoperative Molecular Diagnosis of Sentinel Lymph Node In Breast Cancer Patients",
+    "officialTitle": "The Validation Study of the Intraoperative OSNA Molecular Assay",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Sentinel Lymph Node Biopsy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1500,
+    "primaryOutcomeMeasure": "The accuracy, sensitivity, specificity of the OSNA assay",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nThe breast cancer patients scheduled for SLNB.\n\nExclusion Criteria:\n\nThe patients who had undergone previous ipsilateral axillary surgery.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

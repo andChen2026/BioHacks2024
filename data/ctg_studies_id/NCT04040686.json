@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04040686",
+    "briefTitle": "HER2 Expression Detection in Breast Cancer Using 99mTc-NM-02",
+    "officialTitle": "Technetium-99m Labeled Anti-HER2 sdAb (99m-Tc-NM-02) for HER2 Expression Detection in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Visual Assessment of HER2 expression in Breast cancer using 99mTc-NM-02 SPECT/CT Scan",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Adult female, age 18 years or older\n2. Prior diagnosis of breast cancer\n3. Willing to participate in this study and given written informed consent\n4. AST, ALT, BUN, Cr not more than double the normal values\n5. Subjects of childbearing potential must be willing to undergo a pregnancy test prior to enrolment\n\nExclusion Criteria:\n\n1. Pregnancy (subjects with a positive pregnancy test at baseline screening period or who are planning to become pregnant during the study period)\n2. Breastfeeding (subjects in lactation)\n3. No biopsy tissue sample can be provided for HER2 expression detection\n4. Subjects with pacemakers\n5. Hepatitis B virus infection (including carriers) at screening, ie hepatitis B surface antigen (HBsAg) positive, or hepatitis C antibody (anti-HCV) positive, or acquired immunodeficiency disease (HIV) infected, or serum syphilis positive person\n6. Abnormal liver function during baseline screening period : AST or ALT\\> 2 times the upper limit of normal value (ULN), if the marginal increase of a single index is judged as having no clinical significance by the investigator, it can be retested during the screening period. Once, if \u2264 2 times ULN after retesting, consider enrolling).\n7. Impaired renal function during screening: serum creatinine or urea nitrogen \\> 1.5 times ULN.\n8. Within 4 months prior to the baseline screening period , myocardial infarction or other cardiac events requiring hospitalization (unstable angina, etc.), cerebrovascular accident, transient ischemic attack, acute congestive Heart failure or severe arrhythmia (ventricular arrhythmia, atrioventricular block above II)\n9. Subjects with pulmonary embolism or deep vein thrombosis\n10. Various infections that the investigators consider unsuitable for study, including but not limited to patients with various infections requiring further treatment, such as urinary tract infections, respiratory infections, and diabetic foot infections.\n11. Patients with abnormal thyroid function during baseline screening period (including but not limited to active hyperthyroidism, hypothyroidism or Hashimoto's thyroiditis)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

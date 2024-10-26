@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00373152",
+    "briefTitle": "MRI in Predicting Tumor Reponse After Radiofrequency Ablation in Women With Invasive Breast Cancer",
+    "officialTitle": "Breast MRI Assessment of Tumor Viability After Radiofrequency Ablation (RFA)",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Complete Tumor Necrosis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of invasive breast cancer - the following information must be known based on the needle core biopsy: tumor grade, hormone receptor status, and HER2/neu status. Patients with a previous history of either ipsilateral or contralateral excisional biopsy are not excluded. However, patients are excluded if an excisional biopsy was used to diagnose the current breast cancer.\n\nNote: Subjects undergoing sentinel lymph node (SLN) biopsy will not be excluded from this research study. It is not expected that radiofrequency ablation (RFA) will interfere with the SLN procedure because other studies have demonstrated the accuracy of sentinel node staging after excisional biopsy. The axillary staging in these subjects will be noted.\n\n* Tumor size \\< 2 centimeters by mammogram or ultrasound, with ultrasound being the preferred method of evaluation. Measurements by physical exam should also be recorded. If mammogram and ultrasound are discordant, then the imaging modality that determines the largest tumor size will be used to determine eligibility.\n* Ultrasound measurements: Distance from tumor to skin must be \\> 1 cm; distance from tumor to chest wall must be \\> 1 cm. The RFA procedure, which burns the tumor, may also burn the skin or muscle if it is too close (\\< 1cm).\n* Laboratory values within 2 weeks of registration: platelet count \u2265 50,000; INR \u2264 1.6; serum creatinine \u2264 1.5 mg/dL; glomerular filtration rate (GFR) \u2265 60 ml/min/m\\^2\n* Age 18 years or older\n* Women must not be pregnant due to MR scanning of pregnant women is not FDA approved. All females of childbearing potential must have a urine study within 2 weeks prior to registration to rule out. Breast feeding must be discontinued prior to study entry.\n\nExclusion Criteria:\n\n* Subjects for whom neo-adjuvant therapy is planned will be excluded from this study\n* Patients with history of severe asthma and/or allergies will be excluded to avoid potential adverse reactions to the MRI contrast agent (Gd-DTPA)\n* Patients with pacemakers, any ferromagnetic implants or other ferromagnetic objects will be excluded\n* Patients with obesity (\\>250 pounds) will be excluded due to the limited diameter of the magnet bore tube\n* Patients with history of severe claustrophobia will be excluded\n\nPatient must give written informed consent indicating the investigational nature of the study and its potential risks",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

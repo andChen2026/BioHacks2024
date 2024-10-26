@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03970382",
+    "briefTitle": "A Study of Gene Edited Autologous Neoantigen Targeted TCR T Cells With or Without Anti-PD-1 in Patients With Solid Tumors",
+    "officialTitle": "A Phase 1a/1b, Open-label First-in-human Study of the Safety, Tolerability and Feasibility of Gene-edited Autologous NeoTCR-T Cells (NeoTCR-P1) Administered as a Single Agent or in Combination With Anti-PD-1 to Patients With Locally Advanced or Metastatic Solid Tumors",
+    "overallStatus": "SUSPENDED",
+    "conditions": "Solid Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 21,
+    "primaryOutcomeMeasure": "Incidence of adverse events as defined as DLTs",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically documented incurable or metastatic solid tumors of the following types: melanoma, UC, ovarian cancer, colorectal cancer, breast cancer (HR+), or prostate cancer.\n* Disease has progressed after at least one available standard therapy or no additional curative therapies are available.\n* Measurable disease per RECIST v1.1\n* Eastern cooperative oncology group (ECOG) performance status of 0 or 1\n* Adequate hematologic and end organ function determined within 30 days prior to enrollment.\n* Disease-specific criteria related to the specific tumor type are required.\n\nNote: There are additional inclusion criteria. The study center will determine if you meet all of the criteria.\n\nExclusion Criteria:\n\n* Known clinically significant liver disease, including active viral, alcoholic, or other hepatitis, cirrhosis, and/or inherited liver disease\n* Known primary central nervous system (CNS) malignancy or symptomatic CNS metastases\n* Uncontrolled or symptomatic hypercalcemia\n* Pregnancy, lactation, or breastfeeding\n* Prior allogeneic stem cell transplant or solid organ transplant\n* Prior chimeric antigen receptor therapy or other genetically modified T cell therapy\n* Active HIV, Hepatitis B, or Hepatitis C infection\n* Active tuberculosis\n* Severe infection within 2 weeks prior to enrollment\n* Major surgical procedure within 4 weeks prior to enrollment or anticipation of need for a major surgical procedure during the study.\n\nNote: There are additional exclusion criteria. The study center will determine if you meet all of the criteria.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

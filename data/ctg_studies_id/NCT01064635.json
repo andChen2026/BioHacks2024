@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01064635",
+    "briefTitle": "Letrozole in Treating Breast Cancer in Postmenopausal Women With Stage I, II, or III Breast Cancer Previously Treated With Tamoxifen (GIM4)",
+    "officialTitle": "Letrozole Adjuvant Therapy Duration (LEAD) Study: Standard Versus Long Treatment. A Phase III Trial in Post-Menopausal Women With Early Breast Cancer.",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2056,
+    "primaryOutcomeMeasure": "Disease-free survival",
+    "eligibilityCriteria": "INCLUSION CRITERIA\n\n* Signed informed consent prior to beginning protocol specific procedures.\n* Histologically proven breast cancer at the first diagnosis with tumor stage I-II-III. Patients with histologically documented (microscopic) infiltration of the skin (pT4) will also be eligible.\n* Axillary Nodal status allowed: Nx, pNo, pN1, pN2, pN3.\n* Postmenopausal status defined by one of the following:\n\n  * Age \\> 55 years with cessation of menses\n  * Age \\< 55 years but not spontaneous menses for at least 1 year\n  * Age \\< 55 years and spontaneous menses within the past 1 year, but currently amenorrheic (e.g. spontaneous, or secondary to hysterectomy), AND with postmenopausal gonadotrophin levels (luteinizing hormone and follicle stimulating hormone levels \\>40 IU/L) or postmenopausal estradiol levels (\\<5 ng/dL) or according to the definition of \"postmenopausal range\" for the laboratory involved.\n  * Bilateral oophorectomy\n* Adjuvant TAM received for at least 2 years and not more than 3 years and 3 months. Patients treated with adjuvant chemotherapy, are required to have begun receiving TAM within 3 months after the completion of chemotherapy.\n* Definitive surgical treatment must be either mastectomy or breast conserving surgery, with axillary lymph node dissection or sentinel node biopsy for operable breast cancer.\n* ECOG/WHO performance Status 0-1. Patients must be accessible for treatment and follow-up.\n* Concomitant treatment with biphosphonates are allowed and should be recorded during the trial.\n\nEXCLUSION CRITERIA\n\n* Male patients.\n* Any locally advanced (T4) or inflammatory breast cancer. However, patients with microscopic infiltration of the skin (pT4) will be eligible.\n* Patients with distant metastases. Any suspicious manifestation requires appropriate investigation to exclude metastases.\n* Histology other than adenocarcinoma.\n* Patients with previous or concomitant (not breast cancer) malignancy within the past 5 years EXCEPT adequately treated basal or squamous cell carcinoma of the skin or in situ carcinoma of the cervix. Patients who have had a previous other malignancy must have been disease free for 5 years.\n* Patients with other non-malignant systemic diseases (cardiovascular, renal, hepatic, lung embolism, etc.) which would prevent prolonged follow-up.\n* Use of hormone Replacement Therapy within four weeks before randomization.\n* Concurrent treatment with other experimental drugs. Participation in another clinical trial with any investigational regimen within 30 days prior to study entry.\n* Concurrent treatment with any other anti-cancer therapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

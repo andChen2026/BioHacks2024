@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04583891",
+    "briefTitle": "Mobile Apps to Reduce Distress in Breast Cancer Survivors Using an Adaptive Design",
+    "officialTitle": "Evaluating a Mobile Application to Reduce Distress in Breast Cancer Survivors Using an Adaptive Design",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Depression, Anxiety, Engagement, Patient",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 314,
+    "primaryOutcomeMeasure": "Patient Health Questionnaire-8",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. age \u2265 18 years (age 19 if in Nebraska, given age of consent);\n2. 0-5 years post-diagnosis of Stage I, II, or III female breast cancer;\n3. elevated symptoms of depression as measured by the Patient Health Questionnaire-8 (PHQ-8) score \u2265 10 and/or symptoms of anxiety as measured by the Generalized Anxiety Disorder-7 (GAD-7) score \u2265 8.\n\nExclusion Criteria:\n\n1. Taking antidepressant medication and have had an appointment to adjust the dosage over the past 2 weeks;\n2. mental health condition deemed to interfere with study procedures or put the participant at undue risk based on self-reported history of psychosis or bipolar disorder, or active suicidal ideation that necessitates more intense care;\n3. do not have an app-compatible phone (i.e., iOS 10.3 or later or Android 4.0.3 or later);\n4. cannot read and speak English (current intervention only available in English).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

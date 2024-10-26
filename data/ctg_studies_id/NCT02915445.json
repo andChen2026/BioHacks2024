@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02915445",
+    "briefTitle": "EpCAM CAR-T for Treatment of Advanced Solid Tumors",
+    "officialTitle": "T Cells Armed With Chimeric Antigen Receptor Recognizing EpCAM for Patients With Advanced Solid Tumors",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Malignant Neoplasm of Nasopharynx TNM Staging Distant Metastasis (M), Breast Cancer Recurrent, Gastric Cancer With Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Number of participants with treatment-related adverse events/dose limiting toxicity as assessed by CTCAE v4.0",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nInclusion criteria at the time of procurement:\n\n* Recurrent or refractory nasopharyngeal carcinoma and breast cancer and other solid tumors.\n* Karnofsky score of greater than or equal to 60.\n* Informed consent explained to, understood by and signed by subject/guardian. -\n* Subject/guardian given copy of informed consent\n\nTreatment Inclusion criteria:\n\n* Recurrent or refractory EpCAM-positive nasopharyngeal carcinoma, breast cancer, gastric cancer and other epithelial tumors determined by Immunohistochemistry (IHC) or RT-PCR. EpCAM expression in tumors on IHC should be greater than or equal to grade 2 and greater than or equal to 2+ intensity score. Wherein grades are defines as: Grade 0: no staining; Grade 1: 1-25%; Grade 2: 26-50% and Grade 3: 51-100% of cell staining for EpCAM and intensity scores are: negative; 1+; 2+ and 3+ using breast cancer standard arrays as a guide for intensity.\n* Age \u2265 18 years\n* Life expectancy \u2265 6 weeks\n* Karnofsky score \u2265 60\n* Bilirubin less than or equal to 3x normal, AST less than or equal to 5x normal,\n* ALT less than or equal to 5x, serum creatinine less than or equal to 2x upper limit of normal for age, and Hgb greater than or equal to 8.0\n* Pulse oximetry of greater than or equal to 90% on room air.\n* Sexually active subjects must be willing to utilize one of the more effective birth control methods for 6 months after the T cell infusion. The male partner should use a condom.\n* Available autologous transduced T lymphocytes with greater than or equal to 20% expression of EpCAM CAR determined by flow-cytometry and killing of EpCAM-positive targets greater than or equal to 20% in cytotoxicity assay.\n* Subjects should have been off other investigational antineoplastic therapy for two weeks prior to entry in this study.\n* Cyclophosphamide will be allowed 72 hours preinfusion.\n* Dexamethasone up to a total dose of 2 mg per day will be allowed if medically indicated.\n* Informed consent explained to, understood by and signed by research subjects/guardian.\n* Subject/guardian given copy of informed consent.\n\nExclusion Criteria:\n\nExclusion Criteria at the time of procurement:\n\n* Known HIV positivity.\n\nTreatment Exclusion Criteria:\n\n* Severe intercurrent infection.\n* Known HIV positivity.\n* Pregnant or lactating.\n* History of hypersensitivity reactions to murine protein-containing products.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

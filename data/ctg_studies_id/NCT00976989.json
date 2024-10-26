@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00976989",
+    "briefTitle": "A Study of Pertuzumab in Combination With Herceptin and Chemotherapy in Participants With HER2-Positive Breast Cancer",
+    "officialTitle": "A Randomised, Multicentre, Multinational Phase II Study to Evaluate Pertuzumab in Combination With Trastuzumab, Given Either Concomitantly or Sequentially With Standard Anthracycline-based Chemotherapy or Concomitantly With a Non-anthracycline-based Chemotherapy Regimen, as Neoadjuvant Therapy for Patients With Locally Advanced, Inflammatory or Early Stage HER2-positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 225,
+    "primaryOutcomeMeasure": "Safety: Percentage of Participants With Symptomatic Cardiac Events as Assessed by the Investigator",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female participants, age \\>/=18 years\n* advanced, inflammatory or early stage unilateral invasive breast cancer\n* HER2-positive breast cancer\n* baseline left ventricular ejection fraction (LVEF) \\>/=55%\n\nExclusion Criteria:\n\n* metastatic disease (Stage IV) or bilateral breast cancer\n* previous anticancer therapy or radiotherapy for any malignancy\n* other malignancy, except for carcinoma in situ of the cervix, or basal cell carcinoma\n* clinically relevant cardiovascular disease\n* current chronic treatment with corticosteroids of \\>10mg methylprednisolone or equivalent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

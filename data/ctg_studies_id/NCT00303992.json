@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00303992",
+    "briefTitle": "Trastuzumab and Irinotecan in Treating Patients With HER2/Neu Positive Metastatic Breast Cancer",
+    "officialTitle": "Weekly Trastuzumab (Herceptin) and Irinotecan in Patients With HER-2 Positive Advanced Breast Cancer: A Phase II Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 9,
+    "primaryOutcomeMeasure": "Overall objective response rate (partial and complete responses)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed metastatic breast carcinoma\n* Received 1-3 prior chemotherapy regimens for metastatic disease\n\n  * Documented progressive disease\n  * Repeated courses of the same chemotherapy agent alone or in combination are considered a single regimen\n  * Prior trastuzumab (Herceptin\u00ae) alone or with chemotherapy allowed\n\n    * Other biologic agents are not considered a chemotherapy regimen\n* Measurable disease\n\n  * Patients with bone-only disease who are evaluable by tumor markers (e.g., CA15-3, CEA, or CA27.29) are eligible\n\n    * Patients must have prior evidence of correlation of disease activity with changes in tumor marker level\n* Confirmation of HER2/neu status by a positive test for gene amplification by fluorescence in situ hybridization or 3+ by immunohistochemistry\n* Brain metastases allowed if the following criteria are met:\n\n  * Brain metastases were previously treated and are currently stable as documented by head CT scan with contrast or MRI within 4 weeks of study entry\n\n    * Patients with existing brain metastases should have stability documented by prior imaging \u2265 8 weeks before the baseline scan\n* Hormone-receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* ECOG performance status \u2264 2\n* Absolute neutrophil count \u2265 1,000/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Life expectancy \u2265 12 weeks\n* No history of congestive heart failure\n* Documented ejection fraction \u2265 45% by MUGA scan or echocardiogram within 1 month of study entry\n* Total bilirubin \\< 3 times upper limit of normal (ULN)\n* AST \\< 3 times ULN (5 times ULN if due to liver involvement)\n* Creatinine \\< 1.5 times ULN\n* No history of serious adverse events related to trastuzumab\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No severe, concurrent illness that would prevent compliance with study protocol\n* No chronic severe diarrheal illness\n* No history of Gilbert's disease or known deficiency in glucuronidation\n* No recent or current history of alcoholism or acute viral hepatitis\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No chemotherapy or hormonal therapy within the past 2 weeks\n* Prior or concurrent bisphosphonates allowed\n* No prior irinotecan (other camptothecins allowed)\n* No concurrent radiotherapy\n* No ongoing treatment with any other investigational agent",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

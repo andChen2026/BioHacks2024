@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00891800",
+    "briefTitle": "Brachytherapy Radiation Directly to the Liver in Breast Cancer Patients With Metastatic to Liver",
+    "officialTitle": "A Phase II Feasibility Study to Assess the Use of SIR-Sphere in Patients With Breast Cancer Who Have Chemotherapy-Resistant Disease in the Liver",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer Metastatic to the Liver",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Primary: Assessment of the feasibility of SIRT treatment as measured by tumor response in the treated labe/s of the liver.Assessed by CT scan and measurement Secondary Response: Assessment of treatment toxicity. Assessed by examination and blood work.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Documented breast cancer\n* Clinical evidence of mets to the liver\n* Performance status of 0-2\n* Life expectancy of greater equal to 3 months\n* Not pregnant\n* 4 weeks or more since last radiation therapy\n* Recovered from all side effects of prior chemotherapy\n* Not needing concurrent chemotherapy\n* recovered laboratory values\n* Bilirubin \\< 2.0\n\nExclusion Criteria:\n\n* Candidate for surgical resection or ablation of liver lesion/s\n* Prior radiation therapy to the liver\n* Co-Morbid disease\n* pulmonary insufficiency\n* Portal vein thrombosis\n* Contraindications to angiography\n* \\> 20 % lung shunting on MAA\n* Diffuse extra-hepatic disease\n* Concurrent chemotherapy OR capecitabine with 8 weeks\n* Failed MAA\n* Uncontrolled active infection\n* Severe liver dysfunction",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

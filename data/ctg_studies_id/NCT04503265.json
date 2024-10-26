@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04503265",
+    "briefTitle": "A Trial of AMXI-5001 for Treatment in Patients With Advanced Malignancies",
+    "officialTitle": "A Phase I/II, Open Label, Multi-center, Non-randomized Dose Escalation and Dose Expansion Study of AMXI-5001 in Patients With Advanced Malignancies",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Advanced Malignant Neoplasm, Breast Cancer, Ovarian Cancer, Homologous Recombination Deficiency, Prostate Cancer, Pancreatic Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 122,
+    "primaryOutcomeMeasure": "Determine the Maximum Tolerated Dose (MTD)",
+    "eligibilityCriteria": "Inclusion Criteria (Key Factors):\n\n1. Has pathologically confirmed advanced or metastatic malignancy characterized by one or more of the following:\n\n   1. Patient is intolerant of existing therapy(ies) known to provide clinical benefit for their condition\n   2. Malignancy is refractory to existing therapy(ies) known to potentially provide clinical benefit\n   3. Malignancy has progressed after standard therapy\n2. Has evaluable or measurable tumor(s) in dose escalation by standard radiological and/or laboratory assessments as applicable to their malignancy.\n3. Eastern Co-operative Oncology Group (ECOG) PS 0-1\n4. Participant must be 18 years of age or older\n\nExclusion Criteria (Key Factors):\n\n1. Receiving cancer treatment at the time of enrollment\n2. Any clinically significant disease or condition affecting a major organ system\n3. Significant cardiovascular disease or electrocardiogram (ECG) abnormalities\n4. Use of a strong inhibitor or inducer of CYP3A4 within 7 days prior to start of study therapy and throughout the study (e.g., some antibiotics, antifungals, anticonvulsants, grapefruit)\n5. Has had a previous (within 2 years) or has a current malignancy other than the target cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

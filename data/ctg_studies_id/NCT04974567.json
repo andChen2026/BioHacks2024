@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04974567",
+    "briefTitle": "Tear Based Sample Collection Breast Cancer Detection",
+    "officialTitle": "Tear Based Sample Collection for Breast Cancer Detection",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Tear, Breast Cancer Female",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Number of participant tear samples collected.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Individual is an adult woman and has recently been diagnosed with breast cancer.\n\nExclusion Criteria:\n\n* Individual is excluded if they have already started treatment for the breast cancer diagnosis.\n* Age less than 18 or more than 100 years.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

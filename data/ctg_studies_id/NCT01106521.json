@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01106521",
+    "briefTitle": "A Registry Study of Permanent Breast Seed Implant",
+    "officialTitle": "A Multicentre Registry Study of Permanent Breast Seed Implant (PBSI) for Early Stage Breast Cancers.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 420,
+    "primaryOutcomeMeasure": "Serious Adverse Events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* A confirmed histological diagnosis of invasive breast carcinoma\n* Treated by breast conserving surgery with axillary node dissection (with a minimum of 6 nodes sampled) or sentinel lymph node biopsy\n* Surgical margins clear over or equal to 2 mm\n* A maximum tumor size of 3 cm\n* Age \\>= 50 years old\n* ECOG performance status of 0 or 1\n* Informed consent signed\n\nExclusion Criteria:\n\n* Previous history of cancer other than curable skin SCC or Tis or T1 cervix\n* Patient receiving anti-coagulant that cannot be stopped two weeks prior PBSI\n* Autoimmune disorder\n* Diabetes insulin-dependant\n* Pregnancy\n* Breast implants\n* Psychiatric or addictive disorder that would preclude attending follow-up\n* Post-operative breast infection\n* Suspicious remaining microcalcification on post-surgery mammogram (unless biopsy proven benign)\n* Lobular features on histology (pure or mixed) or sarcoma histology\n* Node positive on axillary dissection or in the sentinel lymph node biopsy\n* Extensive in situ carcinoma\n* Multicentric disease (in more than one quadrant or separated by 2 cm or more)\n* Paget's disease of the nipple\n* Metastases\n* Patients presenting a post-surgical fluid cavity \u2265 2.5 cm in diameter in any dimension as determined on the planning US\n* Clear delineation of the target volume on CT is not possible\n* Having a volume to be implanted over 120cc\n* Having a target volume too close to skin such that the 85% isodose overlaps the skin surface)\n* Having a target volume too close to the chest wall, such that there is a risk of perforating the chest wall",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

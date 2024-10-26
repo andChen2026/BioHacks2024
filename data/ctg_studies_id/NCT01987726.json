@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01987726",
+    "briefTitle": "Comprehensive Gene Sequencing in Guiding Treatment Recommendations Patients With Metastatic or Recurrent Solid Tumors",
+    "officialTitle": "Decision Impact Analysis of Foundation Medicine's Next Generation Sequencing Test in Advanced Solid Tumor Malignancies",
+    "overallStatus": "COMPLETED",
+    "conditions": "Recurrent Breast Cancer, Recurrent Colon Cancer, Recurrent Rectal Cancer, Stage IV Breast Cancer, Stage IVA Colon Cancer, Stage IVA Rectal Cancer, Stage IVB Colon Cancer, Stage IVB Rectal Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Feasibility of NGS on metastatic solid tumor tissue, in terms of number of patients screened, FMI test attempted, FMI test successful, and FMI tests results released to physicians",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Are able to understand and provide written informed consent (most recent patient informed consent form) prior to initiation of any study-specific procedures\n* Patients are diagnosed with recurrent or metastatic a solid tumor cancer; the first patients to be enrolled will have a diagnosis of breast cancer (Cohort 1) or colorectal cancer (Cohort 2)\n* Patients may enter this study at any line of therapy\n* Patients must have a tumor sample available for NGS testing\n* Patients are within 10 weeks of starting their current line of therapy and enrolled before their 1st computed tomography (CT) scan\n* Have an expected survival of \\>= 3 months, as estimated by the treating oncologist\n* Have an Eastern Cooperative Oncology Group performance status (ECOG PS) of 0-2\n\nExclusion Criteria:\n\n* Are pregnant or nursing women\n* Are unable to comply with requirements of the study\n* Have a serious uncontrolled intercurrent medical or psychiatric illness, including serious infection",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

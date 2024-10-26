@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05194072",
+    "briefTitle": "A Study of SGN-B7H4V in Advanced Solid Tumors",
+    "officialTitle": "A Phase 1 Study of SGN-B7H4V in Advanced Solid Tumors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Ovarian Neoplasms, Peritoneal Neoplasms, Fallopian Tube Neoplasms, Triple Negative Breast Neoplasms, HER2 Negative Breast Neoplasms, Hormone Receptor Positive Breast Neoplasms, Endometrial Neoplasms, Carcinoma, Non-Small-Cell Lung, Cholangiocarcinoma, Gallbladder Carcinoma, Adenoid Cystic Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 430,
+    "primaryOutcomeMeasure": "Number of participants with adverse events (AEs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants must have one of the following histologically or cytologically confirmed locally advanced unresectable or metastatic solid tumor types:\n\n  * High-grade serous epithelial ovarian cancer, primary peritoneal cancer, or fallopian tube cancer\n  * HER2-negative, HR positive breast cancer\n  * Triple-negative breast cancer (TNBC)\n  * Endometrial carcinoma\n  * Non-small cell lung cancer (Squamous cell carcinoma \\[SqCC\\], Adenocarcinoma \\[AC\\])\n  * Cholangiocarcinoma or gallbladder carcinoma\n  * Adenoid cystic carcinoma (ACC)\n* Parts A and B: Participants must have disease that is relapsed or refractory or be intolerant to SOC therapies, and, in the judgement of the investigator, should have no appropriate SOC therapeutic option\n* Part C: Participants must have disease that is relapsed or refractory or be intolerant to SOC therapies, unless contraindicated\n* Tumor tissue is required for enrollment.\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1\n* Measurable disease per RECIST version 1.1 at baseline\n\nExclusion Criteria:\n\n* History of another malignancy within 3 years before the first dose of study drug. Any evidence of residual disease from a previously diagnosed malignancy. Exceptions are malignancies with a negligible risk of metastasis or death.\n* Known active central nervous system metastases. Participants with previously treated brain metastases may participate provided they:\n\n  * are clinically stable for at least 4 weeks prior to study entry after brain metastasis treatment\n  * have no new or enlarging brain metastases\n  * and are off corticosteroids prescribed for symptoms associated with brain metastases for at least 7 days prior to the first dose of study treatment.\n* Carcinomatous meningitis\n* Previous receipt of an MMAE-containing agent or an agent targeting B7-H4\n* Pre-existing neuropathy \u2265 Grade 2 per National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0\n* Corneal disease or injury requiring treatment or active monitoring",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

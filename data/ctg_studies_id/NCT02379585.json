@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02379585",
+    "briefTitle": "Fasting on Newly Diagnosed Breast Cancer",
+    "officialTitle": "A Pilot Study of Short-term Fasting on Neoadjuvant Chemotherapy in Patients With Newly Diagnosed Breast Cancer (STEFNE Study)",
+    "overallStatus": "TERMINATED",
+    "conditions": "HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 8,
+    "primaryOutcomeMeasure": "Pathological Response Rate at the Time of Surgery or at the Time of Biopsy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients \u2265 18 years of age with histologically, and radiographically confirmed non-metastatic breast cancer with minimal tumor size over 1 cm (\u2265T1c lesion) to receive neoadjuvant chemotherapy recommended by the treating physician\n* For estrogen receptor (ER) strongly positive, human epithelial receptor (HER2) negative breast cancer, Oncotype Dx study is required. Patients with low recurrence score will be excluded in the study.\n* Eastern Cooperative Oncology Group (ECOG) performance status score \\< 1\n* Absolute neutrophil count \\> 1500 mm3, platelet count \u2265 100\u00d7109 L, hemoglobin \u2265 8.5 g/dL\n* Serum creatinine \u22641.5 times the upper limit of the normal range, total bilirubin \u2264 1.5 X ULN (\u2264 3 mg/dL if clinically diagnosed with Gilbert syndrome) AST/ALT \u2264 2.5 X ULN (AST/ALT \u2264 5X ULN if clinically diagnosed with Gilbert syndrome)\n* Willing to provide blood samples for correlative research purposes\n* Women of child-bearing potential (i.e., women who are pre-menopausal or not surgically sterile) must be willing to use an acceptable contraceptive method (abstinence, oral contraceptive or double barrier method) for the duration of the study and for 30 days following the last dose of study drug, and must have a negative urine or serum pregnancy test within 2 weeks prior to beginning treatment on this trial.\n\nExclusion Criteria:\n\n1. Uncontrolled cardiac disease, such as angina, hypertension or significant arrhythmias, congestive heart failure (NYHA grade 2 or more or LVEF \\< 40% on any prior assessment). Note: Assessment of LVEF is done before and after anthracycline-based or trastuzumab-based chemotherapy as standard of care\n2. Pregnant or lactating females\n3. Known history of diabetes mellitus. If screening fasting glucose is \u2265126 mg/dL, an HbA1C must be \\< 6.5%.\n4. History of syncope with calorie restriction in the past\n5. Body mass index (BMI) \\< 19 kg/m2\n6. Clinical signs or symptoms of GI obstruction and/or requirement for parenteral hydration or nutrition\n7. Inability to complete informed consent process and adhere to the protocol treatment plan and follow-up requirements\n8. Concurrent severe illness such as active infection, or psychiatric illness/social situations that would limit safety and compliance with study requirements\n9. Any other medical comorbidity that requires daily medication(s) that may not be safely taken without food.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

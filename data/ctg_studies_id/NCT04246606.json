@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04246606",
+    "briefTitle": "Concordance of the IHC4 Score Performed in Local or Central Laboratory to Endopredict in ER+/HER2- Breast Cancer",
+    "officialTitle": "Retrospective Study Assessing the Concordance of the IHC4 Score Performed in Local Pathology Laboratory or in a Central Laboratory to a Molecular Gold Standard Test Endopredict in Breast Cancer Infiltrating ER+ HER2-",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm Female",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 155,
+    "primaryOutcomeMeasure": "To assess the reproducibility of the IHC4 score testing performed in local pathology laboratory (i.e. real life) to in a central laboratory.",
+    "eligibilityCriteria": "Sample selection criteria:\n\n1. Prior information of the patient.\n2. Histologically proven invasive breast cancer,\n3. ER-positive breast cancer, according to the following criteria: ER \u226510 % (local assessment)\n4. HER2-negative tumor by IHC (score 0 or 1+) and/or fluorescent in situ hybridization (FISH)/chromogenic in situ hybridization (CISH) negative (local assessment)\n5. IHC staining slides for ER, PR, KI67 and HER2 carry out on surgical resection according to local protocol available,\n6. In situ hybridization (ISH) staining for HER2 carry out on surgical resection, in case of IHC 2+ for HER2 immunostaining\n7. EndoPredict test results available (EPclin),\n8. Formalin-fixed and paraffin-embedded (FFPE) block from surgical resection of the primary tumor available,\n9. Patient \u226518 years old.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

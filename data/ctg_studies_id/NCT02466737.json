@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02466737",
+    "briefTitle": "Comparison of Axillary Sentinel Lymph Node Biopsy Versus no Axillary Surgery",
+    "officialTitle": "Comparison of Axillary Sentinel Lymph Node Biopsy Versus no Axillary Surgery in Patients With Early-stage Invasive Breast Cancer and Breast-conserving Surgery: a Randomized Prospective Surgical Trial. Intergroup-Sentinel-Mamma (INSEMA)-Trial",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 5505,
+    "primaryOutcomeMeasure": "invasive disease-free survival (IDFS) after breast-conserving surgery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent prior to beginning breast-conserving surgery, including expected cooperation of the patients for follow-up, must be obtained and documented according to the local regulatory requirements\n* Histologically confirmed unilateral primary invasive carcinoma of the breast (core biopsy or open biopsy). Multifocal or multicentric tumors are allowed if breast-conserving surgery is planned\n* Age at diagnosis at least 18 years\n* Preoperative imaging techniques with estimated tumor size of \\<5 cm (iT1/iT2 irrespective of hormone sensitivity or HER2 status)\n* Clinically and sonographically tumor-free axilla prior to core biopsy (cN0/iN0)\n* In cases with cN0 and iN+, a negative core biopsy or fine needle aspiration (FNA) biopsy of the sonographically suspected lymph node is required before randomization\n* No clinical evidence for distant metastasis (M0)\n* Planned breast-conserving surgery (R0 resection) with postoperative external whole-breast irradiation (conventional fractionation or hypofractionation)\n\nExclusion Criteria:\n\n* History of malignancy within last 5 years, except curatively treated basalioma of the skin and carcinoma in situ of the cervix\n* Time since core biopsy \\>3 months (optimal \\<1 month)\n* Previous and already (neoadjuvant) treated invasive breast carcinoma\n* Histologically non-invasive breast carcinoma\n* cT3/T4 or iT3/T4 tumors\n* pregnant or lactating patients\n* Planned total mastectomy (e.g. multicentric tumors )\n* Planned intraoperative radiotherapy (e.g. Intrabeam) or postoperative partial breast irradiation (e.g. multicatheter technique) alone; both procedures are allowed as boost techniques\n* Male patients",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

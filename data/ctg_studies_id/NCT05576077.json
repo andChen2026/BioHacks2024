@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05576077",
+    "briefTitle": "A Study of TBio-4101 (TIL) and Pembrolizumab in Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase 1b Study of TBio-4101 (Autologous Selected and Expanded Tumor-Infiltrating Lymphocytes [TIL]) and Pembrolizumab in Patients With Advanced Solid Tumor Malignancies (STARLING)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Colorectal Cancer, Uveal Melanoma, Cutaneous Melanoma, Non-Small Cell Lung Cancer, Head and Neck Squamous Cell Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Safety and tolerability",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Advanced or metastatic breast carcinoma, colorectal adenocarcinoma, uveal melanoma, cutaneous melanoma, non-small cell lung cancer, or head and neck squamous cell carcinoma that has failed or is refractory to standard of care therapy\n* Have at least one target lesion that can be used for response assessments and have at least 1 tumor amenable for tissue harvest for TIL manufacturing.\n* ECOG performance status of 0 or 1\n* Demonstrate adequate organ function\n* Additional inclusion criteria exist\n\nKey Exclusion Criteria:\n\n* Known additional malignancy that is progressing or has required active treatment within the past 3 years\n* Diagnosis of immunodeficiency or receiving chronic systemic steroid therapy or any other form of immunosuppressive\n* Currently infected with HIV Type 1 and Type 2, hepatitis B virus (HBV), hepatitis C virus (HCV), treponema pallidum (e.g., syphilis), West Nile virus (WNV), Human T-lymphotropic virus types 1 or II (HTLV I/II), or cytomegalovirus (CMV)\n* Known active central nervous system (CNS) metastases and/or carcinomatous meningitis. Patients with previously treated brain metastases may participate provided they are radiologically stable\n* Serious cardiac condition, such as uncontrolled hypertension, concurrent congestive heart failure, prior history of Class III/IV cardiac disease (New York Heart Association \\[NYHA\\]), history of cardiac ischemia within the past 6 months, or prior history of cardiac arrhythmia requiring treatment. Patients who are \\> 60 years of age must undergo cardiology clearance exam and cardiac stress test.\n* Prior cell therapy or organ transplant\n* History of severe immediate hypersensitivity reaction to cyclophosphamide, fludarabine, IL-2, or pembrolizumab, or any of their constituents\n* LVEF \u2264 45%\n* FEV1 \u2264 60% of predicted value and DLCO (corrected) \\< 60% of predicted value\n* Chronic anti-coagulant therapy that cannot either be discontinued or temporarily changed\n* Additional exclusion criteria exist",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

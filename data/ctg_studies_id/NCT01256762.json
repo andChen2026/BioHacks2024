@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01256762",
+    "briefTitle": "Imetelstat in Combination With Paclitaxel (With or Without Bevacizumab) in Patients With Locally Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "A Randomized Phase II Study Of Imetelstat (GRN163L) In Combination With Paclitaxel (With Or Without Bevacizumab) in Patients With Locally Recurrent Or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Locally Recurrent or Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 166,
+    "primaryOutcomeMeasure": "Progression-free survival",
+    "eligibilityCriteria": "Inclusion Criteria\n\n* Histologically or cytologically confirmed adenocarcinoma of the breast that is either locally recurrent or metastatic. Locally recurrent disease must not be amenable to surgical resection or radiation with curative intent\n* Either have not received chemotherapy or may have had one prior non-taxane chemotherapy regimen for metastatic disease (there are no restrictions on prior hormonal therapy)\n* Prior use of bevacizumab is allowed provided that it was not administered in combination with a taxane\n* ECOG performance status 0-1\n* Adequate bone marrow reserve as indicated by:\n\n  * ANC \\> 1500/uL (without use of growth factors within 7 days)\n  * Platelet count \\> 100,000 (without transfusion in prior 7 days)\n  * Hemoglobin \\> 9.0 g/dL\n\nExclusion Criteria:\n\n* Women who are pregnant or breast feeding\n* Locally recurrent disease amenable to resection with curative intent\n* HER-2-positive breast cancer\n* Active central nervous system (CNS) metastatic disease including those patients receiving radiotherapy and/or steroid treatment (within the last 3 months)\n* Prior adjuvant or neoadjuvant taxane chemotherapy within 12 months prior of first relapse\n* Investigational therapy within 4 weeks of first study drug administration\n* Prior radiation, cytotoxic, or hormonal therapy within 2 weeks of first study drug administration\n* Therapeutic anti-coagulation or regular use of anti-platelet therapy within 2 weeks prior to first study drug administration (low dose anti-coagulant therapy to maintain patency of a vascular access device is allowed)\n* Grade \u2265 2 neuropathy\n* Uncontrolled clinically significant atrial or ventricular arrhythmias (unless pacemaker in place)\n* Severe conduction disturbance including clinically significant QTC prolongation \\> 450 ms (unless pacemaker in place)\n* Active or chronically recurrent bleeding (e.g., active peptic ulcer disease)\n* Clinically relevant active infection\n* Known positive serology for human immunodeficiency virus (HIV)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

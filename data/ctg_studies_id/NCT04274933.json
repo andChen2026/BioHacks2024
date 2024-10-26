@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04274933",
+    "briefTitle": "A Study to Evaluate the Safety and Tolerability of Venetoclax Tablets in Combination With Capecitabine Tablets in Adult Participants With Hormone Receptor-Positive, HER2-Negative Locally Advanced or Metastatic Breast Cancer Who Had Disease Progression During or After CDK4/6 Inhibitor Therapy",
+    "officialTitle": "A Phase 1b Study of Venetoclax and Capecitabine In Subjects With Hormone Receptor-Positive, HER2-Negative Locally Advanced or Metastatic Breast Cancer Who Experienced Disease Progression During or After CDK4/6 Inhibitor Therapy",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "Number of participants with Dose Limiting Toxicities (DLTs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of advanced or metastatic breast cancer that is hormone receptor positive (HR+) and HER2 negative (HER2-).\n* Eastern Cooperative Oncology Group (ECOG) performance score of 0-1.\n* Willing to provide tissue biopsy sample prior to start of study treatment, and in participants with measurable disease, at Day 1 of Cycle 3.\n\n  * Escalation cohort: Able to provide a tissue sample obtained at any time in disease history prior to start of study treatment.\n  * Expansion cohort: Able to provide a fresh tissue sample from either primary tumor or metastatic site; if fresh sample collection is deemed unsafe by the investigator, then an archival tissue block is acceptable if obtained at time of most recent progression and within 16 weeks of study treatment.\n* Experienced disease progression during or after CDK4/6 inhibitor therapy administered in combination with endocrine therapy for a minimum of 8 weeks prior to progression.\n\nExclusion Criteria:\n\n* History of receiving systemic cytotoxic chemotherapy in the locally advanced or metastatic setting.\n* Received anti-cancer therapy within the previous 21 days prior to the start of study drugs.\n* No known uncontrolled metastases to the central nervous system (CNS). Participants with brain metastases are eligible provided they have shown positive clinical and radiographic stable disease for at least 4 weeks after definitive therapy and have not used steroids for at least 2 weeks prior to first dose of study drugs.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

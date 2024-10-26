@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00429104",
+    "briefTitle": "Herceptin and GM-CSF for Metastatic Breast Cancer",
+    "officialTitle": "Phase II Study of GM-CSF to Overcome Herceptin-Resistant HER-2/Neu-Overexpressing Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 18,
+    "primaryOutcomeMeasure": "Number of Participants With Tumor Response (Stable Disease)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histological confirmation of invasive carcinoma of the breast.\n2. HER-2/neu overexpression: 3+ by immunohistochemical staining or Fluorescence in situ hybridization (FISH) (+).\n3. Stage IV breast cancer with measurable disease.\n4. Patient receiving progressive disease after Herceptin plus chemotherapy or Herceptin alone. No more than two Herceptin containing regimens.\n5. Zubrod performance status 0 or 1.\n6. Adequate hematological parameters (White Blood cells-WBC \\> 3,000/mm3, platelet count \\> 100,000/mm3), adequate renal function (serum creatinine \\< 2.0 mg/dl), adequate liver function (total bilirubin, aspartate aminotransferase (AST or SGOT) or alanine aminotransferase (ALT or SGPT) \\< 3 x normal).\n\nExclusion Criteria:\n\n1. Active Brain metastasis.\n2. No measurable disease at the time of registration (e.g. bone only, leptomeningeal disease alone or pleural effusion alone).\n3. More than 2 Herceptin containing regimens in metastatic breast cancer.\n4. Known history of HIV positive.\n5. Chronic active hepatitis or cirrhosis.\n6. Symptomatic pulmonary disease.\n7. Use of steroid of non-steroidal anti-inflammatory analgesic or Cox-2 inhibitor 1 week prior to registration.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01086241",
+    "briefTitle": "Tomosynthesis in Screening Mammography",
+    "officialTitle": "A Study to Determine Patient Benefit of Tomosynthesis in Screening Mammography",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Density >25%",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Interpretation Time of Scan",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females 40-69 years of age attending Screen Test Kingsway referred for a screening mammogram as defined by Canadian Cancer Society guidelines.\n* Prior mammogram report indicating \u2265 25% breast density.\n\nExclusion Criteria:\n\n* Prior mammogram report indicating \\<25% breast density.\n* Breast implants\n* Pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

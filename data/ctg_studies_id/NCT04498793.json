@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04498793",
+    "briefTitle": "Study of Tislelizumab Plus Chemotherapy vs Chemotherapy as Perioperative Treatment in Participants With HER2 Negative Breast Cancer",
+    "officialTitle": "Study of Tislelizumab Plus Chemotherapy vs Chemotherapy Alone as Perioperative Treatment in Participants With HER2 Negative Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "HER2-negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 55,
+    "primaryOutcomeMeasure": "Pathological complete response (pCR) rate using the definition of ypT0/Tis ypN0 (i.e., no invasive residual in breast or nodes; noninvasive breast residuals allowed) at the time of definitive surgery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathologically proven diagnosis of invasive breast cancer, cT1-T3, cN0-N3, cM0, HR+ (ER+ and/or PR+) HER2 negative or HR- (ER- and PR-) HER2 negative/triple negative breast cancer.\n* Provides a core needle biopsy consisting of at least 2 separate tumor cores from the primary tumor at screening to the central laboratory.\n* Immune active subtype revealed by multiplexed\n* Has Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 performed within 10 days of treatment initiation.\n* Demonstrates adequate organ function.\n\nExclusion Criteria:\n\n* Has a history of invasive malignancy \u22645 years prior to signing informed consent except for adequately treated basal cell or squamous cell skin cancer or in situ cervical cancer.\n* Has received prior chemotherapy, targeted therapy, or radiation therapy for breast cancer.\n* Has received prior therapy with an anti-programmed cell death protein 1 (anti-PD-1), anti-programmed death - ligand 1 (anti-PD-L1), or anti-PD-L2 agent or with an agent directed to another co-inhibitory T-cell receptor (e.g. CTLA-4, OX-40, CD137)\n* Has an active autoimmune disease that has required systemic treatment in past 2 years (i.e., with use of disease modifying agents, corticosteroids or immunosuppressive drugs).\n* Has a diagnosis of immunodeficiency or is receiving systemic steroid therapy (i.e. dosing exceeding 10 mg daily of prednisone or equivalent) or any other form of immunosuppressive therapy within 7 days prior to the first dose of study treatment.\n* Has a known history of Human Immunodeficiency Virus (HIV).\n* Has known active Hepatitis B or Hepatitis C.\n* Has a known history of active tuberculosis.\n* Has a history of (non-infectious) pneumonitis that required steroids or current pneumonitis.\n* Has an active infection requiring systemic therapy.\n* Has significant cardiovascular disease, such as: history of myocardial infarction, acute coronary syndrome or coronary angioplasty/stenting/bypass grafting within the last 6 months OR congestive heart failure (CHF) New York Heart Association (NYHA) Class II-IV or history of CHF NYHA Class III or IV.\n* Pregnant or lactating women are ineligible.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

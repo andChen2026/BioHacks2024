@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00334802",
+    "briefTitle": "Combination Chemotherapy of Gemcitabine and Paclitaxel for Metastatic Breast Cancer",
+    "officialTitle": "Combination Study of LY188011 and Paclitaxel in Patients With Metastatic/Recurrent Breast Cancer After Neo-adjuvant/Adjuvant Chemotherapy With Anthracycline",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 62,
+    "primaryOutcomeMeasure": "Tumor Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically and/or cytologically confirmed breast cancer\n* Received adjuvant/neo-adjuvant chemotherapy for breast cancer with anthracycline regimen\n* To have at least one measurable region\n* Eastern Cooperative Oncology Group (ECOG) Performance Status: 0-1\n* To have adequate organ function (bone marrow, liver and renal function)\n\nExclusion Criteria:\n\n* To have interstitial pneumonia or pulmonary fibrosis\n* To have inflammatory breast cancer\n* Within 28 days after the latest chemotherapy or radiotherapy, 14 days after the latest hormonal/immunotherapy or 7 days after surgery\n* To have brain metastases with symptoms\n* To have severe complication (cardiac infarction, infection, drug hypersensitivity or diabetes)",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

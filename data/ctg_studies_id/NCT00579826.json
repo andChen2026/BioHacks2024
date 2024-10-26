@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00579826",
+    "briefTitle": "Study of Breast Cancer Prevention by Letrozole in High Risk Women",
+    "officialTitle": "Study of Breast Cancer Prevention by Letrozole in High Risk Women",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 55,
+    "primaryOutcomeMeasure": "Change in Proliferation Rate (Ki-67 by Immunocytochemistry) From Baseline to 6 Months",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Post-menopausal women at high risk for development of breast cancer\n* stable dose of hormone replacement therapy\n* have cytomorphologic evidence of hyperplasia +/- atypia and Ki-67 expression \\>1.5% in benign breast epithelial cells acquired by RPFNA\n* Serum level of 25-hydroxyvitamin D of at least 30 ng/ml prior to study entry\n* Willing to have a repeat random periareolar fine needle aspiration (RPFNA) and mammogram at 6 months and 12 months (if participating in the open label portion of the study) following initiation of study drug\n\nExclusion Criteria:\n\n* Prior history of osteoporosis or osteoporotic fracture.\n* Prior history of invasive breast cancer or other invasive cancer within five years from date of study entry.\n* Current and chronic use of cyclooxygenase-2 (COX-2) specific inhibitors or NSAIDs\n* Receiving treatment for rheumatoid arthritis or fibromyalgia\n* Current history of poorly controlled migraines or perimenopausal symptoms\n* Currently receiving other investigational agents.\n* Receipt of more than 6 months of an aromatase inhibitor (anastrozole, exemestane, letrozole, etc.) at any time in the past.",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

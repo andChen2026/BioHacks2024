@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03667612",
+    "briefTitle": "Endogenous Mechanisms of Inactivation of the Endothelium Tumor",
+    "officialTitle": "Endogenous Mechanisms of Inactivation of the Endothelium Tumor",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Colon Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 70,
+    "primaryOutcomeMeasure": "correlation between the expression levels of the genes involved in the regulation of endothelial activation and the degree of tumor-infiltrating lymphocytes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Men and women aged 18 and over\n* Confirmed histological diagnosis of breast carcinoma at localized or metastatic stage or colorectal cancer\n* Treated at the Oscar Lambret Center or the Henri Becquerel Center between 1/1/2005 and 31/12/2007\n* Having undergone surgery for excision of the primary tumor and / or a metastasis\n* resected specimen available\n* Patients who gave their consent\n\nExclusion Criteria:\n\n* History of other cancers\n* Breast or colic tumors with other histological profiles\n* Patient treated for breast or colonic recurrence",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

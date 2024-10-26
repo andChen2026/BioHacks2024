@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06011824",
+    "briefTitle": "A Study of Effect of Megakaryocytes and Platelets in Breast Cancer",
+    "officialTitle": "Megakaryocytes and Platelets, Harmful or Helpful in Breast Cancer Cell Metastasis",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Platelet Counts",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nCohort 1-Biopsy negative\n\n* Females age 18 and above\n\nCohort 2-Biopsy positive for carcinoma in situ (ductal, lobular, or other)\n\n* Females age 18 and above\n* Any subtype of breast cancer\n\nCohort 3-Biopsy positive for Stage 1, 2, or 3 invasive carcinoma (ductal, lobular, or other)\n\n* Females age 18 and above\n* Any subtype of breast cancer\n* Have no distant metastases\n\nCohort 4-Stage 4 Metastatic Disease\n\n* Females age 18 and above\n* Any subtype of breast cancer\n\nExclusion Criteria:\n\n* Previous diagnosis with a known platelet disorder such as: Bernard Soulier disease, Jacobsen syndrome, Lowe syndrome, Thrombocytopenia, Thrombotic thrombocytopenic pupura, Von Willebrand disease, or the equivalent. Any condition in which antiplatelet or anticoagulant therapy with one of the following medications is being prescribed: Clopidogrel (Plavix), Warfarin (Coumadin or Jantoven), Prasugrel (Effient), or Ticagrelor (Brilinta).\n\nCohort 1-Biopsy negative\n\n* Males\n* Females less than age 18\n\nCohort 2-Biopsy positive for carcinoma in situ (ductal, lobular, or other)\n\n* Males\n* Females less than age 18\n* Currently undergoing neoadjuvant therapy\n\nCohort 3-Biopsy positive for Stage 1, 2, or 3 invasive carcinoma (ductal, lobular, or other)\n\n* Males\n* Females less than age 18\n* Presence of distant metastases\n* Currently undergoing neoadjuvant therapy\n\nCohort 4-Stage 4 Metastatic Disease\n\n* Males\n* Females less than age 18\n* Currently undergoing neoadjuvant therapy\n* Less than 30 days from last adjuvant treatment for Stage I-III Breast Cancer (may be on Trastuzumab, Pertuzumab, or endocrine therapy only for maintenance therapy from their prior breast cancer diagnosis)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

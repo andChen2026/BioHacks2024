@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03568448",
+    "briefTitle": "Monitoring Response to Neoadjuvant Chemotherapy in HER2 Negative Breast Cancer Using High-speed MR Spectroscopic Imaging",
+    "officialTitle": "Monitoring Response to Neoadjuvant Chemotherapy (NAC) in HER2 Negative Breast Cancer (HNBC) Using High-speed MR Spectroscopic Imaging (MRSI)",
+    "overallStatus": "RECRUITING",
+    "conditions": "HER2 Negative Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Assess the correlation of serial high-speed MRSI of [tCho] with pCR following NAC",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Have a biopsy proven HER2 negative (by IHC or FISH) breast cancer per standard clinical criteria (per ASCO-CAP guidelines). Although patients with hormone-receptor positive (ER+ and/or PR+) disease will be included, patients with tumor features indicative of luminal A intrinsic sub-type will be excluded from this study. Excluding features are:\n\n  * Patients with Grade 1 breast cancers, as assessed by local standard criteria, will be excluded from participation.\n  * Patients with strongly ER AND PR positive breast cancer, defined as \\>75% positive staging for BOTH markers by IHC, will be excluded from participation.\n* Stage of disease that is appropriate for standard NAC (any combination of T2 to T4, N0 to N3 that would comprise stage IIA to IIIB disease). Patients with inflammatory carcinoma or stage IIIC disease who are deemed inoperable at the outset, but appropriate for NAC are excluded in this study since there is no guarantee they can be converted to operability following NAC; thus precluding assessment of pCR.\n* Medically fit for NAC as per good clinical practice and per the treating physician's judgment.\n* Age \\> or = to 18 years AND able to provide informed consent.\n* Women of childbearing potential must be willing and able to use effective means of contraception. A female of childbearing potential is any woman who has not undergone a hysterectomy or bilateral oophorectomy or has not had menses at any time in the preceding 12 consecutive months.\n* Able to undergo standard clinical MRI exams PLUS additional 30 minutes longer (total scan time is 50 to 60 minutes).\n\nExclusion Criteria:\n\n* Pregnant or lactating women.\n* Body contains foreign items posing an issue of MRI safety, such as intra-ocular metallic foreign bodies, MRI incompatible devices such as pacemakers and cochlear implants, and other MRI incompatible devices.\n* Obesity (Body Mass Index \\[BMI\\] \\> 40) or inability to fit into the standard MRI gantry.\n* Suffer from back pain, claustrophobia, seizures, panic disorder and/or other medical disorders severe enough that would prevent them from completing a standard clinical MRI study (30 min) + 30 mins for the research scans. If applicable, patients may take a mild anxiolytic (e.g., lorazepam) if deemed appropriate by their treating physician.\n* Patients with stage IV disease (gross metastasis or documented M1 disease) and stage of disease excluded above.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

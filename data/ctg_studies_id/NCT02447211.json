@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02447211",
+    "briefTitle": "Topical Doxepin for Radiation-induced Dermatitis",
+    "officialTitle": "Topical Doxepin for Prevention and Management of Radiation-induced Dermatitis",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Grading of dermatitis was performed according to the Radiation Therapy Oncology Group acute radiation morbidity scoring criteria",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female with a diagnosis of, breast adenocarcinoma and be referred for post-operative radiotherapy with or without concurrent chemotherapy and with or without mastectomy\n* Participants must not be pregnant.\n* Participants treated with a total dose of 5000 cGy (25 fractions of 200 cGy, 5 days per week\n\nExclusion Criteria:\n\n* Patients who are not eligible\n* The presence of skin diseases in the radiation area\n* Patients have constipation, xerostomia, blurred vision, urinary retention\n* Hypersensitivity to doxepin",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

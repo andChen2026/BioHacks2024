@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00684216",
+    "briefTitle": "Second-line Endocrine Treatment Followed by Capecitabine Versus Capecitabine Followed by Endocrine Treatment in Patients With Metastatic ER Positive Breast Cancer",
+    "officialTitle": "Randomized Phase II/III Study of Second-line Endocrine Treatment Followed by Capecitabine Versus Capecitabine Followed by Endocrine Treatment in Patients With Metastatic Estrogen Receptor Positive Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Quality of life during the study period: Physical functioning scale of the QLQ-C30; Global Health status/QoL of the QLQ-C30",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Written informed consent.\n2. Proven infiltrating breast cancer with distant metastases or inoperable locally advanced disease.\n3. Positive estrogen receptor (\u2265 10% positive nuclei at immunohistochemistry). Progesterone and HER-2 neu receptor have to be known.\n4. - Progressive disease during first line hormonal therapy (either tamoxifen or aromatase inhibitor) for metastatic or inoperable locally advanced disease. Simultaneous use of LH-RH analogs is allowed. OR - Recurrence of disease (M1) during adjuvant hormonal therapy (either tamoxifen or aromatase inhibitor).\n5. No prior chemotherapy for metastatic disease\n6. Willing and able to participate in Quality of Life investigation -\n\nExclusion Criteria:\n\n1. Other malignancy except carcinoma in situ, unless the other malignancy was treated 5 or more years ago with curative intent without the use of chemotherapy or radiation therapy.\n2. Pregnancy or breast feeding women.\n3. Contra-indications to the use of capecitabine\n4. Known CNS metastases",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03055312",
+    "briefTitle": "Bicalutamide in Treatment of Androgen Receptor (AR) Positive Metastatic Triple Negative Breast Cancer",
+    "officialTitle": "A Randomized, Multicenter,Phase III Study of Bicalutamide Versus Chemotherapy in First Line Treatment of AR Positive Metastatic Triple Negative Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 36,
+    "primaryOutcomeMeasure": "Clinical benefit rate for 16 weeks",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age: 18-70 years old, female\n* Eastern Cooperative Oncology Group (ECOG) 0 or 1\n* Confirmed by pathology or organizing cytology AR positive(IHC\uff1a\u226710%)triple negative breast cancer\n* For the first time recurrence or newly diagnosed advanced breast cancer,Disease-free survival time 12 months above\n* Measurable disease per RECIST version 1.1,or immeasurably lesions bone metastasis\n* After Recurrence has not received cancer treatment\n* Life expectancy of at least 6 months\n* Signed and dated an informed consent form\n\nExclusion Criteria:\n\n* ECOG score \u22672\n* Only brain metastasis or meningeal metastasis\n* Receiving other anti-tumor treatment\n* Heart,lung,liver,kidney,bone marrow,and other functions badness",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

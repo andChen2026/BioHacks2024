@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05443672",
+    "briefTitle": "Multi-center Study of Deep Learning AI in Breast Mass",
+    "officialTitle": "A Multi-center Study of Breast Mass Screening and Diagnosis Using Deep Learning AI-based on Real-time Ultrasound Examination",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1122,
+    "primaryOutcomeMeasure": "Diagnostic performance of breast mass using deep learning AI-based real-time ultrasound examination",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Females who undergo ultrasound examination for a complaint of breast lesion;\n2. The breast lesion that will obtain definite pathological diagnosis or follow-up at least two years.\n\nExclusion Criteria:\n\n1. The breast lesion that has received CNB or FNA;\n2. The breast cancer patient who has received neoadjuvant chemotherapy.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

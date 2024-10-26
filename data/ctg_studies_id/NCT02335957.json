@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02335957",
+    "briefTitle": "OPTimizing Irradiation Through Molecular Assessment of Lymph Node (OPTIMAL)",
+    "officialTitle": "OPTimizing Irradiation Through Molecular Assessment of Lymph Node (OPTIMAL)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 489,
+    "primaryOutcomeMeasure": "Disease Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Infiltrating, ductal carcinoma of the breast.\n2. Treated with conservative surgery (tumorectomy or quadrantectomy) without lymphadenectomy.\n3. Sentinel lymph node assessed by OSNA, with TTL in the range 250 - 15,000 copies/\u03bcL.\n4. Age \u2265 18 yrs old.\n5. Karnofsky Index \u2265 70 %.\n6. Signed Informed Consent.\n\nExclusion Criteria:\n\n1. Other types of breast cancer different from infiltrating ductal carcinoma.\n2. Bilateral breast cancer.\n3. Males.\n4. Mastectomy or axillary homolateral lymph node dissection.\n5. Previous thoracic irradiation therapy.\n6. Systemic neoadjuvant therapy previous to surgery.\n7. Contraindications of radiotherapy (pregnancy, severe collagen diseases).\n8. Other neoplasms.\n9. Severe associated comorbidities that, according to the investigator criteria, may interfere with the study evaluations.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

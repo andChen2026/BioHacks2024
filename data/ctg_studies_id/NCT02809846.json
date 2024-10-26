@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02809846",
+    "briefTitle": "Quell Opioid Reduction and Pain Relief in Patients With Cancer",
+    "officialTitle": "Quell Opioid Reduction and Pain Relief in Patients With Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Pain, Metastatic Breast Cancer, Prostate Cancer, Colorectal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 33,
+    "primaryOutcomeMeasure": "Change in Daily Opioid Use Assessed as Recorded by the Subject in Their Analgesia Diary.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Male or Female greater than or equal to 18 year of age at visit one.\n2. Documented diagnosis of metastatic breast, prostate or colorectal cancer with a prognosis of 6 month or greater as determined by the primary oncologist.\n3. Visual evidence that subject owns a smart phone and is able to use basic mobile applications such as downloading an app, opening the app, and performing one simple task within the app.\n4. Subject speaks and reads English fluently.\n5. Subject able to understand and grant informed consent.\n6. Live in an area with cellular data connectivity available as provided by the subject.\n7. Documented adherence with clinic follow up visits per medical records.\n8. Subject using at least one opioid medication on a daily basis.\n\nExclusion Criteria:\n\n1. Subject has a cardiac pacemaker, implanted defibrillator or other implanted electronic device.\n2. Inability to complete subjective data as required; e.g. on mobile application and questionnaires.\n3. Does not live in an area with suitable cellular data connectivity.\n4. Has infrequent scheduled clinic visits.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

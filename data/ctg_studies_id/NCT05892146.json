@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05892146",
+    "briefTitle": "Strategy Therapy on Cancer Therapy-Related Cardiac Dysfunction",
+    "officialTitle": "Strategy Therapy on Early Phase Cancer Therapeutics-Related Cardiac Dysfunction Patients",
+    "overallStatus": "RECRUITING",
+    "conditions": "Chemotherapeutic Toxicity, Cardiotoxicity, Heart Failure, Breast Cancer, Lymphoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Change in absolute global longitudinal strain value measured by left ventricular global peak systolic longitudinal strain",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients who are newly diagnosed with breast cancer or lymphoma and never accepted anti-cancer therapy\n* Age 20-65 years old\n* Systolic blood pressure \u2265 110 mmHg\n\nExclusion Criteria:\n\n* End-stage renal disease (estimated Glomerulus Filtration Rate \\<15 mL/min/1.73 m2)\n* Echocardiography Baseline left ventricle ejection fraction \\< 50%\n* Allergy history to angiotensin receptor blockers\n* Life expectancy \\< 1 year\n* Pregnancy\n* Unwilling to participate in this clinical study",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04261244",
+    "briefTitle": "NeoRad Breast Cancer Study",
+    "officialTitle": "Preoperative Radiotherapy Versus Postoperative Radiotherapy After Neoadjuvant Chemotherapy (\"NeoRad\") in High-risk Breast Cancer: a Prospektiv, Randomized, International Multicenter Phase III Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1826,
+    "primaryOutcomeMeasure": "disease free survival (DFS):",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Histopathological confirmation of breast cancer\n* Indication for neoadjuvant chemotherapy\n* Indication for radiotherapy\n* Informed consent for NACT signed by the patient.\n* T2-T4 a-d\n* T1, if G3, triple negative, HER2 positive, or cN+/pN+\n* Hormone receptor and HER2 status: no restrictions\n* All grades G1-G3\n* Age \u226518 years at the time of randomisation\n* Performance status \u2264 2\n* No pre-existing conditions that prohibit study therapy\n* Signed consent form regarding registration, randomisation, collecting, and saving of personal data.\n\nExclusion Criteria:\n\n* Pregnancy or lactation\n* Prior radiotherapy of the affected or contralateral breast\n* Connective tissue disease, including rheumatoid arthritis and thromboangiitis obliterans.\n* Pre-existing symptomatic chronic lung disease (fibrosis, pneumoconiosis, adult-onset allergies such as farmer's lung, severe lung emphysema, COPD \u2265\u00b0III)\n* Cardiac comorbidities: symptomatic coronary heart disease, prior heart attack, heart failure NYHA \u2265II or AHA \u2265C, pacemaker and/ or implanted defibrillator\n* Malignoma except for basalioma or in-situ-carcinomas in complete response\n* Distant metastasis\n* Plexopathies of the arm of the treated side\n* Stiffness of the shoulder from any cause (e.g., after a car accident) of the arm of the side of the breast cancer\n* Lymph edema \u2265\u00b0II of the arm at the side of the breast cancer\n* Missing signature on consent form\n* Participation in other clinical trials\n* Other medical conditions that prohibit the neoadjuvant chemotherapy (i.e., HIV, psychiatric diseases, noncompliance, etc.)\n* Male patients",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

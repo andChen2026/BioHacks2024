@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00816244",
+    "briefTitle": "Study of Statin as Neo-Adjuvant Therapy in Postmenopausal Breast Cancer",
+    "officialTitle": "A Phase II Study of Neo-Adjuvant Statin Therapy in Postmenopausal Primary Breast Cancer: A Window-of-Opportunity Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Postmenopausal",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Tumor biological alterations following two weeks of neo-adjuvant statin therapy in postmenopausal breast cancer patients; to evaluate the tumor proliferation using Ki67 as proliferation marker.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with primary breast cancer who are candidates for radical surgery.\n* Breast tumours clinically \u2265 15 mm, Nx, M0.\n* Breast tumours identified on mammography and verified on fine needle aspiration.\n* Age \\> 18 years.\n* Performance status of ECOG \u2264 1.\n* Laboratory requirements at the day of diagnosis (t1-):Prior to inclusion a normal renal (serum creatinine) and hepatic (transaminases) function (within normal limits) estimated in blood samples is required.\n* Prior to patient registration, written informed consent must be given according to ICH/GCP, and national/local regulations.\n* Negative pregnancy test for pre menopausal women before inclusion in the trial\n\nExclusion Criteria:\n\n* Ongoing cholesterol lowering therapy (statins, fibrates, ezetimibe).\n* Prior breast cancer treatment.\n* Current HRT.\n* Known liver disease.\n* History of hemorrhagic stroke.\n* Psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule; these conditions will be discussed with the patient before registration in the trial.\n* History of allergic reactions attributed to compounds of similar chemical or biological composition to atorvastatin.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

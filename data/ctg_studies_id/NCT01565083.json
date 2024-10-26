@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01565083",
+    "briefTitle": "A Study to Assess Efficacy and Safety of Pertuzumab Given in Combination With Trastuzumab and Vinorelbine in Participants With Metastatic or Locally Advanced Human Epidermal Growth Factor Receptor (HER) 2-Positive Breast Cancer",
+    "officialTitle": "A Two-cohort, Open-label, Multicenter Phase II Trial Assessing the Efficacy and Safety of Pertuzumab Given in Combination With Trastuzumab and Vinorelbine in First Line Patients With HER2-positive Advanced (Metastatic or Locally Advanced) Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 213,
+    "primaryOutcomeMeasure": "Percentage of Participants With Best Overall Response (BOR) as Assessed by Investigator According to Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v1.1)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed and documented adenocarcinoma of the breast with metastatic or locally advanced disease not amenable to curative resection\n* HER2-positive as assessed by local laboratory on primary or metastatic tumor\n* At least one measurable lesion and/or non-measurable disease evaluable according to RECIST v1.1 criteria\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Left ventricular ejection fraction (LVEF) of at least 55%\n* Life expectancy of at least 12 weeks\n\nExclusion Criteria:\n\n* Previous systemic non-hormonal anti-cancer therapy in the metastatic or locally advanced breast cancer setting\n* Previous approved or investigative anti-HER2 agents in any breast cancer treatment setting, except trastuzumab and/or lapatinib in the adjuvant or neoadjuvant setting\n* Disease progression while receiving trastuzumab and/or lapatinib in the adjuvant or neoadjuvant setting\n* Disease-free interval from completion of adjuvant or neoadjuvant systemic non-hormonal treatment to recurrent disease of less than 6 months\n* History of persistent Grade 2 or higher (National Cancer Institute Common Terminology Criteria \\[NCI-CTC\\], Version 4.0) hematological toxicity resulting from previous adjuvant or neoadjuvant therapy\n* Radiographic evidence of central nervous system metastases that are not well controlled with local therapy (irradiation or surgery)\n* Current peripheral neuropathy of NCI-CTC, version 4.0 Grade 3 or greater\n* History of other malignancy within the last 5 years, except for carcinoma in situ of the cervix, non-melanoma skin carcinoma, Stage 1 uterine cancer, or cancers with a similar curative outcome as those mentioned above\n* Serious uncontrolled concomitant disease that would contraindicate the use of any of the investigational drugs used in this study or would put the participants at high risk for treatment-related complications\n* Inadequate hematologic, liver, or renal function\n* Uncontrolled hypertension or clinically significant cardiovascular disease\n* Hepatitis B, hepatitis C, or human immunodeficiency virus (HIV) infection\n* Current chronic daily treatment with corticosteroids (\\>/= 10 mg/day methylprednisolone or equivalent), excluding inhaled steroids",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

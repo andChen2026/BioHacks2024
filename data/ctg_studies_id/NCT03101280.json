@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03101280",
+    "briefTitle": "A Combination Study of Rucaparib and Atezolizumab in Participants With Advanced Gynecologic Cancers and Triple-Negative Breast Cancer",
+    "officialTitle": "A Phase IB Combination Study of Rucaparib (CO-338) and Atezolizumab (MPDL3280A) in Participants With Advanced Gynecologic Cancers and Triple-Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Gynecologic Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 29,
+    "primaryOutcomeMeasure": "Percentage of Participants With Adverse Events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1\n* A life expectancy of at least 3 months\n* Have disease that is measurable as according to RECIST v1.1\n* Have sufficient archival formalin-fixed paraffin-embedded (FFPE) tumor tissue available for planned analyses\n* For Part 1, have a histologically confirmed diagnosis of ovarian or endometrial cancer, and have received at least one line of prior therapy for metastatic disease\n* For Part 2 ONLY, have disease that can be safely biopsied\n* For Part 2 ONLY, have a deleterious germline or somatic breast cancer susceptibility gene 1 (BRCA1) or BRCA2 mutation or tumors that are wild-type BRCA but show high levels of loss of heterozygosity (LOH) (tBRCAwt/LOHhigh) signature\n* For Part 2 Cohort 1 (ovarian cancer), high-grade serous or Grade 3 endometrioid epithelial ovarian, fallopian tube, or primary peritoneal cancer (PPC)\n* For Part 2 Cohort 1, have received at least one and no more than two lines of prior platinum-containing therapy and progressed after the most recent platinum therapy in a platinum-sensitive timeframe\n* For Part 2 ONLY, Cohort 1, have a CA125 measurement that is greater than 2 times the upper limit of normal (ULN)\n* For Part 2 Cohort 2 (TNBC), metastatic, histologically confirmed estrogen receptor (ER)-negative, progesterone receptor-negative, and HER2-negative adenocarcinoma of the breast per local laboratory assessment\n* For Part 2 Cohort 2, radiologic/objective evidence of recurrence or disease progression after one line of chemotherapy for TNBC in the metastatic setting\n* Have adequate organ function\n\nExclusion Criteria:\n\n* History of prior malignancy except a) curatively treated non-melanoma skin cancer, b) solid tumor treated curatively more than 3 years ago without evidence of recurrence, c) For Cohort 1 (ovarian cancer): breast cancer with no evidence of disease or inactive for at least 3 years, and d) synchronous endometrial cancer (Stage 1A) with ovarian cancer\n* Treatment with chemotherapy, radiation, hormones (except corticosteroids and megestrol acetate), or other anticancer therapies less than or equal to (\\<=) 14 days prior to first dose of study treatment\n* Preexisting duodenal stent and/or any gastrointestinal disorder or defect that would, in the opinion of the investigator, interfere with absorption of rucaparib\n* Symptomatic and/or untreated central nervous system metastases\n* Prior treatment with any poly adenosine diphosphate-ribose polymerase (PARP) inhibitor",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

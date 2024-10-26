@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00959946",
+    "briefTitle": "Study Of Bosutinib With Capecitabine In Solid Tumors And Locally Advanced Or Metastatic Breast Cancer",
+    "officialTitle": "A Phase 1/2, Open-Label Study Of Bosutinib Administered In Combination With Capecitabine In Subjects With Solid Tumor And ErbB2 Negative Locally Advanced Or Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Advanced Breast Cancer (Parts 1 and 2), Advanced Pancreatic Cancer (Part 1), Advanced Colorectal Cancer (Part 1), Advanced Cholangiocarcinoma (Part 1), Advanced Glioblastoma Multiforme (Part 1)",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 32,
+    "primaryOutcomeMeasure": "Maximum Tolerated Dose (MTD) - Part 1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPart 1:\n\n* Ages eligible for study: 18 years or older.\n* Male and female.\n* Confirmed pathologic diagnosis of advanced breast cancer or pancreatic cancer or colorectal cancer or cholangiocarcinoma or glioblastoma not curable with available therapies, for whom bosutinib plus capecitabine is a reasonable treatment option.\n\nPart 2:\n\n* Ages eligible for study: 18 years or older.\n* Female.\n* Confirmed pathologic diagnosis of locally advanced or metastatic breast cancer, or loco-regional recurrent breast cancer that is not amenable to curative treatment with surgery or radiotherapy.\n* Documented ER+ and/or PgR+/erbB2- or ER-/PgR-/erbB2- tumor based upon recently analyzed biopsy.\n\nExclusion Criteria:\n\nPart 1:\n\n* Prior bosutinib, or any other prior Src inhibitor.\n* Prior chemotherapy with capecitabine or 5-FU for the treatment of metastatic disease is allowed unless patient stopped therapy for toxicity.\n\nPart 2:\n\n* Prior bosutinib, or any other prior Src inhibitor prior chemotherapy with capecitabine or 5-FU for the treatment of metastatic disease.\n* Prior chemotherapy with capecitabine or 5-FU for adjuvant chemotherapy within the past 12 months.\n* erbB2+ breast cancer.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

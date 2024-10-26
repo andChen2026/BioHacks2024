@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02266602",
+    "briefTitle": "Intraoperative Radiation Therapy in Early Stage Breast Cancer",
+    "officialTitle": "Intra-Operative Radiotherapy After Breast Conserving Therapy in the Treatment of in Situ and Early Stage Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Local Disease Relapse",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nGeneral Inclusion Criteria\n\n1. Age \u2265 45 years.\n2. Clinical stage Tis, T1, T2 (\u2264 3cm), N0, M0 (AJCC Classification).\n3. Invasive ductal or lobular carcinoma, DCIS and/ or pleomorphic lobular carcinoma in situ.\n\nExclusion Criteria:\n\n1. Scleroderma, systemic sclerosis and active lupus.\n2. Participation in an investigational drug or device study.\n3. Previous ipsilateral radiation to the thorax or breast.\n4. Multifocal breast cancer.\n5. Pregnant patients.\n6. Patient not competent to provide informed consent.\n7. Neoadjuvant systemic therapy.\n8. Lymphovascular invasion on biopsy pathology",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

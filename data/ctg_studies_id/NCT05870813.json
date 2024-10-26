@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05870813",
+    "briefTitle": "CLEAR-B: Cancer Landscape - Early Adjuvant Retrospective Registry - Breast Cancer",
+    "officialTitle": "Cancer Landscape - Early Adjuvant Retrospective Registry - Breast Cancer (CLEAR-B)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, HER2-negative Breast Cancer, Hormone Receptor Positive Breast Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 3000,
+    "primaryOutcomeMeasure": "iDFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with a first primary diagnosis of hormone receptor-positive, HER2- negative unilateral early breast cancer for whom an endocrine treatment is indicated\n* Patients must be at least 18 years of age but not older than 60\n* Premenopausal defined as all statements must be true\n\n  * No oophorectomy before the diagnosis of breast cancer\n  * Women with uterus: Regular, physiological menses at the timepoint of therapy decision for anti-endocrine treatment in the absence of contraceptives and hormonal treatment\n  * Women without uterus and remaining ovaries: premenopausal hormone levels must be documented at the time of therapy decision for anti-endocrine treatment\n* Patients with an intermediate or high-risk early-stage breast cancer defined as: At least one of the following must be fulfilled\n\n  * (Neo)adjuvant chemotherapy\n  * pT\u22652cm at the timepoint of definitive surgery\n  * at least one positive lymph node at the time of definite surgery (pN+)\n* Patient must be previously registered in and must have been documented as part of the certification process for a certified breast cancer center according to the Deutsche Krebsgesellschaft/Deutsche Gesellschaft fu\u0308r Senologie\n* Breast Cancer must have been diagnosed between Jan 2016 and Jun 2019\n\nExclusion Criteria:\n\n* Patients with a low recurrence risk (see inclusion criteria for definition)\n* Locally advanced breast cancer or distant metastases at diagnosis\n* Male biological sex\n* Patients not treated in a certified breast cancer center\n* Treatment with CDK4/6Previous diagnosis of invasive breast cancer or in situ breast cancer\n* Concurrent invasive malignancy\n* Bilateral breast cancer at the timepoint of diagnosis\n* Previous diagnosis of invasive breast cancer or in situ breast cancer is not allowed",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

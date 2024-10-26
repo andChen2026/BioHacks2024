@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00302120",
+    "briefTitle": "The MONET - Study: MR Mammography of Nonpalpable Breast Tumors",
+    "officialTitle": "MR Mammography: Randomized Controlled Trial to Study Efficiency of MR Mammography in Reducing the Number of Invasive Interventions in Nonpalpable Suspicious Breast Lesions. The MONET - Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 440,
+    "primaryOutcomeMeasure": "The absolute number of surgical procedures in women with nonpalpable malignancies will be compared between MRI group and control group.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* patients with a nonpalpable, mammographically suspicious breast lesion (BI-RADS 3, 4 or 5)\n* referred for large core needle biopsy\n* 18 to 75 years\n\nExclusion Criteria:\n\n* previous breast surgery or radiation therapy of the breast less than 9 months before MR mammography\n* pregnant or lactating\n* claustrophobia or adiposity ( \\> 130 kg)\n* general contraindications for MRI\n* unable to maintain prone position for one hour\n* medically unstable patients",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

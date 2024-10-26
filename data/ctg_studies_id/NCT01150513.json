@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01150513",
+    "briefTitle": "Docetaxel+Carboplatin vs Epirubicin+Cyclophosphamide Followed by Docetaxel as Adjuvant Treatment in Triple-negative Breast Cancer",
+    "officialTitle": "Docetaxel Plus Carboplatin Versus Epirubicin Plus Cyclophosphamide Followed by Docetaxel as Adjuvant Treatment in Triple-negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 320,
+    "primaryOutcomeMeasure": "Disease Free Survival (DFS) of 3 years",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Triple-negative breast cancer\n* Older than 18 years old\n* Have tumor resection surgery\n* Sufficient organ function (marrow, heart, liver)\n\nExclusion Criteria:\n\n* Other malignancy\n* Other serious disease( marrow, heart, liver)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02101320",
+    "briefTitle": "Hand-held Gamma Camera in the SNOLL Procedure",
+    "officialTitle": "Contribution of a Hand-held Gamma Camera (TreCam) to the SNOLL(Occult Breast Lesion Localization Plus Sentinel Node Biopsy) Procedure in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 47,
+    "primaryOutcomeMeasure": "Rate of further surgery for non in sano or inadequate (less than 3 mm security margins) lumpectomy piece's margins.",
+    "eligibilityCriteria": "Inclusion Criteria :\n\n* Patients older than 18 years\n* Patients undergoing SNOLL procedure for breast non palpable invasive cancer (ultrasound image target) confirmed by biopsy before surgery\n* Clinical T0N0 stage\n* Before the SNOLL procedure, patients will be informed on all this procedure\n* A free and informed consent must be obtained\n\nExclusion Criteria :\n\n* Multifocal breast cancer, diffuse microcalcifications\n* Non-palpable breast cancer without ultrasound target\n* Isolated in situ cancer or invasive cancer associated with extended in situ carcinoma\n* Patients who underwent neoadjuvant chemotherapy\n* Palpable axillary nodes on clinical examination or with a suspicious or positive cytology\n* Pregnant patient\n* History of axillary surgery or mammoplasty\n* Allergy to any component of the tracking technique",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

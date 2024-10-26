@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06217458",
+    "briefTitle": "The Added Value of Contrast Enhanced Mammography to Standard Mammography in Assessing the Extent of DCIS",
+    "officialTitle": "The Added Value of Contrast Enhanced Mammography (CEM) to Standard Mammography in Assessing the Extent of Ductal Carcinoma in Situ (DCIS)",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "DCIS, Breast Carcinoma in Situ, Calcification",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Number of true positive CEMs in the Interventional group",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with pathohistological diagnosis of ductal in situ carcinoma based on samples obtained by vacuum-assisted breast biopsy (VABB) or ultrasound-guided breast biopsy (CNB)\n* Presented at the meeting of the multidisciplinary breast team of the Clinical Hospital Center in Rijeka\n* Patients who underwent surgery at CHC Rijeka and whose pathohistological diagnosis in the final PH report was pure DCIS or microinvasive breast cancer (DCIS with microinvasion)\n* Patients who agree to participate in the study\n\nExclusion Criteria:\n\n* Patients with contraindications for CEM: renal insufficiency (which is ruled out by presenting creatinine and/or eGFR results), iodine allergy, pregnancy/lactation, hyperthyroidism\n* Patients who have undergone a preoperative breast MRI\n* Patients who have both DCIS and invasive carcinoma in the preoperative PH report or the final PH report of the surgical material, with the exception of foci with microinvasion (\\< 1 mm).\n* Patients with ipsilateral DCIS recurrence or with previous ipsilateral breast surgery for invasive cancer.\n* Patients/subjects whose CEMs do not correspond to the diagnostic interpretation for technical reasons are excluded from the study: insufficient positioning, contrast agent extravasation, failed subtraction\n* Patients under 18 years of age",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

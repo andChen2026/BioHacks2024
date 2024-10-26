@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00604435",
+    "briefTitle": "Neoadjuvant Endostatin and Chemotherapy for Breast Cancer",
+    "officialTitle": "Phase II Trial of Neoadjuvant Recombinant Human Endostatin, Docetaxel and Epirubicin as First-line Therapy in Patients With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 69,
+    "primaryOutcomeMeasure": "clinical/pathological response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed invasive breast cancer (core needle biopsy for breast cancer diagnosis and fine needle aspiration for lymph node metastasis diagnosis)\n* Stage \u2161A-\u2162C\n* Age 18-70\n* ECOG performance status 0-2\n* No evidence of distant metastasis\n* No previous therapy\n* Normal hematologic function\n* left ventricular ejection fraction greater than 50 percent\n* No abnormality of renal or liver function\n* Written informed consent\n\nExclusion Criteria:\n\n* With allergic constitution or possible allergic reflection to drugs to be used in this study\n* Any concurrent uncontrolled medical or psychiatric disorder\n* History of severe heart diseases, including congestive heart failure, unstable angina, uncontrolled arrhythmia, myocardial infarction, uncontrolled high blood pressure, or heart valve disease.\n* History of bleeding diathesis\n* Being pregnant or nursing",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

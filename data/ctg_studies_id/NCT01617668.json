@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01617668",
+    "briefTitle": "A Randomized, Phase 2, Neoadjuvant Study of Weekly Paclitaxel With or Without LCL161 in Patients With Triple Negative Breast Cancer",
+    "officialTitle": "A Phase II Multi-center, Open-label, Neoadjuvant, Randomized Study of Weekly Paclitaxel With or Without LCL161 in Patients With Triple Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 209,
+    "primaryOutcomeMeasure": "Pathological Complete Response (pCR) Rate in Breast After 12 Weeks of Therapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of invasive triple negative breast cancer\n* Known status for the LCL161 predictive gene expression signature as determined during molecular pre-screening\n* Candidates for mastectomy or breast-conserving surgery\n* Primary tumor of greater than 20 mm and less than or equal to 50 mm diameter measured by imaging (previous Amendment #3 was tumor size greater than 10 mm)\n* Regional nodes N0-N2\n* Absence of distant metastatic disease\n* ECOG performance status 0-1\n* Adequate bone marrow function\n* Adequate liver function and serum transaminases\n* Adequate renal function\n\nExclusion Criteria:\n\n* Bilateral or inflammatory breast cancer (bilateral mammography is required during Screening/baseline); locally recurrent breast cancer\n* Patients currently receiving systemic therapy for any other malignancy, or having received systemic therapy for a malignancy in the preceding 3 months\n* Uncontrolled cardiac disease\n* Patients who are currently receiving chronic treatment (\\>3 months) with corticosteroids at a dose \u2265 10 mg of prednisone (or its glucocorticoid equivalent) per day (inhaled and topical steroids are allowed), or any other chronic immunosuppressive treatment that cannot be discontinued prior to starting study drug\n* Impaired GI function that may affect the absorption of LCL161\n* Pregnant or breast feeding (lactating) women\n* Women of child-bearing potential, defined as all women physiologically capable of becoming pregnant, unless they are using highly effective methods of contraception during dosing and for 180 days after study treatment\n* Other protocol-defined inclusion/exclusion criteria may apply",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

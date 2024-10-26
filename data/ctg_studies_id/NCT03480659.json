@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03480659",
+    "briefTitle": "Detection of Breast Cancer With Non-invasive Method Based on DNA Methylation of Circulated Tumor DNA, PBMC",
+    "officialTitle": "Breast Cancer Screening Using DNA Methylation Changes in Circulated Tumor, PBMC and T-cells DNA.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Breast Cancer Female",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 165,
+    "primaryOutcomeMeasure": "DNA methylation of circulated tumor and PBMC DNA and its Correlation to Development and prediction of breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological confirmed breast cancer subtypes (DCIS and invasive)\n\nExclusion Criteria:\n\n* Pregnant women\n* Minors (subjects less than 18 years of age)\n* Prisoners\n* Patients with known infectious disease, such as human immunodeficiency virus (HIV), tuberculosis (TB), or hepatitis B, C\n* Patients having other than one cancer\n* Subjects unable to consent for themselves",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

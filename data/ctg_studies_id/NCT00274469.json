@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00274469",
+    "briefTitle": "A Clinical Trial to Compare Efficacy and Tolerability of Faslodex With Arimidex in Patients With Advanced Breast Cancer",
+    "officialTitle": "A Randomized, Open-Label, Parallel-Group, Multicentre, Phase II Study to Compare the Efficacy and Tolerability of Fulvestrant (FASLODEX\u2122) 500 mg With Anastrozole (ARIMIDEX\u2122) 1 mg as First Line Hormonal Treatment for Postmenopausal Women With Hormone Receptor Positive Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 205,
+    "primaryOutcomeMeasure": "Clinical Benefit Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed hormone receptor positive advanced breast cancer, postmenopausal women\n\nExclusion Criteria:\n\n* Previous treatment for advanced breast cancer (previous treatment for early breast cancer is allowed).",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

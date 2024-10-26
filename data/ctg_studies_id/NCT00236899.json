@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00236899",
+    "briefTitle": "Phase III Study of Two Different Schedules (Weekly and Tri-weekly) of Combination of Gemcitabine and Two Taxanes in MBC",
+    "officialTitle": "A Randomized Phase III Trial of Gemcitabine and Docetaxel Versus Gemcitabine and Paclitaxel in Patients With Metastatic Breast Cancer: A Comparison of Different Schedules",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer (MBC)",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 241,
+    "primaryOutcomeMeasure": "Time to Progressive Disease (TTPD) by Treatment Schedule",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologic diagnosis of metastatic breast cancer (MBC).\n* Prior neoadjuvant or adjuvant taxanes regimen is allowed if \u226512 months since completion of the regimen.\n* Relapsing after receiving one adjuvant/neoadjuvant chemotherapy containing an anthracycline if not clinically contraindicated.\n* Patients with measurable disease.\n* Previous hormonal therapy for adjuvant setting or metastatic disease.\n\nExclusion Criteria:\n\n* Previous chemotherapy for MBC\n* Previous chemotherapy with gemcitabine in any setting of disease\n* Patient candidable to treatment with trastuzumab.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

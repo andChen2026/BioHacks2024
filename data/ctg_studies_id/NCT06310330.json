@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06310330",
+    "briefTitle": "TRUST-ACE - Anticancer-treatment Cardiotoxicity Identification by Echocardiography",
+    "officialTitle": "Technology Revising Ultrasound Solutions for Tomorrow - Anticancer-treatment Cardiotoxicity Identification by Echocardiography",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Neoplasm Malignant Primary",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 250,
+    "primaryOutcomeMeasure": "Proportion of patients correctly classified with cancer therapy related cardiac dysfunction (CTRCD)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer and referral for follow-up to identify potential CTRCD\n\nExclusion Criteria:\n\n* Not willing or able to consent",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

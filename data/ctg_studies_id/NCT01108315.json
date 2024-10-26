@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01108315",
+    "briefTitle": "Comprehensive Patient Reported Outcomes (PRO) Management for Oncology Practice",
+    "officialTitle": "Phase II Study of Comprehensive Patient Reported Outcomes (PRO) Management for Oncology Practice",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 138,
+    "primaryOutcomeMeasure": "Usability and effectiveness of the prototype",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, breast oncology patient\n* Breast cancer diagnosis\n* Expected chemotherapy regimen of at least 3-4 months\n* Sufficient cognitive ability and psychological stability in the opinion of treating physician\n* Fluent in spoken and written English\n* 18 years of age or older\n* Outpatient\n* Life expectancy \\> 6 months as estimated by treating physician\n* Informed of the investigational nature of this study and provided informed consent.\n* Has access to either a phone or the internet\n\nExclusion Criteria:\n\n* Is not female, nor a breast oncology patient\n* Does not have breast cancer diagnosis\n* Expected chemotherapy regimen is less than 3-4 months\n* Does not have sufficient cognitive ability and psychological stability in the opinion of treating physician\n* Is not fluent in spoken and written English\n* Is younger than 18 years of age\n* Inpatient\n* Life expectancy \\< 6 months as estimated by treating physician\n* Is not informed of the investigational nature of this study and does not provide informed consent.\n* Does not have access to either a phone or internet.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

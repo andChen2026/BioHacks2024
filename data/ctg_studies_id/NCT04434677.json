@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04434677",
+    "briefTitle": "Hypofractionation And Ultra-Hypofractionation In Adjuvant Radiotherapy For Breast Cancer",
+    "officialTitle": "Comparative Study Between Hypofractionation And Ultra-Hypofractionation In Adjuvant Radiotherapy For Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Rate of Acute grade 2 or higher toxicity (NCI-CTCAE)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u226550 years old.\n* Informed consent.\n* Either breast conservative surgery or mastectomy.\n* Invasive breast cancer with p T1-3, p N0-2.\n* Non metastatic breast cancer proven by clinical examinations and imaging (X-ray chest and ultrasound or CT scan chest and abdomen).\n\nExclusion Criteria:\n\n* Evidence of distant metastases.\n* Prior irradiation.\n* Inflammatory breast cancer.\n* Tumor with T4 (skin nodules or fixed to chest wall or ulceration).\n* Tumor with positive margins.",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

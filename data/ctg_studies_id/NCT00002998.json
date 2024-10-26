@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00002998",
+    "briefTitle": "Gemcitabine and Cisplatin in Treating Patients With Metastatic Breast Cancer",
+    "officialTitle": "Phase II Study of Gemcitabine (GEMZAR) and Cisplatin (CDDP) in Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 59,
+    "primaryOutcomeMeasure": "Response rate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS: Histologic or cytologic confirmation of metastatic breast cancer with two exceptions: -New or enlarging pulmonary nodules demonstrable on two chest radiographs taken at least one month apart OR -Multiple characteristic lytic bone metastasis or liver metastases Measurable indicator lesion Measurable metastatic disease must be bidimensionally measurable except in the case of hepatomegaly that may be unidimensionally measurable Patients receiving bisphosphonates must have a measurable disease other than bone No CNS metastases unless controlled with prior surgery and/or radiotherapy\n\nPATIENT CHARACTERISTICS: Age: 18 and over Performance status: ECOG 0-2 Life expectancy: Greater than 3 months Hematopoietic: WBC at least 3500/mm3 or absolute neutrophil count at least 2000/mm3 Platelet count at least 100,000/mm3 Hepatic: Bilirubin no greater than 0.3 mg/dL above upper limit of normal limit (ULN) AST no greater than 3 times ULN Renal: Creatinine no greater than 0.3 mg/dL above ULN Cardiovascular: No New York Heart Association class III or IV heart disease Other: Physician-estimated oral caloric intake of at least 1200 calories per day No uncontrolled infection or chronic debilitating disease Not pregnant or nursing Women of childbearing potential must use adequate contraception\n\nPRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: Must have previously received 1 but no more than 2 chemotherapy regimens At least 1 prior regimen administered for metastatic disease At least 1 prior regimen containing an anthracycline or paclitaxel At least 4 weeks since prior chemotherapy Endocrine therapy: Not specified Radiotherapy: At least 3 weeks since prior radiotherapy No prior strontium 89 radiotherapy Prior radiotherapy must have been to less than 25% of bone marrow Surgery: At least 4 weeks since any major surgery",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

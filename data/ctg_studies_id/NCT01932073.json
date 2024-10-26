@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01932073",
+    "briefTitle": "Laser Therapy for the Management of Radiation Dermatitis",
+    "officialTitle": "Low-Level Laser Therapy for the Management of Radiation Dermatitis: A Pilot Study in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Radiation Dermatitis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 79,
+    "primaryOutcomeMeasure": "Radiation Dermatitis Grade",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of noninvasive (Stage 0) or invasive (Stages 1, 2 or 3A) breast adenocarcinoma\n* Treatment with primary breast-sparing surgery (lumpectomy) and/ or neoadjuvant (preoperative) or adjuvant (postoperative) chemotherapy or hormonal treatment\n* Scheduled for postoperative radiotherapy with standard technique (isocentric) and fractionation regime (i.e., 25 daily fractions to the whole breast followed by a boost of 8 fractions to the tumor bed, 2 Gy per fraction, five times per week)\n* Provide signed informed consent\n\nExclusion Criteria:\n\n* Previous irradiation to the same breast\n* Metastatic disease\n* Mastectomy surgery\n* Concurrent chemo-radiotherapy\n* Required use of bolus material to deliver radiation therapy (i.e., material placed on the to-be-irradiated zone to modulate the delivered dose in order to ensure an optimal distribution of the radiation dose)",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

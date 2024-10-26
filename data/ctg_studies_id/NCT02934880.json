@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02934880",
+    "briefTitle": "Impact of Adapted Physical Activity on Cognitive Functions in Breast Cancer",
+    "officialTitle": "Study of Impact of Adapted Physical Activity on Cognitive Functions and Quality of Life in Patients Treated for Locally Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 152,
+    "primaryOutcomeMeasure": "proportion of patient with an increase of Functional Assessment of Cancer Therapy-Cognitive Function (FACT-COG) result",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women\n* More than 18 years old\n* Locally advanced breast cancer\n* Patient who undergone surgery\n* Cognitive complaint (FACT-COG inferior or equal to 8/16)\n* No metastasis at the inclusion\n* Patient who received adjuvant therapy by chemotherapy\n* Patient with a social protection\n* Barbizet scale Superior or equal to 3\n* No neurological history\n* No medical contraindication to APA\n* Inform consent signed\n\nExclusion Criteria:\n\n* Metastatic breast cancer\n* History of other cancer (in 5 years before inclusion)\n* Current chemotherapy or radiotherapy\n* Chemotherapy or radiotherapy ended for more than 6 months\n* Current APA program\n* Blood transfusion for less than 6 mois\n* Minimal mental score inferior to normal\n* Patient no able to respond to the cognitive test\n* Patient no able to realize APA program\n* Drug use\n* Alcohol abuse\n* Patient Under guardianship or curatorship or deprived of liberty",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

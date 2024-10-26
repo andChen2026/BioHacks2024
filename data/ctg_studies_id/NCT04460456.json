@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04460456",
+    "briefTitle": "A Study of SBT6050 Alone and in Combination With PD-1 Inhibitors in Subjects With Advanced HER2 Expressing Solid Tumors",
+    "officialTitle": "A Phase 1/1B, Open-Label, Dose Escalation and Expansion Study of SBT6050 Alone and in Combination With PD-1 Inhibitors in Subjects With Advanced Solid Tumors Expressing HER2",
+    "overallStatus": "UNKNOWN",
+    "conditions": "HER2 Positive Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 58,
+    "primaryOutcomeMeasure": "The proportion of subjects experiencing dose limiting toxicities",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Locally advanced or metastatic HER2-expressing (IHC 2+ or 3+) or amplified solid tumor\n* Subjects must have received prior therapies known to confer clinical benefit (unless ineligible or refused to receive)\n* Measurable disease per RECIST 1.1\n* Tumor lesion amenable for biopsy or able to provide tissue from biopsy within last 6 months\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Adequate hematologic, hepatic, and cardiac function\n\nExclusion Criteria:\n\n* History of allergic reactions to certain components of SBT6050 or similar drugs\n* Untreated brain metastases\n* Active autoimmune disease or a documented history of autoimmune disease or syndrome\n* Human immunodeficiency virus infection, active hepatitis B infection or hepatitis C infection\n* Additional protocol defined inclusion/exclusion criteria may apply.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

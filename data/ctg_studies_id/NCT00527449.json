@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00527449",
+    "briefTitle": "Neoadjuvant Chemotherapy of Primary Breast Cancer With Epirubicin/Docetaxel and Carboplatin/Docetaxel",
+    "officialTitle": "Neoadjuvant Chemotherapy With 3x Epirubicin/Docetaxel Followed by 3x Carboplatin/Docetaxel in Patients With Primary Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Primary Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Determining pathologic complete remission under study treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histologically assured breast cancer\n* age \\>= 18 years\n* bone marrow function: neutrophils \\>= 1.5x109/l, platelets \\>= 100x109/l, hemoglobin \\>=6.2 mmol/l\n* sufficient renal and liver function\n* ECOG 0-2\n* written informed consent\n\nExclusion Criteria:\n\n* pregnant or nursing women\n* distant metastases\n* T2-Tumour \\< 3cm and G1\n* existing motoric or sensoric neurotoxicity \\> Grade 2\n* known hypersensitivity against Epirubicin or other anthracycline or against Carboplatin or other platin derivatives or against Docetaxel or against substances in the preparing solutions",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

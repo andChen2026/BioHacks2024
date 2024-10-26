@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06155331",
+    "briefTitle": "Evaluation of Possible Safety and Efficacy of Fenofibrate in the Prophylaxis of Doxorubicin Induced Cardiotoxicity in Breast Cancer Patients",
+    "officialTitle": "Clinical Study to Evaluate the Possible Safety and Efficacy of Fenofibrate in the Prophylaxis of Doxorubicin Induced Cardiotoxicity in Breast Cancer Patients",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Stage 2 and 3",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 44,
+    "primaryOutcomeMeasure": "Assessment of changes in ejection fraction (the amount of blood that heart pumps each beat) using echocardiography",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 years old.\n* Patients with biopsy confirmed diagnosis breast cancer and with stage II and stage III breast cancer according to the American Joint Committee on Cancer (TNM staging system of breast cancer).\n* Patients with performance status \\<2 according to Eastern Cooperative Oncology Group (ECOG) score.\n* Adequate baseline hematologic values (absolute neutrophilic count \u2265 1.5 \u00d7 109/L, platelet count \u2265 100 \u00d7 109/L and hemoglobin level \u2265 10 g/dl).\n* Patients with adequate liver function (serum bilirubin \\< 1.2 mg/dl) and adequate renal function (serum creatinine \\< 1.5 mg/d).\n\nExclusion Criteria:\n\n* Patients with prior exposure to anthracyclines in the last 6 months.\n* Patients with evidence of metastasis at the initial assessment.\n* Concomitant use of antioxidant vitamins (vitamin A, C, E).\n* Presence of clinical evidence for severe cardiac illness (angina pectoris, uncontrolled hypertension, arrhythmias and left ventricular ejection fraction \\<50%).\n* Patients with inflammatory diseases (ulcerative colitis, rheumatoid arthritis).\n* Patients with conditions associated with oxidative stress (smoking, tuberculosis, comorbid obesity).\n* Patients who are candidates for monoclonal antibodies such as Trastuzumab and other targeted therapy (HER2 positive patients).\n* Patients with active liver disease (cirrhosis, fatty liver, hepatitis C, etc..).\n* Patients with myopathy.\n* Patients with renal impairment, including those with end-stage renal disease and those receiving dialysis.\n* Pregnant and breast feeding women.\n* Known allergy to the fenofibrates.\n* Concurrent use of statin, colchicine, ciprofibrate, idelalisib, ivacaftor, aspirin low strength, clopidogrel, warfarin, enzyme inducers (phenytoin, phenobarbitone, carbamazepine,...), enzyme inhibitors (allopurinol, MAOI, SSRI,...), drugs with high plasma protein binding capacity (sulfonamides, valproate, oral hypoglycemic, warfarin,...) in order to avoid potential pharmacodynamics and pharmacokinetic drug interactions.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

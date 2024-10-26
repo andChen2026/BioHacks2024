@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04137640",
+    "briefTitle": "Palbociclib + Letrozole Versus Epirubicin + Cyclophosphamide and Sequential Docetaxel as Neoadjuvant Chemotherapy",
+    "officialTitle": "Palbociclib + Letrozole Versus Epirubicin + Cyclophosphamide and Sequential Docetaxel as Neoadjuvant Chemotherapy for Postmenopausal Estrogen Receptor-positive Breast Cancer: a Prospective Randomized Controlled Double-blind Phase IV Trial",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 152,
+    "primaryOutcomeMeasure": "Clinical Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* pathological examination confirms estrogen receptor positive, and Ki67 \\< 30% in breast cancer patients;\n* postmenopausal women;\n* tumor size stage \u2265 T3, or lymph node stage \u2265 N2, or ipsilateral upper extremity edema or the extent of lesions exceeds the scope of radical surgery;\n* Karnofsky functional status score \u2265 70;\n* normal findings of blood examination, normal liver and kidney functions, and basically normal electrocardiogram results before chemotherapy;\n* age range from 18-70 years old.\n\nExclusion Criteria:\n\n* history of anti-tumor treatment;\n* inflammatory breast cancer or occult breast cancer;\n* stage IV breast cancer;\n* history of other malignant tumors;\n* severe vital organ dysfunction, such as heart, liver and kidney or poor constitution cannot tolerate chemotherapy, or the treatment plan change due to intolerance during chemotherapy;\n* cannot comply with the treatment because of mental and neurological diseases;\n* dexamethasone contraindications or severe allergies to any drug in NAC;\n* receiving NAC, but it is judged to be ineffective after two cycles of treatment, and other programs are forced to be used or chemotherapy is stopped to receive surgery;\n* participation in other clinical trials.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06165900",
+    "briefTitle": "Stereotactic Radiotherapy Combined With Adebrelimab and TCb (Nab-paclitaxel + Carboplatin) in Neoadjuvant Treatment of TNBC",
+    "officialTitle": "A Multicenter, Randomized Trial of Stereotactic Radiotherapy Combined With Adebrelimab and TCb (Nab-paclitaxel + Carboplatin) Versus Adebrelimab Combined With TCb (Nab-paclitaxel + Carboplatin) in Neoadjuvant Treatment of Triple-negative Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Stereotactic Radiotherapy, Immunotherapy, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 136,
+    "primaryOutcomeMeasure": "tpCR",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Treatment-na\u00efve breast cancer female patients aged \u2265 18 years and \u2264 75 years;\n* Histopathologically confirmed early or locally advanced triple-negative invasive breast cancer according to the latest ASCO/CAP guidelines, meeting the following conditions: (1) pathological type is triple-negative, specifically: ER negative: IHC \\< 1%, PR negative: IHC \\< 1%, HER2 negative: IHC 0/1 + or IHC2 + but ISH negative;\n* Clinical stage II-III invasive breast cancer with measurable lesions according to RECIST 1.1;\n* ECOG score 0-1;\n* Able to tolerate preoperative and postoperative adjuvant radiotherapy after assessment by a radiologist;\n* Appropriate level of organ function\n* Patients voluntarily participate in and sign the informed consent form, are expected to have good compliance and cooperate with the study according to the requirements of the protocol.\n\nExclusion Criteria:\n\n* Patients with metastatic breast cancer or bilateral breast cancer;\n* Patients with inflammatory breast cancer or occult breast cancer;\n* Patients received any anti-tumor therapy within 12 months before signing the informed consent form, including chemotherapy, targeted therapy, radiotherapy, endocrine therapy, immunotherapy, biological therapy or tumor embolization;\n* Patients previously received PD-1/PD-L1 antibody, CTLA-4 antibody, or other treatments against PD-1/PD-L1 inhibitors;\n* Female patients who are pregnant and lactating, female patients who are fertile and have a positive baseline pregnancy test, or female patients of childbearing age who are unwilling to take effective contraceptive measures throughout the trial.\n* Have a clear history of neurological or psychiatric disorders, including epilepsy or dementia, and the subject has a known history of psychotropic drug abuse, alcoholism ;\n* Human immunodeficiency virus (HIV) infection or known acquired immunodeficiency syndrome (AIDS); positive hepatitis B surface antigen (HBsAg) test, or positive hepatitis B core antibody (HBcAb) test followed by positive HBV-DNA test (HBV-DNA test was performed only in patients with negative HBsAg test and positive HBcAb test); positive hepatitis C virus (HCV) antibody test followed by positive HCV-RNA test (HCV-RNA test was performed only in patients with positive HCV antibody test)\n* Any other condition that, in the opinion of the investigator, would make the patient inappropriate for participation in this study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

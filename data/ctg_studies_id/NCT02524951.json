@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02524951",
+    "briefTitle": "Safety and Tolerability of MSI-1436C in Metastatic Breast Cancer",
+    "officialTitle": "A Phase I Study of the Safety and Tolerability of Single Agent MSI-1436C in Metastatic Breast Cancer Patients",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 5,
+    "primaryOutcomeMeasure": "Maximally Tolerated Dose (MTD) of MSI-1436",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed, witnessed, and dated Institutional Review Board (IRB) approved Informed Consent Form (ICF).\n* Pathologically confirmed metastatic breast cancer with measurable disease. Metastatic sites must be measurable on CT, MRI, or FDG-PET/CT as per the revised RECIST v1.1 criteria or measurable disease on physical examination.\n\nA metastatic site must be biopsy proven\n\n* Life expectancy \u22653 months.\n* Patients enrolled must have received 2 or more lines of therapy and all patients with HER2 expressing tumors must have received HER2 targeted therapy.\n* Female Age \u226518 years.\n* Stable brain metastasis is permitted. This is not considered measurable disease.\n\nStable brain metastasis is defined as no change on CT scan or MRI for minimum of 2 months AND no change in steroid dose for a minimum of 4 weeks\n\n* A negative serum pregnancy test, if female of reproductive potential. Reproductive potential defined as age \\< 55 or with no menses for \\< 1 year\n* Screening laboratory values as follows:\n\nTotal bilirubin \u22641.5 times upper limit of normal (ULN). Aspartate aminotransferase (serum glutamic oxaloacetic transaminase) and alanine aminotransferase (serum glutamic pyruvate transaminase)\u2264 2.5 times ULN.\n\nSerum creatinine \u22642.0 mg/dL or calculated creatinine clearance \u226560 mL/min. Absolute neutrophil count \\>1,500 cells/mm3. Platelet count \u2265100,000 plt/mm3. Hemoglobin \u2265 8 g/dL. Non-diabetic\n\nExclusion Criteria:\n\n* Pregnant or breast-feeding\n* ECOG Performance Status greater than 2",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

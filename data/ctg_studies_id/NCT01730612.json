@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01730612",
+    "briefTitle": "ImmunoTEP au 68-Ga- IMP-288 for Patients With a Recurrence of HER2 Negative Breast Carcinoma Expressing CEA",
+    "officialTitle": "Pilot Study for Optimization of Immuno-PET Pretargeted With Anti-CEA Bispecific Antibody X Anti-HSG TF2 and the Peptide IMP-288 Radiolabeled With Gallium-68 -Pharmacokinetic and Imaging for Patients With a Recurrence of HER2 Negative Breast Carcinoma Expressing CEA",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER2 Negative Breast Carcinoma Expressing CEA",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 23,
+    "primaryOutcomeMeasure": "evaluation of the tumor targeting (no Unit) and signal / noise ratio (no unit) by the immunoTEP with TF2 and 68-Ga-IMP-288",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast carcinoma, HER2 + (Dako) and HER2 + (fish) metastatic at least after treatment with current consensus\n* \u2265 18 years\n* Negative pregnancy test for women of childbearing age. Women of childbearing age should take effective contraception continuously for 3 months.\n* Karnofsky \u2265 70 or ECOG 0-1\n\n  \u2022\u2022 ACE of the tumor by immunohistochemistry or positive plasma CEA \u2265 10 ng / mL\n* At least one measurable lesion on CT\n* creatinine \\< 2.5\n* Informed consent signed\n* Social insurance\n\nExclusion Criteria:\n\n* Pregnancy or breastfeeding\n\n  * Serious illness or co-morbidity risk assessed\n  * History of cancer within 5 years except skin cancer other than melanoma or carcinoma in situ of the cervix\n  * Presence of anti-antibodies in patients who have previously received antibodies\n  * Known hypersensitivity to antibodies or proteins\n  * intellectual disability to sign the informed consent\n  * Not controlled diabetes\n  * Persons protected by law",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

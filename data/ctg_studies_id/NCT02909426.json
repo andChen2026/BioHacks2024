@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02909426",
+    "briefTitle": "The Mammography and Ultrasonography STudy for Breast Cancer Screening Effectiveness",
+    "officialTitle": "Effectiveness of Breast Cancer Screening in Women Aged 40-59: Digital Mammography With Supplemental Breast Ultrasonography Versus Digital Mammography Only",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Invasive Cancer, Ductal Carcinoma in Situ",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 11880,
+    "primaryOutcomeMeasure": "Sensitivity of digital mammography with supplemental breast ultrasonography and digital mammography only",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 40-59 years\n* No history of any cancer\n* No breast mammography (and ultrasonography, in case of intervention arm) after the introduction of digital mammography\n\nExclusion Criteria:\n\n* Interstitial injection\n* Women with history of any cancer",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT"
+}

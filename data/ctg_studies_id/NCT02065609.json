@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02065609",
+    "briefTitle": "89ZrTrastuzumab Breast Imaging With Positron Emission Tomography",
+    "officialTitle": "Assessment of HER2 Receptors in Breast Carcinoma by Positron Emission Tomography (PET) Using 89 Zr-Trastuzumab",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 52,
+    "primaryOutcomeMeasure": "Number of Participants With Adverse Events as a Measure of Safety and Tolerability After 89Zr-Trastuzumab Administration",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients 18 years of age or older\n* Cohort 1: Her2-positive (defined as 3+) or FISH HER2:CEP17 ratio \\> 2 biopsy proven breast cancer\n* Cohort 2: Her2-positive (defined as 3+) or FISH HER2:CEP17 ratio \\> 2 OR HER2negative (0 or 1+, 2+ and FISH negative) biopsy-proven breast cancer\n* Primary or recurrent/metastatic lesion size \u2265 1.5 cm as determined by imaging studies (ultrasonography, mammography, CT or MRI) or physical examination\n* Able to give informed consent\n* Not currently pregnant or nursing: Subject must be surgically sterile (has had a documented bilateral oophorectomy and/or documented hysterectomy), postmenopausal (cessation of menses for more than 1 year), non-lactating, or of childbearing potential for whom a urine pregnancy test (with the test performed within the 24 hour period immediately prior to administration of 89Zr-trastuzumab) is negative\n* Patients currently receiving trastuzumab therapy with or without other types of systemic therapy can participate if their disease progresses (development of new lesion(s) or worsening of known lesion(s) based on imaging modalities or physical examination.\n\nExclusion Criteria:\n\n* Patients with other invasive malignancies, with the exception of non- melanoma skin cancer, who had (or have) any evidence of the other cancer present within the last 5 years\n* Unable to tolerate 60 min of PET imaging per imaging session",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

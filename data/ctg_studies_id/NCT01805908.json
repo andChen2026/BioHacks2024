@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01805908",
+    "briefTitle": "Imaging With 111 Indium (111In)-Pertuzumab (PmAb) to Predict Response to Trastuzumab (TmAb) in Human Epidermal Growth Factor-2 (HER2) Positive Metastatic Breast Cancer (MBC) or Locally Advanced Breast Cancer (LABC)",
+    "officialTitle": "Imaging With 111In-Pertuzumab to Predict Response to Trastuzumab in HER2 Positive Metastatic or Locally Advanced Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 3,
+    "primaryOutcomeMeasure": "Change in tumour SUV (Standardized Uptake Value) from baseline to Day 8.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Metastatic, locally recurrent (local recurrence not amenable to surgical resection of curative intent), or locally advanced (T3 or T4, any N, M0) adenocarcinoma of the breast.\n2. Tumour HER2 positive by immunohistochemistry for HER2 protein over-expression or by Fluorescence in situ Hybridization (FISH) for HER2 gene amplification, as defined by American Society of Clinical Oncology/College of American Pathologists guidelines\n3. Initiating treatment with TmAb\n4. Clinically measurable disease (by RECIST for patients with metastatic disease).\n\nExclusion Criteria:\n\n1. Male gender.\n2. Less than 18 years of age.\n3. Life expectancy \\< 12 weeks.\n4. Only site of metastases is liver.\n5. Eastern Cooperative Oncology Group (ECOG) performance status of \\> 2.\n6. Currently receiving PmAb or lapatinib for treatment of MBC.\n7. Having received TmAb as adjuvant therapy within the previous 6 months.\n8. Required to receive another radiopharmaceutical during the first week of the study.\n9. Hypersensitivity to monoclonal antibodies.\n10. Left Ventricular Ejection Fraction (LVEF) \\< 50% at baseline (within 42 days of study registration) as determined by either echocardiogram (ECHO) or Multi-Gated Acquisition (MUGA) scan.\n11. Hematology and/or biochemistry parameters outside acceptable ranges:\n\n    * absolute neutrophil count \\<1,500 cells/mm3,\n    * platelet count \\<100,000 cells/mm3,\n    * hemoglobin \\<9 g/dL,\n    * total bilirubin \\> upper limit of normal (ULN) (unless subject has documented Gilbert's Syndrome),\n    * aspartate aminotransferase (AST) \\[serum glutamic oxaloacetic transaminase(SGOT)\\] and alanine aminotransferase (ALT) \\[serum glutamic pyruvate transaminase(SGPT)\\] \\>2.5 \u00d7 ULN,\n    * serum creatinine \\>2.0 mg/dL or 177 \u03bcmol/L,\n    * alanine aminotransferase (ALP) \\>2.5 x ULN.\n12. Known pregnancy or lactating female (e.g. positive serum beta-human chorionic gonadotropin (B-hCG) pregnancy test).\n13. For women of childbearing potential, failure to agree to use a highly effective form of contraception (patient and/or partner, e.g., surgical sterilization) or two effective forms of contraception (a reliable barrier method in conjunction with spermicidal jelly, birth control pills, or contraceptive hormone implants) and to continue its use for the duration of study treatment.\n14. Any condition, which in the investigator's opinion would not make the patient a suitable candidate for inclusion in the trial.\n15. Participation in another clinical trial.\n16. Inability to provide informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

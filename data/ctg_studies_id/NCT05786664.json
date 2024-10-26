@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05786664",
+    "briefTitle": "Breast Cancer Survivorship Biorepository",
+    "officialTitle": "A Comprehensive Breast Cancer Survivorship Biorepository",
+    "overallStatus": "RECRUITING",
+    "conditions": "Anatomic Stage I Breast Cancer AJCC v8, Anatomic Stage II Breast Cancer AJCC v8, Anatomic Stage III Breast Cancer AJCC v8, Invasive Breast Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1300,
+    "primaryOutcomeMeasure": "Biorepository",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women of all racial and ethnic groups 18 years of age or older\n* Women with a diagnosis of invasive breast cancer (stages I-III) within the past 7 years\n* Women who have completed active treatment for breast cancer (surgery, chemotherapy, HER2-directed therapy and radiation)\n* Prior participation on clinical trials is allowed\n\nExclusion Criteria:\n\n* Current receipt of interventional clinical trial participation\n* Stage IV (metastatic) cancer\n* Prior history of recurrence (except recurrence following ductal carcinoma in situ)\n* Inability to give informed consent\n* Unable to speak English, Spanish, Chinese, or Korean",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

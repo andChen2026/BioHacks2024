@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02089100",
+    "briefTitle": "Trial of Superiority of Stereotactic Body Radiation Therapy in Patients With Breast Cancer",
+    "officialTitle": "Multicentric Phase III Trial of Superiority of Stereotactic Body Radiation Therapy in Patients With Metastatic Breast Cancer in First-line Treatment",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 280,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Biopsy proven breast cancer stage IV AJCC TNM\n2. Age \\>18 years\n3. WHO status\\</=2\n4. Hormonal receptors positive breast cancer (IHC)\n5. The primary tumor was treated or will be treated with curative intent (surgery and /or radiotherapy)\n6. No prior treatment for metastatic relapse. It will be accepted patients which would have begun a treatment in the case where:\n\n   1. Hormonotherapy \\</= 1 month\n   2. Chemotherapy \\</= 1 cycle\n\n   The treatment must be stopped after signature of the consent form.\n7. a. Metastatic lesions out of previous radiation field;\n\n   b. Equal or less than 5 metastatic lesions (measurable or not);\n\n   c. In case of measurable lesions, each \\</=10 cm or \\</=500 mL\n8. For liver mets:\n\n   1. adequate liver function (liver enzyme \\<3N, bilirubin \\<30mg/dl, albumin \\>2.5g/dl)\n   2. no underlying cirrhosis or hepatitis\n   3. liver metastase size \\</=7cm diameter\n   4. not adjacent to stomach or small bowel\n9. For abdominal mets:\n\n   a. adequate renal function with a creatinine clearance (Cockroft formula) \\> 60ml/min\n10. Absence of any psychological, familial, sociological or geographical condition with a potential to hamper compliance with the study protocol and follow-up schedule\n11. Life expectancy \\> 3 months\n12. Affiliated to Health Insurance regimen\n13. Written and signed consent form\n\nNon-inclusion Criteria:\n\n1. Triple negative breast cancer\n2. Prior systemic treatment in metastatic setting (endocrine therapy, chemotherapy, targeted therapies, radionuclide)\n3. Brain metastases\n4. In spinal cord mets:\n\n   1. More than 3 consecutive and contiguous spinal segments involved by tumor\n   2. Neurological examination prior randomization \\> 1 week\n   3. Inability to tolerate treatment (unable to lie flat)\n   4. Treated with radionuclide/systemic chemotherapy within 30 days before SBRT\n   5. Significant or progressive neurological deficit\n   6. More than 25% spinal canal compromise\n   7. Malignant epidural spinal cord compression or cauda equina syndrome\n   8. Spine instability or neurological deficit resulting from bony compression of neural structures\n5. Scleroderma or connective tissue disease as a contraindication to radiotherapy\n6. Pregnancy or breast feeding period",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

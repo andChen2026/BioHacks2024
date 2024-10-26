@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05142358",
+    "briefTitle": "A Prospective Study to Evaluate Continuous Positive Airway Pressure Devices to Reduce Pulmonary Dose",
+    "officialTitle": "A Prospective Study to Evaluate Continuous Positive Airway Pressure Devices to Reduce Pulmonary Dose",
+    "overallStatus": "RECRUITING",
+    "conditions": "Lung Cancer, Left Sided Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 90,
+    "primaryOutcomeMeasure": "Dosimetry comparison CPAP and free breathing.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with left-sided breast cancers\n\n  * Patients must be undergoing left breast/chest wall radiation with or without regional nodal irradiation\n* Patients undergoing lung SBRT\n\n  * Primary lung cancers\n  * Metastatic lung tumors\n\nExclusion Criteria:\n\n* Patients with right side breast cancer\n* Patients who are unable to tolerate the CPAP device",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

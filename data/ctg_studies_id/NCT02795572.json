@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02795572",
+    "briefTitle": "Nutraceuticals Versus Usual Care in the Prevention or Reduction of CIPN in Patients Treated With Docetaxel as Neoadjuvant/Adjuvant Breast Cancer Therapy",
+    "officialTitle": "Protocol Comparing a Nutraceutical Formulation Consisting of Omega-3 Fatty Acids, Vitamin D, and Vitamins B6 Plus B12 Versus No Treatment in the Prevention or Reduction of Chemotherapy Induced Peripheral Neuropathy (CIPN) in Patients Treated With Docetaxel as Neoadjuvant/Adjuvant Breast Cancer Therapy",
+    "overallStatus": "TERMINATED",
+    "conditions": "Peripheral Neuropathy in Breast Cancer Patient",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 13,
+    "primaryOutcomeMeasure": "Chemotherapy Induced Peripheral Neuropathy Assessment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female 18-70 years of age\n* Biopsy proven invasive breast carcinoma\n* Scheduled to receive docetaxel (3-6 cycles)\n* Have values for liver (AST, ALT, Bilirubin) and renal function (CREAT), within 1.5 times normal values as drawn per standard of care.\n* ECOG 0-2\n* Be able to provide informed consent\n* Willingness to adhere to regimen\n\nExclusion Criteria:\n\n* Metastatic disease\n* Any peripheral neuropathy\n* Known HIV (testing not required)\n* Diseases causing malabsorption i.e.: Inflammatory Bowel Disease, Celiac and Whipple's Disease\n* Patients with seafood allergies\n* Patients on Warfarin or with a documented clinically significant bleeding disorder",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

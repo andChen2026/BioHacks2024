@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02032745",
+    "briefTitle": "Genomic Signatures to Predict Treatment Response",
+    "officialTitle": "Prospective Validation of Genomic Signatures to Predict Treatment Response in the Axillary Nodes After Neoadjuvant Chemotherapy in Patients With HER2-negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 277,
+    "primaryOutcomeMeasure": "Probability of achieving a negative axillary nodal status",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinical status of lymph nodes must be available\n* Sonographical status of lymph nodes must be available\n* Patients must consent to documentation of cancer treatment\n* Histologic diagnosis of invasive breast cancer, clinical stage T1-4, M0 (non-inflammatory T4c)\n* Patients scheduled for neoadjuvant chemotherapy\n* Treatment with a 3-weekly FEC or AC regimen (3-4 cycles) followed by 3-4 cycles of q3 weekly docetaxel or paclitaxel.\n* Local HER2 status of tumor biopsy must be negative.\n\nExclusion Criteria:\n\n* The patient has a prior history of invasive or metastatic breast cancer.\n* The patient had prior excisional biopsy of the primary invasive breast cancer.\n* The patient had prior ipsilateral sentinel axillary lymph node biopsy for breast cancer.\n* The patient cannot safely or feasibly undergo biopsy of the primary tumor.\n* The patient has a diagnosis of Stage IV (distant metastatic) breast cancer.\n* The patient has proven HER2-positive breast cancer, defined as a pathology report of amplification of the gene or 3+ score for immunohistochemical staining.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

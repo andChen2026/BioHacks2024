@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00793962",
+    "briefTitle": "A Phase \u2162 Randomized Clinical Trial of Postmastectomy Hypofractionation Radiotherapy in High-risk Breast Cancer",
+    "officialTitle": "A Phase \u2162 Randomized Clinical Trial of Postmastectomy Hypofractionation Radiotherapy in High-risk Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 810,
+    "primaryOutcomeMeasure": "locoregional control rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Ipsilateral histologically confirmed invasive breast cancer\n* Undergone total mastectomy and axillary dissection\n* T3-4,or \\>=4 positive axillary lymph nodes\n* Fit for chemotherapy(if indicated),endocrine therapy(if indicated)and postoperative irradiation\n* Written,informed consent\n* cT3-4,or cN2, or pathological positive axillary lymph nodes during mastectomy for patients who had received neoadjuvant chemotherapy or hormone therapy\n* no supraclavicular or internal mammary nodes metastases\n* no distant metastases\n* enrollment date no more than 8 months after surgery or no more than 2 months after chemotherapy for patients who didn't receive neoadjuvant systemic therapy.\n* enrollment date no more than 2 months after surgery for patients who had received neoadjuvant systemic therapy and didn't need adjuvant chemotherapy.\n\nExclusion Criteria:\n\n* Patients who undergone previous irradiation to the ipsilateral chest wall and supraclavicular region\n* Previous or concurrent malignant other than non-melanomatous skin cancer\n* Unable or unwilling to give informed consent\n* bilateral breast cancer\n* immediate or delayed ipsilateral breast cancer reconstruction",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

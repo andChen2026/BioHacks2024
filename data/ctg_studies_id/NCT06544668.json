@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06544668",
+    "briefTitle": "A Study for Dynamic Prediction Model of Breast Cancer Bone Metastases",
+    "officialTitle": "A Clinical Study to Establish a Dynamic Prediction Model for Bone Metastases Based on Breast Cancer Real-world Data",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer, Bone Metastases",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 3500,
+    "primaryOutcomeMeasure": "To identify the risk factors and develop a prediction model for bone metastasis in breast cancer patients",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients diagnosed with breast cancer by histopathology;\n2. Age between 20 and 70 years old;\n3. The first diagnosis time is between 2010 and 2020;\n4. Complete diagnosis and treatment information, including basic information, breast cancer diagnosis, surgery, recurrence diagnosis data (including the diagnosis of the metastasis sites), anti-tumor treatment data, bone health and bone metastasis-related diagnosis and treatment data, etc.;\n5. Sufficient available follow-up information.\n\nExclusion Criteria:\n\n1. Missing important basic information (including initial and recurrent pathology, stage, pathological grade and time, surgery time, and drug treatment);\n2. With distant metastasis at the initial diagnosis;\n3. Patients with autoimmune diseases or aggressive viral infections (such as HIV or hepatitis);\n4. Other malignant tumors;\n5. Unclear information about distant metastasis.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

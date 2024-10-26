@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05592938",
+    "briefTitle": "Partial Breast Re-irradiation Using Ultra Hypofractionation (PRESERVE)",
+    "officialTitle": "Partial Breast Re-irradiation Using Ultra Hypofractionation: Phase 2 Multi-institutional Study (PRESERVE)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Breast Cancer Recurrent",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 171,
+    "primaryOutcomeMeasure": "Grade \u22653 toxicity associated with treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18 years\n* In-breast recurrence (ductal carcinoma in situ (DCIS) or invasive carcinoma)\n* Tumour \\<3.0 cm in greatest diameter on pathologic examination, including both invasive and non-invasive components\n* \\>5 years after completion of prior adjuvant whole or partial breast radiotherapy\n* Clinically node negative\n* Negative margins (no tumour on ink)\n* Recovered from surgery with the incision completely healed and no signs of infection\n\nExclusion Criteria:\n\n* Multicentric disease (patients with multifocal breast cancer in the same quadrant are eligible)\n* Extensive intraductal component\n* T4 disease\n* Node positive or distant metastatic disease\n* Serious non-malignant disease (cardiovascular, pulmonary, systemic lupus erythematosus, scleroderma), which would preclude radiation treatment\n* Currently pregnant or lactating\n* Presence of an ipsilateral breast implant or pacemaker\n* Unable to commence radiation within 16 weeks of breast-conserving surgery (or last surgical procedure on the breast) or within 12 weeks from last cycle of adjuvant chemotherapy\n* Unable to clearly define the surgical cavity (oncoplastic procedures are permitted provided the tumor bed is well delineated with surgical clips).\n* Psychiatric disorders which would preclude obtaining informed consent or adherence to protocol\n* Grade II or more late skin toxicity from prior radiation evaluated and graded using CTCAE v5.0",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

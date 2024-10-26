@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05840068",
+    "briefTitle": "IGF Level in Breast Cancer Patients Treated With Metformin",
+    "officialTitle": "Metformin Effect as a Chemotherapeutic Adjuvant on Level of IGF in Non-diabetic Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 107,
+    "primaryOutcomeMeasure": "IGF-1 levels",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with MBC\n* patients older than 18\n* nondiabetic patients\n* patients who received only chemotherapy\n\nExclusion Criteria:\n\n* patients with non-metastatic breast cancer\n* patients receiving hormonal therapy or radiotherapy\n* patients with diabetes\n* history of cardiac diseases\n* hypersensitivity, or allergy to metformin.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

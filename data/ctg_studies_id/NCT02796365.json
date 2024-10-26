@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02796365",
+    "briefTitle": "Prevention Using Exercise Rehabilitation to Offset Cardiac Toxicities Induced Via Chemotherapy",
+    "officialTitle": "Prevention Using Exercise Rehabilitation to Offset Cardiac Toxicities Induced Via Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Doxorubicin Induced Cardiomyopathy, Breast Cancer, Gastric Cancer, Leukemia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 29,
+    "primaryOutcomeMeasure": "Left ventricular strain",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with cancer who are undergoing or have completed the chemotherapy drugs doxorubicin and/or trastuzumab.\n* Have had a recent echocardiogram with a relative reduction in LV strain of \\>10%.\n* If no recent echocardiogram, have a troponin value \\>0.04 ng/mL, or an increase of 0.04 ng/mL if baseline troponin is elevated.\n* Age \\>/= 18 years.\n* Eastern Cooperative Oncology Group (ECOG) scale 0-2.\n* Males and females.\n\nExclusion Criteria:\n\n* Patients with an Ejection Fraction \\<50%\n* Patients not deemed appropriate by a cardiologist or oncologist\n* Patients with an ECOG scale \\>2\n* Inability to perform exercise\n* Patients who already report exercising \\>2days per week for \\>29 minutes",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

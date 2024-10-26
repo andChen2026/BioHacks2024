@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01654185",
+    "briefTitle": "Dimethyldiguanide Combined With Aromatase Inhibitor (AI) in Metastatic Breast Cancer",
+    "officialTitle": "Phase II Study of Dimethyldiguanide Combined With AI Compared to AI in Postmenopausal HR(+) Metastatic Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "progression free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* postmenopausal HR positive breast cancer patients;\n* inoperable locally advanced or metastatic breast cancer patients;\n* candidate for endocrine therapy;\n* ECOG equal to or less than 1;\n* adequate bone marrow function(Hb\\>=90g/L, WBC \\>=3.5\u00d710\\^9/L,ANC\\>=1.5\u00d710\\^9/L, PLT\\>=80\u00d710\\^9/L; adequate renal function(Ccr\\<=ULN);adequate liver function(ALT,AST,AKP\\<=2.5\\*ULN,or \\<=5\\*ULN if liver metastases)\n* life expectancy \\>=12weeks;\n* no severe history disease of liver,heart,lung or kidney;\n* written informed consent form;\n\nExclusion Criteria:\n\n* Her-2 overexpression;\n* patients who has visceral endocrisis\uff1b",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

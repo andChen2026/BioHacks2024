@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01105468",
+    "briefTitle": "Breath Gas Analysis for the Diagnosis of Breast Cancer",
+    "officialTitle": "Leistungsbewertungspr\u00fcfung: Atemluftanalyse f\u00fcr Die Diagnose Von Brustkrebs, f\u00fcr Die \u00dcberwachung Der Therapie Und f\u00fcr Die Voraussage Des Metastasenrisikos",
+    "overallStatus": "TERMINATED",
+    "conditions": "Mamma Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 202,
+    "primaryOutcomeMeasure": "Breath gas markers",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Mamma carcinoma diagnosed by histology (cases)\n* Mamma carcinoma excluded by radiology (controls)\n* At the time of diagnosis before surgery\n* At the beginning and during chemotherapy;\n\nExclusion Criteria:\n\n* No informed consent form singed",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

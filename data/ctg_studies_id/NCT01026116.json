@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01026116",
+    "briefTitle": "A Randomized Trial Comparing EC-wPversus EP-wP as Adjuvant Therapy for Operable Breast Cancer Patients Less Than 40 Years Old",
+    "officialTitle": "Comparing EC-wP Versus EP-wP as Adjuvant Therapy for Breast Cancer Patients Less Than 40 Years Old",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 521,
+    "primaryOutcomeMeasure": "disease-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients, age 18\\~40\n* Unilateral, operable, histologically confirmed adenocarcinoma of the breast\n* Stage I-III\n* Primary surgery with clear margins plus axillary dissection\n* Able to start protocol Rx within 8 weeks of surgery\n* Histological or cytological confirmation of estrogen-receptor positive (ER+) breast cancer: the immunohistochemical cut-off for ER positive status was\n\n  1% or more staining in nuclei\n* HER-2 negative (IHC 0,1+ or 2+ with a negative in situ hybridization test by chemotherapy\n* pathologically confirmed regional node-positive disease, or node-negative disease with high-risk factors (primary tumor diameter \\>10 mm when histological grade III, or tumor diameter \\>20 mm when histological grade II)\n* ECOG performance status 0-1\n* Adequate cardiac, renal, hepatic and hematologic function\n\nExclusion Criteria:\n\n* Metastatic disease\n* Bilateral breast cancer (synchronous or metachronous)\n* Prior radiation therapy, hormonal therapy and chemotherapy for breast cancer\n* Previous cancer (except treated basal cell and squamous cell carcinoma of the skin or cancer of the uterine cervix)\n* HER-2 positive (IHC 3+ OR FISH+) and or triple-negative breast cancer\n* Documented history of cardiac disease contradiction anthracyclines\n* Concurrent serious illness\n* Peripheral neuropathy of CTC grade\\>1\n* History of hypersensitivity to drugs formulated in Cremophor EL polyoxyethylated castor oil), the vehicle used for commercial paclitaxel formulations\n* Pregnancy or lactation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

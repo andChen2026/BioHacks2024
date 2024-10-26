@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00128310",
+    "briefTitle": "Vinorelbine Versus Gemcitabine Plus Vinorelbine in Metastatic Breast Cancer Patients",
+    "officialTitle": "Randomized Phase III Trial Comparing Vinorelbine vs. Gemcitabine Plus Vinorelbine in Patients With Advanced Breast Cancer, Previously Treated With Anthracyclines and Taxanes",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Neoplasm Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 252,
+    "primaryOutcomeMeasure": "Progression-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological or cytological diagnoses of breast cancer, with metastases.\n* Metastatic lesions should not be curable with surgery or radiotherapy.\n* Women of age \\> 18.\n* To have received a previous treatment with anthracyclines and taxanes.\n* A maximum of 2 previous chemotherapy treatment lines for metastatic disease.\n* Previous radiotherapy is allowed, whenever the radiated area is not the only disease location.\n* At least 4 weeks since the last previous antineoplastic treatment; patient must have recovered from all previous toxicities.\n* Performance status \\< 2 in World Health Organization (WHO) scale.\n* Clinically measurable, non measurable or really non measurable disease, as per Response Evaluation Criteria in Solid Tumors (RECIST) criteria.\n* Life expectancy of at least 12 weeks.\n* Patients able to comply and to receive an adequate follow-up.\n* Adequate bone marrow function: neutrophils \u2265 2 x 10\\^9/L; platelets \u2265 100 x 10\\^9/L; hemoglobin \u2265 100 g/L.\n* Calcium within normal limits.\n* Premenopausal women must adopt an adequate contraceptive method during the study and up to 3 months after treatment finalization.\n\nExclusion Criteria:\n\n* Active infection or serious concomitant disease (investigator's criteria).\n* Clinical evidence of metastases in the central nervous system (CNS).\n* Blastic bone lesions as only disease.\n* Previous neurological toxicity grade 3-4 National Cancer Institute (NCI) Common Toxicity Criteria (CTC) v.2.0.\n* Previous treatment with gemcitabine and/or vinorelbine.\n* More than 2 previous chemotherapy treatment lines for metastatic disease.\n* Abnormal liver function (bilirubin \\> 2.0-fold upper normal limit (UNL); alanine transaminase (ALT) and aspartate transaminase (AST) \\>2.5-fold UNL). In patients with hepatic metastasis, a value of ALT and AST of up to 5-fold UNL is permitted.\n* Unpaired renal function (creatinine \\> 2.0 mg/dL).\n* Pregnancy or lactating.\n* Treatment with any investigational agent in the previous 4 weeks.\n* Second malignancy (except for cervix carcinoma in situ or skin carcinoma - no melanoma- with an adequate treatment). Previous malignancies are allowed if disease-free survival is superior to 5 years, except for renal carcinoma or melanoma.\n* Males.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

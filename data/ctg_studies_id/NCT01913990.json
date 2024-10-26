@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01913990",
+    "briefTitle": "Prevention of Chemotherapy Induced Nausea and Vomiting in Breast Cancer Patients.",
+    "officialTitle": "A Randomized, Phase IV Trial of Individualized Care Versus Standard Care, in the Prevention of Chemotherapy Induced Nausea and Vomiting in Breast Cancer Patients. The EPIC Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Emesis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 323,
+    "primaryOutcomeMeasure": "Incidence of change in acute emesis (nausea and/or vomiting) in both study arms",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nNewly diagnosed invasive breast cancer (stage I-III)\n\nScheduled to receive neoadjuvant or adjuvant intravenous anthracycline with cyclophosphamide-based chemotherapy;\n\nAble to consent and fill study forms\n\nExclusion Criteria:\n\nReceived previous chemotherapy\n\nSymptoms of nausea or vomiting at baseline (disease related)\n\nOn chronic anti-emetic therapy\n\nOn daily corticosteroids prior to initiation of chemotherapy\n\nAllergic to steroids, 5HT3 or NK-1\n\nUncontrolled diabetes\n\nMedical or psychiatric illness that would interfere with patients' ability to complete the diary",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

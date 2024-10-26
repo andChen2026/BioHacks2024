@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00263211",
+    "briefTitle": "A Study of the Effects of Inhibiting Platelet Function on Circulating Cancer Cells in Breast Cancer Patients",
+    "officialTitle": "The Impact Of Platelet Function Inhibition On Circulating Cancer Cells In Metastatic Breast Cancer Patients",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 48,
+    "primaryOutcomeMeasure": "Platelet Inhibition of Circulating Tumor Cells (CTCs) Measured by the Number of Patients With Detectable CTCs",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with metastatic breast cancer who are completing planned course of chemotherapy with planned treatment break\n* On stable hormone therapy for at least 2 months are also eligible for the study\n* Estimated survival of at least 3 months\n* No platelet inhibitor therapy within 1 month of study entry\n* Platelets \u2265 100,000\n* Coagulation screening tests within normal range (INR between 0.81 and 1.20)\n* Normal kidney and liver function as defined by:\n\n  * Aspartate aminotransferase(AST)/serum glutamic oxaloacetic transaminase (SGOT))/alanine aminotransferase(ALT) \u2264 2 x Institutional Normal\n  * Creatinine \u2264 2 x Institutional Normal\n* Able to provide signed, informed consent.\n\nExclusion Criteria:\n\n* Patients going on to surgery\n* Patients with a serious bleeding disorder that make them inappropriate candidates for NSAID therapy\n* Patients with history of significant bleeding related to peptic ulcer disease\n* Patients on standing doses of NSAIDS or platelet function inhibitors\n* Patients on standing doses of anti-coagulants",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

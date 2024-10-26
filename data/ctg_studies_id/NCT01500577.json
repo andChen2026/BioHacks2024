@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01500577",
+    "briefTitle": "A Prevention Trial in Subjects at High Risk for Breast Cancer",
+    "officialTitle": "A Randomized Phase II Prevention Trial in Subjects at High Risk for Hormone Non-responsive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Ki 67 variation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, 18-65 years old inclusive\n* Histologic confirmation of hormone non-responsive DCIS (ER\\<5%, PgR\\<5%), or AH or LIN, radically excised in the previous 12 months;\n* Positivity for BRCA1 mutation;\n* \\>10% probability of being a BRCA1/2 mutation carrier, according to Berry Parmigiani and/or Couch model;\n* Performance Status (SWOG) = 0;\n* Unwillingness to be pregnant during the study and three months after drug suspension. Women will be informed that the use of contraceptive pill is contraindicated because it may interfere with the study drugs and may be harmful to a woman who has been diagnosed with breast cancer;\n* Willingness to sign the informed consent form\n\nExclusion Criteria:\n\n* Evidence of residual disease as documented by mammograms, histologic confirmation of margin involvement or distant disease;\n\n  * Previous or concurrent malignancy (with the exception of basal cell carcinoma and CIN);\n  * Severe gastrointestinal disorders;\n  * Current use of NSAIDs;\n  * Current use of statins\n  * Current use of fibrates\n  * Current use of potent CYP3A4 inhibitors (ciclosporin, mibefradil, itraconazole, ketoconazole, erythromycin, clarithromycin)\n  * Proven hypersensitivity to nimesulide and/or simvastatin;\n  * Mild or higher alterations of hematologic, liver and renal function (i.e., WBC \\<3,500/mm3, Plt \\<120,000/mm3, HgB \\<10 g/dL, AST \\>45 U/L, ALT \\>45 U/L, creatinin \\>1.5 mg/dL, bilirubin \\>1.15 mg/dL, CPK 250 mg/dL);\n  * CNS diseases and major psychiatric diseases or inability to comply to the protocol procedures;\n  * Active infections;\n  * Cardiac failure, class I-IV ;\n  * Current anticoagulant or antiplatelet aggregation therapy;\n  * Mitral and/or tricuspid valvulopathy or valvular prosthesis; Angina; Severe arterial hypertension; Chronic and/or paroxysmal atrial fibrillation; Previous myocardial infarction;\n  * Current childbearing and inability to prevent it during the intervention period and for at least 3 months after cessation of treatment;\n  * Current lactation.\n  * Any other factor that in the investigator's discretion contraindicates the use of one or both drugs.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02590458",
+    "briefTitle": "Feasibility of Short Breast MRI (SBMRI) for Screening Patients at High Risk for Breast Cancer",
+    "officialTitle": "Feasibility of Short Breast MRI (SBMRI) for Screening Patients at High Risk for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 131,
+    "primaryOutcomeMeasure": "Sensitivity of SBMRI for Detecting Breast Cancer in High Risk Participants",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. 18 years and older female patients\n2. BMRI indication: high risk screening per ACS guidelines\n3. No contraindications to undergo MRI\n4. Creatinine \\</=1.3 and GFR\\> 40\n5. No requirement for sedation.\n\nExclusion Criteria:\n\n1. \\<18 years\n2. Male\n3. Is pregnant (confirmed by the patient as Imaging Clinic standard of care) or nursing mother\n4. Contraindication to Gd contrast agents\n5. Previous documented history of moderate to severe hypersensitivity to Gd contrast agents\n6. Contraindications to MRI",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

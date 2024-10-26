@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04960839",
+    "briefTitle": "Prophylactic Irradiation to the Contralateral Breast for BCAs Patients",
+    "officialTitle": "Phase II Multicenter Clinical Trial of Prophylactic Irradiation to the Contralateral Breast for Breast Cancer Patients With BRCA1, BRCA2 and PALB2 Deleterious Mutation",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 323,
+    "primaryOutcomeMeasure": "Contralateral breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients, aged 30-70yrs, diagnosed with stage 0-III breast cancer (NCCN-Breast Cancer V2.2019), undergoing the lumpectomy or mastectomy no more than 1 year. ALND or SLNB should be carried out and the lymph node status should be known.\n* Patients with a deleterious germline mutation of BRCA 1/2 or PALB2.\n* The patients with no contraindictation for irradiation.\n* The patients consent for prophylactic irradiation to the contralateral breast.\n* The patient may receive any regimen of adjuvant, neoadjuvant chemotherapy, according to the treating physician. The radiation therapy should start at least 2 weeks after the completion of all the chemotherapy cycles.\n* The patient may receive endocrine therapy before, during or after study entry.\n* The patient may receive target therapy (Trastuzumab) before, during or after study entry.\n* The patient must be eligible for MRI examination of the contralateral breast.\n* The patient refused prophylactic contralateral mastectomy and oophorectomy.\n\nExclusion Criteria:\n\n* Metastatic breast cancer.\n* Past history of other cancer besides breast cancer\n* Previous irradiation of the breast or chest wall, but not for breast cancer treatment\n* Synchronous bilateral breast cancer\n* Patients with active connective tissue diseases, pneumonia are excluded due to the potential risk of significant radiotherapeutic toxicity.",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

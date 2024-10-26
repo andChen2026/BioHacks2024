@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01952717",
+    "briefTitle": "PMA Required Pivotal Multi-reader Multi-case Reader Study",
+    "officialTitle": "A Multi-Reader Multi-Case Clinical Trial To Evaluate Diagnostic Accuracy of 3D Koning Breast CT Compared to 2D Diagnostic Mammography",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Diagnosis",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 236,
+    "primaryOutcomeMeasure": "Area under the Receiver Operating Characteristics Curve (AUC)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n- At least 40 or 35 years of age of any ethnicity Had a routine mammogram, read as BI-RADS\u00ae 3 Have a palpable abnormality detected by Breast Self Exam (BSE), or Clinical Breast Exam (CBE) or have a non-palpable abnormality detected by an imaging modality After diagnostic work-up are categorized as BI-RADS\u00ae 4 or 5. Are scheduled for biopsy either by large gauge needle biopsy or excisional biopsy.\n\nWill undergo study imaging prior to biopsy and within four weeks of diagnostic work-up Is able to provide informed consent\n\nExclusion Criteria:\n\n- Pregnancy Lactation Subjects with physical limitations that may prohibit resting prone on the exam table, such as, but not limited to: frozen shoulder, recent heart surgery, pace maker Subjects who are unable to tolerate study constraints Subjects who have received radiation treatments to the thorax for malignant and nonmalignant conditions, such as (but not limited to) Treatment for enlarged thymus gland as an infant Irradiation for benign breast conditions, including breast inflammation after giving birth Treatment for Hodgkins disease Subjects who have participated in a prior breast clinical trial that gave additional radiation dose, such as an additional mammogram Subjects who have received large numbers of diagnostic x-ray examinations for monitoring of disease such as (but not limited to) Tuberculosis Severe scoliosis",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

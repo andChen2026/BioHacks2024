@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05451849",
+    "briefTitle": "A Phase 1/2 Trial of TC-510 In Patients With Advanced Mesothelin-Expressing Cancer",
+    "officialTitle": "A Phase 1/2 Single Arm Open-Label Clinical Trial of TC-510 In Patients With Advanced Mesothelin-Expressing Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Mesothelioma, Mesotheliomas Pleural, Mesothelioma, Malignant, Mesothelioma Peritoneum, Ovarian Cancer, Ovarian Serous Adenocarcinoma, Pancreatic Cancer, Pancreatic Adenocarcinoma, Colorectal Cancer, Triple Negative Breast Cancer, TNBC - Triple-Negative Breast Cancer, Ovarian Adenocarcinoma, Pancreatic Neoplasms, Colorectal Neoplasms, Ovarian Neoplasms, Cholangiocarcinoma, Non Small Cell Lung Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Phase 1 - Establish the recommended Phase 2 dose (RP2D) according to dose-limiting toxicity (DLT) of defined adverse events.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient is \\> 18 years of age at the time the Informed Consent is signed.\n* Patient has a pathologically confirmed diagnosis of either MPM, Serous Ovarian Adenocarcinoma, Pancreatic Adenocarcinoma, TNBC, and Colorectal Cancer\n* Patient's tumor has been reviewed with confirmed positive MSLN expression on \\>/= 50% of tumor cells that are 1+, 2+ and/or 3+ by immunohistochemistry. Patients with epithelioid MPM, confirmation of MSLN expression is not required prior to enrollment.\n* Prior to TC-510 infusion, patients must have received at least 1 but no more than 5 systemic therapies for metastatic or unresectable disease with more details provided in the protocol\n* Patients has an ECOG performance status 0 or 1\n* Patient is fit for leukapheresis and has adequate venous access for the cell collection.\n* Patient must have adequate organ function as indicated by the laboratory values in the clinical protocol\n\nExclusion Criteria:\n\n* Inability to follow the procedures of the study\n* Known or suspected non-compliance, drug, or alcohol use",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

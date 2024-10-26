@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00002668",
+    "briefTitle": "Pain Control in Patients With Recurrent or Metastatic Breast or Prostate Cancer",
+    "officialTitle": "PATIENT SKILLS FOR CANCER PAIN CONTROL IN PATIENTS WITH METASTATIC BREAST OR PROSTATE CANCER",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Pain, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 13,
+    "primaryOutcomeMeasure": "Change in pain assessed using the Brief Pain Inventory",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Recurrent or metastatic breast or prostate cancer\n* \"Pain worst\" score of 4 or greater on the Brief Pain Inventory\n* No prior enrollment on this study (patients treated during the run-in period are ineligible for randomization)\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* ECOG 0-2\n\nHematopoietic:\n\n* Not specified\n\nHepatic:\n\n* Not specified\n\nRenal:\n\n* Not specified\n\nOther:\n\n* No major psychiatric illness, including the following DSM-III-R diagnoses:\n\n  * Bipolar disorder\n  * Schizophrenia\n  * Major depression\n  * Multiple personality disorder\n  * Psychotic disorder\n  * Dementia\n  * Outpatient status required\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* Not specified\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* At least 28 days since prior palliative radiotherapy to major site(s) of pain\n\nSurgery:\n\n* Greater than 30 days since prior surgery",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

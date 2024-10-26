@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01695226",
+    "briefTitle": "Randomized Controlled Phase II Trial of Pre-operative Celecoxib Treatment in Breast Cancer",
+    "officialTitle": "Randomized Controlled Phase II Trial of Pre-operative Celecoxib Treatment in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": "N/A",
+    "primaryOutcomeMeasure": "whole-genome expression after celecoxib treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients suspected of having invasive breast cancer, \\>1 cm in diameter, and in whom there is an indication for a core or incision biopsy\n* Age \\<75 years at time of diagnosis\n* Patient willing and able to comply with the study prescriptions\n* Patient able to give written informed consent before patient registration/randomisation\n* Pre- and post-menopausal patients are eligible\n* Hormone receptor positive and negative patients are eligible\n* A negative pregnancy test in pre-menopausal women\n\nExclusion Criteria:\n\n* HIV, HBV or HCV positivity\n* Known hypersensitivity to NSAIDs\n* A history of upper gastro-intestinal bleeding\n* Endoscopically proven upper gastro-intestinal ulceration\n* Patients using NSAIDs, including salicyclic acid\n* Systemic use of corticosteroids\n* A history or the presence of any other malignancy excepting adequately treated squamous cell skin cancer or in situ carcinoma of the cervix\n* Patients who have been treated with neo-adjuvant chemotherapy or hormone therapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

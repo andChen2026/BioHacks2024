@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00481884",
+    "briefTitle": "Comparing RadiaPlexRx Hydrogel and Standard-of-Care for Radiation Dermatitis in Breast Cancer Patients",
+    "officialTitle": "Phase III Trial to Compare RadiaPlexRx Hydrogel and Standard-of-Care for Radiation Dermatitis in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Radiation Dermatitis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Number of Patients using RadiaPlexRx Hydrogel that developed grade 2 or higher radiation dermatitis in breast cancer from adjuvant radiation compared to a petroleum-based gel (Aquaphor) commonly used as best supportive care",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patient has histologically-confirmed carcinoma of breast (all subtypes are permitted)\n2. Patient has breast conserving surgery (lumpectomy) for breast cancer with negative surgical margin\n3. Stage Tis,0-3 N0-2 M0\n4. Patient will receive irradiation of whole breast. An additional field to treat the supraclavicular / axillary apex lymphatics is allowed, but a separate field to treat the internal mammary chain nodes is not allowed\n5. The breast will receive radiation dose greater than or equal to 50 Gy, with or without a boost field to give additional dose to the tumor bed\n6. Patient wears bras with cup size larger than A\n7. Patient signs informed consent\n\nExclusion Criteria:\n\n1. Breast cancer treatment with mastectomy\n2. Stage T4 breast cancer\n3. Patient will require the use of tissue-equivalent bolus during radiation treatment or double treatment of junctions of radiation treatment fields\n4. Patient will require treatment to the internal mammary chain lymph node bed using a separate radiation electron field\n5. Patient is planned for partial-breast irradiation or Mammo-site treatment.\n6. Patient has unhealed wound or rash in the radiation field\n7. Patient has allergy to RadiaPlexRx or aloe vera\n8. Patient has systemic lupus erythematosus or scleroderma that increases the risk of radiation dermatitis development\n9. Patient will receive concurrent chemotherapy with radiation. (Patient is allowed to take concurrent hormonal therapy or Herceptin\u00ae \\[Trastuzumab\\])\n10. Planned accelerated fractionation.\n11. Planned radiation therapy to the bilateral breasts\n12. Planned breast irradiation in the prone position",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01271920",
+    "briefTitle": "Combination of AUY922 With Trastuzumab in HER2+ Advanced Breast Cancer Patients Previously Treated With Trastuzumab",
+    "officialTitle": "A Phase Ib/II, Multi-center, Open-label Study to Evaluate the Efficacy of AUY922 in Combination With Trastuzumab in Patients With Locally Advanced or Metastatic HER2-positive Breast Cancer, That Has Progressed After or During at Least One Trastuzumab-containing Regimen",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "Maximum tolerated dose (MTD) and/or recommended phase two dose (RPTD) of AUY922 in combination with Trastuzumab (phase lb)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with confirmed HER-2 positive , non-operable locally advanced or metastatic breast cancer\n* All patients must have received at least 1 but no more than 2 prior anti HER2 based regimens including at least 1 regimen containing Trastuzumab.\n* All patients must have at least one measurable lesion as defined by RECIST criteria.\n* All patients must have documented progressive disease following the last line of therapy before entering the study\n* ECOG Performance status \u2264 1\n\nExclusion Criteria:\n\n* Patients with known CNS metastasis which are: symptomatic or require treatment for symptom control and/or growing\n* Prior treatment with any HSP90 or HDAC inhibitor\n* Impaired cardiac function\n* Acute or chronic liver or renal disease\n* Patients who are currently receiving treatment with any medication which has a relative risk of prolonging the QTc interval or inducing Torsades de Pointes and cannot be switched or discontinued to an alternative drug prior to commencing AUY922\n* Patients with a history of another primary malignancy that is currently clinically significant or currently requires active intervention\n* Patients who do not have either an archival tumor sample available or are unwilling to have a fresh tumor sample collected at baseline.\n\nOther protocol-defined inclusion/exclusion criteria may apply",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06555354",
+    "briefTitle": "MicroRNAs and Prognosis in Breast Cancer",
+    "officialTitle": "MicroRNAs Methylation and Expression Profiling for Identification of Breast Cancer Patients at High Risk to Develop Distant Metastases",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female, Metastases Breast",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1432,
+    "primaryOutcomeMeasure": "Risk of metastases development",
+    "eligibilityCriteria": "Retrospective Cohort\n\nInclusion Criteria:\n\nTissue samples from breast cancer cases diagnosed from 2004 to 2014 for which informed consent for tumour banking and complete clinicopathological and follow up data were available.\n\nExclusion Criteria:\n\nPre-surgery neoadjuvant treatment for breast cancer with chemotherapy, lapatinib, trastuzumab, letrozole, anastrozole, exemestane or tamoxifen.\n\nOther cancers diagnosed in the last five years.\n\nProspective Cohort:\n\nInclusion Criteria:\n\nAbility to provide written informed consent; Age greater than 18 years; Histological diagnosis of Breast disease; First diagnosis of Breast Cancer; Syncronous distant metastasis absent.\n\nExclusion Criteria:\n\nStage IV breast cancer; Pre-surgery neoadjuvant treatment for breast cancer with chemotherapy, lapatinib, trastuzumab, letrozole, anastrozole, exemestane or tamoxifen; Other cancers diagnosed in the last five years; Alteration of mental status, dementia, or any psychiatric condition that might impair the ability to consciously sign the informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

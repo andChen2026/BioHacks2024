@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01712815",
+    "briefTitle": "PET/CT in Evaluating Response to Chemotherapy in Patients With Breast Cancer",
+    "officialTitle": "Development of an In Vivo Cell Proliferation Marker for PET Assessment of Chemotherapeutic Response in Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "HER2-positive Breast Cancer, Recurrent Breast Cancer, Stage IA Breast Cancer, Stage IB Breast Cancer, Stage II Breast Cancer, Stage IIIA Breast Cancer, Stage IIIB Breast Cancer, Stage IIIC Breast Cancer, Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 12,
+    "primaryOutcomeMeasure": "Change of FMAU-PET score vs. change of Ki-67 from the baseline to post-chemotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Inclusion criteria for Aim 1:\n* Scheduled to receive therapy with trastuzumab plus chemotherapy as part of standard care\n* Have one or more breast tumors visualized by conventional PET/CT, CT or magnetic resonance imaging (MRI) prior to the PET FMAU study; PET/CT should be within a week prior to 18-F FMAU\n\nInclusion criteria for Aim 2:\n\n* Have been diagnosed with a HER2+ invasive cancer of the breast\n* Scheduled to receive pre-operative therapy with trastuzumab plus chemotherapy as part of standard care\n* Have one or more breast tumors visualized by conventional PET/CT, CT or MRI prior to the PET FMAU study; PET/CT should be within a week prior to 18-F FMAU\n\nExclusion Criteria:\n\n* Have undergone chemotherapy or radiation therapy within the previous one month\n* Women of childbearing potential, unless they have had a negative urine human chorionic gonadotropin (HCG) within the previous 24 hours of the procedure\n* Patients who have had surgery at the site of the suspected lesion within 1 month",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

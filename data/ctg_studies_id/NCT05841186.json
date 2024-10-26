@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05841186",
+    "briefTitle": "Correlation of Timing of Pegfilgrastim Administration and PIBP.",
+    "officialTitle": "Correlation of Timing of Pegfilgrastim Administration and PIBP(Pegfilgrastim-induced Bone Pain)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Pegfilgrastim, Bone Pain, Chemotherapy, Breast Cancer, Patient-reported Outcomes, Quality of Life",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 156,
+    "primaryOutcomeMeasure": "The area under the curve (AUC) for daily worst bone pain score for days 1 through 5 (day 1 is defined as the day of pegfilgrastim administration) in cycle 1.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age greater than or equal to 18 years and less than or equal to 70 years.\n2. Pathologically or histologically confirmed diagnosis of primary breast cancer.\n3. Able to receive the chemotherapy regimen as scheduled.\n4. Able to understand Chinese and fill out the study-related questionnaires independently.\n5. Given written informed consent.\n6. There is no need to use prescription or over-the-counter drugs regularly because of pre-existing chronic pain.\n\nExclusion Criteria:\n\n1. Suffering from bone pain due to other diseases currently.\n2. Allergy or contraindication to chemotherapeutic agents or pegfilgrastim.\n3. Previous use of pegfilgrastim.\n4. Previous received chemotherapy.\n5. Pregnancy or breastfeeding.\n6. Concurrently accompanied by other primary malignant tumors.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

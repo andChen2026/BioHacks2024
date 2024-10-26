@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06518382",
+    "briefTitle": "Tumor-microenvironment Spatial Interaction to Identify Markers of Resistance to Therapy in HER2+ Breast Cancer Patients",
+    "officialTitle": "A Retrospective Observational Study Characterizing Tumour-microenvironment Spatial Interaction Aimed at the Identification of New Markers of Resistance to Therapy in HER2-positive Breast Cancer Patients",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "HER2-positive Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "number of different cells per each phenotype",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Participant is willing and able to give informed consent for participation in the study.\n2. Patient underwent the following procedure before surgery: biopsy, sequential chemotherapy comprising treatment with antracyclines (AC/EC q21, 4 cycles) followed by taxanes (paclitaxel 1,8,15 q21 for 12 weeks) in combination with the anti-HER2 antibody trastuzumab.\n3. Specimen collected at surgery display residual invasive disease in the breast/lymph node.\n\nExclusion Criteria:\n\n1. pre-existing conditions or concurrent diagnoses;\n2. concomitant use of other medications during neo-adjuvant treatment;\n3. quality of stored specimen does not meet the standard for Imaging Mass Cytometry analysis.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

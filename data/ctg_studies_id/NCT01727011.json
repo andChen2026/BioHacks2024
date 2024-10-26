@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01727011",
+    "briefTitle": "Single Fraction Elderly Breast Irradiation (SiFEBI)",
+    "officialTitle": "A Phase I-II Trial Evaluating the Toxicity of Early Breast Partial Irradiation in Patients Aged at Least of 70 Years With Breast Cancer at Low Risk of Local Recurrence",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 37,
+    "primaryOutcomeMeasure": "Rate of Acute Toxicity Within 180 Days of IPAS Mono Split Postoperatively in Patients Aged at Least of 70 Years With Breast Cancer at Low Risk of Local Recurrence (Low Risk Group of ESTRO IPAS Classification ESTRO)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient WITHinvasive breast cancer histologically proved: ductal, lobular, medullary, papillary, tubular or colloid:\n\n  * All grades histo-prognostic\n  * pT1 tumor size (\\<20 mm),\n  * healthy Margins surgical\n  * unifocal lesion\n  * Any hormone receptor,\n  * Any Her2 status,\n  * No lymph node (sentinel lymphadenectomy or) or micrometastases (pN0, pN1mic)\n* Age greater than or equal to 70 years\n* Score Balducci I or II,\n* Karnofsky index greater than or equal to 70%\n* Time between lumpectomy and radiation less than 2 weeks\n* Implementation of clips in the tumor bed intraoperatively,\n* Patient having taken note of the information note and who signed the informed consent\n* Patient receiving social security coverage.\n\nExclusion Criteria:\n\n* Lobular carcinoma in situ or pure ductal carcinoma in situ or non-epithelial tumor type sarcoma or lymphoma,\n* Component extensive ductal in situ associated\n* Peritumoral lymphatic emboli,\n* Distance Metastasis\n* Inflammatory Breast Cancer,\n* Multifocal tumor (covering a total distance inter-end of 40 mm or more)\n* Previous treatment for this tumor including breast radiotherapy and / or chemotherapy neoadjuvant or adjuvant\n* History of plastic surgery breast\n* Unknown or safety margins positive for invasive carcinoma\n* Absence of clips in the tumor bed,\n* Time between lumpectomy and radiation greater than or equal to 2 weeks\n* Active infection or other serious comorbidity that could prevent the patient receiving the treatment,\n* History of cancer other than a basal cell skin or carcinoma in situ of the cervix or other cancer in complete remission for more than 5 years\n* Psychiatric illness",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

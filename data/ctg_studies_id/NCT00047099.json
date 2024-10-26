@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00047099",
+    "briefTitle": "Combination Chemotherapy in Treating Women With Breast Cancer",
+    "officialTitle": "A Randomized Phase III Trial Comparing FEC-Chemotherapy vs. EC-Doc-Chemotherapy in Patients With Primary Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 446,
+    "primaryOutcomeMeasure": "Comparison of time to progression",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of primary epithelial invasive carcinoma of the breast\n\n  * T1-4, N1-2, M0\n  * Must have 4 metastatic axillary lymph nodes\n* Complete resection of the primary tumor within the past 5 weeks\n\n  * Free of invasive carcinoma with at least 10 lymph nodes removed\n* No inflammatory breast cancer\n* No distant metastases by chest x-ray, liver ultrasound, and whole body bone scan\n* Hormone receptor status:\n\n  * Estrogen and/or progesterone receptor status known\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 to 70\n\nSex\n\n* Female\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* ECOG 0-1\n\nLife expectancy\n\n* At least 32 weeks\n\nHematopoietic\n\n* WBC at least 3,000/mm3\n* Platelet count at least 100,000\n\nHepatic\n\n* Bilirubin no greater than 1.5 times upper limit of normal (ULN)\n* SGOT/SGPT no greater than 1.5 times ULN\n* Alkaline phosphatase no greater than 1.5 times ULN\n* Albumin no greater than 1.5 times ULN\n\nRenal\n\n* Creatinine no greater than 1.5 times ULN\n\nCardiovascular\n\n* No cardiomyopathy with impaired ventricular function\n* No New York Heart Association class III or IV heart disease\n* No cardiac arrhythmias influencing LVEF and requiring medication\n* No myocardial infarction within the past 6 months\n* No angina pectoris within the past 6 months\n* No uncontrolled arterial hypertension\n\nOther\n\n* No other primary malignancy except carcinoma in situ of the cervix or adequately treated basal cell skin cancer\n* No known hypersensitivity to docetaxel, epirubicin, fluorouracil, cyclophosphamide, or other study medication\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* No prior cytotoxic or other antineoplastic therapy\n* No other concurrent cytotoxic or other antineoplastic therapy\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* No prior radiotherapy\n\nSurgery\n\n* See Disease Characteristics\n\nOther\n\n* At least 3 weeks since prior investigational agents",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

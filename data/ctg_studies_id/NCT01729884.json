@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01729884",
+    "briefTitle": "Vaccine Therapy in Treating Patients With Stage IV Hormone Receptor Positive Breast Cancer",
+    "officialTitle": "Phase II Study to Evaluate the Development of HER2/Neu (HER2)-Specific Memory T Cells After HER2 Peptide-based Vaccination in Patients With Advanced Stage Her2+ Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "HER2-positive Breast Cancer, Male Breast Cancer, Recurrent Breast Cancer, Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 3,
+    "primaryOutcomeMeasure": "Quantification and characterization of HER2-specific TCM and TEM subsets in PBMC",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with HER2+ stage IV breast cancer that have been maximally treated and not in a complete remission\n* Patients must have measurable disease per imaging studies performed within 60 days of enrollment as described below:\n\n  * Extra skeletal disease that can be measured with conventional or spiral computed tomography (CT) techniques\n  * Skeletal or bone-only disease that is measurable by fludeoxyglucose F 18 (FDG) positron emission tomography (PET) or magnetic resonance imaging (MRI)\n* Patients can be receiving trastuzumab and/or lapatinib and/or hormonal therapy and/or bisphosphonate therapy\n* HER2 overexpression in the primary tumor or metastasis by immunohistochemistry (IHC) of 3+, or documented gene amplification by fluorescent in situ hybridization (FISH) analysis\n* Patients must be human leukocyte antigen (HLA)-A2 positive\n* Eastern Cooperative Oncology Group (ECOG)/Zubrod scale of =\\< 1\n* Patients must be off immunosuppressive treatments (i.e., chemotherapy or systemic steroids) 3 weeks prior to first vaccine\n* Patients on trastuzumab must have a baseline left ventricular ejection fraction (LVEF) measured by multi gated acquisition scan (MUGA) or echocardiogram (ECHO) \\>= the lower limit of normal for the facility within 3 months of enrollment to study\n* Subjects of reproductive ability must agree to use contraceptives during the entire study period\n\nExclusion Criteria:\n\n* White blood cell (WBC) \\< 3000/mm\\^3\n* Hemoglobin (Hgb) \\< 10 mg/dl\n* Platelets \\< 100,000/mm\\^3\n* Serum creatinine \\> 2.0 mg/dl\n* Serum bilirubin \\> 1.5 x upper limit of normal\n* Any contraindication to receiving sargramostim (GM-CSF) based vaccine products\n* Concurrent enrollment in other treatment studies\n* New York Heart Association functional class III-IV heart failure, symptomatic pericardial effusion, or unstable angina\n* Pregnant or breast-feeding women\n* History of disorders associated with immunosuppression such as human immunodeficiency virus (HIV)\n* Active brain metastasis",
+    "sex": "ALL",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

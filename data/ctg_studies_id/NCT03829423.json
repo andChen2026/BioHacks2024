@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03829423",
+    "briefTitle": "An Enhanced Artificial Intelligence Breast MRI Interpretation System",
+    "officialTitle": "A Comparative Single-centre Study to Evaluate an Enhanced Artificial Intelligence Breast MRI Interpretation System in Women Over 20 With Breast Lesions",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1526,
+    "primaryOutcomeMeasure": "Sensitivity/specificity of breast interpretation algorithm",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast MRI scans\n* MRI examinations undertaken at partner NHS Trust in the UK\n* MRI examinations undertaken on the MRI system currently installed at partner NHS Trust site (since 2008)\n\nExclusion Criteria:\n\n* Incomplete breast MRI datasets\n* Breast MRI without lesions\n* Breast lesion on MRI not biopsied",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

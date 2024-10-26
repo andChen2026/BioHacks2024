@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01015131",
+    "briefTitle": "18F-FLT-PET in Breast Cancer (MK-0000-139)",
+    "officialTitle": "A Pilot Study to Evaluate the Correlation Between 18F-FLT-PET Uptake, Ki-67 Immunohistochemistry, and Proliferation Signature in Response to Neo-Adjuvant Chemotherapy in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "Change From Baseline in 18F-FLT-PET Mean Standardized Uptake Value (SUVmean) After the First Cycle of Standard of Care (SOC) Neo-adjuvant Chemotherapy.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Has newly-diagnosed stage IIB/IIIA/IIIB locally advanced breast cancer\n* Is eligible for pre-operative (neo-adjuvant) chemotherapy\n\nExclusion Criteria:\n\n* Has a contraindication to magnetic resonance imaging (MRI)\n* Any condition that would limit ability to undergo MRI or PET scans\n* Is a nursing mother\n* Has moderate to end-stage renal disease and is not on dialysis or has renal failure on chronic dialysis",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04031612",
+    "briefTitle": "Neoadjuvant Database",
+    "officialTitle": "Prospective and Retrospective Neoadjuvant Breast Cancer Database",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Neoadjuvant Treatment in Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "Patient survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women followed for breast cancer in Georges Francois Leclerc Center\n* Neoadjuvant chemotherapy\n* Age \\>= 18\n\nExclusion Criteria:\n\n* Males\n* Metastatic breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

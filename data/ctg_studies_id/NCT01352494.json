@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01352494",
+    "briefTitle": "Neoadjuvant Chemotherapy With Docetaxel and Gemcitabine in Locally Advanced Breast Cancer",
+    "officialTitle": "A Multi-center Phase II Trial to Evaluate the Efficacy and Safety of Neoadjuvant Chemotherapy With DoceTaxel(Doxotel) and Gemcitabine(Gemcibine)in Locally Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Stage II, Breast Cancer Stage III",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 99,
+    "primaryOutcomeMeasure": "Complete remission rate was assessed by pathologic examination after surgery.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women aged : 20\\~70 years\n2. World Health Organization (WHO) (Eastern Cooperative Oncology Group \\[ECOG\\]) performance status 0-2\n3. Patients with measurable lesion assessed by imaging using the RECIST (Response Evaluation Criteria In Solid Tumor) guideline\n4. Have given written informed consent and are available for prolonged follow-up\n\nExclusion Criteria:\n\n1. Patients with previous chemotherapy for recurrent breast cancer\n2. Breast cancer recurrence within 12 months after taxane treatment\n3. Her-2/neu expression breast cancer\n4. Patients with malignancies (other than breast cancer) within the last 5 years, except for adequately treated in situ carcinoma of the cervix or basal cell, squamous cell carcinoma of the skin.\n5. Brain metastasis\n6. uncontrolled infection, medically uncontrollable heart disease\n7. other serious medical illness or prior malignancies\n8. Pregnant or lactating women were excluded.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

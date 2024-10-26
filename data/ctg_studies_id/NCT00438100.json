@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00438100",
+    "briefTitle": "Capecitabine vs. S-1 in Unresectable or Recurrent Breast Cancer",
+    "officialTitle": "Randomized Control Study of Capecitabine vs. S-1 in Unresectable or Recurrent Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 142,
+    "primaryOutcomeMeasure": "Progression Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Biopsy-diagnosed breast cancer with metastasis in multiple organs\n* Performance Status (World Health Organization :WHO) 0-2\n* Functions below are maintained in major organs:\n\n  * Leukocyte count: 4,000/mm3 to 12,000/mm3\n  * Neutrophil count: \\>2,000/mm3 or more\n  * Platelet count: \\<100,000/mm3 or more\n  * Hemoglobin: \\>9.5 g/dL\n  * Total bilirubin: \\>1.5 mg/dL\n  * AST(GOT): within twice a normal upper value in an institution\n  * AST(GPT): within twice a normal upper value in an institution\n  * BUN: \\< 25 mg/dL\n  * Creatinine: within a normal upper value in the institution\n  * 24 hours creatinine clearance: \\>50 mL/min (using the Cockcroft-Gault formula)\n  * Women's Ccr = Body weight x (140-Age)/(72 x Serum creatinine) x 0.85\n* Written informed consent will be obtained for patients for entering this study\n\nExclusion Criteria:\n\n* Patients with synchronous multiple cancers\n* Complicated with infection\n* Fever from suspected infection\n* Metastasis to the central nerve system\n* A history of ischemic cardiac diseases\n* Active gastrointestinal ulcer\n* Severe nerve disorder\n* Women who are potentially pregnant, pregnant, or breast-feeding\n* Severe drug allergy\n* Severe suppression of the bone marrow\n* Severe renal disorder\n* Being treated with other pyrimidine fluoride antineoplastic agents (including any combination therapy)\n* Being treated with flucytosine\n* Complicated with the infection onset which a study doctor assesses to be inappropriate for this study",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04798976",
+    "briefTitle": "Personalized Evidence-based Treatment in Patients With Invasive Breast Cancer",
+    "officialTitle": "Personalized Evidence-based Treatment Improves Survival in Patients With Invasive Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer-specific Survival",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 3000,
+    "primaryOutcomeMeasure": "The percentage of guideline-consistent and personalized EBM recommendations",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nAll women with stage I-III disease who survived at least 12 months post-diagnosis\n\nExclusion Criteria:\n\nUnknown cause of death Treatment outside the region (thus precluding the treatment assessment)",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

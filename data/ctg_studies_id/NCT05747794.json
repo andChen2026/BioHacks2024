@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05747794",
+    "briefTitle": "Study in Metastatic Breast Cancer Patients Receiving Eftilagimod Alpha or Placebo in Combination With Paclitaxel Chemotherapy",
+    "officialTitle": "AIPAC-003 (Active Immunotherapy and PAClitaxel): A Randomized, Double-blind, Placebo-controlled Phase 3 Trial Testing Eftilagimod Alpha (Soluble LAG-3) in HER2-neg/Low Metastatic Breast Cancer Patients Receiving Paclitaxel, Following an Open-label Dose Optimization",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 849,
+    "primaryOutcomeMeasure": "Determination of Overall survival (OS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Metastatic HR+ positive (estrogen receptor positive and/or progesterone receptor positive) or hormone receptor negative (HR\u02d7), and HER2-neg breast adenocarcinoma, histologically proven by biopsy on the last available tumor tissue\n* Participants with HR+ metastatic breast cancer (MBC) who progressed on or after \u22651 line of endocrine based therapy and are indicated to receive chemotherapy for metastatic disease\n* Participants with HR- MBC (i.e. triple-negative breast cancer \\[TNBC\\]) who are indicated to receive paclitaxel chemotherapy without PD 1/PD-L1 therapy in the 1st line setting for metastatic disease\n* ECOG performance status 0-1\n* Expected survival longer than three months\n\nExclusion Criteria:\n\n* Prior chemotherapy for metastatic breast adenocarcinoma\n* Participants with HR+ MBC who have received \\<1 line of ET based therapy in the metastatic setting\n* Participants with HR+ MBC who are not primary or secondary resistant to ET-based therapy and would be candidates to ET based therapy as per applicable treatment guidelines\n* TNBC participants who are candidates for PD-1/PD-L1 therapy in combination with chemotherapy\n* Disease-free interval of less than twelve months from the last dose of adjuvant chemotherapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

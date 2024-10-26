@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06551220",
+    "briefTitle": "Efficacy of Trastuzumab Deruxtecan in Metastatic Breast Cancer with Different HER2 Expression Patterns",
+    "officialTitle": "HER2 Heterogeneity and Its Impact on Benefit from Trastuzumab Deruxtecan in Metastatic Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 800,
+    "primaryOutcomeMeasure": "Progression-free survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with advanced or locally unresectable breast cancer;\n* Treated with T-DXd (DS-8201, trastuzumab deruxtecan) regardless of line of therapy, HR, and HER2 expression level;\n* HER2 immunohistochemistry staining information of the primary lesion or metastatic/recurrent lesion;\n* Measurable lesions with treatment response results that can be evaluated through imaging examinations;\n* Able to follow up with the latest progression-free survival or overall survival.\n\nExclusion Criteria:\n\n* Patients with missing basic clinical information or HER2 immunohistochemistry staining information;\n* Patients with missing pathological results for both primary and metastatic/recurrent lesions;\n* Patients with no measurable lesions and unable to evaluate T-DXd treatment response;\n* Discontinue T-DXd therapy for unacceptable adverse events or other reasons;\n* Patients lost to follow-up after T-DXd treatment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

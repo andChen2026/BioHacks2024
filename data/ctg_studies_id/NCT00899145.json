@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00899145",
+    "briefTitle": "Breast Cancer Risk in Women Who Are BRCA1/BRCA2 Mutation Carriers",
+    "officialTitle": "Genetic Modifiers of BRCA1/BRCA2-Related Breast Cancer Risk in BRCA1/BRCA2 Mutation Carriers",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "BRCA1 Mutation Carrier, BRCA2 Mutation Carrier, Breast Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Identification of potential genetic modifiers of breast cancer risk",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with or without a personal history of breast cancer prior to enrollment in Gynecologic Oncology Group (GOG)-0199\n\n  * Known currently to be BRCA1/2 mutation carrier either by confirmed outside report or by research testing\n\n    * No BRCA1/2 mutation-negative or mutation-unknown status\n* Enrolled on clinical trial GOG-0199 AND meets the following criteria:\n\n  * Completed baseline questionnaire (BQ-199)\n  * Provided information on previous breast cancer history, including date of diagnosis\n  * Provided complete data from the DNA analysis on the genetic variants of interest\n* Available DNA samples for analysis\n* Hormone receptor status not specified\n* Pre- or post-menopausal status",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

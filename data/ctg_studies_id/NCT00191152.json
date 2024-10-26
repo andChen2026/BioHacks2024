@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00191152",
+    "briefTitle": "A Phase III Trial For Patients With Metastatic Breast Cancer",
+    "officialTitle": "Randomized Trial of Gemcitabine Plus Docetaxel vs. Docetaxel Plus Capecitabine in Metastatic Breast Cancer in 1st and 2nd",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Breast Neoplasms, Cancer of the Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 475,
+    "primaryOutcomeMeasure": "Time to Disease Progression (Initial Treatment)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologic or cytologic confirmation of breast cancer with locally advanced and/or metastatic disease\n* Patients may have received prior neo-adjuvant or adjuvant taxane regimen as long as it has been greater than or equal to 6 months since completion of the regimen\n* Patients may have had 0-1, but no more than one prior course of chemotherapy for metastatic disease\n* Patients must have either measurable or non-measurable (evaluable) disease\n* Prior radiation therapy allowed of less than 25% of the bone marrow\n\nExclusion Criteria:\n\n* Second primary malignancy (except in situ carcinoma of the cervix or adequately treated nonmelanomatous carcinoma of the skin or other malignancy treated at least 5 years previously with no evidence of recurrence)\n* Parenchymal or leptomeningeal brain metastases\n* Peripheral neuropathy greater than or equal to grade 2\n* Prior treatment with gemcitabine and capecitabine will not be allowed. Prior treatment with a taxane in the metastatic setting will not be allowed. Prior taxane therapy in the neo-adjuvant or adjuvant setting is allowed if completion of therapy greater than or equal to 6 months prior to enrollment.\n* Active cardiac disease not controlled by therapy and/or myocardial infarction within the preceding 6 months.\n* Concomitant Herceptin is not allowed",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

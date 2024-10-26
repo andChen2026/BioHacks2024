@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04595435",
+    "briefTitle": "IORT-Breast at Medical Center Navicent Health",
+    "officialTitle": "Prospective Registry of Intraoperative Radiation Therapy Using Low Energy X-ray for Breast Cancer at Medical Center, Navicent Health",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer Female, Early-stage Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Rate of recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent and HIPAA authorization\n* T1 tumor (less than or equal to 20mm in greatest diameter)\n* Unifocal\n* Histological Grade 1 or 2\n* Node Negative\n* ER +ve\n* HER-2 -ve\n\nExclusion Criteria:\n\n* Previous radiation therapy to the involved breast other than IORT within 6 months\n* High grade tumors (Histologic grade 3)\n* Her-2 Positive\n* Lymphovascular invasion\n* Metastatic disease\n* close proximity to or involvement of skin\n* Multifocal cancer",
+    "sex": "FEMALE",
+    "minimumAge": "55 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

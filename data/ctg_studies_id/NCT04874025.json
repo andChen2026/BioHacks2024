@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04874025",
+    "briefTitle": "Observational Analysis of Palbociclib Treatment in Patients With First Line Therapy for Locally Advanced and/or Metastatic Breast Cancer",
+    "officialTitle": "Observational Analysis of Treatment With Palbociclib in Patients With Locally Advanced and / or Metastatic RH + / HER 2- Breast Cancer in the First Line of Treatment Within Routine Clinical Practice.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 815,
+    "primaryOutcomeMeasure": "Real-world progression free survival (rwPFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 1. Documented histologically confirmed breast cancer with ER and/or PgR positive and HER2 negative status.\n* 2. Locally advanced or metastatic breast cancer not deemed amenable to curative surgery or curative radiation therapy\n* 3. HR+/HER2-\n\n  1. HR+: ER+ or PR+ test before or up to 60 days after MBC diagnosis\n  2. HER2-: any HER2 negative test and the absence of a positive test (IHC positive 3+, FISH positive/amplified, Positive NOS) before or up to 60 days after MBC diagnosis\n* 4. Female or male patients \\> 18 years\n* 5. Have received at least one dose of palbociclib\n* 6. At least 2 document clinical visits\n* 7. Treatment with palbociclib should have started from November 2017 to November 2019\n* 8. Data from the clinical records should be available.\n* 9. Patients must be able to understand and sign informed consent if alive.\n\nExclusion Criteria:\n\n* 1. Previous treatment with hormonal therapy, targeted therapy or chemotherapy for metastatic disease. Previous anticancer treatment for early breast cancer are allowed.\n* 2. Treatment with palbociclib in clinical trial or compassionate use programs\n* 3. HER2 + (IHC 3+ or FISH +) tumors in the most recent or previous biopsies\n* 4. HR negative tumors in the most recent biopsy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

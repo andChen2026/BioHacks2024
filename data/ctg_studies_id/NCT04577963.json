@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04577963",
+    "briefTitle": "A Study of Fruquintinib in Combination With Tislelizumab in Advanced Solid Tumors",
+    "officialTitle": "An Open-Label, Phase 1b/2 Study to Evaluate the Safety and Efficacy of Fruquintinib in Combination With Tislelizumab in Patients With Advanced Solid Tumors",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Triple Negative Breast Cancer, Endometrial Cancer, Solid Tumor, Unspecified, Adult, Colorectal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 112,
+    "primaryOutcomeMeasure": "Adverse Events by type, frequency, and severity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Willing and able to provide informed consent signed by study patient or legally acceptable representative, as specified by health authorities and institutional guidelines;\n2. Age \u226518 years;\n3. Histologically or cytologically documented, advanced or metastatic Triple Negative Breast Cancer, histologically or cytologically documented, advanced or metastatic endometrial carcinoma, histologically or cytologically confirmed advanced or metastatic, unresectable adenocarcinoma of the colon or rectum.\n4. Tumor tissue (archival or fresh tumor tissues as formalin-fixed paraffin-embedded blocks or approximately 15 unstained slides) for central laboratory assessment.\n5. Eastern Cooperative Oncology Group (ECOG) Performance Status \u22641.\n6. At least 1 measurable lesion as defined by RECIST v1.1.\n\nExclusion Criteria:\n\n1. Has at screening any central nervous system metastasis and/or leptomeningeal disease.\n2. Except for Cohort A, Prior therapy targeting CTLA-4, PD-1, PD-L1 or programmed cell death protein ligand-2 (PD-L2) or any other antibody or drug specifically targeting T-cell costimulation or checkpoint pathways.\n3. Prior treatment with a VEGFR-TKI or anti-VEGFR antibody (eg, ramucirumab).\n4. Except for Cohort D, prior treatment with an anti-VEGFR antibody (eg, bevacizumab).\n5. Tumor tissue (archival or fresh tumor tissues as formalin-fixed paraffin-embedded blocks or approximately 15 unstained slides) for central laboratory assessment.\n6. Active autoimmune diseases or history of autoimmune diseases that may relapse, or history of interstitial lung disease, noninfectious pneumonitis, or uncontrolled lung diseases including but not limited to pulmonary fibrosis, acute lung diseases, etc.\n\nNOTE: Other protocol defined Inclusion/Exclusion criteria may apply",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

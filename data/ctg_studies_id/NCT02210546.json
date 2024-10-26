@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02210546",
+    "briefTitle": "Contrast-enhanced MR Imaging as a Breast Cancer Screening in Women at Intermediate Risk",
+    "officialTitle": "A Multicenter Randomised Trial of Contrast-enhanced MR Imaging as a Breast Cancer Screening Tool Alternative to Mammography and Ultrasonography in Women at Intermediate Risk. Feasibility, and Short Term Results.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "Rate of in situ and invasive breast cancers detected in the two arms of the study",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 40-59 years with\n* cumulative risk at 10 years of at least 5%, or a lifetime cumulative breast cancer risk ranging between 15% and 30% (equivalent to a relative risk of 2-6 as compared to a low risk woman of the same age). The lifetime cumulative risk of breast cancer will be computed using the IBIS Breast Cancer Risk Evaluation Tool (http://www.ems-trials.org/riskevaluator/); or mammographic density involving more than 75% of the breast area, based on the most recent mammogram. The evaluation of the composition of the mammary gland will be performed using the BI-RADS classification. Women with mammography in class 4 (i.e., \\>75% of glandular component) will be eligible for randomization.\n* Written Informed consent\n\nExclusion Criteria:\n\n* Signs or symptoms of breast cancer at enrolment;\n* Previous diagnosis of ductal carcinoma in situ or invasive breast cancer;\n* BRCA or p53 mutation carrier status;\n* General contraindications to MRI (e.g. cardiac pacemaker, metal implants or history of severe allergic reaction after administration of contrast agent;\n* Contraindications to any intravenous administration of contrast agent;\n* Ongoing or planned pregnancy (for the duration of the study);\n* Hormonal enhancement of ovarian function for assisted reproduction in the previous 3 years\n* Presence of breast implants;\n* Previous diagnosis of cancer at any site;\n* Life-threatening diseases;\n* Mental disability precluding informed consent to participate",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT"
+}

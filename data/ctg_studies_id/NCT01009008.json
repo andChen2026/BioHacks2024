@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01009008",
+    "briefTitle": "Patient Activated Controlled Expansion (PACE) Trial",
+    "officialTitle": "Patient Activated Controlled Expansion (PACE) for Breast Reconstruction Utilizing Controlled CO2 Inflation",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Mastectomy, Breast Reconstruction",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Expansion to and maintenance of clinically desired breast volume (not exceeding implant maximum) until permanent implant placement or 6 months (whichever comes first) unless prohibited by a non-device related failure.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female between the ages of 18 and 65 years.\n2. Planned breast reconstruction surgery post-mastectomy.\n3. Able to provide informed consent.\n4. Able to understand protocol components.\n\nExclusion Criteria:\n\n1. Tissue at the intended expansion site is determined unsuitable by the surgeon (i.e., infection, compromised vascularity, history of compromised wound healing, mastectomy skin flaps of questionable viability, excessively tight skin envelope, previous radiation treatment, active ulceration)\n2. Residual gross tumor at the intended expansion site\n3. History of or planned adjuvant radiation therapy\n4. Co-morbid condition determined by the surgeon to pose unduly high risk of surgical and/or postoperative complications.\n5. Obesity with BMI of 30 or above\n6. Current smoker\n7. Psychologically unsuitable patient\n8. Patient unable to understand the protocol for tissue expansion\n9. Planned flight or assent to altitude exceeding 1000 meters above baseline during the expansion period.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

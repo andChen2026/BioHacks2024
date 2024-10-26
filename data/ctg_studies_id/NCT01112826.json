@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01112826",
+    "briefTitle": "Efficacy of Capecitabine Metronomic Chemotherapy to Triple-negative Breast Cancer",
+    "officialTitle": "Phase III Study of Adjuvant Capecitabine Metronomic Chemotherapy in Triple-negative Operable Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 443,
+    "primaryOutcomeMeasure": "disease-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must be \\>=18 years of age;\n* The patients must be Operable primary invasive breast cancer;\n* Definitive loco-regional surgery must be completed;\n* Primary tumor centrally confirmed as triple negative;\n* Operable node-positive (or node-negative with tumor diameter \u2265 0.5cm);\n* Chest, abdominal, bone imaging performed with 3 months prior to randomization must not reveal the presence of distant spread;\n* There are normal organ function, including bone marrow function, renal function, liver function, and cardiac function;\n* All patients must have signed and dated an informed consent form.\n\nExclusion Criteria:\n\n* Patients with bilateral breast cancer, inflammatory carcinomas;\n* Patients with positive supraclavicular or internal mammary lymph node;\n* Previous breast cancer history;\n* Any previous malignancy exceptions for carcinoma of the cervix, squamous carcinoma of the skin, or basal cell carcinoma of the skin;\n* Pregnant or breast-feeding women;\n* Women who are unwilling to agree to use an effective non-hormonal method of contraception during the treatment period of Xeloda;\n* Any sex hormonal therapy;\n* Malabsorption syndrome.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

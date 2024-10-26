@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03238144",
+    "briefTitle": "Tissue Stresses of Cancer (Force Horizon 2020)",
+    "officialTitle": "Tissue Stresses of Cancer: A Phase I/II,Multi-centre, Feasibility Study to Image the Tissue Stiffness/Stresses to Predict Outcome in Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Evidence of reduction in interstitial fluid pressure confirmed by MRF",
+    "eligibilityCriteria": "Inclusion Criteria for healthy Volunteers:\n\n* Healthy female pre- and post-menopausal volunteers \u2265 40 years of age\n* Pre-menopausal patients between the age of 40-55 years of age will have two scans:\n\n  1. Between day 7- 15 of their menstrual cycle and\n  2. Between day 21-28 of their menstrual cycle\n* Postmenopausal patients of 55 years and above will have one scan only.\n* No prior history of breast cancer\n* Written informed consent to participate in this study\n\nInclusion Criteria for patients undergoing primary surgery:\n\n* Females \u2265 18 years of age with a diagnosis of invasive breast cancer with tumour size of at least 5mm as determined by USS\n* Scheduled to undergo breast conserving surgery or mastectomy +/- sentinel lymph node biopsy or axillary lymph node dissection\n* Written informed consent to participate in this study.\n\nInclusion Criteria for patients undergoing neoadjuvant chemotherapy:\n\n* Females \u2265 18 years of age with a diagnosis of invasive breast cancer\n* Scheduled to undergo neoadjuvant systemic chemotherapy\n* Written informed consent to participate in this study.\n\nExclusion Criteria for healthy volunteers:\n\nContraindications for MRI such as:\n\n* cardiac pacemaker\n* metallic implants\n* major claustrophobia\n* pregnancy or breastfeeding\n* Inability to provide written informed consent\n\nExclusion Criteria for patient undergoing primary surgery and neoadjuvant chemotherapy:\n\n* Contraindications for MRI such as:\n* cardiac pacemaker\n* metallic implants\n* major claustrophobia\n* prior breast cancer treatment\n* pregnancy or breastfeeding\n* known allergy against the contrast agent (gadolinium chelate) and renal failure\n* Inability to provide written informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

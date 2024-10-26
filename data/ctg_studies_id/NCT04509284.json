@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04509284",
+    "briefTitle": "Analgesic Effect of Resistance Training for Breast Cancer Survivors",
+    "officialTitle": "Effect of Resistance Training of Persistent Pain After Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Surgery, Chemotherapy Effect, Radiotherapy Side Effect, Pain, Chronic",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Change in pain sensitivity, assessed through pressure pain thresholds.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* primary diagnosis of breast cancer (grades I-IIIA).\n* adult women at least 18 years of age.\n* having received breast cancer treatment (i.e. surgery and possible adjuvant chemo and/or radiotherapy) at least 18 months before the start of the study.\n* self reported pain in the areas of the breast, shoulder, axilla, arm and/or side of body with an intensity of \u2265 3 on a numeric rating scale (0 = no pain, 10 = worst pain imaginable).\n* no signs of cancer recurrence.\n* reading, writing and speaking Danish.\n\nExclusion Criteria:\n\n* breast surgery for cosmetic reasons or prophylactic mastectomy.\n* bilateral breast cancer.\n* lymphedema.\n* other chronic pain conditions (e.g., rheumatoid arthritis).\n* previous diagnosis of fibromyalgia syndrome.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

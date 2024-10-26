@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06344767",
+    "briefTitle": "Positive ER Expression Assessed by 18F-FES PET/CT in the MBC with ER-negative Primary Tumor",
+    "officialTitle": "Positive Estrogen Receptor (ER) Expression Assessed by 18F-fluoroestradiol Positron Emission Tomography/Computed Tomography (18F-FES PET/CT) in the Metastatic Breast Cancer (MBC) with ER- Negative Primary Tumor",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 19,
+    "primaryOutcomeMeasure": "Progression free survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients diagnosed with breast cancer (according to International Classification of Diseases 10th Revision) with confirmed metastasis, regardless of being de novo diagnosed or progressed from a nonmetastatic stage.\n* MBC patients who underwent 18F-FES PET/CT at the Fudan University Shanghai Cancer Center between 2012 and 2023\n* Patients diagnosed with primary ER-negative tumor and who were yet to receive any systemic therapy during the advanced stage\n\nExclusion Criteria:\n\nPatients with incomplete medical records and those diagnosed with secondary primary tumors",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

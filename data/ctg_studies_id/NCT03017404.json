@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03017404",
+    "briefTitle": "A Dose Increase Finding Study of Doxorubicin Hydrochloride Liposome Injection for Patients With Breast Cancer",
+    "officialTitle": "A Dose Increase Finding Study of Doxorubicin Hydrochloride Liposome Injection in Neoadjuvant Chemotherapy for Patients With Locally Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 18,
+    "primaryOutcomeMeasure": "maximum tolerated dose",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients newly diagnosed breast cancer\u226518 and \u226470 years of age;\n* Karnofsky performance status\u226570 and measurable or evaluable;\n* Stages \u2162a-\u2162C;\n* Baseline left ventricular ejection fraction (LVEF) \u2265 50%;\n* Adequate marrow function (WBC count\\> 4.0\u00d710(9)/L, neutrophil\\> 2.0\u00d710(9)/L, platelet count \\> 100\u00d710(9)/L\uff0chemoglobin \\> 90g/L );\n* AST and ALT \u22641.5\u00d7 institutional upper limit of normal, alkaline phosphatase\n* \u22642.5\u00d7institutional upper limit of normal\uff0cbilirubin \u2264institutional upper limit of normal;\n* Serum creatinine \u2265 44\u00b5mol/L and \u2264 133 \u00b5mol/L;\n* Expected lifetime \u2265 12 months;\n* Pregnancy tests of reproductive age women is negative;\n* All patients provided written informed consent.\n\nExclusion Criteria:\n\n* Distant metastasis;\n* Severe heart failure (NYHA grade II or higher);\n* Active and uncontrolled severe infection;\n* Hypersensitivity to anthracycline therapy or a history of severe hypersensitivity reactions to products containing liposomal doxorubicin and docetaxel;\n* Have accepted any other anti-tumor drug within 30 days before the first dose of doxorubicin hydrochloride liposome or doxorubicin;\n* Pregnancy or breast feeding;\n* Other situations that investigators consider as contra-indication for this study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01007942",
+    "briefTitle": "Daily Everolimus in Combination With Trastuzumab and Vinorelbine in HER2/Neu Positive Women With Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "A Randomized Phase III, Double-blind, Placebo-controlled Multicenter Trial of Daily Everolimus in Combination With Trastuzumab and Vinorelbine, in Pretreated Women With HER2/Neu Over-expressing Locally Advanced or Metastatic Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER2/Neu Over-expressing Locally Advanced Breast Cancer, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 569,
+    "primaryOutcomeMeasure": "Progressive-free Survival (PFS) Per Investigator Assessment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed invasive breast carcinoma with locally recurrent or radiological evidence of metastatic disease. Locally recurrent disease must not be amenable to resection with curative intent.\n* HER2+ status defined as IHC 3+ staining or in situ hybridization positive\n* Patients with resistance to trastuzumab\n* Prior taxane therapy\n* Patients with an ECOG performance status of 0 - 2\n* Patients with measurable disease as per RECIST criteria\n* Documentation of negative pregnancy test for patients of child bearing potential prior to enrollment within 7 days prior to randomization. Sexually active pre-menopausal women must use adequate contraceptive measures, excluding estrogen containing contraceptives, while on study;\n* Patients must meet laboratory criteria defined in the study within 21 days prior to randomization\n\nExclusion Criteria:\n\n* Prior mTOR inhibitors or vinca alkaloid agents for the treatment of cancer\n* More than three prior chemotherapy lines for advanced disease.\n* Symptomatic CNS metastases or evidence of leptomeningeal disease. Previously treated asymptomatic CNS metastases are allowed provided that the last treatment for CNS metastases was completed \\>8 weeks prior to randomization\n* Impairment of gastrointestinal (GI) function or GI disease that may significantly alter the absorption of oral everolimus\n* Peripheral neuropathy \u2265 grade 2 at randomization\n* Active cardiac disease\n* History of cardiac dysfunction\n* Any malignancy within 5 years prior to randomization, with the exception of adequately treated in-situ carcinoma of the cervix uteri, basal or squamous cell carcinoma or non-melanomatous skin cancer\n* Known hypersensitivity to any study medication\n* Breastfeeding or pregnant",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

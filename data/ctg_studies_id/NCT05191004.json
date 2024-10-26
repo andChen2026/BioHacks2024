@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05191004",
+    "briefTitle": "Study of NUV-422 in Combination With Fulvestrant in Patients With HR+HER2- aBC",
+    "officialTitle": "Randomized, Non-Comparative Phase 1/2 Study of NUV-422 in Combination With Fulvestrant in Patients With Hormone Receptor-Positive Human Epidermal Growth Factor Receptor 2-Negative (HR+HER2-) Advanced Breast Cancer (aBC)",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Advanced Breast Cancer, Metastatic Breast Cancer, Breast Cancer, Breast Carcinoma, Cancer of the Breast, Cancer of Breast, Malignant Tumor of Breast, Breast Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Phase 1b Dose Escalation: Safety and tolerability of NUV-422 in combination with fulvestrant to determine the recommended Phase 2 combination dose (RP2cD)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Men and women with diagnosis of locally advanced inoperable or metastatic HR+HER2- breast cancer\n2. Evidence of disease progression on immediate prior therapy as determined by the Investigator per standard criteria\n3. Patients must have received standard of care treatments for their breast cancer and be eligible to receive fulvestrant\n\n   * Prior standard of care treatments must include treatment with hormonal therapy in combination with an approved CDK4/6 inhibitor\n4. Patients must have endocrine-resistant disease\n5. Have no known active or symptomatic central nervous system (CNS) disease\n6. Eastern Cooperative Oncology Group Performance Status (ECOG PS) \u2264 1\n7. Life expectancy of \\> 6 months\n8. Eligible to receive fulvestrant\n9. Adequate bone marrow and organ function\n\nExclusion Criteria:\n\n1. Have received chemotherapy, hormonal therapy (with the exception of ongoing LHRH analogs in male patients and premenopausal women), radiation, or biological anti-cancer therapy within 14 days prior to the first dose of NUV-422 and fulvestrant\n2. Received treatment with an investigational agent for any indication within 14 days for non-myelosuppressive agent or 21 days (of \\< 5 half-lives) for myelosuppressive agent prior to first dose of NUV-422 and fulvestrant\n3. Moderate liver impairment which would require a reduced dose of fulvestrant\n4. Requires medications that are known to be strong inducers and/or inhibitors of CYP3A4/5 enzymes\n\n   * For Phase 1b only: requires medications that are known to be moderate inducers and/or inhibitors of CYP3A4/5 enzymes\n5. Known allergy or hypersensitivity to fulvestrant\n6. For Phase 2 only: prior therapy with fulvestrant and/or investigational ER targeted agent\n7. Females who are pregnant or breast feeding",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

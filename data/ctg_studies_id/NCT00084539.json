@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00084539",
+    "briefTitle": "Adjuvant Hypofractionated Intensity-Modulated Radiation Therapy With Incorporated Boost in Treating Patients With Early-Stage Breast Cancer",
+    "officialTitle": "Phase II Study of Hypofractionated Intensity Modulated Radiation Therapy (IMRT) With Incorporated Boost in Early Stage Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 78,
+    "primaryOutcomeMeasure": "Acute toxicity by CTCAE at 6 weeks",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed carcinoma of the breast\n\n  * Invasive or in-situ disease\n  * Stage Tis, T1, or T2 (AJCC stage 0, I, or II) disease\n* Treated with breast-conserving surgery within the past 8 weeks\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nSex\n\n* Not specified\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* ECOG 0-2\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Absolute neutrophil count \u2265 1,500/mm\\^3\n* Platelet count \u2265 75,000/mm\\^3\n\nHepatic\n\n* Not specified\n\nRenal\n\n* Not specified\n\nOther\n\n* No other malignancy within the past 2 years except inactive, non-invasive carcinoma of the cervix or non-melanoma skin cancer\n* No active systemic lupus\n* No history of scleroderma\n* No other medical or psychiatric condition that would preclude study participation\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* No more than 6 weeks since prior adjuvant systemic chemotherapy\n* No concurrent chemotherapy\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* No prior radiotherapy to the breast\n\nSurgery\n\n* See Disease Characteristics",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

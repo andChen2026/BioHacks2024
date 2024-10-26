@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00723125",
+    "briefTitle": "Carboplatin, Abraxane, Avastin as Neoadjuvant Therapy for Her2-Negative Breast Cancer",
+    "officialTitle": "Q3week Carboplatin With Weekly Abraxane\u00e4 And Avastin + Subsequent Dose-Dense Ac With Avastin As Neoadjuvant Therapy In Resectable And Unresectable (Stage Iia-Iiib) Her2-Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Pathological Complete Response Rates at Surgery",
+    "eligibilityCriteria": "Eligibility criteria\n\nInclusion criteria:\n\n* Histologically documented adenocarcinoma of the breast\n* ANC \\> 1000 cells\n* Female; age \\> 18\n* Zubrod PS 0-1\n* Platelets \\> 100,000\n* Stage IIA-IIIB disease\n* Total bilirubin \\< 1.5 ULN\n* No evidence of any metastatic disease\n* Serum Creatinine \\< 1.5 gm/dl\n* No prior systemic therapy for breast cancer or Creat Cl \\> 30 ml/min\n* Not pregnant or lactating\n* Serum ALT \\< 2.0 ULN\n* ER, PR and HER2 status required\n* LVEF (MUGA/echo WNL)\n* No baseline \\> 2 neuropathy\n* Urine protein: creat ratio \\< 1.0\n* HER2-negative - either IHC 0-1+ or FISH ratio \\< 2.0\n* Hemoglobin \\> 9 gm/dl\n* (FISH testing is required for all HER2 2-3+ tumors by IHC)\n\nExclusion criteria:\n\n* No Histologically documented adenocarcinoma of the breast\n* No-ANC \\> 1000 cells\n* Female; age \\< 18\n* Zubrod PS \\> 0-1\n* Platelets \\< 100,000\n* Stage IV disease\n* Total bilirubin \\> 1.5 ULN\n* metastatic disease\n* Serum Creatinine \\> 1.5 gm/dl\n* prior systemic therapy for breast cancer or Creat Cl \\> 30 ml/min\n* pregnant or lactating\n* Serum ALT \\> 2.0 ULN baseline \\> 2 neuropathy\n* Urine protein: creat ratio \\>1.0\n* HER2-positive\n* Hemoglobin \\< 9 gm/dl",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

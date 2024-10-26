@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05150535",
+    "briefTitle": "One Week Adjuvant Radiotherapy for Breast Cancer",
+    "officialTitle": "A Prospective Study of One Week Accelerated Hypo-fractionation Adjuvant Radiotherapy in High-risk Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Acute toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients 45 years of age or older who have had Oncoplastic Breast Surgery (OBS) or total mastectomy with adequate axillary clearance and a negative margin.\n* Breast carcinomas that is invasive (TXN1-3M0, T0N2-3 M0, T1N2-3M0, T2N2-3M0, T3N0-3M0, T4N0-3M0) whatever type of tumors biology.\n* All patients with locally advanced breast cancer who received neoadjuvant chemotherapy and underwent either oncoplastic breast surgery or modified radical mastectomy\n\nExclusion Criteria:\n\n* Metastatic breast cancer at the time of diagnosis proved clinically or radiologically.\n* Postoperative positive margin.\n* Carcinomas in situ.\n* Mesenchymal breast lesions.\n* Locoregional recurrent breast cancer.\n* Synchronous bilateral breast cancer.\n* very early breast cancer (T1-2N0M0,T1N1M0).",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03313908",
+    "briefTitle": "Radioguided Occult Lesion Localisation by Indocyanine Green",
+    "officialTitle": "A Feasibility Study (ROLL-I) of Indocyanine Green (ICG) Fluorescence Mapping for Non-palpable Breast Cancers",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "difference between the area of the indocyanine green fluorescence and radioactive area",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Woman Age \u2265 18 years\n* Non-palpable tumor\n* Single tumor\n* First breast surgery\n* Histology: ductal carcinoma\n* Written consent\n* Being affiliated or benefiting from a French social security system\n\nExclusion Criteria:\n\n* palpable tumor\n* multifocal tumor\n* antecedent of breast surgery",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

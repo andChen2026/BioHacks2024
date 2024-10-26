@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00998738",
+    "briefTitle": "Calcium and Magnesium in Preventing Peripheral Neuropathy Caused by Ixabepilone in Patients With Breast Cancer",
+    "officialTitle": "The Use of Calcium and Magnesium for Prevention of Ixabepilone Induced Peripheral Neuropathy: A Phase III Double-Blind Placebo Controlled Study",
+    "overallStatus": "TERMINATED",
+    "conditions": "Neuropathy, Pain, Recurrent Breast Carcinoma, Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "Comparison of Chemotherapy-induced Peripheral Neuropathy Between Calcium With Magnesium (CaMg) and Placebo Arms, as Measured by the Sensory Subscale of EORTC QLQ-CIPN20",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Scheduled to undergo cancer treatment for metastatic breast cancer (weekly or once every three weeks) with ixabepilone with no prior exposure to ixabepilone and no more than 2 prior chemotherapy regimens for metastatic disease\n* Serum calcium =\\< 1.2 x upper normal limit (UNL)\n* Serum magnesium =\\< UNL\n* Serum creatinine =\\< 1.5 x UNL\n* Ability to sign informed consent and understand the nature of a placebo-controlled trial\n* Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) of 0, 1, or 2\n* Ability to complete questionnaire(s) by themselves or with assistance\n* Life expectancy \\>= 4 months\n* Presence of a central line\n\nExclusion Criteria:\n\n* Pre-existing history of peripheral neuropathy \\>= grade 2 (National Cancer Institute \\[NCI\\] CTCAE Active Version) due to any cause (chemotherapy, diabetes, alcohol, toxin, hereditary, etc.)\n* Concurrent treatment with anticonvulsants, tricyclic antidepressants, or other neuropathic pain medications agents such as carbamazepine, phenytoin, valproic acid, gabapentin, lamotrigine, topical lidocaine patch, capsaicin cream, etc., or any other treatments specifically for prevention or treatment of neuropathy\n* Other medical conditions, which in the opinion of the treating physician/allied health professional would make this protocol unreasonably hazardous for the patient\n* Any of the following:\n\n  * Pregnant women\n  * Nursing women\n  * Women of childbearing potential (per physician judgment)\n* Diagnosed diabetes requiring insulin or oral hypoglycemic medications\n* Receiving digoxin or digitoxin\n* History of heart block (any degree)\n* Current treatment for arrhythmias\n* Concurrent treatment with other neuropathic chemotherapy agents",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03957096",
+    "briefTitle": "A Safety Study of SGN-CD47M in Patients With Solid Tumors",
+    "officialTitle": "A Phase 1 Study of SGN-CD47M in Patients With Advanced Solid Tumors",
+    "overallStatus": "TERMINATED",
+    "conditions": "Soft Tissue Sarcoma, Colorectal Cancer, Head and Neck Squamous Cell Carcinoma, Non-small Cell Lung Carcinoma, Breast Carcinoma, Ovarian Carcinoma, Exocrine Pancreatic Carcinoma, Gastric Carcinoma, Melanoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 16,
+    "primaryOutcomeMeasure": "Number of patients with adverse events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed metastatic or unresectable solid malignancy within one of the following indications:\n\n  1. Soft tissue sarcoma\n  2. Colorectal carcinoma\n  3. Non-small cell lung carcinoma\n  4. Head and neck squamous cell carcinoma\n  5. Breast carcinoma\n  6. Ovarian carcinoma\n  7. Exocrine pancreatic adenocarcinoma\n  8. Gastric carcinoma\n  9. Melanoma\n* Relapsed, refractory, or progressive disease with no appropriate standard therapy available at the time of enrollment\n* ECOG performance status of 0 or 1\n* Measureable disease per the Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 at baseline\n* Patients of childbearing potential may not be pregnant, must agree not to become pregnant until at 30 days after last dose of study drug, and must use 2 effective means of birth control.\n* Patients who can father children must use 2 effective means of birth control and must agree not to donate sperm until at least 60 days after last dose of study drug.\n\nExclusion Criteria:\n\n* History of another malignancy within 3 years prior to first dose of study drug (exceptions for malignancies with negligible risk of metastasis)\n* Previous exposure to CD47 or SIRP\u03b1 targeted therapy\n* Chemotherapy, systemic radiotherapy, biologics, other anti-neoplastic or investigational agents, and/or other antitumor treatment with immunotherapy that is not completed 4 weeks prior to first dose of SGN-CD47M. Focal radiotherapy that is not completed 2 weeks prior to the first dose of SGN-CD47M\n* Known active central nervous system metastases\n* Positive for hepatitis B, active hepatitis C infections, positive for human immunodeficiency virus (HIV), or known active or latent tuberculosis\n* History of sickle cell anemia, auto-immune hemolytic anemia, or idiopathic thrombocytopenic purpura\n* Carcinomatous meningitis\n* Red blood cell transfusion within 4 weeks prior to enrollment or platelet transfusion within 2 weeks prior to enrollment\n* Any active Grade 3 or higher viral, bacterial, or fungal infection within 2 weeks prior to first dose\n* History of a cerebral vascular event, unstable angina, myocardial infarction, or cardiac symptoms consistent with New York Heart Association Class III-IV within 6 months prior to first dose\n* Condition requiring systemic treatment with corticosteroids or other immunosuppressive medications within 2 week prior to first dose\n* Active autoimmune disease, autoimmune-related toxicity from prior immuno-oncology-based therapy\n* Estimated life expectancy of less than 12 weeks",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

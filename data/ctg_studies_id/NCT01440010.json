@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01440010",
+    "briefTitle": "TARGeted Intraoperative radioTherapy With INTRABEAM as a Boost for Breast Cancer - A Quality Control Registry",
+    "officialTitle": "TARGeted Intraoperative radioTherapy With the INTRABEAM-System as an Advanced Boost in Patients With Breast Cancer - A Quality Control Registry in Germany (TARGIT BQR)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1135,
+    "primaryOutcomeMeasure": "Local recurrence rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Tumor diameter \\< 3,5 cm\n* Informed consent\n\nExclusion Criteria:\n\n* No informed consent\n* Tumor size \\> 3,5 cm\n* No indication for a boost",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

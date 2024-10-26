@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02640053",
+    "briefTitle": "Topical Cryotherapy in Reducing Pain in Patients With Chemotherapy Induced Peripheral Neuropathy or Paclitaxel Induced Acute Pain Syndrome",
+    "officialTitle": "Pilot Clinical Trial Evaluating the Utility of Topical Cryotherapy to Decrease Chemotherapy-Induced Peripheral Neuropathy (CIPN) and Paclitaxel-Induced Acute Pain Syndrome (P-APS): A Randomized Controlled Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "Area Under the Curve (AUC) EORTC CIPN20 Sensory Neuropathy Subscale Adjusting for Baseline",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Ability to complete questionnaires by themselves or with assistance\n* Planned paclitaxel at a dose of 80 mg/m\\^2 intravenously (I.V.) given, in the adjuvant breast cancer (postoperative or neo-adjuvant) setting, every week for a planned course of 12 weeks without any other concurrent cytotoxic chemotherapy (NOTE: trastuzumab and/or other antibody and/or small molecule treatment is allowed, except for poly adenosine diphosphate ribose polymerase \\[PARP\\] inhibitors), at the entering Academic and Community Cancer Research United (ACCRU) institution\n* Life expectancy \\> 6 months\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Patient has score of 0 or 1 on the neurotoxicity evaluation, as determined by the healthcare provider\n\nExclusion Criteria:\n\n* Previous diagnosis of diabetic neuropathy or peripheral neuropathy from any cause\n* Diagnosis of fibromyalgia\n* Any prior exposure to neurotoxic chemotherapy\n* History of Raynaud?s disease, cryoglobulinemia",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

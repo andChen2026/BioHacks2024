@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03405324",
+    "briefTitle": "Effect of tDCS of the Motor Cortex on Chemotherapy Induced Nausia and Vomiting",
+    "officialTitle": "Effect of the Transcranial Direct Current Stimulation (tDCS) of the Motor Cortex on Chemotherapy Induced Nausea and Vomiting in Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Chemotherapy-induced Nausea and Vomiting",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Cumulative of nausea scoring",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* breast cancer therapy receiving anthracyclin based adjuvant chemotherapy and prophylaxis against nausea and vomiting\n\nExclusion Criteria:\n\n* patients with intracranial metallic devices or with pacemakers or any other device.\n* patients with extensive myocardial ischemia\n* patients known to have epilepsy patients refusal.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT"
+}

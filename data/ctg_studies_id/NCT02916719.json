@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02916719",
+    "briefTitle": "Monitoring of Breast Cancers Treated by Neoadjuvant Radiotherapy Via Magnetic Resonance Imaging",
+    "officialTitle": "Monitoring of Breast Cancers Treated by Neoadjuvant Radiotherapy Via Magnetic Resonance Imaging",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Anatomo-pathology classification - histological type",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 years\n* Histological diagnosis of unifocal invasive breast carcinoma, no special type (ductal carcinoma)\n* Tumor Staging: cT1-2N0M0\n* Luminal A or B\n* Candidate for breast conserving surgery\n* N0-status confirmed by lymph node cytology\n\nExclusion Criteria:\n\n* Multifocal/multicentric disease\n* Prior thoracic radiotherapy\n* Pregnancy\n* SBR3 grading\n* Triple negative status which benefit neoadjuvant chemotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

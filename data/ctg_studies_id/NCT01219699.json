@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01219699",
+    "briefTitle": "A Study of BYL719 in Adult Patients With Advanced Solid Malignancies, Whose Tumors Have an Alteration of the PIK3CA Gene",
+    "officialTitle": "A Phase IA, Multicenter, Open-label Dose Escalation Study of Oral BYL719, in Adult Patients With Advanced Solid Malignancies, Whose Tumors Have an Alteration of the PIK3CA Gene",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Solid Tumors With an Alteration of the PIK3CA Gene, Estrogen Receptor Positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 221,
+    "primaryOutcomeMeasure": "Incidence rate of dose limiting toxicities (DLT).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with histologically-confirmed, advanced unresectable solid tumors who have progressed within three months before screening/baseline visit Only patients who have confirmed PIK3CA status (wild type, mutation or amplification) will be allowed for screening (patients participating in the combination arm must be eligible for treatment with fulvestrant)\n* Availability of a representative formalin fixed paraffin embedded tumor tissue sample\n* At least one measurable or non-measurable lesion\n* Age \u2265 18 years\n* World Health Organization (WHO) Performance Status \u2264 2\n* Good organ (hepatic, kidney, BM) function at screening/baseline visit\n\nExclusion Criteria:\n\n* Brain metastasis unless treated and free of signs/symptoms attributable to brain metastasis in the absence of corticosteroid therapy (anti-epileptic therapy is allowed).\n* Prior treatment with PI3K, AKT or mTOR inhibitor and failure to benefit\n* Patient with peripheral neuropathy NCI-CTC Grade \u2265 3\n* Patient with diarrhea NCI-CTC Grade \u2265 2\n* Patient with acute or chronic pancreatitis\n* Impaired cardiac function or clinically significant cardiac disease incl. unstable angina pectoris \u2264 3 months prior to starting study drug and Acute Myocardial Infarction (AMI) \u2264 3 months prior to starting study drug.\n* Patients with clinically manifest diabetes mellitus, history of gestational diabetes mellitus or documented steroid-induced diabetes mellitus\n* Women who are pregnant or breast feeding or adults of reproductive potential not employing an effective method of birth control\n\nOther protocol-defined inclusion/exclusion criteria may apply",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

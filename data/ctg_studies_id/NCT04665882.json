@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04665882",
+    "briefTitle": "Nomogram to Predict Breast Cancer Related Lymphedema",
+    "officialTitle": "Intraoperative Nomogram to Predict Breast Cancer- Related Lymphedema Based in Artificial Intelligence Image Recognition: a Randomized Controlled Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Axillary Lymph Node Dissection, Breast Cancer Related Lymphedema, Axillary Reverse Mapping",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "Rate of arm lymphedema",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients aged 18 years or older with T1-3 invasive breast cancer;\n* Clinically node-positive breast cancer, defined as positive on preoperative axillary palpation, ultrasound examination, and computed tomography scan with contrast;\n* Patients who underwent mastectomy with a positive sentinel lymph node (SLN);\n* Patients who underwent breast-conserving surgery containing more than two positive SLNs.\n\nExclusion Criteria:\n\n* Neoadjuvant chemotherapy;\n* Previous history of breast cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

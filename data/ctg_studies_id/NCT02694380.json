@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02694380",
+    "briefTitle": "Measuring the Effect of Radiation Therapy on Patient Activity Levels",
+    "officialTitle": "Measuring the Effect of Radiation Therapy on Patient Activity Levels",
+    "overallStatus": "TERMINATED",
+    "conditions": "Head and Neck Cancer, Prostate Cancer, Breast Cancer, Lung Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 32,
+    "primaryOutcomeMeasure": "Activity level",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of Breast, Prostate, Lung or Head and Neck Cancer\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-1\n* Ability to walk 100 feet without rest\n* Signed informed consent\n\nExclusion Criteria:\n\n* Any other noncutaneous cancer diagnosis under active treatment\n* Known metastatic disease",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

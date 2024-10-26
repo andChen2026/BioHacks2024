@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01703520",
+    "briefTitle": "Finasteride (MK-0906) and Male Breast Cancer - A Register-Based Nested Case-Control Study (MK-0906-162/2003.021).",
+    "officialTitle": "Finasteride and Male Breast Cancer - A Register-Based Nested Case-Control Study in Denmark, Finland, Norway, and Sweden",
+    "overallStatus": "COMPLETED",
+    "conditions": "Male Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 575216,
+    "primaryOutcomeMeasure": "Stage 1 - Person-Years of Exposure to Finasteride by Participant Age and Year",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participant's study medical information available in population-based health and medical registries, prescription registries, and mortality registries in Denmark, Finland, Norway, or Sweden within the observation period of 1995 to 2013\n* Male with breast cancer with medical information in one of the 4 country-specific registries in this study OR country- and age-matched control men without breast cancer and with medical information in one of the 4 country-specific registries\n* Study participant's exposure to finasteride is available\n\nExclusion Criteria:\n\nFor country- and age-matched control men without breast cancer\n\n* Previous cancer diagnosis or treatment for cancer except non-melanoma skin cancer\n* Previous prostatectomy\n* Finasteride or dutasteride use (dutasteride is a drug in the same class as finasteride) within first 6 months of registration in the prescription registers (new user design).",
+    "sex": "MALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

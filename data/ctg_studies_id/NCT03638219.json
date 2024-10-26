@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03638219",
+    "briefTitle": "Prognostic Significance of Bioscore in Nonmetastatic Breast Cancer",
+    "officialTitle": "Prognostic Significance of Bioscore in Nonmetastatic Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 317,
+    "primaryOutcomeMeasure": "the correlation between pathological stage, T stage (T), nodal stage (N), grade (G), estrogen receptor (ER) status (E) and human epidermal growth factor receptor (HER2) status combined score and the disease specific survival (DSS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n- Female patients Newly diagnosed breast cancer patients presented to clinical oncology department, Assiut University in the period between (2015_2018).\n\nHistologically confirmed invasive breast carcinoma (IBC) Age: \u226518 and older Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1 or 2. Complete medical records and follow up\n\nExclusion Criteria:\n\n* Male patients No definitive surgery Incomplete medical records or follow-up status Unavailability of hormonal receptor status Carcinoma in situ or other rare tumors of the breast as phylloides tumors, pregnancy and lactation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

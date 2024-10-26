@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03672331",
+    "briefTitle": "My Personalized Breast Screening",
+    "officialTitle": "International Randomized Study Comparing Personalized, Risk-Stratified to Standard Breast Cancer Screening In Women Aged 40-70",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Screening",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 53142,
+    "primaryOutcomeMeasure": "Incidence rate of stage 2 and plus breast cancer (non-inferiority analysis)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female (whether born female or not)\n2. Aged 40 to 70 years old (inclusive)\n3. Willing and able to comply with scheduled visits, laboratory tests, and other trial procedures\n4. Able to provide written informed consent obtained prior to performing any protocol-related procedures\n5. Sufficient understanding of any of the languages used in the study\n6. Affiliated to a social security/national healthcare system\n\nExclusion Criteria:\n\n1. Personal history of breast carcinoma, either invasive or ductal carcinoma in situ (DCIS)\n2. Prior history of atypical breast lesion, lobular carcinoma in situ or chest wall irradiation\n3. Known condition or suspicion of a very high risk predisposition to breast cancer: germline mutation of BRCA1/2, PALB2, TP53 or equivalent\n4. History of bilateral mastectomy\n5. Recent abnormal breast finding under work-up (clinically suspect lesion or BI-RADS 4 or 5 image)\n6. Psychiatric or other disorders that are not compatible with compliance to the protocol requirements and follow-up\n7. Women who do not intend to be followed-up for 4 years",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

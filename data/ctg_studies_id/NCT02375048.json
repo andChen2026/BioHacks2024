@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02375048",
+    "briefTitle": "Randomized Study on Postmenopausal Women With Early Stage Breast Cancer: WBI Versus APBI",
+    "officialTitle": "Randomized Study on Postmenopausal Women With Early Stage Breast Cancer: Adjuvant Hypofractionated Whole Breast Irradiation (WBI) Versus Accelerated Partial Breast Irradiation (APBI)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Cancer of Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 179,
+    "primaryOutcomeMeasure": "Toxicity will be measured with CTCAE v.4.0",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 55\\< Age \\<70\n* Tumor size \u2264 2 cm\n* pN0 (SN biopsy or ALND)\n* ER/PgR positive\n* Margins \\> 5 mm (either at initial surgery or at re-excision)\n* Clips placed in the surgical bed (minimum of 4 clips)\n* Unicentric only\n* No lymphovascular invasion\n* Any grade\n* No extensive intraductal component (\\>25%)\n* Written informed consent\n\nExclusion Criteria:\n\n* Prior thoracic radiation therapy\n* Oncoplastic surgery / No clips in the surgical bed\n* Multicentric cancer\n* Autoimmune disease, vasculitis, collagenopathy or scleroderma that may predispose to late sequelae",
+    "sex": "FEMALE",
+    "minimumAge": "55 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

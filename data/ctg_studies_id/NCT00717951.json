@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00717951",
+    "briefTitle": "A Randomised,Multi-Center Study of Docetaxol Plus Capecitabine or Cisplatin in Anthracycline-Pretreated Patients With Advanced Breast Cancer",
+    "officialTitle": "A Randomised,Multi-Center Study of Docetaxol Plus Capecitabine or Cisplatin in Anthracycline-Pretreated Patients With Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "ORR,TTP,TTF and 2 year PFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* age\u226518y\n* KPS\u2265 70\n* pathologic diagnosis of breast cancer\n* at least 1 measurable lesion as defined by modified RECIST criteria\n* screening laboratory values with the following parameters: hemoglobin:\u226510.0 g/dl absolute neutrophils count:\u22651.5\u00d7109/L platelet:\u2265100\u00d7109/L creatinine clearance rate: \u226560ml/min total bilirubin: \u22641.5 \u00d7upper limits of normal Alkaline phosphatase,Aspartate aminotransferase and Alanine aminotransferase:\u2264 2.5\u00d7upper limits of normal\uff08\u22645\u00d7upper limits of normal if liver metastasis are present)\n* signed ICF\n* for women of child bearing potential,a negative serum or urine pregnancy test result before study entry.\n\nExclusion Criteria:\n\n* More than 2 cytotoxic chemotherapy treatment regimens for metastatic disease.\n* prior exposure to 5-Fluorouracil continuous infusion.\n* prior exposure docetaxol for metastatic disease\n* Any other cancer within 5 years prior to screening with the exception of contralateral breast cancer,adequately treated cervical carcinoma in situ,or adequately treated basal or squamous cell carcinoma of skin",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

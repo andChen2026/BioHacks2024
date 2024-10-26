@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01431196",
+    "briefTitle": "Trial With Autologous Dendritic Cell Vaccination in Patients With Stage II-III HER2 Negative Breast Cancer",
+    "officialTitle": "Phase II Trial With Autologous Dendritic Cell Vaccination in Patients With Stage II-III HER2 Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Stage II Breast Cancer, Stage III Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 29,
+    "primaryOutcomeMeasure": "pathologic complete response (pCR) in the breast and the axilla",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* HER2 negative and stage II and III Breast cancer patients who benefit with neoadjuvant chemotherapy\n* age 18-75\n* to get enough tumoral sample to elaborate the vaccine\n\nExclusion Criteria:\n\n* pregnancy\n* severe diseases\n* hepatitis or HIV\n* need to be on immunosuppressant drugs",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

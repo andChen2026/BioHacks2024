@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04058418",
+    "briefTitle": "Specialist Recommendation on FBC (Familial Breast Cancer) Chemoprevention Prescribing",
+    "officialTitle": "Impact of Familial Cancer Specialist Recommendation on Chemoprevention Prescribing for Familial Breast Cancer (FBC) Risk in Primary Care: Short Survey and Interrupted Time Series Analysis",
+    "overallStatus": "COMPLETED",
+    "conditions": "Familial Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Proportion of specialist service that recommends chemoprevention prescribing by areas in England",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Lead clinicians of NHS familial cancer services across England\n* Standard general practices (classed as type 4 by NHS Digital, to exclude walk-in centres, prisons, care homes, etc.) with prescribing data for chemoprevention available on OpenPrescribing\n\nExclusion Criteria:\n\n* General practices with less than 10 female patients aged 35 to 44 registered\n* General practices which cannot be linked to any familial cancer service from survey responses",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

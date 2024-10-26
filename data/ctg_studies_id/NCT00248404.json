@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00248404",
+    "briefTitle": "NB1011 Administered by Continuous Infusion in Cancers That Overexpress Thymidylate Synthase (TS)",
+    "officialTitle": "A Phase I/II Study of NB1011 Administered Intravenously by Continuous Infusion in an Every Second Week Regimen With Open-label Continuation in Cancers That Overexpress the Enzyme Thymidylate Synthase",
+    "overallStatus": "COMPLETED",
+    "conditions": "Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 155,
+    "primaryOutcomeMeasure": "Safety/tolerability of NB1011 infusions",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Advanced, recurrent, or metastatic solid tumors\n* TS overexpression (\\> 4 by reverse transcription polymerase chain reaction \\[RT-PCR\\]) in archival and fresh samples\n* Suitable for experimental monotherapy\n* Measurable disease\n\nExclusion Criteria:\n\n* Tumors that cannot be biopsied or with low level of TS expression\n* Requirement for concomitant anticancer therapy\n* Treatment with another investigational product within 30 days of study entry\n* Pregnant or lactating women\n* Active or uncontrolled serious bacterial, viral, fungal, or parasitic infection.\n* HIV infection\n* Clinically apparent meningeal or central nervous system (CNS) metastases or carcinomatous meningitis",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03688204",
+    "briefTitle": "Clinical Implementation of a Polygenic Risk Score (PRS) for Breast Cancer",
+    "officialTitle": "Clinical Implementation of a Polygenic Risk Score (PRS) for Breast Cancer: Impact on Risk Estimates, Management Recommendations, Clinical Outcomes, and Patient Perception",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Risk",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 118,
+    "primaryOutcomeMeasure": "Change in Breast Cancer Risk Management Recommendations",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, age \u2265 18 years\n* Willing and able to provide meaningful informed consent\n* Willing and able to complete study procedures as described in this protocol\n* Electing to undergo multi-gene panel testing for hereditary breast cancer for clinical purposes at the time of consent\n* No personal history of cancer (except non-melanoma skin cancer) and meets NCCN guidelines for BRCA1/2 testing based on family history of breast and/or ovarian cancer\n* Meets Ambry criteria for clinical reporting of PRS score\n\nExclusion Criteria:\n\n* Prior germline BRCA1/2 testing\n* Not willing to receive PRS\n* Personal history of cancer, except non-melanoma skin cancer\n* Personal history of allogenic bone marrow/stem cell transplant",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

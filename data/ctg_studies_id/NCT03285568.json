@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03285568",
+    "briefTitle": "Patterns of Prescribing and Monitoring of Palbociclib",
+    "officialTitle": "Patterns of Prescribing and Monitoring of Palbociclib",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer, Advanced Breast Cancer, Estrogen Receptor-positive Breast Cancer, Human Epidermal Growth Factor 2 Negative Carcinoma of Breast",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 67,
+    "primaryOutcomeMeasure": "Palbociclib dose according to the package insert recommendations.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women at least 18 years old\n* ER+, HER2- advanced breast cancer\n* receiving palbociclib\n\nExclusion Criteria:\n\n* brain metastases\n* on palbociclib clinical trial",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

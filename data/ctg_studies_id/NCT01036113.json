@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01036113",
+    "briefTitle": "A Phase 2 Study of EZN-2208 in Patients With Metastatic Breast Cancer",
+    "officialTitle": "A Phase 2, Open-Label Study of EZN-2208 (PEG-SN38) in Patients With Previously Treated Metastatic Breast Cancer (MBC)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 160,
+    "primaryOutcomeMeasure": "Response Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed breast adenocarcinoma that is metastatic. Receptor status of the tumor must be known.\n* Disease progression during or after immediate previous therapy, or intolerable toxicity leading to cessation of immediate previous therapy\n* Previous treatment for MBC:\n\n  * AT Cohort: Prior AT required as adjuvant or metastatic therapy; no more than 2 prior chemotherapy regimens for MBC.\n  * ATX Cohort: Prior ATX required as adjuvant or metastatic therapy;no more than 4 prior chemotherapy regimens for MBC.\n* For patients with positive receptor status:\n\n  * Patients with HER2+ MBC must have received prior trastuzumab.\n  * Patients with ER+ MBC must have received prior hormone therapy.\n* Measurable disease by RECIST Version 1.1\n* Women 18 years or older\n* ECOG performance status of 0 to 2\n* Adequate bone marrow, renal and hepatic functions\n\nExclusion Criteria:\n\n* Major surgery within 3 weeks before study start\n* Known or suspected brain metastases requiring intervention with steroids and/or radiation therapy\n* Prior chemotherapy, immunotherapy, non-investigational agent, or other therapy used to treat the cancer within 3 weeks before scheduled administration of EZN-2208\n* History of other primary cancer within 5 years of enrollment, unless\n\n  1. Curatively resected non-melanomatous skin cancer, or\n  2. Curatively resected cervical cancer\n* Lack of recovery to Grade 1 from any reversible side effects related to the administration of an investigational agent, chemotherapy, or other prior treatments for the cancer\n* Current participation in another clinical study with an investigational agent and/or use of an investigational drug (not including investigational use of an approved drug) in the 30 days before the first administration of EZN-2208\n* Known chronic infectious disease, such as AIDS",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

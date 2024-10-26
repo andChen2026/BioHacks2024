@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05927246",
+    "briefTitle": "Radiotherapy-Associated Atrial Fibrillation",
+    "officialTitle": "Radiotherapy-associated Atrial Fibrillation: Onset Time and Frequency",
+    "overallStatus": "COMPLETED",
+    "conditions": "Atrial Fibrillation New Onset",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "Occurrence of atrial fibrillation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with radiotherapy for thoracic malignancy or breast cancer\n* Between 18-99 years-old\n\nExclusion Criteria:\n\n* Patients with history of radiotherapy\n* Patients with history of atrial fibrillation\n* Patients with pacemaker implantation",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00912639",
+    "briefTitle": "A Clinical Trial of Paclitaxel Loaded Polymeric Micelle in Patients With Taxane-Pretreated Recurrent Breast Cancer",
+    "officialTitle": "A Clinical Trial of Paclitaxel Loaded Polymeric Micelle (Genexol-PM\u00ae) in Patients With Taxane-Pretreated Recurrent Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Recurrent Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 90,
+    "primaryOutcomeMeasure": "Response rate was assessed by imaging using the RECIST (Response Evaluation Criteria In Solid Tumor) guideline",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women aged \\>=18 years\n2. WHO (ECOG) performance status 0-2\n3. Estimated life expectancy of \\>=3 months\n4. Have given written informed consent and are available for prolonged follow-up\n\nExclusion Criteria:\n\n1. Patients with previous chemotherapy for recurrent breast cancer\n2. Breast cancer recurrence within 12 months after taxane treatment\n3. Her-2/neu expression\n4. Patients with malignancies (other than breast cancer) within the last 5 years, except for adequately treated in situ carcinoma of the cervix or basal cell, squamous cell carcinoma of the skin.\n5. Brain metastasis\n6. uncontrolled infection, medically uncontrollable heart disease\n7. other serious medical illness or prior malignancies\n8. Pregnant or lactating women were excluded.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

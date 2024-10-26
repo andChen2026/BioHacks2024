@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00788931",
+    "briefTitle": "A Trial l of Panobinostat Given in Combination With Trastuzumab and Paclitaxel in Adult Female Patients With HER2 Positive Metastatic Breast Cancer",
+    "officialTitle": "A Phase Ib, Open-label, Two Arm Study of i.v. and Oral Panobinostat (LBH589) in Combination With i.v. Trastuzumab (Herceptin\u00ae) and i.v. Paclitaxel as Treatment for Adult Female Patients With HER2 Overexpressing Metastatic Breast Cancer (MBC)",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER-2 Positive Breast Cancer, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "Determine the maximum tolerated dose of oral panobinostat in combination with trastuzumab and paclitaxel. Determine the maximum tolerated dose of iv LBH in combination with trastuzumab and paclitaxel.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18 year old\n* Confirmed HER2+ metastatic breast cancer\n* Prior treatment and progression on trastuzumab\n* Patients must have adequate organ functions\n* Eastern Cooperative Oncology Group (ECOG) performance status of \u2264 1\n\nExclusion Criteria:\n\n* Patients who have had surgery within last 2 weeks prior to starting the treatment\n* Patients who receive concurrent therapy for brain metastases\n* Impaired heart function or clinically significant heart disease\n* Ongoing diarrhea\n* Liver or renal disease with impaired hepatic or renal functions\n* Concomitant use of any anti-cancer therapy or certain drugs\n* Female patients who are pregnant or breast feeding\n* Patients not willing to use an effective method of birth control Other protocol-defined inclusion/exclusion criteria may apply",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

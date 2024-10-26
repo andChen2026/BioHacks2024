@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02960594",
+    "briefTitle": "hTERT Immunotherapy Alone or in Combination With IL-12 DNA Followed by Electroporation in Adults With Solid Tumors at High Risk of Relapse",
+    "officialTitle": "A Multi-center Study of hTERT Immunotherapy Alone or in Combination With IL-12 DNA Followed by Electroporation in Adults With Solid Tumors at High Risk of Relapse Post Definitive Surgery and Standard Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Lung Cancer, Pancreatic Cancer, Head and Neck Cancer, Ovarian Cancer, ColoRectal Cancer, Gastric Cancer, Esophageal Cancer, HepatoCellular Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 93,
+    "primaryOutcomeMeasure": "Adverse events graded in accordance with \"Common Terminology Criteria for Adverse Events (CTCAE)\", NCI version 4.03",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 1. Signed and dated written IRB approved informed consent;\n* 2. Males or females aged \u226518 years;\n* 3. Subjects with breast, lung or pancreatic carcinoma who are at high risk of relapse post definitive therapy at least 4 and no more than 24 weeks from completion of definitive therapy at the time of signing informed consent as described below for each indication:\n\n  * Breast carcinoma:\n  * Lung carcinoma:\n  * Pancreatic carcinoma:\n  * Head and neck squamous cell carcinoma:\n  * Ovarian cancer:\n  * Colorectal cancer\n  * Gastric and esophageal cancer\n  * Hepatocellular carcinoma\n\nExclusion Criteria:\n\n* 1. Previous treatment wth any TERT or IL-12 containing therapy, or any other DNA immunotherapy;\n* 2. Any concurrent condition requiring the continued or anticipated use of systemic steroids (excluding non-systemic inhaled, topical skin and/or eye drop-containing corticosteroids) or immunosuppressive therapy (excludes low dose methotrexate). All other systemic corticosteroids must be discontinued at least 4 weeks prior to first Study Treatment;\n* 3. Administration of any vaccine within 4 weeks of the first study treatment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01185132",
+    "briefTitle": "Intensity Modulated Radiotherapy (IMRT) vs. 3D-conformal Accelerated Partial Breast Irradiation (APBI) for Early Stage Breast Cancer After Lumpectomy",
+    "officialTitle": "A Phase III Randomized Study Comparing Intensity Modulated Planning Versus 3-Dimensional Planning for Accelerated Partial Breast Radiotherapy",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 660,
+    "primaryOutcomeMeasure": "Prevalence of breast pain after Accelerated Partial Breast Radiotherapy (APBI)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed disease (AJC Classification): Tis, T1, T2 (\u2264 3.0 cm), N0, M0.\n* Microscopic multifocal disease is only allowed when the entire span of identified disease measures 3.0 cm or less.\n* Negative surgical margins ( \u2265 0.2 cm) after final surgery.\n* Subjects with infiltrating lobular histologies or high nuclear grade DCIS will be required to have breast MRI scanning as part of the initial staging to verify localized disease.\n* Subjects with DCIS will be included in the study only if they had an MRI prior to lumpectomy.\n* Findings on MRI scanning revealing relevant suspicion of disease outside of planned lumpectomy volume should be further evaluated by ultrasound and, if necessary biopsy, to exclude multicentric/multifocal disease.\n* Subjects with malignant calcifications on mammography will be required to have repeat mammography after surgery to ensure removal of all malignant calcifications.\n* Willing to complete additional screening requirements and meet eligibility criteria as defined in protocol Sec. 4.4.\n* Successful placement of fiducial markers for IGRT requiring nonmigrating fiducials.\n* PTV to ipsilateral breast ratio (IBR) \u2264 25 %.\n* Radiotherapy anticipated to begin within 10 weeks of lumpectomy or re-excision of margins.\n\nExclusion Criteria:\n\n* Pregnancy or breast-feeding.\n* Have collagen-vascular disease.\n* Inadequate surgical margins ( \\< 0.2 cm) after final surgery.\n* Subjects with persistent malignant/suspicious micro-calcifications.\n* Gross multifocal disease and microscopic disease greater than 3.0 cm.",
+    "sex": "ALL",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

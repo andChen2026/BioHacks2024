@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00354640",
+    "briefTitle": "Simvastatin and Anastrozole in Treating Postmenopausal Women With Ductal Carcinoma In Situ or Invasive Breast Cancer",
+    "officialTitle": "A Trial Assessing the Effect of Simvastatin on the Pharmacokinetics of Anastrozole",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 11,
+    "primaryOutcomeMeasure": "Change in Blood Concentrations",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Meets any of the following criteria:\n\n  * History of invasive breast cancer\n  * History of ductal carcinoma in situ\n  * At high risk for breast cancer, defined as being on anastrozole for chemoprevention of breast cancer\n* Receiving anastrozole for \u2265 30 days as adjuvant breast cancer treatment or for prevention of breast cancer\n* No active breast cancer with known metastatic involvement\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Postmenopausal\n* ECOG performance status 0-2\n* AST and ALT \u2264 3 times upper limit of normal\n* Creatinine clearance \u2265 30 mL/min\n* No active liver disease\n* No prior hypersensitivity to any HMG-CoA reductase inhibitor or any of its components\n* No daily alcohol use of \\> 3 standard drinks/day\n\n  * A standard drink is defined as 10 g of alcohol, which is equivalent to 285 mL of beer, 530 mL of light beer, 100 mL of wine, or 30 mL of liquor\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No cholesterol-lowering drug, including a statin, within the past 3 months\n* No selective estrogen receptor modulator (SERM) within the past 3 months\n* No other hormone therapy within the past 3 months\n* No prior estrogen and/or progesterone hormone replacement therapy that lasted for \u2265 5 years\n\n  * Vaginal estrogen preparations allowed\n* No other concurrent statin or cholesterol-lowering drug\n* No other concurrent SERM\n* No other concurrent hormone therapy\n* No other concurrent investigational drugs\n* No concurrent CYP3A4 inhibitors, including itraconazole, ketoconazole, erythromycin, clarithromycin, telithromycin, HIV protease inhibitors, nefazodone, or cyclosporine\n* No concurrent chemotherapy or biological agents\n* No concurrent daily grapefruit juice \\> 8 oz/day\n* No other concurrent anticancer agents or therapies",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

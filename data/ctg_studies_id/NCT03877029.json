@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03877029",
+    "briefTitle": "Long-term Effects of Breast Cancer Treatment",
+    "officialTitle": "Long-term Effects Following Treatment of Women With Screen-detected Versus Symptomatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 4000,
+    "primaryOutcomeMeasure": "QALY (Quality-Adjusted-Life-Year)",
+    "eligibilityCriteria": "Study II\n\nInclusion Criteria:\n\n* Screened in BreastScreen Norway and diagnosed with breast cancer between 1996 and 2016\n* Diagnosed with symptomatic breast cancer between 1996 and 2016 and never attended screening\n\nExclusion Criteria:\n\n* Death after recruitment\n\nStudy III\n\nInclusion Criteria:\n\n* Screened in BreastScreen Norway and diagnosed with breast cancer between 1996 and 2016\n* Screened in BreastScreen Norway and diagnosed with interval breast cancer between 1996 and 2016\n* Diagnosed with symptomatic breast cancer between 1996 and 2016 and never attended screening\n* Screened in BreastScreen Norway between 1996 and 2016 and have never been diagnosed with breast cancer\n\nExclusion Criteria:\n\n* Death after recruitment\n\nStudy IV\n\nInclusion Criteria:\n\n* Screened in BreastScreen Norway and diagnosed with breast cancer between 1996 and 2016\n* Screened in BreastScreen Norway and diagnosed with interval breast cancer between 1996 and 2016\n* Diagnosed with symptomatic breast cancer between 1996 and 2016 and have never attended screening\n\nExclusion Criteria:\n\n* Death after recruitment",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

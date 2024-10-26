@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00316875",
+    "briefTitle": "Lapatinib and Doxorubicin Hydrochloride Liposome in Treating Patients With Metastatic Breast Cancer",
+    "officialTitle": "A Phase I, Open-Label Study of the Safety, Tolerability and Pharmacokinetics of Lapatinib in Combination With Liposomal Doxorubicin in Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 23,
+    "primaryOutcomeMeasure": "Cardiac safety",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adenocarcinoma of the breast with evidence of metastatic disease\n\n  * Epidermal growth factor receptor (EGFR) and/or erbB2 positivity not required\n* Measurable disease, defined as \u2265 1 lesion that can be accurately measured in \u2265 1 dimension as \u2265 20 mm by conventional techniques OR as \u2265 10 mm by spiral CT scan\n* No known brain metastases or leptomeningeal disease\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Male or female patients\n* Menopausal status not specified\n* Life expectancy \u2265 12 weeks\n* ECOG performance status 0-1\n* WBC \u2265 3,000/mm\\^3\n* Absolute neutrophil count \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Bilirubin normal\n* AST/ALT \u2264 2.5 times upper limit of normal\n* Creatinine normal OR creatinine clearance \u2265 60 mL/min\n* LVEF \u2265 50%\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* Able to swallow and retain oral medication\n* No history of allergic reactions attributed to compounds of similar chemical or biologic composition to lapatinib\n* No gastrointestinal (GI) tract disease resulting in inability to take oral medication\n* No malabsorption syndrome or requirement for IV alimentation\n* No uncontrolled inflammatory GI disease (e.g., Crohn's disease, ulcerative colitis)\n\nPRIOR CONCURRENT THERAPY:\n\n* Prior trastuzumab (Herceptin \u00ae) allowed\n* Prior anthracyclines allowed provided total dose of doxorubicin hydrochloride \u2264 240 mg/m\u00b2 or epirubicin \u2264 600 mg/m\u00b2\n* More than 4 weeks since prior major surgery, hormonal therapy (other than replacement therapy), chemotherapy (6 weeks for nitrosoureas or mitomycin C), or radiotherapy and recovered\n* No prior surgical procedures affecting absorption\n* No prior EGFR-targeting therapies\n* At least 7 days since prior and no concurrent CYP3A4 inhibitors\n* At least 7 days since prior and no concurrent gastric pH modifiers\n\n  * Antacids allowed within 1 hour before and after lapatinib dosing\n* At least 14 days since prior and no concurrent CYP3A4 inducers, including dexamethasone or dexamethasone equivalent dose \\> 1.5 mg/day\n* At least 6 months since prior and no concurrent amiodarone\n* No concurrent combination antiretroviral therapy for HIV-positive patients\n* No concurrent prophylactic growth factor support\n* No concurrent herbal medications\n* No other concurrent investigational agents or anticancer therapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

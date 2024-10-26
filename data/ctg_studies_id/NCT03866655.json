@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03866655",
+    "briefTitle": "Evaluating a Digital Tool for Supporting Breast Cancer Patients",
+    "officialTitle": "Evaluating a Digital Tool for Supporting Breast Cancer Patients: A Prospective Randomised Controlled Trial",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 165,
+    "primaryOutcomeMeasure": "Comparison of the change in patient activation (validated questionnaire: Patient Activation Measure (PAM-13) Survey)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female\n* adult (age 18 years or over)\n* newly diagnosed\n* early breast cancer\n* first primary cancer diagnosis\n* under treatment at one of the participating sites.\n\nExclusion Criteria:\n\n* have started anti-cancer treatment\n* private patients\n* unable to read or write in English\n* significant cognitive impairment\n* poor mental health\n* do not have access to the internet\n* confirmed metastatic disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

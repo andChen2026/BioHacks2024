@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04166240",
+    "briefTitle": "Measuring and Improving the Safety of Test Result Follow-Up",
+    "officialTitle": "Measuring and Improving the Safety of Test Result Follow-Up",
+    "overallStatus": "COMPLETED",
+    "conditions": "Lung Cancer, Breast Cancer, Colon Cancer, Bladder Cancer, Hepatocellular Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "Trigger Outcome",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Medical records identified via CDW which fall under the EPRP measures (Fecal Occult Blood Test FOBT)/Fecal Immunohistochemical Test (FIT), Hepatitis C Virus (HCV), Mammogram, alpha feto protein (AFP), dual energy x-ray absorptiometry (DEXA) Scan, Pap/ human papillomavirus (HPV), Chest X-ray, and Chest CT)\n* Medical records containing clinical findings suspicious for breast cancer, lung cancer, bladder cancer, hepatocellular carcinoma, and colorectal cancer (CRC)\n\nExclusion Criteria:\n\n* Medical records that don't contain any tests, procedures, or appointments that need to be followed up on",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

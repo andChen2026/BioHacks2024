@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00803556",
+    "briefTitle": "Clinical Trial of the Combination of Intravenous Alvespimycin (KOS-1022), Trastuzumab With or Without Paclitaxel in Patients With Advanced Solid Tumor Malignancies or Her2 Positive Metastatic Breast Cancer Who Have Previously Failed Trastuzumab Therapy",
+    "officialTitle": "Phase 1 Clinical Trial of the Combination of Intravenous Alvespimycin (KOS-1022), Trastuzumab With or Without Paclitaxel",
+    "overallStatus": "COMPLETED",
+    "conditions": "Solid Tumor, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 29,
+    "primaryOutcomeMeasure": "Number of Dose Limiting Toxicities",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* KPS performance status \\>= 70%\n* Schedule A: all patients must have a histologically confirmed solid tumor malignancy. Schedule B: patients must have metastatic breast cancer with Her2 amplification by FISH or 3+ Her2 overexpression by immunohistochemistry (\"IHC\"). Patients are not required to have measurable disease for this investigation. Disease must be assessed within 28 days prior to treatment initiation\n* All Adverse Events of any prior chemotherapy, surgery, or radiotherapy, must have resolved to NCI CTCAE (v. 3.0) Grade \\<= 2 (except for alopecia)\n* The following laboratory results, within 10 days of KOS-1022 administration:\n\n  * Hemoglobin \\>= 8.5 g/dL\n  * Absolute neutrophils count \\>= 1.5 x 10\\*9\\* /L\n  * Platelet count \\>= 75 x 10\\*9\\*/L\n  * Serum bilirubin \\<= 2 x ULN\n  * AST and ALT \\<= 2.5 x ULN\n  * Serum creatinine \\<= 2 x ULN\n\nExclusion Criteria:\n\n* Documented hypersensitivity reaction of CTCAE Grade \\>= 3 to prior therapy containing trastuzumab\n* Pregnant or breast-feeding women. Male patients must be surgically sterile or agree to use an acceptable method of contraception\n* Known active CNS metastases\n* Administration of any other chemotherapy, biological, immunotherapy or investigational agent (therapeutic or diagnostic) within 14 days prior to receipt of study medication. Patients should be 6 weeks from last dose of nitrosourea\n* Patients with Grade 2 or higher dyspnea at rest on room air; patients with other clinically significant pulmonary co-morbidity(s) that might predispose the patient to pulmonary toxicity\n* Moderately severe dry eye\n* Prior pulmonary toxic chemotherapy (e.g, bleomycin or carmustine)\n* Congestive heart failure, or a left ventricular ejection fraction (LVEF)\n* Any medical conditions that, in the Investigator's opinion, would impose excessive risk to the patient\n* Patients with previous malignancies unless free of recurrence for at least 5 years except cured basal cell carcinoma of the skin, carcinoma-in-situ of either the uterine cervix or urinary bladder",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

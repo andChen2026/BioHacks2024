@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00252408",
+    "briefTitle": "Danish Osteoporosis Prevention Study",
+    "officialTitle": "Danish Osteoporosis Prevention Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Osteoporosis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "Fracture",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 45-58 years with an intact uterus\n* Three to 24 month past last menstrual bleeding\n* Hysterectomised women aged 45-52 years and having elevated FSH\n\nExclusion Criteria:\n\n* Metaboliv bone disease including osteoporosis defined as non-traumatic vertebral fractures on X-ray\n* Current estrogen use or estrogen use within the past three month\n* Current or past treatment with glucocorticoids for more than 6 month\n* Current or past malignancy\n* Newly diagnosed or uncontrolled chronic disease\n* Alcohol or drug addiction",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT"
+}

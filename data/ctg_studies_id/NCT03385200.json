@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03385200",
+    "briefTitle": "KVUS at Neoadjuvant CTx of Breast Cancer",
+    "officialTitle": "Contrast-enhanced Ultrasound in Neoadjuvant Chemotherapy of Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Early Primary Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Tumor size reduction (1)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* written informed consent\n* age \\> 18 yrs\n* histologically confirmed primary breast cancer including all intrinsic subtypes\n* treatment with neoadjuvant chemotherapy\n* persons who are legally competent and mentally able to follow the instructions of the study team\n\nExclusion Criteria:\n\n* hypersensitivity / allergy to sulfur hexafluoride, Macrogol 4000, distearoylphosphatidylcholine, dipalmitoylphosphatidylglycerol-sodium, palmitic acid\n* right-left shunt,\n* severe pulmonary hypertension (pulmonary arterial pressure \\> 90 mmHg)\n* uncontrolled systemic hypertension\n* acute respiratory distress syndrome\n* pregnancy\n* commitment of the patient to any resident institution by order of any court or authority\n* expectation of missing compliance\n* alcohol or drug abuse\n* patients who are in a relationship of dependence or in a working relationship to the sponsor, the investigator or his representative",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

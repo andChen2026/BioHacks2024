@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01078662",
+    "briefTitle": "Open Label Study to Assess Efficacy and Safety of Olaparib in Confirmed Genetic BRCA1 or BRCA2 Mutation Pats",
+    "officialTitle": "A Phase II, Open Label, Non Randomised, Non Comparative, Multicentre Study to Assess the Efficacy and Safety of Olaparib Given Orally Twice Daily in Patients With Advanced Cancers Who Have a Confirmed Genetic BRCA 1 and/or BRCA2 Mutation",
+    "overallStatus": "COMPLETED",
+    "conditions": "Ovarian, Breast, Prostate, Pancreatic, Advanced Tumours",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 298,
+    "primaryOutcomeMeasure": "Tumour Response Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed documented deleterious or suspected deleterious BRCA mutation. (The presence of a loss-of-function germline mutation in the BRCA1 and/or BRCA2 gene must be confirmed prior to consent according to local practice).\n* Confirmed malignant solid tumours for which no standard treatment exists\n* At least one lesion (measurable and/or non measurable) at baseline that can be accurately assessed by CT/MRI and is suitable for repeated assessment at follow up visits\n\nExclusion Criteria:\n\n* Any previous treatment with a PARP inhibitor, including olaparib\n* Patients unable to swallow orally administered medication and patients with gastrointestinal disorders likely to interfere with absorption of the study medication\n* Patients receiving any systematic chemotherapy, radiotherapy (except for palliative reasons) within 2 weeks from the last dose prior to study treatment (or a longer period depending on the defined characteristics of the agents used)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

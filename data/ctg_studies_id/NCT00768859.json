@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00768859",
+    "briefTitle": "Trastuzumab in a Neo-adjuvant Regimen for HER2+ Breast Cancer - the TRAIN Study",
+    "officialTitle": "Trastuzumab in a Neo-adjuvant Regimen for HER2+ Breast Cancer - the TRAIN Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, HER2 Positive",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 111,
+    "primaryOutcomeMeasure": "Pathologic complete response (pCR) rate at surgery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed infiltrating breast cancer.\n* Stage II or stage III breast cancer.28 'Locally advanced breast cancer' patients are consequently eligible, including those with ipsilateral supraclavicular lymph node metastases. N1 status must have been demonstrated by either fine needle aspiration from an axillary lymph node or by a metastasis of \\>2 mm in diameter at sentinel node biopsy. Stage IIA patients are eligible if the tumor is \\>3 cm in diameter or if the tumor is between 2 and 3 cm in diameter but a breast conserving surgery is not possible.\n* Overexpression and/or amplification of HER2 in an invasive component of the core biopsy, according to one of the following definitions:\n\n  * \\>10% of invasive tumor cells showing strong complete circumferential membrane staining (score 3+)\n  * \\>10% of invasive tumor cells showing moderate complete circumferential membrane staining (score 2+) and demonstrating HER2 gene amplification defined as a FISH ratio of HER2 gene copies to chromosome 17 signals of \\>2.2. or as \\>5 HER2 gene copies per nucleus in CISH analysis.\n\nPatients with a negative or equivocal overall result (FISH test ratio of \\<2.2, \\<6.0 HER2 gene copies per nucleus) and staining scores of 0,1+, 2+ or 3+ (in 30% or less neoplastic cells) by IHC are not eligible for participation in the trial.\n\n* Age \u226518\n* Eastern Cooperative Oncology Group (ECOG) performance status \u22641 (Appendix B)\n* Adequate bone marrow function (ANC \\>1.0 x 109/l, platelets \\>100 x 109/l)\n* Adequate hepatic function (ALAT, ASAT and bilirubin \\<2 times upper limit of normal)\n* Adequate renal function (creatinine clearance \\>60 ml/min)\n* LVEF \u226550% measured by echocardiography or MUGA\n* Absence of any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule\n* Signed written informed consent\n\nExclusion Criteria:\n\n* No previous radiation therapy or chemotherapy\n* No other malignancy except carcinoma in situ, unless the other malignancy was treated \u22655 years ago with curative intent without the use of chemotherapy or radiation therapy.\n* No current pregnancy or breastfeeding. Women of childbearing potential must use adequate contraceptive protection.\n* No evidence of distant metastases. Staging examinations must have included a chest radiograph, an ultrasound examination of the liver and an isotope bone scan. Abnormal uptake on the isotope bone scan can only be accepted if MRI, CT-scan, or plain radiograph excludes bone metastases.\n* No concurrent anti-cancer treatment or another investigational drug",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

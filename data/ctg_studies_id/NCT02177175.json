@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02177175",
+    "briefTitle": "Carvedilol for the Prevention of Anthracycline/Anti-HER2 Therapy Associated Cardiotoxicity Among Women With HER2-Positive Breast Cancer Using Myocardial Strain Imaging for Early Risk Stratification",
+    "officialTitle": "Carvedilol for the Prevention of Anthracycline/Anti-HER2 Therapy Associated Cardiotoxicity Among Women With HER2-Positive Breast Cancer Using Myocardial Strain Imaging for Early Risk Stratification",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 82,
+    "primaryOutcomeMeasure": "Maximum Change in LVEF at 3 Months",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Age \u2265 18 years\n* Non-metastatic histologically confirmed primary invasive breast carcinoma\n* Pathologically confirmed HER2-positive breast cancer\n* Scheduled to receive anthracycline chemotherapy followed by anti-HER2 therapy at MSKCC\n* Able and willing to provide informed consent\n* Willing and able to comply with the requirements of the protocol\n* Able to swallow capsules\n\nFor Aim 2, all patients must meet the following criteria:\n\n* Meet all inclusion criteria above\n\n  * LVEF \\> 50%\n* Abnormal global longitudinal strain (\\<19%, or a % decrease of \u2265 11% from baseline) prior to initiation of planned anti-HER2 therapy\n* Heart rate \u2265 50 beats per minute\n* Sitting systolic blood pressure \\> 90 mmHg\n\nExclusion Criteria:\n\n* Patients are to be excluded from randomization for Aim 2 of this study if they meet any of the following criteria:\n* Current treatment with ACE-inhibitors or beta blockers\n* Allergies or inability to tolerate beta blockers previously due to bradycardia, hypotension, or AV block.\n* Known history of NCI CTCAE (Version 4.0) Grade \u2265 2 symptomatic CHF, myocardial infarction within 12 months prior to randomization, significant symptoms (Grade \u2265 3) relating to left ventricular dysfunction, significant (moderate or severe) valvular disease, or significant cardiac arrhythmia (Grade \u2265 3)\n* Pre-menopausal women without a negative serum or urine pregnancy test within 4 weeks of starting treatment\n* Enrollment in a therapeutic intervention trial in the Breast Medicine service",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

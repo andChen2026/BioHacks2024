@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02001519",
+    "briefTitle": "Additional 4 Cycles of Cisplatin (CDDP4) in Patients With Triple Negative Breast Cancer for Neoadjuvant Chemotherapy",
+    "officialTitle": "A Phase ll Trial of Impact of Additional 4 Cycles of Cisplatin (CDDP4) in Patients With Triple Negative Breast Cancer Not Achieving Clinical CR After 4 Cycles of Neoadjuvant Adriamycin Plus Cyclophosphamide",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 88,
+    "primaryOutcomeMeasure": "pathologic complete response (pCR) rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with histologically proven breast cancer\n2. Age, at least 20 years\n3. ER/PR/HER2 (negative/negative/negative\n\n   * ER/PR negative: nuclear reaction \\< 1%, Allred score 0 or 2\n   * HER2 negative: HER2; IHC (immunohistochemistry) 0,1+ or FISH/SISH (-) in case of IHC 2+\n4. Clinically stage II or III with histologically proven lymph-node involvement (T \\>1.5 cm or lymph node \\[LN\\] \\>1.5 cm)\n5. Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n6. No prior hormonal treatment, chemotherapy or radiotherapy is allowed.\n7. Adequate hematologic, liver and kidney function\n8. Written informed consent\n\nExclusion Criteria:\n\n1. Pregnancy or lactation\n2. Prior chemotherapy or radiotherapy for any malignancy\n3. Stage T4d; inflammatory breast cancer\n4. No primary tumor (T0)\n5. Documented history of cardiac disease contraindicating anthracyclines\n6. Currently active infection",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

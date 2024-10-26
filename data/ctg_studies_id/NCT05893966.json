@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05893966",
+    "briefTitle": "Prospective Cohort for Tumor Bed Boost Radiotherapy in HER2 Positive Breast Cancer",
+    "officialTitle": "Prospective Cohort for Tumor Bed Boost Radiotherapy in HER2 Positive Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "Ipsilateral breast tumor recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with age minimum 19\n* Pathological confirmation of HER2+ invasive breast cancer\n* Eastern Cooperative Oncology Group performance status 0-2\n* Informed consent of the participant\n\nExclusion Criteria:\n\n* Pathological confirmation of ductal carcinoma in situ of the breast\n* Previous history of radiation therapy to ipsilateral breast",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

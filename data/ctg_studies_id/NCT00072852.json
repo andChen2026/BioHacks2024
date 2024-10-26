@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00072852",
+    "briefTitle": "Irinotecan in Patients With Advanced Metastatic Breast Cancer Who Have Experienced Failure of an Anthracycline, a Taxane, and Capecitabine",
+    "officialTitle": "Phase II Trial of Irinotecan in Patients With Advanced Metastatic Breast Cancer Who Have Experienced Failure of an Anthracycline, a Taxane, and Capecitabine",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 134,
+    "primaryOutcomeMeasure": "To evaluate the safety and efficacy of Irinotecan in refractory breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with diagnosis of primary adenocarcinoma of the breast\n* Presence of locally advanced or metastatic disease non-amenable to surgery or radiation therapy with curative intent\n* At least one measurable lesion \\>20mm (or \\>10 mm with spiral CT scan)\n* Must have received (and failed) prior treatment with an anthracycline, a taxane, and capecitabine in the adjuvant and/or advanced disease treatment setting\n* Women at least 18 years old, with performance status 0-2\n\nExclusion Criteria:\n\n* Prior treatment with another topoisomerase I inhibitor\n* Current enrollment in another clinical trial",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04653740",
+    "briefTitle": "Omic Technologies to Track Resistance to Palbociclib in Metastatic Breast Cancer",
+    "officialTitle": "Omic Technologies to Track Resistance to Palbociclib in Metastatic Breast Cancer (OMERIC): A Cohort Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Intrapatient variation in molecular profiles at progression compared to baseline",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women over 18 years old\n* With histologically proven breast cancer, positives hormones receptors and negative HER2\n* Advanced disease (metastases or non-resequable locoregional disease), from the 1st to the 4th line.\n* With an indication for hormone therapy associated with the CDK4/6 inhibitor Palbociclib\n* Agree to the sampling of the study\n* Signed the informed consent form\n\nExclusion Criteria:\n\n* Neoadjuvant or adjuvant treatment for localized breast cancer\n* Metastatic breast cancer beyond the forth line\n* Impossibility to give informed consent (person deprived of liberty or under guardianship)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01925170",
+    "briefTitle": "Low Dose Molecular Breast Imaging as a Screening Tool for Women With Dense Breasts",
+    "officialTitle": "Evaluation of Low-dose Molecular Breast Imaging as a Screening Tool in Women With Mammographically Dense Breasts and Increased Risk of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1638,
+    "primaryOutcomeMeasure": "Cancer Detection Rate Per 1000 Women Screened, by Breast Density",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Past prior SM interpreted as negative or benign \\[Breast Imaging Reporting and Data System (BI-RADS) Category 1 or 2\\]\n* Past prior SM interpreted as heterogeneously dense or extremely dense\n\nExclusion Criteria:\n\n* Subject is unable to understand and sign the consent form\n* Subject is pregnant or lactating\n* Subject is physically unable to sit upright and still for 40 minutes\n* Subject has self-reported signs or symptoms of breast cancer (palpable mass, bloody nipple discharge, axillary mass, etc.)\n* Subject has had needle biopsy within 3 months, or breast surgery within 1 year prior to the study\n* Subject is currently taking tamoxifen, Evista (raloxifene), Zoladex or an aromatase inhibitor for adjuvant therapy or chemoprevention.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

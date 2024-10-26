@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03783364",
+    "briefTitle": "Pre- or Postoperative Accelerated Radiotherapy",
+    "officialTitle": "Feasibility Study on Pre or Postoperative Accelerated Radiotherapy (POP-ART) in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Radiation Toxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Feasibility of preop RT will be assessed in terms of overall treatment time",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nAll of the following inclusion criteria must be met:\n\n* female patients with non-metastatic breast cancer,\n* biopsy proven,\n* age \u2265 18 years,\n* WHO performance status 0 or 1,\n* using contraceptives if in reproductive age category\n* eligible for neo-adjuvant CT after multidisciplinary decision,\n* informed consent obtained, signed and dated before specific protocol procedures.\n\nExclusion Criteria:\n\nAny one or combination of the following:\n\n* distant metastases,\n* inflammatory breast cancer (mastitis carcinomatosa),\n* multifocal tumor,\n* lobular carcinoma,\n* bilateral breast cancer,\n* history of cancer, with the exception of non-melanoma skin cancer, in situ cervix carcinoma\n* history of chemotherapy,\n* history of radiation treatment,\n* pregnant or breast feeding, or not using contraceptives if in reproductive age category\n* exclusion criteria for chemotherapy:\n\n  * leukocytes \\< 2500\n  * absolute neutrophil count \\< 1000/\u00b5L\n  * hemoglobine \\< 8 g/dL (transfusion is allowed)\n  * platelets \\< 100 000/\u00b5l\n  * total bilirubine \\> 1.5 x maximal normal reference range\n  * AST \\> 2.5 x maximal normal reference range\n  * ALT \\> 2.5 x maximal normal reference range\n  * creatinine \\> 1.5 x maximal normal reference range\n* Left ventricular ejection fraction (LVEF) \\< 55%\n* planned immediate reconstructive surgery,\n* conditions making toxicity evaluation difficult (e.g. skin disorders),\n* Amiodarone treatment in the last 6 months\n* patients unlikely to comply with the protocol (e.g. inability to return for follow-up visits or unlikely to complete the study).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

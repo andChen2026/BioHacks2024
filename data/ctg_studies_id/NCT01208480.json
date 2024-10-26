@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01208480",
+    "briefTitle": "Bevacizumab, Docetaxel, and Carboplatin in Treating Women With Stage II or Stage III Breast Cancer",
+    "officialTitle": "A Phase II Trial of Neoadjuvant Bevacizumab, Docetaxel and Carboplatin for Triple Negative Breast Cancer (Neat Trial)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "pathologic complete response (pCR)after completion of 6th cycle neoadjuvant treatment",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive breast cancer\n\n  * Stage II or III disease\n  * No evidence of metastasis (M0)\n  * No inflammatory breast cancer (T4d)\n* Must have a primary tumor\n* Operable disease\n* Triple-negative disease, meeting the following criteria:\n\n  * Estrogen receptor-, progesterone receptor-, and HER2-negative by immunohistochemistry (IHC) 0 or 1+ OR fluorescence in situ hybridization negative (in case IHC is 2+)\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-1\n* Pre- or post-menopausal\n* Not pregnant\n* Absolute granulocyte count \u2265 1,500/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Hemoglobin \u226510 g/dL\n* Serum creatinine \u2264 1.5 mg/dL\n* Total bilirubin \u2264 1.5 mg/dL\n* AST/ALT \u2264 2 times normal\n* Alkaline phosphatase \u2264 2 times normal\n* Normal or nonspecific EKG\n* LVEF \u2265 50% by MUGA or echocardiogram\n* Normal mental function to understand and sign the written informed consent\n* No history of uncompensated congestive heart failure\n* No history of cancer except for carcinoma in situ of the uterine cervix or nonmelanoma skin cancer\n* No history or evidence of inherited bleeding diathesis or coagulopathy with the risk of bleeding\n* No uncontrolled hypertension (systolic BP \\> 150 mm Hg and/or diastolic BP \\> 100 mm Hg)\n* No history or evidence of clinically significant cardiovascular disease, including any of the following:\n\n  * Cerebrovascular accident (CVA) or stroke within the past 6 months\n  * Myocardial infarction (MI) within the past 6 months\n  * Unstable angina\n  * NYHA class II-IV congestive heart failure\n  * Serious cardiac arrhythmia requiring medication\n* No serious nonhealing wound, peptic ulcer, or bone fracture\n* No history of abdominal fistula, gastrointestinal perforation, or intra-abdominal abscess within the past 6 months\n* No known hypersensitivity to any of the study drugs\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior hormone therapy, chemotherapy, or radiotherapy for breast cancer\n* No prior breast surgery other than biopsy to confirm diagnosis\n* No concurrent chronic daily corticosteroids (more than 10 mg/day methylprednisolone equivalent)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06001528",
+    "briefTitle": "Serum and Tissue Metabolite-based Prediction of Sentinel Lymph Node Metastasis in Breast Cancer",
+    "officialTitle": "Serum and Tissue Metabolite-based Prediction of Sentinel Lymph Node Metastasis in Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Lymph Node Metastasis",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2400,
+    "primaryOutcomeMeasure": "Metabolic difference detection",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathological diagnosis of breast cancer\n* No preoperative therapy including chemotherapy or endocrine therapy\n* No distant metastasis\n* Underwent mastectomy or breast-conserving surgery with sentinel lymph node biopsy\n* Agreed to provide preoperative peripheral blood samples\n* Had access to imaging, pathological and follow-up data for preoperative and postoperative evaluation of the disease\n\nExclusion Criteria:\n\n* Neoadjuvant therapy\n* Presence of distant metastasis at time of diagnosis\n* Primary malignancies other than breast cancer\n* Bilateral breast cancer or previous contralateral breast cancer\n* Undergo modified radical surgery for breast cancer without sentinel lymph node biopsy\n* Incomplete pathological data and follow-up data\n* Pregnancy and other conditions determined by the investigator to be ineligible for inclusion in the study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

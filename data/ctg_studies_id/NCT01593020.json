@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01593020",
+    "briefTitle": "Neoadjuvant Study of Sequential Eribulin Followed by FAC Compared to Sequential Paclitaxel Followed by FEC in Early Stage Breast Cancer Not Overexpressing HER-2",
+    "officialTitle": "A Randomized Phase II Neoadjuvant Study of Sequential Eribulin Followed by FAC/FEC-regimen Compared to Sequential Paclitaxel Followed by FAC/FEC-Regimen in Women With Early Stage Breast Cancer Not Overexpressing HER-2",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 54,
+    "primaryOutcomeMeasure": "Pathologic Complete Response (pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Signed written informed consent\n2. Histologically confirmed primary invasive adenocarcinoma of the breast.\n3. Clinical stage breast cancer T2-3, N0-3, M0\n4. Negative HER-2/neu expression as determined by local hospital laboratory using Fluorescence In Situ Hybridization (FISH), or is less or equal to 1+ using Immunohistochemistry (IHC).\n5. No prior treatment for primary invasive adenocarcinoma of the breast such as irradiation, chemotherapy, hormonal therapy, immunotherapy, investigational therapy or surgery. Subjects receiving hormone replacement treatment (HRT) are eligible if this therapy is discontinued at least 2 weeks before starting study treatment. Treatment for DCIS is allowed, such as surgery, hormonal therapy and radiotherapy.\n6. Karnofsky performance status (KPS) of 80 - 100\n7. The ability and willingness to comply with scheduled visits, treatment plan, laboratory tests, and other study procedures.\n8. Baseline MUGA or echocardiogram scans with LVEF of \\> 50%.\n9. Normal PTT and either INR or PT \\< 1.5 x ULN.\n10. Men or women 18 years of age or older.\n11. Women of childbearing potential (WOCBP) must agree to use a medically acceptable method of contraception to avoid pregnancy throughout the study and for up to 8 weeks after the last dose of study drugs.\n12. Willingness to have core biopsies and/or FNA performed before the start of study treatment and at the end of 12 week on treatment.\n\nExclusion Criteria:\n\n1. Women who are pregnant (including positive pregnancy test at enrollment or prior to study drug administration) or breast-feeding.\n2. Disease free of prior malignancy for \\< 5 years with the exception of DCIS, curatively treated basal carcinoma of the skin, local skin squamous cell carcinoma, or carcinoma in situ of the cervix.\n3. Absolute neutrophils count (ANC) \\< 1500/mm\\^3\n4. Total bilirubin \\> 1.5 times the upper limit of normal (ULN)\n5. AST or ALT \\> 2.5 times the upper limit of normal (ULN)\n6. Platelets \\< 100,000/mm\\^3.\n7. Serum creatinine \\> 1.5 x ULN or creatinine clearance \\< 60 mL/min (measured or calculated by Cockcroft-Galt method)\n8. Evidence of metastatic breast cancer following a standard tumor staging work-up\n9. Evidence of inflammatory breast cancer.\n10. Evidence of any grade 2 sensory or motor neuropathy.\n11. Known human immunodeficiency viral (HIV) infection\n12. Serious intercurrent infections or non-malignant medical illness that are uncontrolled or the control of which may be jeopardized by this therapy.\n13. Psychiatric disorders or other conditions rendering the subject incapable of complying with the requirements of the protocols.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01004666",
+    "briefTitle": "Molecular Breast Imaging: A Novel Technology for Detection of Malignant Breast Lesions",
+    "officialTitle": "Molecular Breast Imaging: A Novel Technology for Detection of Malignant Breast Lesions.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Small Breast Lesions, Dense Breast Tissue, Discrepancy With Clinical Examination, Equivocal Mammographic, Sonographic or MRI Lesion",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Detection of unexpected malignant lesions. Ruling out malignant lesions in case of equivocal lesions identified by clinical examination, mammography, US and/or MRI.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age over 25.\n* Equivocal breast lesions.\n* Dense breast tissue.\n* High-risk for breast cancer\n\nExclusion Criteria:\n\n* Age under 25.\n* Pregnancy.\n* Patients unable to understand and sign an informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

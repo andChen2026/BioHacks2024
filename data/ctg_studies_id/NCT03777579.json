@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03777579",
+    "briefTitle": "A Study of First-line JS001 and Nab-paclitaxel Versus Palcelbo and Nab-Paclitaxel in Participants With Advanced Recurrent or Metastatic TNBC",
+    "officialTitle": "A Phase III, Multicenter, Randomized, Placebo-Controlled Study of JS001 (Anti-PD-1 Antibody) in Combination With Nab-Paclitaxel Compared With Placebo With Nab-Paclitaxel as First-line Therapy for Patients With Primarily Diagnose or Recurrent and Metastatic Triple-Negative Breast Cancer",
+    "overallStatus": "SUSPENDED",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 375,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS) Assessed Using Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v1.1)by Independent Review Committee (IRC)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Primarily diagnosed stage IV or recurrent and metastatic, histologically documented TNBC characterized by absence of human epidermal growth factor 2 (HER2), estrogen receptor (ER), and progesterone receptor (PR) expression;\n2. No prior chemotherapy or targeted systemic therapy for inoperable stage IV or metastatic TNBC\uff1b\n3. Eligible for taxane monotherapy\uff1b\n4. Eastern Cooperative Oncology Group performance status of 0 or 1\uff1b\n5. Measurable disease as defined by RECIST v1.1\uff1b\n6. Adequate hematologic and end-organ function\u3002\n\nExclusion Criteria:\n\n1. Known central nervous system (CNS) disease with active syndrome or untreated disease, except for treated asymptomatic CNS metastases\uff1b\n2. History of autoimmune disease\uff1b\n3. History of Anaphylaxis to PD-(L)1 antibody or CTLA-4 antibody or paclitaxel;\n4. Prior allogeneic stem cell or solid organ transplantation;\n5. Active hepatitis B or hepatitis C;\n6. Positive of HIV antibody.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

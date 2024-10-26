@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04210128",
+    "briefTitle": "Glucose Monitoring to Predict and Treat High Glucose Levels After Steroid Treatment",
+    "officialTitle": "Continuous Glucose Monitoring For Prediction and Treatment of Steroid-Induced Hyperglycemia",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Pancreatic Cancer, Diabetes, Pre Diabetes",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 3,
+    "primaryOutcomeMeasure": "severe hyperglycemia",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient aged 18 or older undergoing neoadjuvant chemotherapy regimens including taxane and/or anthracycline for breast cancer.\n* Patient aged 18 or older undergoing any chemotherapy regimen for pancreatic cancer\n* Have 'high metabolic risk(either pre-diabetes, obesity, or well-controlled diabetes) defined as either:\n\n  * Pre-diabetes and/or obesity group: one or more of known HbA1c 5.7-6.5%, fasting glucose \\> 100 mg/dL, or BMI \\> 30\n  * Well-controlled diabetes: Known HbA1c \\< 7.5 on lifestyle alone or up to one oral antidiabetic agent\n  * Any patient undergoing treatment for pancreatic adenocarcinoma on either no antidiabetic agent or up to one oral antidiabetic agent\n\nExclusion Criteria:\n\n* Patients with type 1 diabetes, a history of hospitalization for either hyperglycemia or ketoacidosis, a history of hypoglycemia requiring hospitalization, rashes or other skin reactions that would preclude placement of the CGM\n* Use of anticoagulants or antiplatelet agents other than aspirin\n* Platelet count \\< 50 K/\u03bcL within 60 days prior to enrollment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

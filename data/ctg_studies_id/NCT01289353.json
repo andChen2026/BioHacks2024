@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01289353",
+    "briefTitle": "Concurrent Adjuvant Carboplatin and Accelerated Radiotherapy for Triple Negative Breast Cancer",
+    "officialTitle": "Phase I-II Study of Concurrent Adjuvant Systemic Therapy and Accelerated Radiotherapy (Over 3 Weeks)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 92,
+    "primaryOutcomeMeasure": "Number of Patients Who Developed Grade 2-3 Acute Radiation Dermatitis Within 60 Days Post-RT",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age older than 18\n* Pre- or post-menopausal women with Stage I and II breast cancer, triple negative tumors\n* Biopsy-proven invasive breast cancer, excised with negative margins of at least 1 mm\n* Status post segmental mastectomy, after sentinel node biopsy and/or axillary node dissection (Tumors \\< 5 mm in size do not require nodal assessment) or after mastectomy\n* No previous chemotherapy\n* Patient needs to be able to understand and demonstrate willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Previous radiation therapy to the ipsilateral breast\n* Active connective tissue disorders, such as lupus or scleroderma\n* Pregnant or lactating women",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06299852",
+    "briefTitle": "Stereotactic Radiation Therapy for HE2-positive Oligometastatic Breast Cancer",
+    "officialTitle": "Stereotactic Radiation Therapy for HE2-positive Oligometastatic Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "HER2-positive Metastatic Breast Cancer, Oligometastatic Disease",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 58,
+    "primaryOutcomeMeasure": "Objective response rate (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients must be at least 18 years of age and able to give written informed consent and comply with study procedures;\n2. Clinical diagnosis: breast cancer, metastatic form;\n3. Oligo-metastatic disease as determined by standard of care diagnostics, limited to 5 total individual distant metastases, either in one organ or in 2-3 organ systems. Clustered lymph nodes that can be irradiated with curative intent in a single field are defined as single lesion;\n4. Possibility of complete elimination of all foci;\n5. HER2 expression level of 3+ points according to immunohistochemical analysis (IHC) and/or degree of amplification \u22652.0 according to the results of in situ hybridization (ISH);\n6. Patients with stable metastatic brain foci for at least 4-6 weeks (according to MRI);\n7. Patients with HER2+ inoperable locally advanced or metastatic breast cancer who previously received taxanes and trastuzumab;\n8. ECOG 0-1 status;\n9. Life expectancy of more than 6 months.\n\nExclusion Criteria:\n\n1. T-DM1 therapy in the medical history;\n2. Autoimmune diseases in the medical history or treatment of exacerbations during the last three months;\n3. Uncontrolled brain metastases and/or carcinomatous meningitis, causing neurological symptoms;\n4. Primary multiple malignant tumors: other malignant neoplasms requiring active treatment;\n5. Acute myocardial infarction, acute cerebrovascular accident, uncorrectable coagulopathy, decompensated concomitant pathology, infectious diseases in the active phase, ECOG status \\> 2;\n6. Pregnancy, lactation.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

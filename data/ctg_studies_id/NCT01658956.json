@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01658956",
+    "briefTitle": "Effectiveness of Reduced GCSF Dosing in Patients With a Low to Moderate Risk of Febrile Neutropenia",
+    "officialTitle": "A Phase II Randomized Study to Verify the Papaldo's Hypothesis : the Effectiveness of a Reduced Dosing of G-CSF in Chemotherapy-treated Patients With a Low to Moderate Risk of Febrile Neutropenia",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 142,
+    "primaryOutcomeMeasure": "Occurrence of a febrile neutropenic episode defined as fever (>=38.5\u00b0C once or >=38\u00b0C twice within 12 hours interval) and neutropenia (ANC < 0.5 IU)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nBreast cancer Chemotherapy administration (new line) Chemotherapy type : FEC, EC, AC, docetaxel containing regimen Chemotherapy setting : adjuvant or neoadjuvant\n\nExclusion Criteria:\n\nEligibility to receive reimbursed GCSF",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

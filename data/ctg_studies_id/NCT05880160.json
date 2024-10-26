@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05880160",
+    "briefTitle": "Safety of Withdrawal of Pharmacological Treatment for Recovered HER2 Targeted Therapy Related Cardiac Dysfunction",
+    "officialTitle": "Randomised Control Trial for the Safety of Withdrawal of Pharmacological Treatment for Recovered HER2 Targeted Therapy Related Cardiac Dysfunction",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cardiotoxicity, HER2-positive Breast Cancer, Heart Failure, Cancer, Therapy-Related",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 90,
+    "primaryOutcomeMeasure": "Relapse in Cardiotoxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Adult participants (\\>18 years)\n2. A prior diagnosis of human epidermal growth factor receptor 2 (HER2)- targeted therapy related cardiac dysfunction, who currently receive standard heart failure/cardioprotective medications (any combination of angiotensin-converting enzyme \\[ACE\\] inhibitors, angiotensin receptor blockers \\[ARBs\\] and/or beta-blockers).\n3. Cardiac function has 'recovered'. 'Recovery' is defined as absence of heart failure symptoms with left ventricular ejection fraction (LVEF) improved to 50% or greater and N-terminal pro B-type natriuretic peptide (NTproBNP) \\<125ng/L, for greater than 6 months.\n\nExclusion Criteria:\n\n1. Advanced/ metastatic HER2 positive breast cancer requiring ongoing HER2 therapies or with life expectancy \\<12months.\n2. Patients classed as high/very high cardiovascular risk according to the International Cardio-Oncology Society (ICOS) risk stratification\n3. Patients with LVEF \\<50% prior to HER2-therapy initiation or on completion of anthracycline treatment\n4. Patients with ongoing indications for the cardioprotective medication - ACE inhibitors, ARBs and/or beta-blockers\n5. Patients with absolute contraindications to cardiovascular magnetic resonance scans (CMR).",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

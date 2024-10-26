@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01329640",
+    "briefTitle": "Feasibility Study of Metronomic Chemotherapy for Locally Advanced Her2- Positive Breast Cancer (TraQ-Me 01)",
+    "officialTitle": "Phase II Feasibility Study of Weekly Paclitaxel Plus Weekly Trastuzumab Followed by Weekly Doxorubicin Plus Daily Oral Cyclophosphamide Plus Weekly Trastuzumab for Locally Advanced HER2-Positive Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Locally Advanced HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 9,
+    "primaryOutcomeMeasure": "INCIDENCE OF FEBRILE NEUTROPENIA",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of locally advanced breast cancer\n* T \\> 2 cm (any N), or any T and positive node(needle biopsy is required if tumor size is less than 2cm)\n* Non-metastatic disease confirmed by computerized tomography and bone scan\n* HER2 positive by IHC (+++) and/or Fish (+) according to international definitions (ASCO 2007)\n* Normal left ventricular ejection fraction (LVEF)\n* Indication of preoperative chemotherapy\n* multifocal tumors acceptable provided that the largest tumor is Her2-positive\n* ECOG 0-1\n\nExclusion Criteria:\n\n* Another malignancy within the last 5 years (except curatively treated skin carcinoma, in situ cervix carcinoma, in situ ductal carcinoma of the breast, or in situ lobular carcinoma of the breast)\n* Clinically significant comorbidities such as cardiovascular diseases, COPD, renal or liver impairment, psychiatric disorders\n* LVEF value below institutional limits of normal range\n* Detected or suspected distant metastasis\n* Neutrophils lower than 1,500/\u00b5L, platelets lower than 100,000/\u00b5L, hemoglobin lower than 10 g/dL, AST higher than 2.5x upper limit of normal (ULN), total bilirubin higher than ULN, alkaline phosphatase more than 1.5x ULN",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

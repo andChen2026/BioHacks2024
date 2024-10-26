@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01943916",
+    "briefTitle": "The PIONEER-01 Study of the Imagio Breast Imaging System",
+    "officialTitle": "A Study of Imaging With Opto-acoustics to Diagnose Breast Masses Detected by Mammography and/or Diagnostic Ultrasound: A New Evaluation Tool for Radiologists",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 2105,
+    "primaryOutcomeMeasure": "Specificity Difference Between Imagio Optoacoustic Plus Gray-scale (OA/US) vs Imagio Gray-scale Ultrasound (IUS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female\n* 18 years of age or older\n* suspicious mass of breast, identified by a health care practitioner within the past 30 days with diagnostic methodology other than conventional ultrasound.\n\nExclusion Criteria:\n\n* presence of a condition or impediment that may interfere with imaging.\n* pregnant or lactating\n* undergoing neoadjuvant therapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

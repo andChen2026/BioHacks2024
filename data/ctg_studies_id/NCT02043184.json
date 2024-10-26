@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02043184",
+    "briefTitle": "Improving Adherence to Oral Cancer Agents and Self Care of Symptoms Using an IVR",
+    "officialTitle": "Improving Adherence to Oral Cancer Agents and Self Care of Symptoms Using an IVR",
+    "overallStatus": "COMPLETED",
+    "conditions": "Prostatic Neoplasms, Breast Neoplasms, Colorectal Neoplasms, Melanoma, Leukemia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 322,
+    "primaryOutcomeMeasure": "Medication Adherence using pill count and self report",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 21 years of age or older\n* Newly prescribed one of the designated oral cancer medications for treatment of cancer\n* ECOG score of 0,1,or 2 OR Karnofsky score of 50 or higher\n* Patient of one of the participating National Cancer Institute comprehensive cancer centers\n* Able to speak, read and understand English\n* Able and willing to receive phone calls\n\nExclusion Criteria:\n\n* Difficulty hearing on the telephone\n* Limited or no access to a touch tone phone\n* Cognitive deficits\n* Hospice care at enrollment\n* Those prescribed a hormonal therapy for cancer",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

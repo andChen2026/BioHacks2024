@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01830933",
+    "briefTitle": "Breast Cancer Risk Reduction: A Patient Doctor Intervention",
+    "officialTitle": "Breast Cancer Risk Reduction: A Patient Doctor Intervention",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 1235,
+    "primaryOutcomeMeasure": "Knowledge of Breast Cancer Risk Factors",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patient component:\n\n   * Women who visit the General Internal Medicine (GIM) practices at SFGH and UCSF during the study period\n   * Between the ages of 40 and 74\n   * Self-identify as Asian American, Spanish- and English-speaking Latinas, African American, or White\n   * Have no history of breast cancer are eligible to participate.\n2. Physician component: Primary care physicians currently practicing at the GIM clinics at SFGH and UCSF\n\nExclusion Criteria:\n\n1. Patient component: Women whose physicians object to their participation in the study\n2. Physician component: No exclusion criteria for physicians",
+    "sex": "ALL",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

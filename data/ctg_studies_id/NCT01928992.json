@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01928992",
+    "briefTitle": "Pilot 3D Mammography Reader Study to Assess Breast Cancer Detection in 3D Versus 2D Digital Mammography",
+    "officialTitle": "A Multi-reader, Multi-case, Controlled Clinical Trial to Evaluate the Fuji Film 3D Digital Mammography System Used in Conjunction With 2D Digital Mammography in the Detection of Breast Cancer / A Pilot Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Per Breast AUC",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female subjects participating in prior FMSU protocol with known clinical status\n\nExclusion Criteria:\n\n* Subjects with unkown clinical status\n* Subjects not truthed in prior FMSU study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

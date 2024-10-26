@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02613026",
+    "briefTitle": "Comparative Analysis of the Efficacies in Neoadjuvant Chemotherapy of Breast Cancer",
+    "officialTitle": "Comparative Analysis of the Efficacies of AT and AC-T Regimens in Neoadjuvant Chemotherapy of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 104,
+    "primaryOutcomeMeasure": "pathological complete response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histopathologically diagnosed with stage I-III breast cancers;\n* clearly confirmed ER, PR and HER2 statuses;\n* the state of axillary lymph nodes was determined through the relevant examination steps (puncture or sentinel lymph node biopsy);\n* the patients were not treated with neoadjuvant therapy and surgery.\n\nExclusion Criteria:\n\n* the patients whose breasts or axillary lumps had received excision biopsy;\n* the patients who had severely abnormal organ functions or who could not tolerate chemotherapy,\n* the patients with severe concomitant diseases;\n* the patients with heart disease or left ventricular ejection fraction (LVEF) \\<50%.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

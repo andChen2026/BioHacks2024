@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00708019",
+    "briefTitle": "Improving Cancer Pain Management Through Self-Care",
+    "officialTitle": "Improving Cancer Pain Management Through Self-Care",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cancer, Pain",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 185,
+    "primaryOutcomeMeasure": "Average Pain Intensity Score",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* adult oncology outpatients (\\> 18 years of age)\n* able to read, write, and understand English\n* agree to participate and give informed consent\n* have a KPS Score of \\> 50\n* have an average pain intensity score of \\> 3.0 on a 0 to 10 NRS\n* have radiographic evidence of bone metastasis\n* visceral or somatic pain\n* have a life expectancy of at least 6 months\n* are receiving outpatient treatment for cancer (not AIDS-related) with any single or combination therapy, and have a telephone line\n\nExclusion Criteria:\n\n* A documented previous or current psychiatric disorder or if at the time of recruitment they are receiving hospice care in order not to interfere with the pain management program provided by hospice.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

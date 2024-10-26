@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03688035",
+    "briefTitle": "Potential of Circulating Tumor DNA to Assess the Tumor Response to Neoadjuvant Chemotherapy in Breast Cancer Patients",
+    "officialTitle": "Prospective Study on the Potential of Circulating Tumor DNA to Assess the Tumor Response to Neoadjuvant Chemotherapy in Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Neoadjuvant Chemotherapy, Circulating Tumor DNA",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "dynamic changes of plasma ctDNA mutant copies by a panel of 363 cancer-related genes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients undergoing neoadjuvant chemotherapy\n* Age: 18-70 yrs\n* Any menopausal status\n* Any hormone receptor status\n* Invasive breast cancer proven histologically at diagnosis (before neoadjuvant chemotherapy):\n* Locally advanced tumor\n* Patients who received 6 to 8 cycles of neoadjuvant chemotherapy.\n\nExclusion Criteria:\n\n* Failed to retain blood sample before NAC\n* Lost more than 2 blood samples during NAC",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

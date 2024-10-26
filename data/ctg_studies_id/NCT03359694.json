@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03359694",
+    "briefTitle": "Mutation Scores and Differential Protein Evaluating Efficacy in Adjuvant Chemotherapy in HER2(-) Luminal B Breast Cancer",
+    "officialTitle": "Mutation Scores and Differential Protein Evaluating Efficacy in Neo-adjuvant Chemotherapy and the Non-PCR Patients Treated With Sequential Nalvelbine and Xeloda in HER2(-) Luminal B Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Susceptibility, Genetic, Chemotherapy Effect",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "pCR rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent form\n* Compliance with test procedures and good compliance\n* Females, Age more than 18 years of age, less than 70 years old\n* The ECOG score is 0-1\n* Primary invasive cancer, T2-4bN0-2M0 breast cancers\n* Neoadjuvant chemotherapy with standard 6 courses should be completed\n* Patients must undergo standard breast cancer surgery after neoadjuvant chemotherapy\n* Luminal B, Her2 negative patients\n* No other malignant tumors occurred at the same time\n* adequate liver and kidney function\n\nExclusion Criteria:\n\n* Any metastasis\n* Suffered other maligant tumors\n* Participate in other trials\n* Accompanied with severe systemic disease and / or uncontrollable infection\n* Pregnant and lactating women\n* Dysfunction of liver and kidney",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

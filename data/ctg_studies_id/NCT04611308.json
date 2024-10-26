@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04611308",
+    "briefTitle": "The Role of C1q Tumor Necrosis Factor-related Protein 6 in Breast Cancer",
+    "officialTitle": "The Role of C1q Tumor Necrosis Factor-related Protein 6 (CTRP6) in Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 102,
+    "primaryOutcomeMeasure": "To investigate the CTRP6 levels in breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age: 18 years and older.\n* Newly diagnosed patients with histopathological confirmation of the diagnosis of breast cancer at any stage.\n\nExclusion Criteria:\n\n* Patients with a prior history of other cancers.\n* Patients with more than one cancer.\n* Patients treated with chemotherapy or radiotherapy before initial samples collection.\n* Pregnant women.\n* Patients with unqualified or insufficient data.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

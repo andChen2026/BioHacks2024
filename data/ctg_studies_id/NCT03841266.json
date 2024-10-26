@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03841266",
+    "briefTitle": "Recurrence Risk Evaluation by 21-gene Detection",
+    "officialTitle": "Postoperative Recurrence Risk Evaluation of Hormone Receptor Positive, Her-2 Negative Breast Cancer by Using Different 21-gene Detection Kits (REBCK)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Relationship and Consistency Analysis",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 220,
+    "primaryOutcomeMeasure": "correlation analysis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. breast cancer in stage I-III, tumor size\\>0.5cm\n2. lymph nodes negative\n3. hormone receptor positive \uff08ER+/PR+,ER+/PR-,ER-/PR+\uff09\n4. HER2 negative\uff08IHC 0 or +\uff0c FISH negative\uff09\n5. receive endocrine therapy only\n6. enough FFPE samples within 10 years\uff083\\~6 10\u03bcm \uff09\n7. patients with integrated medical records\n\nExclusion Criteria:\n\n1. Tumor cells \\<5%\n2. Isolated RNA\\<500ng",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

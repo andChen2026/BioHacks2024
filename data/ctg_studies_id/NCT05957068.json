@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05957068",
+    "briefTitle": "Breast Cancer Exercise Intervention Study",
+    "officialTitle": "Breast Cancer Exercise Intervention Study (BREXINT)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Early-stage Breast Cancer, Locally Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2156,
+    "primaryOutcomeMeasure": "Disease-Free Survival (DFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with histologically or cytologically proven stage 1, 2, or 3 breast cancer\n* Patients who have undergone curative breast surgery\n* Patients who have received (neo)adjuvant chemotherapy (if given) and/or radiotherapy (if given)\n* Females aged 21 years and older\n* \u2264 8 weeks from breast surgery, or the last adjuvant chemotherapy or radiotherapy session, whichever is latest.\n\nExclusion Criteria:\n\n* Cardiovascular, respiratory, musculoskeletal problems that preclude moderate physical activity.\n* Major medical problems that are deemed by the investigator to be unsuitable for enrollment.",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

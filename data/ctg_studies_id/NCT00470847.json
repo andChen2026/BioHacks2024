@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00470847",
+    "briefTitle": "Lapatinib in Combination With Radiation Therapy in Patients With Brain Metastases From HER2-Positive Breast Cancer",
+    "officialTitle": "A Phase I Study of Lapatinib in Combination With Radiation Therapy in Patients With Brain Metastases From HER2-Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Brain Metastases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "The Maximum Tolerated Dose of Lapatinib When Combined With Cranial Radiation in Patients With CNS Metastases From HER2-positive Breast Cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically-confirmed invasive breast cancer\n* HER2 overexpressing breast cancer defined as 3+ staining by immunohistochemistry, or HER2 gene amplification by FISH\n* At least one parenchymal brain metastasis\n* Disease progression in the CNS as assessed by at least one of the following; new neurological signs or symptoms; new lesion(s) in the CNS on an imaging study; progressive lesions on an imaging study\n* At least two weeks since prior radiotherapy, last chemotherapy, immunotherapy, biologic therapy, or major surgery for cancer\n* 18 years of age or older\n* Life expectancy of greater than 12 weeks\n* ECOG performance status 0-2\n* Normal organ and marrow function as described in the protocol\n* Left ventricular ejection fraction \\> 50%\n* Able to swallow and retain oral medications\n\nExclusion Criteria:\n\n* Prior WBRT\n* Receiving any other investigational agents\n* Concurrent chemotherapy, immunotherapy, biologic therapy or hormonal therapy for treatment of their cancer\n* History of grade 3 or 4 allergic reactions attributed to compounds of similar chemical or biologic composition to herceptin or lapatinib\n* Leptomeningeal carcinomatosis as the only site of CNS involvement\n* Concurrent treatment with medications that are either inducers of inhibitors of CYP3A4\n* Malabsorption syndrome, disease significantly affecting gastrointestinal function, or resection of the stomach or small bowel or active ulcerative colitis\n* History of immediate or delayed hypersensitivity reaction to gadolinium contrast agents\n* Other known contraindication to MRI\n* Uncontrolled intercurrent illness\n* History of other active malignancy except curatively treated basal cell carcinoma or squamous cell carcinoma of the skin, or carcinoma in situ of the cervix\n* Pregnant or breastfeeding women",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

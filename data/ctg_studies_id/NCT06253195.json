@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06253195",
+    "briefTitle": "BGB-43395 Alone or as Part of Combination Therapies in Chinese Participants With HR+/HER2- Breast Cancer and Other Advanced Solid Tumors",
+    "officialTitle": "A Phase 1a/1b Study Investigating the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Preliminary Antitumor Activity of the CDK4 Inhibitor BGB-43395, Alone or as Part of Combination Therapies in Chinese Patients With Advanced or Metastatic HR+/HER2- Breast Cancer and Other Solid Tumors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Advanced Solid Tumor, Metastatic Solid Tumor, Hormone-receptor-positive Breast Cancer, Breast Cancer, Metastatic Breast Cancer, Hormone Receptor Positive Malignant Neoplasm of Breast, HER2-negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 78,
+    "primaryOutcomeMeasure": "Phase 1a: Number of Participants with Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Phase 1a (Dose Escalation): Participants with histologically or cytologically confirmed locally advanced or metastatic solid tumors associated with CDK4 dependency, including HR+/HER2- breast cancer. Participants must have received prior standard-of-care therapies for their disease, unless the therapy is not available or not tolerated, or is determined not appropriate based on the investigator's judgment.\n* Phase 1b (Dose Expansion): Participants with selected solid tumors including locally advanced or metastatic HR+/HER2- breast cancer.\n* Female participants with metastatic HR+/HER2- breast cancer will be required to have ovarian function suppression using gonadotropin-releasing hormone (GnRH) agonists such as goserelin or be postmenopausal.\n* Male participants with HR+/HER2- breast cancer will be required to have gonadal suppression using GnRH agonists when being treated with letrozole or fulvestrant.\n* Patients must have \u22651 measurable lesion per RECIST v1.1.\n* Eastern Cooperative Oncology Group (ECOG) Performance Status \u2264 1.\n* Adequate organ function without symptomatic visceral disease.\n\nExclusion Criteria:\n\n* Prior therapy selectively targeting CDK4 (prior CDK4/6 inhibitor therapy is permitted).\n* Known leptomeningeal disease or uncontrolled untreated brain metastasis.\n* Any malignancy \u2264 3 years before the first dose of study drug(s) except for the specific cancer under investigation in this study and any locally recurring cancer that has been treated with curative intent (eg, resected basal or squamous cell skin cancer, superficial bladder cancer, or carcinoma in situ of the cervix or breast).\n* Uncontrolled diabetes.\n* Infection requiring systemic antibacterial, antifungal, or antiviral therapy \u2264 28 days before the first dose of study drug(s), or symptomatic COVID-19 infection. Patients receiving prophylactic antibiotics (eg, for prevention of urinary tract infection, chronic obstructive pulmonary disease, or for dental extraction) are eligible. Patients who have recovered from symptomatic COVID-19 infection can be rescreened for this study.\n* Untreated chronic hepatitis B or active hepatitis C infection.\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

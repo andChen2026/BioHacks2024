@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00178802",
+    "briefTitle": "Chemotherapy With Whole Body Hyperthermia to Treat Resistant Breast, Endometrial, Cervical and Ovarian Cancers",
+    "officialTitle": "Phase II Study of Mild Whole Body Hyperthermia Combined With 5-Fluorouracil/Interferon-a/Liposomal Doxorubicin in Patients With Advanced Malignancy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms, Endometrial Neoplasms, Cervix Neoplasms, Ovarian Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Tumor response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Resistant breast, endometrial, cervix, or ovarian cancer\n* No active metastasis to the brain\n* No more than 8 previous regimes of Doxil\n* Successful completion of preliminary function tests\n* Good ECOG score\n\nExclusion Criteria:\n\n* Active metastasis to the brain\n* 8 or more previous cycles of Doxil\n* Poor completion of preliminary function tests\n* Poor ECOG score",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

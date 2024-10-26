@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02006979",
+    "briefTitle": "Acute Exercise Cardioprotection From Doxorubicin",
+    "officialTitle": "The Effects of Exercise Before Doxorubicin Chemotherapy on Cardiac Function",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 27,
+    "primaryOutcomeMeasure": "Global Longitudinal Strain",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* newly diagnosed with stage I-IIIA breast cancer\n* scheduled to receive neoadjuvant or adjuvant doxorubicin chemotherapy in cycles of 2-3 weeks long\n* receive their oncologist's approval to exercise\n* be able to complete first time point of data collection prior to first chemotherapy cycle\n* be able to understand and provide written informed consent in English\n\nExclusion Criteria:\n\n* concurrent participation in a structured exercise program or study\n* have orthopedic limitations to exercise\n* pre-existing cardiovascular disease\n* uncontrolled hypertension (blood pressure \u2265 140/90 mmHg)\n* uncontrolled diabetes\n* respiratory disease\n* current smoking status",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

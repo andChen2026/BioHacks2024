@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04038606",
+    "briefTitle": "SEINIOR:Quality of Life and Breast Cancer in Older Women",
+    "officialTitle": "Quality of Life and Breast Cancer in Older Women",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 174,
+    "primaryOutcomeMeasure": "Evaluation of quality of life change by SF-36 (The Short Form Health Survey) between baseline and six months",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Elderly patients about or over 75 years\n2. Female\n3. Patients in whom a diagnosis of breast cancer with surgical indication for mastectomy with or without lymph node dissection is discussed\n4. Ability to understand and give freely consent\n5. Informed consent signed\n6. Patient affiliated to the social security or entitled\n\nExclusion Criteria:\n\n1. Patients under 75 years\n2. Male\n3. Patients under legal protection",
+    "sex": "FEMALE",
+    "minimumAge": "75 Years",
+    "stdAges": "OLDER_ADULT"
+}

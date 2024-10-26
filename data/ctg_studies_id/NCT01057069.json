@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01057069",
+    "briefTitle": "Neo Adjuvant Chemotherapy in Triple Negative Breast Cancer",
+    "officialTitle": "Randomized Phase II/III Study of Individualized Neoadjuvant Chemotherapy in ' Triple Negative' Breast Tumors",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 310,
+    "primaryOutcomeMeasure": "Primary endpoint (HRD tumors): Average Neoadjuvant Response Index (NRI) after intensified alkylating therapy in comparison to that after 'standard' neoadjuvant chemotherapy. Primary endpoint (non-HRD tumors): Average Neoadjuvant Response Index (NRI)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Proven infiltrating breast cancer with either a primary tumor over 2 cm in size (MRI or ultrasound examination) and/or cytologically proven spread to the axillary lymph nodes.\n* Patients with 'locally advanced breast cancer' are consequently eligible, including those with ipsilateral supraclavicular lymph node metastases.\n* The tumor must be HER2/neu-negative (either score 0 or 1 at immunohistochemistry or negative at in situ hybridization \\[CISH or FISH\\] in case of score 2 or 3 at immunohistochemistry).\n* The tumor must be Estrogen receptor (ER) -negative (\\< 10% nuclear staining at IHC) and Progesterone receptor (PR) -negative (\\< 10% nuclear staining at IHC). However, the rare tumors that are ER-negative and PR-positive will be eligible, if this pattern of hormone receptor expression can be verified in the NKI-AVL reference pathology lab.\n* Age 18 to 59 years; patients older than 59 years may be included when considered 'biologically 59 years or younger' (as judged by the investigator).\n* Performance status: WHO 0 or I.\n* Adequate bone marrow function (W.B.C. count \\> 3.0 x 109/l, platelets \\> 100 x 109/l).\n* Adequate hepatic function (ALAT, ASAT and bilirubin \\< 2 x upper limit of normal, or minor abnormalities of these tests judged to be of no consequence by the study coordinator).\n* Adequate renal function (creatinine clearance \\> 60 ml/min).\n* Informed consent\n\nExclusion Criteria:\n\n* Previous radiation therapy or chemotherapy.\n* Other malignancy except carcinoma in situ, unless the other malignancy was treated 5 or more years ago with curative intent without the use of chemotherapy or radiation therapy.\n* Pregnancy or breast feeding.\n* Evidence of distant metastases. Staging examinations must have included a chest roentgenogram, an ultrasound examination of the liver and an isotope bone scan. Abnormal uptake on the isotope bone scan can only be accepted if bone metastases were excluded by MRI",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

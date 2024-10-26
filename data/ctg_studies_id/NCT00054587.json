@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00054587",
+    "briefTitle": "Combination Chemotherapy With or Without Trastuzumab in Treating Women With Breast Cancer",
+    "officialTitle": "Randomized And Multicentric Opened Phase III Study Evaluating The Concomitant Administration Of Docetaxel 75MG/M2 and Epirubicine 75MG/M2 Versus FEC 100 In Non Metastatic With Positive Lymphatic Nodes Breast Cancer Subjects, And The Sequential Addition Of Herceptin In (HER2+++) And (HER2++ And FISH+) Subjects",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 3010,
+    "primaryOutcomeMeasure": "Progression Free Survival",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed nonmetastatic, unilateral adenocarcinoma of the breast\n\n  * Axillary lymph node invasion (N1, N2, or N3)\n  * No cutaneous invasion\n  * No T4a or greater disease\n* No clinically or radiologically suspected metastases\n* No clinically or radiologically suspected contralateral lesion\n* No deeply adherent or inflammatory disease\n* Complete surgical resection performed, including removal of at least 5 lymph nodes, and with no residual tumor, within the past 42 days\n* No prior breast cancer\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 to 64\n\nSex\n\n* Female\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* WHO 0-1\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* WBC at least 2,000/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n\nHepatic\n\n* ALT and AST no greater than 1.5 times upper limit of normal (ULN)\n* Alkaline phosphatase no greater than 2.5 times ULN\n* Bilirubin no greater than ULN\n* Hepatitis B and hepatitis C negative\n* No hepatic dysfunction\n\nRenal\n\n* Creatinine less than 1.3 mg/dL OR\n* Creatinine clearance greater than 60 mL/min\n\nCardiovascular\n\n* ECHO normal\n* LVEF at least 50%\n\nPulmonary\n\n* FEV normal\n* No dyspnea at rest\n* No supplemental oxygen dependence\n\nOther\n\n* Not pregnant\n* Fertile patients must use effective contraception\n* HIV negative\n* No active infection\n* No other prior malignancy except basal cell skin cancer or carcinoma in situ of the cervix\n* No contraindication to anthracycline therapy\n* No chronic medical or psychological condition\n* No geographic or social reason that would preclude study therapy\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* At least 4 weeks since prior chemotherapy\n* No other concurrent chemotherapy\n* No contraindication to anthracycline therapy\n\nEndocrine therapy\n\n* No prior hormonal therapy\n\nRadiotherapy\n\n* No prior radiotherapy\n\nSurgery\n\n* See Disease Characteristics\n\nOther\n\n* At least 4 weeks since prior experimental therapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

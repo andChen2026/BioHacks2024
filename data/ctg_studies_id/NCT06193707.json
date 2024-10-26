@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06193707",
+    "briefTitle": "Intelligent Remote Intervention for High-risk Breast Cancer Populations",
+    "officialTitle": "Assessment of the Effect of Intelligence Remote Intervention on High-Risk Populations for Breast Cancer",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Ultrasonography, Breast Neoplasm Female, Breast Carcinoma, Health Education",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 1250,
+    "primaryOutcomeMeasure": "BI-RADS grade changes in breast nodules",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female; Age\\>=18; Having breast BI-RADS 3 nodules or higher; Informed consent signed.\n\nExclusion Criteria:\n\n* Having any other known breast diseases; Having any major malignant diseases; Having no access to the remote devices or don't know how to use them.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

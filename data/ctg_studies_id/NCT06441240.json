@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06441240",
+    "briefTitle": "Evaluation of Recurrence Risk Factors in Locally Advanced Breast Cancer Patients Underwent Neoadjuvant Chemotherapy.",
+    "officialTitle": "Evaluation of Recurrence Risk Factors in Locally Advanced Breast Cancer Patients Underwent Neoadjuvant Chemotherapy. The NEORISK Study.",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Chemotherapy Effect, Triple Negative Breast Cancer, Recurrence, Local Neoplasm, Risk Factors",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 933,
+    "primaryOutcomeMeasure": "Description of molecular subtypes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological diagnosis of locally advanced Luminal or HER2+ or Triple-negative breast cancer (cT2, T3, T4 N0 or any T N1, N2, N3, M0), clinical stage of disease from I to III.\n* Patient undergoing neoadjuvant chemotherapy treatment from January 1, 2014, to June 30, 2021.\n* Age \\> 18 years\n* Availability of clinical data, staging MRI diagnostic images (for the radiomic sub-study), and biomolecular data.\n\nExclusion Criteria:\n\n* Previous or synchronous history of systemic malignancies.\n* History of ipsilateral or contralateral breast neoplasia.\n* Evidence of metastatic disease (Stage IV).\n* Neoadjuvant treatment with hormone therapy.\n* Patients with unavailable or low-quality MRI images that did not allow lesion identification (for the radiomic study only).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

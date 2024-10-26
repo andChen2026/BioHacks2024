@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05607004",
+    "briefTitle": "(Z)-Endoxifen for the Treatment of Premenopausal Women With ER+/HER2- Breast Cancer",
+    "officialTitle": "A Randomized Phase 2 Non-inferiority Trial of (Z)-Endoxifen and Exemestane + Goserelin as Neoadjuvant Treatment in Premenopausal Women With ER+/HER2- Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Neoplasms, Invasive Breast Cancer, Estrogen-receptor-positive Breast Cancer, HER2-negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 180,
+    "primaryOutcomeMeasure": "PK Cohort - (Z)-endoxifen steady-state plasma concentrations",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Premenopausal women 18 years or older\n* Not lactating, pregnant, or planning to become pregnant in the next year\n* Agree to use at least one non-hormonal highly effective method of contraception for the entire duration of study participation.\n* ER+/HER2-: \\[ER\\] \u2265 67% or Allred Score 6-8) / HER2- (histologically confirmed) using American Society of Clinical Oncology (ASCO)/College of American Pathologists (CAP) guidelines\n* Clinical T2 or T3 and N0 or N1 invasive breast cancer (per American Joint Committee on Cancer \\[AJCC\\] 8th edition clinical staging)\n* Nottingham Grade 1 or 2\n* ECOG Performance Status (ECOG PS) of 0 to 2\n\nExclusion Criteria:\n\n* Inflammatory breast cancer; bilateral disease (DCIS/LCIS in contralateral breast OK)\n* Prior diagnosis or treatment for breast cancer, including carcinoma in situ, or history of any other active malignancy within the past 2 years prior to study entry\n* Uncontrolled intercurrent illness including, but not limited to:\n* Ongoing or active infection requiring systemic treatment with strong inhibitors/inducers of CYP450 enzymes (including bacterial infection, fungal infection, or detectable viral infection).\n* Symptomatic congestive heart failure, unstable angina pectoris, uncontrolled symptomatic cardiac arrhythmias\n* Uncontrolled hypertension (defined as blood pressure \\> 160/90 mm Hg)\n* Uncontrolled diabetes (Hemoglobin A1c \\[HbA1c\\] \\>7%)\n* Marked baseline prolongation of QT/QTc interval (e.g., repeated demonstration of a QTc interval \\> 470 milliseconds \\[msec\\]) using Fridericia's QT correction formula seen \u2264 28 days of registration\n* Known cataracts or retinopathy\n* History of deep vein thrombosis (DVT)/pulmonary embolism (PE)\n* Known activated protein C (APC) resistance, an inherited coagulation disorder\n* Creatine clearance \\< 60 ml/min\n* Total bilirubin \u2265 1.5 x upper limit of normal (ULN)\n* Aspartate aminotransferase (AST) or alanine amino transferase (ALT) \u2265 2.5 x ULN\n* Platelet count (PLT) \u2264 75,000/mm3\n* Hemoglobin (Hb) \u2264 10 g/dL\n* Hormonal therapies including birth control and hormone replacement therapy during the study or within 1 week of registration; androgen therapy\n* Allergy to endoxifen, goserelin, or exemestane or any of their components\n* Participation in another investigational clinical trial \u2264 6 months of registration\n* Known metastatic disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00014456",
+    "briefTitle": "Combination Chemotherapy Plus Filgrastim in Treating Patients With Advanced Solid Tumors",
+    "officialTitle": "A Dose-Escalation Trial Of The Combination Of Docetaxel, Gemcitabine And Filgrastim (NEUPOGEN) For The Treatment Of Patients With Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Bladder Cancer, Breast Cancer, Carcinoma of Unknown Primary, Esophageal Cancer, Gastric Cancer, Head and Neck Cancer, Lung Cancer, Melanoma (Skin), Ovarian Cancer, Pancreatic Cancer, Prostate Cancer, Sarcoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "Determine the maximal tolerated dose of docetaxel in combination with gemcitabine given intravenously every 2 weeks with pegfilgrastim support",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed advanced solid tumor that is not curable by surgery or radiotherapy\n\n  * Sarcoma\n  * Melanoma\n  * Carcinoma of unknown primary\n  * Pancreatic cancer\n  * Lung cancer\n  * Ovarian cancer\n  * Breast cancer\n  * Bladder cancer\n  * Gastric cancer\n  * Esophageal cancer\n  * Prostate cancer\n  * Head and neck cancer\n* No hematopoietic or lymphoid tumors\n* Measurable or evaluable disease\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* Over 18\n\nPerformance status:\n\n* Karnofsky 60-100%\n* ECOG 0-2\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* Absolute neutrophil count greater than 1,000/mm\\^3\n* Platelet count greater than 100,000/mm\\^3\n\nHepatic:\n\n* Bilirubin normal\n* AST and/or ALT no greater than 5 times upper limit of normal (ULN) if alkaline phosphatase no greater than ULN OR\n* Alkaline phosphatase no greater than 5 times ULN if AST and ALT no greater than ULN OR\n* AST and/or ALT no greater than 1.5 times ULN if alkaline phosphatase no greater than 2.5 times ULN\n\nRenal:\n\n* Creatinine no greater than 2 times ULN OR\n* Creatinine clearance at least 50 mL/min\n\nCardiovascular:\n\n* No congestive heart failure\n* No unstable angina\n\nOther:\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No uncontrolled infection\n* No known sensitivity to E. coli-derived products\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* At least 2 weeks since prior cytotoxic anti-tumor therapy (4 weeks for nitrosourea or mitomycin) and recovered\n* No prior docetaxel or gemcitabine\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* See Disease Characteristics\n* At least 2 weeks since prior radiotherapy and recovered\n\nSurgery:\n\n* Not specified",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

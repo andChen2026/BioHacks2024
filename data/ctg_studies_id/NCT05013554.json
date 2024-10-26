@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05013554",
+    "briefTitle": "Dose Escalation and Expansion Study of SAR443216 in Participants With Relapsed/Refractory HER2 Expressing Solid Tumors",
+    "officialTitle": "A Phase 1/1b Open-label, First-in-human, Single Agent, Dose Escalation and Expansion Study for the Evaluation of Safety, Pharmacokinetics, Pharmacodynamics, and Anti-tumor Activity of SAR443216 in Participants With Relapsed/Refractory HER2 Expressing Solid Tumors.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Neoplasm Malignant, Breast Cancer, Lung Neoplasm Malignant, Gastric Cancer, Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 44,
+    "primaryOutcomeMeasure": "Part 1: Dose Escalation Determine the MTD/maximum administered dose (MAD) and RD(s) of SAR443216",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants must be \u2265 18 years of age\n* Histologically or cytologically confirmed diagnosis of metastatic solid tumors\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n* All participants should have at least 1 measurable disease per RECIST v1.1. An irradiated lesion can be considered measurable only if progression has been demonstrated on the irradiated lesion.\n* Body weight within \\[45 - 150 kg\\] (inclusive)\n* All Contraceptive use by men and women should be consistent with local regulations regarding the methods of contraception for those participating in clinical studies.\n* Capable of giving signed informed consent\n\nExclusion Criteria:\n\n* Any clinically significant cardiac disease\n* History of or current interstitial lung disease or pneumonitis\n* Uncontrolled or unresolved acute renal failure\n* Prior solid organ or hematologic transplant.\n* Known positivity with human immunodeficiency virus (HIV), known active hepatitis A, B, and C, or uncontrolled chronic or ongoing infectious requiring parenteral treatment.\n* Receipt of a live-virus vaccination within 28 days of planned treatment start\n* Participation in a concurrent clinical study in the treatment period.\n* Inadequate hematologic, hepatic and renal function\n* Participant not suitable for participation, whatever the reason, as judged by the Investigator, including medical or clinical conditions.\n\nThe above information is not intended to contain all considerations relevant to the potential participation in a clinical trial.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

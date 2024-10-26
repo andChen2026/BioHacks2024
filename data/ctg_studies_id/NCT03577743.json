@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03577743",
+    "briefTitle": "Effect of Bevacizumab in Metastatic Triple Negative Breast Cancer",
+    "officialTitle": "Phase 2 Study to Evaluate the Effect of Bevacizumab in Metastatic Triple Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Triple Negative Breast Cancer, Safety Issues, Efficacy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 54,
+    "primaryOutcomeMeasure": "- progression free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patient firstly diagnosed with metastatic TNBC or after adjuvant treatment OF TNBC by immune histochemistry and biopsy\n2. Age \\>18 Y\n3. Performance status (PS ) 0-2\n4. Did not have any bleeding disorders.\n5. Receive only one line of chemotherapy in adjuvant ttt\n\nExclusion Criteria:\n\n1. Male patient\n2. PS \\>2\n3. Uncontrolled HPTN\n4. Have history of bleeding disorders\n5. Receive \\> one line of chemotherapy\n6. Have other type of malignancy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

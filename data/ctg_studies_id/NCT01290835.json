@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01290835",
+    "briefTitle": "Conformal Partial Breast Irradiation With CyberKnife After Resection for Early Stage Breast Cancer",
+    "officialTitle": "Conformal Partial Breast Irradiation With CyberKnife After Resection for Early Stage Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "To determine the feasibility of using CyberKnife radiotherapy to deliver partial breast radiotherapy for early stage breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Diagnosis of breast malignancy, stage T1\n2. Surgical treatment with lumpectomy\n3. age 60 or older\n4. resection margins negative by at least 2mm\n5. any grade\n6. ER positive\n7. unicentric\n8. invasive ductal\n9. pathologic free of nodal metastases (N0, i- or i+)\n10. Post-lumpectomy cavity to whole breast ratio must be less than or equal to 30%\n\nExclusion criteria\n\n1. Prior radiotherapy to the breast\n2. Neoadjuvant chemotherapy\n3. multicentric disease\n4. Pure DCIS histology\n5. Presence of extensive intraductal component\n6. Node positive disease (N1 or greater)",
+    "sex": "FEMALE",
+    "minimumAge": "60 Years",
+    "stdAges": "ADULT"
+}

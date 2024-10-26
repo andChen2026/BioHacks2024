@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00881010",
+    "briefTitle": "Automated Pain Intervention for Underserved Minority Breast Cancer Patients",
+    "officialTitle": "Automated Pain Intervention for Underserved Minority Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "MDASI IVR Patient Symptom Assessment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Diagnosis of breast cancer\n2. African American or Hispanic female\n3. Receiving treatment at LBJ General Hospital, Ben Taub Hospital, or M.D. Anderson Cancer Center\n4. Socioeconomically disadvantaged, as indicated by hospital billing code\n5. 18 years of age or older\n6. Living in the United States\n7. Speaks English or Spanish\n8. \"Pain worst\" score of 4 or greater on the Brief Pain Inventory\n\nExclusion Criteria:\n\n1. Current diagnosis of psychosis or dementia\n2. No access to telephones\n3. Unable to use the IVR system due to physical limitations (e.g., hearing impairment)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

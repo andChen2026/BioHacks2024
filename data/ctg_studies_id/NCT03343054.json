@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03343054",
+    "briefTitle": "A Phase 1 Study Of Talazoparib, PARP Inhibitor, In Japanese Patients With Advanced Solid Tumors",
+    "officialTitle": "A PHASE 1 STUDY OF THE SAFETY, PHARMACOKINETICS AND ANTI-TUMOR ACTIVITY OF TALAZOPARIB, POLY (ADP-RIBOSE) POLYMERASE (PARP) INHIBITOR, IN JAPANESE PATIENTS WITH ADVANCED SOLID TUMORS",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neoplasms, Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "Dose Escalation: Number of Participants With Dose-Limiting Toxicities (DLT)",
+    "eligibilityCriteria": "\\[Dose Escalation Part\\]\n\nInclusion Criteria:\n\n* Histological or cytological diagnosis of locally advanced or metastatic solid tumor that is resistant to standard therapy or for which no standard therapy is available.\n* ECOG Performance Status 0 or 1.\n* Adequate Bone Marrow, Renal and Liver Function.\n\nExclusion Criteria:\n\n* Patients with known symptomatic brain metastases requiring steroids.\n* Current use of a strong P-gp inhibitor, strong P-gp inducer, or strong inhibitor of BCRP within 1 week or 5 half lives which ever is longer prior to the first dose of study treatment.\n* Fertile male patients and female patients of childbearing potential who are unwilling or unable to use 2 highly effective methods of contraception.\n\n\\[Dose Expansion Part\\]\n\nInclusion Criteria:\n\n* Histologically or cytologically confirmed carcinoma of the breast.\n* Locally advanced breast cancer that is not amenable to curative radiation or surgery and/or metastatic disease.\n* Documentation of a deleterious, suspected deleterious, or pathogenic germline BRCA1 or BRCA2 mutation by Myriad Genetics' BRACAnalysis CDx test.\n* No more than 3 prior chemotherapy-inclusive regimens for locally advanced or metastatic disease.\n* Have measurable lesion by the RECIST v.1.1.\n* ECOG Performance Status 0-2.\n* Adequate Bone Marrow, Renal and Liver Function.\n\nExclusion Criteria:\n\n* First-line locally advanced or metastatic breast cancer with no prior neoadjuvant and adjuvant chemotherapy.\n* Prior treatment with a PARP inhibitor.\n* Objective disease progression while receiving platinum chemotherapy administered for locally advanced or metastatic disease.\n* HER2 positive breast cancer.\n* Active inflammatory breast cancer.\n* Central nervous system (CNS) metastases.\n* Current or anticipated use within 7 days prior to the first dose of study treatment, or anticipated use during the study of strong P-gp inhibitors.\n* Fertile male patients and female patients of childbearing potential who are unwilling or unable to use 2 highly effective methods of contraception.",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05789901",
+    "briefTitle": "The MARVIN Chatbots to Provide Information for Different Health Conditions",
+    "officialTitle": "A Master Research Protocol to Adapt and Evaluate an Artificial Intelligence Based Conversational Agent to Provide Information for Different Health Conditions: the MARVIN Chatbots",
+    "overallStatus": "RECRUITING",
+    "conditions": "HIV Infections, Breast Cancer, Pediatric Emergency Medicine",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "Usability Metric for User eXperience (UMUX-Lite)",
+    "eligibilityCriteria": "Inclusion Criteria for all objectives:\n\n* being 14 years or older;\n* being fluent in English and/or French;\n* being able to understand the requirements of study participation and provide informed consent during the duration of the study;\n* having access to a smartphone, tablet, or computer at home/at workplace;\n* having access to an internet connection at home or data plan on their device.\n\nInclusion Criteria Specific to objectives 2 and 3:\n\n* accept to use a Facebook Messenger-based Chatbot;\n* accept to use or create a personal Facebook account;\n* accept Facebook's privacy and data security policies.\n\nExclusion Criteria:\n\n* not meeting the inclusion criteria\n* any reason, in the opinion of the investigator, which would make the candidate inappropriate for participation in an investigative study involving a chatbot (e.g., cognitive deficit)",
+    "sex": "ALL",
+    "minimumAge": "14 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

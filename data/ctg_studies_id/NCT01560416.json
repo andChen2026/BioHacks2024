@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01560416",
+    "briefTitle": "Fulvestrant With or Without Ganetespib in HR+ Breast Cancer",
+    "officialTitle": "Randomized Phase II Study of Fulvestrant With or Without Ganetespib in Patients With Hormone Receptor-Positive, Metastatic Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed invasive breast cancer that is metastatic or unresectable locally advanced\n* Estrogen and/or progesterone receptor positive breast cancer\n* HER2 negative\n* Measurable disease is required (effective 4/30/14: all non-measurable \\[evaluable\\] disease slots have been filled)\n* Endocrine resistant breast cancer\n* May have received up to one prior line of chemotherapy for metastatic or unresectable locally advanced breast cancer\n* May have initiated bisphosphonate therapy prior to start of protocol therapy\n* Must be at least 2 weeks from prior chemotherapy or radiotherapy\n* ECOG performance status of 0 or 1\n* Availability of tissue block from initial breast cancer diagnosis and/or metastatic recurrence\n* For subjects with biopsy-accessible disease, must be willing to undergo a required on-treatment research biopsy\n* Adequate IV access\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding\n* Prior treatment with HSP90 inhibitor\n* Prior treatment with fulvestrant\n* Concurrent treatment with commercial agents or other agents with the intent to treat the participant's malignancy\n* Untreated or progressive brain metastases\n* Pending visceral crisis, in the opinion of the treating investigator\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to fulvestrant or ganetespib\n* Uncontrolled intercurrent illness\n* Other malignancies within 3 years",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

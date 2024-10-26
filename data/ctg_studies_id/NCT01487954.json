@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01487954",
+    "briefTitle": "Alkaline Water in Reducing Skin Toxicity in Women With Breast Cancer Undergoing Radiation Therapy",
+    "officialTitle": "Alkaline Water Consumption to Reduce Skin Radiation Toxicity in Women With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Radiation Toxicity, Recurrent Breast Cancer, Stage I Breast Cancer, Stage II Breast Cancer, Stage IIIA Breast Cancer, Stage IIIB Breast Cancer, Stage IIIC Breast Cancer, Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "Acute and Grade 2 or Higher Radiation-related Skin Toxicity as Assessed by Common Terminology Criteria for Adverse Events (CTCAE) Version 3.0",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed stage 0-IV breast cancer and have a treatment plan consisting of 62Gy (31 fractions) of total breast radiation therapy to be eligible; patients are eligible if they have received any number of prior chemotherapies; patients having received chemotherapy prior to radiation will be stratified among randomization groups during the second phase of this study\n* Life expectancy of greater than 3 months\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 2 (Karnofsky \\>= 60%)\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Patients receiving any investigational chemotherapeutic agents during planned radiation or any prior breast or chest wall radiation treatments are excluded\n* Patients receiving concurrent chemotherapy are excluded because of an increased relative risk of skin toxicity; patients taking daily proton-pump inhibitor or H2-blocker antacid medications are excluded because of predicted interference of alkaline water consumption and stomach pH; herceptin for the purposes of this clinical trial would be considered a chemotherapy, and as such, patients receiving herceptin chemotherapy during radiation would not be eligible for participation in this protocol\n* Patients with a history of any prior malignancy except non-melanoma skin cancer or carcinoma in-situ of the cervix not in remission for twelve months are excluded; patients with known brain metastases are excluded from this clinical trial because of their overall poor prognosis\n* Pregnancy excludes female patients from this study because radiation is potentially teratogenic and abortifacient; screening beta-hcg levels and clinically-indicated diagnostic tests will be used to determine eligibility",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

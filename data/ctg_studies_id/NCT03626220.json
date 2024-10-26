@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03626220",
+    "briefTitle": "Evaluation of the Efficacy of Acupuncture in Chemotherapy Induced Peripheral Neuropathy",
+    "officialTitle": "Evaluation the Efficacy of Acupuncture in Chemotherapy Induced Peripheral Neuropathy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Randomized Controlled Trial, Breast Cancer, Chemotherapy-induced Peripheral Neuropathy",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "FACT/GOG-NTX-13 (Version 4)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* more than 20 yeas old Female\n* TypeI-IV breast cancer patients\n* complete chemotherapy\n* chemotherapeutic agents include taxanes\u3001platinum compounds ect\n* ECOG\\<3\n* NCI common terminology criteria for adverse events,v4.0: more than grade1 \u3002\n\nExclusion Criteria:\n\n* average life expectancy\\<3months\n* diabetic neuropathy\n* inflammatory neuropathy\n* metabolic neuropathy\n* severe blood coagulopathy or bleeding tendency\n* unstable heart disease\n* neuro-muscular disease",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03983096",
+    "briefTitle": "Pegylated Liposomal Doxorubicin or Epirubicin in Neoadjuvant or Adjuvant Chemotherapy for Breast Cancer.",
+    "officialTitle": "Pegylated Liposomal Doxorubicin or Epirubicin in Neoadjuvant or Adjuvant Chemotherapy for Breast Cancer: an Real-world, Multicenter, Case Control Study.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1213,
+    "primaryOutcomeMeasure": "Pathological complete remission (pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female;\n2. Patients with invasive breast cancer diagnosed by menstrual histology in 2014-2018 and receiving neoadjuvant chemotherapy, or patients with invasive breast cancer diagnosed by menstrual histology in 2014-2016 and receiving adjuvant chemotherapy;\n3. Chemotherapy regimen recommended by the guidelines for drugs containing anthracycline;\n4. Patients whose chemotherapy regimen contains pegylated liposomal doxorubicin or epuroxorubicin;\n5. Age :18 -70;\n6. Patients with LVEF \u2265 50%.\n\nExclusion Criteria:\n\n1. Patients with occult breast cancer.\n2. Patients receiving two or more anthracyclines during neoadjuvant or adjuvant chemotherapy;\n3. Patients who have previously received other chemotherapy regimens;\n4. Patients with other malignant tumors in the past 5 years (except for cured cervical carcinoma in situ and basal cell carcinoma of the skin);\n5. Patients complicated with severe infection and in need of treatment;\n6. Pregnant or lactating women.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

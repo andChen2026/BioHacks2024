@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00321633",
+    "briefTitle": "Carboplatin or Docetaxel in Treating Women With Metastatic Genetic Breast Cancer",
+    "officialTitle": "A Randomized Phase II Pilot Trial of Carboplatin Compared to Docetaxel for Patients With Metastatic Genetic Breast Cancer [BRCA Trial]",
+    "overallStatus": "COMPLETED",
+    "conditions": "brca1 Mutation Carrier, brca2 Mutation Carrier, Breast Cancer, Hereditary Breast/Ovarian Cancer (brca1, brca2)",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 148,
+    "primaryOutcomeMeasure": "Response and toxicity",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer\n\n  * BRCA1 or BRCA2 mutation carrier\n  * Metastatic disease\n* Measurable disease, defined as \u2265 1 unidimensionally measurable lesion \u2265 20 mm by conventional techniques or \u2265 10 mm by spiral CT scan\n* Stable, treated brain metastases allowed provided other sites of measurable disease are present\n* Patients with bone metastases who are currently receiving bisphosphonates for palliation are eligible provided other sites of measurable disease are present\n* Patients who have not received anthracycline-based chemotherapy in the adjuvant setting may receive a non-taxane, anthracycline regimen as the first-line metastatic treatment and enter the trial at confirmed progression (second-line)\n* No bone-limited disease\n* No disease suitable for endocrine therapy alone\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* Sex: female\n* WHO performance status 0-2\n* Life expectancy \u2265 3 months\n* AST and/or ALT \u2264 5 times upper limit of normal (ULN) (\u2264 3 if alkaline phosphatase \\> 5 times ULN)\n* Glomerular filtration rate \u2265 30 mL/min\n* Normal urea and creatinine\n* Normal hematological and biochemical studies\n* Normal bilirubin\n* Not pregnant or nursing\n* Fertile patients must use effective contraception during and for 6 months after completion of study treatment\n* Negative pregnancy test\n* No known allergy to platinum compounds or mannitol\n* No known sensitivity to taxanes\n* No other malignancy within the past 10 years except adequately treated in situ carcinoma of the cervix or basal cell or squamous cell carcinoma of the skin\n* No sensory or motor neuropathy \\> grade 1\n* No other serious uncontrolled medical conditions or concurrent medical illness that would preclude study compliance\n* No contraindication to chemotherapy\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* At least 12 months since prior taxane therapy\n* No prior chemotherapy with a platinum drug, unless treatment was for a non-breast cancer-related disease more than 10 years ago",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

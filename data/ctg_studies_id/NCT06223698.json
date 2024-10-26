@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06223698",
+    "briefTitle": "Optimizing Extended Adjuvant Endocrine Therapy in Patients With Breast Cancer",
+    "officialTitle": "Optimizing Extended Adjuvant Endocrine Therapy in Patients With Breast Cancer: a Registry-based Randomized Clinical Trial - SWE-Switch Breast Cancer Trial",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 3832,
+    "primaryOutcomeMeasure": "Overall survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nCohort 1 (premenopausal women at diagnosis converted to postmenopausal)\n\n1. Women who were pre- or perimenopausal at diagnosis\n2. Luminal breast cancer (defined as estrogen-receptor positive \\>/=10%, HER2-negative disease).\n3. Treated with tamoxifen for at least 80% of a 5-year period (+/- 6 months from treatment completion).\n4. No clinical signs of metastasis after 5 years tamoxifen treatment.\n5. cN+ breast cancer at diagnosis indicating the need for extended adjuvant endocrine therapy.\n6. Postmenopausal status at study entry defined according to the National Comprehensive Cancer Network Guidelines.\n\nCohort 2 (postmenopausal women at breast cancer diagnosis)\n\n1. Women who were postmenopausal at diagnosis.\n2. Luminal breast cancer (defined as estrogen-receptor positive \\>/=10%, HER2-negative disease).\n3. Treated with AI for at least 80% of a 5-year period (+/- 6 months from treatment completion).\n4. No clinical signs of metastasis after 5 years AI treatment.\n5. cN+ breast cancer at diagnosis indicating the need for extended adjuvant endocrine therapy.\n\nExclusion Criteria:\n\nCohort 1\n\n1. Prior invasive breast cancer diagnosis.\n2. Other invasive malignancy within 5 years before or after breast cancer diagnosis\n3. Non-luminal breast cancer (defined as estrogen-receptor \\< 10%).\n4. Patients who were unable to complete at least 80% of 5-year initial treatment with tamoxifen.\n5. Uncertain menopausal status (unable to evaluate menopausal status according to aforementioned definitions).\n6. Recurrent or metastatic breast cancer within or after 5-year initial treatment with tamoxifen (DCIS-only is allowed at any time before or after breast cancer diagnosis).\n\n8) Unable to give informed consent in Swedish. Cohort 2\n\n1. Prior invasive breast cancer diagnosis.\n2. Other invasive malignancy within 5 years before or after breast cancer diagnosis; non-Luminal breast cancer (defined as estrogen-receptor \\< 10%).\n3. Patients who were unable to complete at least 80% of 5-year initial treatment with AI.\n4. Recurrent or metastatic breast cancer within or after 5-year initial treatment with AI (DCIS-only is allowed at any time before or after breast cancer diagnosis).\n\n6) No contraindication for tamoxifen therapy. 7) Unable to give informed consent in Swedish.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

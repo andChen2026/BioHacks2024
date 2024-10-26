@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01698918",
+    "briefTitle": "Open-label, Phase II, Study of Everolimus Plus Letrozole in Postmenopausal Women With ER+, HER2- Metastatic or Locally Advanced Breast Cancer",
+    "officialTitle": "An Open-label, Phase II, Single-arm Study of Everolimus in Combination With Letrozole in the Treatment of Postmenopausal Women With Estrogen Receptor Positive HER2 Negative Metastatic or Locally Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Hormone Receptor Positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 202,
+    "primaryOutcomeMeasure": "First-line Treatment: Progression-free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with metastatic or locally advanced, unresectable breast cancer not amenable to curative treatment by surgery or radiotherapy\n* Histological or cytological confirmation of ER+/ HER2- breast cancer\n* Postmenopausal women\n* No prior treatment for metastatic breast cancer\n\nExclusion Criteria:\n\n* Patients with only non-measurable lesions other than bone metastases (e.g., pleural effusion, ascites, etc)\n* Patients who had received prior hormonal or any other systemic therapy for metastatic breast cancer. Patients might have received prior neoadjuvant or adjuvant endocrine therapy. In the case of neoadjuvant or adjuvant NSAI (letrozole/anastrozole) therapy patients must have completed therapy at least 1 year prior to study enrollment.\n* Previous treatment with mTOR inhibitors.\n* Known hypersensitivity to mTOR inhibitors, e.g., sirolimus (rapamycin).\n\nOther protocol-defined inclusion/exclusion criteria might apply",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

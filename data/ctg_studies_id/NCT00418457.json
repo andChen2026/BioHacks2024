@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00418457",
+    "briefTitle": "Regional Anesthesia and Breast Cancer Recurrence",
+    "officialTitle": "Regional Anesthesia and Breast Cancer Recurrence",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 2108,
+    "primaryOutcomeMeasure": "Number of Participants Who Had Breast Cancer Recurrence After Breast Cancer Surgery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Primary breast cancer without known extension beyond the breast and axillary nodes (i.e. believed to be Tumor Stage 1-3, Nodes 0-2)\n* Scheduled for unilateral or bilateral mastectomy with or without implant (isolated \"lumpectomy\" will not qualify)\n* Isolated \"lumpectomy\" with axillary node dissection (anticipated removal of at least five nodes)\n* Written informed consent, including willingness to be randomized to morphine or regional analgesia\n\nExclusion Criteria:\n\n* Previous surgery for breast cancer (except diagnostic biopsies)\n* Inflammatory breast cancer\n* Age \\< 18 or \\> 85 years old\n* Scheduled free flap reconstruction\n* ASA Physical Status \u2265 4\n* Any contraindication to epidural or paravertebral anesthesia and analgesia (including coagulopathy, abnormal anatomy)\n* Any contraindication to midazolam, propofol, sevoflurane, fentanyl, or morphine\n* Other cancer not believed by the attending surgeon to be in long-term remission\n* Systemic disease believed by the attending surgeon to present \u2265 25% two-year mortality",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

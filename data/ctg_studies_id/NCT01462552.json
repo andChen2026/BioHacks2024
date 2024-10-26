@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01462552",
+    "briefTitle": "Physician Liver Function Test (LFT) Monitoring for Tykerb Pts",
+    "officialTitle": "Assessment of Physician Compliance to Recommended Liver Function Test Monitoring for Tykerb Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "The change in proportion of patients that receive liver function tests prior to the initiation of lapatanib",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female aged \\>= 19 years\n* A diagnosis of breast cancer with documented metastatic disease (as defined by stage at diagnosis, evidence of disease progression, and/or line of therapy);\n* Documented order/prescription for lapatanib from January 1, 2007 - December 31, 2009;\n* Received care at a practice utilizing the full electronic medical record capabilities of US Oncology's iKnowMed system\n\nExclusion Criteria:\n\n* Patients participating in clinical trials\n* Patients receiving care for another cancer during the study time period",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

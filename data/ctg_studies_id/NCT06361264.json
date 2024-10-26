@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06361264",
+    "briefTitle": "Clinical Study of Personalized Chemotherapy for Breast Cancer With Low Doses of Cyclophosphamide",
+    "officialTitle": "Clinical Study of Personalized Chemotherapy for Breast Cancer With Low Doses of Cyclophosphamide, Taking Into Account the Reparative Cycle of Tumor Cells",
+    "overallStatus": "RECRUITING",
+    "conditions": "Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "The size of tumor foci",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* stage IV breast cancer or progression of the disease with the presence of foci accessible for biopsy of tumor material;\n* complete awareness of the patient about the prognosis of the disease and the proposed treatment;\n* the volume of tumor material required for vital assessment of the time parameters of the individual reparative cycle of tumor cells must be at least 4 cm3;\n* tumor cells transferred to primary culture must be in a state of proliferative activity.\n\nExclusion Criteria:\n\n* severe decompensated cardiovascular, respiratory, hepatic, renal failure;\n* presence of an acute infectious disease;\n* intolerance to cyclophosphamide;\n* severe neutropenia - the content of neutrophils is less than 1000 per 1 \u03bcl of blood;\n* simultaneous participation in another clinical trial.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

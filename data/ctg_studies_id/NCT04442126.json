@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04442126",
+    "briefTitle": "A Study of NM21-1480 in Adult Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase 1/2 Study of NM21-1480 (Anti-PDL-1/Anti-4-1BB/Anti-HSA Tri-Specific Antibody) in Adult Patients With Advanced Solid Tumors",
+    "overallStatus": "TERMINATED",
+    "conditions": "Advanced Solid Tumor, Non-small Cell Lung Cancer, Colorectal Cancer, Squamous Cell Carcinoma, Ovarian Carcinoma, Peritoneal Carcinoma, Fallopian Tube Cancer, Head and Neck Squamous Cell Carcinoma, Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 52,
+    "primaryOutcomeMeasure": "Number of participants with treatment-related adverse events as assessed by CTCAE v5.0",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPart A\n\n* Patients with any previously treated solid tumor-type other than hepatocellular carcinoma or intrahepatic cholangiocarcinoma that is advanced, or recurrent and progressing since last anti-tumor therapy, and for which no alternative, standard therapy exists.\n* Prior chemotherapy, radiation therapy or immunotherapy must have been completed at least 4 weeks prior to the administration of the first dose of study drug, and patient has recovered\n\nPart B:\n\n* Patients with Non-small Cell Lung Cancer (NSCLC) or other protocol specified solid tumors with locally advanced or metastatic, non-resectable disease, which has progressed despite treatment with first-line standard of-care treatment, or first- and second-line treatment, dependent on expansion cohort.\n* Prior therapy must have been completed 2-4 weeks prior to the administration of the first dose of study drug as specified per protocol according to type of prior therapy\n\nExclusion Criteria:\n\n* Patient previously had known immediate or delayed hypersensitivity reaction or idiosyncrasy to the excipients\n* Part A: Treatment with any PD-1, or Cytotoxic T-Lymphocyte Associated Protein (CTLA)-4 directed antibody, or with any other immunotherapy within 4 weeks prior to initiation of the study drug.\n* Part A: Use of other biological investigational drugs (drugs not marketed for any indication), including use of investigational drugs targeting CD137/4-1BB within at least 5 half-lives (or within 8 weeks, whatever is longer) prior to the administration of the first dose of study drug.\n* Part B: As defined per protocol for each expansion cohort, has not been treated with specified first/second-line standard-of-care therapies biological drugs (marketed or investigational) for treatment of the current cancer, or has not adequately recovered from AEs that occurred with prior therapy.\n* Patient has an active autoimmune disease or a documented history of autoimmune disease.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01081288",
+    "briefTitle": "Extending the National Health Service (NHS) Breast Screening Age Range",
+    "officialTitle": "Nationwide Cluster-randomised Trial of Extending the NHS Breast Screening Age Range in England",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer Mortality",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 4000000,
+    "primaryOutcomeMeasure": "Breast cancer mortality",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, and\n* Aged 47-49 years or 71-73 years, and\n* In a Breast Screening Unit participating in the study. (All Breast Screening Units in England are expected to participate in the study with the exception of a few that use non-standard methods for creating screening batches).\n\nExclusion Criteria:\n\n* Anyone not satisfying the inclusion criteria",
+    "sex": "FEMALE",
+    "minimumAge": "47 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

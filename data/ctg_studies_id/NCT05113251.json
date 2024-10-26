@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05113251",
+    "briefTitle": "Trastuzumab Deruxtecan (T-DXd) Alone or in Sequence With THP, Versus Standard Treatment (ddAC-THP), in HER2-positive Early Breast Cancer",
+    "officialTitle": "A Phase 3 Open-label Trial of Neoadjuvant Trastuzumab Deruxtecan (T-DXd) Monotherapy or T-DXd Followed by THP Compared to ddAC-THP in Participants With High-risk HER2-positive Early-stage Breast Cancer (DESTINY-Breast11)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Neoplasms, Breast Cancer, HER2-positive Early Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 927,
+    "primaryOutcomeMeasure": "rate of pathologic complete response (pCR)",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Patients must be at least 18 years of age.\n* Histologically documented HER2-positive early breast cancer (EBC) participants, including clinical stage at presentation (based on mammogram or breast MRI assessment): T0-4 (inclusive of inflammatory breast cancer), N1-3, M0 or \u2265 T3, N0, M0 as determined by the AJCC staging system, 8th edition\n* ECOG performance status of 0 or 1 at randomization\n* Adequate organ and bone marrow function\n* LVEF \u2265 50% within 28 days before randomization\n* FFPE tissue block (2 cores) or 20 freshly-cut, serial tumor slides for HER2 assessment by central lab. If blocks are incomplete or fewer than 20 slides are available, participants may be eligible following discussion with the AstraZeneca Study Physician\n\nExclusion Criteria:\n\n* prior history of invasive breast cancer\n* stage IV breast cancer (determined by AJCC staging system)\n* any primary malignancy within 3 years (except resected non-melanoma skin cancer, curatively treated in situ disease) Note: This includes a second current breast primary malignancy (ie, bilateral breast cancer)\n* history of DCIS (except those treated with mastectomy \\>5 years prior to current diagnosis)\n* History of, or current, ILD/pneumonitis\n* Prior systemic therapy for the treatment of breast cancer\n* Previous treatment with anthracyclines, cyclophosphamide or taxanes for any malignancy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

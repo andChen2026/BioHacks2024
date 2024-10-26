@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02209129",
+    "briefTitle": "Digital 3D Breast Tomosynthesis Versus 2D in Clinical Evaluation of High Risk Women",
+    "officialTitle": "3D Digital Breast Tumorsynthesis Versus 2D Digital Mammography in the Clinical Evaluation of Women at High Risk for Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Tumor dectection rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women\n* more than 17% risk for breast cancer (IBIS calculation)\n* \\> 40y old\n\nExclusion Criteria:\n\n* \\< 40y old",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00417495",
+    "briefTitle": "Sentinel Lymph Node Technique in Multifocal Breast Cancer",
+    "officialTitle": "Interest of Sentinel Lymph Node Technique in Women With a Multifocal Breast Cancer - IGASSU-0502",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 216,
+    "primaryOutcomeMeasure": "detection rate of sentinel nodes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Multifocal invasive breast cancer\n* At least 2 focuses (clinically and/or by mammography or ultrasound)\n* Proven by pre-surgical histology (on 1 focus at least)\n* Age \\> 18 years old\n* Clinically negative axillary lymph nodes\n* No treatment before surgery\n* Signature of written informed consent\n\nExclusion Criteria:\n\n* Multifocality proven after surgery\n* Non invasive breast cancer\n* Inflammatory breast cancer\n* Axillary lymph node\n* Metastatic disease\n* Previous homolateral breast cancer\n* Dementia or alterated mental status\n* Pregnant or lactating woman",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

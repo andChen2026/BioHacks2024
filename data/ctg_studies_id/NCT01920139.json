@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01920139",
+    "briefTitle": "Ultrasound Guided Core Biopsy vs Fine Needle Aspiration for Evaluation of Axillary Lymphadenopathy",
+    "officialTitle": "Ultrasound Guided Core Biopsy vs Fine Needle Aspiration for Evaluation of Axillary Lymphadenopathy in Patients Suspected of Having Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Focus: Breast Cancer With Axillary Node Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 105,
+    "primaryOutcomeMeasure": "Fraction of metastatic nodes found at axillary surgery that were identified pre-surgically by FNA vs. core biopsy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with breast cancer and abnormal ipsilateral axillary nodes visible on sonography.\n\nExclusion Criteria:\n\n* Inability to understand consent form.\n* Emotionally unprepared to discuss possibility of axillary metastasis\n* Node not amenable to core biopsy",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

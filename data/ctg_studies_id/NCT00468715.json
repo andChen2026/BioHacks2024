@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00468715",
+    "briefTitle": "Bicalutamide in Treating Patients With Metastatic Breast Cancer",
+    "officialTitle": "Bicalutamide for the Treatment of Androgen Receptor Positive (AR(+)), Estrogen Receptor Negative, Progesterone Receptor Negative (ER(-)/PR(-)) Metastatic Breast Cancer Patients: A Phase II Feasibility Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "6-month Response Rate (Complete Response, Partial Response, and Stable Disease)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adenocarcinoma of the breast\n\n  * Stage IV disease\n* Measurable or non-measurable disease\n* Patients with HER2/neu-positive disease must have received prior trastuzumab (Herceptin\u00ae)\n* No active brain metastases or leptomeningeal disease\n\n  * History of brain metastases allowed provided lesions are stable for at least 3 months as documented by head CT scan or MRI of the brain\n* Hormone receptor status:\n\n  * Estrogen receptor- and progesterone receptor-negative\\*\n  * Androgen receptor-positive\\* NOTE: \\*Samples are considered positive if greater than 10% of cell nuclei are immunoreactive\n\nPATIENT CHARACTERISTICS:\n\n* Male or female\n* Menopausal status not specified\n* ECOG performance status 0-1\n* Absolute neutrophil count \u2265 1,500/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Hemoglobin \u2265 9 g/dL\n* AST and ALT \u2264 2.5 times upper limit of normal (ULN)\n* Bilirubin \u2264 1.5 times ULN\n* Alkaline phosphatase \u2264 2.5 times ULN (unless bone metastases are present in the absence of liver metastases)\n* Creatinine \u2264 1.5 mg/dL\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No serious medical or psychiatric illness\n* No serious active infection\n* No other malignancy within the past 5 years except nonmelanoma skin cancer\n* No hypersensitivity reaction to bicalutamide or any of the tablet's components\n\nPRIOR CONCURRENT THERAPY:\n\n* At least 2 weeks since prior cytotoxic chemotherapy and recovered\n* At least 3 weeks since prior investigational drugs\n* At least 4 weeks since prior major surgery and recovered\n* Prior neoadjuvant or adjuvant chemotherapy allowed\n\n  * Any number of chemotherapy regimens are allowed for metastatic disease\n* Prior hormonal therapy allowed\n* No concurrent chemotherapy, other hormonal therapy, immunotherapy, or biological therapy\n* No concurrent trastuzumab (Herceptin\u00ae)\n* No concurrent enrollment in another clinical trial in which investigational procedures are performed or investigational therapies are administered",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00892268",
+    "briefTitle": "Acupuncture or Medication in Reducing Pain in Postmenopausal Women With Breast Cancer and Joint Pain",
+    "officialTitle": "Acupuncture for the Treatment of Aromatase Inhibitor Associated Joint Pain in Post-Menopausal Breast Cancer Patients",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Menopausal Symptoms, Pain",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 68,
+    "primaryOutcomeMeasure": "Improvement in pain, as defined by the WOMAC global score at 6 weeks",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of breast cancer\n* Concurrent therapy with anastrozole for the adjuvant treatment of breast cancer\n* Must have moderate or worse arthralgia, as defined by a baseline WOMAC pain scale score \u2265 48\n\n  * Patients with other underlying pain syndromes (e.g., osteoarthritis) are eligible, but the arthralgia must have worsened since starting anastrozole\n* Hormone receptor-positive disease\n\nPATIENT CHARACTERISTICS:\n\n* Post-menopausal status meeting the following criteria:\n\n  * At least 12 months without spontaneous menstrual bleeding\n  * History of bilateral salpingo-oophorectomy with or without hysterectomy\n  * Age \\> 55 with hysterectomy with or without oophorectomy\n  * Age \\< 55 with hysterectomy without oophorectomy or with unknown status, and serum FSH in post-menopausal range within the past 4 weeks\n* Not needle phobic\n* Patients with a contraindication to NSAIDs (i.e., prior gastrointestinal bleed secondary to NSAIDs or severe renal insufficiency) are eligible, but will be treated with alternative analgesics such as narcotics or acetaminophen\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* Concurrent chronic narcotics or NSAIDs allowed, but doses must be stable for \u2265 the past month\n* Concurrent antidepressant medications allowed, but doses must be stable for \u2265 the past 3 months\n* At least 6 months since prior acupuncture\n* No prior acupuncture for aromatase inhibitor-associated pain syndrome",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

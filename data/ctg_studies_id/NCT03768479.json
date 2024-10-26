@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03768479",
+    "briefTitle": "The Value of 18F-FES-PET/CT in Predicting Fulvestrant Efficacy in Breast Cancer",
+    "officialTitle": "The Value of 18F-FES-PET/CT in Predicting the Efficacy of Fulvestrant as First-line Treatment in Postmenopausal Patients With Hormone Receptor-positive Advanced Breast Cancer - a Multicenter Prospective Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Estrogen Receptor-positive Breast Cancer, Fulvestrant",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 68,
+    "primaryOutcomeMeasure": "the change percentage of 18F-FES SUV",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Be at least 18 years or older (required for legal consent)\n* Have Eastern Cooperative Oncology Group (ECOG) performance status \u22642 (Karnofsky \u226560%, see Appendix A)\n* Pathologically diagnosed metastatic breast cancer\n* Fulvestrant used as the first-line treatment\n* Have primary breast tumor that is at least 2 cm in diameter as measured in any dimension on either mammogram, ultrasound, or breast MRI\n* Have the ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\nGeneral Exclusion Criteria\n\n* Previously treated metastatic breast cancer\n* Concurrent malignancy of any type\n* Impaired elimination (as defined as having problems with urination)\n* Participation in a research study/studies involving radiation exposure within the past 12 months\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, major kidney or liver disease, or psychiatric illness/social situations that would limit compliance with study requirements\n* Pregnancy\n* Currently lactating (either breast feeding or breast pumping)\n\nGeneral PET/CT Safety Exclusion Criteria:\n\n* Electrical implants such as cardiac pacemakers or perfusion pumps\n* Ferromagnetic implants such as aneurysm clips, surgical clips, prostheses, artificial hearts, valves with steel parts, metal fragments, shrapnel, metallic tattoos anywhere on the body, tattoos near the eye, steel implants, ferromagnetic objects such as jewelry or metal clips in clothing\n* Pre-existing medical conditions including a likelihood of developing seizures or claustrophobic reactions, and any greater than normal potential for cardiac arrest\n* Inability to lie comfortably on a bed inside a PET camera for 90 minutes as assessed by physical examination and medical history (e.g. back pain, arthritis)\n* Pregnancy: A negative serum pregnancy test is required on the day of the PET procedure for female subjects of child-bearing age.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

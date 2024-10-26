@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00801411",
+    "briefTitle": "Cyclophosphamide and Docetaxel or Doxorubicin in Treating Women With Newly Diagnosed Breast Cancer That Can Be Removed by Surgery",
+    "officialTitle": "A Randomised Phase 2 Study of Neoadjuvant Docetaxel and Cyclophosphamide Compared to Doxorubicin and Cyclophosphamide in Operable Node Negative Breast Cancer With Normal Topoisomerase II\u03b1 Expression",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 318,
+    "primaryOutcomeMeasure": "Pathological complete response rate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive breast cancer\n\n  * Newly diagnosed disease\n  * Operable disease\n* Must have clinical T2 (\\> 2cm) or T3 (\\> 5 cm) primary tumors with no clinical lymph node involvement (N0)\n\n  * No clinical T4 lesion (e.g., peau d'orange, skin ulceration, satellite nodules, or inflammatory breast cancer)\n* No evidence of metastatic disease\n* Known hormone receptor status\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* ECOG performance status (PS) 0-2 (Karnofsky PS 60-100%)\n* Life expectancy \\> 10 years\n* Leukocytes \u2265 3,000/mm\u00b3\n* ANC \u2265 1,500/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Total bilirubin normal\n* AST and ALT \u2264 2.5 times upper limit of normal\n* Creatinine normal or creatinine clearance \u2265 40 mL/min\n* Normal cardiac ejection fraction, defined as \u2265 50% by MUGA scan or 2D-ECHO\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No history of allergic reactions attributed to compounds of similar chemical or biologic composition to docetaxel or other agents used in this study\n* No history of pre-existing peripheral neuropathy\n* No uncontrolled intercurrent illness including, but not limited to, any of the following:\n\n  * Ongoing or active infection\n  * Symptomatic congestive heart failure\n  * Unstable angina pectoris\n  * Cardiac arrhythmia\n  * Psychiatric illness/social situations that would limit compliance with study requirements\n* No prior malignancies except curatively treated basal cell carcinoma of the skin or carcinoma in situ of the cervix\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior chemotherapy or radiotherapy\n* No other concurrent investigational or commercial agents or therapies with the intent to treat the patient's malignancy\n* No other concurrent chemotherapy, immunotherapy, hormonal cancer therapy, surgery for cancer, or experimental medications\n* No concurrent combination antiretroviral therapy for HIV-positive patients\n* No other concurrent antitumor therapy",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

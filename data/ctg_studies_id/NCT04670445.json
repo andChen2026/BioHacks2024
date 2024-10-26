@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04670445",
+    "briefTitle": "Improving Patient and Caregiver Understanding of Risks and Benefits of Immunotherapy for Advanced Cancer",
+    "officialTitle": "Improving Patient and Caregiver Understanding of Risks and Benefits of Immunotherapy for Advanced Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Stage IV Melanoma, Advanced Lung Cancer, Stage IV Non-Small Cell Lung Cancer, Unresectable Non-Small Cell Lung Carcinoma, Unresectable Stage III Non-Small Cell Lung Cancer, Small Cell Lung Cancer Extensive Stage, Stage IV Merkel Cell Carcinoma, Stage IV Cutaneous Squamous Cell Carcinoma, Stage IV Basal Cell Carcinoma, Stage IV Breast Cancer, Stage IV Colorectal Cancer, Stage IV Gastric Cancer, Stage IV Esophageal Cancer, Stage IV Hepatocellular Cancer, Stage IV Renal Cell Carcinoma, Stage IV Bladder Cancer, Stage IV Head and Neck Squamous Cell Carcinoma, Stage IV Cervical Cancer, Stage IV Endometrial Cancer, Stage IV Mesothelioma, Immunotherapy, Immune Checkpoint Inhibitors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 210,
+    "primaryOutcomeMeasure": "Feasibility - enrollment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All participants (Patients and Caregivers)-Table 1\n\n  * Age 18 or older\n  * Ability to read and respond in English\n* Patient Inclusion Criteria (in addition to Table 1)\n\n  * Receiving care in the MGH Cancer Center\n  * Diagnosis of advanced (stage IV) melanoma or advanced, incurable lung cancer, including stage IV non-small cell lung cancer (NSCLC), unresectable stage III NSCLC, extensive-stage small cell lung cancer.\n  * Plan to initiate immunotherapy with an ICI (pembrolizumab, nivolumab, ipilimumab, atezolizumab or combination), per clinician documentation in the electronic health record or study staff communication with clinician\n* Caregiver Inclusion Criteria (in addition to Table 1)\n\n  * Identified as \"a supportive person involved in their cancer care\" by a patient enrolled in the study\n\nExclusion criteria\n\n* Major psychiatric condition or comorbid illness that prohibits participation in the study\n* Cognitive impairment that prohibits provision of informed consent or participation in the study\n* Pregnant women\n* Prisoners",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

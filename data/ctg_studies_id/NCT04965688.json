@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04965688",
+    "briefTitle": "Systems Biology Guided Therapy for Breast Cancer Positive for Oestrogen Receptor After Aromatase Inhibitor and CDK Inhibition",
+    "officialTitle": "Systems Biology Guided Therapy for Breast Cancer Positive for Oestrogen Receptor After Aromatase Inhibitor and CDK Inhibition",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Estrogen Receptor-positive Breast Cancer, HER2-negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2,
+    "primaryOutcomeMeasure": "Progression Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologic diagnosis of breast cancer\n* Metastatic or incurable\n* Prior treatment with an anastrozole or letrozole and a CDK4/6 inhibitor\n* Progression while on or within 6 months of stopping the CDK4/6 inhibitor\n* At least one lesion amenable to percutaneous biopsy that is not a purely sclerotic bone lesion\n* ECOG 0-2\n* Age 18 or greater\n* Able to provide informed consent and willing to sign an approved consent form that conforms to federal and institutional guidelines.\n\nExclusion Criteria:\n\n* Prior treatment within 2 years with fulvestrant, alpelisib, everolimus, or capecitabine\n* Comorbid disease other than breast cancer with a life expectancy of less than 2 years\n* Cancer other than breast cancer that is expected to need treatment within 2 years\n* Platelets \\< 100,000/microliter\n* INR \\> 1.5",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

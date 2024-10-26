@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00656604",
+    "briefTitle": "Evaluation of Patients With Breast Cancer Using DCE-MRI, MRS, and Proteomics",
+    "officialTitle": "Evaluation of Patients With Breast Cancer Using Dynamic Contrast-Enhanced Magnetic Resonance Imaging, Magnetic Resonance Spectroscopy, and Proteomics",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Correlation of data obtained by DCE-MRI and magnetic resonance spectroscopy (MRS) with data obtained by conventional X-ray mammography, tissue proteomics, and histopathology in women with breast cancer",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Meets 1 of the following criteria:\n\n  * Women with breast tumors planning to undergo surgical resection\n  * Healthy volunteers, including any constitutionally healthy female with no history of breast cancer\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Menopausal status not specified\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* Not acutely ill\n* No non-magnetic resonance-compatible ferromagnetic materials present in the body\n\nPRIOR CONCURRENT THERAPY:\n\n* Prior chemotherapy and/or radiotherapy allowed",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

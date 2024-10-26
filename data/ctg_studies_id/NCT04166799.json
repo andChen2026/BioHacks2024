@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04166799",
+    "briefTitle": "Randomized Phase III Trial With Mepitel Film for the Prophylaxis of Radiation Dermatitis in Breast Cancer Patients",
+    "officialTitle": "A Randomized Phase III Trial With Mepitel Film for the Prophylaxis of Radiation Dermatitis in Adjuvant Breast Radiation Treatment",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Radiation Dermatitis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 216,
+    "primaryOutcomeMeasure": "Number of participants with treatment-related radiation-induced skin toxicity as assessed by the CTCAE v.5.0.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 years.\n* Male or female.\n* Histological confirmation of breast malignancy (invasive or in situ carcinoma) or phyllodes.\n* Patients have undergone a mastectomy with or without reconstruction.\n* Patients with large breasts \\[bra size 36 in and/or C cup or greater\\] and have undergone breast-conserving surgery.\n* Patients are scheduled to receive conventionally- (50Gy/25#) or hypo-fractionated (42.56Gy/16#) photon-based radiation.\n* Patients treated with or without the addition of tissue equivalent bolus or boost.\n\nExclusion Criteria:\n\n* Patients planning brachytherapy within the treatment field, and patients scheduled to receive bilateral radiation.\n* Prior radiotherapy to any portion of the planned treatment site.\n* Active rash or pre-existing dermatitis within the treatment field.\n* Known prior history of adhesive, tape or silicon allergy or sensitivity.\n* Concomitant cytotoxic chemotherapy.\n* Current inflammatory breast cancer or gross dermal involvement at initiation of radiotherapy.\n* Karnofsky Performance Status \\< 60.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

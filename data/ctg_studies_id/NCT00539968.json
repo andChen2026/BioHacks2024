@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00539968",
+    "briefTitle": "A Study to Evaluate the Safety, Tolerability, and Activity of Lonafarnib and Docetaxel (Study P04467AM1)(TERMINATED)",
+    "officialTitle": "An Open-Label, Two-Part Study to Determine the Safety, Tolerability, and Activity of Lonafarnib and Docetaxel",
+    "overallStatus": "TERMINATED",
+    "conditions": "Prostate Cancer, Breast Cancer, Ovarian Cancer, Lung Cancer, Gastric Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 5,
+    "primaryOutcomeMeasure": "Incidence of adverse events and dose-limiting toxicities",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* For Part 1: Subjects may be male or female and must be at least 18 years of age.\n* For Part 1: Cancer for which docetaxel treatment is appropriate.\n* For Part 1: Docetaxel-na\u00efve\n* For Part 2: Subjects must be male and at least 18 years of age.\n* For Part 2: Subjects must have adenocarcinoma of the prostate confirmed by histologic/cytologic biopsy.\n* For Part 2: Subjects must have progressive, metastatic, AIPC and a PSA of 10 ng/ml or more after hormonal therapy prior to docetaxel treatment. Progressive disease is defined as a consistently increasing serum PSA level within 28 days prior to docetaxel administration.\n* Adequate organ function within 3 weeks prior to first study drug administration.\n* Performance status (ECOG) is less than or equal to 2.\n* Subject understands and agrees to procedures and participation by signing informed consent form.\n* Agrees to use medically accepted form of contraception.\n\nExclusion Criteria:\n\n* Receipt of or need to continue to receive prohibited medications (listed in the protocol) more recently than the washout period (indicated in the protocol).\n* Surgery within 3 weeks prior to first study drug administration.\n* History within 5 years prior to first study drug administration of another malignancy except adequately treated Stage I/II basal/squamous cell skin cancer.\n* Radiation therapy to more than 25% of his/her total bone marrow during life.\n* Radiation therapy within 3 weeks prior to first study drug administration.\n* Known hypersensitivity to prednisone, docetaxel, polysorbate 80, lonafarnib, or any excipients associated with these medications.\n* Known contraindication to steroid use.\n* Known leptomeningeal or CNS metastasis.\n* Heart, vascular, or seizure disorder (detailed list in the protocol) within 6 months prior to first study drug administration.\n* Baseline QTc interval greater than 450 msec.\n* Grade 2 or more peripheral neuropathy or drug-related toxicity per CTCAE. Exceptions are noted in the protocol.\n* Any clinically significant condition or situation that the investigator thinks would interfere with the study evaluations or subject's participation.\n* Subject is part of staff personnel involved in the study.\n* Subject has known clinically significant immunosuppression.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

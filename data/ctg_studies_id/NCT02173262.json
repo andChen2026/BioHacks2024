@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02173262",
+    "briefTitle": "REaCT Integrated Consent Model to Compare Two Standard of Care Regimens",
+    "officialTitle": "Feasibility of Using an Integrated Consent Model to Compare Two Standard of Care Regimens for Primary Prophylaxis of Taxotere/Cyclophosphamide-Induces Febrile Neutropenia",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 142,
+    "primaryOutcomeMeasure": "The percentage of randomized patients in each physician's practice",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed primary breast cancer\n* Planned TC chemotherapy\n* \u226519 years of age\n* Able to provide verbal consent\n* Willing to complete a survey\n\nExclusion Criteria:\n\n\u2022 Contraindication to either Ciprofloxacin or G-CSF",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

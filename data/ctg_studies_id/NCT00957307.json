@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00957307",
+    "briefTitle": "Breast Computed Tomography (CT) as a Diagnostic Tool",
+    "officialTitle": "Breast CT as a Diagnostic Tool",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 16,
+    "primaryOutcomeMeasure": "Reduction in negative biopsies",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All subjects will be women at least 35 years of age that have been found, after diagnostic workup, to have focal distributions of microcalcifications (BI-RADS 4 or 5) or focal soft tissue lesions (BI-RADS 4 or 5)\n\nExclusion Criteria:\n\n* Subject does not meet any of the inclusion criteria\n* Women with suspected or confirmed pregnancy\n* Women who have had bilateral mastectomy\n* Women who are very frail and unable to cooperate\n* Women who are under 35 years of age\n* Women who cannot give informed consent\n* Male subjects\n* Women with implants\n* Subject has had breast augmentation, except for unilateral augmentation done for prior mastectomy\n* Women recalled for bilateral workup\n* Women with physical limitations such as, but not limited to: frozen shoulder, recent heart surgery, pace maker, neck problems, or any other condition that would prohibit them from lying face down",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

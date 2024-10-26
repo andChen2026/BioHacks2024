@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04673019",
+    "briefTitle": "Nurse AMIE for Echo Show: Randomized Control Trial",
+    "officialTitle": "Nurse AMIE for Echo Show: Randomized Control Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 42,
+    "primaryOutcomeMeasure": "Feasibility - the proportion of patients who interact with the tablet for at least one month",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patient with metastatic breast cancer receiving care at PSCI\n2. Age: \u226518years of age\n3. Personal in-home Wi-Fi access\n4. Personal device capable of receiving telephone calls for weekly study facilitator check-ins\n5. Fluent in written and spoken English\n6. Sufficient vision/hearing to use the Alexa Echo Show.\n\nExclusion Criteria:\n\n1. ECOG Performance Status score of \\>2\n2. Patients with significant medical or psychiatric conditions (beyond breast cancer, its treatment, and its symptoms) that in the opinion of the research team exclude the subject from participation.\n3. Receiving any behavioral intervention.\n4. Pregnant\n5. Cognitive impairment\n6. Life expectancy of less than 6 months as determined by the treating physician",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

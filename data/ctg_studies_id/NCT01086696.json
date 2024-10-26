@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01086696",
+    "briefTitle": "A Pilot Study of F-18 Paclitaxel (FPAC) PET for Evaluating Drug Delivery of Solid Tumors in Breast, Lung, Renal, and Adrenal Cancers",
+    "officialTitle": "A Pilot Study of F-18 Paclitaxel (FPAC) PET for Evaluating Drug Delivery of Solid Tumors in Breast, Lung, Renal, and Adrenal Cancers",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Lung Cancer, Renal Cancer, Adrenal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Uptake of FPAC in tumors",
+    "eligibilityCriteria": "* INCLUSION CRITERIA:\n* Subjects must have a history of histologically or cytologically confirmed breast, lung, adrenal or renal cancer with a tumor above the diaphragm greater than or equal to 1 cm\n* Subjects must be 18 years or older for inclusion in this study.\n* Subjects must sign a written informed consent document and in accordance with institutional guidelines.\n* If female, the subject must be postmenopausal for a minimum of two years, be surgically sterile, or have a negative pregnancy test within the 24 hours prior to tracer injection\n* There are no study related limitations regarding previous radiation or chemotherapy.\n* Subjects must have an ECOG performance status less than or equal to 2 (Karnofsky greater than or equal to 60%)\n* Subjects must have normal organ and marrow function as defined below:\n* leukocytes greater than or equal to 3,000/mcL\n* absolute neutrophil count greater than or equal to 1,500/mcL\n* platelets greater than or equal to 100,000/mcL\n* total bilirubin within less than or equal to 2.5 times institutional limits OR \\< 3.0 mg/dl in patients with Gilbert s syndrome\n* AST(SGOT)/ALT(SGPT) less than or equal to 2.5 times the institutional upper limit of normal (\\<5 times the ULN for patients with known hepatic metastases)\n* When applicable, a documented history of prior chemotherapy and radiation therapy and responses to those treatments must be available.\n\nEXCLUSION CRITERIA:\n\n* Subjects may not receive any other investigational agents 24 hours prior to or following FPAC injection\n* Subjects must NOT receive radiation therapy to the target lesion less than or equal to 8 weeks prior to FPAC injection\n* Subjects must NOT have had surgery near the target lesion less than or equal to 4 weeks prior to FPAC injection\n* Subjects with a history of allergic reactions attributed to compounds of similar chemical or biologic composition to F-18 fluoropaclitaxel (i.e. Taxol)\n* Subjects with severe claustrophobia (not relieved by oral anxiolytics) or other condition that would make them unable to lie still for the duration of the study\n* Subjects with uncontrolled intercurrent illness or psychiatric illness/social situations that would limit compliance with study requirements\n* Subjects who are pregnant or lactating or who suspect they might be pregnant. Because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with FPAC, breastfeeding should be discontinued if the mother receives FPAC.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

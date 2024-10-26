@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06401421",
+    "briefTitle": "EXActDNA-003 / NSABP B-64: Study of Molecular Residual Disease Detection in Breast Cancer (MRD)",
+    "officialTitle": "EXActDNA-003 / NSABP B-64: Breast Cancer Clinical Validation Study to Predict Recurrence of High-Risk Early Breast Cancer Treated With Neoadjuvant Therapy Using a Bespoke Circulating Tumor DNA Assay to Detect Molecular Residual Disease",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1800,
+    "primaryOutcomeMeasure": "Core biopsy tissue evaluability rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. The participant or a legally authorized representative must provide study-specific informed consent prior to study entry.\n2. The participant must be \u2265 18 years of age.\n3. ECOG performance status 0 or 1.\n4. Histologically confirmed invasive carcinoma of the breast.\n5. Planned neoadjuvant therapy which includes cytotoxic chemotherapy.\n6. Tumor size \u2265 2.1 cm in greatest diameter.\n7. Unifocal or multifocal cancer documented to be the same histologic clinical subtype.\n8. Clinically node positive or if node negative, any one of the following:\n\n   1. TNBC or HER2+ subtype\n   2. HR+/HER2-negative with at least one of the following:\n\n   i. High tumor grade (G3) ii. Ki67 index of 20% or higher iii. High genomic risk (Oncotype DX\u00ae (ODX) Breast Recurrence Score of \\> 25, MammaPrint\u00ae High, etc.)\n9. Willing and able to comply with the study requirements, which includes the collection of a total of 34 cc (2.5 Tablespoons) of blood for each research blood draw.\n10. Available residual tissue from diagnostic biopsy from the breast or an involved ipsilateral lymph node for submission to create a bespoke ctDNA assay.\n\nExclusion Criteria:\n\n1. Definitive clinical or radiologic evidence of metastatic disease.\n2. Initiated neoadjuvant therapy for current breast cancer diagnosis.\n3. Synchronous diagnosis of another invasive cancer, other than this breast cancer, except for non-melanoma skin cancers.\n4. Completed all therapy (including endocrine therapy) \\<5 years ago for any previous invasive solid organ malignancy (with exception of non-melanoma skin cancers) including prior breast cancer. Individuals with a prior history of noninvasive (in situ) carcinomas may participate if they have received definitive treatment.\n5. Completed all therapy for any previous hematologic malignancy \\< 5 years ago.\n6. Multicentric or contralateral invasive breast cancers.\n7. Known pregnancy at time of enrollment.\n8. Prior solid organ transplant.\n9. Prior allogeneic hematopoietic stem cell transplant.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

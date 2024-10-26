@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02695121",
+    "briefTitle": "Cancer in Patients on Dapagliflozin and Other Antidiabetic Treatment",
+    "officialTitle": "Comparison of the Risk of Cancer Between Patients With Type 2 Diabetes Exposed to Dapagliflozin and Those Exposed to Other Antidiabetic Treatments",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Bladder Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1125000,
+    "primaryOutcomeMeasure": "Incidence of breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. patient was newly prescribed dapagliflozin or newly prescribed an AD (with or without other ADs) in a class other than SGLT2 inhibitors, insulin monotherapy, metformin monotherapy, or sulfonylurea monotherapy on the prescription index date\n2. patient is aged 40 years or older at cohort entry; and\n3. patient was enrolled in the data source for at least 180 days before the prescription index date.\n\nExclusion Criteria:\n\n1. any evidence of diagnosis of type 1 diabetes before cohort entry or use of insulin alone as the first recorded AD;\n2. any diagnosis of cancer before cohort entry (other than nonmelanoma skin cancer);\n3. any recording of hematuria before cohort entry;\n4. any cystoscopy or urine cytology performed before cohort entry;\n5. any breast biopsy performed before cohort entry.",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

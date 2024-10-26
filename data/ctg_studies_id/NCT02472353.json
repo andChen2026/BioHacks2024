@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02472353",
+    "briefTitle": "Use of Metformin to Reduce Cardiac Toxicity in Breast Cancer",
+    "officialTitle": "A Phase II Pilot Study Using Metformin to Reduce Cardiac Toxicity in Breast Cancer Patients",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Breast Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Number of Participants With Less Than or Equal to 5% Decrease in Left Ventricle Ejection Fraction (LVEF) on Echocardiogram",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer requiring neoadjuvant or adjuvant therapy with doxorubicin\n* Complete metabolic panel demonstrating adequate organ functions as defined by the following: Aspartate transaminase (AST) less than 2.5 times Upper Limit of Normal (ULN); Alanine transaminase (ALT) less than 2.5 times ULN; alkaline phosphatase less than 2.5 times ULN; serum creatinine less than 1.5 mg/dL; serum bilirubin less than ULN\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Age greater than or equal to 21 years\n\nExclusion Criteria:\n\n* Known diabetes\n* History of cardiac arrhythmias or symptomatic cardiac disease\n* Currently taking antiarrhythmic medications, beta-blockers, or other rate controlling cardiac medications\n* Currently taking metformin and/or sulfonylureas\n* Known hypersensitivity or intolerance to metformin\n* Baseline ejection fraction of less than 50% measured by echocardiogram\n* Known hypersensitivity to contrast used during echocardiogram\n* Risk factors associated with increased risk of metformin-associated lactic acidosis (e.g. congestive heard failure, history of acidosis, habitual intake of 3 or more alcoholic beverages per day)\n* Pregnant or breast feeding",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

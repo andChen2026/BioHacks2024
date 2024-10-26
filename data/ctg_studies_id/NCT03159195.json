@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03159195",
+    "briefTitle": "Ibrance Real World Insights",
+    "officialTitle": "TREATMENT PATTERNS AND CLINICAL OUTCOMES AMONG PATIENTS RECEIVING PALBOCICLIB COMBINATIONS FOR HR+/HER2- ADVANCED/METASTATIC BREAST CANCER IN REAL WORLD SETTINGS",
+    "overallStatus": "COMPLETED",
+    "conditions": "Malignant Neoplasm of Breast",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 652,
+    "primaryOutcomeMeasure": "Percentage of Participants With Progression Free Survival (PFS) at Month 12",
+    "eligibilityCriteria": "Physician inclusion criteria\n\n* Oncologist or gynecologist\n* Responsible for treating a minimum of \u22652-6 (depending on country) ABC/MBC patients who meet the eligibility criteria.\n* Agrees to participate in the study and complete the eCRFs within the data collection period.\n\nPatient inclusion criteria\n\n* Female\n* \u226518 years old.\n* HR+/HER2- breast cancer diagnosis with confirmed metastatic or advanced disease.\n* Received palbociclib plus letrozole/aromatase inhibitor or palbociclib plus fulvestrant in line with the licenced indication(s).\n* No prior or current enrolment in an interventional clinical trial for ABC/MBC.\n* Minimum of three months of follow up data since palbociclib with fulvestrant initiation, or minimum of six months of follow up data since palbociclib with letrozole/aromatase inhibitor initiation (core medical record review).\n* Minimum of three months of follow up data since palbociclib initiation (German interim medical record review only).\n* Inoperable or recurrent breast cancer (Japan only)\n\nExclusion criteria:\n\nPhysician exclusion criteria\n\n* Qualified less than 2 years ago or more than 35 years ago\n* Participated in observational research for ABC/MBC in the last 3 months\n* Have not prescribed either palbociclib plus fulvestrant or palbociclib plus aromatase inhibitor in line with the licenced indication(s).",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01360177",
+    "briefTitle": "Radioactive Iodide (131I) Treatment of 124I PET/CT Detected Breast Cancers",
+    "officialTitle": "Radioactive Iodide (131I) Treatment of 124I PET/CT Detected Breast Cancers",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Target lesion size will be assessed clinically or radiologically in two directions . RECIST (Response Evaluation Criteria In Solid Tumors) will be implemented to determine response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with measurable locally advanced or metastatic breast cancer who completed 124I PET/CT imaging study.\n* Patients who are 18 years of age or older.\n* Patients must have a life expectancy of at least 3 months.\n* I 124 dosimetry completed with thyroid dose to 500 cGy or less and tumor dose of 2500 cGy or more.\n* I131 therapeutic dose calculated from dosimetry. Dose must be in a range of 25 to 150 mCi.\n* Patients with Eastern Cooperative Oncology Group (ECOG) Performance Status 0-3 will be eligible.\n* Use of concurrent systemic therapy (hormonal or cytotoxic) if associated with stable disease for at least three months prior to treatment.\n* Women with locally advanced breast cancer and simultaneous metastases, even if surgery to eradicate local disease has taken place.\n* Thyroid stimulating hormone (TSH) must be \\< 0.4 uIU/mL.\n* White blood cell count \\>= 1,500 and platelet count \\>= 40,000\n* Women receiving thyroid hormone supplements and methimazole.\n* Ability to understand and the willingness to sign a written informed consent document.\n* Premenopausal women must use contraception while receiving this treatment and during follow-up period of 42 days.\n\nExclusion Criteria:\n\n* Stage 0-II breast cancer.\n* Pregnant or nursing women.\n* Not able to sign informed consent.\n* Untreated psychiatric disorder.\n* Women who have not had I124 PET/CT scan and dosimetry calculations.\n* Radioiodide uptake in non-target organs or bone marrow does not exceed 25 cGy by pre-treatment dosimetry.\n* Received chemotherapy less than 4 weeks before.\n* History of thyroid cancer.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

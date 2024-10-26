@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02195076",
+    "briefTitle": "Non Invasive Detection of Lung and Breast Cancer by Odor Signature",
+    "officialTitle": "A Clinical Study Design to Evaluate the Specificity and Sensitivity of Our Novel System for Detection of Breast and Lung Cancer by Odor Signature",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Lung Cancer, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "The sensitivity and specificity of our biosensors in lung and breast cancer detection",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosed Lung Cancer patients\n* Diagnosed Breast Cancer patients\n\nExclusion Criteria:\n\n* Cancer patients who were treated using chemotherapy\n* Cancer patients who were treated using radiation\n* Cancer patients who were treated using biological treatments\n* Cancer patients who were treated with chemotherapy\n* Cancer patients who were treated with any anti- cancer therapies\n* Cancer patients who use drugs that affect the immune system",
+    "sex": "ALL",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

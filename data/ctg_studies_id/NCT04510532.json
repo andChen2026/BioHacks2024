@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04510532",
+    "briefTitle": "Early Detection of CMP in Patients With Breast Cancer Using Cardiac Magnetic Resonance",
+    "officialTitle": "Early Detection of Chemotherapy-related Cardiomyopathy in Patients With Breast Cancer Using Cardiac Magnetic Resonance",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Chemotherapy Induced Systolic Dysfunction",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Composite endpoint of cardiac condition",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age between 18-70 years old.\n* Invasive breast cancer confirmed by Pathology\n* Left ventricular ejection fraction \u2265 50%\n* Having not received any prior systemic anti-cancer therapy for advanced disease\n* an Eastern Cooperative Oncology Group\uff08ECOG\uff09 performance status 0-1\n* Providing written informed consent\n\nInclusion Criteria for Control group:\n\n* Absence of known systemic diseases\n* Normal examinations\n* Age between 18-70 years old.\n* Providing written informed consent\n\nExclusion Criteria:\n\n* Age \\<18 years old or \\>70 years old\n* Documented coronary artery disease or prior angiography for coronary artery disease (\\>50% stenosis).\n* Patients with bilateral invasive breast cancers.\n* Patients with metastasis of breast cancer confirmed by imaging or pathology\n* Patients with standard metallic contraindications to CMR or an estimated glomerular filtration rate \\< 30 ml/min/1.73 m2.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

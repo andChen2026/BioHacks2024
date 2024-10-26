@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05169437",
+    "briefTitle": "Niraparib in the Treatment of Patients with Advanced PALB2 Mutated Tumors",
+    "officialTitle": "A Single-Arm Phase-II Study of Niraparib in Locally Advanced or Metastatic Solid Tumor Patients with PALB2 Mutations",
+    "overallStatus": "TERMINATED",
+    "conditions": "Solid Tumor, Breast Tumor, Colon Tumor, Malignant, Lung Tumor, Urologic Cancer, Pancreatic Cancer, Melanoma, Metastatic Cancer, Locally Advanced Solid Tumor, Esophageal Cancer, Endometrial Cancer, Head and Neck Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 22,
+    "primaryOutcomeMeasure": "Overall Response Rate (ORR) - Independent Central Review (ICR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants must be at least 18 years of age or older.\n* Participants must have a histologically or cytologically confirmed diagnosis of locally advanced or metastatic solid tumor(s).\n* Participants must have tested positive for a pathogenic or likely pathogenic tPALB2 gene mutation using a CLIA-certified laboratory as described in the Next-Generation Sequencing (NGS) Laboratory Manual.\n* Participants who have stable and asymptomatic Central Nervous System (CNS) disease must be receiving a stable (for at least 7 days) or decreasing corticosteroid dose at the time of study entry.\n* Participants must submit fresh or archived (collected within 24 months of enrollment) Formalin-Fixed Paraffin-Embedded (FFPE) tumor sample to the central laboratory for post-enrollment confirmation of tPALB2 status.\n* Participants must have received all standard therapies appropriate for their tumor type and stage of disease or, in the opinion of the Investigator, the patient would be unlikely to tolerate or derive clinically meaningful benefit from appropriate standard of care therapy, or the participant has no satisfactory alternative treatments.\n\nExclusion Criteria:\n\n* Participants have other active concomitant malignancy that warrants systemic, biologic, or hormonal therapy.\n* Participants who have ovarian or prostate cancer.\n* Participants who have variants of undetermined significance (VUS), but not pathogenic variants of PALB2, at the time of screening.\n* Participants who relapsed while receiving platinum based therapy in the adjuvant/curative setting.\n* Participants progressing within 14-18 weeks while receiving platinum based therapy in the metastatic setting.\n* Participants who have received Poly (ADP-ribose) polymerase (PARP) inhibitor(s) in prior lines of treatment.\n* Participants with leptomeningeal disease, carcinomatous meningitis, symptomatic brain metastases, or radiologic signs of CNS hemorrhage.\n* Participants with germline or somatic BRCA1 or BRCA2 mutations.\n* Participant has systolic blood pressure (BP) over 140 mmHg or diastolic BP over 90 mmHg, despite optimal medical therapy.\n* Participants have previously or are currently participating in a treatment study of an investigational agent within 3 weeks of the first dose of therapy preceding the study.\n* Participants have received prior systemic cytotoxic chemotherapy, biological therapy, or hormonal therapy for cancer, or received radiation therapy within 3 weeks of the first dose therapy preceding the study.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

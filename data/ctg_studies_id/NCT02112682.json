@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02112682",
+    "briefTitle": "Omitting Completion Axillary Treatment in Sentinel Node Positive Breast Cancer Patients Undergoing a Mastectomy",
+    "officialTitle": "The Value of Completion Axillary Treatment in Sentinel Node Positive Breast Cancer Patients Undergoing a Mastectomy. A Dutch Randomized Controlled Multicentre Trial.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 52,
+    "primaryOutcomeMeasure": "Regional recurrence rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Aged 18 years or older\n* Pathologically confirmed invasive unilateral breast carcinoma\n* A clinical T1-2 tumour (including multifocal or multicentric breast cancer)\n* Will be or is treated with mastectomy\n* Clinically node negative: no signs of axillary lymph node metastases at physical examination and preoperative axillary ultrasound (or negative cyto-/histopathology)\n* Sentinel lymph node procedure and its pathologic evaluation should be performed according to the Dutch breast cancer guideline\n* pN1mi(sn) or pN1(sn): at least one and a maximum of three axillary sentinel lymph nodes containing micro- and/or macrometastases\n* Written informed consent\n\nExclusion Criteria:\n\n* Clinically node positive pre-operative\n* Sentinel lymph nodes only containing isolated tumour cells (\\<0.2 mm)\n* Solitary parasternal sentinel lymph node metastasis (pN1b)\n* Bilateral breast cancer\n* Irradical resection of primary tumour at time of randomization (applicable in case the mastectomy is performed before randomization)\n* Evidence of metastatic disease\n* History of invasive breast cancer\n* Previous treatment of the axilla with surgery or radiotherapy (except surgery for hidradenitis suppurativa or for other superficially located skin lesions, such as naevi)\n* Pregnant or nursing\n* Other prior malignancies within the past 5 years (except successfully treated basal cell and squamous cell skin cancer, carcinoma in situ of the cervix or carcinoma in situ of the ipsilateral or contralateral breast) or unsuccessfully treated malignancies \\> 5 years before randomization\n* Unable or unwilling to give informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

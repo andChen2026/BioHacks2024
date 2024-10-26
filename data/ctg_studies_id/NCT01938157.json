@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01938157",
+    "briefTitle": "Diffusion Weighted MR Imaging of the Breasts in Women at High Risk of Breast Cancer: A Pilot Study",
+    "officialTitle": "Diffusion Weighted MR Imaging of the Breasts in Women at High Risk of Breast Cancer: A Pilot Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 55,
+    "primaryOutcomeMeasure": "Number of identified lesions",
+    "eligibilityCriteria": "Inclusion Criteria\n\n1. Women at high-risk of breast cancer with an order for a clinical screening breast MRI.\n2. Asymptomatic women.\n3. Able to provide informed consent.\n4. At least 21 years of age.\n\nExclusion Criteria\n\n1. Women with symptom such as palpable mass or nipple discharge.\n2. Women with MRI/MRA contraindications such as a cardiac pacemaker, and aneurysm clip, cochlear implants, and metal in the eyes.\n3. Women who have had a moderate or severe contrast reaction to intravenous gadolinium-DTPA.\n4. Women who are not able to give consent.\n5. Women diagnosed with breast cancer within the last 6 months.\n6. Women who are pregnant.\n7. Male patients.",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

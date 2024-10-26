@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06300125",
+    "briefTitle": "Percutaneous Cryoablation of Low-risk Early Breast Cancer",
+    "officialTitle": "Percutaneous Cryoablation of Low-risk Early Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 234,
+    "primaryOutcomeMeasure": "Procedure failure rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Tumour, Node, Metastasis stage (TNM) = dimension up to 15 mm as measured by breast ultrasound, MRI, Mammography, Node negative, absence of distant metastasis\n* Unifocality\n* All invasive cancer, except lobular\n* Biology= luminal A and luminal B\\* (Estrogen Receptor (ER) positive/human epidermal growth factor receptor-2 (HER2)negative) (Documented estrogen receptor (ER)-positive tumor assessed locally and defined as \u226510% of tumor cells stained positive.\n\nDocumented HER2-negative tumor (in accordance to 2018 American Society of Clinical Oncology guidelines, as determined per local assessment)\n\n* Any grade (G)\n* Radiological detection= breast ultrasound, MRI, Mammography\n* Tumor site= not located superficially (\u22651 cm from the skin plane)\n* Breast size= any, appropriate for the procedure in relation to ultrasound examination\n* Referral to breast cryoablation by a multidisciplinary tumor board\n* Planned treatment with cryoablation using IceCure (TM-trade mark) system\n* Informed consent \\*Luminal B and G3 BC: previous specific patients' selection and Oncotype Dx \\[31\\] on cancer tissue from needle biopsy before procedure and eventual Prediction Analysis of Microarray 50 (PAM50) test.\n\nExclusion Criteria:\n\n* Plurifocality\n* Invasive lobular breast cancer\n* HER2 overexpressed or Triple Negative Breast Cancer (TNBC)\n* tumor dimension \\>15 mm\n* Node positive\n* post NeoAdjuvant ChemoTherapy (NACT) breast cancer\n* \\<50 years\n* Presence of intraductal component (DCIS)\n* Absence of psychological compliance in understanding and adhering to rationale of the study\n* Inability to perform MRI\n* Breast augmentation with implants",
+    "sex": "ALL",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00333047",
+    "briefTitle": "Letrozole in Metastatic Breast Cancer in Combination With Chemotherapy",
+    "officialTitle": "A Study of Letrozole in the Treatment of Metastatic Breast Cancer in Combination With Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Objective response rate (complete remission, partial remission,no change, progressive disease) by clinical palpation and radiologic imaging every 3 months until disease progression",
+    "eligibilityCriteria": "Inclusion criteria\n\n* Histologically proven metastatic breast cancer\n* Measurable disease, patients with bone only disease are not eligible\n* Age \u2265 65 years\n* Performance status \u2264 2 (World Health Organization)\n* Estimated life expectancy under therapy of at least 3 months\n* Estrogen-/progesterone-receptor status positive or unknown\n* Signed informed consent\n\nExclusion criteria\n\n* Prior chemo- or hormone therapy for metastatic breast cancer; prior therapy with aromatase inhibitors in the adjuvant setting\n* Disease-free interval after adjuvant therapy \\< 1 year\n* Clinical signs of central nervous system metastases\n* Renal, bone marrow, or liver insufficiency\n* Severe coronary heart disease, cardiac insufficiency or other severe concomitant internal diseases\n* Pulmonary fibrosis/alveolitis Additional protocol-defined inclusion/exclusion criteria may apply.",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

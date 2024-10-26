@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00266331",
+    "briefTitle": "RayGel-An Alternative for Skin Care During External Beam Radiation",
+    "officialTitle": "Prospective Blinded Randomized Study; RayGel Versus Placebo-an Alternative for Skin Care During External Beam Radiation.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Reduction in skin damage",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Breast Cancer\n\n* Radiation\n\nExclusion Criteria:\n\n1. Post Mastectomy\n2. Previous irradiation of the same breast\n3. Pregnacy\n4. Younger than 18 years of age",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01663727",
+    "briefTitle": "Study To Evaluate the Efficacy and Safety Of Bevacizumab, and Associated Biomarkers, In Combination With Paclitaxel Compared With Paclitaxel Plus Placebo as First-line Treatment Of Patients With Her2-Negative Metastatic Breast Cancer",
+    "officialTitle": "A Phase III, Randomized, Double-Blind, Placebo-Controlled, Multicenter Study To Evaluate the Efficacy and Safety Of Bevacizumab, and Associated Biomarkers, In Combination With Paclitaxel Compared With Paclitaxel Plus Placebo as First-line Treatment Of Patients With Her2-Negative Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 481,
+    "primaryOutcomeMeasure": "Percentage of Participants With Progression or Death in Intent-to-Treat (ITT) Population",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed, HER2-negative adenocarcinoma of the breast, with measurable or non-measurable locally recurrent or metastatic disease. Locally recurrent disease must not be amenable to resection with curative intent.\n* ECOG performance status of 0 or 1\n* For women of childbearing potential, use of an acceptable and effective method of non-hormonal contraception\n* For patients who have received recent radiotherapy, recovery prior to randomization from any significant acute toxicity, and radiation treatments have to be completed more than 3 weeks from randomization\n\nExclusion Criteria:\n\nDisease-Specific Exclusions:\n\n* HER2-positive status\n* Prior chemotherapy for locally recurrent or metastatic disease\n* Prior hormonal therapy \\< 2 weeks prior to randomization\n* Prior adjuvant or neo-adjuvant chemotherapy is allowed, provided its conclusion has been for at least 12 months prior to randomization\n* Investigational therapy within 28 days of randomization\n\nGeneral Medical Exclusions:\n\n* Life expectancy of \\< 12 weeks\n* Inadequate organ function\n* Uncontrolled serious medical or psychiatric illness\n* Active infection requiring intravenous (IV) antibiotics at screening\n* Pregnancy or lactation\n* History of other malignancies within 5 years prior to screening, except for tumors with a negligible risk for metastasis or death",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03471494",
+    "briefTitle": "GlobalSurg 3: Quality and Outcomes in Global Cancer Surgery",
+    "officialTitle": "GlobalSurg 3: Quality and Outcomes in Global Cancer Surgery",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Gastric Cancer, Colon Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 15958,
+    "primaryOutcomeMeasure": "30-day mortality rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All consecutive patients undergoing therapeutic surgery (curative or palliative) for breast, gastric, and colorectal cancer should be included.\n* Surgery is defined as a procedure requiring a skin incision performed under general or neuraxial (e.g. regional, epidural or spinal) anaesthesia.\n* Both elective and emergency procedures should be included. Include patients in whom the pre-operative diagnosis was thought to be benign, but was subsequently found to be cancer, e.g. bowel obstruction found to be due to cancer during surgery.\n* Include patients in whom the pre-operative diagnosis was thought to be cancer, but was subsequently found to be benign disease (ensure the \"pathology\" variable indicates not cancer; will not be included in primary analysis).\n* Laparoscopic, laparoscopic-converted, robotic, and open cases should be included.\n* Patients aged 18 years and over should be included .\n* Surgery may be with curative or palliative intent. Include patients in whom curative surgery was attempted but abandoned, e.g. open/close laparotomy.\n\nExclusion Criteria:\n\n* Operations where breast, gastric, or colorectal cancer is not suspected to be the primary pathology should be excluded.\n* Patients undergoing a procedure purely for diagnosis or staging should be excluded, e.g. open breast biopsy, staging laparoscopy.\n* Patients undergoing a procedure which does not require a skin incision should be excluded, e.g. colonoscopy/endoscopy alone, chemo/radiotherapy alone.\n* Patients presenting with recurrence of breast, colorectal or gastric cancer should be excluded.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

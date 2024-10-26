@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05361655",
+    "briefTitle": "Real-World Effectiveness of Palbociclib in Combination With an Aromatase Inhibitor",
+    "officialTitle": "Real-World Treatment Effectiveness of Palbociclib in Combination With an Aromatase Inhibitor as 1st Line Therapy in Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2888,
+    "primaryOutcomeMeasure": "Overall Survival (OS) in Postmenopausal Female or Male Participants With Metastatic Breast Cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed HR+/HER2- status after MBC diagnosis.\n* Received palbociclib + AI or AI as first-line therapy\n\nExclusion Criteria:\n\n* Evidence of prior treatment with other CDK4/6I, AI, tamoxifen, raloxifene, toremifene, or Fulvestrant for MBC\n* First structured activity greater than 90 days after MBC diagnostic date\n* Treatment with a CDK4/6 inhibitor as part of a clinical trial",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

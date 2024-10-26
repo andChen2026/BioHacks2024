@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00651716",
+    "briefTitle": "T Cells in Predicting Acute Graft-Versus-Host Disease in Patients Undergoing Donor Stem Cell Transplant",
+    "officialTitle": "Regulatory T Cells at Engraftment as Predictors of Acute Graft-Versus-Host Disease Outcomes in Patients Undergoing Allogeneic Stem Cell Transplantation",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Chronic Myeloproliferative Disorders, Gestational Trophoblastic Tumor, Leukemia, Lymphoma, Multiple Myeloma and Plasma Cell Neoplasm, Myelodysplastic Syndromes, Myelodysplastic/Myeloproliferative Neoplasms, Neuroblastoma, Ovarian Cancer, Testicular Germ Cell Tumor",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Percentage of regulatory T-lymphocytes (Tregs) at engraftment",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Patients undergoing allogeneic SCT\n* Age \\>= 18 years\n\nExclusion criteria:\n\n* Inability to give informed consent\n* Patients who have not received an allogeneic SCT\n* Any condition which, in the opinion of the investigator, might interfere with study objective\n* Any reason which, in the opinion of the investigator, adds additional risk to the patient",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06394661",
+    "briefTitle": "Serplulimab Plus Chemotherapy for Early-stage ER+/HER2- Breast Cancer",
+    "officialTitle": "Phase II Study Serplulimab Combined With Neoadjuvant Chemotherapy for Early-stage Estrogen Receptor-Positive, Human Epidermal Growth Factor Receptor 2-Negative (ER+/HER2-) Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 109,
+    "primaryOutcomeMeasure": "pathological complete response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age\\>=18 years old\n2. cT2 - cT4d, or cT1c with axillary lymph node metastasis confirmed clinically and pathologically\uff1b\n3. Pathologically proven HR+/HER2- breast cancer:\n\n   defined as:\n   * positive for ER or PR (IHC nuclear staining \\>1%)\n   * Her-2 negative (IHC 0, 1+ without FISH, or IHC 2+ with no amplification by FISH)\uff1b\n4. Has clinically measurable lesions:Measurable lesions on ultrasound, mammography, or MR (optional) within 1 month before randomization\uff1b\n5. Organ and bone marrow function tests within 1 month before chemotherapy suggest no contraindications to chemotherapy\uff1b\n6. Cardiac ultrasound EF value \u226755%\uff1b\n7. Females of childbearing age, with a negative serum pregnancy test 14 days before randomization;\n8. ECOG score\u22641 point;\n9. Sign informed consent\uff1b\n\nExclusion Criteria:\n\n1. The patient has evidence of metastatic breast cancer\uff1b\n2. For this disease, chemotherapy, endocrine therapy, targeted therapy, radiation therapy, etc. have been received;\n3. The patient has a second primary malignancy other than adequately treated skin cancer;\n4. The patient has been treated with anti-programmed cell death protein 1 (anti-PD-1), anti-programmed death ligand 1 (anti-PD-L1) or anti-PD-L2 drugs, or other immunotherapy\uff1b\n5. The patient has been diagnosed with immunodeficiency disease or autoimmune disease;\n6. The patient has severe lung or heart disease;\n7. The patient has active hepatitis B and C;\n8. The patient has a history of organ transplantation or bone marrow transplantation;\n9. pregnant or breastfeeding women;\n10. The investigators considered chemotherapy contraindicated due to serious, uncontrolled other medical conditions.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

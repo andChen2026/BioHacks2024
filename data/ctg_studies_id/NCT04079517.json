@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04079517",
+    "briefTitle": "Karolinska Interventional Study of Mammograhic Density (Karisma-1)",
+    "officialTitle": "A Randomized, Open Pilot Study to Investigate the Mammographic Density Reduction on Healthy Women, Within the Karma Cohort, for Two Different Doses of Tamoxifen",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Mammographic Density",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 42,
+    "primaryOutcomeMeasure": "Time to mammographic density change",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Previously participated in the Karma study\n* Attending the national mammography screening program, i.e. aged 40-74\n* A mammogram, including a stored raw image, must have been taken within 3 weeks of baseline and start of therapy\n* Having a mammographic volumetric density above the lowest 1/6, measured by Volpara\n* Informed consent must be signed before any study specific assessments have been performed\n\nExclusion Criteria:\n\n* Being pregnant or planning to become pregnant during the study\n* Any previous or current diagnosis of breast cancer (including carcinoma in situ)\n* Recalled (mammographic code 3 or above) after baseline screening mammography\n* Any previous diagnosis of cancer, with the exception of non-melanoma skin cancer and in situ cancer of the cervix\n* Currently using oestrogen and progesterone-based hormone replacement therapy\n* Current use of hormone contraceptive with hormones, e.g. hormonal contraceptive pills, or progesterone implants. Hormonal intrauterine devices are accepted.\n* A history of thromboembolic disease such as embolism, deep vein thrombosis, stroke, TIA or cardiac arrest.\n* A history of immobilization, e.g. using wheelchair\n* Uncontrolled diabetes defined as known untreated diabetes\n* Hypertension at baseline, defined as systolic pressure higher than 140 mm Hg and diastolic higher than 90 mm Hg\n* Use of drugs that interfere with CYP2D6 expression such as paroxetine, fluoxetine and bupropion",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

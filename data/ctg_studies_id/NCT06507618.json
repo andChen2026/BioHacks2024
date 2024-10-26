@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06507618",
+    "briefTitle": "Pre-Operative Window of ET to Inform RT Decisions (POWER II)",
+    "officialTitle": "A Randomized, Phase III Trial of Pre-Operative Window of Endocrine Therapy to Inform Radiation Therapy Decisions in Older Women With Early-Stage Breast Cancer (POWER II)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 354,
+    "primaryOutcomeMeasure": "Proportion of participants who omit Radiation Therapy (RT) and are non-adherent to Endocrine Therapy (ET)",
+    "eligibilityCriteria": "Inclusion Criteria (summary):\n\n* Diagnosis of ER+, PR +/-, and HER2- non amplified invasive breast cancer and clinically negative nodes\n* ECOG performance status 0-2\n* Females, aged \u2265 65 years\n* Patient is eligible for BCS and opted for BCS\n* Patient is a candidate for radiation therapy\n* Patient is a candidate for endocrine therapy (tamoxifen or an aromatase inhibitor)\n* Ability to take oral medication and be willing to adhere to endocrine therapy for the 3-month period prior to BCS\n* Agreement to adhere to Lifestyle Considerations (details in protocol) throughout study duration\n* Provision of signed and dated informed consent form\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n\nExclusion Criteria:\n\n* Bilateral synchronous breast cancer\n* Multicentric disease\n* Prior use of SERMS or aromatase inhibitors\n* History of ipsilateral breast radiation therapy\n* Has a known additional malignancy that is progressing and/or requires active treatment with cytotoxic chemotherapy or radiation therapy. Malignancies deemed stable and low risk for complication per investigator's judgment may be allowed after discussion with multi-site PI.\n* Current or planned use of a strong CYP2D6 inhibitor (e.g., Fluvoxamine, Paroxetine) and is not able to receive an endocrine therapy agent that does not use the CYP2D6 pathway.",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

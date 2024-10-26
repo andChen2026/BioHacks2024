@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02275403",
+    "briefTitle": "Standard Care Alone or With Acupuncture for CIPN in Breast Cancer and Multiple Myeloma",
+    "officialTitle": "Randomised Clinical Trial of Acupuncture Plus Standard Care Versus Standard Care for Chemotherapy Induced Peripheral Neuropathy (CIPN)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Multiple Myeloma, Gastrointestinal Cancer, Gynaecological Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Change in Measure Yourself Medical Outcome Profile (MYMOP2) score of the most troubling symptom of CIPN",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with breast cancer, multiple myeloma, gastrointestinal cancer or gynaecological cancer who are receiving or who have received neurotoxic chemotherapy treatment for their condition\n* The capacity to understand the patient information sheet and the ability to give written informed consent\n* Willingness and ability to comply with scheduled visits and study procedures, including the self-report QoL questionnaires and patient diaries\n* Age \u2265 18 years; no upper age limit\n* CIPN of \u2265 Grade II (CTCAE v4.03)\n* Platelet count of \u2265 30 x 10\\*9/L\n* Neutrophil count of \u2265 0.5 x 10\\*9/L\n* MYMOP2 score of their most troubling CIPN symptom \u2265 3\n\nExclusion Criteria:\n\n* Patients who have previously received acupuncture for neuropathy\n* Patients who have received acupuncture for any indication, other than neuropathy, within the previous 6 months\n* Women who are pregnant or breast feeding\n* Co-morbidity with a bleeding disorder\n* Patients with an aversion to needles",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

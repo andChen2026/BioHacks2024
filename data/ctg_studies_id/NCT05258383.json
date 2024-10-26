@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05258383",
+    "briefTitle": "Personalized Estimation of Doses Delivered During Image Guided Radiation Therapy Tests",
+    "officialTitle": "Personalized Estimation of Doses Delivered During Image Guided Radiation Therapy Tests",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Lung Neoplasm, Pelvic Neoplasm, Breast Cancer, Cancer, Otorhinolaryngeal, Cancer Pediatric",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 320,
+    "primaryOutcomeMeasure": "Global analysis of 3D mapping of physical doses delivered to organs by positioning imaging.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* IGRT (Image Guided Radiation Therapy) treatments considered: lung, pelvic (prostate), breast, ENT and pediatric cancers\n* Treatment modalities: linac + daily kV-CBCT (kilo-Volt ConeBeam CBCT) and linac + weekly kV-CBCT + daily 2-Dimensional-kilo-Volt (2D-kV) (adult: lung, prostate, breast, Ear Nose and Throat (ENT); pediatric: neuro, ENT, thorax and abdomen); Cyberknife + daily 2D-kV (adult lung); Tomotherapy + daily MV-CBCT (Mega-Volt ConeBeam CBCT) (adult prostate, breast, ENT; pediatric ENT, thorax and abdomen)\n\nExclusion Criteria:\n\n* Patient who has undergone a treatment discontinuation or modification (re-planning) of treatment with an impact on the IGRT protocol.\n* Patient for which details on the imaging procedures used during treatment or DICOM files (DICOM CT, DICOM RTstruct) are incomplete will not be included",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

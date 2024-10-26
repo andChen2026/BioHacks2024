@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02816112",
+    "briefTitle": "Granulocyte-colony Stimulating Factors or Antibiotics for Primary Prophylaxis for Febrile Neutropenia",
+    "officialTitle": "A Multi-Centre Study to Compare Granulocyte-colony Stimulating Factors to Antibiotics for Primary Prophylaxis of Taxotere/Cyclophosphamide-Induced Febrile Neutropenia REaCT-TC2",
+    "overallStatus": "COMPLETED",
+    "conditions": "Early Stage Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 458,
+    "primaryOutcomeMeasure": "Febrile neutropenia",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed primary breast cancer\n* Planned TC chemotherapy\n* \u226519 years of age\n* Able to provide verbal consent\n\nExclusion Criteria:\n\n* Contraindication to either Ciprofloxacin or G-CSF",
+    "sex": "ALL",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

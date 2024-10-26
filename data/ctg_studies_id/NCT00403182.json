@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00403182",
+    "briefTitle": "Chemotherapy and Hormone Therapy as First-Line Therapy in Treating Postmenopausal Women With Metastatic or Locally Advanced Breast Cancer",
+    "officialTitle": "The CORE Study (Chemotherapy OR Endocrine Treatment First?) A Randomized Study by the Scandinavian Breast Group [CORE]",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Overall survival",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer\n\n  * Metastatic or locally advanced disease\n  * Bilateral breast cancer allowed\n* Measurable or evaluable progressing metastases or local disease\n\n  * No sclerotic bone metastases as only disease\n  * Measurable or evaluable disease not in a previously irradiated area\n* No immediately life-threatening metastatic disease\n* No known HER2/neu positivity, as defined by either of the following:\n\n  * 3+ by immunohistochemistry\n  * HER2-positive by fluorescent in situ hybridization or chromogenic in situ hybridization\n* No known cerebral or leptomeningeal metastases\n* Hormone receptor status:\n\n  * Estrogen and/or progesterone receptor positive tumor\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Postmenopausal, as defined by any of the following:\n\n  * Bilateral oophorectomy and amenorrhea \\> 3 months\n  * Radiation castration and amenorrhea \\> 3 months\n  * Spontaneous menopause and amenorrhea \\> 12 months\n  * Previous hysterectomy and age \\> 55 years\n* ECOG performance status 0-2\n\n  * Must be ambulant with organ function and performance status adequate for conventional combination chemotherapy\n* No serious hypersensitivity to letrozole or other components of study drug\n* No other prior or concurrent malignancy except for basal cell carcinoma or carcinoma in situ of the cervix\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior systemic treatment for recurrent or metastatic breast cancer\n* No other concurrent radiotherapy, endocrine therapy, cytotoxic therapy, or experimental therapy for cancer",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00647790",
+    "briefTitle": "Positron Emission Tomography (PET) Using Hormone Receptor Ligands in Breast Cancer",
+    "officialTitle": "PET Using Hormone Receptor Ligands in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 79,
+    "primaryOutcomeMeasure": "To use estrogen-like ligands labeled with positron emitters to preoperatively evaluate the estrogen receptor (ER) status of breast cancer on PET imaging.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Male and Female patients\n* Aged 18 or older at the time of breast cancer diagnosis\n* Patients with invasive breast cancer at least 1 cm in size. Patients who have had a prior surgical excision are eligible provided there is a residual of at least a 1 cm area suspected on imaging studies.\n* Histopathologic review at MSKCC confirming diagnosis of invasive breast cancer (ductal, lobular, or inflammatory breast cancer).\n* Patients who are operative candidates. Patient will have surgery to include either mastectomy or lumpectomy. Radiologic assisted excisions such as needle localization are also eligible.\n* Patients with bilateral breast cancer are eligible.\n* Patients with metastatic cancer, provided they need surgical biopsy.\n* Patients who are undergoing sentinel node mapping (day before or sameday mapping).\n* Patient must sign informed consent.\n\nExclusion Criteria:\n\n* Previous or concurrent malignancy (except basal and squamous skin cancer and stage 0 cervical cancer)\n* Patients who are pregnant or nursing\n* Patients unable to tolerate PET or PET/CT\n* Patients with known active infection, autoimmune or inflammatory disease such as sarcoidosis, and rheumatoid arthritis.\n* Patients with non invasive breast cancer such as DCIS.\n* Patients who have received prior radiation therapy to the affected breast.\n* Patients who have received prior chemotherapy, including neoadjuvant chemotherapy or hormonal therapy for breast cancer.\n* Patients living in a residential care or correctional facility.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

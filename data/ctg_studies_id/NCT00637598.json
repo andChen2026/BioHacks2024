@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00637598",
+    "briefTitle": "Early Detection of Breast Cancer Using Tomosynthesis Imaging",
+    "officialTitle": "Early Detection of Breast Cancer Using Tomosynthesis Imaging",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DEVICE_FEASIBILITY",
+    "enrollmentCount": 385,
+    "primaryOutcomeMeasure": "Radiologist ROC (receiver operating characteristic) area under curve (AUC)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nAll Subjects accepted for this clinical study must:\n\n* Be already scheduled to undergo screening mammography, diagnostic mammography, or breast biopsy for standard clinical indications\n* Provide written informed consent\n* Be able to communicate effectively with clinical study personnel.\n\nExclusion Criteria:\n\nSubjects with any of the following conditions will be excluded from this clinical study:\n\n* Childbearing potential and subject refuses serum pregnancy test or test result is positive.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

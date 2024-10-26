@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05137067",
+    "briefTitle": "A Novel Approach for Alleviating the Side Effects of Chemotherapeutic Agents.",
+    "officialTitle": "Effectiveness of RaproCell in Alleviating the Side Effects of Chemotherapeutic Agents, Without Adversely Impacting the Overall Success of the Agents on Cancer Cells.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Lung Cancer, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 90,
+    "primaryOutcomeMeasure": "PROMIS (Patient-Reported Outcomes Measurement Information System) Global 10 Health Questionnaire to assess change from baseline.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nActive breast cancer patients taking one of the studies listed drugs within the age range.\n\nActive lung cancer patients taking one of the studies listed drugs within the age range.\n\nActive prostate cancer patients taking one of the studies listed drugs within the age range.\n\n-\n\nExclusion Criteria:\n\nAnyone without the three types of cancer (breast cancer, lung cancer, prostate cancer) listed in inclusion criteria.\n\n-",
+    "sex": "ALL",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

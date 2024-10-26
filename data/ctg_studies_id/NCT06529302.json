@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06529302",
+    "briefTitle": "The OPBC-07/microNAC Study",
+    "officialTitle": "Association of Axillary Lymph Node Dissection With Oncological Outcomes in Patients With Residual Micrometastases After Neoadjuvant Chemotherapy: The OPBC-07/microNAC Study",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "5-year rate of any axillary recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Consecutive women and men aged 18 years or older with a diagnosis of stage I-III breast cancer (any histological and receptor subtype)\n* For Clinically Node negative (cN0) at presentation: any axillary staging technique including palpation is allowed. Dual tracer mapping is not required for Sentinel Lymph Node Biopsy (SLNB)\n* For Clinically Node positive (cN+) at presentation: Biopsy proven confirmation is required. Staging techniques include: SLNB with dual mapping or targeted axillary dissection (Targeted Axillary Dissection, TAD: imaging-guided localization of sampled node in combination with Sentinel Lymph Node procedure with or without dual mapping) or the Marking Axillary Lymph Nodes with Iodine Seeds (MARI) procedure\n* Completed neoadjuvant chemotherapy\n* Residual micrometastases detected on SLNB or TAD or MARI (on frozen section or final pathology)\n* Concomitant presence of Isolated Tumor Cells (ITCs) and micrometastases in other sentinel lymph nodes is allowed\n* Received axillary treatment with completion axillary lymph node dissection (ALND), axillary Radiotherapy (ART), both or none\n* At least 1-year follow-up (inclusion should end in May 2023)\n* Had surgery at any time point until May 2023 at the latest\n* Prior history of stage I-III (not stage IV) breast cancer is allowed\n\nExclusion Criteria:\n\n* Did not undergo SLNB/TAD/MARI (e.g., went straight to ALND or ART)\n* Presence of ITCs alone or macrometastases on the sentinel nodes (or TAD nodes or MARI node)\n* Stage IV disease at presentation\n* Inflammatory breast cancer at presentation\n* Neoadjuvant endocrine therapy\n* Micrometastases detected by One-step nucleic acid amplification (OSNA)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

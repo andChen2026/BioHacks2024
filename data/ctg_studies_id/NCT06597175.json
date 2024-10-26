@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06597175",
+    "briefTitle": "Evaluating Investigational Medical Device for Breast Tumor Diagnosis Using Diffusion Optical Spectroscopy",
+    "officialTitle": "A Multi-center, Open-label, Single Arm, Prospective Pivotal Medical Device Clinical Trial to Evaluate Efficacy and Safety of Study Device (ORIGO) That Provides Numerical Data by Measuring the Composition Within Breast Tissue Using Diffusion Optical Spectroscopy Imaging Technology to Assist in the Differential Diagnosis of Breast Tumors in Patients with Breast Lesions",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Breast Tumor, Mammary Carcinoma, Human",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Concordance",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female aged 19 years or older\n* ACR BI-RADS Category 3-5 (5th edition, 2023 update)\n\nExclusion Criteria:\n\n* Pregnant, potentially pregnant, or currently breastfeeding\n* Calcifications detected on mammography but do not have corresponding lesions identified on ultrasound\n* Biopsy performed on the same breast within 7 days prior to the date of informed consent\n* Significant trauma or scarring at the measurement site, or those suffering from mastitis.\n* Breast implants, electronic medical devices such as pacemakers, or with a space left in the breast cavity due to implant removal\n* History of phototoxic reactions or light sensitivity",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

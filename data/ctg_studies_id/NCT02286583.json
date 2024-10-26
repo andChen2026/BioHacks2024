@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02286583",
+    "briefTitle": "Medical Radiometer - RTM - 01 - RES and Its Use in Detecting Hotspots in Female Breast",
+    "officialTitle": "Early Detection of Breast Disease Using Medical Radiometer - RTM - 01 - RES",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "Testing the sensitivity of the Microwave Thermography RTM-01-RES (ability to detect hotspots in breast lesions)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The perfect sample should be 2000 females or more.\n* 50 % already diagnosed breast cancer of any type\n* 30% normal thought to be healthy females.\n* 10% lactating\n* 10% different breast diseases\n\nExclusion Criteria:\n\n* Menstruating females.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

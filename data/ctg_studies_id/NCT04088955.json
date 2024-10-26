@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04088955",
+    "briefTitle": "A Digimed Oncology PharmacoTherapy Registry",
+    "officialTitle": "A Pragmatic, Non-Interventional Study of DigiMeds\u2122 in Combination With Standard of Care for Treatment of Patients With Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Colon Cancer, Breast Cancer, Rectal Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Compare the duration of actual vs. intended treatment for cancer patients on capecitabine who are prescribed capecitabine with sensor.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18\n* Prescribed treatment with DigiMeds\u2122\n* Have an Android or iOS-enabled device (e.g., iPhone, iPad, Samsung) or be willing to use a Proteus issued iOS device\n* Signed consent form\n\nExclusion Criteria:\n\n* Receiving palliative or hospice care services (i.e., proxy for \\<12 months life expectancy)\n* Not proficient in the English language\n* Have impaired cognitive ability\n* For women: current pregnancy\n* Have skin sensitivity to adhesives or active/chronic dermatitis",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

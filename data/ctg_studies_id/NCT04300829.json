@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04300829",
+    "briefTitle": "Cicaderma Efficacy vs Standard Care of Sites in Preventing Radiodermatitis in Non-metastatic Breast Cancer Patients",
+    "officialTitle": "Randomised Multicentric Phase III Study Evaluating the Efficacy of Cicaderma vs Standard Management of Each Site in Preventing Radiodermatitis After Adjuvant Post-operative Breast Irradiation in Patients With Non-metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Adenocarcinoma, Radiation Dermatitis, Radiation Toxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 248,
+    "primaryOutcomeMeasure": "Comparison of the Cicaderma ointment efficacy versus the standard management of each site in preventing the onset of grade >= 2 radiodermatitis (NCI-CTCAE-V5)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u226518 years\n* Patient requiring a post-operative radiotherapy (post mastectomy or tumorectomy) for a mammary adenocarcinoma or an unilateral in situ breast cancer histologically documented, early stage of disease (non metastatic)\n* Patient with no residual tumor (R0 or R1)\n* Patient informed and having given her signed consent\n* Patient affiliated to a social security regimen\n\nExclusion Criteria:\n\n* Unsolved cutaneous toxicities of any previous treatment\n* Hormonotherapy started prior to radiotherapy\n* Concomitant use of other topical treatments than the study treatments on the irradiated area\n* Patient treated by concomitant chemotherapy and/or targeted therapy\n* Known hypersensibility to at least one component of the topicals used or Cicadema ointment\n* Patient for whom follow-up does not seem possible even in the short term\n* Pregnant or breastfeeding woman\n* Participation in another clinical trial that may interfere with the evaluation of the primary endpoint\n* Patient Under tutorship or curatorship or deprived of liberty",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

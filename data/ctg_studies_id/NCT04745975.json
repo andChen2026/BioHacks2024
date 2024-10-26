@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04745975",
+    "briefTitle": "Guided Treatment Based on Mini-PDX in Metastatic Triple Negative Breast Cancer",
+    "officialTitle": "GUided Treatment Based on Mini-PDX in metastaTIc refractOry Triple Negative Breast Cancer(GUMPTION)\uff1aa Prospective Randomized Controlled Single Center Clinical Trial",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Objective response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 1) Women aged 18-70 years;\n* 2) an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1;\n* 3) Estimated lifetime is \u2265 3 months;\n* 4) Histopathologically confirmed recurrent (unresectable) or metastatic triple-negative breast cancer; ER and PR negative is defined as ER \\<1% positive, PR \\<1% positive. HER-2 negative is defined as HER-2 (-) or (1+) by immunohistochemistry, HER-2 (2+) must be tested by FISH with negative result, HER-2 (1+) (1+), FISH is optional and negative;\n* 5) Have at least one measurable target lesion according to RECIST 1.1 criteria;\n* 6) Biopsy of the tumor lesion and the specimen passes laboratory quality control;\n* 7) A minimum of 2 prior cytotoxic chemotherapy regimens (including at least one line of platinum-containing regimen) in metastatic settings are required prior to enrollment in this trial;\n* 8) Adequate organ function, i.e. meeting the following criteria.\n\n  1. Hb \u2265 90 g/L (no transfusion within 14 days); ANC \u2265 1.5 \u00d7 109 /L; PLT \u2265 75 \u00d7 109 /L.\n  2. Liver function: total bilirubin TBIL \u2264 1.5\u00d7ULN (upper limit of normal); ALT and AST \u2264 3\u00d7ULN.\n  3. serum Cr \u2264 1.5\u00d7ULN.\n* 9) Subjects voluntarily joined the study, signed the informed consent form, were compliant and cooperated with the follow-up.\n\nExclusion Criteria:\n\n* 1\uff09Pregnancy or lactation\uff1b\n* 2\uff09History of autoimmune disease\uff1b\n* 3\uff09Anticancer- and radiation therapy-related toxicities have not resolved or downgraded to Grade 1 or less;\n* 4) Symptomatic central nervous system (CNS) disease;\n* 5) Previous treatment of Immune checkpoint inhibitors;\n* 6) History of other malignancies within the past five years, with the exception of cured non-malignant melanoma of the skin and carcinoma in situ of the cervix.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

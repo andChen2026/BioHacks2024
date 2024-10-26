@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00025493",
+    "briefTitle": "S0029 Docetaxel in Treating Older Women With Metastatic Breast Cancer",
+    "officialTitle": "Single Agent Docetaxel for Metastatic Breast Cancer in Patients Aged 70 Years and Older (and in a Cohort of Patients Younger Than 60 Years)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 27,
+    "primaryOutcomeMeasure": "Study treatment feasibility",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer\n\n  * Distant metastatic disease confirmed by histology, cytology, or strong clinical evidence\n* Measurable disease\n* No known brain or CNS metastases\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 70 and over OR\n* Under 60\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* Zubrod 0-2\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* Absolute granulocyte count at least 1,500/mm\\^3\n* Hemoglobin at least 9 g/dL\n* Platelet count at least 100,000/mm\\^3\n\nHepatic:\n\n* Bilirubin no greater than upper limit of normal (ULN)\n* SGOT or SGPT no greater than 1.5 times ULN (2.0 times ULN if liver metastases are present)\n* Alkaline phosphatase no greater than 1.5 times ULN (2.0 times ULN if liver metastases are present)\n\nRenal:\n\n* Creatinine no greater than ULN\n\nOther:\n\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n* HIV negative\n* No other prior malignancy within the past 5 years except adequately treated basal cell or squamous cell skin cancer, carcinoma in situ of the cervix, or adequately treated stage I or II cancer in complete remission\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No concurrent immunotherapy for breast cancer\n\nChemotherapy:\n\n* Prior adjuvant or neoadjuvant chemotherapy allowed\n* Prior adjuvant taxanes allowed\n* No other concurrent chemotherapy for breast cancer\n\nEndocrine therapy:\n\n* Prior hormonal therapy in the adjuvant setting or for metastatic disease allowed\n* No concurrent hormonal therapy for breast cancer\n\nRadiotherapy:\n\n* No concurrent radiotherapy for breast cancer\n\nSurgery:\n\n* Not specified\n\nOther\n\n* No more than 1 prior regimen for advanced, recurrent, or metastatic disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

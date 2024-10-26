@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02000622",
+    "briefTitle": "Assessment of the Efficacy and Safety of Olaparib Monotherapy Versus Physicians Choice Chemotherapy in the Treatment of Metastatic Breast Cancer Patients With Germline BRCA1/2 Mutations.",
+    "officialTitle": "A Phase III, Open Label, Randomised, Controlled, Multi-centre Study to Assess the Efficacy and Safety of Olaparib Monotherapy Versus Physicians Choice Chemotherapy in the Treatment of Metastatic Breast Cancer Patients With Germline BRCA1/2 Mutations.",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer Metastatic, BRCA 1 Gene Mutation, BRCA 2 Gene Mutation",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 302,
+    "primaryOutcomeMeasure": "Progression-free Survival (PFS) Using Blinded Independent Central Review (BICR) According to Modified Response Evaluation Criteria In Solid Tumours (RECIST v1.1)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Germline mutation in BRCA1 or BRCA2 that is predicted to be deleterious or suspected deleterious.\n* Histologically or cytologically confirmed breast cancer with evidence of metastatic disease.\n* Prior therapy with an anthracycline and a taxane in either an adjuvant or metastatic setting.\n* Prior platinum allowed as long as no breast cancer progression occurred on treatment or if given in adjuvant/neoadjuvant setting at least 12 months from last dose to study entry elapsed.\n* ER/PR breast cancer positive patients must have received and progressed on at least one endocrine therapy (adjuvant or metastatic), or have disease that the treating physician believes to be inappropriate for endocrine therapy.\n* ECOG performance status 0-1.\n* Adequate bone marrow, kidney and liver function.\n\nExclusion Criteria:\n\n* Prior treatment with PARP inhibitor.\n* Patients with HER2 positive disease.\n* More than 2 prior lines of chemotherapy for metastatic breast cancer.\n* Untreated and/or uncontrolled brain metastases.\n* Prior malignancy unless curatively treated and disease-free for \\> 5 years prior to study entry. Prior adequately treated non-melanoma skin cancer, in situ cancer of the cervix, DCIS or stage I grade 1 endometrial cancer allowed.\n* Known HIV (Human Immunodeficiency Virus) infection.\n* Pregnant or breast-feeding women.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

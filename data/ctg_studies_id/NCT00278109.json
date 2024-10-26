@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00278109",
+    "briefTitle": "Partial Breast Irradiation With Chemotherapy",
+    "officialTitle": "Phase I/II Partial Breast Irradiation With Concurrent Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 27,
+    "primaryOutcomeMeasure": "Number of Participants Experiencing Acute, Late Skin, and Subcutaneous Toxicity",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adenocarcinoma of the breast by routine hematoxylin and eosin (H\\&E) staining\n\n  * Primary tumor \u2264 4 cm and 0-3 positive axillary lymph nodes (pathologic T1-2, pathologic N0-N1, M0)\n\n    * Patients with lymph nodes positive only by cytokeratin staining (i.e., H\\&E negative) are eligible\n* No squamous cell carcinoma or sarcoma of the breast\n* Patients must have undergone a segmental mastectomy (SM) with a level I and ll axillary dissection or sentinel lymph node biopsy within the past 14 weeks\n\n  * Surgical margins at the time of SM must be negative (\\> 3 mm) for both invasive carcinoma and for non-invasive ductal carcinoma\n* No active local-regional disease\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-1\n* Sex: female\n* Menopausal status not specified\n* Not pregnant\n* Negative pregnancy test\n* Fertile patients must use effective non-hormonal contraception\n* No other malignancy within the past 5 years except adequately treated basal cell or squamous cell skin cancer or carcinoma in situ of the cervix\n* No other serious or poorly controlled medical or psychiatric condition that could be exacerbated by, or complicate compliance with study treatment\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior radiation therapy to the breast\n* No prior trastuzumab (Herceptin \u00ae)\n* No other concurrent chemotherapy\n* No concurrent hormonal therapy except the following:\n\n  * Steroids given for adrenal failure\n  * Hormones administered for non-disease-related conditions (e.g., insulin for diabetes, synthroid for hypothyroidism)\n  * Intermittent dexamethasone as an antiemetic or premedication",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

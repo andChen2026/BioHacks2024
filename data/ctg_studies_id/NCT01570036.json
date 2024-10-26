@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01570036",
+    "briefTitle": "Combination Immunotherapy With Herceptin and the HER2 Vaccine NeuVax",
+    "officialTitle": "Combination Immunotherapy With Herceptin and the HER2 Vaccine E75 in Low and Intermediate HER2-expressing Breast Cancer Patients to Prevent Recurrence",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 275,
+    "primaryOutcomeMeasure": "Disease-free Survival (DFS)",
+    "eligibilityCriteria": "Patients will be included in the study based on the following criteria:\n\n* Women 18 years or older\n* Node-positive breast cancer (AJCC N1, N2, or N3)\n* Node-negative breast cancer if negative for both estrogen (ER) and progesterone (PR) receptors and have received chemotherapy as standard of care\n* Clinically cancer-free (no evidence of disease) after standard of care therapy (surgery, chemotherapy, radiation therapy as directed by NCCN guidelines). Hormonal therapy will continue per standard of care. Neoadjuvant chemotherapy is allowed.\n* Recovery from any toxicity(ies) associated with prior adjuvant therapy.\n* HER2 expression of 1+ or 2+ by IHC. FISH or Dual-ISH testing must be performed on IHC 2+ tumors and shown to be non-amplified by FISH (\u22642.0) or by Dual-ISH (\u22642.0).\n* HLA-A2, A3, A24, or A26 positive\n* LVEF \\>50%, or an LVEF within the normal limits of the institution's specific testing (MUGA or Echo)\n* ECOG 0,1\n* Signed informed consent\n* Adequate birth control (abstinence, hysterectomy, bilateral oophorectomy, bilateral tubal ligation, oral contraception, IUD, or use of condoms or diaphragms)\n* Must start study treatment (receive first Herceptin infusion) 15between 3-12 weeks from completion of standard of care therapy.\n\n4.1.3 Exclusion Criteria\n\nPatients will be excluded from the study based on the following criteria:\n\n* Node-negative breast cancer (AJCC N0 or N0(i+)) unless negative for both estrogen (ER) and progesterone (PR) receptors and has received chemotherapy as standard of care\n* Clinical or radiographic evidence of distant or residual breast cancer\n* HER2 negative (IHC 0) or HER2 3+ or FISHDual-ISH amplified (FISH \\>2.0); Dual-ISH \\>2.0\n* HLA-A2, A3, A24, A26 negative\n* History of prior Herceptin therapy\n* NYHA stage 3 or 4 cardiac disease\n* LVEF \\<50%, or less than the normal limits of the institution's specific testing (MUGA or Echo)\n* Immune deficiency disease or HIV, HBV, HCV\n* Receiving immunosuppressive therapy including chemotherapy, chronic steroids, methotrexate, or other known immunosuppressive agents\n* ECOG \u22652\n* Tbili \\>1.8, creatinine\\>2, hemoglobin\\<10, platelets\\<50,000, WBC\\<2,000\n* Pregnancy (assessed by urine HCG)\n* Breast feeding\n* Any active autoimmune disease requiring treatment, with the exception of vitiligo\n* Active pulmonary disease requiring medication to include multiple inhalers\n* Involved in other experimental protocols (except with permission of the other study PI)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

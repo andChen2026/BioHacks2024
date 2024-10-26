@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04971304",
+    "briefTitle": "Comparative Effectiveness Analysis of Granulocyte Colony Stimulating Factor Originator Products Versus Biosimilars",
+    "officialTitle": "An Exploratory Comparative Effectiveness Analysis of Granulocyte Colony Stimulating Factor Originator Products Versus Biosimilars in Real-world Practice",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cancer, Breast, Cancer, Lung, Cancer of Colon, Cancer of Pancreas, Cancer, Ovarian, Lymphoma, Non-Hodgkin",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 16506,
+    "primaryOutcomeMeasure": "Number of patients who develop febrile neutropenia",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients age 20 or older\n* Diagnosis of lung, breast, colon, ovarian, pancreatic, testicular, cervical, uterine, or NHL cancer\n* Beginning intermediate or high neutropenia risk chemotherapy\n\nExclusion Criteria:\n\n* One inpatient or two outpatient cancer diagnoses at least 30 days apart in the 183 days prior to the Index Date for cancer different from enrolling cancer diagnosis\n* Any of the following in 183 days prior to Index Date:\n* Any chemotherapy or G-CSF product receipt\n* 2\\< medical claims at least 30 days apart for a skilled nursing facility or hospice care\n* 2\\< diagnoses/procedure codes at least 1 day apart for cancer-related radiotherapy, bone marrow or stem cell transplant, diagnosis of HIV/AIDS, severe hepatic disease, chronic kidney disease, or any non-oncology related neutropenia",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

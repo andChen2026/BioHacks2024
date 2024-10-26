@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01868503",
+    "briefTitle": "Lapatinib Ditosylate and Radiation Therapy in Treating Patients With Locally Advanced or Locally Recurrent Breast Cancer",
+    "officialTitle": "Phase II Study to Investigate Concurrent Lapatinib and Radiotherapy in Locally Advanced or Locally Recurrent Breast Cancer and the Impact on Breast Cancer Stem Cells",
+    "overallStatus": "TERMINATED",
+    "conditions": "Male Breast Cancer, Recurrent Breast Cancer, Stage IIIA Breast Cancer, Stage IIIB Breast Cancer, Stage IIIC Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 7,
+    "primaryOutcomeMeasure": "Percentage of Patients Achieving Complete Clinical Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with histologically or cytologically confirmed locally advanced breast cancer that is refractory to chemotherapy or other therapeutic agents or with a history of breast cancer with new evidence of a local recurrence (defined as a chest wall or breast recurrence and/or nodal recurrence); the diagnosis will be made based on clinical and pathologic features\n* Patients must be \\>18 years of age.\n* Karnofsky Performance Status (KPS) score \\> 70\n* Patts must have normal organ function as defined below:\n\n  * total bilirubin \\< 1.5 x institutional upper limit of normal\n  * AST(SGOT)/ALT(SGPT) \\< 2.5 x institutional upper limit of normal\n  * creatinine \\< 1.5 x institutional upper limit of normal\n* Patients must have left-ventricular ejection fraction \\> 50% at baseline.\n\nExclusion Criteria:\n\n* Patients who have contraindications to radiotherapy, such as scleroderma, dermatomyositis, or severe cutaneous manifestations of systemic lupus erythematosus (SLE)\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to lapatinib\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, or psychiatric illness/social situations that would limit compliance with study requirements\n* Women who are pregnant or lactating, as well as women of child-bearing potential who are unwilling or unable to use an acceptable method of birth control to avoid pregnancy for the duration of the study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

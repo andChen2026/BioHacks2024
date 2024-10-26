@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05850637",
+    "briefTitle": "Evaluate the Effectiveness and Toxicity of Adjuvant Ultra-hypofractionated Radiotherapy for Breast Cancer",
+    "officialTitle": "Phase II Study to Evaluate the Effectiveness and Toxicity of Adjuvant Ultra-hypofractionated Radiotherapy for the Treatment of Early and Locally Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Acute toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patient;\n2. Pathological confirmation of invasive breast carcinoma regardless of histological subtype and hormonal profile;\n3. Age greater than or equal to 65 years;\n4. Breast-conserving surgery or mastectomy with or without axillary approach\n5. With or without neoadjuvant or adjuvant systemic treatment\n\nExclusion Criteria:\n\n1. Patients with previous thoracic irradiation;\n2. Patients with indication for bilateral thoracic irradiation;\n3. Patients with breast reconstruction with prosthesis or autologous tissue;\n4. Patients with compromised surgical margins after resection;\n5. pT1-pT2 pN0 patients undergoing radical mastectomy.",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

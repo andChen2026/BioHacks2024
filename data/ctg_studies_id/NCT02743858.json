@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02743858",
+    "briefTitle": "Lymphedema Surveillance Study",
+    "officialTitle": "A Prospective Surveillance Program for Assessment and Treatment of Breast Cancer-Related Lymphedema After Axillary Lymph Node Dissection",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Lymphedema",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1250,
+    "primaryOutcomeMeasure": "number of incidences of lymphedema",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female breast cancer patients over the age of 18\n* Patients consenting for unilateral axillary lymph node dissection (ALND) (prior history of sentinel lymph node biopsy allowed if \\<6 months from consent)\n* Patients consenting for unilateral sentinel lymph node biopsy (SLNB) and possible ALND are eligible for initial entry into the study, but will become ineligible if ALND is not performed\n* Initially consented patients, treated with SLNB alone, who were originally considered ineligible to continue on study, will be approached for re-enrollment\n* Patients who self-identify as Black or White consenting for unilateral ALND or possible ALND will be approached for enrollment onto translational study (Cohort 3)\n\nExclusion Criteria:\n\n* Male breast cancer patients\n* Patients consenting for bilateral axillary surgery\n* Patients with prior history of surgical excision of one or more axillary lymph nodes or SLNB, performed \\>6 months from date of consent\n* Patients with prior history of ALND\n* Patients with no breast surgery performed at MSK",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

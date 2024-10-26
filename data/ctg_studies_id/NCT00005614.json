@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00005614",
+    "briefTitle": "Management of Metastatic Breast Cancer in Frail Patients",
+    "officialTitle": "Management of Metastatic Breast Cancer in Frail Patients",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Objective Response Rate (ORR)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS: Metastatic breast cancer Measurable disease No progression after 3 or more different forms of chemotherapy Hormone receptor positive breast cancer must be refractory to at least two forms of hormonal treatment (including antiestrogen, aromatase inhibitor, and/or progestin) unless there is life threatening metastases (e.g., lymphangitic metastases to the lung or liver metastases) Must meet at least one of the following characteristics for frailty: ECOG 2-4 Dependence in at least one activity of daily living 85 and over History of three or more falls in the past 6 months Mild dementia (must be oriented in time, space, and location) Three or more comorbid conditions Hormone receptor status: Not specified\n\nPATIENT CHARACTERISTICS: Age: 65 and over Sex: Female Menopausal status: Not specified Performance status: See Disease Characteristics Life expectancy: Greater than 12 weeks Hematopoietic: Absolute neutrophil count at least 1,500/mm3 Platelet count at least 100,000/mm3 Neutropenia or thrombocytopenia secondary to myelophthisis from breast cancer allowed Hepatic: Increased bilirubin allowed Renal: Renal insufficiency allowed Cardiovascular: Congestive heart failure allowed Other: No known allergy to gemcitabine\n\nPRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: See Disease Characteristics Endocrine therapy: See Disease Characteristics Radiotherapy: At least 4 weeks since prior radiotherapy to bony areas or CNS metastases Surgery: Not specified Other: Concurrent bisphosphonates allowed No concurrent participation in other investigational studies",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

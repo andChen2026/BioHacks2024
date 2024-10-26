@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01670500",
+    "briefTitle": "Cisplatin vs. Doxorubicin/Cyclophosphamide in BrCa",
+    "officialTitle": "A Randomized Phase II Trial of Neoadjuvant Cisplatin vs. Doxorubicin/Cyclophosphamide (AC) in Women With Newly Diagnosed Breast Cancer and Germline BrCa Mutations",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 118,
+    "primaryOutcomeMeasure": "Rate of Pathologic Complete Response (pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathologic confirmation of invasive breast cancer\n* Stage: Clinical T1 \\>/= 1.0 cm, T2 or T3, N0-3, M0\n* HER2 negative\n* ER and PgR status by immunohistochemistry must be known. ER positive patients are allowed if physicain has determined neoadjuvant chemo is appropriate.\n* Life expectancy greater than six months\n* Use of an effective means of contraception is required\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding\n* Prior anthracycline or platinum based therapy\n* Prior treatment for the current breast cancer, including chemotherapy, hormonal therapy, radiation or experimental therapy\n* Ipsilateral breast recurrence, unless prior treatment consisted of excision alone for DCIS or breast-conserving treatment and hormonal therapy for DCIS or invasive cancer\n* Peripheral neuropathy of any etiology that exceeds grade 1\n* Significant hearing loss\n* Renal dysfunction\n* Use of other investigational or study agents\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to study drugs\n* Uncontrolled intercurrent illness\n* Any condition that would prohibit administration of corticosteroids\n* Uncontrolled diabetes\n* Pre-existing medical condition that would represent toxicity in excess of grade 1 as measured by CTCAE (unless not considered medically significant by the physician)\n* Known HIV positive individuals on combination antiretroviral therapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

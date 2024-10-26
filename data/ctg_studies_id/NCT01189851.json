@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01189851",
+    "briefTitle": "Intraoperative Radiotherapy for Early Stage Breast Cancer",
+    "officialTitle": "Intraoperative Radiotherapy (IORT) for the Management of Carcinoma of the Breast: Use of Mammography, Ultrasonography,and Contrast-Enhanced Magnetic Resonance Imaging (CE-MRI) to Identify Candidates for IORT",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Proportion of Participants Receiving Additional Surgery Because of Positive or Close Margins as a Measure of the Accuracy of Pre-Operative Assessment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Informed Consent. Each eligible patient must willingly give written consent after being informed of the procedures to be followed, the experimental nature of the therapy, alternatives, potential benefits, side effects, risks, and discomforts.\n2. Histology. Patients must have biopsy-proven invasive ductal or lobular carcinoma of the breast.\n3. Female, age \u2265 48 years.\n4. Clinically and/or histologically negative axillary lymph nodes.\n5. No imaging or clinical findings that indicate metastatic disease.\n6. Procedure deemed appropriate based upon factors such as breast size by the treating surgeon and radiation oncologist.\n\nExclusion Criteria:\n\n1. Male sex\n2. Age \\< 48\n3. Non-epithelial breast malignancies such as sarcoma, lymphoma, or metastatic breast cancer\n4. Pregnancy or lactation\n5. Serious psychiatric or addictive disorders\n6. More than one obvious cancer in the same breast as diagnosed by clinical examination, mammography, ultrasonography, and/or CE-MRI.\n7. Bilateral breast cancer at the time of diagnosis, unless agreed upon by the surgeon and radiation oncologist.\n8. Ipsilateral breast with a previous cancer and/or irradiation.\n9. Extensive Intraductal Component (DCIS \u2265 25% of the tumor).\n10. Patients presenting with gross nodal disease considered to be clinically malignant by scanning or proven cytologically or by sentinel node biopsy will be cancelled.\n11. Previous history of malignant disease does not preclude entry if the expectation of relapse-free survival at 10 years is 90% or greater.\n12. Lymphovascular invasion on needle biopsy.\n13. Patients undergoing primary medical treatment (hormones or chemotherapy) as initial treatment with intent to reduce tumor size.",
+    "sex": "FEMALE",
+    "minimumAge": "48 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01239251",
+    "briefTitle": "GlowCap Reminder System in Patients With Early Stage Breast Cancer Receiving Adjuvant Endocrine Therapy",
+    "officialTitle": "Feasibility of Using the GlowCap Reminder System in Patients With Early Stage Breast Cancer Receiving Adjuvant Endocrine Therapy",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 8,
+    "primaryOutcomeMeasure": "Assess the usability of the GlowCap system by patients",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Early stage breast cancer patients taking adjuvant endocrine therapy (ie, tamoxifen, anastrozole, letrozole, exemestane).\n* Age \u2265 60 years\n* Must have broadband internet access at home (to enable the base for the system to communicate to the Vitality server).\n* Must have a landline or mobile phone\n\nExclusion Criteria:\n\n* Non-English speaking patients",
+    "sex": "FEMALE",
+    "minimumAge": "60 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

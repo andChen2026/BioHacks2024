@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06006910",
+    "briefTitle": "Electronic Medical Record-Based Nudge to Reduce SLNB",
+    "officialTitle": "An Electronic Medical Record-Based Nudge Intervention to Reduce Low-Value Axillary Surgery in Older Women With ER+ Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Estrogen-receptor-positive Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 7,
+    "primaryOutcomeMeasure": "Rate of SLNB after nudge deployment into the EHR",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* early-stage (stages I-III) breast cancer\n* clinically node-negative\n* ER+ and/or PR+, HER2 not-amplified\n* non-metastatic at diagnosis\n\nExclusion Criteria:\n\n* under 70 years of age\n* breast cancer is that is not ER+ or PR+",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

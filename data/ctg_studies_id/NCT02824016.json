@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02824016",
+    "briefTitle": "Evaluation of Hypothyroidism Incidence After Breast Cancer Supraclavicular Irradiation",
+    "officialTitle": "A Prospective Multicentric Evaluation of the Rate of Incidence of Hypothyroidism After Supraclavicular Irradiation for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Irradiation; Adverse Effect, Irradiation Hypothyroidism",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Number of patients with treatment-related adverse effects on thyroid function as assessed by CTCAE v4.0",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women older than 18\n* Non metastatic breast cancer, histologically proved, whatever T and N stages and receptors status.\n* Breast cancer treated by surgery (either initial treatment then biotherapies and/or neoadjuvant chemotherapy, either secondarily after biotherapies and/or neoadjuvant chemotherapy, either without chemotherapy and/or biotherapies)\n* Breast cancer requiring an adjuvant radiotherapy\n* Treatment by radiotherapy made in participating centers\n* Information of patient and signature of the informed consent.\n\nExclusion Criteria:\n\n* Pre-existent dysthyroidism revealed before radiotherapy or at inclusion checkup (THS lower or superior to the standard of the laboratory, whatever the rate of free T4)\n* History of thyroid surgery\n* Bilateral breast cancer\n* History of cervical and/or supra-clavicular radiotherapy\n* Lack of social security insurance\n* Subjects deprived of free behavior or under administrative control",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

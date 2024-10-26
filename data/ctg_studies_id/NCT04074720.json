@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04074720",
+    "briefTitle": "Prospective Breast Cancer Biospecimen Collection",
+    "officialTitle": "Prospective Breast Cancer Biospecimen Collection",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Invasive Breast Cancer, Carcinoma in Situ of the Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Tumor biomarker identification",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults \\>18 years old at time of consent\n* Subject must be capable to giving informed consent or have an acceptable surrogate capable of giving consent on the subject behalf.\n* Patients with carcinoma in situ or invasive breast cancer\n* Patient must be undergoing one of the following:\n\n  * definitive surgical tumor resection for breast cancer OR\n  * placement of a vascular access device as a prelude to neoadjuvant therapy for breast cancer OR\n  * neurosurgical resection of a brain metastasis from primary breast cancer.\n\nExclusion Criteria:\n\n* \\<18 years old\n* Not able to give informed consent and does not have acceptable surrogate capable to giving informed consent.\n* Active drug/alcohol dependence or abuse history",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

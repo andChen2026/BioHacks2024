@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01735175",
+    "briefTitle": "Phase III Study Comparing the Efficacy and Safety of LA-EP2006 and Neulasta\u00ae",
+    "officialTitle": "A Randomized, Double-blind, Parallel-group, Multi-center Phase 3 Comparative Study Investigating Efficacy and Safety of LA-EP2006 and Neulasta\u00ae in Breast Cancer Patients Treated With Myelosuppressive Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neutropenic Complications, Breast Neoplasms, Chemotherapy-induced Neutropenia, Chemotherapeutic Toxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 316,
+    "primaryOutcomeMeasure": "Mean Duration of Severe Neutropenia (DSN) During Cycle 1 of Chemotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histologically proven breast cancer\n* eligible for six cycles of neoadjuvant or adjuvant chemotherapy\n\nExclusion Criteria:\n\n* concurrent or prior chemotherapy for breast cancer\n* concurrent or prior anti-cancer treatment for breast cancer such as endocrine therapy, immunotherapy, monoclonal antibodies, and/or biological therapy\n* concurrent prophylactic antibiotics\n* previous therapy with any G-CSF (granulocyte-colony stimulating factor) product\n\nOther protocol-defined inclusion/exclusion criteria may apply.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

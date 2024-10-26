@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00639366",
+    "briefTitle": "Radiation Therapy to the Head in Preventing Brain Metastases in Women Receiving Trastuzumab and Chemotherapy for Metastatic or Locally Advanced Breast Cancer",
+    "officialTitle": "Prospective Randomised Clinical Trial Testing the Role of Prophylactic Cranial Radiotherapy in Patients Treated With Trastuzumab (Herceptin\u00ae) for Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 390,
+    "primaryOutcomeMeasure": "Incidence of symptomatic brain metastases",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically proven breast carcinoma\n\n  * Metastatic or locally advanced disease\n* Must demonstrate HER2 3+ positivity on IHC or 2+ over-expression and FISH test demonstrating C-erB2 gene amplification\n* No known or suspected brain metastases or CNS disease, as defined by the presence of any of the following key symptoms:\n\n  * Headache\n  * Nausea and/or vomiting\n  * Clinical signs of raised intracranial pressure\n  * Seizures\n  * Focal symptoms\n  * Cognitive dysfunction\n  * Affective disorder\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Postmenopausal status not specified\n* ECOG performance status 0 or 1\n* Patients must a-priori be suitable for trastuzumab (Herceptin\u00ae) +/- chemotherapy in terms of bone marrow, hepatic, and renal function\n* No prior history of cerebrovascular disease or neurological disorder including seizures\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior cranial radiotherapy\n* No prior neurosurgery",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

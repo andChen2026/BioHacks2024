@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04890327",
+    "briefTitle": "Web-based Family History Tool",
+    "officialTitle": "Clinical Utility of a Web-based Tool for Collection of Family Health History and Risk-assessment in Patients Presenting to a Gynecologic Oncology Clinic",
+    "overallStatus": "COMPLETED",
+    "conditions": "Gynecologic Cancer, Breast Cancer, BRCA1 Mutation, BRCA2 Mutation",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 250,
+    "primaryOutcomeMeasure": "Proportion of subjects with high quality family health history (FHH)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nFemale \\> 18 years of age. Scheduled for new patient visit with one of the gynecologic oncologists at Weill Cornell Medicine (Melissa Frey MD, Kevin Holcomb MD, Evelyn Cantillo MD, Eloise Chapman MD).\n\nExclusion Criteria:\n\nSubjects who cannot communicate in English as the FHH collection tool and surveys are available only in English.\n\nSubjects who were adopted and have no information about their family health history.\n\nSubjects who do not present for the new patient visit.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

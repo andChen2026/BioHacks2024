@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01022086",
+    "briefTitle": "Assessment of Cardiotoxicity by Cardiac Magnetic Resonance (CMR) in Breast Cancer Patients Receiving Trastuzumab",
+    "officialTitle": "Assessment of Cardiotoxicity by Cardiac MRI Versus MUGA Scans in Breast Cancer Patients Receiving Trastuzumab: A Double-Blinded Prospective Observational Pilot Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Stage I-IV Breast Cancer (Neo-adjuvant, Adjuvant, Locally Advanced and Metastatic)",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "To compare CMR with MUGA scans for determining LVEF and LV volumes in breast cancer patients treated with trastuzumab.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged 18 years or older\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* Histologically confirmed diagnosis of invasive breast carcinoma\n* Histologically confirmed HER2 overexpression using IHC and/or FISH and/or DISH\n* Planned treatment with Trastuzumab or TDM-1\n* Baseline LVEF \\>50% by MUGA (ECHOs or any other type of cardiac scanning may be done as part of standard clinical care, at the investigator's discretion; ECHOs cannot be done in place of MUGA scans)\n\nExclusion criteria:\n\n* Previous treatment with trastuzumab or any other anti-HER2 agent (e.g. lapatinib, pertuzumab, etc.)\n* Pre-existing symptomatic Heart Failure (NYHA Class III or IV)\n* Recent acute coronary syndrome (myocardial infarction, unstable angina) within the last six months\n* Recent coronary revascularization (percutaneous coronary intervention or coronary bypass surgery) within six months\n* Permanent atrial fibrillation\n* Inability to undergo MRI (shrapnel, metallic implants/clips, pacemaker or defibrillator)\n* Currently pregnant and/or nursing\n* Planned or current use of other targeted biological therapies that can potentially cause cardiotoxicity (i.e. bevacizumab)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

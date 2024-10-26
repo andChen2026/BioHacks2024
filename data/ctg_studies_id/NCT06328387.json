@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06328387",
+    "briefTitle": "HCQ+ADC vs ADC in the Treatment of Advanced Breast Cancer",
+    "officialTitle": "Open, Controlled, Multicenter Phase I/II Clinical Study of Hydroxychloroquine in Combination With Antibody-drug Conjugate Versus Antibody-drug Conjugate for Advanced Breast Cancer.",
+    "overallStatus": "RECRUITING",
+    "conditions": "Advanced Breast Cancer, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Dose Limiting Toxicity, DLT",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Diagnosis of advanced breast cancer (female, 18 to 70 years old).\n2. Pathological confirmed advanced breast cancer.\n3. The patient is willing to receive SG or T-DXd treatment.\n4. Failure of first-line treatment.\n5. Have received no more than 3 chemotherapy schemes for metastatic breast cancer in the past.\n6. ECOG physical condition score \u2264 2 points, estimated survival time of no less than 3 months.\n7. At least one measurable lesion should be present in the imaging examination within 2 weeks prior to enrollment; Or simple bone metastasis lesions.\n8. LVEF\u226550%.\n9. Previous treatment related toxicity must be relieved to NCI CTCAE (version 5.0) \u2264 1 degree, AST and ALT \u2264 2.5 times the upper limit of normal value, and total bilirubin \u2264 1.5 times the upper limit of normal value.\n10. Adequate reserve of bone marrow function: white blood cell count \u2265 3.0 \u00d7 10\\^9/L, neutrophil count \u2265 1.5 \u00d7 10\\^9/L; Platelet count \u2265 100 \u00d7 10\\^9/L; Hemoglobin \u2265 90g/L; Serum creatinine \u2264 1.5 times the upper limit of normal value.\n\nExclusion Criteria:\n\n1. Patients suffer from various factors such as difficulty swallowing and chronic diarrhea, which affect medication intake and absorption.\n2. Individuals with severe heart disease or discomfort, expected inability to tolerate chemotherapy, including but not limited to: fatal arrhythmias or higher-level atrioventricular block, unstable angina, clinically significant valvular heart disease, electrocardiogram showing transmural myocardial infarction, and uncontrolled hypertension.\n3. Patients who are known to be allergic to the active ingredients or other components of the investigational drug.\n4. Received radiotherapy, chemotherapy, endocrine therapy within 4 weeks prior to enrollment, or is currently participating in any intervention drug clinical trials.\n5. Pregnant or lactating women, women of childbearing age who refuse to take effective contraceptive measures during the study period.\n6. The researchers believe that patients are not suitable to participate in any other circumstances of this study, which may interfere with the accompanying diseases or conditions of the study, or have any serious medical obstacles that may affect the safety of the subjects.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

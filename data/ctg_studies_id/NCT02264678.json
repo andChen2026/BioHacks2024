@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02264678",
+    "briefTitle": "Ascending Doses of Ceralasertib in Combination With Chemotherapy and/or Novel Anti Cancer Agents",
+    "officialTitle": "A Modular Phase I, Open-Label, Multicentre Study to Assess the Safety, Tolerability, Pharmacokinetics and Preliminary Anti-tumour Activity of Ceralasertib in Combination With Cytotoxic Chemotherapy and/or DNA Damage Repair/Novel Anti-cancer Agents in Patients With Advanced Solid Malignancies.",
+    "overallStatus": "RECRUITING",
+    "conditions": "Adv Solid Malig - H&N SCC, ATM Pro / Def NSCLC, Gastric, Breast and Ovarian Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 466,
+    "primaryOutcomeMeasure": "The number of subjects with adverse events/serious adverse events",
+    "eligibilityCriteria": "Principal Inclusion criteria:\n\n* Aged at least 18\n* The presence of a solid malignant tumour that is not considered appropriate for further standard treatment\n* Module 2 Part B study expansions, and Module 3: patients must have a tumour at least 1 cm in size that can be measured using a CT or MRI scan\n* Module 2 Part B All (except B5): No previous treatment with PARP inhibitor.\n* Module 2 Part B1 Study expansion: advanced gastric adenocarcinoma (including GEJ) patients with ATM deficient tumours\n* Module 2 Part B2 Study expansion: advanced gastric adenocarcinoma (including GEJ) patients with ATM proficient tumours\n* Module 2 Part B3 Study expansion: Second or thrid line HER2 negative breast cancer\n* Module 2 Part B4 Study expansion: Second or third line triple negative breast cancer (TNBC)\n* Module 2 Part B5 Study expansion: BRCAm or RAD51C/Dm or PALB2m or HRD positive status ovarian cancer patient who are Platinum Sensitive Relapsed and have previously progressed on a licensed PARPi\n* Module 3: advanced recurrent or metastatic non-small cell lung cancer, or head and neck squamous cell carcinoma\n* Module 4: any advanced solid tumours except gastric, gastro-oesophageal, oesophageal or colorectal cancer with a small bowel resection\n* Module 4: Ability to comply with an overnight fast of at least 10 hours prior to dosing and 4 hours after dosing as mandated, and ability to eat a high fat meal as mandated\n* Module 5 All: Ovarian fallopian tube or primary peritonial cancer, previous treatment with PARP inhibitor, platinum-sensitive relapsed ovarian cancer\n* Module 5 Part B: known or suspected BRCA mutation, PALB2 mutation, RAD51C/D mutation or HRD positive status\n\nPrincipal exclusion criteria\n\n* A diagnosis of ataxia telangiectasia\n* Prior exposure to an ATR inhibitor\n* Bad reaction to ceralasertib\n* Module 2: Contra-indicated for treatment with olaparib\n* Module 3: Contra-indicated for treatment with durvalumab\n* Module 4: Mean resting corrected QT interval (QTc) \\>470 msec or history of familial long QT syndrome.\n* Module 4: Patients with type I or type II diabetes\n* Module 5: Known hypersensitivity to PARP including AZD5305",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

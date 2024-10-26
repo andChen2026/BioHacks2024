@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02431260",
+    "briefTitle": "An Open-Label, Dose-Escalation Study of INCB054329 in Patients With Advanced Malignancies",
+    "officialTitle": "A Phase 1/2, Open-Label, Dose-Escalation, Safety and Tolerability Study of INCB054329 in Subjects With Advanced Malignancies",
+    "overallStatus": "TERMINATED",
+    "conditions": "Solid Tumors and Hematologic Malignancy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 69,
+    "primaryOutcomeMeasure": "Number of Participants With a Treatment-emergent Adverse Event (TEAE)",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Confirmed diagnosis of advanced malignancy:\n\n  * Treatment Group A (TGA): Part 1 and Part 2: Any advanced solid tumor or lymphoma; Part 3: Histologically confirmed disease in specific solid tumors and lymphomas\n  * Treatment Group B (TGB): Acute Leukemia (Part 3 - acute myeloid leukemia \\[AML\\] only), myelodysplastic syndrome (MDS), myelodysplastic /myeloproliferative neoplasms (MDS/MPN) and myelofibrosis (MF)\n  * Treatment Group C (TGC): Multiple myeloma\n* Progressed following at least 1 line of prior therapy and there is no further approved therapy available that has been demonstrated to prolong survival (including subjects who are intolerant to the approved therapy)\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 in Parts 1 and 2 dose escalation and titration, and 0, 1, 2 in Part 3 dose expansion\n\nKey Exclusion Criteria:\n\n* Inadequate hematopoietic, liver, endocrine or renal function\n* Receipt of anticancer medications or investigational drugs within the following interval before the first administration of study drug:\n\n  * \\< 6 weeks for mitomycin-C or nitrosoureas\n  * \\< 5 half-lives or 14 days, whichever is longer, for any investigational agent (for any indication)\n  * \\< 28 days for any antibodies or biological therapies\n  * \\< 5 half-lives for all other anticancer medications, or sponsor approval\n* Prior radiotherapy within 2 weeks prior to first dose of study drug\n* Untreated brain or central nervous system (CNS) metastases\n* Type 1 diabetes or uncontrolled Type 2 diabetes\n* Any sign of clinically significant bleeding",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

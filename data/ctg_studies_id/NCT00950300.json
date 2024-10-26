@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00950300",
+    "briefTitle": "A Study to Compare Subcutaneous (SC) Versus Intravenous (IV) Administration of Herceptin (Trastuzumab) in Women With Human Epidermal Growth Factor Receptor (HER) 2-Positive Early Breast Cancer",
+    "officialTitle": "A Phase III, Randomized Open-Label Study to Compare the Pharmacokinetics, Efficacy, and Safety of Subcutaneous (SC) Trastuzumab With Intravenous (IV) Trastuzumab Administered in Women With HER2-Positive Early Breast Cancer (EBC)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 596,
+    "primaryOutcomeMeasure": "Observed Serum Trough Concentration (Ctrough) of Trastuzumab Prior to Surgery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult women greater than or equal to (\u2265) 18 years of age\n* Non-metastatic primary invasive adenocarcinoma of the breast clinical stage I to IIIC, including inflammatory and multicentric/multifocal breast cancer, with tumor size \u22651 centimeter (cm) by ultrasound or \u22652 cm by palpation, centrally confirmed HER2-positive (immunohistochemical score \\[IHC\\] 3+ or in situ hybridization \\[ISH\\]-positive)\n* At least 1 measurable lesion in breast or lymph nodes (\u22651 cm by ultrasound or \u22652 cm by palpation), except for inflammatory carcinoma (T4d)\n* Baseline left ventricular ejection fraction (LVEF) \u226555%\n* Eastern Cooperative Oncology Group (ECOG) status of 0 or 1\n* Adequate organ function at Baseline\n\nExclusion Criteria:\n\n* History of any prior (ipsilateral and/or contralateral) invasive breast carcinoma\n* Past or current history of malignant neoplasms, except for curatively treated basal and squamous cell carcinoma of the skin and in situ carcinoma of the cervix\n* Metastatic disease\n* Any prior therapy with anthracyclines\n* Prior anti-HER2 therapy or biologic or immunotherapy\n* Serious cardiac illness\n* Pregnant or lactating women",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

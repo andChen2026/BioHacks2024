@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00055679",
+    "briefTitle": "Combination Chemotherapy in Treating Women With Stage I Breast Cancer",
+    "officialTitle": "Phase III Randomized Study Of Adjuvant Fluourouracil, Epirubicin And Cyclophosphamide, In Women With Stage I Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1512,
+    "primaryOutcomeMeasure": "Efficacy, in terms of 5-year survival",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed nonmetastatic, unilateral adenocarcinoma of the breast\n\n  * Stage I\n  * No clinically or radiologically suspicious metastases\n  * No positive sentinel lymph nodes by immunohistochemistry for tumors less than 2 cm\n  * No clinically proven positive axillary lymph nodes\n\n    * Tumor cells found on immunohistochemistry only allowed\n  * No clinically or radiologically contralateral suspicious lesions\n* No deeply adherent disease\n* No cutaneous invasion\n* No inflammatory disease\n* Complete surgical resection within the past 42 days\n\n  * At least 8 lymph nodes removed\n* Tumor at least 1 cm with no residual disease\n* Presenting with at least 1 of the following factors of a poor prognosis:\n\n  * Tumor greater than 2 cm\n  * Hormone receptor negative tumor\n  * Grade II or III\n  * 35 years old or under\n* Hormone receptor status:\n\n  * Positive or negative\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 to 65\n\nSex\n\n* Female\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* WHO 0-1\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* WBC at least 2,000/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n\nHepatic\n\n* Bilirubin no greater than 1.25 times upper limit of normal (ULN)\n* AST and ALT no greater than 1.25 times ULN\n* Alkaline phosphatase no greater than 2.5 times ULN\n* No chronic hepatitis B\n* No active hepatitis C\n\nRenal\n\n* Creatinine no greater than 1.25 times ULN\n\nPulmonary\n\n* FEV normal\n\nOther\n\n* Not pregnant or nursing\n* HIV negative\n* No prior breast cancer or other malignancy\n* No familial, social, or geographical reason that would preclude study participation\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* No prior chemotherapy\n\nEndocrine therapy\n\n* No prior anticancer hormone therapy\n\nRadiotherapy\n\n* No prior radiotherapy\n\nSurgery\n\n* See Disease Characteristics",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

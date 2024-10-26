@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01855503",
+    "briefTitle": "Breast Cancer Molecular Analysis Protocol",
+    "officialTitle": "Breast Cancer Molecular Analysis Prior to Investigational Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 121,
+    "primaryOutcomeMeasure": "molecular analysis of metastatic breast cancer using DNA sequencing",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. All patients with metastatic breast cancer who are considered for further systemic therapy are eligible regardless of number of prior therapies.\n2. Patient must have a metastatic lesion that could be safely biopsied with or without image-guidance. The final arbiter to decide what lesion can be biopsied is the physician who will perform the biopsy.\n3. There is no age limit for this study. However, this study will not include children because metastatic breast cancer does not occur in children.\n4. Patients may participate in the biopsy study multiple times to repeat molecular assessment of the cancer after progression.\n5. Patients who undergo routine clinical biopsy of metastatic breast cancer are also eligible to participate in this study. When the routine biopsies are obtained for diagnostic or other purposes, additional biopsies will be taken during the same biopsy session for molecular analysis.\n\nExclusion Criteria:\n\n1. Known medical contraindication for needle biopsy procedure such as bleeding disorder, low platelet count, inability to provide informed consent",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02751606",
+    "briefTitle": "Nano MRI on 7 Tesla in Rectal and Breast Cancer",
+    "officialTitle": "Nano MRI on 7 Tesla: a Technical Validation Study in Rectal and Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Rectal Neoplasms, Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Sensitivity and specificity of 7 Tesla MRI in combination with ferumoxtran-10 on nodal level.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nGeneral criteria:\n\n* Age \\> 18 years\n\nInclusion criteria rectal cancer patients:\n\n* Patients with recently histologically proven rectal cancer, who are planned to undergo a total mesorectal excision without neo-adjuvant radiotherapy.\n\nInclusion criteria breast cancer patients:\n\n* Patients with recently histologically proven breast cancer (Stage II), who are planned for surgery with sentinel node procedure, but will receive no neo-adjuvant therapy or will undergo an axillary lymph node dissection without prior sentinel node procedure and will receive no neo-adjuvant therapy.\n\nExclusion Criteria:\n\nGeneral exclusion criteria:\n\n* BMI \\> 30 kg/m2\n* Pregnancy\n* Karnofsky score \\<= 70\n* Contraindications for 7T MRI:\n\n  * Epilepsy\n  * Inability to provide informed consent\n  * Metal implants that are not compatible with 7 Tesla MRI\n* Contraindications to USPIO based contrast agents:\n\n  * prior allergic reaction to ferumoxtran-10 or any other iron preparation\n  * prior allergic reaction contributed to dextran or other polysaccharide, in any preparation\n  * prior allergic reaction to contrast media of any type\n  * hereditary hemochromatosis, thalassemia, sickle cell anemia;\n\nExclusion criteria for rectal cancer:\n\n* Inflammatory diseases of the abdomen (such as Crohn's disease)\n* Previous abdominal surgery or radiotherapy\n\nExclusion criteria for breast cancer:\n\n* Prior radiotherapy or surgery to axillae",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03078036",
+    "briefTitle": "International Breast Cancer Biomarker,Standard of Care and Real World Outcomes Study",
+    "officialTitle": "BREAKOUT -International Breast Cancer Biomarker, Standard of Care and Real World Outcomes Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 873,
+    "primaryOutcomeMeasure": "BRCA Mutational status (BRCA1 mutated and/or BRCA2 mutated or BRCA wild type).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Provision of signed, written and dated informed consent.\n2. Adult females (according to the age of majority/adulthood as defined by local regulations).\n3. Histologically or cytologically confirmed HER2-ve breast cancer with evidence of metastatic disease.\n4. Initiated treatment with 1st line systemic cytotoxic chemotherapy (not hormonal therapy) for metastatic breast cancer in the last 90 days and, at that time, are considered to have exhausted hormone therapy options (if HR+ve).\n\nExclusion Criteria:\n\n1. Previous enrolment in this study.\n2. Involvement in the planning and/or conduct of this study (applies to both AstraZeneca staff and/or staff at the study site).\n3. Current participation in a clinical study with an investigational oncology product.\n4. Previous PARPi therapy, including, but not limited to, participation in a previous clinical study that included PARPi therapy.\n5. Current commencement of PARPi treatment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

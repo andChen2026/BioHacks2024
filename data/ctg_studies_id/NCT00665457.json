@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00665457",
+    "briefTitle": "Biomarkers in Women Receiving Chemotherapy & Celecoxib for Stage II or Stage III Breast Cancer Removable by Surgery",
+    "officialTitle": "Neoadjuvant Therapy and Biomarker Analysis of Stage II and III Breast Cancer With Docetaxel/Capecitabine and Celecoxib Followed by Doxorubicin/Cyclophosphamide and Celecoxib",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 3,
+    "primaryOutcomeMeasure": "Number of Participants With Grade 4 Adverse Events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathologic evidence of invasive breast cancer\n\n  * Stage II-III disease\n  * Resectable disease\n* Must have a primary tumor estimated by mammogram, ultrasound or palpation to be \u2265 3 cm and/or palpable axillary nodes \\> 1 cm for whom neoadjuvant chemotherapy is appropriate\n* ECOG performance status 0-1\n* Absolute granulocyte count \\> 2,000/mm\\^3\n* Platelet count \\> 100,000/mm\\^3\n* Serum bilirubin \\< 1.5 times upper limit of normal (ULN)\n* Serum creatinine \\< 1.5 times ULN\n* Fertile patients must use effective contraception during and for 3 months after completion of study therapy\n* At least 2 weeks since prior treatment with cyclooxygenase (COX)-2 inhibitors\n\nExclusion Criteria:\n\n* Not pregnant or nursing/negative pregnancy test\n* No allergies to sulfa medication, aspirin or other nonsteroidal anti-inflammatory drugs (NSAIDs)\n* No uncontrolled concurrent illness that might jeopardize the patient's ability to receive the chemotherapy program outlined in this protocol, including any of the following:\n\n  * Active infection requiring intravenous antibiotics\n  * Symptomatic congestive heart failure\n  * Unstable angina pectoris\n  * Serious, uncontrolled cardiac arrhythmia\n* No other prior malignancy except for adequately treated basal cell or squamous cell skin cancer, noninvasive carcinomas, or other cancers from which the patient has been disease-free for at least 5 years\n* No prior chemotherapy or radiation therapy for ipsilateral breast cancer\n* No concurrent sorivudine or brivudine to treat herpes simplex or herpes zoster viral infections\n* No concurrent participation in another therapeutic clinical trial",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

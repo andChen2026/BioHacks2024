@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04622696",
+    "briefTitle": "HydroMARK Post-market Clinical Follow-up Study",
+    "officialTitle": "A Post-market Clinical Follow-up Study to Evaluate the Safety and Performance of the HydroMARK\u00ae Breast Biopsy Site Marker",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 730,
+    "primaryOutcomeMeasure": "Safety Cohort",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nSafety Cohort\n\n* Subject was implanted during a breast biopsy procedure with a HydroMARK Breast Biopsy Site Marker manufactured at the Devicor Tijuana facility per the instructions for use\n* Subject has been followed at least 90 days according to the hospital's standard of care (SOC)\n* Subject was \u2265 18 years of age at the time of the breast biopsy procedure\n* Subject has accessible medical records documenting the breast biopsy procedure including, at minimum: age, sex, primary diagnostic indication and documentation of device-related adverse events which occurred, if any\n\nPerformance Cohort\n\n* Subject was implanted during a breast biopsy procedure with a HydroMARK Breast Biopsy Site Marker manufactured at the Devicor Tijuana facility per the instructions for use\n* Patient is \u226518 years of age\n* Patient has provided informed consent to participate in study, including follow-up visit for ultrasound imaging at 6-12 weeks post-biopsy\n\nExclusion Criteria:\n\nSafety Cohort\n\n\u2022 Biopsy area was infected at the time of implant\n\nPerformance Cohort\n\n* Contraindication to HydroMARK Breast Biopsy Site Marker implantation\n* Biopsy area is infected at the time of implant\n* Patient has a breast biopsy marker (in the same breast) implanted from a previous procedure",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

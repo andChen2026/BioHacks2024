@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01989676",
+    "briefTitle": "A Study Of PF-05280014 [Trastuzumab-Pfizer] Or Herceptin\u00ae [Trastuzumab-EU] Plus Paclitaxel In HER2 Positive First Line Metastatic Breast Cancer Treatment (REFLECTIONS B327-02)",
+    "officialTitle": "A PHASE 3 RANDOMIZED, DOUBLE-BLIND STUDY OF PF-05280014 PLUS PACLITAXEL VERSUS TRASTUZUMAB PLUS PACLITAXEL FOR THE FIRST-LINE TREATMENT OF PATIENTS WITH HER2-POSITIVE METASTATIC BREAST CANCER",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 707,
+    "primaryOutcomeMeasure": "Objective Response Rate (ORR) Derived From Central Radiology Assessments: ITT Population",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of breast cancer.\n* Presence of metastatic disease.\n* Documentation of HER2 gene amplification or overexpression.\n* Available tumor tissue for central review of HER2 status.\n* At least 1 measurable lesion as defined by RECIST 1.1.\n* Eastern Cooperative Oncology Group status of 0 to 2.\n* Left ventricular ejection fraction within institutional range of normal, measured by either two dimensional echocardiogram or multigated acquisition scan.\n\nExclusion Criteria:\n\n* Relapse within 1 year of last dose of previous adjuvant (including neoadjuvant) treatment (except endocrine therapy) and within 1 year before randomization.\n* Prior systemic therapy for metastatic disease (except endocrine therapy).\n* Prior cumulative dose of doxorubicin of \\>400 mg/m2, epirubicin dose \\>800 mg/m\\^2, or the equivalent dose for other anthracyclines or derivatives (eg, 72 mg/m\\^2 of mitoxantrone). If the patient has received more than one anthracycline, then the cumulative dose must not exceed the equivalent of 400 mg/m\\^2 of doxorubicin.\n* Inflammatory breast cancer.\n* Active uncontrolled or symptomatic central nervous system metastases.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

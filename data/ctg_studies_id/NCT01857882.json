@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01857882",
+    "briefTitle": "Decision Support Workshop for Breast Reconstruction",
+    "officialTitle": "Breast Reconstruction Decision Workshop Pilot RCT (Randomized Controlled Trial)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 41,
+    "primaryOutcomeMeasure": "Decision Self-efficacy Scale",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient age: 18 - 79 years at the time of consultation\n* In situ or invasive biopsy confirmed breast adenocarcinoma\n* Considered for immediate or delayed breast reconstruction\n* First consultation for breast reconstruction\n\nExclusion Criteria:\n\n* Chest wall or atypical breast malignancy (ex: angiosarcoma) or inflammatory adenocarcinoma of the breast\n* Completion any phase of reconstruction, or for revision reconstruction\n* Patient cannot read or write in English.\n* Cognitive impairment or uncontrolled psychiatric diagnosis",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

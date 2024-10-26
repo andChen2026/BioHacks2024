@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04692818",
+    "briefTitle": "3D Ultrasound Breast Imaging",
+    "officialTitle": "3D Multimodal Ultrasound Imaging for Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 125,
+    "primaryOutcomeMeasure": "BI-RADS Score",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult women, \u2265 18 years of age.\n* Breast lesion and are scheduled for clinically-indicated biopsy.\n\nExclusion Criteria:\n\n* \\< 18 years of age.\n* Previous breast surgery or breast implant.\n* Lacking capacity to consent.\n* Pregnant or lactating.\n* Receiving cancer therapy such as chemotherapy or radiation therapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

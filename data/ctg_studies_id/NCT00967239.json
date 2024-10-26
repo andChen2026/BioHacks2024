@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00967239",
+    "briefTitle": "Study of Blood Samples From High-Risk Postmenopausal Women Who Received Treatment on Breast Cancer Prevention Clinical Trials NSABP-P-1 or NSABP-P-2",
+    "officialTitle": "The Pharmacogenomics of Breast Cancer Prevention: A Genome-Wide Association Study in Participants Experiencing Breast Cancer Events in High-Risk Postmenopausal Women Receiving Selective Estrogen Receptor Modulators on NSABP Trials P-1 and P-2",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1881,
+    "primaryOutcomeMeasure": "Identification of genes, as measured by single-nucleotide polymorphisms (SNPs), that are associated with breast events",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Meets 1 of the following criteria:\n\n  * Previously treated on the NSABP-P-1 Breast Cancer Prevention clinical trial\n\n    * Caucasian women that did or did not experience an invasive breast cancer or ductal carcinoma in situ (DCIS)\n    * At least 50 years of age at time of entry to P-1\n  * Previously treated on the NSABP-P-2 Breast Cancer Prevention clinical trial\n\n    * Caucasian women that did or did not experience an invasive breast cancer or DCIS\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Postmenopausal status\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

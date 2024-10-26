@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06604078",
+    "briefTitle": "Breast Cancer AI Imaging Study",
+    "officialTitle": "Elucidating the Impact of Social Wellness and Artificial Intelligence on the Psychological Consequences of Breast Cancer Imaging",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Breast Cancer Screening",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 20000,
+    "primaryOutcomeMeasure": "AI Model Training",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults, ages 18 and older\n* Had a radiographic breast cancer imaging test, either for screening or diagnosis of breast cancer, with either positive or negative results performed in a US institution.\n* Have an email account with access to a reliable internet connection or smartphone\n\nExclusion Criteria:\n\n* Minors , ages under 18\n* Prisoners. Given the repository design, prisoners are unlikely to participate and provide a consent\n* Adults who are unable to provide consent.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

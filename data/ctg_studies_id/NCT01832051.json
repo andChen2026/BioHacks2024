@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01832051",
+    "briefTitle": "Clinical Value of 89Zr-trastuzumab PET",
+    "officialTitle": "HER2-PET as a Diagnostic Tool in Breast Cancer Patients With a Clinical Dilemma",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Concordance between HER2-PET results and anti-HER2 therapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with a history of histological and/or cytological proven HER2-positive primary breast cancer. In the Netherlands HER2-positivity is defined as:\n\n   * HER2 immunohistochemical score of 3+, or\n   * HER2 immunohistochemical score of 2+ and positive FISH for HER2/c-erbB2 amplification.\n\n   In Belgium HER2-positivity is defined as positive FISH for HER2/c-erbB2 amplification.\n2. Patients with suspected metastatic disease or local recurrence of HER2-positive breast cancer and a clinical dilemma:\n\n   * in whom standard work up with imaging has failed to solve the clinical dilemma (diagnostic/therapeutic), leaving issues with regard to HER2 status of lesions and\n   * in whom a biopsy is desirable but cannot (easily) be performed due to technical or patient factors or otherwise.\n3. Standard work-up with imaging is defined as CT chest and abdomen, bone scintigraphy, as well as FDG-PET.\n4. Age \\>18 years of age.\n5. WHO performance status 0-2.\n6. Signed written informed consent.\n7. Able to comply with the protocol.\n\nExclusion Criteria:\n\n1. Pregnant or lactating women.\n2. Prior allergic reaction to immunoglobulins or immunoglobulin allergy.\n3. Inability to comply with study procedures",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

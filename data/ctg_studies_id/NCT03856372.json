@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03856372",
+    "briefTitle": "Hypofractionated Vs Conventional Fractionated Postmastectomy Radiotherapy for High Risk Breast Cancer",
+    "officialTitle": "Postmastectomy Hypofractionated Versus Conventional Fractionated Radiotherapy in High Risk Breast Cancer: a Phase III Randomized Clinical Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1494,
+    "primaryOutcomeMeasure": "Loco-regional recurrence (LRR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Age18-75 years\n* Pathologically confirmed invasive breast cancer\n* Treated with mastectomy and axillary lymph node dissection with more than 10 resected lymph nodes. Immediate or delayed ipsilateral breast cancer reconstruction is accepted\n* Negative surgical margins\n* Pathologic T1-2N1 with at least one of the following risk factors: \\<40 years, Grade 3, lymphovascular invasion positive, ER/PR negative or HER2 overexpression, or pT3-4, or pN2-3 (four or more positive axillary lymph nodes)\n* No distant metastases\n* No supraclavicular or internal mammary nodes metastases\n* ECOG:0-1\n* Adjuvant systemic therapy with chemotherapy, endocrine therapy and anti-HER2 treatment is accepted.\n* No neoadjuvant chemotherapy\n* Fit for postoperative radiotherapy. No contraindications to radiotherapy\n* Signed informed consent\n\nExclusion Criteria:\n\n* Concurrent or previous malignancy excluding basal or squamous cell carcinoma of the skin\n* Previous radiotherapy to the chest wall or regional lymph node areas\n* Patients with severe non-malignant comorbidity in cardiovascular or respiration system\n* Patients with medical contraindication for radiotherapy: systemic lupus erythematosus, cirrhosis\n* pT1-2N1 with none of the following risk factors: \\<40 years, Grade 3, lymphovascular invasion positive, ER/PR negative or HER2 overexpression\n* Patients with supraclavicular or internal mammary nodes metastases\n* Known definitive clinical or radiologic evidence of metastatic disease\n* Bilateral breast cancer or historically confirmed contralateral invasive breast cancer\n* Treated with neoadjuvant chemotherapy\n* ECOG: 3-4\n* Pregnant or lactating\n* Conditions indicating that the patient cannot go through the radiation therapy or follow up\n* Unable or unwilling to sign informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

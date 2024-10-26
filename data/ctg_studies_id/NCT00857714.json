@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00857714",
+    "briefTitle": "Lapatinib for Treatment of Ductal Carcinoma In Situ (DCIS) of the Breast",
+    "officialTitle": "Lapatinib in the Treatment of Ductal Carcinoma in Situ of the Breast",
+    "overallStatus": "TERMINATED",
+    "conditions": "Ductal Carcinoma in Situ",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "Number of Patients Where Gene Signature Was Obtained.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age greater than or equal to 18 years.\n2. Patients with operable, biopsy-proven DCIS detected by screening mammography.\n3. ER/PR negative DCIS.\n4. DCIS that is positive for HER-2 \\&/or EGFR, which is defined as IHC 3+.\n5. Women of childbearing potential willing to use an accepted and effective barrier method of contraception.\n6. ECOG performance status \u22642\n7. Cardiac ejection fraction within the institutional range of normal as measured by echocardiogram.\n8. Ability to understand and the willingness to sign a written informed consent document.\n9. Patients must have normal organ and marrow function as defined below:\n\n   * leukocytes \u22653,000/microL\n   * absolute neutrophil count \u22651,500/microL\n   * platelets \u2265100,000/microL\n   * total bilirubin within normal institutional limits\n   * AST (SGOT)/ALT(SGPT) within normal institutional limits\n   * creatinine within normal institutional limits OR creatinine clearance greater than or equal to 60 mL/min/1.73 m2 for patients with creatinine levels above institutional normal (using Cockcroft-Gault formula)\n\nExclusion Criteria:\n\n1. Invasive breast cancer\n2. ER+ or PR+ DCIS\n3. Pregnant or breast feeding women\n4. Patients who have had prior treatment with EGFR targeting therapies.\n5. Patients may not be receiving any other investigational agents or receiving concurrent anticancer therapy. In addition, all herbal (alternative) medicines are excluded one week before starting lapatinib and for the duration of lapatinib therapy.\n6. Uncontrolled inter-current illness including, but not limited to, ongoing or active infection, or psychiatric illness/social situations that would limit compliance with study requirements.\n7. HIV-positive patients receiving combination anti-retroviral therapy are excluded from the study because of possible pharmacokinetic interactions with lapatinib.\n8. Have ANY hepatic or biliary disease or dysfunction.\n9. Patients with GI tract disease resulting in an inability to take oral medication, malabsorption syndrome, a requirement for IV alimentation, prior surgical procedures affecting absorption, uncontrolled inflammatory GI disease (e.g., Crohn's, ulcerative colitis).\n10. Concomitant requirement for medication classified as CYP3A4 inducers or inhibitors.\n11. ANY history of cardiac disease.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

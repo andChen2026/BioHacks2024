@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04932031",
+    "briefTitle": "Risk Prediction of Taxane Chemotherapy-Induced Peripheral Neuropathy",
+    "officialTitle": "Systemic Assessment of CIPN Risk Using Molecular Aging Trajectories",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Chemotherapy-induced Peripheral Neuropathy, Aging",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 123,
+    "primaryOutcomeMeasure": "Change between baseline and the peak EORTC QLQ CIPN20 score during chemotherapy (continuous)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nStudy participants must meet all of the following inclusion criteria to participate in the study:\n\n* Adult female study participants (\u226518 years) with newly diagnosed early-stage (stages I III) non-metastatic breast cancer receiving neoadjuvant or adjuvant chemotherapy that includes paclitaxel or docetaxel\n* Study participants must be capable and willing to provide informed consent, and be willing and able to complete the study questionnaires during the study\n\nExclusion Criteria:\n\nStudy participants who fulfill any of the following criteria will be excluded:\n\n* Patients with metastatic breast cancer\n* History of other cancers (except squamous and basal cell carcinoma)\n* Autoimmune disorders\n* Presence of major active infection for which antibiotics and/or antivirals are prescribed within the last 14 days (chronic or acute, eg, sepsis, HIV, pneumonia, active COVID infection)\n* Pregnant women\n* Participation in an additional study at the time of enrollment where the intervention could potentially alter CIPN risk (unless in the control arm)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

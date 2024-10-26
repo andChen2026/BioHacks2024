@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01484015",
+    "briefTitle": "Prolonged or Standard Infusion of Cefepime Hydrochloride in Treating Patients With Febrile Neutropenia",
+    "officialTitle": "Prolonged Infusion Compared to Standard Infusion Cefepime as Empiric Treatment of Febrile Neutropenia: A Pilot Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Adult Acute Lymphoblastic Leukemia, Adult Acute Myeloid Leukemia, Adult Burkitt Lymphoma, Adult Diffuse Large Cell Lymphoma, Adult Diffuse Mixed Cell Lymphoma, Adult Diffuse Small Cleaved Cell Lymphoma, Adult Hodgkin Lymphoma, Adult Immunoblastic Large Cell Lymphoma, Adult Lymphoblastic Lymphoma, Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative, Breast Cancer, Chronic Eosinophilic Leukemia, Chronic Lymphocytic Leukemia, Chronic Myelogenous Leukemia, Chronic Myelomonocytic Leukemia, Chronic Neutrophilic Leukemia, Cutaneous T-cell Non-Hodgkin Lymphoma, Disseminated Neuroblastoma, Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue, Grade 1 Follicular Lymphoma, Grade 2 Follicular Lymphoma, Grade 3 Follicular Lymphoma, Malignant Testicular Germ Cell Tumor, Mantle Cell Lymphoma, Marginal Zone Lymphoma, Multiple Myeloma, Mycosis Fungoides/Sezary Syndrome, Myelodysplastic Syndromes, Myelodysplastic/Myeloproliferative Neoplasms, Neutropenia, Nodal Marginal Zone B-cell Lymphoma, Ovarian Epithelial Cancer, Ovarian Germ Cell Tumor, Plasma Cell Neoplasm, Poor Prognosis Metastatic Gestational Trophoblastic Tumor, Primary Myelofibrosis, Prolymphocytic Leukemia, Small Lymphocytic Lymphoma, Splenic Marginal Zone Lymphoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 70,
+    "primaryOutcomeMeasure": "Defervescence (without hypothermia)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Absolute neutrophil count \\< 500 cells/mm\\^3 or \\< 1000 cells/mm\\^3 with a predicted decrease to \\< 500 cells/mm\\^3\n* Temperature \\> 38.0 degrees Celsius\n* Received chemotherapy or stem-cell transplant as treatment for malignancy or myelodysplastic syndrome (MDS)\n* Cefepime prescribed at a dose of 2 grams IV every 8 hours\n\nExclusion Criteria:\n\n* Allergy to a cephalosporin antibiotic\n* Estimated creatinine clearance \\< 50 milliliters/minute\n* Concurrent anti-gram negative antimicrobials\n* Diagnostic criteria suggestive of sepsis\n* Circumstances which may make 3 hour infusion impractical\n* Solid tumor malignancy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

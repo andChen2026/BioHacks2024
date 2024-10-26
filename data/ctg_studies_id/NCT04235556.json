@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04235556",
+    "briefTitle": "Integrated Care Pathway in Oncology (PASSION)",
+    "officialTitle": "Integrated Management of Care Pathway in Oncology. Impact on the Delay of Therapeutic Management and the Satisfaction of Patients and Carers",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Colon Cancer, Gastric Cancer, Pancreatic Cancer, Thoracic Neoplasms, Breast Cancer, Ovarian Cancer, Bladder Cancer, Prostate Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1800,
+    "primaryOutcomeMeasure": "Time between the first appointment with the oncologist and the beginning of antitumoral treatment.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven : colon, gastric, pancreatic, prostate, bladder, breast, thoracic, or ovarian cancer\n* First appointment for cancer care at the H\u00f4pital Europ\u00e9en Georges Pompidou\n* Intravenous antitumoral treatment\n\nExclusion Criteria:\n\n* Medical care non covered by social welfare\n* Radiochemotherapy\n* Death in the 6 months following first oncological appointment or absence of medical care in the year following the first oncological appointment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

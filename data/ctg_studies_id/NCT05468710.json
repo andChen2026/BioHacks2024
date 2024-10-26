@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05468710",
+    "briefTitle": "Inflammatory Blood Markers in Breast Cancer Patients Receiving Neoadjuvant Chemotherapy",
+    "officialTitle": "The Prognostic and Predictive Role of Inflammatory Blood Markers in Early and Locally Advanced Breast Cancer Patients Receiving Neoadjuvant Chemotherapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Correlation between inflammatory blood marker (neutrophil to lymphocyte ration (NLR)) and rate of pathological complete response (PCR), and neutropenia / peripheral neuropathy (CTCAE grade).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients aged 18 years old or more.\n* Histologically proven invasive breast cancer.\n* Above cT1 stage, any N Stage with no distant metastasis M0.\n* All subtypes are included, either HR (ER, PR) positive or negative, HER2 positive or negative.\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) of \u2264 2.\n* Patients who completed their systemic neoadjuvant therapy.\n* Available baseline complete blood picture before starting treatment.\n\nExclusion Criteria:\n\n* Second malignancy.\n* Patients with early breast cancer cT1 (\u2264 2 cm) N0.\n* Metastatic patients M1.\n* Patients with systemic inflammatory diseases or autoimmune diseases (Type I Diabetes mellitus, Systemic Lupus Erytheromatosis, Rheumatoid Arthritis, Sjogren's syndrome, Behcet disease).\n* Pregnancy-related breast cancer.\n* Patients with chronic diseases (liver cirrhosis, or end-stage renal disease).\n* Patients on systemic steroids as well as those under NSAIDS or other immunomodulators (as Methotraxate, Tacrolimus and Cyclosporine).\n* Patient who received radiotherapy or endocrine or targeted therapy prior to neoadjuvant chemotherapy.\n* Patients who started but didn't complete neoadjuvant systemic therapy.\n* Patients who didn't undergo surgery after neoadjuvant systemic therapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00150917",
+    "briefTitle": "RCT of a Group Intervention for Women With a Family History of Breast Cancer",
+    "officialTitle": "A Randomized Controlled Trial of a Group Intervention for Women With a Family History of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Psychosocial functioning (using standardized instruments)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* at least one 1st-degree relative with Breast Cancer\n* age 18-70 years\n* live within one hour of downtown Toronto\n* score higher than 15 in Breast Cancer Anxiety Scale (BCAS)\n\nExclusion Criteria:\n\n* Carrier status for genetic mutation (i.e. BRCA1) known\n* Previous diagnosis of breast cancer or other malignancy (other than non-melanoma skin cancer)\n* History of major psychiatric disorder, such as schizophrenia, active psychosis, untreated major depression, as defined in the DSM IV and obtained through a semi-structured psychiatric interview\n* Failure to provide informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

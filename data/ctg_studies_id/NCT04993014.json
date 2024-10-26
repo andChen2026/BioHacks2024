@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04993014",
+    "briefTitle": "Circulating Tumor Cells and Treatment De-escalation After Neoadjuvant Therapy for HER2 Positive Breast Cancer",
+    "officialTitle": "Circulating Tumor Cells and Adjuvant Treatment De-escalation After Neoadjuvant Therapy With Trastuzumab and Pertuzumab for HER2 Positive Early Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Neoplasms, HER2-positive Breast Cancer, Circulating Tumor Cell",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "HER2 therapy disease-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* HER2 positive breast cancer (hormone receptors positive or negative)\n* Stage I to III\n* Indication for neoadjuvant therapy with chemo (any regimen) + trastuzumab + pertuzumab\n* Breast surgery after neoadjuvant therapy\n* Preserved coagnition\n* ECOG 0-3\n* For the randomization phase: pathological complete response (ypT0/ypTis and ypN0)\n* Agreement on participation and signature of de ICF\n\nExclusion Criteria:\n\n* Contradindication for trastuzumab or pertuzumab\n* Adjuvant chemotherapy. Hormone therapy is allowed\n* Second primary tumor \\< 5 years, with an exception for treated non-melanoma skin cancer, and in situ cervical cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

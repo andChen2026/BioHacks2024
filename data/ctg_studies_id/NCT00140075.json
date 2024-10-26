@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00140075",
+    "briefTitle": "Adjuvant Epirubicin/Cytoxan Followed By A Taxane VS. Epirubicin/Taxane As Treatment For Node-Positive Breast Cancer",
+    "officialTitle": "Phase III, Randomized Study Of Epirubicin/Cyclophosphamide Followed By Taxane (Sequential Chemotherapy) Versus Epirubicin/Taxane (Concurrent Chemotherapy) As Adjuvant Treatment For Operable, Node-Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Adenocarcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 606,
+    "primaryOutcomeMeasure": "Disease free survival at 3 years",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast Cancer Stage T1-3, N1, M0\n* Suitable candidate for anthracycline-containing adjuvant chemotherapy\n\nExclusion Criteria:\n\n* Evidence of residual tumor following surgery, or metastatic disease\n* Received prior therapy for breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06429995",
+    "briefTitle": "Standard Follow-up Program (SFP) for Breast Cancer Patients",
+    "officialTitle": "Standard Follow-up Program (SFP) for Breast Cancer Patients",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 10000,
+    "primaryOutcomeMeasure": "Score of Acute toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with breast cancer Patients receiving a radiotherapy dose\n\nExclusion Criteria:\n\n* Failure to comply with any of the inclusion criteria",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

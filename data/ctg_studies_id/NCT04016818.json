@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04016818",
+    "briefTitle": "Pilot Breast-Dedicated PET Camera With 1 Millimeter Spatial Resolution",
+    "officialTitle": "Pilot Study of a Breast-Dedicated PET Camera With 1 Millimeter Spatial Resolution",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DEVICE_FEASIBILITY",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Image quality with the breast-dedicated PET camera",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Biopsy-confirmed breast cancer measuring \u2265 5 mm on mammogram or ultrasound.\n* Prior diagnostic imaging test(s) with another modality such as MRI, CT, or x-ray mammography (or other applicable imaging modalities) within 60 days prior to the study date.\n* Documented written informed consent document.\n\nExclusion Criteria:\n\n* 1. Additional condition, or extenuating circumstance that, in the opinion of the investigator, may interfere with study compliance.\n* Known allergies to FDG\n* Pregnant or nursing.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

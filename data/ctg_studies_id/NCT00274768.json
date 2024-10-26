@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00274768",
+    "briefTitle": "Capecitabine in Treating Patients With Metastatic Breast Cancer",
+    "officialTitle": "Phase II Study of Fixed-Dose Capecitabine in Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "Response Rate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed diagnosis of adenocarcinoma of the breast\n\n  * Evidence of metastatic involvement (stage IV disease)\n* Patients must have measurable disease\n\n  * At least one measurable lesion as defined by the Response Evaluation Criteria in Solid Tumors (RECIST)\n* Treated brain metastases (surgery or radiation therapy) allowed if clinically stable\n* Patients with leptomeningeal disease are ineligible\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* Male or female\n* Menopausal status not specified\n* Absolute neutrophil count (ANC) \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Creatinine clearance \\> 50 mL/min\n* Fertile patients must use effective contraception\n* No history of another severe and/or life-threatening medical disease\n* No other active primary malignancy\n* Not pregnant or nursing\n* Negative pregnancy test\n* Patients with asymptomatic HIV infection are eligible\n* Liver dysfunction score \u2264 9\n* No pre-existing liver disease (i.e., cirrhosis or active viral hepatitis)\n* No active gastrointestinal malabsorption illness\n* No clinically significant cardiac disease, including the following:\n\n  * Congestive heart failure, symptomatic coronary artery disease, and cardiac arrhythmias not well controlled with medication, or myocardial infarction within the past six months\n* No prior unanticipated severe reaction to fluoropyrimidine therapy, known hypersensitivity to fluorouracil, or known dihydropyrimidine dehydrogenase deficiency\n* No history of uncontrolled seizures or central nervous system disorders\n* No significant history of noncompliance to medical regimens\n* No clinically significant psychiatric disability that would preclude study compliance\n\nPRIOR CONCURRENT THERAPY:\n\n* No previous capecitabine\n* Up to 3 prior cytotoxic regimens allowed for metastatic disease\n\n  * Prior noncytotoxic therapy allowed (e.g., hormonal treatment or trastuzumab)\n* No other concurrent therapies intended to treat the primary condition including chemotherapy, biologic agents, or immunotherapy\n* No concurrent anti-estrogen therapy, radiation therapy, or investigational systemic therapy\n* No other concurrent investigational drugs\n* No concurrent use of the following drugs: warfarin for full anticoagulation, cimetidine, or azidothymidine (AZT)\n\n  * Mini-dose warfarin for prophylaxis of central venous catheter thrombosis allowed\n* At least 4 weeks since prior sorivudine or brivudine\n* Concurrent use of bisphosphonates allowed if initiated before beginning study therapy\n* Concurrent use of megestrol acetate suspension as an appetite stimulant allowed",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

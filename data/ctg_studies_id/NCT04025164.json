@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04025164",
+    "briefTitle": "Hypofractionated Vs Conventional Fractionated Radiotherapy After Breast Conserving Surgery",
+    "officialTitle": "Hypofractionated Versus Conventional Fractionated Radiotherapy After Breast Conserving Surgery\uff1aa Multi-center Phase III Randomized Clinical Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4052,
+    "primaryOutcomeMeasure": "Loco-regional recurrence (LRR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Age18-70 years\n* Imaging examination confirmed single lesion. if the tumor is multiple, it needs to be removed by single quadrantectomy\n* Receive breast conserving surgery with negative margins\n* Axillary lymph nodes treatment: Sentinel lymph node biopsy or level I/II axillary lymph node dissection. If the sentinel lymph node is negative, the axillary lymph node dissection can be omitted. If it is positive, level I/II axillary lymph node dissection with or more than 10 lymph nodes is needed.\n* The tumor bed is labeled with clips and it can be drawn on the treatment planning system.\n* Pathologically confirmed invasive breast cancer\n* Pathologically stage is T1-3N0-3M0\n* Immunohistochemical examination is conducted to determine the status of ER, PR, HER2, Ki67 after surgery\n* No distant metastases\n* No supraclavicular or internal mammary nodes metastases\n* No neoadjuvant chemotherapy\n* Fit for postoperative radiotherapy. No contraindications to radiotherapy\n* KPS\u226580\n* Signed informed consent\n\nExclusion Criteria:\n\n* T4 or M1 breast cancer\n* Supraclavicular or internal mammary nodes metastases\n* Pathologically confirmed DCIS only without an invasive component\n* Bilateral breast cancer or historically confirmed contralateral invasive breast cancer\n* Treated with neoadjuvant chemotherapy or neoadjuvant endocrine therapy\n* Multiple lesions can not be removed by single quadrantectomy\n* Suspicious unresected and microcalcification, densities, or palpable abnormalities (in the ipsilateral or contralateral breast)\n* KPS \u2264 70\n* Patients with severe non-malignant comorbidity in cardiovascular or respiration system\n* Concurrent or previous malignancy excluding basal or squamous cell carcinoma of the skin\n* Previous radiotherapy to the chest wall or regional lymph node areas\n* Patients with medical contraindication for radiotherapy: systemic lupus erythematosus, cirrhosis\n* Pregnant or lactating\n* Conditions indicating that the patient cannot go through the radiation therapy or follow up\n* Unable or unwilling to sign informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

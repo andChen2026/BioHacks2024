@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00080743",
+    "briefTitle": "Gefitinib With or Without Tamoxifen in Treating Patients With Tamoxifen-Resistant Metastatic Breast Cancer",
+    "officialTitle": "ZD1839 (IRESSA) In Tamoxifen-Resistant Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2,
+    "primaryOutcomeMeasure": "Clinical benefit rate (complete response, partial response, and stable disease) for 26 weeks",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer\n\n  * Metastatic disease\n* Initial clinical benefit from tamoxifen for metastatic disease, defined by 1 of the following:\n\n  * Stable disease for 24 weeks or longer\n  * Objective tumor response\n* Documentation of clinical progression on tamoxifen within the past 6 weeks\n* Hormone receptor status:\n\n  * Estrogen or progesterone receptor positive on most recently analyzed biopsy\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nSex\n\n* Not specified\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* ECOG 0-2\n\nLife expectancy\n\n* At least 6 months\n\nHematopoietic\n\n* Absolute neutrophil count \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n\nHepatic\n\n* AST \u2264 1.5 times upper limit of normal (ULN)\n* Bilirubin \u2264 1.5 times ULN\n\nRenal\n\n* Creatinine \u2264 1.5 times ULN OR\n* Creatinine clearance \u2265 50 mL/min\n\nPulmonary\n\n* No clinically active interstitial lung disease\n\n  * Patients with asymptomatic chronic stable radiographic changes are eligible\n\nOther\n\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n* No known hypersensitivity to gefitinib\n* No other malignancy within the past 5 years except basal cell carcinoma or carcinoma in situ of the cervix\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* No concurrent trastuzumab (Herceptin\u00ae)\n\nChemotherapy\n\n* No concurrent cytotoxic chemotherapy\n\nEndocrine therapy\n\n* See Disease Characteristics\n* At least 2 weeks since other prior tamoxifen\n* No concurrent hormone replacement therapy\n* No other concurrent antiestrogens, including raloxifene\n* No concurrent aromatase inhibitors\n* No concurrent megestrol\n* Concurrent systemic steroids for reasons other than skin toxicity allowed provided the steroids were initiated before study entry AND dose remains stable\n\nRadiotherapy\n\n* Concurrent palliative radiotherapy as short-term treatment for symptomatic bone metastases allowed provided other evaluable sites of disease are present AND treatment lasts no more than 14 days\n\nSurgery\n\n* Recovered from prior oncologic or other major surgery\n* No concurrent surgery during and for 7 days after study treatment\n* No concurrent ophthalmic surgery\n\nOther\n\n* Recovered from all prior therapy (except alopecia)\n* More than 30 days since prior investigational drugs\n* No other concurrent investigational agents\n* No concurrent administration of any of the following:\n\n  * Phenytoin\n  * Carbamazepine\n  * Barbiturates\n  * Rifampin\n  * Phenobarbital\n  * Hypericum perforatum (St. John's wort)\n  * Systemic retinoids\n  * CYP3A4 inhibitors (e.g., itraconazole)\n  * Drugs that cause significant sustained elevation in gastric pH \u2265 5",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

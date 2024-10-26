@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03990012",
+    "briefTitle": "Infrared Imaging for Breast Cancer Modeling",
+    "officialTitle": "Infrared Imaging for Breast Cancer Modeling",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 11,
+    "primaryOutcomeMeasure": "Spatial location of breast tumors",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females with a suspicious breast mass (BI-RADS 4C or 5).\n* Referred for a breast biopsy.\n* Capable of providing informed consent.\n\nExclusion Criteria:\n\n* Currently undergoing treatment for breast cancer.\n* Incapable of providing informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

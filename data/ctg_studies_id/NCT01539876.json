@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01539876",
+    "briefTitle": "Tumour Necrosis Factor Release in Locally Advanced Breast Cancer Patients Receiving Neoadjuvant Docetaxel",
+    "officialTitle": "Assessing Serial Tumour Necrosis Factor Release in Locally Advanced Breast Cancer Patients Receiving Neo-adjuvant Taxane Chemotherapy",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "measure tissue TNFa levels",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Biopsy proven LABC, Locally advanced breast cancer. (operable or non-operable)\n* Any T3/T4 or N2, N3 Clinical TNM stage breast cancer without metastases\n* ECOG Performance Status of 0, 1 or 2.\n* Patients should be able to comprehend the Letter of Information and be capable of giving informed consent.\n* Female age 18 years old\n* History and physical\n* Negative serum pregnancy test for women of child bearing age\n\nExclusion Criteria:\n\n* Inflammatory cancer (as defined by clinical evidence of dermal-lymphatic tumour involvement.)\n* Ineligible for chemotherapy\n* Patients with metastatic disease.\n* Patients who have received prior chemotherapy or radiotherapy for this or any other malignancy.\n* Previous breast cancer diagnosis\n* Pregnant or lactating females are ineligible.\n* Female patients of reproductive potential who decline to employ an adequate contraceptive method are ineligible.\n* Participation in any concomitant trials.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

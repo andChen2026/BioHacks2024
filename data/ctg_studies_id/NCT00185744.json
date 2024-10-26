@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00185744",
+    "briefTitle": "Accelerated Partial Breast Irradiation Following Lumpectomy for Breast Cancer",
+    "officialTitle": "Accelerated Partial Breast Irradiation Following Lumpectomy for Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Carcinoma, Ductal",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "In-breast tumor recurrence (IBTR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women \\>= 40 with invasive ductal carcinoma or ductal carcinoma in situ\n2. Patient chooses lumpectomy rather than mastectomy as treatment for breast cancer\n3. Tumor \\< 2.5 cm in size, 2 mm margin of normal breast tissue between cancer and edge of specimen.\n\nExclusion Criteria:\n\n1. Men\n2. Prior malignancy, breast or other if metastatic or with anticipated survival of \\< 5 years\n3. Pregnant women\n4. Immunocompromised\n5. Poorly controlled insulin dependent diabetes\n6. Contraindication to radiotherapy, e.g. connective tissue disorder such as scleroderma\n7. Breast cancer that involves skin or chest wall\n8. Multifocal or Multicentric breast cancer\n9. Invasive lobular carcinoma\n10. Diffuse microcalcifications on mammography\n11. Invasive carcinoma with extensive intraductal component (EIC)\n12. Greater than 12 weeks since definitive surgical excision or completion of chemotherapy\n13. Involved lymph nodes detected by frozen section or touch preparation at time of lumpectomy\n14. Patients with 1 to 3 positive lymph nodes determined postoperatively (does not include patients with micro-metastases)\n15. Subglandular or submuscular breast implants (does not include patients having implants placed AFTER intra-operative radiotherapy)",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

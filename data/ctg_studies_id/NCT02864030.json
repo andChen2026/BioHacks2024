@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02864030",
+    "briefTitle": "PAINTER: Polymorphism And INcidence of Toxicity in ERibulin Treatment",
+    "officialTitle": "Multicenter, Interventional, Single-arm, Phase IV Study Evaluating Tolerability of Eribulin and Its Relationship With a Set of Polymorphisms in an Unselected Population of Female Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer, Toxicity, Neurotoxicity, Drug Toxicity, Adverse Drug Event",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Incidence, time of onset, severity and duration of all Adverse Events (AEs) experienced during treatment with Eribulin (any grade)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of metastatic breast cancer\n* Previous treatment with anthracyclines and taxanes\n* Patients who will start Eribulin or who have already received only the first dose (cycle 1, day 1) of Eribulin according to the approved indication\n* Ability to comply with sample collection\n* Patient has signed the study Informed Consent Form (ICF) and the specific Pharmacogenetic ICF.\n* Absence of any contraindication to treatment\n\nExclusion Criteria:\n\n* Previous treatment with Eribulin in a previous line of treatment\n* Previous treatment with Eribulin off label",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

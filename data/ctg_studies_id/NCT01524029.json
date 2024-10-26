@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01524029",
+    "briefTitle": "Digital Breast Tomosynthesis Versus Digital Mammography: A National Multicenter Trial",
+    "officialTitle": "Digital Breast Tomosynthesis vs. Digital Mammography: A National Multicenter Trial",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "Specificity of Digital Breast Tomosynthesis in the characterization of Breast lesions",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 25 years (40 years or older for Screening Cohort)\n* No history of breast cancer\n* Written informed consent\n* Asymptomatic women in follow up for early detection of breast cancer or\n* Patients with a recent positive mammography (BI-RADS 3-5)\n\nExclusion Criteria:\n\n* Pregnant and breast feeding women\n* Unable to tolerate breast compression\n* Breast implants\n* Unable to understand or execute written informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

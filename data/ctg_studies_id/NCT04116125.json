@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04116125",
+    "briefTitle": "Omitting Biopsy of SEntinel Lymph Node With Radiation After Neoadjuvant Chemotherapy in Breast Cancer (OBSERB) Trial",
+    "officialTitle": "A Randomized Trial of Sentinel Lymph Node Biopsy vs Radiotherapy Alone After Neoadjuvant Chemotherapy in Patients Undergoing Breast Conserving Surgery With cT1-3N1, ycN0 Breast Cancer",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Neoplasm Female, Lymphatic Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1380,
+    "primaryOutcomeMeasure": "Disease-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. women aged \\> 20 years\n2. cT1-3N1M0, primary invasive\n3. initially confirmed ALN by fine needle aspiration cytology before neoadjuvant chemotherapy\n4. completion of neoadjuvant chemotherapy\n5. tumors negative for LN metastasis confirmed by imaging after neoadjuvant chemotherapy\n\nExclusion Criteria:\n\n1. synchronous distant metastases\n2. previous other malignancy\n3. bilateral breast cancer\n4. previous primary systemic therapy\n5. pregnancy or breastfeeding\n6. pre-operative radiological evidence of multiple involved or suspicious axillary nodes\n7. patient with psychiatric, addictive, or any disorder, which compromises ability to give informed consent for participation in this study.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

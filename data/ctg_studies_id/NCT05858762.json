@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05858762",
+    "briefTitle": "Artificial Intelligence for Automated Diagnosis of Breast Cancer",
+    "officialTitle": "Study of an Artificial Intelligence Algorithm for the Classification of Digital Tomosynthesis Breast Images for Automated Breast Cancer Diagnosis",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Diagnosis",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Artificial Intelligence system to detect a lesion",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients who refer to the Regina Elena for diagnostic mammography tests\n* Informed consent\n\nExclusion Criteria:\n\n* presence of prostheses, artifacts, outcomes of a study in the breast intervention under the study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

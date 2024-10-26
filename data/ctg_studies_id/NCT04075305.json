@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04075305",
+    "briefTitle": "The MOMENTUM Study: The Multiple Outcome Evaluation of Radiation Therapy Using the MR-Linac Study",
+    "officialTitle": "The Multiple Outcome Evaluation of Radiation Therapy Using the MR-Linac Study",
+    "overallStatus": "RECRUITING",
+    "conditions": "Oncology, Breast Cancer, Prostate Cancer, Gynecologic Cancer, Brain Tumor, Brain Cancer, Gynecologic Tumor, Prostate Tumor, Prostate Neoplasm, Breast Tumor, Radiation Toxicity, Quality of Life, Rectal Cancer, Rectal Tumor, Rectal Neoplasms, Lung Cancer, Lung Tumor, Lung Neoplasm, Esophageal Cancer, Esophagus Cancer, Esophageal Tumor, Esophageal Neoplasm, Esophagus Tumor, Esophagus Neoplasm, Pancreatic Cancer, Pancreatic Tumor, Pancreatic Neoplasms, Head and Neck Cancer, Head and Neck Neoplasms, Head and Neck Tumor, Tumor, Neoplasms, Bladder Cancer, Bladder Neoplasm, Liver Cancer, Liver Neoplasms, Liver Metastases, Oligometastases",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 8000,
+    "primaryOutcomeMeasure": "Progression-free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient is to undergo or has completed imaging or treatment procedures on an MR-Linac;\n* Patient provides written, informed consent;\n* Patient is 18 years old or older.\n\nExclusion Criteria:\n\n* MRI exclusion criteria, including\n* MRI contraindications as per usual clinical care, such as (possible) pregnancy; claustrophobia and metal or electronic implants not compatible with MRI.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

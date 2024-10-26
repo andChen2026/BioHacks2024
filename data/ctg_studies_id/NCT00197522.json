@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00197522",
+    "briefTitle": "Administration of Autologous Dendritic Cells (DCs) Infected With an Adenovirus Expressing Her-2",
+    "officialTitle": "A Phase I Study Investigating Multiple Injections of Autologous CD34+ Derived Dendritic Cells Transduced With an Adenovirus Vector Expressing Inactivated HER-2/Neu in Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 5,
+    "primaryOutcomeMeasure": "To determine the maximum tolerated dose (MTD) and/or the maximum attainable dose (MAD) of a vaccine consisting of human autologous CD34+ DCs transduced by AdHER-2.1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with metastatic breast cancer who are HER2/neu positive (3+ by immunohistochemistry or FISH positive) and either\n\n  1. currently receiving hormonal therapy or are candidates for such or\n  2. being considered for trastuzumab or\n  3. their cancer has progressed on trastuzumab\n\nExclusion Criteria:\n\nPatients are excluded from the study if they meet any one of the following criteria:\n\n* Age less than 16 years.\n* Pregnant or lactating female.\n* Previous malignancy other than non-melanoma skin cancer.\n* More than three prior courses of cytotoxic chemotherapy for metastatic disease.\n* Concurrent use of chemotherapy, immunotherapy, or gene therapy. Concurrent hormonal therapy (tamoxifen, aromatase inhibitors or exemestane) is permitted.\n* Treatment with trastuzumab within 16 weeks prior to first dose of vaccine therapy.\n* Documented central nervous system metastases.\n* Patients with any an acute illness that would interfere with the mobilization of stem cells or the administration of vaccination cellular therapy (ie. unstable angina, renal or liver failure, or severe chronic obstructive airways disease) are ineligible.\n* Any patients requiring concurrent immunosuppressive therapy (eg. corticosteroids)\n* Patients with a life expectancy of less than six months.\n* ECOG performance status of \\>2.",
+    "sex": "FEMALE",
+    "minimumAge": "16 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

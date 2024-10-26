@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04876560",
+    "briefTitle": "Implementation of a CDSS in Oncology Patients During COVID-19",
+    "officialTitle": "The Use of Clinical Decision Support Systems (CDSS) to Provide Nutritional Care to Breast Cancer Patients During the COVID-19 Pandemic: a Randomised Controlled, Pilot Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Obesity, Cardiovascular Disease Other",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 44,
+    "primaryOutcomeMeasure": "change in the Mediterranean diet adherence",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Adult women (\u2265 37 years of age);\n* histological evidence of primary invasive breast cancer at stages I-IIIA;\n* treatment: mastectomy followed by antiestrogen therapy;\n* the ability to ambulate independently, that corresponded to scoring 0 or 1 of the Eastern Cooperative Oncology Performance Status\n\nExclusion criteria:\n\n* Any other malignancy \u2264 5 years;\n* co-existing medical conditions (e.g., obstructive ileus) that would interfere with the study protocol;\n* malabsorption; serious chronic diseases (e.g. advanced heart, liver or renal failure, congenital metabolic diseases);\n* active infection;\n* severe psychiatric illness;\n* alcoholism or drug use;\n* vitamin or inorganic supplement use \u2264 6 months prior to screening;\n* vegan or macrobiotic diet \u2264 5 years prior to screening;\n* using weight loss medications.",
+    "sex": "FEMALE",
+    "minimumAge": "37 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

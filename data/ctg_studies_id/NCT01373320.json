@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01373320",
+    "briefTitle": "Faith Moves Mountains: A Community Based Participatory Research (CBPR) Appalachian Wellness & Cancer Prevention Program",
+    "officialTitle": "Faith Moves Mountains: A CBPR Appalachian Wellness & Cancer Prevention Program",
+    "overallStatus": "COMPLETED",
+    "conditions": "Lung Cancer, Cervical Cancer, Breast Cancer, Colorectal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 1415,
+    "primaryOutcomeMeasure": "Proportion of participants reporting the health behavior of interest (depending on which intervention component(s) were selected)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* For smoking cessation: age 18 or older; current cigarette smoker; able to provide informed consent\n* For cervical cancer screening: female; age 18 or older AND outside of screening guidelines; able to provide informed consent\n* For breast cancer screening: female; age 40 or older AND outside of screening guidelines; able to provide informed consent\n* For colorectal cancer screening: age 40 or older AND outside of screening guidelines; able to provide informed consent\n\nExclusion Criteria:\n\n* For smoking cessation: None\n* For cervical cancer screening: History of cervical cancer; history of hysterectomy\n* For breast cancer screening: History of breast cancer\n* For colorectal cancer screening: History of colorectal cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

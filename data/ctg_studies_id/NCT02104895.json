@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02104895",
+    "briefTitle": "Accelerated Partial Breast Irradiation Using Intensity Modulated Radiotherapy Versus Whole Breast Irradiation",
+    "officialTitle": "Randomised Phase 3 Trial Of Accelerated Partial Breast Irradiation Using Intensity Modulated Radiotherapy Versus Whole Breast Irradiation",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 520,
+    "primaryOutcomeMeasure": "Ipsilateral Breast Tumor Recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age at presentation \\>40 y\n* Tumor size \\<25 mm\n* Wide excision or quadrantectomy with clear margins (\\>5 mm)\n* Clips placed in tumor bed\n* Full informed consent from patient\n\nExclusion Criteria:\n\n* Cardiac dysfunction\n* Forced expiratory volume in 1 second (FEV1) \\<1 L/m\n* Extensive intraductal carcinoma\n* Multifocal cancer\n* Psychiatric problems\n* Recurrent breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

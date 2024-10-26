@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06616571",
+    "briefTitle": "Compare the Efficacy and Safety of QL0605 Injections at Different Timepoints",
+    "officialTitle": "A Randomized, Open-label, Interventional, Real-world Study to Compare the Efficacy and Safety of QL0605 Administered at Different Timepoints After Chemotherapy.",
+    "overallStatus": "RECRUITING",
+    "conditions": "Chemotherapy-Induced Febrile Neutropenia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 336,
+    "primaryOutcomeMeasure": "The incidence of febrile neutropenia for chemotherapy cycle 1.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged\u226518 years\uff1b\n* The expected survival period is more than 3 months;\n* ECOG\u2264 2;\n* Invasive breast cancer diagnosed by histopathology;\n* Plan to receive TAC, TC or TCbH chemotherapy;\n* Subjects with good hematology, liver, lung and kidney function ;\n* Signed informed consent.\n\nExclusion Criteria:\n\n* Known hypersensitivity to rhG-CSF or PEG-rhG-CSF;\n* Female patients during pregnancy or lactation;\n* The previous malignant tumors were not cured;\n* Received chemotherapy or radiotherapy within 4 weeks before screening;\n* Received PEG-rhG-CSF within 6 weeks before screening;\n* Suffering from uncontrollable infectious diseases within 2 weeks before screening.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

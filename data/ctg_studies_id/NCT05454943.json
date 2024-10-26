@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05454943",
+    "briefTitle": "Remote Time-restricted EAting DeliverY",
+    "officialTitle": "Proof-of-Concept of Time-Restricted Eating as a Novel Lifestyle Intervention for Breast Cancer Prevention",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Metabolic Disturbance",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 178,
+    "primaryOutcomeMeasure": "Adherence to TRE for the 16-week intervention",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females\n* No cancer history\n* \u226550 years old\n* Have metabolic dysfunction (defined as self-reported diagnosis of pre-diabetes, type 2 diabetes, or at least moderate Canadian diabetes risk (CANRISK) score)\n* Access to an Ontario Lifelabs location\n* Owns a smartphone with Bluetooth capability with Apple or Android operating system\n\nExclusion Criteria:\n\n* Type 1 diabetes\n* Taking exogenous insulin, sulfonylureas, or GLP-1 receptor agonists\n* Self-reported history of an eating disorder\n* BMI \\<18.5 kg/m\n* Working night or rotating shifts\n* Eating window \\<12 hours or consistently eating less than 3 meals/day in the past 3 months\n* Major dietary changes within the past 3 months (i.e. calorie counting, ketogenic diet)",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

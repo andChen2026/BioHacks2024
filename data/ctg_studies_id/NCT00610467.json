@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00610467",
+    "briefTitle": "Combined MRI and Optical Imaging to Improved Breast Cancer Diagnosis",
+    "officialTitle": "Combined MRI and Optical Imaging to Improved Breast Cancer Diagnosis",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 2,
+    "primaryOutcomeMeasure": "Sensitivity, Specificity, and Overall Accuracy in Differentiating Between Benign and Malignant Lesions",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. A female older than 21 years of age,\n2. Have suspicious imaging findings suggesting a possibility of breast cancer, or biopsy-proven breast cancer.\n\nExclusion Criteria:\n\n1. Pregnant,\n2. Unwilling to give informed consent,\n3. Have implanted prosthetic heart valves, pacemaker, neuro-stimulation devices, surgical clips (hemostatic clips) or other metallic implants,\n4. Have engaged in occupations or activities which may cause accidental lodging of ferromagnetic materials, or have imbedded metal fragments from military activities,\n5. Have received orthodontic work involving ferromagnetic materials,\n6. Claustrophobic,\n7. Have had allergic response to contrast agents (such as iodine or gadolinium) previously,\n8. Have known history of severe renal insufficiency, asthma, allergic conditions, sickle cell anemia, chronic hemolytic anemia, and gastrointestinal disorders.",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

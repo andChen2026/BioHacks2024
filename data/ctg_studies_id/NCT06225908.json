@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06225908",
+    "briefTitle": "SPSIPB for Breast Cancer Surgery",
+    "officialTitle": "The Effects of Serratus Posterior Superior Intercostal Plane Block on Postoperative Analgesia in Patients Undergoing Breast Cancer Surgery",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Pain, Postoperative, Pain, Acute, Opioid Consumption",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "opioid consumption",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 18-65 years old\n* ASA I-II-III risk group\n* Patients whose consent was obtained with an informed consent form\n* Breast Cancer Surgery operation patients who will undergo\n\nExclusion Criteria:\n\n* Under 18 and over 65\n* ASA \u2265 IV\n* History of allergy to local anesthetics\n* Known coagulation disorders\n* Infection near the entry site\n* Chronic use of analgesics\n* Diabetes Mellitus and patients receiving neoadjuvant chemotherapy\n* Body Mass index over 30\n* Dementia or confusion\n* Lack of cooperation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

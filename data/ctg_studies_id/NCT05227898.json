@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05227898",
+    "briefTitle": "Virtual Trial to Compare Two Digital Therapeutics as Interventions for Physical and Mental Health in People With Cancer",
+    "officialTitle": "Two-arm, Double-blind, Randomized Controlled Trial to Compare Efficacy of Two Digital Software Medical Devices as Interventions for Physical and Mental Health in Patients With Stage I-III Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 352,
+    "primaryOutcomeMeasure": "Symptoms of anxiety",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage I-III cancer diagnosis\n* Currently in active systemic treatment of chemotherapy, radiation or immunotherapy, have completed systemic treatment within the past 6 months, or have a treatment plan including planned systemic treatment.\n* Are experiencing at least moderate anxiety\n* 18 years of age or older\n* Are fluent in English\n* Have access to a smartphone (a mobile phone that performs many of the functions of a computer, typically having a touchscreen interface, internet access, and an operating system capable of running downloaded applications) or tablet that runs iOS or Android software, with cellular data service or wifi access.\n* Willing to download software onto smartphone or tablet from Apple store or Android store\n\nExclusion Criteria:\n\n* Systemic treatment plan includes only endocrine therapy.\n* Treatment plan includes stem cell/bone marrow transplant.\n* Currently participating in any other investigative CBT trial for treatment of anxiety or depression.\n* Participant is unable to complete training, has cognitive deficits, more severe psychiatric conditions, lack of access to internet accessible device or psycho-social conditions (e.g., other social conditions, that would interfere with adherence to self-directed care), such that in investigator's opinion the participant would be unable to complete the study\n* Recently completed use of Blue Note Therapeutics Covid Cancer Care Program or other Blue Note Therapeutics device or Blue Note Therapeutics-sponsored study\n* Are experiencing severe levels of depression OR indicate suicidal risk (measured by surveys during screening for the study)\n* Are experiencing anxiety below the required level (measured by a survey during screening for the study)\n* Cancer diagnosis is melanoma, multiple myeloma, unstaged cancer.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

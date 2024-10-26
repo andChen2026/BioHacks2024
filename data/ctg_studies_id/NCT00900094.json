@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00900094",
+    "briefTitle": "UMCC 003 Cancer-Related Protein Biomarkers in Blood and Tumor Tissue of Patients With Cancer",
+    "officialTitle": "Proteomics Biomarker Development Laboratory (Aka IRB 1999-514)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Colorectal Cancer, Esophageal Cancer, Liver Cancer, Lung Cancer, Ovarian Cancer, Pancreatic Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Identification of tumor antigens that induce a humoral response in cancer patients",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Meets 1 of the following criteria (patient):\n\n  * Scheduled to undergo primary surgical resection or first debulking surgery (prior to any anticancer treatment) for suspected or newly diagnosed cancer, including any of the following types:\n\n    * Breast cancer\n    * Adenocarcinoma of the colon\n    * Adenocarcinoma or squamous cell carcinoma of the esophagus\n    * Non-small cell lung cancer\n    * Ovarian epithelial adenocarcinoma\n  * Metastatic or unresectable cancer, including any of the following types:\n\n    * Breast cancer\n    * Adenocarcinoma of the colon\n    * Adenocarcinoma or squamous cell carcinoma of the esophagus\n    * Hepatoma\n    * Non-small cell lung cancer\n    * Small cell lung cancer\n    * Ovarian epithelial adenocarcinoma\n    * Adenocarcinoma of the pancreas\n* Meets the following criteria (healthy participant):\n\n  * No chronic disease\n\n    * Healthy participants with a history of cancer must be cancer-free for 5 years (skin cancer or carcinoma in situ of the cervix within the past 5 years allowed)\n  * Willing to provide 60 mL of blood\n  * Not a blood relative of an eligible and consenting cancer patient\n\nPATIENT CHARACTERISTICS:\n\n* Able to tolerate the removal of 30-60 mL of blood\n* No feelings of light-headedness, dizziness, or fainting within the past 2 weeks\n* Pulse less than 100 on day of blood draw for study enrollment\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* At least 3 weeks since prior chemotherapy or radiotherapy for metastatic or unresectable cancer\n* No concurrent chemotherapy\n* No concurrent radiotherapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00949052",
+    "briefTitle": "Genetic Susceptibility and Risk of Second Cancers in Patients Who Have Undergone Stem Cell Transplant for Cancer",
+    "officialTitle": "Radiation Sensitivity, DNA Repair, and Second Cancers.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Genetic susceptibility to the carcinogenic effects of radiotherapy, tobacco, and UV light and risk of second malignant neoplasms (SMN)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nCASES are those who:\n\n* Survived at least 100 days post-hematopoietic stem cell transplantation (HSCT).\n* Developed an SMN after that time point.\n* And received TBI as part of the preparative regimen.\n\nCONTROLS are randomly selected:\n\n* In a 4:1 ratio to cases from the same cohort of 100 day + survivors of HSCT who received TBI.\n* Controls will be matched to the cases by race and primary diagnosis.\n* In addition, they must have survived for at least the elapsed time between the case's HSCT and the secondary cancer, without development of an SMN.\n* We are matching on primary diagnosis, as genotype or radiation sensitivity may predispose to specific primary cancers, as well as the SMNs.\n* We are matching on race, as allele frequencies vary widely across ethnic groups.\n\nExclusion Criteria:\n\n* Did not survive at least 100 days post-hematopoietic stem cell transplantation (HSCT).\n* Did not develop an SMN after that time point.\n* Did not receive TBI as part of the preparative regimen.",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

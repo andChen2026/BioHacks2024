@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01611727",
+    "briefTitle": "Open-Label,Non-Randomized Trial of Cisplatin Chemotherapy in BRCA1-Positive Metastatic Breast Cancer Patients",
+    "officialTitle": "Phase II Open-Label, Non-Randomized Trial of Cisplatin Chemotherapy in Patients With BRCA1-Positive Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "BRCA1 Mutation, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Tumor Response Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients aged \u2265 18 years, with measurable (defined by Response Evaluation Criteria in Solid Tumors (RECIST) criteria (14)) metastatic (stage IV) breast cancer, and who are known to carry a BRCA1 mutation, are eligible.\n* In addition, the following are required:\n\n  * adequate hematologic\n  * renal, and hepatic function\n  * adequate recovery from recent surgery and/or radiation therapy\n  * recovery from all prior treatment-related toxicities (to grade \\< 2 according to National Cancer Institute Common Toxicity Criteria, Version3.0, except alopecia)\n  * life expectancy of at least 12 weeks\n  * Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1. -\n* Patients could have received up to four prior chemotherapies for metastatic disease.\n\nExclusion Criteria:\n\n* Patients with known brain metastases are not eligible.\n* Patients previously treated with a platinum-based chemotherapy are not eligible.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

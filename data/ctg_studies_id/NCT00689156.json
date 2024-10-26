@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00689156",
+    "briefTitle": "Epirubicin or Not in Patients With TOP2A (Topoisomerase (DNA) II Alpha (170kD)) Normal Early Breast Cancer",
+    "officialTitle": "Randomized Trial of Epirubicin and Cyclophosphamide Followed by Docetaxel Against Docetaxel and Cyclophosphamide in Patients With TOP2A Normal Early Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2015,
+    "primaryOutcomeMeasure": "IDFS; invasive disease-free survival",
+    "eligibilityCriteria": "Trial Population:\n\n1. Younger than 35, but at least 18 years of age\n2. Hormone receptor-negative tumor (ER- and PgR-negative) and 35 to 75 years of age.\n3. Hormone receptor-positive tumor, 35 to 59 years of age and presenting at least one of the following characteristics: spread to lymph nodes, tumor \\> 2 cm, degree of malignancy II-III or HER2-positive.\n\nInclusion Criteria:\n\n1. Signed informed consent\n2. Histologically confirmed invasive breast carcinoma which has been micro-radical removed by breast preserving surgery or mastectomy according to DBCG's guideline\n3. TOP2A normal tumor (score of 0.8 - 2.0)\n\nExclusion Criteria:\n\n1. Pregnancy or breast-feeding\n2. Earlier medical cancer treatment, including docetaxel, epirubicin or cyclophosphamide.\n3. Distant metastases or bilateral breast cancer (excluded after checking by means of chest radiography, bilateral mammography and normal blood samples as a minimum).\n4. Other active, malign disease in the latest 5 years, except for adequately treated and cured carcinoma in situ cervices uteri or non-melanoma skin cancer.\n5. Comorbidity score \\> 3 (patients with a score of 1-2 start at dose level -1).\n6. Treatment with a non-approved product or test product in the latest 30 days.\n7. Known severe hypersensitivity to docetaxel, epirubicin or cyclophosphamide or auxiliary agents in these products.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01290536",
+    "briefTitle": "Yttrium-90 Radioembolization Using Glass Microspheres (TheraSphere) for Patients With Liver Metastases",
+    "officialTitle": "Safety Profile Assessment of TheraSphere\u00ae Yttrium-90 Glass Microspheres Used for Treatment of Metastatic Liver Disease From Primary Colorectal, Neuroendocrine, Cholangiocarcinoma, Melanoma, and Breast Cancers Refractory to Chemotherapy: A Pilot Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Colorectal Neoplasms, Neuroendocrine Tumors, Cholangiocarcinoma, Melanoma, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 42,
+    "primaryOutcomeMeasure": "Number of Participants With Adverse Events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of metastatic colorectal, neuroendocrine, cholangiocarcinoma, melanoma, or breast malignancy with liver dominant disease. Diagnosis may be made by histo- or cyto-pathology, or by clinical and imaging criteria.\n* The cancer is unresectable.\n* All patients must be off all chemotherapeutic regimens for 30 days prior to and 30 days after TheraSphere treatment. Concurrent therapy with octreotide is permitted, when appropriate.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\n* Age 18 years or older.\n* Able to understand informed consent.\n\nExclusion Criteria:\n\n* Evidence of potential delivery of greater than 16.5 mCi (30 Gy absorbed dose) of radiation to the lungs on either:\n\n  * single TheraSphere administration; or\n  * cumulative delivery of radiation to the lungs greater than 50 Gy over multiple treatments.\n* Evidence of any detectable Tc-99m macroaggregated albumin deposition in the stomach or duodenum, after application of established angiographic techniques to stop such deposition.\n* Previous radiation therapy to the lungs and/or to the upper abdomen\n* Pregnancy\n* Symptomatic lung disease.\n* Significant extrahepatic disease representing an imminent life-threatening outcome.\n* Active uncontrolled infection\n* Any pre-treatment laboratory findings within 30 days of treatment demonstrating:\n\n  * Aspartate or alanine aminotransferase level greater than 5 times upper normal limit.\n  * Serum bilirubin greater than 2 mg/dl\n  * Infiltrative tumor on imaging\n  * Tumor volume greater than 70% of liver volume\n  * Tumor volume greater than 50% of liver volume and serum albumin level less than 3 mg/dL",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02583815",
+    "briefTitle": "Feasibility of Activity Monitoring in Patients With Cancer: Physical Activity Monitoring in Cancer Patients (PAMCaP)",
+    "officialTitle": "Feasibility of Activity Monitoring in Patients With Cancer: Physical Activity Monitoring in Cancer Patients (PAMCap)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Gastrointestinal Cancer, Breast Cancer, Gynecologic Cancer, Genitourinary Cancer, Leukemia, Lung Cancer, Skin Cancer, Endocrine Cancer, Male Genital Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 32,
+    "primaryOutcomeMeasure": "Number of Participants Who Use PAM Device",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent\n* Age 18 or above\n* Receiving or planning to receive outpatient therapy for any cancer\n* Baseline ECOG status 0-2;\n* Speak and understand English as all Psychological assessment tools included in this study have not been validated in Spanish;\n* Access to smartphone device compatible to sync with PAM Device\n\nExclusion Criteria:\n\n* Recent injury which may result in impaired mobility;\n* Major surgery within 4 weeks or till recovery to baseline functioning (per patient) whichever is shorter;\n* Inability to comply with study requirement;\n* Medical, psychiatric condition which in the investigators opinion will affect the successful completion of study;\n* Current use of a wearable PAM device as defined by use of PAM device in the last 6 months",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01988571",
+    "briefTitle": "Preventing Anthracycline Cardiovascular Toxicity With Statins (PREVENT)",
+    "officialTitle": "Preventing Anthracycline Cardiovascular Toxicity With Statins (PREVENT)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Lymphoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 279,
+    "primaryOutcomeMeasure": "Left Ventricular Ejection Fraction (LVEF)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage I-III breast cancer (including inflammatory and newly diagnosed recurrent breast cancer) or lymphoma Stage I-IV. (Patients should have a \\> 2 year life expectancy)\n* Scheduled to receive adjuvant chemotherapy with an Anthracycline (doxorubicin and epirubicin)\n* 21 years of age or older\n* LVEF \\> 50% (Most recent within the last 5 years)\n* Prior administration of anthracyclines is acceptable if therapy was completed \\> 6 months prior to study enrollment\n* Patients that are receiving or have received chemotherapy regimens are allowed\n* Able to hold breath for 10 seconds\n* Prior cancers allowed if no evidence of disease in last 5 years\n* Eastern Cooperative Oncology Group (ECOG) 0 or 1\n\nExclusion Criteria:\n\n* Prior use of lipid-lowering therapy within the last 6 months\n* Current postmenopausal hormone-replacement therapy\n* Uncontrolled hypertension (systolic blood pressure \\>190 mm Hg or diastolic blood pressure \\>100 mm Hg)\n* Scheduled to receive neoadjuvant chemotherapy with an anthracycline\n* No active liver disease allowed\n* Uncontrolled hypothyroidism\n* Recent history (within past 3 years) of alcohol or drug abuse, inflammatory conditions such as lupus or inflammatory bowel disease, use of immunosuppressant agents, or another medical condition that might compromise safety or the successful completion of the study.\n* Patients with ferromagnetic cerebral aneurysm clips or other intraorbital/intracranial metal;pacemakers, defibrillators, functioning neurostimulator devices or other implanted electronic devices.\n* Unstable angina; significant ventricular arrhythmias (\\>20 premature ventricular complexes (PVCs)/min due to gating difficulty) atrial fibrillation with uncontrolled ventricular response; coronary artery disease; acute myocardial infarction within 28 days\n* Current use of Cytochrome P450 (CYP3A4) inhibitors. These include Clarithromycin, HIV protease inhibitors, Itraconazole, grapefruit juice, Cyclosporine, Rifampin or Digoxin\n* Current or history of hepatic dysfunction\n* Unable to provide informed consent\n* Claustrophobia\n* Planning to move within 24 months of trial enrollment\n* Pregnant or breast-feeding",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

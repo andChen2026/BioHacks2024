@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05069935",
+    "briefTitle": "FT538 in Combination With Monoclonal Antibodies in Advanced Solid Tumors",
+    "officialTitle": "A Phase I, Open-Label, Multicenter Study of FT538 in Combination With Monoclonal Antibodies in Subjects With Advanced Solid Tumors",
+    "overallStatus": "TERMINATED",
+    "conditions": "Solid Tumor, Adult",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 16,
+    "primaryOutcomeMeasure": "Define the Recommended Phase 2 Dose (RP2D)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nSubjects with locally advanced or metastatic disease who have progressed after at least one line of therapy and diagnosis of one of the following by treatment cohort:\n\n* Cohort A: The following solid tumor malignancies where anti-PD-1/PD-L1 antibodies are approved: cutaneous melanoma, non-small cell/small cell lung cancer, renal cell carcinoma, head and neck squamous cell cancer, microsatellite instability-high/ mismatch repair deficient cancer, gastric cancer, esophageal cancer, cervical cancer, merkel cell carcinoma, endometrial carcinoma, tumor mutation burden-high \u2265 10 mutations/megabase\\], cutaneous squamous cell carcinoma, triple-negative breast cancer.\n* Cohort B: HER2+ breast cancer that has relapsed or progressed on trastuzumab and progressed on either pertuzumab or HER2-targeting antibody drug conjugate; HER2+ gastric cancer that has relapsed or progressed on trastuzumab-containing therapy; OR any other HER2+ solid tumor having progressed on at least one line of standard-of-care therapy. For any tumor type in this cohort, HER2 status must be documented by a U.S. Food and Administration (FDA) approved test to be \u22652+ IHC or Average HER2 copy number \u22654 signals per cell by in situ hybridization.\n* Cohort C: CRC having progressed following prior cetuximab treatment or has KRAS/NRAS mutation; HNSCC having progressed following prior cetuximab.\n\nCapable of giving signed informed consent\n\nAged \\~ 18 years old\n\nWillingness to comply with study procedures and duration\n\nMeasurable disease per RECIST v1.1\n\nFor subjects with \\>1 measurable lesion by RECIST v1.1 that can be safely accessed, willingness to undergo tumor biopsy\n\nContraceptive use for women and men as defined in the protocol\n\nExclusion Criteria:\n\nPregnant or breast-feeding women\n\nECOG performance status greater than or equal to 2\n\nEvidence of insufficient organ function\n\nClinically significant cardiovascular disease including left-ventricular ejection fraction \\< 45%\n\nReceipt of therapy within 2 weeks prior to Day 1 or five half-lives, whichever is shorter or any investigational therapy within 28 days prior to Day 1\n\nKnown active central nervous system (CNS) involvement by malignancy that hasn'thas not remained stable for at least 3 months following effective treatment for CNS disease\n\nNon-malignant CNS disease such as stroke, epilepsy, CNS vasculitis or neurodegenerative disease or receipt of medications for these conditions\n\nCurrently receiving or likely to require immunosuppressive therapy Active bacterial, fungal, or viral infections including hep B, Hep C or HIV Live vaccine within 6 weeks prior to start of lympho-conditioning\n\nKnown allergy to albumin (human) or DMSO",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

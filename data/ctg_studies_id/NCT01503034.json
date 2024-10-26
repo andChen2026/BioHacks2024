@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01503034",
+    "briefTitle": "Pregnant Women With a Breast Cancer Diagnosed Between 2000 and 2014",
+    "officialTitle": "Study of Tumor Characteristics, Patient Care and Prognosis of Women With Breast Cancer During a Pregnancy Diagnosed Between 2000 and 2014",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 394,
+    "primaryOutcomeMeasure": "Overall survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 18 or over\n* Confirmed histological diagnosis of invasive breast cancer\n* No known metastasis\n* For the cases :\n\n  * Patients pregnant at the time of the first diagnosis\n  * 1st diagnosis between 2000 and 2014\n* For the controls :\n\n  * Patients not pregnant at the time of the first diagnosis\n  * 1st diagnosis between 2000 and 2009\n\nExclusion Criteria:\n\n* Patients who have undergone an induced abortion after the diagnosis of breast cancer\n* Patients with a history of breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

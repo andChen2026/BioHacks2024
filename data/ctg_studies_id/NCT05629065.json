@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05629065",
+    "briefTitle": "Pathways to Advance Targeted and Helpful Serious Illness Conversations (PATH-SIC)",
+    "officialTitle": "Pathways to Advance Targeted and Helpful Serious Illness Conversations (PATH-SIC)",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Breast Cancer, Gastrointestinal Cancer, Gynecologic Cancer, Thoracic Cancer, Genitourinary Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 800,
+    "primaryOutcomeMeasure": "Proportion of patients with an SIC at 60 days for arm 1 (patient +clinician nudge) vs arm 2 (no nudge).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients who are aged 18 years or older, reach one of the poor prognosis nodes identified and have an upcoming appointment at one of the following Dana Farber Cancer Institute oncology clinics (including Longwood and Chestnut Hill locations)\n* Breast Oncology Clinic\n* Gastrointestinal Oncology Clinic\n* Genitourinary Oncology Clinic\n* Gynecologic Oncology Clinic\n* Thoracic Oncology Clinic\n\nExclusion Criteria:\n\n* Patients with an SIC documented in the Advance Care Planning module of the electronic health record in the 6 months prior to reaching a poor prognosis node\n* Patients who have previously been randomized in this trial (e.g., the patient is encountering a poor-prognosis node for the second time during the trial period)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

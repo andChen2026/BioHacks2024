@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01668238",
+    "briefTitle": "Detection of Benign and Malignant Thyroid and Breast Tumors by Fourier Transform Infrared Spectrometry",
+    "officialTitle": "Detection of Benign and Malignant Thyroid and Breast Tumors by Fourier Transform Infrared Spectrometry",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Thyroid Tumor, Breast Tumor",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "pathologic findings",
+    "eligibilityCriteria": "Patients:\n\n1. Inclusion Criteria:\n\n   * Patients undergoing thyroid and breast tumor surgery.\n   * Informed consent form is signed.\n   * An optical fibre and ATR probe can be applied to the operation field in process of open or laparoscopic surgery.\n   * Male or female between the age of 18 to 80.\n   * Patients can tolerate surgery and with non of these diseases: severe heart failure, liver failure, renal failure or respiratory failure.\n2. Exclusion Criteria:\n\n   * A state of emergency, such as Gastrointestinal bleeding, perforation, or acute obstruction.\n   * unstable situation in operation, such as anesthetic accidents or intraoperative cerebral vascular accident.\n   * From investigators' perspective patients do not suitable for the study\n\nHealthy volunteers' inclusion criteria:\n\n* Informed consent form is signed.\n* No thyroid or breast cancer according to the professional judgment of general surgeon.\n* No thyroid or breast disease according to thyroid function tests and breast type B-ultrasonic test within 3 months.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

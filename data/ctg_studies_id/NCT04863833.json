@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04863833",
+    "briefTitle": "Tomosymthesis for Breast Mass Lesion Characterization",
+    "officialTitle": "Diagnostic Value of Digital Breast Tomosymthesis for Breast Mass Lesions Characterization",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Female Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "diagnosis of breast mass lesions",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nfemale patients who undergoes DBT must have a compressed breast thickness of more than 2 cm,with small mass,age\\>35,not have mastitis,not proceed breast implant\n\nExclusion Criteria:\n\n* Female Patients with breast implant ,severe nipple discharge, large palpable mass, mastitis and women within reproductive age(15-35 ) Female patients with huge breast that may exceed the detector size requirements for global diagnostic DBT.",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

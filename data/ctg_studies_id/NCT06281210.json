@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06281210",
+    "briefTitle": "Vabb After Neoadjuvant Therapy to Avoid Surgery-pCR to Avoid Breast Surgery",
+    "officialTitle": "Non-inferiority Study in Patients With Complete Pathological Response After Neoadjuvant Chemotherapy and Negative VABB Biopsy Undergoing RT Alone, Omitting Surgical Treatment",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Triple Negative Breast Cancer, HER2-positive Breast Cancer, Neoadjuvant Chemotherapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 77,
+    "primaryOutcomeMeasure": "Event-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* age\\> 18 years\n* infiltrating breast carcinoma, non-special histotype, triple negative or HER2 +, T1-T2 N0\n* single lesion\n* neo-adjuvant chemotherapy treatment for at least 12 weeks according to clinical practice\n* conservative surgery proposal\n* M0\n* tumour bed identified by breast markers placed in pre NACT by radiologist\n\nExclusion Criteria:\n\n* Bilateral or multicentric tumour\n* Presence of microcalcifications visualised on mammography\n* Presence of associated DCIS\n* Positive history of previous breast cancer\n* Positive history of medical or psychiatric conditions preventing adherence to the protocol\n* High risk patient",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

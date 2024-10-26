@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00049296",
+    "briefTitle": "Thalidomide and Docetaxel in Treating Patients With Advanced Cancer",
+    "officialTitle": "Phase I Pharmacokinetic Trial of Thalidomide and Docetaxel: A Regimen Based on Anti-Angiogenic Therapeutic Principles",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "Determine the maximum tolerated dose of docetaxel when administered with thalidomide in patients with advanced solid tumors, multiple myeloma, and non-Hodgkin's lymphoma.",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed malignancy not amenable to curative surgery, radiotherapy, or chemotherapy\n* Tumor types may include any of the following:\n\n  * Any solid tumor including, but not limited to, head and neck, breast, lung, gastrointestinal, genitourinary, melanoma, and sarcoma\n  * Primary CNS neoplasms if the following are true:\n\n    * Received primary radiotherapy\n    * No concurrent corticosteroids or has been on a stable corticosteroid dose for at least 30 days\n    * No concurrent enzyme-inducible anti-epileptic medications (i.e., carbamazepine or phenytoin)\n  * Multiple myeloma\n  * Non-Hodgkin's lymphoma\n* No refractory or relapsed acute or chronic leukemia\n* Measurable or evaluable disease\n* No life-prolonging therapy available\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nSex\n\n* Male or female\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* ECOG 0-1\n\nLife expectancy\n\n* At least 4 months\n\nHematopoietic\n\n* WBC at least 4,000/mm\\^3\n* Absolute neutrophil count at least 1,500/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n* Hemoglobin at least 10 g/dL\n\nHepatic\n\n* Bilirubin no greater than upper limit of normal (ULN)\n* AST and/or ALT no greater than 2.5 times ULN if alkaline phosphatase less than ULN OR\n* Alkaline phosphatase no greater than 4 times ULN if AST/ALT less than ULN\n\nRenal\n\n* Creatinine no greater than 1.5 mg/dL OR\n* Creatinine clearance at least 60 mL/min\n\nCardiovascular\n\n* No New York Heart Association class III or IV heart disease\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use 2 effective methods of contraception 4 weeks before, during, and 4 weeks after study\n* Willing and able to comply with FDA-mandated STEPS program\n* No peripheral neuropathy grade 2 or greater\n* No prior severe hypersensitivity reaction to docetaxel or other drugs formulated with polysorbate 80\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* At least 3 weeks since prior chemotherapy (6 weeks for nitrosoureas or mitomycin) and recovered\n* No more than 2 prior courses of mitomycin\n\nEndocrine therapy\n\n* See Disease Characteristics\n\nRadiotherapy\n\n* At least 4 weeks since prior large-field radiotherapy and recovered\n\nSurgery\n\n* Not specified\n\nOther\n\n* At least 3 weeks since other prior anticancer therapy and recovered",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

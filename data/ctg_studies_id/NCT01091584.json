@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01091584",
+    "briefTitle": "Nurse Intervention Project",
+    "officialTitle": "A Randomized Trial to Assess the (Cost) Effectiveness of the Use of the Distress Thermometer by a Nurse in Addition to Usual Care for Patients Treated With Curative Intent for Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Patients",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 193,
+    "primaryOutcomeMeasure": "Subscale quality of life of the questionnaire: EORTC QLQ C30",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven malignancy of the breast\n* Curative treatment\n* Dominated the dutch language\n* Age \\> 18 year\n\nExclusion Criteria:\n\n* Previously treated for a malignancy\n* Psychiatric problems that adherence this study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

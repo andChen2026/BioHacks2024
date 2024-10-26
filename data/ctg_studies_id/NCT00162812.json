@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00162812",
+    "briefTitle": "Topoisomerase II Alpha Gene Amplification and Protein Overexpression Predicting Efficacy of Epirubicin",
+    "officialTitle": "Prospective Evaluation of Topoisomerase II Alpha Gene Amplification and Protein Overexpression as Markers Predicting the Efficacy of Epirubicin in the Primary Treatment of Breast Cancer Patients",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 338,
+    "primaryOutcomeMeasure": "correlation of topoisomerase II and pathologic complete response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histologically-confirmed breast cancer (operable, locally advanced or inflammatory)\n2. Age less than 70 years\n3. Female patient\n4. Tumor size 2 cm at ultrasound examination.\n5. ER-negative tumors defined according to immunohistochemistry (i.e. \\< 10% of positive cells after immunostaining).\n6. Multifocal and multicentric breast tumors are allowed if all foci are ER-negative.\n7. Fixed and frozen samples from the primary tumor, obtained before treatment with epirubicin, must be available for evaluation of biological markers (topo II alpha gene and protein, HER-2 gene, p-53 gene, oligonucleotides microarrays).\n8. Written informed consent before study registration.\n9. Performance status 0 or 1 (ECOG scale)\n10. Normal CBC, hepatic and renal functions\n11. Normal left ventricular ejection fraction by echocardiography or muga scan\n12. Negative pregnancy test for all women of childbearing potential. Patients of childbearing potential must implement adequate non-hormonal measures to avoid pregnancy during treatment.\n\nExclusion Criteria:\n\n1. Metastatic breast cancer\n2. Serious medical conditions like:\n\n   1. congestive heart failure or unstable angina pectoris, previous history of myocardial infarction within 1 year from study entry, uncontrolled arrhythmias.\n   2. history of significant neurologic or psychiatric disorders\n   3. active uncontrolled infection\n   4. active peptic ulcer, unstable diabetes mellitus\n3. Concomitant contralateral invasive breast cancer\n4. Concurrent treatment with hormonal replacement therapy\n5. Concurrent treatment with any other anti-cancer therapy\n6. Previous treatment with anthracyclines for breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

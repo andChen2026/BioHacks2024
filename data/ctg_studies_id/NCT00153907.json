@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00153907",
+    "briefTitle": "Navelbine and Capecitabine in the Treatment of Metastatic Breast Cancer",
+    "officialTitle": "A Phase I Study of Oral Navelbine and Capecitabine in the Treatment of Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "To define the maximally tolerated dose and evaluate the feasibility and toxicity of capecitabine and oral navelbine administered in combination.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed breast cancer with evidence of locally advanced or metastatic disease\n* Female patients age 18 or older\n* No more than three prior chemotherapeutic regimens in the metastatic setting\n* ANC \\> 1,500/mm3\n* Platelet count \\> 100,000/mm3\n* SGOT \\< 3 x ULN\n* Bilirubin \\< 1.5 x ULN\n* Performance status of 0 or 1\n* At least 3 weeks since prior chemotherapy or 2 weeks since prior radiation, surgery or any anticancer investigational agent\n* Able to swallow and retain oral medications\n* Measurable disease\n\nExclusion Criteria:\n\n* Prior vinca alkaloids\n* Active gastrointestinal disease or disorder\n* Pregnant or lactating\n* Serious co-morbid medical or psychological condition\n* Prior bone marrow or stem cell transplant\n* Prior documented severe sensitivity to 5-FU",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

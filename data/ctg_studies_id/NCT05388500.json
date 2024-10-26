@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05388500",
+    "briefTitle": "Protocol for Herceptin as Adjuvant Therapy With Reduced Exposure to Chemotherapy (PHARE-C)",
+    "officialTitle": "Protocol for Herceptin as Adjuvant Therapy With Reduced Exposure to Chemotherapy, a Randomised Comparison of Trastuzumab vs Trastuzumab+Paclitaxel in Women With HER2-positive Early Breast Cancer Receiving Neoadjuvant Treatment",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 800,
+    "primaryOutcomeMeasure": "Time to progression",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed adenocarcinoma of the breast, nonmetastatic disease and non operated tumor\n* Without suspicious axillary nodes\n* Tumor size \\< 30 mm\n* Eligibility to receive a weekly paclitaxel based chemotherapy for this cancer\n* Left Ventricular Ejection Fraction (LVEF) obtained and \\> 50% as measured by echocardiography (Simpson method) or multigated acquisition scan (MUGA) at 3 months (-/+ 1 month)\n* Overexpression of HER-2 in the invasive component of the primary tumor as indicated by one of the following:\n\n  3+ by immunohistochemistry (IHC) 2+ by IHC and confirmation by fluorescent in situ hybridization (FISH) or chromogenic in situ hybridization (CISH)\n* With signed Informed consent\n\nExclusion Criteria:\n\n* Previous anti-HER2 treatment (except for HERCEPTIN)\n* Cardiac disease or other medical conditions preventing trastuzumab administration\n* Known allergy to trastuzumab, murine proteins or other excipients\n* Pregnant or breastfeeding women\n* Patients that are not able to comply to the protocol assessments for geographic, social or psychological reasons",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

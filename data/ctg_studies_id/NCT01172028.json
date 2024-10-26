@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01172028",
+    "briefTitle": "Pemetrexed Disodium and Docetaxel in Treating Patients With Advanced Solid Tumors",
+    "officialTitle": "Phase I Dose Escalation Trial of Biweekly Alimta (With Vitamin Supplementation) in Combination With Taxotere in Advanced Solid Tumor Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Esophageal Cancer, Gastric Cancer, Head and Neck Cancer, Lung Cancer, Ovarian Cancer, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 33,
+    "primaryOutcomeMeasure": "Maximum-tolerated dose (MTD) of combination ALIMTA and Taxotere",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of advanced or recurrent solid tumors\n\n  * Patients for whom docetaxel is considered appropriate anticancer therapy; docetaxel is currently approved for use in patients with the following solid tumors:\n\n    * Non-small cell lung (NSCLC)\n    * Breast\n    * Prostate\n    * Esophageal\n    * Head and neck\n    * Ovarian\n    * Gastric\n* Measurable or non-measurable disease\n* No squamous cell NSCLC\n* Controlled brain metastases allowed\n\n  * Clinically stable with no signs of progression by MRI or CAT scan \u2265 60 days after treatment\n  * Patients must be asymptomatic with no steroid requirements\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-1\n* Life expectancy \u2265 12 weeks\n* WBC \u2265 3,000/mm\\^3\\*\n* ANC \u2265 1,500/mm\\^3\\*\n* Hemoglobin \u2265 9 g/dL\n* Platelet count \u2265 100,000/mm\\^3\n* Total bilirubin normal\n* AST, ALT, and alkaline phosphatase (AP) must meet one of the following criteria:\n\n  * AST or ALT \u2264 3\\*\\* times upper limit of normal (ULN) AND AP normal\n  * AST or ALT \u2264 1.5 times ULN AND AP \u2264 2.5 times ULN\n  * AST or ALT normal AND AP \u2264 5 times ULN\n* Calculated creatinine clearance \u2265 45 mL/min OR GFR measured by Tc99m-DPTA serum clearance method\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for \u2265 3 months after completion of study treatment\n* Able to interrupt aspirin or other NSAIDs pre- and post- twice-monthly drug dosing\n* Able to take folic acid, vitamin B12, or corticosteroids\n* No uncontrolled serious active infections\n* No pre-existing peripheral neuropathy \\> grade 1\n* No significant cardiac disease (i.e., uncontrolled high blood pressure, unstable angina, congestive heart failure within the past 6 months, LVEF \\< normal, myocardial infarction within the past year, or serious cardiac arrhythmias requiring medication)\n* No known severe hypersensitivity reaction to docetaxel or other drugs formulated in polysorbate 80 NOTE: \\*No concurrent colony-stimulating factors to maintain these values\n\nNOTE: \\*\\*For patients with liver metastases, AST or ALT \u2264 5 times ULN AND AP normal\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* Have received 0-1 prior systemic therapy regimens (prior adjuvant chemotherapy will be considered a prior systemic therapy regimen)\n* At least 4 weeks since prior systemic anticancer therapy (6 weeks for mitomycin C and nitrosoureas)\n* At least 2 weeks since prior radiotherapy and recovered from the side effects to \u2264 grade 1\n* At least 2 weeks since prior pleurodesis\n* No concurrent radiotherapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

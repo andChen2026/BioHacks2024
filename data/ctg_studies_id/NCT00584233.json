@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00584233",
+    "briefTitle": "Evaluation of Breast CT",
+    "officialTitle": "Evaluation of Breast CT",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 75,
+    "primaryOutcomeMeasure": "Comparison of Pre- and Post- Contrast Breast Computed Tomography With Pre- and Post- Contrast Magnetic Resonance Imaging.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age at least 35 years old\n* Diagnostic findings from prior mammography highly suggestive of breast malignancy (BI- RADS\u00ae category 4 or BI-RADS\u00ae category 5)\n* Not pregnant or breast-feeding\n* Ability to lie motionless for up to 5 minutes\n\nExclusion Criteria:\n\n* Recent breast biopsy\n* History of moderate or severe reaction to contrast agent injection\n* History of Allergy to Iodine\n* History of multiple food and/or drug allergy\n* Currently taking Glucophage or Glucovance (Metformin)\n* History of Chronic Asthma\n* History of Diabetes Mellitus\n* Renal (kidney) disease, or solitary kidney\n* Recent lab tests showing elevated serum creatinine (\u2265 1.5 mg/dL)\n* Recent lab tests showing estimated glomerular filtration rate (eGFR) \u2264 60 ml/minute\n* Positive urine pregnancy test or currently breast-feeding\n* Inability to understand the risks and benefits of the study\n* The standard MRI contraindications apply, including but not limited to: having a pacemaker or other implanted electronic device, metal foreign bodies within the eye, aneurysm clips, heart valve prosthesis, vascular stents, coils, intrauterine devices (IUDs), inferior vena cava (IVC) filters, gunshot wounds with retained bullet fragments.",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

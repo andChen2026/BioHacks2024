@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00006007",
+    "briefTitle": "LY231514 Plus Gemcitabine in Treating Women With Metastatic Breast Cancer",
+    "officialTitle": "A Phase II Study of a Combination of MTA (LY231514) and Gemcitabine in Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 59,
+    "primaryOutcomeMeasure": "time to progression",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed breast cancer with clinical evidence of metastatic disease\n* Bidimensionally measurable disease\n\n  * If bisphosphonates used, must have measurable disease site other than bone\n  * No bone only disease\n* Must have received a prior anthracycline and taxane in the adjuvant and/or metastatic setting\n* No clinically significant pericardial effusions, pleural effusions, or ascites unless they can be drained\n* No active CNS metastases\n\n  * Treated CNS metastasis that has ben stable for at least 8 weeks allowed\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* ECOG 0-2\n\nLife expectancy:\n\n* At least 3 months\n\nHematopoietic:\n\n* Absolute neutrophil count at least 1,500/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n\nHepatic:\n\n* Bilirubin no greater than 2 times upper limit of normal (ULN)\n* AST no greater than 3 times ULN (5 times ULN if liver metastases)\n* Albumin at least 3.0 g/dL\n\nRenal:\n\n* Creatinine clearance at least 45 mL/min\n\nCardiovascular:\n\n* No New York Heart Association class III or IV heart disease\n\nOther:\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* Able to take folic acid and cyanocobalamin (vitamin B12) supplements\n* Body surface area less than 3 m\\^2\n* No uncontrolled infection\n* No chronic debilitating disease\n* No other prior malignancy within the past 5 years except adequately treated basal cell or squamous cell skin cancer or adequately treated noninvasive carcinomas\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* At least 4 weeks since prior immunotherapy\n* At least 4 weeks since prior genetic therapy\n* No concurrent immunomodulating agents\n\nChemotherapy:\n\n* See Disease Characteristics\n* No more than 3 prior chemotherapy regimens including adjuvant therapy\n\n  * No more than 1 prior chemotherapy regimen for metastatic disease unless these were a taxane and anthracycline\n* At least 4 weeks since prior chemotherapy\n* No prior gemcitabine and/or pemetrexed disodium\n* No other concurrent cytostatic or cytotoxic chemotherapy\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* At least 4 weeks since prior radiotherapy\n* No prior radiotherapy to greater than 25% of bone marrow\n* No prior strontium chloride Sr 89\n* No concurrent radiotherapy\n\nSurgery:\n\n* At least 4 weeks since prior major surgery\n\nOther:\n\n* No aspirin or nonsteroidal antiinflammatory agents 2 days before, the day of, and for 2 days after pemetrexed disodium administration (5 days before for long acting agents such as naproxen, piroxicam, diflunisal, or nabumetone)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

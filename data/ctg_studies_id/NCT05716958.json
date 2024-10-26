@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05716958",
+    "briefTitle": "Multi-Reader, Multi-Case, Cross-Over, Retrospective Study to Evaluate Effectiveness of Lunit INSIGHT DBT",
+    "officialTitle": "Multi-Reader, Multi-Case, Cross-Over, Retrospective, Superiority, Pivotal Study to Evaluate Effectiveness of Lunit INSIGHT DBT in the Assistance of Detection and Diagnosis of Breast Cancer During 3D Mammography Interpretation",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 262,
+    "primaryOutcomeMeasure": "Effectiveness of Lunit INSIGHT DBT",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n\\[For All Subject Groups\\]\n\n* Female\n* 22 years old or older\n\n\\[For 'Control (Non-cancer)' Group\\]\n\n* Negative Cases Interpreted as BI-RADS 0 (Assessment Incomplete) or BI-RADS 1 (Negative) with no cancers on the DBT exam and confirmed as BI-RADS 1 (Negative) on the further diagnostic imaging (e.g., MMG, DBT, MRI, CT and Ultrasound) taken at least after 1 year of the DBT exam.\n* Benign Cases Interpreted as BI-RADS 0 (Assessment Incomplete) or BI-RADS 2 (Benign) with a visible lesion on the DBT exam and confirmed as BI-RADS 2 (Benign) on the further diagnostic imaging (e.g., MMG, DBT, MRI, CT and Ultrasound) taken at least after 1 year of the DBT exam without a further breast biopsy.\n\nOr for the biopsy-proven benign exams, interpreted as BI-RADS 0 (Assessment Incomplete), BI-RADS 3 (Probably Benign), 4 (Suspicious) or 5 (Highly Suggestive of Malignancy) with a visible suspicious lesion for breast cancer on the DBT exam but confirmed as benign through subsequent biopsy conducted within following 1 year of the DBT exam.\n\n\\[For 'Condition (Cancer)' Group\\] Interpreted as BI-RADS 0 (Assessment Incomplete), BI-RADS 3 (Probably Benign), 4 (Suspicious) or 5 (Highly Suggestive of Malignancy) with a visible suspicious lesion for breast cancer on the DBT exam and confirmed as a cancer (malignant) through the subsequent biopsy conducted within following 1 year of the DBT exam.\n\nExclusion Criteria:\n\n* Previous breast cancer\n* Previous vacuum-assisted biopsy, surgical biopsy or surgery in breast\n* Presence of a breast implant or pacemaker on the required images: 4 views (RCC, RMLO, LCC, LMLO) images of Screening or diagnostic DBT exams with a FFDM (Full-Field Digital mammography) image or with a synthetic 2D image",
+    "sex": "FEMALE",
+    "minimumAge": "22 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

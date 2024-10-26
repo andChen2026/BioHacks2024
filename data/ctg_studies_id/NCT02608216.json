@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02608216",
+    "briefTitle": "[18F]FLT PET/CT in Rb+ Metastatic Breast Cancer",
+    "officialTitle": "[18F]Fluorothymidine (FLT) PET/CT Imaging in Rb+ Metastatic Breast Cancer Patients Undergoing LEE011 and Weekly Paclitaxel Therapy",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Neoplasm, Metastatic Breast Cancer, Rb+ Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Measure changes in [18F]FLT uptake in metastatic tumors before and during treatment with ribociclib (LEE011) only, patient will have FLT PET/CT scan at baseline, run-in day -3, and cycle 1, day 1 of ribociclib (LEE011)/paclitaxel therapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. At least 18 years of age\n2. History of histologically or cytologically confirmed breast cancer, any ER, PR or HER2 status is allowed as long as it expresses the Rb protein.\n3. At least one site of metastatic breast cancer that is outside of the liver and bone that is identified by standard imaging (e.g. CT, MRI, FDG PET/CT, ultrasound, x-ray)\n4. Participants must be informed of the investigational nature of this study and provide written informed consent in accordance with institutional and federal guidelines prior to study-specific procedures.\n5. Patients must be candidates to receive treatment on the therapeutic trial UPCC06115, a Phase I study of ribociclib (LEE011) and weekly paclitaxel.\n\nExclusion Criteria:\n\n1. Females who are pregnant at the time of screening will not be eligible for this study, urine pregnancy test will be performed at screening in women of child-bearing potential.\n2. Inability to tolerate imaging procedures in the opinion of an investigator or treating physician\n3. Serious or unstable medical or psychological conditions that, in the opinion of the investigator, would compromise the subject's safety or successful participation in the study.\n4. Ineligible for the therapeutic trial UPCC 06115",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

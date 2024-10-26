@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01023204",
+    "briefTitle": "Phase II Study of Weekly Paclitaxel (BMS-181339) in Patient With Breast Cancer",
+    "officialTitle": "Phase II Study of Weekly Paclitaxel (BMS-181339) in Patient With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 68,
+    "primaryOutcomeMeasure": "Response rate [defined as total number of patients with complete and partial response divided by number of response-evaluable patients] based on predetermined evaluation criteria",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with primary advanced inoperable disease who were refractory to chemotherapy\n* Patients with recurrent disease following post-operative adjuvant chemotherapy\n* Patients who were not amenable to post-recurrence chemotherapy\n\nExclusion Criteria:\n\n* Patients with serious, uncontrolled medical illness\n* Patients with previous therapy with taxanes",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

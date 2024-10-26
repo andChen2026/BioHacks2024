@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02476786",
+    "briefTitle": "Endocrine Treatment Alone for Elderly Patients With Estrogen Receptor Positive Operable Breast Cancer and Low Recurrence Score",
+    "officialTitle": "Endocrine Treatment Alone as Primary Treatment for Elderly Patients With Estrogen Receptor Positive Operable Breast Cancer and Low Recurrence Score",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Cancer of Breast, Breast Neoplasms, Cancer of the Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Newly diagnosed histologically or cytologically confirmed operable invasive breast cancer defined as cT1 or T2, N0-1, and M0.\n* Disease must be ER+ and HER2-.\n* Ki67 score/proliferative index \u2264 30% or low to intermediate mitotic index\n* Measurable disease defined as lesions that can be accurately measured in at least one dimension (longest diameter to be recorded) by ultrasound or mammogram.\n* 70 years of age or older.\n* ECOG performance status \u2264 3\n* Able to understand and willing to sign an IRB approved written informed consent document (or that of legally authorized representative, if applicable).\n\nExclusion Criteria:\n\n* Prior surgery for this cancer\n* A history of other malignancy \u2264 5 years previous which would preclude endocrine treatment of their cancer.\n* Currently receiving any other investigational agents.\n* A history of allergic reactions attributed to compounds of similar chemical or biologic composition to any of the agents used in the study.\n* Uncontrolled intercurrent illness as determined by their treating physician which would limit compliance with study requirements.\n* Known HIV-positivity on combination antiretroviral therapy because of the potential for pharmacokinetic interactions with endocrine therapies. Appropriate studies will be undertaken in patients receiving combination antiretroviral therapy when indicated.",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

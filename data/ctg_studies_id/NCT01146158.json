@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01146158",
+    "briefTitle": "Axillary Reverse Mapping for Breast Carcinomas",
+    "officialTitle": "Individualisation of the Lymphatic Arm Drainage During Axillary Dissection for Breast Carcinomas.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Axillary Dissection",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 210,
+    "primaryOutcomeMeasure": "Success of the principal objectives is qualified as finding one or more radioactive node in zone D",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Indication for formal Axillary Dissection (AD)\n* N0 patient with a large tumor: T3\n* N1 patient\n* N2 patient with axillary imaging showing limited node involvement(1-4N+).\n* Secondary AD after a positive sentinel node ( pN1, pN1(mi))\n* AD after pr\u00e9op\u00e9rative chemotherapy in a patient initially N+.\n* Age between 18 and 70\n* Signature of the consent form.\n* Patients beneficiary of the Social Security\n\nExclusion Criteria:\n\n* N0 patient with an indication of Sentinel Node biopsy\n* N2 patient with axillary imaging showing suspected node involvement \\>4N+.\n* N3 patient\n* Age over 70\n* Pregnancy\n* Blue dye allergy\n* Mentally deficient patient",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05402436",
+    "briefTitle": "Breast Screening Atypia and Subsequent Development of Cancer in England",
+    "officialTitle": "Breast Screening Atypia and Subsequent Development of Cancer: an Observational Analysis of the Sloane Database in England (Sloane Atypia Cohort Study)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 3000,
+    "primaryOutcomeMeasure": "Invasive breast cancer at 3 years following atypia diagnosis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of epithelial atypia (ADH (including AIDEP), LISN (both ALH and LCIS) and FEA) in the Sloane database between 1st January 2003 and 30th June 2018\n\nExclusion Criteria:\n\n* bilateral primary cases\n* the \"best prognosis\" atypia of the bilateral primaries\n* atypia with co-existing DCIS\n* pleomorphic LCIS (as these are managed akin to DCIS)\n* unknown type of atypia\n* cases not from England\n* patients without follow-up until 31 December 2018",
+    "sex": "FEMALE",
+    "minimumAge": "47 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

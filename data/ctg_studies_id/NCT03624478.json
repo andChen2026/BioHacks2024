@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03624478",
+    "briefTitle": "Hypofractionated Radiation Therapy in Treating Participants With Breast Cancer Before Surgery",
+    "officialTitle": "A Pilot/Phase II Trial of Hypofractionated Radiotherapy to the Whole Breast Alone Before Breast Conserving Surgery",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Anatomic Stage I Breast Cancer AJCC v8, Anatomic Stage IA Breast Cancer AJCC v8, Anatomic Stage IB Breast Cancer AJCC v8, Anatomic Stage IIA Breast Cancer AJCC v8, Prognostic Stage I Breast Cancer AJCC v8, Prognostic Stage IA Breast Cancer AJCC v8, Prognostic Stage IB Breast Cancer AJCC v8, Prognostic Stage IIA Breast Cancer AJCC v8",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Pathologic Complete Response (pCR) Rate Defined as a Residual Tumor Burden of 0-1 in the Surgical Specimen",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological confirmation of breast cancer\n* Clinical stage T0-T2 N0 M0\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 to 2\n* Able to and provides Institutional Review Board (IRB) approved study specific written informed consent\n* Study entry must be within 120 days of last biopsy (breast)\n* Able to complete all mandatory tests\n* Willing to return to enrolling institution for follow-up (during the active monitoring phase of the study)\n* Planned breast surgery and indications for whole breast radiotherapy\n\nExclusion Criteria:\n\n* Medical contraindication to receipt of radiotherapy\n* Severe active co-morbid systemic illnesses or other severe concurrent disease which, in the judgment of the investigator, would make the patient inappropriate for entry into this study or interfere significantly with the proper assessment of safety and toxicity of the prescribed regimens\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements or providing informed consent\n* Active systemic lupus or scleroderma\n* Pregnancy\n* Women of childbearing potential who are unwilling to employ adequate contraception\n* Prior receipt of ipsilateral breast or chest wall radiation\n* Recurrent breast cancer\n* Indications for comprehensive regional nodal irradiation\n* No neo-adjuvant therapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

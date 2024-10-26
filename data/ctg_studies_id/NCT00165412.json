@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00165412",
+    "briefTitle": "Breast MRI Screening in Women Treated With Mediastinal Irradiation for Hodgkin's Disease",
+    "officialTitle": "Breast MRI Screening in Women Treated With Mediastinal Irradiation for Hodgkin's Disease",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Hodgkin's Disease",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 148,
+    "primaryOutcomeMeasure": "To compare the sensitivity, specificity, positive and negative predictive value of mammography and breast MRI for breast cancer detection in women treated for Hodgkin's disease.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients treated with radiation therapy to the chest area for Hodgkin's disease\n* Age between 12 and 35 at initial treatment\n* Eight years or longer after initial treatment\n* Pre-approval from the participant's insurance company for the breast imaging studies\n\nExclusion Criteria:\n\n* Pregnant or lactating women\n* Post Bilateral mastectomy\n* Currently undergoing breast cancer therapy\n* Known metastatic cancer\n* Patients with contraindications for undergoing an MRI: cardiac pacemaker, known metallic objects in body e.g. metallic clips, bullets, shrapnel or buckshots.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

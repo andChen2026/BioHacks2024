@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06334471",
+    "briefTitle": "Whole Genome Sequencing in Breast Cancer",
+    "officialTitle": "Whole Genome Sequencing in Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1200,
+    "primaryOutcomeMeasure": "Establishing individual genetic characteristics of breast cancer patients through WGS",
+    "eligibilityCriteria": "\\[Prospective study\\]\n\nInclusion Criteria:\n\n* Patients who have consented to both the patient consent form and the consent for the use of human-derived materials.\n* Patients who are aged 19 years or older at the time of signing the consent form.\n* Patients capable of providing written consent to participate voluntarily in the study.\n* Patients eligible for tissue examination and surgical removal to facilitate sample collection.\n* Patients histologically confirmed with breast cancer or undergoing tissue examination for pathological confirmation due to imaging findings suggestive of breast cancer.\n\nExclusion Criteria:\n\n* Patients who do not understand or refuse to consent in writing.\n* Patients for whom obtaining sufficient samples is challenging.\n* Patients who refuse genetic testing.\n\n\\[Retrospective study\\]\n\nInclusion Criteria:\n\n* Patients histologically confirmed with breast cancer.\n* Patients for whom breast cancer tissues collected between 2012 and 2023 are stored in the Samsung Seoul Hospital Biobank and available for distribution.\n\nExclusion Criteria:\n\n- Patients for whom sufficient tissue for analysis is not adequately stored.",
+    "sex": "ALL",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

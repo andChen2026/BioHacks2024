@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01329627",
+    "briefTitle": "Feasibility Study of Metronomic Chemotherapy for Locally Advanced HER2-Negative Breast Cancer",
+    "officialTitle": "Phase II Feasibility Study of Weekly Paclitaxel Followed by Weekly Doxorubicin Plus Daily Oral Cyclophosphamide for Locally Advanced HER2-Negative Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Locally Advanced HER2-negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 12,
+    "primaryOutcomeMeasure": "Incidence of febrile neutropenia",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Locally advanced breast cancer diagnosed by guided core biopsy\n* T \\> 2 cm (any N), or any T and node positive (needle biopsy is required)\n* Non-metastatic disease assessed by computed tomography and bone scintigraphy\n* Histological grade 2 and Ki67 \\> 15% or\n* Histological grade 3 or\n* Any triple negative (TN) or\n* Inflammatory breast cancer (IBC)\n* Normal left ventricular ejection fraction (LVEF)\n* HER2-negative disease\n\nExclusion Criteria:\n\n* Another malignancy within the last 5 years (except curatively treated skin carcinoma, in situ cervix carcinoma, in situ ductal carcinoma of the breast, or in situ lobular carcinoma of the breast)\n* Clinically significant comorbidities as cardiovascular diseases, chronic obstructive pulmonary disease (COPD), renal or liver failure, psychiatric disorders\n* LVEF value below institutional limits of normal\n* Predominant lobular carcinoma histology\n* Grade 1 tumors\n* Detected or suspicious distant metastasis\n* Neutrophils less than 1,500/\u00b5L, platelets less than 100,000/\u00b5L, hemoglobin less than 10 g/dL, AST more than 2.5x upper limit of normal (ULN), total bilirubin more than ULN, alkaline phosphatase more than 1.5x ULN\n* Male sex\n* HER2-positive breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

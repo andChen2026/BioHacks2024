@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01963624",
+    "briefTitle": "Combined Elastography and Color Doppler Ultrasonography for Breast Screening With Ultrasound",
+    "officialTitle": "Multicenter Prospective Study to Evaluate the Value of Combined Elastography and Color Doppler Ultrasonography for Breast Screening With Ultrasound",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1241,
+    "primaryOutcomeMeasure": "Positive predictive value of breast screening with US",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 30 years or older screened with breast ultrasound without specific symptoms\n* Women who underwent mammography within 3 months which showed no abnormality except for dense breast\n* Women who had at least one breast mass of BI-RADS category 3 or higher.\n\nExclusion Criteria:\n\n* Women with breast implants\n* Women who are unwilling or unable to provide informed consent\n* Lesions larger than 3 cm\n* Lesions that are previously noted and followed-up in the same hospital",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

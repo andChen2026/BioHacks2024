@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02522234",
+    "briefTitle": "A Pharmacokinetics/Dynamics Ib Study of F-627 in Women With Breast Cancer Receiving Myelotoxic Chemotherapy",
+    "officialTitle": "A Phase Ib Study to Assess the Safety, Pharmacokinetics and Pharmacodynamics of F-627 as Prophylaxis Therapy to TAC Chemotherapy in Women With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neutropenia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "Number of participants with adverse events/abnormal laboratory value as measure of safety",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. 18-75 years old;\n2. Female with breast cancer patients after resection who planned to receive up to 6 cycles of chemotherapy (docetaxol, doxorubicin and cyclophosphamide).\n3. Score 0-1 of East Cooperative Oncology Group (ECOG).\n4. Absolute neutrophil count (ANC) \u2265 2.0 \u00d7 109/L, hemoglobin (Hb) \u2265 11.0 g/dl, and platelets (PLT) \u2265 100 \u00d7 109/L prior to chemotherapy;\n5. Liver and kidney function tests were within normal range;\n6. Left ventricular ejection fraction (LVEF) \\> 50%;\n7. Willing to provide written informed consent and to compliant study procedure.\n\nExclusion Criteria:\n\n1. Pregnancy or lactating women; female with pregnancy potential had positive pregnancy test prior to study treatment.\n2. Expected survival \\< 12 months.\n3. Patients received radiotherapy within 4 weeks prior to enrollment.\n4. Patients received neoadjuvant chemotherapy prior to the resection for breast cancer.\n5. Patients received bone marrow or hemopoietic stem cell transplantation;\n6. Patient was with malignancy other than breast cancer.\n7. Patients received G-CSF treatment within 6 weeks prior to enrollment.\n8. Patient cann't tolerate the pre-treatment of chemotherapy.\n9. Acute congestive heart failure, myocardial disease, or myocardial infarction diagnosed by clinical, electrocardiography, or any other medical procedure.\n10. Any disease that possibly cause splenomegaly.\n11. Acute infections, chronic active hepatitis B infection within 1 year (except subject with negative hepatitis B antigen prior to enrollment) or history of hepatitis C infection.\n12. Patients with active tuberculosis (TB), or had ever the history of close contact with patients with TB except negative result in tuberculin test; or under TB treatment; or suspected TB by chest X-ray.\n13. Known the positive result of human immunodeficiency virus (HIV) or patients with acquired immune deficiency syndrome (AIDS).\n14. Patients with sickle-cell anemia.\n15. Patients with alcohol abuse or drug addiction that may affect the compliance of the study.\n16. Patients with allergy to proteins extracted from Escherichia coli, G-CSF, or drug excipient.\n17. Patients took other investigational products within 4 weeks prior enrollment.\n18. Patients with diseases or symptoms that may not be suitable to be enrolled in this study based on investigator's judgment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

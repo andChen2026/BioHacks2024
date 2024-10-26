@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06040593",
+    "briefTitle": "Study of Predictors of Clinical Outcomes in Patients With HR+ and HER2-low/Negative Breast Cancer",
+    "officialTitle": "Identify Predictors of Clinical Outcomes in Real-world Patients With HR+ and HER2-low/Negative Breast Cancer Treated With Neoadjuvant Chemotherapy or Endocrine Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Hormone-receptor-positive Breast Cancer, HER2-low Breast Cancer, HER2-negative Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 927,
+    "primaryOutcomeMeasure": "Event-free survival (EFS) in Participants With HR+ and HER2-Low/Negative Breast Cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Newly diagnosed HR+ and HER2-low/negative breast cancer diagnosed between January 1, 2010 and December 31, 2022 (Aged \u226518 years at the time of diagnosis)\n* Stage I-IIIB at the time of diagnosis\n* Received neoadjuvant chemotherapy and/or endocrine therapy and/or IO therapy\n* Received curative intent surgery (mastectomy after neoadjuvant chemotherapy, endocrine, or IO therapy)\n\nExclusion Criteria:\n\n* Patients who received HER2-targeted therapies including\n\n  * Trastuzumab\n  * Pertuzumab\n  * Ado-trastuzumab emtansine\n  * Neratinib\n  * Tucatinib\n  * Lapatinib\n  * Fam-trastuzumab deruxtecan-nxki\n  * Margetuximab",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

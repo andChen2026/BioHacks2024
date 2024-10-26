@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02307240",
+    "briefTitle": "Open Label, Multi-center Study to Assess the Safety, Tolerability and Pharmacokinetics of CUDC-907 in Subjects With Advanced/Relapsed Solid Tumors",
+    "officialTitle": "Phase I Open Label, Multi-center Study to Assess the Safety, Tolerability and Pharmacokinetics of Orally Administered CUDC-907, an HDAC and PI3K Inhibitor, in Subjects With Advanced/Relapsed Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Triple-Negative Breast Cancer, High-grade Serous Ovarian Cancer, Solid Tumors, NUT Midline Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 43,
+    "primaryOutcomeMeasure": "To determine the safety and tolerability of oral CUDC-907 in subjects with advanced/relapsed solid tumors",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Subjects \u226518 years of age for solid tumor; in the case of midline carcinoma with NUT rearrangement. subjects may be \u226516 years of age.\n2. Histopathologically confirmed diagnosis of an advanced solid tumor such as breast cancer or midline carcinoma with NUT rearrangement, that has progressed despite standard therapy, or for which no standard therapy exists. For enrollment in the expansion cohorts, histopathological confirmation of triple-negative breast cancer or high-grade serous ovarian cancer is required.\n3. Measurable or evaluable disease.\n4. Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2.\n5. Recovery to Grade 1 or baseline of any toxicity due to prior systemic treatments or radiotherapy (excluding alopecia).\n\nExclusion Criteria:\n\n1. Systemic anticancer therapy within three weeks of study entry, except for nitrosoureas or mitomycin C within six weeks.\n2. Radiotherapy within one week prior to starting study treatment.\n3. Other investigational agent(s) within 21 days prior starting to study treatment.\n4. Symptomatic central nervous system (CNS) involvement or lymphangitic metastasis. Stable or improving CNS disease that is not under active treatment after receipt of adequate therapy is allowed.\n5. Uncontrolled or severe cardiovascular disease, including myocardial infarction or unstable angina within six months prior to study treatment, New York Heart Association (NYHA) Class II or greater congestive heart failure, serious arrhythmias requiring medication for treatment, clinically significant pericardial disease or cardiac amyloidosis.",
+    "sex": "ALL",
+    "minimumAge": "16 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01423695",
+    "briefTitle": "Weekly Paclitaxel and Trastuzumab in Metastatic Breast Cancer",
+    "officialTitle": "Weekly Application of Trastuzumab and Paclitaxel in the Treatment of HER2-overexpressing Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 121,
+    "primaryOutcomeMeasure": "Progression-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histologically confirmed metastatic breast cancer overexpressing HER2\n* pretreatment with anthracycline in either the adjuvant or palliative setting.\n* HER2 positivity was defined as 2+ or 3+ overexpression using the DAKO HercepTest, confirmed by fluorescence in-situ hybridization (FISH) if 2+.\n* informed consent\n\nExclusion Criteria:\n\n* more than 1 chemotherapy for advanced disease\n* taxane or trastuzumab pretreatment\n* brain metastases\n* Eastern Cooperative Oncology Group (ECOG) performance status \\>1\n* pregnancy or lactation, childbearing potential without reliable contraception\n* clinically significant cardiac disease,\n* neutrophils \\<1500/\u00b5l, platelets \\<75,000/\u00b5l\n* total bilirubin and creatinine \\>1.5 \u00d7 the upper limit of normal",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

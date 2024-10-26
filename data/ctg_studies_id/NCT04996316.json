@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04996316",
+    "briefTitle": "MammoScreen Breast Cancer Risk Assessment and Decision Aid for Breast Cancer Screening and Referrals",
+    "officialTitle": "Implementing USPSTF Recommendations for Breast Cancer Screening and Prevention by Integrating Clinical Decision Support Tools With the Electronic Health Record",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1141,
+    "primaryOutcomeMeasure": "Uptake of MammoScreen",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women between the ages of 40 and 74\n* Enrolled in MyChart\n* Able to read English\n\nExclusion Criteria:\n\n* Personal history of breast or ovarian cancer\n* Currently Pregnant\n* Currently in Hospice",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

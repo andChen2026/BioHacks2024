@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01852032",
+    "briefTitle": "Computed Tomography Versus Standard 2D Mammography Versus 3D Tomosynthesis",
+    "officialTitle": "Computed Tomography Versus Standard 2D Mammography Versus 3D Tomosynthesis",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 23,
+    "primaryOutcomeMeasure": "Beta of CT Coronal View",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 35 years of age or older\n* While male patients will not be explicitly excluded, it is expected that all patients in this study will be women\n* Diagnostic findings from prior mammography suspicious for, or highly suggestive of, breast malignancy -BIRADS (Breast Imaging Reporting and Data System) categories 4 and 5\n* Scheduled for ultrasound or stereotactic core biopsy\n* Ability to lie still on a table top for up to 10 minutes, longer than the typical breast CT duration.\n* Ability to understand risks, procedures, and benefits involved\n\nExclusion Criteria:\n\n* Recent breast biopsy\n* History of breast augmentation implant\n* Pregnant or Positive urine pregnancy test (UPT) or currently breast-feeding\n* History of moderate or severe adverse reaction to iodinated contrast injection\n* Recent serum creatinine \u2265 1.5 mg/dL\n* History of Diabetes Mellitus\n* Currently taking Glucophage or Glucovance (Metformin)\n* History of chronic asthma\n* History of allergy to iodine\n* Multiple food and/or drug allergy\n* Renal disease\n* History of pulmonary disease, phobia of breath holding, or other condition that could prevent the subject from being able to perform the 16 second breath hold",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

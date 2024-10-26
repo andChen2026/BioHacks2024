@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02151747",
+    "briefTitle": "Testing BRCA 1/2 Mutation Using Next Generation Sequencing",
+    "officialTitle": "Pilot Study of Validation of Testing BRCA 1/2 Mutation Using Next Generation Sequencing",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 12,
+    "primaryOutcomeMeasure": "Overall Accuracy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18\n* Breast or ovarian cancer history in 2nd degree family members\n* Male breast cancer\n* Bilateral breast cancer\n* Patient with breast cancer under 40 year of age\n* Simultaneous breast and ovarian cancer\n* Patients with epithelial ovarian cancer\n* Breast cancer with other simultaneous extramammary malignancy\n\nExclusion Criteria:\n\n-Patients who do not agree with testing BRCA 1/2 mutation",
+    "sex": "ALL",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

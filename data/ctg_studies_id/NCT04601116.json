@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04601116",
+    "briefTitle": "The MASTER Study (MAmmary Cancer STatin ER Positive Study)",
+    "officialTitle": "A Randomized, Multicenter, Double-blind, Placebo-controlled Comparison of Standard (Neo)Adjuvant Therapy Plus Placebo Versus Standard (Neo)Adjuvant Therapy Plus Atorvastatin in Patients With Early Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Female, Estrogen Receptor Positive Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 3360,
+    "primaryOutcomeMeasure": "Invasive disease-free survival",
+    "eligibilityCriteria": "Patients must meet ALL of the following criteria to be eligible for randomization:\n\nInclusion Criteria:\n\n1. Women with estrogen receptor positive breast cancer who are candidates for (neo)adjuvant systemic therapy OR have received \u22643 years of adjuvant endocrine therapy.\n2. Age \\> 18 years.\n3. Performance status of ECOG \u2264 2.\n4. Prior to patient registration, written informed consent must be given according to ICH/GCP, and national/local regulations.\n\nPatients meeting ANY one of the following criteria are not eligible:\n\nExclusion Criteria:\n\n1. History of any prior (ipsi- and/or contralateral) invasive breast carcinoma.\n2. Ongoing (prevalent) cholesterol-lowering therapy (statins, fibrates, ezetimibe, PCSK9 inhibitors). If so, the patient can be enrolled in the observational arm.\n3. Evidence of hepatic dysfunction (alanine aminotransferase level more than three times the upper limit of the normal range) or renal dysfunction (creatinine level more than three times the upper limit of the normal range).\n4. Predisposing factors for rhabdomyolysis, including hypothyroidism, reduced renal function, any muscle - or liver disease, or excessive alcohol consumption AND creatine kinase (CK) measured to less than five times the upper limit (CK only measured in case of predisposing factors).\n5. No current medication with potent CYP3A4-inhibitors (e.g. ketokonazole, erythromycin) or gemfibrozile, cyclosporin or danazol.\n6. Pregnancy or breast-feeding.\n7. Psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule; these conditions will be discussed with the patient before registration in the trial.\n8. History of allergic reactions attributed to compounds of similar chemical or biological composition to atorvastatin.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

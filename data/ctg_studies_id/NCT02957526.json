@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02957526",
+    "briefTitle": "Web-Base App To Improve Aromatase Inhibitor Adherence",
+    "officialTitle": "Use of an Innovative Mobile Health Application to Improve Health Outcomes for Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 44,
+    "primaryOutcomeMeasure": "Aromatase inhibitor adherence using the four-item Morisky Medication Adherence Scale",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Adult female patients (age\u226518)\n2. Diagnosed with early stage (I-III) HR+ breast cancer\n3. New prescription for an aromatase inhibitor\n4. Have a mobile device with a data plan or a home computer with Internet\n5. Have a valid email address\n6. Willing to complete brief weekly symptom reports on the app\n\nExclusion Criteria:\n\n1. Unable to communicate in English\n2. Patients with prior use of adjuvant endocrine therapy will also be excluded\n3. Patients concurrently undergoing surgery, chemotherapy or radiation will also be excluded\n4. Current diagnosis of rheumatoid arthritis\n5. Chronic daily narcotic usage",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

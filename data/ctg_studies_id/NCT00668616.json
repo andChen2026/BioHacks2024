@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00668616",
+    "briefTitle": "Adjuvant Treatment of Breast Cancer With 1-3 Aflicted Lymph Nodes",
+    "officialTitle": "Cyclophosphamid + Farmorubicin\u00ae With Subsequent Administration of Taxol\u00ae (q3w) Versus Intensified Administration of Farmorubicin\u00ae Followed by Taxol\u00ae (q2w) in the Adjuvant Treatment of Breast Cancer in Patients With 1-3 Afflicted Lymph Nodes (1-3 LK+)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1034,
+    "primaryOutcomeMeasure": "progression-free time",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women with histologically proven breast cancer (pT1/pT2/pT3, pN1, N0)\n* ECOG performance status 0-1\n* start of adjuvant therapy not later than 4 weeks after surgery\n* hematology: platelets at least 100xGpt/l, neutrophiles at least 2xGpt/l\n* normal liver function as defined by: bilirubine till 1.5 x normal value, SGOT/SGPT till 1.25 x normal value\n* normal kidney function as defined by: creatine till 1.5 x normal value\n* negative pregnancy test for patients before menopause and effective contraception\n* written informed consent\n\nExclusion Criteria:\n\n* prior radiation, chemotherapy, hormontherapy and immunotherapy\n* patients with more than 3 afflicted lymph nodes\n* afflicted lymph nodes on the cantralateal side and/or afflicted supraclavicular or intraclavicular lymph nodes\n* bilateral breast cancer or second carcinoma of the breast\n* inflammatory breast cancer and/or distant metastases\n* existing clinically relevant peripheral neuropathie\n* heart infection during the last 6 months or therapeutically not compensated heart failure or cardiac arrhythmias of at least LOWN II\n* patients with active infections and/or not controlled hypercalcemia\n* pregnant or breastfeeding women or women of child-bearing age who do not use effictive contrazeptiva",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

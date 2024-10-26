@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04457700",
+    "briefTitle": "CT-based Radiomics of ALN pCR (ypN0) in Breast Cancer Undergoing NAC",
+    "officialTitle": "Computed Tomography-based Radiomics of Axillary Lymph Node Pathological Complete Remission (ypN0) in Breast Cancer Undergoing Neoadjuvant Chemotherapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Triple-negative Breast Cancer, HER2-positive Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 218,
+    "primaryOutcomeMeasure": "The features of CT-based radiomics for axillary lymph node achieved pCR after neoadjuvant chemotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Triple-negative or HER2-positve invasive breast cancer with axillary lymph node metastasis by confirmed by fine needle aspiration or core needle biopsy.\n* Underwent computed tomography for assessment of axillary lymph node status before and after neoadjuvant chemotherapy.\n* Attend the study voluntarily, sign the informed consent.\n\nExclusion Criteria:\n\n* Contradiction for adjuvant chemotherapy.\n* Contradiction for proceeding surgery.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

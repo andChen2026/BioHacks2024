@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04913337",
+    "briefTitle": "Study of NGM707 As Monotherapy and in Combination with Pembrolizumab in Advanced or Metastatic Solid Tumor Malignancies",
+    "officialTitle": "A Phase 1/2 Dose Escalation/Expansion Study of NGM707 As Monotherapy and in Combination with Pembrolizumab in Advanced or Metastatic Solid Tumor Malignancies",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Mesothelioma, Glioblastoma, Renal Cell Carcinoma, Non Small Cell Lung Cancer, Melanoma, Pancreatic Ductal Adenocarcinoma, Gastric Cancer, Squamous Cell Carcinoma of Head and Neck, Cholangiocarcinoma, Breast Cancer, Ovarian Cancer, Cervical Cancer, Endocervical Cancer, Colorectal Cancer, Esophageal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 179,
+    "primaryOutcomeMeasure": "Number of Patients with Dose-limiting Toxicities",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically documented locally advanced or metastatic solid tumor malignancy.\n* Progressed or was intolerant to all available therapies known to confer clinical benefit appropriate for their tumor type, and for which the patient was eligible and willing to receive, or refused SOC treatments that are perceived to have marginal clinical benefit.\n* Adequate bone marrow, kidney and liver function.\n* Performance status of 0 or 1.\n* Resolved acute effects of any prior therapy to baseline severity or CTCAE Grade 1 except for AEs not constituting a safety risk by Investigator judgement.\n\nExclusion Criteria:\n\n* Prior treatment targeting ILT2 and/or ILT4 or targeting HLA-G.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

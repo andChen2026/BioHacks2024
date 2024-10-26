@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06625515",
+    "briefTitle": "First-in-Human Study of ATX-559, an Oral Inhibitor of DHX9, in Patients with Advanced or Metastatic Solid Tumors, and Molecularly Defined Cancers",
+    "officialTitle": "A Phase 1/2, Open-Label, Dose-Escalation and Expansion First-In-Human Study of ATX-559, an Oral Inhibitor of the Helicase DHX9, in Patients with Locally Advanced or Metastatic Solid Tumors and Molecularly Defined Cancers",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Advanced Solid Tumors, Breast Cancer Recurrent, Colorectal Cancer Metastatic, Colon Cancer, Rectal Adenocarcinoma, Endometrial Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Recommended phase 2 dose (RP2D) and/or maximum tolerated dose (MTD) of ATX-559",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Patients with histologically confirmed solid tumors who have locally recurrent or metastatic disease\n* Refractory to or relapsed after all standard therapies with proven clinical benefit, unless as deemed by the Investigator, the subject is not a candidate for standard treatment, there is no standard treatment, or the subject refuses standard treatment after expressing an understanding of all available therapies with proven clinical benefit\n* For the expansion cohorts, participants must have histological confirmation of the specified tumor types:\n* BRCA1 or BRCA2 deficient, HER2 negative metastatic breast cancer\n* dMMR or MSI-H with unresectable or metastatic solid tumors\n* There is no limit to the number of prior treatment regimens\n* Have measurable or evaluable disease\n* Have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1\n\nKey Exclusion Criteria:\n\n* Clinically unstable central nervous system (CNS) tumors or brain metastasis\n* Any other concurrent anti-cancer treatment\n* Has undergone a major surgery within 3 weeks of starting study treatment\n* Medical issue that limits oral ingestion or impairment of gastrointestinal function that is expected to significantly reduce the absorption of ATX-559\n* Clinically significant (ie, active) or uncontrolled cardiovascular disease\n* Unable to transition off strong or moderate CYP2C8 inhibitors or inducers\n* Pregnancy or intent to breastfeed or conceive a child within the projected duration of treatment\n\nOther inclusion and exclusion criteria as defined in the study protocol",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

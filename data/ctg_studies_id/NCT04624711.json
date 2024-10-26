@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04624711",
+    "briefTitle": "Eribulin Combined With Anlotinib in Metastatic HER2 Negative Breast Cancer",
+    "officialTitle": "A Multicenter, Phase II, Open-label, Single-arm Investigator Initiated Trial to Evaluate the Efficacy and Safety of Eribulin Mesylate Combined With Anlotinib in Metastatic HER2 Negative Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "HER2-negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The patient volunteers and signs an informed consent form;\n* Age \u226518 years old, female;\n* The patient was diagnosed as HER2 negative breast cancer by histopathology ( HER2 negative (IHC-/+ or IHC++ but FISH/CISH- )), and there is at least 1 measurable lesion of metastasis according to RECIST 1.1;\n* All patients have previously underwent chemotherapy containing anthracyclines and taxanes, and received \u22651 line chemotherapy for metastatic breast cancer;\n* Patients with hormone receptor positive (ER positive (IHC ER positive percentage \u22651%), PR positive (IHC PR positive percentage \u22651%)) have underwent \u22651 line endocrine therapy;\n* Physical condition ECOG PS: 0-1;\n* Laboratory tests meet the following criteria:\n\n  1. Bone marrow function: absolute count of blood neutrophils (ANC) \u22651.5\u00d7109/L; platelet (PLT)\u2265100\u00d7109/L; hemoglobin (HB)\u226590g/L;\n  2. Liver function: serum total bilirubin (STB), combined bilirubin (CB) \u2264 upper limit of normal (ULN) \\*1.5; alanine aminotransferase (ALT), aspartate aminotransferase (AST) \u2264ULN\\*2.5;\n  3. Renal function: serum creatinine (Cr) \u2264 ULN; endogenous creatinine clearance (Ccr) \u2265 60 ml / min (calculated using the Cockcroft-Gault formula).\n\nExclusion Criteria:\n\n* Previous breast cancer history (except for ipsilateral DCIS that only received local treatment \u22655 years ago), malignant tumors of other histological origins (except for non-melanoma skin cancer or cervical carcinoma in situ) unless the patient's tumor had been completely alleviated and had not received treatment for at least 5 years before the enrollment date;\n* Major surgery within 4 weeks prior to enrollment, or surgical wounds have not healed;\n* Embolization and bleeding occurred within 4 weeks before enrollment;\n* Severe cardiovascular disease, including hypertension (BP\u2265160/95mmHg) uncontrolled by medical treatment, unstable angina, history of myocardial infarction in the past 6 months, congestive heart failure\\>NYHA II, severe heart rhythm Abnormalities and pericardial effusions;\n* Severe infection requires intravenous antibiotic, antifungal or antiviral treatment;\n* Other clinical trials of drugs were used in the first four weeks of the first medication;\n* Subjects with treatment history of eribulin or anti-angiogenesis drugs;\n* Suffering from mental illness, poor compliance;\n* Researchers believe that it is not suitable for inclusion.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

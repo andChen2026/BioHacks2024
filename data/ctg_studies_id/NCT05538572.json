@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05538572",
+    "briefTitle": "A Study of PRT3645 in Participants With Select Advanced or Metastatic Solid Tumors",
+    "officialTitle": "A Phase 1 Open-Label, Multi-Center, Safety and Efficacy Study of PRT3645 in Participants With Select Advanced or Metastatic Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Glioblastoma, Head and Neck Squamous Cell Carcinoma, Malignant Mesothelioma, Non-small Cell Lung Cancers, Sarcoma, Endometrial Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 22,
+    "primaryOutcomeMeasure": "Dose limiting toxicity (DLT) of PRT3645",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed advanced, recurrent, or metastatic solid tumor malignancy that have either progress or ineligible for standard of care therapy:\n\n  1. HR+ and HER2- or HR+ and HER2+ breast cancer\n  2. Recurrent GBM (IDH wild type) or CDKN2A/B homozygous deleted IDH-mutant astrocytoma\n  3. KRAS-mutant or SMARCA4 loss NSCLC\n  4. CDK pathway alternation in any of the following tumor types: malignant mesothelioma, HPV-negative HNSCC (including oral cavity, oropharynx, hypopharynx, and larynx), sarcoma, or NSCLC\n  5. Estrogen receptor positive with TP53 wild type endometrial cancer\n* Willing and able to comply with all scheduled visits, treatment plan, laboratory tests, lifestyle considerations, and other study procedures\n* Must have measurable or non-measureable (but evaluable) disease\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1 or Karnofsky Performance Status (KPS) \u226580% (KPS is for GBM only)\n* Adequate organ function.\n* Able to swallow and retain oral medication.\n* Must provide either archival or fresh tumor tissue sample during screening.\n\nExclusion Criteria:\n\n* Participants with advanced, symptomatic, extensive visceral disease.\n* Active inflammatory bowel disease or chronic diarrhea, short bowel syndrome, any upper gastrointestinal surgery including gastric resection, known malabsorption syndrome, or other condition that may impair absorption of PRT3645.\n* Treatment with strong inhibitors of CYP3A4.\n* History of another malignancy within 3 years except for adequately treated basal cell or squamous cell skin cancer, superficial bladder cancer, prostate intraepithelial neoplasm, carcinoma in situ of the cervix, or other noninvasive or indolent malignancies, or malignancies previously treated with curative intent and not on active therapy or expected to require treatment or recurrence during the study.\n* Clinically significant or uncontrolled cardiac disease, uncontrolled electrolyte disorders, uncontrolled or symptomatic CNS metastases or leptomeningeal disease except for GBM.\n* Endometrial cancer patients who had received prior treatment with a CDK 4/6 inhibitor.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

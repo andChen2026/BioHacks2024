@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02599194",
+    "briefTitle": "18F-FSPG PET/CT for Cancer Patients on Therapy",
+    "officialTitle": "An Exploratory Study of the Role of 18F-FSPG PET/CT Imaging for Cancer Patients Receiving Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "B-Cell Neoplasm, Estrogen Receptor Negative, HER2/Neu Negative, Metastatic Renal Cell Cancer, Progesterone Receptor Negative, Stage III Mesothelioma, Stage III Renal Cell Cancer, Stage IIIA Breast Cancer, Stage IIIA Non-Small Cell Lung Cancer, Stage IIIB Non-Small Cell Lung Cancer, Stage IIIC Breast Cancer, Stage IV Breast Cancer, Stage IV Mesothelioma, Stage IV Non-Small Cell Lung Cancer, Stage IV Renal Cell Cancer, Triple-Negative Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 7,
+    "primaryOutcomeMeasure": "Change From Baseline in Standard Uptake Value Maximum (SUVmax) Post-treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent\n* Able to complete a PET/CT scan without the use of sedation\n* Females:\n\n  * Of childbearing potential must:\n\n    * Not be nursing\n    * Have a negative serum pregnancy test documented within 48 hours prior to administration of 18F FSPG PET/CT\n  * Not of childbearing potential must be:\n\n    * Physiologically postmenopausal (cessation of menses for more than 1 year)\n    * Surgically sterile (has had a documented bilateral oophorectomy and/or documented hysterectomy)\n* Histologically confirmed cancer that is advanced; metastatic; or otherwise not suitable for surgical resection with curative intent\n* Scheduled to begin therapy\n* The time interval between 18F FSPG PET/CT and standard of care imaging (ie, 18F FDG PET/CT, diagnostic CT, or MRI) should be within 4 weeks (exceptions will be allowed for 6 weeks, if there are no other options)\n* Ideally, there should be no chemotherapy, radiotherapy, or immune/biologic therapy or biopsy between other imaging (PET/CTs, MRI, or diagnostic CTs) and 18F FSPG PET/CT scheduled or performed (exceptions by investigator discretion)\n* No clinically relevant deviations in renal function (serum creatinine \\> grade 2 Common Terminology Criteria for Adverse Events \\[CTCAE\\] version 4.0); maximal interval between confirmation of renal function and injection of 18F FSPG is 1 week\n\nExclusion Criteria:\n\n* Scheduled for surgery and/or another invasive procedure (except biopsy) within the time period of 1 month prior to 18F FSPG administration\n* Known sensitivity to 18F FSPG or components of the preparation\n* Investigator precludes participation for scientific reasons, for reasons of compliance, or for reasons of the patient's safety",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

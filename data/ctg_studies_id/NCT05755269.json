@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05755269",
+    "briefTitle": "Adding a Genetic Risk Evaluation to Standard Breast Cancer Risk Assessment for African American and Hispanic Women",
+    "officialTitle": "Genetic Risk Estimation in Breast Cancer and Assessing Health Disparities",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Atypical Ductal Hyperplasia, Breast Atypical Lobular Hyperplasia, Breast Carcinoma, Breast Lobular Carcinoma In Situ",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Whether the addition of an individual polygenic risk score (PRS) to the Breast Cancer Risk Assessment Tool (BCRAT) will improve intentions to adhere to recommended breast cancer screening strategies",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women who self-identify as African American/Black or Hispanic/Latinx\n* Women \\>= 30 years old and =\\< 75 years old\n* Women with any of the following:\n\n  * IBIS (Tyrer-Cuzik) score of \\>= 5% for the 10 year risk OR\n  * BCRAT (Gail Model) score of \\> 3 % for the 5 year risk\n  * History of biopsy proven atypical ductal hyperplasia or atypical lobular hyperplasia (with risk calculator assessment A and B)\n  * History of biopsy proven lobular carcinoma in situ (with risk calculator assessment A and B)\n* Able to participate in all aspects of the study\n* Understand and signed the study informed consent\n\nExclusion Criteria:\n\n* Women whose calculated risk for breast cancer falls below the threshold\n* Unable to give informed consent\n* Prior history of invasive breast cancer, ductal carcinoma in situ or other breast cancers\n* Women who are pregnant or breastfeeding\n* Prior use of prevention drugs for longer than 6 months\n* Prior risk reducing or prophylactic mastectomy\n* Known pathogenic genetic mutation linked to breast cancer (such as BRCA 1/2, PALB2, ATM, CHEK2)",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

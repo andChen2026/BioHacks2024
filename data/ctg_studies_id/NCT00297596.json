@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00297596",
+    "briefTitle": "Trastuzumab and Oxaliplatin in Patients With Metastatic Breast Cancer",
+    "officialTitle": "A Phase II Trial of Trastuzumab and Oxaliplatin in Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Objective Response Rate (ORR), the Percentage of Patients Who Experience an Objective Benefit From Treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females \u2265 18 years of age\n* Histologically confirmed breast cancer that is HER2/neu positive (3+ by IHC or FISH +) and evidence of metastatic disease. Tumor may be of any estrogen and progesterone receptor type\n* Measurable disease by RECIST and an ECOG \u2264 2\n* Patients with known evidence of brain metastases are eligible if they are asymptomatic and have completed all therapy (surgery, radiotherapy, and/or steroids)\n* Baseline LVEF value within the institutional normal range\n* Any number of prior hormonal therapy treatments in the adjuvant setting or for metastatic disease. A subject must have progressed on hormonal therapy and all hormonal therapy (including birth control pills) must be discontinued at study entry.\n* Prior chemotherapy in the adjuvant setting and up to one prior chemotherapy regimen for metastatic disease is allowed.\n* Patients may have received one prior trastuzumab/chemotherapy containing regimen or prior single agent trastuzumab.\n* Prior radiation therapy in the adjuvant setting or for metastatic disease, provided it was not to the only site of evaluable disease.\n* All prior chemotherapy, trastuzumab and radiation therapy should be completed \\> 2 weeks before enrollment.\n* Patients receiving bisphosphonate therapy are eligible. However, if bisphosphonate were started within \\< 2 months prior to enrollment, the bone lesions will not be evaluated for response and the patient must have another site of metastatic disease that is either measurable or evaluable for response.\n* Patients must have recovered from toxicities due to prior therapy.\n* Lab values in accordance with the protocol\n* Patients must be nonpregnant and nonlactating. Patients of childbearing potential must implement an effective method of contraception during the study (birth control pills are not allowed).\n\nExclusion Criteria:\n\n* Bone only disease are ineligible\n* Patients who received more than 1 prior chemotherapy regimen for metastatic disease are ineligible.\n* Patients with a history of other cancers except curatively-treated carcinoma of the cervix in situ or non-melanomatous skin cancer.\n* Active serious infection or other underlying medical condition that would impair their ability to receive protocol treatment.\n* Uncontrolled nervous system metastases\n* Dementia or significantly altered mental status that would interfere with proper consenting.\n* Receiving other investigational therapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

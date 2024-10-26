@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02696707",
+    "briefTitle": "An Integrated Consent Model Study to Compare Two Standard of Care Schedules for Monitoring Cardiac Function in Patients Receiving Trastuzumab for Early Stage Breast Cancer",
+    "officialTitle": "An Integrated Consent Model Study to Compare Two Standard of Care Schedules for Monitoring Cardiac Function in Patients Receiving Trastuzumab for Early Stage Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "LVEF results",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed early stage HER2-positive breast cancer\n* Planned trastuzumab therapy for early stage breast cancer\n* \u226518 years of age\n* Able to provide verbal consent\n* Normal LVEF (\\>53%) before trastuzumab therapy\n\nExclusion Criteria:\n\n\u2022 Contraindication to transthoracic echocardiography or MUGA",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

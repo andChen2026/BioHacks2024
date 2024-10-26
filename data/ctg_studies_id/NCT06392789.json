@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06392789",
+    "briefTitle": "A Conversational Agent (Cecebot) to Improve Insomnia in Stage I-III Breast Cancer Survivors",
+    "officialTitle": "A Crossover Randomized Controlled Trial to Investigate the Acceptability and Efficacy of Cecebot, a Conversational Agent for Insomnia After Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Anatomic Stage I Breast Cancer AJCC v8, Anatomic Stage II Breast Cancer AJCC v8, Anatomic Stage III Breast Cancer AJCC v8, Insomnia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Treatment discontinuation rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 years\n* Prior diagnosis of stage I-III invasive breast cancer\n* Female gender\n* Clinically significant insomnia symptoms, defined as a Patient Reported Outcomes Measurement Information System (PROMIS) Sleep Disturbance 8 T-score of 60 or greater\n* Insomnia complaints lasting \u2265 3 months\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-2, indicating ability to perform activities of daily living\n* Own a smartphone with Internet connectivity\n* Willing and able to complete the intervention with personal smartphone\n* Proficient in speaking and reading English\n\nExclusion Criteria:\n\n* Prior diagnosis of restless leg syndrome, periodic leg movement disorder, narcolepsy, or rapid eye movement (REM) behavior disorder\n* Current sleep apnea (treated or untreated)\n* Current shiftwork\n* Actively receiving chemotherapy or radiation (endocrine therapy permitted)\n* Previously received CBTi therapy with a professional therapist\n* Contraindications to CBTi including:\n\n  * Active psychosis\n  * Uncontrolled bipolar disorder\n  * Severe depression\n  * Active substance use disorder (moderate or greater severity)\n* Use of prescribed sleep medication \\> 3 times per week\n* Previously participated in user testing of the study intervention (Cecebot)\n* Unwilling or unable to complete study procedures",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

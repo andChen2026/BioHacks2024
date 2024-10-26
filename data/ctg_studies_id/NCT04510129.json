@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04510129",
+    "briefTitle": "A Multicenter Cancer Biospecimen Collection Study",
+    "officialTitle": "Predicting Immunotherapy Efficacy From Analysis of Pre-treatment Tumor Biopsies",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cancer of Head and Neck, Lung Cancer, Nonsmall Cell, Small-cell Lung Cancer, Urothelial Carcinoma, Gastroesophageal Junction Adenocarcinoma, Cervical Cancer, Esophageal Squamous Cell Carcinoma, Triple Negative Breast Cancer, Hepatocellular Carcinoma, Renal Cell Carcinoma, Colorectal Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1650,
+    "primaryOutcomeMeasure": "PD-L1/PD-1 inhibitor response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Subject must have a disease of interest. Specifically, subject must have one of:\n\n   1. head and neck squamous cell carcinoma (HNSCC)\n   2. non-small-cell lung cancer (NSCLC)\n   3. small cell lung cancer (SCLC)\n   4. urothelial carcinoma (UCC)\n   5. gastric or gastroesophageal junction adenocarcinoma\n   6. cervical cancer\n   7. esophageal squamous cell carcinoma (ESCC)\n   8. triple-negative breast cancer (TNBC)\n   9. hepatocellular carcinoma (HCC)\n   10. renal cell carcinoma (RCC)\n   11. colorectal cancer (CRC)\n2. Subject must have received, or be scheduled to receive, at least one dose of anti-PD-1/PD-L1 immunotherapy for treatment of their cancer.\n3. Subject must have had, or will have, a tumor biopsy prior to treatment with anti-PD-1/PD-L1 immunotherapy.\n4. Subject must have undergone, or will undergo, medical imaging (e.g. CT or MRI) of the tumor prior to treatment with anti-PD-1/PD-L1 immunotherapy.\n5. Willing to provide electronic informed consent per IRB-approved protocol.\n6. Able to speak, read, and comprehend English fluently.\n7. Subject is 18 years of age or older.\n8. Subjects must have sufficient tissue available to fulfill the specimen requirements of the study.\n\nExclusion Criteria:\n\n1. Inability or unwillingness to provide informed consent.\n2. Subject who does/did not have one of the cancers listed above (other histologies).\n3. Subject has already participated in this trial.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

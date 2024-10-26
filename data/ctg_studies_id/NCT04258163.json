@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04258163",
+    "briefTitle": "Association of Survival With Maintenance Therapy in Patients With Metastatic Breast Cancer After First-line Chemotherapy",
+    "officialTitle": "Association of Survival With Maintenance Therapy in Patients With Metastatic Breast Cancer After First-line Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 760,
+    "primaryOutcomeMeasure": "Overall Survival (OS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with pathologically clear invasive breast cancer between 2003 and 2018;\n* Female,18-75 years old;\n* Measurable metastatic lesion according to RECIST 1.1 evaluation criteria;\n* The first-line chemotherapy regimen is a breast cancer combination or single-agent chemotherapy regimen recommended by the NCCN guidelines;\n* First-line chemotherapy is effective (according to RECIST1.1 evaluation criteria, the efficacy is evaluated as complete response (CR), partial response (PR), or steady state (SD));\n* After the last cycle of first-line chemotherapy, patients should still be in a state of no progress for at least 4 weeks;\n* Patients' Karnofsky performance status (KPS) scores were \u226570.\n\nExclusion Criteria:\n\n* Unmeasurable metastatic lesion according to RECIST 1.1 evaluation criteria.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

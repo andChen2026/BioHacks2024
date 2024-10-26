@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00038467",
+    "briefTitle": "Randomized Trial Of Exemestane Versus Continued Tamoxifen In Postmenopausal Women With Early Breast Cancer",
+    "officialTitle": "Randomized Double-Blind Trial In Postmenopausal Women With Primary Breast Cancer Who Have Received Adjuvant Tamoxifen For 2-3 Years, Comparing Subsequent Adjuvant Exemestane Treatment With Further Tamoxifen",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4740,
+    "primaryOutcomeMeasure": "Disease-Free Survival (DFS) at Month 36 Post-Randomization: Main Study",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* postmenopausal women with histologically or cytologically confirmed primary breast adenocarcinoma, receiving tamoxifen and have been treated with tamoxifen continuously for between 2 and 3 years and one month, and still free of disease\n\nExclusion Criteria:\n\n* unresectable breast cancer\n* ER negative primary tumor",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00120029",
+    "briefTitle": "Peer Counseling for Weight Loss",
+    "officialTitle": "Peer Counseling for Weight Loss in African American Breast Cancer Survivors",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "weight loss",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Overweight or obese\n* African American\n* Up to 7 years post breast cancer diagnosis\n* Able to keep food records\n* Have a telephone\n* Stable weight within 5 pounds last 2 months\n\nExclusion Criteria:\n\n* Breast cancer recurrence\n* History of other cancers\n* Uncontrolled congestive heart failure\n* Untreated hypertension\n* Disabling osteoarthritis\n* Abusing drugs or alcohol\n* Have psychiatric conditions that interfere with counseling",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

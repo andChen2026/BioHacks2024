@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00754702",
+    "briefTitle": "Vinorelbine Metronomic Plus Lapatinib for Overexpressing HER-2 Metastatic Breast Cancer",
+    "officialTitle": "Vinorelbine Metronomic Plus Lapatinib as Salvage Therapy for Patients With Overexpressing HER-2 Metastatic Breast Cancer. A Multicenter Phase II Study",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 16,
+    "primaryOutcomeMeasure": "Overall response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically- or cytologically- confirmed metastatic breast adenocarcinoma\n* Age 18-75 years\n* HER2 status positive according to the local institution reported grade 3+ staining intensity (on a scale of 0 to 3) by means of immunohistochemical analysis or grade 2+ staining intensity by means of immunohistochemical analysis with gene amplification on fluorescence in situ hybridization\n* Previous therapies had to include, regimens containing an anthracycline and a taxane\n* Previous treatment with trastuzumab, alone or in combination with chemotherapy for locally advanced or metastatic disease, is required\n* Measurable disease as defined by the presence of at least one measurable lesion (except bone metastases, ascites or pleural effusions)\n* Performance status (WHO) 0-2\n* Adequate liver (serum bilirubin \\<1.5 times the upper normal limit; AST and ALT \\<2.5 times the upper normal limit in the absence of demonstrable liver metastases, or \\<5 times the upper normal limit in the presence of liver metastases); adequate renal function (serum creatinine \\<1.5 times the upper normal limit); and bone marrow (neutrophils \u2265 1.5x 109 /L, and platelets \u2265 100x 109 /L) function\n* No radiation of measurable disease (except brain metastases)\n* No progressive brain metastases according to clinical or radiological criteria\n* No brain metastases without prior radiation therapy\n* Written informed consent\n\nExclusion Criteria:\n\n* Patient unable to take oral medication\n* Active infection\n* History of significant cardiac disease (unstable angina, congestive heart failure, myocardial infarction within the previous 6 months, ventricular arrhythmias)\n* Other invasive malignancy except nonmelanoma skin cancer\n* Psychiatric illness or social situation that would preclude study compliance\n* Pregnant or lactating women",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

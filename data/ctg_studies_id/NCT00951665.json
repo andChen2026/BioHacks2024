@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00951665",
+    "briefTitle": "A Study of Trastuzumab Emtansine, Paclitaxel, and Pertuzumab in Patients With HER2-Positive, Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "A Phase Ib-IIa, Open-label, Dose-Escalation Study of the Safety, Tolerability and Pharmacokinetics of Trastuzumab Emtansine, Paclitaxel and Pertuzumab Administered Intravenously to Patients With Her2-positive, Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 107,
+    "primaryOutcomeMeasure": "Number of Participants With Any Adverse Events (AEs), Serious Adverse Events (SAEs), AEs of Grades 3/4, and Death",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically documented HER2-positive locally advanced or metastatic breast cancer\n* Tumor tissue blocks or 15-20 unstained tissue slides for confirmatory central laboratory HER2 status testing and other exploratory assessments\n* Prior trastuzumab in any line of therapy (Phase Ib patients only)\n* No prior T-DM1 or pertuzumab therapy\n* Measurable or evaluable disease\n* Cardiac ejection fraction \\>=50% by either echocardiogram or multigated acquisition scan\n* Life expectancy \\>= 90 days as assessed by the investigator\n\nExclusion Criteria:\n\n* Fewer than 21 days since the last anti-tumor therapy, including chemotherapy, biologic, experimental, immune, hormonal or radiotherapy for the treatment of breast cancer, with the following exceptions: hormone-replacement therapy or oral contraceptives are allowed; palliative radiation therapy involving \\<=25% of marrow-bearing bone is allowed if completed within \\>= 14 days prior to first study treatment\n* History of intolerance or hypersensitivity to trastuzumab and/or adverse events related to trastuzumab, murine proteins, or any of the excipients that resulted in trastuzumab being permanently discontinued\n* Peripheral neuropathy of Grade \\>= 2 per NCI CTCAE, Version 3.0, at the time of, or within 3 weeks prior to, the first study therapy (Phase Ib patients)\n* Peripheral neuropathy of Grade \\>/=1 per NCI CTCAE, Version 3.0, at the time of, or within 3 weeks prior to, the first study therapy (Phase IIa patients)\n* History of exposure to the following cumulative doses of anthracyclines: Doxorubicin \\> 500 mg/m\\^2; Liposomal doxorubicin \\> 900 mg/m\\^2; Epirubicin \\> 720 mg/m\\^2\n* History of clinically significant cardiac dysfunction\n* Brain metastases that are untreated, or progressive, or have required any type of therapy (including radiation, surgery, or steroids) to control symptoms from brain metastases within 60 days prior to the first study treatment.\n* History of other malignancy within the last 5 years, except for appropriately treated carcinoma in situ of the cervix, basal cell carcinoma, or synchronous or subsequent HER2-positive breast cancer or other malignancy with a similar expected curative outcome",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

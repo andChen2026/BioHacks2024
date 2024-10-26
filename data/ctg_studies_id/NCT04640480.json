@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04640480",
+    "briefTitle": "Dose-finding Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of SNB-101(SN-38) in Patients With Tumors",
+    "officialTitle": "A Phase I, Open-Label, Dose-finding Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of Intravenously Infused SNB-101(as SN-38) in Patients With Advanced Solid Tumors",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Colorectal Cancer, Breast Cancer, Pancreas Cancer, Ovarian Cancer, Small-cell Lung Cancer, Gastric Cancer, Head and Neck Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 36,
+    "primaryOutcomeMeasure": "Dose-limiting toxicity(DLT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with a histologically or cytologically confirmed, locally advanced or metastatic disease, has progressed after systemic standard of care treatment for advanced disease and is not suitable for complete surgical resection.\n* Patients with measurable or evaluable disease consistent with Response Evaluation Criteria in Solid Tumors version 1.1.\n* Patients ambulatory with an Eastern Cooperative Oncology Group performance score of 0 or 1.\n* Patients with adequate hematological, renal, and liver function(CTCAE V5.0 grade 1 or lower).\n* Patients with the life expectancy of 3 months or longer.\n\nExclusion Criteria:\n\n* Patients homozygous for UGT1A1\\*28 or UGT1A1\\*6 alleles.\n* Patients known or suspected intolerance or hypersensitivity to main ingredient or any of the excipients of SNB-101.\n* Patients with unintentional weight loss \\>10% within 3 months prior to screening.\n* Patients who are on dialysis.\n* Patients who are positive for HIVs.\n* Patients with a QT interval with Fridericia's correction outside of normal.\n* Patients with intestinal palsy or bowel obstruction.\n* Patients with chronic inflammatory bowel disease.\n* Patients who may require administration of neuromuscular blockers, peripheral muscle relaxants, etc. during the study.\n* Patients who may require lapatinib during the study.\n* Patients who may require attenuated vaccine during the study.\n* Patients who are taking any medication that in the judgement of the investigator could have an effect on the action of SNB-101.\n* Patients unable to participate in the study as judged by the investigator.",
+    "sex": "ALL",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

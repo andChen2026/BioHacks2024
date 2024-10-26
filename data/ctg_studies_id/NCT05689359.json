@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05689359",
+    "briefTitle": "Evaluation of Hydroxychloroquine to Prevent CIPN",
+    "officialTitle": "Phase 2, Single Center, Single Arm Study to Evaluate the Decrease in CIPN With the Addition of Hydroxychloroquine to Chemotherapy in Patients With Early Stage (1-3) Breast Cancer and Gynecological Cancers Treated With Curative Intent",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer, Gynecologic Cancer, Early-stage Breast Cancer, Peripheral Neuropathy, Chemotherapy-induced Peripheral Neuropathy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Symptomatic CIPN",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with stage 1-3 breast cancer or gynecological cancer treated with curative intent\n* Age \u2265 21 years old\n* No prior neurotoxic chemotherapies\n* No other neurotoxic chemotherapies planned during paclitaxel treatment (i.e, platinum)\n* Need to be treated with paclitaxel weekly x 12 doses as determined by their treating physician\n* Be able to undergo MR Imaging\n* Be willing to comply with scheduled visits, treatment plan, and MR imaging\n* Adequate organ function as defined as:\n\nHematologic:\n\nAbsolute neutrophil count (ANC) \u2265 1500/mm3 Platelet count \u2265 100,000/mm3 Hemoglobin \u2265 9 g/dL\n\nHepatic:\n\nTotal Bilirubin \u2264 1.5x institutional upper limit of normal (ULN) AST(SGOT)/ALT(SGPT) \u2264 3 \u00d7 institutional ULN\n\nRenal:\n\nEstimated creatinine clearance (CrCl)\u2265 50 mL/min by Cockcroft-Gault formula\n\nExclusion Criteria:\n\n* Stage IV cancer\n* CTCAE neurological function \\> grade 1 at baseline\n* Mental limitation that precludes understanding of or completion of questionnaires\n* History of diabetes or other neurological disorders\n* Preexisting peripheral neuropathy\n* Prior exposure to neurotoxic chemotherapy\n* Currently taking medication to treat or prevent neuropathy\n* Have non-MRI compatible metallic objects on/in body\n* Have metallic hardware in the lower extremity which is MR compatible however would create too much artifact for MR examination\n* Pregnant or lactating patients. Women of childbearing potential and sexually active men must use an effective contraception method during rreatment and for three months after completing treatment. Patients of childbearing potential must have a negative serum or urine B-hCG pregnancy test at screening.\n* History or current evidence of central serous retinopathy (CSR) or retinal vein occlusion (RVO) or current risk factors for RVO (e.g. uncontrolled glaucoma or ocular hypertension, history of hyperviscosity) or macular degeneration.\n* QTc prolongation defined as a QTcF \\> 500 ms\n* Known glucose-6-phosphate dehydrogenase (G-6-PD) deficiency.",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

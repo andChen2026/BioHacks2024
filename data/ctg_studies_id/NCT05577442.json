@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05577442",
+    "briefTitle": "Trastuzumab, Pyrotinib Combined With Dalpiciclib and Endocrine Therapy for HR +/HER2 + Advanced Breast Cancer",
+    "officialTitle": "Peking University Cancer Hospital & Institute",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasm Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 52,
+    "primaryOutcomeMeasure": "ORR",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female breast cancer patients of any menopausal status aged 18-75 years.\n2. Eastern Cooperative Oncology Group (ECOG) performance status score of 0-2.\n3. Female breast cancer patients with HER2-positive HR-positive of recurrence or metastasis and are not suitable for surgical resection or radiation therapy with the purpose of cure.\n4. ER and/or PR +: defined as positively stained tumor cells representing \u2265 10% of all tumor cells (confirmed by investigator review at the site) and HER2 +: defined as IHC 3 + or IHC 2 + and FISH +/CISH +.\n5. measurable lesions by RECIST 1.1 criteria.\n6. Patients' previous treatment should meet: a) prior systemic (neo) adjuvant therapy is allowed but not required, and if received, the disease-free interval (DFI) must be \\> 24 months (DFI is defined as the time from surgery to the first recurrence); b) \u2264 1 line of systemic therapy for the tumor (including anti-HER2 targeted therapy, endocrine therapy and chemotherapy) is received at the metastatic stage;\n7. Stable patients with brain metastases are allowed.\n8. life expectancy \u2265 12 weeks.\n9. adequate organ and bone marrow function.\n10. adequate cardiac reserve, left ventricular ejection fraction (LVEF) \u2265 45% on echocardiogram.\n\nExclusion Criteria:\n\n1. patients who are not suitable for endocrine therapy as judged by the investigator. Including symptomatic, advanced patients with disseminated visceral disease who are at short-term risk of life-threatening complications (including patients with uncontrolled large exudates \\[pleural, pericardial, abdominal\\], pulmonary lymphangitis and more than 50% hepatic involvement).\n2. previous treatment with CDK4/6 inhibitors.\n3. previous treatment with TKI.\n4. visceral crisis.\n5. Major surgery, chemotherapy, radiation therapy, any investigational agent, or other anticancer therapy within 2 weeks before entering the study.\n6. Have been diagnosed with any other malignancy within 3 years before entering the study, except for curatively treated non-melanoma skin cancer, basal cell or squamous cell skin cancer, or cervical carcinoma in situ.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

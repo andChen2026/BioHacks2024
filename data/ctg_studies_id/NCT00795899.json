@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00795899",
+    "briefTitle": "Taxol Epirubicin Cyclophosphamide Herceptin Neoadjuvant (TECHNO)",
+    "officialTitle": "Preoperative Therapy With Epirubicin/Cyclophosphamide Followed by Paclitaxel/Trastuzumab and Postoperative Therapy With Trastuzumab in Patients With HER-2 Over Expressed Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 230,
+    "primaryOutcomeMeasure": "To estimate the rate of cardiac (serious) events NYHA III/IV-and pathological complete remission after study therapy.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Primary carcinoma of the breast, confirmed histologically by core biopsy (at least 3 core biopsy samples)\n2. Tumor lesion of the breast with a palpable or a imagistic size \u2265 2 cm or inflammatory breast cancer\n3. Known HER-2 status detected on core biopsy. HER-2 over expression is defined as DAKO HercepTest (3+) or DAKO HercepTest (2+) and FISH (+) (fluorescence-in-situ-hybridisation).\n4. No distant metastatic disease, confirmed by chest x-ray, abdominal sonography and bone scan.\n5. Female patients\n6. Age \u2265 18 and \u2264 65 years\n7. ECOG \\< 2/WHO 0-1\n8. Laboratory requirements GOT and Bilirubin \\< 1.5x UNL Leukocytes \\>= 3 G/l Neutrophile \\> 1 G/l Thrombocytes \\> 100 G/l Creatinine (Serum) \\< 2.0 mg/dl.\n9. Normal cardiac function, confirmed by cardiologist\n10. No active hepatitis\n11. Written informed consent for all study procedures\n12. Patients must be available and compliant for treatment and follow-up\n\nExclusion Criteria:\n\n1. Multicentricity in various quadrants (contact the study office)\n2. CNS-metastases\n3. Secondary malignancy, excluding basalioma of the skin or carcinoma in situ of the cervix that has received curative therapy\n4. Patients with relevant hemodynamic cardial diseases\n5. Patients with a left ventricular ejection fraction (LVEF) under the normal limit of the institution, confirmed by echocardiography or MUGA-Scan.\n6. Uncontrolled, severe comorbidities\n7. Patients with severe respiratory diseases and severe dyspnea and / or which need supportive oxygen\n8. Previous anti-HER2-therapy\n9. Patients receiving immunosuppressant therapy\n10. Known allergy to medication containing cremophor\n11. Hb \\<10 g/dL, Neutrophile \\<1.5 x109/L, Thrombocytes \\<100 x109/L.\n12. Total-Serum-Bilirubin \\>1.5 x ULN (upper limit of normal) (except in patients with confirmed and documented Gilbert-Lereboullet-syndrome), ALT or AST \\>2.5 x ULN (\\>5 x ULN by liver metastases), Alkaline Phosphatase \\>2.5 x ULN (\\>4 x ULN by liver or bone metastases), Serumcreatinine \\> 2 x ULN\n13. Pregnancy, nursing (a negative pregnancy test must be documented, and safe anticontraceptive measures during pre- and postoperative treatment must be implemented)\n14. Lack of signed informed consent after informing the patient\n15. Lack of willingness to keep and disclose personal medical data as part of the study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

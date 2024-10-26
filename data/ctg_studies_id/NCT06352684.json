@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06352684",
+    "briefTitle": "Multi-Reader Multi-Case, Retrospective Study to Evaluate Effectiveness of CadAI-B for Breast",
+    "officialTitle": "Multi-Reader Multi-Case, Retrospective Study to Evaluate Effectiveness of CadAI-B for Breast",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Area Under the LROC Curve",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women who underwent breast US examination\n* Women with breast cancer (DCIS or invasive cancer) diagnosed via biopsy\n* Women who had been followed for more than 2 years after initial US examination\n\nExclusion Criteria:\n\n* women who had breast implants\n* women who had US images containing artifacts affecting the review of images",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

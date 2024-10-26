@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04429269",
+    "briefTitle": "A Comparative Study of Mammography and Ultrasound for Breast Cancer Screening and Early Diagnosis",
+    "officialTitle": "A Comparative Study of Mammography and Ultrasound for Breast Cancer Screening and Early Diagnosis",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Diagnosis, Breast Cancer Screening",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 6000,
+    "primaryOutcomeMeasure": "screening yield",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Informed consent, subjects 35-70 years old, asymptomatic, able to undergo ultrasound and x-ray\n\nExclusion Criteria:\n\n* Localized breast erythema and ulceration, pregnancy, lactation, after previous breast implantation, already pathologically definite breast cancer patients",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00427427",
+    "briefTitle": "Delayed Adjuvant Herceptin\u00ae Treatment in Patients With HER-2 Positive Breast Cancer",
+    "officialTitle": "A Phase II Trial of Delayed Adjuvant Herceptin\u00ae in Patients With HER-2 Positive Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 75,
+    "primaryOutcomeMeasure": "To evaluate acceptance rate of delayed adjuvant trastuzumab treatment.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Confirmed non-metastatic infiltrating carcinoma of the breast.\n2. HER-2 amplified (FISH +) determination in 2004 or thereafter.\n3. ECOG performance status 0-2.\n4. Patients 18 years of age or older.\n5. HER-2 status is determined by FISH test.\n6. The following criteria are applicable to the trastuzumab treatment group:\n\n   * Normal LVEF as determined by ECHO or MUGA. If baseline LVEF \\> 75%, then LVEF shall be repeated to determine if falsely elevated.\n   * Adequate bone marrow function as indicated by the following: ANC \\>1500/mL, Platelets \\>/=100,000/mL, Hemoglobin \\>9 g/dL\n   * Adequate renal function,as indicated by serum creatinine \\</= 1.5 x ULN\n   * Adequate liver function, as indicated by total bilirubin \\</= 1.5 x ULN\n   * AST and ALT \\< 2 x ULN unless related to primary disease.\n   * If female of childbearing potential, pregnancy test (blood or urine) is negative and she agrees to use effective birth control method for the duration of the study.\n7. Signed informed consent has been obtained.\n\nExclusion Criteria:\n\n1. Non-confirmed HER-2 positive by FISH infiltrating carcinoma of the breast.\n2. Evidence of metastatic disease.\n3. Previous trastuzumab treatment.\n4. Concurrent anticancer treatment other than hormonal agents (tamoxifen, aromatase inhibitors) or radiotherapy.\n5. Patient with history of or active cardiac disease, including cardiomyopathy, congestive heart failure, prior myocardial infarction, or arrhythmia.\n6. Symptomatic intrinsic lung disease resulting in dyspnea at rest.\n7. Concurrent life-limiting disease with a life expectancy of less than one year.\n8. Pregnancy, nursing women, and fertile women who do not practice birth control.\n9. Inability to give informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

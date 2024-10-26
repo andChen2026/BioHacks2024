@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05458427",
+    "briefTitle": "Dedicated Breast CT for Diagnosis of Breast Cancer",
+    "officialTitle": "Dedicated Breast CT for Diagnosis of Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 210,
+    "primaryOutcomeMeasure": "Probability of malignancy (POM)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women age 50 or older\n\nInitial schema:\n\n- Women who are scheduled to undergo a diagnostic work-up following an abnormal screening mammogram with the suspicious finding NOT located in the axillary tail of the breast This initial inclusion criterion will be used until 85 subjects that result in a Breast Imaging Reporting and Data System (BI-RADS) 1 or 2 after clinical diagnostic work-up are recruited and imaged.\n\nSubsequent schema:\n\n- Women who underwent diagnostic work-up following an abnormal screening mammogram and were assigned a BI-RADS 4 or 5 due to soft tissue lesions (total 120 patients when combined with those from the initial schema), or due to microcalcifications (total 120 patients when combined with those from the initial schema) with the suspicious finding NOT located in the axillary tail of the breast\n\nEach patient can only enroll once in the study.\n\nExclusion Criteria:\n\n* Women who do not meet the inclusion criteria as described above\n* Women with suspected or confirmed pregnancy\n* Women who have had bilateral mastectomy\n* Women whose suspicious lesion is located in the axillary tail\n* Women with prior breast cancer or breast biopsy in the recalled breast in the last 12 months\n* Women who are breastfeeding\n* Women who are very frail and unable to cooperate\n* Women who cannot give informed consent\n* Male subjects",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

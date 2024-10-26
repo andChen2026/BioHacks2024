@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04170465",
+    "briefTitle": "Role of Adding Metformin to Neoadjuvant Chemotherapy in Patients With Breast Cancer (METNEO)",
+    "officialTitle": "Investigation of the Potential Beneficial Effect of Adding Metformin to Neoadjuvant Chemotherapy in Patients With Breast Cancer (METNEO)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 70,
+    "primaryOutcomeMeasure": "Evaluation of the effect on tumor apoptosis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Females \u2265 18 years of age and \\< 65 years.\n2. Unilateral or bilateral primary carcinoma of the breast confirmed.\n3. Eastern Cooperative Oncology Group Performance Status (ECOG PS) 0-2.\n4. Clinically measurable tumor size who are candidates for neoadjuvant therapy.\n5. No evidence of distant metastasis.\n6. Normal renal and liver functions.\n7. Non-diabetics.\n\nExclusion Criteria:\n\n1. Pregnant or breastfeeding women.\n2. Prior cancer chemotherapy.\n3. Heart disease or reduced cardiac output with left ventricular ejection fraction \\< 50%.\n4. Metastatic breast cancer patients.\n5. Patients with hepatic impairment.\n6. Patients with renal impairment.\n7. Diabetics.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

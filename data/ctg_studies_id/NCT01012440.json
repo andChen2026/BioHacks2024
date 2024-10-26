@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01012440",
+    "briefTitle": "Role of Positron Emission Mammography (PEM) Flex Solo II Positron Emission Tomography (PET) Scanner in Evaluating Neoadjuvant Chemotherapy Response in Patients With Breast Cancer",
+    "officialTitle": "Role of PEM Flex Solo II PET Scanner in Evaluating Neoadjuvant Chemotherapy Response in Patients With Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 5,
+    "primaryOutcomeMeasure": "Reduction in Tumor Size",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women 18-75 years old with newly diagnosed breast cancer who are considered candidates for breast conserving surgery (i.e., lumpectomy)\n\nExclusion Criteria:\n\n* Children (\\< 18 years old)\n* Pregnant or Lactating women\n* Diabetic patients (Type I or II)\n* Patients who are scheduled for a sentinel node procedure using radioactive Tc-99m within 24 hours of PEM\n* Patients who have NOT undergone a standard of care bilateral breast MRI",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

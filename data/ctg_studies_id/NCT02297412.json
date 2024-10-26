@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02297412",
+    "briefTitle": "Minocycline Hydrochloride in Reducing Chemotherapy-Induced Peripheral Neuropathy and Acute Pain in Patients With Breast Cancer Undergoing Treatment With Paclitaxel",
+    "officialTitle": "Pilot Clinical Trial Evaluating the Utility of Minocycline as an Agent to Decrease Chemotherapy-Induced Peripheral Neuropathy (CIPN) and Paclitaxel-Induced Acute Pain Syndrome (P-APS): A Randomized Placebo-Controlled, Double Blind Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Acute Pain, Breast Carcinoma, Peripheral Neuropathy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 47,
+    "primaryOutcomeMeasure": "Area Under the Curve (AUC) Per Assessment (aAUCpa) of Average Pain (Item 3 on the Daily Post-Paclitaxel Questionnaire)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Ability to complete questionnaires by themselves or with assistance\n* Planned paclitaxel at a dose of 80 mg/m2 IV given, in the adjuvant breast cancer (postoperative or neo-adjuvant) setting, every week for a planned course of 12 weeks without any other concurrent cytotoxic chemotherapy (trastuzumab and/or other antibody and/or small molecule treatment is allowed, except for PARP inhibitors)\n* Life expectancy \\> 6 months\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Negative pregnancy test (serum or urine) done =\\< 7 days prior to registration, for women of childbearing potential only (determined per clinician discretion)\n\nExclusion Criteria:\n\n* Any of the following:\n\n  * Pregnant women\n  * Nursing women\n  * Men or women of childbearing potential who are unwilling to employ adequate contraception\n* Previous diagnosis of diabetic neuropathy or peripheral neuropathy from any cause\n* History of allergic or other adverse reactions to minocycline\n* Prior exposure to neurotoxic chemotherapy\n* Diagnosis of fibromyalgia\n* Current or planned use of methoxyflurane, oral contraceptives, isotretinoin, penicillin, or ergot alkaloids\n* History of allergic or other adverse reactions to tetracycline",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

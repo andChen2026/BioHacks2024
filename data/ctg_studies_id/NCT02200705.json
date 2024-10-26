@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02200705",
+    "briefTitle": "Cryoablation of Low Risk Small Breast Cancer- ICE3 Trial",
+    "officialTitle": "Cryoablation of Low Risk Breast Cancer Less Than 1.5 cm: An Evaluation of Local Recurrence (Ice3 Trial)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 208,
+    "primaryOutcomeMeasure": "local Inbreast Breast Tumor Recurrence (IBTR) rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Competent to sign informed consent\n2. Diagnosis of invasive ductal breast carcinoma by core needle biopsy, meeting the following criteria:\n\n   1. Unifocal primary disease NOTE: Patients with multifocal and/or multicentric in breast cancer, or evidence of EIC are NOT eligible. Patients with contralateral disease will remain eligible.\n   2. Tumor size \u22641.5 cm in greatest diameter in the axis parallel to the treatment probe AND \u22641.5 cm in the axis anti-parallel to the treatment probe AND \u22641.5 cm in Anterior/ Posterior dimension. Tumor size \u22641.5 cm in greatest diameter as measured by breast ultrasound, mammogram and/or MRI. The largest dimension measured will be used to determine eligibility.\n   3. Nottingham grade 1-2. Specifically, nuclear and mitotic scores must be less than or equal to 2.\n   4. Estrogen receptor-positive, progesterone receptor-positive, HER2 negative\n3. Age\\>= 50\n4. Breast size adequate for safe cryoablation\n5. Lesion must be sonographically visible at the time of treatment.\n6. History of previously treated ipsilateral or contralateral breast carcinoma is not an exclusion criteria if the investigator is certain newly diagnosed carcinoma is new unifocal primary tumor.\n\nExclusion Criteria:\n\n1. Presence of lobular carcinoma\n2. Presence of luminal B pathology\n3. Nottingham score of 3 (specially nuclear and mitotic score\\>2)\n4. Presence of microinvasion, or invasive breast carcinoma with extensive intraductal component (EIC)\n5. Presence of multifocal and/or multicentric in breast cancer\n6. Presence of multifocal calcifications\n7. Presence of prior or concurrent neoadjuvant chemotherapy for breast cancer\n8. Presence of prior en bloc open surgical biopsy and/or lumpectomy for diagnosis/treatment of the index breast cancer\n9. Patient that is not suitable to cryoablation procedure according to the physician opinion\n10. ER AND PR negative, or Her2 positive noted on pre-cryo biopsy",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

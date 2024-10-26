@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00036270",
+    "briefTitle": "Randomized Phase III Study Of Exemestane (Aromasin) For 5 Years Versus Tamoxifen for 2.5 to 3 Years Followed By Exemestane",
+    "officialTitle": "Randomized Phase III Study Of Exemestane (Aromasin) For 5 Years Versus Tamoxifen For 2.5- 3 Years Followed By Exemestane (Aromasin) For A Total Of 5 Years As Adjuvant Therapy For Postmenopausal, Receptor Positive, Node Negative or Node Positive Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 9779,
+    "primaryOutcomeMeasure": "Disease Free Survival (DFS): Number of Events (Disease Relapse or Death) From Baseline up to 2.75 Years",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically/cytologically confirmed adenocarcinoma of the breast, followed by adequate surgical resection and/or radiotherapy, and/or adjuvant chemotherapy, if indicated.\n* Stage T1-3 N0-2 Mo, Any TNM stage BC for whom adjuvant hormonal therapy is being considered.\n\nExclusion Criteria:\n\n* Those patients not deemed to have had potentially curative primary surgical treatment or one of the following criteria:\n* Inflammatory breast cancer\n* Histologically positive supraclavicular nodes\n* Ulceration/infiltration of local skin metastasis\n* Neoadjuvant chemotherapy\n* Ductal carcinoma in situ (DCIS) or lobular carcinoma in situ (LCIS) without invasion\n* ER and PR negative primary tumor or ER/PR unknown status.",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

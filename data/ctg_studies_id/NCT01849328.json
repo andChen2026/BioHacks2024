@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01849328",
+    "briefTitle": "Testing Spectrosense EVA System for Detection of Breast Cancer by Analyzing Volatile Organic Compounds (VOCs) in Exhaled Air",
+    "officialTitle": "N/A",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "Obtaining a set or sets of VOC bio-markers that will provide the best discrimination between Breast Cancer sick population and healthy population. breast cancer.",
+    "eligibilityCriteria": "Breast Cancer group:\n\nInclusion Criteria:\n\n* Age from 18 years old\n* Breast cancer positive biopsy\n* Before any treatment\n* Signed Informed Patient Consent\n\nExclusion Criteria:\n\n* Age under 18 years old\n* Neoadjovant treatment\n* Post surgery for breast cancer\n* A history of any other cancer type, except skin cancer that is not melanoma\n\nHealthy group:\n\nInclusion Criteria:\n\n* Healthy women\n* No history of Breast cancer\n* Signed Informed Patient Consent\n\nExclusion Criteria:\n\n* History of Breast cancer\n* Breast cancer background in the family\n* A history of any other cancer type, except skin cancer that is not melanoma",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

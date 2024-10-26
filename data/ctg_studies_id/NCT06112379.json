@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06112379",
+    "briefTitle": "A Phase III Randomised Study to Evaluate Dato-DXd and Durvalumab for Neoadjuvant/Adjuvant Treatment of Triple-Negative or Hormone Receptor-low/HER2-negative Breast Cancer",
+    "officialTitle": "A Phase III, Open-label, Randomised Study of Neoadjuvant Datopotamab Deruxtecan (Dato-DXd) Plus Durvalumab Followed by Adjuvant Durvalumab With or Without Chemotherapy Versus Neoadjuvant Pembrolizumab Plus Chemotherapy Followed by Adjuvant Pembrolizumab With or Without Chemotherapy for the Treatment of Adult Patients With Previously Untreated Triple-Negative or Hormone Receptor-low/HER2-negative Breast Cancer (D926QC00001; TROPION-Breast04)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1728,
+    "primaryOutcomeMeasure": "Pathologic Complete Response (pCR) in the experimental vs control arms",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participant must be \u2265 18 years, at the time of signing the ICF.\n* Histologically confirmed Stage II or III unilateral or bilateral primary invasive TNBC or hormone receptor-low/HER2-negative breast cancer\n* ECOG PS of 0 or 1\n* Provision of acceptable tumor sample\n* Adequate bone marrow reserve and organ function\n* Contraceptive use by males or females should be consistent with local regulations regarding the methods of contraception for those participating in clinical studies.\n\nExclusion criteria:\n\n* History of another primary malignancy except for malignancy treated with curative intent with no known active disease within 3 years before randomization and of low potential risk for recurrence.\n* Evidence of distant disease.\n* Clinically significant corneal disease.\n* Has active or uncontrolled hepatitis B or C virus infection.\n* Known HIV infection that is not well controlled.\n* Uncontrolled infection requiring i.v. antibiotics, antivirals or antifungals; suspected infections; or inability to rule out infections.\n* Known to have active tuberculosis infection\n* Resting ECG with clinically significant abnormal findings.\n* Uncontrolled or significant cardiac disease.\n* History of non-infectious ILD/pneumonitis\n* Any prior or concurrent surgery, radiotherapy or systemic anticancer therapy for TNBC or hormone receptor-low/HER2-negative breast cancer\n* For females only: is pregnant (confirmed with positive serum pregnancy test) or breastfeeding, or planning to become pregnant.\n* Female participants should refrain from breastfeeding from enrolment throughout the study and for at least 7 months after last dose of study intervention, or as dictated by local PI for SoC if longer.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02340715",
+    "briefTitle": "Advanced MRI Sequences for Radiation Therapy Treatment Planning",
+    "officialTitle": "Investigation on the Utility of Advanced MRI Imaging Methods for Radiation Therapy Treatment Planning",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 158,
+    "primaryOutcomeMeasure": "Number of Participants Successfully Contributing MRI Data",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients aged 18 years older of any race or gender with anal canal, brain, breast, cervix, esophagus, gynecology, head and neck, lung, pancreas, primary liver or liver metastases, prostate cancer or sarcoma either undergoing MRI scan for radiation treatment planning or a post treatment MRI\n* Voluntarily signs an IRB approved consent form\n\nExclusion Criteria:\n\n* Inability to obtain informed consent from the patient or their medical power of attorney\n* Patients who are not undergoing MR for radiation treatment planning\n* Patients who will not have MRI scans after treatment\n* Patients with pacemakers or other non-MRI compatible metallic implants\n* Pregnant women, by self report using a standard MRI questionnaire\n* Patients who will not receive contrast agent as part of their standard MR, will participate only in the non-contrast portion of the study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

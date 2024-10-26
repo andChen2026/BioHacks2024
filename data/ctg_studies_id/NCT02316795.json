@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02316795",
+    "briefTitle": "Fluorescence Imaging in Sentinel Lymph Node Biopsy for Breast Cancer and Melanoma",
+    "officialTitle": "Evaluation of Fluorescence Imaging in Sentinel Lymph Node Biopsy for Breast Cancer and Melanoma",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Cancer of Breast, Cancer of the Breast, Melanoma, Malignant Melanoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Ability for the imaging device to identify the sentinel lymph node (SLN) during the SLN biopsy procedure compared to standard of care gamma-probe identification of the SLN",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Newly diagnosed with clinically node-negative breast cancer or melanoma being staged with SLN biopsy.\n* Negative nodal basin clinical exam.\n* At least 18 years of age.\n* Able to understand and willing to sign a written informed consent document.\n\nExclusion Criteria:\n\n* Contraindications for surgery.\n* Receiving any investigational agents.\n* History of allergic reactions attributed to ICG or other agents used in the study, including known iodide or seafood allergy.\n* Presence of uncontrolled intercurrent illness including, but not limited to, ongoing or active infection of the breast and/or axilla, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Pregnant.\n* Breastfeeding. Patients who are breastfeeding are excluded from this study because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with ICG dye.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

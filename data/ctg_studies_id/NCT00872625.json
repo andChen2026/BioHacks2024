@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00872625",
+    "briefTitle": "Radiation Therapy and Docetaxel Followed by Standard Therapy in Treating Women With Breast Cancer",
+    "officialTitle": "Phase I Study - Hypofractionated Cyberknife Radiotherapy Combined With Neoadjuvant Chemotherapy for Breast Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "Maximum-tolerated dose of radiotherapy",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed diagnosis of breast cancer\n\n  * Unifocal disease\n  * Non-metastatic disease\n  * Not a candidate for breast-conserving surgery\n* No superficial breast cancer (defined as the distance between tumor and skin \u2264 1 cm)\n* Undergone MRI of the breast to define the macroscopic tumor volume\n* Undergone scanning of the breast to mark the location for radiotherapy\n\nPATIENT CHARACTERISTICS:\n\n* WHO performance status 0-2\n* Not pregnant or nursing\n* Fertile patients must use effective contraception during and for 6 months after completion of study treatment\n* No counter-indications to surgery, standard neoadjuvant chemotherapy, or insertion of an implantable venous device\n* No patient for whom clinical follow up is impossible for psychological, familial, social, or geographical reasons\n* No patients deprived of liberty or under trusteeship\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior ipsilateral breast irradiation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

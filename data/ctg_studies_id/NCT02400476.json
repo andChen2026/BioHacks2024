@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02400476",
+    "briefTitle": "An Open-Label Study to Characterize the Incidence and Severity of Diarrhea in Patients With Early-Stage HER2+ Breast Cancer Treated With Neratinib and Loperamide",
+    "officialTitle": "An Open-Label Study to Characterize the Incidence and Severity of Diarrhea in Patients With Early-Stage HER2+ Breast Cancer Treated With Neratinib and Loperamide",
+    "overallStatus": "COMPLETED",
+    "conditions": "Early Stage HER2+ Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 563,
+    "primaryOutcomeMeasure": "Percentage of Patients With Grade 3 or Higher Diarrhea, According to NCI CTCAE v4.0.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u226518; male or female\n* Early breast cancer (stage I-3c)\n* Documented HER2+ tumor: HER2 immunohistochemistry (IHC) 3+ or ISH+\n* Prior course of adjuvant trastuzumab given \\>2 weeks and \u22641 year from enrollment\n* No evidence of local/regional recurrence or metastatic disease\n* Eastern Cooperative Oncology Group (ECOG) status of 0 or 1\n* Male patients with female partners of childbearing potential must agree and commit to use a condom and women of childbearing potential must not be pregnant and must agree and commit to the use of a highly effective non-hormonal method of contraception\n* Left ventricular ejection fraction (LVEF) \u226550% measured by multiple-gated acquisition scan (MUGA) or ECHO\n\nExclusion Criteria:\n\n* Major surgery \\< 30 days\n* Chemotherapy, investigational agents, other cancer therapy (except hormonal therapy) \\< 14 days\n* Corrected QT Interval (QTc) \\>0.450 seconds (males) or \\>0.470 (females) or other active cardiac disease\n* Significant chronic GI disorder with diarrhea as a major symptom\n* Active, unresolved infections\n* Currently pregnant or breast-feeding",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

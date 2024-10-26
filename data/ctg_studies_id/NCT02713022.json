@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02713022",
+    "briefTitle": "Body Composition and White Adipose Tissue Inflammation",
+    "officialTitle": "Body Composition and White Adipose Tissue Inflammation",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Prostate Cancer, Body Composition, White Adipose Tissue Inflammation",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 202,
+    "primaryOutcomeMeasure": "fat percentage",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18\n* Female\n* All BMIs\n* Patients undergoing mastectomy at MSKCC (i.e. Nipple-sparing mastectomy, skin-sparing mastectomy, simple mastectomy, modified radical mastectomy, radical mastectomy); mastectomy may be either prophylactic or therapeutic. OR\n* Patients undergoing hysterectomy at MSKCC\n* History of prior breast surgeries/procedures is acceptable\n\nExclusion Criteria:\n\n* Pregnancy (confirmed or suspected);\n* Inability to lay supine on equipment table and maintain the position for the necessary time;\n* Weight superior to the maximum allowed by the DEXA machine (over 350 lbs or 158 kg);\n* Greater than 10% baseline weight loss in the past year;\n* Planned surgical procedure is not a Mastectomy (i.e. breast conservation surgery or other non-mastectomy procedure; such as lumpectomy) or hysterectomy\n* Metastatic cancer\n* History of Wasting Syndromes or Cachexia\n* Use of daily NSAIDs, aspirin, or steroids (other than inhaled or topical) within 30 days of surgery\n* Use of neoadjuvant systemic or radiation therapy.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

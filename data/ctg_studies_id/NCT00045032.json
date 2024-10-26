@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00045032",
+    "briefTitle": "Herceptin (Trastuzumab) in Treating Women With Human Epidermal Growth Factor Receptor (HER) 2-Positive Primary Breast Cancer",
+    "officialTitle": "A Randomized Three-Arm, Multicenter Comparison of 1 Year and 2 Years of Herceptin Versus No Herceptin in Women With HER2-Positive Primary Breast Cancer Who Have Completed Adjuvant Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 5099,
+    "primaryOutcomeMeasure": "Percentage of Participants With Disease-Free Survival (DFS) Events in Herceptin 1-Year Arm Compared to Observation: 1-Year Median Follow-Up",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Non-metastatic primary invasive breast cancer overexpressing HER2 (determined by immunohistochemistry 3+ or positive fluorescence in situ hybridization test) that has been histologically confirmed, adequately excised, axillary node positive or negative, and tumor size at least T1c according to Tumor/Node/Metastasis (TNM) staging\n* Completion of at least 4 cycles of (neo-)adjuvant systemic chemotherapy, definitive surgery, and radiotherapy, if applicable\n* Known hormone receptor status\n* Baseline left ventricular ejection fraction (LVEF) greater than or equal to (\u2265) 55 percent (%)\n\nExclusion Criteria:\n\n* Prior invasive breast carcinoma\n* Other malignancies except for curatively treated basal and squamous cell carcinoma of the skin or in situ carcinoma of the cervix\n* Clinical T4 tumors\n* Cumulative doxorubicin exposure greater than (\\>) 360 milligrams per meter-squared (mg/m\\^2) or epirubicin \\>720 mg/m\\^2 or any prior anthracyclines unrelated to the present breast cancer\n* Peripheral stem cell or bone marrow stem cell support\n* Prior mediastinal irradiation except for internal mammary node irradiation for the present breast cancer\n* Non-irradiated internal mammary nodes or supraclavicular lymph node involvement\n* Prior anti-HER2 therapy for any other reason or other prior biologic or immunotherapy for breast cancer\n* Concurrent anti-cancer treatment in another investigational trial\n* Serious cardiac or pulmonary conditions/illness, or any other conditions that could interfere with planned treatment\n* Poor hematologic, hepatic, or renal function\n* Pregnancy or lactation\n* Women of childbearing potential or less than 1 year post-menopause unwilling to use adequate contraceptive measures",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

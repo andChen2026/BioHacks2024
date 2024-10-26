@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05178927",
+    "briefTitle": "UFPTI 2105-BR05: Improving Breast Radiotherapy Setup and Delivery Using Mixed-Reality Visualization",
+    "officialTitle": "UFPTI 2105-BR05: Improving Breast Radiotherapy Setup and Delivery Using Mixed-Reality Visualization",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 27,
+    "primaryOutcomeMeasure": "Number of Computed Tomography (CBCTs) a Participant Receives During Radiation Therapy Treatment as Quantified Via Counting the Number Used During the Setup Process.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Targets adult patients who are planning to undergo photon or proton radiation therapy at UFHPTI for treatment of the breast or chest wall. As this type of treatment is rare in men, the study will focus on female patients only.\n\nExclusion Criteria:\n\n* Male subjects",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

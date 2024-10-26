@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02681107",
+    "briefTitle": "APBI: 27Gy in 5 Fractions for Early Breast Cancer",
+    "officialTitle": "Accelerated Partial Breast Irradiation Using Five Daily Fractions: A Single Arm, Phase II, Prospective Cohort Study to Examine Cosmetic Outcomes and Toxicity (The ACCEL Trial)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 274,
+    "primaryOutcomeMeasure": "Rate of Excellent or Good Global cosmetic score",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, with new invasive or in-situ ductal carcinoma of the breast\n* Treated with Breast conserving surgery (BCS) with negative margins\n* pN0 on sentinel node biopsy or axillary dissection; cN0 if DCIS alone\n* Maximum pathologic tumor diameter is 3.0 cm (invasive or DCIS)\n* No clinical or imaging evidence of distant metastases\n* Age 50 years or older at diagnosis\n* No contraindications to breast irradiation\n* Excellent or Good overall cosmetic score at baseline following BCS\n* Able and willing to provide written informed consent\n* Available for 2 year follow up at the treating RT centre\n\nExclusion Criteria:\n\n* Age \\< 50 years at diagnosis\n* BRCA 1 or 2 pathogenic mutation\n* Pathologic tumor diameter \\>3cm (including DCIS+invasive disease)\n* Lobular histology alone\n* Triple negative (ER-, PR-, HER2-) or HER2 overexpressing disease\n* Margin (other than deep) \\<2 mm\n* Presence of both Grade 3 and lymphatic or vascular invasion\n* Fair or Poor overall cosmetic score at baseline following BCS\n* Presence of ipsilateral breast implants\n* Inability to develop an APBI plan meeting all dosimetry constraints\n* Unable to start RT within 16 weeks of BCS or 8 weeks of last iv chemotherapy\n* Unable or unwilling to sign informed consent document or attend for 2-year cosmetic assessment at the treating RT centre\n* Potential contraindications for breast RT including a confirmed diagnosis of lupus, scleroderma, or pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

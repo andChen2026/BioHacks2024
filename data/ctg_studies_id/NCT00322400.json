@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00322400",
+    "briefTitle": "Phase1b to Evaluate Safety of AMG706 in Combination With Paclitaxel or Docetaxel for Breast Cancer",
+    "officialTitle": "An Open-label, Dose-finding Study to Evaluate the Safety of AMG 706 in Combination With Paclitaxel or Docetaxel as Treatment for Locally Recurrent or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Locally Recurrent and Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "Incidence of dose limiting toxicities (DLTs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the breast with locally recurrent or metastatic disease.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Female 18 years of age or older.\n* Adequate hematologic, renal and hepatic function.\n* Competent to comprehend, sign, and date an IRB-approved informed consent form.\n* Subjects of childbearing potential and sexually active must provide a negative pregnancy test and use accepted and effective method of contraception.\n\nExclusion Criteria:\n\n* Prior taxane-containing treatment within 6 months prior to enrollment.\n* Prior treatment including chemotherapy and/or endocrine therapy discontinued \\< 21 days prior to enrollment.\n* More than one prior systemic chemotherapy for locally recurrent or metastatic breast cancer.\n* Current or prior history of central nervous system metastases.\n* History of arterial or venous thrombosis within 1 year prior to enrollment.\n* History of bleeding diathesis or bleeding within 14 days prior to enrollment.\n* Radiation therapy to a significant portion of bone marrow or prior history of high-dose chemotherapy requiring bone marrow or stem cell support.\n* Hypersensitivity to paclitaxel, docetaxel, or drugs using the vehicle cremophor.\n* Prior VEGFr targeted therapies within 30 days of enrollment.\n* Any anticoagulant therapy within 7 days prior to enrollment, except for warfarin of less than 2mg per day.\n* Clinically significant cardiac disease including myocardial infarction or other cardiovascular related event within 1 year before enrollment.\n* Uncontrolled hypertension (systolic \\>150 mmHg; diastolic \\> 90 mmHg).\n* Known HIV positive, hepatitis C positive or hepatitis B surface antigen positive.\n* Prior bevacizumab or trastuzumab therapy within 12 weeks of enrollment.\n* Non-healing wound, ulcer or fracture.\n* Known history of prior episodes of cholecystitis, prior biliary procedure or prior or ongoing biliary disease.\n* Unable to take oral medications.\n* Not recovered from previous therapies.\n* Major surgery within 28 days prior to enrollment.\n* Prior malignancy unless treated with curative intent and without evidence of disease for greater than 3 years before enrollment.\n* Peripheral neuropathy grade \\> 1 per CTCAE version 3.0",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

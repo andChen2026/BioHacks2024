@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04535492",
+    "briefTitle": "Technology-Based Cancer Screening Intervention",
+    "officialTitle": "Improving Cancer Screening Through A Tailored Technology-Based Intervention",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Colorectal Cancer, Lung Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Rate of successful completion of breast cancer screening noted via electronic health record having mammogram result for the patient.",
+    "eligibilityCriteria": "Breast Cancer Screening:\n\nInclusion Criteria: women 50-74 years old Exclusion Criteria: current breast cancer diagnosis, mastectomy\n\nColorectal Cancer Screening:\n\nInclusion Criteria: adults 50-74 years Exclusion Criteria: colorectal cancer diagnosis\n\nLung Cancer Screening:\n\nInclusion Criteria: adult 55-80 years old with 30 pack per year history who currently smoke or quit within the last 15 years.\n\nExclusion Criteria: lung cancer diagnosis",
+    "sex": "ALL",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

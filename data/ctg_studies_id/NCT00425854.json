@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00425854",
+    "briefTitle": "An Open Label Phase II Trial of BIBW 2992 in Patients With HER2-negative Metastatic Breast Cancer",
+    "officialTitle": "An Open Label Phase II Trial to Assess the Efficacy and Safety of a Once Daily Oral Dose of 50 mg BIBW 2992 in Two Cohorts of Patients With HER2-negative Metastatic Breast Cancer After Failure of no More Than Two Chemotherapy Regimen",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Objective Response (OR)",
+    "eligibilityCriteria": "Inclusion criteria:\n\nInclusion Criteria:\n\n* Female patients age 18 years or older\n* Histologically proven breast cancer after failure or relapse of no more than three lines of chemotherapy including adjuvant, irrespective of prior hormone therapy metastatic disease (stage IV);\n* HER2-negative patients (HER2 1+ or negative, or HER2 2+ and FISH negative)\n* At least one measurable tumour lesion (RECIST);\n* Availability of tumour samples\n* Written informed consent that is consistent with ICH-GCP guidelines and local law\n* Eastern Cooperative Oncology Group (ECOG, R01-0787) performance score 0 - 2.\n\nExclusion criteria:\n\nExclusion Criteria:\n\n* Active infectious disease\n* Gastrointestinal disorders that may interfere with the absorption of the study drug or chronic diarrhoea\n* Serious illness, concomitant non-oncological disease or mental problems considered by the investigator to be incompatible with the protocol\n* Active/symptomatic brain metastases\n* Cardiac left ventricular function with resting ejection fraction \\< 50% (below upper limit of normal)\n* ANC less than 1500/mm3 platelet count less than 100 000/mm3\n* Bilirubin greater than 1.5 mg /dl (\\>26 and#61549 mol /L, SI unit equivalent)\n* AST and ALT greater than 2.5 times the upper limit of normal or greater 5 times the upper limit of normal in case of known liver metastases\n* Serum creatinine greater than 1.5 mg/dl (\\>132 and#61549 mol/L, SI unit equivalent)\n* Patients who are sexually active and unwilling to use a medically acceptable method of contraception\n* Pregnancy or breast-feeding\n* Concomitant treatment with other investigational drugs or other anti-cancer-therapy during this study and/or during the past two/four weeks, prior to the first treatment with the trial drug. Concurrent treatment with biphosphonates is allowed\n* Previous treatment with trastuzumab, EGFR-, or EGFR/HER2-inhibitors patients unable to comply with the protocol\n* Active alcohol or drug abuse\n* Other malignancy within the past 5 years",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

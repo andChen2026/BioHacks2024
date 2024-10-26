@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02393833",
+    "briefTitle": "IBCSG Trial 22-00 Serum Substudy",
+    "officialTitle": "Assessment of Vascular Endothelial Growth Factor (VEGF), Soluble Her2 Protein (NRP, Neu-Related Protein), and Vascular Cellular Adhesion Molecule-1 (VCAM-1) in Serum Samples of Patients Participating in Trial IBCSG 22-00",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 136,
+    "primaryOutcomeMeasure": "Change from baseline to 18 months in serum VEGF values",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient must be randomized to the core protocol. Written informed consent for the serum substudy must be signed and dated by the patient and investigator\n* Patient must not have begun CM maintenance (if randomized to CM maintenance)\n\nExclusion Criteria:\n\n* Patient not randomized to the core protocol\n* Patient already begun CM maintenance (if randomized to CM maintenance)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

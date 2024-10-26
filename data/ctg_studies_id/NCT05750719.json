@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05750719",
+    "briefTitle": "BRCA and NACT in TNBC Patients",
+    "officialTitle": "Impact of BRCA Mutation Status on Outcome and Response to Neoadjuvant Chemotherapy (NACT) in Triple-negative Breast Cancer (TNBC) Patients.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Triple-Negative Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 136,
+    "primaryOutcomeMeasure": "pathologic complete response (pCR) rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent.\n* Age older than 18 years.\n* Unilateral or bilateral primary carcinoma of the breast, confirmed histologically by core biopsy.\n* Tumor lesion in the breast with a palpable size of \u2265 2 cm and/or \u2265 1.5 cm by ultrasound or magnetic resonance imaging (MRI). In case of inflammatory carcinoma, the extent of inflammation can be used as measurable lesion.\n* American Joint Commission on Cancer stage II or III invasive breast cancer.\n* Known estrogen (ER)- and progesterone (PgR)-receptor negative tumors.\n* Known HER-2/neu negative tumors, defined as IHC 1+/2+ or SISH not amplified.\n* Patients suitable for neoadjuvant chemotherapy\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) \u22642 or Karnowsky performance status index at least 80%.\n* Normal cardiac function must be confirmed by ECG and cardiac ultrasound (LVEF or shortening fraction) within 1 month prior to registration.\n* Laboratory requirements:\n\n  * Hematology: Absolute neutrophil count (ANC) \u2265 1.5 x 109/L, platelets \u2265 100 x 109/L, Hemoglobin \u2265 10 g/dL.\n  * Hepatic function: Total bilirubin \\< 1 x UNL, ASAT (SGOT) and ALAT (SGPT)\u2264 2.5 x UNL, Alkaline phosphatase \u2264 5 UNL. Patients with ASAT and / or ALAT \\> 1.5 x UNL associated with alkaline phosphatase \\> 2.5 x UNL are not eligible for the study.\n  * Renal function: Creatinine \u2264 2 mg/dL, \\< 1,25 UNL (or the calculated creatinine clearance \u2265 60 mL/min).\n* Paraffin tumor tissue block made available.\n* Availability to provide the set up of the histological preparations for molecular analysis.\n* Negative pregnancy test (urine or serum).\n* Patients must be available and compliant for treatment and follow-up.\n\nExclusion Criteria:\n\n* Patients candidate for adjuvant chemotherapy.\n* Evidence of distant metastasis.\n* Prior chemotherapy for any malignancy.\n* Prior radiation therapy for breast cancer.\n* Pregnant or lactating patients.\n* Inadequate general condition.\n* Previous malignant disease.\n* Known or suspected congestive heart failure (\\>NYHA I) and/or coronary heart disease, angina pectoris requiring antianginal medication, previous history of myocardial infarction, evidence of transmural infarction on ECG, un- or poorly controlled arterial hypertension, rhythm abnormalities requiring permanent treatment, clinically significant valvular heart disease.\n* History of significant neurological or psychiatric disorders that would prohibit the understanding and giving of informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

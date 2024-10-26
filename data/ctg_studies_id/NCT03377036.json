@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03377036",
+    "briefTitle": "Breast Cancer Screening: Digital Breast Tomosynthesis Versus Digital 2D Mammography",
+    "officialTitle": "Prospective Randomized Comparison of Digital Breast Tomosynthesis Plus Synthesized Images Versus Standard Full-field Digital Mammography in Population-based Screening (TOSYMA)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer Screening",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 99689,
+    "primaryOutcomeMeasure": "Detection rate of invasive breast cancers",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women eligible to participate in the National Mammography Screening Program of Germany\n* Informed decision for mammography screening\n* Written informed consent\n* No prior participation in the TOSYMA trial\n\nExclusion Criteria:\n\n* Breast cancer up to 5 years prior to study invitation\n* Previous mammography examination \\< 12 months,\n* Breast implants",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00818051",
+    "briefTitle": "Radiation Therapy in Treating Women Who Have Undergone Breast Conservation Surgery and Systemic Therapy for Early Breast Cancer",
+    "officialTitle": "Randomized Trial Testing Dose Escalated Intensity Modulated Radiotherapy for Women Treated by Breast Conservation Surgery and Appropriate Systemic Therapy for Early Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 840,
+    "primaryOutcomeMeasure": "Palpable induration inside the boost volume of the irradiated breast",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive breast cancer\n\n  * Resectable, unilateral disease\n  * T1-3, N0-1, M0 disease\n* Has undergone prior breast conservation surgery with complete microscopic resection AND received appropriate systemic therapy for early breast cancer\n* Requires a tumor bed boost plus whole breast radiotherapy as indicated by \u2265 1 of the following:\n\n  * Age 18-49 years\n  * Tumor size \\> 2.0 cm after primary surgery (maximum microscopic diameter of invasive component)\n  * Tumor of any size treated by primary medical therapy\n  * Grade III disease\n  * Minimum microscopic margin of noncancerous tissue \\< 5 mm (excluding deep margin if at deep fascia)\n  * Lymphovascular invasion\n  * Axillary node positive\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* No prior malignancy other than non-melanoma skin cancer or carcinoma in situ of the cervix\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior mastectomy\n* No concurrent chemotherapy except primary or sequential chemotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00190489",
+    "briefTitle": "A Trial of Doxorubicin/Cyclophosphamide (AC), Docetaxel (D), and Alternating AC and D for Metastatic Breast Cancer",
+    "officialTitle": "Phase III Trial of Doxorubicin /Cyclophosphamide (AC), Docetaxel (D), and Alternating AC and D (AC-D) as Front-line Chemotherapy for Metastatic Breast Cancer: Japan Clinical Oncology Group Trial (JCOG9802)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Neoplasm Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 450,
+    "primaryOutcomeMeasure": "time to treatment failure",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Hormonal therapy-resistant MBC\n2. ER (-), failure of hormonal therapy for MBC, or relapse within 6 months after adjuvant hormonal therapy\n3. No anthracyclines for MBC and no prior taxanes\n4. At least 6 months from the completion of adjuvant chemotherapy\n5. Measurable or evaluable lesions\n6. Age: 20 to 75 years\n7. PS: 0-3\n8. WBC \\>= 4,000 /mm3 or ANC \\>=1,000 /mm3, Platelet \\>= 100,000 /mm3, SGOT/SGPT \\<= 1.5 x ULN, T-Bil \\<= 1.5 mg/dL, Cr \\<= 1.5 mg/dL\n9. normal ECG\n10. Written informed consent\n\nExclusion Criteria:\n\n1. pregnant\n2. malignant pleural effusion, ascites, or pericardial effusion that requires emergent treatment\n3. Active infection\n4. other cancer present within the last 5 years\n5. previous stem cell transplantation\n6. brain metastasis that requires emergent treatment\n7. relapse within 6 months after completion anthracycline or during anthracycline\n8. more than 250mg/m2 of anthracyclines\n9. hypersensitivity of drug\n10. interstitial pneumonitis or pulmonary fibrosis\n11. positive HBs\n12. antipsychotic medication\n13. doctor's judgement",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

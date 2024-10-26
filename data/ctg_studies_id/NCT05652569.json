@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05652569",
+    "briefTitle": "CATCH: Implementation of Genomics-guided Precision Medicine in Metastatic Breast Cancer",
+    "officialTitle": "Comprehensive Assessment of Clinical Features and Biomarkers to Identify Patients With Advanced or Metastatic Breast Cancer for Marker Driven Trials in Humans (CATCH)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 5000,
+    "primaryOutcomeMeasure": "Setup of the molecular profiling diagnostic platform and feasibility of genomic profiling in metastatic breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female and male breast cancer patients \u2265 18 or if the legal guardian has agreed to the respective informed consent form (ICF)\n* Patients with advanced or metastatic breast cancer (irrespective of clinical parameters such as TNM, subgroups, therapy lines)\n* Patients, who agreed to and were able to sign the informed consent form.\n\nExclusion Criteria:\n\n* Early breast cancer\n* Inability to take a tissue bioptic sample due to reasons such as physical location of the lesion or health of the patient\n* Any physical or mental handicap or severe comorbidities that would hamper the adequate cooperation with the patient.",
+    "sex": "ALL",
+    "minimumAge": "14 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01285466",
+    "briefTitle": "A Trial of Oral BEZ235 and BKM120 in Combination With Paclitaxel With or Without Trastuzumab",
+    "officialTitle": "A Phase Ib Multi-center, Open-label, 4-arm Dose-escalation Study of Oral BEZ235 and BKM120 in Combination With Weekly Paclitaxel in Patients With Advanced Solid Tumors and Weekly Paclitaxel/Trastuzumab in Patients With HER2+ Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic or Locally Advanced Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 110,
+    "primaryOutcomeMeasure": "Incidence of Dose limiting toxicities during the first cycle of treatment.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients with metastatic or locally advanced solid tumors, for whom weekly paclitaxel treatment is indicated (BEZ235-paclitaxel /BKM120-paclitaxel treatment)\n* HER2+ metastatic or locally advanced breast cancer patients eligible for weekly paclitaxel and trastuzumab (BEZ235-paclitaxel-trastuzumab /BKM120-paclitaxel-trastuzumab treatment)\n* Adult patients (\u2265 18 years) (males, females)\n* World Health Organization (WHO) performance status \u2264 2\n* Adequate bone marrow function:\n* Adequate hepatic and renal function:\n\nExclusion Criteria:\n\n* Patients with primary central nervous system (CNS) tumor or CNS tumor involvement. However, patients with a metastatic CNS lesion may participate in this trial, if the patient is \\> 4 weeks from therapy (including radiation and/or surgery) completion, clinically stable with respect to the tumor at the time of study entry, and not receiving enzyme-inducing antiepileptic drugs or corticosteroid therapy or taper, as treatment of the brain metastases\n* Patients who have received prior systemic anticancer therapy within the following time frames\n* Cyclical chemotherapy: \u2264 3 weeks before study treatment (6 weeks for patients treated with nitrosoureas)\n* Biological therapy: \u2264 4 weeks before study treatment, except treatment with trastuzumab (both parts of the trial)\n* Investigational drug: \u2264 4 weeks before study treatment\n* Patients who have undergone major surgery \u2264 4 weeks before study treatment\n* Patients receiving chronic treatment with corticosteroids or other immunosuppressive agents\n* Patients with uncontrolled, unmanageable, treatment-refractory diabetes mellitus\n* Active or history of major depressive episode, bipolar disorder, obsessive-compulsive disorder, schizophrenia, history of suicide attempt or ideation, or homicide, as judged by the investigator and/or based on recent psychiatric assessment\n\nOther protocol-defined inclusion/exclusion criteria may apply",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

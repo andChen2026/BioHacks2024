@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04999826",
+    "briefTitle": "Multiscale Omics for the Development of a Cohort Database and Study Platform in Breast Cancer Survivors",
+    "officialTitle": "Use of Multiscale Omics to Develop a Cohort Database and Study Platform in Breast Cancer Survivors",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Anatomic Stage 0 Breast Cancer AJCC v8, Anatomic Stage I Breast Cancer AJCC v8, Anatomic Stage IA Breast Cancer AJCC v8, Anatomic Stage IB Breast Cancer AJCC v8, Anatomic Stage II Breast Cancer AJCC v8, Anatomic Stage IIA Breast Cancer AJCC v8, Anatomic Stage IIB Breast Cancer AJCC v8, Anatomic Stage III Breast Cancer AJCC v8, Anatomic Stage IIIA Breast Cancer AJCC v8, Anatomic Stage IIIB Breast Cancer AJCC v8, Anatomic Stage IIIC Breast Cancer AJCC v8, Prognostic Stage 0 Breast Cancer AJCC v8, Prognostic Stage I Breast Cancer AJCC v8, Prognostic Stage IA Breast Cancer AJCC v8, Prognostic Stage IB Breast Cancer AJCC v8, Prognostic Stage II Breast Cancer AJCC v8, Prognostic Stage IIA Breast Cancer AJCC v8, Prognostic Stage IIB Breast Cancer AJCC v8, Prognostic Stage III Breast Cancer AJCC v8, Prognostic Stage IIIA Breast Cancer AJCC v8, Prognostic Stage IIIB Breast Cancer AJCC v8, Prognostic Stage IIIC Breast Cancer AJCC v8",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 105,
+    "primaryOutcomeMeasure": "Utilization of multiscale omics to build a cohort database for breast cancer survivors",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* BCS GROUP\n* Female patients diagnosed with breast cancer age 18 - 75, stages 0 through 3 at time of diagnosis\n* Who have completed active therapy (including surgery, radiation, and/or chemotherapy)\n* Able to speak English and complete surveys and provide the specimen (willing to follow the sample collection instructions)\n* Able to read, understand and sign inform consent\n* CONTROL GROUP\n* Healthy Volunteers age 18 - 75\n* Able to speak and read English, complete consent, surveys, and provide specimens\n\nExclusion Criteria:\n\n* Unable to give written consent\n* Unable to fast before providing blood and urine\n* Pregnant women (per participant report) and males\n* Unwilling to travel to Mayo Clinic Rochester to provide bio specimens",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

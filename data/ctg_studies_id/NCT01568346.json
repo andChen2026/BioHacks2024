@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01568346",
+    "briefTitle": "Breast MRI for Newly Diagnosed Breast Cancer:Impact on Re-excision Lumpectomy",
+    "officialTitle": "Randomized Trail of Breast MRI for Newly Diagnosed Early Stage Breast Cancer: Impact on Re-excision Lumpectomy",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 9,
+    "primaryOutcomeMeasure": "Assess if pre-operative MRI reduces incidence of re-excisions required",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Must undergo definitive local therapy with either breast conserving therapy or mastectomy\n* Clinical Stage 0, I or II breast cancer based on examination and/or conventional imaging of mammogram with or without ultrasound. Tumors must be less than 5 cm in size and the patient clinically node negative\n* Able to undergo breast MRI\n\nExclusion Criteria:\n\n* Not pregnant or breastfeeding\n* No prior breast MRI for the newly diagnosed carcinoma at the outside hospital\n* No prior mantle radiation\n* No locally advanced breast cancer\n* No diffuse malignant appearing microcalcifications requiring mastectomy\n* No known collagen vascular disease\n* No previous ipsilateral radiation\n* No participants who undergo surgery at an outside institution\n* No prior history of breast carcinoma",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

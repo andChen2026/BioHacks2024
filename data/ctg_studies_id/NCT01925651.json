@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01925651",
+    "briefTitle": "Clinical Trial of The Use of Bolus in Post Mastectomy Irradiation in Breast Cancer",
+    "officialTitle": "Randomized Clinical Trial of the Impact of the Use of Bolus in the Treatment of Post Mastectomy Radiotherapy for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Radiodermatitis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 58,
+    "primaryOutcomeMeasure": "Acute radiodermatitis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Undergoing mastectomy with or without reconstruction of early breast\n* breast malignancy histologically proven\n* protocol addended to allow inclusion of men that meet all inclusion criteria\n\nExclusion Criteria:\n\n* Karnofsky Performance Scale (KPS) \\<70%\n* Concomitant chemotherapy (only permitted or hormone therapy molecular-targeted)\n* Prior ipsilateral thoracic / cervical irradiation\n* Proven metastatic disease (excluded from oncologic outcomes analyses)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

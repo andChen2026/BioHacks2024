@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01948843",
+    "briefTitle": "Ph 1 ADI-PEG 20 Plus Doxorubicin; Patients With HER2 Negative Metastatic Breast Cancer",
+    "officialTitle": "Phase 1 Trial of ADI-PEG 20 Plus Doxorubicin in Patients With HER2 Negative Metastatic Breast Cancer or Advanced Solid Tumor",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER2 Negative Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "Number of Participants with Adverse Events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Biopsy proven HER2 negative metastatic breast cancer (dose escalation portion and MTD expansion portion) or advanced solid tumor (dose escalation portion).\n2. ASS deficiency (defined as \\<50% ASS expression) demonstrated on tissue specimen by Immunohistochemistry (IHC). Cytology and fine need aspirate specimens are not acceptable for ASS testing.\n3. Unresectable disease or subject refused surgery.\n4. Measurable disease as assessed by RECIST 1.1 criteria (Appendix A).\n5. Failed available therapy known to confer clinical benefit but no more than 4 prior lines of chemotherapy for metastatic disease.\n6. Time to treatment failure from doxorubicin containing regimen \u2265 12 months if previously treated with doxorubicin.\n7. Age \u2265 18 years.\n8. ECOG performance status of 0 - 2. -\n\nExclusion Criteria:\n\n1. Serious infection requiring treatment with systemically administered antibiotics at the time of study entrance, or an infection requiring systemic antibiotic therapy within 7 days prior to the first dose of study treatment.\n2. Prior epirubicin exposure of \\> 600 mg/m2.\n3. Pregnancy or lactation.\n4. Expected non-compliance.\n5. Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure (New York Heart Association Class III or IV), cardiac arrhythmia, or psychiatric illness, social situations that would limit compliance with study requirements.\n6. Subjects who have had any anticancer treatment prior to entering the study and have not recovered to baseline (except alopecia) or \u2264 Grade 1 AEs, or deemed irreversible from the effects of prior cancer therapy. AEs \\> Grade 1 that are not considered a safety risk by the Sponsor and Investigator may be allowed upon agreement with both.\n7. Subjects with history of another primary cancer, including co-existent second malignancy, with the exception of: a) curatively resected non-melanoma skin cancer; b) curatively treated cervical carcinoma in situ; or c) other primary solid tumor with no known active disease present in the opinion of the Investigator will not affect subject outcome in the setting of breast cancer diagnosis.\n8. Subjects who had been treated with ADI-PEG 20 previously.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

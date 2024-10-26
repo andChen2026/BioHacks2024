@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04424732",
+    "briefTitle": "SBRT for Breast Cancer Oligometastases",
+    "officialTitle": "Stereotactic Body Radiotherapy for Bone Only Oligometastatic Breast Cancer: A Prospective Study",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Neoplasm Malignant Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Progression free survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women \\>18 years old with a pathologically proven breast cancer who present with 1-3 bone metastases will be included.\n* Metastases need to be confirmed pathologically if possible, otherwise two different imaging modalities (CTor MRI and bone scan or PET) are needed to confirm metastases.\n* Patients should be able to receive the recommended local and systemic treatment and the primary tumor must be controlled at time of SBRT.\n* Maximum diameter of individual metastasis metastasis in any dimension \u2264 5 cm; and must be \\>5 cm away from each other (defined as Edge to Edge of tumor).\n\nExclusion Criteria:\n\n* Non bone metastatic breast cancers\n* Prior history of radiotherapy to same sites of SBRT\n* Pathologic fractures of involved bones\n* Contraindications to radiotherapy including pregnancy and connective tissue disease.\n* Patients with impaired cognitive functions.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

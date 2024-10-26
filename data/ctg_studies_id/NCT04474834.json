@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04474834",
+    "briefTitle": "GENetic Risk Estimation of Breast Cancer Prior to Decisions on Preventive Therapy Uptake, Risk Reducing Surgery or Intensive Imaging Surveillance",
+    "officialTitle": "GENetic Risk Estimation of Breast Cancer Prior to Decisions on Preventive Therapy Uptake, Risk Reducing Surgery or Intensive Imaging Surveillance: a Study to Determine If a Polygenic Risk Score Influences the Decision Making Options Amongst High Risk Women (GENRE 2)",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 900,
+    "primaryOutcomeMeasure": "Patient self-reported intention to take a breast cancer preventing medication",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women \\> 35 years old and \\< 75 years old\n2. Women with any of the following:\n\n   A. A NCI-BCRAT 5 year risk of \u2265 3% which corresponds to the level in which there is moderate evidence of treatment benefit outweighing risk according to the US Preventative Services Task Force (32); or B. IBIS (Tyrer-Cuzik) score for the 10 year risk of breast cancer of \u22658% 43 C. Biopsy proven atypical ductal hyperplasia or atypical lobular hyperplasia. D. History of lobular carcinoma in situ E. BRCA mutation carrier or other hereditary breast mutation carrier\n3. Able to participate in all aspects of the study\n4. Understand and signed the study informed consent\n\nExclusion Criteria:\n\n1. Women whose BCRAT falls below the threshold (\\<3 % 5 year risk) of moderate benefit according to the US Preventative Task Force AND Women whose IBIS score is \\<8% for the 10 year risk\n2. Women with known contra-indications to Tamoxifen, raloxifene ,exemestane, or anastrazole\n3. Current or prior use of Tamoxifen, raloxifene, exemestane or anastrazole\n4. Unable to give informed consent\n5. Prior history of invasive breast cancer, ductal carcinoma in situ or other breast cancers\n6. At high risk due to prior radiation therapy to the chest\n7. Women who are pregnant or breastfeeding\n8. Prior risk reducing or prophylactic mastectomy",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

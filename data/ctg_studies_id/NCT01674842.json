@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01674842",
+    "briefTitle": "Cisplatin + RT for Triple Negative Breast Cancer",
+    "officialTitle": "A Phase I Dose-Escalation Study of Cisplatin and Radiation Therapy for Patients With Triple Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 55,
+    "primaryOutcomeMeasure": "Safety of Cisplatin w/ Radiation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Primary tumor is triple negative breast cancer\n* Breast-conserving surgery or mastectomy with surgical excision of all gross disease with negative surgical margins\n* Pathologic or clinical stage II or III disease\n* At least 3 week interval from last chemotherapy administration/breast surgery to radiation (no more than 8 weeks)\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding\n* Prior radiation to breast or ipsilateral regional nodes\n* Ongoing therapy with other investigational agents\n* Hormonal therapy\n* Significant co-morbidity\n* Pathologic complete response following preoperative chemotherapy\n* Biopsy proven metastatic disease",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03000764",
+    "briefTitle": "RNA and Heat Shock Protein Biomarkers in Radiation-induced Fibrosis in Breast Cancer",
+    "officialTitle": "Study of RNA and Heat Shock Protein (HSP) Derived Biomarkers in Radiation-induced Fibrosis in Patients Treated for Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Carcinoma, Fibrosis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Global mRNA alternative splicing and expression of non-coding RNAs profiles in healthy dermal fibroblasts",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women\n* age \u2265 18 and \\<70 years old\n* non metastatic disease\n* ECOG performance status 0 or 1\n* chest size \u2264 110 cm et bra size \\<D\n* absence of reconstructive breast surgery\n* patient able to undergo blood samples (haematological conditions allowing blood sample)\n* non-evolving carcinological disease\n* absence of systemic inflammatory disease (other than scleroderma) or diabetes\n* no inflammatory ou infectious flare on biopsy site at the time of inclusion\n* invasive or in situ breast carcinoma\n* ability to provide an informed written consent form\n* affiliation to a social security system\n\nThen stratification into two groups :\n\ngroup 1 : radio-sensitive patients\n\n* Post-operative radiotherapy completed at least 6 months ago AND\n* radiation induced dermal and/or soft tissue toxicity (dermatitis, fibrosis, atrophy) rated \\> 2 (CTCAE v4.0 scale)\n\ngroup 2 : radio-tolerant (control) patients\n\n* Post-operative radiotherapy completed more than 4 years ago AND\n* radiation induced dermal and/or soft tissue toxicity (dermatitis, fibrosis, atrophy) rated \u22641 (CTCAE v4.0 scale) .\n\nExclusion Criteria:\n\n* age \\<18 or \\> 70 years old\n* evolutive cancer / metastatic disease\n* chest size \\> 110 cm et bra size \u2265 D\n* previous reconstructive breast surgery\n* ECOG performance status \\> 1\n* systemic inflammatory disease or diabetes\n* inflammatory ou infectious flare on biopsy site at the time of inclusion, very significant ulceration in the treated breast\n* anemic patients\n* use of oral anticoagulants\n* pregnant or likely to be in 6 months\n* patients deprived of liberty or under supervision\n* non-affiliation to a social security system",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

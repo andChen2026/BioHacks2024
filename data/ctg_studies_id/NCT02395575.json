@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02395575",
+    "briefTitle": "A Study of Clinical Outcomes for the NanoString\u00ae Technologies Prosigna\u2122 Gene Signature Assay",
+    "officialTitle": "Prospective Study Evaluating the Clinical Impact of the Breast Cancer Intrinsic Subtype-Prosigna Test (Assay) in the Management of Early-stage Breast Cancers",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "The proportion of patients whose choice of treatment is changed as a result of receiving the Prosigna test results.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Resected node-negative, estrogen-receptor-positive, HER2-negative early- stage invasive breast cancer (T1-T2, N0, pN0 (i+), pN0 (mol+), M0)\n\n  * Estrogen receptor status will be evaluated by Immunohistochemistry (IHC) and more than 1% of stained tumor cells will be considered positive.\n  * HER2 status will be evaluated by IHC (0 or 1+, or 2+ will be considered negative) and by in-situ fluorescence hybridization.\n* Postmenopausal women defined as:\n\n  * Natural Amenorrhea \\> 12 months, regardless of age\n  * Bilateral oophorectomy, regardless of age (the oophorectomy must have been carried out at least 4 weeks before entering the study)\n  * Radiological castration with amenorrhea \\> 3 months, regardless of age\n  * Hysterectomy and postmenopausal blood levels\n* Able to give consent\n* Eligible for treatment of breast cancer with adjuvant chemotherapy\n* ECOG performance status of 0 or 1\n\nExclusion Criteria:\n\n* Tumor size T3-T4\n* Non-invasive breast cancer (e.g., Paget's disease, DCIS)\n* Tumors with nodes that are not N0, pN0 (i+), or pN0 (mol+)\n* Tumors that are estrogen-receptor negative or HER2 positive\n* Have metastatic disease\n* Unable to give informed consent\n* Unable to complete patient reported outcome surveys\n* Have contraindications for adjuvant chemotherapy\n\n  * Age, performance status, significant comorbidities\n* ECOG performance status \\> 1",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

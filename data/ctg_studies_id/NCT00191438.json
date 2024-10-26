@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00191438",
+    "briefTitle": "Phase III Study of Gemcitabine Plus a Cytotoxic Agent Versus Two Cytotoxic Agents",
+    "officialTitle": "Phase III Study of Docetaxel in Combination With Gemcitabine Versus Docetaxel in Combination With Capecitabine in Patients With Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Progression free survival. The final analysis will occur when 250 patients have progressed or died.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Locally advanced and/or metastatic breast cancer.\n* Measurable disease\n* Previously treated with anthracycline\n\nExclusion Criteria:\n\n* Patients with inflammatory breast disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

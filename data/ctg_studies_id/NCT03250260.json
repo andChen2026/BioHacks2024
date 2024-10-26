@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03250260",
+    "briefTitle": "Simulating Outcomes From Breast Conserving Surgery Using 3D Surface Imaging",
+    "officialTitle": "The Use of 3D Surface Imaging to Simulate Outcome After Breast Conserving Therapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 117,
+    "primaryOutcomeMeasure": "The difference between groups in the mean pre-operative Visual Analogue Scale.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nFemale patients Over 18 years Planned for unilateral breast conserving surgery at RMH Planned to receive adjuvant whole breast radiotherapy at RMH Willing to attend for study follow up visits.\n\nExclusion Criteria:\n\n* Previous or concurrent surgery to the contralateral breast (previous breast conserving surgery, breast reduction or mastectomy)\n* Previous surgery to the ipsilateral breast\n* Unable to stand for long enough to have clinical photos (approximately 5 minutes)\n* Unable to answer the BREAST-Q questionnaire (e.g. learning difficulties)\n* Visually impaired (so that they could not view a 2D/3D images)\n* Pre-operatively planning to have a symmetrisation procedure after radiotherapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

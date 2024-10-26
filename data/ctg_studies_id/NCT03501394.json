@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03501394",
+    "briefTitle": "What Factors Affect Breast Cancer Neoadjuvant Chemotherapy Efficacy?",
+    "officialTitle": "What Are the Factors Affecting Neoadjuvant Chemotherapy Efficacy in Breast Cancer? A Non-invasive in Vivo Study Using Specialist Magnetic Resonance (MR) Methods",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasm Malignant Breast Tissue",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Baseline: Water diffusion probability density function (Full-Width-At-Half-Maximum, FWHM, units of micrometre)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with pathologically confirmed invasive breast cancer undergoing neoadjuvant chemotherapy and surgery.\n\nExclusion Criteria:\n\n* Condition to contradictive to MRI investigation with contrast agent (poor renal function, contrast agent allergy, metal implants or pace maker).\n* Started hormone or chemotherapy treatment before recruitment.\n* Undergoing treatment for concurrent cancer diagnosis.\n* Marker coil contradictive to MRI investigation.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

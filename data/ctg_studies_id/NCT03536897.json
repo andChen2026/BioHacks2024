@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03536897",
+    "briefTitle": "IORT Following Breast Conserving Surgery for Early Stage Breast Cancer Registry",
+    "officialTitle": "Intraoperative Radiation Therapy (IORT) Following Breast Conserving Surgery for Early Stage Breast Cancer Registry",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 168,
+    "primaryOutcomeMeasure": "In-Breast Tumor Recurrence (IBTR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* ECOG performance status 0-1\n* Age 65 years or older\n* cT1 or cT2 (\u22643.0 cm)\n* Invasive ductal carcinoma histology\n* Estrogen receptor positive (ER+)\n* Grade 1 or Grade 2\n* Clinically negative lymph nodes (cN0) by examination, imaging and/or nodal sampling\n* Suitable for breast conserving surgery and radiation therapy\n* Patient must be able to provide study-specific informed consent\n\nExclusion Criteria:\n\n* Multi-centric cancer not amenable to single lumpectomy\n* Prior ipsilateral whole breast radiation\n* Known BRCA 1 or BRCA 2 mutation\n* Status post neoadjuvant hormonal or chemotherapy\n* Invasive lobular histology\n* Pure ductal carcinoma in situ (DCIS)\n* Grade 3\n* Diffuse suspicious microcalcifications",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

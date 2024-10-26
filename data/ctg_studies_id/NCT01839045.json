@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01839045",
+    "briefTitle": "Breast Cancer Biomarker Sample Collection for the dtectDx Assay Verification",
+    "officialTitle": "Breast Cancer Biomarker Sample Collection for the DtectDx Assay Proof of Concept",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 350,
+    "primaryOutcomeMeasure": "Training",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult women from 25 years of age to below 50 years of age\n* Breast evaluation results of ACR BI-RADS\u00ae Category 3 or 4 by imaging and physicians clinical and radiological evaluation\n* Study visit and blood collection within 3 weeks (21 days) of ACR BI-RADS assessment\n* Patient agrees to return for diagnostic follow-up and blood collection at 6 months unless a positive cancer diagnosis is made between study visits 1 and 2. Individuals diagnosed with LCIS and DCIS will agree to return for visit 2\n* Samples collected under IRB approval and Informed Consent\n* Testing performed under IRB approval or waiver (as applicable)\n\nExclusion Criteria:\n\n* Adults from 50 years of age or older and below 25 years of age\n* Final breast evaluation results other than a ACR BI-RADS Category 3 or 4\n* Subjects that have had a breast biopsy performed at any time prior to the study visit\n* Samples not collected under IRB approval and Informed Consent\n* Testing not performed under IRB approval or waiver (as applicable)\n* Prior breast cancer diagnosis.",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT"
+}

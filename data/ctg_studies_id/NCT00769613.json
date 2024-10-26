@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00769613",
+    "briefTitle": "Emergency Use of Donor Lymphocytes in Treating Patients Who Have Undergone Donor Stem Cell Transplant and Have Cytomegalovirus Infections",
+    "officialTitle": "Emergency Access to C.V. pp65 / IE-1 Specific Cytotoxic T Lymphocytes for Recipients of Allogeneic Stem Cell Transplants With Persistant or Therapy Refractory Infections",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "N/A",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Safety",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Recipient of an allogeneic stem cell transplantation\n* Cytomegalovirus (CMV)-seropositive and meeting 1 of the following criteria:\n\n  * Patient has a history of CMV antigenemia for \u2265 2 weeks\n  * CMV DNA levels \u2265 600 copies/mcg of DNA despite antiviral therapy targeting CMV (e.g., ganciclovir or foscarnet)\n* No ongoing graft-vs-host disease\n* Has donor available for peripheral blood mononuclear cell collection (for cytotoxic T lymphocytes production), meeting either of the following criteria:\n\n  * CMV-seropositive donor (\u2265 2 years of age)\n  * CMV-seronegative related donor (\u2265 18 years of age) who consents to receive the CMV vaccine\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status (PS) 0-3 OR Lansky PS 50-100% (for patients \\< 16 years of age)\n* Bilirubin \\< 2.0 mg/dL\n* AST and ALT \\< 2.5 times normal\n* Creatinine clearance \u2265 30 mL/min\n* Pulse oximetry \u2265 94% on no more than 40% oxygen by face mask\n* Not moribund\n* No patients expected to survive \u2264 1 month after the T-cell infusion due to cardiac, pulmonary, renal, hepatic, or neurologic dysfunction\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* Must be on \u2264 1 mg/kg/day of prednisone or its equivalent at the time of study CTL infusion",
+    "sex": "ALL",
+    "minimumAge": "2 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

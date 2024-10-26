@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05084729",
+    "briefTitle": "CONFIDENCE Registry",
+    "officialTitle": "A Multi-Center InternatiONal Registry to Evaluate the Efficacy oF Imaging With Opto-acoustics to Diagnose BrEast CaNCEr",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Abnormality Diagnosis",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 165,
+    "primaryOutcomeMeasure": "Specificity, negative likelihood ratio, sensitivity and positive likelihood",
+    "eligibilityCriteria": "Inclusion Criteria - Subjects must meet all the following criteria to be included in the registry:\n\n1. Have been informed of the nature of the registry and provided written informed consent, prior to initiation of any registry activities,\n2. Are females 18 years of age or older at the time of consent,\n3. Have been referred for a breast US and are subject to treatment with the Imagio breast imaging system.\n\nExclusion Criteria - Aligned with the contraindications on the use of the device, subjects who meet any of the following criteria will be excluded from the registry:\n\n1. Are pregnant.\n2. Have open sores including insect bites, rash, poison ivy, and chafing on the skin of the ipsilateral breast.\n3. Are experiencing photo-toxicity associated with currently taking, or having taken, photosensitizing agents within the previous 72 hours such as sulfa, ampicillin, tetracycline.\n4. Are currently undergoing phototherapy.\n5. Have a history of any photosensitive disease (e.g., porphyria, lupus erythematosus).\n6. Are undergoing treatment for a photosensitive disease and is experiencing photosensitivity.\n7. Have previously participated in this registry,\n8. Are currently enrolled in another investigational study or registry that would directly interfere with the current registry.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

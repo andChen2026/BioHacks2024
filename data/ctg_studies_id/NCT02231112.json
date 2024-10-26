@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02231112",
+    "briefTitle": "Whole Breast RT on Prone Position in Korean Women",
+    "officialTitle": "Feasibility of Prone Position in Postoperative Whole Breast Radiation Therapy in Korean Breast Cancer Patient",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Irradiated cardiac dose",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathologically confirmed left breast cancer\n* 20 or older age\n* less than 70 years old\n* after curative resection\n* Eastern Cooperative Oncology Group performance status 0 to 1\n* Informed consent to this study\n* Consent to contraception for 6 months after RT completion\n\nExclusion Criteria:\n\n* Male breast cancer\n* Combined distant metastasis\n* Status of pregnant or brest feeding\n* Previous RT history of chest or neck area\n* Indication of supraclavicular RT\n* Not indicated postoperative whole breast RT",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

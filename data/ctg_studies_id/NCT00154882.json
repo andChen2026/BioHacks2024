@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00154882",
+    "briefTitle": "Paclitaxel (Phyxol) and Cisplatin as First-line Chemotherapy for Metastatic Breast Cancer",
+    "officialTitle": "Weekly Low-dose Paclitaxel (Phyxol) Plus 24-Hour Infusion of Cisplatin as First-line Chemotherapy for Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 43,
+    "primaryOutcomeMeasure": "The primary endpoint of this phase II trial is the objective response rate of the stage I (low-dose) regimen.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women with histologically proven breast cancer and clinical evidence of distant metastasis\n2. The index lesions should be at least 20 mm \u00d7 20 mm in size\n3. Age must be older than 18 and younger than 75 year-old\n4. Karnofsky performance status \\> 70%\n5. Adequate bone marrow reserves, defined as white blood cell (WBC) \\> 4,000, absolute neutrophil count (ANC) \\> 1,500, platelet \\> 100,000\n6. Liver transaminases \\< 3 times upper normal limit if no liver metastasis and 5 times upper normal limit if liver metastasis is present; total bilirubin \\< 2 mg/dl; serum creatinine \\< 1.5 mg/dl\n7. No prior chemotherapy for metastatic disease. Previous chemotherapy as adjuvant treatment is acceptable, if the adjuvant chemotherapy has been completed at least 6 months before entry into in this study\n8. If the patients have received hormonal therapy for metastatic disease, there must be definite evidence of disease progression under the hormonal therapy, and hormonal therapy should be discontinued before entry into this study\n9. Previous or concurrent radiotherapy is acceptable if the area of radiation does not involve the site of the index tumor lesions\n10. Patients of childbearing age should have effective contraception during the study period\n11. All patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional guidelines.\n\nExclusion Criteria:\n\n1. Patients who are receiving concurrent hormonal or cytotoxic therapy or other experimental therapy. Concurrent therapy with other biological agents, such as Trastuzumab (Herceptin), is not allowed\n2. Patients who refuse port-A catheter implantation\n3. Patients who have received taxane (paclitaxel or docetaxel) or cisplatin as adjuvant chemotherapy\n4. Patients with brain or leptomeningeal metastases\n5. Patients who have significant cardiac arrhythmia or acute myocardial infarction within 6 months before entry\n6. Patients who have major systemic diseases that the attending physicians considered inappropriate for systemic chemotherapy\n7. Life expectancy less than 2 months\n8. Pregnant or nursing patients may not participate. Patients with reproductive potential may not participate unless they have agreed to use an effective contraceptive method\n9. No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancers, in situ cervical cancer, adequately treated stage I or II cancer from which the patient is currently in complete remission, or any cancer from which the patient has been disease-free for 5 years",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

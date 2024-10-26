@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01532232",
+    "briefTitle": "Tobacco Dependence in Breast Cancer Patients Trial of Varenicline (Chantix)",
+    "officialTitle": "Treatment of Tobacco Dependence in Breast Cancer Patients: A Randomized Trial of Varenicline (Chantix)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Tobacco Dependence",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 7,
+    "primaryOutcomeMeasure": "effectiveness",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* MSK patients diagnosed with breast cancer or have a mass suspicious of breast cancer at the time of enrollment, as per clinician judgment or EMR;\n* Self-reported current cigarette smoker (defined as daily smoking in the past seven days)\n* Advised to quit smoking by their MSK physician and willing to receive smoking cessation counseling and treatment; as per self report\n* Fluent in English\n\nExclusion Criteria:\n\n* Patients less than 18 years of age because the safety and efficacy of varenicline have not yet been tested in children;\n* Evidence of any known or suspected medical contraindications for use of varenicline (e.g., recent (within past two months) cardiovascular instability (including myocardial infarction or unstable angina; uncontrolled hypertension, significant neurological sequelae of cerebrovascular disease, or severe congestive heart failure (New York Heart Association class III or IV), severe chronic obstructive pulmonary disease; uncontrolled gastrointestinal, hepatic, or endocrine disease; or severe renal impairment.\n* Self-reported evidence of significant psychiatric history (e.g., schizophrenia, unstable bipolar disorder, panic disorder, untreated major depression) sufficient, in the investigators' judgment, to preclude participation in the clinical trial;\n* Self-reported evidence of recent substance abuse or heavy alcohol use (\\> 14 drinks weekly) in the last 6 months;\n* Self-reported recent use (in the past 30 days) or planned use of nicotine replacement therapy (NRT) or other FDA approved cessation pharmacotherapy (bupropion);\n* Pre-menopausal women who are pregnant as per EMR\n* Women who are breast-feeding as per self-report.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

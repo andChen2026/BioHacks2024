@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00072865",
+    "briefTitle": "Pemetrexed and Carboplatin in Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "A Phase II Study of Alimta and Carboplatin in the Treatment of Patients With Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Neoplasm Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "antitumor activity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologic or cytologic diagnosis of locally advanced or metastatic breast cancer\n* No prior chemotherapy for locally advanced or metastatic breast disease.\n* Patient may have received prior adjuvant therapy finished greater than 1 year prior to enrollment.\n* Adequate bone marrow, liver and kidney function\n* RECIST criteria for disease status\n\nExclusion Criteria:\n\n* Prior treatment with pemetrexed\n* Pregnant or breast feeding\n* Brain Metastasis\n* unable or unwilling to take folic acid, vitamin B12 supplementation, or dexamethasone.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

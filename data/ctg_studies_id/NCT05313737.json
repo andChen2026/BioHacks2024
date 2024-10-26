@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05313737",
+    "briefTitle": "Opt-in vs. Opt-out for Breast Cancer Screening",
+    "officialTitle": "Opt-in vs. Opt-out Mammography Screening Outreach: a Randomized Controlled Trial",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 871,
+    "primaryOutcomeMeasure": "Percentage of mammograms completed at 100 days post randomization",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female Veterans aged 45-75\n* assigned to a primary care provider at the VA Puget Sound as of January 1, 2022 with at least 1 year of prior data available\n* due for breast cancer screening (have not had a mammogram in the last 12 months)\n\nExclusion Criteria:\n\n* must not be any indication of current receipt of hospice care\n* no record of recent death in the administrative data\n* not scheduled for either a screening or diagnostic mammogram within the following 12 weeks from assessment.\n* not have a personal history of bilateral mastectomy.",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

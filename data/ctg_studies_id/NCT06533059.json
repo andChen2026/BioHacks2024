@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06533059",
+    "briefTitle": "A Study to Learn About Study Medicine ALTA2618 in Adults With AKT1 E17K-Mutant Solid Tumors",
+    "officialTitle": "AKTive-001: A Phase 1/1b Multiple Cohort Trial of ALTA2618 in Patients With Advanced Solid Tumors With AKT1 E17K Mutation",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cancer, Breast Cancer, Endometrial Cancer, Metastatic Cancer, Advanced Solid Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 110,
+    "primaryOutcomeMeasure": "Adverse Events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of a solid tumor malignancy harboring AKT1 E17K mutation identified through molecular testing (NGS- or PCR-based) with a Clinical Laboratory Improvement Amendments-certified (or equivalent) diagnostic test.\n* Unresectable or metastatic disease\n* Progressed on, intolerant to, or declined prior standard-of-care therapy (including targeted therapy, if applicable) appropriate to tumor type and stage\n* Evaluable or measurable disease per RECIST v1.1\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Adequate organ function.\n\nExclusion Criteria:\n\n* Prior treatment with PI3K and/or mTOR inhibitors\n* Patients known to have KRAS, NRAS, HRAS, or BRAF genomic alterations in their tumor\n* Known condition that prohibits ability to swallow or absorb an oral medication\n\nOther inclusion/exclusion criteria may apply.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

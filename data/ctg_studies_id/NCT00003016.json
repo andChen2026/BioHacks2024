@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00003016",
+    "briefTitle": "Prolonged Tamoxifen Compared With Shorter Tamoxifen in Treating Patients Who Have Breast Cancer",
+    "officialTitle": "Reliable Assessment of the Efficacy and Safety of Prolonging the Use of Adjuvant Tamoxifen: A Large, Simple, Randomised Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20000,
+    "primaryOutcomeMeasure": "Overall survival (i.e., all-cause mortality)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Curatively treated carcinoma of the breast\n* Currently taking adjuvant tamoxifen\n\n  * Must be substantial uncertainty as to whether or not to continue tamoxifen (i.e., no clear indication or definite contraindication to further treatment with tamoxifen)\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* Any age\n\nPerformance status:\n\n* Not specified\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* Not specified\n\nHepatic:\n\n* Not specified\n\nRenal:\n\n* Not specified\n\nOther:\n\n* Not pregnant or nursing\n* No contraindications to receiving tamoxifen\n* No other serious medical problems\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Prior biologic therapy allowed\n\nChemotherapy:\n\n* Prior chemotherapy allowed\n\nEndocrine therapy:\n\n* See Disease Characteristics\n\nRadiotherapy:\n\n* Prior radiotherapy allowed\n\nSurgery:\n\n* Prior surgery allowed",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00148707",
+    "briefTitle": "Study of Xyotax (CT-2103) in Patients With Metastatic Breast Cancer",
+    "officialTitle": "Phase II Study of CT-2103 in Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "To evaluate the response to CT02103 as first or second-line treatment in patients with metastatic breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed diagnosis of invasive breast cancer, Stage IV disease\n* Age greater than 18 years\n* At least one measurable target lesion as defined by RECIST that has not been previously treated with local therapy\n* HER2-negative breast cancer\n* Up to one prior chemotherapy for advanced or metastatic disease\n* ECOG performance status 0-1\n* Life expectancy \\> 12 weeks\n* Adequate liver and bone marrow function: AST \\< 2.5 x ULN; Bilirubin \\< 1.5 x ULN; ANC \\> 1,500/ul; platelet count \\> 100,000/ul; normal PT and PTT\n* At least 2 weeks since prior radiation and recovered from treatment-related toxicity\n\nExclusion Criteria:\n\n* Prior taxanes for treatment of metastatic disease\n* Pregnant of breast-feeding women\n* HER2-positive breast cancer\n* More than 1 prior chemotherapy regimen for metastatic disease\n* Untreated brain metastases\n* Concurrent radiotherapy or investigational drug\n* Prior bone marrow or stem cell transplant\n* History of other malignancy within the last 5 years, not including curatively-treated carcinoma in situ of the cervix or non-melanoma skin cancer\n* Uncontrolled infection\n* Active bleeding, or history of bleeding requiring transfusion\n* Active cardiac disease\n* Serious medical or psychiatric illness",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

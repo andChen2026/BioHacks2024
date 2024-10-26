@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00169104",
+    "briefTitle": "Effects of Granulocyte Colony-stimulating Factor (G-CSF), Trastuzumab, and Vinorelbine on Immune Cell Function",
+    "officialTitle": "A Phase II Trial of Trastuzumab, Neupogen, and Vinorelbine Investigating the Effects on Immune Function and Clinical Outcomes in Patients With Metastatic Breast Cancer Overexpressing Her-2/Neu",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 23,
+    "primaryOutcomeMeasure": "Antibody Dependent Cell-mediated Cytotoxicity of Effector Cells Isolated From Subjects Receiving Trastuzumab With Either G-CSF or a Saline Placebo Against a Her-2 Overexpressing Target in Vitro",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All patients must have pathological confirmation of carcinoma of the breast.\n* Patients must have metastatic breast cancer by documented clinical or radiological assessment.\n* Immunohistochemical analysis of HER-2/neu expression on paraffin-embedded specimens will be performed. HER-2/neu overexpression will be qualitatively scored as 0, 1+, 2+, or 3+, with 3+ indicating the strongest positivity. Fluorescence In Situ Hybridization (FISH) analyses will also be performed on these patients. Patients with 2+ to 3+ overexpression of HER-2/neu (membranous staining) are eligible, regardless of the results of the FISH analysis.\n* Age \u226518 years.\n* Karnofsky performance status \u2265 60%.\n* Adequate hepatic, renal, and hematologic function.\n* Prior treatment with trastuzumab will be allowed.\n* All patients must have adequate cardiac function (defined as left ventricular ejection fraction \u2265 45%) documented by echocardiogram or MUGA scan.\n* Premenopausal women will be required to have a negative urine or serum pregnancy test and to use an effective form of contraception.\n* Patients with a history of brain metastases are permitted as long as it has been at least 30 days since definitive treatment, they are clinically stable and a magnetic resonance imaging scan of the brain demonstrates control of the lesion(s).\n* All patients must give written informed consent indicating they are aware of the investigational nature of this treatment, as well as the risks and benefits of this protocol.\n\nExclusion Criteria:\n\n* No treatment with chemotherapy or trastuzumab will be allowed within four weeks of study entry.\n* Prior therapy with vinorelbine.\n* Known history of hypersensitivity to trastuzumab, Chinese hamster ovary (CHO) cell proteins, or any component of these products.\n* History of current unstable angina, symptomatic congestive heart failure, or myocardial infarction within the last 6 months.\n* Pregnant women are excluded.\n* History of a known hypersensitivity to E. coli-derived proteins, filgrastim, or any component of the product.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01956409",
+    "briefTitle": "Proton MR Spectroscopy and 18F-Fluorocholine PET for Breast Cancer Diagnosis",
+    "officialTitle": "Use of Proton MR Spectroscopy and 18F-Fluorocholine PET for Breast Cancer Diagnosis, Prediction of Clinical Outcome and Monitoring of Treatment Response to Neoadjuvant Chemotherapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Diagnosis, Positron Emission Tomography, Magnetic Resonance Imaging",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "diagnostic accuracy of 18F-FCH PET for breast cancer diagnosis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 20-75 years old.\n* with localized findings on mammography or breast ultrasound in recent 3 months and who will receive breast biopsy or excision for the findings; or with recently diagnosed LABC who will receive NAC.\n\nExclusion Criteria:\n\n* unable to cooperate with the examinations\n* pregnant or planning to be pregnant\n* estimated GFR (eGFR) \\< 60 ml/min/1.73m2 or with recent acute renal failure, past history of renal dialysis.\n* Past history of claustrophobia\n* Past history of anaphylactoid reactions to MRI contrast agents or PET tracer agents.\n* with cardiac pacemaker, aneurysmal clip, mechanical valve replacement, recently applied coronary artery stent (\\<2 months).\n* Past history of breast cancer or other malignancy (treated within 5 years).\n* lactating.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

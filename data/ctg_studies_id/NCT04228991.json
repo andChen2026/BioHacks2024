@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04228991",
+    "briefTitle": "Hypofractionated LocoRegional Radiotherapy in Breast Cancer",
+    "officialTitle": "Randomized Trial of Hypofractionated LocoRegional Radiotherapy in Breast Cancer and Lymphedema (RHEAL)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Neoplasms, Radiotherapy, Lymphedema",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 588,
+    "primaryOutcomeMeasure": "Lymphedema",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Newly diagnosed invasive carcinoma of the breast.\n2. Treated with definitive surgery (BCS or mastectomy with nodal staging using SLNB or ALND) with clear margins of excision.\\* Note: \\*Patients with limited positive posterior margin where disease is resected to chest wall or limited positive anterior margin where disease is resected to dermis are eligible.\n3. Candidate for locoregional radiotherapy: breast cancer stage after definitive surgery:\n\n   * Neoadjuvant chemotherapy was not administered: pathologic stage T3N0,T1-3 N1-2\\*\\*\n\n     \\*\\* patients with nodal micromets (N1mi) are eligible\n   * Neoadjuvant chemotherapy was administered: clinical stage T3N0, T1-3, N1-2 and pathologic stage T0-3, N0-2\u2020\n\n     * Patients who are clinically N1-2 prior to chemotherapy should be confirmed histologically unless it is clear that they are node positive. Patients who are deemed node negative prior to chemotherapy but are node positive following chemotherapy are eligible. Patients who are node positive prior to chemotherapy and who have complete response in the lymph nodes are also eligible.\n4. No evidence of metastatic disease.\n\nExclusion Criteria:\n\n1. Age \\< 18 years.\n2. Clinical stages T4 and/or N3.\n3. Clinical lymphedema in the ipsilateral arm or breast/chest wall.\n4. Any prior history, not including index cancer, of ipsilateral invasive breast cancer or ipsilateral DCIS treated with radiation therapy. (Patients with previous ipsilateral DCIS or LCIS not treated with radiation are eligible.)\n5. Synchronous or previous contralateral breast cancer.(Patients with previous contralateral DCIS or LCIS not treated with radiation are eligible.)\n6. History of non-breast malignancy within the last 5 years other than non-melanoma skin cancer or treated in-situ carcinoma.\n7. Neoadjuvant endocrine therapy. (Extended neoadjuvant endocrine therapy is not permitted. Endocrine therapy exposure for 12 weeks or less prior to surgery is acceptable.)\n8. Breast reconstruction.\n9. Presence of known medical conditions that would preclude follow-up for 5 years.\n10. Previous radiotherapy to the ipsilateral breast or chest wall or serious non-malignant disease e.g. scleroderma, severe lung or heart disease that would preclude radiotherapy.\n11. Known pregnancy or currently lactating.\n12. Geographic inaccessibility for follow-up.\n13. Inability to provide informed consent.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

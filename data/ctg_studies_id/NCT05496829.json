@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05496829",
+    "briefTitle": "IMPACT Trial: Intervention to iMProve AdherenCe Equitably",
+    "officialTitle": "IMPACT Trial: Intervention to iMProve AdherenCe Equitably",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 350,
+    "primaryOutcomeMeasure": "Number of Participants Adherent to Endocrine Therapy (ET) and CVD Medication at 24 Weeks",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women or men age \\>18 years\n* Diagnosed with stage I-III breast cancer prescribed endocrine therapy\n* Within 3-years of the end of early active treatment (e.g., surgery, chemotherapy not including human epidermal growth factor receptor 2 (HER2)-directed therapy, radiation)\n* Patients must be prescribed at least 1 antihypertensive or statin medication for CVD prevention\n* Self-report of at least some nonadherence ET or CVD medication on DOSE-Nonadherence Extent of Nonadherence questionnaire\n\nExclusion Criteria:\n\n* Evidence of breast cancer recurrence\n* Non-English or Non-Spanish speaking\n* Not cognitively able to complete study requirements\n* Do not follow with either a primary care provider or cardiologist within the New York Presbyterian Health system's Epic EHR\n* Inability to provide informed consent",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

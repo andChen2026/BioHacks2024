@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02544945",
+    "briefTitle": "Comparing 3-D Printed vs Standard Bolus for Breast Cancer Chest Wall Radiotherapy",
+    "officialTitle": "Comparing 3-D Printed vs Standard Bolus for Breast Cancer Chest Wall Radiotherapy: A Feasibility Study Measuring Bolus Spatial Accuracy, Dosimetric Accuracy and Treatment Set-up Time",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 16,
+    "primaryOutcomeMeasure": "Air gap under bolus",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women undergoing radiotherapy to the chest wall for the treatment of breast cancer with radical intent.\n\nExclusion Criteria:\n\n* Patients in whom the Radiation Oncologist plans to either omit bolus for more than half of the treatments (rarely happens).\n* Patients undergoing a non-standard chest-wall technique (eg. VMAT)\n* Pregnant or plans to get pregnant during radiotherapy\n* Inability to obtain informed consent or adhere to the protocol",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

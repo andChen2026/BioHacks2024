@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02865304",
+    "briefTitle": "The Efficacy and Safety of Endostar Combined With Taxane-based Regimens for HER-2-negative MBC Patients",
+    "officialTitle": "The Efficacy and Safety of Endostar Combined With Taxane-based Regimens for HER-2-negative Metastatic Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Angiogenesis, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "overall response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women with ages between 18-70 years with histologically confirmed MBC documented as HER-2-negative\n\nExclusion Criteria:\n\n* cannot tolerated chemotherapy\n* cardiac insufficiency",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03213925",
+    "briefTitle": "Neoadjuvant Chemotherapy Followed by Radiotherapy Alone in Patients With Breast Cancer",
+    "officialTitle": "Neoadjuvant Chemotherapy Followed by Radiotherapy Alone in Patients With Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Radiation Therapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "Ipsilateral breast tumor recurrence (IBTR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 40 years or older\n* Pathologically confirmed unicentric invasive breast cancer\n* Clinical stage T1-3 / N0 or N2 / M0\n* Clinical conditions to receive neoadjuvant chemotherapy\n\nExclusion Criteria:\n\n* Prior diagnosis of cancer (exception: in situ cervical tumor and non-melanoma skin)\n* Patient is known to be pregnant\n* Prior history of radiation therapy in the thoracic region\n* Impossibility to perform magnetic resonance imaging",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00128778",
+    "briefTitle": "Maintenance Treatment With Liposomal Doxorubicin (Caelyx) in Metastatic Breast Cancer Patients",
+    "officialTitle": "Phase IV.III Clinical Trial to Evaluate Maintenance Treatment With Caelyx vs. Observation After Administration of Induction Chemotherapy in Metastatic Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 288,
+    "primaryOutcomeMeasure": "Time to progression (TTP)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent.\n* Patients with metastatic breast cancer who have responded to a first line induction chemotherapy treatment.\n* Age: at least 18 years old.\n* Performance status Eastern Cooperative Oncology Group (ECOG) scale 0, 1, 2.\n* Normal cardiac function, confirmed by left ventricular ejection fraction (LVEF).\n* Hematology: leucocytes \\>= 4 x 10\\^9/l; neutrophils \\>= 2.0 x 10\\^9/l; platelets \\>= 100 x 10\\^9/l; hemoglobin \\<= 10 g/dl.\n* Hepatic function: total bilirubin \\< 1 upper limit of normal (UNL); aspartate aminotransferase (ASAT) (SGOT) and alanine aminotransferase (ALAT) (SGPT) \\< 2.5 UNL; alkaline phosphatase \\< 5 UNL. Patients with ASAT (SGOT) and ALAT (SGPT) \\> 1.5 UNL and alkaline phosphatase \\> 2.5 UNL are not eligible.\n* Renal function: creatinine \\< 175 mmol/l (2 mg/dl); creatinine clearance \\> 45 ml/min.\n\nExclusion Criteria:\n\n* Pregnant or lactating patients.\n* Previous cardiac dysfunction grade II or higher as per New York Heart Association, along with congestive cardiac failure.\n* Hypersensitivity to anthracyclines or Cremophor\u00ae.\n* Clinically significant hepatic dysfunction.\n* Current uncontrolled infection.\n* Mental confusion and lack of orientation.\n* Any circumstance precluding an adequate follow-up.\n* Radiotherapy in the previous 4 weeks.\n* Any other concurrent neoplasm, except for basal cell carcinoma or in situ carcinoma.\n* Symptomatic metastasis in the brain.\n* Previous radiotherapy radiating a third of haematopoietic centres.\n* Males.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04164251",
+    "briefTitle": "Inpatient Screening Mammography for Non-adherent and High Risk Women",
+    "officialTitle": "Inpatient Screening Mammography for Non-adherent and High Risk Women",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 101,
+    "primaryOutcomeMeasure": "Proportion of women who underwent a screening mammography during hospitalization",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women between 50 and 74 years of age who were non-adherent to breast screening guidelines\n\nExclusion Criteria:\n\n* Patients with a history of breast cancer or mastectomy\n* history of other cancers (except skin)\n* serious comorbidities making patient's life expectancy \\<10 years",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

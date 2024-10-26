@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02338804",
+    "briefTitle": "Safety and Efficacy Study of Mix Vaccine in Breast Carcinoma Patient",
+    "officialTitle": "Safety Issue and Efficacy Study of Combining Mix Vaccine and Standard Therapy in the Treatment of Breast Carcinoma Patient",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "efficacy as measured by modified Response Evaluation Criteria In Solid Tumors (RECIST) criteria version 1.1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 1.Patients diagnosed with breast carcinoma based on histology\n* 2.Evaluable lesions on imaging study\n* 3.Without known immunodeficiency\n* 4.Age \\>18 and \\<80 years ago\n\nExclusion Criteria:\n\n* 1.Patients is unable or unwilling to sign informed consent\n* 2.Any autoimmune disorder, which is currently being treated with prednisone or any other immune suppressive medication\n* 3.Positive HIV and/or RPR (rapid plasma reagin)\n* 4.Female patient who is pregnant or breast feeding\n* 5.Patients, based on the opinion pf the investigator, should not be enrolled into this study\n* 6.Prior anti-cancer vaccine or biological immunotherapy\n* 7.Allergic to any known ingredient of the MV compound",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

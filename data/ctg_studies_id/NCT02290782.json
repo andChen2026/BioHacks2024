@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02290782",
+    "briefTitle": "TARGIT-C(Consolidation) Prospective Phase IV Study of IORT in Patients With Small Breast Cancer",
+    "officialTitle": "TARGIT-C(Consolidation) Prospective Phase IV Study of Intraoperative Radiotherapy (IORT) in Patients With Small Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 387,
+    "primaryOutcomeMeasure": "Local relapse",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histologically verified invasive-ductal breast cancer\n* hormone receptor positive (if known)\n* cT1 or small cT2 (\u2264 3.5 cm) cN0 cM0\n* \u2265 50 years of age\n* informed consent\n* compliance\n\nExclusion Criteria:\n\n* extensive intraductal component (EIC)\n* negative hormone receptor status\n* multifocality /-centricity (mammography, breast ultrasound)\n* lymph vessel invasion (L1)\n* clinical signs of distant metastases or clinically suspicious lymph nodes\n* other histology\n* \\< 50 years\n* missing informed consent or non-compliance\n* bilateral breast cancer at the time of diagnosis\n* known BCRA1/2 gene mutations (genetic testing not required)\n* any exclusion criterion in the local centre\u00b4s treatment policy",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

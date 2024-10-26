@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02244593",
+    "briefTitle": "FAST MRI Study in Breast Cancer Survivors",
+    "officialTitle": "FAST MRI Study in Breast Cancer Survivors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 202,
+    "primaryOutcomeMeasure": "The percentage of patients with reduced anxiety as a result of having a FAST MRI",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* English or French speaking female patients over the age of 18 years, with a personal history of a diagnosis of breast carcinoma (including ductal carcinoma in situ (DCIS) and invasive ductal or lobular carcinoma) within the past 10 years.\n* Patients must have completed treatment for their breast cancer.\n* Moderate risk for recurrence of breast cancer, defined as lifetime risk of breast cancer greater than 12% (average risk) and less than 25% (high risk) as defined using the Breast and Ovarian Analysis of Disease Incidence and Carrier Estimation Algorithm (BOADICEA) model (see Appendix A)\n* Patients who have undergone unilateral mastectomy or breast conservation surgery.\n* Normal renal function: estimated glomerular filtration rate (eGFR) \\> 30 ml/min/m2\n\nExclusion Criteria:\n\n* Patients unable to undergo an MRI, due to either physical or mental issues (i.e.: anxiety or severe claustrophobia). Also, patient with a known allergy to gadolinium, or severe renal failure will be excluded.\n* Pregnant or breastfeeding patients.\n* Patients who have had a breast MRI within the last 6 months.\n* Patients already receiving high-risk breast MRI screening, such as the Ontario Breast Screening Program (OBSP) high-risk program and the Women's Breast Health Center (WBHC) high-risk program.\n* Patients who have undergone bilateral mastectomies.\n* Poor renal function: estimated glomerular filtration rate (eGFR) \\< 30 ml/min/m2",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02416427",
+    "briefTitle": "Targeting the Hippo Transducer TAZ in Breast Cancer With Statins",
+    "officialTitle": "A Phase II, Randomized, Non-comparative, Pre-surgical Study of Atorvastatin or Observation in Ki-67 Positive, TAZ-expressing Early Breast Cancer Patients (TRINACRIA Trial)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 78,
+    "primaryOutcomeMeasure": "Ki-67 reduction below the 15% (marker response).",
+    "eligibilityCriteria": "Inclusion:\n\n* Signed written informed consent\n* Female aged \\>18 years and \\<75 years at the time of the enrolment\n* Histologically confirmed Breast Cancer (BC) independently on the intrinsic subtype\n* Stage I-IIa BC patients candidate for elective surgery\n* BC expressing Ki-67 \u2265 15% and TAZ \\> 10% in diagnostic core biopsies\n* Adequate baseline organ function\n* Negative pregnancy test\n\nExclusion:\n\n* Previous systemic therapy including chemotherapy, hormone therapy and targeted agents\n* Administration of an investigational drug prior to enrolment\n* History of another malignancy, except for a history of completely resected non-melanoma skin cancer or successfully treated cervical in situ carcinoma\n* Eastern Cooperative Oncology Group (ECOG) performance status \u22652\n* Subjects who have current active hepatic or biliary disease (with exception of patients with Gilbert's syndrome and asymptomatic gallstones)\n* Serious cardiac illness or medical conditions including but not confined to: history of documented congestive heart failure (CHF) or systolic dysfunction (LVEF \\<50%); high-risk uncontrolled arrhythmias (ventricular tachycardia, high-grade AV-block, supraventricular arrhythmias which are not adequately controlled); angina pectoris requiring antianginal medication; clinically significant valvular heart disease; evidence of transmural infarction on ECG; poorly controlled hypertension (e.g. systolic \\>180mm Hg or diastolic \\>100mm Hg)\n* Have a concurrent disease or condition that may interfere with study participation, or any serious medical disorder that would interfere with the subject's safety (for example, active or uncontrolled infection or any psychiatric condition prohibiting understanding or rendering of informed consent)\n* Current or recent therapy with statins for hypercholesterolemia or other lipid-lowering drugs\n* Current or recent therapy with glucose-lowering drugs for diabetes\n* Current or recent therapy with strong CYP3A4 inhibitors (e.g., clarithromycin, HIV protease inhibitors, itraconazole) given potential interactions with atorvastatin\n* Current or recent therapy with gemfibrozil or other fibrates given potential interactions with atorvastatin.\n* Patients who are pregnant or breastfeeding",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

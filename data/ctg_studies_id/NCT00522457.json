@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00522457",
+    "briefTitle": "Phase II Study With the Trifunctional Antibody Ertumaxomab to Treat Metastatic Breast Cancer After Progression on Trastuzumab Therapy",
+    "officialTitle": "Phase II Study Of The Trifunctional Bispecific Anti-HER-2/Neu x Anti-CD3 Antibody Ertumaxomab In Patients With HER-2/Neu Overexpressing (3+ Or 2+/FISH+) Metastatic Breast Cancer Progressing After Trastuzumab Treatment",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer, Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 19,
+    "primaryOutcomeMeasure": "Clinical Efficacy Measured by Objective Response Rate (Best Response During the Course of the Study)",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Women \u2265 18 years, Negative pregnancy test at screening and life expectancy of at least 3 months\n* metastatic (stage IV) and not curable adenocarcinoma of the breast\n* Measurable disease, defined as at least one lesion that is measurable in one dimension (RECIST)\n* HER-2 overexpression 3+ or 2+ FISH positive\n* Patients must have received one prior therapy with trastuzumab as last treatment before entry into the study. If trastuzumab was given as single agent treatment, patients must have received prior chemotherapy for metastatic disease\n* Trastuzumab has been discontinued before study entry\n* disease had progressed during or after trastuzumab therapy\n* Eastern Cooperative Oncology Group (ECOG)performance score of \u2264 2\n* Adequate hematological, liver and kidney function\n\nKey Exclusion Criteria:\n\n* Women who are pregnant or breast feeding\n* Any history or symptoms indicative of brain or central nervous system metastases\n* Prior diagnosis of any malignancy not cured by surgery alone less than 5 years before study entry (except in situ carcinoma of the cervix or adequately treated basal cell carcinoma of the skin)\n* Human anti-murine antibody positive or hypersensitivity to murine proteins and any other component of the study drug\n* Known autoimmune diseases, Human immunodeficiency virus (HIV), hepatitis B or C infection as well as other acute or chronic infection or other concurrent non-malignant co-morbidities that are uncontrolled\n* Any concurrent chemotherapy, hormonal therapy, immunotherapy or corticoid therapy\n* Concurrent antibiotic treatment\n* Any concurrent investigational treatment for metastatic disease\n\nCardiovascular exclusion criteria:\n\n* Unstable or uncontrolled pectorial angina\n* Myocardial infarction during the last 6 months\n* Valvular heart disease that requires treatment\n* Cardiomyopathy (congestive, hypertrophic or restrictive)\n* Acute myocarditis\n* Congestive heart failure (CHF): dyspnea, clinically or radiologically diagnosed\n* Left ventricular ejection fraction (LVEF)outside institution's normal range based on echocardiography at rest\n* Left ventricular diameter \\> 56 mm based on M-mode echocardiography at rest\n* Arrhythmias that require treatment (atrioventricular block II/III degree, atrial fibrillation, ventricular tachycardia)\n* Poorly or uncontrolled hypertension, asthma, seizures, allergies, pulmonary dysfunction",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

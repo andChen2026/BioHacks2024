@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02499367",
+    "briefTitle": "Nivolumab After Induction Treatment in Triple-negative Breast Cancer (TNBC) Patients",
+    "officialTitle": "Adaptive Phase II Randomized Non-comparative Trial of Nivolumab After Induction Treatment in Triple-negative Breast Cancer (TNBC) Patients: TONIC-trial",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 84,
+    "primaryOutcomeMeasure": "Progression free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Metastatic triple negative breast cancer with confirmation of Estrogen Receptor (ER) and HER2 negativity on a histological biopsy of a metastatic lesion\n* 18 years or older\n* Metastatic lesion accessible for histological biopsy (Mandatory biopsies: pre-induction treatment, post-induction treatment, 6-weeks. Optional biopsies: 12-weeks, at progression, of irradiated site). The pre-induction treatment biopsy has to contain sufficient tumor content (\u2265100 tumor cells); subjects with samples that have insufficient tumor content will require re-biopsy prior to induction treatment. Interval between last treatment and pre-induction biopsy has to be at least 14 days\n* One, two or three line(s) of chemotherapy for metastatic disease and with progression of disease on last treatment regimen\n* Evaluable disease according to RECIST 1.1\n* Metastatic lesion accessible for radiation with 1x20 Gray or 3x8 Gray\n* Subjects with brain metastases are eligible if these are not symptomatic. Subjects who received prior treatment for brain metastases should be free of progression on magnetic resonance imaging (MRI) for at least 4 weeks after treatment is completed and prior to first dose of study drug administration. There must also be no requirement for immunosuppressive doses of systemic corticosteroids (\\> 10 mg/day prednisone equivalents) for at least 2 weeks prior to study drug administration.\n* WHO performance status of 0 or 1\n* Adequate bone marrow function\n* Adequate hepatic function\n* Adequate renal function\n* Signed written informed consent\n\nExclusion Criteria:\n\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris.\n* known history of leptomeningeal disease localization\n* history of having received other anticancer therapies within 2 weeks of start of the study drug\n* history of immunodeficiency, autoimmune disease, conditions requiring immunosuppression (\\>10 mgl daily prednisone equivalents) or chronic infections.\n* prior treatment with an anti-PD-1, anti-PD-L1, anti-PD-L2, or anti-CTLA-4 antibody\n* live vaccine within 30 days of planned start of study therapy.\n* active other cancer\n* positive test for hepatitis B surface virus surface antigen (HBsAg) or hepatitis\n* history of uncontrolled serious medical or psychiatric illness\n* any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule\n* current pregnancy or breastfeeding.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

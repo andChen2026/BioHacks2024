@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05654623",
+    "briefTitle": "A Study to Learn About a New Medicine Called Vepdegestrant (ARV-471, PF-07850327) in People Who Have Advanced Metastatic Breast Cancer",
+    "officialTitle": "A PHASE 3, RANDOMIZED, OPEN-LABEL, MULTICENTER TRIAL OF ARV-471 (PF-07850327) VS FULVESTRANT IN PARTICIPANTS WITH ESTROGEN RECEPTOR-POSITIVE, HER2-NEGATIVE ADVANCED BREAST CANCER WHOSE DISEASE PROGRESSED AFTER PRIOR ENDOCRINE BASED TREATMENT FOR ADVANCED DISEASE (VERITAC-2)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 560,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult participants with loco-regional recurrent or metastatic breast disease not amenable to surgical resection or radiation therapy\n* Confirmed diagnosis of ER+/HER2- breast cancer\n* Prior therapies for locoregional recurrent or metastatic disease must fulfill all the following criteria:\n* One line of CDK4/6 inhibitor therapy in combination with endocrine therapy. Only one line of CDK4/6 inhibitor is allowed in any setting.\n* \u2264 1 endocrine therapy in addition to CDK4/6 inhibitor with ET\n* Most recent endocrine treatment duration must have been given for \u22656 months prior to disease progression. This may be the endocrine treatment component of the CDK4/6 inhibitor line of therapy.\n* Radiological progression during or after the last line of therapy.\n* Measurable disease evaluable per Response Evaluation Criterion in Solid Tumors (RECIST) v.1.1 or non-measurable bone-only disease\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n* Participants should be willing to provide blood and tumor tissue\n\nExclusion Criteria:\n\n* Participants with advanced, symptomatic visceral spread, that are at risk of life-threatening complications in the short term\n* Prior treatment with:\n* ARV-471, fulvestrant, elacestrant, mTOR, PI3K, AKT pathway inhibitors, PARP inhibitor for any setting\n* other investigational agents (including novel endocrine therapy any SERDs, SERCAs, CERANs) for any setting\n* prior chemotherapy for advanced/metastatic disease\n* Inadequate liver, kidney and bone marrow function\n* Active brain metastases\n* Participants with significant concomitant illness",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05406661",
+    "briefTitle": "Registry of Local Recurrences After Breast-conserving Surgery",
+    "officialTitle": "Registry of Local Recurrences After Breast-conserving Surgery in Portugal and Spain",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer Recurrent",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 3000,
+    "primaryOutcomeMeasure": "Determine prevalence of local recorrence of breast cancer after conserving surgery in Portugal and Spain",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patients\n2. Age \\> 18 years\n3. Patients who have previously undergone breast-conserving surgery as part of the treatment of invasive or non-invasive (in situ) breast cancer\n\n   1. and adjuvant breast RT: total (WBI) or partial (PBI)\n   2. without adjuvant radiotherapy to the breast\n4. Recent histological diagnosis of homolateral, invasive or non-invasive (in situ) breast carcinoma\n\nExclusion Criteria:\n\n1. Male\n2. Age \\< 18 years\n3. Stage 4 at diagnosis\n4. Patients operated outside the participating Centers and for whom it is not possible to obtain complete information regarding the primary treatment\n5. History of other primary invasive malignant tumor (except non-melanoma skin carcinomas)\n6. Patients already treated for another local recurrence of breast carcinoma\n7. Absence of clinical follow-up and records in clinical process",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

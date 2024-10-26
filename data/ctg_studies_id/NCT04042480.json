@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04042480",
+    "briefTitle": "A Study of SGN-CD228A in Advanced Solid Tumors",
+    "officialTitle": "A Phase 1 Study of SGN-CD228A in Select Advanced Solid Tumors",
+    "overallStatus": "TERMINATED",
+    "conditions": "Cutaneous Melanoma, Pleural Mesothelioma, HER2 Negative Breast Neoplasms, Non-small Cell Lung Cancer, Colorectal Cancer, Pancreatic Ductal Adenocarcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 88,
+    "primaryOutcomeMeasure": "Number of participants with adverse events",
+    "eligibilityCriteria": "Inclusion Criteria\n\n* Metastatic or unresectable solid malignancy that is histologically or cytologically confirmed to be one of the tumor types listed below. Participants must have relapsed, refractory, or progressive disease (PD) and should have no appropriate standard therapy available. Disease-specific escalation/expansion includes the following tumor types.\n\n  * Metastatic cutaneous melanoma(MCM):\n\n    * Metastatic or advanced cutaneous melanoma, excludes acral or mucosal varieties.\n    * Participants must have received at least 1 PD-1-targeted therapy unless contraindicated.\n    * Participants with targetable mutations should have received at least 1 therapy targeting that mutation unless contraindicated.\n  * Malignant pleural mesothelioma (MPM):\n\n    * Participants must have received cisplatin and pemetrexed unless contraindicated.\n  * Advanced HER2-negative breast cancer:\n\n    * Participants must have received 1 or more prior lines of therapy for locally advanced or metastatic disease. Prior therapies must include taxane.\n    * Hormone-receptor-positive subjects should have received CDK4/6 inhibitor therapy and have received at least 1 prior hormonally-directed therapy, unless contraindicated.\n  * Advanced non-small cell lung cancer (NSCLC):\n\n    * Participants must have locally advanced or metastatic EGFR wild-type NSCLC.\n    * Participants must have received platinum-based therapy and at least 1 PD-1- or PD-L1-targeted therapy as a single agent or as part of a combination unless contraindicated.\n  * Advanced colorectal cancer:\n\n    * Participants must have received 2 or more prior lines of therapy for locally advanced or metastatic disease, including targeted therapies as appropriate.\n  * Advanced pancreatic ductal adenocarcinoma (PDAC):\n\n    * Participants must have unresectable or advanced PDAC.\n    * Participants must have received 1 or more prior line of therapy for locally advanced or metastatic disease unless contraindicated.\n* Participants should be able to provide adequate tumor tissue for biomarker analysis\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1\n* Measurable disease per Response Evaluation Criteria for Solid Tumors version 1.1 (RECIST v1.1)\n\nExclusion Criteria\n\n* History of another malignancy within 3 years before the first dose of study drug, or any evidence of residual disease from a previously diagnosed malignancy. Exceptions are malignancies with a negligible risk of metastasis or death.\n* Pre-existing neuropathy Grade 2 or greater\n* Retinal or macular disease requiring treatment or ongoing active monitoring\n* Prior receipt of SGN-CD228A or MMAE-containing agents",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

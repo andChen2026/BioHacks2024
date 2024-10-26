@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01763710",
+    "briefTitle": "Neurotoxicity Characterization Study of Nab-paclitaxel Versus Conventional Paclitaxel in Metastatic Breast Cancer",
+    "officialTitle": "Neurotoxicity Characterization Phase II Randomized Study of Nab-paclitaxel Versus Conventional Paclitaxel as First-line Therapy of Metastatic HER2-negative Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "TNS - Total Neuropathy Score",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women with histologically or cytologically of stage IV breast cancer.\n2. Non-candidate patient to trastuzumab or lapatinib treatment as not presenting HER2 oncogene amplification.\n3. Metastatic disease not previously treated with chemotherapy. It is allowed pre-treatment hormone with anti-target or bisphosphonates for advanced disease.\n4. Measurable or evaluable disease by RECIST criteria.\n5. Previous sensory neuropathy \\<= grade 1, according to NCI-CTCAE criteria, due to any reason.\n6. Age\\> 18 years.\n7. Performance status \\<2 (ECOG).\n8. At least 12 months after the completion of adjuvant chemotherapy with taxanes to diagnosis of metastatic disease.\n9. Creatinine \\<= 1.5mg/dL, AST (SGOT), ALT (SGPT) and alkaline phosphatase \\<= 2.5 x ULN (hepatic metastases absent) in the 14 days prior to study entry.\n10. Hemoglobin\\> 10g/dl, WBC\\> 3000/mm3, platelets\\> 100000/mm3 and bilirubin \\<1.5 mg / dL in the 14 days prior to study entry.\n11. Women of childbearing potential with negative pregnancy test within 14 days prior to study treatment.\n12. Patients using adequate contraception throughout the entire duration of the study and until 4 weeks after completion of treatment.\n13. At least 4 weeks after radiotherapy or major surgery, with complete recovery.\n14. Life expectancy greater than 12 weeks.\n15. Patients who are able to meet the requirements of the protocol.\n16. Patients able to provide with two plasma samples (each sample 5cc) for analyzing polymorphisms.\n17. Written informed consent.\n\nExclusion Criteria:\n\n1. Prior chemotherapy treatment for metastatic disease.\n2. Brain metastases.\n3. Concomitant treatment with hormone therapy or immunotherapy for breast cancer, or during the two weeks prior to inclusion in the study.\n4. Any concomitant medical or psychiatric illness including active infection.\n5. History of any malignancy other than breast cancer in the past 5 years except carcinoma or basal cell skin carcinoma or carcinoma in situ of cervix.\n6. Prior treatment with an investigational drug within the last 2 weeks.\n7. Known hypersensitivity to paclitaxel or Cremophor.\n8. Pregnant or breastfeeding.\n9. Have any acute, subacute or chronic peripheral nerve or spinal cord in grade, at the time of inclusion, greater than or equal to 2 (NCI CTCAE v4.0).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01988090",
+    "briefTitle": "High Dose Vitamin D vs Standard Dose Vitamin D Study",
+    "officialTitle": "A Randomized, Controlled Trial of High Dose vs. Standard Dose Vitamin D for Aromatase-Inhibitor Induced Arthralgia in Breast Cancer Survivors",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 93,
+    "primaryOutcomeMeasure": "Number of Participants With Aromatase Inhibitor Induced Arthralgia (AIA) After 12 Weeks of Therapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All participants must be female and at least 21 years of age\n* Signed informed consent\n* Patients must have had histologically confirmed stage I-III breast carcinoma that is positive for Estrogen Receptor (ER) and/or Progesterone Receptor (PR).\n* Post-menopausal\n* Beginning adjuvant aromatase inhibitor therapy, with no previous use within the last 6 weeks\n* Bisphosphonates are allowed at the treating investigator\u00a1\u00a6s discretion\n* Performance status (WHO/ECOG scale) 0-2.\n\nExclusion Criteria:\n\n* History of kidney stones\n* Hypercalcemia at baseline, defined as any corrected calcium greater than the laboratory's normal parameters\n* History of either symptomatic hypercalcemia or hyperparathyroidism, at the treating investigator's discretion\n* Baseline Vitamin D level greater than 50 ng/mL\n* Inability or unwillingness to comply with, or follow study procedures.\n* Currently taking Phenytoin or phenobarbital -7 Currently taking cholestyramine or orlistat\n* Malabsorption syndrome, such as Crohn's disease\n\nProhibited Therapies: Patients may not take additional Calcium and Vitamin D aside from the study medications. Patients who are on cholestyramine or orlistat will not be allowed on the trial. Also, patients who are taking phenytoin or phenobarbital are not allowed on the trial either because of interaction between Vitamin D and anti-epileptic medications.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

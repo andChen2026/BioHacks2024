@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01867879",
+    "briefTitle": "Study to Evaluate the Cardiac Safety of TAS-102 in Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase 1 Study to Evaluate the Cardiac Safety of Orally Administered TAS-102 in Patients With Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Solid Tumors (Excluding Breast Cancer)",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 44,
+    "primaryOutcomeMeasure": "QTc interval",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Has provided written informed consent\n2. Has advanced solid tumors (excluding breast cancer) for which no standard therapy exists\n3. Has received no more than 5 prior cancer therapies\n4. ECOG performance status of 0 or 1\n5. Is able to take medications orally\n6. Corrected QT interval using Bazett's correction is no more than 450 msec on resting ECG\n7. Has adequate organ function (bone marrow, kidney and liver)\n8. Women of childbearing potential must have a negative pregnancy test and must agree to adequate birth control if conception is possible. Males must agree to adequate birth control.\n\nExclusion Criteria:\n\n1. Has had certain other recent treatment e.g. major surgery, extended field radiation, anticancer therapy, received investigational agent, within the specified time frames prior to study drug administration\n2. Certain serious illnesses or medical condition(s)\n3. Has a family history of unexplained sudden death or long QT syndrome\n4. Has had a documented cardiovascular complication following a fluoropyrimidine-derived treatment\n5. Is a patient for whom it is not technically possible to obtain quality ECG tracings\n6. Is receiving a concomitant drug that is known to affect QT interval or to be arrhythmogenic\n7. Has unresolved toxicity of greater than or equal to CTCAE Grade 2 attributed to any prior therapies\n8. Known sensitivity to TAS-102 or its components\n9. Is a pregnant or lactating female\n10. Refuses to use an adequate means of contraception (including male patients)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

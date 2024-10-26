@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06043947",
+    "briefTitle": "Survival Monitoring in Russian Cancer Registries",
+    "officialTitle": "Survival Monitoring in Russian Cancer Registries",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Melanoma, Breast Cancer, Oncology, Colon Cancer, Prostate Cancer, Survivorship, Lung Cancer, Cervix Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 100000,
+    "primaryOutcomeMeasure": "Net survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Men and women of any age\n* Data record meets IARC/IACR Tools for Cancer Registries requirements\n\nExclusion Criteria:\n\n* Severe patient data missing from a record",
+    "sex": "ALL",
+    "minimumAge": "0 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

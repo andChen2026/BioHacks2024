@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02983071",
+    "briefTitle": "G1T38, a CDK 4/6 Inhibitor, in Combination With Fulvestrant in Hormone Receptor-Positive, HER2-Negative Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "Phase 1/2 Safety, Pharmacokinetic, and Antitumor Activity Study of G1T38 in Combination With Fulvestrant in Patients With Hormone Receptor-Positive, HER2-Negative Locally Advanced or Metastatic Breast Cancer After Endocrine Failure",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Carcinoma, Ductal, Breast, Breast Cancer, Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 102,
+    "primaryOutcomeMeasure": "Dose Limiting Toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of HR-positive, HER2-negative breast cancer, not amenable to curative therapy\n* Pre- or perimenopausal women can be enrolled if amenable to be treated with goserelin\n* Patients must satisfy 1 of the following criteria for prior therapy:\n\n  * Progressed during treatment or within 12 months of completion of adjuvant therapy with an aromatase inhibitor or tamoxifen\n  * Progressed during treatment or within 2 months after the end of prior aromatase inhibitor therapy for advanced/metastatic breast cancer, or prior endocrine therapy for advanced/metastatic breast cancer\n  * Received \u2264 2 chemotherapy regimens (Part 1) or \u2264 1 chemotherapy regimen (Part 2) for advanced/metastatic disease\n* For Part 1, evaluable or measurable disease (bone only disease eligible for Part 1 only)\n* For Part 2, measurable disease as defined by RECIST, Version 1.1\n* ECOG performance status 0 to 1\n* Adequate organ function\n\nExclusion Criteria:\n\n* For Part 1, prior treatment with fulvestrant\n* For Part 2, prior treatment with any CDK inhibitor or fulvestrant\n* Active uncontrolled/symptomatic CNS metastases, carcinomatous meningitis, or leptomeningeal disease\n* Chemotherapy within 21 days of first G1T38 dose\n* Investigational drug within 28 days of first G1T38 dose\n* Concurrent radiotherapy, radiotherapy within 14 days of first G1T38 dose, previous radiotherapy to the target lesion sites, or prior radiotherapy to \\> 25% of bone marrow\n* Prior hematopoietic stem cell or bone marrow transplantation",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

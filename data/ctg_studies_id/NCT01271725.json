@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01271725",
+    "briefTitle": "LUX-Breast 2; Afatinib in HER2 (Human Epidermal Growth Factor Receptor)-Treatment Failures",
+    "officialTitle": "LUX-Breast 2; An Open Label, Phase II Trial of Afatinib (BIBW 2992) in Patients With Metastatic HER2-overexpressing Breast Cancer Failing HER2-targeted Treatment in the Neoadjuvant and/or Adjuvant Treatment Setting",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 74,
+    "primaryOutcomeMeasure": "Percentage of Participants With Objective Response (OR) Assessed by Response Evaluation Criteria in Solid Tumours Version (RECIST) 1.1",
+    "eligibilityCriteria": "Inclusion criteria:\n\n1. Female patients \\>=18 years with proven diagnosis of HER2-overexpressing, histologically confirmed breast cancer\n2. Stage IV metastatic disease\n3. At least one measurable lesion according to RECIST 1.1 (Response Evaluation Criteria for Solid Tumours version 1.1). Skin, bone and brain lesions are considered non-target lesions\n4. Must have failed or progressed on either trastuzumab or lapatinib or trastuzumab and lapatinib treatment in the neoadjuvant and/or adjuvant setting\n\nExclusion criteria:\n\n1. Prior first line therapy for metastatic breast cancer\n2. Known pre-existing interstitial lung disease\n3. Active brain metastases\n4. History or presence of clinically relevant cardiovascular abnormalities such as uncontrolled hypertension, congestive heart failure NYHA classification of 3, unstable angina or poorly controlled arrhythmia. Myocardial infarction within 6 months prior to trial treatment.\n5. Cardiac left ventricular function with resting ejection fraction of less than 50%.\n6. Prior treatment with Epidermal Growth Factor Receptor (EGFR)/HER2-targeted small molecules or antibodies other than trastuzumab and lapatinib in the neoadjuvant or adjuvant setting\n7. Prior treatment with paclitaxel in the past 12 months\n8. Must not have received prior vinorelbine treatment - Further exclusion criteria apply",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

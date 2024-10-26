@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00485953",
+    "briefTitle": "Effect of Bisphosphonate on Bone Loss in Postmenopausal Women With Breast Cancer Initiating Aromatase Inhibitor Therapy",
+    "officialTitle": "The Effect of Bisphosphonate on Bone Mass and Bone Turnover in Elderly, Postmenopausal Women With Breast Cancer Following Initiation of Aromatase Inhibitor Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Bone Loss, Osteoporosis, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 109,
+    "primaryOutcomeMeasure": "BMD of Spine by DXA",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* elderly postmenopausal women (ages 55 and older)\n* osteopenic (DXA T-score -1.0 to -2.5 SD). However, after full counseling about the risks, benefits, and options regarding therapy for osteoporosis and discussion with her PCP, an osteoporotic woman may enroll in the study.\n* with breast cancer on aromatase inhibitor therapy\n* with no evidence of distant metastatic disease or osteoporosis (by BMD or clinical history)\n* type of surgical procedure or addition of radiation therapy prior to this aromatase inhibitor therapy will not exclude patients\n* Participants must provide voluntary, written informed consent to participate in the study, which includes understanding of the procedures, medications, and risks and benefits\n\nExclusion Criteria:\n\n* Women with stage 4 breast cancer (presence of distant metastases)\n* Women with normal bone density by DXA (T-score \\> -1.0 SD)bone density by DXA, except in the instance of a fragility fracture.\n* Women with history of any illness known to affect bone and mineral metabolism, such as renal failure (estimated GFR \\<30), hepatic failure, malignancy (excluding breast cancer, treated superficial basal and squamous cell carcinoma and malignancies where the diagnosis itself or its treatment would not adversely affect bone metabolism), untreated primary hyperparathyroidism, and malabsorption.\n* Women being treated with oral glucocorticoid therapy \\>3 months for suppression therapy, and certain anti-seizure medications which may adversely affect bone metabolism (phenobarbital, phenytoin, carbamazepine).\n* Those with untreated active peptic ulcer disease\n* Those with osteoporosis by BMD (T-score -2.5 SD at the spine or total hip) or a history of fragility fracture as an adult. However, as discussed above, osteoporotic women may elect to enroll in the study.\n* Women treated with oral bisphosphonates or calcitonin for 3 months within the last year (3 month washout period)\n* Men and children will be excluded because they do not get postmenopausal osteoporosis following treatment with an aromatase inhibitor\n* Women with very poor dental hygiene (as assessed by the baseline dental exam) in need of dental extraction during the study\n* Use of fluoride for more than 1 month ever (except for dental treatment)\n* Less than 2 evaluable vertebrae\n* Distant metastatic disease",
+    "sex": "FEMALE",
+    "minimumAge": "55 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

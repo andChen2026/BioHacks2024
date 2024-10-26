@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02236806",
+    "briefTitle": "Cardiotoxicity Prevention in Breast Cancer Patients Treated With Anthracyclines and/or Trastuzumab",
+    "officialTitle": "Role of ACE Inhibitors and Beta Blockers as Cardiotoxicity Prevention in Breast Cancer Patients Treated With (Neo)Adjuvant Anthracyclines and/or Trastuzumab: a Four Arm, Placebo Control, Randomized Trial",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Cardiotoxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 262,
+    "primaryOutcomeMeasure": "Left ventricular ejection fraction (LVEF)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Age \\>18 years\n* Non-metastatic histologically confirmed primary invasive breast cancer\n* Scheduled to receive neoadjuvant and/or adjuvant anthracyclines with or without anti-HER2 therapy\n* Provided informed consent\n* Able to swallow capsules\n* LVEF \\> 50%\n\nExclusion Criteria:\n\n* Pregnant or lactating women\n* Treatment with ACE-inhibitors or beta blockers at diagnosis\n* History of NCI Common Toxicity Criteria for Adverse Effects (CTCAE) (version 4.0) Grade \\>2 symptomatic congestive heart failure (CHF), previous myocardial infarction, significant symptoms (Grade\\>2) relating to LVEF dysfunction, valvular disease, cardiac arrhythmia (Grade\\>3)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

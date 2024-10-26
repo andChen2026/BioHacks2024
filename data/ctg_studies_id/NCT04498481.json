@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04498481",
+    "briefTitle": "TREATMENT AND MONITORING PATTERNS AND CLINICAL OUTCOMES IN PATIENTS RECEIVING PALBOCICLIB COMBINATION TREATMENT (WITH AI OR FULVESTRANT) FOR HR+/HER2- A/MBC IN A COMMUNITY ONCOLOGY SETTING.",
+    "officialTitle": "TREATMENT AND MONITORING PATTERNS AND CLINICAL OUTCOMES IN PATIENTS RECEIVING PALBOCICLIB PLUS AROMATASE INHIBITOR OR PALBOCICLIB PLUS FULVESTRANT AS TREATMENT OF HORMONE RECEPTOR POSITIVE (HR+)/HUMAN EPIDERMAL GROWTH FACTOR RECEPTOR 2 NEGATIVE (HER2-) ADVANCED OR METASTATIC BREAST CANCER IN A REAL WORLD COMMUNITY ONCOLOGY SETTING",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "Proportion of patients receiving various cancer treatment regimens",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPatients who are represented in the Vector Oncology Data Warehouse who meet all of the following criteria will be eligible for inclusion in the study.\n\n* Female.\n* Diagnosis of female breast cancer with evidence of metastatic disease or advanced disease.\n* Diagnosis (confirmed by clinical review) of advanced or metastatic breast cancer at any time, defined as breast cancer at stage IIIb, stage IIIc, or stage IV or identified as having distant metastasis.\n* Indication in the record of ER or PR positive disease, or absence of any indication of ER and PR negative disease (ie, patients are eligible without affirmative indication of ER/PR+ status as long as ER/PR- indication is not present).\n* Receipt of a palbociclib plus aromatase inhibitor (AI) or palbociclib plus fulvestrant regimen on 2/3/2015 or later in the advanced and metastatic setting. Data collection will prioritize accrual of patients with 1L use of palbociclib plus AI and with 2L use of palbociclib plus fulvestrant before collecting other use of palbociclib users.\n* Age greater than or equal to 18 years at A/MBC diagnosis.\n\nExclusion Criteria:\n\n-There are no exclusion criteria for this study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

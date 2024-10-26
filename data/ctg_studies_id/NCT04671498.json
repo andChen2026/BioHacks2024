@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04671498",
+    "briefTitle": "Droplet-BC Screening Test for the Detection of Breast Cancer, the DROPLET-BC Study",
+    "officialTitle": "Detection by Circulating RNA With Optimized Machine Learning Technology for Breast Cancer: DROPLET-BC Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1200,
+    "primaryOutcomeMeasure": "Sensitivity of the Droplet-BC screening test for detecting breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* BREAST CANCER PATIENTS: Newly diagnosed with breast cancer\n* BREAST CANCER PATIENTS: Not received cancer treatment for newly diagnosed with breast cancer\n* BREAST CANCER PATIENTS: Able to comprehend, sign, and date the written informed consent document to participate in the study\n* BREAST CANCER PATIENTS: Able and willing to provide a one-time blood sample\n* BREAST CANCER PATIENTS: Age \\>= 18 years old\n* NON-CANCER VOLUNTEERS: Have undergone a screening mammogram\n* NON-CANCER VOLUNTEERS: Not currently taking any drugs for cancer treatment or any cancer prevention medication\n* NON-CANCER VOLUNTEERS: Able to comprehend, sign, and date the written informed consent document to participate in this study\n* NON-CANCER VOLUNTEERS: Able and willing to provide blood samples according to provided written instructions\n* NON-CANCER VOLUNTEERS: Seen by a provider (physician or advanced practice nurse \\[APN\\]) in the Cancer Prevention clinic at MD Anderson Cancer Center or other participating sites\n* NON-CANCER VOLUNTEERS: Age \\>= 18 years old\n\nExclusion Criteria:\n\n* BREAST CANCER PATIENTS: Known current pregnancy\n* BREAST CANCER PATIENTS: History of breast cancer treatment in the past\n* BREAST CANCER PATIENTS: Participation in any interventional clinical study within the previous 30 days in which an experimental treatment is administered or might be administered through a randomized assignment of the subject to one or more study groups\n* BREAST CANCER PATIENTS: Any condition that, in the opinion of the investigator, should preclude participation in the study\n* NON-CANCER VOLUNTEERS: Known current pregnancy\n* NON-CANCER VOLUNTEERS: History of breast cancer (breast ductal carcinoma in situ \\[DCIS\\] and invasive)\n* NON-CANCER VOLUNTEERS: History of any cancer except non-melanoma skin cancer and cervical dysplasia\n* NON-CANCER VOLUNTEERS: Participation in any interventional clinical study within the previous 30 days in which experimental treatment is administered or might be administered through a randomized assignment of the subject to one or more study groups\n* NON-CANCER VOLUNTEERS: Any condition that in the opinion of the investigator, should preclude participation in the study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

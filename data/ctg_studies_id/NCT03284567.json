@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03284567",
+    "briefTitle": "Football Fitness After Breast Cancer",
+    "officialTitle": "A Randomized Controlled Trial to Investigate the Health Promoting Effects of a Football Fitness Intervention for Women After Treatment for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 69,
+    "primaryOutcomeMeasure": "Mean change in fitness level (maximal oxygen uptake) from baseline to month 6 and month 12.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women surgically managed for breast cancer, local and regional advanced breast cancer.\n* Completion of adjuvant chemotherapy and radiation therapy.\n* Legally competent persons with ability to read and understand Danish.\n* Signed informed consent.\n* Performance level 0-1 (WHO).\n\nExclusion Criteria:\n\n* WHO performance level \\> 1.\n* Osteoporosis (T-score \\< -2.5).\n* Known metastatic breast cancer (stage IV).\n* Women in DBCG-group I (age =\\> 60 years, tumor =\\< 10 mm, invasive ductal carcinoma grade I, invasive lobular carcinoma grade I / II, estrogen receptor positive and HER2 normal).\n* Cardiovascular or pulmonary disorders (e.g., arrhythmias, ischemic heart disease, unregulated high blood pressure, chronic obstructive lung disease).\n* Ongoing anticoagulant therapy (vitamin K antagonists; Marevan, Marcoumar and low molecular weight heparins; Innohep, Clexane, Fragmin) for pulmonary embolism or deep venous thrombosis (DVT) due to increased bleeding risk of falls and clashes with other players during exercise.\n* Current or scheduled chemotherapy and radiation therapy in the intervention period (12 months).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

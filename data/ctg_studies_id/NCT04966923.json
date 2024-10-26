@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04966923",
+    "briefTitle": "Phenotype and Prognosis of Patients With Breast Cancer and Pathogenic Variants of TP53",
+    "officialTitle": "Phenotype and Prognosis of Patients With Breast Cancer and Pathogenic Variants of TP53 (BREAST TP53)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, TP53 R337H, Li-Fraumeni Syndrome, Prognosis Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 135,
+    "primaryOutcomeMeasure": "Progression free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer (histopathological diagnosis of localized invasive carcinoma or in situ carcinoma of the breast) and documented germline pathogenic variants of TP53.\n\nExclusion Criteria:\n\n* Patients with only other types of breast cancer such as sarcoma and phyllodes tumor were excluded from the analysis.\n\n  * Metastatic Breast Cancer at diagnosis (\"denovo\")",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

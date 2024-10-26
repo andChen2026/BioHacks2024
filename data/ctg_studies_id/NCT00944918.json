@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00944918",
+    "briefTitle": "Study of Faslodex With or Without Concomitant Arimidex Versus Exemestane Following Progression on Non-steroidal Aromatase Inhibitors (NSAI)",
+    "officialTitle": "A Partially-blind Phase III Randomised Trial of Fulvestrant (Faslodex) With or Without Concomitant Anastrozole (Arimidex) Compared With Exemestane in Postmenopausal Women With ER+ve Locally Advanced/Metastatic Breast Cancer Following Progression on Non-steroidal Aromatase Inhibitors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Progression-free Survival",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Progression-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the breast.\n* Metastatic disease must be measurable or evaluable\n* Relapsed or progressed during prior treatment with single-agent NSAI, meeting either of the following criteria:\n* NSAI given as adjuvant therapy that lasted \u2265 12 months OR\n* Achieved an objective CR, PR, or SD that that lasted \u2265 6 months after prior 1st-line\n* Female postmenopausal patients\n\nExclusion Criteria:\n\n* Hormone receptor status1. ER -ve and PgR NK2. ER-ve and PgR -ve3. ER NK\n* Prescribed Tamoxifen for metastatic disease\n* Rapidly progressive visceral disease\n* Patients with malignancies within the last 5 years.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

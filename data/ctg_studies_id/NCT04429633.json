@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04429633",
+    "briefTitle": "Strain vs. Left Ventricular Ejection Fraction-based Cardiotoxicity Prevention in Breast Cancer",
+    "officialTitle": "Strain-based vs. Left Ventricular Ejection Fraction-based Cardiotoxicity Prevention Strategy in Patients With Breast Cancer Who Treated With Adjuvant Trastuzumab",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Cardiotoxicity, Breast Cancer, Prevention, Adjuvant, Trastuzumab",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 136,
+    "primaryOutcomeMeasure": "Left ventricular ejection fraction (LVEF)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female aged \u2265 18 years\n* Pathologically confirmed HER2-positive breast cancer\n* Adjuvant treatment plan comprises at least 12 cycles of Trastuzumab\n* Baseline echocardiogram should be performed before starting trastuzumab\n* Cumulative anthracycline dose \u2264 300mg/m2\n* Written informed consent to participate in the study\n\nExclusion Criteria:\n\n* History of hypersensitivity or alllergic reaction to the study medication\n* Metastatic breast cancer\n* Treatment with angiotensin converting enzyme(ACE) inhibitor , Angiotensin receptor blocker (ARB), beta-blocking agents, or diuretics\n* Patients with NCI/CTCAE grade \u2265 2 congestive heart failure, myocardial infarction, symptomatic left ventricular systolic dysfunction, heart's valve disease (\u2265 moderate), arrhythmias (Grade \u2265 3) \\< 12 months before enrollment\n* Pregnancy or breast feeding\n* Baseline systolic pressure \\< 90mmHg\n* Cumulative anthracycline dose \\> 300mg/m2\n* Serious concurrent illness",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

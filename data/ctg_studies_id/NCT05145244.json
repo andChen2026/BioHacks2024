@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05145244",
+    "briefTitle": "Copenhagen Master Observational Trial",
+    "officialTitle": "Copenhagen Master Observational Trial (C-MOT): A Prospective Investigator-initiated Observational Study to Study Biomarkers in Relation to Clinical Outcome in Patients With Non-Small Cell Lung Cancer or Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Non-small Cell Lung Cancer, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2400,
+    "primaryOutcomeMeasure": "Progression free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients (\u2265 18 years of age) with diagnosis of NSCLC or breast cancer amenable to medical or radiation therapy with curative or palliative intent\n* Evidence of a personally signed and dated informed consent form document indicating that the patient has been informed of all pertinent aspects of the study\n* Able to read and understand Danish\n* Willing and able to complete collection of data including WGS\n\nExclusion Criteria:\n\n* Patient with breast cancer initiating adjuvant systemic therapy\n* In the judgment of the investigator, the patient's life expectancy is fewer than 3 months at the time of diagnosis of NSCLC or breast cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

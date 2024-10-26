@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02953184",
+    "briefTitle": "Marched Pair Study Conventional Doxorubicin(DOX) Versus Pegylated Liposomal Doxorubicin(PLD) Neoadjuvant Chemotherapy",
+    "officialTitle": "Marched Pair Study of the Standard Chemotherapy 4doxorubicin Plus Cyclophosphamide(AC) 60 + 4 Docetaxel Protocol Versus 4 PLD C35+4 Docetaxel in Neoadjuvant Chemotherapy of Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Antineoplastic Combined Chemotherapy Protocols",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 160,
+    "primaryOutcomeMeasure": "improvement of pathological complete response\uff08PCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient with histological proof of invasive cancer, whose clinical tumor diameter is \\> 2 cm, or \\< 2 cm, but Axillary lymphnodes are involved .There is no metastatic Imaging findings.\n* Stage II,III tumor, non-metastatic, grade II - III\n* Performance Status = 0-1 World Health Organization (WHO).\n* Patient non pretreated for breast cancer.\n* Patient without cardiac pathology and without anthracyclines contra-indication (assessed by normal ejection fraction).\n* Normal haematological, renal and hepatic functions : platelets \\> 100. 109 /l, Hb \\> 10 g/dl, normal bilirubin serum , Aspartate transaminase(ASAT) and Alanine Aminotransferase(ALAT) \\< 2,5 Upper Limit of Normal (ULN), alkaline phosphatases \\< 2,5 ULN, creatinin \\< 140 \u00b5mol/l or creatinin clearance \\> 60 ml/min\n* Written informed consent dated and signed by the patient\n\nExclusion Criteria:\n\n* All other breast cancers than those described in inclusion criteria, in particular inflammatory and/or neglected (T4b or T4d) forms.\n* Patient presenting with intraduct cancer in situ.(DCIS)\n* Grade I well differentiated tumor.\n* Non measurable lesion, in the two diameters, whatever radiological methods used.\n* Patient already operated for breast cancer or having had primary axillar node dissection.\n* Patient presenting with cancer in other system.\n* Any psychological, familial, sociological or geographical condition that may potentially hamper compliance with the study protocol and follow up schedule, assessed with the patient prior to registration in the trial",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

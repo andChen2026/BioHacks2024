@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02065908",
+    "briefTitle": "Circulating MicroRNA as Biomarker of Cardiotoxicity in Breast Cancer",
+    "officialTitle": "Circulating microRNAs as a Novel Biomarker of Early Cardiotoxicity in Breast Cancer Patients Treated With Anthracyclines",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 128,
+    "primaryOutcomeMeasure": "Cardiotoxicity events according to CREC (Cardiac Review and evaluation Committee) criteria",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* age 18-70\n* stage I-III TNM (Tumor Node Metastases)\n\nExclusion Criteria:\n\n* second or next cancer (except for basal cell skin cancer and CIN)\n* previously treated with chemotherapy\n* previously treated with radiotherapy\n* acute myocardial infarction\n* heart failure\n* cardiomyopathy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

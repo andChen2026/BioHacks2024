@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00958971",
+    "briefTitle": "Safety and Efficacy of TKI258 in FGFR1 Amplified and Non-amplified Metastatic HER2 Negative Breast Cancer",
+    "officialTitle": "A Multi-center, Open Label Phase II Trial of TKI258 in FGFR1 Amplified and Non-amplified Metastatic or Advanced HER2 Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 43,
+    "primaryOutcomeMeasure": "Complete responses (CR) or partial response (PR) defined according to RECIST",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female presenting with metastatic breast cancer.\n2. Tumor must have been tested by FISH/CISH for FGFR1 amplification.\n3. HER2 and HR status must have been determined.\n4. Patients must have HER2 negative breast cancer.\n5. Patients must have a documented disease progression as define by RECIST at baseline.\n6. Patients with HR+ disease:\n\n   * Must have received at least one prior endocrine therapy in the metastatic setting.\n   * Must have received no more than three lines of chemotherapy in the metastatic setting.\n7. Patients with HR- disease must have received at least one and no more than three lines of chemotherapy in metastatic setting.\n\nExclusion Criteria:\n\n1. Patients with known brain metastases or who have signs/symptoms attributable to brain metastases and have not been assessed with radiologic imaging to rule out the presence of brain metastases.\n2. Impaired cardiac function or clinically significant cardiac diseases, including any of the following:\n\n   * History or presence of serious uncontrolled ventricular arrhythmias or presence of atrial fibrillation.\n   * Clinically significant resting bradycardia (\\< 50 beats per minute).\n   * LVEF assessed by 2-D echocardiogram (ECHO) or Multiple gated acquisition scanning (MUGA)\\< 45%.\n3. Any of the following within 6 months prior to study entry: myocardial infarction (MI), severe/unstable angina, Coronary Artery Bypass Graft (CABG), Congestive Heart Failure (CHF), Cerebrovascular Accident (CVA), Transient Ischemic Attack (TIA), Pulmonary Embolism (PE).\n4. Uncontrolled hypertension defined by a SBP \\> 150mm Hg and/or DBP \\> 100mm Hg, with or without anti-hypertensive medication.\n\nOther protocol-defined inclusion/exclusion criteria may apply",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

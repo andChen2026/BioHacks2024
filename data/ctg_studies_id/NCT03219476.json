@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03219476",
+    "briefTitle": "Neoadjuvant Endocrine Therapy in Hormone Receptor-Positive, Human Epidermal Growth Factor Receptor 2 (HER2)-Negative Node-Negative Breast Cancer",
+    "officialTitle": "Neoadjuvant Endocrine Therapy in Hormone Receptor-Positive HER2-Negative Node-Negative Breast Cancer Patients to Assess Responses and Mechanisms of Endocrine Resistance",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Invasive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 37,
+    "primaryOutcomeMeasure": "Change in Baseline of Cancer Cell Protein Levels of Human Epidermal Growth Factor Receptor (HER) Family Members (HER1-4) Following Neoadjuvant Endocrine Therapy.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female; age \u226518 years.\n* Pathologically proven diagnosis of invasive breast cancer, clinically stage I-II.\n* Clinically lymph node negative, confirmed by clinical exam and/or ultrasound imaging.\n* Estrogen- and/or progesterone-receptor-positive tumor, defined \u22651% positively staining cells by immunohistochemistry, according to the current American Society of Clinical Oncology (ASCO)/College of American Pathologists (CAP) guidelines.\n* HER2/neu must be negative by immunohistochemistry (IHC) or fluorescence in situ hybridization (FISH).\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2.\n* Pretreatment evaluations (minimum diagnostic workup) within 28 days prior to study\n* Qualify for anti-endocrine treatment (per medical oncologist).\n* Informed consent provided.\n* If history of contralateral breast cancer, patient completed all treatment two years prior\n* No treatment for this breast cancer or any malignancy within two years (except non-melanomatous skin cancer, carcinoma in situ of the cervix and contralateral breast cancer)\n* Using adequate methods of contraception; negative pregnancy test.\n* No strong CYP2D6 inhibitors.\n* Adequate organ function with baseline lab values.\n\n  * Absolute neutrophil count (ANC) \u2265 1500/\u00b5L.\n  * Hemoglobin (Hb) \u2265 9g/dL.\n  * Platelet count \u2265 100,000/\u00b5L.\n  * Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) \u2264 3x upper limit of normal (ULN).\n  * Serum bilirubin within \u2264 1.5 x ULN.\n\nExclusion Criteria:\n\n* American Joint Committee on Cancer (AJCC) clinical T4, N1-3 or M1, breast cancer.\n* Synchronous non-breast malignancy (exceptions include non-melanomatous skin cancer, carcinoma in situ of the cervix).\n* Purely noninvasive breast cancer (i.e., ductal carcinoma in situ, lobular carcinoma in situ).\n* Men with breast cancer.\n* Medical, psychiatric or other condition that would prevent the patient from receiving the protocol therapy or providing informed consent.\n* Pregnant or lactating women.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

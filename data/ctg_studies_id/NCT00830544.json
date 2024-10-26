@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00830544",
+    "briefTitle": "Study of Neoadjuvant Chemotherapy of Breast Cancer",
+    "officialTitle": "Phase II Study of Neoadjuvant Chemotherapy of Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 54,
+    "primaryOutcomeMeasure": "To evaluate the pathological CR rate in breast and lymph nodes of a novel neoadjuvant regimen for invasive breast carcinoma",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Previously untreated (no chemotherapy or hormonal therapy or radiation therapy) invasive breast cancer.\n* Diagnosis of invasive ductal or lobular breast cancer plus or minus DCIS. Inflammatory carcinomas will also be eligible.\n* Age \\> 18 years\n* Tumor \\> 1.0 cm by MRI and/or sonographic or clinical exam measurements.Although only tumors \\> 2 cm are considered measurable by RECIST criteria, we will nevertheless include tumors \\> 1 cm since the primary endpoint is pathological CR rate.\n* Performance Status ECOG \\<2 or Karnofsky \\>50%\n* Peripheral neuropathy \\< grade 1\n* Hematologic (minimal values):\n\n  * Absolute neutrophil count \\> 1,500/mm3\n  * Hemoglobin \\> 8.0 g/dl\n  * Platelet count \\> 100,000/mm3\n* Hepatic\n* Total Bilirubin normal\n* AST and ALT and Alkaline Phosphatase do not have to be within the range. In determining eligibility the more abnormal of the two values (AST or ALT) should be used as shown below.\n\nExclusion Criteria:\n\n* Pregnant or breast feeding patients are excluded.\n* Patients with second malignancies with expected survival \\< 5 years.\n* Previous chemotherapy with either Taxanes, Anthracyclines or Cyclophosphamide.\n* Patients with history of severe hypersensitivity reaction to Taxotere (Docetaxel) or other drugs formulated with polysorbate 80.\n* Pure DCIS diagnoses are not eligible.\n* Special histologies with favorable prognosis such as mucinous, tubular are not eligible.\n* Patients with reduced ejection fraction \\<50% are not eligible.\n* Patients with tumors \\< 1.0 cm\n* Cardiac thrombotic events in the past 12 months\n* Stroke or transient ischemic attacks (TIA) within 12 months\n* Poorly controlled hypertension defined as persistent blood pressure elevation \\>150 systolic and/or 100 diastolic not responsive to medications\n* GI condition that increases risk of perforation within 6 months of study\n* Any serious non-healing wound, ulcer, or bone fracture\n* No minor surgical procedure within 7 day of study entry or major surgery within 28 days of study entry or anticipation of need for major surgical procedure during the course of the study\n* Significant vascular disease such as symptomatic peripheral vascular disease\n* Any evidence of bleeding diathesis or coagulopathy",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

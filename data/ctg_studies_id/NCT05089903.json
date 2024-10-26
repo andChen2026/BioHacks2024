@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05089903",
+    "briefTitle": "Breast Cancer Outreach Among Primary Care Patients",
+    "officialTitle": "Breast Cancer Outreach Among Primary Care Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 24680,
+    "primaryOutcomeMeasure": "Mammogram Completion in 3 months",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women ages 40-74\n2. Followed by Primary Care with a Penn Medicine PCP listed and at least one visit in the last 2 years\n3. Health Maintenance due (default biannual screening starting at age 50 or edit modifier based on input by clinician)\n\nExclusion Criteria:\n\n1. Currently scheduled for a mammogram\n2. History of bilateral mastectomy",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

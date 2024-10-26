@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06016738",
+    "briefTitle": "OP-1250 (Palazestrant) vs. Standard of Care for the Treatment of ER+/HER2- Advanced Breast Cancer",
+    "officialTitle": "A Phase 3 Randomized, Open-Label Study of OP-1250 Monotherapy vs Standard of Care for the Treatment of ER+, HER2- Advanced or Metastatic Breast Cancer Following Endocrine and CDK 4/6 Inhibitor Therapy (OPERA-01)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Advanced Breast Cancer, Metastatic Breast Cancer, ER Positive Breast Cancer, HER2 Negative Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 510,
+    "primaryOutcomeMeasure": "Dose-Selection Part: Incidence of adverse events",
+    "eligibilityCriteria": "Key inclusion criteria:\n\n* Adult female or male participants.\n* ER+, HER2- locally advanced or metastatic breast cancer that is not amenable to curative therapy.\n* Evaluable disease (measurable disease or bone-only disease).\n* Previously received a CDK4/6 inhibitor in combination with an endocrine therapy in the advanced setting. One additional line of ET as a monotherapy is allowed. Duration of the most recent prior ET must be at least 6 months.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Adequate hematologic, hepatic, and renal functions.\n* Female participants can be pre-, peri- or postmenopausal.\n* Male and pre- or peri-menopausal female participants must be willing to take a GnRH (or LHRH) agonist.\n\nKey exclusion criteria:\n\n* Symptomatic visceral disease, imminent organ failure, or any other reason that makes the participant ineligible for endocrine monotherapy.\n* Previously received chemotherapy in the advanced/metastatic setting.\n* Previously received treatment with elacestrant or an investigational estrogen receptor-directed therapy.\n* History of allergic reactions to study treatment.\n* Any contraindications to the selected standard-of-care endocrine therapy in the local prescribing information.\n* Symptomatic central nervous system metastases, carcinomatous meningitis, leptomeningeal disease, or a spinal cord compression that require immediate treatment.\n* Clinically significant comorbidities such as significant cardiac or cerebrovascular disease, gastrointestinal disorders that could affect absorption of study treatment.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

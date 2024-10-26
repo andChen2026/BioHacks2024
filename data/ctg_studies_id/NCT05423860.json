@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05423860",
+    "briefTitle": "Phase I Human Analytics (HALO) Study",
+    "officialTitle": "This is a Human Analytics Longitudinal Observational (HALO) Study. A Phase I Study to Analyze All Available Biomarkers and Determinants of Health to Increase Diagnostic Accuracy While Reducing the Time to Diagnosis of Disease.",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cardiovascular Diseases, Cancer, Dementia, Traumatic Brain Injury",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "Prostate cancer Gleason score",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nTreatment Na\u00efve patients:\n\n* Male, 45 years of age or older.\n* Diagnosis of prostate adenocarcinoma.\n* Clinical stage T1c or T2a.\n* Gleason score of 7 (3+4 or 4+3) or less.\n* Three or fewer biopsy cores with prostate cancer.\n* PSA density not exceeding 0.375.\n* One, two, or three tumor suspicious regions identified on multiparametric MRI.\n* Negative radiographic indication of extra-capsular extent.\n* Karnofsky performance status of at least 70.\n* Estimated survival of 5 years or greater, as determined by treating physician.\n* Tolerance for anesthesia/sedation.\n* Ability to give informed consent.\n* At least 6 weeks since any previous prostate biopsy.\n* MR-guided biopsy confirmation of one or more MRI-visible prostate lesion(s) with Gleason score of 7 (3+4 or 4+3) or less.\n\nSalvage candidates will be accepted upon physician referral.\n\nExclusion Criteria:\n\n* Presence of any condition (e.g., metal implant, shrapnel) not compatible with MRI.\n* Severe lower urinary tract symptoms as measured by an International Prostate Symptom Score (IPSS) of 20 or greater\n* History of other primary non-skin malignancy within previous three years.\n* Diabetes\n* Smoker",
+    "sex": "MALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

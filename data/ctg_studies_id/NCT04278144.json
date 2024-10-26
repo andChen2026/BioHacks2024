@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04278144",
+    "briefTitle": "A First-in-human Study Using BDC-1001 as a Single Agent and in Combination With Nivolumab in Advanced HER2-Expressing Solid Tumors",
+    "officialTitle": "Phase 1/2 Study of BDC-1001 as a Single Agent and in Combination With Nivolumab in Patients With Advanced HER2-Expressing Solid Tumors",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "HER2-positive Solid Tumors, HER2-positive Breast Cancer, HER2-positive Colorectal Cancer, HER2-positive Gastroesophageal Cancer, HER2-positive Endometrial Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 175,
+    "primaryOutcomeMeasure": "Incidence of adverse events (AEs) and serious adverse events (SAEs)",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Patient must have an advanced solid tumor with documented HER2-protein expression or gene amplification for which approved therapies have been exhausted or are not clinically indicated.\n* Measurable disease as determined by RECIST v.1.1.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Tumor tissue (archival or collected prior to the study start) available for exploratory biomarker evaluation.\n\nKey Exclusion Criteria:\n\n* History of severe hypersensitivity to any ingredient of the study drug(s), including trastuzumab or other monoclonal antibody.\n* Previous treatment with a TLR 7, TLR 8 or a TLR 7/8 agonist.\n* Impaired cardiac function or history of clinically significant cardiac disease\n* Human Immunodeficiency virus (HIV) infection, active hepatitis B infection, or hepatitis C infection.\n* Active SARS-CoV-2 infection\n* Untreated central nervous system (CNS), epidural tumor or metastasis, or brain metastasis.\n\nOther protocol defined inclusion/exclusion criteria may apply.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

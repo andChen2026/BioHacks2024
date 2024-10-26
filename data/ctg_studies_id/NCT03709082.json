@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03709082",
+    "briefTitle": "Palbociclib in Estrogen Receptor Positive (ER+) Human Epidermal Growth Factor Receptor 2 Positive (HER2+) Metastatic Breast Cancer",
+    "officialTitle": "A Phase I/II Study of Palbociclib, Letrozole and T-DM1 in Trastuzumab Refractory Estrogen Receptor Positive (ER+) and HER2 Positive Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "HER2-positive Breast Cancer, Breast Cancer Metastatic",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 3,
+    "primaryOutcomeMeasure": "Rate of Overall Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathologically confirmed diagnosis of Estrogen Receptor (ER) positive and HER2 (human epidermal growth factor receptor 2) positive metastatic breast cancer based on local laboratory results.\n* Prior treatment with a taxane (including paclitaxel, docetaxel and/or nanoparticle protein-bound paclitaxel).\n* Prior treatment with trastuzumab with or without pertuzumab.\n* Measurable or non-measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) criteria version 1.1.\n* Eastern Cooperative Oncology Group Performance Status of 0-2\n* Adequate organ and marrow function\n* Women must be post-menopausal\n* Must be able to swallow pills\n\nExclusion Criteria:\n\n* Current or anticipated use of other investigational agents\n* Prior therapy with a cyclin-dependent kinase 4/6 inhibitor\n* Subject has received chemotherapy or radiotherapy within 14 days prior to Cycle 1, Day 1 of the study or has not recovered from adverse events due to agents administered more than 14 days earlier\n* Subject has leptomeningeal disease\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to palbociclib or other agents used in study\n* Subject has other illness or disease that the investigator believes will interfere with study requirements.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02187718",
+    "briefTitle": "Ambulatory SNP Under Local Anaesthesia in a Subgroup of Breast Cancer Patients - Trial",
+    "officialTitle": "A Prospective Single-centre Randomised Controlled Clinical Trial Comparing Sentinel Node Procedure Under Local Anaesthesia to Traditional Sentinel Node Procedure Under General Anaesthesia in Patients <60 Years With a Breast Carcinoma >20 mm.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Number of operations under general anaesthesia",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Age 18-60 years\n* Diagnosis of invasive BC (established with core needle biopsy of the breast lesion)\n* Breast carcinoma measures \\> 20 mm ultrasonographically\n* Pre-operative US+FNAC is negative or inconclusive\n* No evidence of distant metastases\n* ASA Classification I-III\n* Signed informed consent\n\nExclusion Criteria:\n\n* History of previous breast surgery in the affected breast\n* History of previous axillary surgery in the ipsilateral axilla\n* History of radiation therapy (ipsilateral breast or axilla)\n* History of neo-adjuvant therapy (for the BC)\n* Known allergy to lidocain",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

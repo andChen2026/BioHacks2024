@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03405519",
+    "briefTitle": "MR-guided RAdiotherapy to Breast With Dose Escalation to regionaL Lymph NodEs",
+    "officialTitle": "MR-guided RAdiotherapy to Breast With Dose Escalation to regionaL Lymph NodEs",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "The number of patients in whom a higher dose can be delivered to the level IV (SCF) nodes without breaching brachial plexus constraints on the radiotherapy plans created using MR images compared with CT images",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u226518 years\n* Female or male\n* Invasive carcinoma of the breast (left or right-sided)\n* cT1-T4,N3,M0-1 disease\n* Due to proceed to primary treatment (chemo, surgery, radiotherapy and/or endocrine therapy)\n* Histopathological involvement of axillary lymph nodes confirmed on FNA or Bx\n* Likely to undergo locoregional radiotherapy as part of their breast cancer management\n\nExclusion Criteria:\n\n* Implanted pacemakers and/or pacing wires\n* Cochlear implants\n* Programmable hydrocephalus shunts\n* Implanted neurostimulation systems\n* Implanted drug infusion pumps\n* Ferromagnetic implants\n* Claustrophobia",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

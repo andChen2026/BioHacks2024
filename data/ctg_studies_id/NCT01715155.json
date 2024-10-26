@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01715155",
+    "briefTitle": "Management of Metastatic Breast Cancer in Clinical Practice - Retrospective Study",
+    "officialTitle": "A Retrospective Cohort Study on Therapeutic Management of Metastatic Breast Cancer in Clinical Practice in Bulgaria",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 171,
+    "primaryOutcomeMeasure": "Number of progression events on a per patient-year-basis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* New diagnosis of breast cancer according to ICD-10 with confirmed metastasis\n* Confirmed diagnosis between 1st July 2010 and 30th June 2011.\n* Female patient managed for her disease at the same setting where final diagnosis of MBC was performed.\n\nExclusion Criteria:\n\n* History of concurrent or other primary malignancies (except curatively resected non-melanoma skin cancer or in situ cervical cancer).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

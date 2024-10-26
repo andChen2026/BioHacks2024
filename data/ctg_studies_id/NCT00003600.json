@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00003600",
+    "briefTitle": "Epoetin Alfa in Treating Anemia in Patients Who Are Receiving Chemotherapy",
+    "officialTitle": "A Phase III Randomized Double-Blind Study of Erythropoietin Versus Placebo in Anemic Patients With Cancer Undergoing Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Anemia, Breast Cancer, Chronic Myeloproliferative Disorders, Drug/Agent Toxicity by Tissue/Organ, Leukemia, Lung Cancer, Lymphoma, Multiple Myeloma and Plasma Cell Neoplasm, Precancerous Condition, Small Intestine Cancer, Unspecified Adult Solid Tumor, Protocol Specific",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 344,
+    "primaryOutcomeMeasure": "Quality of life",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS: Anemic: Hemoglobin in males less than 11.5 g/dL; hemoglobin in females less than 10.0 g/dL No anemia secondary to B12, folic acid, or iron deficiency No anemia secondary to gastrointestinal bleed or hemolysis No anemia secondary to a primary or chemotherapy-induced myelodysplastic syndrome No anemia secondary to acute lymphocytic leukemia Histologically confirmed advanced malignancy Lung Breast Other Currently receiving myelosuppressive, cytotoxic chemotherapy for advanced cancer No patients receiving adjuvant therapy for cancer that has been surgically removed\n\nPATIENT CHARACTERISTICS: Age: 18 and over Performance status: ECOG 0-1 Life expectancy: At least 4 months Hematopoietic: See Disease Characteristics Hepatic: Not specified Renal: Not specified Cardiovascular: No uncontrolled hypertension (systolic at least 180, diastolic at least 100) Other: Normal or elevated ferritin No known hypersensitivity to epoetin alfa Must be able to reliably take oral medication Must be alert and mentally competent Not pregnant or nursing\n\nPRIOR CONCURRENT THERAPY: Biologic therapy: At least 1 year since prior epoetin alfa At least 2 weeks since prior red blood cell transfusions No concurrent peripheral blood stem cell or bone marrow transplantation Chemotherapy: See Disease Characteristics Endocrine therapy: Not specified Radiotherapy: Concurrent radiotherapy allowed Surgery: See Disease Characteristics",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

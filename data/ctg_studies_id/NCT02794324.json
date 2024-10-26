@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02794324",
+    "briefTitle": "The HeartSpare Study (Stage I)",
+    "officialTitle": "Optimisation and Individualisation of Heart-Sparing Breast Radiotherapy Techniques (The HeartSpare Study)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 57,
+    "primaryOutcomeMeasure": "Interfraction reproducibility of chest wall position (group A)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Complete microscopic excision of early stage invasive ductal or lobular carcinoma (pT1-3b N0-1 M0) of the left breast following breast conservation surgery or mastectomy.\n* Recommendation for whole breast (groups A and B) or chest wall (Group A only) radiotherapy (with or without tumour bed boost)\n* Age \u226518\n* Performance status \u22641\n* Patients able to tolerate breath-hold\n\nExclusion Criteria:\n\n* Requirement for nodal irradiation\n* Patients with micro- or macro-scopic disease on sentinel node biopsy who have not undergone completion axillary node clearance\n* Previous radiotherapy to any region above the diaphragm",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

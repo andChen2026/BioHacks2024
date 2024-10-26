@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00148057",
+    "briefTitle": "Diet and Breast Cancer Prevention Trial",
+    "officialTitle": "An Explanatory Clinical Trial of Breast Cancer Prevention",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 4695,
+    "primaryOutcomeMeasure": "Breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. A mammogram with at least 50% of the breast area occupied by radiological signs of density.\n2. Aged more than 30 years and less than 65 years.\n3. Body Mass Index \\>19 and \\<27.\n4. Resident within easy commuting distance of a participating centre. -\n\nExclusion Criteria:\n\n1. A previous history of cancer (excluding non-melanomatous skin cancer).\n2. Pregnant (or planning to be) or breast feeding.\n3. On a medically prescribed diet for any reason.\n4. Habitually (ie. 4 or more times per week) eats more than one meal a day in a restaurant.\n5. Previous mammoplasty, either reduction or augmentation.\n6. Previous or present treatment for the reduction of blood lipids.\n7. Proposed breast biopsy as a result of the initial clinical and/or mammographic examination, until such time as the biopsy has been carried out and is known to be benign",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

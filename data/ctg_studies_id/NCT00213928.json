@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00213928",
+    "briefTitle": "Horse Chestnut Seed Extract for Lymphedema",
+    "officialTitle": "A Single-blind, Randomized Trial of Horse Chestnut Seed Extract for the Treatment of Lymphedema of the Arm in Breast Cancer Survivors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Lymphedema of Arm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 56,
+    "primaryOutcomeMeasure": "Reduction of arm lymphedema",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient demonstrates unilateral (ipsilateral to breast cancer resection side) lymphedema of the upper extremity. An extravascular water ratio of \u00b31.1/1 between the affected vs normal arm using multiple-frequency bioelectric impedance will be used as a criterion for lymphedema. There is not upper limit to the extent of arm volume (lymphedema)\n* Patient is greater than 6 months from last surgical and/or radiation treatment to the affected axilla.\n\nExclusion Criteria:\n\n* Patients may not be receiving or be scheduled to receive cytotoxic or radiation chemotherapy treatment while on this lymphedema study (Last chemotherapy \\> 4 weeks prior). Women who are being treated adjuvantly with tamoxifen, raloxifene, or an aromatase inhibitor remain eligible\n* Patients with a history of recurrent (more than 1 episode) arm cellulitis, prior or existing venous clot, or considered to have \"woody\" fibrosis of the affected arm are not eligible. Antibiotics used to treat any prior episode of cellulitis must have be completed no more recently than 3 months prior to initial screening.",
+    "sex": "FEMALE",
+    "minimumAge": "17 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

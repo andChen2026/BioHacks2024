@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01566799",
+    "briefTitle": "Metformin Plus Neoadjuvant Chemotherapy in Breast Cancer",
+    "officialTitle": "Clinical Phase II, Randomized, Double Blind Trial, to Evaluate the Efficacy of Metformin and Chemotherapy Versus Placebo Nad Chemotherapy in Neoadjuvant Setting for Locally Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Locally Advanced Malignant Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "pathologic complete response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women older than 18 years old and younger than 70 years old\n\n  * Invasive breast cancer confirmed by core biopsy, any histology\n  * Tumor \u22652 cm and/or lymph node positive (proven by FNA)(T2-4b, N0-3, M0)\n  * Must have ER/PR positive and HER2 negative\n  * Must have full staging and extent disease and clinically and radiographically tumor measure\n  * Without previous treatment for breast cancer (including surgery, hormonotherapy or chemotherapy)\n* Normal liver, kidney and blood tests\n* Performance Status ECOG 0-2 o Karnofsky \u226570%\n* Fasten glucose levels \\<125 mg/dl\n* Signed consent\n\nExclusion Criteria:\n\n* Previous use of metformin for any indication\n* Presence of Diabetes Mellitus",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

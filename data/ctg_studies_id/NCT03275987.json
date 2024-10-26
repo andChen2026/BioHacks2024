@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03275987",
+    "briefTitle": "Promoting Cancer Screening Among Medicaid Recipients in Minnesota",
+    "officialTitle": "A Population-based Randomized Trial to Promote Cancer Screening Among Unscreened Medicaid Recipients in Minnesota",
+    "overallStatus": "COMPLETED",
+    "conditions": "Colorectal Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 138554,
+    "primaryOutcomeMeasure": "screening mammography or colonoscopy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Enrolled in Minnesota Medicaid for at least the prior year\n\nExclusion Criteria:\n\n* Younger than 50 or older than 74\n* Women having mammogram in 15 months before trial (mammography intervention)\n* Evidence of a colonoscopy in the past 10 years, flexible sigmoidoscopy in the past five years, or fecal immunochemical or fecal occult blood test in the past year (colonoscopy intervention)",
+    "sex": "ALL",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

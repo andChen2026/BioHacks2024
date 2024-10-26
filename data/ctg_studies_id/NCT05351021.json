@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05351021",
+    "briefTitle": "Efficacy of Metformin as Preventive Treatment in Paclitaxel Induced Peripheral Neuropathy in Breast Cancer Patients",
+    "officialTitle": "Efficacy of Metformin as Preventive Treatment in Paclitaxel Induced Peripheral Neuropathy in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Peripheral Neuropathy, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 76,
+    "primaryOutcomeMeasure": "The incidence of grade II or more peripheral neuropathy at the end of paclitaxel treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients (\\>18 years old)\n* Early-stage breast cancer patients who will receive adjuvant paclitaxel\n* Performance status according to Eastern Cooperative oncology group (ECOG) \\< 2.\n* Adequate bone marrow function (white blood count \u22654,000/mm3, platelet count \u2265100,000/mm3), liver function (serum total bilirubin \\<1.5 mg/dl), renal function (creatinine\\<1.5 mg/dl).\n\nExclusion Criteria:\n\n* Clinical neuropathy at prior to enrollment.\n* Patients treated with medications that increase the risk of neuropathy like amiodarone, Colchicine, metronidazole, phenytoin.\n* Patients with a history of hypersensitivity to metformin.\n* Pregnant or lactating females.\n* Patients who are using metformin for any other cause.\n* Patients with Diabetes mellitus.\n* Receiving vitamin B1, B6, B12 or another vitamin supplemental therapy.\n* Receiving antidepressants, opioids, adjuvant analgesic agents (eg, anticonvulsants, clonazepam, or mexiletine), topical analgesics, and amifostine.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

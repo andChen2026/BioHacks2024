@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04148586",
+    "briefTitle": "Trial Comparing 3 Schedules of Hypofractionated Whole Breast Irradiation in Females With Early Stage Breast Cancer",
+    "officialTitle": "Randomized Trial Comparing 3 Schedules of Hypofractionated Whole Breast Irradiation in Females With Early Stage Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 152,
+    "primaryOutcomeMeasure": "Acute toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Tis, pT1-2, pN0-1, M0 disease\n* Invasive carcinoma of the breast or ductal carcinoma insitu \\[DCIS\\]\n* CBS (reconstruction is not allowed)\n* Negative surgical margin\n* Axillary staging \\&/or dissection\n\nExclusion Criteria:\n\n* pT3-4, pN2-3 breast cancer\n* Inadequate axillary lymph node dissection\n* Neoadjuvant chemotherapy\n* Non-epithelial breast malignancies such as sarcoma or lymphoma\n* Synchronous bilateral invasive or non-invasive breast cancer\n* History of invasive breast cancer or DCIS (Patients with a history of lobular carcinoma in situ (LCIS) treated by surgery alone are eligible.)\n* Past history of malignancy except\n* Basal cell skin cancer\n* CIN cervix uteri\n* Cosmetic breast implants (Patients who have had implants removed are eligible.)\n* Prior breast or thoracic RT for any condition\n* Collagen vascular disease, specifically systemic lupus, or scleroderma\n* Pregnancy or lactation at the time of radiotherapy. Women of reproductive potential must agree to use an effective non-hormonal method of contraception during therapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

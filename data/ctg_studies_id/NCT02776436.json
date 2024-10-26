@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02776436",
+    "briefTitle": "Reducing Dexamethasone Around Docetaxel Infusion",
+    "officialTitle": "Phase 1 Study to Evaluate the Safety of REducing the Prophylactic Dose of DEXamethasone Around Docetaxel Infusion in Patients With Early or Advanced Breast Cancer and Prostate Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "Optimal dose/recommended dose (RD) of pre-medication dexamethasone around docetaxel infusion, dependent of occurrence of grade III/IV fluid retention and HSR according to the NCI CTCAE v4.03.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with early breast cancer, or advanced breast cancer or prostate cancer patients receiving docetaxel (minimal 3 cycles monotherapy or in the regimen 4xAC \\> 4xdocetaxel or 3xFEC\\>3xdocetaxel or 6xTAC)\n* Age \u226518 years\n* WHO performance status 0-2\n* Adequate bone marrow function: white blood cells (WBCs) \u22653.0 x 109/l, neutrophils \u22651.5 x 109/l, platelets \u2265100 x 109/l\n* Adequate liver function: bilirubin \u22641.5 x upper limit of normal (UNL) range, ALAT and/or ASAT \u22642.5 x UNL (\\<5 x UNL in case of liver metastases), Alkaline Phosphatase \u22645 x UNL\n* Adequate renal function: the calculated creatinine clearance should be \u226550 mL/min\n* Survival expectation must be \\> 3 months\n* Written informed consent according to the local Ethics Committee requirements\n\nExclusion Criteria:\n\n* Known hypersensitivity for docetaxel, paclitaxel or other chemotherapeutic agent or products containing polysorbate 80 or an earlier experience of anaphylaxis for food, insect bites, medication or another foreign substance.\n* Existence of edema of the limbs or trunk or elsewhere localized.\n* Active second malignancy\n* Diabetes Mellitus\n* Serious other diseases such as recent myocardial infarction (last 6 months), clinical signs of cardiac failure or clinically significant arrhythmias\n* Female patients who are pregnant or breast-feeding\n* Medical or psychological condition which in the opinion of the investigator would not permit the patient to complete the study or sign meaningful informed consent",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

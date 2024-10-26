@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02549430",
+    "briefTitle": "To Reverse ENDocrine Resistance Trial - PD 0332991 Monotherapy vs PD 0332991 in Combination With the Endocrine Therapy",
+    "officialTitle": "Phase 2,Open-label,Multicenter,Randomized Study of PD0332991 (Oral CDK4/6 Inhibitor) Monotherapy and in Combination With the HT to Which the pt Has Progressed in the Previous Line for ER+,Her2- Post-menopausal Advanced Breast Cancer Pts",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 115,
+    "primaryOutcomeMeasure": "Incidence of complete response (CR), partial response (PR) or stable disease (SD) \u226524 weeks (clinical benefit)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven diagnosis of adenocarcinoma of the breast with evidence of metastatic disease\n* ER positive tumor \u2265 10%\n* HER2 negative breast cancer by FISH or IHC\n* Progression of advanced breast cancer on first or second line endocrine therapy for advanced breast cancer\n* Paraffin-embedded tumor available for centralized assessment of biomarkers\n* Measurable disease according to RECIST 1.1 (bone only disease is allowed only if measurable).\n* Postmenopausal status\n* Eastern Cooperative Oncology Group (ECOG) Performance status 0 -2\n* Resolution of all acute toxic effects of prior therapy or surgical procedures to CTCAE grade \\>1\n* Adequate organ function\n\nExclusion Criteria:\n\n* Unstable brain metastases\n* Prior treatment with more than one line of CT or more than two lines of HT advanced breast cancer or any CDK inhibitor\n* Current treatment with therapeutic doses of anticoagulant\n* Current use or anticipated need for food or drugs that are known strong CYP3A4 inhibitors / inducers, drugs that are predominantly metabolized by CYP3A with narrow therapeutic indices, drugs with the potential of prolonging QT interval\n* Diagnosis of any secondary malignancy within the last 3 years\n* Active inflammatory bowel disease or chronic diarrhea\n* Known human immunodeficiency virus infection; active hepatitis C, active hepatitis B",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

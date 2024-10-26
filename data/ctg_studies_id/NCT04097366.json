@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04097366",
+    "briefTitle": "Breast Screening - Risk Adaptive Imaging for Density",
+    "officialTitle": "Breast Screening - Risk Adaptive Imaging for Density",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 13200,
+    "primaryOutcomeMeasure": "Cancer detection rate in each arm",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Willing and able to give written informed consent\n* Willing and able to comply with the scheduled study visits, tests and other procedures\n* Female\n* Screening mammogram that is either normal or being recalled for assessment\n* Increased breast density identified on current screening mammogram examination (BIRADS C or D)\n\n  * If BIRADS C the reporting radiologist should use clinical judgement as to eligibility, there should be a high chance of a cancer being masked in this participant\n  * All BIRADS D will be eligible\n* Aged 50-70 and eligible for 3-yearly NHS breast screening\n\nExclusion Criteria:\n\n* Known BRCA carrier or \u226550% risk of being a carrier\n* Unable to give informed consent\n* Breast implant(s)\n* Unable to be followed-up for the study duration\n* Current participation in another interventional breast screening trial (Including but not limited to MyPeBS)\n* Participated in part A of the BRAID study\n* Pregnant or breast feeding",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

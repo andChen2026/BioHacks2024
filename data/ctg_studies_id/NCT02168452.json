@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02168452",
+    "briefTitle": "Clinical Application of Dual Sentinel Lymph Node Staining Method in Breast Cancer",
+    "officialTitle": "Clinical Application of Dual Sentinel Lymph Node Staining Method in Breast Cancer Patients Who Receive Neoadjuvant Chemotherapy; Observational Pilot Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 5,
+    "primaryOutcomeMeasure": "Identification rate of sentinal lymph node biopsy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* breast cancer patients who receive neoadjuvant chemotherapy\n* cN1-cN2 or cT2 on tumor lymphnode metastasis classification(TNM)\n* ECOG Performance status 0 or 1\n* consented patients with more than 20 years, less than 70 years\n\nExclusion Criteria:\n\n* history of breast cancer\n* early stage breast cancer\n* history of excisional or incisional biopsy or axillary dissection\n* inflammatory breast carcinoma\n* cN3 on tumor lymphnode metastasis classification(TNM)\n* history of hormone therapy or targeted therapy\n* stage 4 breast cancer\n* pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

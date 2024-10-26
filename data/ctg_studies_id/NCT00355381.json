@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00355381",
+    "briefTitle": "Evaluating Patient Information Prescriptions",
+    "officialTitle": "Evaluating Patient Information Prescriptions in Different Service Environments",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Premature Birth",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 299,
+    "primaryOutcomeMeasure": "Patient Satisfaction",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast Cancer: any new patient seen in Johns Hopkins medical oncology for Breast Cancer\n* Neonatal Intensive care:Biological mothers (or consenting guardians) of premature infants born and admitted or transferred in to Johns Hopkins Hospital or Bayview Medical Center neonatal intensive care units.\n\nExclusion Criteria:\n\n* Breast Cancer: None\n* Neonatal Intensive Care: Parents with infants whose SNAP mortality \\>= 80%(J Pediatr. 2001 Jan;138(1):92-100)",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

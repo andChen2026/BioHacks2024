@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05463601",
+    "briefTitle": "Mecapegfilgrastim for the Prevention of Dalpiciclib -Induced Neutropenia in Advanced Breast Cancer",
+    "officialTitle": "Efficacy and Safety of Mecapegfilgrastim for Prophylaxis of Dalpiciclib -Induced Neutropenia in Patients With Advanced HR+/HER2- Breast Cancer: a Open-label, Multicenter, Investigator-initiated, Randomized Controlled Phase II Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 132,
+    "primaryOutcomeMeasure": "The incidence of grade \u22653 neutropenia at the end of cycle 2 (each cycle is 28 days)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age \u226518.\n2. Pathologically confirmed advanced HR+/HER2- breast cancer: there is evidence of focal recurrence or metastasis, which is not suitable for surgical resection or radiotherapy for the purpose of cure.\n3. No more than one line of chemotherapy is allowed for patients with recurrent and metastatic diseases.\n4. Eastern Cooperative Oncology Group (ECOG) performance status 0-2.\n5. Measurable lesions meeting RECIST 1.1 criteria or only bone metastases.\n6. For patients with brain metastases, there is need for local treatment, and the brain lesions are stable for \u2265 3 months, and no need for dexamethasone or mannitol.\n7. Adequate organ function: (I) adequate hematologic function: hemoglobin \u226590 g/L, absolute neutrophil count (ANC) \u22652.0\u00d7109/L, platelet count (PLT) \u2265100\u00d7109/L; (II) adequate renal and hepatic function.\n8. Negative pregnancy test.\n\nExclusion Criteria:\n\n1. Previous pathological diagnosis of HER2 positive breast cancer.\n2. Relapse and metastasis occurred after receiving neoadjuvant endocrine therapy or adjuvant therapy for 2 years, or disease progression or recurrence occurred within 12 months or 12 months after completion of adjuvant endocrine therapy.\n3. Previous treatment with cdk4/6 inhibitors.\n4. Major surgery, chemotherapy, radiotherapy, any research drug or other anti-cancer treatment within 2 weeks before entering the trial.\n5. Any other malignant tumor diagnosed within 3 years before entering the study, except non-melanoma skin cancer, basal cell or squamous cell skin cancer or cervical carcinoma in situ after radical treatment.\n6. Human immunodeficiency virus (HIV) infection or known acquired immunodeficiency syndrome (AIDS), active hepatitis B (HBV DNA \u2265 1000 IU/ml), hepatitis C (HCV antibody positive and HCV-RNA higher than the detection limit of the analytical method) or combined hepatitis B and hepatitis C co-infection.\n7. Within 6 months before entering the study, the following conditions occurred: myocardial infarction, severe / unstable angina pectoris, NYHA grade 2 or above cardiac insufficiency, persistent arrhythmia \u2265 grade 2 (according to nci-ctcae version 5.0), atrial fibrillation at any level, coronary / peripheral artery bypass grafting, symptomatic congestive heart failure, cerebrovascular accident (including transient ischemic attack or symptomatic pulmonary embolism).\n8. Inability to swallow, intestinal obstruction or other factors affecting drug administration and absorption.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

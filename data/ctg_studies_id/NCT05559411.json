@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05559411",
+    "briefTitle": "MEthods for LOcalization of Different Types of Breast Lesions",
+    "officialTitle": "A Prospective Non-interventional Multicenter Cohort Study to Evaluate Different Imaging-guided Methods for Localization of Non-palpable Malignant Breast Lesions",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 7416,
+    "primaryOutcomeMeasure": "Rate of intended target lesion and/or marker removal, independent of margin status on final histopathology (number of study participants with intended target lesion and/or marker removal, divided by the number of all study participants)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent form\n* Malignant breast lesion requiring breast-conserving surgery and imaging-guided localization (either DCIS or invasive breast cancer; multiple or bilateral lesions and the use of neoadjuvant chemotherapy are allowed)\n* Planned surgical removal of the lesion using one or more of the following imaging-guided localization techniques:\n\n  * Wire-guided localization\n  * Intraoperative ultrasound\n  * Magnetic localization\n  * Radioactive seed localization\n  * Radioguided Occult Lesion Localization (ROLL)\n  * Radar localization\n  * Radiofrequency identification (RFID) tag localization\n  * Ink/carbon localization\n* Female / male patients \u2265 18 years old\n\nExclusion Criteria:\n\n* Patients not suitable for surgical treatment\n* Patients requiring mastectomy as first surgery\n* Surgical removal without imaging-guided localization",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

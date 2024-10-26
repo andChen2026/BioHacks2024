@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04430595",
+    "briefTitle": "Multi-4SCAR-T Therapy Targeting Breast Cancer",
+    "officialTitle": "Multiple 4SCAR-T Cell Therapy Targeting Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Number of patients with adverse events.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with stage III, IV or relapsed breast cancer confirmed by histology and biopsy.\n2. Age: \u2265 18 years and \u2264 75 years.\n3. 2 weeks at least since last chemotherapy or radiotherapy and 2 weeks at least since last systemic steroid hormone and other immunosuppressive therapy.\n4. Side effects of chemotherapy have subsided.\n5. The target antigens GD2, CD44v6, or Her2 is expressed in malignancy tissues by immuno-histochemical or flow cytometry.\n6. Eastern Cooperative Oncology Group (ECOG) PS of 0 or 1.\n7. Expected survival \u2265 12 weeks.\n8. Initial hematopoietic reconstitution with neutrophils (ANC) \u2265 1\u00d710\\^6/L; platelet (PLT) \u2265 1\u00d710\\^8/L.\n9. Proper renal and hepatic functions (ULN denotes \"upper limit of normal range\") with serum creatinine \u2264 2\u00d7ULN; serum bilirubin \u2264 3\u00d7ULN; AST/ALT \u2264 2.5\u00d7ULN.\n10. Oxygen saturation \u2265 90%.\n11. Written, informed consent obtained prior to any study-specific procedures.\n\nExclusion Criteria:\n\n1. Airway obstruction caused by tumor.\n2. History of epilepsy or other central nervous system diseases.\n3. Patients who require systemic corticosteroid or other immunosuppressive therapy.\n4. History of prolonged or serious heart disease during QT.\n5. Current or recent treatment (within the 28-day period prior to Day 0) with another investigational drug or previous participation in this study.\n6. Inadequate liver and renal function with serum creatinine \\> 1.5 mg/dl; serum (total) bilirubin \\> 2.0 mg/dl; AST \\& ALT \\> 3 x ULN.\n7. Pregnant or lactating females.\n8. Serious active infection during screening.\n9. Active HIV, hepatitis B virus (HBV), hepatitis C virus (HCV) infection or uncontrolled infection.\n10. Patients, in the opinion of investigators, may not be eligible or not able to comply with the study.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

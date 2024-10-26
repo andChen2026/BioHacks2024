@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05126667",
+    "briefTitle": "Analysis of Breast-Conserving Surgery Plus Whole-Breast Irradiation Versus Mastectomy",
+    "officialTitle": "A Propensity Score-Matched Analysis of Breast-Conserving Surgery Plus Whole-Breast Irradiation Versus Mastectomy in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 9710,
+    "primaryOutcomeMeasure": "Cumulative incidence of ipsilateral breast tumor recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* First primary breast cancer\n* pT1-2\n* pN0-3a\n* Surgery performed at European Institute of Oncology between 2000 and 2008\n\nExclusion Criteria:\n\n* pT\\>=3\n* Neoadjuvant treatment\n* Presence of metastatic breast disease at the time of admission or within 3 months",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

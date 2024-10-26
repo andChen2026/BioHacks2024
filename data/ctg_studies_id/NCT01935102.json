@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01935102",
+    "briefTitle": "Polymorphism Interaction to Predict Bevacizumab Efficacy",
+    "officialTitle": "Polymorphism Interaction to Predict Bevacizumab Efficacy in Advanced Breast Cancer Patients: an Exploratory Retrospective Analysis",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 169,
+    "primaryOutcomeMeasure": "progression-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* diagnosis histologically confirmed of metastatic breast cancer\n* age (from 18 to 90 years)\n* Eastern Cooperative Oncology Group (ECOG) performance status (0 or 1-2)\n* hormonal-receptor status (positive or negative)\n* previous adjuvant chemotherapy (none, anthracycline or anthracycline plus taxane)\n* previous hormonal therapy (adjuvant or metastatic)disease-free interval from the first diagnosis of breast cancer (\u2264 or \\>12 months)\n* extent of disease (\u2264 or \\>3 sites)\n* location of disease (viscera or bone)\n* disease evaluation (measurable or non-measurable)and bevacizumab maintenance (yes or no).\n\nExclusion Criteria:\n\n* Patients with human epidermal growth factor receptor type 2 (HER2)-positive",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

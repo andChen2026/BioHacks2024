@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01310530",
+    "briefTitle": "Partial Breast Proton Therapy for Early Stage Breast Cancer",
+    "officialTitle": "Phase 2 Trial of Partial Breast Proton Therapy for Early Stage Breast Cancer With Low and Intermediate Risk Factors.",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Rate of recurrence in the breast",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast carcinoma\n* DCIS\n* Age 40 years or higher\n* Primary tumor 3 cm or less\n* Lumpectomy with clip placement\n* Axillary node sampling\n* Negative margins\n\nExclusion Criteria:\n\n* Distant metastasis\n* Multicentric disease\n* Prior radiation or chemotherapy\n* Active collagen vascular disease\n* Pregnant or lactating\n* BRCA mutation\n* Lymph nodes with more than microscopic tumor involvement",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

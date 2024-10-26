@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05247463",
+    "briefTitle": "English Mammography Screening Outcomes by Age, Frequency and Test Threshold",
+    "officialTitle": "Observational Study of Age, Test THreshold and Frequency on English NAtional Mammography Screening Outcomes (ATHENA-M)",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 10000000,
+    "primaryOutcomeMeasure": "Breast Cancer Specific Mortality",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women invited for breast cancer screening by the English NHS Breast Screening Programme\n\nExclusion Criteria:\n\n* Missing or corrupted data for NHS number, so linkage between databases is not possible\n* For analysis of test threshold and screening interval: women who did not attend routine English NHS Breast screening service within the specified date and age range, even if they attended symptomatic breast cancer services, high risk (family history) breast screening services, or if they were referred for mammograms by their general practitioner",
+    "sex": "FEMALE",
+    "minimumAge": "47 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04671615",
+    "briefTitle": "A Study to Understand the Treatment Patterns and Patients and Their Clinical Outcomes Who Are Taking Palbociclib in a Real Life Setting in Israel.",
+    "officialTitle": "DEMOGRAPHICS, PATIENT CHARACTERISTICS, TREATMENT PATTERNS AND CLINICAL OUTCOMES OF PATIENTS TREATED WITH PALBOCICLIB IN A REAL LIFE SETTING IN ISRAEL",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 559,
+    "primaryOutcomeMeasure": "Number of Participants Categorized According to Type of Index Combination Treatment Regimen",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* A diagnosis of metastatic breast cancer, based on the National/MHS cancer registry.\n* Newly diagnosed metastatic breast cancer patients and newly treated with palbociclib within 6 months of diagnosis, in any line of treatment in the metastatic setting.\n* Available data on palbociclib treatment for at least 6 months.\n* Continuous healthcare plan enrolment in MHS for at least one year before index date.\n\nExclusion Criteria:\n\n* Patients that initiated HER2 inhibitors.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

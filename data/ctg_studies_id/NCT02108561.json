@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02108561",
+    "briefTitle": "Breast Cancer Tumor Heterogeneity",
+    "officialTitle": "Does Breast Tumor Heterogeneity Necessitate Additional HER2 Testing on the Surgical Specimens?",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 110,
+    "primaryOutcomeMeasure": "Benefit of additional Her2 testing",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women \\> age 18 with capacity to consent\n2. Invasive breast cancer identified on CNB at AAMC within 45 days of study consent\n3. IHC biomarkers performed on original CNB (including HER2)\n4. Tumors with greater than 2cm of invasive disease (measured radiographically prior to resection or microscopically after resection), or\n5. Multifocal or multicentric tumors\n\nExclusion Criteria:\n\n1. Men\n2. Women with HER2 positive tumors detected on CNB specimens\n3. Women receiving neoadjuvant chemotherapy\n4. Women whose CNB or surgical resection was performed at a hospital other than AAMC. If the CNB prior to resection was repeated at AAMC and new tumor biomarkers were performed, then the patient is eligible for enrollment\n5. Women whose IHC marker results were inconclusive on CNB or not performed -",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

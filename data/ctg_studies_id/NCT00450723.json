@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00450723",
+    "briefTitle": "Thoracoscopic Sentinel Lymph Node Biopsy in Patients With Stage I or Stage II Breast Cancer",
+    "officialTitle": "Thoracoscopic Internal Mammary Sentinel Node Biopsy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 39,
+    "primaryOutcomeMeasure": "Success Rate in Removing Sentinel Lymph Nodes by Thoracoscopy",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer\n\n  * Stage I or II disease (T1-T2, N0, M0/MX disease)\n\n    * No chest wall invasion by tumor (T3 disease)\n* Medially or centrally located lesion\n* No multicentric disease\n\n  * Multifocal disease allowed\n* No clinically positive axillary nodes\n* No enlarged internal mammary nodes by CT scan\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Male or female\n* Menopausal status not specified\n* American Society of Anesthesiologists (ASA) physical status classification 1-2\n* Not pregnant or nursing\n* Negative pregnancy test\n* No other concurrent known, invasive malignancy\n* No known chronic pulmonary disease\n* No known allergy to methylene blue or isosulfan blue\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior thoracic or cardiac surgery\n* No prior ipsilateral chest tube placement\n\n  * Contralateral chest tube placement allowed\n* No prior neoadjuvant chemotherapy\n* No prior radiotherapy to the mediastinum",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

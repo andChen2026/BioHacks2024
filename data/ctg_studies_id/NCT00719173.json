@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00719173",
+    "briefTitle": "Effect of Aprepitant on Cyclophosphamide Pharmacokinetics in Patients With Breast Cancer",
+    "officialTitle": "Evaluating the Effect of Aprepitant on Cyclophosphamide Pharmacokinetics",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Nausea and Vomiting",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 19,
+    "primaryOutcomeMeasure": "Effect of aprepitant on cyclophosphamide and 4-hydroxycyclophosphamide pharmacokinetics as measured by plasma AUC",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of breast cancer\n* Planning to receive cyclophosphamide 600 mg/m\u00b2-1,000 mg/m\u00b2 IV infusion\n\n  * No cyclophosphamide dose change between courses 1 and 2\n\nPATIENT CHARACTERISTICS:\n\n* Life expectancy \u2265 2 months\n* ANC \u2265 1,500/\u03bcL\n* Platelet count \u2265 100 x 10\\^9/L\n* Hemoglobin \u2265 9.0 g/dL\n* Serum creatinine \u2264 1.5 mg/dL\n* AST/ALT \u2264 2 times upper limit of normal\n* Not pregnant or nursing\n* No contraindication to aprepitant\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No concurrent medications that are CYP3A4 substrates, inhibitors, and/or inducers, with the exception of the dexamethasone contained as part of the standard antiemetic regimen",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

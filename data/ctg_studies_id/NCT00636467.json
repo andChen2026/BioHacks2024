@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00636467",
+    "briefTitle": "Axillary Sentinel Lymph Node Detection in Breast Cancers > 2 cm",
+    "officialTitle": "Evaluation of the Technique of Axillary Sentinel Lymph Node (SLN) Detection in Breast Cancers > 2 cm",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 249,
+    "primaryOutcomeMeasure": "Quality criteria of the SLN detection technique",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, age \u2265 18 years\n* Patient with invasive unifocal breast cancer with tumor size \\> 2 cm at initial examination (clinical examination and/or imaging)\n* Preoperative histological diagnosis of infiltrating mammary carcinoma\n* No lymph node at clinical examination\n* No treatment for this cancer before surgery\n* Mandatory affiliation with a social security system\n* Written, signed informed consent\n\nExclusion Criteria:\n\n* No invasive breast cancer\n* Breast tumor =\\< 2 cm\n* Preoperative histological diagnosis other than infiltrating mammary carcinoma\n* Multifocal breast cancer\n* Inflammatory breast cancer\n* Metastatic cancer\n* History of homolateral breast surgery\n* History of allergic disorders\n* History of homolateral breast cancer\n* Difficult follow-up\n* Pregnant or lactating woman\n* Previous inclusion in the trial",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

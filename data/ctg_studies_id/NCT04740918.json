@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04740918",
+    "briefTitle": "A Study of Trastuzumab Emtansine in Combination With Atezolizumab or Placebo as a Treatment for Participants With Human Epidermal Growth Factor 2 (HER2)-Positive and Programmed Death-ligand 1 (PD-L1)-Positive Locally Advanced (LABC) or Metastatic Breast Cancer (MBC)",
+    "officialTitle": "A Randomized, Multicenter, Double-Blind, Placebo-Controlled Phase III Study of the Efficacy and Safety of Trastuzumab Emtansine in Combination With Atezolizumab or Placebo in Patients With HER2-Positive and PD-L1-Positive Locally Advanced or Metastatic Breast Cancer Who Have Received Prior Trastuzumab- (+/- Pertuzumab) and Taxane-Based Therapy (KATE3)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 96,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS) as Determined by Investigator's Assessment Using Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1 (v1.1)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* HER2+ and PD-L1+ locally advanced (LABC) or metastatic breast cancer (MBC)\n* Progression must have occurred during most recent treatment for LABC/MBC or during, or within 6 months after completing, neoadjuvant and/or adjuvant therapy\n* Prior treatment with trastuzumab (+/- pertuzumab) and taxane in the neoadjuvant and/or adjuvant, locally advanced, or metastatic setting\n* No more than two prior lines of therapy in the metastatic setting\n* Measurable disease per RESIST version 1.1\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1\n* Life expectancy \\>= 6 months\n* Adequate hematologic and end-organ function\n* For women of childbearing potential: agreement to remain abstinent or use contraception, and agreement to refrain from donating eggs\n* For men: agreement to remain abstinent or use contraceptive measures, and agreement to refrain from donating sperm\n\nExclusion Criteria:\n\n* Prior treatment with trastuzumab emtansine in metastatic setting\n* History of exposure to cumulative doses of anthracyclines\n* Symptomatic or actively progressing central nervous system (CNS) metastases; asymptomatic CNS lesions \u2264 2cm without clinical requirement for local intervention or asymptomatic patients with treated CNS lesions are eligible\n* Current Grade \\>= 3 peripheral neuropathy\n* Cardiopulmonary dysfunction\n* History of malignancy within 5 years prior to initiation of study treatment, with the exception of the cancer under investigation and malignancies with a negligible risk of metastasis or death\n* History of leptomeningeal disease\n* Active or history of autoimmune disease or immune deficiency\n* Active hepatitis B, hepatitis C and/or tuberculosis\n* Prior allogeneic stem cell or solid organ transplantation\n* Receipt of a live, attenuated vaccine within 4 weeks prior to initiation of study treatment, during treatment, or within 5 months following the last dose of study treatment\n* Pregnancy or lactation",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

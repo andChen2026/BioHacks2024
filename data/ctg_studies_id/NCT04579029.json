@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04579029",
+    "briefTitle": "PRELUDE Study of Lymphatic Surgery to Treat Breast Cancer Related Lymphoedema",
+    "officialTitle": "Prospective Randomized Evaluation of Lymphaticovenous Anastomosis Using Dynamic Imaging in Breast Cancer-related Lymphoedema",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Lymphedema",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 64,
+    "primaryOutcomeMeasure": "Mean excess volume reduction - compared between two cohorts",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer patients treated with axillary surgery who have developed post-surgical lymphoedema (increase in limb volume by \\>10% for 1 month or longer)\n* Patients must have completed their adjuvant therapy (excluding hormonal/long term Rx)\n* Patients must be within 6 months of having developed documented lymphoedema\n\nExclusion Criteria:\n\n* \u2022 Contraindications to the use of the contrast agent (iodine allergy / untreated hypothyroidism)\n\n  * Near infra-red spectroscopy providing insufficient data to guide surgery or evidence of LVA incompatibility (As these patients will be have only just developed lymphoedema, they are by definition very early in the spectrum of disease progression. Thus, the chances of all superficial lymphatics deteriorating to the extent that LVA surgery is not possible is extremely low - \\<1% we expect).\n  * Inability to give informed consent or cooperate with assessment procedures and follow-up because of cognitive or physical impairments\n  * Medical co-morbidities increasing the risk of general anaesthetic (significant cardiac / respiratory disease)\n  * Recurrent, metastatic or progressive disease, defined by oncology team on basis of clinical assessment or imaging\n  * Evidence of pre-existing / primary lymphoedema on clinical history or lymphoscintigraphy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

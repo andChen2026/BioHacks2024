@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01050829",
+    "briefTitle": "Gadobutrol Magnevist-controlled Body Study",
+    "officialTitle": "A Multi-center/Multi-national, Randomized, Controlled, Single-blind, Group Comparison Phase 3 Study to Determine the Efficacy and Safety of Gadobutrol 1.0 Molar in Comparison to Magnevist Following Single Injection in Patients Referred for Contrast-enhanced MRI of the Body/Extremities Regions (Breast, Heart, Abdomen, Kidney, Pelvis, or Extremities)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Magnetic Resonance Imaging",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 370,
+    "primaryOutcomeMeasure": "The total score of the following 3 visualization parameters is used for primary variable: Degree of contrast enhancement; Border delineation; Internal morphology.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Is at least 20 years of age\n* Is referred for a contrast-enhanced MRI of the body/extremities based on current clinical symptoms or results of a previous imaging procedure\n* Is willing to undergo the routine contrast-enhanced MRI examinations\n* Is willing and able to complete all study procedures specified in the protocol\n* Subject is male, or is female not of childbearing potential, or is female of childbearing potential who is using any medically accepted means of contraception and has a negative urine pregnancy test prior to the administration of gadobutrol or Magnevist\n\nExclusion Criteria:\n\n* Is a female subject who is pregnant or nursing\n* Has received any investigational product or has participated in any other clinical trial within 2 weeks prior to enrolling in this study\n* Has been previously enrolled in this study or any other study using gadobutrol\n* Has any contraindication to the MRI examinations or the use of Gd-containing contrast agents\n* Has a history of severe allergic or anaphylactoid reaction to any allergen including drugs and contrast agents\n* Has received any contrast agent within 24 hours prior to the study MRI\n* Has a glomerular filtration rate value \\<30 mL/min/1.73m2 derived from a serum creatinine result within 4 weeks prior to study enrollment\n* Is considered clinically unstable or his/her clinical course during the study period is unpredictable (eg, due to previous surgery, acute renal failure)\n* Has severe cardiovascular disease (eg, acute myocardial infarction (\\<14 days), unstable angina, congestive heart failure New York Heart Association class IV) or acute stroke (\\<48 hours)\n* Patients with acute renal insufficiency of any severity due to hepato-renal syndrome or in the perioperative liver transplantation period\n* Has any contraindication to Magnevist according to the package insert",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

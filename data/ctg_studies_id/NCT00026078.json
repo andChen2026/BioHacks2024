@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00026078",
+    "briefTitle": "Docetaxel and Ifosfamide in Treating Women With Metastatic Breast Cancer",
+    "officialTitle": "Docetaxel (DTX) - Ifosfamide (IFX) As First Line Chemotherapy In Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 42,
+    "primaryOutcomeMeasure": "Response rate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed metastatic breast cancer\n* Bidimensionally measurable lesions\n\n  * The following are not considered measurable:\n\n    * Bone lesions\n    * Leptomeningeal disease\n    * Ascites\n    * Pleural/pericardial effusion\n    * Inflammatory breast disease\n    * Lymphangitis cutis/pulmonis\n* Disease progression after hormonal therapy allowed provided at least 1 month since last therapeutic manipulation\n* No CNS metastases\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 21 to 75\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* ECOG 0-2 OR\n* Zubrod 0-2\n\nLife expectancy:\n\n* More than 12 weeks\n\nHematopoietic:\n\n* WBC at least 4,000/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n* Hemoglobin at least 11 g/dL\n\nHepatic:\n\n* Bilirubin no greater than 1.25 times upper limit of normal (ULN)\n* SGOT no greater than 1.25 times ULN\n\nRenal:\n\n* Creatinine clearance at least 60 mL/min\n\nCardiovascular:\n\n* No history of congestive heart failure\n* No myocardial infarction within the past 6 months\n* No active ischemic heart disease\n* No uncontrolled hypertension\n\nOther:\n\n* Not pregnant\n* No other prior or concurrent malignancy except properly treated basal cell skin cancer or carcinoma in situ of the cervix\n* No other medical or psychiatric diseases that would preclude study\n* No geographical situation that would preclude study\n* No history of alcohol abuse\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* No prior adjuvant chemotherapy including ifosfamide or docetaxel\n* No prior systemic chemotherapy for metastatic breast cancer\n\nEndocrine therapy:\n\n* See Disease Characteristics\n* No concurrent corticoids, gestagens, or androgens unless strictly indicated\n\nRadiotherapy:\n\n* Not specified\n\nSurgery:\n\n* Not specified\n\nOther:\n\n* No concurrent drinks containing caffeine or alcohol",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

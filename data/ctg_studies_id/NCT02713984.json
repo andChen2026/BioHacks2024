@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02713984",
+    "briefTitle": "A Clinical Research of CAR T Cells Targeting HER2 Positive Cancer",
+    "officialTitle": "A Clinical Research of CAR T Cells Targeting HER2 Positive Cancer",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer, Ovarian Cancer, Lung Cancer, Gastric Cancer, Colorectal Cancer, Glioma, Pancreatic Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Determine the toxicity profile of the HER2 targeted CAR T cells with Common Toxicity Criteria for Adverse Effects (CTCAE) version 4.0.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Relapsed or refractory HER2 positive cancer.\n2. KPS\\>60.\n3. Life expectancy\\>3 months.\n4. Gender unlimited, age from 18 years to 80 years.\n5. Assessable lesions with a minimum size of 10mm by CT scan or MRI.\n6. Acceptable organ function\n\n   Hematology:\n   * Absolute neutrophil count greater than 800/mm\\^3 without the support of filgrastim.\n   * White blood cell (WBC) (\\> 2000/mm\\^3).\n   * Platelet count greater than 50,000/mm\\^3.\n   * Hemoglobin greater than 9.0 g/dl.\n\n   Chemistry:\n   * Serum alanine aminotransferase (ALT)/aspartate aminotransferase (AST) less or equal to 3 times the upper limit of normal (patients without liver metastasis) or 6 times the upper limit of normal (patients with liver metastasis).\n   * Serum creatinine less or equal to 3 times the upper limit of normal\n   * Total bilirubin less than or equal to 3 times the upper limit of normal.\n7. No other serious diseases(autoimmune disease, immunodeficiency etc.).\n8. Adequate cardiac function(LVEF\u226540%).\n9. No other tumors.\n10. Patients volunteer to participate in the research.\n\nExclusion Criteria:\n\n1. Allergic to cytokines.\n2. Uncontrolled active infection.\n3. Acute or chronic GVHD.\n4. MODS.\n5. Treated with T cell inhibitor.\n6. HIV affected.\n7. Other situations improper for the research.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

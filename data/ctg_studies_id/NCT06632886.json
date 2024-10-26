@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06632886",
+    "briefTitle": "AI-Assisted Non-Contrast CT for Multi-Cancer Screening",
+    "officialTitle": "A Prospective Cohort Study Evaluating the Utility of Artificial Intelligence-Assisted Non-Contrast Computed Tomography for Multi-Cancer Screening in Asymptomatic Individuals Undergoing Routine Health Examinations",
+    "overallStatus": "RECRUITING",
+    "conditions": "Lung Cancers, Liver Cancer, Gastric Cancers, Colorectal, Cancer, Esophageal Cancer, Pancreatic Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1000000,
+    "primaryOutcomeMeasure": "Diagnostic yield",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Subject is able and willing to provide informed consent and sign an informed consent form.\n2. Subject has undergone an abdominal or chest non-contrast CT scan.\n\nExclusion Criteria:\n\n1. Subject has been diagnosed with one of the following cancers within the last five years: lung, liver, stomach, colon, esophageal, pancreatic, or breast cancer;\n2. Subject has any medical condition that contraindicates high-resolution MRI/CT/Endoscopy;\n3. Subject cannot be followed up or is participating in other clinical trials.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

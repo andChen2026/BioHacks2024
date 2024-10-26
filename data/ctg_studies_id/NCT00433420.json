@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00433420",
+    "briefTitle": "Combination Chemotherapy With or Without Fluorouracil and/or Pegfilgrastim in Treating Women With Node-Positive Breast Cancer",
+    "officialTitle": "A Phase III Randomized Study of EC Followed by Paclitaxel Versus FEC Followed by Paclitaxel, All Given Either Every 3 Weeks or 2 Weeks Supported by Pegfilgrastim, for Node Positive Breast Cancer Patients",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "Disease-free survival",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed primary breast cancer\n\n  * No histology other than carcinoma\n* Node-positive disease\n\n  * Must have at least 1 involved axillary node or internal mammary node\n* Previously resected disease\n\n  * Has undergone radical surgery (i.e., mastectomy or conservative surgery) with axillary node dissection within the past 7 weeks\n* No inflammatory carcinoma\n* No prior or concurrent ipsilateral or contralateral invasive breast carcinoma\n* No metastatic disease, including metastasis in the ipsilateral supraclavicular lymph nodes\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Menopausal status not specified\n* ECOG performance status 0-1\n* Absolute neutrophil count \u2265 1,500/mm\u00b3\n* WBC \u2265 4,000/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Hemoglobin \u2265 9 g/dL\n* Bilirubin \u2264 1.5 times upper limit of normal (ULN)\n* Creatinine \u2264 1.5 times ULN\n* AST and ALT \u2264 2.5 times ULN\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No chronic liver or renal disease\n* No other serious medical illness requiring medication\n* No other malignancy except adequately treated, cone-biopsied in situ carcinoma of the cervix or basal cell or squamous cell carcinoma of the skin\n* No symptomatic peripheral neuropathy \\> grade 2\n* No hypersensitivity to study drugs or their components\n* No recent myocardial infarction, congestive heart failure, or serious arrhythmia\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior chemotherapy\n* No prior cytotoxic regimens\n* No prior radiation therapy, except for intraoperative radiation therapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

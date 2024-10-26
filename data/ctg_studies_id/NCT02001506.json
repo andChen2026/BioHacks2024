@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02001506",
+    "briefTitle": "Neoadjuvant Chemotherapy of 6 Cycles vs 8 Cycles in Node Positve Breast Cancer",
+    "officialTitle": "A Randomized Phase III Trial of Neoadjuvant Chemotherapy With 3 Cycles of FEC Followed by 3 Cycles of Docetaxel Versus 4 Cycles of Adriamycin Plus Cyclophosphamide Followed by 4 Cycles of Docetaxel in Node-positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 250,
+    "primaryOutcomeMeasure": "pathologic complete response (pCR) between two arms",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Performance status 0 or 1\n* Clinically stage 2 or 3 with histologically proven lymph node involvement\n* Tumor or lymph node greater than 1.5 cm\n\nExclusion Criteria:\n\n* Pregnancy or lactation\n* Prior chemotherapy or radiotherapy for any malignancy\n* Documented history of cardiac disease contraindicating anthracyclines\n* Currently active infection",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

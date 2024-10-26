@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05103293",
+    "briefTitle": "PTC Guiding Neoadjuvant Treatment in Breast Cancer",
+    "officialTitle": "Neoadjuvant Therapy for Breast Cancer Based on Patient-derived Tumor-like Cell Clusters Advanced Drug Sensitization Regimens: a Phase II Randomized Controlled Clinical Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Pathological Conditions, Signs and Symptoms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 86,
+    "primaryOutcomeMeasure": "pCR rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female between 18 to 70 years old.\n2. Patients diagnosed with invasive breast cancer by pathology.\n3. Clinical stage considered as T2-4N0-2M0 .\n4. HER2 overexpression by IHC or FISH positive.\n5. Patients plan to accept neoadjuvant therapy or plan to accept adjuvant therapy after neoadjuvant therapy and surgery.\n\nExclusion Criteria:\n\n1. Patients have already accepted any other anti-tumor treatment not included in our project.\n2. Patients with metastasis are not considered surgery therapy.\n3. Patients cannot accept chemotherapy or anti-HER2 targeted therapy, because of severe cardiovascular diseases or other reasons",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

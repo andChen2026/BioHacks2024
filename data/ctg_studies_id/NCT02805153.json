@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02805153",
+    "briefTitle": "PEG-rhG-CSF in Patients With Breast Cancer Receiving Chemotherapy",
+    "officialTitle": "The Multi-center, Open-label,Randomized Comparison Phase IV Clinical Trial of Efficacy and Safety of PEG-rhG-CSF in Preventing Neutropenia in Patients With Breast Cancer Receiving Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 215,
+    "primaryOutcomeMeasure": "the occurrence rate of grade IV neutropenia during the first chemotherapy cycle",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with age between 18 and 70 years\n* diagnosis of breast cancer patients\n* chemotherapy naive\n* Karnofsky Performance Status \u2265 70\n* Written informed consent are acquired\n\nExclusion Criteria:\n\n* uncontrolled infection\n* Have accepted radiotherapy within 4 weeks before anticipated the study\n* pregnancy\n* Other situations that investigators consider as contra-indication for this study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

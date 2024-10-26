@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02541370",
+    "briefTitle": "Treatment of Relapsed and/or Chemotherapy Refractory Advanced Malignancies by CART133",
+    "officialTitle": "Clinical Study of Chimeric CD(Cluster of Differentiation)133 Antigen Receptor-modified T Cells in Relapsed and/or Chemotherapy Refractory Malignancies",
+    "overallStatus": "COMPLETED",
+    "conditions": "Liver Cancer, Pancreatic Cancer, Brain Tumor, Breast Cancer, Ovarian Tumor, Colorectal Cancer, Acute Myeloid and Lymphoid Leukemias",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Occurrence of study related adverse events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Chemotherapy refractory or relapsed CD133-positive liver cancer, pancreatic cancer, brain tumor ,breast cancer, ovarian tumors, colorectal cancer and acute leukemia.\n2. Patients must be 18 years of age or older.\n3. Patients must have an ECOG (Eastern Cooperative Oncology Group )performance status of 0-2.\n4. Patients must have evidence of adequate bone marrow reserve, hepatic and renal function as evidenced by the following laboratory parameters:\n\n   Absolute neutrophil count greater than 1500/mm3. Platelet count greater than 100,000/mm3. Hemoglobin greater than 10g/dl (patients may receive transfusions to meet this parameter).\n\n   Total bilirubin \\< 1.5 times upper limits of normal. Serum creatinine less than or equal to 1.6 mg/ml or the creatinine clearance must be greater than 70 ml/min/1.73m.\n5. Seronegative for HIV antibody.\n6. Seronegative for active hepatitis B, and seronegative for hepatitis C antibody.\n7. Patients must be willing to practice birth control during and for four months following treatment. NOTE: women of child-bearing age must have evidence of negative pregnancy test.\n8. Patients must be willing to sign an informed consent.\n\nExclusion Criteria:\n\n* 1. Patients with life expectancy less than 12 months will be excluded. 2. Patients with uncontrolled hypertension (\\> 160/95), unstable coronary disease evidenced by uncontrolled arrhythmias, unstable angina, decompensated congestive heart failure (\\> New York Heart Association Class II), or myocardial infarction within 6 months of study will be excluded.\n\n  3. Patients with any of the following pulmonary function abnormalities will be excluded: FEV(forced expiratory volume), \\< 30% predicted; DLCO (diffusing capacity of lung for carbon monoxide) \\< 30% predicted (post-bronchodilator); Oxygen Saturation less than 90% on room air.\n\n  4. Patients with severe liver and kidney dysfunction or consciousness disorders will be excluded.\n\n  5. Pregnant and/or lactating women will be excluded. 6. Patients with active infections, including HIV, will be excluded, due to unknown effects of the vaccine on lymphoid precursors.\n\n  7. Patients with any type of primary immunodeficiencies will be excluded from the study.\n\n  8. Patients requiring corticosteroids (other than inhaled) will be excluded. 9. Patients with history of T cell tumors will be excluded. 10. Patients who are participating or participated any other clinical trials in latest 30 days will be excluded.\n\n  11. Patients with relapsed acute leukemia after allogeneic stem cell transplantation",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00732810",
+    "briefTitle": "SCH 727965 in Patients With Advanced Breast and Lung Cancers (Study P04716)",
+    "officialTitle": "A Randomized Phase 2 Study of SCH 727965 in Subjects With Advanced Breast and Non Small Cell Lung (NSCLC) Cancers",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Carcinoma, Non-Small-Cell Lung",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 97,
+    "primaryOutcomeMeasure": "Time to disease progression.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\>=18 years, either sex, any race.\n* Histologically or cytologically confirmed breast cancer or NSCLC; and radiographic or clinically advanced disease.\n* BREAST CANCER:\n\n  * participant must have previously received both a taxane and an anthracycline (unless anthracycline therapy is contraindicated) in the adjuvant and/or metastatic setting,\n  * participant with HER2-positive disease must have progressed after trastuzumab and concomitant or subsequent lapatinib,\n  * participant must have received at least one, but no more than two prior regimens for recurrent or metastatic disease (endocrine and biologic therapies do not count as chemotherapeutic regimens).\n* NSCLC: at least one, but no more than two prior chemotherapeutic regimens for advanced disease.\n* Measurable disease by the RECIST.\n* Eastern Cooperative Oncology Group performance status of 0, 1, or 2.\n* Adequate hematologic, renal, and hepatic organ function and laboratory parameters.\n* Ability to swallow tablets.\n\nExclusion Criteria:\n\n* Known brain metastases. For NSCLC only, a participant with central nervous system metastasis is eligible provided the participant has received definitive local therapy (ie, radiation therapy or surgery), has stopped receiving treatment with corticosteroids, and is without symptoms for at least 4 weeks before randomization.\n* History of previous radiation therapy to \\>25% of total bone marrow.\n* Known HIV infection.\n* Known active hepatitis B or hepatitis C.\n* Previous treatment with SCH 727965 or other cyclin-dependent-kinase inhibitors.\n* BREAST CANCER:\n\n  * known dihydropyrimidine dehydrogenase deficiency,\n  * previous treatment with capecitabine.\n* NSCLC: previous treatment with erlotinib.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

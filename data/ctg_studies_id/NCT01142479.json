@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01142479",
+    "briefTitle": "Compound Herbal Formula (TPE-1) for Leukopenia and Cancer-related Fatigue in Breast Cancer Patients With Radiotherapy",
+    "officialTitle": "The Effects of Compound Herbal Formula(TPE-1) for Leukopenia and Cancer-related Fatigue in Breast Cancer Patients With Radiotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Radiotherapy, Chinese Herbal Medicine",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "the % change of white blood cell(WBC) count",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* breast cancer\n* age between 18 to 70 yrs\n* finished chemotherapy (adriamycin ), will receiving radiotherapy\n* Chinese population\n* KP$ between 40-100\n* ECOG \\< 2\n* WBC \\>4X10(9)\uff0fL and Hb \\> 10g/dl\n* Assigned informed concent.\n\nExclusion Criteria:\n\n* receiving operation during 14 days\n* blood transfusion during one month.\n* ALT \\>100mg/dL\n* Creatinine \\>2.0mg/dL\n* Total bilirubin \\>2.0mg/dL\n* Infection\n* prolation\n* Taking anti-seizure , psychological drugs or any drugs not suitable patients\n* AIDS or any disease diagnosed by physician and not suitable patients.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

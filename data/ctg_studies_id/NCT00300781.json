@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00300781",
+    "briefTitle": "Study Evaluating HKI-272 (Neratinib) In Subjects With Advanced Breast Cancer",
+    "officialTitle": "Phase 2 Study of HKI-272 In Subjects With Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 136,
+    "primaryOutcomeMeasure": "16-week Progression Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathologic diagnosis of breast cancer and current stage IIIB, IIIC, or IV\n* Progression following at least 6 weeks of standard doses of Herceptin (Arm A only)\n* Over-expression of HER2\n* Tumor tissue available and adequate for analysis at screening\n* At least one measurable lesion\n\nExclusion Criteria:\n\n* Prior treatment with Herceptin (Arm B only)\n* More than 4 prior cytotoxic chemotherapy regimens\n* Subjects with bone or skin as the only site of measurable disease\n* Inadequate cardiac function\n* Major surgery, chemotherapy, radiotherapy, investigational agents or other cancer therapy within 1 week of treatment day 1\n* Active central nervous system metastases\n* Pregnant or breastfeeding women\n* Inability to swallow the HKI-272 capsules",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02032823",
+    "briefTitle": "Olaparib as Adjuvant Treatment in Patients With Germline BRCA Mutated High Risk HER2 Negative Primary Breast Cancer",
+    "officialTitle": "A Randomised, Double-blind, Parallel Group, Placebo-controlled Multi-centre Phase III Study to Assess the Efficacy and Safety of Olaparib Versus Placebo as Adjuvant Treatment in Patients With gBRCA1/2 Mutations and High Risk HER2 Negative Primary Breast Cancer Who Have Completed Definitive Local Treatment and Neoadjuvant or Adjuvant Chemotherapy",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1837,
+    "primaryOutcomeMeasure": "Invasive Disease Free Survival (IDFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed non-metastatic primary invasive adenocarcinoma of the breast that is one of the following phenotypes:\n\n  1. Triple negative breast cancer defined as: ER and PgR negative AND HER2 negative (not eligible for anti-HER2 therapy)\n  2. ER and/or PgR positive, HER2 negative\n* Documented germline mutation in BRCA1 or BRCA2 that is predicted to be deleterious or suspected deleterious (known or predicted to be detrimental/lead to loss of function).\n* Completed adequate breast and axilla surgery.\n* Completed at least 6 cycles neoadjuvant or adjuvant chemotherapy containing anthracyclines, taxanes or the combination of both. Prior platinum as potentially curative treatment for prior cancer (e.g. ovarian) or as adjuvant or neoadjuvant treatment for breast cancer is allowed.\n* ECOG 0-1.\n\nExclusion criteria:\n\n* Any previous treatment with a PARP inhibitor, including olaparib and/or known hypersensitivity to any of the excipients of study treatment.\n* Patients with second primary malignancy. EXCEPTIONS are:\n\n  1. adequately treated non-melanoma skin cancer, curatively treated in situ cancer of the cervix, Ductal Carcinoma in situ (DCIS) of the breast, stage 1 grade 1 endometrial carcinoma\n  2. other solid tumours and lymphomas (without bone marrow involvement) diagnosed \u2265 5 years prior to randomisation and treated with no evidence of disease recurrence and for whom no more than one line of chemotherapy was applied.\n* Concomitant use of known strong CYP3A inhibitors (e.g., itraconazole, telithromycin, clarithromycin, protease inhibitors boosted with ritonavir or cobicistat, indinavir, saquinavir, nelfinavir, boceprevir, telaprevir) or moderate CYP3A inhibitors (e.g., ciprofloxacin, erythromycin, diltiazem, fluconazole, verapamil). The required washout period prior to starting study treatment is 2 weeks. Concomitant use of known strong (e.g., phenobarbital, enzalutamide, phenytoin, rifampicin, rifabutin, rifapentine, carbamazepine, nevirapine and St John's Wort) or moderate CYP3A inducers (e.g., bosentan, efavirenz, modafinil). The required washout period prior to starting study treatment is 5 weeks for enzalutamide or phenobarbital and 3 weeks for other agents.\n* Evidence of metastatic breast cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

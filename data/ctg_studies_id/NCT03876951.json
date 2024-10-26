@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03876951",
+    "briefTitle": "Evaluation of the Accuracy of Percutaneous Biopsy by Vacuum-assisted Biopsy (VAB) to Assess Pathological Complete Response in Patients With Clinical and Radiological Complete Response After Neoadjuvant Chemotherapy (NeoVAB)",
+    "officialTitle": "Prospective Multicenter Pilot Study to Evaluate the Accuracy of Percutaneous Biopsy by Vacuum-assisted Biopsy (VAB) to Assess Pathological Complete Response in Patients With Clinical and Radiological Complete Response After Neoadjuvant Chemotherapy (NeoVAB)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Vacuum-assisted Biopsy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 67,
+    "primaryOutcomeMeasure": "False negative rate of vacuum-assisted biopsy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patient aged 18 years or older.\n2. Written informed consent provided.\n3. Triple negative or HER2-positive / ER-negative or HER2-positive / ER-positive breast tumours.\n4. Patients eligible for breast conservation after NAC.\n5. Patients with T2-T3 N0 invasive breast cancer initially treated by NAC to allow breast conservation, who have received a minimum of 6 cycles of adequate NAC +/- anti-HER2.\n6. Clinical complete response after NAC.\n7. Radiological (mammography, breast US, breast MRI) complete response after NAC.\n8. Patients predicted to be node-negative at treatment initiation.\n\nExclusion Criteria:\n\n1. Patient younger than 18 years old.\n2. Pregnant or breastfeeding women.\n3. Proven metastatic axillary or internal mammary chain lymph node involvement before NAC proven by biopsy or cytology.\n4. Bilateral breast cancer.\n5. Contraindication to MRI.\n6. Contraindication to breast conservation\n7. Patients with a BRCA mutation or other autosomal dominant high-penetrance genetic predisposition to breast cancer.\n8. Patients with limitation of freedom or under guardianship\n9. Inability for psychological reasons\n10. Hypersensitivity to local anaesthesia\n11. Initial imaging showing ACR6 micro calcifications and/or ACR6 non-mass enhancement associated to the index lesion",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

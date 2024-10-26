@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05346861",
+    "briefTitle": "Pyrotinib Rechallenge in Her2-positive Metastatic Breast Cancer Pretreated With Pyrotinib and Trastuzumab",
+    "officialTitle": "Pyrotinib Rechallenge in Her2-positive Metastatic Breast Cancer Pretreated With Pyrotinib and Trastuzumab",
+    "overallStatus": "RECRUITING",
+    "conditions": "HER2-positive Breast Cancer, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 240,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Aged \u226518 and \u226475 years;\n2. Pathologically confirmed HER2 positive patients with recurrence/ metastatic breast cancer: HER2 IHC 3+, or HER2 IHC 2+ and FISH detection gene amplification;\n3. History of trastuzumab-containing chemotherapy in neoadjuvant, adjuvant or recurrence/ metastatic setting;\n4. History of pyrotinib-containing chemotherapy in neoadjuvant or recurrence/ metastatic setting;\n5. Previously reveived \u22642 systemic treatment in recurrence/ metastasis setting; (anti-HER2 ADCs such as T-DM1 is included in chemotherapy regimens, endocrine therapy alone is not included);\n6. ECOG performance status of 0 to 1;\n7. According to RECIST 1.1, at least one extracranial measurable lesion exists\uff1b\n8. Signed informed consent.\n\nExclusion Criteria:\n\n1. Patients with leptomeningeal metastasis or unstable brain metastasis;\n2. History of neurological or psychiatric disorders;\n3. Second malignancies within 5 years, except for cured skin basal cell carcinoma, carcinoma in-situ of uterine cervix and squamous-cell carcinoma;\n4. Undergone major surgical procedures or significant trauma within 4 weeks prior to randomization, or expected to undergo major surgery.\n5. Factors influencing the usage of oral administration (e.g. unable to swallow, chronic diarrhea and intestinal obstruction, etc.);\n6. History of allergies to the drug components of this regimen;\n7. History of Immunodeficiency, acquired or congenital immunodeficiency (HIV positive), history of organ transplantation;\n8. Any other situations judged by investigator as not suitable for participating in this study.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

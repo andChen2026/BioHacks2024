@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04879927",
+    "briefTitle": "Routine Evaluation of the Social Determinants of Health in Oncology: User-centered Resource Coordination and Engagement",
+    "officialTitle": "Routine Evaluation of the Social Determinants of Health in Oncology: User-centered Resource Coordination and Engagement",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Lung Cancer, Gastrointestinal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 125,
+    "primaryOutcomeMeasure": "Number of Patients Treatment Interruption",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eligible patients will be adults age 18 or older, able to consent, scheduled for a new patient consultation in DFCI BOC, TOP or GCC. To select for patients from demographic groups vulnerable to SDoH needs, two different groups will be eligible to participate.\n* Group A\n\n  * BIPOC (Black, Latinx, Native American or Pacific Islander)\n  * LEP Spanish-speaking (As indicated by the EHR)\n  * Low SES (from zip code with median household income \\<$32,000/year) OR\n  * Age 70+\n* Group B\n\n  * Any one NPIQ response indicating SDoH need\n  * Health literacy/numeracy, Caregiving/relationships, OR Finances\n\nExclusion Criteria:\n\n- Group A and B\n\n-- Patients not continuing care at Dana Farber Cancer Institute",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03321045",
+    "briefTitle": "Positron Emission Tomography (PET) Imaging With Zirconium-89 (89Zr)-Trastuzumab for Prediction of HER2 Targeted Therapy Effectiveness",
+    "officialTitle": "PET Imaging With 89Zr-Trastuzumab for Prediction of HER2 Targeted Therapy Effectiveness",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Investigate the use of [89Zr]-Df-Trastuzumab as a HER2 imaging agent",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Be at least 18 years of age.\n* Diagnosis of HER2 positive breast cancer as defined by to American Society of Clinical Oncology (ASCO)/College of American Pathologists (CAP) 2018 guidelines: Immunohistochemistry (IHC) 3+ OR Single prove In situ hybridization (ISH) with average HER2 copy number \\>= 6 OR dual probe ISH with both average HER2 copy number \\>= 4 AND HER2 to CEP17 ratio \\>=2\n* Patients eligible for radiation therapy or systemic therapy using a regimen containing at least one anti-HER2 agent\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 and 1\n* Ejection fraction greater than 50% by echocardiogram or multiple-gated acquisition (MUGA) scans\n\nExclusion Criteria:\n\n* Inability to provide informed consent\n* Pregnancy\n* Inability to lie still for the imaging study\n* Weight over 350 lbs., due to the scanner bore size\n* Contraindication for MRI study (e.g. non-removable metal implants or certain tattoos)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05453591",
+    "briefTitle": "Investigation of Urinary Biomarkers for the Detection of Breast Cancer",
+    "officialTitle": "Investigation of Urinary Biomarkers for the Detection of Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Urine, Liquid Biopsy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Detection (presence/absence) of specific urinary biomarker targets (HER2, PIK3CA) for breast cancer patients measured using ddPCR.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Being at least 18 years old\n* Being able to understand and read Dutch\n* For cancer patients: diagnosed with breast cancer\n\nExclusion Criteria:\n\n* For cancer patients: suffering from a blood cancer\n* For healthy volunteers: diagnosed with cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

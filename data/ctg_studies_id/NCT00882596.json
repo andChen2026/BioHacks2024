@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00882596",
+    "briefTitle": "Use of the Contura\u2122 Catheter to Deliver Accelerated Partial Breast Irradiation to \"Low-risk\" Breast Cancer Patients",
+    "officialTitle": "A Multi-Site, Prospective, Non-Randomized Study of the Contura\u2122 Multi-Lumen Balloon (MLB) Catheter to Deliver Accelerated Partial Breast Irradiation: Analysis of Dosimetry, Local Tumor Control, Cosmetic Outcome, and Toxicity",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Maximum total skin dose is less than or equal to 125% of the prescribed radiation dose.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Able and willing to sign informed consent\n* Age 50 or older at diagnosis\n* Life expectancy greater than 10 years (excluding diagnosis of breast cancer)\n* Surgical treatment of the breast must have been lumpectomy. The margins of the resected specimen must be histologically free of tumor (negative surgical margins per NSABP criteria)\n* On histologic examination, the tumor must be DCIS and/or invasive breast carcinoma\n* For patients with invasive breast cancer, an axillary staging procedure must be performed \\[either sentinel node biopsy or axillary dissection (with a minimum of 6 axillary nodes removed), and the axillary node(s) must be pathologically negative\\]\n* The T stage must be Tis, T1, or T2. If T2, the tumor must be less than or equal to 3.0 cm in maximum diameter\n* Estrogen receptor positive tumor\n\nExclusion Criteria:\n\n* Age \\< 50 at diagnosis (regardless of histology)\n* Pregnant or breast-feeding\n* Active collagen vascular disease\n* Paget's disease of the breast\n* Prior history of DCIS or invasive breast cancer\n* Prior breast or thoracic radiation therapy for any condition\n* Multicentric carcinoma (DCIS or invasive)\n* Synchronous bilateral invasive or non-invasive breast cancer\n* Surgical margins that cannot be microscopically assessed or that are positive\n* Positive axillary node(s)\n* T stage of T2 with the tumor \\> 3 cm in maximum diameter or a T stage of T3 or T4\n* Estrogen receptor negative tumor",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

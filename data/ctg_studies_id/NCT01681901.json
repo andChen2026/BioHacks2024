@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01681901",
+    "briefTitle": "Ultrasound in Detecting Lymph Node Metastasis in Older Patients Undergoing Breast Sonography",
+    "officialTitle": "Lymph Node Evaluation in the Axilla of Symptomatic Older Women During Breast Sonography.",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Proportion of successful evaluations, defined as the consistent capture of the data for geometry, morphology, qualitative vascular information, and quantitative vascular information on 3 axillary lymph nodes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients referred for a breast ultrasound\n* Patients who have had a mammogram with a Breast Imaging Reporting and Data System (BIRADS) of \\>= 4\n* Patients who are undiagnosed for breast cancer\n\nExclusion Criteria:\n\n* Patients who have had breast cancer surgery",
+    "sex": "FEMALE",
+    "minimumAge": "55 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

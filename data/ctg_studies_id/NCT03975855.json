@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03975855",
+    "briefTitle": "Evaluation of NeoNavia\u00ae Biopsy System in Axillary Lymph Nodes",
+    "officialTitle": "Percutaneous Ultrasound-Guided Biopsy Evaluated for Axillary Lymph Node Sampling Efficacy (PULSE)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 140,
+    "primaryOutcomeMeasure": "Rate of successful biopsies (= success rates)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* cT1-4c (multifocality / multicentricity permitted)\n* Female / male patient aged \u2265 18 years\n* cN+ based on the following criteria (at least one criteria must be met):\n\n  * lymph node is palpable\n  * cortical asymmetry (focal or diffuse cortical thickening of \\>3mm) under US\n  * cortex:hilum ratio \\>2:1 under US\n  * loss of hilum/cortex structure under US\n* Written informed consent (ICF)\n\nExclusion Criteria:\n\n* Suspicious lymph nodes after neoadjuvant therapy\n* No confirmed breast cancer and no abnormality in the breast\n* Patient uses Marcumar\n* Pregnant and lactating women\n* Known hypersensitivity reaction against local anesthesia\n* Prior chemo or radiation therapy in breast or axilla\n* Missing written informed consent",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

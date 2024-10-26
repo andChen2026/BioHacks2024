@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00976508",
+    "briefTitle": "Figitumumab Combined With Pegvisomant For Advanced Solid Tumors",
+    "officialTitle": "Phase 1 Safety And Tolerability Study Of Figitumumab Combined With Pegvisomant In Patients With Advanced Solid Tumors",
+    "overallStatus": "TERMINATED",
+    "conditions": "Colorectal Neoplasms, Lung Neoplasms, Breast Neoplasms, Prostatic Neoplasms, Sarcoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Number of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients \u226518 years of age with advanced solid tumors for which the combination of figitumumab and pegvisomant are reasonable treatment options.\n* Patients between the ages of 10 and 18 years with advanced sarcomas for which there is no available curative therapy or therapy proven to prolong survival with an acceptable quality of life will be included in the Sarcoma Expansion Cohort.\n* Adequate recovery from prior therapies.\n* Adequate organ function (i.e. bone marrow, kidney, liver)\n* Total IGF-1 \u2265100 ng/ml (13 nmol/L).\n\nExclusion Criteria:\n\n* Concurrent treatment with any anti-tumor agents.\n* Pregnant or breastfeeding females.\n* Significant past history or active cardiac disease\n* Active infection\n* History of diabetes mellitus.\n* Glycosylated hemoglobin \\>5.7",
+    "sex": "ALL",
+    "minimumAge": "10 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

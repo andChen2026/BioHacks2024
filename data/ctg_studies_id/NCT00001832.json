@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00001832",
+    "briefTitle": "Lymphocyte Re-infusion During Immune Suppression to Treat Metastatic Melanoma",
+    "officialTitle": "Treatment of Patients With Metastatic Melanoma Using Cloned Lymphocytes Following the Administration of a Non-Myeloablative But Lymphocyte Depleting Regimen",
+    "overallStatus": "COMPLETED",
+    "conditions": "Melanoma, Neoplasm Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 170,
+    "primaryOutcomeMeasure": "Clinical Response",
+    "eligibilityCriteria": "* INCLUSION CRITERIA\n* Patients must have evaluable metastatic melanoma that is refractory to standard therapy.\n* Age greater than or equal to 16 years.\n* Patients of both genders must be willing to practice birth control for four months after receiving the preparative regimen.\n* Clinical performance status of Eastern Cooperative Oncology Group (ECOG) 0, 1 at entry to the trial and at the time of chemotherapy induction.\n* Absolute neutrophil count greater than 1000/mm\\^3.\n* Platelet count greater than 100,000/mm\\^3.\n* Hemoglobin greater than 8.0 g/dl.\n* Serum alanine aminotransferase (ALT)/aspartate aminotransferase (AST) less than two times the upper limit of normal.\n* Serum creatinine less than or equal to 1.6 mg/dl.\n* Total bilirubin less than or equal to 1.6 mg/dl, except for patients with Gilbert's Syndrome who must have a total bilirubin less than 3.0 mg/dl.\n* More than four weeks must have elapsed since any prior therapy at the time the patient receives the preparative regimen.\n* Women of child-bearing potential must have a negative pregnancy test because of the potentially dangerous effects of the preparative chemotherapy on the fetus.\n* Life expectancy of greater than three months.\n* No steroid therapy required.\n* Seronegative for human immunodeficiency virus (HIV) antibody. (The experimental treatment being evaluated in this protocol depends on an intact immune system. Patients who are HIV seropositive can have decreased immune competence and thus be less responsive to the experimental treatment and more susceptible to its toxicities.)\n* Seronegative for hepatitis B antigen.\n* Patients to receive high dose interleukin 2 (IL-2) must have no active systemic infections, coagulation disorders or other major medical illnesses of the cardiovascular, respiratory or immune system.\n* Patients who will receive high dose IL-2 as part of the phase I portion of this study or who will be randomized must be eligible to receive high dose IL-2.\n* Any patient receiving IL-2 must sign a durable power of attorney.",
+    "sex": "ALL",
+    "minimumAge": "7 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

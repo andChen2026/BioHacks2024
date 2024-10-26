@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05184790",
+    "briefTitle": "LEARN: Learning Environment for Artificial Intelligence in Radiotherapy New Technology",
+    "officialTitle": "LEARN: Learning Environment for Artificial Intelligence in Radiotherapy New Technology",
+    "overallStatus": "RECRUITING",
+    "conditions": "Arrhythmias, Cardiac, Breast Cancer, Prostatic Cancer, Brain Cancer, Kidney Cancer, Head and Neck Cancer, Liver Cancer, Pancreatic Cancer, Spinal Neoplasm",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Accuracy of markerless tracking",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Will receive radiation therapy for brain, breast, head and neck, kidney, liver, pancreas, prostate, spine cancer treatment or cardiac arrhythmia treatment at a participating centre.\n* Will receive CT planning, and a cone beam CT scan for at least one fraction of radiation therapy.\n* Will receive intrafraction x-ray imaging for the liver, pancreas, prostate, spine cancer treatment or cardiac arrhythmia treatment. As intrafraction imaging is not common standard of care for brain, breast, head and neck and kidney cancer treatments there is no requirement to have intrafraction x-ray imaging data for these anatomical sites.\n* Provides written informed consent.\n\nExclusion Criteria:\n\n* Less than 18 years of age",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

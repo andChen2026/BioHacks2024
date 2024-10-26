@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04811378",
+    "briefTitle": "HaemoCerTM Application in Breast Cancer Surgery",
+    "officialTitle": "Randomised Controlled Trial: HaemoCerTM Versus no HaemoCerTM in Breast Cancer Surgery to Reduce Postoperative Drainage Output",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm Female, Mastectomy, Segmental",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 136,
+    "primaryOutcomeMeasure": "Total volume of postoperative drained fluid (per breast)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with breast cancer undergoing breast-conserving surgery\n* No previous breast-conserving surgery on the same site\n* \u2265 18 years age\n* no current pregnancy\n* Informed consent\n\nExclusion Criteria:\n\nPatients with previous breast-conserving surgery on the same site\n\n-",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

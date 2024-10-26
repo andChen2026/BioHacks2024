@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01598285",
+    "briefTitle": "A Combined GWAS and miRNA for the Identification of Bevacizumab Response Predictors in Metastatic Breast Cancer",
+    "officialTitle": "A Combined Genome-Wide Association Study (GWAS) and microRNA (miRNA) Profiling Approach for the Identification of Bevacizumab Response Predictors in Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer Invasive Nos",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "Genome-Wide Association Study (GWAS) and microRNA (miRNA) profiling for identification of genetic variants and blood miRNA signatures predictors of bevacizumab response.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* patients with breast cancer, at a disseminated stage\n* patients treated with bevacizumab in combination with weekly paclitaxel as first line chemotherapy and who have progressed\n* alive patients authorizing the extraction and analysis of their biological samples.\n\nExclusion Criteria:\n\n* patients with a second neoplasia\n* deceased patients\n* patients who have not agreed to participate in the study\n* HER2 positive patients\n* patients with CNS metastases when first treated with bevacizumab in combination with paclitaxel\n* patients with local-regional recurrence only and\n* patients with status NED (resected metastases)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

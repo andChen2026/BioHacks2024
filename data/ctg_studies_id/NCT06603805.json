@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06603805",
+    "briefTitle": "Optimal Surgical Approach for Early-Stage Breast Cancer in Chinese Patients Aged \u2264 40 Years: a Cohort Study",
+    "officialTitle": "Optimal Surgical Approach for Early-Stage Breast Cancer in Chinese Patients Aged \u2264 40 Years: a Cohort Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 974,
+    "primaryOutcomeMeasure": "Breast cancer-specific survival (BCSS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients aged 18-40 years.\n* Pathological diagnosis of invasive breast cancer.\n* Undergoing Breast-Conserving Surgery (BCS) with Radiotherapy (RT) or Mastectomy (MAST).\n* Availability of detailed clinical information, including:\n\nTumor (T) stage. Node (N) stage. Clinical stage. Hormone receptor status. Endocrine therapy details. Targeted therapy details.\n\nExclusion Criteria:\n\n* Male patients.\n* Patients with distant metastatic disease.\n* Patients with bilateral breast cancer.\n* Patients not undergoing surgery.\n* Follow-up time of less than 1 month.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

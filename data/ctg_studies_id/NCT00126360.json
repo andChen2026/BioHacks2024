@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00126360",
+    "briefTitle": "STARS Breast Trial (Study of Anastrozole and Radiotherapy Sequencing Pilot)",
+    "officialTitle": "Pilot for a Randomised Comparison of Anastrozole Commenced Before and Continued During Adjuvant Radiotherapy for Breast Cancer Versus Anastrozole and Subsequent Ant-Oestrogen Therapy Delayed Until After Radiotherapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Local failure within irradiation volume",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 or more years. No upper limit.\n* Post total mastectomy or lumpectomy. All planned surgery complete.\n* Margins clear (no tumour contacting the inked margin)\n* Tumour oestrogen or progesterone receptor positive\n* Planned dose to irradiated volumes at least the biological equivalent of 45 Gy in 25 fractions or more.\n* ECOG 0-2\n* Patients post menopausal using same criteria as ATAC study.\n* Written informed consent\n\nExclusion Criteria:\n\n* Previous radiotherapy to the area to be treated.\n* Previous invasive malignancy within 5 years of current breast cancer diagnosis with the exception of cervix in-situ or skin cancer other than melanoma.\n* Patients with clinical evidence of metastatic disease.\n* Previous hormonal breast therapy.\n* Ongoing hormone replacement therapy.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

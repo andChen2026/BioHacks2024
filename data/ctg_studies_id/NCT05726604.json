@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05726604",
+    "briefTitle": "4D CT Scan Versus 3D CT Scan Concerning Cardiac Dosimetry Assesment for Left Sided Breast Cancers Radiotherapy",
+    "officialTitle": "4D CT Scan With Respiratory Gating Versus 3D CT Scan Concerning Cardiac Dosimetry Assesment for Left Sided Breast Cancers Radiotherapy",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Radiation-Induced Vascular Disease, Left Anterior Descending Coronary Artery Stenosis, Radiotherapy Side Effect, Cardiac Ischemia, Left Sided Breast Cancer, LAD (Left Anterior Descending) Coronary Artery Stenosis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "3D LAD mean dose vs 4D LAD mean dose",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age \u2265 18 yo\n2. Sex=female\n3. Patients diagnoses with a left side breast cancer for which a radiation therapy is indicated and confirmed in a multidisciplinary consultation meeting.\n4. Be able to understand and give her personal free consent, no judicial protection measure.\n5. Written or oral consent, in compliance with the clinical investigation rules and regulation.\n6. Patient affiliated with social security system\n7. Treatment expected to be realized in Saint Quentin Hospital\n\nExclusion Criteria:\n\n1. Patient \\< 18 yo\n2. Pregnant women.\n3. Breastfeeding women.\n4. Consent not given\n5. Claustrophobia\n6. Incapacited subject or judicial protection measure\n7. Other research with exclusion period time ongoing\n8. All the inclusion criteria not met",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05060835",
+    "briefTitle": "ONCOlogy-targeted NLP-powered Federated Hyper-archItecture and Data Sharing Framework for Health Data Reusability",
+    "officialTitle": "ONCOlogy-targeted NLP-powered Federated Hyper-archItecture and Data Sharing",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer, Prostate Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 5000,
+    "primaryOutcomeMeasure": "Estimation of Overall survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients of age \u2265 18 years.\n* Individuals referred to hospitals for diagnosis and/or treatment of breast cancer or prostate cancer, either at first diagnoses, progression, or relapses.\n* Availability of radiological images: 2D mammography or 2D synthetic digital tomosynthesis, ultrasound, and magnetic resonance for breast cancer; magnetic resonance for prostate cancer.\n* Availability of pathological report (surgical specimen, including immunohistochemistry and genetic information).\n* Availability of treatment allocation (neoadjuvant/Adjuvant and Advanced disease): (scheme, duration, benefit).\n* Availability of treatment response evaluation\n\nExclusion Criteria:\n\n* Patient with incomplete or low-quality data (radiological, pathological or clinical) In relation to the use of the data already existing in the four AI4HI repositories, ONCO-FIRE will not intervene with the inclusion and exclusion criteria of each of the four projects and will select those data that fit the ONCO-FIRE research purposes.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

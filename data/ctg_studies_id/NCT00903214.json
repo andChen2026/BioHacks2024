@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00903214",
+    "briefTitle": "Riluzole in Women With Stage I, Stage II, or Stage IIIA Breast Cancer",
+    "officialTitle": "Metabotropic Glutamate Receptor-1 (mGluR1): Validation of a Serendipitously Discovered Molecular Target for Breast Cancer Treatment",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Inhibition of downstream targets of the mGluR1 signaling cascade, specifically downregulation of PLC\u03b2 activity",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of adenocarcinoma of the breast\n\n  * Stage I (T1c)-IIIA disease meeting the following criteria:\n\n    * Large enough (\\> 1 cm) to undergo additional multiple core needle biopsies preoperatively\n    * Surgically resectable for cure or palliation without first requiring neoadjuvant chemotherapy\n* Patients who have previously been treated for breast cancer, but are judged to have developed a new primary cancer, rather than a recurrence, are eligible\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-1\n* ANC \u2265 1,000/mm\u00b3\n* Platelet count \u2265 50,000/mm\u00b3\n* Liver function tests \u2264 3 times upper limit of normal (ULN)\n* Total bilirubin \u2264 2 times ULN\n* Creatinine \u2264 1.5 mg/dL\n* INR \u2264 25% normal limits\n* Not pregnant or nursing\n* No known history of HIV or AIDS\n* No known history of hepatitis B or C\n* No history of vertigo or M\u00e9ni\u00e8re's type of disorder\n* No history of allergic reaction to riluzole or similar compounds\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior estrogen blockers, chemotherapy, radiotherapy, biological therapy, or surgery for the treatment of breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

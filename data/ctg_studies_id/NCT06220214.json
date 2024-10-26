@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06220214",
+    "briefTitle": "Neoadjuvant Therapy and Contrast-enhanced Mammography for Early Stage Breast Cancer",
+    "officialTitle": "Contrast Enhanced Digital Mammography for Predicting Pathologic Complete Response After Neoadjuvant Chemotherapy",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Locally Advanced Breast Cancer, Neoadjuvant Chemotherapy, HER2-positive Breast Cancer, Triple Negative Breast Cancer, TNBC, Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Accuracy of (CEDM+CEDBT) to predict NAC treatment effects",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis with either type of invasive locally advanced breast cancer regardless of hormone receptor or Her2 status\n* Plan to receive at least 4 cycles of neoadjuvant chemotherapy ahead of definitive surgery\n\nExclusion Criteria:\n\n* Pregnancy\n* Allergy/sensitivity to contrast agent\n* Decreased kidney function\n* Diabetes",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

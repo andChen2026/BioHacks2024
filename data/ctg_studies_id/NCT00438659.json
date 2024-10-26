@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00438659",
+    "briefTitle": "Mometasone Furoate in Preventing Radiation Dermatitis in Patients Undergoing Radiation Therapy to the Breast or Chest Wall for Invasive Breast Cancer or Ductal Carcinoma in Situ",
+    "officialTitle": "Phase III Randomized Double-Blind Study of Mometasone Furoate Versus Placebo in the Prevention of Radiation Dermatitis in Breast Cancer Patients Receiving Radiation Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Dermatologic Complications, Radiation Toxicity, Skin Reactions Secondary to Radiation Therapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 176,
+    "primaryOutcomeMeasure": "Mean Maximum Grade of Radiation Dermatitis by Treatment Arm.",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed diagnosis of primary invasive breast cancer or ductal carcinoma in situ\n* Planning to undergo \u2265 5 weeks of continuous definitive or adjuvant external-beam radiotherapy to 1 of the following sites:\n\n  * Whole breast (as part of breast-conservation therapy)\n  * Chest wall (as part of post-mastectomy irradiation)\n\n    * Treatment of regional lymph nodes (i.e., axillary, supraclavicular, or internal mammary) allowed\n* Must meet the following criteria for planned radiotherapy:\n\n  * Planned total radiation dose \u2265 5,000 Gy and daily radiation dose between 1.75 and 2.12 Gy\n  * No planned split-course radiotherapy\n  * No partial breast treatment, defined as treatment of \\< 75% of the breast parenchyma\n  * Intensity-modulated radiotherapy planning and delivery, conventional radiotherapy, or 3-dimensional radiotherapy techniques allowed\n* Must be entered on study within 7 days prior to beginning radiotherapy\n\n  * Must start study drug prior to receiving the third radiotherapy fraction\n* No preexisting skin breakdown within the planned radiotherapy field at the time of study entry\n* No bilateral breast cancer treatment\n* No inflammatory carcinoma of the breast\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Male or female\n* Menopausal status not specified\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* Able to complete questionnaires independently or with assistance\n* No known allergy or hypersensitivity to mometasone furoate (Elocon\u00ae or generic cream), imidazolidinyl urea, or formaldehyde\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior radiotherapy to the planned radiotherapy treatment area\n* No concurrent or planned leukotriene inhibitors, including the following:\n\n  * Zafirleukast\n  * Monteleukast\n  * Zileuton\n* No concurrent or planned use of any prescription or over-the-counter medications containing hydrocortisone or any other cortisone or steroid-containing preparations (systemic, local, or topical) including, but not limited to, the following creams or ointments:\n\n  * Cortaid\u00ae\n  * Cortizone 10\u00ae\n  * Tucks\u00ae\n  * Preparation H\u00ae\n* No other concurrent topical agents (e.g., lotions, aloe vera) to radiotherapy field during study treatment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

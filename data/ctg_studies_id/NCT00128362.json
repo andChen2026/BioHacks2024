@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00128362",
+    "briefTitle": "Sentinel Node Biopsy and Axillary Sampling in Operable Breast Cancer",
+    "officialTitle": "Clinical Trial of Sentinel Node Biopsy Versus Axillary Sampling in Women With Clinically Node Negative Operable Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Cancer of the Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 478,
+    "primaryOutcomeMeasure": "Comparison of methodologies in predicting status of axillary lymph nodes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinically node negative operable breast cancer\n* No prior incision or excision biopsy\n\nExclusion Criteria:\n\n* Palpable axillary lymph nodes\n* Contraindications for injecting radiocolloid",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

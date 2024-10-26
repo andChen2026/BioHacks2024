@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05009277",
+    "briefTitle": "Study To Evaluate The Sensitivity Of The Linda Thermal Device",
+    "officialTitle": "Study To Evaluate The Sensitivity Of The Linda Thermal Device In Relation To Mammography In The Detection Of Suspected Breast Neoplasia",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Device, Thermography, Mammography",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "assess thermal sensitivity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Provide your signed and dated consent in duplicate;\n2. Female, aged between 40 and 69 years;\n3. Have had a mammography no more than 6 months before V1 and with results available in V1.\n\nExclusion Criteria:\n\n1. Fever (temperature above 37.8\u00b0C at rest) in the last 48 hours before image capture by thermography;\n2. Exposure to natural or artificial light for chest tanning for less than three (3) days before performing the thermography;\n3. Pregnant or breastfeeding women in the last 6 months;\n4. Physical exercise 3 h before performing the thermography;\n5. To have performed a breast biopsy less than 6 months after the thermography;\n6. Other conditions that, at the investigator's discretion, increase the risk to the patient or make her unsuitable for the study.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

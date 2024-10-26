@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05153187",
+    "briefTitle": "Real-world Treatment Patterns of Endocrine Based Therapy Among Patients With Hormone Receptor-positive/Human Epidermal Growth Factor Receptor-2-negative (HR+/HER2-) Advanced Breast Cancer: An Analysis of Administrative Claims Data in Japan",
+    "officialTitle": "Descriptive Analyses of Clinical Characteristics and Treatment Patterns of Breast Cancer Patients Initiating Palbociclib (Ibrance(Registered)) Treatment in Japan by Using MDV Database",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1170,
+    "primaryOutcomeMeasure": "Demographic and clinical characteristics of ABC patients at the initiation of treatment with palbociclib",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of breast cancer based on International statistical classification of diseases and related health problems 10th revision (International Statistical Classification of Diseases and Related Health Problems \\[ICD-10\\]) (C50.xx)\n* Received at least one prescription of endocrine therapy drugs\n* Diagnosis of secondary malignant neoplasm based on ICD-10 (C77.x, C78.x, C79.x )\n\nExclusion Criteria:\n\n-Received a prescription of anti-HER2 therapy (Trastuzumab, Trastuzumab emtansine, Pertuzumab, and Lapatinib tosilate hydrate)",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

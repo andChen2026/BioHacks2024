@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01508572",
+    "briefTitle": "VEGF-targeted Fluorescent Tracer Imaging in Breast Cancer",
+    "officialTitle": "Validation of Uptake of a VEGF-targeted Optical Fluorescent Imaging Tracer in Surgical Specimens of Breast Cancer and Application of Pre- and Intra-operative Human Molecular Fluorescence Imaging Techniques. A Multicenter Feasibility Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "The uptake of bevacizumab-IRDye800CW in breast cancer tissue, surrounding tissue and lymph nodes in surgical specimens by fluorescence microscopy and macroscopy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 years.\n* Patients with proven breast cancer (cytology, histology) who are scheduled to receive operation intervention.\n* Tumor size of at least 15 mm diameter according to anatomical imaging data.\n* Signed written informed consent.\n* Able to comply with the protocol.\n* WHO performance score 0-2.\n\nExclusion Criteria:\n\n* Other invasive malignancy.\n* Serious other medical conditions.\n* Pregnant or lactating women. (Documentation of a negative pregnancy test must be available for pre-menopausal women with intact reproductive organs and for women less than two years after menopause).\n* Prior radiotherapy on the involved area.\n* Major surgery within 28 days before the initiation of the study.\n* Prior allergic reaction to immunoglobulins or immunoglobulin allergy.\n* Prior neo-adjuvant chemotherapy.\n* Breast prosthesis in target breast.\n\nUMC Utrecht (FDOT) specific exclusion criteria\n\n* Breast is too big to fit in the biggest cup or is too small to fit in the smallest cup of the FDOT system.\n* Non-intact skin at time of the FDOT procedures.\n* Breast located skin diseases.\n* Piercings or tattoos located on the breast/nipple.\n* Contra-indication for MR procedures or claustrophobia.\n* Inability to lay prone positioned for the duration of the FDOT procedure (10 minutes) and MR procedure (30 minutes).\n* Tumor located close to the chest wall as assessed by breast imaging data.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

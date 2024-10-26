@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03245788",
+    "briefTitle": "Effectiveness of Lay Navigators in Meeting Cancer Patients' Non-Clinical Needs: A Pilot Study",
+    "officialTitle": "Pilot Project to Better Understand Non-Clinical Needs of Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Gynecologic Cancer, Neck Cancer, Head and Neck Cancer, Gastrointestinal Cancer, Thoracic Cancer, Cutaneous Tumor, Urologic Cancer, Neurologic Cancer, Lymphoma, Sarcoma, Bone Marrow Transplant",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 1053,
+    "primaryOutcomeMeasure": "Patient Experience/Satisfaction: Difference in topbox scores",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* New patient to eligible Cancer Care Program (CCP)\n* Biopsy positive\n* Plan to receive at least one treatment modality at Stanford: surgery, chemotherapy and/or radiation therapy\n* Cancer that is treated by any of the following CCPs: Breast, Gynecologic oncology, Head/neck, Cutaneous (melanoma only), Thoracic, Gastrointestinal\n* Patient has even numbered MRN\n\nExclusion Criteria:\n\n* Anyone with odd numbered MRN\n* Anyone in other cancer programs that are not included\n* Biopsy negative\n* No treatment modality received\n* Patients with already established care/treatment i.e. not new patients",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

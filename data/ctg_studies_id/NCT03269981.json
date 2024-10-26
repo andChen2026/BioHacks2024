@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03269981",
+    "briefTitle": "Randomized Study of Elective Regional Lymph Node Irradiation in N1 Breast Cancer",
+    "officialTitle": "A Phase III Prospective Randomized Study of Elective Regional Lymph Node Irradiation in Pathologic N1 Breast Cancer Patients Treated With Breast Conserving Surgery",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 827,
+    "primaryOutcomeMeasure": "Disease-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven invasive carcinoma of the breast.\n* One to three positive axillary lymph nodes (pN1) proven in pathologic specimen.\n* Prior breast-conserving surgery and post-operative adjuvant chemotherapy including taxane.\n* Administering adjuvant hormonal therapy in cases with hormone receptor-positive tumor.\n* Administering anti-HER2 therapy in cases with HER2-positive tumor.\n\nExclusion Criteria:\n\n* Metastases in supraclavicular or internal mammary lymph nodes.\n* Metastases in distant organs.\n* Neoadjuvant chemotherapy or hormone therapy before surgery.\n* Not receiving adjuvant anthracycline and taxane.\n* Bilateral breast cancer\n* Previous history of radiotherapy of the ipsilateral breast or supraclavicular lymph nodes.\n* Prior history of other types of cancer, except thyroid cancer, carcinoma in situ of the cervix, or skin cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

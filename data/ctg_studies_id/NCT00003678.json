@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00003678",
+    "briefTitle": "Tamoxifen in Treating Women With Breast Cancer",
+    "officialTitle": "A Large, Uniquely Simple, Randomised Study to Assess Much More Reliably the Balance of Benefits and Risks of Prolonging Adjuvant Tamoxifen Treatment in Early Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20000,
+    "primaryOutcomeMeasure": "All-cause mortality",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast carcinoma that has been completely excised\n\n  * Clinically relapse free\n* Must have completed at least two years of adjuvant therapy with tamoxifen for early breast cancer AND have no clear indication for or against receiving further tamoxifen\n* No significant endometrial hyperplasia\n* No patients with negligibly low risk of breast cancer death\n* Hormone receptor status:\n\n  * Any status allowed\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* Not specified\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* Any status allowed\n\nPerformance status:\n\n* Not specified\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* Not specified\n\nHepatic:\n\n* Not specified\n\nRenal:\n\n* Not specified\n\nOther:\n\n* No other life threatening disease\n* No retinopathy\n* No psychiatric disorder or other condition that would preclude study compliance\n* No serious toxicity (e.g., depression) thought to be due to tamoxifen\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* Not specified\n\nEndocrine therapy:\n\n* See Disease Characteristics\n\nRadiotherapy:\n\n* Not specified\n\nSurgery:\n\n* See Disease Characteristics\n\nOther:\n\n* Any primary treatment allowed",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

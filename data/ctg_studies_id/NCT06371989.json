@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06371989",
+    "briefTitle": "Vacuum Assisted Biopsy and Surgery Correlation in HER2 and TN Breast Cancer Subtypes MRI Responders After Neoadjuvant Therapy: BISUCO TRIAL",
+    "officialTitle": "Vacuum Assisted Biopsy and Surgery Correlation in HER2 and TN Breast Cancer Subtypes MRI Responders After Neoadjuvant Therapy: BISUCO TRIAL",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Breast Biopsy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "The negative Predictive Value (NPV), Positive predictive value, specificity and sensibility of the VAB compared to Standard Surgery with Pathologic Evaluation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients over 18 years\n* Biopsy-proven operable breast IDC non-otherwise specified (no other subtypes) with or without DCIS\n* HER2-positive (score 3+ in immunohistochemistry or HER2 amplification in FISH) or TN subtypes as per immunohistochemistry\n* Stages cT1-2/N0-2/M0\n* Administration of standard complete neoadjuvant systemic treatment\n* Complete or almost complete response on breast post NST-MRI\n\nExclusion Criteria:\n\n* Uncompleted NST or non-operable breast carcinoma\n* Associated suspicious microcalcifications on diagnostic mammogram measuring more than 20mm\n* Proven multicentric or multifocal disease\n* High-risk patients\n* Personal history of breast cancer (ipsilateral or contralateral)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00480597",
+    "briefTitle": "Gemcitabine/Vinorelbine Versus Gemcitabine/Cisplatin Versus Gemcitabine/Capecitabine in Metastatic Breast Cancer",
+    "officialTitle": "Randomised, Multicenter Phase II Study in Patients With Metastatic Breast Cancer With Gemcitabine Plus Vinorelbine Versus Gemcitabine Plus Cisplatin Versus Gemcitabine Plus Capecitabine",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 141,
+    "primaryOutcomeMeasure": "Response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed metastatic breast cancer\n* All patients were required to give written informed consent\n* Only one prior chemotherapy for metastatic breast cancer was allowed. This clinical trial was designed to test the efficacy of a second-line chemotherapy.\n* Antracycline-pretreatment during aduvant or palliative first line therapy\n* Bidimensionally measurable lesion outside a previous radiation field.\n* Age \\>= 18 years\n* Karnofsky Performance status \\>= 70%\n* Adequate heamatological, renal, cardiac and hepatic function\n* No radiation of the measurable lesion during the study was allowed.\n\nExclusion Criteria:\n\n* Only bone metastases\n* Active infection\n* Previous treatment with one of the study drugs\n* Application of other cytotoxic chemotherapy\n* Insufficent renal function (creatinine clearance \\< 60ml/min)\n* Known DPD deficiency\n* clinically unstable brain metastasis\n* pregancy or lactation\n* other primary malignancies (other than carcinoma-in-situ of the cervix or adequately treated basal cell cancer of the skin).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02316509",
+    "briefTitle": "A Study of GDC-0927 in Postmenopausal Women With Locally Advanced or Metastatic Estrogen Receptor Positive Breast Cancer",
+    "officialTitle": "An Open-Label, Phase I Study of GDC-0927 in Postmenopausal Women With Locally Advanced or Metastatic Estrogen Receptor Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 43,
+    "primaryOutcomeMeasure": "Maximum Tolerated Dose (MTD)/Recommended Phase II Dose (RP2D) of GDC-0927",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically proven diagnosis of adenocarcinoma of the breast with evidence of either locally recurrent disease not amenable to resection or radiation therapy with curative intent, or metastatic disease, both progressing after at least 6 months of hormonal therapy for ER+ breast cancer\n* ER-positive tumor, HER2-negative breast cancer\n* No prior treatment with GDC-0810 (allowed only during dose expansion stage)\n* No more than 2 prior chemotherapies in the advanced or metastatic setting\n* At least 2 months must have elapsed from the use of tamoxifen\n* At least 6 months must have elapsed from the use of fulvestrant\n* At least 2 weeks must have elapsed from the use of any other endocrine therapy\n* At least 3 weeks must have elapsed from the use of any chemotherapy\n* Females, 18 years of age or older\n* Postmenopausal status as defined by the protocol\n* Eastern Cooperative Oncology Group (ECOG) Performance status less than or equal to (\\</=) 2 (for dose-escalation part) and 0 or 1 (for dose-expansion part)\n* Adequate organ function\n\nExclusion Criteria:\n\n* Untreated or symptomatic brain metastases\n* Current treatment with any systemic anti-cancer therapies for advanced disease or any systemic experimental treatment on another clinical trial\n* Any of the following within 12 months prior to enrollment: myocardial infarction, severe/unstable angina, ongoing cardiac dysrhythmias of Grade greater than or equal to (\\>/=) 2, atrial fibrillation of any grade, coronary/peripheral artery bypass graft, symptomatic congestive heart failure, or cerebrovascular accident including transient ischemic attack\n* Active inflammatory bowel disease or chronic diarrhea, short bowel syndrome, or upper gastrointestinal surgery including gastric resection\n* Known Human Immunodeficiency Virus (HIV) infection\n* Major surgery within 4 weeks prior to enrollment\n* Radiation therapy within 2 weeks prior to enrollment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02142790",
+    "briefTitle": "Weekly and Every 3 Week Administration of Paclitaxel Liposome Injection in Metastatic Breast Cancer",
+    "officialTitle": "N/A",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Progression-free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female or Male \\>18 years of age and \\< 70years of age, If female of childbearing potential, pregnancy test is negative before first dose of study drug and agree to use an acceptable method of birth control to avoid pregnancy for the duration of the study\n* Stage IV disease\n* Measurable disease\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2.\n* Suitable for the treatment with paclitaxel as single agent regimen (first line or prior first line chemotherapy including adriamycin is allowed, If a taxane was part of the adjuvant regimen, at least one year should have transpired since completion of taxane regimen and if Her2+ patient, Herceptin therapy will be allowed.\n* Patient has the following values at Baseline: Absolute neutrophil count \u2265 1.5 x 10\\^9cells/L; platelets \u2265 100 x 10\\^9 cells/L; hemoglobin \u2265 10 g/dL. Aspartate transaminase (AST or SGOT), alanine aminotransferase (ALT or SGPT) \u2264 2.5x upper limit of normal range (ULN); total bilirubin \u2264 1.5ULN; creatinine \u2264 1.5 mg/dL.\n* Informed consent has been obtained.\n\nExclusion Criteria:\n\n* Parenchymal brain metastases.\n* History of other malignancy within the last 3 years\n* New York Heart Association (NYHA) Grade 2 or greater congestive heart failure,history of myocardial infarction or unstable angina or new occured angina within 6 months prior to study enrollment.\n* Concurrent other anticancer therapy.\n* History of serious organic disorders (including active infection or Cardiovascular disease), serious hepatic disease, serious blood coagulation diseases, cachexia\n* Sensory neuropathy of \\> Grade 1 at baseline.\n* Patients with prior hypersensitivity to paclitaxel\n* Pregnant or nursing women\n* enrolled in a different clinical study\n* No psychiatric illness and other situations that would limit compliance of study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

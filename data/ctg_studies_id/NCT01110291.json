@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01110291",
+    "briefTitle": "Study of Usefulness of Genotyping to Predict Docetaxel Exposure and Adverse Events",
+    "officialTitle": "Activity of CYP3A and Genotypes of CYP3A5 and MDR1 as Predictors of the Clearance and Adverse Effects of Docetaxel, and the Effect of Docetaxel to CYP3A Activity in Previously Untreated Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "CYP3A Phenotyping, CYP3A5 and MDR1 Genotyping, Docetaxel Toxicity, Associations Between Genetic Data and Docetaxel Toxicity",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "docetaxel toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nSubjects may be included in the study only if they meet all of the following criteria:\n\n1. The patient has received information on the purpose of the study and the meaning of the treatment, and has given verbal and written consent to participate in the study. The patient is accessible for treatment and follow-up.\n2. Histologically verified diagnosis of breast cancer\n3. High risk for recurrence ( node positive or node negative if T2 with histological grade 2 or 3, or Pgr negative)\n4. No metastases\n5. Females, age =\\<60\n6. No concomitant regular medication which is either substrate, inducer or inhibitor of CYP3A4\n\nExclusion Criteria:\n\nSubjects will be excluded from the study for any of the following reasons:\n\n1. Poor performance status,\\>=2 according to WHO\n2. Inadequate bone marrow reserve defined as:\n\n   * hemoglobin \\< 100 g/L\n   * leukocytes \\< 3.0 x 10E9/L or neutrophiles \\< 1.5 x 10E9/L\n   * plateless \\< 120 x 10E9/L\n3. Inadequate liver function defined as:\n\n   * ALAT is \\> 1.5 x units of normal level\n   * elevated bilirubin (unless verified Gilbert\u00b4s syndrome)\n   * alkaline phosphatase is \\> 2.5 x units of normal level\n4. History of concomitant serious physical or psychiatric disease, which makes a regular cytotoxic treatment impossible\n5. cardiac insufficience; severe arrhythmia; severe hypertension; cardiac infarction within one year or other active cardiac disease\n6. pregnant or lactating patients\n7. abuse of alcohol or any narcotic substances",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

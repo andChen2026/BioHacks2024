@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01582074",
+    "briefTitle": "The Ultrasound Study of Tamoxifen",
+    "officialTitle": "The Ultrasound Study of Tamoxifen",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 247,
+    "primaryOutcomeMeasure": "Change in breast density",
+    "eligibilityCriteria": "* All Subjects:\n* Aged 30 to 70 at the baseline visit;\n* Weight is less than or equal to 350 lbs;\n* Not currently pregnant or breastfeeding;\n* No breast implants currently;\n* No active skin infections or wounds overlying the breast;\n* The breast, as visually assessed, can fit through the ultrasound tomography ring (i.e., 20 cm in diameter);\n* No serious medical or psychiatric illnesses that would prevent voluntary informed consent.\n\nCases:\n\nIs planning to take tamoxifen for clinical indications including:\n\n1. A referral from a health care professional based on a woman s personal risk of breast cancer (i.e., BRCA1/2 mutation carrier or 5-year predicted risk of breast cancer of greater than or equal to 1.66% according to the gail model \\[30\\]; OR\n2. A diagnosis with invasive, estrogen receptor positive breast cancer, ductal carcinoma in situ, lobular carcinoma in situ, or atypical lobular or ductal hyperplasia affecting one breast; AND\n3. Has never been diagnosed with breast cancer in the breast contralateral to the current diagnosis;\n\n   * Is not receiving or currently planning to take chemotherapy.\n\nScreen-negative Comparison Group:\n\n* The most recent mammogram resulted in recommendations for continued routine screening (i.e., BIRADS diagnostic score of 1 or \"2\");\n* Not currently taking oral contraceptives or menopausal hormone therapy;\n* Not been previously diagnosed with breast cancer or received medications or radiation for any type of cancer;\n* Not taking medicines (such as tamoxifen or raloxifene) to lower her breast cancer risk.",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

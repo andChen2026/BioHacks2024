@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00082095",
+    "briefTitle": "To Compare Treatment With Doxorubicin or Capecitabine for Metastatic Breast Cancer in Women 60 Years and Older",
+    "officialTitle": "A Randomized, Open-Label Trial Comparing Treatment With Either Pegylated Liposomal Doxorubicin or Capecitabine as First Line Chemotherapy for Metastatic Breast Cancer in Women 60 Years and Older",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 62,
+    "primaryOutcomeMeasure": "Time to disease progression",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinically or pathologically proven metastatic breast cancer\n* Eastern Cooperative Oncology Group performance status between 0-2\n* Adequate bone marrow, renal and liver functions within normal limits\n* Left ventricular ejection fractions more than 45% measured by multiple gated acquisition scan or echocardiogram within 6 weeks of randomization\n\nExclusion Criteria:\n\n* Prior chemotherapy for metastatic disease (hormonal or chemotherapy in adjuvant setting and hormonal therapy in metastatic setting is allowed)\n* Prior treatment with capecitabine or pegylated liposomal doxorubicin in the adjuvant setting (prior anthracyclines up to certain dose limit is allowed)\n* Evidence of brain metastases unless previously treated and asymptomatic for 3 months or greater\n* History of cardiac disease with New York Heart Association Class II or greater or clinical evidence of congestive heart failure\n* Anthracycline resistant disease (locally recurrent or metastatic disease while on adjuvant anthracycline therapy or relapse less than 18 months after therapy completion)",
+    "sex": "FEMALE",
+    "minimumAge": "60 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

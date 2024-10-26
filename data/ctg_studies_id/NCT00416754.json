@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00416754",
+    "briefTitle": "Genetic Counseling in Women at Risk for BRCA1 or BRCA2 Mutations",
+    "officialTitle": "Improving the Long-Term Outcomes of BRCA1/BRCA2 Mutation Testing",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 1109,
+    "primaryOutcomeMeasure": "patient satisfaction",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Members of hereditary breast/ovarian cancer families (in which there is at least a 10-20% prior probability of a BRCA1/2 mutation) OR who have a first-degree relative with a known BRCA1 or BRCA2 mutation\n* Prior diagnosis of breast cancer allowed\n\n  * Must not be undergoing active treatment\n  * Patients with prior bilateral mastectomy are eligible for study but not eligible for randomization\n\nPATIENT CHARACTERISTICS:\n\n* Female only\n* No psychiatric or cognitive disorder that would preclude giving informed consent\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

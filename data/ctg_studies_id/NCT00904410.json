@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00904410",
+    "briefTitle": "Early Assessment of the Response to Neo-adjuvant Chemotherapy in Breast Cancer Patients With FDG-PET",
+    "officialTitle": "Early Assessment of the Response to Neo-adjuvant Chemotherapy in Breast Cancer Patients With FDG-PET",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 63,
+    "primaryOutcomeMeasure": "Variation rate of SUV(BSA max)before and after the 1st cycle of neoadjuvant chemotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18\n* Breast cancer treated by neo-adjuvant chemotherapy (T\\>2cm)\n* Measurable lesions ,assessed clinically and by ultrasound\n* Delay minimum between biopsy and PET: 15 days\n* PS-WHO: 0\n\nExclusion Criteria:\n\n* T\\<2cm\n* Inflammatory breast cancer (T4d)\n* Diabetic patients unbalanced (glycemia\\>1.40)\n* Pregnant or lactating women",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

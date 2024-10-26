@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00448266",
+    "briefTitle": "Intensified IAA With PBPC Support in Breast Tumors With Evidence of a HRD",
+    "officialTitle": "Randomized Phase II/III Study of Intensified Alkylating Agent Chemotherapy With Peripheral Blood Progenitor Cell Support in the Preoperative Chemotherapy of Breast Tumors That Are Deficient for Homologous Recombination.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 12,
+    "primaryOutcomeMeasure": "Percentage of tumors with HRD (phase II part)",
+    "eligibilityCriteria": "* Proven infiltrating breast cancer with either a primary tumor over 3 cm in size (clinical examination) or cytologically proven spread to the axillary lymph nodes.\n* Stage II or stage III disease (revised AJCC staging system 2001). Patients with 'locally advanced breast cancer' are consequently eligible, including those with ipsilateral supraclavicular lymph node metastases. In stage II patients with T1N1 disease, N1 status must have been demonstrated by either fine needle aspiration from an axillary lymph node or by a metastasis of over 2 mm in diameter in a sentinel node biopsy. Stage IIA patients without lymph node metastases are only eligible if the tumor is over 3 cms in diameter.\n* High-risk disease, according to Adjuvant Online version 8.0: the expected 10-year recurrence-free survival without systemic adjuvant therapy according to this program must be 60% or lower.\n* The tumor must be HER2/neu-negative (either score 0 or 1 at immunohistochemistry or negative at in situ hybridization \\[CISH or FISH\\] in case of score 2 or 3 at immunohistochemistry).\n* The tumor must test positive for homologous recombination deficiency, as defined by the test of the pathology department of the NKI-AVL (M.J. van de Vijver).\n* Age 18 to 59 years; patients older than 59 years may be included when considered 'biologically 59 years or younger'.\n* Performance status: WHO 0 or I.\n* No previous radiation therapy or chemotherapy.\n* No other malignancy except carcinoma in situ, unless the other malignancy was treated 5 or more years ago with curative intent without the use of chemotherapy or radiation therapy.\n* Adequate bone marrow function (W.B.C. count \\> 3.0 x 109/l, platelets \\> 100 x 109/l).\n* Adequate hepatic function (ALAT, ASAT and bilirubin \\< 2 x upper limit of normal).\n* Adequate renal function (creatinine clearance \\> 60 ml/min).\n* Radionuclide ejection fraction \\> 0.50.\n* Pregnancy or breast feeding must be excluded and patients must use adequate contraceptive protection.\n* No evidence of distant metastases. Staging examinations must have included a chest roentgenogram, an ultrasound examination of the liver and an isotope bone scan. Abnormal uptake on the isotope bone scan can only be accepted if bone metastases were excluded by MRI.\n* At randomization, hormone receptor status and HER2/neu receptor status must be known. In case of 2+ HER2/neu expression by immunohistochemistry, FISH or CISH examination is required.\n* Informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

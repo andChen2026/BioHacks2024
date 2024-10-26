@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02284919",
+    "briefTitle": "[18F]ISO-1 Positron Emission Tomography (PET/CT) in Primary Breast Cancer",
+    "officialTitle": "Imaging of In Vivo Sigma-2 Receptor Expression With [18F]ISO-1 Positron Emission Tomography (PET/CT) in Primary Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Correlate [18F]ISO-1 uptake with pathologic assays measuring cellular proliferation rates (e.g. Ki-67)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Adult patients, at least 18 years of age\n2. Known or suspected breast cancer with at least one breast lesion that is 1 cm or greater in size by standard imaging (e.g. mammography, ultrasound or breast MRI)\n3. Participants must be informed of the investigational nature of this study and provide written informed consent in accordance with institutional and federal guidelines prior to study-specific procedures\n\nExclusion Criteria:\n\n1. Females who are pregnant at the time of screening will not be eligible for this study, urine or serum pregnancy test will be performed in women of child-bearing potential at the time of screening.\n2. Inability to tolerate imaging procedure in the opinion of an investigator or treating physician\n3. Serious or unstable medical or psychological conditions that, in the opinion of the investigator, would compromise the subject's safety or successful participation in the study.\n4. Unwilling or unable to provide informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

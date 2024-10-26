@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03468374",
+    "briefTitle": "Sentinel Lymph Node Identification in Patients With Breast Cancer Using SPECT/CT",
+    "officialTitle": "Role of Sentinel Lymph Node Identification in Patients With Breast Cancer Using SPECT/CT",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Early-stage Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "Role of SPECT/CT in sentinel lymph node detection in breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients 18\u2264 years' old, female gender.\n* Patients with histopathologically proven breast cancer.\n* Patients with early stage and invasive breast cancer stage T1 with mass no more than 2 cm in greatest dimension or stage T2 with mass more than 2 cm but no more than 5 cm in greatest dimension with no clinical evidence of axillary lymph node metastasis(N0) and no remote metastasis (M0).\n\nExclusion Criteria:\n\n* Patients with LABC, multifocal breast cancer or distant metastasis.\n* Clinical, histological or radiological evidence of regional nodal metastasis.\n* Prior major breast or axillary operations that could interfere with lymphatic drainage.\n* Pregnancy.\n* Inability to sign informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

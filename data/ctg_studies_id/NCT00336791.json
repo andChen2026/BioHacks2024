@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00336791",
+    "briefTitle": "Randomized Clinical Trial to Evaluate the Predictive Accuracy of a Gene Expression for Stage I-II Breast Cancer",
+    "officialTitle": "Randomized Clinical Trial to Evaluate the Predictive Accuracy of a Gene Expression Profile-Based Test to Select Patients for Preoperative Taxane/Anthracycline Chemotherapy for Stage I-III Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 273,
+    "primaryOutcomeMeasure": "Pathologic Complete Response Rate in breast and axillary lymph nodes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histologically confirmed stage I-III invasive carcinoma of the breast for whom adjuvant chemotherapy is indicated. Patients must have intact or measurable residual cancer (by mammogram, ultra sonogram or physical exam) in the breast. Women of childbearing potential must have a negative pregnancy test (serum or urine beta Human chorionic gonadotropin (HCG)) prior to initiation of chemotherapy.\n2. Patients should have adequate organ function to tolerate chemotherapy.\n3. Patient must be willing to undergo a one-time pretreatment research FNA biopsy\n\nExclusion Criteria:\n\n1. Patients who have completed lumpectomy, segmental mastectomy or modified radical mastectomy and, therefore no longer have any measurable cancer left in their breast are not eligible.\n2. Patients with stage IV, metastatic breast cancers are not eligible.\n3. Patients for whom anthracycline or paclitaxel chemotherapies are contraindicated, for example Patients who are pregnant or lactating are not eligible.",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

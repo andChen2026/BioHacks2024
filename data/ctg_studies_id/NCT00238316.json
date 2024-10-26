@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00238316",
+    "briefTitle": "Letrozole in Preventing Breast Cancer in Postmenopausal Women Who Are at Increased Risk for Breast Cancer Due to High Breast Density",
+    "officialTitle": "A Randomized Feasibility Study of Letrozole in Postmenopausal Women at Increased Risk for Development of Breast Cancer as Evidenced by High Breast Density",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 68,
+    "primaryOutcomeMeasure": "Percentage change of the BMD parameters from baseline BMD values",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* At increased risk for the development or recurrence of breast cancer, as defined by 1 of the following:\n\n  * Baseline mammogram indicating mammographic density occupying \u2265 25% (grade 4/6, 5/6, or 6/6) of the breast tissue\n\n    * No suspicion of breast cancer, unless subsequently ruled out\n  * Prior ductal carcinoma in situ (DCIS)\n\n    * Untreated disease OR \\> 6 months since completion of adjuvant endocrine therapy\n    * Receptor status of lesion is not required\n  * Prior invasive breast cancer\n\n    * Breast cancer must have been surgically removed at time of original diagnosis with no evidence of metastases\n* No clinical evidence of breast cancer\n* Acceptable quality dual-energy x-ray absorptiometry (DEXA) of the L2-L4 postero-anterior (PA) spine and hip performed within past 6 months\n\n  * Bone mass density T-score of either PA spine or hip must be \u2265 2.0 SD below the mean peak bone mass in young normal woman\n* Stable chronic leukemia allowed\n* Hormone receptor status:\n\n  * Hormone receptor-negative, -positive, or -equivocal tumor\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* Postmenopausal\n\nSex\n\n* Female\n\nMenopausal status\n\n* Postmenopausal, as defined by 1 of the following:\n\n  * Over 55 years of age with spontaneous cessation of menses for \u2265 1 year\n  * 55 years of age and under with spontaneous cessation of menses for \u2264 1 year, but amenorrheic (e.g., spontaneous or secondary to hysterectomy) AND follicle-stimulating hormone level \\> 34.4 IU/L\n  * Bilateral oophorectomy\n\nPerformance status\n\n* Not specified\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Not specified\n\nHepatic\n\n* Not specified\n\nRenal\n\n* Not specified\n\nCardiovascular\n\n* No recent unstable myocardial infarction\n* No prior stroke\n* No high blood pressure\n* No other uncontrolled cardiovascular disease\n\nOther\n\n* Other prior malignancies without metastatic disease allowed\n* Willing and able to complete quality of life questionnaires in either English or French\n* No uncontrolled metabolic or endocrine disease\n* No malabsorption syndrome\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* No concurrent immunotherapy\n\nChemotherapy\n\n* No concurrent chemotherapy\n\nEndocrine therapy\n\n* See Disease Characteristics\n* At least 3 months since prior and no concurrent hormone replacement therapy or raloxifene\n* At least 6 months since prior tamoxifen\n* No concurrent steroid therapy\n* No concurrent selective estrogen-receptor modulators\n* No other concurrent endocrine or hormonal therapy\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* See Disease Characteristics",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

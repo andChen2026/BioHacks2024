@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00815555",
+    "briefTitle": "CYP2D6 Genotyping by AmpliChipTM CYP450 for Tamoxifen-Treated Breast Cancer Patients",
+    "officialTitle": "CYP2D6 Genotyping by AmpliChipTM CYP450 for Tamoxifen-Treated Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Tamoxifen efficacy for avoiding breast cancer relapse in relation to CYP2D6 genotype",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Age \\> 18\n* Treated with Tamoxifen following diagnosis of breast cancer\n\nExclusion Criteria:\n\n* None",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

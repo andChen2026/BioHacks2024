@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02302742",
+    "briefTitle": "Triple Negative Breast Cancer and Germline Hereditary Breast and Ovarian Cancer Mutation Carrier Registry",
+    "officialTitle": "PROspective Evaluation of GErmline Mutations, Cancer Outcome and Tissue Biomarkers: A Registry for Patients With Triple Negative Breast Cancer and Germline Mutations",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Hereditary Breast and Ovarian Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1500,
+    "primaryOutcomeMeasure": "Prevalence of germline mutations (such as BRCA1/2 mutations) in patients with TNBC",
+    "eligibilityCriteria": "Inclusion criteria include:\n\nTriple Negative Breast Cancer\n\n* ER/PR \\<10% and HER negative per current ASCO/CAP guidelines\n* Stages I-IV\n* Any age at diagnosis\n* Patient must be within 5 years of diagnosis\n* Eligible regardless of genetic testing status\n* Genetic testing recommended for patients meeting NCCN and Medicare guidelines\n\nAND/OR\n\nGermline mutation Carriers\n\n* Patients with deleterious or uncertain mutations in HBOC genes (BRCA, PTEN, P53, -PALB2 etc) are eligible regardless of type/site of cancer\n* Healthy patients harboring mutations also eligible\n* There is no time limit from the time of diagnosis of cancer and enrollment.\n* Eligible regardless of personal history of cancer\n\nExclusion Criteria include:\n\nTriple Negative Breast Cancer -Patient is not within five years of diagnosis\n\nGermline mutation Carriers:\n\n-Patient only carries a HBOC mutation that is classified as \"polymorphism\" of \"favor polymorphism\"",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04942899",
+    "briefTitle": "Letrozole Plus Metronomic Capecitabine as First-line Treatment for Patients With Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "Aromatase Inhibitors Plus Metronomic Capecitabine in Treatment of Patients With Recurrent or Metastatic Hormone Receptor Positive, HER2 Negative Breast Cancer",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Metastasis Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 70,
+    "primaryOutcomeMeasure": "tumor response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients \\> 18 years old with loco regionally recurrent or metastatic disease not amenable to curative therapy\n* Confirmed diagnosis of hormonal receptor positive (HR+)/Her2-negative breast cancer\n* If the patient is pre-/peri- menopausal, a luteinizing hormone releasing hormone (LHRH) agonist will be given for at least 28 days before randomization or ovarian ablation or suppression by surgery or radiotherapy\n* Measurable disease defined by RECIST version 1.1,\n* Eastern Cooperative Oncology Group (ECOG) 0-2\n* Adequate organ and marrow function\n\nExclusion Criteria:\n\n* Patients with advanced, symptomatic visceral spread (visceral crisis)\n* Patients diagnosed with central nervous system metastases\n* Second primary malignancy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

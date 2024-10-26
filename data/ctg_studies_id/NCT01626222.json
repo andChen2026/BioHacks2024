@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01626222",
+    "briefTitle": "4EVER - Efficacy, Safety, Health Economics, Translational Research of Postmenopausal Women With Estrogen Receptor Positive Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "A Phase IIIB, Multi-Center, Open Label Study For Postmenopausal Women With Estrogen Receptor Positive Locally Advanced or Metastatic Breast Cancer Treated With Everolimus (RAD001) in Combination With Exemestane: 4EVER - Efficacy, Safety, Health Economics, Translational Research",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 301,
+    "primaryOutcomeMeasure": "Overall Response Rate (ORR) after 24 weeks of treatment",
+    "eligibilityCriteria": "Main Inclusion criteria:\n\nMetastatic or locally advanced breast cancer not amenable to curative treatment by surgery or radiotherapy or any other non-systemic treatment.\n\nHistological or cytological confirmation of estrogen receptor positive (ER+) and/or progesterone receptor positive (PgR+), human epidermal growth factor receptor 2 (HER2) negative breast cancer Postmenopausal women. Disease progression following prior therapy with non steroidal aromatase inhibitors (NSAI), defined as: Recurrence while on, or following completion of an adjuvant treatment with Letrozole or Anastrozole, or Progression while on or following completion of Letrozole or Anastrozole treatment for ABC/MBC.\n\nRadiological evidence of recurrence or progression on last systemic therapy prior to enrollment.\n\nPatients must have at least one lesion that can be accurately measured or bone lesions: lytic or mixed (lytic + sclerotic) in the absence of measurable disease.\n\nWritten informed consent obtained before any screening procedure and according to local guidelines.\n\nOther protocol defined inclusion criteria apply.\n\nMain Exclusion criteria:\n\nHER2-overexpressing patients by local laboratory testing (IHC 3+ staining or in situ hybridization positive).\n\nPatients with only non-measurable lesions other than bone metastasis (e.g. pleural effusion, ascites etc.).\n\nPrevious treatment with mTOR inhibitors or known hypersensitivity to mTOR inhibitors.\n\nSymptomatic brain or other CNS metastases. Previously treated brain metastases are allowed provided the patient is free of symptoms, prior radiotherapy for brain metastasis was more than four weeks before enrollment and the dose of corticosteroids is low (i.e. \u2264 10 mg/d Prednisolone equivalent) and stable for at least two weeks prior to enrollment.\n\nPatients with Hepatitis B or C or with a history of Hepatitis B or C. Patients unwilling to or unable to comply with the protocol. Other protocol defined exclusion criteria apply.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03945604",
+    "briefTitle": "A Trial of SHR-1210 (an Anti-PD-1 Inhibitor) in Combination With Apatinib and Fluzoparib in Patients With TNBC",
+    "officialTitle": "A Phase Ib\uff0cOpen-labeled, Multi-center, Dose-exploring Trial of SHR-1210 (Anti-PD-1 Antibody) in Combination With Apatinib and Fluzoparib in Subjects With Recurrent and Metastatic Triple Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 32,
+    "primaryOutcomeMeasure": "Dose Limiting Toxicity (DLT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed the informed consent.\n* Female aged \u226518 years old.\n* Histologically diagnosed patients with recurrent and metastatic triple negative breast cancer.\n* No more than 2-line chemotherapy failed at the stage of recurrence and metastasis .\n* Patients who have been treated with platinum-based regimen at the stage of recurrence/metastasis need non-disease progression (non-pd)during treatment\n* At least one measuring lesion that confirmed by RECIST v1.1 standard.\n* The patients can swallow pills.\n* Have a life expectancy of at least 12 weeks.\n* The functions of vital organs meet protocal requirements.\n\nExclusion Criteria:\n\n* Subjects had any history of active autoimmune disease .\n* Subjects had previously been treated with anti-PD-1 and PD-L1 antibodies, or was known to be allergic to antibody drugs, or had previously been treated with apatinib, or had previously been treated with PARP inhibitors.\n* Subjects have untreated central nervous system metastasis.\n* History of hypertension and antihypertensive medications are not well controlled.\n* Some clinical symptoms or diseases of the heart that are not well controlled.\n* History of immunodeficiency including HIV-positive.\n* Subjects had active infections.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

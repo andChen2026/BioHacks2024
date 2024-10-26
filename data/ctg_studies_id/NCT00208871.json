@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00208871",
+    "briefTitle": "An Evaluation of Stereoscopic Digital Mammography for Earlier Detection of Breast Cancer and Reduced Rate of Recall",
+    "officialTitle": "An Evaluation of Stereoscopic Digital Mammography for Earlier Detection of Breast Cancer and Reduced Rate of Recall",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1467,
+    "primaryOutcomeMeasure": "sensitivity/specificity",
+    "eligibilityCriteria": "Personal risk factors (any of the following)\n\n* Personal history of breast and/or ovarian cancer, regardless of age.\n* Prior breast biopsy that included any of the following high risk, benign lesion: Lobular carcinoma in-situ, Atypical ductal hyperplasia, Atypical lobular hyperplasia, Atypical columnar hyperplasia.\n* Positive test for known mutations of BRCA 1 or 2 genes, regardless of age.\n* History of chest irradiation for treatment of non-breast disease (EX:lymphoma, lung cancer) at least 15 years prior to enrollment.\n\nFamily history (over 30 years of age with any of the following, some exceptions may appy)\n\n* Ashkenazi Jewish ancestry, regardless of age.\n* Any history of male breast cancer on the maternal or paternal side.\n* Breast and ovarian cancer in a close relative (mother, sister, daughter)\n* Breast or ovarian cancer in more than one close relative (mother,sister daughter)\n* Breast cancer in a close relative (mother, sister, daughter) with early onset(\\<50 years of age)\n* Breast and ovarian cancer in a 2nd. degree relative (grandmother, aunt, niece) with early onset of breast cancer. (\\<50 years of age)\n* Multiple history of breast cancer in 1st. and 2nd. degree relatives.\n\nExclusion Criteria:\n\n* Patient does not meet any of the inclusion criteria,\n* Patient has had breast augmentation, except for unilateral augmentation done for prior mastectomy,\n* Patient has suspected or confirmed pregnancy,\n* Patient has large breasts that cannot be adequately imaged on the 19 x 23 cm detector surface of the GE Senographe 2000D digital mammography unit.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

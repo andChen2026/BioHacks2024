@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01965483",
+    "briefTitle": "Phase 2 Study of Adjuvant Radiotherapy in Breast Cancer Using a Once a Week Hypofractionated Regimen",
+    "officialTitle": "Weekly Hypofractionated Radiotherapy in Breast Cancer: a Phase 2 Clinical Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 44,
+    "primaryOutcomeMeasure": "Number patients with adverse events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast carcinoma\n* Submitted to breast conserving surgery with pos-op free margins status\n* Early stage: pT1-2N0\n\nExclusion Criteria:\n\n* Positive pathological margins\n* Submitted to chemotherapy, either neoadjuvant or adjuvant\n* Previous breast reconstruction\n* Bilateral breast cancer\n* Previous thoracic irradiation\n* Collagen disease",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

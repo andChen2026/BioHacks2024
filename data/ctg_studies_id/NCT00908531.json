@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00908531",
+    "briefTitle": "Trial of Endocrine Against Locoregional Therapy First in Postmenopausal Women With Early Breast Cancer",
+    "officialTitle": "Randomized Trial of Endocrine Therapy Against Locoregional Therapy First. A DBCG Trial in Postmenopausal Patients With Operable Hormone Receptor Positive Tumors Larger Than 2 cm.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Operable Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 123,
+    "primaryOutcomeMeasure": "pCR",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Informed consent\n* Age 60 years or older\n* Measurable non-metastatic and non-inflammatory breast cancer\n* Tumor of 2 cm or larger\n* ER and/or PgR positive tumor\n* Co-morbidity index 0 - 3, e.g., no other serious medical condition\n\nExclusion Criteria:\n\n* Prior medical therapy for a malignant disease, including aromatase inhibitors\n* Distant metastasis\n* Need for chemotherapy\n* Past or current history of other neoplasms (except for curative treated basal skin cancer or in situ carcinoma of the cervix uteri)\n* Treatment with a non-approved drug within 30 days",
+    "sex": "FEMALE",
+    "minimumAge": "60 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

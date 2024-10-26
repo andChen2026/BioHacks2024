@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00030615",
+    "briefTitle": "Decitabine in Treating Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase I Study Of The Toxicities, Biologic And Clinical Effects Of Daily 5 Aza 2'Deoxycytidine (DAC), NSC 127716 (IND 50733) For Four Weeks In Patients With Advanced Malignancies",
+    "overallStatus": "COMPLETED",
+    "conditions": "Male Breast Cancer, Recurrent Bladder Cancer, Recurrent Breast Cancer, Recurrent Melanoma, Stage III Melanoma, Stage IV Bladder Cancer, Stage IV Breast Cancer, Stage IV Melanoma, Unspecified Adult Solid Tumor, Protocol Specific",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Maximum tolerated dose determined by dose-limiting toxicities graded according to CTC 2.0 toxicity criteria",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of advanced metastatic solid tumor for which all standard therapy has failed, including, but not limited to the following:\n\n  * Stage III or IV melanoma\n\n    * Mucosal melanoma allowed\n    * No resectable stage III melanoma\n  * Bladder cancer\n  * Breast cancer\n* No active symptomatic CNS disease\n* No radiographically evident cerebral edema\n* Hormone receptor status:\n\n  * Not specified\n* Male or female\n* Performance status - ECOG 0-1\n* Hemoglobin at least 9.0 g/dL\n* Platelet count at least 100,000/mm\\^3\n* WBC at least 3,500/mm\\^3\n* Absolute granulocyte count at least 1,500/mm\\^3\n* No coagulation disorders\n* Bilirubin no greater than 1.5 times upper limit of normal (ULN)\n* SGOT and SGPT less than 2.5 times ULN\n* Hepatitis B surface antigen negative\n* Hepatitis C antibody negative\n* Creatinine no greater than 1.5 times ULN\n* No major cardiovascular system illness\n* No major respiratory system illness\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* HIV negative\n* No major systemic infection\n* At least 1 month since prior radiotherapy\n* At least 1 month since any prior anticancer therapy or adjuvant therapy\n* No other experimental treatment within 30 days prior to, during, and for 30 days after study therapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00313599",
+    "briefTitle": "Lapatinib and Paclitaxel in Treating Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase I Dose Escalation Study of a 2 Day Oral Lapatinib Chemosensitization Pulse Given Prior To Weekly Intravenous Abraxane\u2122 in Patients With Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Bladder Cancer, Brain and Central Nervous System Tumors, Breast Cancer, Esophageal Cancer, Extragonadal Germ Cell Tumor, Gastric Cancer, Lung Cancer, Ovarian Cancer, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "Maximum tolerated dose (MTD) of lapatinib in course 1",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed solid tumor, including the following tumor types:\n\n  * Breast cancer\n  * Non-small cell lung cancer\n  * Prostate cancer\n  * Bladder cancer\n  * Gastroesophageal junction cancer\n  * Ovarian cancer\n  * Germ cell tumor\n* Advanced or metastatic disease\n* No effective curative therapy exists\n* Evaluable disease\n\n  * Measurable disease not required\n  * Bone-only disease allowed\n* No progressing brain metastases\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-2\n* Life expectancy \\> 3 months\n* Absolute neutrophil count \u2265 1,500/mm\\^3\n* Hemoglobin \u2265 9.0 g/dL\n* Platelet count \u2265 100,000/mm\\^3\n* Bilirubin normal\n* AST/ALT \u2264 2.5 times upper limit of normal\n* Creatinine normal\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No serious intercurrent medical or psychiatric illness\n* No serious active infection\n* No gastrointestinal tract disease that would impair a patient's ability to take oral medication\n* No history of significant cardiac disease, including any of the following:\n\n  * Congestive heart failure\n  * Symptomatic cardiac arrhythmias\n  * Unstable angina\n* No pre-existing peripheral neuropathy \u2265 2\n\nPRIOR CONCURRENT THERAPY:\n\n* Any number of prior therapies allowed\n* Prior paclitaxel, tyrosine kinase inhibitor therapy, or endothelial growth factor inhibitors allowed\n* At least 14 days since prior and no concurrent CYP3A4 inducers or herbal or dietary supplements\n* At least 7 days since prior and no concurrent CYP3A4 inhibitors\n* At least 6 months since prior and no concurrent amiodarone\n* More than 1 month since prior chemotherapy, radiotherapy, hormonal therapy, or investigational anticancer agents\n* Concurrent continued use of gonadal suppression agents (i.e., goserelin acetate or leuprolide acetate) allowed\n* No antacids 1 hour before and after study drug administration\n* No concurrent retinoids\n* No concurrent hormonal anticancer agent\n* No other concurrent anticancer chemotherapy or investigational anticancer agents",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

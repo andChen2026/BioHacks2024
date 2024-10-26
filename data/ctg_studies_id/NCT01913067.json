@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01913067",
+    "briefTitle": "Evaluation of Cabazitaxel in Patients With Brain Metastasis Secondary to Breast Cancer and NSCLC",
+    "officialTitle": "A Phase II Evaluating Cabazitaxel in Patients With Brain Metastasis Secondary to Breast and Non-small Cell Lung Cancer",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Brain Metastasis, Breast Cancer, Non Small Cell Lung Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Reduction of brain lesions.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent\n* Age\\>18, ECOG 0-1\n* Histologically confirmed 1) HER2-negative invasive breast carcinoma or 2) NSCLC\n* In patients with breast cancer, HER2-negative status by FISH or immunohistochemistry (score 0, or +1).\n* In patients with breast cancer, known estrogen and progesterone receptor status.\n* Evidence of measurable disease in the brain (at least 1cm)\n* Stable or decreasing dosage of steroids for 7 days prior to baseline MRI.\n* No evidence of (cortical) cognitive impairment as defined by a Mini-Mental Status Exam (MMSE) score \u2265 25/30.\n* No more than 4 prior lines of systemic chemotherapy in the metastatic setting\n* Adequate hematopoietic function defined as:\n\n  * Hemoglobin \u2265 9.0g/dL\n  * Absolute neutrophilic count \u2265 1.5 x 109L\n  * Platelet count \u2265 100 x 109L\n* Adequate hepatic function defined as:\n\n  * AST \u2264 2.5 x upper limit of normal (ULN)\n  * ALT \u2264 2.5 x ULN\n  * Total bilirubin \u2264 1.0 x ULN\n* Adequate renal function defined as serum creatinine \u2264 1.5 x ULN. If creatinine ranges from 1.0 - 1.5 x ULN, creatinine clearance determined by CKD-EPI formula should be calculated and only patients with clearance \\>60 mL/min are eligible\n* Adequate contraceptive method in patients with child-bearing potential.\n\nExclusion Criteria:\n\n* History of prior whole brain irradiation\n* Progressive neurological symptoms requiring immediate brain irradiation\n* Pregnancy or lactation\n* History of hypersensitivity reaction to taxanes\n* History of hypersensitivity to polysorbate 80 containing agents\n* Current or planned treatment with strong inhibitors or inducers of cytochrome P450.\n* Less than 3 weeks since the last treatment of chemotherapy, biological therapy, and/or immunotherapy\n* Leptomeningeal carcinomatosis\n* Contra-indication to contrast-enhanced MRI",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

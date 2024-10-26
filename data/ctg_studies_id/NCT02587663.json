@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02587663",
+    "briefTitle": "Extent of Breast Cancer and the Role of Pre-Operative Sonography and MRI",
+    "officialTitle": "Sonography Compared With MRI in Pre-Operative Evaluation of Patients With Breast Cancer to Determine Extent of Breast Disease",
+    "overallStatus": "COMPLETED",
+    "conditions": "Ductal Breast Carcinoma In Situ, Stage IA Breast Cancer, Stage IB Breast Cancer, Stage II Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Difference between the longest diameter of the index lesion as determined by imaging versus as determined by the pathologist",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Competent to provide informed consent\n* Pathologically proven invasive breast cancer or ductal carcinoma in situ (DCIS) originally identified clinically or mammographically and diagnosed by percutaneous core biopsy\n* Eligible for breast conserving surgery followed by radiation therapy\n\nExclusion Criteria:\n\n* Women with surgical excisional biopsy that diagnosed the breast cancer\n* Women with clinical or mammographic findings where breast conserving surgery is not an option\n* Women that clinically or mammographically have breast cancers that are fixed to skin\n* Women receiving neoadjuvant chemotherapy prior to surgery\n* Women having contraindications to contrast-enhanced (CE)-MRI examination (e.g., claustrophobia and allergy to gadolinium)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

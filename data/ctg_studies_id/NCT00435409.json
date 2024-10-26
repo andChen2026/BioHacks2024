@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00435409",
+    "briefTitle": "A Study Of Sunitinib In Combination With Capecitabine Compared With Capecitabine In Patients With Breast Cancer",
+    "officialTitle": "A Randomized, Phase 3 Study Of Sunitinib In Combination With Capecitabine Compared With Capecitabine In Patients With Previously Treated Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 442,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Locally advanced or metastatic disease that can be measured. Patients with bone-only disease are also allowed to enter the study.\n* Previous treatment with an anthracycline and a taxane in any setting\n* Progression on first or second line regimen or adjuvant regimen if disease free interval less than 12 months\n\nExclusion Criteria:\n\n* History of inflammatory carcinoma if there is no other measurable disease\n* More than 2 chemotherapy agents in the advanced disease setting\n* Brain metastases",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

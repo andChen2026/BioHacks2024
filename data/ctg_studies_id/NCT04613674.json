@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04613674",
+    "briefTitle": "A Study of Camrelizumab Plus Chemotherapy vs Placebo Plus Chemotherapy as Neoadjuvant Therapy in Participants With Triple Negative Breast Cancer (TNBC)",
+    "officialTitle": "A Multicentre, Randomized, Double-blind, Parallel-controlled Phase \u2162 Study to Evaluate Camrelizumab Plus Chemotherapy vs Placebo Plus Chemotherapy as Neoadjuvant Therapy in Patients With Early or Locally Advanced Triple Negative Breast Cancer (TNBC).",
+    "overallStatus": "COMPLETED",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 441,
+    "primaryOutcomeMeasure": "Pathological complete response (pCR) rate using the definition of ypT0/Tis ypN0 (i.e., no invasive residual in breast or nodes; noninvasive breast residuals allowed) at the time of definitive surgery.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* ECOG Performance Status of 0-1.\n* Early or locally advanced, histologically documented TNBC (absence of HER2, ER, and PR expression).\n* Tumor stage: II-III.\n* Adequate hematologic and organ function.\n* Must be willing to use an adequate method of contraception for the course of the study.\n\nExclusion Criteria:\n\n* Has a history of breast cancer.\n* Has a history of invasive malignancy \u22645 years prior to signing informed consent except for adequately treated basal cell or squamous cell skin cancer or in situ cervical cancer.\n* Has received prior chemotherapy, targeted therapy, and radiation therapy within the past 12 months.\n* Has received prior therapy with an anti-programmed cell death protein 1 (anti-PD-1), anti-programmed death - ligand 1 (anti-PD-L1), or anti-PD-L2 agent or with an agent directed to another co-inhibitory T-cell receptor (e.g., cytotoxic T-lymphocyte-associated antigen-4 \\[CTLA-4\\].\n* Has a diagnosis of immunodeficiency or autoimmune diseases.\n* Has received any form of immunosuppressive therapy within 4 weeks prior to the first dose of study treatment.\n* Severe pulmonary or cardiac disease.\n* Known active hepatitis C virus, or known active hepatitis B virus.\n* History of organ or bone marrow transplantation.\n* Pregnant or breast-feeding women.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

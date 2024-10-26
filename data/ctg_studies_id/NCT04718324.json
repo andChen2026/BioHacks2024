@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04718324",
+    "briefTitle": "PREMs on PROMs in Breast Disease (PREMs_PROMs)",
+    "officialTitle": "Electronic Patient Reported Outcome Measures (ePROMs) in Patients With Breast Disease: An Open-label, Randomized Controlled Trial on Patient Reported Experience Measures (PREMs) and Effectivity (PREMs_PROMs)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Disease, Breast Cancer, Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 230,
+    "primaryOutcomeMeasure": "Response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients seeking or being treated for perceived or verified, benign or malignant breast disease.\n* Women undergoing screening mammography.\n\nExclusion Criteria:\n\n* Linguistic barriers.\n* Deprivation of liberty.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

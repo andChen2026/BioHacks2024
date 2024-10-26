@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03702309",
+    "briefTitle": "Liquid Biopsy Evaluation and Repository Development at Princess Margaret",
+    "officialTitle": "Liquid Biopsy Evaluation and Repository Development at Princess Margaret",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cancer, Breast Cancer, Lung Cancer, Colon Cancer, Ovarian Cancer, Melanoma, Lymphoma, Leukemia, Mutation, Lynch Syndrome, Cowden Syndrome, BRCA1 Mutation, BRCA2 Mutation, Uterine Cancer, Myeloma, Kidney Cancer, Head and Neck Cancer, Meningioma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2500,
+    "primaryOutcomeMeasure": "Collection and annotation of biospecimens",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with either histological confirmation of a solid tumor or hematological malignancy, OR patients identified as high-risk for cancer (based on identified aberration in cancer predisposition gene or on hormonal and/or family history without known aberration).\n2. Patient must be \u2265 18 years old.\n3. All patients must have signed and dated an informed consent form for this LIBERATE study.\n4. If patients are being co-consented for a separate primary research study listed in Appendix I, they must fulfill the eligibility criteria for that separate primary research study. If there is a discrepancy in the eligibility criteria between protocols, the separate primary research study's criteria take precedence.\n\nExclusion Criteria:\n\nNone",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

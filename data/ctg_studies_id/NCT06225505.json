@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06225505",
+    "briefTitle": "Early Detection of Triple Negative Breast Cancer Relapse",
+    "officialTitle": "Early Detection of Triple Negative Breast Cancer Relapse: a Clinical Utility Phase II Trial",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 450,
+    "primaryOutcomeMeasure": "Overall survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients must have signed a written informed consent before inclusion\n2. Patients must be female \u2265 18 years old\n3. Patients diagnosed with a non-metastatic TNBC (ER \\& PR \\<10%, HER2- per ASCO/CAP guidelines). Patients must have been previously evaluated by a 18F-FDG PET-CT or a bone scintigraphy combined with a thorax, abdomen and pelvis CT scan with contrast\n4. Patients who have undergone surgery with curative intent for their non-metastatic TNBC. Surgery must have been performed between 1 to 18 months before inclusion. Patients must have initiated their adjuvant therapy, whenever indicated, since at least 4 weeks. For patients receiving an experimental adjuvant treatment in a clinical trial, any intervention planned as part of this trial must be completed before inclusion.\n5. High-risk primary tumor, defined as:\n\n   1. Lack of pathological complete response after neoadjuvant chemotherapy (RCB I, II or III; RCB I being capped to a maximum of 30% of included patients) OR, in the absence of neoadjuvant chemotherapy,\n   2. Stage IIB-III (i.e., T2N1, any T3-T4, any N2-3) OR\n   3. Any loco-regional relapse occurring after a prior ipsilateral, curatively treated TNBC\n6. No sign of local or distant relapse, as per investigator assessment\n7. Performance status \\< 2\n8. Available FFPE tumor block with \\> 10% cellularity or 11 tumor sections with \\>10% cellularity\n9. Patient able to comply with protocol requirements\n10. Patients covered by a health insurance\n\nExclusion Criteria:\n\n1. Any uncontrolled disease, metabolic dysfunction, physical examination finding, or clinical laboratory finding or any other medical condition that, in the opinion of the investigator, interferes with the trial procedures\n2. Male participants\n3. Patients with altered mental status or psychiatric disorder that, in the opinion of the investigator, would preclude a valid patient informed consent.\n4. Patients who have difficulty undergoing trial procedures for geographic, social or psychological reasons\n5. Person deprived of liberty or under guardianship\n6. History of another primary malignancy except for the following :\n\n   1. Basal cell carcinoma or any in situ carcinoma treated with curative intent\n   2. Any stage I-II malignancy treated with curative intent with no evidence of active disease in the last five years\n7. For step #2 (randomization after ctDNA detection): clinical/radiological metastatic relapse before the detection of the molecular relapse.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02753673",
+    "briefTitle": "Developing a New Questionnaire About Patient Expectations of Breast Conserving Therapy",
+    "officialTitle": "Patient Expectations of Breast Conserving Therapy: Broadening a Patient Reported Outcomes Instrument",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 22,
+    "primaryOutcomeMeasure": "measure patient expectations of breast-conserving therapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Age 18-75\n* Patients who are scheduled to undergo lumpectomy at MSKCC as part of breast conserving therapy for invasive breast cancer OR who have completed BCT (lumpectomy and radiation) at least 6 months prior to recruitment\n\nExclusion Criteria:\n\n* Inability to speak or understand English\n* Inability to provide meaningful informed consent due to physical, cognitive, or psychiatric disability\n* Patients undergoing lumpectomy without radiation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

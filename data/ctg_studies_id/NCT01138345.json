@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01138345",
+    "briefTitle": "Biomarkers in Blood Samples From Older Breast Cancer Survivors",
+    "officialTitle": "The Effect of Chemotherapy on Aging in Older Women With Breast Cancer as Measured by Expression of p16INK4a",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 246,
+    "primaryOutcomeMeasure": "p16INK4a expression between cohort 2 vs cohort 3",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer\n\n  * Stage I-III disease\n* Breast cancer survivors meeting 1 of the following criteria:\n\n  * Prior surgery with or without (\u00b1) radiotherapy (RT) (cohort 1)\n  * Prior surgery \u00b1 RT, followed by prior or concurrent hormonal (endocrine) therapy (cohort 2)\n\n    * Must have received or be on endocrine therapy for \u2265 3 months\n  * Prior surgery \u00b1 RT, followed by prior chemotherapy \u00b1 endocrine therapy (cohort 3)\n* No recurrent disease\n* No history of clonal bone marrow disorder (i.e., myelodysplastic or myeloproliferative disorder, acute or chronic leukemia)\n\nPATIENT CHARACTERISTICS:\n\n* Life expectancy \\> 12 months\n* Absolute lymphocyte count \\> 500/\u03bcL\n* No acute or active infection\n* No other co-morbid illness that would impair ability to participate in the study\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* At least 3 months since prior surgery with or without radiotherapy\n* At least 3 months since prior chemotherapy (cohort 3)\n* No concurrent radiotherapy, chemotherapy, or experimental therapy",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

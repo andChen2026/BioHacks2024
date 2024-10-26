@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03062072",
+    "briefTitle": "Emergence of Chemotherapy Related Hyperglycemia in nOn-diabetic Patients",
+    "officialTitle": "Emergence of Chemotherapy Related Hyperglycemia in nOn-diabetic Patients (ECHO)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Cancer, Colon Cancer, Breast Cancer, Malignant Lymphoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Incidence of type 2 diabetes mellitus",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with cancers (colorectal, breast) who treated with curative intents and ones with malignant lymphoma who are expected to achieve complete remission with chemotherapy (mainly, CHOP regimen)\n* Patients without history of diabetes mellitus\n* Normal glucose tolerance, as defined in the protocol\n\nExclusion Criteria:\n\n* Patients with diabetes mellitus or hyperglycemia, as defined in the protocol",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

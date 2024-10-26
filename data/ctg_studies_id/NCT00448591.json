@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00448591",
+    "briefTitle": "A Study of Avastin (Bevacizumab) Plus Taxane-Based Therapy in Patients With Locally Recurrent or Metastatic Breast Cancer.",
+    "officialTitle": "An Open-label Study to Evaluate the Safety and Effect on Disease Progression and Overall Survival of Avastin Plus Taxane-based Chemotherapy in Patients With Locally Recurrent or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2296,
+    "primaryOutcomeMeasure": "Percentage of Participants With Adverse Events (AEs) and Serious AEs (SAEs) Related to Bevacizumab, Death, and AEs of Special Interest (AESIs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* patients, \\>=18 years of age;\n* HER-2 negative adenocarcinoma of the breast, with locally recurrent or metastatic disease; (HER-2 positive patients only if previously treated with Herceptin in the adjuvant setting;\n* candidates for chemotherapy.\n\nExclusion Criteria:\n\n* previous chemotherapy for metastatic or locally recurrent breast cancer;\n* concomitant hormonal therapy for metastatic or locally recurrent disease;\n* concomitant Herceptin therapy for treatment of metastatic or locally recurrent HER-2 positive disease;\n* previous radiotherapy for treatment of metastatic disease;\n* evidence of CNS metastases.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

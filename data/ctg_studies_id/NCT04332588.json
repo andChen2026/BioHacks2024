@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04332588",
+    "briefTitle": "Monitoring HER2+ Breast Cancer Neoadjuvant Treatment With Advanced PET/MRI",
+    "officialTitle": "Monitoring HER2+ Breast Cancer Neoadjuvant Treatment With Advanced PET/MRI",
+    "overallStatus": "RECRUITING",
+    "conditions": "HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Baseline measure of PET standardized uptake value (SUV).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients must be \u2265 18 years old and \u2264 75 years old\n2. HER2+ breast cancer determined on primary tumor by a local pathology laboratory and defined as IHC score 3+ and/or positive by ISH (defined by ISH ratio of \u2265 2.0 for the number of HER2 gene copies to the number of chromosome 17 copies). Only one positive result is required for eligibility\n3. Locally advanced stage II-III HER2+ breast cancer patients eligible for neoadjuvant therapy who are na\u00efve to beginning treatment\n4. Estimated life expectancy of greater than one year\n5. Patients must have one lesion with RECIST measurable disease (great than 1 cm in diameter)\n\nExclusion Criteria:\n\n1. Inability to provide informed consent F\n2. Weight over 350 lbs., due to the scanner bore size\n3. Lactating, known or suspected pregnancy. Women with child-bearing potential must a have a negative serum \u03b2-hCG pregnancy test within 48 hours or a negative urine \u03b2-hCG pregnancy test within 48 hours of each PET imaging study.\n4. Contraindication for MRI study (e.g. non-removable metal implants or certain tattoos)\n5. Unable to lie still on the imaging table for one (1) hour\n6. contraindication for gadolinium-based contrast agent, ProHance (gadoteridol)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

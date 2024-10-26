@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01068483",
+    "briefTitle": "Safety of BKM120 Monotherapy in Advanced Solid Tumor Patients",
+    "officialTitle": "A Phase IA, Multicenter, Open-label Dose Escalation Study of BKM120, Administered Orally in Adult Patients With Advanced Solid Malignancies",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Colon Cancer, Ovarian Cancer, Endometrium Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 107,
+    "primaryOutcomeMeasure": "Maximum Tolerated Dose (MTD) of BKM120",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nAll patients:\n\n* Histologically-confirmed advanced solid tumors\n* Progressive, recurrent unresectable disease\n* World Health Organization (WHO) Performance status \u2264 2\n* No history of primary brain tumor or brain metastases\n\nMTD Expansion part:\n\n* Histologically-confirmed advanced solid tumors\n* Progressive, recurrent unresectable disease\n* World Health Organization (WHO) Performance status \u2264 2\n* No history of primary brain tumor; no brain metastases unless asymptomatic and clinically stable for \u2265 3 months\n* Patients with genetic or molecular alteration of the PI3K pathway\n\nExclusion Criteria:\n\n* Prior treatment with a PI3K inhibitor\n* History of or active major depressive episode, bipolar disorder, schizophrenia, or history of suicidal attempt or ideation\n* No clinically manifest diabetes mellitus (treated and/or with clinical signs)\n* No acute or chronic renal disease\n* No acute or chronic liver disease\n* No acute or chronic pancreatitis\n* No unresolved diarrhea\n* No impaired cardiac function or clinically significant cardiac diseases such as ventricular arrhythmia, congestive heart failure, uncontrolled hypertension\n* No acute myocardial infarction or unstable angina pectoris within the past 3 months\n* Not pregnant or nursing and fertile patients must use barrier contraceptives\n\nOther protocol-defined inclusion/exclusion criteria may apply",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

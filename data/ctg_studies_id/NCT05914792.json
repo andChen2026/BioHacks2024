@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05914792",
+    "briefTitle": "Longitudinal ctDNA Surveillance for Older Women With ER+ Breast Cancer Who Omit Surgery",
+    "officialTitle": "Longitudinal ctDNA Monitoring in Older Women With ER+ Breast Cancer Who Forego Upfront Surgery in Favor of Primary Endocrine Therapy",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Proportion of ctDNA positivity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* early-stage (stages I-III) breast cancer\n* estrogen receptor positive (ER+) and/or progesterone receptor positive (PR+) and HER2 receptor negative\n* able to provide blood samples\n* decision made by treating physician and patient to forego upfront surgery in favor of medical management with endocrine therapy\n* non-metastatic disease at diagnosis (patients need not have staging scans; patients at higher risk for de novo stage IV disease should not have any symptoms concerning for metastatic disease)\n* patients may be taking any endocrine therapy\n* patients may be taking any CDK4/6 inhibitor as deemed necessary by their treating physician\n* any ECOG Performance Status allowed\n* if patients have synchronous bilateral ER+ breast cancer, tissue from both sites should be submitted to Natera to perform ctDNA testing\n* patients with multifocal/multicentric tumors are eligible and the largest focus of cancer should be submitted for testing\n\nExclusion Criteria:\n\n* under 70 years of age\n* breast cancer that is not estrogen receptor positive (ER+) or progesterone receptor (PR+)\n* unable to provide blood samples or insufficient tumor tissue for Signatera testing",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

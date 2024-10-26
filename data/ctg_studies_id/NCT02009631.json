@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02009631",
+    "briefTitle": "A Study to Evaluate the Effects of Veliparib on Heart Rhythms in Patients With Solid Tumors",
+    "officialTitle": "A Randomized, Placebo-Controlled Crossover Study to Evaluate the Effect of Veliparib (ABT-888) on Cardiac Repolarization in Subjects With Relapsed or Refractory Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Ovarian Cancer, Colon Cancer, Lung Cancer, Gastric Cancer, Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "To evaluate the effect of Veliparib on corrected QT interval calculated by Fridericia's formula (QTcF)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed solid malignancy that is metastatic or unresectable for which standard curative measures or other therapy that may provide clinical benefit do not exist or are no longer effective.\n* Subjects with brain metastases must have clinically controlled neurologic symptoms.\n* Subject is able to swallow and retain oral medications and does not have uncontrolled emesis.\n* Subject has adequate bone marrow, renal and hepatic function per local laboratory reference ranges.\n\nExclusion Criteria:\n\n* Uncorrected serum potassium, serum magnesium, serum calcium or free thyroxin (FT4) and thyroid stimulating hormone (TSH) outside of normal reference ranges, or grade 2 hyponatremia or hypernatremia.\n* Subject has severe ECG morphologic abnormalities that make QTc evaluation difficult.\n* Subject has a history of cardiac conduction abnormalities.\n* Subject has a significant history of cardiovascular disease.\n* Subject has received any anti-cancer therapies 21 days prior to the first dose of study drug, or has recovered to no better than a grade 2 or higher clinically significant adverse effect(s)/toxicity(s) of the previous therapy.\n* Use of drugs with a known risk for QT prolongation and Torsades de Pointes within 7 days prior to the first study dose.\n* Use of tobacco or nicotine-containing products within 12 hours prior to the first study dose.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

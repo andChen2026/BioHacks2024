@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03207594",
+    "briefTitle": "Improving Evidence-Based Care for Cancer Patients",
+    "officialTitle": "Improving Evidence-Based Care for Cancer Patients",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Head and Neck Cancer, Prostate Cancer, Breast Cancer, Lung Cancer, Gynecologic Cancer, Gastrointestinal Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 128,
+    "primaryOutcomeMeasure": "Number of patients with biochemically confirmed smoking cessation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosed with head/neck, lung, breast, prostate, gastrointestinal or gynecologic cancer\n* 21 years of age or older at time of study registration\n* Must have been referred to MUSC radiation oncology for treatment with curative radiation therapy\n* Must report current smoking defined as self-reporting smoking within the past 30 days using a structured intake questionnaire.\n\nExclusion Criteria:\n\n* Patients with primary central nervous system malignancies will be excluded.\n* Patients that have other cancer disease types will be excluded due to either significant differences in standard radiation therapy approaches or rarity of disease required radiation.\n* Patients who are currently participating in the Medical University of South Carolina Hollings Cancer Center smoking cessation program\n* Patients who are unable to provide informed consent",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00316407",
+    "briefTitle": "Lapatinib/Carboplatin/Paclitaxel in Previously Treated Ovarian or Breast Cancer Patients",
+    "officialTitle": "Phase I/II Lapatinib Plus Carboplatin and Paclitaxel in Stage III or IV Relapsed Ovarian or Stage IV Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Ovarian Epithelial Cancer Stage III, Stage IV Ovarian Cancer, Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Relapsed (Stage III or IV) ovarian, primary peritoneal, fallopian tube carcinoma patients.\n* Stage IV metastatic breast cancer patients who have failed no more than four previous chemotherapies for Stage IV disease.\n* Ability to swallow and retain oral medications.\n* Measurable disease\n\nExclusion Criteria:\n\n* Treatment with previous weekly carboplatin and paclitaxel.\n* No prior treatment with erbB targeting therapies such as erlotinib, gefitinib and cetuximab.\n* No concomitant requirement for medication classification as CYP3A4 inducers or inhibitors.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

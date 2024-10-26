@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00191672",
+    "briefTitle": "A Trial Of Gemcitabine Plus Paclitaxel And Gemcitabine Plus Docetaxel In Metastatic Breast Cancer",
+    "officialTitle": "A Phase II Randomized Trial Of Gemcitabine Plus Paclitaxel And Gemcitabine Plus Docetaxel In Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Estimate the response rate of two regimens separately.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Advanced or metastatic breast cancer\n* Disease that can be measured by the physician or radiologic test.\n* May have had one chemotherapy treatment for advanced or metastatic disease.\n* Patients may have received any prior adjuvant chemotherapy, including taxane containing regimens, provided this treatment was completed at least 6 months prior to enrollment.\n* Patients may have received prior hormone therapy or immunotherapy.\n\nExclusion Criteria:\n\n* Patients with only non-measurable disease\n* Cancer that has spread to the brain\n* A patient who received a taxane with metastatic disease.\n* Pregnancy\n* Patients who received prior gemcitabine",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

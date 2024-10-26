@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03240224",
+    "briefTitle": "Bioinformation Therapy for Breast Cancer",
+    "officialTitle": "Combination of Cancer Ablation and Life Information Rehabilitation Therapy for Unresectable Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Relief degree of tumors",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All standard therapies have failed according to NCCN guidelines or the patient refuses standard therapies\n* Body tumor 1-6, with at least one tumor length \\> 2 cm\n* KPS \u2265 70, lifespan \\> 6 months\n* Platelet count \u2265 80\u00d7109/L\uff0cwhite blood cell count \u2265 3\u00d7109/L, neutrophil count \u2265 2\u00d7109/L, hemoglobin \u2265 80 g/L\n\nExclusion Criteria:\n\n* Patients with cardiac pacemaker\n* Patients with brain metastasis\n* Patients with grade 3 hypertension or diabetic complication, severe cardiac and pulmonary dysfunction",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

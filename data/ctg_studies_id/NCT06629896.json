@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06629896",
+    "briefTitle": "Contrast Enhancement Mammography vs MRI for the Surveillance of Women at High Risk of Breast Cancer: Con-trust Randomized Controlled Trial",
+    "officialTitle": "Comparison Between Contrast-Enhanced Mammography and Magnetic Resonance Imaging in the Surveillance of High-Risk Women for Breast Cancer: The Randomized Controlled Trial &#39;Con-trust. Funded by European Commission NextGenerationEU - Ministero Della Salute PNRR: M6/C2_CALL 2023 Full Proposal",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer Screening and Diagnosis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 2200,
+    "primaryOutcomeMeasure": "Cumulative incidence of BC",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women at high risk of developing breast cancer already in care at participating centers or new referral for early diagnosis programs, aged between 35 and 60 years, with an estimated risk of breast cancer in the next 5 years \\>=5%.\n\nTo estimate the 5-year risk, centers may use one of the following models and criteria:\n\n* Tyrer Cuzick IBIS: criterion \\>10% at 10 years;\n* BOADICEA: criterion \\>10% at 10 years;\n* BCSC: criterion \\>10% at 10 years (if possible switch to Tyrer-Cuzick if \\>=2 relatives with breast or ovarian cancer);\n* MyPeBS (Mammorisk): woman included at very high risk in the MyPeBS study and who has completed the active follow-up period;\n* Women with previous chest irradiation for radiotherapy\n\nExclusion Criteria:\n\n* - Previous breast cancer;\n* Pregnancy;\n* Bilateral mastectomy;\n* Psychiatric or other disorders not compatible with compliance with the protocol and follow-up requirements;\n* Women who do not intend or cannot be followed for at least 2.5 years;\n* Women are unable to understand the information or to express a truly informed consent or non-consent to participation.",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT"
+}

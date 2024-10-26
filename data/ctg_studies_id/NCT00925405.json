@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00925405",
+    "briefTitle": "Breast Magnetic Resonance Imaging (MRI) Screening After Mantle Radiation Therapy",
+    "officialTitle": "Breast MRI Screening in High-Risk Women After Mantle Radiation Therapy for Lymphoma",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Incidence of breast cancer detected with addition of breast MRI",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patients diagnosed with lymphoma prior to 1995\n2. The radiation therapy must have been delivered at M.D. Anderson from start to finish with complete records of dose received\n3. Patients must have received radiation therapy to the chest between the ages of 10 and 30\n\nExclusion Criteria:\n\n1. Patients with claustrophobia\n2. Obese patients (the equipment weight limit is 350 pounds and the maximum scanner bore diameter is 55 cm)\n3. Patients with myocardial infarction within 6 months of study entry\n4. Patients with unstable angina pectoris, uncontrolled congestive heart failure, or uncontrolled arrhythmias\n5. Patients with aneurysm clips, pacemakers, or other implanted devices that are not MRI compatible\n6. Pregnant patients\n7. Patients with compromised renal function, with a calculated glomerular filtration rate (cGFR) less than 60 ml/min/1.73m2.\n8. Patients who began their treatment outside of MD Anderson Cancer Center.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

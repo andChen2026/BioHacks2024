@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01340300",
+    "briefTitle": "Exercise and Metformin in Colorectal and Breast Cancer Survivors",
+    "officialTitle": "Randomized Phase II Study of Exercise and Metformin in Colorectal and Breast Cancer Survivors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Colorectal Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 139,
+    "primaryOutcomeMeasure": "Change in Fasting Insulin Level",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed stage I-III colorectal or breast cancer\n* Undergone curative-intent complete surgical resection and completed all adjuvant therapy (if indicated) at least 2 months prior to enrollment\n* Note: Breast cancer subjects on hormonal therapy or trastuzumab only therapy and colorectal cancer subjects on adjunctive therapies not considered cytotoxic chemotherapy (including those participating in CALGB 80702 receiving only celecoxib/placebo) are eligible.\n* Participants will be allowed to receive concomitant adjuvant endocrine therapy for breast cancer; however, all endocrine agents must be initiated at least 1 month prior to enrollment in the study and continued throughout the duration of study participation.\n* Less than 120 minutes of exercise per week\n* Approval by oncologist or surgeon\n* English speaking and able to read English\n* No planned surgery anticipated in the 3 month intervention period\n* At least one month from any major surgery to start of intervention including colostomy reversal\n\nExclusion Criteria:\n\n* Concurrent other malignancy or history of other malignancy treated within the past 3 years (other than non-melanoma skin cancer or in-situ cervical cancer)\n* Metastatic disease\n* Scheduled to receive any form of further adjuvant cancer therapy\n* Currently on medication for diabetes treatment\n* Pregnant or breast-feeding\n* Any condition associated with increased risk of metformin-associated lactic acidosis (prior renal failure or liver failure, history of acidosis of any type; habitual intake of 3 or more alcoholic beverages per day)\n* Known hypersensitivity or intolerance to metformin",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06084481",
+    "briefTitle": "Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Select Advanced Solid Tumor Indications Receiving Intravenous (IV) ABBV-400",
+    "officialTitle": "A Phase 1 Open-Label Study to Evaluate the Efficacy and Safety of ABBV-400 in Select Advanced Solid Tumor Indications",
+    "overallStatus": "RECRUITING",
+    "conditions": "Hepatocellular Carcinoma, Pancreatic Ductal Adenocarcinoma, Biliary Tract Cancers, Esophageal Squamous Cell Carcinoma, Triple Negative Breast Cancer, Hormone Receptor+/Human Epidermal Growth Factor Receptor 2 Negative Breast Cancer, Head and Neck Squamous-Cell Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 220,
+    "primaryOutcomeMeasure": "Objective Response Rate (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Laboratory values meeting the criteria laid out in the protocol.\n* Measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1.\n* Documented diagnosis of locally advanced or metastatic hepatocellular carcinoma (HCC), pancreatic ductal adenocarcinoma (PDAC), biliary tract cancers (BTC), squamous cell carcinoma of the esophagus, (ESCC), triple negative breast cancer (TNBC), hormone receptor+/HER2-breast cancer (HR+/HER2-BC), or head and neck squamous-cell-carcinoma (HNSCC) (by World Health Organization \\[WHO\\] criteria). Participant meets the criteria for disease activity laid out in the protocol.\n\nExclusion Criteria:\n\n* Have received anticancer therapy including chemotherapy, radiation therapy, immunotherapy, biologic, or any investigational therapy within 28 days or 5 half-lives of the drug (whichever is shorter) prior to the first dose of ABBV-400. Palliative radiation therapy for bone, skin, or subcutaneous metastases with 10 fractions or less is permitted and not subject to a washout period.\n* Unresolved AEs \\> Grade 1 from prior anticancer therapy except for alopecia.\n* History of interstitial lung disease (ILD) or pneumonitis that required treatment with systemic steroids, nor any evidence of active ILD or pneumonitis, including but not limited to those listed in the protocol.\n* History of clinically significant, intercurrent lung-specific illnesses, including those laid out in the protocol.\n* Untreated brain or meningeal metastases (i.e., participants with history of metastases are eligible provided they do not require ongoing steroid treatment for cerebral edema and have shown clinical and radiographic stability for at least 14 days after definitive therapy). Participants may continue on antiepileptic therapy if required.\n* History of other active malignancy, with the exception of those laid out in the protocol.\n* Any autoimmune, connective tissue or inflammatory disorders with documented or suspicious pulmonary involvement at screening (i.e., rheumatoid arthritis, Sjogren's, sarcoidosis etc.), and prior pneumonectomy.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

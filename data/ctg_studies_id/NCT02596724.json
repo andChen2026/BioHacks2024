@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02596724",
+    "briefTitle": "TME Neoadjuvant Breast Registry",
+    "officialTitle": "TME Neoadjuvant Breast Registry (The NEAT Registry)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Pathologic response and/or endocrine sensitivity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with histologically proven invasive breast cancer who have started or are scheduled to start neo-adjuvant chemotherapy or endocrine therapy\n* Ages 18-90\n* Written informed consent\n\nExclusion Criteria:\n\n* Patients who have had excisional biopsy or axillary dissection\n* Patients with confirmed metastatic disease\n* Patients who have had recent chemotherapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

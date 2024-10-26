@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00846027",
+    "briefTitle": "A Study of Avastin (Bevacizumab) in Combination With Taxane-based Chemotherapy as First Line Treatment in Patients With HER-2 Negative Breast Cancer",
+    "officialTitle": "An Open Label Study to Assess the Effect of First Line Treatment With Avastin in Combination With Paclitaxel and Gemcitabine in Progression-free Survival in Patients With HER-2 Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 90,
+    "primaryOutcomeMeasure": "Progression-free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients, \u2265 18 years of age.\n* Breast cancer, with measurable, locally recurrent or metastatic lesions, or patients with bone metastasis only.\n* HER-2 negative disease.\n* Candidates for chemotherapy.\n* Eastern Cooperative Oncology Group (ECOG) performance status \u2264 2.\n\nExclusion Criteria:\n\n* Previous chemotherapy for metastatic or locally advanced breast cancer.\n* Previous radiotherapy for treatment of metastatic breast cancer.\n* Any prior adjuvant treatment with anthracyclines completed \\< 6 months prior to enrollment.\n* Chronic daily treatment with corticosteroids (\u2265 10 mg/day), aspirin (\\> 325 mg/day) or clopidogrel (\\> 75mg/day).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

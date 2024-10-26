@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01015521",
+    "briefTitle": "Efficacy Study of Aminoflavone Prodrug to Treat Breast Cancer",
+    "officialTitle": "A Two-Arm Open Label Phase II Study of AFP464 (Aminoflavone Prodrug) in Previously-treated ER-positive or Triple-negative Breast Cancer Patients",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Clinical Benefit Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* ER+ or TN Breast Cancer\n* Progression on an aromatase inhibitor if ER+\n* Prior treatment with taxane if TN\n* 18 years or older\n* Adequate organ function\n* Measurable lesion\n\nExclusion Criteria:\n\n* symptomatic pulmonary disease\n* brain metastases\n* pregnant females",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

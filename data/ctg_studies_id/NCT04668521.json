@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04668521",
+    "briefTitle": "Multifactorial Risk Assessment for Breast & Ovarian Cancer Risk Detection",
+    "officialTitle": "Multifactorial Risk Assessment for Breast & Ovarian Cancer Risk Detection",
+    "overallStatus": "TERMINATED",
+    "conditions": "Adnexal Mass, Germline BRCA1 Gene Mutation, Germline BRCA2 Gene Mutation, Hereditary Breast and Ovarian Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 215,
+    "primaryOutcomeMeasure": "OVA360",
+    "eligibilityCriteria": "Key inclusion criteria:\n\n* Female subject\n* 18 years of age or older\n\nCohort A specific inclusion criteria:\n\n\u2022 Diagnosed with a pelvic mass\n\nCohort B specific inclusion criteria:\n\n* Diagnosed with a pelvic mass\n* Undergoing genetic testing through our commercial offering\n\nCohort C specific inclusion criteria:\n\n\u2022 Subject must not have an identifiable adnexal mass and may, or may not, have a family history or a known familial genetic abnormality (germ line or identified in family cancer i.e. somatic DNA mutation) associated with ovarian cancer.\n\nExclusion Criteria:\n\n* n/a",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

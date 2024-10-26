@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04156880",
+    "briefTitle": "Artificial Intelligence in Mammography-Based Breast Cancer Screening",
+    "officialTitle": "Breast Cancer Screening With Mammography: Diagnostic Assessment of an Artificial",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "area under curve (AUC)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women who had undergone standard mammography including craniocaudal (CC) and mediolateral oblique (MLO) views..\n* Histopathology-proven diagnosis is available for patients with breast malignancy, including invasive breast cancer, carcinoma in situ, and borderline lesion et al.\n* As reference standard of benign nature, results from pathology or clinical long-term follow-up (\\>=2 years) examinations are available for cases without breast malignancy.\n\nExclusion Criteria:\n\n* Patients with concurring lesions on mammograms that may influence subsequent AI post-process.\n* Patients without available pathologic diagnosis or long-term follow-up (\\>=2 years) examinations.\n* Patients who had undergone breast surgical intervention (e.g. lumpectomy and mammoplasty) prior to first mammography.\n* Patients diagnosed with other kinds of malignancy, concurrent with metastasis or infiltration/invasion to breast.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

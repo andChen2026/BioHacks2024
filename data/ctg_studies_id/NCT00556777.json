@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00556777",
+    "briefTitle": "Radiation Therapy During Surgery in Treating Older Women With Stage I Breast Cancer",
+    "officialTitle": "Phase 2 Study Evaluating the Feasibility and the Reproducibility of Concentrated Radiotherapy and Focalized Electrontherapy During Surgery for the Treatment of Older Patients With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 42,
+    "primaryOutcomeMeasure": "Feasibility",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\nInclusion criteria:\n\n* Histologically confirmed stage I breast cancer\n\n  * Size \u2264 20 mm (by ultrasound), N0, any quadrant\n* Hormone receptor status not specified\n\nExclusion criteria:\n\n* Distant metastases\n* Inflammatory breast cancer\n* Lobular in situ disease\n* Invasive cancer or ductal carcinoma in situ\n* Nonepithelial disease or sarcoma\n* Multicentric disease\n* Lymphatic embolism\n* Margins of safety unknown or positive (in situ or invasive)\n* Preoperative mammography showing diffuse microcalcification\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Menopausal\n* Karnofsky 70-100%\n* No other prior cancer except basal cell skin cancer, uterine epithelioma in situ, or other cancer in complete remission for the past 5 years\n* No geographic, social, or psychiatric reasons that would impede participation in study treatment\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior neoadjuvant therapy\n* No concurrent participation in another study",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

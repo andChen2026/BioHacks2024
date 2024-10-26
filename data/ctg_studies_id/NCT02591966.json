@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02591966",
+    "briefTitle": "Genetic Alteration After Systemic Treatment in Breast Cancer",
+    "officialTitle": "Genetic Alteration After Systemic Treatment in Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 350,
+    "primaryOutcomeMeasure": "Genomic profiling will be assessed by tissue sampling and blood.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients older than 20 years\n2. Patients with histologically confirmed breast cancer at three disease status\n\n   * Patients who are going to receive neoadjuvant chemotherapy with feasible biopsy site.\n   * Patients who recur from curative surgery and have distant metastasis with feasible biopsy site. ; Patients must have received adjuvant chemotherapy after curative surgery.\n   * Patients who are going to first-line palliative chemotherapy with feasible biopsy site.\n3. Patients with PS ECOG 0 - 2\n4. Patients are willing and able to comply with the protocol for the duration of the study including undergoing treatment and scheduled visits and examinations.\n5. Written informed consent form\n6. Patients must have acceptable bone marrow, liver and renal function measured within 28 days prior to study as defined below:\n\n   * Haemoglobin \u22659.0 g/L (transfusion allowed)\n   * White blood cells (WBC) \\> 3 x 109/L\n   * Total bilirubin \u2264 1.5 x institutional upper limit of normal (ULN)\n   * AST (SGOT)/ALT (SGPT) \u2264 2.5 x institutional upper limit of normal unless liver metastases are present in which case it must be \u2264 5x ULN\n\nExclusion Criteria:\n\n1. Concurrent disease or condition that would make the subject inappropriate for study participation or any serious medical condition that would interfere with the subject's safety.\n2. Double primary cancer (except for any cancer in remission for \\> 5 years, cervix cancer in situ, basal cell cancer in situ, any in situ cancers that are resected)",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

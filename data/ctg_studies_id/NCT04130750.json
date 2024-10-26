@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04130750",
+    "briefTitle": "Comparison of pCR Rate After Neadjuvant Chemotherapy Guided by Result of in Vitro Cell Culture Drug Sensitivity or Physician's Choice",
+    "officialTitle": "Comparison of pCR Rate After Neadjuvant Chemotherapy Guided by Result of in Vitro Cell Culture Drug Sensitivity or Physician's Choice",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Neoadjuvant Chemotherapy, Drug Effect",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "pCR rate of neoadjuvant chemotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* invasive breast cancer candidate for neoadjuvant chemotherapy normal liver and renal function agreed to participate in this experiment\n\nExclusion Criteria:\n\n* inflammatory breast cancer patients can not receive operation after neoadjuvant chemotherapy distant metastasis",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

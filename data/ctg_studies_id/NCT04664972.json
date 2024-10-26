@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04664972",
+    "briefTitle": "Comparison of TP and TAC Regimens in Neoadjuvant Treatment of TNBC",
+    "officialTitle": "Comparing TP (Docetaxel + Cisplatin) and TAC (Docetaxel + Doxorubicin + Cyclophosphamide) in Neoadjuvant Therapy for Operable Triple Negative Breast Cancer, A Multicenter, Randomized, Phase II Clinical Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 212,
+    "primaryOutcomeMeasure": "The pathological complete remission rate (pCR rate)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age: 18-70.\n2. Clinical stage \u2161-\u2162.\n3. triple negative and invasive breast cancer confirmed by histopathology:\n\n   Triple negative breast cancer is defined as:\n   * negative for ER and PR (IHC nuclear staining \\< 10%).\n   * Her-2 negative (IHC 0,1 + without FISH, or IHC 2 + and without FISH amplification).\n4. With clinically measurable focus: Measurable lesions observed on ultrasound, mammography, or magnetic resonance imaging (optional) within the month prior to randomization.\n5. Organ and bone marrow function tests within 1 month before chemotherapy indicate no contraindications to chemotherapy:\n\n   * neutrophils count absolute value \u2265 2.0\u00d7109/L\n   * hemoglobin \u2265 100g/L\n   * blood platelet \u2265 100\u00d7109/L\n   * total bilirubin \\< 1.5 ULN (upline of normal value)\n   * creatinine \\< 1.5\u00d7ULN\n   * AST/ALT \\< 1.5\u00d7ULN;\n6. Cardiac ultrasound EF value \u2265 55%.\n7. Females of childbearing age with negative serum pregnancy test 14 days before randomization.\n8. ECOG score \u22641.\n9. Sign informed consent.\n\nExclusion Criteria:\n\n1. Evidence of metastatic breast cancer (excluding metastatic breast cancer, a chest CT, abdominal ultrasound, or CT and bone scanning should be performed at any time point before diagnosis and randomization; PET/CT scanning can be used as an alternative imaging examination mean) .\n2. The patients have received chemotherapy, endocrine therapy, targeted therapy, and radiation therapy for this disease.\n3. The patient has a second primary malignant tumor, except for:\n\n   - Thoroughly treated skin cancer\n4. Due to severe and uncontrollable other medical diseases, researchers believe the existence of chemotherapy contraindications.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05363605",
+    "briefTitle": "A Study of [225Ac]-FPI-1966 in Participants With Advanced Solid Tumours",
+    "officialTitle": "A Phase 1/2 Study of [225Ac]-FPI-1966, [111In]-FPI-1967, and Vofatamab in Participants With FGFR3-expressing Advanced, Inoperable, Metastatic and/or Recurrent Solid Tumours",
+    "overallStatus": "TERMINATED",
+    "conditions": "Advanced Solid Tumor, Head and Neck Squamous Cell Carcinoma, Bladder Carcinoma, Susceptible FGFR3 Genetic Alterations, FGFR3, FGFR3 Overexpression, FGFR3 Receptor, FGFR3 Protein Overexpression, Ovarian Cancer, Colorectal Cancer, Breast Cancer, Liver Cancer, Lung Cancer, Gastric Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Phase 1: Phase 1: Incidence of AEs to evaluate safety and tolerability of [225Ac]-FPI-1966, [111In]-FPI-1967, and vofatamab.",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Signed ICF prior to initiation of any study-specific procedures\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Histologically and/or cytologically documented diagnosis of locally advanced, inoperable, or metastatic solid tumours\n* Refractory to all standard treatments, or for whom standard treatment is not available, or tolerable, or is contraindicated, or the participant refuses standard therapy\n* Measurable disease per RECIST v. 1.1\n* Available tumour tissue (archival or fresh biopsy)\n* Adequate bone marrow, heart, liver, and kidney function\n\nKey Exclusion Criteria:\n\n* Prior systemic radiopharmaceutical therapy within six months prior to the first dose of \\[111In\\]-FPI-1967\n* Prior radiation therapy (RT) to bone marrow \\> 20 Gy\n* RT within 30 days prior to the first dose of \\[111In\\]-FPI-1967\n* Prior anti-cancer treatment (chemotherapy, immunotherapy, hormonal therapy, targeted therapy, or investigational agents) within a certain amount of time prior to administration of the first dose of \\[111In\\]-FPI-1967\n* Concurrent serious co-morbidities that could limit participants' full participation and compliance",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

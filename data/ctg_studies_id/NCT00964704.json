@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00964704",
+    "briefTitle": "A Study of Herceptin (Trastuzumab) in Combination With Avastin (Bevacizumab) and Sequential Xeloda (Capecitabine) or Docetaxel in Patients With HER2-Positive Locally Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "A Single Arm, Open-label Study to Evaluate the Efficacy on Tumor Response and the Safety of Bevacizumab and Trastuzumab Combination and Sequential Capecitabine in Patients With HER2 +Ive Locally Recurrent or Metastatic Breast Cancer After Early Relapse to Adjuvant Trastuzumab-containing Therapy",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Progression-Free Survival on second-line treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* male or female patients, age \\>/=18 years\n* locally recurrent or metastatic HER2-positive breast cancer\n* disease progression during or up to 12 months after prior adjuvant therapy with trastuzumab\n* LVEF \\>/=55% at baseline\n\nExclusion Criteria:\n\n* prior treatment with bevacizumab or capecitabine\n* anthracyclines in prior adjuvant or neoadjuvant treatment exceeding cumulative dose of 360mg/m2 for doxorubicin and 720mg/kg for epirubicin\n* chronic daily treatment with corticosteroids (\\>10mg/day methylprednisolone equivalent; excluding inhaled corticosteroids), or aspirin (\\>325mg/day), or clopidogrel (\\>75mg/day)\n* clinically significant cardiac disease, or cardiac toxicity during previous trastuzumab therapy\n* evidence of spinal cord compression or CNS metastasis\n* history of other malignancy, unless disease-free for \\>/=5 years or treated curatively for carcinoma in situ of the cervix or non-melanomatous skin cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

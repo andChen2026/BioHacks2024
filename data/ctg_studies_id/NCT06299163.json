@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06299163",
+    "briefTitle": "NM32-2668 in Adult Patients With Selected Advanced Solid Tumors",
+    "officialTitle": "A Phase 1 Study of NM32-2668 (Anti-ROR1/CD3/Anti-HSA Tri-Specific Antibody) in Adult Patients With Selected Advanced Solid Tumors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Ovarian Carcinoma, Fallopian Tube Carcinoma, Peritoneal Carcinoma, Endometrial Cancer, Adenocarcinoma of Lung, Triple Negative Breast Cancer, Liposarcoma, Leiomyosarcoma, Mesothelioma, Malignant, Adenocarcinoma - Gastroesophageal Junction (GEJ), Adenocarcinoma of the Stomach, Melanoma, Malignant, Renal Cell Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 180,
+    "primaryOutcomeMeasure": "Incidence of Dose Limiting Toxicities (DLTs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with histologically confirmed, advanced-stage protocol-specified solid tumors.\n* Confirmed ROR1 tumor expression.\n* Patients who have undergone at least one prior systemic therapy and have radiologically or clinically determined progressive disease during or after most recent line of therapy, and for whom no further standard therapy is available, or who are intolerable or have medical contraindications to standard therapy.\n\nExclusion Criteria:\n\n* Prior treatment with any agent targeting ROR1 or prior treatment with a CD3 T-cell engaging therapy.\n* Prior treatment with chimeric antigen receptor (CAR) cell therapy within 90 days prior to first dose of NM32-2668.\n* Systemic anti-neoplastic therapy within five half-lives or 21 days, whichever is shorter, prior to first dose of NM32-2668.\n* Wide-field radiotherapy (\\> 30% of marrow-bearing bones) within 28 days, or focal radiation for analgesic purpose or for lytic lesions at risk of fracture within 14 days prior to first dose of NM32-2668, or no recovery from side effects of such prior interventions.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

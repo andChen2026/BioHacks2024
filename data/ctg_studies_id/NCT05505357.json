@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05505357",
+    "briefTitle": "Omission of Breast Surgery for Breast Cancer Patients With pCR on MRI and Vacuum-assisted Biopsy After NST (OPTIMIST)",
+    "officialTitle": "Omission of Breast Surgery for Predicted Pathologic Complete Response Patients With MRI and Vacuum-assisted bIopsy in Breast Cancer After Neoadjuvant Systemic Therapy: a Multicenter, Single-arm, Non-inferiority Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Invasive",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 533,
+    "primaryOutcomeMeasure": "Disease-Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Sex: female\n* Age: 20 years and older\n* Patients with no clinical/radiologic distant metastasis\n* Tumor type: Invasive ductal carcinoma\n* Tumor subtype: HER2 positive(including luminal B type, triple negative\n* Extent of disease: initial tumor size \u2264 5cm, cN0-2\n* Patients with measurable tumor size\n* Patients who are expected to achieve pCR after neoadjuvant chemotherapy (MRI size \u2264 1.0 cm AND L-to-B SER \u2264 1.6)\n* Patients with clip inserted to the primary tumor site before or during neoadjuvant chemotherapy\n* Patients with informed consent who are competent to make a voluntary decision\n\nExclusion Criteria:\n\n* Multifocal lesion (\u22652)\n* Extent of residual microcalcification after neoadjuvant chemotherapy \\> 2cm\n* Bilateral breast cancer or inflammatory breast cancer\n* Contraindication to radiotherapy\n* History of previous contralateral breast cancer\n* Breast cancer patients with distant metastasis\n* Allergic history to MRI contrast\n* Male breast cancer\n* Patients incapable of giving informed consent owing to poor general conditions\n* Patients with BRCA mutation\n* Patients willing to receive breast surgery\n* Patients with a history of cancer diagnosis within 5 years (However, skin cancer other than melanoma and breast carcinoma in situ other than ductal carcinoma in situ can be registered even if 5 years have not passed since the diagnosis)",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

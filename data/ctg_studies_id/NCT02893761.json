@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02893761",
+    "briefTitle": "Bergonie Institute Breast Cancer Database",
+    "officialTitle": "N/A",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 21439,
+    "primaryOutcomeMeasure": "Overall Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer\n* Aged 18 years and over\n* First treatment at Bergonie Institute\n\nExclusion Criteria:\n\n-",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

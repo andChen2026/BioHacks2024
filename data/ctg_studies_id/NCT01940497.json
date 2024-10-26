@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01940497",
+    "briefTitle": "A Study of the Safety of Subcutaneously Administered Trastuzumab (Herceptin) in Participants With Early and Locally Advanced Human Epidermal Growth Factor Receptor 2 (HER2)-Positive Breast Cancer",
+    "officialTitle": "National Phase IIIb Prospective Two-Cohort Non-Randomized, Multi-centre, Open Label Study to Assess the Safety of Subcutaneous Trastuzumab and Molecular Biomarkers in Patients With Early and Locally Advanced HER2-Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 240,
+    "primaryOutcomeMeasure": "Percentage of Participants With Treatment-Emergent Adverse Events (TEAEs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed non-metastatic primary invasive adenocarcinoma of the breast. Stage of disease: T1-4 (T describes size of tumour from 1 to 4), N0-3 (N describes nearby lymph nodes), M0 (M describes distant metastasis)\n* HER2-positive disease immunohistochemistry (IHC) 3+ or in situ hybridization (ISH) positive\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n* Left ventricular ejection fraction (LVEF) of greater than or equal to (\\>=) 55 percent (%) measured by echocardiography (ECHO) or multiple gated acquisition (MUGA) scan prior to first dose of trastuzumab SC\n* Intact skin at site of SC injection on the thigh\n\nExclusion Criteria:\n\n* History of other malignancy, except for participants with curatively treated carcinoma in situ of the cervix or basal cell carcinoma and participants with other curatively treated malignancies, other than breast cancer, who have been disease-free for at least 5 years\n* Severe dyspnea at rest or requiring supplementary oxygen therapy\n* Concurrent serious diseases that may interfere with planned treatment, including severe pulmonary conditions/illness\n* Serious cardiac illness or medical conditions that would preclude the use of trastuzumab, specifically: history of documented congestive heart failure (CHF), high-risk uncontrolled arrhythmias, angina pectoris requiring medication, clinically significant valvular disease, evidence of transmural infarction on electrocardiogram (ECG), diagnosed poorly controlled hypertension\n* Known infection with human immunodeficiency virus (HIV), active hepatitis B virus (HBV) or hepatitis C virus (HCV)\n* Pregnant or lactating women\n* Concurrent enrolment in another clinical trial using an investigational anti-cancer treatment, including hormonal therapy, bisphosphonate therapy and immunotherapy, within 28 days prior to the first dose of study treatment\n* Known hypersensitivity to trastuzumab, murine proteins, to any of the excipients of Herceptin including hyaluronidase, or the adhesive of the SC device (for Cohort B), or a history of severe allergic or immunological reactions, for example, difficulty to control asthma\n* Inadequate bone marrow, hepatic or renal function\n* Hormonal treatment concomitant with chemotherapy (allowed in adjuvant phase with adjuvant trastuzumab SC)\n* Pre-existing motor or sensory neuropathy of Grade greater than (\\>) 1\n* Synchronous bilateral invasive breast cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

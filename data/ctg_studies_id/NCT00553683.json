@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00553683",
+    "briefTitle": "Cyclophosphamide, Radiation Therapy, and Poly ICLC in Treating Patients With Unresectable, Recurrent, Primary, or Metastatic Liver Cancer",
+    "officialTitle": "Phase I/II Study of Autologous Tumor Cell Vaccination Using Metronomic Cyclophosphamide, 3-Dimensional Conformal Radiotherapy, Intra/Peri-Tumor Injection of Poly ICLC With Trans-Hepatic Arterial Embolization Followed by Poly ICLC Boosting in Patients With Unresectable, Recurrent, or Metastatic Cancers in the Liver (Hepatoma, Cholangiocarcinoma, Neuroendocrine, Breast, Colon, Gastric, and Esophageal Cancer)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Colorectal Cancer, Gastric Cancer, Liver Cancer, Melanoma (Skin), Metastatic Cancer, Ovarian Cancer, Pancreatic Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Overall tolerability",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Radiologically or histologically confirmed hepatocellular carcinoma\n\n  * Stage III or IV primary disease\n  * Recurrent, unresectable, or metastatic disease meeting any of the following criteria:\n\n    * Pancreatic cancer that underwent prior surgical resection and progressed with recurrent metastatic disease to the liver\n    * Gastric, colon, breast, or ovarian cancer or melanoma with metastatic disease to the liver\n    * Primary or recurrent disease that cannot be surgically resected leaving the patient disease-free\n* Radiologically measurable disease\n* Ineligible for liver transplantation according to University of San Francisco listing criteria:\n\n  * Single lesion \\> 6.5 cm\n  * Three or more tumors \\> 4.5 cm\n  * Cumulative tumor diameter \\> 8 cm\n\nPATIENT CHARACTERISTICS:\n\n* Karnofsky performance status 60-100%\n* ANC \u2265 1,500/mm\u00b3\n* Platelets \u2265 75,000/mm\u00b3\n* Creatinine \u2264 1.7 mg/dL\n* Total bilirubin \u2264 1.5 mg/dL\n* AST and ALT \u2264 3 times the upper limit of normal\n* INR \\< 1.5\n* LVEF \u2265 50%\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No serious concurrent infection or medical illness that would render the protocol treatment unsafe\n* LVEF \u2265 50%\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No concurrent steroids",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

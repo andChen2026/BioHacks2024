@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00543829",
+    "briefTitle": "German Preoperative Adriamycin Docetaxel Study",
+    "officialTitle": "A Randomised, Controlled, Open Phase II b Study Comparing a Combination of Dose-Intensified Doxorubicin and Docetaxel With or Without Tamoxifen as Preoperative Therapy in Patients With Operable Carcinoma of the Breast (T>=3cm N0-2 M0)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 250,
+    "primaryOutcomeMeasure": "The primary endpoint is defined as no microscopic evidence of viable tumour in the resected breast specimen",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Unilateral primary carcinoma of the breast, confirmed histologically by core-cut needle or incisional biopsy. Fine needle aspiration is not sufficient.\n* Bidimensionally measurable tumour, either by mammography or breast ultrasound or breast MRI\n* Primary tumour \\>= 3 cm in largest diameter. In patients with multifocal or multicentric breast cancer the largest lesion should be measured.\n* No evidence of distant metastases (as confirmed by chest x-ray, liver ultrasound and bone scintigraphy)\n* Age \\>= 18 years and \\<= 70 years.\n* Life expectancy at least 10 years, ignoring the diagnosis of cancer.\n* Karnofsky index \\>=70%.\n* Adequate haematologic, renal and hepatic function (WBC \\>4000, platelets \\>100000, bilirubin, serum creatinine and transaminases within the normal range).\n* Anamnestic and electrocardiographic evidence of normal cardiac function, without or with medication. Normal cardiac function measured by echocardiography or MUGA-scan.\n* Negative pregnancy test and appropriate non-hormonal contraception in fertile women.\n* Written informed consent and presumed compliance of the patients.\n\nExclusion Criteria:\n\n* Locally advanced (stage T4), bilateral, metastatic, or inflammatory breast cancer (tethering or dimpling of the skin as well as nipple inversion may not easily be interpreted as skin infiltration). If one of these conditions is suspected it has to be excluded before enrollment onto study.\n* Previous treatment for breast cancer, including surgery, radiation, cytotoxic or endocrine treatments. Surgical diagnostic procedures are allowed.\n* Previous malignancy other than breast cancer or non-invasive breast lesions if the disease-free interval is less than 10 years.\n* Previous cytotoxic treatment for any condition.\n* Preexisting neurotoxicity greater than grade II (WHO).\n* Active infection or other significant illness that could influence tolerability of treatment.\n* Current treatment with sex hormones (treatment has to be discontinued before the start of systemic therapy).\n* Psychiatric illness or drug addiction that would preclude obtaining informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

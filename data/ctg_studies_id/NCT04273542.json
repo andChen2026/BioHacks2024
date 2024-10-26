@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04273542",
+    "briefTitle": "Interest of Broadband Spectroscopy Analysis by Infrared Laser on Liquid Biopsies in Breast Cancer Screening",
+    "officialTitle": "Multicenter Large-scale Validation Study of the Interest of Broadband Spectroscopy Analysis (Femto/Attosecond by Infrared Laser) on Liquid Biopsies in Breast Cancer Screening",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer Female, BRCA1 Mutation, BRCA2 Mutation",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 1100,
+    "primaryOutcomeMeasure": "Validation of the value of molecular profiling analysis in broadband laser spectroscopy on liquid biopsies for breast cancer screening",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n\\*For all participants :\n\n* Adult woman capable of giving informed consent to research participation\n* Affiliation to the French social security system\n\n  \\>For Control cohort:\n* Woman participating in organised screening or benefiting from individual follow-up, eligible as such for a mammogram\n\n  \\>For Patient cohort:\n* woman with invasive breast cancer T0N1, T1N0-1, T2N0-1 (histologically proven) at inclusion and before any cancer treatment\n\n  \\>For Exploratory cohort:\n* woman carrying the BRCA1/2 mutation, followed according to standard recommendations or\n* woman carrying the BRCA1/2 mutation suffering from in situ BC discovered on biopsy and histologically confirmed\n\nExclusion Criteria:\n\n* For all participants :\n\n  * Refusal to participate\n  * Reluctant or unable to comply with study requirements\n  * Pregnant or breastfeeding woman\n  * History of breast cancer\n* For Patient cohort\n\n  - Patients with Stage III/IV or Bilateral Breast Cancer\n* For Control cohort:\n\n  * Invasive breast cancer suspected at mammography before liquid biopsy\\*\n  * Mammography classified ACR3 or ACR4\n* For Exploratory cohort:\n\n  * Concomitant breast cancer\n\n    * At inclusion visit, woman for whom an invasive breast cancer will be suspected at mammography will be include in Patient cohort after an histological proof of cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

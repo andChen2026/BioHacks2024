@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02324530",
+    "briefTitle": "Evaluation of Continuous Positive Airway Pressure for Tumor Motion Management in Radiotherapy",
+    "officialTitle": "Evaluation of CPAP (Continuous Positive Airway Pressure) in the Planning of Radiation Treatments for Lung, Upper Abdomen and Left Breast Cancers",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Tumor Motion, \"Continuous Positive Airway Pressure\", Lung Cancer, Breast Cancer, Abdominal Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Reduction in amplitude of tumor motion",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Lung tumors and nodules with tumor motion greater than 1 cm on standard imaging\n* Left sided breast tumors with unfavorable anatomy, viz heart abutting chest wall\n* Upper abdominal tumors: Liver and Pancreas with tumor motion greater than 1 cm. (n=10)\n\nExclusion Criteria:\n\n* Under 18 years old\n* Inability to sign informed consent\n* Pregnancy,\n* Mental Illness,\n* Not legally competent",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

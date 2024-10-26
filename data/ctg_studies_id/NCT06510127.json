@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06510127",
+    "briefTitle": "An AI Model Predicts the Efficacy of Neoadjuvant Chemotherapy for Breast Cancer: a Multicenter, Bidirectional Cohort Study",
+    "officialTitle": "An AI Large Language Model Based on Multi-task and Multimodal Data Fusion Accurately Predicts the Efficacy of Neoadjuvant Chemotherapy for Breast Cancer: a Multicenter, Bidirectional Cohort Study",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 840,
+    "primaryOutcomeMeasure": "Predictive ability of the model for pCR after neoadjuvant chemotherapy in breast cancer patients",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women\n* Pathological diagnosis of non-metastatic invasive breast cancer (stage II-III)\n* At least 4 cycles of neoadjuvant chemotherapy\n* Radical surgery was performed after neoadjuvant chemotherapy\n* There are pathological images and reports of breast puncture specimens before neoadjuvant chemotherapy\n* 'There are MRI images and reports of breast MRI within 2 weeks before neoadjuvant chemotherapy\n* There are standard clinical records\n\nExclusion Criteria:\n\n* Inflammatory breast cancer\n* Bilateral breast cancer\n* Newly diagnosed stage IV breast cancer\n* Other tumors have not been completely removed or less than 3 years after surgery\n* Treatment other than neoadjuvant therapy had been performed before surgery",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

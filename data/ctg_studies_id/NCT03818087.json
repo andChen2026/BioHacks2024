@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03818087",
+    "briefTitle": "Elevate! : An Elderly Breast Cancer Cohort Study",
+    "officialTitle": "Elevate! : Improving Outcomes for Older Patients With Breast Cancer:a Longitudinal Cohort and Patient Engagement Study",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 253,
+    "primaryOutcomeMeasure": "Adjuvant treatment recommendations",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 70 or older at the time of diagnosis (as indicated by the date of breast biopsy)\n* No more than 67 patients (1/3) will be aged 70-74, with the remaining patients on study ages 75 or older\n* Any gender is eligible\n* Invasive, non-metastatic breast cancer at diagnosis\n* Those with prior diagnoses of pre-invasive (DCIS) or invasive breast cancer are eligible as long as their current diagnosis is felt by the treating provider to represent a NEW non-metastatic primary invasive breast cancer (e.g. someone with a nodal recurrence from prior disease are not eligible but those with a new contralateral breast cancer 3 years after a first breast cancer would be eligible)\n* Any breast cancer subtype is allowed\n* Breast cancer-diagnosing biopsy within 90 days of enrollment\n* Receiving or will receive medical oncology care (+/- surgical and radiation oncology treatments) at the participating center: DFCI/satellites and affiliate sites\n* Patients must be able to understand, speak, and read English or assign a designated caregiver/proxy for the duration of the study who understands, speaks, and reads English and who is willing to assist with filling out the survey components which do not have a validated, translated version. This is because the surveys are not readily available in multiple languages as a whole, although some components (such as the Geriatric Assessment and PROs are readily available in multiple languages).\n* If a patient scores 11 or higher on the baseline Orientation-Memory-Concentration Test done at baseline (Appendix E), a proxy/designee must then be assigned to help the patient fill out the questionnaires for the duration of the study in order to participate. The treating provider will also be notified about the cognitive impairment.\n* Ability to provide informed consent\n\nExclusion Criteria:\n\n* Pathological or clinical stage 0, IV disease\n* Those with nodal or metastatic recurrences at the time of enrollment\n* Unable to speak and read English AND no designee who speaks and reads English, as above\n* Unable to provide informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

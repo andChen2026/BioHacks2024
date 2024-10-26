@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05160480",
+    "briefTitle": "A Pilot Study of Total-body PET Using FDA-approved Radiotracers Beyond 18F-FDG",
+    "officialTitle": "A Pilot Study of Total-body PET Using FDA-approved Radiotracers Beyond 18F-FDG",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Prostate Cancer, Breast Cancer, Neuroendocrine Tumors",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 9,
+    "primaryOutcomeMeasure": "measure radiotracer avidity",
+    "eligibilityCriteria": "18F-PSMA (n=3) and 68Ga-PSMA (n=3)\n\nInclusion criteria:\n\n* Persons \\>18 yo with suspected prostate cancer metastasis\n* Prior imaging study (CT, and/or MRI and/or Bone scan and/or Fluciclovine scan) suspicious for metastatic disease, obtained within 4 months from the research scan date.\n\n  68Ga DOTATATE (n=3) or 64Cu-DOTATATE (n=3)\n\nInclusion Criteria:\n\n* Persons \\> 18 yo suspicious for or diagnosed with somatostatin receptor positive neuroendocrine tumors (NETs)\n* Prior DOTATATE PET/CT scan suspicious for tumor obtained not earlier than 4 months from the research scan date.\n\nExclusion Criteria:\n\n\u2022 Recent administration of long-acting somatostatin analogs\n\nExclusion Criteria for all participants:\n\n* Adults unable to consent\n* Pregnant/lactating persons\n* Prisoners\n* Unable to lie supine for up to 90 minutes at different timepoints in the PET scanner\n* Uncontrolled claustrophobia\n* Any significant medical condition that in the opinion of the investigator would prevent the participant from participating and/or adhering to study related procedures or interfere with participant safety",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

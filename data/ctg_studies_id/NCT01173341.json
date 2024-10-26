@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01173341",
+    "briefTitle": "Cardiotoxicity of Cancer Therapy (CCT)",
+    "officialTitle": "Cardiotoxicity of Cancer Therapy: Mechanisms and Predictors",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 700,
+    "primaryOutcomeMeasure": "Cardiac dysfunction or signs or symptoms of heart failure",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* HER-2 positive breast cancer designated to receive trastuzumab chemotherapy with or without prior exposure to anthracycline-based chemotherapy\n* Non-HER-2 positive breast cancer designated to receive treatment with an anthracycline-containing regimen\n\nExclusion Criteria:\n\n* Pre-existing cardiomyopathy with a left ventricular ejection fraction of less than 50%.\n* Other contraindications to trastuzumab or anthracycline chemotherapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

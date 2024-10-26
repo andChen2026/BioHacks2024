@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00096343",
+    "briefTitle": "Paclitaxel and Carboplatin in Treating Women Who Are Undergoing Surgery for Newly Diagnosed, Locally Advanced Breast Cancer",
+    "officialTitle": "A Phase II Trial of Pre-Operative Taxol and Carboplatin in Women With Newly Diagnosed Locally Advanced Operable Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 31,
+    "primaryOutcomeMeasure": "Determine the clinical and pathological response in women with newly diagnosed, locally advanced operable breast cancer treated with neoadjuvant chemotherapy comprising paclitaxel and carboplatin",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive ductal carcinoma or invasive lobular carcinoma of the breast meeting the following stage criteria:\n\n  * T2, T3, or T4a-c\n  * N0-2\n  * M0\n* Inflammatory breast cancer (stage IIIB) allowed\n* Measurable disease by mammogram or ultrasound\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nSex\n\n* Female\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* ECOG 0-1\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Absolute neutrophil count \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Hemoglobin \u2265 10 g/dL\n\nHepatic\n\n* AST and ALT \u2264 1.5 times upper limit of normal (ULN)\n\nRenal\n\n* Creatinine \u2264 1.2 times ULN OR\n* Creatinine clearance \u2265 50 mL/min\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No comorbid medical condition that would preclude study participation\n* No comorbid infection that would preclude study participation\n* No clinically significant peripheral neuropathy (\\> grade 1)\n* No prior significant allergic reaction to drugs containing Cremophor, such as teniposide, cyclosporine, or vitamin K\n* No dementia or altered mental status that would prohibit understanding of informed consent\n* No other primary malignancy except non-melanoma skin cancer or carcinoma in situ of the cervix\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* No concurrent prophylactic growth factors\n\nChemotherapy\n\n* No prior chemotherapy\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* At least 3 weeks since prior surgery\n\nOther\n\n* No other concurrent anticancer drugs",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

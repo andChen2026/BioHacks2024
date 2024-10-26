@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01961531",
+    "briefTitle": "BrUOG 291: Five Fraction Partial Breast Irradiation Using Non-invasive Image-guided Breast Brachytherapy (NIBB)",
+    "officialTitle": "BrUOG 291: FIVE FRACTION PARTIAL BREAST IRRADIATION USING NON-INVASIVE IMAGE-GUIDED BREAST BRACHYTHERAPY (NIBB)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Number of Patients With Any Toxicity Related to the Radiation Treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. A confirmed histological diagnosis of invasive breast carcinoma or DCIS;\n2. Age greater or equal to 50 years old;\n3. Life expectancy \\> 6 months;\n4. Treated by breast conserving surgery\n5. Pathologic lymph node negative, which includes (pN0 i-, i+);\n\n   Patients, who are at very low risk for sentinel node involvement and sentinel node biopsy is not performed, are eligible if the treating investigator documents clinically lymph node negative (cN0). These patients include:\n   * DCIS\n   * Microinvasion only\n   * Pure tubular or mucinous histology\n   * Patients \u2265 70yo with T1a-T1c; estrogen receptor +\n6. Pathologic tumor size\n\n   1. less than or equal to 2 cm for invasive disease;\n   2. less than or equal to 3 cm for DCIS;\n7. Estrogen receptor positive if invasive disease (DCIS can be ER negative)\n8. Negative surgical margins greater than or equal to 2 mm. A margin of \\<2mm is acceptable if at natural boundary, i.e. skin or pectoralis fascia.\n9. No lymphovascular invasion;\n10. ECOG performance status of 0-2 (Appendix 1);\n11. Informed consent signed.\n\nExclusion Criteria:\n\n1. Known BRCA 1/2 Mutation; (BRCA 1 and 2 testing is not required)\n2. Active lupus or scleraderma;\n3. Pregnancy;\n4. Psychiatric or addictive disorder that would preclude attending follow-up;\n5. Neoadjuvant chemotherapy (adjuvant chemotherapy is permitted);\n6. Suspicious remaining microcalcification on post-surgery mammogram (unless biopsy proven benign);\n7. pN+ on axillary dissection or in the sentinel lymph node biopsy (N0i+ are considered node negative and are not excluded);\n8. Multicentric disease;\n9. Paget's disease of the nipple;\n10. Breast Implants\n11. Distant metastases;\n12. Lumpectomy cavity not well visualized on AccuBoost imaging;\n13. Lumpectomy cavity with 1cm margin (CTV/PTV) not adequately encompassed by any available applicator.\n14. Breast separation with compression \\> 8cm at time of simulation.",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

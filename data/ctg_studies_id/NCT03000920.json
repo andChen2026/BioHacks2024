@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03000920",
+    "briefTitle": "Evaluation of the Short Message Service Effectiveness in the Screening Invitation Strategy for Breast Cancer (USIMaPI)",
+    "officialTitle": "Multicenter Randomized Controlled Trial Evaluating the Effectiveness and Cost-effectiveness of the Use of Short Message Service (SMS) in the Screening Invitation Strategy for Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 12000,
+    "primaryOutcomeMeasure": "Phase 1: Compare the participation rates in organized breast cancer screening (and the cost by screened woman) in response to a strategy of sending an SMS before the invitation letter (vs sending the invitation letter alone = usual strategy).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* eligible to the organized breast cancer screening\n* residing in the region of Centre-Val de Loire (France)\n* Phone number registered in data bases of one of the 6 local cancer screening departments of the region of Centre-Val de Loire (France)\n\nExclusion Criteria:\n\n* none",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

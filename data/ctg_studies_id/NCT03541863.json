@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03541863",
+    "briefTitle": "Treatment After Progression of Fulvestrant Among Metastatic Breast Cancer Patients",
+    "officialTitle": "What Comes After Fulvestrant? A Real World Multicenter Retrospective Study-Treatment After Progression of Fulvestrant Among Metastatic Breast Cancer Patients in China",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 131,
+    "primaryOutcomeMeasure": "PFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients who were treated with Fulvestrant between June 2014 to June 2017 as first line or second line therapy\n* Patients received subsequent treatment after progressing on Fulvestrant for at least one cycle (\\>1 month)\n* Complete medical history was available\n\nExclusion Criteria:\n\n* Subsequent treatment was not standard therapy (cannot be classified into endocrine therapy/ chemotherapy)\n* Medical history was incomplete",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

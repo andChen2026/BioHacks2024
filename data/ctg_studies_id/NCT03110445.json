@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03110445",
+    "briefTitle": "Cancer/Testis Antigen Immunotherapy Phase I Study With 740-CTA Vaccinia Virus",
+    "officialTitle": "Monocentric Open Label Phase I Immunotherapy Trial of Breast Cancer Patients With a Non-replicating Recombinant Vaccinia Virus Expressing Cancer/Testis Antigens and Cluster of Differentiation Antigen 80 (CD80)-CD40L Costimulatory Molecules.",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "number of adverse Events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Surgically treated M0 patients with solid tumors\n* Tumor expressing at least one of the vaccine targeted antigens Melanoma-associated antigen (MAGE)-A1, -A2,\n* A3, -A4, -A6, -A10, -A12 or New York (NY) esophageal squamous cell carcinoma-1 (ESO-1) (NY-ESO-1) (by real-time quantitative PCR (RT-qPCR))\n* Patient expressing the targeted Human Leukocyte Antigen (HLA) restriction (A0201 /A0101/ B3501)\n* 4 weeks interval following surgical resection of tumor and, if applicable, completion of adjuvant therapy.\n* Karnofsky over 70%\n* No other concomitant malignancy\n\nExclusion Criteria:\n\n* History of anaphylaxis or severe allergic reaction\n* Severe heart, lung, kidney, liver or psychiatric condition\n* Concurrent immunosuppressive therapy or impaired immune system",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

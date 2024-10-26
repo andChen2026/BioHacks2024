@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02161679",
+    "briefTitle": "Phase II Study of IMMU-132 Alone or in Combination With Carboplatin in Patients With Triple-Negative Breast Cancer",
+    "officialTitle": "Randomized Phase II Study of IMMU-132 Alone or in Combination With Carboplatin in Patients With Relapsed/Refractory Triple-Negative Breast Cancer",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Triple-negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Progression Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female subjects with triple negative metastatic breast cancer, age 18 years or older, pathologically confirmed metastatic adenocarcinoma of the breast. Pathologically confirmed as triple-negative, measurable disease, defined by (RECIST 1.1) guidelines;\n* Two or more prior chemotherapy, immunotherapy and/or monoclonal antibody therapy for the treatment of the subjects' metastatic breast cancer;\n* Prior neoadjuvant or adjuvant chemotherapy must have been completed at least 4 weeks before start of study treatment with all related toxicities resolved;\n* Prior radiotherapy must have completed at least 2 weeks before randomization, with full recovery;\n* At least 4 weeks from major surgery, ECOG performance status 0-1.\n* Hematology parameters (ANC) \u2265 1500/mm2;\n* Platelets \u2265 100,000/mm2;\n* Hemoglobin (Hgb) \u2265 9 g/dL AST \\& ALT \u2264 2.5 x ULN);\n* If hepatic metastases present \u2264 5.0 x ULN Total bilirubin \u2264 ULN ;\n* Subjects with Gilbert's syndrome can have bilirubin of up to 1.5 x ULN;\n* Alkaline phosphatase \u2264 2.5 x ULN (unless bone metastases are present in the absence of liver metastasis);\n* Creatinine clearance \\> 60 mL/min\n\nExclusion Criteria:\n\n* Male subjects with triple negative metastatic breast cancer;\n* Concurrent chemotherapy, immunotherapy or monoclonal antibody or any other anti-tumor therapy for breast cancer,\n* Concurrent or prior anticoagulation therapy within 7 days of first dose of study treatment,\n* History of, or known current evidence of brain metastasis, including leptomeningeal involvement;\n* Subjects with bone as the only site of metastatic disease.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

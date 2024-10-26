@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00432172",
+    "briefTitle": "Selective Neoadjuvant Treatment According to Immunohistochemical Subtype for HER2 Negative Breast Cancer Patients",
+    "officialTitle": "\"A Randomized Multicenter Phase II Trial to Evaluate the Effectiveness of Selective Neoadjuvant Treatment According to Immunohistochemical Subtype for HER2 Negative Breast Cancer Patients\"",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 189,
+    "primaryOutcomeMeasure": "Pathological Response for Basal Group 2",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent.\n* Breast cancer with histological diagnosis.\n* Negative Human Epidermal Growth Factor Receptor 2 (HER2) tumours defined as immunohistochemistry (IHQ) 0,1+.\n* No evidence of suspicion of metastatic disease.\n* Age \\>= 18 years old.\n* Performance status (Karnofsky index) \\>= 80 (ECOG 0,1).\n* Adequate cardiac function by ECG in the previous 12 weeks.\n* Hematology: neutrophils \\>= 1,5 x10\\^9/l; platelets \\>= 100 x10\\^9/l; hemoglobin \\>= 10 g/dl.\n* Adequate hepatic function: total bilirubin \\<= 1x Upper Normal Limit (UNL); Aspartate aminotransferase (AST) (SGOT) and Alanine aminotransferase (ALT) (SGPT) \\<= 2.5 x UNL; alkaline phosphatase \\<= 2.5 x UNL.\n* Adequate renal function: creatinine \\<= 1 x UNL; creatinine clearance \\>= 60 ml/min.\n* Patients able to comply with study treatment and follow-up.\n* Negative pregnancy test in the previous 14 days.\n\nExclusion Criteria:\n\n* HER2 positive tumours (defined as IHQ 3+ or positive fluorescence in situ hybridization \\[FISH\\]).\n* Prior systemic therapy for breast cancer (immunotherapy, hormonotherapy, chemotherapy).\n* Prior treatment with anthracyclines or taxanes (paclitaxel, docetaxel) for any previous malignancy.\n* Prior radiotherapy for breast cancer.\n* Bilateral invasive breast cancer.\n* Pregnant or lactating women.\n* Previous grade \\>= 2 motor or sensorial neurotoxicity (National Cancer Institute Common Toxicity Criteria \\[NCICTC\\]).\n* Other serious comorbidities: congestive heart failure or unstable angina; prior history of myocardial infarction in previous year; uncontrolled hypertension (HT); high risk arrhythmias; history of significant neurological or psychiatric disorders; uncontrolled active infection; active peptic ulcer; unstable diabetes mellitus; dyspnea at rest; or chronic therapy with oxygen.\n* Previous or current history of neoplasms different from breast cancer, except for skin carcinoma, cervical in situ carcinoma, or any other tumor curatively treated and without recurrence in the last 10 years; ductal in situ carcinoma in the same breast; lobular in situ carcinoma.\n* Chronic treatment with corticosteroids.\n* Contraindications for administration of corticosteroids.\n* Concomitant treatment with other therapy for cancer.\n* Males.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00049452",
+    "briefTitle": "Zoledronate in Preventing Bone Loss in Premenopausal Women Receiving Chemotherapy After Surgery For Early Stage Breast Cancer",
+    "officialTitle": "A Randomized, Placebo Controlled Trial Of Zoledronic Acid For The Prevention Of Bone Loss In Premenopausal Women With Early Stage Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Osteoporosis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Changes in lumbar spine bone mineral density (BMD) at 6 months",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of localized breast cancer\n\n  * Stage I or II (T1-3, N0-2, M0)\n* Planned adjuvant chemotherapy (after surgery) of at least 6 months in duration\n* Hormone receptor status:\n\n  * Estrogen receptor and progesterone receptor status known\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 to 50\n\nSex\n\n* Female\n\nMenopausal status\n\n* Premenopausal or perimenopausal\n\nPerformance status\n\n* Not specified\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Not specified\n\nHepatic\n\n* Not specified\n\nRenal\n\n* Creatinine less than 2 mg/dL\n\nOther\n\n* No T score of less than 2.0 on bone mineral density (BMD)\n* No fragility fracture\n* No lumbar spine anatomy that would preclude accurate BMD measurement of a minimum of 3 lumbar vertebrae\n* Not pregnant\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* See Disease Characteristics\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* No concurrent radiotherapy\n\nSurgery\n\n* See Disease Characteristics\n\nOther\n\n* At least 1 month since prior calcitonin\n* At least 12 months since prior bisphosphonates given for more than 1 month duration\n* No concurrent fluoride therapy (10 mg/day or more)\n* No concurrent enrollment in another experimental drug study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

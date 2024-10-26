@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00859651",
+    "briefTitle": "Vitamin D in Postmenopausal Women at High Risk for Breast Cancer",
+    "officialTitle": "Effects of High-Dose Vitamin D on Circulating Vitamin D Levels and Breast Density in Postmenopausal Women at High Risk for Breast Cancer Development",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Change in Serum 25(OH)D",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Elevated risk of breast cancer defined as having at least one of the following: (1) Predicted 5-year modified Gail model risk of 1.67% or greater, (2) Lobular carcinoma in situ, (3) Known BRCA1 or BRCA2 deleterious mutation carrier, (4) Prior history of ductal carcinoma in situ, if no current tamoxifen use or prior radiation to the contralateral breast.\n* Age 21 years or older.\n* Postmenopausal defined as \\> 6 months since the last menstrual period, prior bilateral oophorectomy, or serum follicle-stimulating hormone (FSH)/luteinizing hormone (LH) values consistent with institutional normal values for the postmenopausal state.\n* Baseline mammographic density \u226525% as assessed qualitatively by the mammographer (25-50% = \"scattered fibroglandular densities\"; \\>50-75% = \"heterogeneously dense breasts\"; \\>75% = \"extremely dense breasts\").\n* Baseline serum 25-hydroxyvitamin D \\<32 ng/ml.\n* Normal breast exam and mammogram (Breast Imaging Reporting and Data System (BIRADS) score of 1 or 2) or abnormal breast imaging with a benign breast biopsy without evidence of cancer. Normal baseline breast magnetic resonance imaging (MRI) (BIRADS score of 1, 2, or 3).\n* Prior tamoxifen or raloxifene use is allowed provided treatment is discontinued at least 28 days prior to enrollment.\n* At least one breast available for imaging. No bilateral breast implants.\n* Willingness to not take vitamin D supplements during the one year intervention, but up to 1000mg of calcium supplementation is allowed.\n* Normal serum calcium.\n* Adequate renal and hepatic function: serum creatinine, bilirubin, aspartate aminotransferase (AST), alanine aminotransferase (ALT) and alkaline phosphatase \\< 2.0 x the institutional upper limit of normal (IULN).\n* Performance status of 0 or 1.\n\nExclusion Criteria:\n\n* Other prior malignancy. The following is allowed: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage I or II cancer from which the participant is currently in complete remission, or any other cancer (including breast cancer) for which the participant has been disease-free for 5 years.\n* History of kidney stones.\n* Hypersensitivity reactions to vitamin D.\n* On estrogen replacement therapy.\n* Significant medical or psychiatric condition that would preclude study completion.",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

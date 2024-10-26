@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01789684",
+    "briefTitle": "Cluster Randomized Trial Comparing Interventions to Enhance Genetic Counseling Among Breast Cancer Patients",
+    "officialTitle": "A Cluster Randomized Controlled Trial Comparing Interventions to Enhance Utilization of Genetics Services Among Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 3780,
+    "primaryOutcomeMeasure": "Rate of appropriate referral of newly diagnosed breast cancer patients at increased risk for HBOC to genetic counseling in Active vs. Passive Intervention Clusters",
+    "eligibilityCriteria": "Participant Inclusion Criteria:\n\n* Females 18 years of age or greater\n* Newly diagnosed primary breast cancer prior to initial definitive surgical treatment, including In situ and Invasive cancer, Stages 0 - III. Pathologic confirmation of diagnosis is required.\n* Able to read and write in English or Spanish\n\nParticipant Exclusion Criteria:\n\n* Any previous diagnosis of cancer except for non-melanoma skin cancer\n* Stage IV breast cancer\n* Received HBOC genetic counseling or mutation testing prior to diagnosis. If the patient was previously tested only for a variant of uncertain clinical significance (i.e., not for known familial mutation, Jewish ethnicity panel/Multisite 3 or comprehensive sequencing) and documentation is provided, they remain eligible.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

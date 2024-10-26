@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02015416",
+    "briefTitle": "A Phase 1 Trial of NY-ESO-1 With GLA-SE in Patients With Unresectable or Metastatic Cancer",
+    "officialTitle": "A Phase 1 Open Label, Multicenter, Multiple Ascending Dose Trial Evaluating the Safety, Tolerability and Immunogenicity of Intramuscular Recombinant NY-ESO-1 Protein With GLA-SE Adjuvant in Patients With Unresectable or Metastatic Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Melanoma, Ovarian Cancer, Sarcoma, Non-small Cell Lung Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 13,
+    "primaryOutcomeMeasure": "Safety and tolerability",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of melanoma, ovarian cancer, sarcoma, breast cancer or non-small cell lung cancer (NSCLC)\n* Unresectable, relapsed and/or metastatic cancer with minimal or low disease burden. Disease may or may not be measurable and should not be rapidly progressive. Inadequate response, relapse and/or unacceptable toxicity with one or more prior systemic, surgical, or radiation cancer therapies, except patients with NSCLC and breast cancer who must have experienced an inadequate response and/or unacceptable toxicity with two or more prior systemic, surgical, or radiation cancer therapies.\n* Cancer expresses NY-ESO-1\n* \u2265 18 years of age\n* Life expectancy of \u2265 6 months\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* ECG without evidence of clinically significant arrhythmia or ischemia\n* Negative pregnancy test for females of childbearing potential\n\nExclusion Criteria:\n\n* Pregnant or nursing\n* Vaccine or other therapy directed against NY-ESO-1 at any time in the past and any investigational therapy within three weeks prior to IDC-G305 dosing\n* Significant immunosuppression\n* Cancer chemotherapy, G-CSF or GM-CSF within three weeks prior to the first study treatment\n* Significant autoimmune disease\n* Myocardial infarction within six months of treatment, active cardiac ischemia or Grade III or IV heart failure\n* Inadequate hematology or chemistry profiles\n* History of other cancer within three years\n* Active, concurrent or recent infection, including tuberculosis, hepatitis B, hepatitis C or HIV\n* Uveal melanoma\n* Brain metastases considered unstable",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

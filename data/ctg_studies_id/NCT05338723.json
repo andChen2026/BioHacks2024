@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05338723",
+    "briefTitle": "Possible Protective Effect of Rosuvastatin in Chemotherapy-induced Cardiotoxicity in HER2 Positive Breast Cancer Patients",
+    "officialTitle": "Possible Protective Effect of Rosuvastatin in Chemotherapy-induced Cardiotoxicity in HER2 Positive Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Chemotherapy-induced Cardiotoxicity, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "change in left ventricular ejection fraction(LVEF) detected by electrocardiography transthoracic echocardiography",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age: 25-75 years old.\n* Gender: female\n* Newly diagnosed HER2 positive breast cancer patients who are scheduled to receive doxorubicin followed by trastuzumab adjuvant therapy.\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) \u2264 2\n* Preserved LV systolic function in which the left ventricular ejection fraction (LVEF)\u226550%.\n* Patients with normal renal and hematological functions.\n* Alanine amino transferase (ALT \u2264 3 times ULN).\n\nExclusion Criteria:\n\n* Pregnant or lactating females.\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) \\> 2\n* Patients with impaired LV systolic function in which the left ventricular ejection fraction (LVEF)\\<50%.\n* Patients with significant valvular heart disease, documented coronary artery disease, history of congestive heart failure or cardiomyopathy.\n* Alanine amino transferase (ALT \\> 3 times ULN).\n* Patients already taking statins or other lipid lowering therapy.\n* Patients with a known hypersensitivity to any of the used drugs.",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

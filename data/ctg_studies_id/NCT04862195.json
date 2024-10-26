@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04862195",
+    "briefTitle": "Registrational Trial to Compare Effectiveness of Two Digital Software Medical Devices as Adjunctive Oncology Treatment",
+    "officialTitle": "Double-blinded, Randomized, Adaptive Registrational Trial to Compare Effectiveness of Two Digital Software Medical Devices (Attune\u2122 and Cerena\u2122) as Interventions for Physical and Emotional Health in Adjunctive Oncology Treatment",
+    "overallStatus": "TERMINATED",
+    "conditions": "Anatomic Stage I Breast Cancer AJCC v8, Anatomic Stage II Breast Cancer AJCC v8, Anatomic Stage III Breast Cancer AJCC v8, Stage I Lung Cancer AJCC v8, Stage II Lung Cancer AJCC v8, Stage III Lung Cancer AJCC v8",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 31,
+    "primaryOutcomeMeasure": "Cancer-related symptoms of anxiety (1)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage I-III breast cancer or Stage I-III NSCLC who are currently in active treatment or have completed initial cancer directed treatments (surgery, radiation, chemotherapy) within the past 3 months;\n* Are experiencing at least moderate anxiety (GAD-7 \\>10) or mild-to-moderate depression (PHQ-8 score 5-11);\n* Are fluent in English; and\n* Have access to smartphone, or tablet capable of running iOS or Android software.\n\nExclusion Criteria:\n\n* Previous history of cancer;\n* \\<2-yr survival prognosis as determined by treating clinician;\n* Currently participating in investigative CBT trial for treatment of anxiety or depression;\n* Participant is unable to complete training, has cognitive deficits, more severe psychiatric conditions, lack of access to internet accessible device or psycho-social conditions (e.g., other social conditions, that would interfere with adherence to self-directed care), such that in investigator's opinion the participant would be unable to complete the study;\n* Recently completed use of Blue Note Therapeutics Covid Cancer Care Program or other Blue Note Therapeutics-sponsored study; and\n* PHQ-9 Q9 response \\>0 AND Columbia Suicide Severity Risk Scale (or equivalent) score of Category 2- \"suicidal ideation\" at screening.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

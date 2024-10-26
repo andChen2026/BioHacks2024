@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03726931",
+    "briefTitle": "FES (16\u03b1-[18F]-Fluoro-17\u03b2-estradiol)-PET: Towards a New Standard to Stage Locally Advanced and Recurrent, Estrogen Receptor Positive (ER+) Breast Cancer? Pilot Study to Compare [18F]FES-PET and [18F]FDG-PET",
+    "officialTitle": "FES (16\u03b1-[18F]-Fluoro-17\u03b2-estradiol)-PET: Towards a New Standard to Stage Locally Advanced and Recurrent, Estrogen Receptor Positive (ER+) Breast Cancer? Pilot Study to Compare [18F]FES-PET and [18F]FDG-PET",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Percentage of patients with a correctly changed treatment plan according to [18F]FES PET/CT compared to [18F]FDG PET/CT.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinically LABC (stage III) or LRR breast cancer (all histological types) with ER+, HER2- and low grade according to Bloom Richardson criteria (grade 1-2)\n* Females aged 18 years or older at screening\n* Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0-2\n* Candidates for treatment with curative intent (patients are also allowed for inclusion in the current study if they have undergone recent surgery (\\<6 weeks) for current breast cancer and require staging because of unexpected stage III disease)\n* In case \\[18F\\]FDG PET/CT has already been performed, patients can be included \\<21 days after this scan\n* Estimated glomerular filtration rate (eGFR) \u226530 ml/min\n* Written and signed informed consent\n\nExclusion Criteria:\n\n* History with another cancer within the last 5 years, except non-melanoma skin cancer\n* Undergoing treatment for current breast cancer such as (neo)adjuvant chemotherapy, hormonal therapy (only in case of Tamoxifen), radiotherapy or investigational drug therapy\n* Pregnancy or lactating women\n* Any medical, psychological or social condition that may interfere with the subject's safety and participation in the study, will lead to exclusion from this study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

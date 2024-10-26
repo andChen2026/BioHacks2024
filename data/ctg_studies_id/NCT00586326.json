@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00586326",
+    "briefTitle": "MammoSite as Sole Radiation Therapy Technique for Ductal Carcinoma In-Situ",
+    "officialTitle": "MammoSite Radiation Therapy System (RTS) as the Sole Radiation Therapy Technique for Ductal Carcinoma In-Situ (DCIS)",
+    "overallStatus": "COMPLETED",
+    "conditions": "DCIS",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 133,
+    "primaryOutcomeMeasure": "Local Control Rate for Follow-up Period of 5 Years.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pre-Surgery:\n\n  * Unicentric pure DCIS\n  * Lesions should have a greatest dimension of 3 cm or less as determined by pre-surgery mammography and MRI\n* Post-Surgery:\n\n  * Negative histological margins confirmed prior to beginning radiation therapy.\n  * Margins are positive if there is tumor at the inked margin.\n  * Classified as low (NG1), intermediate (NG2) or high (NG3) nuclear grade DCIS, using the Philadelphia Consensus Conference Guidelines are eligible\n  * Clinically node negative\n\nExclusion Criteria:\n\n* Distance from the balloon surface to the surface of the skin \\< 5mm as determined by CT imaging.\n* Distant metastases.\n* Invasive or in-situ lobular carcinoma (post-surgery assessment).\n* Nonepithelial breast malignancies such as sarcoma or lymphoma.\n* DCIS that is multicentric in the ipsilateral breast.\n* Pregnant or lactating.\n* Prior non-hormonal therapy for the present breast cancer, including radiation therapy and/or chemotherapy.\n* Collagen vascular diseases\n* Coexisting medical conditions with life expectancy \\< 2 years.\n* Serious psychiatric or addictive disorder\n* Previously treated contralateral breast carcinoma\n* Synchronous bilateral breast carcinoma.\n* Other malignancy, except non-melanoma skin cancer, \\< 5 years prior to participation in the study; the disease free interval from any prior carcinoma must be continuous.\n* Patients with diffuse disease",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

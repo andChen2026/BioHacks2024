@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01790932",
+    "briefTitle": "BKM120 For Triple Negative Breast Cancer",
+    "officialTitle": "A Phase II Trial of BKM120 in Patients With Triple Negative Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Clinical Benefit Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathologically and radiologically confirmed metastatic triple negative breast cancer\n* Up to two prior lines of chemotherapy for metastatic breast cancer\n* Availability of a representative tumor specimen\n* At least one measurable lesion\n\nExclusion Criteria:\n\n* Have received previous treatment with PI3K inhibitors\n* Symptomatic central nervous system (CNS) metastases (controlled and asymptomatic CNS metastases are acceptable)\n* Concurrent malignancy or has a malignancy within 3 years of study enrollment\n* Any of the following mood disorders: active major depressive episode, bipolar disorder, obsessive-compulsive disorder, schizophrenia, history of suicidal attempt or ideation, homicidal ideation, greater than or equal to Common Toxicity Criteria for Adverse Events (CTCAE) grade 3 anxiety\n* Concurrently using other approved or investigational antineoplastic agent and/or chemotherapy within 21 days prior to enrollment in this study\n* Has received radiation therapy within 28 days prior to enrollment in this study or has not recovered from side effects of such therapy\n* Major surgery within 28 days of starting therapy or has not recovered from major side effects of a previous surgery\n* Poorly controlled diabetes mellitus\n* History of cardiac dysfunction\n* Currently receiving treatment with QT prolonging medication and the treatment cannot be discontinued or switched to a different medication\n* Impairment of gastrointestinal (GI) function or GI disease that may significantly alter the absorption of BKM120\n* Receiving chronic treatment with steroids or another immunosuppressive agent\n* Other concurrent severe and/or uncontrolled medical condition that would contraindicate participation in this study\n* History of non-compliance to a medical regimen\n* Currently being treated with drugs known to be moderate or strong inhibitors or inducers of isoenzyme Cytochrome P450, family 3, subfamily A (CYP3A)\n* Known history of human immunodeficiency virus (HIV)\n* Pregnant or breastfeeding\n* Unwilling to observe total abstinence or to use double barrier method for birth control throughout trial",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

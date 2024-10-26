@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00623233",
+    "briefTitle": "Gemcitabine Plus Bevacizumab in Locally Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "A Phase 2 Study of Gemcitabine and Bevacizumab as First-Line Treatment in HER2 Negative, Locally Recurrent or Metastatic Breast Cancer Previously Treated With Taxanes",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer, Locally Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 52,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS) Time",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Must be female and greater than or equal to 18 yrs of age\n* Participants must have confirmed cancer with measurable or evaluable, locally recurrent or metastatic disease.\n* Participants must have received a taxane as neo-adjuvant and/or adjuvant therapy\n* Participants may have received prior hormone therapy for locally recurrent or metastatic disease\n\nExclusion Criteria:\n\n* Participants with breast cancer overexpressing Human Epidermal growth factor Receptor 2 (HER2) gene amplification\n* Prior chemotherapy or targeted therapy for metastatic breast cancer\n* Prior treatment with gemcitabine, trastuzumab, lapatinib or bevacizumab in any setting\n* History of, or active brain mets\n* Major surgical procedure, open biopsy, or significant traumatic injury within 28 days prior to treatment, or anticipation of need for major surgical procedure during course of study\n* Prior history of high blood pressure crisis\n* Have a serious, nonhealing wound, ulcer, or bone fracture",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

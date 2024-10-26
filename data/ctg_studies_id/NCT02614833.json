@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02614833",
+    "briefTitle": "IMP321 (Eftilagimod Alpha) as Adjunctive to a Standard Chemotherapy Paclitaxel Metastatic Breast Carcinoma",
+    "officialTitle": "AIPAC (Active Immunotherapy PAClitaxel): A Multicentre, Phase IIb, Randomised,Double Blind, Placebo-controlled Study in Hormone Receptor-positive Metastatic Breast Carcinoma Patients Receiving IMP321 (LAG-3Ig Fusion Protein) or Placebo as Adjunctive to a Standard Chemotherapy Treatment Regimen of Paclitaxel",
+    "overallStatus": "COMPLETED",
+    "conditions": "Adenocarcinoma Breast Stage IV",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 242,
+    "primaryOutcomeMeasure": "Stage 1 to determine the recommended phase two dose for the randomised phase",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Able to give written informed consent and to comply with the protocol\n2. Metastatic oestrogen receptor positive and/or progesterone receptor positive breast adenocarcinoma, histologically proven by biopsy of the primary tumour and/or metastasis\n3. Female of age 18 years or above\n4. Patients who are indicated to received first line chemotherapy with weekly paclitaxel\n5. Evidence of measurable disease as defined by Response Evaluation Criteria version 1.1\n\n6 Laboratory criteria: haematology and biochemistry results within the limits normally expected for the patient population.\n\nExclusion Criteria:\n\n1. Prior chemotherapy for metastatic breast adenocarcinoma\n2. Disease-free interval of less than twelve months from the last dose of adjuvant chemotherapy\n3. Inflammatory carcinoma\n4. Candidate for treatment with trastuzumab (or other Her2/neu targeted agents)\n5. Systemic chemotherapy, radiation therapy or any other investigational agent within 4 weeks, endocrine therapy within 1 week prior to first dose of study treatment or CDK4/6 inhibitors within 5 times half-life (acc.to SPC) prior to first dose of study treatment and until completion of study treatment\n6. Symptomatic known cerebral and/or leptomeningeal metastases\n7. Serious intercurrent infection\n8. Evidence of severe or uncontrolled cardiac disease (NYHA III-IV) within 6 months prior to first dose of study treatment\n9. Active acute or chronic infection\n10. Active autoimmune disease requiring immunosuppressive therapy\n11. Previous malignancies within the last three years other than breast carcinoma\n12. Patients with prior organ or stem cell transplantation\n13. Any condition requiring continuous systemic treatment with either corticosteroids or other immunosuppressive medications within 4 weeks prior to first dose of study treatment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

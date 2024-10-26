@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00448279",
+    "briefTitle": "THOR Study: A Study of Continued Herceptin (Trastuzumab) in Combination With Second Line Chemotherapy in Patients With HER2 Positive Metastatic Breast Cancer.",
+    "officialTitle": "A Randomized, Open-label Study to Compare Progression-free Survival in Patients With HER2 Positive Metastatic Breast Cancer Who Continue or Discontinue Herceptin in Combination With 2nd Line Chemotherapy, Having Progressed on 1st Line Chemotherapy in Combination With Herceptin",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 58,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS) - Percentage of Participants With an Event",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female patients, \\>=18 years of age;\n* metastatic breast cancer;\n* HER2 overexpression (IHC 3+ and/or FISH positive);\n* disease progression during or after previous 1st line chemotherapy plus Herceptin;\n* scheduled to receive 2nd line chemotherapy.\n\nExclusion Criteria:\n\n* incompatibility with previous Herceptin therapy;\n* pregnancy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02041351",
+    "briefTitle": "Biweekly Docetaxel in Patients With Metastatic Breast Cancer.",
+    "officialTitle": "Docetaxel in Patients With Metastatic Breast Cancer Who Have Been Heavily Pretreated, Including Prior Treatment With Paclitaxel or Docetaxel.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 17,
+    "primaryOutcomeMeasure": "disease free interval",
+    "eligibilityCriteria": "Inclusion Criteria: Women over 21 years of age diagnosed with breast cancer in clinical stage IV, who had received 3 or more lines of cytotoxic chemotherapy, which may have included paclitaxel or docetaxel, which have measurable or evaluable tumor activity in any distant organ and who are fully conscious and well oriented to permit informed consent.\n\nExclusion Criteria:\n\nMale patients with metastatic breast cancer. Patients with grade 3 neuropathy by prior exposure to taxanes. Patients under 21 and over 85 years of age. Metastasis of one site in the central nervous system.",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

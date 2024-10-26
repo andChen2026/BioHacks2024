@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04948983",
+    "briefTitle": "The Effect of a Patient Decision Aids for Breast Cancer Screening",
+    "officialTitle": "Patient Decision Aids for Women Facing the Decision of Breast Cancer Screening in the Public Health Sector",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Mammary Cancer, Breast Tumor, Mammary Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 3269,
+    "primaryOutcomeMeasure": "Informed choice for breast cancer screening",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women from 50 to 69 years old\n* Attend the primary care centres\n* Fluent in Spanish\n\nExclusion Criteria:\n\n* Women with a personal history of breast cancer\n* Have a current mammogram (as recommended by the Chilean Ministry of Health)\n* Not having the capacity to consent.",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

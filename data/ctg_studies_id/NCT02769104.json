@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02769104",
+    "briefTitle": "Aromatase Inhibitors Plus Chemotherapy vs Chemotherapy as Neoadjuvant Treatment in Postmenopausal HR(+) Breast Cancer",
+    "officialTitle": "Aromatase Inhibitors (AI) Plus Chemotherapy Versus Chemotherapy as Neoadjuvant Treatment in Postmenopausal Hormone Receptor-positive Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Neoadjuvant Therapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "effective rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* provision of informed consent\n* clinical stage IIA\\~IIIC\n* histologically proven HR+ invasive breast cancer\n* women defined as postmenopausal according to NCCN guideline\n* plan to accept the neoadjuvant (pre operational) chemotherapy treatment\n\nExclusion Criteria:\n\n* clinical evidence of metastatic disease\n* bilateral oophorectomy;\n* radiation of the ovaries\n* patients who, for whatever reason (e.g., confusion, infirmity, alcoholism), are unlikely to comply with trial requirements\n* patients who accepted anti-cancer treatment before\n* previous hormonal therapy as adjuvant treatment for non-cancer disease\n* patients unwilling to stop taking any drug known to affect sex hormonal status, or in whom it would be inappropriate to stop\n* previous history of invasive malignancy within the last 5 years, other than squamous or basal cell carcinoma of the skin or carcinoma in situ of the cervix, adequately cone biopsied\n* treatment with a non-approved or experimental drug during 1 month before entry into the study\n* history of bleeding diathesis (i.e., Disseminated intravascular coagulation, clotting factor deficiency), or long term anticoagulant therapy (other than antiplatelet therapy and low dose warfarin)\n* leukopenia and/or thrombocytopenia\n* history of ocular fundus diseases\n* history of thromboembolic diseases\n* history of osteoporotic fractures",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

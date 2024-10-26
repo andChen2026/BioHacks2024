@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02071862",
+    "briefTitle": "Study of the Glutaminase Inhibitor CB-839 in Solid Tumors",
+    "officialTitle": "Ph1 Study of the Safety, PK, and PDn of Escalating Oral Doses of the Glutaminase Inhibitor CB-839, as a Single Agent and in Combination With Standard Chemotherapy in Patients With Advanced and/or Treatment-Refractory Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Solid Tumors, Triple-Negative Breast Cancer, Non Small Cell Lung Cancer, Renal Cell Carcinoma, Mesothelioma, Fumarate Hydratase (FH)-Deficient Tumors, Succinate Dehydrogenase (SDH)-Deficient Gastrointestinal Stromal Tumors (GIST), Succinate Dehydrogenase (SDH)-Deficient Non-gastrointestinal Stromal Tumors, Tumors Harboring Isocitrate Dehydrogenase-1 (IDH1) and IDH2 Mutations, Tumors Harboring Amplifications in the cMyc Gene",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 210,
+    "primaryOutcomeMeasure": "Safety and tolerability of CB-839: Incidence of adverse events",
+    "eligibilityCriteria": "Inclusion criteria\n\n* Advanced malignancy that is relapsed and/or refractory to all available therapies that will confer clinical benefit. Newly diagnosed patients who refuse standard treatment regimens are also eligible\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0-1\n* Life Expectancy of at least 3 months\n* Adequate hepatic, renal, cardiac, and hematologic function\n* Measurable disease by RECIST criteria\n* Ability to provide written informed consent in accordance with federal, local, and institutional guidelines\n\nExclusion Criteria\n\n* Any other current or previous malignancy\n* Chemotherapy, radiation therapy, hormonal therapy, immunotherapy or biological therapy, or investigational agent within 21 days\n* Unable to receive medications oral medications\n* Major surgery within 28 days before Cycle 1 Day 1\n* Active infection requiring within 2 weeks prior to first dose of study drug\n* Patients who have HIV, Hepatitis A, B or C or CMV reactivation\n* Significant neurotoxicity/neuropathy (Grade 3 or higher) within 14 days of first dose of study drug\n* Conditions that could interfere with treatment or protocol-related procedures",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

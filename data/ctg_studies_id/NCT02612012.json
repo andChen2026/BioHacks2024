@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02612012",
+    "briefTitle": "Axillary Radiotherapy for Early Stage Breast Cancer With Limited Positive Sentinel Lymph Nodes",
+    "officialTitle": "Phase II Study of Axillary Level I-II Areas Radiotherapy for Early Stage Breast Cancer With Limited Positive Sentinel Lymph Nodes",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 475,
+    "primaryOutcomeMeasure": "Axillary recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* 18\\~70 years old\n* Pathologically confirmed invasive breast cancer\n* A clinical T1-2N0M0 tumor\n* Treated with breast conserving surgery and sentinel lymph node biopsy\n* 1\\~2 positive sentinel lymph nodes, including micro-metastases or macro-metastases.\n* ECOG score 1\\~2\n* Written informed consent\n\nExclusion Criteria:\n\n* Patients underwent complete axillary lymph node dissection\n* Patients underwent mastectomy\n* Patients underwent neoadjuvant therapy\n* Clinically node positive pre-operative\n* Sentinel lymph nodes only containing isolated tumour cells (\\<0.2 mm)\n* Prior history of invasive breast cancer or previous or concurrent other malignancies within the past 5 years\n* Previous radiation therapy of breast or thorax\n* Medical contraindication for radiotherapy\n* Prior axillary surgery or radiotherapy\n* Unable or unwilling to receive breast conserving surgery or sentinel lymph node biopsy\n* Pregnant or nursing",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03786094",
+    "briefTitle": "Pivotal Study in HER2 Negative, Locally Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "An International, Phase 3, Multicenter, Randomized, Open- Label Trial Comparing Balixafortide in Combination With Eribulin Versus Eribulin Alone in Patients With HER2 Negative, Locally Recurrent or Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer, Locally Recurrent Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 432,
+    "primaryOutcomeMeasure": "Progression Free Survival (2nd Line+ Population)",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Histologically confirmed Breast cancer\n* Metastatic Breast Cancer currently of stage IV disease or unresectable locoregionally recurrent breast cancer\n* refractory to the most recent chemotherapy, documented by progression on or within six (6) months of therapy\n* At least 14 days from the completion of any previous cancer therapy\n* Adequate organ function\n* Life expectancy of 3 months or more\n* Willing and able to comply with the protocol and able to understand and willing to sign an informed consent\n\nKey Exclusion Criteria:\n\n* Previously treated with eribulin\n* Peripheral neuropathy Grade \u22653\n* Receipt of prior CXCR4 therapy\n* Receipt of colony stimulating factors (CSFs) filgrastim, pegfilgrastim, or sargramostim, or radiation therapy within 14 days prior to study Day 1\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to balixafortide or eribulin or other agents used in the study\n* Breast feeding or pregnant\n* Patients with congestive heart failure, electrolyte abnormalities, bradyarrhythmias, known congenital long QT syndrome, QT interval corrected with Fridericia's formula (QTcF) \u2265470 msec at baseline in the absence of bundle branch block, or currently taking drugs at known risk of prolonging the QT interval or causing torsades de pointes",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

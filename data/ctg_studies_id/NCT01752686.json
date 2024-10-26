@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01752686",
+    "briefTitle": "A Phase III Trial of Carboplatin as Adjuvant Chemotherapy in Triple Negative Breast Cancer",
+    "officialTitle": "A Phase III Trial of Carboplatin as Adjuvant Chemotherapy Versus Observation in Triple Negative Breast Cancer With Pathologic Residual Cancer After Neoadjuvant Chemotherapy: POST-Neo Adjuvant Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 587,
+    "primaryOutcomeMeasure": "Disease-free survival (DFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinical diagnosis of breast cancer\n\n  1. Female patients\n  2. Histologically confirmed invasive breast cancer\n\n     1. Primary tumor greater than 2cm diameter, measured by mammography and sonography\n     2. Any N\n  3. ER (estrogen receptor)/ PR (progesterone receptor) / HER2 (negative/ negative/ negative)(ER \\<1%, PR\\<1%, IHC 0, 1+ or FISH - in case of IHC (immuno-histochemistry) 2+)\n  4. No evidence of metastasis (M0)\n  5. No prior hormonal, chemotherapy or radiotherapy is allowed.\n  6. No breast operation other than biopsy to make diagnosis is allowed.\n  7. Age: 20-years and older, not pregnant pre-, and postmenopausal women with good performance status (ECOG 0-1)\n  8. Adequate hematopoietic function: Absolute granulocyte count 1500/mm3, platelet 100,000/mm3, Hemoglobin 10 g/mm3\n  9. Adequate renal function: Serum creatinine 1.5 mg/dl\n  10. Adequate hepatic function: total bilirubin: 1.5 mg/dl, AST(aspartate aminotransferase)/ALT (alanine transaminase): 2 times normal, Alkaline phosphatase:2 times normal\n  11. Written informed consent\n  12. Normal mental function to understand and sign the consent\n  13. Cardiac function: normal or nonspecific EKG taken within 1 mo of enrollment.\n  14. LVEF (left ventricular ejection fraction)50% by MUGA (multiple gated acquisition scan) or Echocardiogram taken within 1 mo of enrollment\n\nExclusion Criteria:\n\n1. Patients who received hormonal, chemotherapy or radiotherapy for breast cancer\n2. Patients who underwent surgery for breast cancer\n3. Patients with a history of uncompensated congestive heart failure\n4. Patients with inflammatory breast cancer (T4d)\n5. Patients without primary tumor (T0)\n6. Patients who have history of cancer other than in situ uterine cervix cancer or non-melanotic skin cancer\n7. Known hypersensitivity to any of the study drugs",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

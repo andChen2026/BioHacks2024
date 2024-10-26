@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04994067",
+    "briefTitle": "Intra-Operative Radiation Registry",
+    "officialTitle": "Intra-Operative Radiation Therapy (IORT) Using the IntraBeam\u00ae System - A Registry Protocol",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 250,
+    "primaryOutcomeMeasure": "Number of patients with locally controlled disease",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female gender\n* Age \u2265 45\n* cT1-2N0, \\<3.5cm invasive breast cancer, estrogen-receptor positive or DCIS of breast, Grade 1-2, mammographically detected, \\< 2.5 cm, estrogen-receptor positive\n* Suitable for breast conserving surgery\n* No contraindication to radiation\n* Mammogram within 6 months of planned procedure\n* Fitness for lumpectomy under general anesthesia\n* Planned to receive IORT\n\nExclusion criteria\n\n* Known axillary lymph node positive breast cancer (negative biopsy not required)\n* Multicentric cancer in the same breast as diagnosed by clinical examination, mammography, ultrasound, MRI or pathologic assessment, not amenable to excision with negative margins with a single lumpectomy.\n* Patients known to have BRCA 1/2 (breast cancer 1, breast cancer 2) gene\n* Patients undergoing neoadjuvant chemotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

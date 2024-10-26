@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06222788",
+    "briefTitle": "Breast Cancer Plasma Adjuvant Intra-operative Treatment (Breast Cancer PAINT)",
+    "officialTitle": "Breast Cancer Plasma Adjuvant Intra-operative Treatment (Breast Cancer PAINT)",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Incremental increase of NTP dose to reach maximum safe dose.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age \u226518 years at the time of signing study consent.\n2. ECOG \u22642.\n3. Patient with T1-4 breast cancer for groups A and B; patient with T1/T2 breast cancer for group C (based on physical exam, not radiological measurements).\n4. Patient is scheduled to undergo a lumpectomy.\n\nExclusion Criteria:\n\n1. Prior treatment for the tumor of interest (including chemotherapy, immunotherapy, radiotherapy).\n2. Patient planning to or undergoing intraoperative radiotherapy.\n3. Diabetes (types I and II).\n4. Hypercortisolism.\n5. Collagen vascular disease.\n6. Patient requiring systemic corticosteroids at physiologic doses exceeding 10 mg/day of prednisone or its equivalent.\n7. Patient receiving daily chemotherapy for rheumatological conditions.\n8. Pregnancy (a urine pregnancy test must be obtained for non-sterile women of childbearing potential prior to surgery).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

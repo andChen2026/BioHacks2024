@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02869230",
+    "briefTitle": "ROLL vs WGLL for Non-palpable Breast Lesions",
+    "officialTitle": "Radioguided Occult Lesion Localization (ROLL) is Superior a to the Wire-Guided Lesion Localization (WGLL)? Randomized Controlled Clinical Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 129,
+    "primaryOutcomeMeasure": "Localization of nonpalpable breast lesion (percentage)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients older than 18 years\n* Lesions suggesting malignancy (BIRADS 4 and 5)\n* Solid nodules in postmenopausal women (BIRADS 3 mammograms).\n\nExclusion Criteria:\n\n* Pregnant or nursing\n* Patients with suspected multifocal or multicentric disease (suspicious microcalcifications scattered over a wide area on mammography)\n* Patients with retro-areola lesions (less than 2 cm away from the nipple)\n* Lesions that had previously undergone surgery or excisional biopsies in the compromised breast",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

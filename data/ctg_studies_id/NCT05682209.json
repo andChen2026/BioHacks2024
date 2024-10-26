@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05682209",
+    "briefTitle": "The Effect of Octreotide on Wound Drainage After Mastectomy",
+    "officialTitle": "The Effect of Octreotide on the Duration of Post-mastectomy Wound Drainage: a Randomized Controlled Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Seroma Following Procedure",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 41,
+    "primaryOutcomeMeasure": "Time to drain removal",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All female breast cancer patients requiring modified radical mastectomy\n\nExclusion Criteria:\n\n* All mastectomies without axillary clearance (simple and toilet mastectomies)\n* Breast-conserving surgeries\n* Patients undergoing immediate breast reconstruction after mastectomy\n* Previous axillary surgery",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

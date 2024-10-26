@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03955991",
+    "briefTitle": "VSMART (Video-Conference Stress Management and Relaxation Training for Older Women With Breast Cancer)",
+    "officialTitle": "Stress Management Effects on Affective Status and Influenza Vaccine Response in Older Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Stress",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Hemagglutination inhibition assay (HAI) - Fold response to IV",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Must meet the criterion of a score of \\>14 on the Impact of Event Scale-Intrusion scale (IES-I48) for cancer-specific distress or self-report at least moderate distress (score of 4 or greater) on a screening question, \"How would you rate your distress level, over the past week, on a scale of 0 to 10, with 0 meaning no distress and 10 being extreme distress\"\n2. No prior history of cancer (with the exception of non-melanoma skin cancer)\n3. Life expectancy of \\> 12 months.\n4. No diagnosis of major psychiatric condition or mental disorder (i.e. schizophrenia, psychosis, and/or bipolar disorder) or active (in the past 12 months) Major Depressive Disorder (MDD), panic disorder, Post Traumatic Stress Disorder (PTSD) diagnosis or history of suicide thoughts, attempts or plans.\n5. No substance dependency in the past 12 months.\n6. No acute or chronic co-morbid medical condition with known effects on the immune system (e.g., HIV infection, autoimmune diseases)\n7. No prior neo-adjuvant therapy\n8. No current medications that act as direct immunomodulators (e.g., Granulocyte Macrophage Colony Stimulating Factor (GM-CSF), interferons)\n9. No significant cognitive impairment, must score \\<31 on the Telephone Interview for Cognitive Status (TICS)49.\n10. At least a 6th grade reading level in English and be available for follow-up\n11. Women age 50 and older diagnosed with stage 0-III breast cancer.\n\nExclusion Criteria:\n\n* Does not meet all Inclusion Criteria.",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

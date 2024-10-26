@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04650451",
+    "briefTitle": "Safety and Activity Study of HER2-Targeted Dual Switch CAR-T Cells (BPX-603) in Subjects With HER2-Positive Solid Tumors",
+    "officialTitle": "A Phase 1/2, Open-Label, Multicenter, Non-Randomized, Safety and Activity Study of HER2-Targeted Dual Switch CAR-T Cells (BPX-603) In Subjects With Previously Treated Advanced HER2-Positive Solid Tumors",
+    "overallStatus": "SUSPENDED",
+    "conditions": "HER-2 Gene Amplification, HER2-positive Gastric Cancer, HER2-positive Breast Cancer, HER-2 Protein Overexpression, Solid Tumor, Adult",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 220,
+    "primaryOutcomeMeasure": "Proportion of subjects experiencing Dose Limiting Toxicities at increasing doses of BPX-603",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Documented evidence of HER2 amplification/overexpression by local testing.\n* Histologically or cytologically confirmed diagnosis of a locally advanced unresectable or metastatic HER2+ solid tumor malignancy for which standard treatment is no longer effective, does not exist, or subject is ineligible.\n* Subjects with a solid tumor malignancy for which HER2-targeted therapy is approved as a standard treatment (e.g., breast, gastric cancers) must have received prior treatment with approved HER2-directed therapy.\n* Measurable disease (at least one target lesion) per RECIST v1.1.\n* Life expectancy \\> 12 weeks.\n* ECOG 0-1.\n* Adequate organ function.\n\nExclusion Criteria:\n\n* Symptomatic, untreated, or actively progressing central nervous system metastases.\n* Prior CAR T cell or other genetically-modified T cell therapy.\n* Impaired cardiac function or clinically significant cardiac disease.\n* Symptomatic intrinsic lung disease or those with extensive tumor involvement of the lungs.\n* Severe intercurrent infection.\n* Pregnant or breastfeeding.\n* Known HIV positivity.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05215574",
+    "briefTitle": "Study of NGM831 as Monotherapy and in Combination With Pembrolizumab or Pembrolizumab and NGM438 in Advanced or Metastatic Solid Tumors",
+    "officialTitle": "A Phase 1 Dose Escalation/Dose Finding Study of NGM831 as Monotherapy and in Combination With Pembrolizumab or Pembrolizumab and NGM438 in Advanced or Metastatic Solid Tumors",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Pancreatic Cancer, Breast Cancer, Gastric Cancer, Non-small Cell Lung Cancer, Cervical Cancer, Endocervical Cancer, Squamous Cell Carcinoma of Head and Neck, Bladder Urothelial Cancer, Colorectal Carcinoma, Esophageal Cancer, Ovarian Cancer, Renal Cell Carcinoma, Prostate Cancer, Melanoma, Mesothelioma, Cholangiocarcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 130,
+    "primaryOutcomeMeasure": "Number of Patients with Dose-limiting Toxicities",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically documented locally advanced or metastatic solid tumor malignancy.\n* Adequate bone marrow, kidney and liver function\n* Performance status of 0 or 1.\n* Resolved acute effects of any prior therapy to baseline severity or CTCAE Grade 1 except for AEs not constituting a safety risk by Investigator judgement.\n\nExclusion Criteria:\n\n* Prior treatment targeting ILT3.\n* Prior treatment targeting LAIR1.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

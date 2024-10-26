@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01394315",
+    "briefTitle": "Diffuse Optical Tomography (DOT) for Monitoring Response to Neoadjuvant (Preoperative) Chemotherapy in Breast Cancer",
+    "officialTitle": "Diffuse Optical Tomography (DOT) for Monitoring Response to Neoadjuvant (Preoperative) Chemotherapy in Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 8,
+    "primaryOutcomeMeasure": "Parameters derived from the optical images acquired with the DOT system",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients receiving neoadjuvant chemotherapy for breast cancer.\n* Patients with locally advanced breast tumours or large operable tumours who require neoadjuvant treatment for downstaging.\n* Histological confirmation of invasive breast carcinoma.\n* Patients with metastatic disease may be eligible if they have oligometastatic disease and breast surgery after neoadjuvant chemotherapy is planned.\n* Signed informed consent\n* Age equal to or more than 21 years\n* Life expectancy greater than 12 weeks.\n* ECOG performance status 0-2\n\nExclusion Criteria:\n\n* Fungating or ulcerated tumours\n* Inability to provide informed consent\n* Anticipated inability to follow-up patient for response to chemotherapy\n* Any contraindication to undergoing ultrasound, MRI, MMG or DOT",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

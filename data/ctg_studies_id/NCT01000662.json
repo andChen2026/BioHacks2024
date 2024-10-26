@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01000662",
+    "briefTitle": "Study Comparing Whole Breast Radiotherapy With a Daily Versus a Weekly Tumor",
+    "officialTitle": "Phase III Study Comparing Whole Breast Radiotherapy With a Daily Tumor Red Boost",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 412,
+    "primaryOutcomeMeasure": "Number of Participants With Acute Radiation Toxicities Recorded According to Radiation Therapy Oncology Group (RTOG)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pre or post-menopausal women with stage 0,I, and II breast cancer\n* Biopsy-proven invasive breast cancer, excised with negative margins of at least 1 mm\n* Status post segmental mastectomy, after sentinel node biopsy and/or axillary node dissection (DCIS and Tumors \\<5mm do not require nodal assessment)\n* At least 2 weeks from last chemotherapy\n* Patient needs to be able to understand and demonstrate willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Previous radiation therapy to the ipsilateral breast\n* More than 3 involved nodes identified at axillary staging, requiring adjuvant axillary radiation\n* Active connective tissue disorders, such as lupus or scleroderma\n* Prior or concurrent malignancy other than basal or squamous cell skin cancer or carcinoma in-situ of the cervix, unless disease-free \\>3 years\n* Pregnant or lactating women",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02274480",
+    "briefTitle": "Diffusion Weighted Imaging as a Biomarker for Detection of Chemotherapy Induced Cardiotoxicity",
+    "officialTitle": "Diffusion Weighted Imaging as a Biomarker for Detection of Chemotherapy Induced Cardiotoxicity",
+    "overallStatus": "COMPLETED",
+    "conditions": "Chemotherapy Induced Cardiotoxicity in Breast Cancer Patients",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "presence of edema",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \u226518 years of age on the day of signing the informed consent.\n* Diagnosis of HER2+ breast cancer\n\n  * History of anthracycline therapy and antiHER2 treatment\n* For subjects with decrease in LVEF: Recent (within 12 weeks) drop in LVEF \u226510% on echocardiogram from baseline and confirmed by cardiac MRI for the study population. If the drop in EF is not confirmed on MRI, the subject will be removed and placed into the control group.\n\nFor control group: Less than a 10% change in EF from baseline for the control population confirmed on echocardiogram and cardiac MRI. If no change in EF is not confirmed on MRI, the subject will be removed and placed into the study group if the change in EF is equal to or greater than 10%. Note: Male breast cancer patients are uncommon and are not expected to be included in this study, however if they meet the above criteria, they will not be excluded.\n\nExclusion Criteria:\n\n* Prior myocardial infarction\n* Prior surgical or percutaneous coronary revascularization\n* Pregnant or lactating patients\n* Patients who because of general medical or psychiatric condition, or physiologic status unrelated to the presence of breast cancer cannot give valid informed consent\n* Patients who are unwilling or unable to undergo MRI including patients with contraindications to MRI such as the presence of cardiac pacemakers or non-compatible intracranial vascular clips, claustrophobia, inability to lie flat for the duration of the study etc. MRI eligibility will be determined on the day of consent with the MRI questionnaire.\n* Patients with metallic implants or device in the chest that might distort local magnetic field and compromise quality of MRI",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

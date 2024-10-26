@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04171700",
+    "briefTitle": "A Study to Evaluate Rucaparib in Participants With Solid Tumors and With Deleterious Mutations in HRR Genes",
+    "officialTitle": "A Phase 2 Multicenter, Open-label Study of Rucaparib as Treatment for Solid Tumors Associated With Deleterious Mutations in Homologous Recombination Repair Genes",
+    "overallStatus": "TERMINATED",
+    "conditions": "Solid Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 83,
+    "primaryOutcomeMeasure": "Best Overall Response Rate by Investigator",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Unresectable, locally advanced or metastatic solid tumor and relapsed/progressive disease\n* Measurable disease per RECIST v1.1 or modified RECIST v1.1 and PCWG3 (for prostate cancer)\n* Have a deleterious mutation (germline or somatic) in BRCA1, BRCA2, PALB2, RAD51C, RAD51D, BARD1, BRIP1, FANCA, NBN, RAD51 or RAD51B. Note: Breast cancer patients that are HER2 negative and have germline BRCA1 or BRCA2 mutations AND patients with epithelial ovarian cancer, fallopian tube cancer, primary peritoneal cancer or metastatic castration-resistant prostate cancer with BRCA1 or BRCA2 mutations are ineligible for this trial.\n* At least one prior line of therapy extending overall survival or standard of care therapy for advanced disease. Note: Some tumor types have specific inclusion/exclusion criteria for previous treatments.\n* ECOG 0 or 1\n* Tumor tissue available for genomic analysis, or must be willing to have a biopsy if no archival tumor tissue available\n* Adequate organ function\n* Life expectancy of 4 months\n\nKey Exclusion Criteria:\n\n* Active central nervous system brain metastases, leptomeningeal disease or primary tumor of CNS origin\n* Active second malignancy (Exceptions: Successfully treated malignancy with no active disease for 1 year, surgically cured and/or low-risk tumors, or patients receiving ongoing anticancer hormonal therapy for a previously treated cancer)\n* Pre-existing gastrointestinal disorders/conditions interfering with ingestion/absorption of rucaparib\n* Prior treatment with a PARP inhibitor\n* More than 3 prior lines of chemotherapy in the locally advanced/metastatic setting\n* History of myelodysplastic syndrome or acute myeloid leukemia",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

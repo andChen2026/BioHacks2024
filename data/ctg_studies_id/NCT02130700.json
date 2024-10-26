@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02130700",
+    "briefTitle": "Oral VT-464 in Patients With Castration-Resistant Prostate Cancer Previously Treated With Enzalutamide, Androgen Receptor Positive Triple-Negative Breast Cancer Patients, and Men With ER Positive Breast Cancer",
+    "officialTitle": "A Phase 2 Open-Label Study to Evaluate the Efficacy and Safety of VT-464 in Patients With Metastatic Castration Resistant Prostate Cancer Who Have Previously Been Treated With Enzalutamide, Androgen Receptor Positive Triple-Negative Breast Cancer Patients, and Men With ER Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 17,
+    "primaryOutcomeMeasure": "The change in PSA from baseline using waterfall plots in response to 12-weeks of treatment with VT-464",
+    "eligibilityCriteria": "Key Eligibility Criteria:\n\n* Patients must have documented histological or cytological evidence of adenocarcinoma of the prostate.\n* Must have progressive, metastatic castration-resistant prostate cancer (mCRPC). There must be radiographic evidence of disease after primary treatment with surgery or radiotherapy that has continued to progress radiographically or biochemically (rising PSA levels on successive measurements) despite adequate androgen-deprivation therapy, which is defined as having undergone bilateral surgical castration or continued treatment on GnRH agonists or antagonists.\n* All patients in this trial must have been treated with enzalutamide.\n* Patients in Cohort 1 will not be allowed to have received prior chemotherapy; patients in Cohort 2 must have received one (and not more) prior course of chemotherapy for mCRPC.\n* Progression must be evidenced and documented by any of the following parameters:\n\n  * PSA progression defined by a minimum of two rising PSA levels with an interval of \u2265 1 week between each determination\n  * Appearance of one or more new lesions on bone scan\n  * Progressive measurable disease by RECIST 1.1",
+    "sex": "MALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

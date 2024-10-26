@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00076024",
+    "briefTitle": "AG-013736 In Combination With Docetaxel Versus Docetaxel Alone For Patients With Metastatic Breast Cancer",
+    "officialTitle": "Randomized, Placebo-Controlled, Double-Blind, Phase 2 Study Of AG-013736 In Combination With Docetaxel Versus Docetaxel Alone In Patients With Metastatic Breast Cancer Preceded By A Phase 1 Evaluation Of The Combination",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 174,
+    "primaryOutcomeMeasure": "Time to Tumor Progression (TTP)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with histologically/cytologically proven metastatic breast carcinoma (stage IV, or recurrent with local or regional spread or distant metastatic disease)\n* Adequate bone marrow, liver, and renal function\n\nExclusion Criteria:\n\n* Adjuvant chemotherapy given in the past 12 months\n* Uncontrolled brain metastases",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03266809",
+    "briefTitle": "CARdiac Function Evaluation in Breast Cancer Patients",
+    "officialTitle": "Longitudinal Characterisation of Cardiac Function in Recently-diagnosed Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 17,
+    "primaryOutcomeMeasure": "Cardiac Function (stroke volume or ejection fraction)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nEligible participants will be women aged 18 years or over with the following characteristics:\n\n* Early invasive breast cancer (stage I-III)\n* Due to start adjuvant or neoadjuvant therapy including either anthracycline-based chemotherapy, or chemotherapy + trastuzumab +/- pertuzumab\n* WHO performance status \\<=2\n* Absence of major cardiovascular or chronic respiratory problems, or other conditions that in the opinion of the clinician would contraindicate the use of physical exercise assessments\n* Absence of contraindications for MRI scans, as listed in Paragraph 3.3. Patients unsuitable or unwilling to undergo MRI scans will be eligible for the study only if they are planned to receive trastuzumab, since this will include LVEF monitoring with MUGA scans or echocardiograms as part of routine care\n* Provision of signed informed consent.\n\nExclusion Criteria:\n\n* Presence of major cardiovascular or chronic respiratory problems, or other conditions that in the opinion of the clinician would contraindicate the use of treadmill exercise assessments\n* Presence of contraindications for MRI scans:\n\n  * Internal electronic devices such as neurostimulators or defibrillators\n  * Replacement heart valve\n  * Cardiac pacemaker\n  * Intracranial vessel clips\n  * Internal ear implant\n  * Claustrophobia\n  * Pregnancy.\n\nMRI scans will be requested by a clinician after the exclusion of the above contraindications. Patients unsuitable or unwilling to undergo MRI scans will be eligible for the study only if they are planned to receive trastuzumab, since this includes LVEF monitoring with MUGA scans or echocardiograms as part of routine care.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03357120",
+    "briefTitle": "Circulating Tumor DNA After Neoadjuvant Chemotherapy",
+    "officialTitle": "Detection of Circulating Tumoral DNA Mutations (Sequential Assessment) Following Neoadjuvant Chemotherapy for Breast Cancer: Clinical Validity (ALIENOR Study)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 180,
+    "primaryOutcomeMeasure": "Prognostic value of the presence of ctDNA mutation(s) measured by dPCR on recurrence-free interval (RFI) at 3 years.",
+    "eligibilityCriteria": "Inclusion Criteria :\n\n1. Age \u2265 18 years (no age limit).\n2. Women or men.\n3. Invasive breast cancer proven histologically at diagnosis (before neoadjuvant chemotherapy):\n\n   1. Locally advanced tumor known to be inoperable from the start:\n\n      * cT4a, b, c, d whatever the cN\n      * or cN2 or cN3 whatever the cT.\n   2. Operable tumors:\n\n      * cT2cN1 or cT3cN0 or cT3N1,\n      * or cT2cN0 for which ganglionic invasion has been proven by cytology or histology.\n4. Lack of clinically or radiologically detectable metastases in the initial diagnosis before the neoadjuvant chemotherapy (M0).\n5. Unilateral or bilateral breast cancer. Multifocality is accepted.\n6. Patients who received 6 to 8 cycles of neoadjuvant chemotherapy.\n7. Preoperative radiation therapy allowed.\n8. Breast surgery performed and pathology report of a non-complete histological response (i.e. all the different results of ypT0 /is ypN0).\n9. Signed informed consent.\n10. Patients affiliated to a French social security scheme in accordance with Article 1121-11 of the French Code of Public Health.\n11. Possible inclusion in another interventional research (surgical, radiotherapy or drug study).\n\nExclusion Criteria :\n\n1. cT2cN0 tumor without cytological or histological lymph node involvement.\n2. Progression during neoadjuvant chemotherapy.\n3. Exclusive neoadjuvant hormone therapy.\n4. Complete blood transfusion within 120 days prior to 1st sampling.\n5. History of invasive cancer regardless of the time elapsed since the diagnosis of this cancer, including a history of contralateral invasive breast cancer. However, patients who have been treated for in situ breast cancer, basocellular skin cancer or cervical cancer treated in situ are eligible.\n6. Patient unable to follow and comply with research procedures for geographical, social or psychological reasons.\n7. Patient deprived of liberty or subject to a legal protection measure.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

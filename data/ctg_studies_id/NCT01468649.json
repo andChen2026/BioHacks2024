@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01468649",
+    "briefTitle": "Real-Time Near-infrared (NIR) Mapping of Sentinel Lymph Nodes in Breast Cancer",
+    "officialTitle": "Phase II Real-Time NIR-Guided Sentinel Lymph Node Mapping in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DEVICE_FEASIBILITY",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Sensitivity of Real-Time Intraoperative NIR Mapping",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participant must have histologically confirmed breast cancer and be deemed an appropriate surgical candidate with consent for a sentinel lymph node mapping by their oncologic surgeon.\n* Age minimum: 18 years.\n* Participant must be receiving a planned lymphoscintigraphy procedure.\n* Participant must have the ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n* Participants who choose not to proceed with sentinel lymph node biopsy.\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to indocyanine green, including those patients with a history of iodide or seafood allergy.\n* Women who are pregnant or may become pregnant, as well as those women who are breastfeeding, will be excluded from this study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

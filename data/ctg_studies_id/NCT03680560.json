@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03680560",
+    "briefTitle": "Study of ACTR T Cell Product in Combination With Trastuzumab in Subjects With HER2-Positive Advanced Solid Tumor Cancers",
+    "officialTitle": "A Phase 1 Study of an Autologous ACTR T Cell Product in Combination With Trastuzumab, a Monoclonal Antibody, in Subjects With HER2-Positive Advanced Malignancies",
+    "overallStatus": "TERMINATED",
+    "conditions": "Solid Tumor, HER-2 Protein Overexpression",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Safety and tolerability of ACTR T cell product with trastuzumab as assessed by committee review of dose limiting toxicities (DLTs), incidence and severity of adverse events (AEs) and clinically significant abnormalities of laboratory values",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed written informed consent obtained prior to study procedures\n* Histologically-confirmed Her2 positive advanced solid tumor malignancy with documented disease progression during or immediately following the immediate prior therapy, or within 6 months of completing adjuvant therapy for subjects with breast cancer\n* Subjects must have previously received adequate standard therapy for treatment of their malignancy\n\n  * For those with metastatic breast cancer, must have received HER2-directed therapy including trastuzumab, pertuzumab and ado-trastuzumab in any breast cancer disease setting\n  * For those with advanced gastric cancer, adequate prior treatment with HER2-directed chemotherapy is required\n* At least 1 measurable lesion by iRECIST\n* Able to provide fresh tumor biopsy or archived block specimen taken since time of most recent anti-HER2 mAb-directed therapy\n* ECOG of 0 or 1\n* Life expectancy \u2265 6 months\n* LVEF \u2265 50% by MUGA or ECHO\n* Absolute neutrophil (ANC) count \u2265 1500/ \u00b5L\n* Platelet count \u2265 100,000/\u00b5L\n* Hemoglobin \u2265 9g/dL\n* Estimated GFR \\>30mL/min/1.73m2\n\nExclusion Criteria:\n\n* glioblastoma multiforme or other primary CNS tumors are excluded\n* clinically significant cardiac disease\n* clinically significant active infection\n* clinical history, prior diagnosis, or overt evidence of autoimmune disease\n* current use of more than 5mg/day of prednisone (or an equivalent glucocorticoid)\n* Prior treatment as follows:\n\n  * prior cumulative doxorubicin dose greater than or equal to 300 mg/m\\^2 or equivalent\n  * chemotherapy within 2 weeks of enrollment\n  * external beam radiation within 2 weeks of enrollment (28 days if CNS-directed therapy)\n  * any monoclonal antibody (mAb) or other protein therapeutic containing Fc-domains within 4 weeks of enrollment\n  * pertuzumab within 4 months of enrollment\n  * Experimental agents within 3 half-lives or 28 days prior to enrollment, whichever is shorter\n  * allogeneic hematopoietic stem cell transplant (HSCT)\n  * prior infusion of a genetically modified therapy\n* Pregnant or breastfeeding",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

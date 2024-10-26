@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03145909",
+    "briefTitle": "A Study Evaluating the Safety, Pharmacokinetics and Anti-Tumor Activity of ABBV-176 in Subjects With Advanced Solid Tumors Likely to Express Prolactin Receptor (PRLR)",
+    "officialTitle": "A Phase 1 Study Evaluating the Safety, Pharmacokinetics and Anti-Tumor Activity of ABBV-176 in Subjects With Advanced Solid Tumors Likely to Express Prolactin Receptor (PRLR)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Advanced Solid Tumors Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 19,
+    "primaryOutcomeMeasure": "Dose Escalation Cohort: Tmax of ABBV-176",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participant has histological confirmation of a locally advanced or metastatic solid tumor of a type associated with Prolactin Receptor (PRLR) expression that has progressed on prior treatment, is not amenable to treatment with curative intent, and has no other therapy options known to provide clinical benefit or the subject is ineligible for such therapies.\n* Dose Escalation Cohort: must have breast cancer, colorectal cancer, adrenocortical carcinoma, chromophobe renal cell carcinoma.\n* Expanded Cohort: must have breast cancer.\n* Participant must consent to provide the following for biomarker analyses:\n* Dose Escalation Cohort: archived tumor tissue or fresh tumor biopsy.\n* Expanded Cohort: archived tumor tissue and fresh tumor biopsy.\n* Participant has Eastern Cooperative Oncology Group (ECOG) performance status 0-1.\n* Participant has adequate bone marrow, renal, and hepatic function.\n\nExclusion Criteria:\n\n* Participant received anticancer therapy including chemotherapy, immunotherapy, radiotherapy, biologic, or any investigational therapy within 21 days before Study Day 1; participant received palliative radiotherapy or small molecule targeted anti-cancer agents within 14 days of Study Day 1.\n* Participant has prior exposure to any pyrrolobenzodiazopine-containing agent\n* Participant has unresolved, clinically significant toxicities from prior anticancer therapy, defined as greater than Grade 1 on Common Terminology for adverse events.\n* Participant has clinically significant uncontrolled conditions.\n* Participant has a history of major immunologic reaction to any Immunoglobulin G (IgG).\n* Participant has received more than 4 prior lines of systemic cytotoxic therapy (not including neo-adjuvant or adjuvant therapy).\n\n  * For prior cytotoxic therapy, treatment for 1 full cycle or less will not be considered as prior therapy unless the patient experienced progression of disease while on that therapy.\n* Participant has a history of \\>= grade 3 AST, ALT, or bilirubin increase or has extensive liver resection (i.e., left lobe resection).\n* Participant has a history of cholecystitis (subject with history of cholecystectomy will not be excluded), or has active gallbladder disease.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

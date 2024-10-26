@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01571518",
+    "briefTitle": "Prevention of Neutropenia After Using G-CSF With TAC Chemotherapy",
+    "officialTitle": "Optimal Timing and Duration of Daily G-CSF With Adjuvant TAC Chemotherapy in Node-positive Breast Cancer;Multicenter, Randomized, Open Label, Clinically IV Phase",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Neutropenia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "frequency of neutropenia",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* primary invasive breast carcinoma with lymph node positive with curative surgery with TAC chemotherapy\n\nExclusion Criteria:\n\n* pregnancy,\n* cardiovascualr disease,\n* abnormal renal function,\n* hematologic disorder",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

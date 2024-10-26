@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00306631",
+    "briefTitle": "A Study to Determine the Antitumor Activity and Evaluate the Safety of MKC-1",
+    "officialTitle": "A Phase 2 Study of Oral MKC-1 Administered Twice Daily for 14 Consecutive Days Every 4 Weeks in Patients With Advanced or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 65,
+    "primaryOutcomeMeasure": "Antitumor activity, based on the objective response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed advanced or metastatic adenocarcinoma of the breast\n* 18 years or older\n* Karnofsky performance status greater than or equal to 70%\n* Radiographic or physical examination evidence of at least one site of unidimensionally-measurable disease, using the Response Evaluation Criteria in Solid Tumors (RECIST) criteria\n* Must have failed both a taxane and an anthracycline, given sequentially or in combination, either in an adjuvant or metastatic setting\n* All acute toxicity of any prior chemotherapy, surgery or radiotherapy must have resolved to National Cancer Institute Common Toxicity Criteria (NCI CTC) Grade less than or equal to 1\n* Lab results, within 10 days of MKC-1 administration:\n\n  * Hemoglobin less than or equal to 9 g/dL\n  * Absolute neutrophil count greater than or equal to 1.5 x 10\\^9/L\n  * Platelet count greater than or equal to 75 x 10\\^9/L\n  * Serum creatinine less than or equal to 1.5 x ULN (upper limit of normal)\n  * AST less than or equal to 2.5 x ULN\n  * Serum albumin greater than or equal to LLN (lower limit of normal)\n  * Total bilirubin less than or equal to ULN\n  * Alkaline phosphatase less than or equal to 2.5 x ULN\n* Signed informed consent\n\nExclusion Criteria:\n\n* Pre-existing hepatomegaly with disease measures greater than or equal to 2 cm below the costal margin, secondary to malignancy\n* Administration of cancer specific therapy within the following periods prior to study drug initiation:\n\n  * chemotherapy less than 3 weeks prior\n  * hormonal therapy less than one week prior\n  * radiation therapy less than 2 weeks prior\n* Be pregnant or lactating; not employing effective birth control\n* Known central nervous system (CNS) metastases unless treated, clinically stable and not requiring steroids\n* Clinical evidence of bowel obstruction, active uncontrolled malabsorption syndromes or a history of total gastrectomy\n* Administration of any investigational agent (therapeutic or diagnostic) within 4 weeks prior to receipt of study medication\n* Uncontrolled hypercalcemia (serum calcium-corrected greater than 12 mg/dL)\n* Serious cardiac condition\n* Any medical conditions that, in the investigator's opinion would impose excessive risk to the patient\n* Patients with previous malignancies unless free of recurrence for at least 5 years except basal cell carcinoma of the skin or carcinoma-in-situ of the uterine cervix\n* Treatment with antiretroviral therapy metabolized through CYP3A4",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

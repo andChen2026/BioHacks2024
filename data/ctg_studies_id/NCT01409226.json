@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01409226",
+    "briefTitle": "3.0 Tesla Magnetic Resonance Imaging for Breast Cancer Detection in High Risk Women",
+    "officialTitle": "A Study to Evaluate 3.0 Tesla Magnetic Resonance Imaging of the Breasts in High Risk Women",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer, BRCA1 Mutation, BRCA2 Mutation",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Percentage of participants with mammographically occult breast cancer detected by 3.0-T MRI",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women at high risk of developing breast cancer as outlined by the American Cancer society (ACS): women with known predisposing mutations (in BRCA1, 2 or PTEN genes), women with first degree relative who is a known carrier or has a 20% or more life time risk of breast cancer.\n* The above high-risk women with a suspicious lesion classified as BIRADS 4 that is detected on mammography. Since the spatial resolution of 3.0-T breast MRI is similar to digital mammography, there is no limitation to the size of the mammographic lesion.\n\nExclusion Criteria:\n\n* Pregnancy or lactating women\n* Contraindications for MRI:\n\n  1. electrical implants (e.g. cardiac pacemakers or perfusion pumps)\n  2. ferromagnetic implants such as aneurysm clips, surgical clips, prostheses, artificial hearts, valves with steel parts, metal fragments, shrapnel, tattoos near the eye, or steel implants\n  3. pre-existing medical conditions including a likelihood of developing seizures or claustrophobic reactions, and any greater than normal potential for cardiac arrest\n  4. weight over 350 lbs\n* Although a women meets our criteria for high risks for breast cancer and has an abnormal mammogram, she will be excluded from our study if her insurer does not provide payment for the breast MRI. The suspicious lesion will be biopsied under mammographic guidance as part of her standard of care. The third party carriers have been reimbursing payment for a breast MRI in these high risk women, especially after the ACS guidelines were released in 2007. Therefore, this outcome is unlikely to occur.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

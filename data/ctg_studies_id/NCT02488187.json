@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02488187",
+    "briefTitle": "Comparison of Preoperative ABUS and MRI in Newly Diagnosed Breast Cancer Patients",
+    "officialTitle": "Comparison of Preoperative Automated Breast Ultrasound (ABUS) and Magnetic Resonance Imaging (MRI) in Newly Diagnosed Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 115,
+    "primaryOutcomeMeasure": "Measure rate of detection of occult breast cancer by ABUS that was not detected by standard imaging",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women (age 18-100) undergoing preoperative evaluation at the University of Kansas Cancer Center (KUCC) for a new diagnosis of breast cancer\n* Patients with a diagnosis of breast cancer by either core needle biopsy or excisional biopsy.\n* Bilateral mammography and hand-held ultrasound (if clinically indicated) performed prior to the MRI and ABUS.\n* If a breast MRI is advised and there is no contraindication to MRI, a breast MRI and ABUS will performed at KUCC (Study Arm 1).\n* If a breast MRI is not performed, an ABUS exam without MRI will be performed (Study Arm 2).\n* The MRI and ABUS exam must be obtained within 2 weeks of each other.\n\nExclusion Criteria:\n\n* Males\n* Pregnant women\n* Lactating women\n* Patients \\< 18 and \\> 100 years of age\n* Patients with breast implants",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

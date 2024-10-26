@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05853848",
+    "briefTitle": "Mammogram Mail- and Phone-based Interventions",
+    "officialTitle": "Randomized Comparison of Mail- and Phone-based Interventions Promoting Mammogram Screening",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 14386,
+    "primaryOutcomeMeasure": "Mammogram completed",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female Geisinger Health Plan members between ages 52 and 74 as of December 31, 2023\n* Overdue for annual mammogram\n* Continuously enrolled with the Geisinger Health Plan as of October 1, 2021\n* Can be contacted via both phone and mail\n\nExclusion Criteria:\n\n* Geisinger Health Plan members on a do-not-contact list\n* Had a mammogram as of October 1, 2021\n* In hospice, using hospice services, or receiving palliative care as of January 1, 2023\n* Medicare members 66 years of age or above at time of outreach, who are institutionalized or have both frailty and advanced illness\n* Had a bilateral mastectomy at any time",
+    "sex": "FEMALE",
+    "minimumAge": "51 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01153282",
+    "briefTitle": "Physical Functional Side Effects of Taxane Chemotherapy for Breast Cancer",
+    "officialTitle": "Physical Functional Side Effects of Taxane Chemotherapy for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Number of interviews",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women 21-70 years old (Women over 70 are offered chemotherapy less frequently because of their risk benefit ratio. Including them would be a selection bias because of their differential underexposure).\n* Initiated taxane-based chemotherapy in the neoadjuvant, adjuvant, or previously untreated metastatic setting.\n* The range of exposure to taxane-based chemotherapy will include women on active treatment having received two cycles, to women who are within three months of their last infusion.\n* Documented symptoms of CIPN per CTCAE grading criteria (half of sample) or NO symptoms (half of sample) Grade 0 = no CIPN symptoms Grade 1 = mild symptoms Grade 2 = moderate symptoms - prescribed Gabapentin (Neurontin) Grade 3\\&4= severe symptoms - treated with Gabapentin (Neurontin), treatment plan altered\n\nExclusion Criteria:\n\n* Physical disabilities - defined by use of assistive devices to complete functional tasks (wheelchair, crutches, prosthetic limbs) prior to starting chemotherapy.\n* Current exposure to neurotoxic agents (Navelbine, platinums or other taxanes)\n* Pregnancy during chemotherapy treatment\n* Diabetes - diagnosed 3 or more years , or insulin dependent, or with clinically established neuropathy\n* Previous exposure to chemotherapy or radiotherapy\n* HIV positive (high risk for neuropathy)\n* Other neurological diseases, such as Multiple Sclerosis\n* Other pre-existing neuropathy",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

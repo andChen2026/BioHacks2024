@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01809171",
+    "briefTitle": "Placebo-controlled Trial With Vitamin D to Prevent Worsening/Relieve Aromatase Inhibitor-induced Musculoskeletal Symptoms in Breast Cancer Patients",
+    "officialTitle": "Placebo-controlled Trial With Vitamin D to Prevent Worsening/Relieve Aromatase Inhibitor-induced Musculoskeletal Symptoms in Breast Cancer Patients",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Musculoskeletal Disease",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "Change from baseline in musculoskeletal pain and 250HD levels",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Postmenopausal status\n* Currently being treated with an AI in the adjuvant setting (minimum for 8 weeks)\n* AIMSS as determined by new or worsened musculoskeletal complaints following AI therapy\n* Vitamin D deficiency (\\<30ng/ml)\n* Caucasian\n\nExclusion Criteria:\n\n* Hormone replacement therapy last 6 months\n* Current use or in the last 12 months of bisphosphonates\n* Tamoxifen use in last 6 months\n* History of kidney stones\n* History of hypercalcemia/hypercalciuria or hyperthyroidism\n* Paget's disease of the bone\n* Current use of Digitalis/digoxin or thiazide diuretics\n* Current use of vitamin D (or multivitamin) supplementation should be stopped",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

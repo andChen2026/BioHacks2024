@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00635713",
+    "briefTitle": "Second Line Breast Cancer Trial",
+    "officialTitle": "A Double-Blind, Randomized, Multi-Center Trial Comparing the Efficacy and Tolerability of 125 and 250mg of Faslodex (Long Acting ICI 182,780) With 1mg Arimidex (Anastrazole) in Postmenopausal Women With Advanced Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 588,
+    "primaryOutcomeMeasure": "time to tumor progression",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* postmenopausal women with confirmation of breast cancer\n* objective evidence of recurrence or progression of breast cancer no more than 1 prior hormonal therapy for breast cancer\n\nExclusion Criteria:\n\n* presence of life-threatening metastatic visceral disease\n* previous treatment with FASLODEX, ARIMIDEX or any aromatase inhibitor for breast cancer\n* more than 1 prior endocrine medical treatment for advanced breast cancer .",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

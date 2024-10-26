@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00191269",
+    "briefTitle": "Gemcitabine Monotherapy for Metastatic Breast Cancer After Anthracycline and Taxane Regimen",
+    "officialTitle": "A Multicenter Study of LY188011 in Anthracyclines and Taxanes Pre-treated Metastatic/Recurrent Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 68,
+    "primaryOutcomeMeasure": "Tumor Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically and/or cytologically confirmed breast cancer\n* Received prior chemotherapy for metastatic breast cancer with anthracycline and taxane regimen\n* To have at least one measurable region\n* PS: 0-1\n* To have adequate organ function (bone marrow, liver and renal function)\n\nExclusion Criteria:\n\n* To have Interstitial pneumonia or pulmonary fibrosis\n* To have inflammatory carcinoma\n* Within 28 days after the latest chemotherapy or radiotherapy, 14 days after the latest hormonal/immunotherapy or 7 days after surgery\n* To have brain metastasis with symptom\n* To have severe complication (cardiac infarction, infection, drug hyper sensitivity or diabetes)",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02479217",
+    "briefTitle": "Safety of Xeloda in Solid Tumours",
+    "officialTitle": "Safety of Xeloda in Solid Tumours",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer, Colon Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1268,
+    "primaryOutcomeMeasure": "Number of Participants with Adverse Events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nMetastatic Breast Cancer:\n\n* women \\>=18 years of age\n* Patients with locally advanced or metastatic breast cancer after failure of cytotoxic chemotherapy.\n* Previous therapy should have included an anthracycline.\n* Patients with locally advanced or metastatic breast cancer after failure of taxanes and an anthracycline-containing chemotherapy regimen or for whom further anthracycline therapy is not indicated.\n* Female patients with histopathologically proven metastatic breast cancer\n* Adequate bone marrow, liver, renal and cardiac functions\n\nColon Cancer:\n\n* Patients \\>18 years of age\n* Patients with histologicaly confirmed colon cancer\n* Patients with potential curative tumor resection within 8 weeks before enrolment in the study\n* Patients previously not treated with chemiotherapy\n\nExclusion Criteria:\n\nMetastatic Breast Cancer:\n\n* Patients previously treated with docetaxel (Taxotere) or capecitabine (Xeloda)\n* Patients with contraindications for any of study drugs as listed in approved SmPC\n\nColon Cancer:\n\n* Patients previously treated with chemiotherapy\n* Patients with contraindications for study drug as listed in approved SmPC",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

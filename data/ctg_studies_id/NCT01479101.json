@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01479101",
+    "briefTitle": "NBRST: Prospective Neo-adjuvant REGISTRY Trial",
+    "officialTitle": "Prospective Neo-adjuvant REGISTRY Trial Linking MammaPrint, Subtyping and Treatment Response: Neoadjuvant Breast Registry - Symphony Trial (NBRST) (Pronounced \"in Breast\")",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1142,
+    "primaryOutcomeMeasure": "Chemosensitivity as defined by pCR",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with histologically proven breast cancer, who have started or are scheduled to start neo-adjuvant chemotherapy therapy or neo-adjuvant hormone therapy, after successful MammaPrint assay\n* Age 18-90\n* Written informed consent\n\nExclusion Criteria:\n\n* Patients who have had excisional biopsy or axillary dissection Patients with confirmed distant metastatic disease\n* Tumor sample shipped to Agendia with \u2264 30% tumor cells or that fails QA or QC criteria\n* Patients who have had any prior chemotherapy, radiotherapy, or endocrine therapy for the treatment of breast cancer\n* Any serious uncontrolled intercurrent infections, or other serious uncontrolled concomitant disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

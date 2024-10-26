@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00810706",
+    "briefTitle": "Adjuvant Post-Tamoxifen Exemestane Trial",
+    "officialTitle": "A Phase III Randomized Parallel-Group Multicenter Trial, Designed to Compare 5 Years of Adjuvant Exemestane Versus 5 Years of Observation in Postmenopausal Women With Operable Breast Cancer Who Have Received 5-7 Years of Adjuvant Tamoxifen.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 448,
+    "primaryOutcomeMeasure": "DFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* postmenopausal women only\n* histologically confirmed stage I-IIIA primary adenocarcinoma of the breast\n* estrogen and/or progesterone receptors positive or unknown\n* patients should have undergone surgery with a curative intent\n* patients must have completed at least 5 years and not more than 7 years of continued treatment with tamoxifen (20 mg/day), while tamoxifen could have been discontinued up to 6 months prior to study entry\n* Absence of any evidence of local or distant metastatic disease was required prior to randomization\n\nExclusion Criteria:\n\n* DCIS, bilateral breast cancer, evidence of metastasis, ER and Pgr negative",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

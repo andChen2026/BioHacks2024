@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03873272",
+    "briefTitle": "The CONTRoL Trial: Cryotherapy vs. cOmpression Neuropathy TRiaL",
+    "officialTitle": "Randomized Controlled Selection Trial of Cryotherapy vs. Compression Therapy for the Prevention of Taxane-induced Peripheral Neuropathy in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "CIPN - Chemotherapy-Induced Peripheral Neuropathy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 63,
+    "primaryOutcomeMeasure": "Proportion of Patients With Successful Outcomes (<5-point Decrease in FACT-NTX From Baseline)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age greater or equal to 18 years.\n* History of stage I-III breast cancer\n* Patient scheduled to be receiving adjuvant or neoadjuvant paclitaxel or docetaxel for at least 12 weeks\n* Signed informed consent\n* Eastern Cooperative Oncology Group (ECOG) performance status \u22642 (Karnofsky \u226560%,)\n\nExclusion Criteria:\n\n* Prior treatment with taxane or platinum based chemotherapy\n* Known history of neuropathy\n* Raynaud's phenomenon\n* Peripheral arterial ischemia\n* Cold intolerance\n* Current use of duloxetine which may mitigate chemotherapy-induced peripheral neuropathy (CIPN)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

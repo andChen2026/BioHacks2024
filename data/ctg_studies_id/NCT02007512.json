@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02007512",
+    "briefTitle": "Efficacy and Safety Study of Enzalutamide in Combination With Exemestane in Patients With Advanced Breast Cancer",
+    "officialTitle": "A PHASE 2, RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED, MULTICENTER STUDY OF EFFICACY AND SAFETY OF ENZALUTAMIDE IN COMBINATION WITH EXEMESTANE IN PATIENTS WITH ADVANCED BREAST CANCER THAT IS ESTROGEN OR PROGESTERONE RECEPTOR-POSITIVE AND HER2-NORMAL",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 247,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS): Intent-to-Treat (ITT) Population By Interactive Web Recognition System (IWRS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Willing and able to provide informed consent;\n* Postmenopausal;\n* Advanced histologically confirmed breast cancer that is ER+, PgR+, or both, and HER-2 normal;\n* Up to one prior hormone therapy and up to one prior chemotherapy in the advanced setting is allowed;\n* Availability of a representative, formalin-fixed, paraffin-embedded tumor specimen that enabled the diagnosis of breast cancer with viable tumor cells in a tissue block or unstained serial slides accompanied bay an associated pathology report;\n* Measurable disease. Patients with non-measurable bone or skin disease as their only manifestation of advanced breast cancer are also eligible;\n* Eastern Cooperative Oncology Group (ECOG) status of 0 or 1;\n\nExclusion Criteria:\n\n* Any severe concurrent disease, infection, or comorbid condition that renders the patient inappropriate for enrollment in the opinion of the investigator;\n* Any condition or reason that interferes with the patient's ability to participate in the trial, that may cause undue risk, or complicates the interpretation of safety data, in the opinion of the investigator;\n* Current or previously treated brain metastasis or leptomeningeal disease;\n* Prior therapy (\\> 28 days) with exemestane in the metastatic setting (Patients receiving exemestane in the adjuvant setting and having disease recurrence more than 1 year after treatment discontinuation are eligible);\n* Requires treatment for tuberculosis or HIV infection;\n* Radiation therapy within 7 days before randomization;\n* History of another invasive cancer within 5 years before randomization;\n* History of seizure or any condition that may predispose to seizure;\n* Clinically significant cardiovascular disease;\n* Active gastrointestinal disorder;\n* Major surgery within 28 days prior to randomization;\n* Treatment with any oral anticancer or with any non-hormonal anticancer agent within 14 days before randomization;\n* Treatment with any approved or investigational agent that blocks androgen synthesis or targets the androgen receptor;\n* Treatments with any of the following medications within 14 days before randomization: Estrogens, Androgens, or Systemic radionuclides;\n* Hypersensitivity reaction to exemestane.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

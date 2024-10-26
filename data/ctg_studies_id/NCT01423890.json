@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01423890",
+    "briefTitle": "A Prospective Cohort Study to Evaluate the Oncotype DX\u00ae Test in Early Stage Breast Cancer",
+    "officialTitle": "A Prospective Cohort Study to Evaluate the Oncotype DX\u00ae Test in Early Stage Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1011,
+    "primaryOutcomeMeasure": "Change in treatment recommendation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women or men with histologic evidence of invasive breast cancer (ductal, lobular or mixed disease).\n* Surgical resection including breast conserving surgery or modified radical mastectomy or simple mastectomy, within the last four months.\n* Axillary lymph nodes assessed for tumor by:\n\n  (i) sentinel node biopsy, or (ii) axillary node dissection, or (iii) both\n* Axillary lymph node assessment negative for cancer, or positive only for micrometastases (i.e., cancer \\<2mm by H\\&E stain).\n* Tumor is estrogen receptor (ER) positive.\n* Receiving or to receive adjuvant endocrine therapy (i.e., tamoxifen or aromatase inhibitor).\n* Being considered for adjuvant chemotherapy.\n\nExclusion Criteria:\n\n* Axillary lymph node positive for cancer.\n* Patients with inoperable locally advanced breast cancer.\n* Metastatic breast cancer, including local ipsilateral recurrence.\n* HER2 neu positive.\n* Physician/Patient unwilling to comply with study protocol.\n* Inability to provide informed consent (e.g. dementia or severe cognitive impairment).",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

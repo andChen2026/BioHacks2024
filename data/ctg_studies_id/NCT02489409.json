@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02489409",
+    "briefTitle": "Recombinant Human Endostatin (EndostarTM) Injection in Treatment of Recurrent Metastatic Breast Cancer",
+    "officialTitle": "EndostarTM Injection Combined With Gemcitabine+Platinum (GP)/Navelbine+Platinum (NP)/Gemcitabine+Xeloda (GX)/Navelbine+Xeloda (NX) in Treatment of Recurrent Metastatic Breast Cancer: A Randomized, Opened and Controlled Clinical Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age: 18\uff5e70 years old;\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) score: 0\uff5e1 score;\n* All patients were diagnosed as recurrent metastatic breast cancer retreatment by histopathology and computed tomography (CT) examination;\n* The measurable nidus\u22651: Patients whose nidus diameter \u2265 20 mm by normal CT or magnetic resonance image (MRI) scanning, and \u2265 10 mm by spiral CT scanning;\n* Patients whose blood routine, hepatorenal function, electrolyte and cardiac function were basically normal without dysfunction of primary organs. White blood cell count (WBC) \u22654.0\u00d7109/L, neutrophile granulocyte count \u22651.5\u00d7109/L, platelet (PLT) count \u2265100\u00d7109/L, hemoglobin (HGB) \u226595 g/L, serum bilirubin (BIL) \u22641.5-fold upper limit of normal value, alanine transaminase (ALT) and aspartate aminotransferase (AST) \u22642-fold upper limit of normal value, and serum creatinine (Scr) \u22641.5mg/dl;\n* The expected survival time \\>3 months;\n* Patients who could understand this study status and had signed the informed consent forms.\n\nExclusion Criteria:\n\n* Patients who had history of allergic responses to biological agents;\n* Patients who were receiving other anti-tumor therapies;\n* Patients without measureable nidus;\n* Others, including one of the following conditions: patients with uncontrolled central nervous system (CNS) metastatic nidi, with dysfunction of important organs and severe cardiac diseases (congestive heart failure, uncontrollable arrhythmia, and angina pectoris, valvular heart disease, myocardial infarction and refractory hypertension that required long-term drug administration), with chronic infectious wound and with history of uncontrollable psychosis, and women in pregnant or lactation period.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02095743",
+    "briefTitle": "Tolerance of PICC Line Versus Implanted Port for Adjuvant Chemotherapy in Early Breast Cancer",
+    "officialTitle": "Phase II Randomised Study Comparing the Tolerance of PICC Line (Peripherally Inserted Central Catheter) and Implanted Port for Adjuvant Chemotherapy in HER2-negative Early Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Early Stage Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 256,
+    "primaryOutcomeMeasure": "Probability of occurrence of a significant adverse event related to the central venous device",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women age \\> 18\n* Documented breast cancer\n* No Her2 overexpression\n* Patients operated with curative intent (no distant metastasis at diagnosis)\n* Patients undergoing an adjuvant chemotherapy consisting of 3 courses of FEC 100 (5-fluorouracil, epirubicin 100mg/m\u00b2 and cyclophosphamide ) followed by 3 courses of Taxotere, or 6FEC100 (according to CHB refencial for localised breast cancer treatment).\n* Signed informed consent\n\nExclusion Criteria:\n\n* Bilateral axillary node dissection\n* History of bilateral upper thoracic irradiation\n* Cutaneous disease (eczema, scleroderma, infection...) at catheter insertion site (arm or upper thorax)\n* Recent thrombosis of the upper body\n* Therapeutic anticoagulation\n* Tracheotomy\n* Treatment for bacteriemia in process\n* Altered hemostasis: INR \\> 1.5 ; APTT \\> 1.5 , platelets \\< 60 G/l\n* Renal failure with creatinine clearance \\< 60mL/min\n* Involvement in another trial\n* Contraindication to chemotherapy by FEC 100 or taxotere\n* Pregnancy or breast feeding\n* Protected major patient (under guardianship).\n* Psychosocial disorders : decompensated mental disorders, no social security coverage, patient who does not speak french",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

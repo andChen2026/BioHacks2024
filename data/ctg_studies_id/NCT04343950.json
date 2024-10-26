@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04343950",
+    "briefTitle": "SMS Messaging as a Tool to Improve Cancer Screening Programs",
+    "officialTitle": "Implementation of Text Messaging (SMS) as an Improvement Tool in Population-based Cancer Screening Programs",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Mass Screening, Colorectal Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 20000,
+    "primaryOutcomeMeasure": "Intervention 1: Participation in colorectal cancer screening program",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eligible individuals for colorectal cancer screening (intervention 1 and 2)\n* Eligible women for breast cancer screening (intervention 3)\n* Registered at the HealthCare Database (RCA)\n\nExclusion Criteria:\n\n* Individuals without a mobile phone number registered at the RCA\n* Opt out from breast cancer screening and/or colorectal cancer screening",
+    "sex": "ALL",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

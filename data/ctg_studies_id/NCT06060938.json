@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06060938",
+    "briefTitle": "Personalized Breast Cancer Screening",
+    "officialTitle": "Population-based Randomized Study Of a Novel Breast Cancer Risk ALgorithm and Stratified Screening",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 962,
+    "primaryOutcomeMeasure": "Rejection of de-escalated screening intensity in the low risk group",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female sex\n* Age between 50 and 67 (both included) years.\n* Invited for the regular breast cancer mammography screening program\n* Signed an informed consent\n\nExclusion Criteria:\n\n* Personal history of breast cancer\n* Known high risk of breast cancer\n* Ethnic origin, for which the risk model has not been validated.",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

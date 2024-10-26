@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03728829",
+    "briefTitle": "Targeted Next Generation Sequencing for the Efficacy of Trastuzumab Neoadjuvant Chemotherapy in Breast Cancer",
+    "officialTitle": "An Observational Phase II Trial of Targeted Next Generation Sequencing Analysis for the Efficacy of Trastuzumab Neoadjuvant Chemotherapy in Patients With HER2 Positive Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Observational, Prospective",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "genetic profile sequenced by a pan-cancer gene panel",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women aged 18-70 years old at the time of diagnosis of primary breast cancer\n* Eastern Cooperative Oncology Group (ECOG) performance status score 0 or 1\n* Stage III breast cancer according to the 7th Edition of Cancer staging Manual of American Joint Committee on Cancer (AJCC)\n* full assessment of ER, PR and HER2 status of primary tumor in accordance with the American Society of Clinical Oncology (ASCO) guidelines\n* pathological diagnosis and all courses of treatment confirmed\n\nExclusion Criteria:\n\n* any known metastatic disease, by physical exam or by imaging studies such as computed tomography (CT)/magnetic resonance imaging (MRI), at the time of study entry\n* any previous exposure to chemotherapy, radiotherapy, or endocrine therapy\n* left ventricular ejection fraction (LVEF) \\< 55% by Echocardiogram (ECHO) or multigated acquisition scan (MUGA) or significant clinical symptoms or signs of heart failure\n* major organ dysfunction, inclusive of bone marrow, renal, liver and hepatic function, that would prohibit patients from receiving standard chemotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

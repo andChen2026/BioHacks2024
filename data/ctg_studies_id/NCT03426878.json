@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03426878",
+    "briefTitle": "Cancer Health Assessments Reaching Many",
+    "officialTitle": "Exome Sequencing in Diverse Populations in Colorado & Oregon",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Hereditary Cancer Syndrome",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 967,
+    "primaryOutcomeMeasure": "Positive findings for hereditary cancer syndromes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Kaiser Permanente Northwest or Denver Health patient\n* Screens as high risk for a hereditary cancer syndrome via the risk assessment tool algorithms OR have unknown family history on either their mother or father's side of the family (or both)\n* No known prior testing for familial mutations predisposing them to Lynch syndrome or hereditary breast and ovarian cancer\n* English or Spanish speaker\n\nExclusion Criteria:\n\n* Participant self-reported prior testing for Lynch syndrome (LS) or Hereditary Breast and Ovarian Cancer (HBOC) syndrome or identified as having previous comprehensive testing via Kaiser Permanente data files\n* Not an English or Spanish speaker\n* Unable to provide informed consent\n* Don't want results placed in their medical record",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02226081",
+    "briefTitle": "ShearWave\u2122 Elastography of Breast Lesions in Chinese Patients",
+    "officialTitle": "Assessment of ShearWave\u2122 Elastography in the Ultrasonic Diagnosis of Breast Cancer in Chinese Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2273,
+    "primaryOutcomeMeasure": "Increase in specificity of breast ultrasound imaging when considering stiffness measurements",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female\n* 18 years of age or older\n* known breast lesion that has not been managed or treated\n* referred for a breast ultrasound because of a breast mass found on at least one of the following examinations:\n\n  * physical palpation\n  * mammography\n  * ultrasound exam\n  * MRI\n\nExclusion Criteria:\n\n* Women who are unwilling or unable to provide informed consent\n* Women with breast implants\n* Women who are pregnant or breastfeeding\n* Women in whom all lesions are diagnostically categorized as BI-RADS 0, 1 or 6\n* Women with previous ipsilateral breast surgery\n* Women with no visible breast mass on ultrasound examination\n* Women with axillary metastatic lymph nodes only\n* Women with foreign body in the breast\n* Women who are not Chinese nationality",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

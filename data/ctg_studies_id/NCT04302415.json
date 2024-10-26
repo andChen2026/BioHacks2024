@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04302415",
+    "briefTitle": "Metabolomics Explores Biomarkers for Metastatic Breast Cancer",
+    "officialTitle": "Clinical Study of Metabolomics-based Approach Explore Biomarkers for Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Metabolites changes of plasma by High Performance Liquid Chromatography-Mass Spectrometry (LC-MS).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age: 18-70 yrs.\n* Any menopausal status.\n* Any hormone receptor status.\n* Patients must have histologically or imaging confirmed breast cancer with visceral metastatic.\n* Patients must have measurable disease, per RECIST criteria v1.1.21.\n* Estimated life expectancy of \u2265 12 weeks.\n* Ability to swallow oral medications.\n* Participants must have adequate organ function as defined by:\n\n  1. ANC \u22651.5 x 109/L, platelet count \u2265100 x 109/L, haemoglobin \u2265 10 g/dL.\n  2. creatinine \\< 1.5 x UNL (upper normal limit).\n  3. Total bilirubin \\< 1.5x UNL.\n  4. ALT \\& AST \\< 2.5xUNL; alkaline phosphatase \\< 2.5xUNL.\n  5. Creatine phosphokinase (CPK) \u2264 2.5 x UNL.\n* Patients with CNS metastatic disease are allowed if the disease is controlled and stable for at least 3 months by CT or MRI.\n\nExclusion Criteria:\n\n* Current severe, uncontrolled systemic disease (e.g. pulmonary, or metabolic disease; wound healing disorders; ulcers; or bone fractures).\n* History of other malignancies.\n* No measureable lesion is present, as defined by RECIST 1.1.\n* Patients who suffer from a medical or psychiatric condition that, in the opinion of the principal investigator, would impair their ability to participate in the study.\n* Concurrent interventional studies.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

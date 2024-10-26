@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02934360",
+    "briefTitle": "TR(ACE) Assay Clinical Specimen Study",
+    "officialTitle": "Evaluation of the TR(ACE) Assay for the Ability to Aid in Monitoring Disease Progress, Response to Therapy or for Recurrent or Residual Disease for Patients With Previously Diagnosed Cancers (Stage III and IV Lung and Stage IV Breast)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Carcinoma, Non-Small-Cell Lung, Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 450,
+    "primaryOutcomeMeasure": "Clinical Assessment change",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Non-small cell lung: Male or Female Adult patient \\>= 21 years old\n* Breast only: Female Adult patient \\>= 21 years old\n* Previously diagnosed with one of the following cancers:\n\nBreast or Non-small Cell Lung\n\n* Cancer has progressed to at least Stage III or higher for lung cancer or,\n* Cancer has progressed to stage IV (metastatic) breast cancer\n* Participating in standard of care cancer therapy requiring frequent treatments, typically intravenous chemotherapy visits (or as determined by the standard of care for the particular cancer assessed), of a minimum of three (3) treatment visits planned in 9 months from date of enrollment where a clinical assessment will be conducted\n\nExclusion Criteria:\n\n* Physician assessment that obtaining two extra whole blood specimens with minimum volume of 5 mL per treatment visit is contraindicated\n* Stage I and II Non-small Cell Lung Cancer\n* Stage I through III breast cancer\n* Pregnant or planning to become pregnant during the course of the study\n* Unable to obtain informed consent from subject or their legal representative\n* Life expectancy is less than 9 months\n* Presence of one or more of the following other chronic diseases\n* Another type of cancer except for non-melanomatous skin tumors\n* Autoimmune disease requiring DMARDS or Biologics\n* Infectious disease requiring prolonged intravenous antibiotics or hospitalization\n* Renal disease specifically those in End Stage Renal Failure\n* Recent (\\< 3 weeks) major trauma or major surgical procedure(s) or radiation therapy prior to enrollment in the study\n* Recent (\\< 2 months) major occlusive arterial event such as MI or CVA prior to enrollment in the study",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

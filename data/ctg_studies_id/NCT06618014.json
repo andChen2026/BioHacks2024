@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06618014",
+    "briefTitle": "Neoadjuvant Toripalimab Plus Liposomal Paclitaxel and Carboplatin in Patients With Localized TNBC (NeoTOP)",
+    "officialTitle": "A Single-Arm Phase II Trial of Neoadjuvant Toripalimab, Liposomal Paclitaxel, Plus Carboplatin in Patients With Localized Triple-Negative Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "Pathological complete response (pCR) rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathologically confirmed TNBC. ER and PR negatives are defined as \\< 10% of cells expressing hormone receptors by IHC analysis. HER2 negative is defined as IHC 0 or 1+, or ISH-negative.\n* Treatment-naive clinical stage T1-4N1-N3 or T2-4N0 localized TNBC.\n* Female patients aged \u226518 years, \\< 70 years.\n* Able to comply with the required protocol and follow-up procedures.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.\n* Life expectancy \u226512 weeks.\n* Adequate hematological function: Absolute neutrophil count (ANC) \u22651.5 x 109/L, and Platelet count \u226590 x 109/L, and Hemoglobin \u226590 g/L (may be transfused to maintain or exceed this level).\n* Adequate liver function: Total bilirubin \u2264 1.5 x upper limit of normal (ULN), Aspartate aminotransferase (AST), alanine aminotransferase (ALT) \u2264 1.5 x ULN.\n* Adequate renal function: Serum creatinine \u2264 1.5 x ULN, and creatinine clearance \u2265 50 ml/min.\n* Subjects should not be pregnant or breast-feeding.\n\nExclusion Criteria:\n\n* Inflammatory breast cancer or stage IV breast cancer.\n* Prior systemic antitumor treatment for any malignancy, including chemotherapy, radiotherapy, immunotherapy and targeted therapy.\n* History of another malignancy in the last 5 years with the exception of the following: other malignancies cured by surgery alone and having a continuous disease-free interval of 5 years are permitted. Cured basal cell carcinoma of the skin and cured in situ carcinoma of the uterine cervix are permitted.\n* Inability to comply with protocol or study procedures.\n* Subjects with active, known or suspected autoimmune disease. Subjects in conditions not expected to recur in the absence of an external trigger, or not requiring systemic treatment are permitted to enroll.\n* Previous history of interstitial lung disease/pneumonia.\n* Patient who has had an allogeneic tissue/solid organ transplant.\n* A serious concomitant systemic disorder that, in the opinion of the investigator, would compromise the patient's ability to complete the study.\n* A serious cardiac condition, such as myocardial infarction within 6 months, angina, or heart disease.\n* Any unstable systemic disease (including active infection, uncontrolled hypertension, unstable angina, congestive heart failure, myocardial infarction within the previous year, serious cardiac arrhythmia requiring medication, hepatic, renal, or metabolic disease).\n* Patient who has active serious infection (e.g. pyrexia of or 38.0\u2103 over)\n* Known history of testing positive for human immunodeficiency virus (HIV) or known acquired immunodeficiency syndrome (AIDS).\n* Women who are pregnant or nursing.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

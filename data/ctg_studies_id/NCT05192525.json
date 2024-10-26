@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05192525",
+    "briefTitle": "The Effects of a Nurse-led MHealth Program for Symptom Self-management of Breast Cancer Patients Undergoing Chemotherapy",
+    "officialTitle": "The Effects of a Nurse-led MHealth Program for Symptom Self-management of Breast Cancer Patients Undergoing Chemotherapy in Shanghai: a Randomized Controlled Pilot Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Chemotherapeutic Toxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 76,
+    "primaryOutcomeMeasure": "Change from Baseline Score of the Strategies Used by People to Promote Health (SUPPH) at week 3 (T1) and week 6 (T2)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* People who are 18 years or above\n* Newly diagnosed with breast cancer\n* Commencing chemotherapy and being prescribed with four cycles of a chemotherapy regimen\n* Mobile phone and WeChat\u00ae users (a mobile application of Shenzhen city's Tencent computer system Co. Ltd.)\n* Wi-Fi or 4G network users\n* Able to read and write Chinese\n\nExclusion Criteria:\n\n* People who are pregnant\n* Have been diagnosed with terminal-stage breast cancer (i.e., stage IV)\n* Have a history of chemotherapy\n* Have been prescribed with targeted therapy within three weeks of completing the chemotherapy\n* Have documented mental disorders\n* Have already engaged in other mHealth studies",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

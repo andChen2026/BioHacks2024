@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01506609",
+    "briefTitle": "Study Evaluating Efficacy And Tolerability Of Veliparib in Combination With Temozolomide (TMZ) or In Combination With Carboplatin and Paclitaxel Versus Placebo in Participants With Breast Cancer Gene (BRCA)1 and BRCA2 Mutation and Metastatic Breast Cancer",
+    "officialTitle": "A Randomized, Phase 2 Study of the Efficacy and Tolerability of Veliparib in Combination With Temozolomide or Veliparib in Combination With Carboplatin and Paclitaxel Versus Placebo Plus Carboplatin and Paclitaxel in Subjects With BRCA1 or BRCA2 Mutation and Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 294,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed breast cancer that is either locally recurrent or metastatic.\n* Locally recurrent disease must not be amenable to surgical resection or radiation with curative intent.\n* Must have a documented deleterious Breast Cancer Gene BRCA1 or BRCA2 germline mutation.\n* If Human Epidermal Growth Factor Receptor (HER2) positive, subjects must have received and progressed on at least one prior standard HER2 directed therapy or the subject must be ineligible to receive anti-HER2 therapy.\n* Measurable or non-measurable (but radiologically evaluable) disease by RECIST (Response Evaluation Criteria in Solid Tumors) criteria 1.1.\n* Eastern Cooperative Oncology Group (ECOG) Performance Score of 0-2.\n* Subject must have adequate bone marrow, renal and hepatic function.\n* Subject must not be pregnant or plan to conceive a child.\n\nExclusion Criteria:\n\n* Received anticancer agent(s) or an investigational agent within 21 days prior to C1D1, or radiotherapy within 28 days prior Cycle 1 Day 1.\n* More than 2 prior lines of cytotoxic chemotherapy.\n* Prior treatment of breast cancer with temozolomide, a platinum agent, or a Poly (ADP ribose) Polymerase (PARP) inhibitor.\n* Prior taxane therapy for metastatic breast cancer.\n* A history of or evidence of brain metastases or leptomeningeal disease.\n* A history of uncontrolled seizure disorder.\n* Pre-existing neuropathy from any cause in excess of Grade 1.\n* Known history of allergic reaction to cremophor/paclitaxel.\n* Clinical significant uncontrolled conditions, active infection, myocardial infarction, stroke, or transient ischemic attack, psychiatric illness/social situations that would limit compliance.\n* Pregnant or breastfeeding.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

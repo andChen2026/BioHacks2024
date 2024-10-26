@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01849380",
+    "briefTitle": "Neoadjuvant ECS Versus ECF in Local Advanced Breast Cancer",
+    "officialTitle": "Neoadjuvant Epirubicin-cyclophosphamide-S-1 (ECS) Versus Epirubicin-cyclophosphamide-5-FU (ECF) in Local Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms, Neoadjuvant Therapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 240,
+    "primaryOutcomeMeasure": "Pathological complete response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Disease characteristic:\n\n  * Histologically confirmed primary breast cancer by core biopsy (Mammotome or bard needle)\n  * Disease stage appropriate for neoadjuvant chemotherapy (T\u22653cm, N0 or T\uff082-3cm\uff09N1 or any T, N2)\n  * Her-2(-); Ki67\u226514%\n  * No previous treatment for breast cancer (chemotherapy, endocrinotherapy, radiotherapy)\n* Patients characteristic:\n\n  * Female patients, age 18 to 70 years old\n  * Performance Status- Eastern Cooperative Oncology Group (ECOG) 0-2\n  * Life expectancy of at least 12 weeks\n  * Willing to be kept follow-up\n  * Functions below are maintained in major organs:\n  * Cardiac status:\n\nLVEF: 50% 45% \u2022 Haematopoietic status: Leukocyte count: \u22654.0\u00d7109/L Neutrophil count: \u22652.0\u00d7109/L Platelet count: \u2265100\u00d7109/L Hemoglobin: \u226580g/L\n\n\u2022 Hepatic status: Total Bilirubin \u2264 1.5 x upper limit of normal (ULN), AST and ALT \u2264 2.5 times ULN(no liver metastasis) bilirubin:\n\n\u2022 Renal status: BUN \u2264 1.5 x times ULN Creatinine \u22641.5 times ULN or calculated creatinine clearance, using the Cockcroft-Gault formula, \u226550 mL/min; Women's Ccr = Body weight x (140-Age)/(72 x Serum creatinine) x 0.85\n\n\u2022 Written informed consent (both biopsy and neoadjuvant chemotherapy) will be obtained for patients for entering this study\n\nExclusion Criteria:\n\n* Previous treatment for breast cancer (neither local nor systemic therapy)\n* Known or suspected distant metastasis\n* Potentially pregnant, pregnant, or breast-feeding\n* Drug allergy\n* Concurrent malignancy or history of other malignancy (except Hodgkin lymphoma)\n* Currently active severe infection (Hepatitis included)\n* History of significant neurological or psychiatric disorders including psychotic disorders, dementia or seizures\n* Known history of uncontrolled severe heart disease, myocardial infarction within 6 months, congestive heart failure, unstable angina pectoris, clinically significant hydropericardium or unstable arrhythmias",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

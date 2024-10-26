@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05306600",
+    "briefTitle": "Onco-Genomas Brasil: Mapping Breast and Prostate Cancer in the Brazilian Public Health System",
+    "officialTitle": "Onco-Genomas Brasil: Mapping Breast and Prostate Cancer in the Brazilian Public Health System",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Prostate Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 882,
+    "primaryOutcomeMeasure": "To characterize complete somatic and germline exomes/genomes in a Brazilian population",
+    "eligibilityCriteria": "Inclusion criteria for breast cancer patients (Arm 1):\n\n* Women aged \u2265 18 years;\n* Brazilian nationality;\n* After review at the Hospital Moinhos de Vento, confirmed histological diagnosis of breast carcinoma with overexpression of HER2 (classified by immunohistochemistry as 3+ or 2+ with positive in-situ hybridization) or triple-negative (estrogen and progesterone receptors \\<1% and no overexpression of HER2);\n* Clinical stage II or III for HER2-positive and I, II and III for triple-negative patients - American Joint Committee on Cancer (AJCC) 8th edition;\n* HER2- positive patients: must undergo neoadjuvant chemotherapy plus trastuzumab in the following regimens: anthracycline (doxorubicin or epirubicin) followed by taxane (docetaxel or paclitaxel), combined with trastuzumab, or a non-anthracycline option consisting of taxane (docetaxel or paclitaxel) combined with carboplatin and trastuzumab;\n* Triple-negative patients: must undergo neoadjuvant chemotherapy without immunotherapy in the following regimens: anthracycline (doxorubicin or epirubicin) followed by taxane (docetaxel or paclitaxel) with/ without platins (carboplatin ou cisplatin) or a regimen without anthracycline (taxane with/without platins)\n* Patients must provide written informed consent prior to inclusion\n\nInclusion criteria for patients with prostate cancer (Arm 2):\n\n* Men aged \u2265 18 years;\n* Confirmed histological diagnosis of prostate adenocarcinoma;\n* AJCC 8th edition clinical stage IV;\n* Patients must provide written informed consent.\n\nExclusion criteria for Arms 1 and 2:\n\n* No available paraffin-embedded tumor tissue for genomic analysis;\n* Inability to collect blood for genomic evaluation.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

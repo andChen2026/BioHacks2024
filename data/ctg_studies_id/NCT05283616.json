@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05283616",
+    "briefTitle": "Reduced Dose of Pegfilgrastim as Support for Chemotherapy for Breast Cancer",
+    "officialTitle": "A Randomized Controlled Study Comparing Different Doses of Pegfilgrastim as Support for Adjuvant Chemotherapy for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neutropenia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 122,
+    "primaryOutcomeMeasure": "timely recovery of ANC",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female aged 18-69 years\n* diagnosed pathologically as early breast cancer\n* with indication for adjuvant chemotherapy and suitable for AC regimen (epirubicin and cyclophosphamide, or pirarubicin and cyclophosphamide, planned chemotherapy with taxanes after AC regimen were allowed)\n* received no prior chemotherapy (chemotherapy na\u00efve)\n* have Karnofsky performance status \u2265 80,\n* baseline hemoglobin \u226590g/L, white blood cell count \u22654.0X10\\^9/L,ANC\u22652.0X10\\^9/L, platelet count \u2265100X10\\^9\n* adequate cardiac, hepatic and renal function\n\nExclusion Criteria:\n\n* enrolled onto or had not yet completed other investigational drug trials\n* allergic to any component of PEG-rhG-CSF injection, or other biological products derived from genetically engineering Escherichia coli;\n* pregnant or lactating women;\n* previous large volume radiotherapy, or prior bone marrow or stem-cell transplantation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

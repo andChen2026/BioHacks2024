@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06491680",
+    "briefTitle": "Cardiotoxicity in Breast Cancer Patients",
+    "officialTitle": "Evaluation of the Cardioprotective Effect of Dapagliflozin on Anthracyclines-Induced Cardiotoxicity in Breast Cancer Patients",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "N-terminal pro-B-type natriuretic peptide (NT-pro BNP) testing",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. patients with pathologically proved invasive breast carcinoma.\n2. Patients were indicated for anthracyclines containing adjuvant chemotherapy or new adjuvant anthracyclines.\n3. Renal function (eGFR \\> 30 mL/minute per 1.73 m2 )\n4. LVEF is more than 50 %\n5. Age \u2265 18 and \u2264 60 years old\n\nExclusion Criteria:\n\n1. patients with any cardiac condition that contraindicate the use of anthracyclines, like heart failure, arrythmia, stroke and myocardial infarction.\n2. Previous anthracycline-containing regimens and any cardiotoxic chemotherapy regimens\n3. pregnant or breastfeeding patients\n4. patients receiving any other cardiotoxic agents.\n5. Patients with diabetic ketoacidosis or patients with type 1 diabetes mellitus.\n6. Mediastinal irradiation including heart.\n7. Refusal to sign the written informed consent.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

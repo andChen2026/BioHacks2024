@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00669591",
+    "briefTitle": "A Safety and Efficacy Study of Bavituximab Plus Docetaxel in Patients With Advanced Breast Cancer",
+    "officialTitle": "A Phase II Safety and Efficacy Study of Bavituximab Plus Docetaxel in Patients With Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "Overall response rate (complete response + partial response) to a combination of bavituximab plus docetaxel in patients with metastatic breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult females over age 18 with life expectancy of at least 3 months\n* Histologically or cytologically confirmed locally advanced or metastatic breast cancer\n* One and only one prior chemotherapy regimen (no prior docetaxel)\n* Measurable disease (at least one target lesion)at least 2 cm in longest diameter (1 cm by spiral CT)\n* Adequate hematologic, renal, and hepatic function;\n\nExclusion Criteria:\n\n* Known history of bleeding diathesis or coagulopathy\n* Any current evidence of clinically significant bleeding\n* Any history of thromboembolic events\n* Concurrent hormone therapy\n* Prior immunotherapy or radiotherapy to an area of measurable disease unless disease has recurred after radiotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

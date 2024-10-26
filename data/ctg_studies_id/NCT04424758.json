@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04424758",
+    "briefTitle": "Testing Video Information About Mammography Screening",
+    "officialTitle": "Testing Video Information About Mammography Screening in a Randomized Design",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "Choice: proportion of participants in favor of mammography screening",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants eligible for the study includes all men and women age 18-75.\n\nExclusion Criteria:\n\n* None",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

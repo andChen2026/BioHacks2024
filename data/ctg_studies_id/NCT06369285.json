@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06369285",
+    "briefTitle": "A Study of Alisertib in Combination with Endocrine Therapy in Patients with HR-positive, HER2-negative Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "A Phase 2 Study of Alisertib in Combination with Endocrine Therapy in Patients with HR+, HER2-negative Recurrent or Metastatic Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Hormone Receptor Positive HER-2 Negative Breast Cancer, Metastatic Breast Cancer, Recurrent Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Objective Response Rate (ORR) Within Dose Subgroup",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged \u226518 years at signing of informed consent.\n* Pathology-confirmed diagnosis of adenocarcinoma of the breast with evidence of recurrent or metastatic disease not amenable to curative therapy.\n* Progression on or after treatment with at least two prior lines of endocrine therapy in the recurrent or metastatic setting. a. If metastatic disease recurrence occurs during or within six months of discontinuing adjuvant endocrine therapy, then that endocrine therapy will count as one line of prior therapy.\n* Participants must have received a CDK4/6i in combination with endocrine therapy in the recurrent or metastatic setting.\n* HR-positive and HER2-negative tumor status reported per local laboratory testing. HR and HER2 testing must be performed consistent with current American Society of Clinical Oncology/College of American Pathologists (ASCO/CAP) or European Society of Medical Oncology (ESMO) guidelines:\n\nExclusion Criteria:\n\n* Treatment with chemotherapy in the recurrent or metastatic setting.\n* Prior treatment with an Aurora Kinase A (AURKA) specific-targeted or pan-Aurora-targeted agent, including alisertib, in any setting.\n\nNote: There are additional inclusion and exclusion criteria. The study center will determine if you meet all of the criteria.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

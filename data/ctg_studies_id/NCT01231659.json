@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01231659",
+    "briefTitle": "Safety and Efficacy of RAD001 (Everolimus) in Combination With Letrozole in the Treatment of Postmenopausal Women With Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "Phase II Open Label Study of RAD001 (Everolimus) in Combination With Letrozole in the Treatment of Postmenopausal Women With Locally Advanced or Metastatic, Estrogen Receptor Positive Breast Cancer, After Failure of Tamoxifen and/or Anastrozole and/or Letrozole and/or Fulvestrant and/or Exemestane",
+    "overallStatus": "COMPLETED",
+    "conditions": "Postmenopausal Women, Locally Advanced Metastatic Breast Cancer, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 72,
+    "primaryOutcomeMeasure": "Percentage of Participants With Overall Response Rate (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Postmenopausal women with estrogen receptor positive locally advanced or metastatic breast cancer after documented recurrence or progression on Tamoxifen, Anastrozole or Examestane.\n\n  * Refractory disease to hormonal therapy is defined as:\n\n    1. Recurrence while on, or within 12 month of end of, adjuvant treatment with Tamoxifen , Anastrozole, or Exemestane.\n    2. Recurrence while on, or within 24 month of end of, adjuvant treatment with Letrozole.\n    3. Progression while on Tamoxifen, Anastrozole or Exemestane treatment for locally advanced or metastatic breast cancer.\n\nExclusion Criteria:\n\n* Prior use of chemotherapy and letrozole for Advanced Breast Cancer and mTOR inhibitors as the last anticancer treatment prior to study entry.\n* Patients must have radiological evidence of recurrence or progression on last therapy prior to study entry.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

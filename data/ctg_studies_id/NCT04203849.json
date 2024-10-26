@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04203849",
+    "briefTitle": "Prospective Cohort Study of Breast Cancer Patients Treated With Radiotherapy",
+    "officialTitle": "Prospective Cohort Study for Identifying Factors Predicting Clinical Outcomes of Breast Cancer Patients Treated With Radiotherapy",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 5000,
+    "primaryOutcomeMeasure": "local and regional lymphnode control, free-recurrence, survival period",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* scheduled to be a radiotherapy at National cancer center\n* agreed to participate in the study\n\nExclusion Criteria:\n\n- disagreed to participate in the study",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

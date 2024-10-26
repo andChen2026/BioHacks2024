@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03214419",
+    "briefTitle": "Study First Step to Virtual Breast Cancer Localization",
+    "officialTitle": "Anatobreast : First Step to Virtual Breast Cancer Localization",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Comparison of breast tumor localization obtained with the novel technique with the localization obtained with radioguided occult lesion localization",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* diagnosis of breast cancer by core needle bipsy\n* aged 18 years or more\n* who had a preoperative magnetic resonance imaging\n* who had a preoperative 3D optical scan\n* who had two intraoperative optical scans (with and without pen marking for tumor localisation\n* who had a preoperative radioguided occult lesion localization\n* who had a breast conservation surgery\n* not opposed to the use of their personal health data.\n\nExclusion criteria:\n\n* patients aged under 18\n* requiring tutorship or guardianship\n* who had neoadjuvant therapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

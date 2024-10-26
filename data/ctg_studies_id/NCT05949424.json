@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05949424",
+    "briefTitle": "OPTI - DOSE: Optimal Dosing of Oral Anticancer Drugs in Older Adults",
+    "officialTitle": "Optimal Dosing of Oral Anticancer Drugs in Older Adults With Cancer: a Randomized Pilot Study.",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Renal Cell Carcinoma, Ovarian Carcinoma, Thyroid Carcinoma, Breast Carcinoma, Endometrium Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Feasibility of investigating whether a lower starting dose with step-up approach leads to a better overall treatment utility compared to standard dosing",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients \u2265 65 years of age.\n* Indication for starting treatment with pazopanib (for renal cell carcinoma), olaparib (for ovarian carcinoma), lenvatinib (as monotherapy for thyroid carcinoma, or in combination with pembrolizumab for renal cell carcinoma or endometrium carcinoma), sunitinib (for renal cell carcinoma) or palbociclib (for breast carcinoma).\n* No contra-indications for starting treatment at the recommended starting dose as per SmPC.\n* All patients must provide written informed consent prior to enrolment.\n\nExclusion Criteria:\n\n\u2022 Planned starting dose lower than the recommended starting dose as per SmPC\n\nFor Pazopanib:\n\n* Use of a strong CYP3A4-inhibitor or PgP-inhibitor\n* Creatinine clearance \\<30ml/min\n* Moderate or severe hepatic impairment (bilirubin \\>1.5x ULN)\n\nFor Olaparib:\n\n* Use of a moderate or strong CYP3A4-inhibitor\n* Creatinine clearance \\<50 ml/min\n* Severe hepatic impairment (Child-Pugh 10-15)\n\nFor Lenvatinib:\n\n* Creatinine clearance \\<30ml/min\n* Severe hepatic impairment (Child-Pugh score 10-15)\n\nFor Sunitinib:\n\n* Use of a strong CYP3A4-inhibitor\n* Use of a strong CYP3A4-inducer\n\nFor Palbociclib:\n\n* Use of a strong CYP3A4-inhibitor\n* Severe hepatic impairment (Child-Pugh score 10-15)\n* Other findings at interview or physical examination that hamper compliance to the study protocol",
+    "sex": "ALL",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

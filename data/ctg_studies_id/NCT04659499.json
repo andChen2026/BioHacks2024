@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04659499",
+    "briefTitle": "Nab-paclitaxel in Combination With Pyrotinib in Postoperative Adjuvant Therapy for HER2-positive Breast Cancer",
+    "officialTitle": "A Multicenter, Open-label, Single-arm, Phase II Clinical Trial of Nab-paclitaxel in Combination With Pyrotinib in Adjuvant Therapy for Lymph Node-negative and Small Tumor HER2-positive Breast Cancer",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Early Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 261,
+    "primaryOutcomeMeasure": "3-year-DFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Enrollment subjects must have a pathological diagnosis of HER2-positive primary invasive breast cancer with an immunohistochemistry (IHC) score of 3 +, or 2 + and HER2 gene amplification by in situ hybridization (ISH) (ratio of HER2/CEP17 \u2265 2.0).\n* The invasive tumor had to measure no more than 3cm and with histologically confirmed lymph node-negative or one lymph node micrometastasis (T \u2264 3 cm, N0/N1mi, M0).\n* Tumor should has known ER/PR hormone receptor status.\n* All patients must be women above18 years old with Eastern Cooperative Oncology Group score 0 to 1.\n* Adequate hematopoietic function and organ function as defined as follows: neutrophil count \u2265 1.5 x 109/L; Platelet count \u2265 90 \u00d7 109/L; Hemoglobin \u2265 90 g/L; total bilirubin \u2264 1.5 \u00d7 ULN; alanine transaminase (ALT) and aspartate transaminase (AST) \u2264 3 \u00d7 ULN; serum creatinine Cr \u2264 1.5 \u00d7 ULN and creatinine clearance \u2265 50 mL/min (Cockcroft-Gault formula).\n* left ventricular ejection fraction (LVEF) \u2265 50% and Electrocardiogram Fridericia-corrected QT interval (QTcF) \u2264 480 ms.\n* Provide written informed consent.\n\nExclusion Criteria:\n\n* Clinical or radiologic evidence of local or regional recurrence of disease or metastatic disease prior to or at the time of study entry.\n* Previous treatment with chemotherapeutic drugs, or tyrosine kinase inhibitors targeting HER2 (lapatinib, neratinib or pyrotinib, etc.).\n* Other malignancies within the past 5 years, excluding cured cervical carcinoma in situ, cutaneous basal cell carcinoma, or cutaneous squamous cell carcinoma.\n* Inability to swallow, chronic diarrhea, or intestinal obstruction.\n* Known to be allergic to the drug components.\n* Have a history of immunodeficiency, including HIV positive, HCV positive, active viral hepatitis B or other immunodeficiency diseases.\n* Have a history of organ transplantation.\n* Pregnant, lactating female patients, or female patients who are unwilling to take effective contraceptive.\n* Any heart disease, including: (1) arrhythmia; (2) myocardial infarction; (3) heart failure.\n* Any other concomitant diseases assessed by investigator as unsuitable for study.\n* Previous history of definite neurological or psychiatric disorders.\n* Concomitant use of CYP3A4 inhibitors or inducers or drugs that prolong the QT interval.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

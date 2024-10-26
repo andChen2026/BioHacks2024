@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05892380",
+    "briefTitle": "The Clinical Value of an Artificial Intelligence System Using Abbreviated Protocol of Breast MRI Facilitates Classification of Breast Lessions",
+    "officialTitle": "The Clinical Value of an Artificial Intelligence System Using Abbreviated Protocol of Breast MRI Facilitates Classification of Breast Lessions",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 800,
+    "primaryOutcomeMeasure": "Comparison between the diagnostic performance of\u3010AP breast MRI + AI\u3011 vs. \u3010Radiologist\u3011, using the pathological results as golden standard,",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with breast lesions detected by ultrasound and mammography that cannot be characterized\n2. Patients who were consecutively included in our hospital for breast MRI without treatment\n3. Underwent preoperative full-protocol breast MRI\n4. Pathological results are available, of which benign lesions can be determined by follow-up\n\nExclusion Criteria:\n\n1. Poor MRI image quality\n2. Patients who have been received the biopsy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00379132",
+    "briefTitle": "131-I-TM-601 Study in Adults With Solid Tumors",
+    "officialTitle": "A Phase I Imaging and Safety Study of Intravenous 131-I-TM-601 Labeled Chlorotoxin in Patients With Recurrent or Refractory Somatic and/or Cerebral Metastatic Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Non-Small Cell Lung Cancer, Melanoma, Colorectal Cancer, Pancreatic Cancer, Prostate Adenocarcinoma, Glioma, Primary Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "To evaluate whether intravenous (IV) 131-I-TM-601 provides tumor-specific localization in patients with recurrent or refractory metastatic (including brain metastases) solid tumors",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed recurrent or refractory primary solid tumor malignancy. Primary tumor cell type is one of the following: breast, non-small cell lung, melanoma, colorectal, prostatic adenocarcinoma (hormone refractory) or glioma. Note: Patients with a primary solid tumor cell type not listed above, meeting all other selection criteria may be considered eligible, on a case by case basis\n* Demonstration of distant metastatic involvement as seen with standard clinical non-invasive imaging techniques (CT/MRI) or on biopsy. Note: on a case-by-case basis, patients with a locally recurrent, unresectable (inoperable) tumor may be considered for inclusion\n* Refractory to standard curative treatment\n* At least 18 years of age\n* Baseline Karnofsky Performance Status (KPS) of 60-100%\n* Life expectancy, based on investigator judgement, of greater than 3 months\n* Adequate organ and marrow function (as defined in protocol)\n* Women of child-bearing potential must have a negative pregnancy test, refrain from nursing, and must agree to use appropriate contraception for the duration of the trial\n\nExclusion Criteria:\n\n* Prior cytotoxic chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study\n* Patients who have not sufficiently recovered from adverse events due to previously administered agents\n* Concurrent treatment with investigational or commercial agents or therapies administered with the intent to treat the patient's malignancy, including chemotherapy, immunotherapy, biological response modifiers, or palliative radiotherapy. Possible exceptions (at the discretion of the investigator) are for hormonal therapy for breast and prostate cancer, hematologic, analgesic, biphosphonate, and any other form of supportive therapy.\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to 131-I-labeled chlorotoxin (e.g. iodine or iodine-containing drugs)\n* Patients with uncontrolled intercurrent illness.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

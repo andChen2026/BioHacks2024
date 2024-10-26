@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01562873",
+    "briefTitle": "Ruxolitinib in Patients With Breast Cancer",
+    "officialTitle": "Phase II Study of Ruxolitinib (INCB018424) in Patients With PSTAT3+ Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 21,
+    "primaryOutcomeMeasure": "Objective Response Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed invasive breast cancer\n* Must have known ER, PR and HER2 status\n* Either, Triple Negative Metastatic Breast Cancer or\n* Inflammatory Breast Cancer with any ER, PR HER2 status\n* Availability of archival tissue specimen suitable for pStat3 testing\n* Life expectancy of greater than 3 months\n* Measurable disease by RECIST\n* At least one prior chemotherapy regimen for treatment of metastatic breast cancer and/or recurrence within 12 months of completion of neoadjuvant/adjuvant chemotherapy or\n* For patients with inflammatory breast cancer but no distant metastases, progression through standard neoadjuvant chemotherapy is required\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding\n* Active brain metastases\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to ruxolitinib\n* Clinically significant malabsorption syndrome\n* Concurrent use of medications/substances that are strong inhibitors of CY3A4\n* No uncontrolled intercurrent illness",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

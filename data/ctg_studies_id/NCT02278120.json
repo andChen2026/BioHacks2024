@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02278120",
+    "briefTitle": "Study of Efficacy and Safety in Premenopausal Women With Hormone Receptor Positive, HER2-negative Advanced Breast Cancer",
+    "officialTitle": "A Phase III Randomized, Double-blind, Placebo-controlled Study of LEE011 or Placebo in Combination With Tamoxifen and Goserelin or a Non-steroidal Aromatase Inhibitor (NSAI) and Goserelin for the Treatment of Premenopausal Women With Hormone Receptor Positive, HER2-negative, Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 672,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS) by Investigator Assessment",
+    "eligibilityCriteria": "Key inclusion criteria:\n\n* Patients had advanced (locoregionally recurrent or metastatic) breast cancer not amenable to curative therapy\n* Patients were premenopausal or perimenopausal at the time of study entry\n* Patients who had received (neo) adjuvant therapy for breast cancer were eligible\n* Patients had a histologically and/or cytologically confirmed diagnosis of estrogen-receptor positive and/or progesterone receptor positive breast cancer\n* Patients had HER2-negative breast cancer\n* Patients must have either had measurable disease or If no measurable disease was present, then at least one predominantly lytic bone lesion\n* Patients had an Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Patients had adequate bone marrow and organ function\n\nKey exclusion criteria:\n\n* Patients who had received a prior CDK4/6 inhibitor\n* Patients were postmenopausal\n* Patients who currently had inflammatory breast cancer at screening.\n* Patients who had received any prior hormonal anti-cancer therapy for advanced breast cancer, except for \u2264 14 days of tamoxifen or NSAI \u00b1 goserelin for advanced breast cancer prior to randomization.\n* Patients had a concurrent malignancy or malignancy within 3 years of randomization, with the exception of adequately treated basal cell skin carcinoma, squamous cell skin carcinoma, non-melanomatous skin cancer or curatively resected cervical cancer.\n* Patients with CNS metastases.\n* Patients had active cardiac disease or a history of cardiac dysfunction\n* Patients were currently using other antineoplastic agents\n* Patients were pregnant or nursing or physiologically capable of becoming pregnant and not using highly effective contraception.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

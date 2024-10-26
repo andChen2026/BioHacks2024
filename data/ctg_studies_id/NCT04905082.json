@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04905082",
+    "briefTitle": "HOPE-Genomics Intervention for the Improvement of Cancer Patient Knowledge of Genomics",
+    "officialTitle": "Helping Oncology Patients Explore-Genomics (HOPE-Genomics) Web Tool Randomized Clinical Trial",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Carcinoma, Colorectal Carcinoma, Lung Carcinoma, Malignant Solid Neoplasm, Ovarian Carcinoma, Pancreatic Carcinoma, Prostate Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 465,
+    "primaryOutcomeMeasure": "Recall rates of personal genomic results",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Are enrolled in City of Hope (COH) Institutional Review Board (IRB) 07047\n* Have a diagnosis of lung, breast, colorectal, pancreatic, ovarian or prostate cancer\n* Having somatic, germline or paired somatic/germline sequencing\n* Are fluent in English\n* Have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-2\n* Are \\>= 18 years old\n\nExclusion Criteria:\n\n* Are unable to provide informed consent",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

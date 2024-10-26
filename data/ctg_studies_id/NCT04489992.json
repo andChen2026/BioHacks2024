@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04489992",
+    "briefTitle": "Experiment on the Use of Innovative Computer Vision Technologies for Analysis of Medical Images in the Moscow Healthcare System",
+    "officialTitle": "Experiment on the Use of Innovative Computer Vision Technologies for Analysis of Medical Images in the Moscow Healthcare System",
+    "overallStatus": "RECRUITING",
+    "conditions": "AI (Artificial Intelligence), Mammary Cancer, Lung Cancer, X-Rays; Lesion, COVID-19, Chest--Diseases, Abdomen Disease, Brain Disease, Fractures, Bone",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 133000,
+    "primaryOutcomeMeasure": "Number of errors",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age (over 18 years)\n* Gender (male and female)\n* Referral for the study\n* Signed informed consent to participate in the Experiment\n* Chest computed tomography and Low-dose computed tomography for lung cancer detection or mammography for breast cancer detection or chest X-ray for lung pathology detection\n\nExclusion Criteria:\n\n* Another type of study (including a different modality and anatomical area)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

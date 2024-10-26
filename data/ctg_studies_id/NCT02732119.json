@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02732119",
+    "briefTitle": "Study of Ribociclib With Everolimus + Exemestane in HR+ HER2- Locally Advanced/Metastatic Breast Cancer Post Progression on CDK 4/6 Inhibitor.",
+    "officialTitle": "A Phase I/II, Single Arm, Open-label Study of Ribociclib in Combination With Everolimus + Exemestane in the Treatment of Men and Postmenopausal Women With HR+, HER2- Locally Advanced or Metastatic Breast Cancer Following Progression on a CDK 4/6 Inhibitor",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 104,
+    "primaryOutcomeMeasure": "Participants With Dose Limiting Toxicities by Preferred Term in Cycle 1 (28 Days) - in Phase I",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult men and women\n* Patient has a confirmed diagnosis of estrogen-receptor positive and/or progesterone receptor positive breast cancer by local laboratory and has HER2-negative breast cancer\n* Patient must have either measurable disease by RECIST 1.1 or bone lesions in absence of measurable disease.\n* ECOG Performance Status 0 - 1\n* Disease refractory to either, AI, tamoxifen or fulvestrant\n* Previously treated on any CDK 4/6 inhibitor.\n* Patient has adequate bone marrow and organ function.\n\nExclusion Criteria:\n\n* Patient with symptomatic visceral disease or any disease burden that makes the patient ineligible for endocrine therapy per the investigator's best judgment.\n* Patient has received more than one line of chemotherapy for advanced disease.\n* Previous treatment with mTOR inhibitors, or exemestane for advanced disease.\n* Progressed on more than one CDK 4/6 inhibitor\n* Patient with CNS involvement unless they are at least 4 weeks from prior therapy completion.\n* Clinically significant, uncontrolled heart disease and/or recent cardiac events.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

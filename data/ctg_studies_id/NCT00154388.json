@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00154388",
+    "briefTitle": "Phase II Study of Imatinib Mesylate in Patients With Life Threatening Malignant Rare Diseases",
+    "officialTitle": "Phase II Study of Imatinib Mesylate in Patients With Life Threatening Malignant Rare Diseases",
+    "overallStatus": "COMPLETED",
+    "conditions": "Life Threatening Diseases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 185,
+    "primaryOutcomeMeasure": "To examine the effect(s) of Imatinib mesylate treatment on life threatening rare diseases with known associations to one or more Imatinib mesylate-sensitive tyrosine kinases",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients \u2265 15 years of age\n* Life threatening disease documented by conventional criteria to be resistant to standard, approved therapy.\n* Experimental documentation of functional significance of either Abl, Kit (CD117), or PDGF-R in the relevant target tissue (preferably on a sample taken within 6 weeks of study entry).\n* ECOG Performance status of 0, 1, or 2.\n* Adequate end organ function defined as: total bilirubin \\< 1.5 x ULN, SGOT and SGPT \\< 2.5 x UNL (or \\< 5 x ULN for patients with hepatic disease), creatinine \\< 1.5 x ULN, ANC \\> 1.5 x 109/L, platelets \\> 100 x 109/L.\n* Negative serum or urine pregnancy test for women of child bearing potential (WOCBP) within 7 days of study initiation. Post menopausal women must have experienced amenorrhea for at least 12 months. Male and female patients must use effective birth control methods throughout the study and for up to 3 months after study discontinuation.\n* Life expectancy of more than 3 months.\n* Written, voluntary, informed consent for retrieval, evaluation and investigational use of tissue samples.\n\nExclusion Criteria:\n\n* Patients who have received any other investigational agent within 28 days of study initiation.\n* Patients with another primary malignancy except if other primary malignancy is neither currently clinically significant nor requiring active intervention.\n* Patients with Grade III/IV cardiac problems defined by the New York Heart Association Criteria (e.g. congestive heart failure, myocardial infarction within 6 months of study).\n* Female patients who are pregnant or breast-feeding.\n* Patients who have another severe and/or life threatening medical disease.\n* Patients with acute or known chronic liver disease (e.g. chronic active hepatitis, cirrhosis).\n* Patients with a known diagnosis of the human immunodeficiency virus ((HIV) infection.\n* Patients who have received chemotherapy within 4 weeks (6 weeks allowed for nitrosourea, mitomycin-C or any antibody therapy) prior to study entry.\n* Patients who have had major surgery within 2 weeks prior to study entry.\n* Patients with any significant history of non-compliance to medical regimens or with inability to grant reliable informed consent.\n\nOther protocol-defined inclusion/exclusion criteria may apply.",
+    "sex": "ALL",
+    "minimumAge": "15 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

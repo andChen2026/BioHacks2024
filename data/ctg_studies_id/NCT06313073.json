@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06313073",
+    "briefTitle": "Neoadjuvant Radiotherapy for Breast Cancer",
+    "officialTitle": "Neoadjuvant Radiotherapy Versus Adjuvant Radiotherapy for Breast Cancer: A Phase II Exploratory Randomized Controlled Clinical Study",
+    "overallStatus": "RECRUITING",
+    "conditions": "Neoadjuvant Radiotherapy, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "pCR",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female;\n* Age range from 18 to 70 years old;\n* The pathological diagnosis is invasive cancer, and immunohistochemical examination has been performed to confirm the status of ER, PR, HER2, Ki67, etc;\n* Clarify the BRCA gene mutation status;\n* Patients who have a baseline stage of T1-3N0-3M0 and meet one of the following conditions and require neoadjuvant therapy: \u2460 mass\\>5cm; \u2461 Axillary lymph node metastasis; \u2462 HER-2 positive; \u2463 Three Yin type; \u2464 Those who have a desire to preserve breast, but have a large ratio of tumor size to breast volume, making it difficult to preserve breast;\n* Baseline estimation requires adjuvant radiotherapy, which meets one of the following conditions: \u2460 performing breast conserving surgery; \u2461 T3 or N positive patients after mastectomy and axillary dissection; \u2462 After mastectomy, sentinel lymph nodes were positive and axillary dissection was not performed;\n* KPS score \u2265 80;\n* The tumor must be visible in CT scan;\n* Patients must undergo magnetic resonance imaging to help determine the contour of the tumor and exclude other lesions. If other lesions are found, biopsy must be performed on these lesions and the result is negative before continuing treatment;\n* No history of serious internal medicine diseases or other serious comorbidities, such as a history of mental illness, allergies, etc;\n* Sign an informed consent form.\n\nExclusion Criteria:\n\n* Clinical or pathological stage T4 or M1 breast cancer;\n* Received preoperative neoadjuvant therapy;\n* Pathological confirmation shows that there is no invasive cancer component in DCIS;\n* Double breast cancer or previous contralateral breast cancer;\n* Imaging examination suggests suspicious malignant lesions in the ipsilateral or contralateral breast, which have not been pathologically confirmed to be benign;\n* KPS score \u2264 70;\n* There is active infection currently;\n* Concomitant with severe heart, liver, kidney, hematopoietic and neurological diseases, psychiatric patients, or estimated survival time\\<6 months;\n* History of malignant tumors in other areas, excluding curable non melanoma skin cancer and cervical cancer in situ;\n* History of radiation therapy at the site of previous radiation therapy;\n* Pregnancy and lactation period;\n* Those with poor compliance or life-threatening conditions who cannot complete treatment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

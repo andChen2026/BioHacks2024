@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00034281",
+    "briefTitle": "Safety and Tolerability Study of TAK-165 in Subjects With Tumors Expressing HER2",
+    "officialTitle": "A Phase I, Open-Label, Dose Escalating, Multiple Dose Study to Determine the Safety, Tolerability, Maximum Tolerated Dose and Pharmacokinetics of Oral TAK-165 Administered Once Daily to Subjects With Tumors Known to Express HER2.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm, Pancreatic Neoplasm, Lung Neoplasm, Ovarian Neoplasm, Renal Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 16,
+    "primaryOutcomeMeasure": "Dose Limiting Toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Have advanced or metastatic cancer which is refractory to standard therapy or subjects for whom there is no known effective therapy.\n* Have a histologically or cytologically proven diagnosis of a solid tumor known to express HER2.\n* Have a predicted life expectancy of greater than or equal to 12 weeks.\n* Have a Karnofsky Performance Status of greater than or equal to 60%\n* Have recovered from toxicities of prior chemotherapy, surgery, or radiotherapy.\n\nExclusion Criteria:\n\n* Be pregnant or lactating. Women of childbearing potential must have a negative serum pregnancy test result within 7 days of enrollment into the study. Male and female subjects of childbearing potential (including women who have been amenorrheic for less than 1 year) must use appropriate birth control during the entire duration of the study, or the subject must be surgically sterile.\n* Have symptomatic brain metastasis\n* Have received any other anti-cancer treatment or investigational drug/treatment within 28 days prior to study Day 1.\n* Have a history of another malignancy within the last 5 years.\n* Have inadequate organ function.\n* Have heart failure defined by an ejection fraction of less than or equal to 50% as measured by MUGA.\n* Have Class II, III or IV symptoms of heart failure as defined by the New York Heart Association, or uncontrolled arrhythmias, or recent history of myocardial infarction or angina pectoris.\n* Have a medical condition that may interfere with intake and/or absorption of the study drug (e.g., gastrectomy or resection of major portion of small intestine).\n* Have any other serious disease or condition present at screening or at study Day 1 that might affect life expectancy or make it difficult to successfully manage and follow the subject according to the protocol.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00138814",
+    "briefTitle": "Boost Use in Breast Conservation Radiotherapy",
+    "officialTitle": "A Randomised Comparison of Breast Conservation With or Without Lumpectomy Radiotherapy Boost",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 680,
+    "primaryOutcomeMeasure": "Local failure of breast cancer at 72 month median follow-up and 10 year median follow-up for final analysis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven carcinoma of the breast, T1-2 (0-5cm) N0-1, M0.\n* Pure ductal carcinoma in situ accepted if completely excised.\n* Any receptor status.\n* Extensive intraductal cancer (EIC) accepted if completely excised.\n\nExclusion Criteria:\n\n* Unable to consent\n* Vascular/collagen disorder\n* Prior malignancy except minor skin squamous cell or basal cell carcinoma or carcinoma in-situ of the cervix .\n* Gross multifocal disease\n* Involvement of margins.\n* Bilateral breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

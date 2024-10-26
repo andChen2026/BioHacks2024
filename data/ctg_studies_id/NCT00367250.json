@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00367250",
+    "briefTitle": "Safety Study of Combined Immunotherapy With Trastuzumab and Cetuximab in Patients With Metastatic Breast Cancer",
+    "officialTitle": "Phase I Study Investigating the Combined Immunotherapy With Trastuzumab and Cetuximab in Patients With Metastatic Breast Cancer With High and Moderate HER2 Expression",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 32,
+    "primaryOutcomeMeasure": "Pharmacokinetics and drug/drug interaction of cetuximab and",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* diagnosis of metastatic breast cancer\n* presence of at least 1 measurable lesion according to modified RECIST criteria\n* Evidence (fluorescence in situ hybridization FISH) of\n* Her-2 overexpression in tumor tissue:Group A: Her-2 +++, Group B: Her-2 + or ++\n* EGFR-expressing disease as assessed by immunohistochemistry\n* Recovered from relevant toxicities from other treatment prior to study entry\n\nExclusion Criteria:\n\n* Prior treatment with trastuzumab for metastatic breast cancer (adjuvant therapy is allowed)\n* Prior treatment with cetuximab\n* Concomitant cytotoxic chemotherapy\n* Treatment with any investigational agent(s) within 4 weeks prior to study entry\n* Known allergic/hypersensitivity reaction to any of the components of study treatments\n* severe dyspnea\n* Myocardial infarction within 6 months prior to study entry, uncontrolled congestive heart failure; or any current grade 3 or 4 cardio-vascular disorder despite treatment\n* History of significant neurologic or psychiatric disorders",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

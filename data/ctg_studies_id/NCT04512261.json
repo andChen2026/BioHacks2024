@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04512261",
+    "briefTitle": "TOPAZ: Tucatinib in COmbination With Pembrolizumab And TrastuZumab in Patients With HER2-Positive Breast Cancer Brain Metastases",
+    "officialTitle": "TOPAZ: Single Arm, Open Label Phase 1b/2 Study of Tucatinib in COmbination With Pembrolizumab And TrastuZumab in Patients With HER2-Positive Breast Cancer Brain Metastases",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer, Brain Metastases, HER2-positive Breast Cancer, CNS Disease",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "24-week CNS disease control rate (DCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age \u226518 years.\n2. ECOG performance status of 0-2.\n3. HER2+ (as defined by ASCO/CAP clinical practice guideline) metastatic breast cancer.\n4. Untreated or previously treated and progressing CNS disease.\n5. Measurable CNS metastases.\n6. Must be able to undergo MRI of the brain.\n7. Adequate organ function.\n\nExclusion Criteria:\n\n1. Any indication for immediate CNS-directed therapy.\n2. History of generalized or complex partial seizures.\n3. Any other manifestation of neurologic progression that in the opinion of the treating physician is due to brain metastases.\n4. Leptomeningeal disease.\n5. Prior therapy with an anti-PD-1, anti-PD-L1, or anti-PD-L2 agent or with an agent directed to another stimulatory or co-inhibitory T-cell receptor.\n6. Prior therapy with tucatinib.\n7. Active autoimmune disease that has required systemic treatment in excess of prednisone 10mg daily or equivalent in the past 2 years.\n\nComplete inclusion/exclusion criteria are detailed in the protocol.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

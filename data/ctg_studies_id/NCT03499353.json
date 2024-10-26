@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03499353",
+    "briefTitle": "Talazoparib For Neoadjuvant Treatment Of Germline BRCA1/2 Mutation Patients With Early Human Epidermal Growth Factor Receptor 2 Negative Breast Cancer",
+    "officialTitle": "A PHASE 2, NON RANDOMIZED, OPEN LABEL, SINGLE ARM, MULTI CENTER STUDY OF TALAZOPARIB FOR NEOADJUVANT TREATMENT OF GERMLINE BRCA1/2 MUTATION PATIENTS WITH EARLY HUMAN EPIDERMAL GROWTH FACTOR RECEPTOR 2 NEGATIVE BREAST CANCER",
+    "overallStatus": "TERMINATED",
+    "conditions": "Early Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 61,
+    "primaryOutcomeMeasure": "Percentage of Participants Achieving Pathological Complete Response (pCR) as Per Independent Central Review (ICR) in Evaluable Analysis Set as Per ICR With 80% Confidence Interval (CI)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Germline BRCA 1/2 Mutation Positive\n* Women and men at least 18 years of age or older.\n* Histologically confirmed invasive adenocarcinoma of the breast\n* HER2 negative breast cancer as defined by ASCO-CAP criteria\n* Tumor greater than or equal toT1, N0-3\n* No evidence of distant metastasis\n* Adequate bone marrow, hepatic, and renal function\n* ECOG performance status 0 or 1\n\nExclusion Criteria:\n\n* Any other previous antitumor therapies for the current cancer event. Treatment for ductal carcinoma in situ (DCIS) is allowed; ie, surgery, hormonal therapy and radiation.\n* Evidence of distant metastasis apparent prior to randomization\n* Patients with inflammatory breast carcinoma\n* Malignancy within the last 3 years, except: Stage 1 melanoma which does not require any further treatment after adequate surgical excision; adequately treated non melanoma skin cancer; Curatively treated in situ cancer of the cervix; Stage 1, Grade 1 endometrial carcinoma; or Adequately treated contralateral breast carcinoma which has been disease free for a year; Other solid tumors including lymphomas (without bone marrow involvement) curatively treated with no evidence of disease for 5 years.\n* Previous or concomitant systemic anti cancer therapies used for the treatment of cancer in the last 3 years.\n* Prior treatment with a PARP inhibitor in any disease setting\n* Concomitant use of Strong P gp inhibitors or inducers or BCRP inhibitors\n* Patients who are unwilling or unable to use a highly effective method of contraception as outlined in this protocol\n* Major surgery within 14 days prior to study entry\n* Known history of cardiac disease, for example : Myocardial infarction or symptomatic cardiac ischemia within 24 weeks before screening; Congestive heart failure New York Heart Association Class III or IV; History of clinically significant ventricular arrhythmias within one year prior to randomization; History of Mobitz II second degree or third degree heart block, uncontrolled hypertension.\n* Active clinically significant infection\n* Clinically significant bleeding diathesis or coagulopathy\n* Non healing wound, ulcer or bone fracture\n* Known hypersensitivity to any of the components of talazoparib\n* Patients with myelodysplastic syndrome/acute myeloid leukemia\n* Patients with uncontrolled seizures.\n* Any evidence of other disease or any concomitant medical or psychiatric problems which in the opinion of the Investigator would prevent completion of treatment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

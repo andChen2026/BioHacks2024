@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00971009",
+    "briefTitle": "Effects of Internet Support for Cancer Patients",
+    "officialTitle": "Effects of Internet Support for Cancer Patients on Health Outcomes, Health Care Utilization and Costs: A Randomized Clinical Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Severity and duration of symptom distress",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients recently diagnosed with breast cancer and under treatment (radiation, chemotherapy, hormone, or combinations of those)\n* Patients are \\> 18 years of age, able to write / read / speak Norwegian and have Internet with secure access (BankID) at home\n\nExclusion Criteria:\n\n* Excluded are patients who had received radiation on the brain as this may affect their abilities to reliably report their symptoms",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

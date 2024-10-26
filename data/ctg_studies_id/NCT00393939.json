@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00393939",
+    "briefTitle": "Study Of Sunitinib In Combination With Docetaxel Vs Docetaxel In Patients With Advanced Breast Cancer",
+    "officialTitle": "A Randomized Phase 3 Study Of Docetaxel In Combination With Sunitinib Versus Docetaxel In The First-Line Treatment Of Advanced Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 594,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer with evidence of unresectable locally recurrent, or metastatic disease\n* Her-2 negative tumors\n\nExclusion Criteria:\n\n* Patients for whom docetaxel is contraindicated\n* Clinical presentation of inflammatory carcinoma with no other measurable disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

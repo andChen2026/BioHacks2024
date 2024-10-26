@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05441098",
+    "briefTitle": "Construction and Validation of an Assessment Model of PCR After NAT on Breast Cancer Patients With AI Technology",
+    "officialTitle": "Construction and Validation of an Assessment Model of Pathological Complete Response After Neoadjuvant Treatment (NAT) on Breast Cancer Patients With Artificial Intelligence (AI) Technology",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1821,
+    "primaryOutcomeMeasure": "pathological complete response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. patients admitted to each study center between January 1, 2010 and December 31, 2021.\n2. \u226518 years of age, female, with an ECOG score \u22642.\n3. pathological biopsy confirmed invasive breast cancer.\n4. were initially treated with neoadjuvant therapy.\n5. have MRI imaging data prior to radical surgery after neoadjuvant treatment.\n6. underwent surgery as planned after neoadjuvant therapy and obtained postoperative pathology information.\n\nExclusion Criteria:\n\n1. Bilateral breast cancer, multiple lesions or occult breast cancer.\n2. no data related to breast MRI.\n3. no surgery after neoadjuvant therapy, no postoperative pathology results.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

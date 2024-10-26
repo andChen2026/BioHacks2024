@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00410657",
+    "briefTitle": "Alemtuzumab and Glucocorticoids in Treating Newly Diagnosed Acute Graft-Versus-Host Disease in Patients Who Have Undergone a Donor Stem Cell Transplant",
+    "officialTitle": "A Phase II Study to Evaluate Low-Dose Alemtuzumab as a Glucocorticoid-Sparing Agent for Initial Systemic Treatment of Acute Graft-Versus-Host Disease",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Chronic Myeloproliferative Disorders, Gestational Trophoblastic Tumor, Graft Versus Host Disease, Leukemia, Lymphoma, Multiple Myeloma and Plasma Cell Neoplasm, Myelodysplastic Syndromes, Myelodysplastic/Myeloproliferative Diseases, Neuroblastoma, Ovarian Cancer, Testicular Germ Cell Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 53,
+    "primaryOutcomeMeasure": "Proportion of patients with methylprednisolone (MP)-equivalent glucocorticoid doses \u2264 0.75 mg/kg on day 28 after starting therapy for graft-versus-host disease (GVHD)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Newly diagnosed acute graft-versus-host disease (GVHD)\n\n  * Grade IIB-IV disease\n* Requires glucocorticoids for treatment of GVHD, as indicated by 1 of the following:\n\n  * Initial treatment with prednisone or methylprednisolone at 2 mg/kg is indicated (in the judgement of the attending physician) by any of the following:\n\n    * Severity of GVHD requires hospitalization\n    * GVHD manifestations include symptoms other than anorexia, nausea, and vomiting\n    * GVHD begins within 2-3 weeks after hematopoietic stem cell transplantation (HSCT)\n    * GVHD manifestations progress rapidly from 1 day to the next before treatment\n  * Initial treatment with prednisone or methylprednisolone at 1 mg/kg did not produce adequate clinical improvement within the first 4 days (in the judgement of the attending physician)\n* Has undergone allogeneic HSCT with myeloablative conditioning\n\n  * No nonmyeloablative conditioning or autologous HSCT\n* No primary treatment of acute GVHD with methylprednisolone at any of the following doses:\n\n  * More than 2 mg/kg/day at any time\n  * 2 mg/kg/day for \\> 72 hours\n  * 1 mg/kg/day for \\> 96 hours\n* No presence of distinctive or diagnostic manifestations of chronic GVHD\n* No relapsed, refractory, or secondary malignancy\n\nPATIENT CHARACTERISTICS:\n\n* Karnofsky performance status (PS) 20-100% OR Lanksy PS 20-100%\n* Life expectancy \u2265 1 month\n* Absolute neutrophil count \u2265 500/mm\\^3\n* Negative pregnancy test\n* No Mini Mental State Exam score \\< 24/30 or confusion (for patients \\> 12 years of age)\n* No history of type I hypersensitivity reaction to alemtuzumab or any of its components\n* No increasing levels of viremia by serial quantitative viral plasma polymerase chain reaction assays\n* No invasive viral or fungal disease that does not respond to appropriate antiviral or antifungal medications\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No systemic immunosuppression tapered or stopped for treatment of leukemic relapse or minimal residual disease",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

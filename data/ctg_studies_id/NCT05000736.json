@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05000736",
+    "briefTitle": "Comparative Effectiveness of Palbociclib Plus AI Versus Fulvestrant for HR+/HER2- ABC",
+    "officialTitle": "Comparative Effectiveness of Palbociclib Plus Aromatase Inhibitor Versus Fulvestrant Alone as Initial Endocrine Therapy for HR+/HER2- Advanced Breast Cancer in Chinese Clinical Practice: a Real-world Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Hormone Receptor Positive Advanced Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "Real-world progression-free survival (rwPFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Chinese women \u226518 years old;\n2. Diagnosed with locally advanced (stage IIIb/IIIc) or metastatic (stage IV) breast cancer;\n3. The molecular classification is pathologically confirmed as HR+/HER2-;\n4. Palbociclib plus AI or fulvestrant monotherapy as initial endocrine therapy for advanced breast cancer for at least 1 cycle;\n5. The follow-up time should be not less than 3 months after the start of palbociclib plus AI therapy or fulvestrant monotherapy.\n\nExclusion Criteria:\n\n1. Subjects who have previously received chemotherapy, other CDK4/6 inhibitors or other endocrine monotherapy for advanced breast cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

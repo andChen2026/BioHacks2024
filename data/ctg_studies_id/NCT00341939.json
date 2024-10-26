@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00341939",
+    "briefTitle": "Retrospective Analysis of a Drug-Metabolizing Genotype in Cancer Patients and Correlation With Pharmacokinetic and Pharmacodynamics Data",
+    "officialTitle": "Retrospective Analysis of Drug Disposition and Response-related Genotypes in Cancer Patients and Correlation With Pharmacokinetics and Pharmacodynamics Data",
+    "overallStatus": "COMPLETED",
+    "conditions": "Prostate Cancer, Breast Cancer, Cutaneous T-Cell Lymphoma, Lung Cancer, Melanoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 484,
+    "primaryOutcomeMeasure": "Evaluate the association between pharmacokinetic data and polymorphisms in drug-metabolizing enzymes and transporters",
+    "eligibilityCriteria": "* INCLUSION CRITERIA:\n\nIn this retrospective study, any cancer patients entered on IRB approved clinical trials at the National Cancer Institute are eligible. Studies for which pharmacokinetic analyses were/are being performed will be the source of the patient population. At this time enrollment will be limited to patients with pharmacokinetic samples obtained during treatment on protocol 00-C-0033, 00-C-0080, 01-C-0049, 01-C-0124, 01-C-0215, 02-C-0061, 02-C-0083, 02-C-0130, 02-C-0149, 02-C-0215, 02-C-0218, 02-C-0229, 03-C-0030, 03-C-0157, 03-C-0176, 03-C-0284, 04-C-0132, 04-C-0257, 04-C-0262, 04-C-0273, 04-C-0280, 05-C-0022, 05-C-0049, 05-C-0167, 05-C-0186, 06-C-0083, 06-C-0088, 06-C-0164, 06-C-0221, 07-C-0047, 07-C-0059, 07-C-0106, 07-C-0107, 08-C-0030, 08-C-0074, 94-C-0169, 95-C-0015, 97-C-0135, 97-C-0171, and 98-C-0015.\n\nEXCLUSION CRITERIA:\n\nA patient will be excluded if there is an insufficient quantity of sample available to perform the genotyping procedure. This is not anticipated to be of significance for this study since the methodology does not require a large serum sample.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00614172",
+    "briefTitle": "Proton Therapy for Early Stage Breast Cancer",
+    "officialTitle": "Phase II Trial of Lumpectomy and Partial Breast Proton Therapy for Early Stage Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Early-Stage Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Ipsilateral Breast Tumor Recurrence-free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Invasive ductal, medullary, papillary, colloid or tubular histologies\n* Stages T1 or T2 (tumors \\< or = 3 cm) from lumpectomy specimen.\n* No more then 3 positive nodes on axillary dissection or negative sentinel node.\n* Negative surgical margins (\\>2mm)\n\nExclusion Criteria:\n\n* Invasive lobular histology\n* Previous chemotherapy for breast cancer\n* Extensive intraductal component\n* Collagen vascular disease\n* Prior malignancy unless disease-free for 5 years\n* Patients who are pregnant or lactating",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

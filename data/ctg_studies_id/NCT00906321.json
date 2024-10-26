@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00906321",
+    "briefTitle": "Facilitating Web-based Patient Decision Support: Decision About Medication to Lower Breast Cancer Risk",
+    "officialTitle": "Facilitating Web-Based Patient Decision Support: Decision About Medication to Lower Breast Cancer Risk",
+    "overallStatus": "COMPLETED",
+    "conditions": "High Risk for Breast Cancer, Risk Reduction Behavior",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 64,
+    "primaryOutcomeMeasure": "Conduct a formative evaluation of the impact of the chemoprevention module of the Trusted Advisor for Cancer Health Decisions (TACHD) decision support intervention",
+    "eligibilityCriteria": "-INCLUSION CRITERIA:\n\n1. Women with no history of cancer other than cervical carcinoma in situ or non-melanoma skin cancer\n2. High risk for breast cancer based on at least one of the following:\n\n   * Gail score \\> 1.67\n   * History of atypical hyperplasia (either ductal or lobular)\n   * History of lobular carcinoma in situ\n   * Documentation of a deleterious BRCA1 or BRCA2 mutation\n3. Considering a decision about chemoprevention with tamoxifen or raloxifene\n4. Access to an IBM-compatible or MacIntosh personal computer with broadband Internet access\n5. Access to an email account\n6. Access to a telephone\n7. Aged 35 or older\n8. Able to communicate in English verbally and in writing\n9. Women of all races and ethnic groups are eligible for this study.\n\nEXCLUSION CRITERIA:\n\n1. Concurrent participation in another cancer chemoprevention study\n2. Prior history of cancer, other than cervical carcinoma in situ or non-melanoma skin cancer\n3. Ever taken tamoxifen or raloxifene\n4. Age less than 35\n5. Unable to communicate in English verbally and in writing\n6. No computer with internet access\n7. No email account\n8. No telephone",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

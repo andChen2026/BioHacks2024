@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04644406",
+    "briefTitle": "PETRA: PErtuzumab and Trastuzumab Biosimilars Real Life Association for the First Line Treatment of HER2-positive Metastatic Breast Cancer, an Observational Prospective Multicenter Study",
+    "officialTitle": "PETRA: PErtuzumab and Trastuzumab Biosimilars Real Life Association for the First Line Treatment of HER2-positive Metastatic Breast Cancer, an Observational Prospective Multicenter Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "HER-2 Positive Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "PFS-R",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed Patients \u2265 18 years-old with non-operable, locally advanced, or metastatic HER-2 positive breast cancer Docetaxel, Paclitaxel or Vinorelbine-based chemotherapy administred in combination with any trastuzumab biosimilar and with pertuzumab for the first-line treatment of the non-operable, locally advanced or metastatic HER-2 positive breast cancer.\n\nWHO Performance status 0-2 Measurable or non-measurable (but radiologically evaluable) disease as per modified Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1.\n\nAdequate cardia function at baseline defined by a left ventricular ejection fraction of 50% or more within 2 months before treatment start\n\nAdequate baseline organ function, evidenced by the following laboratory results within 2 months before treatment start:\n\nHemoglobin \u2265 9 g/dL Absolute neutrophil count (ANC) \u2265 1500/mm3 Platelet count \u2265 100,000/mm3 Total bilirubin \u2264 1.5 upper limit of normal (ULN), or total bilirubin \u2264 3.0 \u00d7 ULN in patients with documented Gilbert's Syndrome.\n\nGlomerular Filtration Rate (GFR) \u2265 30 ml/min according to MDRD formula or CKD-EPI formula or Cockcroft and Gault formula SGOT (AST), SGPT (ALT) and alkaline phosphatase \u2264 5 \u00d7 ULN Patient's consent to data collection\n\nExclusion Criteria:\n\n* Prior exposure to trastuzumab in the metastatic setting, patients may have received adjuvant or neoadjuvant trastuzumab and/or pertuzumab with an interval of at least 12 months between completion of the adjuvant or neoadjuvant anti-HER2 therapy and the diagnosis of metastatic breast cancer.\n\nHistory of allergic reactions attributed to compounds of chemical or biological composition similar to trastuzumab, pertuzumab, or to chemotherapy components Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection (including known HIV, active hepatitis B and/or hepatitis C infection), symptomatic congestive heart failure, unstable angina pectoris, uncontrolled cardiac arrhythmia, or uncontrolled diabetes",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

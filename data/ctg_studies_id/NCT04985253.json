@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04985253",
+    "briefTitle": "Correlation of Predictive Accuracy of PREDICT Version 2.2 of Indian Women With Operable Breast Cancer",
+    "officialTitle": "Correlation of Predictive Accuracy of PREDICT Version 2.2, (PREDICT V2.2) on a Retrospective Cohort of Indian Women With Operable Breast Cancer (OBC)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Operable Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2780,
+    "primaryOutcomeMeasure": "Five year overall survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* OBC patients treated at TMH\n* ER +/Her2 neg or TNBC\n* We will include2780 women wherein events / 5-year follow up is available. We propose to have a blinded member of the DMG identify such cases and provide to the study team.\n\nExclusion Criteria:\n\n. \u2022 Missing variables egpT size, chemotherapy details\n\n* Lost to follow up\n* Her2 overexpression positive or Equivocal on IHC. (This is being excluded to avoid the bias of incomplete treatment as a large number of patients treated in 2010-2013 may not have received Her2 targeted treatment in our setting)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

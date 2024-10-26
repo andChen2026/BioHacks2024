@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02012608",
+    "briefTitle": "Glutamine for the Prevention of Radiation Toxicity in Subjects Conserving Therapy",
+    "officialTitle": "Glutamine for the Prevention of Radiation Toxicity in Subjects Undergoing Breast Conserving Therapy",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 14,
+    "primaryOutcomeMeasure": "Excessive Radiation Toxicity as Defined by Radiation Therapy Oncology Group (RTOG) Acute Scale of Radiation-toxicity Criteria",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subject have been diagnosed with Stage I or II invasive breast cancer\n* Subject will undergo Accelerated Partial Breast Irradiation (APBI) as part of Breast Conserving Therapy (BCT)\n* Subject is eligible for APBI based on American Society of Therapeutic Radiation Oncology (ASTRO) criteria\n* Subject is 18 years of age or older\n* Subject is female\n\nExclusion Criteria:\n\n* History of uncontrolled, clinically significant lung, heart, endocrine, liver, or renal disease\n* Subject has been diagnosed with any other cancer\n* Subject has a known hypersensitivity reaction to the following: oral glutamine (GLN), glutamate, monosodium glutamate (MSG) (i.e., Chinese restaurant syndrome)\n* Subject has history of collagen vascular disease\n* Subject has been diagnosed with Diabetes mellitus I or II\n* Subject has had any prior breast radiation\n* Subject is pregnant or breastfeeding",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

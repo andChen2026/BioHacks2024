@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06400472",
+    "briefTitle": "A Study of LY4170156 in Participants With Selected Advanced Solid Tumors",
+    "officialTitle": "A First-in-Human, Phase 1a/1b Trial to Assess the Safety, Tolerability and Preliminary Efficacy of LY4170156, an Antibody-Drug Conjugate Targeting Folate Receptor \u03b1-Expressing Tumor Cells, in Participants With Selected Advanced Solid Tumors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Ovarian Neoplasms, Endometrial Neoplasms, Uterine Cervical Neoplasms, Carcinoma, Non-Small-Cell Lung, Triple Negative Breast Neoplasms, Pancreatic Neoplasm, Colorectal Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 220,
+    "primaryOutcomeMeasure": "Phase 1a: To determine the recommended phase 2 dose (RP2D) of LY4170156",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Have one of the following solid tumor cancers:\n\n  * Cohort A1: Ovarian (epithelial ovarian, primary peritoneal, and fallopian tube) cancer, endometrial cancer, cervical cancer, non-small cell lung cancer (NSCLC), triple-negative breast cancer (TNBC), pancreatic, and colorectal cancer (CRC)\n  * Cohort A2/B1/B2: Ovarian (epithelial ovarian, primary peritoneal, and fallopian tube) cancer\n  * Cohort C1/C2: Endometrial cancer, cervical cancer, NSCLC, TNBC, CRC or pancreatic cancer\n\nExclusion Criteria:\n\n* Individual with known or suspected uncontrolled central nervous system (CNS) metastases\n* Individual with history of carcinomatous meningitis\n* Individual with active uncontrolled systemic bacterial, viral, fungal, or parasitic infection\n* Individual with evidence of corneal keratopathy or history of corneal transplant\n* Any serious unresolved toxicities from prior therapy\n* Significant cardiovascular disease\n* Prolongation of QT interval corrected for heart rate using Fridericia's formula (QTcF) \u2265 470 milliseconds (ms)\n* History of pneumonitis/interstitial lung disease\n* Individuals who are pregnant, breastfeeding or plan to breastfeed during study or within 30 days of last dose of study intervention",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

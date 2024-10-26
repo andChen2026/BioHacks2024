@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02590315",
+    "briefTitle": "Tomosynthesis Versus Digital Mammography in a Population-based Screening Program",
+    "officialTitle": "Digital Breast Tomosynthesis Versus Digital Mammography in a Population-based Screening Program. A Controlled Randomized Multicenter Trial",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 92000,
+    "primaryOutcomeMeasure": "Rate of cancers after the first study screening round. Data on interval cancers (within 24 months of a negative study examination) and on advanced screen-detected cancers at the subsequent screen among participants will be collected.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Asymptomatic women 45-68 years, residents in the Piedmont Region, attending the regional breast cancer screening program\n\nExclusion Criteria:\n\n* Personal history of breast cancer\n* A terminal illness\n* Patients who are unable to give informed consent\n* Breast implants",
+    "sex": "FEMALE",
+    "minimumAge": "46 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

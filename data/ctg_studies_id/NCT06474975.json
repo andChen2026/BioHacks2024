@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06474975",
+    "briefTitle": "Intra-SURGerY High-resolution Specimen PET/CT Imager for Margin Assessment in Early-stage Breast Cancer",
+    "officialTitle": "SURGYPET: Intra-SURGerY High-resolution Specimen PET/CT Imager for Margin Assessment in Early-stage Breast Cancer as Compared to Gross Pathology: a Prospective Non-inferiority Analysis",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer, Breast-conserving Surgery",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Evaluation of the accuracy to detect positive invasive margins in IDC patients",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* females with an age over 18 years;\n* confirmed breast cancer with indication to undergo BCS (stage I-II with tumor \u22642.5 in greatest dimension);\n* vacuum-assisted core breast biopsy is allowed for non-invasive tumors only;\n* able to understand treatment protocol and informed consent form;\n* estimated by the investigator to be compliant for study participation.\n\nExclusion Criteria:\n\n* general or local contra-indication for BCS;\n* previous breast surgery;\n* inflammatory breast cancer;\n* radiotherapy of the ipsilateral breast;\n* vacuum-assisted core breast biopsy for all patients with invasive tumors (vacuum-assisted core breast biopsy is allowed for patients with non-invasive tumors as long as the residual tumor size on mammogram is at least 1.0 cm);\n* pregnancy or lactation;\n* participation in other clinical studies with a radiation exposure of more than 1 mSv in the past year;\n* active bacterial, viral or fungal infection.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

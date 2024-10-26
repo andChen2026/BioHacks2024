@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00096291",
+    "briefTitle": "Neoadjuvant Chemotherapy Using Doxorubicin and Paclitaxel in Treating Women With Large Breast Cancer",
+    "officialTitle": "Neoadjuvant Chemotherapy in Palpable Breast Cancer: Evaluation of Physiologic, Radiologic, and Molecular Markers in Predicting Response",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 62,
+    "primaryOutcomeMeasure": "\u2022Determine whether tumors in women with palpable invasive breast cancer with wild type p53 are more sensitive to doxorubicin than to paclitaxel when given as sequential single-agent neoadjuvant chemotherapy",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of invasive breast cancer\n\n  * Tumor \u2265 3 cm and palpable\n\n    * Multiple masses are allowed provided at least 1 mass is \u2265 3 cm\n  * Clinically positive axillary or supraclavicular lymph nodes allowed\n  * Fine needle aspiration or core needle biopsy positive for invasive breast cancer AND/OR fine needle aspiration of lymph nodes positive\n* HER2/neu-positive OR negative\n* No inflammatory breast cancer\n* No distant metastases\n* Hormone receptor status:\n\n  * Estrogen receptor (ER)-positive OR ER-negative\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nSex\n\n* Female\n\nMenopausal status\n\n* Premenopausal or postmenopausal\n\nPerformance status\n\n* Karnofsky 60-100%\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Granulocyte count \u2265 1,000/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n\nHepatic\n\n* Bilirubin \u2264 2 times upper limit of normal (ULN)\n* SGOT \u2264 2 times ULN\n\nRenal\n\n* Not specified\n\nCardiovascular\n\n* LVEF \u2265 50%\n* No congestive heart failure\n* No serious conduction system abnormality\n* No other significant cardiovascular disease\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* Patients with other prior or concurrent malignancies allowed provided they have received no prior chemotherapy AND they are likely to have been cured from a prior malignancy\n* No severe medical or psychiatric condition that would preclude study compliance\n* No known HIV positivity\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* No prior chemotherapy\n\nEndocrine therapy\n\n* No prior hormonal therapy for breast cancer\n\nRadiotherapy\n\n* No prior radiotherapy for this malignancy\n\nSurgery\n\n* Not specified",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

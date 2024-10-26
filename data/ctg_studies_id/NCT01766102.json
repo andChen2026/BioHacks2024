@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01766102",
+    "briefTitle": "Intra-operative Digital vs. Standard Mammography",
+    "officialTitle": "A Comparison of Intra-Operative Digital Specimen Mammography to Standard Specimen Mammography",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 72,
+    "primaryOutcomeMeasure": "Comparison of Operative Time Savings",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Newly diagnosed with a breast abnormality undergoing an excisional biopsy with wire localization or newly diagnosed with invasive breast cancer or ductal carcinoma undergoing a lumpectomy with wire localization\n* Ability to understand and willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Recurrent breast cancer\n* Palpable masses not requiring wire localization",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

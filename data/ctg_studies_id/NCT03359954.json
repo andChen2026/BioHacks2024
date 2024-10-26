@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03359954",
+    "briefTitle": "Radiation Therapy Before Surgery in Treating Patients with Hormone Receptor Positive, HER2 Negative Breast Cancer",
+    "officialTitle": "PRECISE: Preoperative Radiotherapy to Elicit Critical Immune Stimulating Effects",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Estrogen Receptor Positive, HER2/Neu Negative, Invasive Breast Carcinoma, Progesterone Receptor Positive",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Evaluation of Change in Percent of Tumor-Infiltrating Lymphocytes (TIL)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nInclusion:\n\n* Age \\>/=18 years at time of study entry\n* Histologically confirmed HR+/HER2- (according to American Society of Clinical Oncology/College of American Pathologists guidelines) invasive carcinoma of the breast\n* Presence of a clip in the primary breast cancer\n* Biopsy-amenable residual disease in the breast measuring \\>/= 1cm in at least one dimension on ultrasound cm in at least one dimension on ultrasound\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-1\n* Signed written informed consent\n* Planned for multidisciplinary evaluation by a Breast Surgical Oncologist and Breast Radiation Oncologist. For patients undergoing mastectomy and desirous of reconstruction or those undergoing breast conservation in whom oncoplastic local tissue rearrangement or reduction mammoplasty is being considered, this multidisciplinary evaluation will also include a plastic surgeon.\n\nExclusion:\n\n* Women who are pregnant or breast-feeding\n* Contraindication to receive radiotherapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

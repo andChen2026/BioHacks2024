@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02836093",
+    "briefTitle": "Exercise Testing for Early Stage Breast Cancer Patients Receiving Radiation Treatment",
+    "officialTitle": "Pilot Study for Assessment of Exercise Capacity in Breast Cancer Patients With Radiotherapy-Related Fatigue",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Fatigue",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "fatigue measurement using the 13-item FACIT-fatigue scale",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* ECOG performance status 0 or 1\n* Medical clearance from attending radiation oncologist or medical oncologist to undergo a symptom-limited CPET\n* Currently undergoing intact breast radiotherapy for early stage breast cancer (including TisN0, T1N0, T2N0) or has completed intact breast RT in the last 3 months.\n* Receiving or received a prescribed dose of 4240 cGy in 16 fractions to the whole breast without treatment directed at nodal basins. Patients may also be receiving or have received a boost to the lumpectomy bed at the discretion of the treating physician.\n* Subjects may be treated in the supine or prone position at the discretion of the treating physician.\n* Subjects may be treated with or without a deep inspiratory breath hold technique at the discretion of the treating physician.\n* Identified by the treating radiation oncologist as having significant treatment-related fatigue or minimal treatment-related fatigue and not simply baseline fatigue. A score of \"0\" on the RTOG fatigue scale will be considered minimal fatigue, while a score of \"2\" or greater will be considered significant fatigue (moderate fatigue causing difficulty performing some ADLs).\n\nExclusion Criteria:\n\n* Currently undergoing post-mastectomy radiation\n* Has received chemotherapy previously or has a plan to receive chemotherapy during the timeframe of study assessment.\n* Any of the following absolute contraindications to CPET, as per American Thoracic Society (ATS) recommendations\n\n  * Acute myocardial infarction (within 3-5 days of any planned study procedures)\n  * Unstable angina\n  * Uncontrolled arrhythmia causing symptoms or hemodynamic compromise\n  * Recurrent syncope\n  * Active endocarditis\n  * Acute myocarditis or pericarditis\n  * Symptomatic severe aortic stenosis\n  * Uncontrolled heart failure\n  * Acute pulmonary embolus or pulmonary infarction within 3 months of any planned study procedures\n  * Thrombosis of lower extremities\n  * Suspected dissecting aneurysm\n  * Uncontrolled asthma\n  * Pulmonary edema\n  * Room air desaturation at rest \u2264 85%\n  * Respiratory failure\n  * Acute non-cardiopulmonary disorders that may affect exercise performance or be aggravated by exercise (i.e. infection, renal failure, thyrotoxicosis)\n  * Mental impairment leading to inability to cooperate",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

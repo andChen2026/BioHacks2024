@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00868634",
+    "briefTitle": "Capecitabine and Bevacizumab \u00b1 Vinorelbine in Metastatic Breast Cancer",
+    "officialTitle": "Capecitabine and Bevacizumab \u00b1 Vinorelbine as 1st Line Treatment in HER-2 Negative Metastatic or Locally Advanced Inoperable Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "Progression free survival (PFS)",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Written informed consent.\n* Able to comply with the protocol.\n* ECOG Performance status 0 - 2.\n* Life expectancy more than 12 weeks.\n* Known ER / PR status.\n* Confirmed HER2/neu-negative, adenocarcinoma of the breast with measurable or non-measurable locally recurrent or metastatic disease, who are candidates for chemotherapy.\n* Previous (neo)adjuvant chemotherapy is allowed provided that the last dose of chemotherapy was applied more than 6 months prior to randomization.\n* Previous adjuvant radiotherapy is allowed as part of the treatment of early breast cancer provided that no more than 30% of marrow-bearing bone was irradiated.\n* No signs and symptoms of CHF.\n* Adequate hepatic and renal function values.\n* Adequate hematologic function values.\n\nKey Exclusion Criteria:\n\n* Pregnant or lactating females.\n* Previous chemotherapy for metastatic or locally recurrent breast cancer.\n* Previous radiotherapy for the treatment of metastatic disease (unless given for the relief of metastatic bone pain)\n* Evidence of spinal cord compression or current evidence of central nervous system (CNS) metastases.\n* Major surgical procedure, open biopsy or significant traumatic in-jury within 28 days prior to randomization, or anticipation of the need for major surgery during the course of the study treatment.\n* History or evidence of inherited bleeding diathesis or coagulopathy with the risk of bleeding.\n* Uncontrolled hypertension (systolic \\> 150 mmHg and/or diastolic \\> 100 mmHg). Clinically significant (i.e. active) cardiovascular disease, requiring medication during the study and might interfere with regularity of the study treatment, or not controlled by medication.\n* Non-healing wound, active peptic ulcer or bone fracture.\n* History of abdominal fistula, or any grade 4 nongastrointestinal fistula, gastrointestinal perforation or intrabdominal abscess within 6 months of randomization.\n* Active infection requiring i.v. antibiotics at randomization.\n* Clinically significant malabsorption syndrome or inability to take oral medication.\n* Known hypersensitivity to any of the study drugs or excipients.\n* Concurrent treatment with any drug interfering with study medication. Concurrent participation in another clinical trial. Prior participation is allowed when the last study medication was applied more than 4 weeks prior to randomization.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

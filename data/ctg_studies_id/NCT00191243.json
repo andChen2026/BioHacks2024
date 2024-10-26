@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00191243",
+    "briefTitle": "Docetaxel vs. Docetaxel-Gemcitabine in Breast Cancer",
+    "officialTitle": "A Randomized Phase II Study Comparing Single-Agent Docetaxel to Alternating Docetaxel-Gemcitabine as Primary Chemotherapy in Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 237,
+    "primaryOutcomeMeasure": "Time to treatment failure (TTTF)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histologically verified diagnosis of breast carcinoma, at first diagnosis\n* restricted previous adjuvant chemotherapy (completed \\>6 months prior the study)\n* measurable and/or non-measurable disease\n* previous radiotherapy is allowed if:terminated at least 10 days prior the sudy therapy, at least one target lesion for evaluation of tumor response has not been irradiated\n* performance status 0-2 (WHO, Zubrod)\n* adequate bone marrow reserve defined\n* adequate liver / renal functions defined\n\nExclusion Criteria:\n\n* any prior systematic chemotherapy for metastatic breast cancer\n* expected survival time less than 12 weeks\n* past or current history of malignant neoplasm other than breast carcinoma\n\n  * except for cured non-melanoma skin cancer or curatively treated in situ carcinoma of the cervix uteri\n* known brain metastases/leptomeningeal involvement\n* active uncontrolled infection\n* symptomatic peripheral neuropathy \\> grade 2 according to NCI\n* patients whose lesions are assessable only by radionuclide scan or patients with sclerotic bone lesions as the only site of disease\n* concomitant illness that is contraindication to the use of corticosteroids\n* other concomitant serious illness or medical condition, which may worsen due to the treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03053193",
+    "briefTitle": "MammaPrint, BluePrint, and Full-genome Data Linked With Clinical Data to Evaluate New Gene EXpression Profiles",
+    "officialTitle": "MammaPrint, BluePrint, and Full-genome Data Linked With Clinical Data to Evaluate New Gene EXpression Profiles: An Adaptable Registry (FLEX)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 30000,
+    "primaryOutcomeMeasure": "A large scale registry of full genome expression data to investigate new gene associations with prognostic and/or predictive value will be created.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage I, II, or III patients who receive MammaPrint, with or without BluePrint testing (male or female)\n* Informed consent form signed on the same day or before enrollment\n* New primary lesion\n\nExclusion Criteria:\n\n* Tumor sample shipped to Agendia with \u2264 30% tumor cells or that fails QA or QC criteria\n* Metastatic disease\n* Recurrent disease\n* Stage 0 disease",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

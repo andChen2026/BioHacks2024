@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01880580",
+    "briefTitle": "Cone Beam CT for Breast Imaging",
+    "officialTitle": "Cone Beam CT for Breast Imaging: A Pilot Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Imaging, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 76,
+    "primaryOutcomeMeasure": "Image Quality of Cone Beam Breast CT",
+    "eligibilityCriteria": "Normal Group:\n\nInclusion Criteria:\n\n* Are at least 40 years of age of any ethnicity\n* Had a routine mammogram, read as BI-RADS\u00ae 0, 1, 2 or 3\n* Will undergo study imaging no later than six months from date of routine mammogram.\n* Is able to undergo informed consent.\n\nExclusion Criteria:\n\n* Pregnancy\n* Lactation\n* Patients with physical limitations that may prohibit resting prone on the exam table, such as, but not limited to: frozen shoulder, recent heart surgery, pace maker.\n* Patients who are unable to tolerate study constraints.\n* Patients who have received radiation treatments to the thorax for malignant and nonmalignant conditions, such as (but not limited to)\n\n  * Treatment for enlarged thymus gland as an infant\n  * Irradiation for benign breast conditions, including breast inflammation after giving birth\n  * Treatment for Hodgkin's disease\n* Patients who have participated in a prior breast clinical trial that gave additional radiation dose, such as an additional mammogram.\n* Patients who have received large numbers of diagnostic x-ray examinations for monitoring of disease such as (but not limited to)\n\n  * Tuberculosis\n  * Severe scoliosis\n\nDiagnostic Group:\n\nInclusion Criteria:\n\n* Women who are at least 40 years of age of any ethnicity\n* Have a palpable abnormality detected by Breast Self Exam (BSE), or Clinical Breast Exam (CBE) or have a non-palpable abnormality detected by an imaging modality\n* After diagnostic work-up are categorized as BI-RADS\u00ae 4 or 5.\n* Are scheduled for biopsy either by large gauge needle biopsy or excisional biopsy.\n* Will undergo study imaging prior to biopsy and within four weeks of diagnostic work-up.\n\nExclusion Criteria:\n\n* Pregnancy\n* Lactation\n* Patients who have already undergone biopsy for the index lesion\n* Patients who are unable or unwilling to undergo biopsy for the lesion of concern\n* Patients with physical limitations that may prohibit the patient from resting prone on the exam table, such as, but not limited to: frozen shoulder, recent heart surgery, pace maker.\n* Patients who are unable to tolerate study constraints.\n* Patients who have received radiation treatments to the thorax or breast area for malignant and nonmalignant conditions, such as (but not limited to)\n\n  * Treatment for enlarged thymus gland as an infant\n  * Irradiation for benign breast conditions, including breast inflammation after giving birth\n  * Treatment for Hodgkin's disease\n* Patients who have participated in a prior breast clinical trial that gave additional radiation dose, such as an additional mammogram.\n* Patients who have received large numbers of diagnostic x-ray examinations for monitoring of disease such as (but not limited to)\n\n  * Tuberculosis\n  * Severe scoliosis",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04922008",
+    "briefTitle": "Stage I HER2 Positive Invasive Breast Cancer De-escalation Study(IRIS-C/D)",
+    "officialTitle": "An Open-label, Phase II Study Evaluating the Efficacy and Safety of Trastuzumab Combined With Oral Chemotherapy in Patients With HER-2 Positive Stage I Breast Cancer",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 356,
+    "primaryOutcomeMeasure": "iDFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females 18-70 years old;\n* Pathological confirmed of stage I breast cancer: histologically confirmed that the longest diameter of invasive cancer is no more than 2cm and the lymph node is negative (N0);\n* If a patient is HR negative(ER/PR\\<10%), the longest diameter of invasive cancer could not exceed 2cm; while if a patient is HR positive(ER and/or PR \u226510%\uff09,the longest diameter of invasive cancer is greater than 1cm and no more than 2cm;\n* The pathological type of immunohistochemistry must meet the following conditions: HER-2 (3+) or HER-2 (0-2 +) with FISH detection is amplified;\n* For patients with invasive lesions on both sides, if both lesions are HER-2 positive and meet the tumor size requirements, then can be enrolled;\n* Has adequate organ function meeting the following criteria: (1) adequate bone marrow function: hemoglobin \u2265 90 g/L (no blood transfusion within 14 days); absolute neutrophil count \u2265 1.5 x 109 /L; platelet count \u2265 100 \\* 109 /L; (2)adequate liver and kidney function: Alanine Aminotransferase (ALT) \u2264 3\u00d7upper limit of normal (ULN), Aspartate Aminotransferase (AST)\n\n  \u2264 3\u00d7ULN, Total Bilirubin (TBIL)\u2264 1.5\u00d7ULN, serum creatinine \u2264 1\u00d7ULN#and with endogenous creatinine clearance rate of \\>50 ml/min (Cockcroft-Gault formula);\n* LVEF\\>50%;\n* The patient voluntarily joined the study, signed the informed consent form, had good compliance, and cooperated with the follow-up.\n\nExclusion Criteria:\n\n* Has received neoadjuvant therapy (include chemotherapy, targeted therapy, radiotherapy or endocrine therapy;\n* Has previous history of additional malignancy, with the exception of adequately treated basal cell carcinoma and cervical carcinoma in situ;\n* Has metastic (Stage 4) breast cancer;\n* Pregnant or breast feeding women, or women of childbearing age who cannot practice effective contraceptives;\n* Patients participating in other clinical trials at the same time;\n* Has severe organ dysfunction (cardiopulmonary liver and kidney) insufficiency, left ventricular ejection fraction (LVEF) \\< 50% (cardiac ultrasound); severe cardio cerebral vascular disease within the 6 months previous of randomization (such as unstable angina, chronic heart failure, uncontrolled hypertension with blood pressure\\>150/90mmHg, myocardial infarction, or cerebral blood vessel); diabetic patients with poor blood glucose control; patients with severe hypertension;\n* Has severe or uncontrolled infection;\n* Has a history of psychotropic substance abuse and were unable to abandon drug habits, or those with history of mental disorders;\n* The researchers considered patients to be unsuitable for the study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

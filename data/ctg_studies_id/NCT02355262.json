@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02355262",
+    "briefTitle": "CATCH-UP Intervention in Increasing Cancer Screening and Prevention Care in Uninsured Patients at Community Health Centers",
+    "officialTitle": "Community-Based HIT Tools for Cancer Screening and Health Insurance Promotion (CATCH-UP)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Carcinoma, Cervical Carcinoma, Colorectal Carcinoma, Health Status Unknown, Human Papillomavirus Infection, Malignant Neoplasm",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "Changes in the proportion of clinic patients who receive age- and gender-appropriate recommended cancer screening and preventive care (clinic-level)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Established patients at CHC sites\n* Low-income\n* Ethnically diverse populations with lower rates of cancer screening compared to national rates\n* Uninsured patients\n* Patients 18 to 64 years of age\n* Clinics must be primary care sites, with greater than 1,000 adult patients in the past year, be located in a state that expanded Medicaid, and have implemented the OCHIN EHR prior to January 1, 2012",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00914017",
+    "briefTitle": "Statins and Breast Cancer Biomarkers",
+    "officialTitle": "Statins and Breast Cancer Biomarkers",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "To evaluate change in percent mammographic density after one year of statin administration in pre-menopausal women at high risk for breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women willing and able to give written informed consent\n* Pre-menopausal women with regular menstrual cycles (4 cycles in the past 6 months)\n* At least 35 years of age\n* Women at increased risk of developing breast cancer, defined as at least one of the following four criteria:\n\n  * Having had a biopsy demonstrating atypical hyperplasia or lobular neoplasia/LCIS\n  * A germline mutation in BRCA1/2 in themselves or their family.\n  * A Gail Model Risk of \\> 1.67% over 5 years\n  * A strong family history of breast and/or ovarian cancer which is defined as at least one of the following:\n\n    * One first-degree relative with breast cancer before the age of 50 years\n    * One first degree relative with bilateral breast cancer\n    * Two or more first-degree relatives with breast cancer\n    * One first degree relative and two or more second or third degree relatives with breast cancer\n    * One first-degree relative with breast cancer and one or more relatives with ovarian cancer\n    * Two second or third degree relatives with either breast cancer and one or more with ovarian cancer\n    * One second or third degree relative with breast cancer and two or more with ovarian cancer\n    * Three or more second or third degree relatives with breast cancer\n  * A prior history of breast cancer, including DCIS and stage 0-IIIb, and are at least one year off of all therapy (including radiation, biologic, hormonal and/or chemotherapy)\n\nExclusion Criteria:\n\n* Women with a prior history of stage IV breast cancer or ovarian cancer\n* Women already taking statins. Women previously on statins may participate if they have not taken any statins in the six months prior to study entry\n* Women concurrently participating in another breast cancer chemoprevention trial\n* Women taking hormone replacement therapy (estrogen and progesterone; topical estrogen will be allowed)\n* Women taking tamoxifen, raloxifene, or an aromatase inhibitor\n* Women taking drugs that increase risk of statin induced myopathy or rhabdomyolysis (i.e., Niacin, protease inhibitors, verapamil, gemfibrozil, cyclosporine, clofibrate/fenofibrate or any CYP3A4 inhibitor)\n* Women with underlying liver disease or abnormal liver studies including:\n\n  * alkaline phosphatase, ALT, AST and Bilirubin (greater than 1.5 times normal)\n* Women who have had hypersensitivity to atorvastatin or any component of the formulation\n* Women who are pregnant, planning pregnancy within the next year, or breastfeeding",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT"
+}

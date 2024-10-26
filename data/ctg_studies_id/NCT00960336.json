@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00960336",
+    "briefTitle": "Doxorubicin Hydrochloride Liposome as First-Line Therapy in Treating Older Women With Metastatic Breast Cancer",
+    "officialTitle": "Multicenter Study of PEGylated Liposomal Doxorubicin in Geriatric Oncology - Metastatic Breast Cancer - First-line Treatment PEGylated Liposomal Doxorubicin in Patients Older Than 70 Years, Breast Cancer Metastasis",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 59,
+    "primaryOutcomeMeasure": "Response rate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive ductal or lobular adenocarcinoma of the breast\n\n  * Metastatic disease as confirmed by \u2265 1 of the following:\n\n    * Histology or cytology\n    * Radiology\n    * Elevated CA 15-3 levels\n* No HER2/neu overexpression by IHC or FISH\n* Measurable (\u2265 10 mm) or evaluable disease\n\n  * Bone lesions or isolated pleural effusion allowed\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Postmenopausal\n* Life expectancy \\> 3 months\n* ANC \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Hemoglobin \u2265 9 g/dL\n* AST and ALT \u2264 2.5 times upper limit of normal (ULN) (5 times ULN if liver metastases are present)\n* Alkaline phosphatase \u2264 5 times ULN\n* Bilirubin \u2264 2 times ULN\n* Creatinine clearance \u2265 30 mL/min\n* LVEF \u2265 50%\n* No congestive heart failure or other uncontrolled cardiac disease\n* No other malignancy within the past 5 years except for curatively treated carcinoma in situ of the cervix, urothelial in situ carcinoma, or basal cell cancer\n* No prior hypersensitivity to anthracyclines\n* No psychological, familial, social, or geographical reason that would preclude study follow-up\n* No serious illness or physical or mental condition resulting in a permanent disability that may preclude successful treatment\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior chemotherapy for metastatic disease\n* Prior adjuvant chemotherapy allowed\n\n  * No development of metastatic disease within 6 months after completion of adjuvant anthracycline-based chemotherapy\n* No more than 300 mg/m\u00b2 of prior doxorubicin hydrochloride or 600 mg/m\u00b2 of prior epirubicin hydrochloride in the adjuvant setting\n* More than 30 days since prior participation in another clinical trial",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

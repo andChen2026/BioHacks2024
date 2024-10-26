@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05813145",
+    "briefTitle": "Fenofibrate Role in Breast Cancer Patients",
+    "officialTitle": "Fenofibrate Role Against Chemotherapy Induced Peripheral Neurotoxicity in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Nerve growth factor (NGF) Concentration",
+    "eligibilityCriteria": "Inclusion criteria:\n\n1. included a diagnosis breast cancer with age \\> 18 years.\n2. Na\u00efve to chemotherapy\n\nExclusion Criteria:\n\n1. Concurrent administration (statins , cyclosporine) .\n2. Advanced liver disease (defined as liver enzyme elevation \\>3-fold upper limit of normality, or cirrhosis); chronic kidney disease (CKD, defined as an eGFR \\<60 ml min-1 1.73 m-2); acute or chronic pancreatitis and diabetes.\n3. Patients with a history of allergy to fenofibrate.\n4. Concomitant use of opioids, anticonvulsants, tricyclic antidepressants, other neuropathic pain medication.\n5. Pregnancy or breast feeding.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

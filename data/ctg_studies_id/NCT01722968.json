@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01722968",
+    "briefTitle": "A Biomarker Study in Patients With HER2-negative Metastatic Breast Cancer Treated With Bevacizumab and Paclitaxel",
+    "officialTitle": "A Prospective Randomized Phase II Study to Identify Predictive Biomarkers and Mechanisms of Therapy Resistance in Patients With HER2-negative Metastatic Breast Cancer Treated With the Combination of Bevacizumab and Paclitaxel (BEVPAC).",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 33,
+    "primaryOutcomeMeasure": "Identification of molecular biomarkers",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age 18-70 years.\n2. Performance status ECOG 0-2.\n3. Clinically and / or radiologically proven stage IV or recurrent HER2 negative breast cancer.\n4. At least one tumor lesion accessible for biopsy. This lesion may not have been treated previously with irradiation.\n5. Clinically and/or radiographically documented measurable disease according to RECIST v1.1 criteria. At least one site of disease must be unidimensionally measurable as follows:\n\n   1. CT-scan, physical exam \u2265 10 mm} Chest X-ray \u2265 20 mm }see Eisenhauer et al. for more details\n   2. Lymph node short axis \u2265 15 mm }\n   3. All radiology studies must be performed within 28 days prior to registration (35 days if negative).\n6. Adequate bone-marrow, hepatic and renal function defined as laboratory tests within 7 days prior to enrollment:\n\n   1. Haematology: Absolute granulocytes \\> 1.5 x 109/L Platelets \\> 100 x 109/L\n   2. Biochemistry:Bilirubin within normal limits Serum creatinine within normal limits\n7. APTT and INR within normal limits within 7 days prior to enrollment.\n8. Adequate cardiac function with Left Ventricular Ejection Fraction (LVEF) within normal limits determined by echocardiogram or MUGA within 28 days prior to inclusion.\n9. Written informed consent must be given.\n\nExclusion Criteria:\n\n1. Previous systemic treatment for MBC.\n2. Major surgery less than 28 days prior to enrollment.\n3. Concurrent malignancy of any site, except adequately controlled limited basal cell carcinoma or squamous-cell carcinoma of the skin or carcinoma in situ of the cervix.\n4. Bleeding diathesis, history of thromboembolic disease, or ongoing treatment with warfarin, heparin analogs or antiplatelet drugs.\n5. Major cardiac comorbidity.\n6. Previous treatment with bevacizumab.\n7. Previous allergic reaction to taxane analogs.\n8. Ongoing pregnancy or lactation.\n9. Any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule; those conditions should be discussed with the patient before registration in the trial.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

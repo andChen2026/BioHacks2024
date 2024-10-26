@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01803139",
+    "briefTitle": "Long Term Results of the Canadian Breast IMRT Study",
+    "officialTitle": "Long Term Outcomes of a Multicentre Controlled Clinical Trial of Breast Irradiation Using Intensity-Modulated Radiation Therapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 358,
+    "primaryOutcomeMeasure": "Chronic breast pain using Visual Analog Scale",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients treated in the Canadian Phase 3 randomised controlled trial breast IMRT trial\n\nExclusion Criteria:\n\n* Patients declining participating to this study\n* Patients unable to travel to the study site\n* Patients deceased",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

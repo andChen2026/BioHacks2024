@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02049632",
+    "briefTitle": "Sentinel Node Biopsy in Breast Cancner: Omission of Axillary Clearance After Micrometastasis",
+    "officialTitle": "Survival and Axillary Relapse in Breast Cancer Patients With Sentinel Node Micrometastases Who Have Not Undergone Completion Axillary Clearance - a National Cohort Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 805,
+    "primaryOutcomeMeasure": "Disease-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with clinically node-negative, invasive breast cancer \u2264 5 cm (T1-T2)\n* Histopathology results demonstrate SN micrometastases.\n* Patients who undergo mastectomy (protocol change from April 2017 onwards)\n* The patient must have given verbal and written consent.\n\nExclusion Criteria:\n\n* Preoperatively diagnosed lymph node metastases.\n* Sentinel node metastases \\> 2 mm.\n* Metastases beyond the ipsilateral axillary lymph nodes at the time of surgery.\n* History of previous breast cancer.\n* Pregnancy.\n* Bilateral breast cancer where any of the other exclusion criteria applies to either side.\n* Medical contraindication for systemic adjuvant therapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

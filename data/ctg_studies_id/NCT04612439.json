@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04612439",
+    "briefTitle": "Accuracy of VABB Elite 10G Versus BARD 14G CNB",
+    "officialTitle": "Accuracy of Vacuum-assisted Breast Biopsy Elite 10G Versus BARD 14G Core Needle Biopsy of Abnormal Breast Lesions.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1470,
+    "primaryOutcomeMeasure": "Accuracy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Over 18 years old (including 18 years old)\n* Ultrasound examination indicates the presence of space-occupying lesions in the breast. The size, location, and BI-RADS classification are not limited.\n* Agree to undergo surgery after puncture\n* Ability and willingness to sign informed consent\n\nExclusion Criteria:\n\n* A biopsy has been performed in the external hospital\n* Contraindications for puncture or surgery such as severe coagulation dysfunction\n* Refuse breast surgery\n* Axillary lymph node puncture",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

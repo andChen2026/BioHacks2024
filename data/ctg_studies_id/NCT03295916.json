@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03295916",
+    "briefTitle": "Stereotactic Body Radiotherapy for Patients With Breast Cancer Oligometastasis",
+    "officialTitle": "Stereotactic Body Radiotherapy (SBRT) for the Treatment of OligoMetastasis in Breast Cancer Patients (STOMP): A Prospective Feasibility Trial",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Technical feasibility of planning SBRT to multiple sites",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Diagnosis of newly metastatic breast cancer with a disease-free interval of at least six months from initial completion of primary breast cancer (stage I-III) treatment (including net-adjuvant or adjuvant chemotherapy, but excluding hormonal or targeted therapies).\n\n   Adequate definitive primary treatment is required, including partial or complete mastectomy, standard partial breast, whole breast or loco-regional radiotherapy, with or without hormonal therapy or chemotherapy. Note patients must be offered systemic therapy prior to radiotherapy, if deemed fit for treatment. Systemic therapy (including chemotherapy, hormonal therapy, or targeted therapy may have been initiated within the previous 12 months, or commence following SBRT. Alternatively patients may develop breast OM while on any adjuvant hormonal therapy provided at least six months have passed since definitive local treatment or chemotherapy;\n2. No more than 12 months may have passed since diagnosis of OM disease;\n3. Total burden of disease limited to 5 metastatic sites or less, and the size of each metastatic lesion must be less than 5 centimeters;\n4. All lesions amenable to SBRT (lesions may overlap if treatable at discretion of Radiation Oncologist).\n\nExclusion Criteria:\n\n1. Previous radiotherapy to same site or vicinity preventing definitive SBRT (eg. within 5 cm);\n2. Unacceptable fracture risk according to clinician judgement for bone lesions;\n3. Brain metastasis, spinal cord compression, superior vena cava obstruction;\n4. Bone lesions inside the femoral head/neck;\n5. Patients refusing or deemed ineligible for systemic (chemotherapy, hormonal therapy or targeted therapy);\n6. History of major radiosensitivity syndrome or contraindications to radiotherapy;\n7. Second invasive malignancy within the past 3 years (excluding non-melanomatous skin cancer);\n8. Inability to lie supine for 60 minutes of treatment;\n9. Currently pregnant or lactating;\n10. Psychiatric or addictive disorders precluding informed consent or adherence to protocol;\n11. Geographic inaccessibility for follow-up;\n12. Performance status Eastern Cooperative Oncology Group 3 or worse;\n13. Inadequate organ function: complete blood count, liver function tests including albumin, bilirubin and International nominalized ratio (INR) (for liver SBRT);\n14. Less than 18 years of age.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04726319",
+    "briefTitle": "Family History App in Personalized Medicine",
+    "officialTitle": "Family History App in Personalized Medicine (FHAMe): A Pilot Randomized Controlled Trial",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Cancer, Breast, Cancer, Ovarian, Cancer, Colorectal, Cancer, Prostate, Melanoma, Coronary Artery Disease, Diabetes Mellitus, Type 2",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 627,
+    "primaryOutcomeMeasure": "Proportion of patients with new documentation of family history in EMR",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 30-69 years of age\n\nExclusion Criteria:\n\n* Pregnancy\n* Must be patients of staff physicians (i.e. no resident patients)\n* Must have email address registered in the OCEAN system",
+    "sex": "ALL",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

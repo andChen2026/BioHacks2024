@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01611051",
+    "briefTitle": "A Study Comparing Pegylated rhG-CSF and rhG-CSF as Support to Breast Cancer Patients Receiving Chemotherapy",
+    "officialTitle": "N/A",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Neutropenia, Febrile Neutropenia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 330,
+    "primaryOutcomeMeasure": "Rate and the duration of grade 3/4 neutropenia in cycle 1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Investigator diagnosis of breast cancer\n* Age 18 to 70 years\n* ECOG performance status \u2264 1\n* Chemotherapy na\u00efve\n* Body weight \u2265 45kg\n* Hemoglobin \u2265 90g/L; white blood cell \u2265 4.0\u00d7109/L; absolute neutrophil count \u22651.5 \u00d7 109/L; platelet count \u2265 100 \u00d7 109/L\n* Alanine transarninase \u22641.5\u00d7ULN; aspartate aminotransferase \u22641.5\u00d7ULN; serum creatinine \u22641.5\u00d7ULN; total bilirubin \u22641.5\u00d7ULN\n\nExclusion Criteria:\n\n* Prior bone marrow or stem cell transplantation\n* Received systemic antibiotics treatment within 72 h of chemotherapy\n* Radiation therapy within 4 weeks of randomization into this study\n* Pregnancy, lactation",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

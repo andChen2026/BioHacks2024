@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01856452",
+    "briefTitle": "Comparison Study of Sentinel Lymph Node Biopsy by Multimodal Method in Breast Cancer",
+    "officialTitle": "Phase II Study of Comparison of Sentinel Lymph Node Biopsy Guided by The Multimodal Method of Indocyanine Green Fluorescence, Radioisotope and Blue Dye Versus the Radioisotope in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 86,
+    "primaryOutcomeMeasure": "Time to sentinel lymph node biopsy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* clinically lymph node negative breast cancer patients\n* consented patients with more than 20 years\n\nExclusion Criteria:\n\n* history of breast cancer\n* locally advanced breast cancer and metastatic breast cancer\n* proven axillary lymph node metastasis\n* history of axillary excisional or incisional biopsy, or dissection\n* history of neoadjuvant chemotherapy\n* pregnancy\n* non-consented patients\n* younger than 20 years old",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

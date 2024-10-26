@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00327769",
+    "briefTitle": "Faslodex Advanced Breast Cancer Local Chinese Study",
+    "officialTitle": "A Double Blind, Double Dummy, Randomised, Multicentre Study to Compare the Efficacy and Safety of Fulvestrant 250mg With Arimidex 1mg as a Secondary-line Therapy in the Postmenopausal Women With Oestrogen Receptor Positive Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 234,
+    "primaryOutcomeMeasure": "Time to Disease Progression (TTP)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Postmenopausal advanced breast cancer with oestrogen receptor positive\n* Progression under first-line anti-oestrogen therapy.\n\nExclusion Criteria:\n\n* Life-threatening metastasis; contraindication to anastrozole\n* \\>2 regimens of hormonotherapy for advanced breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

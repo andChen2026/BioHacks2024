@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03417024",
+    "briefTitle": "Automated Breast Ultrasound Case Collection Registry",
+    "officialTitle": "Automated Breast Ultrasound Case Collection Registry",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 13,
+    "primaryOutcomeMeasure": "Number of Complete Breast Imaging Datasets",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Are asymptomatic adult women (aged 18 years or older);\n2. Are eligible to complete or have completed (within 30 days) screening ABUS and DBT exams per the site standard of care;1\n3. Have heterogeneously dense and extremely dense breasts (BI-RADS C or D, respectively) or are determined to have dense breasts prior to the study on initial screening mammography;\n4. Are able and willing to participate.\n\nExclusion Criteria:\n\n1. Have a breast cancer diagnosis (with or without metastasis) or are being treated for breast cancer within the year prior to the study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

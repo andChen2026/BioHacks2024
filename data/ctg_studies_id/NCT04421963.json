@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04421963",
+    "briefTitle": "Roll Over StudY for Patients Who Have Completed a Previous Oncology Study With Olaparib",
+    "officialTitle": "Roll Over StudY for Patients Who Have Completed a Previous Oncology Study With Olaparib and Are Judged by the Investigator to Clinically Benefit From Continued Treatment",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Ovarian Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 267,
+    "primaryOutcomeMeasure": "Safety follow up",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Provision of signed and dated, written ICF.\n2. Patient is currently deriving clinical benefit, as judged by the Investigator, from continued treatment in an AZ parent study using an AstraZeneca (AZ) compound that has met its endpoints or has otherwise stopped.\n3. Patient participating in a prior oncology study with an AZ compound in which they received olaparib and are continuing to receive clinical benefit from treatment; the prior study can be an open-label or blinded study, with unblinding at study close.\n\nExclusion Criteria:\n\n1. Ongoing, unresolved, Grade 3 or above toxicity requiring interruption of treatment at the time of the termination of the parent study.\n2. Currently receiving treatment with any prohibited medication(s).\n3. Concurrently enrolled in any other type of medical research judged not to be scientifically or medically compatible with this study.\n4. Permanent discontinuation from the parent study due to toxicity or disease progression.\n5. Local access to commercially-available drug at no cost to the patient is permitted by local regulation.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

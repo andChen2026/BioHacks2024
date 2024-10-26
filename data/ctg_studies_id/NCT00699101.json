@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00699101",
+    "briefTitle": "Using the Conture\u00ae Multi-Lumen Balloon to Deliver Accelerated Partial Breast Brachytherapy",
+    "officialTitle": "A Multi-site Prospective, Non Randomized Study Utilizing the Conture\u00ae Multi-Lumen Balloon (MLB) Breast Brachytherapy Applicator to Deliver Accelerated Partial Breast Irradiation: Analysis of Dosimetric Success, Local Tumor Control, Cosmetic Outcome, Acute and Chronic Toxicity, and Clinical Scenarios for Optimal Use",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 342,
+    "primaryOutcomeMeasure": "Dosimetric efficacy of the Contura\u2122 MLB with the historical efficacy rate of a single central lumen balloon device.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Able and willing to sign informed consent\n* Age 50 or older at diagnosis\n* Life expectancy greater than 10 years (excluding diagnosis of breast cancer).\n* Surgical treatment of the breast must have been lumpectomy. The margins of the resected specimen must be histologically free of tumor (negative surgical margins per NSABP criteria).\n* On histologic examination, the tumor must be DCIS or invasive breast carcinoma. For patients with invasive breast cancer, an axillary staging procedure must be performed. Either:\n\n  1. sentinel node biopsy (SNB) alone if sentinel node(s) is/are negative; or\n  2. axillary dissection (minimum of six axillary nodes removed); and\n  3. the axillary node(s) must be pathologically negative.\n* The T stage must be Tis, T1, or T2. If T2, the tumor must be \u2264 3.0 cm in maximum diameter.\n* Estrogen receptor positive tumor\n\nExclusion Criteria:\n\n* Age \\< 50 at diagnosis (regardless of histology)\n* Pregnant or breast-feeding (if appropriate, patient must use birth control during the study)\n* Active collagen-vascular disease\n* Paget's disease of the breast\n* History of DCIS or invasive breast cancer\n* Prior breast or thoracic RT for any condition\n* Multicentric carcinoma (DCIS or invasive)\n* Synchronous bilateral invasive or non-invasive breast cancer\n* Surgical margins that cannot be microscopically assessed or that are positive or close\n* Positive axillary node(s)\n* T stage of T2 with the tumor \\> 3 cm in maximum diameter or a T stage \\> 3\n* Estrogen receptor negative tumor",
+    "sex": "ALL",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

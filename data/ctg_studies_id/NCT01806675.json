@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01806675",
+    "briefTitle": "18F-FPPRGD2 PET/CT or PET/MRI in Predicting Early Response in Patients With Cancer Receiving Anti-Angiogenesis Therapy",
+    "officialTitle": "Phase 1-2 18F-FPPRGD2 PET/CT or PET/MRI Imaging of \u03b1v\u03b23 Integrins Expression as a Biomarker of Angiogenesis",
+    "overallStatus": "COMPLETED",
+    "conditions": "Adult Giant Cell Glioblastoma, Adult Glioblastoma, Adult Gliosarcoma, Male Breast Cancer, Metastatic Squamous Neck Cancer With Occult Primary Squamous Cell Carcinoma, Recurrent Adenoid Cystic Carcinoma of the Oral Cavity, Recurrent Adult Brain Tumor, Recurrent Basal Cell Carcinoma of the Lip, Recurrent Colon Cancer, Recurrent Esthesioneuroblastoma of the Paranasal Sinus and Nasal Cavity, Recurrent Hypopharyngeal Cancer, Recurrent Inverted Papilloma of the Paranasal Sinus and Nasal Cavity, Recurrent Laryngeal Cancer, Recurrent Lip and Oral Cavity Cancer, Recurrent Lymphoepithelioma of the Nasopharynx, Recurrent Lymphoepithelioma of the Oropharynx, Recurrent Metastatic Squamous Neck Cancer With Occult Primary, Recurrent Midline Lethal Granuloma of the Paranasal Sinus and Nasal Cavity, Recurrent Mucoepidermoid Carcinoma of the Oral Cavity, Recurrent Nasopharyngeal Cancer, Recurrent Non-small Cell Lung Cancer, Recurrent Oropharyngeal Cancer, Recurrent Pancreatic Cancer, Recurrent Paranasal Sinus and Nasal Cavity Cancer, Recurrent Rectal Cancer, Recurrent Renal Cell Cancer, Recurrent Salivary Gland Cancer, Stage IIIA Breast Cancer, Stage IIIA Non-small Cell Lung Cancer, Stage IIIB Breast Cancer, Stage IIIB Non-small Cell Lung Cancer, Stage IIIC Breast Cancer, Stage IV Breast Cancer, Stage IV Non-small Cell Lung Cancer, Stage IV Pancreatic Cancer, Stage IV Renal Cell Cancer, Stage IVA Colon Cancer, Stage IVA Rectal Cancer, Stage IVA Salivary Gland Cancer, Stage IVB Colon Cancer, Stage IVB Salivary Gland Cancer, Stage IVC Salivary Gland Cancer, Tongue Cancer, Unspecified Adult Solid Tumor, Protocol Specific",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Change From Baseline in Maximum Standard Uptake Values (SUVmax)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Provides written informed consent\n* Diagnosed with advanced NSCLC, breast cancer, GBM or other cancers (such as head and neck, colorectal, pancreatic, renal cancers); patients will undergo anti-angiogenesis treatment or treatment with other drugs that may alter angiogenesis\n* Able to remain still for duration of each imaging procedure (about one hour)\n\nExclusion Criteria:\n\n* Pregnant or nursing\n* Contraindication to MRI\n* History of renal insufficiency (only for MRI contrast administration)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00244959",
+    "briefTitle": "Anastrozole in Treating Postmenopausal Women With DCIS or Stage I-III Breast Cancer",
+    "officialTitle": "Surrogate Markers of Response: A Phase II Study of Changes in Breast Density Among Postmenopausal Women Receiving Adjuvant Anastrozole Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 54,
+    "primaryOutcomeMeasure": "Change in breast density after 12 months of treatment",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer meeting 1 of the following criteria:\n\n  * Ductal carcinoma in situ (DCIS)\n  * Invasive carcinoma\n\n    * Stage I-III disease\n* Must have undergone breast cancer surgery within the past 6 months, including any of the following:\n\n  * Mastectomy or lumpectomy with or without radiation\n  * Sentinel node and/or axillary node dissection\n  * Re-excision of lumpectomy margins\n* Intact contralateral breast\n\n  * No prior radiation therapy or mastectomy\n  * Prior biopsies allowed\n* Hormone receptor status:\n\n  * Estrogen and/or progesterone receptor-positive tumor by immunohistochemical staining\n\nPATIENT CHARACTERISTICS:\n\nSex\n\n* Female\n\nMenopausal status\n\n* Postmenopausal, defined as 1 of the following:\n\n  * At least 60 years of age\n  * Less than 60 years of age and amenorrheic \u2265 12 months prior to study entry\n  * Less than 60 years of age, amenorrheic for \\< 12 months prior to day 1, and luteinizing hormone (LH) and follicle stimulating hormone (FSH) values within postmenopausal range\n  * Less than 60 years of age, without a uterus, and LH and FSH values within postmenopausal range\n  * Underwent prior bilateral oophorectomy\n  * Underwent prior radiation castration AND amenorrheic for \u2265 6 months\n\nPerformance status\n\n* ECOG 0-2\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Not specified\n\nHepatic\n\n* Not specified\n\nRenal\n\n* Not specified\n\nPRIOR CONCURRENT THERAPY:\n\nChemotherapy\n\n* No prior or concurrent adjuvant chemotherapy for breast cancer\n\nEndocrine therapy\n\n* No prior aromatase inhibitor\n* At least 6 weeks since prior and no concurrent tamoxifen\n* At least 6 weeks since prior and no concurrent hormone replacement therapy\n\n  * Concurrent low-dose, local vaginal estrogen in the form of either a conjugated estrogen ring or other similar product (e.g., Estring\u00ae or Vagifem\u00ae) allowed\n* At least 6 weeks since prior and no other concurrent selective estrogen receptor modulators (e.g., raloxifene)\n\nRadiotherapy\n\n* See Disease Characteristics\n\nSurgery\n\n* See Disease Characteristics\n* No contralateral breast implant\n\nOther\n\n* Concurrent bisphosphonates allowed at the discretion of the treating oncologist\n* No concurrent consumption of soy supplements\n\n  * Concurrent routine dietary consumption of soy-containing foods allowed\n* No other concurrent investigational or commercial drugs or therapies for the treatment of DCIS or invasive breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

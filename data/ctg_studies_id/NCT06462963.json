@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06462963",
+    "briefTitle": "OligoCare TwiCs (Trials Within Cohorts) Trial Comparing Acute Toxicity in Single-fraction vs Multiple-fraction SBRT for Metastasis-directed Treatment (SPRINT)",
+    "officialTitle": "OligoCare TwiCs (Trials Within Cohorts) Trial Comparing Acute Toxicity in Single-fraction vs Multiple-fraction SBRT for Metastasis-directed Treatment (SPRINT)",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer, Prostate Cancer, NSCLC, Colorectal Cancer, Oligometastatic Disease",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 302,
+    "primaryOutcomeMeasure": "Grade 3+ SBRT-related toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient is part of the RP1822-OligoCare. As in OligoCare, ALL active cancer lesions (loco-regional primary and all oligometastases) were or will be treated with radical intent (surgery or radiotherapy).\n* All lesions that will be treated with radical radiotherapy have to be amenable to single-fraction SBRT. Concurrent systemic treatment is allowed.\n* Written informed consent must be given according to ICH/GCP, and national/local regulations. Patients will be consented in a step-wise approach.\n\nStep 1 \\[both control and experimental arms\\]: patients will need to consent to be included and evaluated in E\u00b2-RADIatE (that includes the non-interventional OligoCare prospective registry cohort) and to potentially be randomized to future sub-studies for which they are eligible; no further consent will be sought if they are randomized to the SoC (control) arm; Step 2 \\[experimental arm only\\]: if eligible for the current sub-study and randomized to receive single-fraction SBRT, patients will need to consent to receiving the experimental treatment.\n\nExclusion Criteria:\n\nAll targeted lesion judged by the treating physician to be associated with risks for severe toxicity following single-fraction SBRT. The following lesions are systematically excluded:\n\n* Pulmonary metastases within 1 cm of proximal bronchial tree, esophagus or brachial plexus\n* Metastases within \\< 5 mm of any hollow GI structure: esophagus, stomach, small bowel, large bowel\n* Metastases within \\< 5 mm of the spinal cord, the cauda equina or the brachial plexus\n* Metastases \\> 5 cm in largest diameter.",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

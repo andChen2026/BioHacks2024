@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02603679",
+    "briefTitle": "Neoadjuvant Response-guided Treatment of Luminal B-type Tumors and Luminal A-type Tumors With Node Metastases",
+    "officialTitle": "PREDIX Luminal B - Neoadjuvant Response-guided Treatment of ER Positive Tumors With High Proliferation or Low Proliferation With Metastatic Nodes. Part of a Platform of Translational Phase II Trials Based on Molecular Subtypes",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Early-Stage Breast Carcinoma, Estrogen Receptor Positive Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 181,
+    "primaryOutcomeMeasure": "Radiological Objective Response Rate after Completion of the First 12-week Period of Primary Medical Treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Written informed consent\n2. Female or male patients with breast cancer confirmed by histology\n3. Tumor and blood samples available. Luminal B type confirmed by immunohistochemistry or, preferably, genomic profiling using Next-Generation Sequencingwith ER \u2265120% and Ki67 \u226520% and not HER2 amplified, or, if aged 40 or younger and/or verified lymph node metastases, luminal A type, defined as ER and PR positive \u226520% and the proliferation marker Ki 67 \\<20% and not HER2 amplified. Any luminal B, Luminal A with verified lymph node metastases and/or aged 40 or younger\n4. Age 18 years or older. Elderly patients in condition adequate for planned therapy\n5. Primary breast cancer \\>20mm in diameter and/or verified regional lymph node metastases\n6. Adequate bone marrow, renal, hepatic and cardiac functions and no other uncontrolled medical or psychiatric disorders\n7. LVEF \\>55%\n8. ECOG performance status 0-1\n9. Primary breast cancer as defined in p. 5 plus at most 2 morphologically characterized well-defined distant metastases accessible for stereotactic radiotherapy, provided that this treatment is available\n\nExclusion Criteria:\n\n1. Distant metastases, including node metastases in the contralateral thoracic region or in the mediastinum\n2. Other malignancy diagnosed within the last five years, except for radically treated basal or squamous cell carcinoma of the skin or CIS of the cervix\n3. Patients in child-bearing age without adequate contraception\n4. Pregnancy or lactation\n5. Uncontrolled hypertension, heart, liver, kidney related or other medical or psychiatric disorders",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01428739",
+    "briefTitle": "Correlation Between MRS (Magnetic Resonance Spectroscopy) and Tumor Response to Radiation Therapy in Breast Cancer",
+    "officialTitle": "Correlation Between MRS (Magnetic Resonance Spectroscopy) and Tumor Response to Radiation Therapy in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 8,
+    "primaryOutcomeMeasure": "MRS Correlation with Treatment Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosed Breast cancer\n* Patient is 18 years or older\n* Karnofsky performance score \\> 70\n* No previously irradiated or recurrent breast cancer\n* No contraindication to MRS/MRI\n* Signed informed consent.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

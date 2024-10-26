@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01332032",
+    "briefTitle": "Promoting Breast Cancer Screening in Non-adherent Women",
+    "officialTitle": "Promoting Breast Cancer Screening in Non-adherent Women",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 36348,
+    "primaryOutcomeMeasure": "The proportion of women in each arm who complete a mammogram in the prior 24 months",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women aged 40 through 84 years old\n* in the Fallon Community Health Plan, Blue Cross, Tufts or Harvard Pilgrim health plans for 18 or more months\n* has a current Reliant Medical Group (formerly called Fallon Clinic) primary care provider\n* has working telephone\n\nExclusion Criteria:\n\n* significant cognitive impairment\n* serious illness, precluding screening\n* bilateral mastectomy\n* life expectancy less than 5 years",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

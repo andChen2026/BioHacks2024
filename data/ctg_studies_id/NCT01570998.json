@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01570998",
+    "briefTitle": "Intraoperative Radiation Therapy in Treating Patients With Breast Cancer Undergoing Breast-Conserving Surgery",
+    "officialTitle": "Targeted Intraoperative Radiotherapy United States (TARGIT-US) Phase IV Registry Trial: A Registry Trial of Targeted Intraoperative Radiation Therapy Following Breast-conserving Surgery",
+    "overallStatus": "RECRUITING",
+    "conditions": "Stage IA Breast Cancer, Stage IIA Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1500,
+    "primaryOutcomeMeasure": "Incidence of local recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Suitable for breast conserving surgery\n* T1 and T2 (\\< 3.5 cm), N0, M0\n\nExclusion Criteria:\n\n* Axillary lymph node positive breast cancer\n* Tumor size \\> 3.5 cm\n* Extensive intraductal component (EIC \\>= 25% of the lumpectomy specimen involved with ductal carcinoma in situ), as assessed on surgical pathologic lumpectomy specimen\n* Multicentric cancer in the same breast as diagnosed by clinical examination, mammography, ultrasound; magnetic resonance imaging (MRI) or pathologic assessment, not amenable to excision with negative margins with a single lumpectomy\n* Inability to assess pathologic margin status\n* Synchronous bilateral breast cancer at the time of diagnosis\n* Ipsilateral breast had a previous cancer and/or prior in-field radiation\n* Patients known to have BRCA1/2 gene mutations (testing for gene mutations is not required)\n* Patients undergoing primary systemic treatment (hormones or chemotherapy) as initial treatment with neoadjuvant reducing tumor size\n* Previous history of malignant disease does not preclude entry if the expectation of relapse-free survival at 10 years or greater\n* Any factor included as exclusion criteria in the participating center's treatment policy statement\n* Additional exclusion criteria for University of California San Francisco (UCSF) (as laid out in the Treatment Policy):\n\n  * Patients under the age of 50\n  * Estrogen receptor negative (as defined in Treatment Policy under \"Pathology\")\n  * Human epidermal growth factor receptor 2 (HER2) positive (as defined in Treatment Policy under \"HER2\")\n  * Lymphovascular invasion\n  * High grade\n  * Tumors \\> 3 cm\n  * Node positive patients\n  * Prior chemotherapy or hormone therapy",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

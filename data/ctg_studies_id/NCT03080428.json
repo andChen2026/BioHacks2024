@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03080428",
+    "briefTitle": "Assessment of Genomic Test Impact on Shared Decision of Adjuvant Chemotherapy in ER-positive, Her2-negative Early Breast Cancer",
+    "officialTitle": "Prospective Multicenter Randomized Study Assessing Genomic Test Impact on Shared Decision of Adjuvant Chemotherapy in Patients With ER-positive, Her2-negative Early Breast Cancer With Uncertainty on the Indication of Chemotherapy Using Standard Assessments.",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "ER-positive Her2-negative Early Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Comparison of genomic tests clinical utility",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Woman, Age \u2265 18 years;\n2. Performance status 0 or 1 (according to World Health Organization criteria);\n3. Patient with newly diagnosed, unilateral, localized, histologically confirmed, invasive breast cancer; Note: Multicentric/multifocal tumors are allowed provided a maximum of 3 lesions are present, and all are ER \\> 10% or Allred \u2265 4, Her2-negative (genomic test will be performed on the lesion considered the most pertinent by the multidisciplinary team)\n4. Fully operated breast cancer including complete resection of breast tumor and adequate axillary surgery;\n5. Available surgical material (formalin-fixed, paraffin-embedded) for genomic test evaluation;\n6. ER-positive by immuno-histochemical (\\>10% cells stained or Allred Score\u22654);\n7. HER2-negative by IHC (score 0 or 1+) and/or fluorescence in situ hybridization/silver in situ hybridization/chemiluminescent in situ hybridization ;\n8. Uncertainty regarding the toxicity/benefit of adjuvant chemotherapy, outlined in the following situations:\n\n   * Grade 1: pT3 or 1-3 node positive\n   * Grade 2: pT1 pN0 but high proliferation (Ki67 \\>20%) or lympho-vascular emboli, or 1-3 node positive\n   * Grade 2 : pT2 pN0\n   * Grade 3: pT1 pN0\n9. Adequate renal, hepatic, cardiac and hematopoietic functions for a chemotherapy administration;\n10. Willingness and ability to comply with scheduled visits as well as with test results and chemotherapy decision according to the latest;\n11. Signed informed consent and Health insurance coverage.\n\nExclusion Criteria:\n\n1. Non operable, bilateral, locally advanced, T4 or metastatic breast cancer;\n2. HER2 Overexpression, as assessed by 3+ IHC or FISH/SISH/CISH amplification;\n3. Diagnosis of any previous malignancy within the last 5 years, except for adequately treated basal cell carcinoma, or squamous cell skin carcinoma, or in situ cervical carcinoma;\n4. Any previous systemic or locoregional treatment for the present breast cancer;\n5. Documented inherited predisposition with BRCA1/2 or TP53 mutation;\n6. Previous hormone replacement therapy (HRT) stopped less than 2 weeks before surgery;\n7. Previous treatment for the present breast cancer;\n8. Person unable to give informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

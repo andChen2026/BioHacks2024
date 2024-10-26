@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02024568",
+    "briefTitle": "Exploratory Study on the Use of Pregabalin for the Treatment of Taxol Related Arthralgia-Myalgia",
+    "officialTitle": "Exploratory Study on the Use of Pregabalin for the Treatment of Taxol Related Arthralgia-Myalgia",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Taxane, Drug-related Side Effects and Adverse Reactions, Pain, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 38,
+    "primaryOutcomeMeasure": "Integrated Numeric Pain Scores and Rescue Analgesic Medication Requirement as calculated by the method proposed by Silverman et al (Silverman, O'Connor et al. 1993).",
+    "eligibilityCriteria": "Screening Criteria:\n\n* Signature of consent form.\n* Legal competence for expression of consent.\n* Patients with confirmed diagnosis of cancer of breast, free of confounding pain before the administration of chemotherapy.\n* Recommendation for treatment with paclitaxel containing protocols, prior to initiation of chemotherapy.\n* Age over 18.\n\nInclusion criteria for treatment phase:\n\n* Fulfillment of screening criteria.\n* Experience of myalgia-arthralgia related pain of moderate or worse degree of severity after a course of paclitaxel containing chemotherapy.\n\nExclusion Criteria:\n\n* Ongoing treatment with pregabalin or gabapentin.\n* Known restricting adverse events related to treatment with pregabalin or gabapentin.\n* Renal failure with GFR less than 30ml/min.\n* Participation in clinical trial 3 weeks or less prior to screening.\n* Confounding myalgia and / or arthralgia unrelated to chemotherapy.\n* Medical condition compromising the likelihood of completing the trial.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

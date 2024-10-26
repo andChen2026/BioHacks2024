@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05339113",
+    "briefTitle": "Comparison of [68Ga]GaFAPI-46 PET/CT and [18F]FDG PET/CT Findings in Breast Carcinoma",
+    "officialTitle": "Comparison of [68Ga]GaFAPI-46 PET/CT and [18F]FDG PET/CT Findings in Breast Carcinoma",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms, Positron Emission Tomography, Fibroblast Activation Protein Inhibitor, Fluorodeoxyglucose F18",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Maximum standardised uptake value [SUVmax] for primary lesion",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* adult participants (aged 18 years or order);\n* participants with newly diagnosed breast carcinoma;\n* pathology confirmed by lesion tru-cut biopsy;\n* participants who were able to provide informed consent.\n\nExclusion Criteria:\n\n* participants with non-malignant lesions;\n* participants with pregnancy;\n* the inability or unwillingness of the research participant, parent or legal representative to provide written informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

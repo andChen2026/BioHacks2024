@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04861077",
+    "briefTitle": "Monitoring Breast Cancer Immunotherapy Treatment With Advanced Positron Emission Tomography Magnetic Resonance Imaging (PET/MRI)",
+    "officialTitle": "Monitoring Breast Cancer Immunotherapy Treatment With Advanced PET/MRI: A Pilot Study",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Baseline measure of PET standardized uptake value (SUV).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients must be \u2265 18 years old and \u2264 75 years old\n2. Triple negative breast cancer (TNBC) patients (biopsy-proven) stage II-IV eligible\n3. \\>50%Programmed death-ligand 1 (PD-L1) positive\n4. Eligible for immunotherapy who are na\u00efve to beginning any immunotherapy treatment\n5. May not be pregnant or breastfeeding\n6. Subjects must be willing to sign consent\n7. Adequate creatinine clearance per institutional guidelines and within 30 days\n8. Estimated life expectancy of greater than one year\n9. Patients must have one lesion with RECIST measurable disease (greater than 1 cm in diameter, measured from diagnostic breast MRI or staging CT)\n\nExclusion Criteria:\n\n1. Inability to provide informed consent\n2. Weight over 350 lbs., due to the scanner bore size\n3. Lactating, known or suspected pregnancy. Women with child-bearing potential must a have a negative serum Human chorionic gonadotropin (\u03b2-hCG) pregnancy test within 48 hours or a negative urine \u03b2-hCG pregnancy test within 24 hours of each PET imaging study.\n4. Contraindication for MRI study (e.g. non-removable metal implants or certain tattoos)\n5. Unable to lie still on the imaging table for one (1) hour\n6. contraindication for gadolinium-based contrast agent, ProHance (gadoteridol)\n7. Have received immunotherapy in the neoadjuvant or adjuvant setting",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

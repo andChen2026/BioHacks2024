@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01511276",
+    "briefTitle": "The Effects of Equivalent Weight Loss With or Without Exercise Training on Breast Cancer Risk (SHAPE-2)",
+    "officialTitle": "The Effects of Equivalent Weight Loss With or Without Exercise Training on Breast Cancer Risk Biomarkers in Postmenopausal Women: the SHAPE-2 Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Risk",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 243,
+    "primaryOutcomeMeasure": "serum sex hormone levels",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* 50-69 years of age\n* Postmenopausal (\\>12 months after last menses)\n* BMI 25-35 kg/m2\n* Sedentary (\\<2 hours per week of at least moderately intensive activities (\\>4 MET))\n* Willing to be randomly assigned to one of the three study arms\n* Informed consent to participate in all screening and study activities.\n\nExclusion Criteria:\n\n* Presently using sex-hormones\n\n  * Maintenance use of corticosteroids\n  * Suffering cancer (in medical history) except for non-melanoma skin cancers\n  * Suffering type II diabetes mellitus or other endocrine related diseases\n  * Smoking\n  * Alcohol or drug abuse\n  * Any disorder that might impede participation in the exercise programme\n  * Following, or the intention to follow, a structured weight loss programme elsewhere",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00875355",
+    "briefTitle": "Radiation Therapy With or Without Temozolomide in Treating Women With Brain Metastases and Breast Cancer",
+    "officialTitle": "Phase II Randomized Multicenter Study Comparing Brain Radiation in Combination With Temozolomide or Radiation Alone in Patients With Brain Metastases From Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Metastatic Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Response at 6 weeks as assessed by MRI and/or scan",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of breast cancer\n\n  * Unresectable disease or patient refused surgery\n* Must have brain metastases\n\nPATIENT CHARACTERISTICS:\n\n* WHO performance status 0-2\n* ANC \u2265 1,500/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Liver transaminases \u2264 1.5 times upper limit of normal (ULN)\n* Creatinine \\< 1.5 times ULN\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n* No carcinomatous meningitis\n* No history of cancer except for basal cell carcinoma of the skin or carcinoma in situ of the cervix\n* No other serious concurrent disease that is, in the opinion of the investigator, likely to interfere with study evaluation and treatment\n* No contraindications to treatment with temozolomide\n* No psychological, familial, social, or geographic situations that preclude clinical follow up\n* No patient deprived of liberty or under guardianship\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior brain radiotherapy\n* At least 10 days since prior chemotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00895414",
+    "briefTitle": "Enalapril Maleate and Doxorubicin Hydrochloride in Treating Women With Breast Cancer",
+    "officialTitle": "The Effect of Enalapril on Doxorubicin Exposure in Adjuvant Breast Cancer Treatment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 19,
+    "primaryOutcomeMeasure": "Number of Patients With Doxorubicin Plasma Concentrations Demonstrating a Significant Increase or Decrease When Doxorubicin Was Given With Enalapril as Compared to When Doxorubicin Was Given Without Enalapril.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Tissue diagnosis of a breast carcinoma\n* The oncologist must have prescribed doxorubicin as part of the planned chemotherapy regimen\n* Have acceptable organ function within 14 days of enrollment defined as:\n\n  * liver function: total bilirubin, AST and ALT within normal institutional limits\n  * kidney function: estimated Creatinine Clearance \\> 60 ml/min calculated creatinine clearance (for females) - formula: (140 - age) x weight x .85 divided by (sCr x 72)\n* At least 18 years old\n* Patient must have given written informed consent indicating an understanding of the investigational nature of the study\n* Agrees not to consume grapefruit juice while on the study\n\nExclusion Criteria:\n\n* Known allergy to enalapril\n* Taking any known P450 cytochrome inducers or inhibitors\n* Taking any herbal supplements while on the study or the week prior to receiving doxorubicin\n* Taking an ace-inhibitor or angiotensin receptor blocker\n* Pregnant or lactating. Enalapril is Pregnancy Categories C (first trimester) and D (second and third trimesters)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

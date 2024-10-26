@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05566457",
+    "briefTitle": "HGWD Improve the Paclitaxel-related Neurotoxicity in Patients With BC",
+    "officialTitle": "Clinical Study of Huangshi Guizhi Wuwu Decoction in Improving the Paclitaxel-related Neurotoxicity in Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 92,
+    "primaryOutcomeMeasure": "European Organisation for the Research and Treatment of Cancer-Chemotherapy-induced peripheral neuropathy (EORTC QLQ-CIPN20) questionnaire",
+    "eligibilityCriteria": "The inclusion criteria comprised:\n\n\u02d1 histologically confirmed untreated BC; \u02d1 female; \u02d1age from 18 to 65 years old; ( \u02d1 Eastern Cooperative Oncology Group (ECOG) performance status (PS) score of 0 or 1; \u02d1at least receiving 4 cycles of nab-PTX (260mg/m2); \u02d1 grade 2 or greater nab-PTX induced-PN evaluated by European Organisation for the Research and Treatment of Cancer-Chemotherapy-induced peripheral neuropathy (EORTC QLQ-CIPN20)(12, 13); \u02d1 estimated survival time \\> 6 months. The exclusion criteria were\uff1a \u02d1 a history of diabetes or neurological disorders; \u02d1mental disorder; \u02d1abnormal hepatic functions (total bilirubin upper limit of normal (ULN), alanine transaminase/aspartate transaminase \u2265 2.5 \u00d7 ULN ), renal functions(creatinine \u2265 1.5 \u00d7 ULN), and hematological functions (absolute neutrophil count \u2264 1.5 \u00d7 109/L, platelet count \u2264 80 \u00d7 109/L, hemoglobin \\< 90 g/L); \u02d1Failure to complete chemotherapy due to treatment-related adverse events; \u02d1 a family history of a genetic neuropathy; \u02d1had received previous treatment with neurotoxic chemotherapy, including oxaliplatin, cisplatin, vinca alkaloid and etc.; \u02d1 a history of allergy to Chinese medicine.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

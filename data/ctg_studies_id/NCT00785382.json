@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00785382",
+    "briefTitle": "Pregabalin for Postoperative Pain in Women Undergoing Breast Cancer Surgery",
+    "officialTitle": "A Randomized, Placebo Controlled Trial of Pregabalin for Postoperative Pain in Women Undergoing Breast Cancer Surgery",
+    "overallStatus": "COMPLETED",
+    "conditions": "Postoperative Pain",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 62,
+    "primaryOutcomeMeasure": "The primary outcome will be postoperative pain, measured by a NRS and the quality of recovery score (QoR) in the first 24h postoperative period.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. American Society of Anesthesia physical status class I \\& II\n2. Age \u00ac\\< 65 years\n3. English-speaking\n4. Unilateral breast cancer surgery without axillary node dissection (i.e. simple mastectomies and lumpectomies +/- \"sentinal\" node biopsy)\n\nExclusion Criteria:\n\n1. Known or suspected allergy, sensitivity, or contraindication to pregabalin\n2. Known or suspected allergy to morphine, NSAIDs, acetaminophen or oxycodone\n3. Morbid Obesity (Body Mass Index \u2265 45 kg/m2)\n4. History of a seizure disorder\n5. Pregnancy\n6. Current pre-operative therapy with pregabalin, gabapentin, or any opioid\n7. Any other physical or psychiatric condition which may impair their ability to cooperate with postoperative study data collection\n8. CrCl \\< 60 ml/min \\[CrCl = 0.85 x ((140 - age) x weight(kg)) / (72 x Cr(mg/dL)))\\]",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

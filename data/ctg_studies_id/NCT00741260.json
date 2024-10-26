@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00741260",
+    "briefTitle": "Study Evaluating The Combination Of Neratinib And Capecitabine In Solid Tumors And Breast Cancer",
+    "officialTitle": "A Phase 1/2, Open-Label Study Of Neratinib (HKI-272) In Combination With Capecitabine In Subjects With Solid Tumors And ErbB-2 Positive Metastatic Or Locally Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 105,
+    "primaryOutcomeMeasure": "Number of Participants With Dose Limiting Toxicities",
+    "eligibilityCriteria": "INCLUSION CRITERIA\n\nPART 1:\n\n* confirmed pathologic diagnosis of a solid tumor not curable with available therapies for which neratinib plus capecitabine is a reasonable treatment option.\n\nPART 2:\n\n* confirmed histologically and/or cytologically confirmed diagnosis of breast cancer, metastatic or locally advanced.\n* erbB-2 gene amplified tumor (FISH or CISH) or erbB-2 overexpression (IHC 3+, or IHC2+ with FISH or CISH confirmation), based on local testing, or based on centralized FISH testing prior to day 1.\n* disease progression on or following at least 1 prior trastuzumab containing treatment regimen (at least 6 weeks) for metastatic or locally advanced disease. (Prior adjuvant trastuzumab is allowed but not required). A 2 week period is required between the last dose of trastuzumab treatment and first dose of the test article.\n* Prior treatment with a taxane in the neoadjuvant, adjuvant, locally advanced, and/or metastatic disease treatment setting.\n\nPARTS 1 and 2:\n\n* At least 1 measurable lesion as defined by RECIST criteria.\n* LVEF within institutional range of normal as measured by multi-gated acquisition (MUGA) or echocardiogram (ECHO).\n\nEXCLUSION CRITERIA\n\nPART 2:\n\n* prior treatment with capecitabine, lapatinib (20 subjects with prior lapatinib exposure will be enrolled) or any erbB-2 targeted agents except trastuzumab. Treatment with erbB-2 targeted therapy must exceed 2 weeks (14 days) in order to be exclusionary.\n* prior treatment with anthracyclines with a cumulative dose of doxorubicin of greater than 400 mg/m\u00b2, epirubicin dose of greater than 800 mg/m\u00b2, or the equivalent dose for other anthracyclines.\n\nPARTS 1 and 2:\n\n* Subjects with bone as the only site of disease.\n* Active uncontrolled or symptomatic central nervous system (CNS) metastases, as indicated by clinical symptoms, cerebral edema, and/or progressive growth. Subjects with a history of CNS metastases or cord compression are allowable if they have been considered definitively treated and are off anticonvulsants and steroids for at least 4 weeks before the first dose of test article.\n* Any other cancer within 5 years prior to screening with the exception of adequately treated cervical carcinoma in situ, or adequately treated basal or squamous cell carcinoma of the skin.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

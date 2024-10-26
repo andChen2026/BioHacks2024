@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00977275",
+    "briefTitle": "Treatment of T1N0 Invasive Breast Carcinoma by Local Excision Implant",
+    "officialTitle": "The Treatment of T1N0 Invasive Breast Carcinoma by Local Excision and Interstitial Implant",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "To determine if interstitial implant brachytherapy to radical radiation doses is feasible following wide local excision of T1N0 breast carcinoma",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Low risk of multifocal disease within the breast whose tumor location is favorable for brachytherapy catheter placement\n* Diagnosis of invasive breast carcinoma (biopsy or fine needle aspiration cytology) and be clinical stage T1N0 (primary tumor \\< 2cm, clinically negative nodes)\n* Location of primary tumor is not immediately adjacent to the nipple of chest wall\n* No evidence of two or more separate tumors within the breast\n* All histologic types and pathologic grades of primary tumor\n* No extensive intraductal component (substantial intraductal carcinoma away from the primary tumor location)\n* No lymphatic or vascular invasion\n* Lymph node staging by sentinel node excision or axillary dissection confirms node negative status (If node positive, implant is used to deliver boost to tumor bed)\n* Assessment of final surgical margins should be predominantly negative, but a single small region of focal positivity is allowable as it is for whole breast radiation\n* 18 years of age or older\n\nExclusion Criteria:\n\n* Tumor is too close to the chest wall to allow placement of catheters\n* Contraindications to radiation therapy are present, including a history of scleroderma, systemic lupus or other active connective tissue disease, pregnancy, or prior chest wall radiation",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00943410",
+    "briefTitle": "Trastuzumab and External Beam Radiation Therapy in Treating Women With Stage III or Stage IV Breast Cancer",
+    "officialTitle": "Phase II Trial of Herceptin Concurrent With External Beam Radiation Following Neoadjuvant Chemotherapy for the Treatment of HER2 Over-Expressing Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 19,
+    "primaryOutcomeMeasure": "Number of subjects experiencing adverse events",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed\\* invasive primary carcinoma of the breast by fine-needle aspiration, core needle biopsy, or incisional biopsy\n* Excisional biopsy is not allowed\n* Stage III or IV disease (clinical and radiographic staging), including any of the following:\n\n  * Any T with N2 disease (metastasis to ipsilateral axillary lymph nodes fixed to one another or other structures) or N3 disease (metastasis to ipsilateral internal mammary lymph nodes)\n  * T4, any N disease\n  * Inflammatory disease\n  * Supraclavicular and/or infraclavicular adenopathy\n  * Distant metastasis with measurable disease in the breast or lymph nodes\n* HER2-overexpressing tumor\n* Measurable or evaluable disease\n* Residual locoregional disease after completion of neoadjuvant chemotherapy OR locoregional recurrent disease\n* Synchronous bilateral primary cancers allowed provided the more serious of the two cancers meets staging criteria\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* WBC \\> 2,000/mm\\^3\n* Platelet count \\> 50,000/mm\\^3\n* Hemoglobin \\> 11 g/dL\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* Radionucleotide ventriculography/LVEF normal OR \u2264 10% asymptomatic decline from baseline after completion of neoadjuvant chemotherapy\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior radiotherapy to the breast or regional lymph nodes\n* Concurrent participation in neoadjuvant chemotherapy clinical trials allowed",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

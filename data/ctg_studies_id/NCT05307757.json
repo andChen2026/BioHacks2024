@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05307757",
+    "briefTitle": "Screening Contralateral Breast Cancers in Patients With Newly Diagnosed Breast Cancer",
+    "officialTitle": "Diffusion-Weighted MRI for Screening Contralateral Breast Cancers in Patients With Newly Diagnosed Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1098,
+    "primaryOutcomeMeasure": "The area under the (receiver operating characteristic) curve (AUC) per lesion and breast level",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged more than 25 years at the time of enrollment\n* Women underwent digital mammography and whole-breast US before MRI\n* Women with image-guided biopsy result of invasive breast cancer\n* Women who are planning for breast conservation surgery\n* Women who will undergo preoperative breast MRI\n\nExclusion Criteria:\n\n1. Women aged less than 25 years at the time of enrollment\n2. Women with image-guided biopsy result of ductal carcinoma in situ or recurrent breast cancer\n3. Women who underwent lumpectomy before MRI\n4. Women receiving neoadjuvant chemotherapy or undergoing chemotherapy due to other malignancy\n5. Pregnant or lactating women\n6. Women with contraindication to breast MRI (claustrophobia, renal insufficiency GFR \\<60mL/min/1.73m2, metallic foreign body, history of severe side effects due to MR contrast agent, who cannot tolerate 40 minute scanning time etc).",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

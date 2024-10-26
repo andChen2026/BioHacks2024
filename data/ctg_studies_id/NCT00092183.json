@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00092183",
+    "briefTitle": "An Investigational Drug for the Prevention of Chemotherapy-Induced Nausea and Vomiting (MK-0869-071)",
+    "officialTitle": "A Randomized, Double-Blind, Parallel-Group Study Conducted Under In-House Blinding Conditions to Determine the Efficacy and Tolerability of Aprepitant for the Prevention of Chemotherapy-Induced Nausea and Vomiting Associated With Moderately Emetogenic Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Nausea, Vomiting, Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 866,
+    "primaryOutcomeMeasure": "Emesis and use of rescue medication",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient with a diagnosis of breast cancer requiring treatment with non-cisplatin moderately emetogenic chemotherapy.\n\nExclusion Criteria:\n\n* Patient has a central nervous system malignancy.\n* Patient will receive radiation to the abdomen or pelvis.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

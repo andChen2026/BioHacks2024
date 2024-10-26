@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01513083",
+    "briefTitle": "A Study of Trastuzumab Emtansine in Patients With HER2-Positive Metastatic Breast Cancer and Normal or Reduced Hepatic Function",
+    "officialTitle": "A Phase I, Open Label, Parallel Group, Pharmacokinetic Study of Trastuzumab Emtansine in Patients With HER2-Positive Metastatic Breast Cancer and Normal or Reduced Hepatic Function",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "Pharmacokinetics: Area under the concentration-time curve",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients, \\>/= 18 years of age\n* Histologically or cytologically documented invasive metastatic breast cancer\n* Human epidermal growth factor receptor 2 (HER2) -positive disease\n* Adequate bone marrow and organ function (other than hepatic dysfunction allowed by protocol)\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2\n* Left ventricular ejection fraction \\>/=50%\n* Normal hepatic function, or mild to moderate hepatic impairment (Child-Pugh Class A or B)\n\nExclusion Criteria:\n\n* History of Grade \\>/=3 infusion reaction, hypersensitivity reaction, or pneumonitis in response to trastuzumab\n* Investigational therapy or any other anticancer therapy \\</=28 days before first study treatment\n* Previous treatment with trastuzumab emtansine\n* Brain metastases that are untreated or symptomatic or require therapy to control symptoms or any radiation, surgery or other therapy to control symptoms from brain metastases within 1 month of the first study treatment\n* History of other malignancy within the last 5 years, except for appropriately treated carcinoma in situ of the cervix, non-melanoma skin carcinoma, Stage I uterine cancer, or other cancers with a similar outcome as those mentioned above\n* Current peripheral neuropathy of Grade \\>/=2\n* Child-Pugh Class C hepatic impairment\n* Encephalopathy \\>/= Grade 2\n* For patients with normal hepatic function: history of drug or alcohol addiction or history of hepatitis B and/or hepatitis C\n* Active hepatitis A, B and/or C\n* Current unstable ventricular arrhythmia requiring treatment\n* History of symptomatic CHF (NYHA Classes II-IV)\n* History of myocardial infarction or unstable angina within 6 months of enrollment\n* History of a decrease in LVEF to\\<40% or symptomatic CHF with previous trastuzumab treatment\n* Pregnant or lactating women\n* Known HIV infection",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

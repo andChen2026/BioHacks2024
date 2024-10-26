@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04277195",
+    "briefTitle": "Developing a Diagnostic Tool to Predict Response to Chemotherapy",
+    "officialTitle": "Developing a Diagnostic Tool, Using SPAG5, for Predicting Clinical Benefit From Standard Anthracycline Combination (AC) in Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 4750,
+    "primaryOutcomeMeasure": "Production of a SPAG5 assay",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological diagnosis of primary invasive breast cancer.\n* Any hormone receptor status (Oestrogen Receptor, Progesterone Receptor).\n* Any Human epidermal growth factor receptor 2 (HER2) receptor status.\n* 18 to 90 years old.\n\nExclusion Criteria:\n\n* Histological diagnosis of any other cancer type.\n* Evidence of distant metastatic disease at diagnosis.\n* Insufficient tumour tissue available for research use in tissue blocks held in the NUH Trust pathology archive.\n* Outside of stated inclusion age range.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05278806",
+    "briefTitle": "Evaluating the Impact of an Equity Focused Dashboard and Clinical Support",
+    "officialTitle": "Evaluating the Impact of an Equity Focused Dashboard and Clinical Support on Disparities in Primary Care Ambulatory Quality Outcome Measures: a Quality Improvement Research Project",
+    "overallStatus": "COMPLETED",
+    "conditions": "Hypertension, Diabetes, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 10766,
+    "primaryOutcomeMeasure": "Hypertension control",
+    "eligibilityCriteria": "\\<Provider Eligibility\\>\n\nInclusion Criteria:\n\n\u2022 Massachusetts General Hospital primary care physician\n\nExclusion Criteria:\n\n\u2022 Practice leaders and equity steering committee members as they will all get access to the equity dashboard data.\n\n\\<Patient Eligibility\\>\n\nInclusion Criteria:\n\n\u2022 Uncontrolled Hypertension AND Black, Indigenous and People of Color (BIPOC) patients or Limited English proficiency (LEP).\n\nExclusion Criteria:\n\n\u2022 Not deemed appropriate for intervention by their primary care provider due to terminal illness, advanced dementia, etc.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

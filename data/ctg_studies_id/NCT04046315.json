@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04046315",
+    "briefTitle": "Early Detection of Cardiac Damage With CMR in Women With Breast Cancer",
+    "officialTitle": "Early Detection of Cardiac Damage With CMR in Women With Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Cardiotoxicity, Breast Cancer, Chemotherapy Induced Systolic Dysfunction",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 55,
+    "primaryOutcomeMeasure": "Global Longitudinal Strain (GLS) change after chemotherapy compared to baseline",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Age \u2265 18 years\n* A diagnosis of primary breast cancer\n* Starting (neo-) adjuvant chemotherapy treatment within 2 months after screening\n* Cardiotoxicity risk score of intermediate, high or very high risk\n\nExclusion Criteria:\n\n* Previous radiotherapy or systemic cancer treatment\n* Cancer metastasis\n* Life expectancy of less than 6 months\n* History of myocardial infarction or heart failure\n* Known contra-indications for CMR\n* Refusal or inability to provide informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01626209",
+    "briefTitle": "A Phase I Study of BKM120 in Adult Chinese Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase I Study of BKM120, Administered Orally in Adult Chinese Patients With Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Breast Cancer, Advanced Carcinomas With Squamous Cell Histology",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 32,
+    "primaryOutcomeMeasure": "Dose Limiting Toxicity (DLT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with histologically-confirmed, advanced unresectable breast cancer or advanced carcinoma with squamous cell histology (including NSCLC, SCCHN, and esophageal) who have progressed on (or not been able to tolerate) standard therapy or for whom no standard anticancer therapy exists\n* Patient must provide a representative archival or fresh tumor biopsy for shipping to a Novartis designated laboratory for profiling. Note: one block or \u2265 15 unstained slides is required to determine the PI3K activation status. Whenever possible \u2265 20 unstained slides is preferred.\n* Patient has measurable and/or non-measurable disease as per RECIST v1.1 guidelines for solid tumors\n* Patient is an adult (female or male) \u2265 18 years of age on the day of consent signature\n* Patient has an Eastern Cooperative Oncology Group performance status (ECOG PS) \u2264 2\n\nExclusion Criteria:\n\n* Patient has received previous treatment with a PI3K inhibitor\n* Patient has symptomatic CNS metastases\n* Patients with asymptomatic CNS metastases may participate in this trial. The patient must have completed any prior local treatment for CNS metastases \u2265 14 days prior to the start of study treatment (including radiotherapy and/or surgery). If the patient is receiving ongoing corticosteroid therapy, the following criteria must be met:\n* The patient must be receiving a stable or decreasing dose \u2264 dexamethasone 4 mg/day or equivalent anti-inflammatory potency of another corticosteroid\n* The dose of corticosteroid may not have been escalated for at least 14 days before the start of study treatment\n* Patient is currently receiving increasing or chronic treatment with corticosteroids (\\>dexamethasone 4 mg or equivalent anti-inflammatory potency of another corticosteroid) or another immunosuppressive agent.\n* Note: Topical applications (e.g., rash), inhaled sprays (e.g., obstructive airways diseases), eye drops or local injections (e.g., intra-articular) are allowed. Patients with previously treated and asymptomatic brain metastases, are permitted to use corticosteroids as per specific protocol criteria\n* Patient is currently receiving treatment with drugs known to be moderate or strong inhibitors or inducers of isoenzyme CYP3A. The patient must have discontinued strong inducers for at least one week and must have discontinued strong inhibitors before the treatment is initiated. Switching to a different medication prior to starting study treatment is allowed.\n\n  * Other protocol-defined inclusion/exclusion criteria may apply.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06086340",
+    "briefTitle": "Study to Compare Overall Survival in Medicare Patients With Metastatic Breast Cancer Treated With a Medicine Called Palbociclib in Combination With Aromatase Inhibitor and Aromatase Inhibitor by Itself.",
+    "officialTitle": "Comparative Assessment of Overall Survival in Medicare Patients With HR+/HER2- Metastatic Breast Cancer Treated With Palbociclib in Combination With Aromatase Inhibitor (AI vs. AI Alone)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 779,
+    "primaryOutcomeMeasure": "Overall Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* De novo metastatic (stage IV) disease at initial breast cancer diagnosis during 2015-2019\n* HR+/HER2- molecular subtype at diagnosis\n* Initiated 1L systemic therapy with palbociclib + AI or AI alone\n\nExclusion Criteria:\n\n* Patients will be excluded if their metastatic breast cancer diagnosis was first recorded in a death certificate or at the time of autopsy.",
+    "sex": "ALL",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

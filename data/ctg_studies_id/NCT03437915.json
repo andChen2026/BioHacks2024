@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03437915",
+    "briefTitle": "BrUOG 351: PRE-OPERATIVE APBI USING NIBB",
+    "officialTitle": "BrUOG 351: Pre-Operative Accelerated Partial Breast Irradiation (APBI) Using Non-Invasive Image-Guided Breast Brachytherapy (NIBB)",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer, Invasive Breast Cancer, Ductal Carcinoma in Situ",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Feasibility of APBI including rate of surgical complications.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed histological diagnosis of invasive breast carcinoma and/or DCIS (Invasive lobular carcinoma excluded);\n* Age greater or equal to 60 years old;\n* Life expectancy \\> 6 months;\n* Candidate for breast conserving surgery who intends to undergo breast conserving surgery as confirmed in writing by treating physician in consultation with surgeon\n* Clinically lymph node negative (cN0) as confirmed in writing by patient's treating physician. If patient has suspicious lymphadenopathy on imaging it is required that patient undergo a biopsy to confirm cN0.\n* Tumor size by imaging \u2264 2cm; (Tis or T1)\n* Estrogen receptor positive if invasive disease (DCIS can be ER negative);\n* Her2neu negative if invasive disease;\n* Nuclear Grade 1 or 2 if invasive disease (DCIS can be Grade 3);\n* ECOG performance status of 0-2 (Appendix 1);\n* Informed consent signed.\n\nExclusion Criteria:\n\n* Excisional biopsy or ipsilateral breast surgery within 6 months;\n* Invasive lobular histology;\n* Definitive LVSI on biopsy;\n* Suspicious imaging findings suggesting multi-focal or multi-centric disease, unless biopsy proven benign;\n* Paget's disease of the nipple\n* Distant metastases;\n* Known BRCA 1/2 Mutation\n* Active lupus or scleroderma,;\n* Psychiatric or addictive disorder that would preclude attending follow-up;\n* Neoadjuvant chemotherapy or endocrine therapy (adjuvant therapy is permitted);\n* Breast Implants;\n* Tumor not well visualized on AccuBoost imaging;\n* Breast separation with compression \\> 8cm at time of simulation.",
+    "sex": "FEMALE",
+    "minimumAge": "60 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

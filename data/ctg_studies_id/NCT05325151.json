@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05325151",
+    "briefTitle": "Genetic Counseling Patient Preference Intervention Versus Conventional Genetic Counseling for Women at Elevated Risk for Breast Cancer",
+    "officialTitle": "A Randomized Controlled Trial Comparing a Genetic Counseling Patient Preference Intervention vs. Conventional Genetic Counseling for Women at Elevated Risk for Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Adherence to National Comprehensive Cancer Network (NCCN) guidelines of having a clinical encounter every 6-12 months",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Being female.\n* Ages 30-64.\n* Being an Ohio State University (OSU) patient who uses MyChart.\n* Undergoing routine screening mammography.\n* Normal BI-RADS1.\n* At elevated breast cancer risk by the Cancer Risk Assessment (CRA) tool.\n* Able to read and speak English.\n* Provide consent.\n\nExclusion Criteria:\n\n* Previous genetic counseling.\n* Previous genetic testing for cancer risk or known mutation in a breast cancer gene: ATM, BARD1, BRCA1, BRCA2, CDH1, CHEK2, NBN, PALB2, PTEN, TP53.\n* Previous diagnosis of breast or ovarian cancer or personal history of lobular carcinoma in situ (LCIS) or breast hyperplasia (with or without atypia).\n* Being a member of a focus group that assisted with the development of the intervention.",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT"
+}

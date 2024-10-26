@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06555588",
+    "briefTitle": "Engage Psychosocial Intervention for Cancer Symptoms",
+    "officialTitle": "Engage: A Randomized Controlled Trial Testing the Efficacy of a Telehealth-Delivered Psychosocial Intervention to Decrease Symptom Interference in Patients With Advanced Cancer",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Advanced Breast Cancer, Advanced Prostate Cancer, Advanced Lung Cancer, Advanced Colorectal Carcinoma, Advanced Colorectal Adenocarcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 190,
+    "primaryOutcomeMeasure": "MD Anderson Symptom Inventory (MDASI) Interference with Daily Living Scale",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Receiving cancer care at a Duke Cancer Network (DCN) clinic\n* Oncologist confirmed Stage IV breast, prostate, lung, or colorectal cancer\n* Worst pain, fatigue, or distress rated at \\>/= 3 out of 10 in the past 7 days for at least 2 symptoms\n* MD Anderson Symptom Inventory (MDASI) Interference with Daily Living Scale average score of \\>/= 3 out of 10 in the past 7 days\n* Eastern Cooperative Oncology Group (ECOG) performance status of 2 or lower\n* At least 18 years old\n* Ability to speak and read English\n* Hearing and vision that allows for successful completion of telehealth sessions\n\nExclusion Criteria:\n\n* Significant cognitive impairment indicated in medical chart or during telephone screening on a mental status questionnaire\n* Serious psychiatric condition (e.g., schizophrenia, suicidal intent) that would contraindicate safe study participation\n* Participation in the last 6 months in Cognitive-Behavioral Therapy or Acceptance and Commitment Therapy for cancer symptom management\n* Enrollment in hospice at screening",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

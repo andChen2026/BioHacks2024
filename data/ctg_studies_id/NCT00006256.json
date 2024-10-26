@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00006256",
+    "briefTitle": "Paclitaxel Plus Radiation Therapy in Treating Women With Stage II or Stage III Breast Cancer",
+    "officialTitle": "Concurrent Taxol (Paclitaxel) and Definitive Breast Radiation Therapy in Early Stage Breast Cancer Following Four Cycles of Adriamycin/Cytoxan Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 44,
+    "primaryOutcomeMeasure": "Determine the feasibility of concurrent paclitaxel and breast radiotherapy",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Stage II or III invasive breast cancer\n* Prior breast conserving surgery (lumpectomy or quadrantectomy) with ipsilateral axillary lymph node dissection required\n* No prior contralateral breast cancer\n* No metastatic disease\n* Prior ductal carcinoma in situ or lobular carcinoma in situ of the breast allowed unless treated with radiation or chemotherapy\n* Doxorubicin and cyclophosphamide adjuvant chemotherapy completed within past 3 weeks\n* Candidate for definitive radiotherapy\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* ECOG 0-1\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* WBC at least 3,000/mm3\n* Granulocyte count at least 2,000/mm3\n* Platelet count at least 100,000/mm3\n\nHepatic:\n\n* Bilirubin no greater than 1.5 times upper limit of normal (ULN)\n* ALT/AST no greater than 1.5 times ULN\n\nRenal:\n\n* Creatinine no greater than 1.5 mg/dL\n\nCardiovascular:\n\n* No concurrent poorly controlled ischemic heart disease or congestive heart failure\n* LVEF at least 45% by MUGA scan or echocardiogram\n\nPulmonary:\n\n* No concurrent severe chronic obstructive or restrictive pulmonary disease\n\nOther:\n\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n* No concurrent severe medical or psychiatric illness\n* No concurrent severe diabetes mellitus\n* No other prior malignancy within the past 5 years except nonmelanoma skin cancer or carcinoma in situ of the cervix treated with local excision\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No concurrent filgrastim (G-CSF)\n\nChemotherapy:\n\n* See Disease Characteristics\n* Prior tamoxifen allowed\n* No concurrent tamoxifen\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* No prior radiation to the breast\n\nSurgery:\n\n* Recovered form prior surgery\n\nOther:\n\n* No concurrent adjuvant therapy on another clinical trial",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

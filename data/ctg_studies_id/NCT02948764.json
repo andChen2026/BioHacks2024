@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02948764",
+    "briefTitle": "Diagnosis of Pathological Complete Response by Vacuum-assisted Biopsy After Neoadjuvant Chemotherapy in Breast Cancer",
+    "officialTitle": "RESPONDER Trial - Diagnosis of Pathological Complete Response by Vacuum-assisted Biopsy After Neoadjuvant Chemotherapy in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 452,
+    "primaryOutcomeMeasure": "false negative VAB results, reported as the false negative rate (= FNR)",
+    "eligibilityCriteria": "Inclusion Criteria\n\n* Female patients with primary breast cancer after Neoadjuvant Chemotherapy (NACT) treatment which has been performed for at least 12 weeks and resulted in cPR or cCR (see below).\n* \\>/=18 years\n* any cT and cN stage, except cT4 stages\n* any routine breast cancer surgical intervention planned according to guidelines (breast conservation or mastectomy)\n* Residual intramammary target lesion or clip marker is visible in ultrasound and / or mammography\n* Diagnosis of imaging complete or partial response according to RECIST 1.1 by at least mammography or ultrasound, according to local routine)\n* Inclusion of only one breast per patient, in bilateral cancer one breast can be included\n* In case of multicentric disease: confirmation of the same tumorbiological subtype defined by immunohistology in at least 2 lesions.\n* Ability of subject to understand character and individual consequences of the clinical trial.\n* Written informed consent (must be available before enrolment in the trial).\n\nExclusion Criteria\n\n* Palliative or recurrent breast cancer\n* in case of clip marker = target lesion: dislocation of marker (\\>5mm distance to the initial lesion border at the time of clip placement)\n* contraindication for VAB or associated procedures (e.g. local anesthesia)\n* Pregnancy and lactation\n* held in an institution by legal or official order\n* legally incapacitated.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

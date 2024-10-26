@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02612870",
+    "briefTitle": "Sienna+\u00ae Injection Time Study 4 Arms",
+    "officialTitle": "Sienna+\u00ae Injection Time Study: A Prospective Multicentre, Controlled Clinical Trial to Evaluate the Performance of Superparamagnetic Iron Oxide vs. Standard Technique as Tracer in Sentinel Node Biopsy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Detection rate per Patient",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subject has a diagnosis of primary breast cancer\n* Subject has been scheduled for surgery with a sentinel lymph node biopsy procedure\n* Subject is \u226518 years old at time of consent\n* Subject has an ECOG performance status of Grade 0-2\n* Subject has a clinical negative node status\n* Subject is available for the follow-up\n\nExclusion Criteria:\n\n* Subject is pregnant or lactating\n* Subject has a radiological evidence of metastatic cancer\n* Subject has had previous axilla surgery or reduction mammoplasty\n* Subject has impaired lymphatic function\n* Subject has had a preoperative radiation therapy\n* Subject has iron overload disease or iron/dextran intolerance\n* Subject has a pacemaker\n* Subject is under guardianship",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

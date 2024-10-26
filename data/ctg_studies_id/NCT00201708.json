@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00201708",
+    "briefTitle": "Dose-Dense Docetaxel Before or After Doxorubicin/Cyclophosphamide in Axillary Node-Positive Breast Cancer",
+    "officialTitle": "Phase II Randomized Adjuvant Trial of Dose-Dense Docetaxel Before or After Doxorubicin/Cyclophosphamide (AC) in Axillary Node-Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 56,
+    "primaryOutcomeMeasure": "Select one of two adjuvant chemotherapy regimens for evaluation in subsequent phase III trial.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Must have histologically or cytologically confirmed breast cancer\n* No metastatic disease\n* Prior lumpectomy or mastectomy\n* No prior chemotherapy or hormone treatments for breast cancer\n* Must have normal organ and marrow function.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1.\n\nExclusion Criteria:\n\n* Peripheral neuropathy of grade II or higher.\n* History or evidence upon physical exam of CNS (central nervous system Diseases)disease.\n* History of unstable angina or myocardial infarction within the last six months.\n* Pregnant or nursing women.\n* Known allergies to polysorbate 80.\n* HIV-positive patients.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

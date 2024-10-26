@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04067960",
+    "briefTitle": "Pharmacogenomics Testing in the Optimal Use of Supportive Care Medications in Stage III-IV Cancer",
+    "officialTitle": "Precision Pharmacogenomics in Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Anatomic Stage III Breast Cancer AJCC v8, Anatomic Stage IIIA Breast Cancer AJCC v8, Anatomic Stage IIIB Breast Cancer AJCC v8, Anatomic Stage IIIC Breast Cancer AJCC v8, Anatomic Stage IV Breast Cancer AJCC v8, Biliary Tract Carcinoma, Clinical Stage III Cutaneous Melanoma AJCC v8, Clinical Stage IV Cutaneous Melanoma AJCC v8, Malignant Brain Neoplasm, Malignant Genitourinary System Neoplasm, Malignant Solid Neoplasm, Pancreatobiliary Carcinoma, Pathologic Stage III Cutaneous Melanoma AJCC v8, Pathologic Stage IIIA Cutaneous Melanoma AJCC v8, Pathologic Stage IIIB Cutaneous Melanoma AJCC v8, Pathologic Stage IIIC Cutaneous Melanoma AJCC v8, Pathologic Stage IV Cutaneous Melanoma AJCC v8, Prognostic Stage III Breast Cancer AJCC v8, Prognostic Stage IIIA Breast Cancer AJCC v8, Prognostic Stage IIIB Breast Cancer AJCC v8, Prognostic Stage IIIC Breast Cancer AJCC v8, Prognostic Stage IV Breast Cancer AJCC v8, Stage III Colorectal Cancer AJCC v8, Stage III Ovarian Cancer AJCC v8, Stage III Pancreatic Cancer AJCC v8, Stage III Prostate Cancer AJCC v8, Stage IIIA Colorectal Cancer AJCC v8, Stage IIIA Ovarian Cancer AJCC v8, Stage IIIA Prostate Cancer AJCC v8, Stage IIIB Colorectal Cancer AJCC v8, Stage IIIB Ovarian Cancer AJCC v8, Stage IIIB Prostate Cancer AJCC v8, Stage IIIC Colorectal Cancer AJCC v8, Stage IIIC Ovarian Cancer AJCC v8, Stage IIIC Prostate Cancer AJCC v8, Stage IV Colorectal Cancer AJCC v8, Stage IV Ovarian Cancer AJCC v8, Stage IV Pancreatic Cancer AJCC v8, Stage IV Prostate Cancer AJCC v8, Stage IVA Colorectal Cancer AJCC v8, Stage IVA Ovarian Cancer AJCC v8, Stage IVA Pancreatic Cancer, Stage IVA Prostate Cancer AJCC v8, Stage IVB Colorectal Cancer AJCC v8, Stage IVB Ovarian Cancer AJCC v8, Stage IVB Pancreatic Cancer, Stage IVB Prostate Cancer AJCC v8, Stage IVC Colorectal Cancer AJCC v8",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 197,
+    "primaryOutcomeMeasure": "Changes in symptoms, quality of life (QOL), and perceptions about pharmacogenomics (PGx) testing",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient enrolled to Mayo Clinic IRB: 18-000326\n* Patients with stage 3 or 4 breast, colorectal, prostate/genitourinary (GU), pancreato-biliary, brain, melanoma, and ovarian cancer\n* Individuals have agreed to participate and signed the study informed consent form\n\nExclusion Criteria:\n\n* Patients with cancer types other than the ones mentioned above\n* Patient with psychiatric illness, or situations that would limit compliance with the study requirements or the ability to willingly give written informed consent\n* Previous PGx testing with results available within Mayo Clinic electronic medical record (EMR)",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

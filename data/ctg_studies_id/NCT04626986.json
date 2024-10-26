@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04626986",
+    "briefTitle": "Comparison of Microwave Ablation With Breast Conserving Surgery for Breast Tumor",
+    "officialTitle": "Comparison of Ultrasound Guided Percutaneous Microwave Ablation With Breast Conserving Surgery for Breast Tumor",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Tumor, Microwave Ablation, Breast Conserving Surgery",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "overall survival\uff1aDefined as the length of time from the beginning of treatment to death or the last follow-up (if no death)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. women,\n2. with invasive ductal carcinoma of the breast according to core-needle\n3. tumor measuring 50mm or smaller, no axillary lymph node metastasis or Ipsilateral grade I and II axillary lymph node metastasis, movable(pT0-2N0-1M0 )\n4. located at least 10 mm from the skin surface and chest wall.\n\nExclusion Criteria:\n\n1. men\n2. women who were pregnant or breastfeeding\n3. radiologic suspicion of multifocality or extensive intraductal carcinoma\n4. histologic diagnosis of lobular carcinoma\n5. neoadjuvant therapy\n6. previous surgery or radiation therapy of the ipsilateral breast.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

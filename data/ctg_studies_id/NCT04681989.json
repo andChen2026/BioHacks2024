@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04681989",
+    "briefTitle": "Moving On Study - Pilot Test",
+    "officialTitle": "Moving On Study - Pilot Test",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "EORTC Information-25 (EORTC-QLQ-INFO25)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* newly diagnosed and treated BC (stages 0-4)\n* female\n* English speaking\n* 21 years old or older\n\nExclusion Criteria:\n\n* previous history of cancer (except non-melanoma skin)\n* history of shoulder impairment (e.g. shoulder osteoarthritis, rotator cuff tear, adhesive capsulitis)\n* pregnancy\n* central nervous system damage (e.g.: spinal cord injury, brain injury, multiple sclerosis, etc.)\n* dementia\n* systemic medical conditions and/or metal implants (e.g. fibromyalgia, rheumatoid arthritis, diabetes, joint replacement, cardiac pacemaker, port-a-cath etc.)\n* upper extremity(ies) amputation\n* actively receiving physical therapy for any reason prior to enrollment",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

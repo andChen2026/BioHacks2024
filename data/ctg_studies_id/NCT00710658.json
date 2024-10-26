@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00710658",
+    "briefTitle": "Internet Support for Cancer Patients",
+    "officialTitle": "A Randomized Clincial Trial to Evaluate the Effects of an Internett-based Support System for Cancer Patients on Symptom Distress, Depression, and Quality of Life.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cancer, Breast Cancer, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 325,
+    "primaryOutcomeMeasure": "Symptom distress",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Above 18 years\n* Starting or currently undergoing treatment for breast or prostate cancer\n* Internet access at home\n\nExclusion Criteria:\n\n* Patients who had received radiation on the brain as this may have affected their abilities to reliably report their symptoms.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00127933",
+    "briefTitle": "XeNA Study - A Study of Xeloda (Capecitabine) in Patients With Invasive Breast Cancer",
+    "officialTitle": "An Open-label Study of Xeloda Plus Taxotere on Treatment Response in Patients With HER2-neu-negative, and the Addition of Herceptin for HER2-neu-positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 157,
+    "primaryOutcomeMeasure": "Percentage of Participants Assessed for Pathological Complete Response (pCR) Plus Near Complete (npCR) in Primary Breast Tumor at Time of Definitive Surgery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women \\>=18 years of age;\n* newly diagnosed;\n* infiltrating (invasive) HER2-neu-negative or HER2-neu-positive breast cancer.\n\nExclusion Criteria:\n\n* evidence of metastatic disease, except ipsilateral (same side) axillary lymph nodes;\n* previous systemic or local primary treatment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

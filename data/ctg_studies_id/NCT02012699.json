@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02012699",
+    "briefTitle": "Integrated Cancer Repository for Cancer Research",
+    "officialTitle": "Integrated Cancer Repository for Cancer Research",
+    "overallStatus": "RECRUITING",
+    "conditions": "Pancreatic Cancer, Thyroid Cancer, Lung Cancer, Esophageal Cancer, Thymus Cancer, Colon Cancer, Rectal Cancer, Gastrointestinal Stromal Tumors, Anal Cancer, Bile Duct Cancer, Duodenal Cancer, Gallbladder Cancer, Gastric Cancer, Liver Cancer, Small Intestine Cancer, Peritoneal Surface Malignancies, Familial Adenomatous Polyposis, Lynch Syndrome, Bladder Cancer, Kidney Cancer, Penile Cancer, Prostate Cancer, Testicular Cancer, Ureter Cancer, Urethral Cancer, Hypopharyngeal Cancer, Laryngeal Cancer, Lip Cancer, Oral Cavity Cancer, Nasopharyngeal Cancer, Oropharyngeal Cancer, Paranasal Sinus Cancer, Nasal Cavity Cancer, Salivary Gland Cancer, Skin Cancer, Central Nervous System Tumor, Central Nervous System Cancer, Mesothelioma, Breast Cancer, Leukemia, Melanoma, Sarcoma, Unknown Primary Tumor, Multiple Myeloma, Ovarian Cancer, Endometrial Cancer, Vaginal Cancer, Neuroendocrine Tumors, Plasma Cell Dyscrasia, Healthy Control",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 999999,
+    "primaryOutcomeMeasure": "Development and implementation of a web-based Cancer Collaborative Registry at the University of Nebraska Medical Center (UNMC)/Nebraska Medical Center (NMC)",
+    "eligibilityCriteria": "Inclusion Criteria.\n\n* Adult individuals (male and female) who have a personal diagnosis/history of cancer\n* Adult individuals who have a risk for developing cancer or suspicious clinical findings\n* Adult individuals with no history of cancer for normal control registry.\n* Able to provide consent.\n* 19 years of age or older.\n* Adult individuals who are able to speak English.\n\nExclusion Criteria.\n\n* Individuals under age 19.\n* Individuals unable to provide informed consent by virtue of cognitive impairment.\n* Anyone who does not meet the above inclusion criteria for this project.\n* Non-English speaking individuals.",
+    "sex": "ALL",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

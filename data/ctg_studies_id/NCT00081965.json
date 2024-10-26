@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00081965",
+    "briefTitle": "Acupuncture in Treating Hot Flashes in Women With Breast Cancer",
+    "officialTitle": "Acupuncture for the Treatment of Hot Flashes in Breast Cancer Patients: A Randomized Controlled Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Hot Flashes",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Frequency and severity of hot flashes, as measured by a hot flash diary",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of breast cancer (including in situ disease)\n* Must be receiving treatment for breast cancer at Memorial Sloan Kettering Cancer Center (MSKCC) or its regional site (Commack)\n* Has an average of 3 or more hot flashes a day during 1 week of baseline diary recording\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Pre- or postmenopausal\n* Karnofsky performance status 70-100%\n* Ambulatory\n* No skin infection\n\nPRIOR CONCURRENT THERAPY:\n\n* More than 3 weeks since prior and no concurrent treatment with any of the following during the 6 week evaluation period of the trial:\n\n  * Surgery\n  * Initiation of a new chemotherapy regimen\n  * Initiation of immunotherapy\n  * Initiation of radiotherapy\n  * Initiation or cessation of hormonal therapy\n* More than 6 weeks since prior acupuncture treatment (6 months for acupuncture specifically for the treatment of hot flashes)\n* No concurrent pharmacological treatment for hot flashes unless dose has been stable for 4 weeks\n* No concurrent selective serotonin reuptake inhibitors (SSRIs) unless dose has been stable for 4 weeks",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

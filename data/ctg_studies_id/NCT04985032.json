@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04985032",
+    "briefTitle": "Accelerated Partial Breast Irradiation (APBI) Using Stereotactic Body Radiation Therapy (SBRT)",
+    "officialTitle": "Accelerated Partial Breast Irradiation (APBI) Using Stereotactic Body Radiation Therapy (SBRT): a Multicenter, Observational Clinical Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Ductal Carcinoma in Situ, Invasive Ductal Carcinoma of Female Breast",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Breast Cosmesis as measured by NRG-Radiation Therapy Oncology Group (RTOG) global cosmetic score (GCS) and the Harvard Cosmesis Scale (HCS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women 50 years or older\n2. Low to intermediate grade DCIS or invasive ductal carcinoma\n3. Tumor size \\< 2 cm invasive ductal carcinoma and \\< 2.5 cm DCIS\n4. Well defined lumpectomy cavity on CT\n5. Clear surgical ink margins \\> 2mm for invasive cancer and \\> 3 mm for DCIS\n6. Node negative\n7. Unifocal lesion\n8. ER and/or PR positive\n9. HER-2 negative\n10. BRCA negative\n11. Lumpectomy cavity must be \\< 30% of whole breast volume\n\nExclusion Criteria:\n\n1. Lobular histology\n2. Angiolymphatic invasion\n3. Multiple foci of disease\n4. Lymphovascular invasion\n5. Active lupus or sarcoid\n6. Distant metastases\n7. Non-epithelial malignancies\n8. Synchronous contralateral breast cancer\n9. Grade 2 or higher oncoplastic surgery\n10. Ipsilateral pacemaker\n11. Ipsilateral breast implant\n12. Neoadjuvant chemotherapy\n13. Prior ipsilateral breast cancer or thoracic radiation\n14. Poor breast integrity\n15. Paget's Disease of the nipple\n16. Pregnant patients\n17. Severe cardiac, pulmonary, or liver diseases",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

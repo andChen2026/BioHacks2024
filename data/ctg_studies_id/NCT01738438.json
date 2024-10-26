@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01738438",
+    "briefTitle": "Cabozantinib for Metastatic Triple Negative BrCa",
+    "officialTitle": "A Phase II Study of XL184 (Cabozantinib) for Metastatic Triple-Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "Objective Response Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed invasive breast cancer with stage IV disease\n* Primary tumor and/or metastasis must be ER-negative, PR-negative and HER2-negative\n* May have received 0-3 prior chemotherapeutic regimens for metastatic breast cancer. Must be off treatment for at least 21 days prior to enrollment\n* Must have discontinued all biologic therapy at least 14 days before enrollment\n* May have received prior radiation therapy in the early stage or metastatic setting, but must have completed treatment at least 14 days prior to enrollment\n* Must agree to use medically acceptable methods of contraception\n* Confirmed availability of formalin-fixed, paraffin-embedded tumor tissue\n* Able to swallow tablets\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding\n* Received another investigational agent within 14 days prior to enrollment\n* Received prior c-Met inhibitor\n* Known brain metastases that are untreated, symptomatic or require therapy to control symptoms\n* Psychiatric illness or social situation that could limit ability to comply with study requirements\n* Require concomitant treatment in therapeutic doses with anticoagulants or antiplatelet agents\n* Diagnosis of another malignancy requiring systemic treatment within the last two years (except non-melanoma skin cancer or in-situ carcinoma of the cervix)\n* Known to be positive for HIV\n* Active infection requiring IV antibiotics at Day 1 of cycle 1\n* Uncontrolled, significant intercurrent illness\n* Requires chronic concomitant treatment of a strong CYP3A4 inducer\n* tumor in contact with, invading or encasing major blood vessels\n* Have experienced clinically significant gastrointestinal bleeding within 6 months, hemoptysis of more than 0.5 teaspoon of red blood within 3 months or other signs indicative of pulmonary hemorrhage within 3 months of enrollment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

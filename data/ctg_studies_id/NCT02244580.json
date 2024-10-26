@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02244580",
+    "briefTitle": "Re-Evaluation of Tumor Samples From Women With Breast Cancer With the in Vitro Diagnostic Kit \"MammaTyperTM\"",
+    "officialTitle": "Evaluation of the MammaTyperTM Kit, Ref 90020/90021 Performed on Clinical Material Obtained From Patients With Breast Cancer: Re-Examination of Tumor Material and Re-Evaluation of Patient Data of the FinHer-Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Invasive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1010,
+    "primaryOutcomeMeasure": "5 Year Distant Disease Free Survival (DDFS) Assessed as Rate of Patients Without Distant Metastases in Subgroup Luminal A vs. Combined Subgroup (Luminal B, HER2 Positive, Triple Negative), Based on Subtyping With MammaTyper\u2122",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Invasive breast cancer verified in a histological biopsy\n* Age 65 or younger\n* Estrogen receptor (ER), PgR and HER2 expression have been determined\n* No distant metastases present (M0)\n* The patient provides a written informed consent for study participation\n* The estimated risk of breast cancer recurrence is high (25% or higher within the first 5 years from the date of the diagnosis, over \\>35% within the first 10 years from the diagnosis)\n\nExclusion Criteria:\n\n* Patients with breast cancer with \"a special histological type\" (mucinous, papillary, medullary, or tubular type of breast cancer) when no metastases are present in the ipsilateral axillary lymph nodes\n* The WHO performance status is moderate/poor, Z \\>1\n* The peripheral blood leukocyte count is less than 3.0 x 109/L, the blood granulocyte count is less than 1.5 x 109/L, or the blood thrombocyte count is less than 120 x 109/L\n* Any physical or mental disorder that is considered to prohibit administration of chemotherapy\n* Cardiac failure; severe cardiac arrythmia requiring regular medication",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

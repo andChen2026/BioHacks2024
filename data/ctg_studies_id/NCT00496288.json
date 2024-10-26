@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00496288",
+    "briefTitle": "Prophylactic Irradiation to the Contralateral Breast for BRCA Mutation Carriers Undergoing Treatment for Breast Cancer",
+    "officialTitle": "Phase II Multicenter Clinical Trial of Prophylactic Irradiation to the Contralateral Breast for BRCA Mutation Carriers Undergoing Treatment for Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 240,
+    "primaryOutcomeMeasure": "Rate of contralateral breast cancer in carrier patients that received prophylactic radiation to the contralateral breast compared with carrier patients that did not receive that treatment.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patient diagnosed with stage I-III breast cancer (AJCC 6), undergoing breast irradiation as part of her adjuvant therapy.\n2. The patient must be a carrier of a deleterious mutation in BRCA 1/2.\n3. Age above 30 years.\n4. The patient may receive any regimen of adjuvant chemotherapy, according to the treating physician. All cycles of chemotherapy must be completed at least 3 weeks prior to the start of radiation therapy.\n5. The patient may be treated with hormonal therapy before, during or after study entry, according to the guidelines of her treating center.\n6. The patient must have negative gadolinium based MRI of the contralateral breast, no more than 6 months prior to study entry.\n7. The patient refused prophylactic contralateral mastectomy.\n8. The patient is aware that subsequent breast cancer in the irradiated breast will probably mandate mastectomy.\n9. The patient consent for contralateral prophylactic irradiation. -\n\nExclusion Criteria:\n\n1. Metastatic breast cancer.\n2. Previous irradiation of the breast or chest wall.\n3. Pregnancy.\n4. No concurrent chemotherapy is allowed\n5. Patients with active connective tissue diseases are excluded due to the potential risk of significant radiotherapy toxicity.\n6. Patients who are unable to lie on their back and raise their arms above their heads in the treatment planning position for radiotherapy are excluded -",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

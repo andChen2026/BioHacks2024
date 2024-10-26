@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06172270",
+    "briefTitle": "Sub-regional Tumor Segmentation Based on CEUS Perfusion Characteristics: Enhancing Breast Tumor Diagnosis",
+    "officialTitle": "Sub-regional Tumor Segmentation Based on Contrast-Enhanced Ultrasound Perfusion Characteristics: A Historical-Prospective Cohort Study for the Diagnosis of Breast Tumor",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Tumor",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Accuracy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Prospective cohort patients voluntarily sign an informed consent form.\n* Patients who undergo breast contrast-enhanced ultrasound.\n* Patients with breast nodules that have not received any treatment.\n\nExclusion Criteria:\n\n* Patients who cannot obtain pathological results due to refusal of further diagnosis or treatment.\n* Patients whose breast lesions are too large to display their long axis under the ultrasound probe.\n* Patients contraindicated for contrast-enhanced ultrasound.\n* Historical cohort patients who cannot obtain ultrasound contrast videos of at least 45-60 seconds post contrast agent injection.\n* Patients whose ultrasound contrast videos show excessive motion displacement that cannot be corrected.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

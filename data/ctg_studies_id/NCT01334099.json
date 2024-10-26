@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01334099",
+    "briefTitle": "Safety Study of Radiation and CP-675,206 Infusion for Breast Cancer Patients",
+    "officialTitle": "Phase I Study of Local Radiation and CP-675,206 Administration in Patients With Inoperable Locally Recurrent or Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Assessing safety through toxicities observed using CTCAE version 3.0",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Inoperable locally recurrent or metastatic breast cancer\n* Performance status 0-1\n* Adequate organ function as determined by lab tests\n* Greater than 3 weeks since any chemotherapy treatment\n* Greater than 2 weeks since last dose of hormonal therapy\n\nExclusion Criteria:\n\n* Previous treatment with any anti-CTLA4 agent\n* Patients with active diarrhea\n* Patients who will receive radiation to pelvic lesions\n* History of chronic inflammatory or autoimmune disorder\n* History of insulin-dependent diabetes\n* History in the last 5 years of any chronic gastrointestinal conditions\n* History within the last year of congestive heart failure, stroke, myocardial infarction or thromboembolic event\n* Patients with known brain metastasis\n* Concurrent treatment with immunosuppressive medication for longer than 10 days within 4 weeks of enrollment or while on trial\n* Patients of reproductive potential not using effective contraception, breast-feeding, or patients who test positive for pregnancy at enrollment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

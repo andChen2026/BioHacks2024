@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00649337",
+    "briefTitle": "Earlier Breast Cancer Detection Using Automated Whole Breast Ultrasound With Mammography, Including Cost Comparisons",
+    "officialTitle": "Earlier Breast Cancer Detection Using Automated Whole Breast Ultrasound With Screening Mammography, Including Cost Comparisons",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms, Ultrasonography",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 4650,
+    "primaryOutcomeMeasure": "Numbers of breast cancers detected",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* be at least 35 years old, unless she has a strong pre-menstrual family history of breast cancer\n* have had no screening mammogram in the past 10 months\n* agree to have a screening mammogram that will not be reviewed until after a SonoCin\u00e9 is performed\n* agree to have a screening mammogram in approximately one year\n* agree to answer follow up question in approximately one year\n* meet the usual criteria for breast screening (be asymptomatic of focal breast disease)\n* have no history of breast cancer for at least one year\n* agree to have both mammogram and SonoCin\u00e9 if a physical finding or mammographic finding occurs within one year that requires biopsy\n\nExclusion Criteria:\n\n* greater than 7 cm compressed breast thickness at mammography",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

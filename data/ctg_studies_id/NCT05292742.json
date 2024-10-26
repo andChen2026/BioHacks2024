@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05292742",
+    "briefTitle": "Compare Continuation of Original Targeted Therapy With Trastuzumab Combined With Pyrotinib and Capecitabine as Postoperative Adjuvant Therapy in Non-pCR Patients With HER2 Positive Early Breast Cancer",
+    "officialTitle": "A Randomized, Open-label, Multicenter Study Comparing Continuation of Original Targeted Therapy With Trastuzumab Combined With Pyrotinib and Capecitabine as Postoperative Adjuvant Therapy in Non-pCR Patients With HER2 Positive Early Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Adjuvant Therapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 206,
+    "primaryOutcomeMeasure": "iDFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients aged \u2265 18 years and \u2264 75 years old with primary breast cancer\n* ECOG score 0 \\~ 1\n* Breast cancer meets the following criteria: 1\uff09Histologically or pathologically confirmed invasive breast cancer, primary tumor stage determined by standard evaluation methods\uff1acT1-4/N0-3/M0. 2\uff09Pathologically confirmed HER2-expressing positive breast cancer, defined as \\> 10% immunoreactive cells with immunohistochemical (IHC) score of 3 + or in situ hybridization (ISH) results of HER2 gene amplification. 3)Known hormone receptor status (ER and PgR). 4)Neoadjuvant therapy (including: at least 9 weeks of trastuzumab treatment and at least 9 weeks of taxane chemotherapy)\n* Primary breast cancer lesion or lymph node invasive cancer confirmed by pathology after neoadjuvant therapy (residual invasive breast cancer lesion \\> 2 cm or axillary lymph node positive with macrometastasis assessed by central laboratory)\n* No more than 12 weeks between end of surgery (without post-operative radiotherapy) and randomisation or 6 weeks between end of post-operative radiotherapy and randomisation\n* Required laboratory values including following parameters:\n\nANC: \u2265 1.5 x 109/L Platelet count: \u2265 90 x 109/L Hemoglobin: \u2265 9.0 g/dL Total bilirubin: \u2264 1.5 x upper limit of normal, ULN ALT and AST: \u2264 1.5 x ULN BUN and creatine clearance rate: \u2265 50 mL/min LVEF: \u2265 55% QTcF: \\< 470 ms\n\nExclusion Criteria:\n\n* 1) Stage IV (metastatic) breast cancer;\n* 2) inflammatory breast cancer;\n* 3) Previous anti-tumor therapy or radiotherapy for any malignancy, excluding cured cervical carcinoma in situ, basal cell carcinoma or squamous cell carcinoma;\n* 4) Receiving anti-tumor therapy in other clinical trials, including bisphosphonate therapy or immunotherapy (except radiotherapy and endocrine therapy during treatment);\n* 5) Receiving any anti-tumor therapy within 28 days before enrollment;\n* 6) Peripheral neuropathy \u2265 Grade 2 as specified by NCI CTCAE;\n* 7) Receiving pyrrolidone or other anti-HER2 tyrosine kinase inhibitors;\n* 8) Receiving anthracycline therapy with cumulative doses as follows: adriamycin \\> 240 mg/m2, epirubicin \\> 480 mg/m2;\n* 9) Receiving major surgery unrelated to breast cancer before randomization, or the patient has not fully recovered from surgery",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

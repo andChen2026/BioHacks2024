@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00053339",
+    "briefTitle": "Trastuzumab With or Without Tamoxifen in Treating Women With Progressive Stage IV Breast Cancer",
+    "officialTitle": "Phase III Randomized Study of Trastuzumab (Herceptin) With or Without Tamoxifen in Women With Progressive, Stage IV, Estrogen or Progesterone Receptor- and HER2/Neu-Positive Breast Cancer",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Stage IV Breast Cancer, Recurrent Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Time to progression",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive stage IV breast cancer\n* Hormone receptor status:\n* HER2/neu positive (3+ by immunohistochemical \\[IHC\\] assay or fluorescent in situ hybridization \\[FISH\\])\n* Estrogen receptor or progesterone receptor positive\n* Measurable or evaluable disease\n* Must have disease progression within 6 months of initiation of tamoxifen (administered in the adjuvant or metastatic setting) or during aromatase inhibitor therapy\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nSex\n\n* Female\n\nPerformance status\n\n* ECOG 0-2\n\nHematopoietic\n\n* Absolute neutrophil count at least 1,000/mm\\^3\n* Platelet count at least 75,000/mm\\^3\n\nHepatic\n\n* Bilirubin no greater than 1.5 times upper limit of normal (ULN)\n* SGOT and SGPT no greater than 2.5 times ULN\n\nCardiovascular\n\n* LVEF normal by MUGA\n\nOther\n\n* Not pregnant or nursing\n* Fertile patients must use effective nonhormonal contraception during and for at least 2 months after study completion\n* No other concurrent active malignancy except nonmelanoma skin cancer\n* Patients who have completed prior therapy and are at less than 30% risk of relapse are not considered to have an active malignancy\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* No prior trastuzumab (Herceptin) in the adjuvant or metastatic setting\n\nChemotherapy\n\n* No more than 1 prior chemotherapy regimen in the metastatic setting\n* No concurrent chemotherapy\n\nEndocrine therapy\n\n* See Disease Characteristics\n* No more than 1 prior hormonal therapy regimen for metastatic disease\n* Prior aromatase inhibitor therapy administered in the first-line metastatic or adjuvant setting is allowed provided there is disease progression on tamoxifen\n* No other concurrent hormonal therapy except the following:\n* Steroids for adrenal failure\n* Hormones for nondisease-related conditions (e.g., insulin for diabetes)\n* Intermittent use of dexamethasone as an antiemetic\n* Vaginal estrogen (or Estring\u00c2\u00ae) for vaginal dryness\n\nRadiotherapy\n\n* No concurrent palliative radiotherapy except whole brain irradiation for CNS disease\n\nOther\n\n* Concurrent bisphosphonates allowed\n* No concurrent cardioprotective drugs",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

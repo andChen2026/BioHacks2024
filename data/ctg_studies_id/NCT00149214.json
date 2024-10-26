@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00149214",
+    "briefTitle": "Preoperative Treatment of Breast Cancer With Two Different Sequential Treatment Regimens",
+    "officialTitle": "A Randomized Phase 2 Trial of Doxorubicin Plus Pemetrexed Followed by Docetaxel, Versus Doxorubicin Plus Cyclophosphamide Followed by Docetaxel, as Neoadjuvant Treatment for Early Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 257,
+    "primaryOutcomeMeasure": "Number of Participants With a Pathological Complete Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of primary early breast cancer, tumor size greater than or equal to 2 centimeters (cm), of Stages T2-T4/N0-2.\n* Performance status 0-2 Eastern Cooperative Oncology Group (ECOG).\n* Adequate organ function (bone marrow, hepatic, renal, cardiac).\n\nExclusion Criteria:\n\n* Prior anthracyclines as part of prior anticancer therapy.\n* Concurrent antitumor therapy.\n* Second primary malignancy.\n* Serious concomitant systemic disorder.\n* Pre-existing sensorial or motor neuropathy\n\n  * Grade 1.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

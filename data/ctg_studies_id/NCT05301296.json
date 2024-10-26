@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05301296",
+    "briefTitle": "Trivandrum Breast Cancer Screening Trial",
+    "officialTitle": "Evaluating of Clinical Early Detection of Breast Cancer in Trivandrum District, India",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 115290,
+    "primaryOutcomeMeasure": "Breast Cancer Death Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Residing in 274 study clusters in Trivandrum City, Kerala\n\nExclusion Criteria:\n\n* Diagnosis with breast cancer prior to study\n* Bedridden subjects\n* Subjects suffering from open tuberculosis or other debilitating diseases",
+    "sex": "ALL",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

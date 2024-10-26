@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03080623",
+    "briefTitle": "Ultrasound-based Diagnostic Model for Differentiating Malignant Breast Lesion From Benign Lesion",
+    "officialTitle": "Ultrasound-based Diagnostic Model for Differentiating Malignant Breast Lesion From Benign Lesion",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female, Diagnoses Disease",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1981,
+    "primaryOutcomeMeasure": "breast biopsy proved malignant or benign lesion",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female\n* with single breast lesion(maximum diameter\\>0.8 cm)\n* agree to receive follow-up in six months and take the second breast ultrasound six month after the first breast ultrasound, if a benign diagnosis is achieved at the first ultrasound\n* sign the informed consent\n\nExclusion Criteria:\n\n* lost to follow-up\n* failed to take the second breast ultrasound six month after the first breast ultrasound",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

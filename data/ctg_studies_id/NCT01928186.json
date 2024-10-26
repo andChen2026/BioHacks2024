@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01928186",
+    "briefTitle": "FLT PET in Measuring Treatment Response in Patients With Newly Diagnosed Estrogen Receptor-Positive, HER2-Negative Stage I-III Breast Cancer",
+    "officialTitle": "Imaging Early Response of ER+, HER2- Breast Cancer to Aromatase Inhibitor (AI) +/- Ovarian Suppression (OS) Therapy With [18F]Fluorothymidine (FLT) PET",
+    "overallStatus": "COMPLETED",
+    "conditions": "Estrogen Receptor Positive, HER2/Neu Negative, Male Breast Carcinoma, Stage IA Breast Cancer, Stage IB Breast Cancer, Stage IIA Breast Cancer, Stage IIB Breast Cancer, Stage IIIA Breast Cancer, Stage IIIB Breast Cancer, Stage IIIC Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "Percent Change in Net Influx Constant (Ki) by FLT PET",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* A new diagnosis of invasive breast cancer \\> 1.0 cm in size, ER+ clinical stage I-III\n* Patient must have surgical resection followed by systemic adjuvant therapy with an aromatase inhibitor (AIs) as part of planned treatment; any approved AI at standard clinical dosing may be used; in pre-menopausal patients, ovarian suppression with a gonadotropin-releasing hormone (GnRH) agonist will be started prior to initiation of the AI on a separate clinical trial in parallel with the imaging study\n* Have tissue block available from core biopsy for correlative biomarkers and genomic assay\n* Have menopausal status determined prior to study enrollment; for study purposes, postmenopausal is defined as\n\n  * A prior documented bilateral oophorectomy, or\n  * A history of at least 12 months without spontaneous menstrual bleeding, or\n  * Age 60 or older with a prior hysterectomy without oophorectomy, or\n  * Age less than 60 with a prior hysterectomy without oophorectomy (or in whom the status of the ovaries is unknown) with a documented follicle-stimulating hormone (FSH) level demonstrating confirmatory elevation in the postmenopausal range for the lab\n* Negative pregnancy test within 7 days of baseline positron emission tomography (PET) scan for pre-menopausal patients\n* Tumor HER2/neu expression must be determined (as part of standard clinical care) prior to study enrollment; HER2 may be tested by any Food and Drug Administration (FDA) approved HER2 testing method; if determination is intermediate by immunohistochemistry (IHC), fluorescent in situ hybridization (FISH) or another alternate HER2 test must be performed\n* Be a candidate for \\[18F\\]FLT PET imaging\n* Be informed of the investigational nature of this study and provide written informed consent in accordance with institutional and federal guidelines prior to study-specific screening procedures\n* Be willing and able to comply with scheduled visits and other trial procedures\n\nExclusion Criteria:\n\n* Current use of aromatase inhibitor as prevention or treatment for breast cancer\n* Life expectancy of less than two months\n* HER2/neu positive by IHC and/or another FDA approved HER2 testing method\n* Inability to tolerate scanning (e.g. - claustrophobia, severe pain)\n* Weight exceeding capacity of imaging table",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

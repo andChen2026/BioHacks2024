@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03301389",
+    "briefTitle": "Cardiac Magnetic Resonance for Early Detection of Chemotherapy or Radiation Therapy Induced Cardiotoxicity in Breast Cancer (CareBest)",
+    "officialTitle": "Cardiac Magnetic Resonance for Early Detection of Chemotherapy or Radiation Therapy Induced Cardiotoxicity in Breast Cancer (CareBest)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Chemotherapy Induced Cardiotoxicity",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "Decrease in LVEF (left ventricular ejection fraction)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient with breast cancer\n\nExclusion Criteria:\n\n* Contraindication of MRI\n* Failure with informed consent\n* Fail to scan screening protocol",
+    "sex": "FEMALE",
+    "minimumAge": "17 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

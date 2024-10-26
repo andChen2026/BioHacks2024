@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04909554",
+    "briefTitle": "MRI-based Approaches for Multi-parametric Model to Early Predict Pathological Complete Response to Neoadjuvant Therapy in Breast Cancer",
+    "officialTitle": "MRI-based Approaches for Multi-parametric Model to Early Predict Pathological Complete Response to Neoadjuvant Chemotherapy in Breast Cancer (NeoMDSS)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 301,
+    "primaryOutcomeMeasure": "Sensitivity",
+    "eligibilityCriteria": "1. For training cohort:\n\n   Inclusion Criteria:\n   * Age \u226518 years;\n   * Histologically confirmed invasive breast carcinoma;\n   * Clinical stage II-III at presentation;\n   * Complete basic information and image data;\n   * Have MRI imaging data at baseline and after the first cycle of NAC;\n   * Finish the standard NAC treatment and undergo surgery;\n\n   Exclusion Criteria:\n   * With chemotherapy contraindications;\n   * Multifocal of multicentric lesions;\n   * Poor quality of MRI images;\n2. For validation cohort:\n\nInclusion Criteria:\n\n* Age \u226518 years;\n* Complete basic information and image data;\n* Clinical stage II-III at presentation;\n* Scheduled for neoadjuvant chemotherapy;\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.\n* Signed informed consent;\n\nExclusion Criteria:\n\n* With chemotherapy contraindications;\n* Metastatic breast cancer;\n* Multifocal of multicentric lesions;",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

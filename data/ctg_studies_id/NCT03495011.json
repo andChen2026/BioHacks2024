@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03495011",
+    "briefTitle": "MRI Characterization of Mammographically Detected DCIS",
+    "officialTitle": "MRI Characterization of Mammographically Detected Calcifications and Ductal Carcinoma in Situ",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Stage 0",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 122,
+    "primaryOutcomeMeasure": "Fractional perfusion (f)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \\[Cohort A\\] Women aged 18 or older with suspicious calcifications identified on mammography without an associated mass\n* \\[Cohort B\\] Women aged 18 or older with recent biopsy-proven DCIS with residual calcifications present on mammogram after biopsy\n\nExclusion Criteria for Both Cohorts:\n\n* Patients with prior history of breast cancer in the ipsilateral breast\n* Patients with a newly diagnosed breast cancer in the contralateral breast\n* Contra-indication to contrast-enhanced breast MRI (e.g. renal insufficiency with GFR\\<60, contrast allergy, incompatible metal)\n* Patients who currently are undergoing chemoprevention therapy (e.g. aromatase inhibitors or selective estrogen receptor modulators)\n* Women who are pregnant",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

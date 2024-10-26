@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02900118",
+    "briefTitle": "Imaging Evaluation of the Therapeutic Response of Breast Cancer Bone Metastasis (EMOS)",
+    "officialTitle": "Imaging Evaluation of the Therapeutic Response of Breast Cancer Bone Metastasis",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "Evaluation of the therapeutic response.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patient with breast cancer bone metastasis :\n\n   * at the initial diagnosis (group 1).\n   * in a metastatic bone relapse (group 2).\n   * with a progression of bone metastasis (group 3).\n2. Treatment (hormone therapy, chemotherapy) not undertaken (group 1) or prior therapeutic change (group 2 and 3).\n3. Patient not opposing the use of its data.\n\nExclusion Criteria:\n\n1. Claustrophobic patient\n2. Patient with an uncontrolled diabetes (fasting glucose \\< 1.6 g / l)\n3. Patient with a pace-maker or another material incompatible with the MRI 3 Tesla\n4. Very algetic patient (Visual Analog Scale (VAS) \\> 7)\n5. Pregnant or breastfeeding women\n6. Patient under 18 or under guardianship\n7. Movement disorders (Parkinson disease, etc.) or dementia",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

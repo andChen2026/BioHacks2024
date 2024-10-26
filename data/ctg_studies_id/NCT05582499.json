@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05582499",
+    "briefTitle": "Fudan University Shanghai Cancer Center Breast Cancer Precision Platform Series Study- Neoadjuvant Therapy",
+    "officialTitle": "Fudan University Shanghai Cancer Center Breast Cancer Precision Platform Series Study- Neoadjuvant Therapy (FASCINATE-N)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Neoplasm, Breast Cancer, Breast Tumors, Triple-Negative Breast Cancer (TNBC), HER2-positive Breast Cancer, HER2-negative Breast Cancer, Hormone Receptor Positive Tumor, Hormone Receptor Negative Tumor, Early-stage Breast Cancer, Locally Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 716,
+    "primaryOutcomeMeasure": "Pathological complete response rate (pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed invasive cancer of the breast and meet the clinical stage II\uff08T2N0-1M0/T3N0M0\uff09or III\uff08T2N2M0/T3N1-2M0) criteria;\n* Age between18-70 years;\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1;\n* ER, PR and HER2 status were measured by immunohistochemistry (IHC);\n* LVEF\u226555%\uff1b\n* Definition of SNF subtypes: SNF subtypes confirmed by digital pathology of H\\&E slices;\n* Triple negative subtyping: On the basis of triple-negative pathological diagnosis, AR, cluster of differentiation 8 (CD8) and Forkhead Box C1 (FOXC1) were combined to define the subtyping;\n* At least one measurable lesion according to RECIST version 1.1\n* Normal organ and marrow function: Hemoglobin (HB) \u226590 g/L (No blood was transfused within 14 days), Absolute neutrophil count \u2265 1500/\u03bcL, Platelets \u2265 75,000/\u03bcL, Total bilirubin \u2264 1.5 x ULN), aspartate aminotransferase (AST) (SGOT) and alanine aminotransferase (ALT) (SGPT) \u2264 3 x ULN, creatinine \\< 1 x ULN, endogenous creatinine clearance \\> 50 ml/min (Cockcroft-Gault formula);\n* Non-pregnant and non-lactating, fertile female subjects were required to use a medically approved contraceptive method for the duration of the study treatment and at least 3 months after the last use of the study drug;\n* Ability to understand and willingness to sign a written informed consent\n\nExclusion Criteria:\n\n* Previous cytotoxic chemotherapy, endocrine therapy, biological therapy or radiotherapy for any reason;\n* Patients with New York Heart Association (NYHA) grade II or above heart disease (including grade II);\n* Patients with severe systemic infections or other serious diseases;\n* Patients with known allergy or intolerance to the study drug or its excipients;\n* Other malignant tumors in the past 5 years, except cured cervical carcinoma in situ and non-melanoma skin cancer;\n* Pregnant or lactating patients of childbearing age who refused to take appropriate contraceptive measures during the course of the study;\n* Participated in other trial studies within 30 days before the administration of the first dose of the study drug;\n* Patients who were judged by the investigator to be unsuitable for this study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

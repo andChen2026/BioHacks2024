@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03989258",
+    "briefTitle": "Personalised Risk-based Breast Cancer Prevention and Screening",
+    "officialTitle": "Implementation of a Model for Personalised Risk-Based Breast Cancer Prevention and Screening",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 28389,
+    "primaryOutcomeMeasure": "Proportion of women in the population with genetically higher risk for breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nCohort 1:\n\n* Available NGS (WGS or WES) data for detection of breast cancer moderate to high genetic risk variants in BRCA1, BRCA2, TP53, STK11, PTEN, CDH1, ATM, PALB2, CHEK2, NBN, NF1 genes;\n* Available genetic (WGS, genotyping) data for PRS calculation, participants in age 40-74 will be further selected;\n\nCohort 2:\n\n* Available genotyping data;\n* No available NGS data for BRCA1, BRCA2, TP53, STK11, PTEN, CDH1, ATM, PALB2, CHEK2, NBN, NF1 genes;\n* Participants in the age group 40-74 with available genetic data for PRS calculation;\n\nCohort StMG:\n\n\u2022 Female participants in Estonian Biobank in the age group 50-69 participating at least once in the current Estonian population-based screening program during 2016-2020.\n\nExclusion Criteria:\n\nCohort 1: breast cancer in the medical history; Cohort 2: breast cancer in the medical history. Cohort StMG: none.",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06222957",
+    "briefTitle": "The Effects of HER2 Receptor Signaling on Human Brown Fat Activity",
+    "officialTitle": "The Effects of HER2 Receptor Signaling on Human Brown Fat Activity: A 1-year Prospective Cohort Study in Trastuzumab-treated Breast Cancer Patients Versus HER2 Negative Controls",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "BAT activity",
+    "eligibilityCriteria": "General inclusion criteria:\n\n* Female\n* Age \\> 18 years\n* Histologically confirmed breast cancer\n* No prior neoadjuvant treatment\n* Estrogen receptor positive (\\>1%)\n* Presence of cold activated brown fat as evidenced by a change in \u0394temp. of \\>1\u00b0C (post cooling - precooling temperature).\n\nHER2 positive group: HER2-positive (HER2+) and Estrogen receptor-positive (ER+) breast cancer patients (N = 15):\n\n* HER2 positive breast cancer as defined by ASCO/CAP criteria\n* Scheduled to receive adjuvant chemotherapy, a total of 17 series of trastuzumab and endocrine treatment\n\nControl group: HER2-negative breast cancer patients (HER2-) and Estrogen receptor-positive (ER+) breast cancer patients (N = 15):\n\n* HER2 negative breast cancer as defined by ASCO/CAP criteria\n* Scheduled to receive adjuvant chemotherapy and endocrine treatment\n\nExclusion Criteria:\n\n* Any other cancer (excluding carcinoma in situ and radically operated localised squamous skin cancer) with clinical activity within the last 2 years\n* Metastatic breast cancer\n* Metabolic diseases such as diabetes (exceptions can be made if the disease is well treated, assessed by the clinically responsible medical doctor (see section 18))\n* Regular use of prednisolone - use in relation to chemotherapy only is ok\n* Pregnancy\n* Untreated or dysregulated hypertension defined as outpatient clinic systolic BP \\> 155 and diastolic BP \\> 95\n* Clinically significant ventricular or atrial arrhythmia\n* Untreated coronary artery disease or angina pectoris\n* Symptomatic heart failure (NYHA \u2265 2)\n* Known cold urticaria",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

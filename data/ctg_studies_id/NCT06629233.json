@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06629233",
+    "briefTitle": "Evaluation of a Novel Technique for the Discovery of New, Tumor-specific Targets for the Deployment of Innovative Immunotherapeutics Against Cancer.",
+    "officialTitle": "Tn-Miner: Technology for the Discovery of Tumor-specific Glycopeptide Immunotherapy Targets.",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Estrogen Receptor Positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Discovery of new, tumor-specific, glycopeptide epitopes.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Minimally 18 years old\n* Diagnosed with estrogen-receptor positive breast cancer\n* This must be a primary tumor\n\nExclusion Criteria:\n\n* Male\n* Younger than 18 years old\n* Previous history of other tumors",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

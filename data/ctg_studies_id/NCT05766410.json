@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05766410",
+    "briefTitle": "A Randomized Study Comparing the Immune Modulation Effect of Ribociclib, Palbociclib, and Abemaciclib in ER+/HER2- EBC",
+    "officialTitle": "A Randomized, Open-label, Parallel-group Study Comparing the Immune Modulation Effect of Ribociclib, Palbociclib, and Abemaciclib in Early ER+/HER2- Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Hormone Receptor-positive Breast Cancer, Hormone Therapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "The expression of immune-related signature change after different CDK4/6 inhibitor treatments by RNAseq",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients aged \u2265 20 years old at the time of informed consent.\n* Patient has a histologically and/or cytologically confirmed diagnosis of estrogen-receptor positive and/or progesterone receptor positive breast cancer based on the most recently analyzed tissue sample and all tested by local laboratory. with estrogen receptor positive (\\>10%) on IHC staining and HER2 negative (IHC 0+/1+, or IHC 2+ plus FISH negative)\n* Stage II to III\n* With adequate organ function\n* ECOG 0-1\n\nExclusion Criteria:\n\n* Pregnant or nursing (lactating) women\n* Women of child-bearing potential unless using highly effective methods of contraception during study drug dosing and for 12 months post-dosing\n* Patients with active systemic infections or known to have AIDS or to test positive for HIV antibody at Screening\n* Any other disease or condition that could interfere with participation in the study according to the study protocol, or with the ability of the patients to cooperate and comply with the study procedures.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

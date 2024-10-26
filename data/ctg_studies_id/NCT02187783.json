@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02187783",
+    "briefTitle": "LEE011 for Patients With CDK4/6 Pathway Activated Tumors (SIGNATURE)",
+    "officialTitle": "Modular Phase II Study to Link Targeted Therapy to Patients With Pathway Activated Tumors: Module 8 - LEE011 for Patients With CDK4/6 Pathway Activated Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Tumors With CDK4/6 Pathway Activation",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 106,
+    "primaryOutcomeMeasure": "Number of Participants With Solid Tumor Response \u2265 16 Weeks for Based Upon Local Investigator Assessments",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient had a confirmed diagnosis of a select solid tumor (except breast cancer (however, triple negative was included), liposarcoma, CRPC, melanoma and teratoma) or hematological malignancy (except mantle cell lymphoma).\n* Patient must have been pre-identified as having a tumor with CDK4 amplification or mutation, CDK6 amplification or mutation, Cyclin D1 (CCND1) amplification, Cyclin D3 (CCND3) amplification, or p16 (CDKN2A) mutation\n* Patient had received at least one prior treatment for recurrent, metastatic and /or locally advanced disease and for whom no standard therapy options are anticipated to result in a durable remission.\n* Patient had progressive and measurable disease as per RECIST 1.1. or other appropriate hematological guidelines.\n* Patient had an Eastern Cooperative Oncology Group (ECOG) performance status \u2264 1\n\nExclusion Criteria:\n\n* Patients had received prior treatment with LEE011.\n* Patient had clinically significant resting bradycardia (heart rate \\< 50 at rest), tachycardia (heart rate \\> 90 at rest), PR interval \\> 220 msec, QRS interval \\> 109 msec, or QTcF \\> 450 msec.\n* Patients had primary CNS tumor or CNS tumor involvement\n* Patient had received chemotherapy or anticancer therapy \u2264 4 weeks prior to starting study drug",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

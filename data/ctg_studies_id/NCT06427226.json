@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06427226",
+    "briefTitle": "Evaluation of the Possible Safety and Efficacy of Dapagliflozin in the Prophylaxis of Doxorubicin-Induced Cardiotoxicity",
+    "officialTitle": "Clinical Study to Evaluate the Possible Safety and Efficacy of Dapagliflozin in the Prophylaxis of Doxorubicin-Induced Cardiotoxicity in Breast Cancer Patients",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Doxorubicin Induced Cardiomyopathy, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "Assessment of changes in ejection fraction using echocardiography",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u226518 years old.\n* Chemo-na\u00efve patients with biopsy confirmed diagnosis of breast cancer and with stage I-III breast cancer according to the American Joint Committee on Cancer (TNM staging system of breast cancer).\n* Patients intended to receive at least 4 cycles of doxorubicin or more.\n* Patients with performance status \\<2 according to Eastern Cooperative Oncology Group (ECOG) score.\n* Echocardiographic LVEF \u226555%.\n* Adequate baseline hematologic values (absolute neutrophilic count \u2265 1.5 \u00d7109/L, platelet count \u2265 90 \u00d7 109/L and hemoglobin level \u2265 10 g/dl).\n* Patients with adequate liver function and adequate renal function.\n* Signed informed consent to participate in the study.\n\nExclusion Criteria:\n\n* Age \\<18 years old and \\>65 years old.\n* Patients with prior exposure to anthracyclines within the last 6 months.\n* Patients with evidence of metastasis at initial assessment.\n* Treatment with any SGLT-2 inhibitors for 6 months prior to the screening.\n* Patients taking any other cardioprotective medications.\n* Pregnancy and breast feeding.\n* Alcohol abuse.\n* History of heart failure or LVEF \\<50%.\n* Presence of any cardiac-related conditions such as angina pectoris, valvular disease, uncontrolled systemic hypertension, coronary heart disease, and cardiac surgery within the last 3 months.\n* Patients with type 1 diabetes mellitus or diabetic ketoacidosis, history of stroke, and patients with severe renal impairment with GFR \\<25ml/min/1.73m2 . - Patients taking gatifloxacin as it causes major drug interaction with dapagliflozin.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

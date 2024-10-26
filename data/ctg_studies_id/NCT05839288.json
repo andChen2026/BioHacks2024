@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05839288",
+    "briefTitle": "Pyrotinib Plus Trastuzumab and Chemotherapy in HER2+ Metastatic Breast Cancer Patients",
+    "officialTitle": "Pyrotinib Plus Trastuzumab and Chemotherapy in Metastatic HER2-positive Breast Cancer Patients- a Multicenter Retrospective Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 161,
+    "primaryOutcomeMeasure": "progression-free survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* woman, age \\> 18 years old\n* diagnosed with HER2 +Metastatic Breast Cancer\n* received pyrotinib plus trastuzumab and chemotherapy for at least one cycle, starting from 2018.07-2022.09\n* available medical history\n\nExclusion Criteria:\n\n* medical history was incomplete",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

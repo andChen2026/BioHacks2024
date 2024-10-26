@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06080620",
+    "briefTitle": "The Choice of Treatment Methods and Efficacy of LABC",
+    "officialTitle": "Treatment Selection and Efficacy of Locally Advanced Breast cancer-a Prospective Randomized Controlled Study",
+    "overallStatus": "RECRUITING",
+    "conditions": "Locally Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "DFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. 18-70 year old female\n2. Patients with locally advanced breast cancer (stage IIIb - IIIc) first diagnosed;\n3. Clinical diagnosis of breast cancer, or puncture pathology suggests breast cancer;\n4. After evaluation by experienced clinical physicians, the patient's tumor has the possibility of surgical resection. Specific evaluation indicators include ultrasound assessment of the tumor not surrounding the axillary vein;\n5. Accept treatment plans including surgery, radiotherapy, and chemotherapy;\n6. Volunteer to participate in clinical research and sign an informed consent form;\n7. Willing to undergo follow-up and complete quality of life (EQ-5D series scale and FACT-B scale) and postoperative psychological status (Anxiety/Depression Self Rating Scale) assessments;\n\nExclusion Criteria:\n\n1. Patients under 18 years old or over 70 years old;\n2. Those who have received breast cancer related surgery, radiotherapy or chemotherapy;\n3. Those who are not expected to receive surgery, radiotherapy or chemotherapy related to breast cancer\n4. History of other malignant tumors;\n5. Pregnant or lactating women;\n6. Accompanying active infection and fever;\n7. Other serious diseases that may significantly affect clinical trial compliance, such as severe cardiopulmonary dysfunction, liver and kidney dysfunction, poorly controlled diabetes and mental illness.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

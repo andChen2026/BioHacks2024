@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00732433",
+    "briefTitle": "Digital Mammography: Computer-Aided Breast Cancer Diagnosis",
+    "officialTitle": "Digital Mammography: Computer-Aided Breast Cancer Diagnosis",
+    "overallStatus": "COMPLETED",
+    "conditions": "Tumors, Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 433,
+    "primaryOutcomeMeasure": "Using computer aided programs to assist in detection and characterization of breast lesions in digital mammography.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females who have been scheduled for mammographic exams.\n* Females who have been recommended for work-up or biopsy due to a suspicious finding on their mammogram.\n* Females who can give informed consent.\n\nExclusion Criteria:\n\n* No subject under 18 years of age",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

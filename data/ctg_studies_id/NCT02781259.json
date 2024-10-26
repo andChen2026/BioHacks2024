@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02781259",
+    "briefTitle": "Selective Lymph Node Dissection Using Fluorescent Dye in Node-positive Breast Cancer",
+    "officialTitle": "Selective Lymph Node Dissection Using Fluorescent Dye in Node-positive Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Number of metastatic lymph nodes in fluorescent positive lymph nodes and fluorescent negative lymph nodes confirmed by pathologist",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Operable breast cancer patient\n* Preoperatively axillary lymph node positive proven patients or sentinel lymph node positive patients whom requires axillary lymph node dissection\n\nExclusion Criteria:\n\n* Breast cancer history\n* Occult breast cancer\n* Past history of axillary surgery\n* Iodine hypersensitivity\n* Pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

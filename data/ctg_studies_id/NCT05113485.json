@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05113485",
+    "briefTitle": "UCLA Breast Cancer Survivor Health Promotion Research Study",
+    "officialTitle": "A Fiber-diverse, Anti-inflammatory Diet and Aerobic Exercise Reduce Risk of Breast Cancer Recurrence",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "High-sensitivity C-Reactive Protein (CRP)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. At least 6 months since breast cancer diagnosis and up to 4 years since diagnosis.\n2. Between 50 and 75 years of age.\n3. Diagnosed with localized steroid hormone receptor-positive breast cancer, up to stage IIIa.\n4. At least 6 months post chemotherapy or radiation treatment.\n5. Subjects must be in good health as determined by medical history, physical examination, and clinical laboratory measurements.\n6. No broad-spectrum antibiotic use in the last two months.\n7. Body mass index between 27 and 38 based on self-reported height and weight and between 25 and 40 based on objective assessment of height and weight.\n8. Willing to complete assessments at baseline, 3 months and 6 months follow-up\n\nExclusion Criteria:\n\n1. Diagnosed with metastatic breast cancer\n2. Currently undergoing chemotherapy or radiation treatment\n3. Immunoglobulin-E (IgE)-mediated food allergies, or any medical condition requiring mandatory dietary restrictions\n4. Significant cardiac, pulmonary, renal, liver or psychiatric disease.\n5. Muscular, orthopedic, or cardiovascular limitations that would prevent full participation in exercise",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

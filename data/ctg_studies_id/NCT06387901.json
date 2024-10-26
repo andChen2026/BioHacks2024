@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06387901",
+    "briefTitle": "Investigating Paclitaxel Toxicity in Breast Cancer: The Roles of Physical Activity and Body Composition.",
+    "officialTitle": "Dose-limiting Toxicities of Paclitaxel in Breast Cancer Patients: Studying Interactions Between Pharmacokinetics, Physical Activity, and Body Composition: an Observational Pilot Study.",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer, Paclitaxel Adverse Reaction, Chemotherapeutic Toxicity, Chemotherapeutic Agent Toxicity, Body Weight, Physical Inactivity",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Identification of Body Composition Parameter (Muscle mass) Related to Dose-Limiting Toxicities (DLTs)",
+    "eligibilityCriteria": "Inclusion Criteria\n\n* Female patients with a diagnosis of breast cancer: Specifically targeting those diagnosed with stage II or III breast cancer, to understand the effects of paclitaxel within a somewhat uniform disease severity group.\n* Planned for 12 cycles of Paclitaxel (PTX) in a (neo-)adjuvant setting: The study focuses on patients scheduled to undergo a standard 12-week, once-a-week paclitaxel chemotherapy regimen as part of their treatment plan.\n* Age 18 or older in (pre-)menopausal status: Adult patients of any menopausal status are eligible, ensuring a wide demographic representation.\n* Prior taxane use is allowed if treatment in the adjuvant setting finished over a year ago: This criterion allows for the inclusion of patients who may have previously undergone taxane-based treatments, provided there has been a sufficient washout period to minimize the influence of prior treatments on the study outcomes.\n\nExclusion Criteria\n\n* Cognitive impairment (unable to understand test instructions): Ensuring participants can comprehend and follow study procedures and requirements is crucial for data integrity and participant safety.\n* Participation in clinical trials of experimental drugs: To avoid confounding effects from other investigational treatments and focus on the impact of standard-of-care paclitaxel therapy.\n* Documented intolerance or allergy to PTX (non-documented intolerance or allergy will lead to drop-out): Participants must be able to tolerate paclitaxel, as adverse reactions could compromise their safety and affect study results.\n\nInteracting drugs in home medication: Patients using medications known to interact with paclitaxel could experience altered drug metabolism or increased toxicity, potentially skewing study outcomes.\n\n* Male sex: The study is focused on breast cancer in female patients, as the disease's presentation, treatment, and outcomes can vary significantly between genders.\n* Age under 18 years: Ensuring all participants are legal adults helps adhere to ethical standards and regulatory requirements concerning consent and participation in clinical research.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02831439",
+    "briefTitle": "A Statewide Intervention to Reduce Use of Unproven or Ineffective Breast Cancer Care",
+    "officialTitle": "A Statewide Intervention to Reduce Use of Unproven or Ineffective Breast Cancer Care",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 400415,
+    "primaryOutcomeMeasure": "Percentage of Women who received Intensity Modulated Radiation Therapy (IMRT) after Breast Conserving Surgery (defined as CPT 77418, 77385, 77386).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nI. Health care providers: Health care providers (regardless of age, gender or race/ethnicity) in participating WCHQ practices who will provide breast cancer care to about 9,000 women who had an incident breast cancer surgery between 2014-2017.\n\nII. Patients: Medicare and Marketscan women who had an incident breast cancer surgery between 2014-2017. No exclusions will be made by age or race/ethnicity. The focus on women is dictated by the very low prevalence of breast cancer among men.\n\nIdentification of incident breast cancer surgery in these datasets will be done using a validated algorithm developed by Nattinger et al.\n\nExclusion Criteria:\n\n* Male patients are excluded from this analysis due to the low prevalence of breast cancer among males.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

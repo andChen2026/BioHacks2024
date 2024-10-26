@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00054275",
+    "briefTitle": "Erlotinib Plus Docetaxel in Treating Patients With Stage IV or Recurrent Breast Cancer",
+    "officialTitle": "A Phase II Study Of The Weekly Administration Of Docetaxel In Combination With The Epidermal Growth Factor Receptor Inhibitor OSI-774 In Recurrent And/Or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 39,
+    "primaryOutcomeMeasure": "Disease Response (Tumor Measurements)Per RECIST Criteria v. 2000",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed stage IV or recurrent adenocarcinoma of the breast\n* Measurable disease\n* Disease recurrence must not be within 1 year of receiving prior adjuvant docetaxel\n* Stable brain metastases allowed\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nSex\n\n* Male or female\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* ECOG (Eastern Cooperative Oncology Group) 0-2 OR\n* Karnofsky 60-100%\n\nLife expectancy\n\n* More than 6 months\n\nHematopoietic\n\n* WBC(White Blood Count) at least 3,000/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n* Absolute neutrophil count at least 1,500/mm\\^3\n* Hemoglobin at least 8 g/dL\n\nHepatic\n\n* Bilirubin normal\n* AST(aspartate aminotransferase)/ALT(alanine aminotransferase) no greater than 2.5 times upper limit of normal\n\nRenal\n\n* Creatinine normal OR\n* Creatinine clearance at least 60 mL/min\n* No clinically significant proteinuria\n* No significant impairment of renal function\n\nCardiovascular\n\n* No New York Heart Association class III or IV heart disease\n* No symptomatic congestive heart failure\n* No unstable angina pectoris\n* No cardiac arrhythmia\n* No inadequately controlled hypertension\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective barrier contraception\n* No prior severe hypersensitivity reaction to docetaxel or drugs formulated with polysorbate 80\n* No other malignancy within the past 10 years except inactive nonmelanoma skin cancer, carcinoma in situ of the cervix, carcinoma in situ of the breast, or bilateral breast cancer\n* No ongoing or active infection\n* No peripheral neuropathy greater than grade 1\n* No other concurrent uncontrolled medical condition that would preclude study participation\n* No psychiatric illness or social situation that would preclude study compliance\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Prior trastuzumab (Herceptin) allowed\n\nChemotherapy\n\n* See Disease Characteristics\n* No prior chemotherapy for recurrent or metastatic disease\n* Prior adjuvant chemotherapy allowed\n\nEndocrine therapy\n\n* Prior hormonal therapy allowed\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* Not specified\n\nOther\n\n* No other concurrent investigational agents",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

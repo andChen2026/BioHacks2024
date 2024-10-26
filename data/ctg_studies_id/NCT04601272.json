@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04601272",
+    "briefTitle": "Evaluating the Shared Decision Making Process Scale in Cancer Screening Decisions",
+    "officialTitle": "Evaluating the Performance of the Shared Decision Making Process Scale in Patients Making Cancer Screening Decisions",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Screening, Colon Cancer Screening, Prostate Cancer Screening",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 240,
+    "primaryOutcomeMeasure": "Shared Decision Making Process Measure",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nBreast Cancer group\n\n* Female sex\n* Between ages of 35-55\n* No previous diagnosis of breast cancer\n\nColon Cancer Group\n\n* Between ages of 45-75\n* No previous diagnosis of colon cancer\n\nProstate Cancer Group\n\n* Male sex\n* Between ages of 45-74\n* No previous diagnosis of prostate cancer\n\nLung Cancer Group\n\n* Between ages of 50-80\n* No previous diagnosis of lung cancer\n\nExclusion Criteria:\n\nBreast Cancer group\n\n* Unable to confirm primary language is English\n* History of breast cancer\n* Severe cognitive impairment who cannot consent for themselves\n\nColon Cancer Group\n\n* Unable to confirm primary language is English\n* History of colon cancer\n* Severe cognitive impairment who cannot consent for themselves\n\nProstate Cancer Group\n\n* Unable to confirm primary language is English\n* History of prostate cancer\n* Severe cognitive impairment who cannot consent for themselves\n\nLung Cancer Group\n\n* Unable to confirm primary language is English\n* History of lung cancer\n* Severe cognitive impairment who cannot consent for themselves",
+    "sex": "ALL",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

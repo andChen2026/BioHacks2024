@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02370797",
+    "briefTitle": "Node Negative, Invasive Breast Cancer Single Fraction IOERT",
+    "officialTitle": "Lumpectomy Followed by Intraoperative Electron Radiation Therapy (IOERT) as a Single Full Dose Partial Breast Irradiation for Early Stage, Node Negative, Invasive Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Proportion of patients who are free of breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient agrees to breast conservation therapy (segmental resection, partial mastectomy, and radiation therapy) as the treatment for their breast cancer\n* Patient agrees to evaluation of the axilla with sentinel lymph node biopsy\n* Post-menopausal women age \\> 60, defined as women who have experienced no menstrual period in the past 12 months.\n* BRCA1 and 2 gene mutation negative, if tested. \\[genetic testing is NOT required based upon personal or family history\\]\n* Unifocal (unicentric), invasive ductal carcinoma or favorable sub-types (mucinous, tubular, colloid) \\< 2.0 cm in diameter, primary T-stage of T1 (AJCC criteria)\n* Grade 1, 2 acceptable\n* Associated LCIS is allowed\n* Estrogen receptor (ER) status of positive\n* Negative margins at ink on gross pathologic examination\n* Patient is node-negative, defined as N0 (i-) or N0 (i+)\n* Patient must be deemed functionally and mentally competent to understand and sign the informed consent\n\nExclusion Criteria:\n\n* Prior breast malignancy or other malignancy if metastatic, or with expected survival of \\< 5 years\n* Immuno-compromised status\n* Pregnancy\n* Women with an active connective tissue disorder (i.e. scleroderma, lupus and others)\n* Breast cancer that involves the skin or chest wall, locally advanced breast cancer\n* Pure DCIS, all grades\n* Invasive lobular carcinoma\n* Evidence of lymphovascular invasion (LVI)\n* Invasive carcinoma with extensive intraductal component (EIC)\n* Neoadjuvant chemotherapy indicated\n* Patients with 1 or more positive lymph node determined during surgery with sentinel node and/or axillary dissection\n* Not eligible for breast conserving management, i.e., prior whole breast radiation therapy\n* Estrogen receptor negative\n* Her2 positive\n* Grade 3",
+    "sex": "FEMALE",
+    "minimumAge": "60 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

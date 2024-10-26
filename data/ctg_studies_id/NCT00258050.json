@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00258050",
+    "briefTitle": "To Examine The Effects Of Lapatinib On Orally And Intravenously Administered Midazolam In Cancer Patients",
+    "officialTitle": "A Four-Way Cross-Over Study to Examine the Effects of Lapatinib on the Pharmacokinetics of Orally and Intravenously Administered Midazolam in Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neoplasms, Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Area under the concentration versus time curve (AUC) of midazolam",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Histologically confirmed, solid tumor refractory to standard therapy.\n* Tumor for which there is no standard therapy.\n* Able to swallow and retain oral medication.\n* ECOG (Eastern Cooperative Oncology Group) performance status 0 to 2.\n* Provided written informed consent.\n* Adequate bone marrow function.\n* Serum creatinine is less than or equal to 1.5 mg/dL.\n* Calculated creatinine clearance is greater than or equal to 60 ml/min based on Cockcroft and Gault.\n* Total bilirubin is greater than or equal to the upper limit of normal of institutional values.\n* Aspartate and alanine transaminase is less than or equal to 3 times the upper limit of the institutional values.\n* Have a left ventricular ejection fraction (LVEF) greater than or equal to 40% based on electrocardiogram (ECHO) or multiple gated acquisition scan (MUGA).\n* Resting oxygen saturations of greater than 90%.\n\nExclusion criteria:\n\n* Pregnant or lactating female.\n* Have malabsorption syndrome, a disease affecting gastrointestinal function.\n* Resection of the stomach or small bowel.\n* Evidence of symptomatic or uncontrolled brain metastases or leptomeningeal disease.\n* Is considered medically unfit for the study by the investigator as a result of the medical interview, physical exam, or screening investigations.\n* Have a known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs chemically related to the investigational product.\n* Use of anilinoquinazolines, such as gefitinib \\[Iressa\u2122\\], erlotinib \\[Tarceva\u2122\\].\n* Immediate or delayed hypersensitivity reaction to midazolam or any component of the formulation, including benzyl alcohol (cross-sensitivity with other benzodiazepines may exist).\n* Has narrow-angle glaucoma which is a contraindication to midazolam use.\n* Has received treatment with any investigational drug in the previous 4 weeks.\n* Received chemotherapy, immunotherapy, biologic therapy or hormonal therapy within the past 14 days, with the exception of mitomycin C within the past 6 weeks.\n* Currently receiving amiodarone or has received amiodarone in the 6 months prior to screening.\n* Is taking regular doses of opiates that in the opinion of the investigator would put the patient at risk of clinically significant respiratory compromise when midazolam is administered.\n* Physiological, familial, sociological, or geographical conditions that do not permit compliance with the protocol.\n* Has Class II to IV heart failure as defined by the New York Heart Association (NYHA) functional classification system.\n* Clinically significant electrocardiogram (ECG) abnormality.\n* Clinically assessed to have inadequate venous access for protocol-related blood draws.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

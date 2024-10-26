@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01338831",
+    "briefTitle": "Phase I Study of LFA102 in Patients With Prolactin Receptor-positive Castration-resistant Prostate Cancer or Prolactin Receptor-positive Metastatic Breast Cancer",
+    "officialTitle": "A Phase I, Multicenter, Open-label Study of LFA102 Administered Intravenously in Patients With Prolactin Receptor-positive Castration-resistant Prostate Cancer or Prolactin Receptor-positive Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Castration-resistant Prostate Cancer, Metastatic Breast Cancer, Uterine Leiomyoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 73,
+    "primaryOutcomeMeasure": "Incidence rate of Dose Limiting Toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histologically confirmed diagnosis of prostate cancer, breast cancer, or uterine leiomyoma\n2. Detectable metastases by bone scan, CT-scan, or MRI.\n3. Presence of prolactin receptor in primary or metastatic tumor (Dose Escalation only)\n4. Suitable venous access for blood sampling\n\nExclusion Criteria:\n\n1. Prior treatment with any anti-prolactin receptor antibody\n2. Major surgery within 28 days before study treatment\n3. Patients who have received radiotherapy \u2264 2 weeks prior to starting study drug\n4. Prior anaphylactic or other severe infusion reaction to antibody formulations\n\nOther protocol-defined inclusion/exclusion criteria may apply",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

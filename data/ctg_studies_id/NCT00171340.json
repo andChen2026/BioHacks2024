@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00171340",
+    "briefTitle": "Zoledronic Acid in the Prevention of Cancer Treatment Related Bone Loss in Postmenopausal Women Receiving Letrozole for Breast Cancer.",
+    "officialTitle": "An Open-Label, Randomized, MultiCenter Study to Evaluate the Use of Zolendronic Acid in the Prevention of Cancer Treatment-Related Bone Loss in Postmenopausal Women With Estrogen Positive and/or Progesterone Positive Breast Cancer Receiving Letrozole as Adjuvant Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Bone Loss, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1065,
+    "primaryOutcomeMeasure": "Percentage Change in Bone Mineral Density (BMD) of the Lumbar Spine (L2-L4) at 12 Months of Therapy.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage I-IIIa breast cancer\n* Postmenopausal or recently postmenopausal\n* Recent surgery for breast cancer\n* Estrogen Receptor positive and/or progesterone receptor positive hormone receptor status\n* No prior treatment with letrozole\n\nOther protocol-defined inclusion criteria may apply.\n\nExclusion Criteria:\n\n* Metastatic disease\n* Invasive bilateral disease\n* Clinical or radiological evidence of existing fracture in spine or hip\n* Prior treatment with IV bisphosphonates in the past 12 months\n* Current treatment with oral bisphosphonates ( must be discontinued within 3 weeks of baseline evaluation)\n* Use of Tibolone within 6 months\n* Prior use of parathyroid hormone for more than 1 week\n* Previous or concomitant malignancy\n* Abnormal renal function\n* History of disease effecting bone metabolism\n\nOther protocol-defined exclusion criteria may apply.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04781062",
+    "briefTitle": "Development of a Horizontal Data Integration Classifier for Noninvasive Early Diagnosis of Breast Cancer",
+    "officialTitle": "Development of a Horizontal Data Integration Classifier for Noninvasive Early Diagnosis of Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 367,
+    "primaryOutcomeMeasure": "Development of a HDI classifier enabling early noninvasive diagnosis of breast cancer with similar accuracy compared to breast biopsies",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent\n* Breast lesions detected by digital bilateral mammography\n* Eligible for diagnostic biopsy (tru-cut or VABB) as per normal clinical practice\n* Ability and willfulness to comply with the protocol requirements\n\nExclusion Criteria:\n\n* Previous history of cancer, any type\n* Clinical or radiological suspicion of advanced or metastatic cancer at the time of screening\n* Known history of active or treated autoimmune or manifest chronic or seasonal and active allergic disorders\n* History of major trauma or surgery during the 24 weeks before screening\n* History of active infectious disease, either chronic or acute but occurring during the 8 weeks before screening\n* History of known acute or chronic cardiac, kidney, or liver disease disorders or acute cardiac events",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

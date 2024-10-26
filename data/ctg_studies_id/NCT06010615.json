@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06010615",
+    "briefTitle": "Relative Dose Intensity of Adjuvant Chemotherapy in Older Women With ER+ HER2- Breast Cancer.",
+    "officialTitle": "Relative Dose Intensity of Adjuvant Chemotherapy in Older Women With ER+ HER2- Breast Cancer.",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 70,
+    "primaryOutcomeMeasure": "Proportion of patients receiving relative dose intensity (RDI) <85%",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 75 or over\n* Patient with localized RH+HER2- breast cancer\n* Patient treated with adjuvant chemotherapy in Franche Comt\u00e9 between January 2012 and December 2019\n\nExclusion Criteria:\n\n* Age \\< 75\n* Patient with metastatic breast cancer\n* Patient who received neoadjuvant chemotherapy\n* HER2+ breast cancer patient\n* Breast cancer patient with missing or negative hormonal status\n* Patient with localized recurrence of breast cancer with indication for new adjuvant therapy",
+    "sex": "FEMALE",
+    "minimumAge": "75 Years",
+    "stdAges": "OLDER_ADULT"
+}

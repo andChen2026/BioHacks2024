@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02471079",
+    "briefTitle": "TOxicity After Radiotherapy in breAst CancEr Survivors (ThORACeS) - A Retrospective Cohort Study",
+    "officialTitle": "TOxicity After Radiotherapy in breAst CancEr Survivors (ThORACeS) - A Retrospective Cohort Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 706,
+    "primaryOutcomeMeasure": "Number of participants with cardiovascular events in relation with the received heart radiation dose",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female gender.\n* Treated for stage I-III invasive adenocarcinoma of the breast or ductal carcinoma in situ (DCIS).\n* Treated with curative breast-conserving surgery followed by radiotherapy of the breast, with or without irradiation of the regional lymph nodes.\n* Start of radiotherapy is between 01-01-2005 and 31-12-2008.\n* Available planning CT scan and dose distribution data of original breast cancer irradiation.\n\nExclusion Criteria:\n\n* Any prior malignancy other than non-melanoma skin cancer or breast cancer.\n* Prior radiotherapy treatments in the thoracic region.\n* Treated with neoadjuvant chemotherapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

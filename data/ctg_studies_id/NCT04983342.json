@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04983342",
+    "briefTitle": "Apollo Device for Metastatic Breast Cancer (MBC)",
+    "officialTitle": "Apollo Device for Fatigue in Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Fatigue, Metastatic Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 27,
+    "primaryOutcomeMeasure": "Change in Fatigue (PROMIS-Fatigue)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Metastatic breast cancer diagnosis\n* Fatigue score of 4 or greater at last clinic visit\n\nExclusion Criteria:\n\n* Not able to read and understand English\n* Use of Beta Blockers,\n* Use of medications for serious mental illness",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

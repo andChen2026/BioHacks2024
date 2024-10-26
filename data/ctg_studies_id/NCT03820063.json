@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03820063",
+    "briefTitle": "Image-guided De-escalation of Neo-adjuvant Chemotherapy in HER2-positive Breast Cancer: the TRAIN-3 Study",
+    "officialTitle": "Image-guided De-escalation of Neo-adjuvant Chemotherapy in HER2-positive Breast Cancer: the TRAIN-3 Study",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 462,
+    "primaryOutcomeMeasure": "Event free survival at three years",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histologically confirmed primairy infiltrating breast cancer.\n2. Stage II or Ill disease.\n3. Overexpression and/or amplification of HER2 in an invasive component of the core biopsy.\n4. Age \\<:18\n5. ECOG Group performance status\n6. LVEF \\>50% measured by echocardiography, MRI or MUGA\n7. Known HR-status ( in percentages)\n\nExclusion Criteria:\n\n1. Previous radiation therapy of chemotherapy\n2. Pregnancy or breastfeeding\n3. Evidence of distant metastases\n4. Evidence of bilateral infiltrating breast cancer\n5. Concurrent anti-cancer treatment or another investigational drug",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04291378",
+    "briefTitle": "The DBCG Proton Trial: Photon Versus Proton Radiation Therapy for Early Breast Cancer",
+    "officialTitle": "The DBCG Proton Trial. Adjuvant Breast Proton Radiation Therapy for Early Breast Cancer Patients: The Skagen Trial 2, a Clinically Controlled Randomised Phase III Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Early Breast Cancer, Radiation Associated Cardiac Failure",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1502,
+    "primaryOutcomeMeasure": "Radiation associated ischaemic and valvular heart disease",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient operated for early breast cancer with indication for radiation therapy, where standard planning shows a mean heart dose 4 Gy or more and/or a V20 lung of 37% or more.\n* Boost (breast, chest wall and nodal), breast reconstruction (any type, except implants with metal), connective tissue disease, post-operative surgical complications, any breast size and seromas are allowed\n* Patient with previous non-breast malignancy is accepted if the patient has been without disease minimum 5 years, and the treating oncologist estimates a low risk of recurrence.\n* Life expectancy minimum 10 years\n\nExclusion Criteria:\n\n* previous breast cancer/ductal carcinoma in situ,\n* Previous RT to the chest region\n* Pregnant or lactating\n* Conditions indicating that the patient cannot go through the RT or follow up\n* Patients with Pacemaker or defibrillator are excluded until a guideline for handling them has been developed at the DCPT\n* Unknown non-tissue implants upstream of the target volume. NB. all such non-tissue, non-metal objects must be delivered to the DCPT for stopping power determination and evaluation at least a week prior to radiation start.\n* Metal implants in the radiation area, including metal in implants.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

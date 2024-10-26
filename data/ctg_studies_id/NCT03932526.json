@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03932526",
+    "briefTitle": "Combined Use of Apatinib Mesylate and Vinorelbine Versus Single Use of Vinorelbine in Triple-negative Breast Cancer",
+    "officialTitle": "Combined Use of Apatinib Mesylate and Vinorelbine Versus Single Use of Vinorelbine in Recurrent or Metastatic Triple-negative Breast Cancer: a Double-blinded Randomized Controlled Clinical Trial",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Triple-negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 184,
+    "primaryOutcomeMeasure": "Progress-Free Survival(PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with recurrent or metastatic TNBC, as confirmed by histological or cytological examination\n* Age 18-70 years old\n* According to the Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1, there is at least one measurable lesion.\n* The Eastern Cooperative Oncology Group (ECOG) scores 0-2\n* Expected survival \u2265 12 weeks\n* Negative for ER/PR\n* All patients will be tested for bone marrow capacity, liver and renal functions within 7 days prior to enrollment\n* Previous use of anthracyclines and/or taxanes\n* The medication history of vinorelbine\n* Female patients of childbearing age must take adequate contraception; otherwise the patients must be proven to be infertile\n* No history of serious heart, lung, liver, and kidney diseases\n* Provision of written informed consent\n\nExclusion Criteria:\n\n* Patients who receive chemotherapy, radiation therapy, targeted drugs, or hormone therapy within 3 weeks of administration\n* Patients using corticosteroids for untreated brain or subdural metastatic lesions, need to have stopped it, at least for 4 weeks or until there are no signs of brain metastasis and/or symptoms must have stabilized for at least 4 weeks, if local treatment has been completed. Enhanced computed tomography (CT) or magnetic resonance imaging (MRI) images during screening are compared with those performed at least 4 weeks earlier to determine radiological stability.\n* Patients with severe vascular diseases, including unstable angina, myocardial infarction, or severe arrhythmia in the past 6 months\n* History of HIV infection or active chronic hepatitis B or C\n* Patients with other serious infectious diseases\n* Patients positive for ER/PR/HER-2 positive\n* Patients with allogeneic organ transplants requiring immunosuppressive therapy\n* History of other malignant tumors within 5 years, except for cured cervical carcinoma in situ or basal cell carcinoma of the skin\n* Other destabilizing factors that may interfere with patients or have an impact on the trial results\n* Allergic to target drugs or allergic to related drugs applied in the trial\n* Pregnant or lactating women",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

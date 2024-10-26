@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04398446",
+    "briefTitle": "Effect of Hemp-CBD on Patients With CIPN",
+    "officialTitle": "Coala-T-CBD Study: A Study of the Effect of Hemp-CBD on the Severity and Duration of Chemotherapy-Induced Peripheral Neuropathy in Patients Receiving Neurotoxic Chemotherapy for Non-Metastatic Breast, Uterine, Pancreatic, and Colorectal Cancer and All Stages of Ovarian Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Chemotherapy-induced Peripheral Neuropathy, Colorectal Cancer Stage II, Colorectal Cancer Stage III, Breast Cancer, Ovarian Cancer, Uterine Cancer, Pancreatic Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 56,
+    "primaryOutcomeMeasure": "Change in pressure/touch sensation during intervention and at follow-up",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Non-metastatic breast cancer patients who developed CIPN (CTCAE sensory grade 2 or 3, motor grade \\<2) after receiving taxane-based chemotherapy in pre-operative or post-operative setting.\n* Non-metastatic Colorectal cancer patients with high risk stage II and stage III disease who developed CIPN (CTCAE sensory grade 2 or 3, motor grade \\<2) after receiving oxaliplatin in the adjuvant setting.\n* Ovarian cancer patients who developed CIPN (CTCAE sensory grade 2 or 3, motor grade \\<2) after receiving taxane-containing chemotherapy in the neoadjuvant or adjuvant setting .\n* Uterine cancer patients who developed CIPN (CTCAE grade 2 or 3) after receiving taxane-containing chemotherapy in the neoadjuvant or adjuvant setting.\n* Non-metastatic pancreatic cancer patients who developed CIPN (CTCAE grade 2 or 3) after receiving taxane-containing chemotherapy in the neoadjuvant or adjuvant setting.\n\nExclusion Criteria:\n\n* Family history of genetic/familial neuropathy\n* Routine use of recreational or medicinal marijuana products (defined as \\> 4 times per month) or illicit drug use (positive urine drug screen including opioids, cocaine, amphetamines, PCP, LSD)\n* Known underlying liver disease (Child-Pugh B or C) or baseline elevation in ALT, AST or total bilirubin \u22651.5 x upper limit of normal\n* Patients taking certain medications will be excluded due to potential CBD-drug interaction. CBD may prevent appropriate drug metabolism increasing risk for toxicity. Co-administration of study product and the following medications will be contraindicated and may lead to participant exclusion: clarithromycin, itraconazole, erythromycin, fluconazole, clopidogrel, rifampin, sulfamethoxazole, warfarin, any opioids, warfarin, antiepileptic medications (including carbamazapine, phenytoin, valproic acid, but excepting of gabapentin, clonazepam or diazepam).\n* Underlying history of epilepsy/ recurrent seizure disorder or unexplained seizure within past 6 months\n* Patients with uncontrolled cardiovascular disease defined by myocardial infarction, stroke or transient ischemic attack, or need for coronary stent placement within past six months.\n* Patients with uncontrolled psychiatric illness (who meet DSM-V criteria) or who are at increased risk for suicidality based on baseline Columbia-Suicide Severity Rating Scale.\n* Women who are pregnant or breastfeeding or who refuse to practice an effective form of birth control (condoms, diaphragm, birth control pill, IUD)",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

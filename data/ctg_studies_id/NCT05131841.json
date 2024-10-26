@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05131841",
+    "briefTitle": "Cipterbin Combined With Vinorelbine in the Treatment of HER2-positive MBC",
+    "officialTitle": "A Multi-center, Randomized, Open-label Study on Pharmacokinetics, Safety, Efficacy, and Immunogenicity of Cipterbin Combined With Vinorelbine Injection Every Week or Every Three Weeks in the Treatment of Patients With HER2-positive Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Cmax",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u226518 and \u226470 years old, female.\n* BMI index in the range of 19.0\\~28.0\n* ECOG\u22641, and the expected os \u22653 months\n* Unresectable metastatic breast cancer diagnosed by histology or pathology that has received one or more chemotherapy regimens.\n* HER2 overexpression is +++ by immunohistochemistry (IHC) or + by fluorescence hybridization FISH.\n* At least one measurable lesion.\n* Sufficient organ function\n* Voluntarily signed an informed consent form.\n* Subjects with good compliance\n\nExclusion Criteria:\n\n* Rapid disease progression or threaten important organs and require urgent replacement therapy.\n* Undergone surgery within 28 days before treatment (except for biopsy)\n* Received radiotherapy within 21 days before the first study drug treatment or the side effects of radiotherapy have not recovered to 0 or 1\n* Suffer from other serious uncontrolled diseases (such as epilepsy, liver failure, kidney failure, etc.)\n* Suffered from other malignant tumors within 5 years before receiving the first study drug treatment or at the same time.\n* Severely infected\n* Clear history of mental illness, or have a history of alcoholism or drug abuse.\n* Central nervous system metastasis or meningeal metastasis with clinical symptoms\n* Cardiac function left ventricular ejection fraction \\< 50%\n* Obvious arrhythmia, myocardial ischemia, severe atrioventricular block, cardiac insufficiency, severe heart valve Membrane disease patients\n* Poorly controlled hypertension\n* Patients with coagulopathy: INR or APTT \u22651.5\u00d7ULN\n* Allergic to the test drug or its excipients in the study treatment, or have a severe allergic reaction to other monoclonal antibody drugs in the past\n* Pregnant or breastfeeding, or cannot take reliable contraceptive measures during the trial and within 6 months after the end of the medication Giver\n* Have received a certain test drug in other interventional clinical trials, the interval is less than 28 days or less than 5 half lives of the drug (whichever is longer)\n* Have used a monoclonal antibody within 6 months before receiving the first study drug treatment\n* Have received other drugs that may affect the pharmacokinetic results of the study drug, the interval is less than 28 days or less than 5 half lives of the drug (whichever is longer)\n* Have received organ transplants (including autologous/allologous stem cell transplants) in the past\n* Other conditions judged by the investigator to be inappropriate for participating in this trial",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

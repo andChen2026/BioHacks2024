@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02846428",
+    "briefTitle": "To Evaluate the Efficacy and Safety of Capecitabine Prior to Surgery in Women With Breast Cancer",
+    "officialTitle": "An Open-Label, Multicenter, Randomized, Phase II Study to Evaluate the Efficacy and Safety of Two Combination Dose Regimens: Capecitabine + Epirubicin + Cyclophosphamide (CEX) Versus 5-FU + Epirubicin + Cyclophosphamide (FEC 100) as Neoadjuvant Therapy in Females Presenting With Operable Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 182,
+    "primaryOutcomeMeasure": "Percentage of participants with pathological complete tumor response Assessed by Expert Blinded Independent Review according to the Sataloff classification\\n",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females with a unilateral, non-inflammatory, non-multicentric, non-metastatic breast adenocarcinoma, not considered candidates for conservative management, and whose diagnosis had been histologically confirmed as T2-3, N0-1, M0 according to the tumor-nodes-metastasis (TNM) classification\n* Clinically or radiologically measurable lesion (in 2 dimensions)\n* Eastern Cooperative Oncology Group (ECOG) performance Status less than equal to (\\<=) 1\n\nExclusion Criteria:\n\n* Females presenting with brain metastases or a neurological or psychiatric disorder which could interfere with proper treatment compliance\n* Previous radiotherapy, chemotherapy, or hormonal therapy for breast cancer\n* Previous history of a malignancy in last 5 years other than cutaneous basal cell carcinoma or carcinoma in situ of the uterine cervix\n* Serious concomitant infection\n* Pregnant or lactating females",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

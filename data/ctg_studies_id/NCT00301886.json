@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00301886",
+    "briefTitle": "S0308 Zoledronate or Ibandronate in Preventing Bone Problems in Women With Stage IV Breast Cancer That Has Spread to the Bone",
+    "officialTitle": "A Phase III Randomized, Multicenter Non-Inferiority Trial Evaluating the Efficacy of Oral Ibandronate Versus Intravenous Zoledronate in the Reduction of Skeletal-Related Events in Patients With Metastatic Breast Cancer",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer, Hypercalcemia of Malignancy, Metastatic Cancer, Pain",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Skeletal-related events (SRE)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed stage IV breast cancer at primary diagnosis or at recurrence\n\n  * Any T, any N, M1\n* At least 1 dominant osteolytic or osteoblastic or mixed metastatic lesion outside any prior radiation field\n\n  * Lesion measures \u2265 1.0 cm by x-ray, CT scan, and/or MRI\n* Controlled asymptomatic brain metastases allowed\n* Controlled bone pain, defined as a physician/health care provider rating of \u2264 grade 2 pain-SELECT (Bone) on the NCI CTC for Adverse Events Version 3.0 rating scale, required\n* Current evidence of vertebral or nonvertebral fractures or spinal compression due to cancer, as determined by the treating physician, allowed\n* No Paget's disease of the bone\n* Estrogen receptor (ER) or progesterone receptor (PR) status known\n\nPATIENT CHARACTERISTICS:\n\n* Female patient\n* Menopausal status not specified\n* Zubrod performance status 0-2\n* Creatinine normal\n* Creatinine clearance \u2265 60 mL/min\n* Serum calcium \\< 12 mg/dL\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n* Must be able to receive IV medication and oral medication (i.e., must have physical integrity of the upper gastrointestinal tract)\n* No malabsorption syndrome\n* No primary hyperparathyroidism\n* No known history of aspirin-sensitive asthma\n* No other prior malignancy except for the following:\n\n  * Adequately treated basal cell or squamous cell skin cancer\n  * In situ cervical cancer\n  * Adequately treated stage I or II cancer currently in complete remission\n  * Any other cancer for which the patient has been disease-free for at least 5 years\n* No uncontrolled medical illness or infection, including, but not limited to, the following:\n\n  * Unstable angina\n  * Recent myocardial infarction\n  * Life-threatening cardiac arrhythmia\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior bisphosphonates for metastatic bone disease\n* More than 28 days since prior aminoglycoside antibiotics\n* At least 28 days since prior oral bisphosphonates for osteoporosis\n* More than 6 months since prior bisphosphonates used for adjuvant therapy\n* Concurrent treatment, including chemotherapy, hormonal therapy, and/or biologic therapy for metastatic breast cancer allowed\n* No concurrent participation in another clinical treatment trial for this cancer unless the patient is no longer receiving the intervention and is in the follow-up phase of the other clinical trial",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

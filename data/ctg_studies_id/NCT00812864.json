@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00812864",
+    "briefTitle": "Pharmacokinetic Study of Capecitabine in Elderly Cancer Patient (\u2265 75 Years)",
+    "officialTitle": "Pharmacokinetic Study of Capecitabine in Elderly Cancer Patient (\u226575 Years)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Colorectal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Mean value and dispersion of the main plasmatics pharmacokinetics parameters of cap\u00e9citabine, 5'DFUR, 5-FU and FBAL.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Elderly patients 75 years old or more\n* Life expectancy of greater then or equal to 6 months\n* Histologically proven metastatic breast or colorectal cancer, requiring a chemotherapy by capecitabine according to the habitual schema\n* Metastatic situation whatever treatment line\n* Previous hormonotherapy for breast cancer, prior chemotherapy (without capecitabine) in adjuvant and/or metastatic indication (colorectal or breast cancer), or radiotherapy (colorectal or breast cancer) are allowed\n* One or more measurable target lesion (RECIST criteria)\n* ADL\\>4 (geriatric scales)\n* GSD\\<12 (geriatric scales)\n* Laboratory values :\n* creatinine clearance (CrCl) \\>=30 mL/min according to Cockcroft formula\n* Adequate bone marrow function (neutrophils count \\> 1.5 x 10\\^9/L, platelets \\> 100 x 10\\^9/L, hemoglobin \\[Hb\\] \\> 10g/dl)\n* Adequate hepatic function: total bilirubin \\< 1,5 x upper normal limit, aspartate aminotransferase (ASAT) and alanine aminotransferase (ALAT) \\< 2,5x upper normal limits (in case of liver metastases \\< 5 x upper normal limits)\n* Alcalin phosphatases \\<=2,5x ULN (\\<=5 x ULN if liver metastases present).\n* Subjects must be willing to be followed during the course of treatment/observation and follow-up.\n* Signed written informed consent before first course of chemotheray\n\nExclusion Criteria:\n\n* Age \\< 75 years\n* known brain metastases\n* Concomitant oncologic treatment ongoing\n* History of severe or unscheduled reaction to fluoropyrimidine treatment\n* Prior unanticipated severe reaction to capecitabine or metabolites and to fluoropyrimidine therapy\n* Patient with leucopenia\n* sorivudine or chemical analogues treatment like brivudine\n* Physiological, familial, sociological, or geographical conditions that do not permit compliance with the protocol.\n* Concomitant severe affections wich lead life expectancy inferior to 3 monthes\n* Uncontrolled or symptomatic angina, arrhythmias, or congestive heart failure, coronarian spasmes\n* No possible oral administration\n* known DPD deficiency\n* Treatment with experimental therapy ongoing or within four weeks before inclusion.\n* Other cancers within the last five years, with the exception of adequately treated cone-biopsied in situ carcinoma of the uterin cervix or basal or squamous cell carcinoma of the skin",
+    "sex": "ALL",
+    "minimumAge": "75 Years",
+    "stdAges": "OLDER_ADULT"
+}

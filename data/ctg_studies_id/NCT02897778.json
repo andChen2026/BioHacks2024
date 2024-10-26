@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02897778",
+    "briefTitle": "Cardiac Safety Study of Entinostat in Men and Women With Advanced Solid Tumors",
+    "officialTitle": "A Phase 1 Cardiac Safety Study of Entinostat in Men and Women With Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neoplasms, Neoplasms, Glandular and Epithelial, Neoplasms by Histologic Type, Bronchial Neoplasms, Lung Neoplasms, Respiratory Tract Neoplasms, Thoracic Neoplasms, Digestive System Neoplasms, Endocrine Gland Neoplasms, Carcinoma, Non-Small-Cell Lung, Lung Diseases, Breast Neoplasms, Breast Diseases, Renal Neoplasm, Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Change from Baseline in Heart Rate (HR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed diagnosis of a solid tumor malignancy that is not responsive to standard therapy(ies) or for which there is no approved therapy\n* Patients must have acceptable laboratory requirements\n* Left ventricular ejection fraction as measured by echocardiogram or multiple-gated acquisition scan that is above the institutional lower level of normal or greater than 50%\n* Has experienced resolution of toxic effect(s) of the most recent prior chemotherapy and/or prior surgical and radiation treatment\n* Must be able to understand and give written informed consent and comply with study procedures\n\nExclusion Criteria:\n\n* If the patient has brain metastasis, they must have stable neurologic status without the use of steroids or on a stable or decreasing dose of steroids\n* Presence of clinically significant gastrointestinal abnormalities that may affect the absorption of study treatments\n* A medical condition that precludes adequate study treatment compliance or assessment, or increases patient risk in the opinion of the Investigator\n* Patient has a concomitant cardiovascular issue that precludes adequate study treatment compliance or increases patient risk\n* Diagnosis of immunodeficiency or receiving systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to the first dose of study drug\n* Prior chemotherapy, targeted small molecule therapy, or radiation therapy within 4 weeks prior to study\n* Prior anti-cancer monoclonal antibody within 4 weeks prior to baseline\n* Currently enrolled in another investigational study\n* Has disease that is suitable for approved therapy administered with curative intent",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

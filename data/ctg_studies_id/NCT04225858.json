@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04225858",
+    "briefTitle": "Avoiding Sentinel Lymph Node Biopsy in Breast Cancer Patients After Neoadjuvant Chemotherapy",
+    "officialTitle": "Avoiding Sentinel Lymph Node Biopsy In Select Clinical Node Negative Breast Cancer Patients After Neoadjuvant Systemic Therapy: the ASICS Trial",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer, Triple Negative Breast Cancer, HER2-positive Breast Cancer, Sentinel Lymph Node",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 340,
+    "primaryOutcomeMeasure": "Axillary recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women, aged \u2265 18 years\n* Invasive HER2+ (HR+/-) or TN breast cancer\n* Primary tumor (T), clinical stage T1-3\n* Neoadjuvant systemic therapy (NST), at least 3 cycles\n* Tumor stage assessed with breast MRI before start NST\n* Clinically node-negative before start NST (no suspect ALNs on ultrasound and FGD-PET/CT, or negative cyto-/histopathology in case of suspect nodes)\n* MRI after or during NST shows radiologic complete response\n* Written and signed informed consent\n\nExclusion Criteria:\n\n* Primary tumor (T) clinical stage T4\n* Patients without ultrasound or FDG-PET/CT pre-NST\n* History of breast cancer ipsilateral breast\n* Synchronous contralateral breast cancer\n* Synchronous M1 disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

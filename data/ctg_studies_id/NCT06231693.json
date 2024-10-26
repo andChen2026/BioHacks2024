@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06231693",
+    "briefTitle": "Trastuzumab-deruxtecan in Patients With Triple-negative Metastatic HER2-Low Breast Cancer: Real-world Experience in Brazil",
+    "officialTitle": "Trastuzumab-deruxtecan in Patients With Triple-negative Metastatic HER2-Low Breast Cancer: Real-world Experience in Brazil",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2,
+    "primaryOutcomeMeasure": "Time to Next Treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged above 18 years old;\n* Have advanced, hormone receptor negative (ER \u226410%), HER2-Low (1+ or 2+/FISH negative) breast cancer;\n* Have been treated with at least one trastuzumab-deruxtecan dose for advanced disease (incurable) as a second or later line;\n* Do not have active CNS metastatic lesions, characterized as stable, asymptomatic lesions and with no targeted treatment for at least 6 months.\n\nExclusion Criteria:\n\n* Have been previously treated with trastuzumab-deruxtecan (neoadjuvant, adjuvant, other neoplasms);\n* Have other active neoplasms (except from non-melanoma skin tumors);\n* Have serious or active non-oncology lung diseases;\n* Have other primary and concurrent breast tumor with differing receptor profiles.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

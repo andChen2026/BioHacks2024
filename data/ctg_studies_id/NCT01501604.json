@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01501604",
+    "briefTitle": "BKM120 in Cancers With PIK3CA Activating Mutations",
+    "officialTitle": "An Open Label, Phase II Trial of BKM120 in Cancers With PIK3CA Activating Mutations",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Lung Cancer, Breast Cancer, Colorectal Cancer, Cholangiocarcinoma, Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Response Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* At least 1 site of measurable disease\n* Life expectancy \\>/= 12 weeks\n* Adequate marrow and organ function\n* Diagnosis of lung cancer, breast cancer, colorectal cancer, cholangiocarcinoma, gastric cancer, pancreatic cancer, prostate cancer, uterine cancer, ovarian cancer, esophageal cancer, or head and neck cancer\n* Pathologically documented, definitively diagnosed, advanced solid tuor that is refractory to standard treatment, for which no standard therapy is available, or the subject refuses standard therapy\n* Cancer must have at least one of the following PIK3CA mutations: E542K, E545K, H1047R, H1047L. The PIK3CA mutation must be documented in a CLIA approved laboratory\n\nExclusion Criteria:\n\n* Prior treatment with a P13K inhibitor\n* Known hypersensitivity to BKM120 or its excipients\n* Untreated brain metastases\n* Acute or chronic liver, renal disease or pancreatitis\n* Currently treated with drugs known to be moderate and strong inhibitors or inducers of isoenzyme CYP3A\n* Diarrhea \\>/= CTCAE grade 2\n* Any concurrent severe and/or uncontrolled medical condition\n* Active cardiac disease\n* History of cardiac dysfunction\n* Poorly controlled diabetes mellitus or steroid-induced diabetes mellitus\n* Significant symptomatic deterioration of lung function\n* Impairment of gastrointestinal (GI) function or GI disease that may significantly alter the absorption of BKDM120 (e.g., ulcerative diseases, uncontrolled nausea, vomiting, diarrhea, malabsorption syndrome, or small bowel resection)\n* Currently taking therapeutic doses of warfarin sodium or any other coumadin-derivative anticoagulant\n* Pregnant or breast-feeding\n* Known diagnosis of HIV infection\n* History of another malignancy within 3 years, except cured basal cell carcinoma of the skin or excised carcinoma in situ of the cervix\n* Unable to swallow the medication in its prescribed form",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

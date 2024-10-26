@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00968656",
+    "briefTitle": "Assessment of Cellular Proliferation in Tumors by Positron Emission Tomography (PET) Using [18F]ISO-1",
+    "officialTitle": "Assessment of Cellular Proliferation in Tumors by Positron Emission Tomography (PET) Using [18F]ISO-1",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Head and Neck Cancer, Diffuse Large B-cell Lymphoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 31,
+    "primaryOutcomeMeasure": "The primary out come is to assess the diagnostic quality of [18F]ISO-1-PET/CT images at the proposed 8 mCi dose.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients 18 years of age or older with biopsy-proven breast cancer, head \\& neck cancer or diffuse large B-cell lymphoma.\n* For determination of Ki-67, S-phase, mitotic index, and sigma-2 receptor assessment, cancer subjects must be scheduled to undergo surgical resection of the primary tumor without intervening therapy, or be scheduled to undergo (or have already undergone) tissue sampling as either standard of care or part of another research project prior to any planned treatment for their cancer. For tumor sigma-2 receptors assessment, about 0.5 g of fresh tumor tissue kept frozen on dry ice is needed, other proliferative markers may be determined on a much smaller specimen. Thus, it is possible that the analysis of sigma-2 receptors may not be possible in all patients, as obtaining 0.5 g tumor specimen may not practical in all patients.\n* Newly diagnosed breast cancer, head \\& neck cancer, or diffuse large B-cell lymphoma subjects should have a primary lesion size \u2265 1.5 cm as determined by imaging studies (ultrasonography, mammography, CT or MRI) or physical examination and who have not received any treatment for their cancer.\n* Able to give informed consent.\n* Not currently pregnant or nursing: Female subjects must be either surgically sterile (has had a documented bilateral oophorectomy and/or documented hysterectomy), or post menopausal (cessation of menses for more than 1 year). If of childbearing potential, a urine pregnancy test must be performed within the 24 hour period immediately prior to administration of \\[18F\\]ISO-1 and determined to be negative.\n\nExclusion Criteria:\n\n* Patients with other invasive malignancies, with the exception of non-melanoma skin cancer, who had (or have) any evidence of the other cancer present within the last 5 years. Lymphoma patients who have received treatment in the past but have a new diagnosis of diffuse large B-cell lymphoma are eligible to participate providing they will undergo tissue sampling as specified in the inclusion criteria.\n* Unable to tolerate 60-90 minutes of PET imaging.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

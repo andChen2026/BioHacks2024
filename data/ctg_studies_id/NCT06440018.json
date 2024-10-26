@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06440018",
+    "briefTitle": "INSPIRE: A Multi-Cancer Early Detection Study",
+    "officialTitle": "INSPIRE: Integrating Circulating DNA Methylation and Fragmentomics to Scan and Pinpoint Cancer Signals Effectively",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Lung Cancer, Gastric Cancer, Liver Cancer, Colorectal Cancer, Pancreatic Cancer, Esophageal Cancer, Breast Cancer, Cervical Cancer, Ovarian Cancer, Endometrial Cancer, Bladder Cancer, Prostate Cancer, Cholangiocarcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 5350,
+    "primaryOutcomeMeasure": "The AUC, sensitivity, specificity and tissue origin accuracy of the multi-cancer early detection model in detecting cancer or non-cancer",
+    "eligibilityCriteria": "Inclusion Criteria for Case Arm Participants:\n\n* 40-75 years old\n* Clinically and/or pathologically diagnosed cancer\n* No prior or undergoing any systemic or local antitumor therapy, including but not limited to surgical resection, radiochemotherapy, endocrinotherapy, targeted therapy, immunotherapy, interventional therapy, etc.\n* Able to provide a written informed consent and willing to comply with all part of the protocol procedures\n\nExclusion Criteria for Case Arm Participants:\n\n* Pregnancy or lactating women\n* Known prior or current diagnosis of other types of malignancies comorbidities\n* Have participated in an \"interventional\" clinical trial within the past 30 days and have taken the experimental drug;\n* Recipients of organ transplant or prior bone marrow transplant or stem cell transplant\n* Recipients of blood transfusion within 30 days prior to screen\n* Recipients of therapy in past 14 days prior to screen, including oral or IV antibiotics, glucocorticoid, azacitidine, decitabine, procainamide, hydrazine, arsenic trioxide\n* Failure to collect blood on time according to plan\n* The blood sample does not meet the requirements\n\nInclusion Criteria for Control Arm Participants:\n\n* 40-75 years old\n* Without confirmed cancer diagnosis\n* Able to provide a written informed consent and willing to comply with all part of the protocol procedures\n\nExclusion Criteria for Control Arm Participants:\n\n* Pregnancy or lactating women\n* No previous history of malignancy in other sites\n* Recipients of organ transplant or prior bone marrow transplant or stem cell transplant\n* Recipients of blood transfusion within 30 days prior to screen\n* Recipients of therapy in the past 14 days prior to screen, including oral or IV antibiotics, glucocorticoid, azacitidine, decitabine, procainamide, hydrazine, arsenic trioxide\n* Unsuitable for this trial determined by the researchers",
+    "sex": "ALL",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04270123",
+    "briefTitle": "An EORTC Study Updating the QLQ-BR23 to BR45",
+    "officialTitle": "An International Phase 4 Field Study to Analyse the Psychometric Properties of the Updated Module on Assessing Quality of Life of Patients With Breast Cancer (EORTC QLQ-BR23, Update EORTC QLQ-BR45)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cancer, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 38,
+    "primaryOutcomeMeasure": "EORTC-BR45 questionnaire",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult females aged 18 years or over\n* Histologically confirmed diagnosis of breast cancer (any type) with no previous primary or recurrent tumour\n* Receiving or have previously received curative or palliative treatment.\n* Able to understand/speak English and complete the questionaires\n* Have the capacity/mental fitness to give written informed consent and complete the questionnaires.\n\nExclusion Criteria:\n\n* Male gender or transgender\n* Inability to understand/speak English and complete the questionnaire\n* Patients with any psychiatric condition or cognitive impairment, as determined by the treating physician, that would hamper participation.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

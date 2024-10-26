@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06345534",
+    "briefTitle": "FAST-FORWARD vs HAI5",
+    "officialTitle": "Randomized Comparison Between the FAST-FORWARD Schedule and the HAI5 Schedule for Breast Cancer Radiotherapy in 5 Fractions",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cancer, Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 740,
+    "primaryOutcomeMeasure": "Early side effects",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histopathological diagnosis of breast cancer\n* age 18 years or older\n* male or female\n* treated with breast conserving surgery or mastectomy with curative intent\n* multidisciplinary decision of adjuvant radiotherapy after surgery\n\nExclusion Criteria:\n\n* distant metastases\n* decision of preoperative radiotherapy\n* decision of partial breast irradiation\n* positive resection margins ('ink on tumour')\n* indication for boost on lymph node(s)\n* history of thoracic or ipsilateral axillary radiotherapy (including radiotherapy of the contralateral breast or chest wall)\n* need for bilateral irradiation\n* breast reconstruction or expander\n* patients unlikely to comply with the protocol (e.g. inability or unwillingness to complete the questionnaires at different time points).",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

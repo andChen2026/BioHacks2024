@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05834582",
+    "briefTitle": "Neoadjuvant Fluzoparib in Germline BRCA-mutated Three-negative Breast Cancer Breast Cancer",
+    "officialTitle": "Neoadjuvant Fluzoparib Combined With Chemotherapy in Germline BRCA-mutated Three-negative Breast Cancer Breast Cancer: an Open, Multicenter, Cohort Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "TNBC - Triple-Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "tpCR\uff08ypT0/is ypN0\uff09",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women \u2265 18 and \u2264 70 years of age with treatment-na\u00efve breast cancer\n2. Histopathologically confirmed early or locally advanced three-negative invasive breast cancer as defined by the ASCO/CAP guidelines while meeting the following conditions:\n\n   HER2 negative: IHC 0/1 + or IHC2 + but ISH negative; ER and/or PR negative (not eligible for endocrine therapy): IHC nuclear staining \u2264 1%\n3. Tumor stage: II-III: Primary tumor size: \u2265 2cm\n4. ECOG score 0 \\~ 1;\n5. Centrally confirmed BRCA1 or BRCA2 germline mutation;\n6. Eligible level of organ function\n\nExclusion Criteria:\n\n1. Patients with metastatic breast cancer or bilateral breast cancer or inflammatory breast cancer;\n2. Participated in other drug trials or received any anti-tumor therapy within 4 weeks before enrollment, including endocrine therapy, immunotherapy, biological therapy or tumor embolization;\n3. Previously received PARPi therapy;\n4. History of another primary malignancy;\n5. Confirmed history of heart failure or systolic dysfunction (LVEF \\< 50%); high risk uncontrolled cardiac arrhythmias, such as atrial tachycardia;\n6. Female patients who are pregnant or lactating;\n7. History of allergy to drugs in this study\uff1b",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

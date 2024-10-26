@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00248547",
+    "briefTitle": "Aprepitant in Preventing Nausea and Vomiting in Patients Who Are Undergoing a Stem Cell Transplant",
+    "officialTitle": "A Pilot Study of Aprepitant vs. Placebo Combined With Standard Antiemetics for the Control of Nausea and Vomiting During Hematopoietic Cell Transplatation(HCT)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Number of Emesis Free Participants During the Study Period.",
+    "eligibilityCriteria": "Inclusion:\n\n* 18 years of age or greater\n* must be scheduled for an autologous or allogeneic bone marrow or peripheral stem cell transplant\n* Eastern Cooperative Oncology Group(ECOG) performance status \\< or = 2\n* patients must have signed informed consent\n* must be able to swallow tablets and capsules\n* must be receiving a cyclophosphamide containing regimen.\n\nExclusion:\n\n* patient has known sensitivity to aprepitant, ondansetron, or dexamethasone\n* patient has received another investigational drug in the past 30 days\n* patient has had emesis or requires antiemetic agents in the 48 hours prior to beginning conditioning therapy\n* patient has taken neurokinin-1 antagonists for 14 days prior to enrollment\n* patient is pregnant, has a positive serum human chorionic gonadotropin(hCg) or is lactating\n* patient has serum creatinine level \\> or = 2\\*ULN\n* patient has severe hepatic insufficiency (Child-Pugh score \\>9)\n* patient drinks \\> 5 drinks/day for the last year\n* patient with concurrent illness requiring systemic corticosteroid use other than planned dexamethasone during conditioning therapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

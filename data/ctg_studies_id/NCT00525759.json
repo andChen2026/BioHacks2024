@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00525759",
+    "briefTitle": "Investigating the Biological Effects of the Addition of Zoledronic Acid to Pre-operative Chemotherapy in Breast Cancer",
+    "officialTitle": "A Randomised Phase II Feasibility Study Investigating the Biological Effects of the Addition of Zoledronic Acid to Neoadjuvant Combination Chemotherapy on Invasive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Increase in apoptotic index between diagnostic core biopsy and repeat core biopsy taken on day 5",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with histological diagnosis of invasive breast cancer requiring neoadjuvant chemotherapy\n* T2 tumour or above\n* WHO Performance status of 0,1 or 2\n* Must consent to or have undergone a core biopsy for diagnosis of breast cancer AND consent to undergo an additional core biopsy prior to the second cycle of chemotherapy (Day 5 +/- Day 21)\n* Written informed consent\n\nExclusion Criteria:\n\n* Previous chemotherapy or radiotherapy to treated breast\n* Evidence of metastatic disease or recurrent breast cancer or previous malignancy (some exceptions)\n* Calculated creatinine clearance \\< 40mls/min\n* Prior treatment with bisphosphonates in last year or known contraindications to bisphosphonate therapy\n* Concurrent tamoxifen or aromatase inhibitor medication\n* Pregnant or lactating women\n* Cardiac dysfunction that precludes use of anthracycline chemotherapy\n* Unwilling to have extra interim biopsy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

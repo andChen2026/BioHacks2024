@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01385488",
+    "briefTitle": "Bioelectrical Impedance for Self-monitoring of Lymphedema",
+    "officialTitle": "Bioelectrical Impedance for Self-monitoring of Breast Cancer Related Lymphedema",
+    "overallStatus": "COMPLETED",
+    "conditions": "Lymphedema",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 72,
+    "primaryOutcomeMeasure": "self care behaviors",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Healthy Volunteers for Phase 1: no known history of cancer or lymphatic disease.\n2. Lymphedema volunteers Phases 1 \\&2: history of breast cancer and diagnosis of lymphedema in one arm.\n3. All volunteers: \u2265 21 years of age.\n\nExclusion Criteria:\n\n1. Healthy Volunteers Phase 1: history of arm surgery or family history of primary lymphedema.\n2. Lymphedema volunteers Phases 1 \\& 2: bilateral lymphedema.\n3. All volunteers:\n\n   * inability to stand upright;\n   * conditions that could cause swelling: pregnancy, congestive heart failure, liver failure;\n   * infection, open sores on arms, or known sensitivity to electrodes;\n   * pacemakers or internal defibrillators;\n   * currently undergoing IV chemotherapy or radiation; or\n   * use of laxatives or diuretics to lose weight.",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

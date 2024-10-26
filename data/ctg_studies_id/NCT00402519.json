@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00402519",
+    "briefTitle": "APBI Versus EBRT Therapy After Breast Conserving Surgery for Low-risk Breast Cancer",
+    "officialTitle": "Interstitial Brachytherapy Alone Versus External Beam Radiation Therapy After Breast Conserving Surgery for Low-risk Invasive Carcinoma and Low-risk Ductal Carcinoma in Situ (DCIS) of the Female Breast",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1300,
+    "primaryOutcomeMeasure": "Local control",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage 0, I or II breast cancer.\n* Invasive ductal, papillary, mucinous, tubular, medullary or lobular carcinoma.\n* Ductal carcinoma in situ (DCIS) alone.\n* No lymph invasion (L0) and no hemangiosis (V0).\n* Lesions of \\> 3 cm diameter, histopathologically confirmed.\n* pN0/pNmi (a minimum of 6 nodes in specimen, or a negative sentinel node is acceptable); in the case of DCIS alone axillary staging (e.g. sentinel lymph node biopsy) is optional.\n* M0.\n* Clear resection margins at least 2 mm in any direction; by lobular histology or DCIS histology only the resection margins must be clear at least 5 mm.\n* For DCIS only: lesions must be classified as low or intermediate risk group (Van Nuys Prognostic Index \\<8).\n* Unifocal and unicentric DCIS or breast cancer.\n* Age \\>= 40 years.\n* Time interval from final definitive breast surgical procedure to the start of external beam therapy or to brachytherapy is less than 12 weeks (84 days). If patients receive chemotherapy the radiotherapy can be started before systemic treatment (within 12 weeks). The radiation therapy can be also given in the interval between the chemotherapy courses. It is also possible to start radiation therapy after chemotherapy is completed according local protocols as soon as possible within 4 weeks after chemotherapy.\n* Signed study-specific consent form prior to randomization.\n\nExclusion Criteria:\n\n* Stage III or IV breast cancer.\n* Surgical margins that cannot be microscopically assessed.\n* Extensive intraductal component (EIC).\n* Paget's disease or pathological skin involvement.\n* Synchronous or previous breast cancer.\n* Prior malignancy (\\< 5 years prior to enrollment in study) except non-melanoma skin cancer or cervical carcinoma FIGO 0 and I if patient is continuously disease-free.\n* Pregnant or lactating women.\n* Collagen vascular disease.\n* The presence of congenital diseases with increased radiation sensitivity, for example Ataxia telangiectatica or similar.\n* Psychiatric disorders.\n* Patient with breast deemed technically unsatisfactory for brachytherapy.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

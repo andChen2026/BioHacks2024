@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06562192",
+    "briefTitle": "Phase I Study of [177Lu]Lu-NNS309 in Patients With Pancreatic, Lung, Breast and Colorectal Cancers",
+    "officialTitle": "Phase I Open-label, Multi-center Study to Evaluate the Safety, Tolerability, Dosimetry, and Preliminary Activity of [177Lu]Lu-NNS309 in Patients With Pancreatic, Lung, Breast and Colorectal Cancers",
+    "overallStatus": "RECRUITING",
+    "conditions": "Pancreatic Ductal Adenocarcinoma, Non-small Cell Lung Cancer, HR+/HER2- Ductal and Lobular Breast Cancer, Triple Negative Breast Cancer, Colorectal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 124,
+    "primaryOutcomeMeasure": "Number of patients with dose limiting toxicities of [177Lu]Lu-NNS309",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 years old\n* Patients with one of the following indications:\n* Locally advanced unresectable or metastatic PDAC who have received prior treatment with at least 1 line of cytotoxic chemotherapy, unless patient was ineligible to receive such therapy\n* Locally advanced unresectable or metastatic NSCLC without any actionable genomic alterations who have received prior treatment with chemotherapy and immunotherapy, unless patient was ineligible to receive such therapy, or locally advanced unresectable or metastatic NSCLC with an actionable genomic alteration who have received prior treatment with targeted therapy, unless patient was ineligible to receive such therapy\n* Locally advanced unresectable or metastatic HR+/HER2- ductal or lobular BC with disease progression following, or intolerance to, at least 2 lines of therapy\n* Locally advanced unresectable or metastatic TNBC with disease progression following, or intolerance to, at least 2 lines of therapy\n* (Dose escalation part only) Locally advanced or metastatic unresectable CRC who have received prior therapy with at least 1 line of cytotoxic chemotherapy, unless patient was ineligible to receive such therapy. Patients with known microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) status must also have received immune checkpoint inhibitor therapy, unless patient was ineligible to receive such therapy\n* Patients must have lesions showing 68Ga-NNS309 uptake\n\nExclusion Criteria:\n\n* Absolute neutrophil count (ANC) \\< 1.5 x 109/L, hemoglobin \\< 10 g/dL, or platelet count \\< 100 x 109/L\n* QT interval corrected by Fridericia's formula (QTcF) \u2265 470 msec\n* Creatinine clearance \\< 60 mL/min\n* Unmanageable urinary tract obstruction or urinary incontinence\n* Radiation therapy within 4 weeks prior to the first dose of \\[177Lu\\]Lu-NNS309\n\nOther protocol-defined inclusion/exclusion criteria may apply.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00368875",
+    "briefTitle": "Phase I-II Study of Vorinostat, Paclitaxel, and Bevacizumab in Metastatic Breast Cancer",
+    "officialTitle": "Phase I/II Study of a Combination of Suberoylanilide Hydroxamic Acid (Vorinostat) Plus Paclitaxel and Bevacizumab in Patients With Advanced Metastatic and/or Local Chest Wall Recurrent Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Male Breast Cancer, Stage IIIB Breast Cancer, Stage IIIC Breast Cancer, Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 54,
+    "primaryOutcomeMeasure": "Recommended Phase II Dose as Assessed by NCI Common Terminology Criteria for Adverse Events (CTCAE) Version 3.0 (Phase I)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histologically or cytologically confirmed adenocarcinoma of the breast; effective with version 2.2 (1/26/09), only patients with disease that is accessible to biopsy and consent to serial biopsy are eligible\n* stage IV disease, locally recurrent inoperable chest wall disease; at least one bidimensional and/or unidimensional, measurable indicator lesion must be present (patients with only non-measurable disease are eligible for the phase I trial only); all sites of disease should be noted and followed\n* ECOG performance status =\\< 1 (Karnofsky \\>= 70%)\n* Absolute neutrophil count \\>= 1,500/ul\n* Platelets \\>= 100,000/ul\n* Total bilirubin within normal institutional limits\n* AST(SGOT)/ALT(SGPT) =\\< 2.5 x institutional upper limit of normal\n* PTT and either INR or PT \\< 1.5 x normal\n* Creatinine within normal institutional limits OR creatinine clearance \\>= mL/min/1.73 m\\^2 for patients with creatinine levels above institutional normal\n* Urine protein should be screened by urine analysis for Urine Protein Creatinine (UPC) ratio; for UPC ratio \\> 0.5, 24-hour urine protein should be obtained and the level should be \\< 1000 mg for patient enrollment;\n* LVEF must be at or above the lower institutional limit of the normal range (on MUGA or Echo obtained within 12 weeks of registration, or within 4 weeks of prior Herceptin)\n* Not pregnant/lactating\n\nExclusion criteria:\n\n* chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study\n* may not be receiving any other investigational agents.\n* history of allergic reactions attributed to compounds of similar chemical or biologic composition to vorinostat or other agents used in the study (e.g., paclitaxel, bevacizumab, quinolones)\n* uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

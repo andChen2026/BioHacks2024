@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00776724",
+    "briefTitle": "Tailored Neoadjuvant Chemotherapy for Stage II/III Breast Cancer With Tumor Size More Than 2 cm",
+    "officialTitle": "A Randomized Phase III Study of Docetaxel/ Epirubicin Versus Tailored Regimens as Neoadjuvant Chemotherapy for Stage II/III Breast Cancer With Tumor Size More Than 2 cm",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Chemotherapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 166,
+    "primaryOutcomeMeasure": "To evaluate and compare the pathological complete response (pCR) rates",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed invasive, but non-inflammatory, breast carcinoma, with stage II or III disease (AJCC 7th ed)\n* And, tumor size more than 2 cm in greatest diameter measured by estimated by CT scan or MRI\n* Documented Her2/neu negative , including score 0, 1+, or 2+ by immunohistochemistry\n* No prior radiotherapy, hormonal therapy or chemotherapy for invasive breast cancer\n* Performance status of ECOG 0, 1,\n* Female with age older than 20 years\n* Laboratory parameter\n\n  * Absolute neutrophil count (ANC) \u22671500/mm3\n  * Total bilirubin \u22662.0 times the upper limit of normal (ULM)\n  * AST or ALT \u22662.5 times the upper limit of normal (ULM)\n  * Platelets \u2267100,000/mm3\n  * Serum creatinine \u22661.5 x ULM\n  * Fasting triglyceride \u2267 70 mg/dL\n* Ability to understand and willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n* Evidence of metastatic breast cancer or inflammatory breast cancer\n* Bilateral breast cancer, metaplastic carcinoma, or mucinous carcinoma\n* Known allergy to any of the study drugs or to agents containing Cremophor.\n* Serious intercurrent infections or medical illnesses that are uncontrolled or the control of which may be jeopardized by this therapy\n* Psychiatric disorders or other conditions regarding the subject incapable of complying with the requirements of the protocol\n* Evidence of baseline sensory or motor neuropathy\n* Pregnant or breast feeding women\n* Previous or current systemic malignancy with the exception of curatively treated non-melanoma skin cancer or cervical carcinoma in situ with a disease-free interval of at least 5 years",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

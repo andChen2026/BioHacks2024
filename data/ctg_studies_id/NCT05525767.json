@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05525767",
+    "briefTitle": "Chemotherapy Combined With Bevacizumab Neoadjuvant Therapy for HER2-negative Breast Cancer",
+    "officialTitle": "Prospective, Multicenter, Single-arm Clinical Study of Chemotherapy Combined With Bevacizumab Neoadjuvant Therapy for Early or Locally Advanced HER2-negative Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Solid Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 75,
+    "primaryOutcomeMeasure": "PCR",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age \u226518 years old;\n2. Signed the informed consent and volunteered to join the study with good compliance;\n\n3, histopathologically confirmed HER2-negative invasive breast cancer (including triple-negative breast cancer; Or Luminal breast cancer, that is, ER/PR positive and HER2 negative) :\n\n* HER2 negative was defined as 0/1+ on standard IHC test; HER2/CEP17 ratio was less than 2.0 or HER2 gene copy number was less than 4.\n* ER positive and/or PR positive were defined as the proportion of positively stained tumor cells in all tumor cells \u22651%;\n\n  4. According to the American Joint Committee on Cancer (AJCC) 8th edition TNM stage II-IIIC (T2-T4 plus any N, or any T plus N1-3, M0);\n\n  5. The main organs function well and meet the following standards:\n\nA) Hemoglobin (HGB)\u226590g/L;\n\nB) Neutrophil absolute value (NEUT)\u22651.5\u00d7109/L;\n\nC) Platelet count (PLT)\u2265 100\u00d7109/L;\n\nD) leukocyte \u22653.0\u00d7109/L;\n\nE) Total bilirubin \\<1.5 ULN (upper limit of normal)\n\nF) Creatinine \\< 1.5\u00d7ULN\n\nG) AST/ALT \\< 1.5\u00d7ULN;\n\n6. Cardiac ultrasound: left ventricular ejection fraction (LVEF\u226555%);\n\n7. The investigators determined that the patients were suitable for treatment with bevacizumab.\n\nExclusion Criteria:\n\n1. Stage IV (metastatic) breast cancer;\n2. Received treatment for the disease, including chemotherapy, endocrine therapy, radiotherapy, immunotherapy, etc.;\n3. Patients who are participating in other intervention studies;\n4. Women with confirmed pregnancy or lactation;\n5. According to the judgment of the investigator, the subjects have concomitant diseases that seriously endanger the safety of the subjects or affect the completion of the study, or the subjects think that there are other reasons that are not suitable for inclusion.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

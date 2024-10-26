@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00376909",
+    "briefTitle": "A Telephone-Based Prevention Care Manager in Increasing Screening Rates for Breast Cancer, Cervical Cancer, and Colorectal Cancer in Minority and Low-Income Women",
+    "officialTitle": "New York Prevention Care Manager Project",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Cervical Cancer, Colorectal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 2729,
+    "primaryOutcomeMeasure": "Follow-up patient cancer 3 months after completion of study treatment",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Patients enrolled in the Prevention Care Manager (PCM) controlled, randomized clinical trial (RCT) must meet the following criteria:\n\n  * Registered to receive care at a participating Community Health Center for at least 6 months\n  * Overdue for at least one cancer screening as per the following time periods:\n\n    * No mammography within the past 12 months\n    * No Pap test within the past 12 months\n    * No home fecal occult blood test within the past 12 months\n    * No sigmoidoscopy within the past 5 years\n    * No colonoscopy within the past 10 years\n  * Must not plan to move out of area or change Community Health Center within 15 months\n  * No unresolved, urgent abnormal cancer screening result found in medical record\n* Patients enrolled in the PCM dissemination pilot study through Affinity Health Plan must meet the following criteria:\n\n  * Enrolled with Affinity Health Plan for at least 12 months\n  * Overdue for at least one cancer screening as per the following time periods:\n\n    * No mammography within the past 2 years\n    * No Pap test within the past 3 years\n    * No home fecal occult blood test within the past year for women \u2265 50 years old\n    * No sigmoidoscopy within the past 5 years\n    * No colonoscopy within the past 10 years\n  * Must have received care at 1 of 6 participating Community Health Centers in New York City\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Must not be in acute distress or have an acute illness\n* Age 50 to 69 years for controlled study patients\n* Age 40 to 69 years for pilot study patients\n\nPRIOR CONCURRENT THERAPY:\n\n* No concurrent chemotherapy or radiotherapy\n* No concurrent active cancer treatment\n* No concurrent palliative care",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

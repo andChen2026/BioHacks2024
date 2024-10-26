@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00934856",
+    "briefTitle": "A Study of Trastuzumab Emtansine (T-DM1) in Combination With Docetaxel, and Potentially Pertuzumab, in Participants With Advanced Breast Cancer",
+    "officialTitle": "An Open-Label, Multi-Center Phase I/II Study of the Safety and Tolerability of the Combination of Trastuzumab-MCC-DM1 (T-DM1) With Docetaxel, and Potentially Pertuzumab, for Treatment for Patients With Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 98,
+    "primaryOutcomeMeasure": "Number of Participants With Dose Limiting Toxicity (DLT) - MBC and LABC Feasibility Population",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1 (ECOG performance status of 2 will be allowed if only due to debilitating bone disease)\n* HER2-positive metastatic or locally advanced breast cancer\n\nFor MBC participants:\n\n* Documented metastatic or inoperable locally advanced (without meeting LABC criteria) disease, amenable for treatment with docetaxel\n* History of disease progression within 3 months prior to study entry\n\nFor LABC participants:\n\n* Newly diagnosed locally advanced breast cancer, Stage IIA-IIIC (American Joint Committee on Cancer \\[AJCC\\] staging system)\n\nExclusion Criteria:\n\n* Significant cardiac disease\n* Inadequate bone marrow, liver or renal function\n\nFor MBC participants:\n\n* Participants must not have received radiotherapy for the treatment of metastatic or locally recurrent/advanced disease other than for the relief of pain in progressing metastatic bone lesions and/or brain metastases\n* Brain metastases that are untreated, symptomatic or require therapy to control symptoms; or any radiation, surgery, or other therapy to control symptoms from brain metastasis within 2 months of the first study treatment.\n\nFor LABC participants:\n\n* Clinically or radiologically detectable metastasis (M1 disease)\n* Participants for whom surgery as primary intent procedure is the best option to treat their disease\n* Participants must not have received any systemic or loco-regional anti-cancer therapy for the treatment of locally advanced disease",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

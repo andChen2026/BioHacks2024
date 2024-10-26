@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01856543",
+    "briefTitle": "Mometasone Furoate 0.1% Versus Eucerin on Moderate to Severe Skin Toxicities in Breast Cancer Patients Receiving Postmastectomy Radiation",
+    "officialTitle": "Mometasone Furoate 0.1% Versus Eucerin on Moderate to Severe Skin Toxicities in Breast Cancer Patients Receiving Postmastectomy Radiation:A Randomized Trial, Double Blind Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Invasive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 143,
+    "primaryOutcomeMeasure": "Percentage of Participants With Moist Desquamation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u226518 years\n* Stage 1-4 invasive breast cancer that is histologically confirmed at MSKCC\n* Status post mastectomy with axillary exploration (sentinel node biopsy and/or axillary lymph node dissection) to receive PMRT\n* ECOG Performance Status of 0 or 1\n\nExclusion Criteria:\n\n* Male\n* Patients with clinical evidence of gross disease\n* Patients who are pregnant or breastfeeding\n* Prior radiation therapy to the ipsilateral chest wall or thorax\n* Patients requiring a chest wall boost\n* Concurrent chemotherapy (biologic agents are allowed)\n* Psychiatric illness that would prevent the patient from giving informed consent\n* Inability or unwillingness to comply with skin care instructions and follow-up\n* Allergy to either Eucerin or MF\n* Residual grade \\>1 skin toxicity, cellulitis, or incompletely healed wound(s) at intended site of study drug application at the time of the start of RT\n* Medical condition such as uncontrolled infection (including HIV), uncontrolled diabetes mellitus, or connective tissue diseases (lupus, systemic sclerosis, or other collagen vascular diseases)\n* Treatment with palliative or pre-operative radiation",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

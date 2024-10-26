@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05022511",
+    "briefTitle": "Three Birds With One Stone",
+    "officialTitle": "Three Birds With One Stone: a Randomised Intervention Study to Increase Participation in Cervical and Colorectal Cancer Screening Among Women Attending Breast Cancer Screening",
+    "overallStatus": "COMPLETED",
+    "conditions": "Uterine Cervical Cancer, Uterine Cervix Cancer, Uterine Cervical Neoplasm, Colorectal Neoplasms, Colorectal Cancer, Colorectal Carcinoma, Mass Screening, Early Detection of Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 27099,
+    "primaryOutcomeMeasure": "Coverage",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nWomen aged 50-69 years attending breast cancer screening in Central Denmark Region on selected days.\n\n* In CCU screening: women aged 50-64 years will be classified as overdue if they have not had a cervical sample within the last 5 years and 6 months\n* In CRC screening: women aged 50-69 years will be classified as overdue, if they have not had a FIT within the last 2 years and 4.5 months despite an invitation.",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

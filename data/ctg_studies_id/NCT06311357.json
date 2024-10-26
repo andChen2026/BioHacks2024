@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06311357",
+    "briefTitle": "Percent Weight Change in the Medical Supplement Group of Early Breast Cancer",
+    "officialTitle": "Effects of Body Weight Change in the Medical Supplement Group in Patients With Early Breast Cancer During Chemotherapy: a Randomized, Controlled Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Early Stage Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Percent weight change",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histopathological confirmed diagnosis of breast cancer\n* Breast cancer stage I-III\n* Recieve adjuvant or neoadjuvant doxorubicin and cyclophosphamide at Rajavithi hospital\n* LVEF \\>= 60% - ECOG score 0-1\n\nExclusion Criteria:\n\n* No indication for chemotherapy\n* Contraindication for chemotherapy\n* Breast cancer stage IV\n* Diabetic mellitus who requires insulin injection\n* BMI \\>= 30 kg/m2 or \\<= 16 kg/m2\n* Previously known other malignancies\n* Second primary cancer\n* Previously received chemotherapy or radiotherapy\n* Severe malnutrition with administration of TPN is indicated\n* Pregnancy or lactation\n* CKD stage 4-5",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

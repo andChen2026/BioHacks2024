@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03442478",
+    "briefTitle": "Comparison of Digital Breast Tomosynthesis to Conventional Mammography",
+    "officialTitle": "The Performance of Digital Breast Tomosynthesis Compared to Conventional Mammography in Visualization and Characterization of Suspicious Breast Abnormalities",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Comparison of Tomosynthesis to Standard Digital Mammography",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subject is female of any race and ethnicity\n* Following routine mammography imaging, subject is categorized as Breast Imaging Reporting and Data System (BI-RADS\u00ae) 4 or 5 because of calcifications / masses and architectural distortion will undergo study imaging within 30 days of routine imaging\n* Subject will undergo 2D/3D digital breast tomosynthesis prior to biopsy\n\nExclusion Criteria:\n\n* Subject unable or unwilling to undergo informed consent\n* Subjects who are unable or unwilling to tolerate compression\n* Subjects who are pregnant or who think they may be pregnant\n* Subjects who are breast-feeding\n* The subject is too large to be imaged on the large 24 x 30 cm detector",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

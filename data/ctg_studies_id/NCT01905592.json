@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01905592",
+    "briefTitle": "A Phase III Trial of Niraparib Versus Physician's Choice in HER2 Negative, Germline BRCA Mutation-positive Breast Cancer Patients",
+    "officialTitle": "A Phase III, Randomized, Open Label, Multicenter, Controlled Trial of Niraparib Versus Physician's Choice in Previously-treated, HER2 Negative, Germline BRCA Mutation-positive Breast Cancer Patients",
+    "overallStatus": "TERMINATED",
+    "conditions": "Neoplasms, Breast, Carcinoma of Breast, Human Epidermal Growth Factor 2 Negative Carcinoma of Breast, BRCA1 Gene Mutation, BRCA2 Gene Mutation, Ovarian Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 216,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS) - Central Review Assessment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Germline BRCA1 or BRCA2 mutation; patients with unknown BRCA status who meet NCCN BRCA screening criteria will be screened for BRCA mutation.\n2. Histologically or cytologically confirmed HER2-negative metastatic or locally advanced disease that is not amenable to resection or radiation with curative intent.\n3. Up to 2 prior cytotoxic regimens for advanced or metastatic breast cancer; patients with no prior cytotoxic regimens for advanced or metastatic disease will only be allowed if they relapsed during or within 12 months of (neo-) adjuvant cytotoxic therapy.\n4. Prior therapy should have included a taxane and/or anthracycline (unless contraindication to those) in the neoadjuvant, adjuvant, or advanced/metastatic setting.\n\n   a. Hormone receptor positive patients must also have hormone resistant disease; either relapsed while on adjuvant endocrine treatment, or within one year of completing adjuvant endocrine treatment, or progression on at least one line of endocrine treatment for advanced cancer.\n5. ECOG performance status 0-2\n6. Adequate bone marrow, kidney and liver function\n\nExclusion Criteria:\n\n1. Patients with platinum resistant cancer\n2. Symptomatic uncontrolled brain metastases\n3. Prior diagnosis of Stage IV ovarian cancer; Stage III ovarian cancer must have a 5-year disease-free interval; Stage II ovarian cancer must have a 2-year disease-free interval\n4. Known hypersensitivity to the components of niraparib\n5. Invasive cancer other than breast cancer within 2 years (except basal or squamous cell carcinoma of the skin that has been definitely treated)\n6. Pregnant or breast feeding patients\n7. Immunocompromised patients\n8. Known active Hepatitis B or C\n9. Prior treatment with a PARP inhibitor\n10. Known history of myelodysplastic syndrome (MDS).\n11. known and persistent (\\>4 weeks) \\>/= grade 3 toxicity or fatigue from prior cancer treatment.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

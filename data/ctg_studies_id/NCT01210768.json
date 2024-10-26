@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01210768",
+    "briefTitle": "A Study of Pegylated Liposomal Doxorubicin and Cyclophosphamide in Her2-negative Stage I and II Breast Cancer Patients",
+    "officialTitle": "A Phase II Randomized Study of Pegylated Liposomal Doxorubicin, Cyclophosphamide Versus Epirubicin-Cyclophosphamide as Adjuvant Chemotherapy in Her2-negative Stage I and II Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 254,
+    "primaryOutcomeMeasure": "Disease-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histologically confirmed invasive, but non-inflammatory, breast adenocarcinoma with stage I or II (if N0, T must be \\>1cm) disease\n* Her2-negative on fluorescence in situ hybridization (FISH) study\n* performance status of ECOG 0, 1\n* female, age between 20 and 70 years\n* life expectancy of at least one year\n* ability to understand and willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Her2 3+ over-expression on immunohistochemistry (IHC), or Her2 amplification on fluorescence in situ hybridization (FISH) study\n* previous or current systemic malignancy with the exception of curatively treated non-melanoma skin cancer or cervical carcinoma in situ, unless there has been a disease-free interval of at least 5 years\n* Patients who have received prior chemotherapy\n* inadequate hematological function defined as absolute neutrophil count (ANC)less than 1,500/mm3, and platelets less than 100,000/mm3\n* inadequate hepatic function defined as: serum bilirubin greater than 1.5 times the upper limit of normal range (ULN) alanine aminotransferase (ALT) or aspartate aminotransferase (AST) greater than 2.5 times the ULN\n* inadequate renal function defined as serum creatinine greater than 1.5 times the ULN\n* left ventricular ejection fraction (LVEF) \\< 50% confirmed by multiple-gated acquisition (MUGA) scan or echocardiogram\n* concomitant illness that might be aggregated by chemotherapy or interfere study assessment. For examples, active, non- controlled infection (such as hepatitis B and hepatitis C, HIV, infectious tuberculosis) or other active, non-controlled disease such as congestive heart failure, ischemic heart disease, uncontrolled hypertension or arrhythmia, unstable diabetes mellitus, and active peptic ulcer\n* patients who are presence of liver cirrhosis or are HBV/HCV carrier\n* participation in another clinical trial with any investigational drug within 30 days prior to entry\n* pregnant or breast feeding women\n* fertile women of child-bearing potential unless using a reliable and appropriate contraceptive method throughout the treatment period and for three months following cessation of treatment",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

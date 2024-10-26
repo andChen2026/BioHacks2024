@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04914494",
+    "briefTitle": "Cancer Predictive Score on Breast MRI",
+    "officialTitle": "Malignity Predictive Factors on Breast MRI With Ultrasound and Mammography Occult Lesions",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 428,
+    "primaryOutcomeMeasure": "Number of participants with MRI characteristics of breast lesions",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* women aged 18 and more\n* performed MRI-guided breast biopsy\n\nExclusion criteria:\n\n- Not MRI-guided breast biopsy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

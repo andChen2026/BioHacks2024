@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05012644",
+    "briefTitle": "Comparative Real World Tumor Response in Pre-menopausal Metastatic Breast Cancer Patients Treated With Palbociclib + Aromatase Inhibitor or Aromatase Inhibitor Alone",
+    "officialTitle": "REAL-WORLD TUMOR RESPONSE OF PALBOCICLIB IN COMBINATION WITH AN AROMATASE INHIBITOR AS FIRST-LINE THERAPY IN PRE/PERIMENOPAUSAL WOMEN WITH METASTATIC BREAST CANCER",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 197,
+    "primaryOutcomeMeasure": "Real World Tumor Response (rwTR) of All Participants (Adjusted by Normalized Inverse Probability of Treatment Weighting [nIPTW])",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Pre or perimenopausal at MBC diagnosis\n2. Diagnosis of MBC in patient history\n3. Confirmed HR+/HER2- status as defined as: a. HR+: ER+ or PR+ test; b. HER2-: any HER2 negative test and the absence of a positive test (IHC positive 3+, fluorescence in situ hybridization \\[FISH\\] positive/amplified, positive not otherwise specified \\[NOS\\]).\n4. Received one of the following regimens as first-line treatment for MBC during the period from 01 January 2010 through index period 30 June 2020 until the data cutoff date of 31 December 2020.\n\n   1. Palbociclib + AI as first-line treatment for MBC or\n   2. Monotherapy AI as first-line treatment for MBC\n5. Received care at a US Oncology Network (USON) site(s) utilizing the full EHR capacities of iKnowMed (iKM) at the time of treatment.\n6. EHR data available from the USON site(s) where the patient received treatment are accessible for research purposes.\n\nExclusion Criteria:\n\n1. Evidence of prior treatment with cyclin-dependent kinase (CDK) 4/6 inhibitors (palbociclib, ribociclib or abemaciclib) in the early breast cancer (BC) or MBC setting.\n2. First structured activity (clinical visit) greater than 120 days after MBC diagnostic date with chart review to confirm no initial MBC treatment outside USON.\n3. Receipt of treatment indicated for another primary cancer during the study observation period (after initiation of Palbociclib + AI or AI monotherapy and before 31 December 2020) or history of another primary cancer within USON.\n4. Enrolled in any interventional clinical trial after initiation of Palbociclib + AI or AI monotherapy AND before 31 December 2020.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

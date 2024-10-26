@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00373113",
+    "briefTitle": "A Clinical Trial Comparing Efficacy And Safety Of Sunitinib And Capecitabine",
+    "officialTitle": "Phase III Randomized, Multi Center Study Of Sunitinib Malate (SU 011248) Or Capecitabine In Subjects With Advanced Breast Cancer Who Failed Both A Taxane And An Anthracycline Chemotherapy Regimen Or Failed With A Taxane And For Whom Further Anthracycline Therapy Is Not Indicated",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 482,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* breast adenocarcinoma\n* prior treatment with an anthracycline and a taxane either concurrently or sequentially in the neoadjuvant, adjuvant and or/ advanced disease treatment settings. No more than 1 chemotherapy regimen in the advanced setting\n\nExclusion Criteria:\n\n* Prior treatment with regimens of chemotherapy in the advanced/metastatic disease setting beyond those containing anthracyclines and taxanes or multiple anthracyclines/ taxanes treatments.\n* Any prior regimen with capecitabine",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

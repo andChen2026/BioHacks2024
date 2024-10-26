@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03320421",
+    "briefTitle": "Hypofractionated Radiation Therapy With Concomitant Boost in Treating Women After Breast Conserving Surgery",
+    "officialTitle": "Phase II Trial of Hypofractionated Whole-breast Radiation and Concomitant Boost to the Surgical Bed After Breast Conserving Surgery",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 90,
+    "primaryOutcomeMeasure": "acute radiation induced dermatitis by CTCAE within 3 months",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female, aged between 18-70\n* pathological confirmed breast invasive carcinoma\n* patients after breast lumpectomy(including quadrantectomy) with axillary lymph nodes dissection or sentinel node biopsy\n* stage p T 1-2 N 0\n* metastasis omitted by routine examinations in 1 months before enrollment\n* complete blood count obtained in 2 weeks prior to study entry should meet the following criteria: absolute neutrophil count \\> 1.8 \\*10\\^9/L, hemoglobin \\> 8.0g/dl, platelet \\> 75 \\* 10\\^9/L\n* hepatic and renal function in 2 weeks prior to study entry should be normal\n* study entry within 60 days from whichever comes later: surgery or last chemotherapy\n* women of childbearing potential must have a negative urine or serum pregnancy test with 2 weeks of study entry\n* signs study specific informed consent prior to study entry\n\nExclusion Criteria:\n\n* breast cancer with stage III/III (AJCC 7th)\n* occult breast cancer\n* in-situ breast carcinoma\n* bilateral breast cancer\n* male breast cancer\n* breast lymphoma or breast sarcoma\n* combined with Paget's disease\n* received preoperative treatment(including neoadjuvant chemotherapy, endocrine therapy and target therapy\n* positive surgical margin\n* axillary lymph nodes dissection or sentinel lymph node biopsy omitted\n* regional lymph nodes radiation needed\n* boost volume larger than 1/4 of the whole breast\n* tumor bed unable to recognize on CT\n* prior invasive malignant tumor history\n* prior radiation to thoracic\n* connective tissue disease, such as active systemic lupus erythematosus and scleroderma, etc.\n* severe, active co-morbidity, defined as follows:\n\n  * unstable angina and/or congestive heart failure requiring hospitalization within the last 6 months\n  * severe, acute bacterial or fungal infection within the last 2 weeks\n  * chronic obstructive pulmonary disease exacerbation or other respiratory illness within 30 days\n* pregnant women",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00948285",
+    "briefTitle": "Importance of Magnetic Resonance Imaging (MRI) in Treating Breast Cancer",
+    "officialTitle": "Breast Cancer Staging MAgnetic Resonance for Treatment (B-SMART)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 194,
+    "primaryOutcomeMeasure": "A difference of 10% in the margin revision rate in women undergoing breast conservation for cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Newly diagnosed breast cancer patients\n* Breast cancer patients identified as conservation candidates by their surgeons\n\nExclusion Criteria:\n\n* Patients with a history of prior breast cancer treatment (recurrence)\n* Patients with breast cancer diagnosis during pregnancy (women who could bear children must have a negative pregnancy test before beginning this study)\n* Patients with documented sensitivity to gadolinium (contrast agent used during MRI)\n* Patients who weigh more than 350 pounds (weight limit on MRI machine)\n* Patients who receive neoadjuvant chemotherapy\n* Patients with renal insufficiency (serum Cr \\> 1.5) due to the danger of nephrogenic systemic sclerosis with the administration of Gadolinium",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

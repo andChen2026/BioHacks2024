@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02336737",
+    "briefTitle": "SentiMag\u00ae Intraoperative Comparison in Breast Cancer",
+    "officialTitle": "A Pivotal, Prospective, Open-Label, Multicenter Paired Comparison Study Of SentiMag/SiennaXP And The Standard Of Care In Patients With Breast Cancer Who Are Undergoing Lymph Node Mapping As Part Of A Sentinel Node Biopsy Procedure",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 160,
+    "primaryOutcomeMeasure": "Number of Participants With Detected Lymph Nodes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subjects with a diagnosis of primary breast cancer or subjects with pure ductal carcinoma in situ (DCIS).\n* Subjects scheduled for surgical intervention, with a sentinel lymph node biopsy procedure being a part of the surgical plan.\n* Subjects aged 18 years or more at the time of consent.\n* Subjects with an ECOG (Eastern Cooperative Oncology Group) performance status of Grade 0 - 2.\n* Subject has a clinical negative node status (i.e. T0-3, N0, M0).\n\nExclusion Criteria:\n\n* The subject is pregnant or lactating.\n* The subject has clinical or radiological evidence of metastatic cancer including palpably abnormal or enlarged lymph nodes.\n* The subject has a known hypersensitivity to Isosulfan Blue Dye.\n* The subject has participated in another investigational drug study within 30 days of scheduled surgery.\n* Subject has had either a) previous axilla surgery, b) reduction mammoplasty, or c) lymphatic function that is impaired in the surgeon's judgment.\n* Subject has had preoperative radiation therapy to the affected breast or axilla.\n* Subject has received a Feraheme\u00ae (ferumoxytol) Injection within the past 6 months.\n* Subject has intolerance or hypersensitivity to iron or dextran compounds or to SiennaXP.\n* Subject has an iron overload disease.\n* Subject has pacemaker or other implantable device in the chest wall.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02079272",
+    "briefTitle": "REBECCA Study (RadiothErapy for BrEast Cancer and CArdiotoxicity)",
+    "officialTitle": "REBECCA Study (RadiothErapy for BrEast Cancer and CArdiotoxicity): Evaluation of Radiation-induced Cardiotoxicity of Adjuvant Radiotherapy With Tomotherapy for Breast Cancer",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Toxicity Due to Radiotherapy, Breast Cancer, Lesion; Cardiac",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Number of participants with subclinical cardiac lesions in myocardial levels and/or coronary levels",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women treated surgically for left or right breast cancer and for who adjuvant treatment is radiotherapy with irradiation of the breast or chest wall irradiation and possibly lymph node chains,\n* Age between 40 and 70 years\n* Adjuvant Radiotherapy is helical tomotherapy performed at Institut Claudius Regaud(Toulouse, France)\n\nExclusion Criteria:\n\n* Indication of adjuvant chemotherapy\n* Clinically or radiologically detectable metastasis\n* Personal history of coronary artery or myocardial disease\n* Personal history of breast cancer or other cancer requiring radiotherapy to the chest\n* Contraindications to injection of iodinated contrast ( for CT ) : pregnancy , renal failure, allergy.\n* Pregnancy, lactation\n* Before radiotherapy, LVEF \\<50%\n* Before radiotherapy, longitudinal strain \\> - 16 %\n* Before radiotherapy,longitudinal strain rate \\<1% / s\n* Before radiotherapy, segmental wall motion abnormality\n* Coronary CT before radiotherapy showing that a therapeutic treatment is required",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

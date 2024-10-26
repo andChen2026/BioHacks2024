@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03664895",
+    "briefTitle": "Density Lowering Effect of \"OFS Add on to TMX\"(DELFINO Trial)",
+    "officialTitle": "Density Lowering Effect of Ovarian Function Suppression in Premenopausal Breast Cancer Patients Who Had no Density Change With One Year of Tamoxifen Treatment",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Invasive",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 224,
+    "primaryOutcomeMeasure": "MMG density Reduction",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Premenopausal women, ER+ breast cancer, stage I\\~III, underwent standard treatment including surgery, Planned TMX\n* available MMG density check via Volpara\n\nExclusion Criteria:\n\n* Bilateral breast cancer\n* Prior endocrine therapy\n* Postmenopausal status\n* unavailable MMG density check via volpara before and after TMX",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT"
+}

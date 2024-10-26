@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02790021",
+    "briefTitle": "Microsurgical Treatment of Breast Cancer-related Lymphedema by Lymphaticovenous Anastomosis",
+    "officialTitle": "Improving the Quality of Life of Patients With Breast Cancer-related Lymphedema by Lymphaticovenous Anastomosis (LVA): A Randomized Controlled Trial",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Lymphedema",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Health-related quality of life: Lymph-ICF questionnaire",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women over 18 years old\n* Treated for early stage breast cancer and who underwent an sentinel lymph node biopsy (SLNB), axillary lymph node dissection (ALND) or axillary radiotherapy\n* Early stage lymphedema of the arm (ISL classification stage I/IIa; pitting edema without fibrosis) with viable lymphatic vessels as determined by indocyanin green (ICG) lymphography\n* Already received at least three months of complex decongestive therapy (CDT) prior to inclusion\n* Primary breast cancer\n* Unilateral lymphedema\n* Informed consent\n\nExclusion Criteria:\n\n* Male sex\n* Late stage lymphedema of the arm (ISL classification IIb/III lymphedema) with evident fat deposition and/or fibrosis\n* History of earlier lymph reconstruction efforts\n* Recurrent breast cancer\n* Distant breast cancer metastases\n* Bilateral lymphedema\n* Primary congenital lymphedema\n* Non-viable lymphatic system as determined by ICG lymphography",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

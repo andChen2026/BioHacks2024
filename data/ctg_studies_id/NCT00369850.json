@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00369850",
+    "briefTitle": "Bone Density and Bone Loss in Postmenopausal Women With Breast Cancer Receiving Treatment in Clinical Trial IBCSG-1-98",
+    "officialTitle": "Investigating Bone Density and Bone Loss Without Baseline Information",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Osteoporosis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 458,
+    "primaryOutcomeMeasure": "Relative percent change of bone mineral density (BMD) form baseline to after 2, 3, 4, or 5 years of treatment on protocol IBCSG-1-98",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of breast cancer\n\n  * Resected disease\n* Enrolled on protocol IBCSG-1-98\n\n  * Receiving adjuvant endocrine therapy comprising 1 of the following regimens:\n\n    * Letrozole\n    * Tamoxifen\n    * Letrozole after 2 years of tamoxifen\n    * Tamoxifen after 2 years of letrozole\n  * Not yet completed 5 years of treatment\n* No breast cancer recurrence or second primary cancer\n* No known, symptomatic bone disease, including osteomalacia or osteogenesis imperfecta\n* No prior registration to protocol IBCSG-1-98 Bone Mineral Density substudy\n* Hormone receptor status:\n\n  * Estrogen receptor-positive and/or progesterone receptor-positive tumor\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Postmenopausal\n* No uncontrolled thyroid or parathyroid disease, Cushing's disease, or other pituitary diseases\n* No malabsorption syndrome or clinically relevant vitamin D deficiency\n* No patients for whom the bone density determination is impossible\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* More than 1 year since prior and no concurrent anticonvulsants\n* More than 6 weeks since prior and no concurrent corticosteroids (at doses \\> the equivalent of 5 mg/day prednisone) for \\> 2 weeks total\n* No prior or concurrent sodium fluoride (at daily doses \u2265 5 mg/day) for \\> 1 month\n* More than 12 months since prior and no concurrent anabolic steroids\n* More than 6 months since prior treatment, either investigational or not, for the prevention of osteoporosis (excluding calcium or cholecalciferol \\[vitamin D\\])\n* No concurrent raloxifene\n* Concurrent therapeutic intervention for osteoporosis comprising bisphosphonates allowed\n* Concurrent warfarin allowed provided it is given for \u2264 4 weeks",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

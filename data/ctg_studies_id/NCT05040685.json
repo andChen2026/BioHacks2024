@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05040685",
+    "briefTitle": "Axillary Reverse Mapping in Breast Cancer",
+    "officialTitle": "Axillary Reverse Mapping (ARM): Validation of Surgical Tecnique in Breast Cancer Surgery",
+    "overallStatus": "COMPLETED",
+    "conditions": "Lymph Node Cancer Metastatic",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 43,
+    "primaryOutcomeMeasure": "Rate of patients who it is possible preserve ARM nodes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPatients who will undergo ALND in the treatment of breast cancer:\n\n* cT4a, cT4c and cT4d.\n* cT4b with extensive involvement of the skin.\n* cN0 with SLNB positive (pN+) that need to associate ALND:\n\n  * cT3-T4b.\n  * \\>2 lymph node macrometastasis if cTis, cT1 and cT2.\n  * Patients who underwent mastectomy and it is not possible associate adjuvant radiotherapy.\n* cN1:\n\n  * If primary surgery treatment.\n  * After neoadjuvant systemic treatment, if there is not a clinical-radiological complete response and/or SLNB positive (ypN+).\n* cN2:\n\n  * If primary surgery treatment.\n  * After neoadjuvant systemic treatment, if luminal tumours or there is not a clinical-radiological complete response in triple negative or HER2 overexpressed tumours.\n* cN3.\n\nExclusion Criteria:\n\n* Patients with previous axillary surgery (except sentinel node biopsy)\n* Patients who did previous axillary radiotherapy treatment.\n* Patients who do not wish to participate in the study.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

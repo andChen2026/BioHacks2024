@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01445054",
+    "briefTitle": "111 Indium CHX-A DTPA Trastuzumab (Indium-Herceptin) for Imaging Breast Cancer",
+    "officialTitle": "A Phase 0 Trial of (111)Indium CHX-A DTPA Trastuzumab Imaging in Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Prostate Cancer, Lung Cancer, Colon Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 13,
+    "primaryOutcomeMeasure": "Compare uptake of 111Indium-CHX-A DTPA trastuzumab with HER2/Neu (ErbB2) status of the tumor as determined by IHC",
+    "eligibilityCriteria": "* INCLUSION CRITERIA:\n\nParticipant must have histological confirmation of primary or metastatic cancer other than melanoma, basal cell carcinoma, sarcoma, or lymphoma.\n\n* Primary tumor or metastatic focus must be 1.5cm or greater in diameter as established by palpation, ultrasound, mammography, CT or MRI.\n* Participant must be 18 years or older.\n* Availability of tumor tissue (either from the initial primary tumor or from current tumor lesion) for performing IHC or FISH analysis for HER2/Neu (Erb2)\n* Chemistry and CBC parameters: serum creatinine less than or equal to 1.4mg/dl. SGOT and SGPT less than or equal to 3 times of the upper limits of normal; total bilirubin, of less than or equal to 2 times the upper limits of normal or 3.0 mg/dl in patients with Gilbert s syndrome; platelet count must be greater than 100,00.\n* ECOG Performance score of 0 or 1.\n* Ability to provide informed consent.\n* Negative serum pregnancy test (within 48 hours of imaging agent injection) in women of child bearing age and willingness to use contraception (barrier, abstinence, non-hormonal) for 3 weeks after injection of (111)Indium trastuzumab if participant is of child bearing age.\n\nEXCLUSION CRITERIA:\n\n* Known allergy to trastuzumab.\n* Pregnant or lactating women.\n* Participants for whom enrollment would significantly delay (greater than 2 weeks) the scheduled standard of care therapy.\n* Participants with an active second malignancy (excluding treated basal cell skin carcinoma).\n* History of cardiac disease (myocardial infarction, arrhythmias requiring therapy, symptomatic valvular disease, cardiomyopathy, or pericarditis).\n* Participants with any coexisting medical or psychiatric condition that is likely to interfere with study procedures and/or results.\n* Participants with severe claustrophobia.\n* A participant who needs a nuclear medicine scan other than a PET scan as part of their work-up cannot enroll until these scans have been completed.\n* Gamma-camera table restrictions preclude scanning participants greater than 350 lbs (160 Kg)\n* With the exception of AT13387 and PU-H71, and Ad5f35HER2ECTM transduced autologous dendritic cell vaccine participants cannot have received another experimental drug within 14 days prior to or during study enrollment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

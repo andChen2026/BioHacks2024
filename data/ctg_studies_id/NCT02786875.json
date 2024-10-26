@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02786875",
+    "briefTitle": "Diet, Exercise and Vitamin D in Breast Cancer Recurrence",
+    "officialTitle": "The Effect of the Combination of Low Glycemic Index Diet, Exercise and Vitamin D on Breast Cancer Recurrence: DEDiCa Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 506,
+    "primaryOutcomeMeasure": "Recurrence of disease at study end",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women with primary diagnosis of histologically confirmed breast cancer (T1 with Ki67\u226530%, T2, T3 without metastasis) within 12 months from diagnosis.\n2. Age \u2265 30 and \\< 75 years.\n3. Patients who are able to comprehend and are willing to sign the consent form and are able to adhere to the protocol including scheduled clinic visits and assigned treatment.\n\nExclusion Criteria:\n\n1. Patients who do not possess the inclusion criteria for this study.\n2. Patients with sarcoidosis or other granulomatous diseases or with hypercalcemia (Ca\\>11mg/dL).\n3. Patients with any previous or current concomitant other malignant cancer.\n4. Pregnant or lactating women.\n5. Patients with AIDS diagnosis\n6. Patients with severe renal insufficiency\n7. Patients with kidney stones (nephrocalcinosis or nephrolithiasis)\n8. Patients participating in other lifestyle clinical trials",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

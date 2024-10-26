@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01045304",
+    "briefTitle": "Study of SAR240550 (BSI-201) in Combination With Gemcitabine/Carboplatin, in Patients With Metastatic Triple Negative Breast Cancer",
+    "officialTitle": "Multicenter, Randomized, Open Label Study Evaluating a Poly(ADP-ribose) Polymerase-1(PARP-1) Inhibitor, SAR240550 (BSI-201), Administered Twice Weekly or Weekly, in Combination With Gemcitabine/Carboplatin, in Patients With Metastatic Triple Negative Breast Cancer (mTNBC)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Metastatic",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 163,
+    "primaryOutcomeMeasure": "Overall response rate (ORR)",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Histologically documented breast cancer (either primary or metastatic site) that is ER (estrogen receptor)-negative, PgR (progesterone receptor)-negative ( \\<10% tumor staining by immunohistochemistry \\[IHC\\]) and HER2 (human epidermal growth factor 2) non-overexpressing by IHC (0,1+) or, IHC 2+ and FISH (fluorescence In situ hybridization) negative.\n* Metastatic breast cancer with measurable disease by the revised guideline for Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST 1.1 criteria);\n* Prior treatment that includes:\n\n  * never having received anticancer therapy for metastatic disease OR\n  * having received 1 or 2 prior chemotherapy regimens in the metastatic setting (prior neo-adjuvant/adjuvant systemic therapy is considered as a prior chemotherapy if the first relapse occurred less than one year after the last treatment administration).\n\nExclusion criteria:\n\n* Prior treatment with gemcitabine, carboplatin, cisplatin or any PARP inhibitor;\n* Bone metastasis as only disease location (except for bone metastasis with measurable soft tissue component);\n* Major medical conditions that might affect study participation e.g., uncontrolled pulmonary, renal, or hepatic dysfunction, uncontrolled infection, cardiac disease.\n\nThe above information is not intended to contain all considerations relevant to a patient's potential participation in a clinical trial.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03986268",
+    "briefTitle": "Vitamin D Can Increase Pathological Response of the Breast Cancer Patients Treated With Neoadjuvant Therapy",
+    "officialTitle": "The Effect of Vitamin D Replacement Therapy on Pathological Response in Breast Cancer Patients Treated With Neoadjuvant Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Vitamin D Deficiency, Chemotherapy Effect, Pathology",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 64,
+    "primaryOutcomeMeasure": "pathological complete response (PCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Invasive breast cancer is confirmed by biopsy\n* enough organ function,\n* metabolically normal,\n* eligible for neoadjuvant treatment\n* The patients who were informed about the prerequisites with their consent\n\nExclusion Criteria:\n\n* having metastatic disease\n* having not operated from breast cancer after neoadjuvant treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05093023",
+    "briefTitle": "ABCB1 SNPs as Predictors of PIPN",
+    "officialTitle": "ABCB1 Single Nucleotide Polymorphism Genotypes as Predictors of Paclitaxel-Induced Peripheral Neuropathy in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Paclitaxel Adverse Reaction, Neuropathy;Peripheral, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 92,
+    "primaryOutcomeMeasure": "Grade 2 or higher peripheral neuropathy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Egyptian females \u226518 years of age.\n2. Histologically confirmed Breast Cancer.\n3. Receiving conventional neoadjuvant or adjuvant weekly paclitaxel.\n4. Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\n5. Adequate organ reserves ((serum creatinine \u22641.5x upper normal limit (UNL), total bilirubin \u22641.5x UNL, absolute neutrophil count \u22651.5 x 10\\^9/L, platelet count \u2265100 x 10\\^9/L, AST and ALT \u22643.0x UNL, and alkaline phosphatase \u22643.0x UNL).\n6. No major neurological disease or symptoms prior to the start of paclitaxel therapy.\n7. neither subjective nor objective evidence of metastatic disease.\n\nExclusion Criteria:\n\n1. Pregnancy.\n2. Patients with recurrent or metastatic (local or distant) breast cancer.\n3. Neuropathic at the time of recruitment.\n4. History of neuropathy prior to recruitment.\n5. Previously exposed to taxanes or any other microtubule Inhibitors, or regimens including platinates.\n6. Patients currently receiving dose-dense biweekly taxane-containing regimens.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

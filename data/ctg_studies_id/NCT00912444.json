@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00912444",
+    "briefTitle": "Neoadjuvant Treatment of Docetaxel, Anthracycline and Cyclophosphamide (TAC) Versus Docetaxel and Cyclophosphamide (TC) in Triple-Negative or Her2 Positive Breast Cancer",
+    "officialTitle": "A Multi-Center, Randomized Study of Docetaxel, Anthracycline and Cyclophosphamide (TAC) Versus Docetaxel and Cyclophosphamide (TC) in Neoadjuvant Treatment of Triple-Negative or Her2 Positive Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 102,
+    "primaryOutcomeMeasure": "pathological complete remission (pCR) rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged \u2265 18 years and \\< 70 years\n* Karnofsky performance status (KPS) \u2265 70\n* At least one measurable disease according to the RECIST. histologically confirmed invasive breast cancer (excluding inflammatory breast cancer), T2N1 or locally advanced breast cancer (T3-4N0-3 or T0-4N2-3)\n* Biopsy specimens are available for ER, PgR and Her2 detection, patients should be with triple negative or Her2 positive breast cancer, Her2 positivity is defined as FISH/CISH Her2 positive or IHC Her2 3+, Triple-negative disease defined as negativity for ER, PgR and Her2\n* Adequate bone marrow function: Neutrophil \u2265 1.5\\*109/L; Hb \u2265 100g/L; PLT \u2265 100\\*109/L\n* An estimated life expectancy of at least 12 months\n* Willing to take biopsy before neoadjuvant chemotherapy and patients must be accessible for treatment and follow-up\n* Women with potential child-bearing must have a negative pregnancy test (urine or serum) within 7 days of drug administration and agree to use an acceptable method of birth control to avoid pregnancy for the duration of the study\n* Written informed consent according to the GCP\n\nExclusion Criteria:\n\n* Prior systemic or loco-regional treatment of breast cancer, including chemotherapy\n* Metastatic breast cancer\n* With a history of malignant tumor except uterine cervix cancer in situ or skin basal cell carcinoma\n* Patients with medical conditions that indicate intolerant to neoadjuvant therapy and related treatment, including uncontrolled pulmonary disease, diabetes mellitis, severe infection, active peptic ulcer, coagulation disorder, connective tissue disease or myelo-suppressive disease\n* inadequate liver function (bilirubin \\> 1.0 times upper normal limit \\[UNL\\] and ALT and/or AST\\> 1.5 UNL associated with alkaline phosphatase \\> 2.5 UNL; inadequate renal function (creatinine \\> 1.0 times UNL and in case of limit value, Creatinine clearance \\< 60 ml/min)\n* Contraindication for using dexamethasone\n* History of congestive heart failure, uncontrolled or symptomatic angina pectoris, arrhythmia or myocardial infarction; poorly controlled hypertension (systolic BP \\> 180 mmHg or diastolic BP \\> 100 mmHg)\n* Has peripheral neuropathy \u2265 grade 1\n* Patient is pregnant or breast feeding\n* Known severe hypersensitivity to any drugs in this study\n* Treatment with any investigational drugs within 30 days before the beginning of study treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04086875",
+    "briefTitle": "A Text-based Intervention in Improving Adherence to Hormone Therapy in Patients With Stage I-III Hormone Receptor Positive Breast Cancer",
+    "officialTitle": "A Mobile TXT-Based Intervention to Improve Adherence to Adjuvant Hormone Therapy and Symptom Management for BCa Survivors",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Anatomic Stage I Breast Cancer AJCC v8, Anatomic Stage IIA Breast Cancer AJCC v8, Anatomic Stage IA Breast Cancer AJCC v8, Anatomic Stage II Breast Cancer AJCC v8, Anatomic Stage III Breast Cancer AJCC v8, Anatomic Stage IIIA Breast Cancer AJCC v8, Anatomic Stage IIB Breast Cancer AJCC v8, Anatomic Stage IIIB Breast Cancer AJCC v8, Anatomic Stage IIIC Breast Cancer AJCC v8, Estrogen Receptor Positive Tumor, Progesterone Receptor Positive Tumor, Prognostic Stage I Breast Cancer AJCC v8, Prognostic Stage IA Breast Cancer AJCC v8, Prognostic Stage IB Breast Cancer AJCC v8, Prognostic Stage II Breast Cancer AJCC v8, Prognostic Stage IIA Breast Cancer AJCC v8, Prognostic Stage IIB Breast Cancer AJCC v8, Prognostic Stage III Breast Cancer AJCC v8, Prognostic Stage IIIA Breast Cancer AJCC v8, Prognostic Stage IIIB Breast Cancer AJCC v8, Prognostic Stage IIIC Breast Cancer AJCC v8",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 332,
+    "primaryOutcomeMeasure": "Adjuvant hormone therapy (AHT) adherence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Woman diagnosed with stage I-III breast cancer (BCa).\n* Hormone receptor positive tumor.\n* Completed local definitive treatment (i.e., surgery chemotherapy, radiation).\n* Within 3 month of initiation of a new adjuvant hormonal therapy (AHT) regimen.\n* At least 12 months of AHT recommended.\n* Able to read and understand English.\n* Able to provide informed consent.\n* Have a mobile device with text (TXT) capability.\n* Know or willing to learn how to use TXT.\n\nExclusion Criteria:\n\n\u2022 Cognitive impairment documented in the electronic medical record (EMR), biological variables (sex).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

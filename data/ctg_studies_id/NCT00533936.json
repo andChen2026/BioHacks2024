@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00533936",
+    "briefTitle": "Trastuzumab or Observation After Combination Chemotherapy and Trastuzumab in Treating Patients Undergoing Surgery for Stage II or Stage III Breast Cancer",
+    "officialTitle": "Adjuvant Trastuzumab vs Observation in Locally Advanced Breast Cancer Treated With Neoadjuvant Trastuzumab",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 160,
+    "primaryOutcomeMeasure": "Percentage of pathological responses",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive breast cancer by needle biopsy\n\n  * Diagnosed within the past 4 weeks\n  * Clinical stage IIB, IIIA, IIIB, or IIIC disease\n* Palpable adenopathies present\n* HER2/neu-positive disease, as evidenced by either of the following:\n\n  * HER2/neu overexpression (3+) by immunohistochemistry (IHC)\n  * HER2/neu amplification by fluorescence in situ hybridization (FISH)\n* No metastatic disease by chest radiography, hepatic ultrasound, and bone scan (metastatic bone series if no nuclear medicine is available)\n* Hormone receptor status:\n\n  * Estrogen receptor and/or progesterone receptor status known\n\nPATIENT CHARACTERISTICS:\n\n* Premenopausal or postmenopausal\n* WHO performance status 0-2\n* Not pregnant or nursing\n* Normal hepatic, renal, and hematological function\n* LVEF \u2265 55% by nuclear medicine study or echocardiogram\n* No prior history of cancer, except carcinoma in situ of the cervix\n* No allergic reaction or hypersensitivity to paclitaxel and/or trastuzumab (Herceptin\u00ae)\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior cancer therapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

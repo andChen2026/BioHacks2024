@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00509769",
+    "briefTitle": "A Study of Trastuzumab Emtansine (Trastuzumab-MCC-DM1) Administered Intravenously to Patients With Human Epidermal Growth Factor Receptor 2 (HER2)-Positive Metastatic Breast Cancer",
+    "officialTitle": "A Phase II, Single-arm, Open-label Study of Trastuzumab-MCC-DM1 Administered Intravenously to Patients With HER2-Positive Metastatic Breast Cancer Who Have Progressed While Receiving HER2-Directed Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 112,
+    "primaryOutcomeMeasure": "Objective Response Assessed by the Independent Review Facility Using Response Evaluation Criteria in Solid Tumors (RECIST)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent form.\n* Human epidermal growth factor receptor 2 (HER2)-positive metastatic breast cancer (MBC); tissue (slides or blocks) available for HER2 confirmation.\n* History of progression on HER2-directed therapy for the treatment of HER2-positive breast cancer.\n* At least 1, and no more than 3, chemotherapy regimens for MBC.\n* Granulocyte count \u2265 1500/\u03bcL, platelet count \u2265 100,000/\u03bcL, and hemoglobin \u2265 9 g/dL.\n* Serum bilirubin \u2264 1.5 mg/dL, aspartate aminotransferase (AST), alanine aminotransferase (ALT), and alkaline phosphatase \u2264 2.5x the upper limit of normal (ULN).\n* Serum creatinine \u2264 1.5 mg/dL or creatinine clearance \u2265 60 mL/min.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2.\n\nExclusion Criteria:\n\n* Any chemotherapy, hormonal therapy, radiotherapy, immunotherapy, or biological therapy for the treatment of breast cancer within 2 weeks of the first study treatment.\n* Prior cumulative doxorubicin dose \\> 360 mg/m\\^2 or the equivalent.\n* History of significant cardiac disease, unstable angina, congestive heart failure (CHF), myocardial infarction, or ventricular arrythmia requiring medication.",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

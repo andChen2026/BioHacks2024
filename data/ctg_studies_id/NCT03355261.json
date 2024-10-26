@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03355261",
+    "briefTitle": "Positive Node Traced Before Neoadjuvant Chemotherapy (NAC)",
+    "officialTitle": "Long-term Tracing for Axillary Lymph Nodes Dissection in the Patients With Fusion Lymph Node Before Neo-adjuvant Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 110,
+    "primaryOutcomeMeasure": "The spatial distribution of positive nodes in axillary after neoadjuvant chemotherapy based on pectoralis minor location",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* invasive ductal carcinoma diagnosed by biopsy;\n* clinically positive node diagnosed by contrast enhance computer tomography (CECT), the number of strengthened nodes at Level I \u2265 1 with the longest diameter of the strengthened node \u2265 2cm;\n* NAC regimen followed the NCCN guideline;\n* no prior history of breast cancer or other malignancies.\n\nExclusion Criteria:\n\n* the cycle number of neo-adjuvant chemotherapy is equal to or less than 2",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

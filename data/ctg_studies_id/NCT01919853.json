@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01919853",
+    "briefTitle": "Treatment for Persistently Fatigued Cancer Survivors: A Randomized Controlled Trial With Biomarker Response",
+    "officialTitle": "Treatment for Breast and Colorectal Cancer Survivors With Persistent Cancer-Related Fatigue: A Randomized Controlled Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Fatigue",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 107,
+    "primaryOutcomeMeasure": "Change in cancer-related fatigue functional interference",
+    "eligibilityCriteria": "Inclusion Criteria for breast cancer participants:\n\n* be age 18 or older\n* live in the Indianapolis region\n* have an established first-time diagnosis of non-metastatic (stages 0-III) breast cancer treated with chemotherapy and/or radiation therapy\n* be in good general health (self-report)\n* have clinically-significant CRF (Fatigue Symptom Inventory \\[FSI severity composite \u2265 4\\]) that has persisted for the previous 8 weeks or longer.\n\nInclusion Criteria for colorectal cancer participants:\n\n* be age 18 or older\n* live in the Indianapolis region\n* have an established diagnosis of colorectal cancer (any stage)\n* in treatment currently or previously with chemotherapy and/or radiation therapy\n* have clinically-significant CRF (Fatigue Symptom Inventory \\[FSI severity composite \u2265 4) that has persisted for the previous 8 weeks or longer.\n\nExclusion Criteria for breast cancer participants:\n\n* cancer treatment (chemotherapy, biologic response modifiers, radiation therapy, or surgery) in prior 3 months or \\> 5 years ago (endocrine therapy for breast cancer is allowed)\n* enrollment in hospice care\n* severe depression (PHQ-8 \u2265 20)\n* past participation in a mindfulness meditation class and/or having an established/ongoing meditation practice\n\nExclusion Criteria for colorectal cancer participants:\n\n* enrollment in hospice care\n* severe depression (PHQ-8 \u2265 20)\n* past participation in a mindfulness meditation class and/or having an established/ongoing meditation practice\n\nA non-fatigued group of post-treatment BCS will also be enrolled in order to compare baseline levels of all biomarkers and all self-reported psychosocial measures between fatigued and non-fatigued BCS.\n\nInclusion criteria for non-fatigued BCS participants\n\n* being age 18 or older\n* having an established first-time diagnosis of non-metastatic (stage 0-III) breast cancer\n* being in good general health (self-reported)\n* having FSI severity composite scores of \u2264 2\n\nExclusion criteria for non-fatigued BCS participants\n\n* cancer treatment (chemotherapy, biologic response modifiers, radiation therapy, or surgery) in prior 3 months or \\> 5 years ago (endocrine therapy for breast cancer is allowed)\n* enrollment in hospice care\n* severe depression (PHQ-8 \u2265 20)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

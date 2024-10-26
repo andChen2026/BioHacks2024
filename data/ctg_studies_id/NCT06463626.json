@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06463626",
+    "briefTitle": "Real-life Treatment Patterns With Cyclin-dependent Kinase Inhibitors in Advanced Breast Cancer in Portugal - REVEAL Study",
+    "officialTitle": "REal-world Patterns of Treatment With CDKi 4/6 for AdVanced BrEast CAncer in PortugaL - REVEAL Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Hormone-receptor-positive Breast Cancer, Human Epidermal Growth Factor 2 Negative Carcinoma of Breast",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 121,
+    "primaryOutcomeMeasure": "Mean Age",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female.\n* Aged 18 years or older at the time of starting therapy with CDKi 4/6.\n* Breast cancer diagnosis.\n* At least one record of ribociclib or palbociclib donation during the identification period.\n* Registration of the first supply of ribociclib or palbociclib between 1 March 2019 and 31 December 2019.\n\nExclusion Criteria:\n\n* Patients with missing information regarding their date of birth and the date or quantity of the drug dispensed in any assignment were excluded.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

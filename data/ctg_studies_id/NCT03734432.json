@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03734432",
+    "briefTitle": "IGAR-Breast TeleOp Trial",
+    "officialTitle": "IGAR-Breast Teleoperative Clinical Investigation",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DEVICE_FEASIBILITY",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "ability for IGAR-Breast to perform breast biopsies teleoperatively",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female subjects aged \u2265 18 years who require MRI-guided breast biopsy for diagnosis and/or staging Subjects are able to tolerate procedures for the MRI\n\nExclusion Criteria:\n\n* Subjects who refuse or are unable to give free and informed consent Subjects requiring more than one breast biopsy Subjects with breast implants or other foreign bodies Subjects for whom investigator determines IGAR-Breast enabled MRI-guided breast biopsy is not possible (size of subject, location of lesion, size of breast, etc.) Subjects who are pregnant or who plan to become pregnant during the course of the study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

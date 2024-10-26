@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00574678",
+    "briefTitle": "Analyzing the Composition of Tears to Identify Cancer",
+    "officialTitle": "ACT: Analyzing the Composition of Tears to Identify Cancer (Breast, Ovarian, Colon)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Ovarian Cancer, Colon Cancer, Benign Disease",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "This study will further evaluate the use of tumor markers (substances in body fluids that may be elevated as a consequence of certain diseases or conditions) in the diagnosis of breast and/or other cancers.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female or male, 18-100 years old\n* Patients who present for a routine check-up\n* Patients who present for the evaluation of an abnormal exam or test (mammogram, ultrasound, MRI, PET, etc.)\n* May or may not have a mass present\n* Patients who present for the evaluation of a palpable lump or mass\n* Patients may be pre or post biopsy for a mass, as long as there is a portion of the mass remaining\n\nExclusion Criteria:\n\n* Patient \\< 18 y/o or \\> 100 y/o\n* Concurrent eye infection or trauma\n* Active conjunctivitis\n* Abnormal production of tears (too much or too little)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03096847",
+    "briefTitle": "Study for Women and Men With Hormone-receptor Positive Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "A National Phase IIIb, Multi-center, Open Label Study for Women and Men With Hormone-receptor Positive, HER-2 Negative Locally Advanced or Metastatic Breast Cancer Treated With Ribociclib (LEE011) in Combination With Letrozole",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 502,
+    "primaryOutcomeMeasure": "Clinical Benefit Rate (CBR) in Women and Men With Hormone Receptor Positiv, HER-2 Negative Breast Cancer Treated With Ribocilib and Letrozole",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient is an adult, \u2265 18 years old at the time of informed consent and has signed informed consent before any trial related activities and according to local guidelines\n* Women and men with advanced (locoregionally recurrent or metastatic) breast cancer not amenable to curative therapy.\n* Patient has a histologically and/or cytologically confirmed diagnosis of estrogen-receptor positive and/or progesterone receptor positive and HER2-negative breast cancer by local laboratory. Local pathology is sufficient for assessment.\n* Patient must have either:\n\n  1. Measurable disease, i.e., at least one measurable lesion as per RECIST 1.1 criteria ).\n  2. Bone lesions: lytic or mixed (lytic + sclerotic) in the absence of measurable disease\n  3. Non-measurable disease\n* Patient has an Eastern Cooperative Oncology Group (ECOG) performance status \u22642\n\nExclusion Criteria\n\n* Patient who received any CDK4/6 inhibitor or any mTOR inhibitor.\n* Patient has a known hypersensitivity to any of the excipients of ribociclib or letrozole\n* Patients with current inflammatory breast cancer.\n* Patient has received \\> 1 chemotherapy for the treatment of advanced/metastatic breast cancer\n* Patient has received \\> 2 endocrine therapies for the treatment of advanced/metastatic breast cancer\n* Patient has central nervous system (CNS) involvement. If patient is fulfilling the following 3 criteria she/he is eligible for the trial.\n\n  1. completed prior therapy (including radiation and/or surgery) for CNS metastases \u2265 28 days prior to the start of study and\n  2. CNS tumor is clinically stable at the time of screening and\n  3. Patient is not receiving steroids and enzyme inducing anti-epileptic medications for brain metastases\n* Patient has active cardiac disease or a history of cardiac dysfunction",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

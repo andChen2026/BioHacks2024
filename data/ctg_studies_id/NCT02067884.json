@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02067884",
+    "briefTitle": "Contrast Enhanced Ultrasound and Shear Wave Elastography in Measuring Response in Patients With Breast Cancer Receiving Chemotherapy Before Surgery",
+    "officialTitle": "Real Time Contrast Enhanced Ultrasound and Ultrasound-Based Elastography: Novel Techniques in Assessment of Treatment Response to Neoadjuvant Chemotherapy for Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 34,
+    "primaryOutcomeMeasure": "Model predicted treatment response for CEUS and SWE",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with histologically confirmed breast cancer (by core needle biopsy)\n* Women with \\>= 2 cm clinically or radiologically measureable breast cancer\n* Women scheduled to receive neoadjuvant chemotherapy as part of their treatment plan\n* Women competent to sign study specific written Informed Consent\n* Women willing to comply with protocol requirements\n\nExclusion Criteria:\n\n* Women who are pregnant\n* Women who have undergone open surgical (excisional) biopsy for breast cancer diagnosis\n* Women who have had a prior history of breast cancer in the same breast\n* Women with known cardiac shunt, pulmonary hypertension or hypersensitivity to perflutren agent\n* Women who cannot consent for themselves",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

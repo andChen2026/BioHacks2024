@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03708978",
+    "briefTitle": "Development of Artificial Intelligence System for Detection and Diagnosis of Breast Lesion Using Mammography",
+    "officialTitle": "Development of Artificial Intelligence System for Detection and Diagnosis of Breast Lesion Using Mammography",
+    "overallStatus": "COMPLETED",
+    "conditions": "Women With Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 5809,
+    "primaryOutcomeMeasure": "benign-malignant diagnosis accuracy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* the X-ray images of the breast were complete\n* the results of pathological diagnosis or more than 2 years of mammography follow-up were available\n* subject signs informed consent(this item was only for prospective study cases)\n\nExclusion Criteria:\n\n* there exists pathological diagnosis of breast lesions when receiving mammography\n* there lacks pathological diagnosis or 2 years of mammography follow-up\n* subject withdraws(this item was only for prospective study cases)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

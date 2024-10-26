@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00117663",
+    "briefTitle": "Radiologic Evaluation and Breast Density (READ)",
+    "officialTitle": "A Population-Based Randomized Trial to Assess the Effects of Short-Term Cessation of Hormone Replacement Therapy (HRT) on Mammography Assessments and Breast Density",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1704,
+    "primaryOutcomeMeasure": "Mammogram Recall for Additional Imaging",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 1 or more prior screening mammograms at Group Health Cooperative within the past 2 years\n* Currently taking HRT\n* Taking HRT at prior screening mammogram\n* Due for a screening mammogram\n\nExclusion Criteria:\n\n* BI-RADS breast density of 1 (entirely fat)\n* Previous cardiovascular events (heart surgery, catheterization, stent bypass, angioplasty, stroke, DVT)\n* Previous breast cancer\n* History of breast implants\n* Breast reduction since last mammogram\n* Mastectomy\n* History of using Tamoxifen or Raloxifene\n* Declined contact or use of data for research",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

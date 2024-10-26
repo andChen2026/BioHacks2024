@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00313248",
+    "briefTitle": "Evaluation of a New Agent for Treatment of Advanced Stage Breast Cancer",
+    "officialTitle": "Phase 2 Study to Investigate the Efficacy and Safety of ZK-Epothilone (ZK-Epo; ZK 219477) in Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 65,
+    "primaryOutcomeMeasure": "Response to treatment with ZK-Epo after 6 cycles",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Metastatic breast cancer (meaning the cancer has spread beyond its original location)\n* At least one measurable lesion by CT or MRI\n* Progression of disease following previous therapy for breast cancer\n* Have received previous treatment with anthracyclines (e.g. doxorubicin\\[Adriamycin or Doxil\\] or epirubicin \\[Ellence\\]), taxanes (paclitaxel \\[Taxol or Abraxane\\] or docetaxel \\[taxotere\\]) for your breast cancer\n* Not be pregnant\n* Additional criteria to be determined at screening visit.\n\nExclusion Criteria:\n\n* More than 3 previous chemotherapy regimens\n* More than one treatment with non cytotoxic agents for breast cancer therapy (e.g. herceptin \\[trastuzumab\\] or Avastin \\[bevacizumab)\n* Prior treatment with epothilones (e.g. Ixabepilone)\n* Symptomatic brain metastases\n* Additional criteria to be determined at screening visit",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

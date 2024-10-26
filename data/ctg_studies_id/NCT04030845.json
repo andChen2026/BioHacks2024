@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04030845",
+    "briefTitle": "Patient Report Outcome-Reconstruction and Oncoplastic Cohort",
+    "officialTitle": "Chinese Multicenter Prospective Registry of Breast Cancer Patient Reported Outcome -Reconstruction and Oncoplastic Cohort",
+    "overallStatus": "RECRUITING",
+    "conditions": "Patient Reported Outcome Measures, Breast Reconstruction, Oncoplastic Breast-conserving Surgery, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 10000,
+    "primaryOutcomeMeasure": "Change from baseline in BREAST-Q score",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Breast cancer patients;\n2. Adult (\\>18 years old);\n3. Female;\n4. Must undergo breast reconstruction or oncoplastic breast-conserving surgery;\n\nExclusion Criteria:\n\n1. Younger (\\<18 years old);\n2. Male;\n3. Stage IV breast cancer patients;\n4. Refuse to undergo breast reconstruction or oncoplastic breast-conserving surgery.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

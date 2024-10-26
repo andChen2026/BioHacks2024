@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01104935",
+    "briefTitle": "National Surgical Adjuvant Study of Breast Cancer(N-SAS BC) 07 [RESPECT]",
+    "officialTitle": "Evaluation of Trastuzumab Without Chemotherapy as a Postoperative Adjuvant Therapy in HER2 Positive Elderly Breast Cancer Patients: Randomized Controlled Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 275,
+    "primaryOutcomeMeasure": "Disease free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histologically diagnosed as invasive breast cancer and received curative operation for primary breast cancer.\n2. Stage: 1 (tumor size \\[pT\\] \\> 0.5 cm), 2A, 2B or 3A/ M0\n3. Female between 70 and 80 years old\n4. Primary region is HER 2 positive: either 3+ overexpression by IHC or positive by FISH\n5. Baseline left ventricular ejection fraction (LVEF) is \u226555% measured by echocardiography or MUGA scan within 4 weeks before registration.\n6. PS: 0-1 (ECOG)\n7. Sufficient organ function meeting following criteria within 4 weeks before registration:\n\n   * Leukocyte \u22652500 mm3\n   * Neutrophil \u22651500 mm3\n   * Platelet \u2265100 000 mm3\n   * Serum total bilirubin \u22642.0 x upper limit of normal (ULN)\n   * ALT (GPT) or AST (GOT) \u22642.5 x ULN\n   * Serum creatinine \u22642.0 x ULN\n   * ALP \u22642.5 x ULN\n8. No previous endocrine therapy or chemotherapy for breast cancer\n9. Signed written informed consent\n\nExclusion Criteria:\n\n1. Active multiple primary cancer (synchronous multiple primary cancer and invasive cancer of other organs)\n2. Postoperative histological axillary lymph node metastasis \u22654\n3. Axillary lymph node is not histologically evaluated\n4. Histologically confirmed positive margin in breast conservation surgery (evaluation of margin status is based on policy of site)\n5. History of drug-related allergy which could hinder planned treatment\n6. Any history or complication of following cardiac disorders\n\n   * History of congestive heart failure, cardiac infarction\n   * Complication requires treatment such as: ischemic cardiac disorder, arrhythmia, valvular heart disease\n7. Poorly controlled hypertension (ex. Systolic arterial pressure \u2265180 mmHg or diastolic blood pressure \u2265100 mmHg)\n8. Poorly controlled diabetes\n9. Continuous visit to a medial institution is considered difficult due to deterioration of activity of daily living (ADL)\n10. Difficult to participate in the trial because of psychiatric disorder or psychiatric symptoms\n11. Ineligible to the trial based on decision of an investigator",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

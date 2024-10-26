@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01792726",
+    "briefTitle": "A Comparison of Intra-operative Radiotherapy Boost With External Beam Radiotherapy Boost in Early Breast Cancer.",
+    "officialTitle": "An International Randomised Controlled Trial to Compare Targeted Intra-operative Radiotherapy Boost With Conventional External Beam Radiotherapy Boost After Lumpectomy for Breast Cancer in Women With a High Risk of Local Recurrence.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Early Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1796,
+    "primaryOutcomeMeasure": "Local tumour control (defined as no recurrent tumour in the ipsilateral breast).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nAt least one of these criteria must be satisfied:\n\n1. Less than 46 years of age\n2. More than 45 years of age, but with one of the following poor prognostic factors:\n\n   1. lymphovascular invasion\n   2. gross nodal involvement (not micrometastasis)\n   3. more than one tumour in the breast but still suitable for breast conserving surgery through a single specimen\n3. More than 45 years of age, but with at least two of the following poor prognostic factors\n\n   1. ER and/or PgR negative\n   2. Grade 3 histology\n   3. Positive margins at first excision\n4. Those patients with large tumours which have responded to neo-adjuvant chemo- or hormone therapy in an attempt to shrink the tumour and are suitable for breast conserving surgery as a result.\n5. Lobular carcinoma or Extensive Intraductal Component (EIC)\n6. A list (one to many) of high risk factors are present (as predefined in the policy document) that give a high risk of local recurrence.\n7. Patients with either HER2 positive or HER2 negative can be included.\n\nExclusion Criteria:\n\n1. Bilateral breast cancer at the time of diagnosis.\n2. Patients with any severe concomitant disease that may limit their life expectancy\n3. Previous history of malignant disease does not preclude entry if the expectation of relapse-free survival at 10 years is 90% or greater (e.g., non-melanoma skin cancer, CIN, etc).\n4. No more than 30 days can have elapsed between last breast cancer surgery (not axillary) and randomisation for patients in the post-pathology stratification unless part of a specific clinical trial that addresses the question of timing or tumour bed can be reliably identified, e.g., by ultrasound.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

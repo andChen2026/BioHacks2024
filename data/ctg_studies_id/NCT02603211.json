@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02603211",
+    "briefTitle": "Tactile Breast Imaging Sensor for Tumor Malignancy Characterization",
+    "officialTitle": "Tactile Breast Imaging Sensor for Tumor Malignancy Characterization",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Size Error in Millimeters",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women who had mammogram and/or ultrasound birads (category IV or V)\n* Women ages between 30 and 80.\n* Women who have been scheduled for biopsy from the Temple breast surgery clinic\n* Women who have been scheduled for biopsy by Dr. Kathleen Reilly.\n* Women, who speak and understand English.\n\nExclusion Criteria:\n\n* Women who do not meet the criteria requiring biopsy.\n* Women who have allergic reaction to silicone.\n* Women who cannot speak or understand English.\n* Women who are pregnant.\n* Women, younger than 30 years old, and older than 80 years old.",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

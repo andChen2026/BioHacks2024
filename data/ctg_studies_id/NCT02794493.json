@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02794493",
+    "briefTitle": "Treatment of Hand and Foot Syndrome With Traditional Chinese Medicine Formula LC09 in Patients Who Are Receiving Capecitabine for Colorectal and/or Breast Cancer",
+    "officialTitle": "A Phase III Randomized, Placebo-controlled, Double-blind Trial to Determine the Effectiveness of Traditional Chinese Medicine Formula LC09 for Treatment of Capecitabine-Induced Hand and Foot Syndrome",
+    "overallStatus": "COMPLETED",
+    "conditions": "Hand Foot Syndrome",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 156,
+    "primaryOutcomeMeasure": "Grade of hand foot syndrome over time as measured by NCI CTCAE version 4.03 PPE syndrome criteria",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nSubjects must meet the following criteria to be eligible for the study:\n\n1. Histologically confirmed colorectal cancer or breast cancer, of which colorecta cancer is advanced or undergoing adjuvant therapy after radical resection and breast cancer is at the stage of recurrence or metastasis;\n2. Level 1 or above HFS after receiving capecitabine as part of routine standard care;\n3. Plan to receive capecitabine as part of routine more than 2 weeks;\n4. ECOG performance status 0-2;\n5. Life expectancy greater than or equal to 3 months;\n6. No serious heart, liver, kidney and other important viscera dysfunction, as defined below:\n\n   * absolute neutrophil count greater than or equal to 1.5 x 10(9)/L\n   * platelet count greater than or equal to 100 x 10(9)/L\n   * hemoglobin greater than or equal to 9.0 g/dL\n   * total bilirubin less than or equal to 1.5 times the ULN\n   * AST/SGOT and ALT/SGPT less than or equal to 2.5 times the ULN (or less than or equal to 5 times the ULN if liver function abnormalities due to underlying malignancy)\n   * creatinine less than or equal to 1.5 times the ULN\n   * creatinine clearance greater than or equal to 60 ml/min (by Cockcroft-Gault)\n7. Ability to cooperate with HFS grade evaluation, understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\nSubjects meeting any of the following criteria are ineligible for study entry:\n\n1. Concurrent with level 1 or above peripheral neuropathy (such as diabetic neuropathy or chemotherapy induced peripheral neuropathy);\n2. Other acute or chronic inflammatory conditions or infections of the hands or feet that would complicate safety, application of topical creams, or study endpoints;\n3. Currently taking other treatment for PPE (including topical urea cream, pyridoxine, celecoxib, compound matrine injection and deproteinized calf blood extractive injection);\n4. History of severe or uncontrolled organic disease or infection, such as heart, pulmonary or renal failure that cause the termination of chemotherapy;\n5. Pregnant (positive pregnancy test) or nursing women;\n6. Participating in other clinical trial currently or within 4 weeks.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

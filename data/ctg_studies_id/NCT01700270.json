@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01700270",
+    "briefTitle": "Pharmacokinetic Drug-drug Interaction Study of Dovitinib (TKI258) in Patients With Advanced Solid Tumors.",
+    "officialTitle": "A Phase I, Multi-center, Open-label, Drug-drug Interaction Study to Assess the Effect of the CYP1A2 Inhibitor, Fluvoxamine, on Dovitinib (TKI258) Pharmacokinetics in Patients With Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Solid Tumors, Excluding Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "TKI258 pharmacokinetics (PK) parameters: Cmax (Maximum (peak) concentration of drug)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPatients with a cytopathologically or histopathologically confirmed diagnosis of an advanced solid tumor, excluding breast cancer which has progressed despite standard therapy or for which no standard therapy exists - ECOG performance status 0 or 1 and an anticipated life expectancy of \u22653 months- Patient must meet protocol-specific laboratory values\n\nExclusion Criteria:\n\n- Patients with brain metastases - Patients who have received or who are expected to receive any prohibited medications and therapies - Patients who have received CYP1A2 or CYP3A inhibitor medications within 5 days prior to start study treatment or are expected to receive during the first 28 days after starting the study treatment - Patients who have received CYP1A2 or CYP3A inducer medications within 30 days prior to start study treatment or are expected to receive during the first 28 days after starting the study treatment - Patients who are actively taking antidepressants, benzodiazepines, serotonergic drugs, and/or monoamine oxidase inhibitors (MAOIs) - Patients who have not recovered from previous anti-cancer therapies - Patient with impairment of gastrointestinal (GI) function or GI disease that may significantly alter the absorption of TKI258 - Patients who have concurrent severe and/or uncontrolled concomitant medical conditions that could compromise participation in the study - Female patients who are pregnant or breast-feeding - Fertile males or women not willing to use highly effective methods of contraception - Other protocol-defined inclusion/exclusion criteria will apply",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

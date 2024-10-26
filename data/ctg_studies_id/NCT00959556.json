@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00959556",
+    "briefTitle": "Study of Blood Samples in Patients With Breast Cancer",
+    "officialTitle": "Search for Genetic Factors Predictive of Response to Chemotherapy in Patients With or Who Has a Mammary Adenocarcinoma in Neo-adjuvant or Metastatic Setting",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 900,
+    "primaryOutcomeMeasure": "Histologic complete response (Chevallier and Sataloff) or tumor response (RECIST)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast carcinoma\n* Received first-line chemotherapy (in neoadjuvant or metastatic setting) comprising anthracyclines and/or taxanes, including for a second primary cancer\n* Patient agrees to conservative surgery\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* No contraindication for chemotherapy comprising anthracyclines and/or taxanes\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior adjuvant therapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

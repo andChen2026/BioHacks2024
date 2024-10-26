@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05234021",
+    "briefTitle": "HER2-directed Biosimilar in Breast Cancer: Real World ePRO",
+    "officialTitle": "HER2-directed Biosimilar OgivriTM in Breast Cancer: Real World Observational Trial for the Description of Quality of Life and Outcome Using ePRO (OGIPRO- Trial)",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER2-positive Breast Cancer, Biosimilar, Patient Reported Outcome",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 52,
+    "primaryOutcomeMeasure": "Number of adverse events (AE) according to the Common Terminology Criteria for Adverse Events (CTCAE)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients\n* Patients \u2265 18 years\n* Patients with HER2-positive breast cancer (IHC-FISH/SISH)\n* Undergoing Anti-HER2 treatment during the observational period containing OgivriTM (Trastuzumab) +/- Pertuzumab +/- Chemotherapy\n* Personal smartphone with iOS or Android system. The operating system must be updated to one of the two newest main versions\n\nExclusion Criteria:\n\n* Patients, whose compliance to the studies' protocol, e.g. due to mental health problems, physical problems, or the private life situation, can be justifiably doubted\n* Patients with insufficient knowledge about the use of a smartphone",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

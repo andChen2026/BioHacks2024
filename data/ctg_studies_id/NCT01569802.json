@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01569802",
+    "briefTitle": "A Comparison of Recall Rates Between Conventional 2d Mammography and 2d Plus 3d (Tomosynthesis) Mammography in a Screening Population",
+    "officialTitle": "A Comparison of Recall Rates Between Conventional 2d Mammography and 2d Plus 3d (Tomosynthesis) Mammography in a Screening Population",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 10000,
+    "primaryOutcomeMeasure": "Recall Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subject is female of any race and ethnicity\n* The subject is asymptomatic and presents for routine screening mammography and chooses to have a combination 2D + 3D mammogram as her standard of care.\n\nExclusion Criteria:\n\n* Patient chooses standard 2D mammography over a combination 2D + 3D mammogram",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

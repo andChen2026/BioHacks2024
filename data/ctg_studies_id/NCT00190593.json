@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00190593",
+    "briefTitle": "Raloxifene Use for The Heart",
+    "officialTitle": "Raloxifene Hydrochloride or Placebo in Postmenopausal Women at Risk for Major Coronary Events",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cardiovascular Diseases, Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 10000,
+    "primaryOutcomeMeasure": "Time to first occurrence of coronary death, non-fatal myocardial infarction (MI), or hospitalized acute coronary syndrome other than MI combined after an expected 5 to 7.5 years of follow-up.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Postmenopausal women with established coronary heart disease or at risk for a major coronary event.\n\nExclusion Criteria:\n\n* Postmenopausal symptoms that required estrogen replacement therapy.\n* Suspected or known history of breast or endometrial carcinoma.\n* Known or probable history of deep venous thrombosis, pulmonary embolism, or retinal vein thrombosis.\n* New York Heart Association classes III or IV heart failure.",
+    "sex": "FEMALE",
+    "minimumAge": "55 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

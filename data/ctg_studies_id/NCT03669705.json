@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03669705",
+    "briefTitle": "No Axillary Surgery for Early Breast Cancer.",
+    "officialTitle": "Prospective Cohort Study With no Axillary Surgery for Breast Cancer T</= 10 mm",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Invasive",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1584,
+    "primaryOutcomeMeasure": "Axillary recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Invasive breast cancer, unifocal\n* T=max 10mm\n* Clinical node negative and clinical M0\n* Histological grade 1 or 2\n* Both screening / clinical detected accepted\n* Radical operation = free margins in breast specimen\n* Partial mastectomy and mastectomy accepted\n* Fit to understand inclusion criteria\n\nExclusion Criteria:\n\n* Previous breast cancer diagnosis, including carcinoma in situ\n* Previous ipsilateral axillary dissection\n* Non radical operation = no free margins\n* Multifocal cancer\n* Previous treatment for other cancer.\n* Unable to understand information (informed consent)\n* Bilateral breast cancer at diagnosis",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

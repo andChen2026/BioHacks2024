@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04241237",
+    "briefTitle": "Concordance Between Liquid and Tissue Biopsy",
+    "officialTitle": "Concordance Between Liquid and Tissue Biopsy in Newly Diagnosed Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Concordance between liquid and tissue biopsy in terms of presence or absence of Cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult (\u226518 years of age) diagnosed with primary breast cancer (BC) any subtype ER/PgR+ and HER2, triple negative or HER2+ at least 6 months before suspected metastases were identified\n* Patients must have suspected recurrent metastatic BC that will be confirmed by tissue biopsy that is expected to yield tissue adequate for histologic examination (sampling expected to yield material for cytologic evaluation only does not satisfy this criterion)\n* The suspected metastases must be outside the ipsilateral breast, axilla infra/supraclavicular areas. In those with suspected metastases in contralateral axilla, infra/supraclavicular areas only a new contralateral breast primary must be excluded by physical exam, mammogram and MRI\n\nExclusion Criteria:\n\n* Only locoregional recurrence (ipsilateral breast, axilla, infra/supraclavicular) suspected (see above regarding potential contralateral axillary or infra/supraclavicular metastases as only site of metastasis)\n* Tissue biopsy occurs prior to blood collection for CTCs and ctDNA\n* New treatment for suspected metastases commences prior to blood collection for CTCs and ctDNA\n* Patient has received previous lines of systemic treatment for metastatic BC\n* Previous history of an invasive non-BC apart from cancers treated with curative intent at least 5 years previously with no recurrence since diagnosis, with the exception of a non-melanoma skin cancer\n* Patients unable or unwilling to undergo a tissue biopsy\n* Patients unable to provide informed consent\n* Patients undergoing only cytologic evaluation of suspected metastases",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

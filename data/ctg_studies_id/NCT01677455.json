@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01677455",
+    "briefTitle": "An Open-Label Multicenter Phase 2 Window of Opportunity Study Evaluating Ganetespib in Women With Breast Cancer",
+    "officialTitle": "An Open-Label Multicenter Phase 2 Window of Opportunity Study Evaluating Ganetespib in Women With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, HER-2 Positive Breast Cancer, Triple Negative Breast Cancer, ER/Progressive Response (PR) + Refractory to Prior Hormonal Treatment",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 51,
+    "primaryOutcomeMeasure": "Objective response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathologically confirmed diagnosis of invasive breast cancer.\n* Stage IV disease.\n* Documented HER2 and hormonal receptor status per protocol, ER/PR+ patients must be refractory to at least one prior hormonal treatment.\n* ECOG Performance status 0-1.\n* Measurable disease per RECIST (1.1).\n* Adequate hematological function per protocol.\n* Adequate hepatic function per protocol.\n* Adequate renal function per protocol.\n* Negative serum pregnancy test at study entry for patients of childbearing potential.\n* Ability to understand and sign written consent and to comply with the study protocol.\n\nExclusion Criteria:\n\n* Presence of active or untreated CNS metastases as determined by MRI/CT scan performed during screening.\n* Active malignancies other than MBC within the last 5 years except adequately treated in situ carcinoma of the cervix uteri or basal or squamous cell carcinoma of the skin.\n* Bone as the only site of metastatic disease from breast cancer.\n* Prior radiotherapy to the only area of measurable disease. NOTE: Radiotherapy to a limited area other than the sole site of measurable disease is allowed, if received prior to initiation of ganetespib treatment. Patients must have completed treatment and recovered from all acute treatment-related toxicities prior to administration of first dose of ganetespib.\n* Pregnancy or lactation.\n* Known serious cardiac illness.\n* Uncontrolled intercurrent illness per protocol.\n* Other severe acute or chronic medical condition or abnormality that may increase the risk associated with study participation or study drug administration, or may interfere with the interpretation of study results, or that in the judgment of the investigator would make the patient inappropriate for entry into the study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

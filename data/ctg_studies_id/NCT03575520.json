@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03575520",
+    "briefTitle": "Safety and Efficacy of Pegteograstim in Korean Breast Cancer Patients",
+    "officialTitle": "A Phase II Study to Evaluate the Safety and Efficacy of Pegteograstim in Korean Breast Cancer Patients Receiving Dose-dense Doxorubicin/Cyclophosphamide",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 63,
+    "primaryOutcomeMeasure": "the incidence of febrile neutropenia (FN)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological or cytological diagnosis of a primary breast cancer (stage I-III)\n* Age \\> 18 years of age and Age \\< 66 years of age\n* Eastern Cooperative Oncology Group (ECOG) performance status score 0 - 1\n* Patients who have plan to receive neoadjuvant or adjuvant dose-dense AC chemotherapy\n* Adequate organ functions\n\n  1. ANC \u22651500 cells/mm3\n  2. PLT \u2265100,000 cells/mm3\n  3. CCr \u226550 mL/min, or Serum Cr \\<1.5 x (upper limit of normal, ULN)\n  4. Total bilirubin \u22641.5 x ULN\n  5. AST (SGOT) \u22642.5 x ULN\n  6. ALT (SGPT) \u22642.5 x ULN\n\nExclusion Criteria:\n\n* Previous chemotherapy history\n* Previous bone marrow transplantation history\n* Sickle cell anemia\n* Radiation therapy within 4 weeks from enrollment\n* Previous pegfilgrastim, filgrastim or other colony-stimulating factor treatment within 4 weeks from enrollment\n* Clinically significant systemic illness (serious infection, liver, kidney, heart disease)\n* Pregnant, breast feeding women",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

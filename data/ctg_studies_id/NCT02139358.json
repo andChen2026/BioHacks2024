@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02139358",
+    "briefTitle": "Phase I/IIa Trial of Gemcitabine Plus Trastuzumab and Pertuzumab in Previously Treated Metastatic HER2+ Breast Cancer",
+    "officialTitle": "Phase I/IIa Trial of Gemcitabine Plus Trastuzumab and Pertuzumab in Previously Treated Metastatic HER2+ Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "Phase I: Recommended Phase II Dose (RP2D)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult males or females (aged 18 or older) with histologically confirmed, metastatic human epidermal growth factor receptor 2 (HER2)+ (by immunohistochemistry (IHC) 3+ or fluorescence in situ hydridization (FISH) ratio \u2265 2.0) breast cancer\n* Have progressed on at least one prior line of chemotherapy plus HER2 directed therapy such as trastuzumab and/or pertuzumab in the metastatic setting. T-DM1 would count as a line of therapy and patients previously treated with T-DM1 are eligible.\n* Have not been treated with gemcitabine in the metastatic setting\n* Measurable disease per Response Evaluation in Solid Tumors (RECIST) 1.1 criteria\n* Eastern Cooperative Oncology Group (ECOG) performance status 2\u2264\n* Left Ventricular Ejection Fraction (LVEF) \u2265 50% at baseline as determined by either echocardiogram (ECHO) or multiple gated acquisition scan (MUGA)\n* Adequate bone marrow function as indicated by the following: absolute neutrophil count (ANC) \\>1500/\u00b5L; Platelets \u2265100,000/\u00b5L; Hemoglobin \\>10 g/dL\n* Adequate renal function, as indicated by creatinine \u22641.5x upper limit of normal (ULN)\n* Adequate liver function, as indicated by bilirubin \u22641.5x ULN, aspartic transaminase (AST) or alanine transaminase (ALT) \\<2x ULN unless related to metastatic breast cancer to the liver (in which case AST/ALT \\< 5x ULN is allowed).\n* Signed informed consent\n* Adequate birth control in sexually active women of childbearing potential\n\nExclusion Criteria:\n\n* Active uncontrolled infection or major concurrent illness which in the opinion of the investigator would render the participant unsafe to proceed with the study\n* Uncontrolled central nervous system (CNS) metastases. Treated, non-progressing CNS disease (documented by brain magnetic resonance imaging \\[MRI\\]) off corticosteroids for at least 1 month potential participants are eligible.\n* Women who are pregnant or lactating\n* Prior chemotherapy within the last 3 weeks (last 6 weeks for nitrosureas/mitomycin)\n* Prior radiation therapy within the last 4 weeks; prior radiation therapy to indicator lesion (unless objective disease recurrence or progression within the radiation portal has been documented since completion of radiation)\n* Other concomitant active malignancies\n* History of significant cardiac disease, cardiac risk factors or uncontrolled arrhythmias\n* Ejection fraction \\<50% or below the lower limit of the institutional normal range, whichever is lower\n* Hypersensitivity to any of the study medications\n* Untreated psychiatric conditions preventing informed consent",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

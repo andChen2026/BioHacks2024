@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00059943",
+    "briefTitle": "Docetaxel in Treating Older Patients With Metastatic Breast, Lung, or Prostate Cancer",
+    "officialTitle": "Pharmacokinetics of Weekly Docetaxel in Patients Age 65 and Older With Metastatic Breast or Lung Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Lung Cancer, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": "N/A",
+    "primaryOutcomeMeasure": "Pharmacokinetics of docetaxel",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically proven metastatic breast, lung, or prostate cancer\n* Measurable disease\n* No untreated CNS metastases\n* No symptomatic CNS metastases requiring escalating doses of corticosteroids\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 65 and over\n\nSex\n\n* Not specified\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* Karnofsky 70-100%\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Absolute neutrophil count at least 1,500/mm\\^3\n* Hemoglobin at least 8.0 g/dL\n* Platelet count at least 100,000/mm\\^3\n\nHepatic\n\n* Bilirubin normal\n* SGOT and/or SGPT no greater than 2.5 times upper limit of normal (ULN) with alkaline phosphatase no greater than ULN OR\n* Alkaline phosphatase no greater than 4 times ULN with SGOT and SGPT no greater than ULN\n\nRenal\n\n* Not specified\n\nCardiovascular\n\n* No history of cardiac arrhythmia\n* No congestive heart failure\n* No myocardial infarction within the past 6 months\n\nOther\n\n* No prior severe hypersensitivity reaction to docetaxel or other drugs containing polysorbate 80\n* No allergy to macrolide antibiotics\n* No grade 2 or greater peripheral neuropathy\n* No concurrent serious or uncontrolled infection\n* Able to read, write, and converse in English\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* Recovered from prior chemotherapy\n\nEndocrine therapy\n\n* See Disease Characteristics\n\nRadiotherapy\n\n* Recovered from prior radiotherapy\n\nSurgery\n\n* Not specified\n\nOther\n\n* No concurrent CYP3A4-inducing or inhibiting medications or herbal remedies\n* No concurrent grapefruit juice\n* No concurrent ethanol",
+    "sex": "ALL",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

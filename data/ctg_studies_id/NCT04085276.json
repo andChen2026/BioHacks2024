@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04085276",
+    "briefTitle": "Toripalimab in Combination With Nab-Paclitaxel For Patients With Metastatic or Recurrent Triple-Negative Breast Cancer (TNBC) With or Without Systemic Treatment",
+    "officialTitle": "A Randomized, Double-Blind, Multicenter, Phase III Study of Toripalimab(JS001) in Combination With Nab-Paclitaxel Versus Placebo Plus Nab-Paclitaxel for Patients With Metastatic or Recurrent Triple-Negative Breast Cancer With or Without Systemic Treatment (TORCHLIGHT)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Triple-Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 531,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS) assessed by Blinded Independent Central Review (BICR) using Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v1.1) in Intend to Treat patients.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nMetastatic or recurrent triple negative breast cancer (TNBC);\n\n* Histologically confirmed diagnosis of TNBC characterized by estrogen-receptor negative (ER-), progesterone receptor negative (PR-) and human epidermal growth factor-2 receptor negative (HER2-);\n* Eligible for taxane monotherapy;\n* No more than one line of chemotherapy in metastatic setting;\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1;\n* Life expectancy of 12 weeks or more;\n* At least one measurable lesion per RECIST v1.1;\n* Demonstrate adequate hematologic and organ functions as defined in the protocol\n\nExclusion Criteria:\n\nPrior treatment with taxane as first line treatment;\n\n* Prior treatment with PD-1 antibody, PD-L1 antibody, PD-L2 antibody, or CTLA4 antibody (or any other antibody acting on T cell co-stimulation or checkpoint pathway)\n* MRI assessment during screening or previous imaging studies confirmed active or untreated brain metastases. Patients previously treated with local treatment of brain metastases has been stable for \u2265 1 month, and have stopped systemic hormonal therapy (\\>10 mg/d prednisone or equivalent) \\> 4 weeks before randomization can participate in the study;\n* Meningeal carcinomatosis;\n* Pregnancy or lactation;\n* Active hepatitis B or hepatitis C.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03365895",
+    "briefTitle": "Diffusion Tensor Imaging in Predicting Development of Chemotherapy Induced Peripheral Neuropathy in Patients With Breast Cancer (CIPN)",
+    "officialTitle": "Evaluating the Role of Diffusion Tensor Imaging in Predicting Development of Chemotherapy Induced Peripheral Neuropathy in Patients With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Carcinoma, Breast Cancer, Neuropathy;Peripheral, Neuropathy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 17,
+    "primaryOutcomeMeasure": "Changes in quantitative fractional anisotropy (FA) of the lower extremity nerves by diffusion tensor imaging (DTI)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Be capable of understanding the investigational nature of the study and all pertinent aspects of the study\n* Be capable of signing and providing written consent in accordance with institutional and federal guidelines\n* Have a histologically-confirmed diagnosis of breast cancer\n* Need to be treated with taxane containing chemotherapy as determined by their treating physician\n* Be able to undergo magnetic resonance (MR) imaging\n* Be willing and able to comply with scheduled visits, treatment plan, and MR imaging\n\nExclusion Criteria:\n\n* Have non-MRI compatible metallic objects on/in body\n* Have metallic hardware in the lower extremity which is MR compatible however would create too much artifact for MR examination\n* Are unable to lay still in the MR scanner for length of examination\n* Have severe claustrophobia\n* Have pre-existing peripheral neuropathy from other medical conditions or due to cancer\n* Have diagnosis of diabetes\n* Pregnant patients\n* Prior exposure to neurotoxic chemotherapy",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

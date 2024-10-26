@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04541212",
+    "briefTitle": "Identification and Evaluation of Patients at Risk of Developing Cardiotoxicity After Receiving Chemotherapy for Breast Cancer, Lymphoma or Leukemia",
+    "officialTitle": "Identification and Evaluation of Patients at Risk of Developing Cardiotoxicity After Receiving Chemotherapy for Breast Cancer, Lymphoma or Leukemia",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Lymphoma, Leukemia",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Myocardial extracellular volume (ECV)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 years or older at time of CT initiation\n* Signed informed consent\n* Patients with diagnosis of breast cancer,lymphoma or leukemia (including autografted subjects)\n* Planned, ongoing or completed (within last 5 years) chemotherapy with anthracycline\n* Left ventricular ejection fraction (LVEF) \u226550% pre-chemotherapy\n* The participant is willing to undergo CMR scans and all other required study procedures\n\nExclusion Criteria:\n\n* Known cardiomyopathy and/or LVEF \\<50%\n* Known heart failure\n* History of myocardial infarction (MI)\n* Clinically significant cardiac valvular disease\n* Clinically significant pericardial effusion\n* Allografted subjects\n* Contraindications to CMR testing (Cohort A \\& prospective evaluation for Cohort B):\n\n  * Pacemakers, other metallic implants or severe claustrophobia\n  * Weight \\> 135 kg\n  * Patients with a history of previous allergic reaction to gadolinium\n  * Patients with history of seizure\n  * Renal insufficiency (eGFR of \\< 45ml/min/1.73m2 using the MDRD equation)\n  * Pregnant or breastfeeding women",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

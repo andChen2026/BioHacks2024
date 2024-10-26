@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01501656",
+    "briefTitle": "Epigenetic Testing for Breast Cancer Risk Stratification",
+    "officialTitle": "Epigenetic Testing for Breast Cancer Risk Stratification",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 158,
+    "primaryOutcomeMeasure": "DNA methylation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women between the ages of 30 and 79.\n* Untreated stage 1 - 3 invasive breast cancer or a woman never diagnosed with breast cancer.\n* BI-RADS 1, 2, or 3 breast imaging within 12 months for women \\>40 years of age recruited into the control group.\n\nExclusion Criteria:\n\n* \\<30 or \\>80 years of age\n* Unable to provide informed consent\n* Presence of an undefined palpable or mammographic breast lesion suspicious for malignancy (BIRADS 4 or 5)\n* Breast implants\n* Bilateral prophylactic mastectomy\n* Any prior breasts irradiation\n* Any systemic chemotherapy in the past\n* Performance status that restricted normal activity for a significant portion of the day\n* Use of luteinizing-hormone-releasing-hormone (LHRH) analogs, prolactin inhibitors, antiandrogens, or systemic glucocorticoids within three months\n* Ever use of tamoxifen, raloxifene, or other SERMs\n* Ever use of aromatase inhibitors\n* Pregnancy or lactation within six months\n* Bleeding diathesis of any kind\n\n  1. Inherited coagulation disorder\n  2. Current coumadin use\n  3. Use of drugs that inhibit platelet aggregation within 10 days",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

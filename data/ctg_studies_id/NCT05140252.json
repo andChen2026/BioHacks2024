@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05140252",
+    "briefTitle": "Avoiding Low-value Treatments in Older Women With Early-stage Breast Cancer: Piloting a Patient Decision Aid",
+    "officialTitle": "Avoiding Low-value Treatments in Older Women With Early-stage Breast Cancer: Piloting a Patient Decision Aid",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 22,
+    "primaryOutcomeMeasure": "Acceptability of Intervention (AIM) Survey",
+    "eligibilityCriteria": "Inclusion Criteria\n\n* Early stage breast cancer that is hormone receptor positive (HR+) and human epidermal growth factor negative (HER2-)\n* Meet criteria for omission of sentinel lymph node biopsy (SLNB)\n* Receiving care at Michigan Medicine\n\nExclusion Criteria\n\n* Non-English speaking\n* Male patients (current data does not support omission of SLNB in men)",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

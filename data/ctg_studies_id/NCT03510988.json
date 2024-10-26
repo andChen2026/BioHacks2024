@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03510988",
+    "briefTitle": "Dedicated Breast PET/MRI in Evaluation of Extent of Disease in Women With Newly Diagnosed Breast Cancer",
+    "officialTitle": "Dedicated Breast PET/MRI in Evaluation of Extent of Disease in Women With Newly Diagnosed Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Newly Diagnosed Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 14,
+    "primaryOutcomeMeasure": "Specificity of the PET-MRI Compared to MRI Alone as Assessed by the Percentage of True Negatives Out of All Benign/Non-malignant Lesions Breast Cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women over age of 25 with newly diagnosed breast cancer and for whom a breast MR has been ordered as standard of care\n\nExclusion Criteria:\n\n* Male subjects\n* Women younger than 25\n* Pregnant subjects\n* Unable or unwilling to undergo MRI\n* Previous adverse reaction to 18F-FDG\n* Unwilling to undergo biopsy of MRI positive lesions",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

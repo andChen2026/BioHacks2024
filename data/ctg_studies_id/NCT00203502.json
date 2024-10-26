@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00203502",
+    "briefTitle": "Primary Systemic Therapy in Operable/Locally Advanced Breast Cancer",
+    "officialTitle": "Primary Systemic Therapy Using Sequential Docetaxel/Cyclophosphamide/Bevacizumab Followed by Doxorubicin in Operable/Locally Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Percentage of Participants With Pathological Complete Response.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The diagnosis of breast cancer established by biopsy.\n* Normal kidney function\n* Normal LVEF evaluated by MUGA Scan\n* \\>18 years of age\n* Good performance status defined by ECOG scale of 0 or 1\n* Consent\n* Women of childbearing potential must have a negative pregnancy test.\n* Use of effective means of contraception in subjects of child-bearing potential while on treatment and for at least 3 months thereafter.\n* Peripheral Neuropathy: must be \\< grade 1\n* Hematologic (minimal values)\n* Absolute neutrophil count \\>1,500/mm3\n* Hemoglobin \\>8.0 g/dl\n* Platelet count \\>100,000/mm3\n* Hepatic\n* Total bilirubin \\<ULN\n* AST, ALT, Alkaline Phosphatase must be within range\n\nExclusion Criteria:\n\n* Patients with locally advanced breast cancer with skin ulcerations\n* Stage IV breast cancer\n* Inflammatory breast cancer\n* Allergy to any component of the treatment regimen\n* Women who are breast feeding\n* Pregnancy or refusal to use effective contraception\n* Inability to comply with study and/or follow-up procedures.\n* Current, recent, or planned participation in a experimental drug study\n* Blood pressure of \\>150/100 mmHg. Essential hypertension well controlled with anti hypertensives is not an exclusion criterion.\n* unstable angina\n* New York Heart Association Grade II or greater congestive heart failure\n* history of myocardial infarction within 6 months\n* history of stroke within 6 months\n* Clinical significant peripheral vascular disease\n* Evidence of bleeding diathesis or coagulopathy\n* Presence of central nervous system or brain metastasis\n* major surgical procedure, open biopsy, or significant traumatic injury within 28 days prior to day 0\n* Minor surgical procedure such as fine needle aspirations or core biopsy within 7 days prior to day 0\n* Pregnant or lactating\n* Urine protein: creatinine ratio \\>1.0 at screening\n* History of abdominal fistula, gastrointestinal perforation, or intra-abdominal abscess within 6 months prior to Day 0\n* Serious, non-healing wound, ulcer, or bone fracture",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

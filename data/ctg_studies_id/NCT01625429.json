@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01625429",
+    "briefTitle": "Neoadjuvant Study of Nab-paclitaxel Plus Carboplatin in Breast Cancer",
+    "officialTitle": "A Single-center, Prospective, Phase II Study of Albumin-bound Paclitaxel (Nab-paclitaxel) and Carboplatin With or Without Trastuzumab (Herceptin) as Neoadjuvant Therapy in Locally Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Pathological complete response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, between 18 and 70 years old\n* Life expectancy is more than 12 months\n* Breast MRI or ultrasound confirmd tumor over 3cm and biopsy comfirned invasive breast caner of stage II-III (inflammatory breast cancer excluded)\n* Not accompanied with other malignancies\uff08except for controlled carcinoma in situ of the cervix or skin basal-cell carcinoma\uff09\n* A normal bone marrow: absolute neutrophil count\u22651.5\\*10E9/L, hemoglobin\u2265100g/L, PLT\u2265100\\*10E9/L\n* Normal liver and renal functions: AST\u226460U/L, total biliruin\u22641.5\\*upper limit of normal, serum creatinine\u2264110umol/L, urea nitrogen\u22647.1mmol/L\n* Normal blood coagulation function\n* ECOG performance status of 0-1\n* Willing to coordinate with a punch biopsy before treatment and accept neoadjuvant therapy\n* Women of child-producing potential must agree to use effective contraceptive methods during the study, and a negative serum or urine pregnancy test must be obtained within 7 days prior to administration of the drugs\n* Written informed consent\n* For HER-2 positive patients, the HER-2 status must be determined by ICH +++ or FISH/CISH. For patients treated with trastuzumb, LVEF\u226555% by ultrasonic cardiogram or MUGA scan\n\nExclusion Criteria:\n\n* Previous systematic or local therapy including chemotherapy for breast cancer\n* Distant metastases of breast cancer are observed\n* Concurrent uncontrolled lung disease, severe sepsis, active peptic ulcer requring treatment, blood coagulation disorders, serious uncontrolled diabetes, connective tissue disease or bone marrow depression, unable to tolerate neoadjuvant therapy and related treatment\n* \\>Grade 1 peripheral neuropathy caused by any reason\n* History of CHF, uncontrolled symptomatic angina, history of arrhythmias or myocardial infarction, poorly controlled hypertension (systolic pressure \\> 180mmHg or diastlic pressure \\> 100 mmHg)\n* Lactational or gestational breast cancer\n* Not willing to accept a punch biopsy before treatment and neoadjuvant therapy\n* Psychopath or any other reasons that would preclude compliane with treatment\n* Known serious allergy to any of the study drugs or excipients\n* Participation in another study requiring administration of an in investigational drug or biological agent at present or recently (within the last 30 days prior to screening visit)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

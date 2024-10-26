@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02217891",
+    "briefTitle": "IFACT: Incidental Findings in Advanced Cancer Therapy",
+    "officialTitle": "IFACT: Incidental Findings in Advanced Cancer Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Colorectal Cancer, Bladder Cancer, Lung Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "qualitive data",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPart 1:\n\n* Patient enrolled on MSK protocol #12-245\n* Living patient age 18 or older\n* Patient diagnosed with breast cancer, colorectal cancer, bladder cancer, or lung cancer\n* Patient residing in New York metro-area\n\nPart 2:\n\n* Living patient age 18 or older\n* Consented to Part C of IRB#12-245 and has received results regardless if thereir was a pathogenic variant\n* Patient diagnosed with cancer type approved for IRB#12-245 Part C (which are currently breast cancer, gynecological cancer, prostate cancer, and GU non-prostate cancer)breast cancer, colorectal cancer, bladder cancer, or lung cancer\n* Patient residing in New York metro-area\n\nExclusion Criteria for Part 1 and 2:\n\n* Non-English speakers because we do not have the resources to conduct and translate the interviews into other languages.\n* Patient unwilling or unable to provide informed consent.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

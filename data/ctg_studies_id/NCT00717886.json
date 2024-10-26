@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00717886",
+    "briefTitle": "Upper Extremity Lymphatic Mapping for Breast Cancer Patients",
+    "officialTitle": "Upper Extremity Lymphatic Mapping for Breast Cancer Patients: A Pilot Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Axillary Lymph Node Dissection",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 13,
+    "primaryOutcomeMeasure": "Number and Prevalence of Metastases of Blue Nodes in the ALND Specimen (Nodes Draining the Breast).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females with Stage II invasive breast cancer and documented axillary metastases by core biopsy, clinical examination, or fine-needle aspiration who are scheduled to undergo an ALND.\n* Females \\> 21 years of age\n\nExclusion Criteria:\n\n* Prior ipsilateral axillary surgery\n* Prior ipsilateral axillary radiation\n* Prior ipsilateral breast cancer\n* Prior ipsilateral breast radiation\n* Allergy to isosulfan blue dye\n* History of ipsilateral upper extremity lymphedema\n* Prior history of surgical excision of the upper outer quadrant of the ipsilateral breast\n* Prior history of neoadjuvant chemotherapy for current breast cancer\n* Bulky axillary disease at presentation (N2)",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00572728",
+    "briefTitle": "Phase II Study of Fluorine-18 3'-Deoxy-3'-Fluorothymidine (F-18-FLT) in Invasive Breast Cancer",
+    "officialTitle": "3'-Deoxy-3'-18F Fluorothymidine PET/CT in Predicting Response To Chemotherapy Before Surgery in Patients With Locally Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Stage IIB Breast Cancer, Stage IIIA Breast Cancer, Stage IIIB Breast Cancer, Stage IIIC Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 90,
+    "primaryOutcomeMeasure": "%Change in FLT Uptake Between the Baseline (Pre-therapy) and the Early-therapy Imaging Studies to Predict Pathological Complete Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathologically confirmed breast cancer, determined to be a candidate for primary systemic (neoadjuvant) therapy and for surgical resection of residual primary tumor following completion of neoadjuvant therapy\n* Locally advanced breast cancer, not stage IV, and with a tumor size \\>= 2 cm (as measured on imaging or estimated by physical exam)\n* No obvious contraindications for primary chemotherapy\n* Residual tumor planned to be removed surgically following completion of neoadjuvant therapy\n* Able to lie still for 1.5 hours for PET scanning\n* Eastern Cooperative Oncology Group (ECOG) performance status =\\< 2 (Karnofsky \\>= 60%)\n* Leukocytes \\>= 3,000/ul\n* Absolute neutrophil count \\>= 1,500/ul\n* Platelets \\>= 100,000/ul\n* Total bilirubin within normal institutional limits\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 2.5 times the institutional upper limit of normal\n* Creatinine within normal institutional limits OR creatinine clearance \\>= 30 mL/min/1.73 m\\^2 for patients with creatinine levels above institutional normal\n* If female, postmenopausal for a minimum of one year, OR surgically sterile, OR not pregnant, confirmed by institutional standard of care (SOC) pregnancy test, and willing to use adequate contraception (hormonal or barrier method of birth control; abstinence) for the duration of study participation\n* Able to understand and willing to sign a written informed consent document and a Health Insurance Portability and Accountability Act (HIPAA) authorization in accordance with institutional guidelines\n\nExclusion Criteria:\n\n* Previous treatment (chemotherapy, radiation, or surgery) to involved breast; including hormone therapy\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements\n* Medically unstable\n* Condition requiring anesthesia for PET scanning and/or unable to lie still for 1.5 hours\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to F-18 fluorothymidine\n* Pregnant or nursing\n* Previous malignancy, other than basal cell or squamous cell carcinoma of the skin or in situ carcinoma of the cervix, from which the patient has been disease free for less than 5 years\n* Currently on hormone therapy as the primary systemic neoadjuvant therapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

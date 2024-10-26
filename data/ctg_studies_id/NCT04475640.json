@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04475640",
+    "briefTitle": "Cancer Genetic Testing in Ethnic Populations",
+    "officialTitle": "GEMINI - Cancer Genetic Testing in Ethnic Populations",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Carcinoma, Carcinoma of Unknown Primary, Central Nervous System Carcinoma, Digestive System Carcinoma, Genitourinary System Carcinoma, Head and Neck Carcinoma, Malignant Brain Neoplasm, Malignant Female Reproductive System Neoplasm, Malignant Musculoskeletal Neoplasm, Malignant Solid Neoplasm, Skin Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 1800,
+    "primaryOutcomeMeasure": "Prevalence of pathogenic germline mutations in enrolled patients within each cancer site",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients at least 18 years of age\n* Individuals diagnosed with any solid tumor cancer including, but not limited to, gastrointestinal, breast, gynecological, genitourinary, skin, central nervous system (CNS)/brain, head/neck, musculoskeletal or cancer of unknown primary; and presenting to Mayo Clinic (MC Arizona or MC Florida) for clinical management/treatment; and patients receive genetic testing as described above\n* Self-identified as being from various ethnic populations including Hispanic/Latino, Native American/Alaskan, African American (including of African descent), Asian and other European populations\n* Blood collection is feasible (health, access and/or tolerability) for requested blood sample(s)\n* Individuals have agreed to participate and signed the study informed consent form\n\nExclusion Criteria:\n\n* Patients who have had prior germline genetic testing involving a 40+ gene panel within the last 24 months at Mayo Clinic and available for review by the research coordinator at time of consent\n* Past or current history of hematological cancer (including leukemias, multiple myeloma)\n* All bone marrow transplants",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

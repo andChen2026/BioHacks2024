@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00041470",
+    "briefTitle": "Navelbine, Taxol, Herceptin and Neupogen in Stage IV Breast Cancer: A Phase I - II Trial",
+    "officialTitle": "Navelbine, Taxol, Herceptin and Neupogen in Stage IV Breast Cancer: A Phase I - II Trial",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 38,
+    "primaryOutcomeMeasure": "To Measure Response Rates, Time to Progression and Survival in Patients so Treated.",
+    "eligibilityCriteria": "PATIENT ELIGIBILITY\n\nInclusion Criteria:\n\n* Patient has stage IV, microscopically-confirmed carcinoma of the breast with histologic slides and/or blocks available for review.\n* Patient has had one or less prior regimens for metastatic disease. Prior paclitaxel by 3, 24 or 96-hour infusion is permitted as long as it did not result in any neuropathy. Prior docetaxel on an every 3-week schedule is permitted.\n* Measurable (bidimensionally) or evaluable disease.\n* Age \\> 18.\n* Karnofsky Performance Status \\> 70% (ECOG, \\< 2) at screen and on the first day of treatment.\n* Life expectancy \\> 16 weeks.\n* Prior irradiation is permitted, provided:\n* Prior irradiation does not exceed 25% of the estimated bone marrow volume. (See Appendix I)\n* Measurable/evaluable disease must exist outside the radiation field OR there must be histologic proof of progressive disease within a radiation field.\n* Informed consent must be obtained prior to registration.\n* Patients must be \\> 2 weeks from prior surgery; \\> 3 weeks from radiation therapy to the pelvis, spine or long bones; \\> 3 weeks from prior chemotherapy (\\> 6 weeks for mitomycin C or nitrosureas), or \\> 2 weeks from prior hormonal therapy.\n* All patients must have placement of appropriate central venous access device.\n* Tumor HER2/neu expression must be determined prior to study enrollment. Assessment may be by fluorescence in situ hydridization (FISH) assay or by immunohistochemistry (ICC). If determination is intermediate by ICC, FISH must be performed. For enrollment purposes, the phase I portion of the study will not discriminate based on HER2 status. However, documentation of patients' HER2 status will be maintained and Herceptin will be prescribed for all HER2 positive patients. The phase II portion of the study will enroll 30 patients who are documented HER2 overexpressors and 30 patients who are non-overexpressors.\n\nExclusion Criteria:\n\n* Granulocytes \\< 1,500/mm3.\n* Platelets \\< 100,000/mm3.\n* Hemoglobin \\< 9 gm/dl.\n* Creatinine \\> 2.0 mg/dl.\n* Total bilirubin \\> 2 mg/dl.\n* Visceral crisis characterized by rapidly progressive hepatic or lymphangitic lung metastases.\n* Medically unstable as judged by the patient's physician.\n* Pregnancy or lactation; failure to employ adequate contraception.\n* Uncontrolled CNS disease.\n* Pre-existing clinically significant peripheral neuropathy except for abnormalities due to cancer.\n* Psychological, familial, sociological or geographical conditions which do not permit weekly medical follow-up and compliance with the study protocol.\n* Prior therapy with vinorelbine or prior therapy with a taxane that resulted in neuropathy.\n* Known hypersensitivity to E. coli-derived proteins, Filgrastim, or any component of the product as Neupogen\u00ae is contraindicated in such subjects.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

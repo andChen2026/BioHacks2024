@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05423730",
+    "briefTitle": "Alcohol and Breast Cancer (ABC) Trial",
+    "officialTitle": "Effect of Light Alcohol Intake on Sex Hormone Levels Among Postmenopausal Women With ER+ Breast Cancer on Aromatase Inhibitor Therapy: The Alcohol and Breast Cancer (ABC) Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "ER+ Breast Cancer, Breast Cancer, Aromatase Inhibitors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Blood levels of free estradiol after daily white wine",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* ER+ breast cancer\n* Female sex at birth\n* Postmenopausal, either natural or induced\n* Self-reported consumption of at least one alcoholic drink per week but not more than one serving per day\n* Currently prescribed aromatase inhibitors including anastrozole (Arimidex\u00ae), letrozole (Femara\u00ae), and exemestane (Aromasin\u00ae)\n* Documented liver function test results below 1.5X the upper limit of normal within 12 months of screening\n\nExclusion Criteria:\n\n* Self-reported consumption of more than one drink per day, a previous or current history of alcohol abuse based on standard questionnaires (AUDIT\u22658), or consumption of more than 4 or more drinks in one day within the last 6 months\n* Currently undergoing cytotoxic chemotherapy or radiation or planned in the next two months\n* Any surgery planned in the next two months\n* Alcohol flushing syndrome\n* Current use of any pharmaceutical agent contraindicated with alcohol, including warfarin, dual antiplatelet therapy, and metronidazole\n* Hemoglobin A1c\\>8% or a fasting glucose result above 180 mg/dL within 6 months of screening\n* Unable to speak or understand English\n* Unable to understand and provide informed consent, as judged by the study team",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

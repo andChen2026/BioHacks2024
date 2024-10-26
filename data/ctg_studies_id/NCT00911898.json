@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00911898",
+    "briefTitle": "A Study of MM-111 in Patients With Advanced, Refractory Her2 Amplified, Heregulin Positive Cancers",
+    "officialTitle": "A Phase 1 and Pharmacologic Study of MM-111 in Patients With Advanced, Refractory Her2 Amplified, Heregulin Positive Cancers",
+    "overallStatus": "COMPLETED",
+    "conditions": "Her2 Amplified Solid Tumors, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Maximum Tolerated Dose (MTD) or Maximum Feasible Dose",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed advanced cancer that is:\n\n  * HER2 amplified (IHC 2+ or greater) based on archived tumor evaluation\n  * Heregulin positive based on a study required fresh biopsy sample performed at screening and confirmed by central laboratory\n* Patients must have blocks of archived formalin-fixed, paraffin-embedded tumor tissue available for sectioning and immunohistochemical staining\n* Patient's cancer must have recurred or progressed following standard therapy, have not responded to standard therapy, or for which no standard therapy exists.\n* Patients must be \\>= 18 years of age\n* Patients or their legal representatives must be able to understand and sign an informed consent\n* Patients may have measurable or non-measurable tumor(s)\n* Patients should have ECOG Performance Score (PS) 0 or 1\n* Patients must have adequate bone marrow reserves as evidenced by:\n\n  * Absolute neutrophil count (ANC) \\>= 1,500/uL and\n  * Platelet count \\>= 100,000/uL\n  * Hemoglobin \\>= 9 g/dL\n* Patients must have tumor tissue amenable to biopsy\n* Patients must be willing to undergo biopsy prior to treatment to MM-111\n\nExclusion Criteria:\n\n* Patients for whom potentially curative antineoplastic therapy is available\n* Patients who are pregnant or lactating\n* Patients with an active infection or with an unexplained fever greater than 38.5 C during screening visits or on the first scheduled day of dosing. (At the discretion of the investigator, patients with tumor fever may be enrolled)\n* Patients with untreated and/or symptomatic primary or metastatic CNS malignancies (patients with CNS metastases who have undergone surgery or radiotherapy, whose disease is stable, and who have been on a stable dose of corticosteroids for at least 2 weeks prior to the first scheduled day of dosing will be eligible for the trial\n* Patients with known hypersensitivity to any of the components of MM-111 or who have had hypersensitivity reactions to fully human monoclonal antibodies (patients with a history of hypersensitivity to trastuzumab, a humanized antibody, are not excluded)\n* Patients with known HIV, hepatitis B or C (if patients have previously been treated for C and have undetectable viral loads, they can be considered eligible for the trial)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

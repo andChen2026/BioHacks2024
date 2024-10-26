@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04131933",
+    "briefTitle": "Evaluating Whether Integration of Prognostic and Predictive Algorithms Into Routine Clinical Practice Effect Whether Oncologists Order Multigene Assays in Patients With Early Stage Breast Cancer",
+    "officialTitle": "A Multi-centre, Prospective, Observational Study Evaluating Whether Integration of Prognostic and Predictive Algorithms Into Routine Clinical Practice Effect Whether Oncologists Order Multigene Assays in Patients With Early Stage Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 602,
+    "primaryOutcomeMeasure": "Rate of requests for Oncotype DX testing",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed primary breast cancer\n* No prior chemotherapy\n* Eligible for Oncotype DX \u00ae testing as per current Ontario funding criteria including: ER positive, PR positive or negative, HER2 negative, lymph node status negative or micro-invasive disease, tumor \\>1 cm in size (or if equal or \\<1 cm, must be grade 2/3 or have lymph node micrometastasis).\n\nExclusion Criteria:\n\n* Neoadjuvant treatment including window of opportunity trials\n* Recurrent breast cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

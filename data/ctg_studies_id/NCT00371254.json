@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00371254",
+    "briefTitle": "A Study of Dasatinib (BMS-354825) in Patients With Advanced 'Triple-negative' Breast Cancer",
+    "officialTitle": "Phase II Study of Dasatinib (BMS-354825) for Advanced 'Triple-negative' Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 55,
+    "primaryOutcomeMeasure": "Number of Participants With Complete Response (CR) or Partial Response (PR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* females, 18 or older\n* recurrent or progressive locally advanced, or 'triple negative' metastatic breast cancer\n* paraffin-embedded tissue block must be available\n* measurable disease\n* prior chemotherapy with an anthracycline, a taxane, or both (neoadjuvant, adjuvant, or metastatic setting)\n* 0, 1 or 2 chemotherapies in the metastatic setting\n* adequate organ function\n\nExclusion Criteria:\n\n* Metastatic disease confined to bone only\n* Symptomatic CNS metastasis\n* Concurrent medical condition which may increase the risk of toxicity\n* Unable to take oral medication",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

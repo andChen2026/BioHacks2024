@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02956473",
+    "briefTitle": "Supine MRI in Breast Cancer Patients Undergoing Upfront Surgery or Receiving Neoadjuvant Therapy",
+    "officialTitle": "Supine MRI in Breast Cancer Patients Undergoing Upfront Surgery or Receiving Neoadjuvant Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 57,
+    "primaryOutcomeMeasure": "Correlation Between Prone Breast MRI for Estimation of Tumor Size and Final Pathology Tumor Size",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants must be female\n* Participants must have a pre-operative standard mammogram with or without ultrasound.\n* Participants must have biopsy confirmed and clinical stage I, stage II, or stage III non-inflammatory breast carcinoma. If biopsy was done at an outside hospital, pathology will be reviewed at (BWH, BWFH)\n* Patient must meet standard MRI guidelines and be able and willing to undergo MRI\n* Participants must be candidates for definitive local therapy with breast conserving therapy or deemed as potential candidates following NAT (this takes into account tumor to breast size ratio appropriate for BCT, and the ability to undergo standard radiation therapy post-operatively).\n* Study participants will be restricted to those aged \u226518 years old. This age group is selected because it encompasses the majority of women likely to receive neoadjuvant therapy\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Participants with a known BRCA 1 or 2 mutation.\n* Participants with a known Li-Fraumeni or Cowden's Disease.\n* Participants with prior mantle radiation.\n* Participants with inflammatory breast cancer or multi-centric disease\n* Participants who are pregnant.\n* Participants who are already enrolled in a conflicting investigational trial\n* Participants with known active collagen vascular disease.\n* Participants with prior history of ipsilateral breast carcinoma treated with BCS and radiation therapy.\n* Patients who have biopsy confirmed multi-centric disease.\n* Participants who are unable to undergo MRI because of documented contra-indications for contrast-enhanced MRI, including but not limited to renal failure\n* Participants who exceed the weight limit for the operative surgical table, 350 lbs or who will not fit into the 60 cm diameter bore of the MRI scanner.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

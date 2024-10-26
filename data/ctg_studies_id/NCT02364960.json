@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02364960",
+    "briefTitle": "Targeted Intraoperative Therapy Registry at Bethesda North Hospital (TARGIT)",
+    "officialTitle": "Implementation of the Target Intraoperative Therapy Registry at Bethesda North TriHealth Hospital (TARGIT)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Early Stage Breast Cancer, Neoplasm of the Breast, Breast Tumor",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 16,
+    "primaryOutcomeMeasure": "In-breast local failure and patterns of in-breast failure",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Age 45 or greater\n* Diagnosed with operable invasive breast cancer, T1 and T2 (\\< 3.5 cm), N0, M0, confirmed by cytological or histological examination\n* Suited for breast conserving surgery\n* Have had an ipsilateral (same side as current cancer) diagnostic mammogram within 12 months of enrollment\n\nExclusion Criteria:\n\n* age 44 or less\n* Axillary lymph node positive breast cancer\n* Invasive lobular cancer\n* Tumor size \\> 3.5 cm\n* Extensive Intraductal Component (EIC= \\> 25% of the lumpectomy specimen involved with ductal carcinoma in situ, DCIS) as assessed on surgical pathologic lumpectomy specimen\n* Multicentric cancer in the same breast not amenable to excision with a single lumpectomy\n* Inability to assess pathologic margin status\n* Synchronous bilateral breast cancer at the time of diagnosis.\n* Ipsilateral breast had a previous cancer and/or prior in-field radiation.\n* Patients known to have BRCA1/2 gene mutations\n* Neoadjuvant treatment (hormones or chemotherapy)",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

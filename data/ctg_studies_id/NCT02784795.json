@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02784795",
+    "briefTitle": "A Study of LY3039478 in Participants With Advanced or Metastatic Solid Tumors",
+    "officialTitle": "A Phase 1b Study of LY3039478 in Combination With Other Anticancer Agents in Patients With Advanced or Metastatic Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Solid Tumor, Breast Cancer, Colon Cancer, Cholangiocarcinoma, Soft Tissue Sarcoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 94,
+    "primaryOutcomeMeasure": "Maximum Tolerated Dose (MTD) of LY3039478",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* For all parts: The participant must be, in the judgment of the investigator, an appropriate candidate for experimental therapy after available standard therapies have failed to provide clinical benefit for their advanced or metastatic cancer.\n\n  * For dose escalation for all combinations: The participant must have histological or cytological evidence of cancer, either a solid tumor or a lymphoma, which is advanced or metastatic.\n  * For Part A dose confirmation: All participants must have histological evidence of advanced or metastatic soft tissue sarcoma or breast cancer. Breast cancer participants must have prescreened mutations, amplification, or gene/protein expression alterations related to Notch pathway.\n  * For Part B dose confirmation: All participants must have histological evidence of advanced or metastatic colon cancer or soft tissue sarcoma. Colon cancer participants must have prescreened mutations, amplification, or gene/protein expression alterations related to Notch pathway.\n  * For Part C dose confirmation: All participants must have histological evidence of advanced or metastatic breast cancer and prescreened mutations, amplification, or gene/protein expression alterations related to Notch pathway.\n  * For Part D dose confirmation: All participants must have histological evidence of cholangiocarcinoma and prescreened mutations, amplification, or gene/protein expression alterations related to Notch pathway. Participants must not have received \\>1 line of prior systemic therapy for metastatic or resectable disease (that is, participants may have received adjuvant gemcitabine and then later gemcitabine/cisplatin for recurrent metastatic disease).\n  * For Part E dose confirmation: All participants must have histological evidence of locally advanced or metastatic triple negative breast cancer (TNBC) and prescreened mutations, amplification, or gene/protein expression alterations related to Notch pathway. Participants must not have received \\>2 lines of systemic treatment for advanced or metastatic TNBC.\n* Have adequate organ function.\n* Have a performance status of \u22641 on the Eastern Cooperative Oncology Group (ECOG) scale.\n* Have discontinued all previous therapies for cancer.\n\nExclusion Criteria:\n\n* Have current acute leukemia.\n* Have current or recent (within 3 months of study drug administration) gastrointestinal disease with chronic or intermittent diarrhea, or disorders that increase the risk of diarrhea, such as inflammatory bowel disease.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00622401",
+    "briefTitle": "Vaccination of Patients With Breast Cancer With Dendritic Cell/Tumor Fusions and IL-12",
+    "officialTitle": "Vaccination of Patients With Breast Cancer With Dendritic Cell/Tumor Fusions and IL-12",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 8,
+    "primaryOutcomeMeasure": "Number of Participants With Adverse Events Associated With Vaccination of Breast Cancer Patients With Dendritic Cell (DC)/Tumor Fusion Vaccine",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage IV breast cancer with measurable disease and accessible tumor\n* ECOG Performance Status 0-2 with greater than six week life expectancy\n* 18 years of age or older\n* Laboratory values as outlined in the protocol\n\nExclusion Criteria:\n\n* Patients must not have received other immunotherapy treatment in the three months prior to the initial vaccination\n* Patients may not be on herceptin therapy during this protocol and may not have received it for four weeks prior to initial vaccination\n* Patients must not have received weekly chemotherapy or hormonal treatment for two weeks prior to the initial vaccination and must not have received monthly chemotherapy for four weeks prior to the initial vaccination\n* Clinical evidence of CNS disease\n* Clinically significant autoimmune disease\n* Patients who are HIV+\n* Serious intercurrent illness such as infection requiring IV antibiotics, or significant cardiac disease characterized by significant arrhythmia, ischemic coronary disease or congestive heart failure\n* Pregnant of lactating women will be excluded, all premenopausal women must undergo pregnancy testing",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

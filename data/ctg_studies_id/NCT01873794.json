@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01873794",
+    "briefTitle": "Treating Cancer-Related Fatigue Through Systematic Light Exposure",
+    "officialTitle": "Treating Cancer-Related Fatigue Through Systematic Light Exposure",
+    "overallStatus": "COMPLETED",
+    "conditions": "Hematopoietic Stem Cell Transplantation, Breast Cancer, Fatigue, Mild Cognitive Impairment, Light, Quality of Life, Sleep",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 54,
+    "primaryOutcomeMeasure": "FACIT-Fatigue Scale",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPatients:\n\n* With a history of HSCT as treatment for hematological malignancies and related diseases and who are up to 3.5 years post-transplant; OR\n* Who are up to three and a half years post completion of chemotherapy OR chemotherapy and radiation for breast cancer with a curative intent;\n\nAND:\n\n* With a score equal to or less than 33 on the FACIT-Fatigue scale (see below) and no pre-existing anemia (Hb\\<10gm/dl); or a score equal to or greater than 43 on the Cognitive Failures Questionnaire\n* Who are currently over age 18 and at least age 16 at the time of HSCT or time of breast cancer treatment\n\nExclusion Criteria:\n\n* Under age 18;\n* Pregnancy;\n* Confounding underlying medical illnesses;\n* History of mania (which is a contra-indication for light treatment) or current clinical depression;\n* And any other physical or psychological impairments including a sleep disorder diagnosis which would limit participation.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

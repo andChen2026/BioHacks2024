@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00148668",
+    "briefTitle": "Preoperative Herceptin/Navelbine Versus Taxotere/Carboplatin/Herceptin in HER-2 Positive Breast Cancer",
+    "officialTitle": "A Randomized Phase II Study of Preoperative Herceptin/Navelbine Versus Taxotere/Carboplatin/Herceptin in Early Stage, HER-2 Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 81,
+    "primaryOutcomeMeasure": "Pathological Complete Response After Preoperative Therapy With Herceptin/Navelbine Versus Taxotere/Carboplatin/Herceptin in Patients With HER-2 Positive Early Breast Cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with stage II or III breast cancer\n* HER-2 positive tumors\n* Older than 18 years of age\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of greater or equal to 1.\n* ANC \\> 1,500/mm3\n* Hemoglobin \\> 9gm/dl\n* Platelets \\> 100,000mm3\n* Creatinine \\< 2mg/dl\n* Glucose \\< 200mg/dl\n* Bilirubin \\< 1.5 x ULN\n\nExclusion Criteria:\n\n* Previous treatment with herceptin, taxanes, doxorubicin or other anthracycline-type therapy, navelbine, or platinum-based therapy.\n* Pregnant or breast-feeding women\n* Serious illness, or medical or psychiatric condition\n* Uncontrolled infections\n* Active or severe cardiovascular or pulmonary disease\n* Patients with left ventricular ejection fraction \\< 50%\n* Peripheral neuropathy of any etiology that exceeds grade 1\n* Prior history of malignancy\n* Uncontrolled diabetes",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

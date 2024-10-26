@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00075764",
+    "briefTitle": "S0226 Anastrozole With or Without Fulvestrant as First-Line Therapy in Postmenopausal Women With Metastatic Breast Cancer",
+    "officialTitle": "Phase III Randomized Trial of Anastrozole Versus Anastrozole and Fulvestrant as First Line Therapy for Post Menopausal Women With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 695,
+    "primaryOutcomeMeasure": "Time to Tumor Progression",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer meeting 1 of the following criteria:\n\n  * Metastatic disease (M1)\n  * Multiple sites of new disease that is clinically obvious metastatic disease (e.g., multiple sites of new osseous disease)\n* Measurable or nonmeasurable disease\n* No known brain or CNS metastases\n* Hormone receptor status:\n\n  * Estrogen-receptor positive\\* AND/OR\n  * Progesterone-receptor positive\\* NOTE: \\*Positivity defined as estrogen binding of \\> 10 fmol/mg cytosol protein by ligand binding assay or positive by immunohistochemistry\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* Not specified\n\nSex\n\n* Female\n\nMenopausal status\n\n* Postmenopausal, as defined by 1 of the following:\n\n  * Prior bilateral oophorectomy\n  * More than 12 months since last menstrual period with no prior hysterectomy\n  * At least 55 years of age with prior hysterectomy\n  * Under 55 years of age with a prior hysterectomy without oophorectomy and with estradiol and follicle-stimulating hormone levels consistent with menopause\n\nPerformance status\n\n* Zubrod 0-2\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* No bleeding diathesis (e.g., disseminated intravascular coagulation or clotting factor deficiency)\n\nHepatic\n\n* INR \u2264 1.6\n\nRenal\n\n* Not specified\n\nOther\n\n* HIV negative\n* No other malignancy within the past 5 years except adequately treated basal cell or squamous cell skin cancer, carcinoma in situ of the cervix, or adequately treated stage I or II cancer currently in complete remission\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* No prior immunotherapy for recurrent or metastatic disease\n\nChemotherapy\n\n* No prior chemotherapy for recurrent or metastatic disease\n* More than 12 months since prior adjuvant or neoadjuvant chemotherapy\n* No concurrent chemotherapy for malignancy\n\nEndocrine therapy\n\n* Prior adjuvant hormonal therapy allowed\n* At least 12 months since prior adjuvant luteinizing hormone-releasing hormone (LHRH) analogues\n\n  * Menstrual periods must not have resumed since LHRH therapy\n* More than 12 months since prior adjuvant or neoadjuvant aromatase inhibitors (e.g., anastrozole, letrozole, or exemestane)\n* More than 12 months since prior fulvestrant\n* No prior hormonal therapy for recurrent or metastatic disease\n* No other concurrent hormonal therapy for malignancy\n* No concurrent hormone replacement therapy\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* Not specified\n\nOther\n\n* No long-term anticoagulant therapy (except antiplatelet therapy)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

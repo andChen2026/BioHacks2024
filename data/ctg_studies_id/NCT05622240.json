@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05622240",
+    "briefTitle": "99mTc-MIRC213 SPECT/CT for the Detection of HER2-positive Breast Cancer",
+    "officialTitle": "99mTc-MIRC213 SPECT/CT for the Detection of HER2-positive Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Dosimetric distribution of radiopharmaceuticals",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* patients in suspicion of breast cancer by mammography or ultrasonography,and being able to provide basic information and sign the written informed consent form\n\nExclusion Criteria:\n\n* The exclusion criteria included claustrophobia, pregnancy, breastfeeding, kidney or liver failure, inability to fulfill the study, and undergoing any preceding local or systemic therapies that might interfere with HER2 binding.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

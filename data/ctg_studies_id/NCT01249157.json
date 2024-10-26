@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01249157",
+    "briefTitle": "Histologic Assessment of the Difference Between 18F-2-fluoro-2-deoxy_D-glucose Positron Emission Mammography(PEM) and Magnetic Resonance Imaging (MRI) of the Breast",
+    "officialTitle": "Histologic Assessment of the Difference Between 18F-2-fluoro-2-deoxy_D-glucose Positron Emission Mammography(PEM) and Magnetic Resonance Imaging (MRI) of the Breast",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "To Evaluate the Accuracy of Preoperative 18FDG PEM",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with recently diagnosed invasive or in situ breast cancer by core needle biopsy or FNA (confirmed at MSKCC) prior to enrollment.\n* Patients planning treatment with mastectomy at MSKCC.\n* Patients 21 years old or older.\n* Patients who had or are having a breast MRI within 30 days or less of PEM.\n* Patients who had or are having a digital mammogram.\n\nExclusion Criteria:\n\n* Patients who are pregnant or breast feeding.\n* Patients with prior radiation therapy or endocrine therapy.\n* Patients who had a prior lumpectomy.\n* Patients who are diabetic.\n* Patients with moderate to end stage kidney disease.\n* Patients who have a contraindication to MRI (i.e. pacemaker, metallic implants, etc).",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

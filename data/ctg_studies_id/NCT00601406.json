@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00601406",
+    "briefTitle": "Study of DNA Mutations in Predicting the Effect of External-Beam Radiation Therapy in Patients With Early Breast Cancer, Localized Prostate Cancer, or Gynecological Cancer",
+    "officialTitle": "Radiogenomics: Assessment of Polymorphisms for Predicting the Effects of Radiotherapy (RAPPER)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Cervical Cancer, Endometrial Cancer, Fallopian Tube Cancer, Ovarian Cancer, Primary Peritoneal Cavity Cancer, Prostate Cancer, Sarcoma, Vaginal Cancer, Vulvar Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2200,
+    "primaryOutcomeMeasure": "Correlation of association between common genetic variations, reported by single nucleotide polymorphisms (SNP) in relevant candidate genes, with individual patient variability in normal tissue radiation response and toxicity",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Patients must have received curative external-beam radiotherapy within the context of a formal clinical study for any of the following:\n\n  * Early breast cancer after breast-conserving surgery\n  * Localized prostate cancer\n  * Gynecological cancer (may have also received brachytherapy)\n* Venous blood samples must be available\n* Patients will be identified from the following clinical studies:\n\n  * Cambridge intensity-modulated radiotherapy breast randomized trial\n  * RT01 prostate radiotherapy randomized trial/other prostate trials\n  * Christie hospital breast, prostate, and gynecological cancer radiotherapy patients\n* Must have minimum follow up with late normal tissue effect scoring for two years available\n\nPATIENT CHARACTERISTICS:\n\n* No other malignancy prior to treatment for the specified tumor types except basal cell or squamous cell carcinoma of the skin or in situ carcinoma\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03742349",
+    "briefTitle": "Study of Safety and Efficacy of Novel Immunotherapy Combinations in Patients With Triple Negative Breast Cancer (TNBC).",
+    "officialTitle": "A Phase Ib, Multicenter, Open-label Dose Escalation and Expansion Platform Study of Select Immunotherapy Combinations in Adult Patients With Triple-negative Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Triple Negative Breast Cancer (TNBC)",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 64,
+    "primaryOutcomeMeasure": "Incidence of Adverse Events (AEs) and Serious Adverse Events (SAEs) as a measure of safety",
+    "eligibilityCriteria": "Main Inclusion Criteria:\n\n* Patients with advanced/metastatic TNBC (defined as HER-2 negative with \\<1% of tumor cell nuclei immunoreactive for estrogen receptor (ER) and progesterone receptor (PR)), with measurable disease as determined by RECIST version 1.1 (refer to Appendix 16.1). Tumor lesions previously irradiated or subjected to other loco-regional therapy will only be considered measurable if there is documented disease progression at the treated site prior to study entry.\n* Patients should have received standard chemotherapy for advanced or metastatic disease but should not have received more than 2 prior lines of chemotherapy. Neoadjuvant or adjuvant chemotherapy will count as one prior line.\n* Patients must have received prior systemic treatment that included taxane-based chemotherapy for neoadjuvant or metastatic disease.\n* Patients must have a site of disease amenable to core needle biopsy, and be a candidate for tumor biopsy according to the treating institution's guidelines. Patients must be willing to undergo a new tumor biopsy at screening, and during therapy on the study. Exceptions may be considered after documented discussion with Novartis. Patients with available archival tumor tissue obtained \u22646 months prior to study treatment initiation do not need to undergo a new tumor biopsy at screening, if the patient has not received any anti-cancer therapy since the biopsy was taken, and if adequate tissue is available.\n\nMain exclusion criteria applicable to all treatment arms:\n\n* Patient has received prior treatment with anti-LAG-3, anti-PD-1, anti-PD-L1, or anti-PD-L2 antibody (any line of therapy).\n* Presence of symptomatic central nervous system (CNS) metastases, or CNS metastases that require local CNS-directed therapy (such as radiotherapy or surgery), or increasing doses of corticosteroids within 2 weeks prior to initiating study treatment.\n* History of severe hypersensitivity reactions to any ingredient of study drug(s) and other mAbs and/or their excipients.\n* Impaired cardiac function or clinically significant cardiac disease.\n* HIV infection.\n* Patients with active hepatitis B virus (HBV) or hepatitis C virus (HCV) infection, including those with inactive disease for patients receiving either capmatinib, MCS110 or canakinumab.\n* Active, known or suspected autoimmune disease.\n* History of or current interstitial lung disease or pneumonitis grade \u2265 2.\n* Subjects with tuberculosis (TB), for patients receiving either MCS110 or canakinumab.\n\nOther eligibility criteria apply.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

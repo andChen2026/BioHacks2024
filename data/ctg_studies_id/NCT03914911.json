@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03914911",
+    "briefTitle": "In Vivo Smart Biopsy Device Protocol In Radiology",
+    "officialTitle": "In Vivo Smart Biopsy Device Protocol In Radiology",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Image Guided Biopsy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 41,
+    "primaryOutcomeMeasure": "Incidence of adverse events (AEs) and serious adverse events (SAEs) Adverse events (AEs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women over 18 years of age\n* Undergoing ultrasonic guided core needle biopsy procedure due to abnormality in the breast\n* Signed Informed Consent Form\n\nExclusion Criteria:\n\n* Concurrent infectious disease\n* Pregnancy or breastfeeding\n* Participating in any other investigational study for either drug or device which can influence collection of valid data under this study\n* Implanted devices / Implants in the operated breast",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

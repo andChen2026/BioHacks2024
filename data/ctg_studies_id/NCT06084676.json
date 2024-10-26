@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06084676",
+    "briefTitle": "Organoid Model Predictive of Response to Immunotherapies",
+    "officialTitle": "Organoid Model Predictive of Response to Immunotherapies",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "Calculate overall patient response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. \u2265 18 years old at the time of informed consent\n2. Ability to provide written informed consent and HIPAA authorization\n3. Biopsy proven diagnosis of cancer\n4. Able to obtain at least 2 16 gage cores of fresh tissue safely (3 or more cores preferred)\n5. Planning to undergo standard of care Immunotherapy\n6. Baseline standard of care CT within 8 weeks of starting Immunotherapy\n\nExclusion Criteria:\n\n1. Inability to provide fresh biopsy sample\n2. Any active infections\n3. Any conditions that in the opinion of treating physician and the study team will compromise the ability of the patient to receive prescribed treatment to assess the response.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

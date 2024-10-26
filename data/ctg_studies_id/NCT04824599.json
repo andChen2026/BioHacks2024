@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04824599",
+    "briefTitle": "Regional Anesthesia and Partial Mastectomy",
+    "officialTitle": "Interpectoral and Pectoserratus Plane Block vs Local Anesthetic Infiltration for Partial Mastectomy - a Prospective Randomized Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "maximal pain in PACU measured with 11 point numerical rating scale (NRS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women scheduled for partial mastectomy (lumpectomy).\n\nExclusion Criteria:\n\n* Scheduled cryosection\n* Axillary node dissection\n* Re-resection\n* Age under 18 or unable to give an informed concent\n* Chronic pain history\n* Allergy to local anesthetics\n* History of active drug addiction\n* Pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

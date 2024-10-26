@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01655004",
+    "briefTitle": "Prospective Study of UDP-gluconoryltransferase 2B17 Genotype as a Predictive Marker of Exemestane PK and PD",
+    "officialTitle": "Prospective Study of UDP-gluconoryltransferase (UGT) 2B17 Genotype as a Predictive Marker of Exemestane Pharmacokinetics and Pharmacodynamics in Asian Women With Hormone Receptor-positive Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 110,
+    "primaryOutcomeMeasure": "Correlation of UGT2B17*2 deletion genotype with clinical benefit rate (CBR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, Age \u2265 21 years\n* Histologically-proven hormone-receptor positive metastatic breast carcinoma\n* A minimum of one prior line of endocrine therapy in the metastatic setting. First-line therapy is permitted if the patient relapses while on or within 6 months of adjuvant endocrine therapy.\n* Patients with both measurable and non-measurable disease as per the Response Evaluation Criteria In Solid Tumours (RECIST) v1.1 may be enrolled.\n* Eastern co-operative group (ECOG) performance status of \\< 2 and estimated life expectancy of at least 12 weeks\n* Post-menopausal women\\* or pre-menopausal women on ovarian suppression with FSH and plasma oestradiol levels in menopausal range within 21 days of study enrollment\n* Adequate organ function including the following:\n\nBone marrow:\n\n* Absolute neutrophil (segmented and bands) count (ANC) \u2265 1.5 x 109/L\n* Platelets \u2265 100 x 109/L\n\nHepatic:\n\n* Bilirubin \u2264 1.5 x upper limit of normal (ULN),\n* ALT and AST \u2264 2.5x ULN\n\nRenal:\n\no Calculated creatinine clearance \\>35ml/minute\n\n* Signed informed consent from patient or legal representative\n* Pre-menopausal females must have a negative serum pregnancy test within 21 days of study enrollment\n\nExclusion Criteria:\n\n* Concurrent administration of other anti-tumor therapies, including cytotoxic chemotherapy, hormonal therapy, and immunotherapy are prohibited. Concomitant bisphosphonates and gonadotropin-releasing hormone therapy are allowed.\n* Patients must have recovered from the toxicities of the previous anti-cancer therapy.\n* Second primary malignancy that is clinically detectable at the time of consideration for study enrollment.\n* Prior use of exemestane in the metastatic setting or relapse while on adjuvant exemestane or within 6 months of completing adjuvant exemestane.\n* Major surgery within 28 days of study drug administration.\n* Concomitant use of potent CYP3A4 inducers (Table 1, section 3.5.3); a washout period of 14 days is required for patients discontinuing these medications prior to study enrollment.\n* Active infection that in the opinion of the investigator would compromise the patient's ability to tolerate therapy.\n* Pregnancy.\n* Breast feeding.\n* Serious concomitant disorders that would compromise the safety of the patient or compromise the patient's ability to complete the study, at the discretion of the investigator.\n* Symptomatic brain metastasis.",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

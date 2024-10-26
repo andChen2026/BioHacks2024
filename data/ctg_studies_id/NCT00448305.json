@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00448305",
+    "briefTitle": "EndoTAG-1 in Triple Receptor Negative Breast Cancer Patients",
+    "officialTitle": "An Open-label, Randomized, Controlled Phase-II Trial Evaluating the Efficacy and Safety of EndoTAG-1 in Triple Receptor Negative Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 143,
+    "primaryOutcomeMeasure": "4-month progression free survival (PFS) rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven triple-receptor-negative metastatic or relapsed breast cancer\n* Minimum interval of 6 months after the end of any previous taxane- containing chemotherapy regimen\n* At least one tumor lesion measurable according to RECIST criteria\n* Gender: female\n* Age \\>= 18 years old\n* Negative pregnancy test (females of childbearing potential)\n* Willingness to perform double-barrier-contraception during study and for 6 months post chemotherapy treatment\n* ECOG performance status 0, 1 or 2\n* Signed informed consent\n\nExclusion Criteria:\n\n* More than 1 previous chemotherapeutic treatment for metastatic or relapsed disease\n* Major surgery \\< 4 weeks prior to enrollment\n* Immunotherapy \\< 2 weeks prior to enrollment\n* Severe pulmonary obstructive or restrictive disease\n* Uncontrolled inflammatory disease (autoimmune or infectious)\n* Clinically significant cardiac disease (NYHA stadium \\> 2)\n* Laboratory tests (hematology, chemistry) outside specified limits\n* Pregnancy or nursing status\n* Known positive HIV testing\n* Known hypersensitivity to any component of the EndoTAG-1 or taxane formulations\n* History of malignancy other than breast cancer \\< 5 years prior to enrollment, except skin cancer (i.e. basal or squamous cell carcinoma) treated locally\n* Known progressive cerebral metastasis (patients with cerebral metastases in a stable state or after successful surgical or radiological treatment are allowed to participate in the study)\n* History of active or significant neurological disorder or psychiatric disorder that would prohibit the understanding and giving of informed consent, or would interfere in the clinical and radiological evaluation of central nervous system during the trial\n* Concurrent treatment with other experimental drugs. Participation in another clinical trial with any investigational not marketed drug within 30 days prior to study entry",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

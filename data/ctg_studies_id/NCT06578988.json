@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06578988",
+    "briefTitle": "Use of Artificial Intelligence in the Symptomatic BReAst Clinic SEtting",
+    "officialTitle": "Use of Artificial Intelligence in the Symptomatic BReAst Clinic SEtting - A Retrospective Study (AI-BRACE)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Cancer, Breast",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 25000,
+    "primaryOutcomeMeasure": "Performance of screening tool on symptomatic data, in terms of sensitivity and specificity.",
+    "eligibilityCriteria": "Inclusion criteria\n\n* Patients 18 years or older attending symptomatic breast clinic.\n* Mammography images, including both full field two-dimensional digital mammography and digital breast tomosynthesis.\n* Dates of attendance will be from January 2015\\* to December 2019 at the lead data collection site. Dates of collection may be different at the other sites depending on local data curation consideration but will be a minimum of 2 years prior to study start to allow determination of ground truth.\n\n  * If any mammography images prior to 2015 should be available at the lead site, these will be collected as well (a maximum of 3). Prior mammograms will also be collected at the other sites if available, depending on local PACS set-up.\n\nExclusion criteria\n\n* Patients under the age of 18 years.\n* Patients on the National data opt out.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

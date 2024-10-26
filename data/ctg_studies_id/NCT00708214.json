@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00708214",
+    "briefTitle": "BIBW 2992 and Letrozole in Hormonoresistant Metastatic Breast Cancer",
+    "officialTitle": "A Phase II Study of BIBW 2992 Administration in Patients With Hormone Refractory Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "Percentage of Progression Free Participants After 16 Weeks of Treatment",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Female patients with histologically proven breast adenocarcinoma\n* Presence of metastatic disease No more than 2 prior chemotherapy regimens for metastatic disease, which could include trastuzumab Patients must currently be on letrozole and developed acquired resistance as defined by disease progression on letrozole following previous response (partial response or better, stable disease superior or equal to 24 weeks)\n\nDiagnosis of disease progression inferior or equal to 6 weeks prior to trial entrydefined as:\n\n1. Increase in the number of bone lesions on bone scan or on MRI AND/OR\n2. Increased pain in an area of known bony metastasis AND superior or equal to 2 serial elevations in CA 15.3 AND/OR\n3. Progression according to RECIST criteria on CT scan, MRI, or x-ray Patients must have documented menopause confirmed by estradiol level inferior to 11 pg/ml\n\nExclusion criteria:\n\n* Premenopausal patients\n* Rapidly progressive disease in major organs (i.e. lymphangitic spread in the lung and/or bulky liver metastasis) Patient with brain metastasis Significant cardiovascular diseases Previous treatment with an EGFR and/or HER-2 inhibiting drug(patients who received trastuzumab with chemotherapy but not with letrozole can be enrolled)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

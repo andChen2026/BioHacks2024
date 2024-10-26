@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05359120",
+    "briefTitle": "Pyrotinib Combined With Capecitabine in HER-2 Positive Advanced Breast Cancer and Brain Metastases (Post-PERMEATE)",
+    "officialTitle": "A Nationwide Multicenter, Ambispective Real-world Study of Pyrotinib Combined With Capecitabine in Patients With HER-2 Positive Advanced Breast Cancer and Brain Metastases (Post-PERMEATE)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Time to Failure(TTF)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Pathologically diagnosed patients with HER-2 expression-positive advanced breast cancer; Note: Positive HER2 expression refers to at least one tumor cell immunohistochemical staining intensity of 3+ or fluorescence in situ hybridization \\[FISH\\] in the pathological detection/recheck of the primary or metastatic lesions performed by the pathology department of the participating central hospital confirmed positive;\n2. Brain metastases are diagnosed by MRI/enhanced CT imaging, according to RECIST 1.1 criteria, with or without measurable lesions and with or without symptoms of brain metastases;\n3. Pyrotinib combined with capecitabine in the treatment of brain metastases with non-PD evaluation at the first treatment, at least \u2265 2 continuous imaging reports or assessments\n4. For previous treatment regimens, no previous use of capecitabine or progression after capecitabine discontinuation for 6 months, or progression after discontinuation of capecitabine adjuvant therapy for one year or more;\n5. There are traceable medical history data.\n\nExclusion Criteria:\n\n1. Patients enrolled in the previous PERMEATE study;\n2. The research program is receiving other anti-tumor drug treatment at the same time;\n3. The initial dose of pyrotinib is lower than the minimum dose in the instructions (240 mg), and the capecitabine is 50% lower than the standard dose;\n4. Pyrotinib combined with capecitabine in the treatment of non-brain metastases and progressive patients;\n5. The investigator believes that the patient is not suitable to enter this study.",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

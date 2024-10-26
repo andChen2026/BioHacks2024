@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03875313",
+    "briefTitle": "Study of CB-839 (Telaglenastat) in Combination With Talazoparib in Patients With Solid Tumors",
+    "officialTitle": "A Phase 1b/2 Open Label, Dose Escalation and Expansion Study of the Glutaminase Inhibitor CB-839 in Combination With the PARP Inhibitor Talazoparib in Patients With Advanced or Metastatic Solid Tumors",
+    "overallStatus": "TERMINATED",
+    "conditions": "Solid Tumor, Clear Cell Renal Cell Carcinoma, TNBC - Triple-Negative Breast Cancer, Colorectal Cancer, CRC, RCC, ccRCC",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 33,
+    "primaryOutcomeMeasure": "Number of Participants With Treatment-Emergent Adverse Events (TEAEs) Excluding Deaths Due to Disease Progression",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n(Part 1)\n\n-Documented incurable/locally advanced or metastatic solid tumors that have either relapsed or are refractory or intolerant to standard therapies of proven clinical benefit.\n\n(Part 2) Meets 1 of the 3 defined cohorts:\n\n* Cohort 1: Documented incurable/locally advanced or metastatic ccRCC\n* Cohort 2: Documented incurable/locally advanced or metastatic defined as ER, PR negative (\\<1%) and HER2 negative (immunohistochemistry 0 to 1+ or fluorescence in situ hybridization \\[FISH\\] negative)\n* Cohort 3: incurable/locally advanced or metastatic CRC\n\nFor both Parts 1 \\& 2:\n\n* Recovery to baseline or \u2264 Grade 1 Common Terminology Criteria for Adverse Events (CTCAE) v.5.0 from toxicities related to the prior therapy\n* Adequate renal, hepatic, and hematological function\n* Per Response Evaluation Criteria in Solid Tumours (RECIST) v1.1 evaluable disease (Part 1) or measurable disease (Part 2)\n* Ability to provide written consent in accordance with federal, local and institutional guidelines\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0-1\n\nExclusion Criteria for both Parts 1 \\& 2:\n\n* Prior treatment with CB-839 or a PARP inhibitor\n* Unable to received oral medications\n* Active and/or untreated central nervous system metastasis. Patients with treated brain metastases must have (1) documented radiographic stability of at least 4 weeks duration demonstrated on baseline central nervous system (CNS) imaging prior to study treatment and (2) be symptomatically stable and off steroids for at least 2 weeks before administration of any study treatment.\n* Major surgery within 28 days prior to first dose of study drug\n* Receipt of any anticancer therapy within the following windows: small molecule tyrosine kinase inhibitor therapy (including investigational) within the prior 2 weeks or 5 half-lives prior to C1D1, whichever is longer; any type of anti-cancer antibody or cytotoxic chemotherapy within 4 weeks prior to C1D1; radiation therapy for bone metastasis within 2 weeks prior or any other external radiation therapy within 4 weeks prior to C1D1; patients with clinically relevant ongoing complications from prior radiation therapy are not eligible.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00307229",
+    "briefTitle": "Adenovirus Encoding Rat HER-2 in Patients With Metastatic Breast Cancer (AdHER2.1)",
+    "officialTitle": "A Phase I Trial Investigating the Safety and Immunogenicity of an Adenovirus Encoding Rat HER-2 Administered Intradermally to Patients With Metastatic or Locally Recurrent Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer, Recurrent Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 8,
+    "primaryOutcomeMeasure": "toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. metastatic or locally recurrent breast cancer,\n2. 18 years of age or older,\n3. Her-2/neu positive (3+ by immunohistochemistry or FISH +),\n4. One of the following\n\n   1. currently receiving hormonal therapy or are candidates for such or,\n   2. being considered for trastuzumab or,\n   3. their cancer has progressed on trastuzumab\n\nExclusion Criteria:\n\n1. Pregnant or lactating women.\n2. Prior or concurrent malignancies except treated basal cell or squamous carcinoma of the skin or in situ cancer of the cervix or any other cancer treated and presumed cured more than five years prior to study entry.\n3. Currently receiving chemotherapy, immunotherapy, adenoviral gene therapy or biological cancer therapy. \\[Note: concurrent hormonal therapy (tamoxifen,aromatase inhibitors, or megace) is permitted.\\].\n4. Treatment with trastuzumab within 4 weeks prior to first dose of vaccine therapy.\n5. Hemoglobin \\< 80 g/L or granulocytes \\< 1.5 x 109 /L or lymphocytes \\< 1.0 x 109 /L or platelets \\< 100 x 109 /L.\n6. Baseline liver enzymes (AST or ALT) greater than 3 times upper limit of normal or greater than 5 times upper limit of normal if liver metastases present and/or bilirubin greater than 50 mmol.\n7. CD4 cells \\< 0.5 x 109 /L\n8. Patients with documented brain metastases.\n9. Patients with any acute illness that would interfere with vaccination\n10. Any patients requiring concurrent immunosuppressive therapy (e.g. corticosteroids).\n11. Eastern Cooperative Oncology Group (ECOG) performance status of \\> 2.\n12. Patients with a life expectancy of less than 6 months.\n13. Geographic inaccessibility which would preclude follow-up. Patients registered on the trial must be treated and followed at the Jewish General Hospital.\n14. Failure to give written informed consent.\n15. Baseline left ventricular ejection fraction (LVEF) \\< 55% by echocardiography or MUGA scan.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

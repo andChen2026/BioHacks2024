@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00003674",
+    "briefTitle": "Standard Therapy With or Without Dalteparin in Treating Patients With Advanced Breast, Lung, Colorectal, or Prostate Cancer",
+    "officialTitle": "Phase III Double-Blind Trial Comparing Low-Molecular Weight Heparin (LMWH) Versus Placebo in Patients With Advanced Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Colorectal Cancer, Lung Cancer, Prostate Cancer, Veno-occlusive Disease",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 141,
+    "primaryOutcomeMeasure": "Overall survival rate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS: Histologically or cytologically proven breast, lung, colorectal, or prostate cancer that has failed prior chemotherapy or hormone therapy No active CNS metastases Hormone receptor status: Not specified\n\nPATIENT CHARACTERISTICS: Age: 18 and over Menopausal status: Not specified Performance status: ECOG 0-2 Life expectancy: At least 12 weeks Hematopoietic: WBC at least 3500/mm3 Platelet count at least 150,000/mm3 Fibrinogen above lower limits of normal Hepatic: Bilirubin no greater than 1.5 times upper limit of normal (ULN) SGOT no greater than 3 times ULN Prothrombin time no greater than 1.5 times ULN Active partial thromboplastin time no greater than 1.5 times ULN Renal: Creatinine no greater than 1.5 times ULN Other: No history of heparin associated thrombocytopenia At least 1 year since prior thromboembolic phenomenon such as deep venous thrombosis, pulmonary embolus, or clotted catheter No prior intolerance of unfractionated or low molecular weight heparin\n\nPRIOR CONCURRENT THERAPY: No concurrent anticoagulation therapy No concurrent enrollment on systemic or radiation therapy study (therapy off study allowed)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

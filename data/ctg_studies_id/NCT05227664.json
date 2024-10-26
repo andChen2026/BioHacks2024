@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05227664",
+    "briefTitle": "A Study of AK117/AK112 in Metastatic Triple-Negative Breast Cancer",
+    "officialTitle": "A Phase II Study of AK117/AK112 in Combination With Chemotherapy for Patients With Previously Untreated Metastatic Triple-Negative Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Metastatic Triple-negative Breast Cancer, Locally Advanced Triple-negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Objective response rates (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Metastatic or locally advanced, histologically documented TNBC characterized by absence of human epidermal growth factor 2 (HER2), estrogen receptor (ER), and progesterone receptor (PR) expression\n* No prior chemotherapy or targeted systemic therapy for inoperable locally advanced or metastatic TNBC\n* Eligible for taxane monotherapy\n* A representative formalin-fixed, paraffin-embedded tumor specimen in paraffin blocks, or at least 5 unstained slides with an associated pathology report documenting ER, PR, and HER2 negativity.\n* Eastern Cooperative Oncology Group performance status of 0 or 1\n* Measurable disease as defined by RECIST v1.1\n* Adequate hematologic and end-organ function\n\nExclusion Criteria:\n\n* Known central nervous system (CNS) disease, except for asymptomatic CNS metastases\n* Leptomeningeal disease\n* Pregnancy or lactation\n* History of autoimmune disease\n* Prior allogeneic stem cell or solid organ transplantation\n* Positive test for human immunodeficiency virus\n* Active hepatitis B or hepatitis C\n* Receipt of a live, attenuated vaccine within 30 days prior to randomization, during treatment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

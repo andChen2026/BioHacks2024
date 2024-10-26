@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02605512",
+    "briefTitle": "BreAst Cancer and Cardiotoxicity Induced by RAdioTherapy: the BACCARAT Study",
+    "officialTitle": "Early Detection and Prediction of Cardiotoxicity in Radiotherapy-treated Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Cardiac Toxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 118,
+    "primaryOutcomeMeasure": "Number of patients with decreased myocardial function assessed by echocardiography",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age between 50 and 70 years\n* Women surgically treated for left or right breast cancer and for whom adjuvant treatment is radiotherapy with irradiation of the breast or chest wall irradiation and possibly ganglion chains,\n* Adjuvant radiotherapy with 3DCRT performed in Clinique Pasteur Toulouse\n* WHO performance status ECOG - Eastern Cooperative Oncology Group (index normally used to describe the patient's condition) = 0 or 1\n* Being volunteer to participate in the study and have signed the consent form\n\nExclusion Criteria:\n\n* Indication of adjuvant chemotherapy\n* Clinically or radiologically detectable metastasis\n* Personal history of coronary artery disease or myocardial disease\n* Personal history of breast cancer or other cancer requiring radiotherapy to the thorax\n* Patient with controlled infection or severe disease and / or non-hazardous to their participation in the study\n* Contraindications to injection of iodinated contrast (for CCTA): pregnancy, renal failure, allergy.\n* Pregnancy, lactation\n* Abnormal echocardiography before radiotherapy:\n* LVEF \\<50%\n* Longitudinal strain\\> - 16%\n* Longitudinal strain rate \\<1% / s\n* Abnormal wall motion\n* CCTA before radiotherapy showing that therapeutic management is required (coronary-artery calcium (CAC) score\\>600)",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

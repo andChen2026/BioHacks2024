@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01491737",
+    "briefTitle": "A Study of Pertuzumab in Combination With Trastuzumab Plus an Aromatase Inhibitor in Participants With Metastatic Human Epidermal Growth Factor Receptor 2 (HER2)-Positive and Hormone Receptor-Positive Advanced Breast Cancer",
+    "officialTitle": "A Randomized, Two-Arm, Open-Label, Multicenter Phase II Trial Assessing the Efficacy and Safety of Pertuzumab Given in Combination With Trastuzumab Plus an Aromatase Inhibitor in First Line Patients With HER2-Positive and Hormone Receptor-Positive Advanced (Metastatic or Locally Advanced) Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 258,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants with HER2-positive and hormone receptor-positive advanced metastatic or locally advanced breast cancer\n* Post-menopausal status over 1 year\n* HER2-positive as assessed by local laboratory on primary or metastatic tumor\n* Hormone-receptor positive defined as estrogen receptor-positive and/or progesterone receptor-positive\n* At least one measurable lesion and/or non-measurable disease evaluable according to Response Evaluation Criteria In Solid Tumors Version 1.1\n\nExclusion Criteria:\n\n* Previous systemic non-hormonal anticancer therapy in the metastatic or locally advanced breast cancer setting\n* Previous treatment with anti-HER2 agents for breast cancer, except trastuzumab and/or lapatinib in the neoadjuvant or adjuvant setting\n* Disease progression while receiving adjuvant trastuzumab and/or lapatinib treatment\n* History of persistent Grade 2 or higher hematological toxicity according to National Cancer Institute-Common Toxicity Criteria Version 4.0\n* Disease-free interval from completion of adjuvant/neo-adjuvant systemic non-hormonal treatment to recurrence of within 6 months\n* Other malignancies within the last 5 years, except for carcinoma in situ of the cervix or basal cell carcinoma\n* Clinical or radiographic evidence of central nervous system metastases or significant cardiovascular disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

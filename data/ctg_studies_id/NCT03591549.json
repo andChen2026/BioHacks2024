@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03591549",
+    "briefTitle": "Fulvestrant in Metastatic Breast Cancer",
+    "officialTitle": "Role of Fulvestrant in The Treatment of Metastatic Breast Cancer in Premenopausal Women",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Progression free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with age 30-50 years old (premenopause).\n* Histological confirmation of metastatic disease.\n* Hormonal receptor positive.\n* Endocrine therapy for early disease had been completed more than 12 months before the study (patients who was not resistance to hormonal therapy).\n* Metastatic breast cancer at presentation.\n* Patients had not received any previous systemic therapy for metastatic disease.\n* Performance status (ECOG) 0-2.\n\nExclusion Criteria:\n\n* Patient \\>55 years old.\n* Non-histologically diagnosed.\n* Hormonal receptor negative\n* Non metastatic\n* received previous line therapy in the metastatic setting.\n* Patient with performance \\>2.\n* Patient with co-morbidity\n* Patients with brain metastasis",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT"
+}

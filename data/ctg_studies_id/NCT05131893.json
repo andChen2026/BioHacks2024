@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05131893",
+    "briefTitle": "Neoadjuvant Treatment of Breast Cancer",
+    "officialTitle": "Neoadjuvant Treatment of Breast Cancer - a Prospective Observational Study, PANnon ONCology (PANONC) Group Non-commercial Clinical Trial",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "pathological complete remission rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Participant over 18 years of age .\n2. Histologically confirmed (core biopsy) invasive breast tumor.\n3. Tumor extent for the indication:\n\n   * regression must be achieved for radical surgical removal or\n   * regression is required for breast-conserving surgery or\n   * if hormone receptor (HR)-positive and Her2-: stage IIB (cT2N1 or cT3NO) - IIIC,\n   * if HR-negative: stage IIA (cT2N0 or cT0-1N1) - IIIC Note: In the case of a locally advanced, irresectable case, if the possibility of radical surgery later is a realistic goal, the participant may be included in the study.\n4. Appropriate general condition: ECOG 0-1\n5. Proper organ function\n\n   * Neutrophil count \u2265 1.5 G / l, platelet count \u2265 100 G / l, hemoglobin \u2265 10 g / dl\n   * Alanine aminotransferase (ALT) / aspartate aminotransferase (AST) is less than 1.5 times the upper limit of the normal range\n   * bilirubin less than 1.5 times the upper limit of the normal range (except Gilbert's disease, where less than 3 times)\n   * creatinine less than 1.5 times the upper limit of the normal range or estimated glomerular filtration rate (eGFR) higher than 60 ml / min\n\nExclusion Criteria:\n\n1. Proven or suspected distant metastasis.\n2. No staging studies have been performed: at least chest x-ray, abdominal ultrasound. It is preferred to perform CT from the chest, abdomen, pelvic regions and bone isotope, or PET / CT if possible in case of lymph node involvement.\n3. Known significant heart disease: major arrhythmia or significant conduction defect (grade 2 or more), infarction or unstable angina within 6 months, cardiac collapse without appropriate therapy, long QT syndrome, heart failure (\u2265New York Heart Association/NYHA II)\n4. Other severe acute or chronic conditions (organic or psychiatric illness, laboratory abnormality) that, in the opinion of the treating physician, result in an unacceptable increase in the risk of chemotherapy and are contraindicated in routine clinical practice.\n5. Pregnancy or if the participant does not agree to use an appropriate non-hormonal method of contraception.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03760588",
+    "briefTitle": "Prevention of Cardiac Dysfunction During Breast Cancer Therapy",
+    "officialTitle": "PRevention of cArdiac Dysfunction During Adjuvant Breast Cancer Therapy: A Randomized, Placebo-controlled, Multicenter Trial",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer Female, Heart Failure",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 214,
+    "primaryOutcomeMeasure": "Change in left ventricular ejection fraction by cardiovascular magnetic resonance",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with histological evidence of invasive early breast cancer scheduled for adjuvant therapy with anti-cancer regimens that include anthracyclines\n* Eastern Cooperative Oncology Group performance status 0-1\n* Sinus rhythm\n\nExclusion criteria:\n\n* Age \\<18 years\n* Renal failure, i.e. serum creatinine greater than 133 mol/L (1.5mg/dL) or estimated glomerular filtration rate (eGFR) \\< 45 mL/min/1.73m2\n* Hyperkalemia, i.e. serum potassium greater than 5.0 mmol/L\n* Systolic blood pressure \\< 100 mgHg\n* Uncontrolled hypertension\n* Acute myocardial infarction within the last three months\n* Contraindication to ACEI or ARB or sacubitril/valsartan, including previous hypersensitivity reaction, angioedema and renal artery stenosis\n* ACEI, ARB, aldosterone antagonist or sacubitril/valsartan use within 4 weeks of study start\n* Clear indication for ACEI, ARB, aldosterone antagonist or sacubitril/valsartan therapy, including symptomatic heart failure\n* History of hemodynamically significant valvular disease\n* Active liver disease, i.e. alanine aminotransferase or aspartate aminotransferase greater than 1.5 times the upper limit of normal\n* Participation in another pharmaceutical clinical trial of an investigational medicinal product (IMP) less than 4 weeks prior to inclusion or use of other investigational drugs within 5 halflives of enrollment, whichever is longer\n* Conditions that would affect the participants to comply with the study protocol as psychiatric or mental disorders, alcohol abuse or other substance abuse, suspected poor drug compliance, language barriers or other factors\n* Contraindication or inability to undergo CMR examination\n* Fertile women with inadequate birth control, pregnancy, and/or breastfeeding. Adequate contraception includes oral, injected or implanted hormonal methods of contraception, placement of an intrauterine device or system, vasectomized partner or sexual abstinence. Fertile women are defined as following menarche and until becoming postmenopausal unless permanently sterile. A postmenopausal state is defined as no menses for 12 months without an alternative medical cause\n* Life expectancy \\< 12 months",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

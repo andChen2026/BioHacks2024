@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05383144",
+    "briefTitle": "Deformable Image Registration for Breast Adaptive Tomotherapy",
+    "officialTitle": "Quantitative Evaluation of the Performance of a Deformable Registration Algorithm: Single-center Study Aimed at Implementing a New Off-line Adaptive Radiotherapy Technique in the Treatment of Breast Cancer by Tomotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Differences between dosimetric metrics on deformed and delineated contours.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nFemale\n\n* With invasive breast carcinoma (or axillary lymphadenopathy whose pathological examination is compatible with the origin of breast cancer but without an identified primary breast tumor)\n* Breast surgery (conservative surgery or mastectomy)\n* Treated by (neo)adjuvant chemotherapy or hormonotherapy\n* eligible to normo-fractionated breast radiotherapy in 25 sessions of 2 Gray or 15 sessions of 2.67 Gray, associated or not to bed irradiation whatever the delivered dose\n* eligible to an irradiation of sus-clavicular, inner mammary chain or axillary lymph nodes\n* With helicoidal tomotherapy\n\nExclusion Criteria:\n\n* Absence of indication for breast radiotherapy\n* Absence of indication for lymph nodes irradiation\n* partial irradiation of breast\n* in situ carcinoma\n* intranodal isolated tumor cells\n* radiotherapy on prosthesis or surgically reconstructed breast\n* antecedent of breast irradiation opr homolateral lymh node irradiation\n* bilateral breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01869764",
+    "briefTitle": "Omega-3 Fatty Acid in Treating Patients With Stage I-III Breast Cancer",
+    "officialTitle": "A Randomized, Placebo-Controlled Phase II Clinical Trial of Omega-3 PUFA Dietary Supplementation in Patients With Stage I-III Breast Carcinoma",
+    "overallStatus": "COMPLETED",
+    "conditions": "Ductal Breast Carcinoma in Situ, Lobular Breast Carcinoma in Situ, Male Breast Cancer, Stage IA Breast Cancer, Stage IB Breast Cancer, Stage II Breast Cancer, Stage IIIA Breast Cancer, Stage IIIB Breast Cancer, Stage IIIC Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 57,
+    "primaryOutcomeMeasure": "PUFA Levels in Normal and Metastatic Breast Tissue",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Newly diagnosed stage I to III breast cancer and carcinoma in situ (including lobular carcinoma in situ \\[LCIS\\] and ductal carcinoma in situ \\[DCIS\\])\n* Breast surgery (lumpectomy or mastectomy) is planned for at least 7 days from the day of enrollment\n* Ability to understand and the willingness to sign an Institutional Review Board (IRB)-approved written informed consent document\n* Tumor measures at least 1 centimeter on imaging or physical exam\n\nExclusion Criteria:\n\n* Any patient with surgery scheduled \\< 7days after biopsy\n* Patients who are unable to refrain from the use of any NSAID or full-dose acetylsalicylic acid (ASA)-containing NSAID while taking study drug\n* Patients who will receive neoadjuvant chemotherapy are not eligible\n* Patients who are currently taking omega-3 fatty acids, as they are unable to be randomized to placebo\n* Patients who have previously taken omega-3 fatty acid within 1 month prior to study enrollment\n* Patients with an allergy or known hypersensitivity to fish",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

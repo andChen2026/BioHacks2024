@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00413322",
+    "briefTitle": "Study of PXD101 Alone and in Combination With 5-Fluorouracil (5-FU) in Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase I Safety, Pharmacodynamic, Anti-Tumor Activity, and Pharmacokinetic Study of PXD101 Alone and in Combination With 5-Fluorouracil in Patients With Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "to determine the maximum tolerated dose of PXD101 administered in combination with 5-FU",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed solid tumors\n* Advanced colorectal cancer or other adenocarcinomas\n* Tumor progression after standard chemotherapy, or where none yet approved\n* At least one unidimensionally measurable lesion\n* Karnofsky performance \\>= 70%\n* Life expectancy of at least 3 months\n* Age \\>= 18 years\n* Signed, written Institutional Review Board (IRB)-approved informed consent\n* Acceptable liver function:\n\n  * Bilirubin \\<= 1.5 x upper limit of normal (ULN)\n  * AST (SGOT) and ALT (SGPT) \\<= 2.5 x ULN, OR\n  * AST (SGOT) and ALT (SGPT) \\<= 5 x ULN if liver metastasis\n* Acceptable renal function:\n\n  * Serum creatinine within normal limits, OR\n  * Calculated creatinine clearance of \\>= 60 mL/min/1.73 m2 for certain patients\n* Acceptable hematologic status:\n\n  * Absolute neutrophil count (ANC) \\>= 1500 cells/mm3\n  * Platelet count \\>= 100,000 (plt/mm3)\n  * Hemoglobin \\>= 9 g/dL\n* Urinalysis: No clinically significant abnormalities\n* Acceptable coagulation status:\n\n  * Prothrombin time (PT)/partial thromboplastin time (PTT) within normal limits, OR\n  * For patients on anticoagulation therapy, status within therapeutic range\n* For men and women of child-producing potential, use of effective contraception\n* Tumors accessible for needle biopsy\n\nExclusion Criteria:\n\n* Significant cardiovascular disease.\n* A marked baseline prolongation of QT/QTc interval\n* Long QT syndrome\n* Required use of medication on dosing days that may cause torsade de pointes.\n* Infections requiring intravenous (IV) systemic therapy\n* Pregnant or nursing women\n* Treatment with chemotherapy or investigational therapy \\< 4 weeks (28 days) prior to study entry (6 weeks for nitrosoureas, mitomycin C, or Avastin).\n* Treatment with radiation therapy or surgery either within 2 weeks prior to study entry, or not yet recovered if 2-4 weeks prior to study entry.\n* Unwillingness or inability to comply with protocol procedures.\n* Known active uncontrolled infection with HIV, hepatitis B, or hepatitis C\n* Serious nonmalignant disease (e.g. hydronephrosis, liver failure, or other conditions) that could compromise protocol objectives in the opinion of the investigator and/or the sponsor\n* Concurrent use of other investigational agent(s)\n* Serious concurrent medical illness",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

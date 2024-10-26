@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01564056",
+    "briefTitle": "Adjuvant Systemic Treatment for (ER)-Positive HER2-negative Breast Carcinoma in Women Over 70 According to Genomic Grade (GG): Chemotherapy + Endocrine Treatment Versus Endocrine Treatment",
+    "officialTitle": "Adjuvant Systemic Treatment for Oestrogen-receptor (ER)-Positive HER2-negative Breast Carcinoma in Women Over 70 According to Genomic Grade (GG): Chemotherapy + Endocrine Treatment Versus Endocrine Treatment. A French UNICANCER Geriatric Oncology Group (GERICO) and Breast Group (UCBG) Multicentre Phase III Trial",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1989,
+    "primaryOutcomeMeasure": "Overall survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged \u2265 70 yo,\n* Histologically proven invasive breast cancer (regardless of the type),\n* Complete surgery performed before enrolment: radical modified mastectomy or breast conservative surgery, with either a sentinel lymph node procedure or axillary lymph node dissection,\n* Any N status (pN+ or pN0),\n* No clinically or radiologically detectable metastases (M0),\n* Oestrogen receptor (ER)-positive, as defined by a \u2265 10% tumor stained cells by immunohistochemistry (IHC),\n* HER2 negative status (i.e. IHC score 0 or 1+, or IHC score 2+ and FISH/SISH/CISH negative),\n* Normal haematological function: ANC \u2265 1,500/mm3; platelets count \u2265 100,000/mm3; haemoglobin \\> 9 g/dl,\n* Normal hepatic function: total bilirubin \u2264 1.25 ULN; ASAT and ALAT \u2264 1.5 ULN; alkaline phosphatases \u2264 3 ULN,\n* Creatinine clearance (MDRD formula) \u2265 40 mL/min,\n* PS (ECOG) \u2264 2,\n* Patient able to comply with the protocol,\n* Patients must have signed a written informed consent form prior to any study specific procedures, including the agreement for the use of archived tumoral material for genomic screening and data collection,\n* Patients must be affiliated to a Social Health Insurance.\n\nExclusion Criteria:\n\n* Any metastatic impairment, including homolateral sub-clavicular node involvement, regardless of its type,\n* Any tumor \u2265 T4a (UICC1987) (cutaneous invasion, deep adherence, inflammatory breast cancer),\n* ER-negative breast cancer (i.e. \\<10% tumor stained cells by IHC),\n* HER2 overexpression, defined as IHC score 3+ or score 2+ and FISH/SISH/CISH positive,\n* Any chemotherapy, hormonal therapy or radiotherapy for breast cancer before surgery,\n* PS (ECOG) \u2265 3,\n* Any specific contra-indication to the study drugs (including but not limited to hypersensitivity to the study drugs or their components),\n* Patient deprived of freedom or under tutelage,\n* Patient unable to comply with the required medical follow-up for geographic, social or psychological reasons.",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

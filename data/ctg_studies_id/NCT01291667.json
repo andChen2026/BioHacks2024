@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01291667",
+    "briefTitle": "Study for HER2-Overexpressed MBC Patients Treated by Cipterbin\u00ae Plus vinorelbinE",
+    "officialTitle": "A Phase III Randomized Study for HER2-Overexpressed Metastatic Breast Cancer Patients Treated by Trastuzumab( Cipterbin\u00ae) Plus vinorelbinE Simultaneously or Sequencely",
+    "overallStatus": "COMPLETED",
+    "conditions": "Progress-free Survival, Overall Response Rate, Adverse Events",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 330,
+    "primaryOutcomeMeasure": "progress-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* signed ICF\n* pathologic diagnosis breast cancer\n* HER2+ status defined as IHC3+ Staining or in situ hybridization positive at least 1 measurable lesion as per RECIST criteria age from 18y to 70y KPS\\>=70\n\nExclusion Criteria:\n\n* More than three prior chemotherapy lines for advanced disease LVEF\\<50%\n* prior exposure vinorebine for breast cancer\n* prior exposure Trastuzumab for breast cancer\n* uncontrolled brain metastasis\n* breastfeeding or pregnant",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

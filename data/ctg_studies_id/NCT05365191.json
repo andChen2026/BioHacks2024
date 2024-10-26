@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05365191",
+    "briefTitle": "A Study Evaluating Near-infrared Zone II Imaging in Sentinel Lymph Node Mapping in Breast Cancer Patients",
+    "officialTitle": "Development and Utilization of Indocyanine Green Fluorescence Near Infrared Zone II Lymphography in Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Sentinel Lymph Node",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Signal-to-background ratio (SBR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer, adults\n\nExclusion Criteria:\n\n* Patient aged \\< 20 years old\n* Primary lesion without indication of sentinel lymph node biopsy in current guidelines (Low-risk ductal carcinoma in situ or metastatic breast cancer)\n* Patient who is allergic to primary tracers (including Tc99m and blue dye)\n* Patient who is allergic to indocyanine green",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

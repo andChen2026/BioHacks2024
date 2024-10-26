@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04127175",
+    "briefTitle": "Breast Density Measurements in Digital Mammography and Breast Tomosynthesis Systems of Different Pixel Size",
+    "officialTitle": "Breast Density Measurements in Digital Mammography and Breast Tomosynthesis Systems of Different Pixel Size",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Mammographic Breast Density",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Consistency of breast density measurements from the latest VolparaTM breast density tool for Hologic's FFDM and DBT images (i.e. combo mode).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Acceptance of participation through a signed consent form.\n* Asymptomatic subjects\n\nExclusion Criteria:\n\n* Subjects refusing to participate or sign the consent form.\n* Subjects with prior history of breast surgery or biopsy with markers.\n* Subjects with breast prostheses.\n* Subjects with biopsy marker clips",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

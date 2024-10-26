@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05392608",
+    "briefTitle": "SEQUence of Endocrine Therapy in Advanced Luminal Breast Cancer (SEQUEL-Breast)",
+    "officialTitle": "SEQUence of Endocrine Therapy in Advanced Luminal Breast Cancer (SEQUEL-Breast): A Phase 2 Study on Fulvestrant Beyond Progression in Combination With Alpelisib for PIK3CA-mutated, Hormone-receptor Positive HER2 Negative Advanced Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Neoplasm, Breast, Congenital, Familial and Genetic Disorders",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 130,
+    "primaryOutcomeMeasure": "Progression-free survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult women and men (\u2265 18 years of age) with proven diagnosis of adenocarcino-ma of the breast withlocoregional recurrent or metastatic disease not amenable to resection or radiation therapy with curative intent andfor whom chemotherapy is not clinically indicated\n* Estrogen receptor (ER) expression \\>10% and/or progesterone receptor (PR) expression \\>10% breast cancerbased on local la-boratory results. Tumor must be HER2- as defined by ASCO-CAP guidelines\n* Patients must have progressed on fulvestrant as a preceding treatment line (as first or second line therapy)\n* Previous treatment with a CDK4/6 inhibitor in the advanced setting\n* The presence of an activating PIK3CA mutation\n* Evaluable disease\\* as defined per RECIST v.1.1\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0, 1 or 2\n\nExclusion Criteria:\n\n* Patients with advanced, symptomatic, visceral spread, who are at risk of life-threatening complications in theshort term\n* Known active uncontrolled or symptomatic CNS metastases, carcinomatous meningitis, or leptomeningealdisease as indicated by clinical symptoms, cerebral edema, and/or progressive growth\n* Prior treatment with a PI3K /AKT/mTOR inhibitor\n* Type 1 diabetes or uncontrolled type 2 diabetes (Hba1C \\> 68 mmol/mol)\n* Clinically significant, uncontrolled heart disease and/or recent cardiac events",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

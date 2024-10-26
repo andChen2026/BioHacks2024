@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01232881",
+    "briefTitle": "Predicting Response and Toxicity in Patients Receiving Lonafarnib for Breast Cancer",
+    "officialTitle": "Predicting Response and Toxicity in Patients Receiving Lonafarnib for Breast Cancer: A Multicenter Genomic, Proteomic and Pharmacogenomic Correlative Study",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 27,
+    "primaryOutcomeMeasure": "To correlate tumor gene expression (genomic profile) with response to lonafarnib in patients with advanced breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent and HIPAA authorization for release of personal health information. NOTE: HIPAA authorization may be included in the informed consent or obtained separately.\n* Age \\> 18 years.\n* Planned treatment with lonafarnib for metastatic breast cancer.\n* Must consent to have a biopsy performed to obtain fresh tissue or be able to identify a formalin fixed paraffin embedded (FFPE) tissue block in which tumor samples can be obtained to complete the testing for this study.\n\nExclusion Criteria:\n\n* Planned treatment with any other treatment regimen",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

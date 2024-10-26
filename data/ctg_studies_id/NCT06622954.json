@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06622954",
+    "briefTitle": "Dietary Restriction to Prevent Cardiotoxicity in Breast Cancer Patients",
+    "officialTitle": "Protein and Calorie Restriction as Treatment for Prevention of Cardiotoxicity in Women Receiving Chemotherapy.",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cardiotoxicity, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 32,
+    "primaryOutcomeMeasure": "High-sensitivity troponin T (hsTnT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women with newly diagnosed triple negative breast cancer with an indication for (neo-)adjuvant ATC-based chemotherapy and of intent to start anticancer treatment;\n* age between 18 and 75 years;\n* written informed consent;\n* body mass index \u2265 19.\n\nExclusion Criteria:\n\n* Allergic to any of the ingredients of the diet;\n* Known history of cardiac dysfunction;\n* Severe morbidity with the inability to receive anticancer treatment.\n* Participation in another clinical trial with an intervention arm (database and/or biobank studies excluded);\n* Pregnant women\n* Previous treatment with anthracycline\n* Estrogen receptor positive status",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

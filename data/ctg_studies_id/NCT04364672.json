@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04364672",
+    "briefTitle": "Molecular Neuroimaging to Assess the Link Between Neuroinflammation and Cognitive Impairment in Breast Cancer",
+    "officialTitle": "Molecular Neuroimaging to Assess the Link Between Neuroinflammation and Cognitive Impairment in Breast Cancer",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Measure regional brain TSPO levels using [F-18]DPA-714-PET before and after neoadjuvant chemotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. 18 years of age or older\n2. Female gender\n3. Newly diagnosed treatment na\u00efve women with stage II-III breast cancer that meet the following\n\n   * Stage IIA: Any 1 of these conditions:\n\n     * There is no evidence of a tumor in the breast, but the cancer has spread to 1 to 3 axillary lymph nodes. It has not spread to distant parts of the body. (T0, N1, M0)\n     * The tumor is 20 mm or smaller and has spread to the axillary lymph nodes (T1, N1, M0)\n     * The tumor is larger than 20 mm but not larger than 50 mm and has not spread to the axillary lymph nodes (T2, N0, M0)\n   * Stage IIb: Either of these conditions\n\n     * The tumor is larger than 20 mm but not larger than 50 mm and has spread to 1 to 3 axillary lymph nodes (T2, N1, M0)\n     * The tumor is larger than 50 mm but has not spread to the axillary lymph nodes (T3, N0, M0)\n   * Stage IIIA: The cancer of any size has spread to 4 to 9 axillary lymph nodes or to internal mammary lymph nodes. It has not spread to other parts of the body (T0, T1, T2, or T3, N2, M0. Stage IIIA may also be a tumor larger than 50 mm that has spread to 1 to 3 axillary lymph nodes (T3, N1, M0)\n4. English is the primary language\n5. Planned neoadjuvant chemotherapy that includes a taxane and/or an anthracycline drug as part of the treatment regimen.\n\nExclusion Criteria:\n\n1. Contraindications to PET/MRI, including claustrophobia\n2. Low-affinity binder for TSPO ligands when genotyping is available prior to PET imaging\n3. Pregnancy\n4. Lactation\n5. Individuals who are unable to participate in the imaging portion due to the severity of their medical condition\n6. Chronic infectious disease (e.g., HIV, HCV)\n7. Chronic inflammatory disease (e.g., fibromyalgia, MS, etc) or autoimmune disease\n8. Viral or bacterial illness requiring medical attention and/or antibiotics within 1 month of study participation\n9. Blood or blood clotting disorder\n10. Cancer that has metastasized to the brain\n11. Positive urine \u03b2-hCG test day of the procedure or a serum-hCG test within 48 hours prior to the administration of \\[18F\\]DPA-714\n12. Currently enrolled in a clinical trial utilizing experimental therapies.\n13. Prior brain tumor or other neurological condition known to affect cognition\n14. A diagnosis of dementia unrelated to cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

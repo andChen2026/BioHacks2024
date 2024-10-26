@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06613230",
+    "briefTitle": "Improved Early Diagnosis in Female Pelvic Cancer With OC Detect",
+    "officialTitle": "Improved Early Diagnosis and Survival in Female Pelvic Cancer (e.g. Ovarian Cancer) With OC Detect, (Pilot Study)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Ovarian Cancer, Endometrial Cancer, Breast Cancer, Lymphoma, Malignant Melanoma, Sarcoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 490,
+    "primaryOutcomeMeasure": "Performance of VOC algorithm for ovarian cancer diagnosis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Blood plasma (1ml) from patients with ovarian cancer or borderline ovarian tumors, or other cancer tumors (endometrial, lymphoma, breast, malignant melanoma, sarcoma)\n* Blood plasma (1 ml) from healthy volunteer controls\n* Signed informed consent by cancer patients for use of biobank blood samples in research\n* Signed informed consent by healthy blood donors for use in research\n\nExclusion Criteria:\n\n* \\< 18 years (both for cancer patients and healthy blood donors)\n* Man (healthy blood donors)\n* \\>70 years (healthy blood donors)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

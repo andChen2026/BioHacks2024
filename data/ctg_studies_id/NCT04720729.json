@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04720729",
+    "briefTitle": "Chemotherapy Monitoring by ctDNA in HER2- Metastatic Breast Cancer",
+    "officialTitle": "Chemotherapy Monitoring by Circulating Tumor DNA (ctDNA) in HER2 (Human Epidermal Growth Factor Receptor-2)- Metastatic Breast Cancer (MONDRIAN): a Phase 2 Study",
+    "overallStatus": "RECRUITING",
+    "conditions": "HER2-negative Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 214,
+    "primaryOutcomeMeasure": "L3C1 : ctDNA quantification",
+    "eligibilityCriteria": "Inclusion criteria :\n\n* Written informed consent\n* Woman \u2265 18 years old\n* Performance status 0-2\n* Advanced HER2-negative metastatic breast cancer on the last tumor tissue assessed (ASCO-CAP (College of American Pathologists) guidelines)\n* Eligible to a second line of chemotherapy for MBC (Metastatic Breast Cancer)\n* Evaluable disease (per RECIST v1.1)\n* Organ functions compatible with the use of chemotherapies (as decided by the investigator)\n* No isolated CNS progression or leptomeningeal carcinomatosis\n* No concurrent stage IV malignancy\n* No concurrent severe and/or uncontrolled medical or psychological condition that would contraindicate participation in this study\n\nAdditional criteria for the screening step :\n\nPresence of a known somatic mutation deemed trackable in circulating cell-free DNA. If the tumoral genetic landscape is unknown at inclusion, its characterization should be requested (or ongoing) at inclusion\n\nAdditional criteria for the interventional step :\n\n* Satisfactory ctDNA detection and changes during the 2nd line, as determined by the Study Executive Board (SEB)\n* Patient eligible to a third line of chemotherapy\n\nExclusion criteria :\n\nnone",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

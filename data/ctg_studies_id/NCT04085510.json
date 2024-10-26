@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04085510",
+    "briefTitle": "Tomosynthesis vs. Contrast-Enhanced Mammography in Women With Personal History of Breast Cancer in Western Pennsylvania",
+    "officialTitle": "Improving Surveillance of Women With Personal History of Breast Cancer Using Contrast-Enhanced Mammography (CEM)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer Female, Breast Cancer, Breast Neoplasms, Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 1647,
+    "primaryOutcomeMeasure": "Cancer Detection",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n-Asymptomatic women, ages 30-85, with a personal history of breast cancer who have had at least one routine mammogram since treatment.\n\nExclusion Criteria:\n\n* Women with a history of prior iodinated contrast reaction\n* Women with implant(s) in the breasts to be screened (as this creates artifacts and diagnostic performance of imaging in women with implants likely does not generalize to those without implants, and the sample size with implants would be too small to infer conclusions)\n* Women who have had bilateral mastectomy\n* Women with a history of kidney failure or estimated glomerular filtration rate (eGFR) \\< 45 mL/min\n* Pregnancy or lactation\n* Women actively being treated for cancer of any type with chemotherapy\n* Lump or other breast symptoms\n* Abnormality on prior breast imaging that is being followed.",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

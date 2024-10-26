@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05373628",
+    "briefTitle": "Study on the Correlation Between the Quantitative Parameters of Mr Mean Cell Size Imaging and the Histopathological Characteristics of Breast Cancer",
+    "officialTitle": "Quantitative Parameters of Cell Size Imaging: Correlation With Histopathological Features in Patients With Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Carcinoma; Magnetic Resonance Imaging\uff1bOGSE",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Pathologic characteristic",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Breast cancer was confirmed by operation or biopsy;\n2. The status of estrogen receptor (ER), progesterone receptor (PR), human epidermal growth factor-2 (HER-2), Ki-67 and lymphatic vessel invasion (LVI) in breast cancer were clearly diagnosed by pathology;\n3. Routine MRI and mean cell size imaging sequence scanning were performed within 1 week before pathological examination\n\nExclusion Criteria:\n\n(1) Breast cancer patients who had received treatment before mean cell size imaging sequence scanning; (2) Patients who had undergone breast tumor puncture within 2 weeks before the mean cell size imaging sequence scan; (3) Patients with breast masses without surgery or biopsy after mean cell size imaging sequence scanning; (4) The breast mass was confirmed to be other diseases except breast cancer by pathological examination; (5) The image quality is poor due to motion artifacts or other reasons, so the average cell size imaging post-processing cannot be carried out.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

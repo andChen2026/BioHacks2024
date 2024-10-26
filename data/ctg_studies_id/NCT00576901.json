@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00576901",
+    "briefTitle": "A Study of Avastin (Bevacizumab) in Combination With Xeloda (Capecitabine) and Docetaxel in Patients With Inflammatory or Locally Advanced Breast Cancer.",
+    "officialTitle": "\"An Open Label Study to Assess the Effect of Neoadjuvant Treatment With Docetaxel + Xeloda + Avastin on Pathological Response Rate in Inflammatory or Locally Advanced Breast Cancer\"",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 23,
+    "primaryOutcomeMeasure": "Percentage of Participants Achieving Pathological Complete Response (pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female patients, \\>=18 years of age;\n* HER2-negative, locally advanced (stage II or III) or inflammatory cancer of the breast;\n* ECOG performance status 0-1.\n\nExclusion Criteria:\n\n* metastatic disease (stage IV);\n* previous treatment for breast cancer;\n* evidence of CNS metastasis;\n* current or recent (within 10 days of first dose of Avastin) use of aspirin (\\>325mg/day) NSAIDs or full dose anticoagulants for therapeutic purposes;\n* clinically significant cardiovascular disease.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

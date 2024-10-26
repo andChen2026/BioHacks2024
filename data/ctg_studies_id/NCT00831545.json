@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00831545",
+    "briefTitle": "Study to Evaluate the Efficacy and Safety of Temozolomide in Subjects With Brain Metastases of Either Malignant Melanoma, Breast, or Non-small Cell Lung Cancer (P02064)",
+    "officialTitle": "Multicenter Phase 2 Evaluation of Temozolomide for Treatment of Brain Metastases of Either Malignant Melanoma, Breast and Non-small Cell Lung Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastases of Central Nervous System, Melanoma, Breast Neoplasm, Carcinoma, Non-Small-Cell Lung",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 162,
+    "primaryOutcomeMeasure": "Best response related to brain metastases observed during the study period.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Cytological/histological diagnosis of either melanoma, non-small cell lung cancer and breast;\n* Brain metastases \\>=1 cm presenting or in progression following \\>=4 weeks time interval free from previous malignancy-specific chemotherapy, hormone therapy, or other medical therapies;\n* Magnetic resonance imaging suspected brain metastases; patients with brain lesion(s) not univocal as brain metastases must have negative radiolabeled leukocyte brain scan to rule out infectious non-malignant disease; all neuroradiological studies (baseline and treatment outcome evaluation), except for emergency exams must be performed after 10 days of unchanged schedule of dexamethasone, and obtained in the axial-coronal-sagittal planes in T1 and T2 before and after gadolinium enhancement.\n* Presence of al least one bidimensionally measurable and not previously irradiated metastasis.\n* Age \\<=70 years.\n* Performance status 0-2 (ECOG-WHO scale).\n* Blood leukocytes \\>=3.5 x 10\\^9/L and platelets \\>=100 x 10\\^9/L.\n* Bilirubin \\<=25 M/L.\n* Seric transaminases \\<=2 x upper limit of normal values.\n* Creatinine \\<=150 M/L, creatinine clearance \\>=60 mL/min.\n* Signed written informed consent.\n\nExclusion Criteria:\n\n* Diabetes not allowing administration of adequate doses of dexamethasone at least during the first 2 months of treatment.\n* Previous whole brain irradiation.\n* Brain metastases eligible to neurosurgery or stereotactic radiation therapy.\n* Previous or current malignancies at other sites with the exception of adequately treated in situ carcinoma of the cervix or basal and squamous carcinoma of the skin.\n* Pregnant or nursing women.\n* Acute infection requiring intravenous antibiotics.\n* Severe vomiting or medical condition which could interfere with oral medication intake.\n* Anticonvulsant chronic therapy.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

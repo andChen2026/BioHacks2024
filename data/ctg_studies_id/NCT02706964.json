@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02706964",
+    "briefTitle": "Imaging the Patterns of Breast Cancer Early Metastases",
+    "officialTitle": "Imaging the Patterns of Breast Cancer Early Metastases",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 13,
+    "primaryOutcomeMeasure": "Proportion of patients with oligometastatic presentation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with breast cancer who have completed radiation therapy within the last 48 months with a diagnosis that associates them with high risk (\\>30%) for developing metastatic disease but who at the time of enrollment are not known to have metastatic disease. Patients meeting this criterion are those that have either of the following presentations:\n* hormone receptor (or triple) negative breast cancer with 3 or more positive axillary lymph nodes;\n* a Stage III diagnosis;\n* a primary tumor \\>2 cm and positive axillary lymph nodes;\n* multiple primary tumors with cumulative volume \\>= that of a single 2 centimeter tumor, and positive axillary lymph nodes\n* any number of lymph nodes with extranodal extension;\n* any internal mammary or supraclavicular nodes;\n* any primary tumor that has grown into the chest wall or skin;\n* or inflammatory breast cancer.\n\nExclusion Criteria:\n\n* Patients not willing to submit to a PET/CT scan and a brain MRI scan with injected vascular contrast at the Department of Radiology at University of Florida or University of Miami.\n* Pregnant women are excluded because of possible radiation risk to the fetus.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

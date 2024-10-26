@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04088435",
+    "briefTitle": "Xoft\u00ae Intraoperative Radiotherapy (IORT) for Patients With Early-Stage Breast Cancer",
+    "officialTitle": "A Prospective Observational Trial of Xoft\u00ae Intraoperative Radiotherapy (IORT) as a Component of Breast Conserving Therapy (BCT) in Patients With Early-Stage Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Breast Cancer, Invasive Ductal, Invasive Mammary Carcinoma, Breast Cancer Stage I, Breast Cancer Stage IIA",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Percentage of patients with greater than or equal to grade 2 acute radiation toxicities",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* T1 or T2 invasive carcinoma of the breast undergoing breast conserving surgery\n* Clinically lymph node negative and Memorial Sloan Kettering nomogram estimates 20% or less risk of positive sentinel node\n* Tumors 2.5 cm or less in size (clinical preoperative staging)\n* Estrogen receptor positive tumors (\u226510%)\n* Her2 negative/not over-expressed\n* Patients 50 years of age or greater\n\nExclusion Criteria:\n\n* Prior malignancy not in remission\n* Active collagen vascular disease requiring active cytotoxic or immunotherapy\n* Psychiatric or mental condition which would preclude informed consent\n* Prior thoracic radiation which overlaps with IORT field\n* Pregnant patients\n* Patients \\<50 years\n* Risk of positive sentinel lymph node \\>20% based on nomogram estimates\n* Known lymph node metastases (i.e. clinically node positive)\n* Patients with invasive lobular carcinoma\n* Patients with pure DCIS\n* Known multifocal or multicentric tumor\n* Patients requiring neoadjuvant chemotherapy\n* Patients requiring or choosing mastectomy with or without reconstruction\n* Technical contraindications to IORT dose delivery including skin to balloon distance \\<7 mm\n* Medical contraindication to IORT, radiation or breast conservation",
+    "sex": "ALL",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

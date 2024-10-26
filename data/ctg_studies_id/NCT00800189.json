@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00800189",
+    "briefTitle": "Evaluation of the Informational Content of Setup Verification Images for Patients Receiving Breast Radiation Therapy (Anterior EPI)",
+    "officialTitle": "A Prospective Evaluation of the Informational Content of Setup Verification Images for Patients Receiving Breast Radiation Therapy Tangentially With or Without Supraclavicular Treatment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "To measure the difference in accuracy of a breast imaging protocol that includes a large anterior EPI in detecting set-up errors outside of tolerance as compared to the current standard breast imaging protocols.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All patients (male or female) receiving tangential breast/chest wall radiotherapy only, or three or four field breast/chest wall and nodal radiotherapy will be eligible.\n\nExclusion Criteria:\n\n* Those patients receiving partial breast treatment, those patients requiring an electron match field, those on another breast cancer radiotherapy trial, those who require radiotherapy using deep inspiration breath hold or multi-field intensity modulated radiotherapy, and all non-breast cancer patients will be excluded.",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

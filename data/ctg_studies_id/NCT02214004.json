@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02214004",
+    "briefTitle": "Neoadjuvant Trastuzumab and Letrozole for Postmenopausal Women",
+    "officialTitle": "A Phase II Trial of Preoperative HER2 Targeting and Endocrine Therapy in Postmenopausal Women With HER2 and HR Positive Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 132,
+    "primaryOutcomeMeasure": "The rate of pathologic complete response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Invasive cancer (clinical stage IB-IIIC)\n* Measurable tumor larger than 1cm\n* ECOG status 0 or 1\n* Postmenopausal women\n\n  * Age \u226555 years and amenorrhea\n  * Age \\<55 years and amenorrhea for \u226512 months with FSH \\>30 mIU/ml\n* HER2 positive tumor\n\n  * 3 positive on IHC\n  * 2 positive on IHC with HER2 gene amplification on FISH or SISH using a single-probe or dual-probe\n* Estrogen receptor positive tumor\n\n  * Positive ER expression with Allred score more than PS3/TS8 or modified Allred score more than PS4/TS7\n* Eligible cardiac function\n\n  * Normal heard evaluated by ECG\n\n    * Consider clinically non-significant arrythmia and ischemic change as normal\n  * LVEF \u2265 55% measured by ECHO or MUGA scan\n\nExclusion Criteria:\n\n* Inflammatory breast cancer\n* Bilateral breast cancer\n* Patients with previous breast cancer history\n* Patients with previous breast cancer treatment: Generally include hormone therapy, chemotherapy, and radiotherapy)\n* Patients having uncontrolled heart problems\n\n  * Ischemic heart disease within 6 months\n  * Congestive heart failure more than NYHA class II\n  * Unstable angina\n  * Clinically significant pericarditis\n  * Amyloid heart disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

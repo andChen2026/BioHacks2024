@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04059809",
+    "briefTitle": "Photobiomodulation for Breast Cancer Radiodermatitis",
+    "officialTitle": "Photobiomodulation for Breast Cancer Radiodermatitis Prevention. A Randomized Controlled Trial.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Radiodermatitis, Radiotherapy Side Effect, Radiation Dermatitis, Radiation Toxicity, Radiation Injuries, Quality of Life, Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 48,
+    "primaryOutcomeMeasure": "Grade of Radiodermatitis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer\n* Mastectomy or breast conserving surgery\n* Informed consent\n* Radiotherapy schedule completion\n\nExclusion Criteria:\n\n* Auto-immune disorders\n* Immediate reconstruction",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

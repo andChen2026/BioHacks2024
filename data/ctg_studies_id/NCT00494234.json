@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00494234",
+    "briefTitle": "Study to Assess The Efficacy and Safety of a PARP Inhibitor For The Treatment of BRCA-positive Advanced Breast Cancer",
+    "officialTitle": "A Phase II, Open-label, Non-comparative, International, Multicentre Study to Assess the Efficacy and Safety of KU-0059436 Given Orally Twice Daily in Patients With Advanced BRCA1- or BRCA2-associated Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 54,
+    "primaryOutcomeMeasure": "Confirmed Objective Response Rate (ORR) According to Response Evaluation Criteria in Solid Tumors (RECIST) Criteria",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Advanced breast cancer with positive BRCA1 or BRCA2 status\n* Failed at least one prior chemotherapy\n* In investigators opinion, no curative standard therapy exists\n* Measurable disease\n\nExclusion Criteria:\n\n* Brain metastases\n* Less than 28 days since last treatment used to treat the disease\n* Considered a poor medical risk due to a serious uncontrolled disorder",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

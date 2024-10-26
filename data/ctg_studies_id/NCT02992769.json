@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02992769",
+    "briefTitle": "Predict the Risk of Axillary Metastases in Breast Cancer Patients With Axillary Ultrasound",
+    "officialTitle": "A Nomogram to Predict the Risk of Axillary Metastases in Breast Cancer Patients With Axillary Ultrasound",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Female",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Axillary Metastases",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female patients with primary breast cancer\n* receiving a successful SLNB or ALND\n* pathological diagnosed, without distant metastasis\n* a clinically negative axilla\n\nExclusion Criteria:\n\n* pregnancy\n* neoadjuvant therapy\n* previous ipsilateral axillary surgery\n* inflammatory breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06016725",
+    "briefTitle": "Online Dietary and Resistance Training to Improve Physical Function in Older Cancer Survivors, E-PROOF Trial",
+    "officialTitle": "E-PROOF: E-Intervention for Protein Intake and Resistance Training to Optimize Function",
+    "overallStatus": "RECRUITING",
+    "conditions": "Anatomic Stage I Breast Cancer AJCC v8, Anatomic Stage II Breast Cancer AJCC v8, Anatomic Stage III Breast Cancer AJCC v8, Stage I Colorectal Cancer AJCC v8, Stage I Prostate Cancer AJCC v8, Stage II Colorectal Cancer AJCC v8, Stage II Prostate Cancer AJCC v8, Stage III Colorectal Cancer AJCC v8, Stage III Prostate Cancer AJCC v8",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 70,
+    "primaryOutcomeMeasure": "Physical function",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \\>= 65 years of age\n* A primary diagnosis of stage I-III breast, colorectal, and prostate cancer\n* Completion of primary curative treatment\n* Reported at least 1 physical function limitation on the RAND-36 Physical Function Subscale (PFSS) (\"limited a little\", \"limited a lot\")\n* No evidence of progressive disease or second cancers\n* Community-dwelling\n* Able to provide consent\n\nExclusion Criteria:\n\n* Currently receive cancer treatment (e.g., chemotherapy, radiation)\n* Have liver and/or renal disease limiting their protein intake\n* Are under the care of a Registered Dietician (RD)/nutritionist\n* Participating in other diet/exercise interventions\n* Consume protein supplements\n* Have contraindications to unsupervised exercise (e.g., walker/wheelchair use)",
+    "sex": "ALL",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

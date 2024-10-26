@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02735746",
+    "briefTitle": "Novel Lung Imaging in Adults Undergoing Radiation Therapy to Assess for Radiation Pneumonitis",
+    "officialTitle": "Novel High Fidelity Functional Lung Imaging in Adults Undergoing Radiation Therapy to Assess for Radiation Pneumonitis",
+    "overallStatus": "RECRUITING",
+    "conditions": "Lung Cancer, Breast Cancer, Mediastinum Lesion, Radiation Pneumonitis",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "A Pearson correlation of >0.579 between peak expiratory flow as measured by HFFLI analysis of cinefluorograph compared with 4D planning CT",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults 18 years and older\n* Prospective subjects will have been referred to Radiation Oncology for treatment requiring the use of the Varian TrueBeam system, for radiation therapy of a cancer lesion in the chest wall, lung, breast, or mediastinum in which the radiation field will include a portion of lung\n* The subject is able to understand the risks, benefits, and possible alternatives to participation in the study, and is able to give both written and verbal voluntary informed consent\n\nExclusion Criteria:\n\n* For any reason, including pregnancy, subject is considered by the Investigator to be an unsuitable candidate or is put at excess risk by the study procedures.\n* Significant existing lung disease, not related to cancer as determined by the PI's review of the patient's PFTs.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

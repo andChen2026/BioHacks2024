@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04237090",
+    "briefTitle": "Feasibility of a Clinical Trial Comparing the Use of Cetirizine to Replace Diphenhydramine in the Prevention of Reactions Related to Paclitaxel",
+    "officialTitle": "Feasibility of a Randomized Controlled Clinical Trial Comparing the Use of Cetirizine to Replace Diphenhydramine in the Prevention of Reactions Related to Paclitaxel",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Lung Cancer, Ovarian Cancer, Oesophageal Cancer, Head Cancer Neck, Cervical Cancer, Endometrial Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 27,
+    "primaryOutcomeMeasure": "Change from baseline of drowsiness on Stanford Sleepiness Scale 1 hour after the administration of diphenhydramine",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Receiving intravenous chemotherapy treatments at the Maisonneuve-Rosemont hospital outpatient oncology clinic\n* Starting their first lifetime treatment with paclitaxel (alone or in combination with other anticancer agents).\n* Capable of giving free and informed consent and who agrees to participate by signing the consent form\n* Aged 18 and over\n* Able to complete questionnaires\n\nExclusion Criteria:\n\n* Does not understand French or English\n* Taking chronic H1 antagonist orally\n* Taking chronic systemic corticosteroids\n* Contraindication or possible medical danger, such as a documented allergy or previous intolerance, related to the administration of cetirizine, diphenhydramine, placebo or any ingredient in their formulation\n* Has received paclitaxel, docetaxel or paclitaxel nanoparticles linked to albumin in the past\n* Receiving paclitaxel nanoparticles linked to albumin\n* Severe renal impairment (Cockcroft-Gault \\<10 milliliters/minute)\n* Pregnant or breastfeeding women\n* Receiving paclitaxel under desensitization protocol\n* Documented or reported dysphagia or other pathophysiological condition preventing a tablet from being swallowed whole\n* Interactions preventing the full dose of oral cetirizine from being absorbed\n* Participating in another clinical trial simultaneously",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

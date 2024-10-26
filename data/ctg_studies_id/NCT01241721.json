@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01241721",
+    "briefTitle": "Pre-Surgery Positron Emission Mammography in Patients With Newly Diagnosed Breast Cancer",
+    "officialTitle": "Clinical Value of Pre-Surgery Positron Emission Mammography (PEM) in Patients With Newly Diagnosed Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Breast Cancer Surgery",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 34,
+    "primaryOutcomeMeasure": "PEM identification of primary breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Must be 18 years of age or older\n* Newly diagnosed primary breast cancer\n* Must have a breast or breast/chest MRI ordered as part of standard of care\n* Must meet one or more of the following in Part 1:\n\n  * T1 carcinoma of the breast appropriate for breast conserving surgery diagnosis established by core biopsy\n  * Tis (ductal carcinoma in situ) carcinoma \\> 2 cm diameter\n  * Invasive lobular carcinoma of the breast\n* Must meet the following in Part 2:\n\n  * Known invasive or in situ primary breast cancer identified on pre-surgical breast MRI to have an unsuspected 2nd lesion recommended for biopsy and biopsy has not yet been performed\n\nExclusion Criteria:\n\n* Known diabetes mellitus",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

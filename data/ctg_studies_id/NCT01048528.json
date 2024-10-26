@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01048528",
+    "briefTitle": "Health SMART (Stress Management and Relaxation Training)",
+    "officialTitle": "Phase II Study of Stress Management and Vaccine Response Among Women at Risk for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 33,
+    "primaryOutcomeMeasure": "Linear mixed models regression with an exchangeable covariance structure will be used to determine the average change in IgM, IgG and proliferative response to HA vaccine antibody response to HA vaccine following the intervention, as a function of time.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Family history of breast cancer\n* Fluent in English\n* Working phone and address\n* Plan to live in the area for one year\n* Reporting elevated levels of distress at screening.\n\nExclusion Criteria:\n\n* Prior cancer diagnosis (except non-melanoma skin cancer)\n* Current major depressive episode\n* History of Bipolar Disorder or Schizophrenia\n* History of autoimmune disease\n* History of Hepatitis A or HA vaccination\n* Use of immune modulating drugs (e.g. corticosteroids, antihistamines), nicotine, or \\> 3 drinks/ day alcohol",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

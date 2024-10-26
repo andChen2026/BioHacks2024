@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00277160",
+    "briefTitle": "A Study of Primary Prophylaxis With Neulasta (Pegfilgrastim) Versus Secondary Prophylaxis After Chemotherapy in Elderly Subjects (>/= 65 Years Old) With Cancer",
+    "officialTitle": "A Randomized, Open Label, Multicenter Study of Primary Prophylaxis With Neulasta (Pegfilgrastim) Versus Secondary Prophylaxis as an Adjunct to Chemotherapy in Elderly Subjects (>/= 65 Years Old) With Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neutropenia, Breast Cancer, Lung Cancer, Non-Hodgkin's Lymphoma, Ovarian Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 852,
+    "primaryOutcomeMeasure": "Incidence of febrile neutropenia, defined by ANC < 1.0 x 10^9/L and temperature \u2265 38o C on the same day",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \\>/= 65 years old\n* documented diagnosis of lung, breast, or ovarian cancer, or NHL\n* scheduled to receive one of 15 standard chemotherapy regimens\n* chemotherapy naive OR have received adjuvant therapy AND/OR have no more than one regimen of chemotherapy for metastatic disease\n* life expectancy of at least 3 months\n* ECOG performance status \\</=2\n* adequate renal and hematologic function\n* informed consent for participation in the study prior to any study specific procedures\n\nExclusion Criteria:\n\n* known hypersensitivity to any of the products to be administered during dosing\n* primary prophylactic antibiotics in all cycles\n* prior radiation therapy within 2 weeks of randomization into this study or plan for radiation therapy during study participation, except for spot radiation for bony metastases\n* prior bone marrow or stem cell transplant or plan to receive any transplant therapy during study participation\n* clinically symptomatic brain metastases\n* Folstein mini-mental state exam score \\<18\n* Any premalignant myeloid condition or any malignancy with myeloid characteristics\n* History of prior malignancy within the last 5 years other than subject's original cancer diagnosis listed in inclusion criteria with the exception of curatively treated basal cell carcinoma, squamous cell carcinoma, in situ cervical carcinoma or surgically cured malignancies\n* unstable/uncontrolled cardiac conditions or hypertension\n* active infection\n* subject is currently enrolled or has not yet completed at least 30 days since ending other investigational device or drug trial or is receiving other investigational agents",
+    "sex": "ALL",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

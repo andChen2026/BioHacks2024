@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00322374",
+    "briefTitle": "Phase I Combination w/ Epirubicin",
+    "officialTitle": "A Phase I Study of Ixabepilone in Combination With Epirubicin in Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 42,
+    "primaryOutcomeMeasure": "Number of Participants With a Dose Limiting Toxicity (DLT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women \u226518 years\n* Histologically or cytologically confirmed diagnosis of metastatic breast cancer\n* Measurable or nonmeasurable disease defined by Response Evaluation Criteria In Solid Tumors (RECIST)\n\nExclusion Criteria:\n\n* Number of prior chemotherapy lines of treatment in the metastatic setting \u22652",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02040493",
+    "briefTitle": "Intra-Operative Radiation Therapy Immediately Following Resection of Early Stage Breast Cancer",
+    "officialTitle": "Intra-Operative Radiation Therapy (IORT) Treatment Immediately Following Resection of Early Stage Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 75,
+    "primaryOutcomeMeasure": "Local recurrence in patients treated with intra-operative electronic brachytherapy for early stage breast cancer.",
+    "eligibilityCriteria": "General Inclusion Criteria\n\n1. Age \\> 45 years\n2. Tumor with Tis, T1, T2 (\u2264 3cm), N0, M0 - (AJC Classification)\n3. Invasive ductal carcinoma and / or DCIS\n\nIntra-operative Inclusion Criteria\n\n1. Negative sentinel node assessment\n2. Balloon surface to skin distance of at least 1-cm and adequate conformance via Intra-operative ultrasound\n\nPost procedure Inclusion Criteria 1. Negative microscopic surgical margins\\*\\*\n\n\\*\\*If positive margins patient my undergo re-excision and/or additional radiation at the treating physician's discretion but the patient will be excluded from the protocol data analysis.\n\nGeneral Exclusion Criteria\n\n1. Scleroderma, systemic sclerosis and active lupus\n2. Participation in an investigational drug or device study\n3. Previous ipsilateral radiation to the thorax or breast\n\nIntra-operative Exclusion Criteria\n\n1. Intra-operative positive sentinel lymph node biopsy\n2. Inadequate conformance (greater than 10% of PTV encompassed by fluid or air on physician assessment of intraOp ultrasound image)\n3. Skin spacing less than 1-cm via intraOp ultrasound.\n4. A cavity size that is not appropriate for a 40 -70 cc balloon.\n5. Patient becomes unstable and physician determines patient is not a good candidate at time of lumpectomy.",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

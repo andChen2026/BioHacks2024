@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01815476",
+    "briefTitle": "The Prone Breast Radiation Therapy Trial",
+    "officialTitle": "A Multicentre Randomized Controlled Clinical Trial for the Reduction of Acute Skin Reaction in Adjuvant Breast Radiation in Large Breasted Women Using a Prone Technique - The Prone Breast Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Ductal Carcinoma In Situ, Invasive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 378,
+    "primaryOutcomeMeasure": "Moist Desquamation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* confirmed histological diagnosis of breast carcinoma or ductal carcinoma in situ (DCIS);\n* treated with BCT;\n* no indication for treatment of regional LN;\n* Women with a bra size of 40 inches or greater, or a pre-surgery cup size of D or greater\n\nExclusion Criteria:\n\n* Regional Lymph Node XRT indicated;\n* Bilateral breast cancer;\n* unhealed wound (skin not closed and/or infection);\n* previous XRT to the same breast;\n* unable to lie prone;\n* presence of active connective tissue disease;\n* pregnancy;\n* unacceptable heart exposure (as measured by \\> 10% of the heart receiving 50% of the prescribed dose, i.e. V25Gy \\> 10%);\n* adequate coverage of postoperative tumour bed not technically possible",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

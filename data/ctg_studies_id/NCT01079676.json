@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01079676",
+    "briefTitle": "A Non-inferiority Study Comparing Two Filgrastim Preparations in Breast Cancer",
+    "officialTitle": "A Phase III, Non-inferiority Study Comparing Two Filgrastim Preparations in Preventing Chemotherapy Induced Neutropenia in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neutropenia in Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 220,
+    "primaryOutcomeMeasure": "The study primary endpoint will be the rate of grade 4 neutropenia after the first cycle of chemotherapy, according to the classification Common Terminology Criteria for Adverse Events (CTC-AE)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed ICF;\n* Diagnosis confirmed by anatomic pathology examination (cytology or histopathology) of breast cancer;\n* Clinical or imaging confirmation of stage II to IV disease, according to the TNM classification;\n* Indication for chemotherapy with one of the eligible regimens, as long as the treatment in the first cycle is planned as full dose (without adjustments relative to the original regimen);\n* Performance status from 0 to 1 on the Zubrod scale;\n* No more than one previous chemotherapeutic regimen for metastatic disease;\n* Proper organic functions, as indicated by all the following conditions:\n\n  * ANC \\>1500/mm3;\n  * Platelet count \\>150000/mm3;\n  * Serum creatinine \\<1,2 mg/dL;\n  * Bilirubins and transaminases (aspartate aminotransferase \\[AST\\] and alanine aminotransferase \\[ALT\\]) \\<1.5 times the upper limit of normal.\n\nExclusion Criteria:\n\n* Forecast of prophylactic or therapeutic use of antibiotics, antifungal or antiviral in the first cycle of chemotherapy;\n* Previous radiotherapy involving pelvis or radiotherapy of any site on the last 6 weeks before randomization;\n* History of bone marrow transplantation (as receptor);\n* Presence of other neoplasias, with the exception of in situ cervical carcinoma, in situ bladder carcinoma, cutaneous basal cell carcinoma properly treated, cutaneous spinocellular carcinoma properly treated, T1 vocal cords cancer under remission or previous malignant neoplasia treated more than 5 years before the recruitment and without relapse;\n* Presence of severe comorbidities, such as cardiovascular, chronic respiratory, kidney, liver, neurological, hematological, infectious, skin, neurological or psychiatric disease;\n* Recent (\\< 12 months) or foreseen participation during this study in other clinical studies involving any nature of drugs or studies of any kind of intervention, unless there may be a direct benefit to the research subject, as per CNS/MS Resolution 251/97, item III.j.\n* Intolerability or allergy to any of the components of the filgrastim formulations evaluated in the study.\n* Pregnancy or lactation (patients of childbearing potential must have a negative blood pregnancy test on the 7 days prior to the randomization).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

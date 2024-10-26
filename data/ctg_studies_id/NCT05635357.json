@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05635357",
+    "briefTitle": "Data Analysis for Drug Repurposing for Effective Alzheimer's Medicines (DREAM)- Anastrozole vs Exemestane/Letrozole",
+    "officialTitle": "Data Analysis for Drug Repurposing for Effective Alzheimer's Medicines (DREAM)- Anastrozole vs Exemestane/Letrozole",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 16989,
+    "primaryOutcomeMeasure": "Time to dementia onset",
+    "eligibilityCriteria": "Please see https://docs.google.com/spreadsheets/d/1GrnVsPCockqqdfxC9LWd6ndbzS2wpJVvTbCOAhn4DLM/edit?usp=sharing or Appendix A (https://drive.google.com/drive/folders/1I8FVmpPzC5wQN9DFIv1Rbwh1N0SLEv0B?usp=sharing) for full code and algorithm definitions.\n\nMedicare timeframe: 2008 to 2018 (end of data availability)\n\nInclusion Criteria:\n\n* 1. Aged \\>/= 65 years on the index date\n* 2. Enrollment in Medicare Part A, B, and D with no HMO coverage for 365 days prior to and including cohort entry date\n* 3. At least two claims with breast cancer diagnosis measured 365 days prior to drug initiation\n\nExclusion Criteria:\n\n* 1. Prior history of dementia measured anytime prior to cohort entry date\n* 2. Prior history of nursing home admission anytime prior to cohort entry date\n* 3. Prior history of Anastrozole or Exemestane/Letrozole use anytime prior to cohort entry date",
+    "sex": "ALL",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

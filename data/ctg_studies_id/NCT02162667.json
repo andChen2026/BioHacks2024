@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02162667",
+    "briefTitle": "Efficacy and Safety Evaluating Study of CT-P6 in Her2 Positive Early Breast Cancer",
+    "officialTitle": "Phase 3 Efficacy and Safety Study of CT-P6 and Herceptin as Neoadjuvant and Adjuvant Treatment in Patients With Her2-positive Early Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER2-positive Carcinoma of Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 562,
+    "primaryOutcomeMeasure": "The Percentage of Patients Achieving Pathological Complete Response Defined as the Absence of Invasion Tumor Cells in the Breast and in Axillary Lymph Nodes, Regardless of Ductal Carcinoma in Situ (DCIS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient who has histologically confirmed and newly diagnosed breast cancer\n* Patient who has clinical stage I, II, or IIIa operable breast cancer according to AJCC (American Joint Committee on Cancer) Breast Cancer Staging 7th edition\n* Patient who has HER2-positive status confirmed locally, defined as 3+ score by IHC (immuno-histochemistry).\n\nExclusion Criteria:\n\n* Patient who has bilateral breast cancer\n* Patient who has received prior treatment for breast cancer, including chemotherapy, biologic therapy, hormone therapy, immunotherapy, radiation or surgery, including any prior therapy with anthracyclines.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

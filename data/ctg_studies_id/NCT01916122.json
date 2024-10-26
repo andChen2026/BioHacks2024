@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01916122",
+    "briefTitle": "Fluorestradiol (FES) PET/CT for Imaging Estrogen Receptor Status",
+    "officialTitle": "Fluorestradiol (FES) PET/CT for Imaging Estrogen Receptor Status",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 54,
+    "primaryOutcomeMeasure": "FES PET/CT scanning",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with histologic/immunochemical proof of ER+ primary or metastatic malignancy (positive staining in \u2265 1% of cells by immunohistochemistry).\n* Patients who are to be treated with clinically approved or experimental regimens where ER has an important role\n* ECOG performance status of 0-2.\n* Patients must provide written informed consent\n\nExclusion Criteria:\n\n* Age \\<18 years\n* Patients who cannot undergo PET/CT scanning (i.e. because of weight limits, claustrophobia)\n* Pregnancy or lactation\n* Total serum bilirubin \\> 1.5 times upper limit of normal (abnormal hepatic metabolism may interfere with FES hepatic excretion). Increased serum bilirubin due to Gilbert's syndrome is permitted.\n* Serum creatinine \\> 1.5 times upper limit of normal.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

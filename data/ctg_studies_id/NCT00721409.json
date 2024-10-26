@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00721409",
+    "briefTitle": "Study Of Letrozole With Or Without Palbociclib (PD-0332991) For The First-Line Treatment Of Hormone-Receptor Positive Advanced Breast Cancer",
+    "officialTitle": "PHASE 1/2, OPEN-LABEL, RANDOMIZED STUDY OF THE SAFETY, EFFICACY, AND PHARMACOKINETICS OF LETROZOLE PLUS PD 0332991 (ORAL CDK 4/6 INHIBITOR) AND LETROZOLE SINGLE AGENT FOR THE FIRST-LINE TREATMENT OF ER POSITIVE, HER2 NEGATIVE ADVANCED BREAST CANCER IN POSTMENOPAUSAL WOMEN",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 177,
+    "primaryOutcomeMeasure": "Number of Participants With Treatment-Emergent Adverse Events (TEAEs; All Causalities) at Phase 1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Inoperable estrogen receptor positive and HER2 negative breast cancer.\n* Postmenopausal status.\n* Tumor tissue (archived acceptable) available for biomarker studies. For Phase 2 Part 2 - CCND1 amplification and/or loss of p16 as determined by the central laboratory.\n* Acceptable bone marrow, liver and kidney function.\n\nExclusion Criteria:\n\n* Prior or concomitant treatment for advanced breast cancer.\n* Other major cancer in the past 3 years.\n* Important cardiovascular events in the past 6 months.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

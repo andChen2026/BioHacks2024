@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05151224",
+    "briefTitle": "Circulating microRNA 21 Expression Level Before and After Neoadjuvant Systemic Therapy in Breast Carcinoma",
+    "officialTitle": "Circulating microRNA 21 Expression Level Before and After Neoadjuvant Systemic Therapy in Breast Carcinoma",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Describe miRNA 21 expression level before and after neoadjuvant systemic therapy in breast cancer patient.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\>/= 18 years old.\n* Breast cancer diagnosis histologically proven and pathology report from breast and ipsilateral axillary nodes.\n* Pathology: invasive carcinoma.\n* Staging: tumor size \\>2cm (\\>/=T2), node positive (N \\>/= 1), i.e. \\>/= T2N1; from stage IIB to stage IIIC, according to AJCC breast Cancer staging 8th edition. (Giuliano, Edge and Hortobagyi, 2018)\n* All subtypes are included, either HR (ER, PR) positive or negative, HER2 positive or negative.\n* Neoadjuvant systemic treatment composed of anthracyclines-based chemotherapy and taxanes, trastuzumab for HER2 positive patients\n\nExclusion Criteria:\n\n* Metastatic breast cancer\n* inflammatory breast cancer,\n* male breast cancer,\n* bilateral breast cancer, or concurrent malignancy\n* Previous malignancy.\n* Presence of any contraindication to neoadjuvant treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

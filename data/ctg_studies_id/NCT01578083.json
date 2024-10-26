@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01578083",
+    "briefTitle": "Chemotherapy-Induced Cognitive Impairment",
+    "officialTitle": "The Neurobiology of Chemotherapy-Induced Cognitive Impairment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cognitive Symptoms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "Changes in fractional anisotropy (FA) in one or more white matter tracts.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Inclusion Criteria (Phase I and II):\n\n  * Participants must be females between 35 and 70 years of age.\n  * Participants must have been diagnosed with breast cancer and completed chemotherapy,within the preceding 2 years.\n  * Participants must have completed their intended full course of chemotherapy regimen at least 30 days prior to participation.\n  * Participants must have been diagnosed with invasive ductal or lobular BrCa Stages I, II, or III (American Joint Committee on Cancer (AJCC) staging manual, 7th edition, 2010).\n\nInclusion Criteria (Phase II)\n\n* Participants must be able to read, write, and speak English fluently.\n* Participants must be able to provide a valid informed consent.\n* Participants must have a life expectancy of greater than 6 months at the time they are approached for enrollment.\n* Cases - Those who self-report CICI and are in the 75th percentile of scores on the Cognitive Failures Questionnaire (CFQ) and have a global rating of cognition response of \"Extremely Affected\" or \"Strongly Affected\"\n* Controls - Those whose CFQ scores are in the lowest 25th percentile and who report that their daily life is not affected by cognitive impairment. Controls will be selected so that they are age (within 5 years)-matched to a Case.\n\nExclusion Criteria:\n\n* \u2022 Participants with prior cancer diagnoses of other sites with evidence of active disease within the past year.\n\n  * Participants who have received skull-base radiation treatment within the past year for any reason. Skull-base radiation may contribute to the symptoms of CICI.\n  * Participants with active diagnoses of any acute or chronic brain-related neurological conditions that can alter normal brain anatomy or function, including Parkinson's disease, Multiple Sclerosis, Alzheimer's Disease, cerebral infarcts, , history of brain tumor(s), epilepsy, or dementia.\n  * Must not have a history of traumatic brain injury (loss of consciousness for \\> 15 min.)\n  * Participants with implanted metal objects not compatible with MRI, electrodes, pacemakers, intracardiac lines, or medication pumps.\n  * Participants who weigh over 350 pounds (weight limit on MRI machine).\n  * Participants with a history of claustrophobia that will preclude undergoing MRI.\n  * Participants with an inability to lie flat for MRI.\n  * Any medical condition the PI determines would render the study unsafe or not in the best interest of the patient.",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

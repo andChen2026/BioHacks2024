@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05982886",
+    "briefTitle": "Biomarker Testing and Treatment Patterns Among Patients With PIK3CA Mutation in Advanced Breast Cancer",
+    "officialTitle": "Biomarker Testing and Treatment Patterns Among Patients With PIK3CA Mutation in Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1093,
+    "primaryOutcomeMeasure": "Number of patients with PIK3CA mutations",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients who met the following criteria were eligible for abstraction:\n* Newly diagnosed advanced BC between 01 January 2015, and 30 June 2020\n* Evaluated for a PIK3CA mutation and identified PIK3CA gene status\n* No evidence of active other malignant neoplasms within 3 years (except nonmelanoma skin cancer or carcinoma in situ) prior to diagnosis of advanced BC\n* At least 18 years of age at the time of first diagnosis of BC\n* Patients may be alive or deceased at the time of abstraction\n* Not ever enrolled in the following interventional clinical trials evaluating PI3K inhibitors:\n\n  * SOLAR-1 trial (NCT0243731) evaluating alpelisib (BYL719)\n  * BELLE-2 or BELLE-3 trial (NCT01610284, NCT01633060) evaluating buparlisib (BKM120)\n  * SANDPIPER trial (NCT02340221) evaluating taselisib (GDC-0032)\n\nExclusion Criteria:\n\nNone",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

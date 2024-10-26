@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03567044",
+    "briefTitle": "Immune Effects in Patients Treated With Whole Breast Irradiation",
+    "officialTitle": "Outcomes and Immune Effects in Patients With Early Stage Breast Cancer Treated With Lumpectomy and Whole Breast Irradiation.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Lymphopenia",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Willingness and ability to provide written informed consent and to comply with the study protocol as judges by the investigator.\n* Patient has new diagnosis of breast cancer and has elected BCS and WBI. These patients must be consented prior to the start of WBI.\n* For patients with invasive breast cancer sentinel node biopsy (SLNB) must be performed and confirm pathologic negative disease.\n* Tumor size must be less than or equal to 3 cm.\n* Patient is 45 years of age or older.\n* Women of childbearing potential must agree to use adequate contraception prior to study entry and through the WBI treatment. Should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately.\n\nExclusion Criteria:\n\n* Male patients\n* Patients who are pregnant or nursing.\n* Patient has a history or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the study, interfere with the patient's participation for the duration of the study or is not in the best interest of the patient to participate, in the opinion of the treating investigator.\n* Breast cancer that involves the skin or the chest wall.\n* History of ipsilateral breast cancer treated with radiation therapy.\n* Multicentric breast cancer in the ipsilateral breast as diagnosed by clinical exam, mammogram, ultrasound, or MRI\n* Patients known to have a BRCA gene mutation. Genetic testing is not required.\n* Patient with clinically positive nodal disease.\n* Patient with proven nodal disease by either FNA, core biopsy or sentinel node biopsy.",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

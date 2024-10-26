@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02120417",
+    "briefTitle": "A Study of Ruxolitinib in Combination With Capecitabine in Subjects With Advanced or Metastatic HER2-negative Breast Cancer",
+    "officialTitle": "A Randomized, Double-Blind, Phase 2 Study of Ruxolitinib or Placebo in Combination With Capecitabine in Subjects With Advanced or Metastatic HER2-Negative Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 149,
+    "primaryOutcomeMeasure": "Overall Survival (OS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed HER2-negative adenocarcinoma of the breast\n* Locally advanced (Stage 3B) or metastatic (Stage 4) disease\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 to 2\n* Received up to 2 prior chemotherapy regimens (not including neoadjuvant/adjuvant therapy) for advanced or metastatic disease\n* Participants with hormone-receptor positive tumors must have failed available lines of hormonal therapy unless hormone therapy was not tolerated or not clinically appropriate\n* \u2265 2 weeks elapsed from the completion of previous treatment regimen and must have recovered or be at a new stable baseline from any related toxicities\n* Radiographically measurable or evaluable disease\n* An mGPS of 1 or 2 as defined below:\n\n  * Criteria:\n\n    1. modified Glasgow prognostic score (mGPS) of 1: CRP \\> 10 mg/L and albumin \u2265 35 g/L\n    2. mGPS of 2: C-reactive protein (CRP) \\> 10 mg/L and albumin \\< 35 g/L\n\nExclusion Criteria:\n\n* Received prior treatment with capecitabine or fluoropyrimidine for advanced or metastatic disease\n* Received more than 2 prior regimens for advanced or metastatic disease (not including hormonal therapy in the metastatic setting or neoadjuvant or adjuvant therapies)\n* Unknown hormone-receptor status\n* Ongoing radiation therapy or radiation therapy administered within 2 weeks of enrollment\n* Concurrent anticancer therapy\n* Inadequate renal, hepatic or bone marrow function\n* Another current or previous malignancy within 2 years of study entry unless approved by the sponsor",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

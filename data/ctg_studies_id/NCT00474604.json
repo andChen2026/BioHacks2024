@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00474604",
+    "briefTitle": "Breast MRI in Women With Known or Suspected Breast Cancer and in Healthy Participants",
+    "officialTitle": "MRI Evaluation of Breast Tumor Growth and Treatment Response",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 209,
+    "primaryOutcomeMeasure": "Feasibility of advanced, quantitative, multi-parametric magnetic resonance imaging (MRI) methods for characterizing breast tumors to develop potential surrogate imaging markers for diagnosis and prediction of treatment response",
+    "eligibilityCriteria": "Inclusion criteria:\n\nWomen who satisfy the following conditions are the only subjects who will be eligible for this study:\n\n* Normal volunteers\n* Subjects with known or suspected breast disease\n* Subjects must have signed an approved consent form.\n* Subjects must be \u2265 18 years old.\n* The protocol nurse will check with the patient that there is no h/o kidney disease\n* Normal creatinine and estimated GFR\\* within 30 days under the following circumstances\n\n  * Had abnormal creatinine in the last 60 days\n  * Are over 60 years of age\n  * Has received chemotherapy within the past 30 days\n  * Has diabetes, HIV, renal disease or hx of renal cancer\n* \\* GFR will be calculated using: http://www.kidney.org/professionals/kdoqi/gfr_calculator.cfm\n* Patients with an eGFR\\>90ml/min reported within 30 days, and who have not had intervening chemotherapy or other treatment or condition that might deteriorate renal function, may receive any gadolinium agent.\n\nExclusion Criteria:\n\n* Children will be excluded from this study.\n* Pregnant women and women who are breast feeding will be excluded from this study. (The Vanderbilt University Medical Center radiology \"MRI Procedure Screening Form\" will be used to identify and exclude subjects who are pregnant or breastfeeding. A urine pregnancy test/or serum beta HCG will also be performed for each pre-menopausal subject.)\n* Subjects found to have any constitutionally present non-MR compatible ferromagnetic materials will be excluded from this study.\n* Patients who are acutely ill who are deemed by their treating physician as not suitable candidates for this study\n* Subjects for whom an MRI is technically not feasible (e.g. breast volume, obesity)\n* Subjects who have vascular access ports or other implanted devices rated as anything other than \"Safe\" or \"Conditional 6\"",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

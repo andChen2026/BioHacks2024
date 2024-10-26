@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06486155",
+    "briefTitle": "Evaluation of Axillary Lymph Node Metastasis Status of Breast Cancer Based on Pathological Images and Virtual Staining",
+    "officialTitle": "Evaluation of Axillary Lymph Node Metastasis Status of Breast Cancer Based on Pathological Images and Virtual Staining",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Virtual Staining, Lymph Node Metastasis, Breast Cancer, Digital Pathology",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2200,
+    "primaryOutcomeMeasure": "Lymph node metastasis status",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPart 1:\n\nFemale patients aged 18-75 with breast cancer; Undergoing surgical excision of breast cancer and sentinel lymph node biopsy/axillary lymph node dissection; Lymph nodes with clear postoperative paraffin pathological results.\n\nPart 2:\n\nPatients aged 18-75 with one of the following cancers: thyroid, lung, esophagus, stomach, colorectal, prostate, bladder, or cervix; Undergoing surgical resection of lymph nodes; Lymph nodes with clear postoperative paraffin pathological results.\n\nPart 3:\n\nFemale patients aged 18-75 with breast cancer; Undergoing surgical excision of breast cancer and sentinel lymph node biopsy; Sentinel lymph nodes with clear postoperative paraffin pathological results.\n\nExclusion Criteria:\n\nPart 1 / Part 2:\n\nLymph node diagnosis is missing; Absence of lymph node component in the slice.\n\nPart 3:\n\nSentinel lymph node diagnosis is missing; Absence of lymph node component in the frozen slice.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

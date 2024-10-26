@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00356681",
+    "briefTitle": "A Study of AMG 706 or Bevacizumab, in Combination With Paclitaxel Chemotherapy, as Treatment for Breast Cancer",
+    "officialTitle": "A Randomized Phase 2 Trial of Double-Blind, Placebo Controlled AMG 706 in Combination With Paclitaxel, or Open-Label Bevacizumab in Combination With Paclitaxel, as First Line Therapy in Women With HER2 Negative Locally Recurrent or Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasms, Breast Tumors, Breast Cancer, Locally Recurrent and Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 282,
+    "primaryOutcomeMeasure": "Objective response rate, measured radiologically and assessed by an independent review committee.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the breast with locally recurrent or metastatic disease.\n* Measurable disease by RECIST guidelines.\n* Tumor (primary or metastatic) must be HER2 negative.\n* Adequate organ and hematologic function. Exclusion:\n* Taxane treatment within 12 months prior to registration.\n* Prior chemotherapy for locally recurrent or metastatic breast cancer (prior endocrine therapy is permitted).\n* Prior radiation therapy, radiofrequency ablation, percutaneous cryotherapy or hepatic chemoembolization on all sites of measurable disease.\n* Current or prior history of central nervous system metastases.\n* Peripheral neuropathy \u2265 grade 2 (CTCAE v3.0) at registration.\n* History of arterial or venous thrombosis within 1 year prior to registration.\n* History of bleeding diathesis or bleeding within 14 days of registration.\n* Uncontrolled hypertension (systolic \\>145 mmHg; diastolic \\>85 mmHg).\n* Clinically significant cardiac disease within 12 months of registration.\n* Known HIV positive, hepatitis C positive or hepatitis B surface antigen positive.\n* Prior treatment with VEGFr targeted therapies.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

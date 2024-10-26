@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03061175",
+    "briefTitle": "Web-Based Decision Aid in Improving Informed Decisions in Patients With Stage 0-IIIA Breast Cancer Considering Contralateral Prophylactic Mastectomy",
+    "officialTitle": "Facilitating Informed Decisions for Contralateral Prophylactic Mastectomy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Stage 0 Breast Cancer, Stage I Breast Cancer, Stage IA Breast Cancer, Stage IB Breast Cancer, Stage II Breast Cancer, Stage IIA Breast Cancer, Stage IIB Breast Cancer, Stage IIIA Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 94,
+    "primaryOutcomeMeasure": "Contralateral Prophylactic Mastectomy (CPM) Knowledge Assessed by Surveys for CPM-DA Participants vs. UC Participants",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* PHASE I: Has a first, primary diagnosis of unilateral stage 0, 1, 2, or 3a breast cancer (patients with bilateral breast cancer will be excluded from participation)\n* PHASE I: Speaks and reads English\n* PHASE I: Women with sporadic cancers (WSC) (does not have hereditary breast/ovarian cancer syndrome \\[BReast CAncer gene (BRCA) carrier, strong family history\\]); if there is any uncertainty, the surgeon will use the Tyrer-Cuzick (Tyrer et al., 2004) risk model to calculate risk; the Tyrer-Cuzick model calculates a personal lifetime risk of breast cancer based on multiple factors; it has become the standard model because it incorporates not only factors such as estrogen exposure and first degree relatives, but also second degree relatives and paternal lineage; a lifetime risk of 20% or greater is considered high risk and would necessitate increased screening methods to the traditional annual mammogram; for this study, anyone with a lifetime risk up to 19% on the Tyrer-Cuzick model will be considered average risk for breast cancer; anyone with a lifetime risk of 20% or greater will be excluded from participation\n* PHASE I: Able to provide meaningful informed consent\n* PHASE II: Completed initial surgical consult with breast cancer surgeon at Cancer Institute of New Jersey (CINJ)/Massachusetts General Hospital (MGH)/Memorial Sloan Kettering Cancer Center (MSKCC) and is considering CPM, regardless of the surgical treatment of their primary breast cancer (lumpectomy/mastectomy)\n* PHASE II: Has home internet access\n* PHASE II: Has a first, primary diagnosis of unilateral stage 0, 1, 2, or 3a breast cancer\n* PHASE II: Speaks and reads English\n* PHASE II: WSC (does not have hereditary breast/ovarian cancer syndrome \\[BRCA carrier, strong family history\\]); if there is any uncertainty, the surgeon will use the Tyrer-Cuzick (Tyrer et al., 2004) risk model to calculate risk; for this study, anyone with a lifetime risk up to 19% on the Tyrer-Cuzick model will be considered average risk for breast cancer; anyone with a lifetime risk of 20% or greater will be excluded from participation\n* PHASE II: Able to provide meaningful informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00968214",
+    "briefTitle": "Study of Tumor and Blood Samples From Postmenopausal Women With Primary Breast Cancer Enrolled on Clinical Trial CAN-NCIC-MA27",
+    "officialTitle": "A Genome-Wide Association Study in Patients Experiencing Musculoskeletal Adverse Events on NCIC CTG Trial MA.27 Evaluating Aromatase Inhibitors as Adjuvant Therapy in Early Breast Cancer. A Collaboration Between the NIH Pharmacogenetics Research Network and the RIKEN Yokohama Institute Center for Genomic Medicine.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 364,
+    "primaryOutcomeMeasure": "Genetic variation associated with musculoskeletal adverse events",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed invasive breast cancer\n\n  * Complete resection of primary tumor\n  * Stage I-III (T1-3, N0-3, M0) disease\n* Enrolled in clinical trial CAN-NCIC-MA27.\n* No locally recurrent or metastatic breast cancer\n* Hormone receptor status:\n\n  * Estrogen receptor- or progesterone receptor-positive disease\n\nPATIENT CHARACTERISTICS:\n\n* Postmenopausal status, defined as one of the following:\n\n  * At least 60 years old\n  * Age 45-59 years with spontaneous cessation of menses for \\> 12 months prior to chemotherapy or study randomization\n  * Age 45-59 years with cessation of menses for \\< 12 months or secondary to hysterectomy AND a follicle-stimulating hormone (FSH) level in the postmenopausal range (or \\> 34.4 IU/L)\n  * Age 45-59 years on hormone replacement therapy (HRT) and discontinued HRT at diagnosis of breast cancer AND FSH level in the postmenopausal range (or \\> 34.4 IU/L)\n  * Bilateral oophorectomy\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

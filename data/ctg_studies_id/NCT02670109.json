@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02670109",
+    "briefTitle": "Autologous Hematopoietic Stem Cell Transplantation as Adjuvant Treatment for Triple Negative Breast Cancer Patients",
+    "officialTitle": "High-dose Chemotherapy With Autologous Hematopoietic Stem Cell Transplantation as Adjuvant Treatment for Triple Negative Breast Cancer Patients Without Complete Pathological Response to Neoadjuvant Chemotherapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Triple-Negative Invasive Breast Carcinoma, Residual Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Overall Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Triple Negative Breast Cancer diagnosis (no expression of hormonal receptors or Her2/neu)\n* Previous administration of neoadjuvant chemotherapy (60 days maximum)\n* No evidence of metastatic disease at inclusion\n* Residual tumor in the breast and/or lymph nodes\n* Normal renal, liver, heart, lung, and hematopoietic function\n\nExclusion Criteria:\n\n* Pregnancy\n* Disease progression during neoadjuvant therapy\n* Other tumors\n* Non triple negative breast cancer diagnosis\n* Pathological Complete Response achieved",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

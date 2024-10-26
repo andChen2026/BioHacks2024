@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03475979",
+    "briefTitle": "Abbreviated Breast MRI for Second Breast Cancer Detection in Women With BRCA Mutation Testing",
+    "officialTitle": "Surveillance for Second Breast Cancer With Abbreviated Breast MRI, Ultrasound, and Mammography in Women With BRCA Mutation Testing",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, BRCA1 Mutation, BRCA2 Mutation, Recurrent Breast Cancer, Metachronous Neoplasm",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1564,
+    "primaryOutcomeMeasure": "Sensitivity and Specificity (co-primary)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged between 25 years and 75 years with a personal history of breast cancer\n* BRCA mutation test done (meeting any of the following criteria): 1) early-age-onset breast cancer (40 years or younger), 2) bilateral breast cancers (synchronous) 3) personal history of ovarian cancer and/or other multiple primary cancers 4) family history of breast and/or ovarian cancer in first- or second-degree relatives\n* No symptom or sign of secondary breast cancer (no palpable mass, bloody nipple discharge, abnormal skin change, nipple retraction)\n* Written informed consent is given\n\nExclusion criteria:\n\n* Initial breast cancer stage IV\n* Bilateral mastectomy done\n* Diagnosis of second breast cancer or regional/distant metastasis\n* Systemic chemotherapy for any cancer\n* Pregnant or lactating\n* Contraindication to breast MRI with contrast enhancement",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

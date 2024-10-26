@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01288092",
+    "briefTitle": "BEZ235 Trial in Patients With HER2-(Human Epidermal Growth Factor Receptor 2 Negative) /HR+ (Hormonal Receptor Positive) Metastatic Breast Cancer",
+    "officialTitle": "A Phase II Study of Orally Administered BEZ235 Monotherapy in Patients With Hormone Receptor Positive, HER2 Negative, Metastatic Breast Cancer, With or Without PI3K Activated Pathway",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Progression-free survival rate after 16 weeks of treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female \u2265 18 years\n* ECOG performance status \u2264 2\n* Histologically and/or cytologically confirmed diagnosis of breast cancer presenting with metastatic disease (hormone receptor positive and HER2 negative)\n* Known PI3K activation status (defined by PIK3CA (Phosphoinositide-3-kinase, catalytic, alpha polypeptide) mutation and PTEN PTEN (Phosphatase and Tensin Homolog) mutation/expression)\n* Prior treatment with at least one prior line of endocrine therapy and at least two and no more than three prior lines of chemotherapy for metastatic breast cancer\n* Objective and radiologically confirmed progression of disease after prior treatment and at least one measurable lesion as per RECIST\n* Adequate bone marrow and organ function\n\nExclusion Criteria:\n\n* Previous treatment with PI3K and/or mTOR inhibitors\n* Symptomatic Central Nervous System (CNS) metastases\n* Concurrent malignancy or malignancy in the last 5 years prior to start of study treatment\n* Wide field radiotherapy \u2264 28 days or limited field radiation for palliation \u2264 14 days prior to starting study drug\n* Active cardiac disease (e.g. Left Ventricular Ejection Fraction (LVEF) \\< 50%, QTcF \\> 480 msec on screening ECGelectrocardiogram (ECG), unstable angina pectoris, ventricular, supraventricular or nodal arrhythmias)\n* Inadequately controlled hypertension\n* Impairment of gastrointestinal (GI) function or GI disease that may significantly alter the absorption of BEZ235\n* Treatment at start of study treatment with drugs with a known risk to induce Torsades de Pointes, moderate and strong inhibitors or inducers of isoenzyme CYP3A4, warfarin and coumadin analogues, LHRH agonists\n* History of photosensitivity reactions to other drugs\n* Pregnant or nursing (lactating) woman\n\nOther protocol-defined inclusion/exclusion criteria may apply",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

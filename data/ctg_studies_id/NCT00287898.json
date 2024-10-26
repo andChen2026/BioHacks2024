@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00287898",
+    "briefTitle": "Telephone-Based Genetic Counseling or Standard Genetic Counseling in Women at Risk of Carrying the BRCA1 or BRCA2 Mutation",
+    "officialTitle": "Telephone-Based Genetic Counseling; An Equivalence Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 669,
+    "primaryOutcomeMeasure": "Uptake of BRCA1/BRCA2 mutation testing as measured by genetic test results at 3 and 6 months",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Must have at least 10% chance of carrying the BRCA1/BRCA2 gene, as defined by \u2265 1 of the following:\n\n  * First-degree relative of affected family member with a 50% chance of inheriting a BRCA1/BRCA2 mutation\n  * Second-degree relative with BRCA1/BRCA2 mutation with 25% risk of inheritance (parent deceased)\n  * Obligate gene carrier or affected woman\n* Must live within 100 miles of the Lombardi Comprehensive Cancer Center\n* No more than 4 weeks since breast or ovarian cancer diagnosis\n* No metastatic or inflammatory breast cancer or ovarian cancer\n* No stage III breast or ovarian cancer while undergoing concurrent chemotherapy\n\nPATIENT CHARACTERISTICS:\n\n* No psychiatric illness or cognitive disorder that would preclude informed consent\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior genetic counseling or testing for BRCA1 and/or BRCA2",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

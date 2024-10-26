@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01931709",
+    "briefTitle": "FDG PET and DCE-MRI in Predicting Response to Treatment in Patients With Breast Cancer",
+    "officialTitle": "Quantitative Dynamic PET and MRI and Breast Cancer Therapy",
+    "overallStatus": "TERMINATED",
+    "conditions": "Male Breast Cancer, Stage II Breast Cancer, Stage IIIA Breast Cancer, Stage IIIB Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "Number of Participants With Favorable Pathologic Response at Surgery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathologically confirmed breast cancer, determined to be a candidate for primary systemic (neoadjuvant) therapy and for surgical resection of residual primary tumor following completion of neoadjuvant therapy\n* Primary tumor 2.0 cm or greater, and/or clinical evidence of axillary disease (palpable N1 or N2 or biopsy proven)\n* No obvious contraindications for primary chemotherapy\n* Able to lie still for PET and MRI scanning\n* Able to understand and willing to sign a written informed consent document and a Health Insurance Portability and Accountability Act (HIPAA) authorization in accordance with institutional guidelines\n\nExclusion Criteria:\n\n* Serious systemic illness other than breast cancer\n* Contraindication to MRI or history of adverse reaction to gadolinium\n* Evidence of distant disease outside of regional lymph nodes\n* Pregnant\n* Poorly controlled diabetes mellitus (fasting blood glucose \\> 200)\n* Prior systemic cancer therapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06380660",
+    "briefTitle": "Study of ACE-86225106 to Treat Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase I/II, Open-label, Multicentre Study to Assess the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics and Preliminary Efficacy of Ascending Doses of ACE-86225106 as Monotherapy in Patients With Advanced Solid Tumors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Solid Tumor, Adult, BRCA1 Mutation, BRCA2 Mutation, Ovarian Cancer, Breast Cancer, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 298,
+    "primaryOutcomeMeasure": "Number of participants experiencing adverse events (AEs)/serious adverse events (SAEs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Provide written informed consent;\n2. Advanced solid tumors, difficult to treat or intolerant to standard treatment, suitable for investigational treatment;\n3. Has Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1;\n4. Has a life expectancy of at least 3 months.\n5. Has measurable disease per RECIST 1.1, castration-resistant prostate Ccancer (CRPC) patients can be assessed according to PCWG3;\n6. Adequate organ function and bone marrow function;\n7. Can provide tumor specimens and blood samples for Homologous Recombination Deficiency (HRD)/(Breast Cancer gene) BRCA gene testing.\n\nExclusion Criteria:\n\n1. Receiving any anti-cancer drugs, major surgery, extensive radiation therapy, or local radiation therapy within protocol-defined wash-out period;\n2. Concomitant use of medications or herbal supplements known to be strong or moderate inhibitors or inducers of cytochrome P450 3A4 (CYP3A4);\n3. Receiving continuous corticosteroid treatment with a dose of prednisone greater than 10 mg/day or an equivalent dose.\n4. Receiving continuous treatment with prednisone at a dose of \\>10 mg/d or other corticosteroids at an equivalent dose for any reason.\n5. Any previous treatment-related toxicities have not recovered, i.e., to \u2264 Grade 1 (as evaluated by NCI-CTCAE v5), except alopecia and other Grade 2 toxicities that are deemed not to affect the conduct of the study, as assessed by the sponsor and the clinical investigator.\n6. Spinal cord compression or brain metastases unless asymptomatic, treated and stable.\n7. Severe cardiovascular disorders.\n8. Myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML) or with evidence suggesting possible MDS/AML.\n9. Concomitant diseases or conditions that would preclude the absorption of the investigational product.\n10. Active infections, or a known history of HIV infection, or a known active hepatitis B or C, or a known active tuberculosis.\n11. Other malignancies that require treatment within 3 years prior to first dose of study investigational product.\n12. Conditions with rapid deterioration during the screening period.\n13. Known allergy or hypersensitivity to the investigational product or any of the excipients of the investigational product.\n14. Has other medical conditions that at the discretion of investigator interfere with safety or efficacy evaluation, or affect treatment compliance.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

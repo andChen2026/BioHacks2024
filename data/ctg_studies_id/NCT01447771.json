@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01447771",
+    "briefTitle": "Decision Support for Women With Breast Cancer",
+    "officialTitle": "Decision Support for Women With Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 14,
+    "primaryOutcomeMeasure": "Satisfaction with Decision at 24 hours",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women with early stage (Stage I and Stage II) breast cancer that are considering adjuvant therapy and are being evaluated at the Johns Hopkins Avon Foundation Breast Center.\n2. Age 18 years and older.\n3. Able to read and speak English.\n\nExclusion Criteria:\n\n1. Severe visual impairments that would make it difficult to read study instruments or inability to read.\n2. Lack of capacity to provide informed consent to participate in the study.\n3. Patients being seen for a second opinion.\n4. Patients with a history of previous neoadjuvant chemotherapy.\n5. Women who are pregnant.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

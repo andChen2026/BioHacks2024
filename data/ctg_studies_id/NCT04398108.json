@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04398108",
+    "briefTitle": "A Study to Evaluate the Pharmacokinetics of Margetuximab in Chinese Patients With HER2+ MBC",
+    "officialTitle": "An Open-Label, Single-arm, Phase I Study to Evaluate the Pharmacokinetics, Tolerability and Safety of Margetuximab Plus Chemotherapy in the Treatment of Chinese Patients With HER2+ Metastatic Breast Cancer Who Have Received Prior Anti-HER2 Therapies",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER2 Positive Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 16,
+    "primaryOutcomeMeasure": "Evaluation of pharmacokinetic parameter of margetuximab Cmax",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent obtained prior to performing any protocol-related procedures\n* Male or female, age \u2265 18 years old at the time of screening.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Subject has histologically confirmed HER2 positive metastatic breast cancer.\n* Have received standard anti-HER2 directed therapy in the metastatic setting (mandatory to have trastuzumab), regardless of having received (neo)adjuvant anti-HER2 therapy or not.\n* Have received treatment with no more than four lines of therapy overall in the metastatic setting (including anti-HER2 targeted therapy or chemotherapy) and must have disease progressed on or after, the most recent line of therapy. per RECIST 1.1.\n* Previous adverse events associated with anti-tumor therapy have been recovered to NCI-CTCAE v4.03 Grade \u22641 (except NCI-CTCAE v4.03 Grade \u22642 alopecia, stable sensory neuropathy, or stabilized electrolyte disturbance after fluid transfusion).\n* Subject has life expectancy \u226512 weeks.\n* Subject has no supportive therapy of blood transfusion or growth factor within 4 weeks before dosed and has adequate organ functions\n* Subject has a negative test result of pregnancy test at screening.\n\nExclusion Criteria:\n\n* Subject has symptomatic, uncontrolled brain or pia mater metastasis.\n* Subject has third interstitial effusion that cannot be controlled by drainage or other means.\n* Subject has local or systemic anti-tumor treatment within 2 weeks prior to enrollment\n* Subject has any investigational treatment within 4 weeks prior to enrollment (including margetuximab)\n* Subject has history of major surgery with unrecovered surgical effect within 4 weeks prior to enrollment\n* Subject has other malignant tumor (complete cured in situ cervical cancer, cutaneous basal cell carcinoma or cutaneous squamous cell carcinoma are not included) within 5 years prior to enrollment\n* Subject has severe and uncontrolled disease",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

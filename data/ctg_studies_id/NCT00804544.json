@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00804544",
+    "briefTitle": "99mTc-MIBI SPECT/CT in Breast Malignancy",
+    "officialTitle": "Tc-99m Sestamibi SPECT/CT for Prediction of the Response of Locally Advanced Breast Malignancy to Neoadjuvant Chemotherapy",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "1- Nodal staging 2- Prediction of chemosensitivity 3- Evaluation of chemosensitivity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with histologically proven breast cancer\n* Patients with locally advanced breast cancer (stages T2-4 N0-3 M0)\n* Patients scheduled for neoadjuvant chemotherapy\n* Patients scheduled for radical modified mastectomy\n* Patients with no physical and/or psychological contraindications\n* Patients with no recent nuclear medicine study using long-lived isotopes (i.e. 67Ga, 111In, 131I) within the 48 hour preceding the mammoscintigraphy\n\nExclusion Criteria:\n\n* Patient with no histologically proven breast cancer\n* Patients with early stage T1 breast cancer\n* Patients who are not candidates for neoadjuvant chemotherapy\n* Patients who are not surgical candidates\n* Patients with physical and/or psychological contraindications\n* Pregnant or breast feeding patients\n* Patients with a recent nuclear medicine study using long-lived isotopes (i.e. 67Ga, 111In, 131I) within the 48 hour preceding the mammoscintigraphy",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

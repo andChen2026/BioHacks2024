@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01992250",
+    "briefTitle": "Cryoablation of Small Breast Tumors in Early Stage Breast Cancer",
+    "officialTitle": "Freezing Alone Instead of Resection Of Small Breast Tumors: A Study of Cryoablation in the Management of Early Stage Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Tumor ablation occurence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age \u2265 50\n2. Unifocal primary invasive breast carcinoma diagnosed by core needle biopsy\n3. Maximum tumor size \u22641.5 cm in its greatest diameter\n4. Ultrasound visible lesion(s)\n5. Clinically node negative, hormone receptor positive (+). HER2 negative (-), with \\<25% intraductal component in the aggregate.\n6. Unilateral or bilateral disease meeting study criteria\n7. Physical and emotional ability to undergo baseline and follow-up breast MRIs and serial breast cosmesis analysis\n8. Patient agrees to receive a 5 year minimum course of endocrine therapy following cryoablation for control of systemic disease\n\nExclusion Criteria:\n\n1. Prior treatment (e.g., open surgical biopsy, lumpectomy) of index cancer\n2. Ductal carcinoma in-situ with microinvasions (T1mic)\n3. Multifocal or multicentric invasive breast carcinoma\n4. Prior or planned neoadjuvant systemic therapy for breast cancer\n5. Tumor with \u226525% IDC components",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

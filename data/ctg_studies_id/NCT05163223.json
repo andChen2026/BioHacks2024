@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05163223",
+    "briefTitle": "Therapeutic Cancer Vaccine (AST-301, pNGVL3-hICD) in Patients With Breast Cancer",
+    "officialTitle": "A Phase 2 Study to Evaluate the Efficacy and Safety of an Adjuvant Therapeutic Cancer Vaccine (AST-301, pNGVL3-hICD) in Patients With HER2 Low Breast Cancer (Cornerstone-001)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "2-year invasive disease free survival rate (iDFS)",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Has a residual invasive cancer in the breast(non-pCR) after neoadjuvant treatment\n* Has stage I, II, or III disease prior to surgery per American Joint Committee on Cancer (AJCC)\n* HER 2 1+ by IHC or HER2 2+by IHC without gene amplification by ISH, as defined by American Society of Clinical Oncology (ASCO)/College of American Pathologists (CAP) guidelines.\n* Hormone receptor (ER and PR) negative by ASCO/CAP guidelines\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Demonstrates adequate organ function.\n\nKey Exclusion Criteria:\n\n* Has a history of hypersensitivity or other contraindications to rhGM-CSF\n* Has a history of invasive malignancy \u22645 years prior to first administration of investigational drug except for adequately treated non-melanoma skin cancer or carcinoma in situ.\n* Is on immune suppression therapy or has a history of immune suppression therapy \u22644 weeks prior to the first administration of investigational drugs\n* Has a history of autoimmune disease or inflammatory disease\n* Has active infection including tuberculosis, hepatitis B, hepatitis C or human immunodeficiency virus (HIV) infection\n* Is pregnant or breastfeeding or expecting to conceive children",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

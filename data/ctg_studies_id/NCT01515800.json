@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01515800",
+    "briefTitle": "S1105: Text-Messaging Intervention to Reduce Early Discontinuation of AI Therapy in Women With Early-Stage Breast Cancer",
+    "officialTitle": "S1105, Randomized Trial Of Text-Messaging Intervention To Reduce Early Discontinuation Of Adjuvant Aromatase Inhibitor Therapy In Women With Early Stage Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 724,
+    "primaryOutcomeMeasure": "Time to first evidence of adherence failure (discontinuation)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Patients must be women with a diagnosis of histologically confirmed, primary invasive, hormone-sensitive (estrogen receptor-positive \\[ER\\]/progesterone receptor \\[PR\\]-positive) adenocarcinoma of the breast (Stage I, II or III) with no evidence of recurrent or metastatic disease (M0)\n* Patients must have a mobile phone that can receive text messages and must currently use or be willing to learn to use text messaging\n\nPATIENT CHARACTERISTICS:\n\n* Patients must be postmenopausal, as defined by at least one of the following:\n\n  * \u2265 12 months since the last menstrual period\n  * Prior bilateral oophorectomy\n  * Previous hysterectomy with one or both ovaries left in place (or previous hysterectomy in which documentation of bilateral oophorectomy is unavailable) AND follicle-stimulating hormone (FSH) values consistent with the institutional normal values for the postmenopausal state; FSH levels must be obtained within 28 days prior to registration\n* Patients must be willing to provide urine specimen to test for the presence of aromatase inhibitor within 28 days of randomization and at each 3-month clinic visit for 3 years\n* Patients must have the ability to speak and read English\n* Patients must have a Zubrod performance status of 0 - 2\n* No other prior malignancy (i.e., other than as noted on disease characteristics) is allowed except for adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, or other cancer for which the patient has been disease-free for \\> 5 years\n* Patients are allowed to participate in another clinical trial as long as it does not interfere with daily intake of aromatase-inhibitor therapy\n\nPRIOR CONCURRENT THERAPY:\n\n* Patients must be post adjuvant chemotherapy (if to be utilized) and primary curative surgery and must have recovered from all side-effects of the surgery\n\n  * Trastuzumab (Herceptin) given alone after cytotoxic chemotherapy is considered adjuvant chemotherapy; patients would be eligible upon completion of Herceptin as long as the other eligibility criteria are met\n* Patients must be currently taking an aromatase inhibitor (AI), have completed at least one month of AI therapy, be within the first 5 years of planned AI therapy, and have at least 3 years remaining before completion of planned AI therapy\n\nExclusion criteria: Insufficient evidence of post-menopausal status; metastatic or recurrent disease; currently receiving chemotherapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04821570",
+    "briefTitle": "To Assess Immunogenicity of Coronavirus Disease 2019 (COVID-19) Vaccine in Cancer Patients Receiving Cancer Treatment",
+    "officialTitle": "Cancer Therapy and Immunogenicity of COVID Vaccine (CANINE Trial)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Lung Cancer, Melanoma (Skin)",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Geometric mean titer (GMT) with corresponding 95%confidence interval (CI) at each time point of the entire population and individually of all cohorts",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Ability of participant OR Legally Authorized Representative (LAR) to understand this study, and participant or LAR willingness to sign a written informed consent\n* Males and females age \u2265 18 years\n* Patients with breast cancer, lung cancer, malignant melanoma or who have undergone stem cell transplant or chimeric antigen receptor (CAR) T cell therapy for a hematologic malignancy.\n\nOther cancer types including hematologic malignancies may be allowed if they are receiving treatments outlined in section 4.1.4\n\n* Solid Tumor patients and those with hematologic malignancies: Currently receiving active anti-cancer therapy, or planned to start within 14 days, with intravenous cytotoxic chemotherapy (oral or intravenous), intravenous chemoimmunotherapy combination, immunotherapy alone, an oral CDK 4/6 inhibitor. (This does not apply to recipients of stem cell transplant and CAR T therapy)\n* Therapy may be neo/adjuvant or for metastatic disease\n* Eastern Cooperation Oncology Group (ECOG) Performance status (PS) of 0-2\n\nExclusion Criteria:\n\n\\* Life expectancy of \\< 12 months",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

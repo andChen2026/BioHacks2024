@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03724253",
+    "briefTitle": "[68Ga]-NeoBOMB1 Imaging in Patients With Malignancies Known to Overexpress Gastrin Releasing Peptide Receptor (GRPR)",
+    "officialTitle": "Phase II Study of Preliminary Diagnostic Performance of [68Ga]-NeoBOMB1 in Adult Patients With Malignancies Known to Overexpress Gastrin Releasing Peptide Receptor (GRPR)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Prostate Cancer, Colorectal Cancer, Non Small Cell Lung Cancer, Small Cell Lung Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 19,
+    "primaryOutcomeMeasure": "Number of Lesions Detected by [68Ga]-NeoBOMB1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subjects must be at least 18 years of age\n* Subjects must have signed and dated an informed consent prior to any study-specific procedures\n* Subjects with histologically-confirmed tumor for whom a recent biopsy (not older than 6-months old) has been performed.\n* Dosimetry group: luminal breast cancer, adenocarcinoma of the prostate\n* Non-dosimetry group: luminal breast cancer, adenocarcinoma of the prostate, small cell lung cancer, non-small cell lung cancer, colorectal carcinoma\n* At least one malignant lesion detected via functional or morphological imaging (PET combined to appropriate tracer according to tumor type, CT, MRI) within 3 months prior to \\[68Ga\\]-NeoBOMB1 administration\n* The Eastern Cooperative Oncology (ECOG) performance status 0-2.\n* Subjects must agree to use highly effective methods of contraception (female partners of male participants should use highly effective methods of contraception) during the trial.\n\nExclusion Criteria:\n\n* renal insufficiency or an eGFR \\<50 ml/min/1.73m2\n* hematological toxicity grade \\> 2 (Toxicity Grading Scale in vaccine clinical trials)\n* participation in any other investigational trial within 30 days of study entry\n* subjects with positive pregnancy test (urine dipstick), and/or currently breast-feeding\n* concurrent severe illness or clinically relevant trauma within 2 weeks before the administration of the investigational product that might preclude study completion or interfere with study results\n* concurrent bladder outflow obstruction or unmanageable urinary incontinence\n* known or expected hypersensitivity to \\[68Ga\\]-NeoBOMB1 or any excipient present in \\[68Ga\\]-NeoBOMB1\n* any condition that precludes raised arms position\n* prior administration of a radiopharmaceutical within a period corresponding to 8 half-lives of the radionuclide\n* history of somatic or psychiatric disease/condition that may interfere with the objectives and assessments of the study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

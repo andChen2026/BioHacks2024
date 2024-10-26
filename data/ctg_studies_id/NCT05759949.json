@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05759949",
+    "briefTitle": "First-in-Human Study of RLY-5836 in Advanced Breast Cancer and Other Solid Tumors",
+    "officialTitle": "A First-in-Human Study of PI3K\u03b1 Inhibitor, RLY-5836, in Combination With Targeted and Endocrine Therapies in Participants With Advanced Breast Cancer and as a Single Agent in Advanced Solid Tumors",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "PIK3CA Mutation, Solid Tumor, Adult, HER2-negative Breast Cancer, Breast Cancer, Metastatic Breast Cancer, Advanced Breast Cancer, Unresectable Solid Tumor, Hormone Receptor Positive Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 265,
+    "primaryOutcomeMeasure": "Maximum Tolerated Dose (MTD) and Recommended Phase 2 Dose (RP2D) of RLY-5836",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPatient has ECOG performance status of 0-1\n\nOne or more documented primary oncogenic PIK3CA mutation(s) in blood and/or tumor per local assessment\n\nRLY-5836 single agent arm key inclusion criteria\n\n* Disease that is refractory to standard therapy, intolerant to standard therapy, or participant has declined standard therapy.\n* A histologically or cytologically confirmed diagnosis of unresectable or metastatic solid tumor\n\nCombination arms key inclusion criteria\n\n* Males, postmenopausal females, or pre-/perimenopausal females previously treated with gonadotropin-releasing GnRH agonist at least 4 weeks prior to start of study drug with histologically or cytologically confirmed diagnosis of HR+, HER2- unresectable or metastatic breast cancer that is not amenable to curative therapy.\n* Had previous treatment for advanced or metastatic breast cancer with antiestrogen therapy including, but not limited to, selective estrogen receptor degraders (e.g., fulvestrant), selective estrogen receptor modulators (e.g., tamoxifen), and aromatase inhibitors (AI) (letrozole, anastrozole, exemestane)\n* Part 1: Prior PI3K\u03b1 inhibitor treatment is allowed if taken for \\< 14 days and not discontinued due to disease progression, hypersensitivity, or \u2265 Grade 3 TEAEs.\n\nExclusion Criteria:\n\n* Part 2: Prior treatment with PI3K\u03b1 inhibitors.\n* Type 1 or Type 2 diabetes requiring antihyperglycemic medication, or fasting plasma glucose \u2265140 mg/dL and glycosylated hemoglobin (HbA1c) \u22657.0%.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05799976",
+    "briefTitle": "Text Message-Based Nudges Prior to Primary Care Visits to Increase Care Gap Closure",
+    "officialTitle": "A Pragmatic Randomized Intervention Using Text Messages Prior to Primary Care Visits to Encourage Care Gap Closure: The PRIME Randomized Clinical Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Pneumonia, Pneumococcal, Diabetes Mellitus, Breast Cancer, Colorectal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 29334,
+    "primaryOutcomeMeasure": "Care gap order rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 or older\n* Have documented consent to communicate electronically\n* Have a visit scheduled with a primary care practice\n* Have at least one open care gap among those in the intervention\n\nExclusion Criteria:\n\n* No phone number on file to send text messages",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

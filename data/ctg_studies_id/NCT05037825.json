@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05037825",
+    "briefTitle": "The Gut Microbiome and Immune Checkpoint Inhibitor Therapy in Solid Tumors",
+    "officialTitle": "The Gut Microbiome and Immune Checkpoint Inhibitor Therapy in Solid Tumors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Non-Small-Cell Lung Carcinoma, Malignant Melanoma, Renal Cell Carcinoma, Triple-Negative Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 800,
+    "primaryOutcomeMeasure": "Change in microbiome composition from baseline to after Cycle 2 of checkpoint therapy (6-8 weeks) by analyzing longitudinally-collected stool specimens of 800 patients with primary NSCLC, MM, RCC, and TNBC",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Men or women \u226518 years of age\n2. Screened negative for COVID-19 symptoms at time of consent, as per institutional policy and as applicable for the duration of the COVID-19 pandemic\n3. Diagnosed with stages I-IV primary NSCLC, MM, TNBC or RCC\n4. Plan to be treated at a partner cancer site with a checkpoint inhibitor (anti-PD-1, anti-PD-L1, or anti-CTLA-4) as a single agent or in combination with another checkpoint inhibitor or other treatment agent or modality (e.g., targeted therapy, chemotherapy, surgery, radiation, etc.) in accordance with FDA-labeled use of the agent\n5. Able to provide informed consent and answer study questionnaires in either English or Spanish\n6. Able to provide stool specimens for research purposes\n\nExclusion Criteria:\n\n1. Mental incapacity\n2. Incarcerated individuals\n3. Pregnancy (by self-report of pregnancy status)\n4. Experiencing active brain metastasis/metastases\n5. Treatment with checkpoint inhibitor in off-label capacity or through a clinical/interventional trial\n6. Active participation in an immuno-oncology clinical/interventional trial or pharma-sponsored observational study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

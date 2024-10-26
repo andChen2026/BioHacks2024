@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02649101",
+    "briefTitle": "Thalidomide Plus Chemotherapy Versus Chemotherapy Alone for Advanced Breast Cancer",
+    "officialTitle": "Thalidomide Plus Chemotherapy Versus Chemotherapy Alone: A Phase II Study in Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Progression free survival(PFS)",
+    "eligibilityCriteria": "1. inclusion criteria:\n\n   * Women \\>/= 18 and \\< 65 years of age .\n   * Histologically or cytologically confirmed breast cancer with evidence of metastatic disease. (Note: the participant must be recovered from any clinically significant toxicity thereof last therapy.)\n   * ECOG performance status 0-2.\n   * Adequate bone marrow, kidney and liver function.\n   * ER/PR breast cancer positive patients must have received and progressed on at least one endocrine therapy (adjuvant or metastatic), or have disease that the treating physician believes to be inappropriate for endocrine therapy.\n2. exclusion criteria:\n\n   * Prior treatment with thalidomide.\n   * Patients with HER2 positive disease.\n   * Untreated and/or uncontrolled brain metastases.\n   * Prior malignancy unless curatively treated and disease-free for \\> 5 years prior to study entry. Prior adequately treated non-melanoma skin cancer, in situ cancer of the cervix, DCIS or stage I grade 1 endometrial cancer allowed.\n   * Known HIV (Human Immunodeficiency Virus) infection.\n   * Pregnant or breast-feeding women.\n   * Bilateral invasive breast cancer.\n   * Cardiac and thrombotic disease or risk for same as judged by Investigator.\n   * Other serious illness or medical conditions such as (partial list- review with Investigator) history of significant neurologic or psychiatric disorders that would prohibit the understanding and giving of informed consent, active uncontrolled infection, active peptic ulcer, unstable diabetes mellitus or subjects with symptomatic, intrinsic lung disease resulting in dyspnea at rest.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

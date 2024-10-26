@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04101851",
+    "briefTitle": "Omission of SLNB in Triple-negative and HER2-positive Breast Cancer Patients With rCR and pCR in the Breast After NAST",
+    "officialTitle": "Omission of Sentinel Lymph Node Biopsy in Triple-negative and HER2-positive Breast Cancer Patients With Radiologic and Pathologic Complete Response in the Breast After Neoadjuvant Systemic Therapy: a Single-arm, Prospective Surgical Trial.",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Female, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 350,
+    "primaryOutcomeMeasure": "axillary recurrence-free survival (ARFS) after breast-conserving surgery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent prior to breast-conserving surgery, including expected cooperation of the patients for follow-up, must be obtained and documented according to the European regulatory requirements\n* Histologically confirmed unilateral primary invasive carcinoma of the breast (core biopsy). Multifocal or multicentric tumors are allowed if breast-conserving surgery is planned.\n* Age at diagnosis at least 18 years\n* imaging techniques with estimated tumor stage between cT1-T3 prior to NAST\n* triple-negative or HER2-positive invasive breast cancer\n* clinically and sonographically tumor-free axilla prior to core biopsy (cN0/iN0)\n* in cases with cN0 and iN+, a negative core biopsy or fine needle aspiration (FNA) biopsy of the sonographically suspected lymph node is required\n* no evidence for distant metastasis (M0)\n* standard NAST with radiologic complete response (rCR)\n* planned breast-conserving surgery with postoperative external whole-breast irradiation (conventional fractionation or hypofractionation)\n\nExclusion Criteria:\n\n* History of malignancy within last 5 years, except curatively treated basalioma of the skin and carcinoma in situ of the cervix\n* Time since last cycle of NAST \\>3 months (optimal \\<1 month)\n* histologically non-invasive breast carcinoma before NAST\n* ER-positive (\\>=10% positive cells on IHC)/HER2-negative disease (triple-positive tumors are allowed)\n* cT4 or iT4 tumors\n* pregnant or lactating patients\n* no radiologic complete response at the end of NAST\n* planned total mastectomy after NAST\n* planned intraoperative radiotherapy (e.g. Intrabeam) or postoperative partial breast irradiation (e.g. multicatheter technique) alone; both procedures are allowed as boost techniques\n* male patients",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

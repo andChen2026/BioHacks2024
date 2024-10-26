@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01062100",
+    "briefTitle": "Study To Investigate the Feasibility and Safety of A Dedicated High Resolution Nuclear Breast Imaging Camera",
+    "officialTitle": "The Hamilton Prospective Pilot Study To Investigate the Feasibility and Safety of A Dedicated High Resolution Nuclear Breast Imaging Camera",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 42,
+    "primaryOutcomeMeasure": "To assess the feasibility, safety and acceptability to patients of the MBI Gamma camera.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females \u226518 years of age\n* Undergoing annual breast MRI because of a high risk of breast cancer due to any of the following:\n\n  * Known BRCA1 or BRCA2 mutation carriers, or is untested for BRCA but is a first degree relative of a BRCA mutation carrier\n  * History of radiation to the chest between 10-30 years of age (e.g. Hodgkin's Disease)\n  * History of Cowdens or Li Fraumeni Syndrome\n  * A first degree relative with Cowdens or Li Fraumeni Syndrome\n  * Prior breast biopsy positive for lobular carcinoma in situ (LCIS) or atypical lobular hyperplasia or atypical ductal hyperplasia (ADH)\n  * Family history consistent with a hereditary breast cancer syndrome and estimated personal lifetime cancer risk \u226525% using the IBIS risk evaluator\n\nExclusion Criteria:\n\n* Pregnant or lactating\n* History of invasive breast cancer or ductal carcinoma in situ (DCIS)\n* Unable to undergo MRI because of:\n\n  * Renal dysfunction with an estimated creatinine clearance of \\< 30 ml/min calculated using the Cockcroft-Gault formula\n  * Implanted ferrous metal prostheses\n  * Claustrophobia\n  * Medical or psychological conditions that on assessment, make them unable to complete the procedure\n  * Known allergies to Gadolinium-DTPA\n* Known allergies to Sestamibi (Miraluma or Cardiolite)\n* Prior bilateral mastectomy\n* Prior breast biopsy or surgery within 3 months",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

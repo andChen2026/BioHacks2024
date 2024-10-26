@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01043055",
+    "briefTitle": "Evaluation the Diagnostic Ability of the Cancer Detection Technology (CDT) to Detect Breast Cancer Among Women Population Over Age 40",
+    "officialTitle": "Evaluation the Diagnostic Ability of the CDT to Detect Breast Cancer Among Women Population Over Age 40",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 140,
+    "primaryOutcomeMeasure": "To validate the diagnostic ability of the CDT to detect breast cancer among women population over age 40",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nInclusion Criteria for Breast Cancer Patients for Experimental Group:\n\n1. Patient is over the age of 40.\n2. Patient is willing to participate as evidenced by signing the written informed consent form.\n3. Patient referred to the Department of Oncology/ Surgery for operative treatment of breast cancer with previously detected disease. Positive conventional tests finding can include (but not limited to) the record of screening or diagnostic mammography, blood oncomarkers, breast ultrasound, breast CT, biopsy.\n4. Non-treated patients (w/o previous chemotherapy, hormonal drugs and radiotherapy).\n5. Patient without other cancer locations\n\nInclusion Criteria for Presumably Healthy Subjects for Control Group:\n\n1. Subjects over the age of 40.\n2. Subjects who are willing to participate as evidenced by signing the written informed consent form.\n3. Subjects who are presumably healthy and without breast pathologies' symptoms and family history of breast cancer, i.e., breast disease (except history of functional breast problems, e.g., mastitis within lactation period) has been ruled out based on physician anamnesis\n4. Subjects with negative results of screening mammography.\n5. Subjects without taking of any hormonal medicines\n\nExclusion Criteria:\n\n1. Subjects with any known cancer in other internal organs or systems.\n2. Subjects with high fever presentation (more than 38.5).\n3. Subjects with known breast disease undergoing treatment for the disease.\n4. Pregnant or lactating women",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

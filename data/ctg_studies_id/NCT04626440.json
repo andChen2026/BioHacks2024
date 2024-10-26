@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04626440",
+    "briefTitle": "Research on the Heterogeneity of Taiwanese Breast Cancer Patients by Next Generation Sequencing (NGS) Tools",
+    "officialTitle": "Comprehensive Precision Medicine Research on the Heterogeneity of Taiwanese Breast Cancer Patients by Next Generation Sequencing (NGS) Tools",
+    "overallStatus": "RECRUITING",
+    "conditions": "Next Generation Sequencing (NGS), Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1875,
+    "primaryOutcomeMeasure": "The rate of genomic alteration",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female subjects aged over 20 years old\n* Subject with confirmed diagnosis of primary invasive breast cancer and is planning to receive treatments for breast cancer. However, subjects with breast cancer recurrence at screening will be enrolled if meet both the following conditions:\n\n  1. Subjects had received surgery for primary breast cancer within 3 years prior to screening \\[i.e. recurrence within 3 years after surgery (mastectomy or BCS)\\];\n  2. Subjects diagnosed with stage IV breast cancer beyond 3 years after surgery (mastectomy or BCS) or who had received or are currently receiving treatments for breast cancer. And subjects with primary tumor FFPE tissues available and pass the RNA quality check.\n* Eastern Cooperative Oncology Group (ECOG) Performance score \u2264 3\n* Life expectancy \u2265 3 months\n* Subject agrees to provide the written informed consent. If a subject has breast cancer recurrence within 3 years prior to screening, she will be eligible if she agrees to provide the paired FFPE tissues (primary and recurrent tumors)\n\nExclusion Criteria:\n\n* Subjects will be excluded if they had primary cancer other than breast cancer within 5 years prior to screening",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

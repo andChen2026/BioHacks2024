@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01154972",
+    "briefTitle": "Preoperative Localisation of the Sentinel Lymph Node in Breast Cancer",
+    "officialTitle": "Preoperative Identification of the Sentinel Lymph Node in Breast Cancer, Using Ultrasound and Radio-isotope/Percutaneous Gamma Probe",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 59,
+    "primaryOutcomeMeasure": "Is the sentinel lymph node marked preoperatively confirmed as the SLN at surgery?",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosed with invasive breast cancer suitable for primary surgical treatment\n* Booked for surgical Sentinel Lymph Node Biopsy\n\nExclusion Criteria:\n\n* Unable to give informed consent\n* Known bleeding disorder\n* Previous axillary surgery\n* Previously treated for the current tumour with chemotherapy or hormone therapy",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02362958",
+    "briefTitle": "A Multi-Center Study of Lapatinib in Patients With Trastuzumab-refractory Metastatic Breast Cancer",
+    "officialTitle": "Sun Yat-sen University Cancer Center",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER2 Positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 159,
+    "primaryOutcomeMeasure": "progression-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Metastatic breast cancer\n* Eastern Cooperative Oncology Group (ECOG) 0 or 1\n* HER2-expressing primary or metastatic tumor\n* Recurrence within 1 year completing adjuvant trastuzumab OR rapid progress following first-line trastuzumab-based care.\n* Measurable disease with Response Evaluation Criteria in Solid Tumors (RECIST) 1.1\n* Normal organ function, including bone marrow function, renal function, liver function, and cardiac function\n* Signed and dated an informed consent form\n* Life expectancy of at least 12 weeks\n\nExclusion Criteria:\n\n* Pregnant or breast feeding\n* left ventricular ejection fraction (LVEF) \\< 45% by echocardiogram\n* Disease-free interval (DFI) less than 12 months\n* Uncontrolled medical problems\n* Any previous malignancy exceptions for carcinoma of the cervix, squamous carcinoma of the skin, or basal cell carcinoma of the skin\n* Patients were unable or unwilling to comply with program requirements",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

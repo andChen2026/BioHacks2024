@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02642458",
+    "briefTitle": "Pertuzumab in First Line Treatment of HER2-positive Metastatic Breast Cancer Patients",
+    "officialTitle": "Pertuzumab in First Line Treatment of HER2-positive Metastatic Breast Cancer Patients: A Cohort Study of Patients Treated Either With Docetaxel and Trastuzumab or Docetaxel, Trastuzumab and Pertuzumab",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "progression free survival rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult breast cancer patients (age \u226518 years)\n* Patients with metastatic or locally advanced, unresectable HER2-positive breast cancer proven by clinical measures (i.e. standard imaging) in first line treatment (Locally recurrent disease must not be amenable to resection with curative intent)\n* Patients who are eligible for treatment with trastuzumab plus chemotherapy or pertuzumab plus trastuzumab plus chemotherapy as first line therapy, administered intravenously in a three weekly frequency, according to each center's medical practice. The first line anti-HER2 treatment must not have started more than 28 days before study entry.\n* No prior chemotherapy or HER2-directed therapy for metastatic or locally advanced disease, prior therapy for early breast cancer (eBC) is allowed\n* Signed informed consent prior to onset of documentation.\n\nExclusion Criteria:\n\n\u2022 Patients who are not eligible for observation due to severe comorbidities or unavailability according to the treating physician",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

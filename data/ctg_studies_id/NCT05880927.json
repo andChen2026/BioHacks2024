@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05880927",
+    "briefTitle": "Pyrotinib After Trastuzumab-based Adjuvant Therapy in Patients With HER2-positive Breast Cancer",
+    "officialTitle": "Pyrotinib After Trastuzumab-based Adjuvant Therapy in Patients With HER2-positive Breast Cancer: an Open-label, Multi-center Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "iDFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women aged 18-75 years old\n2. HER2 positive breast cancer\n3. ECOG PS 0-1\n4. Known hormone receptor status\n5. Completed 1 year of trastuzumab-based adjuvant therapy within 6 months\n6. Patients at high risk\n\nExclusion Criteria:\n\n1. Serious heart disease or discomfort\n2. Inability to swallow, intestinal obstruction, or the presence of other factors that interfere with drug administration and absorption\n3. Known allergic history of drug components of this regimen\n4. A history of immunodeficiency, including HIV positive, or other acquired, congenital immunodeficiency diseases, or a history of organ transplantation\n5. Pregnant and lactating female patients",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

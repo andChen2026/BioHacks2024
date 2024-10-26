@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00191854",
+    "briefTitle": "Gemcitabine Combinations in Metastatic Breast Cancer (MBC), 1st Line",
+    "officialTitle": "Randomized Phase II Study of Biweekly Gemcitabine-Paclitaxel, Biweekly Gemcitabine-Carboplatin and Biweekly Gemcitabine-Cisplatin as First-Line Treatment in Metastatic Breast Cancer After Anthracycline Failure",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 147,
+    "primaryOutcomeMeasure": "Best Overall Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with histological or cytological proven diagnosis of breast cancer\n* Stage IV disease\n* Performance Status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) Scale\n* Patients had to have previously received anthracycline based regimens as a adjuvant therapy or neo-adjuvant chemotherapy and then progressed and developed metastatic disease\n* Adequate organ function\n\nExclusion Criteria:\n\n* Prior chemotherapy for metastatic disease\n* Previous radiation therapy is allowed but must not have included whole pelvis radiation\n* Known or suspected brain metastasis. Serious concomitant disorders that would compromise the safety of the patient or compromise the patient's ability to complete the study, at the discretion of the investigator\n* Concurrent administration of any other tumor therapy, including cytotoxic chemotherapy, hormonal therapy and immunotherapy (including trastuzumab (Herceptin))\n* Peripheral neuropathy of Common Toxicity Criteria (CTC) Grade greater than 1. History of significant neurological or mental disorder, including seizures or dementia",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

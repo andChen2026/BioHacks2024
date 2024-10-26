@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00194766",
+    "briefTitle": "Continuous Temozolomide in Patients With Advanced or Metastatic Soft Tissue Sarcoma or Metastatic Breast Cancer",
+    "officialTitle": "Continuous Temozolomide (SCH 52365) in Patients With Advanced or Metastatic Soft Tissue Sarcoma or Metastatic Breast Cancer, Phase II",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Soft Tissue Sarcoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "Response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPatients must have either:\n\n* Stage IV, microscopically-confirmed carcinoma of the breast with:\n\n  * Relapse or progression while receiving, or within 12 months of having received, an anthracycline-containing (doxorubicin or mitoxantrone) or taxane-containing (paclitaxel or docetaxel) regimen as either adjuvant treatment or therapy for advanced breast cancer, or\n  * Treatment to a maximum dose of anthracycline (e.g., greater than 450 mg/m2 of doxorubicin), or\n  * A dose-limiting toxicity from a taxane, or\n  * An ECOG performance status of 2.\n\n    * OR -\n* Unresectable or metastatic, microscopically-confirmed soft tissue sarcoma, that is not amenable to treatment with Adriamycin or Ifosfamide due to:\n\n  * Poor cardiac reserve, or\n  * Poor performance status (ECOG performance status = 2) or\n  * Having failed treatment with Adriamycin or reached dose-limiting toxicity from chemotherapy.\n\nPatients must have histologic slides and/or blocks must be available for review.\n\nPatients must have measurable (bidimensionally) or evaluable disease.\n\nPatients must be 18 years old or older.\n\nPatients must have Karnofsky Performance Status greater than 70% (ECOG less than 2) at screen and on the first day of treatment.\n\nPatients must have a life expectancy more than 16 weeks.\n\nPatients must be informed consent must be obtained prior to enrollment.\n\nPatients must be more than 2 weeks from prior surgery; more than 3 weeks from radiation therapy to the pelvis, spine or long bones; more than 3 weeks from prior chemotherapy (more than 6 weeks for mitomycin C or nitrosureas), or more than 2 weeks from prior hormonal therapy.\n\nExclusion Criteria:\n\nGranulocytes less than 1,500/mm3.\n\nPlatelet count less than 100,000/mm3.\n\nHemoglobin less than 10 gm/dl.\n\nCreatinine greater than 2.0 mg/dl.\n\nTotal bilirubin greater than ULN (institutional upper limit of normal).\n\nVisceral crisis characterized by rapidly progressive hepatic or lymphangitic lung metastases (i.e. patients whose disease is beyond control).\n\nMedically unstable (i.e. with uncontrolled disease); diagnosis of other systemic cancer.\n\nPregnancy or lactation; failure to employ adequate contraception.\n\nUncontrolled CNS disease.\n\nGreater than 30% marrow previously irradiated.\n\nPsychological, familial, sociological or geographical conditions which do not permit weekly medical follow-up and compliance with the study protocol.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

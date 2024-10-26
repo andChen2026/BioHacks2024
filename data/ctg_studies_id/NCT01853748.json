@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01853748",
+    "briefTitle": "T-DM1 vs Paclitaxel/Trastuzumab for Breast (ATEMPT Trial)",
+    "officialTitle": "A Randomized Phase II Study of Trastuzumab Emtansine (T-DM1) vs. Paclitaxel in Combination With Trastuzumab for Stage I HER2-Positive Breast Cancer (ATEMPT Trial)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 512,
+    "primaryOutcomeMeasure": "Number of Participants of Clinically Relevant Toxicities (CRT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* HER2-positive Stage I histologically confirmed invasive carcinoma of the breast\n* ER/PR determination is required\n* HER2 positive, confirmed by central testing: IHC 3+, FISH HER2/CEP17 \\<2.0 with an average HER2 copy number \\>/=6.0, or FISH HER2/CEP17 \\>/= 2.0\n* Bilateral breast cancers that individually meet eligibility criteria are allowed\n* Subjects with multifocal or multicentric disease are eligible as long as each tumor individually meets eligibility criteria\n* Subjects with a history of ipsilateral DCIS are eligible if they were treated with wide-excision alone, without radiation therapy; Patients with a history of contralateral DCIS are not eligible.\n* Should have tumor tissue available and a tissue block of sufficient size to make 15 slides, which must be sent to a DFCI site for testing\n* Less than or equal to 90 days since most recent breast surgery for this breast cancer\n* All tumor should be removed by either a modified radical mastectomy or a segmental mastectomy (lumpectomy) with either a sentinel node biopsy or axillary dissection\n* All margins should be clear of invasive cancer or DCIS\n* May have received up to 4 weeks of tamoxifen therapy or other hormonal therapy, for adjuvant therapy for this cancer\n* Prior oophorectomy for cancer prevention is allowed\n* Subjects who have undergone partial breast radiation (duration \\</= 7 days) prior to registration are eligible. Partial breast radiation must be completed prior to 2 weeks before starting protocol therapy.\n* Must have discontinued any investigational drug at least 2 weeks prior to participation\n* Willing to use one highly effective from of nonhormonal contraception or two effective forms of nonhormonal contraception while on study and for 7 months after end of study treatment\n* Subjects undergoing lumpectomy must have no contraindications to radiation therapy\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding\n* Use of potent CYP3A4 inhibitors during the study treatment period\n* Excessive alcohol intake (more than 3 alcoholic beverages per day)\n* Locally advanced tumors at diagnosis\n* History of previous invasive breast cancer\n* History of prior chemotherapy in the past 5 years\n* History of prior trastuzumab or prior paclitaxel therapy\n* Active, unresolved infection\n* Active liver disease\n* History of a different malignancy except for the following: disease free for at least 5 years and at low risk for recurrence; cervical cancer in situ, basal or squamous cell carcinoma of the skin\n* Active cardiac disease",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

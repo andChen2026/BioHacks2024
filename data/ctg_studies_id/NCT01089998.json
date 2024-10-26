@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01089998",
+    "briefTitle": "PET/CT Imaging for Radiation Dosimetry, Plasma Pharmacokinetics, Safety and Tolerability in Healthy Volunteers and Safety, Tolerability and Diagnostic Performance of BAY86-9596 in Patients With Non-small Cell Lung Cancer, Breast Cancer, Head and Neck Cancer and Patients With Inflammations",
+    "officialTitle": "Open-label, Multicenter Study of the 18F-labeled PET/CT (Positron Emission Tomography / Computed Tomography) Tracer BAY86-9596 Following a Single Intravenous Administration of 200 or 300 MBq (Corresponding to \u2264 18 \u00b5g Mass Dose) for Evaluation of Radiation Dosimetry, Plasma Pharmacokinetics, Safety and Tolerability in Healthy Volunteers (200 MBq) as Well as Investigation of Safety, Tolerability and Diagnostic Performance in Patients (300 MBq) With Non-small Cell Lung Cancer, Breast Cancer, Head and Neck Cancer and in Patients With Inflammation.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Diagnostic Imaging",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "Visual assessment of lesions (tumor detection rate of BAY 86-9596 compared to FDG)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Healthy volunteers only\n\n  * Males/females \u2265 50 years and \u2264 65 years of age\n* Cancer patients and inflammation patients (inflammation patients in study part 2 = optional, in study part 3 mandatory)\n\n  * Males/females \u2265 30 and \u2264 80 years of age\n  * patients had an FDG PET/CT for detection, or staging, or restaging, or therapy response assessment that still showed tumor mass with high certainty, for\n\n    1. NSCLC (non small cell lung cancer), or\n    2. adenocarcinoma of the breast (female patients) or\n    3. squamous cell cancer of head and neck and the cancer disease is histologically confirmed.\n    4. Patients with confirmed/known inflammatory focus/foci after FDG-PET/CT imaging\n\nExclusion Criteria:\n\n* Exclusion criteria for all healthy volunteers and patients:\n\n  * any concomitant disease (for healthy volunteers) and for patients any concurrent severe and/or uncontrolled and/or unstable other medical disease (e.g. poorly controlled diabetes, congestive heart failure, myocardial infarction within 12 months prior to planned injection of BAY86-9596, unstable and uncontrolled hypertension, chronic renal or hepatic disease, severe pulmonary disease) which could compromise participation in the study\n  * For healthy volunteers and patients: known sensitivity to the study drug or components of the preparation.\n  * tumor patients with known inflammatory disease, where images overlap inflammatory lesions with tumor lesions",
+    "sex": "ALL",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

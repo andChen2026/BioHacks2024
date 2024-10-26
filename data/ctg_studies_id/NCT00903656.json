@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00903656",
+    "briefTitle": "Lapatinib Plus Caelyx in Patients With Advanced Metastatic Breast Cancer Following Failure of Trastuzumab Therapy",
+    "officialTitle": "Lapatinib Plus Caelyx in Patients With Advanced Metastatic Breast Cancer Following Failure of Trastuzumab Therapy - a Phase II Study",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Efficacy of a Lapatinib plus Caelyx combination regimen in the treatment of advanced metastatic breast cancer, in terms of overall response rates (complete or partial response)determined by RECIST",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients, age \u2265 18 years\n* Advanced or metastatic breast cancer, histologically confirmed\n* Documented HER2 overexpression (IHC 3+ and/or FISH positive)\n* At least one measurable lesion according to RECIST criteria. Patients with bone-only lesions are not eligible for study entry\n* Documented disease progression\n* Patients may have no more than 1 line of palliative treatment, however prior therapies must include trastuzumab in adjuvant or metastatic setting\n* Life expectancy of at least 12 weeks\n* Performance status 0-1\n* Cardiac ejection fraction \\>= 50% as measured by echocardiogram or MUGA scan\n* Adequate hematology, liver and renal function\n\nExclusion Criteria:\n\n* Pregnant or lactating women\n* Serious medical or psychiatric disorders that would interfere with the patient's safety or informed consent\n* Severe cardiac disease (uncontrolled angina, arrhythmia, chronic heart failure (CHF) or cardiac disease requiring a device)\n* Ejection fraction below the institutional normal limit\n* Maximum cumulative dose of 360 mg/m2 for doxorubicin and 720 mg/m2 for epirubicin\n* Active bacterial, viral or fungal infection\n* Patients with clinically apparent brain metastases\n* Positivity for HIV, Hepatitis B or C\n* History of other malignancy; patients who have been disease-free for 5 years\n* Concurrent cancer therapy (chemotherapy, radiation therapy, immunotherapy, biologic therapy) or concurrent treatment with an investigational drug or participation in another clinical trial\n* Known hypersensitivity to the study drugs Lapatinib and Caelyx or their excipients",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05792150",
+    "briefTitle": "PROOFS-Registry - Premenopausal Women With Breast Cancer Optimally Treated With OFS",
+    "officialTitle": "Real World Data and Long-term FU of Pre-/Perimenopausal Women With Luminal EBC With Intermediate to High Clinical and Low Genomic Recurrence-risk Measured by MammaPrint\u00ae, Treated by SOC ET+OFS or SOC Chemotherapy Treatment Followed by ET",
+    "overallStatus": "RECRUITING",
+    "conditions": "Female Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1470,
+    "primaryOutcomeMeasure": "5-year distant recurrence-free interval (dRFI, according to STEEP criteria version 2.0)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPatients are eligible for participation in the registry only if they meet all the following criteria:\n\n* Female breast cancer patients\n* Pre- or perimenopausal at registry entry (age \\<60 years and state after hysterectomy or amenorrhea for \\<12 months; confirmation by blood hormone levels (FSH and estradiol in premenopausal range as per local normal range) recommended)\n* Primary tumor diagnosis not older than three months prior to inclusion (primary diagnosis defined as date of initial tumor biopsy)\n* Estrogen- and/or progesterone-receptor-positive/HER2 negative early breast cancer without any clinical signs of metastases\n* Adequate risk for recurrence:\n* intermediate clinical risk for recurrence, defined as (clinical in case of neoadjuvant treatment):\n* c/pT1 and\n* c/pN0 and\n* Ki-67 15-24% or\n* G2 or\n* patients, who do not meet these criteria but are at intermediate clinical risk for recurrence at investigator decision (e.g., very young age, low expression of hormone receptors, existing co-morbidities, familial cancer burden, etc.) can be included on individual decision basis or\n* high clinical risk for recurrence, defined as either (clinical in case of neoadjuvant treatment):\n* c/pT2-4 or\n* c/pN1 or\n* Ki-67 \u226525% or\n* G3\n* Low genomic risk of recurrence by MammaPrint\u00ae (tested on treatment na\u00efve tumor specimen)\n* Luminal-type by BluePrint\u00ae\n* Treatment according to standard-of-care (e.g., AGO Guidelines) planned or started (until completion of local therapy the latest (including started or completed endocrine induction therapy), started, or planned adjuvant or neoadjuvant treatment)\n* Availability of untreated tumor material (core biopsy if preoperative endocrine therapy performed or neoadjuvant treatment intended or surgery specimen)\n* Capability to give written informed consent\n* Nodal positive patients will be accepted to the registry up to 25% of the genomic low/ultralow-risk population (n=441).\n\nExclusion Criteria:\n\nPatients will not be eligible for the registry for any of the following reasons:\n\n* Any other genomic testing, besides MammaPrint\u00ae, has been performed on the tumor material\n* Medical or psychological conditions that would not permit the patient to sign informed consent\n* Legal incapacity or limited legal capacity\n* Current participation in any interventional clinical trial which tests anticancer drugs, immunotherapeutics, or antibody treatment for any type of neoplasm\n* Non-compliance of the patient",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

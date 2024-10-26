@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00062751",
+    "briefTitle": "Study Evaluating Temsirolimus (CCI-779) In Breast Neoplasms",
+    "officialTitle": "A Phase 2 Randomized Open-Label Study Of Letrozole In Combination With Two Dose Levels And Schedules Of Oral Temsirolimus (CCI-779), Or Letrozole Alone, In Postmenopausal Women With Locally Advanced Or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 108,
+    "primaryOutcomeMeasure": "Percentage of Participants With Objective Response (OR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Postmenopausal women with histologically confirmed, measurable locally advanced disease or metastatic breast.\n* Must be appropriate to receive endocrine therapy as treatment for advanced disease (chemotherapy; prior adjuvant therapy with antiestrogens other than aromatase inhibitors; prior adjuvant or first-line metastatic therapy with tamoxifen or trastuzumab, are permitted).\n* Women may either present with de novo advanced or metastatic cancer, or have had tumor progression while receiving adjuvant tamoxifen or at any time after completing adjuvant tamoxifen, or have had tumor progression while receiving first-line metastatic therapy with tamoxifen.\n\nExclusion Criteria:\n\n* Patients having known central nervous system (CNS) metastases.\n* Prior therapy with Temsirolimus (CCI-779) or aromatase inhibitors.\n* Tamoxifen, or other hormonal therapy, in the metastatic or adjuvant setting within 1 week prior to day 1 of treatment on study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

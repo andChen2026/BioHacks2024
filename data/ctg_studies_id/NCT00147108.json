@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00147108",
+    "briefTitle": "MR Guided Focused Ultrasound Surgery in the Treatment of Breast Fibroadenomas",
+    "officialTitle": "Phase 3 Study of MR Guided Focused Ultrasound Surgery in the Treatment of Breast Fibroadenomas",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Fibroadenoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 102,
+    "primaryOutcomeMeasure": "treatment/ablation of breast fibroadenoma",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Gender: Females only\n* Histologic confirmation of breast fibroadenoma by large core (needle gauge range 11-14 ) biopsy.\n* Single tumor per breast quadrant\n* Tumor clearly visible on non-contrast MRI\n* Age \\> 18 years 3.2.6 Signed informed consent\n* Tumor 5 mm or larger as measured on pre-treatment MR.\n\nExclusion Criteria:\n\n* Gender: male\n* Focal breast lesion on MRI over 3.5 cm as evaluated by MRI\n* Distance from the edge of the breast fibroadenoma to the skin less than 0.5-cm or ribs less than 1 cm.\n* Microcalcifications within the lesion\n* Known intolerance to the MRI contrast agent (Gadolinium or Magnevist) 3.3.6 Patients on dialysis.\n* Hemolytic anemia (hematocrit\\<30)\n* Patients with unstable cardiac status including: Unstable angina pectoris on medication Patients with documented myocardial infarction within six months of protocol entry Congestive heart failure requiring medication (other than diuretic) Patients on anti-arrhythmic drugs Severe hypertension (diastolic BP \\> 100 on medication)\n* Patients with cardiac pacemakers\n* ASA Score\\>2\n* Severe cerebrovascular disease (multiple CVA or CVA within 6 months) 3.3.12 Individuals who are not able or willing to tolerate the required prolonged stationary prone position during treatment (approximately 3 hrs.) 3.3.13 Patients with breast implants\n* Large patients who cannot fit in the magnet (weight\\>250 pounds), and patients with standard contraindications for MR imaging such as non-MRI compatible implanted metallic devices\n* Patients on anti-coagulation therapy, or those with an underlying bleeding disorder.\n* Patient has a prior history of breast cancer\n* Patient has a prior history of laser or radiation therapy to the target breast\n* Patient has a prior history of chemo therapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

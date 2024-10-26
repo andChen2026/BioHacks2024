@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00330759",
+    "briefTitle": "Study of Denosumab vs. Zoledronic Acid to Treat Bone Metastases in Subjects With Advanced Cancer or Multiple Myeloma.",
+    "officialTitle": "A Randomized, Double-Blind, Multicenter Study of Denosumab Compared With Zoledronic Acid (Zometa) in the Treatment of Bone Metastases in Subjects With Advanced Cancer (Excluding Breast and Prostate Cancer) or Multiple Myeloma.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Bone Metastases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 1779,
+    "primaryOutcomeMeasure": "Time to the First On-Study Skeletal-Related Event (Non-Inferiority)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults with histologically/cystologically confirmed advanced cancers including solid tumors, multiple myeloma, and lymphoma\n* Radiographic evidence of at least one bone metastasis (or lytic bone lesion from multiple myeloma); ECOG performance status 0, 1, or 2\n* Adequate organ function\n\nExclusion Criteria:\n\n* Diagnosis of breast or prostate cancer\n* Current or prior intravenous bisphosphonate administration\n* Current or prior oral bisphosphonates for bone metastases, life expectancy of less than 6 months\n* Prior history or current evidence of osteonecrosis/osteomyelitis of the jaw",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

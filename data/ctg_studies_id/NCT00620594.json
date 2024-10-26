@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00620594",
+    "briefTitle": "A Phase I/II Study of BEZ235 in Patients With Advanced Solid Malignancies Enriched by Patients With Advanced Breast Cancer",
+    "officialTitle": "A Phase I/II, Multi-center, Open-label Study of BEZ235, Administered Orally on a Continuous Daily Dosing Schedule in Adult Patients With Advanced Solid Malignancies Including Patients With Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Advanced Solid Tumors, Cowden Syndrome",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 183,
+    "primaryOutcomeMeasure": "determine the maximum Tolerated Dose (MTD) of BEZ235 as single agent and in combination with trastuzumab (Dose escalation part)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n\\[Single agent dose escalation arm\\]: Patients with histologically-confirmed, advanced unresectable solid tumors including CS patients who have progressed on (or not been able to tolerate) standard therapy within three months before screening visit or for whom no standard anticancer therapy exists.\n\n\\[Combination part\\]: Patients with metastatic HER2+ Breast Cancer, after failure of trastuzumab treatment. Eligible patients will have to have tumors carrying molecular alterations of PIK3CA and/or PTEN.\n\n\\[Single agent safety expansion arm\\]: Patients with histologically-confirmed, advanced unresectable solid tumors including CS patients who have progressed on (or not been able to tolerate) standard therapy within three months before screening visit or for whom no standard anticancer therapy exists. Patients will be prescreened for molecular alterations affecting PIK3CA and/or PTEN. Patients with NSCLC will also be pre-screened for EGFR mutation.\n\nExclusion Criteria:\n\n* Patients who have brain metastases, which are progressive and/or requiring medical intervention for symptom control\n* Prior treatment with a PI3K inhibitor\n* Acute or chronic liver disease or renal disease\n* Acute or chronic pancreatitis\n* Patients with unresolved diarrhea \u2265 CTCAE grade 2\n* Impaired cardiac function or clinically significant cardiac diseases\n* Patients with diabetes mellitus requiring insulin treatment\n* Patients with known coagulopathies\n* Patients with a history of photosensitivity reactions to other drugs\n* Any of the following ophthalmological findings:\n* Progressive eye disease that could lead to severe loss of visual acuity or visual field\n* loss during the study period\n* Inability to perform the ophthalmic procedures required in this protocol\n* Other concurrent severe and/or uncontrolled concomitant medical conditions (e.g. active or uncontrolled infection) that could cause unacceptable safety risks or compromise compliance with the protocol.\n\nOther protocol-defined inclusion/exclusion criteria may apply",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00652678",
+    "briefTitle": "Predictive Blood Tests for Severe Radiation Reactions in Breast Cancer Patients",
+    "officialTitle": "Predictive Blood Tests for Severe Radiation Reactions in Breast Cancer Patients",
+    "overallStatus": "TERMINATED",
+    "conditions": "Abnormalities, Radiation-Induced",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 38,
+    "primaryOutcomeMeasure": "correlation of the results obtained from the three blood tests with the clinical assessments of cosmetic outcome for each subject",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer treatment: lumpectomy followed by external beam XRT to breast\n* Age at the time of radiotherapy treatment: 45-65 years old\n* XRT dose to breast: \\>/= 4500 and \\</= 5200 cGy, fraction size 180 or 200 cGy\n* Dose distribution: no area receiving \\>/= 112% of prescribed dose\n* Follow-ups: patients must be \\>/= 2.5 years post-treatment\n\nExclusion Criteria:\n\n* Reconstructive surgery to involved breast",
+    "sex": "FEMALE",
+    "minimumAge": "48 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

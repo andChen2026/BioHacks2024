@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03186937",
+    "briefTitle": "A Window of Opportunity Study of Methionine Deprivation in Triple Negative Breast Cancer",
+    "officialTitle": "A Window of Opportunity Study of Methionine Deprivation in Triple Negative Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Change in cell surface expression of TRAIL receptor-2",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants must have histologically confirmed operable triple negative breast cancer\n\n  * ER (estrogen receptors) and PR (progesterone receptors) expression must be \\< 2%\n  * HER2 must negative as shown be either 0 or 1+ by immunohistochemistry (if 2+, in situ hybridization method used to define HER2) OR by a HER2: 17 centromere signal of \\<2.0 using a standard in situ hybridization method.\n* No prior therapy for current breast cancer\n* Operable breast cancer. Participants who are planned to undergo neo-adjuvant chemotherapy are eligible as long as they consent to an additional breast biopsy following the dietary intervention immediately prior to starting chemotherapy\n* ECOG (Eastern Cooperative Oncology Group) performance status \u22641\n* Ability to understand and the willingness to sign a written informed consent document\n* Serum creatinine \\<ULN (upper limit of normal)\n* Non-pregnant. Women of childbearing potential must have a negative pregnancy test to participate in this study\n* Women of childbearing potential must agree to use effective contraceptives (as discussed with their physician) while participating in this study\n\nExclusion Criteria:\n\n* Patients who are receiving any other investigational agents\n* Patients not able to swallow oral medications or with gastrointestinal conditions that may impact absorption of oral medications\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

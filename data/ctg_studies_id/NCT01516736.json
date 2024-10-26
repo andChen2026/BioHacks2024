@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01516736",
+    "briefTitle": "Phase III Study Comparing the Efficacy and Safety of LA-EP2006 and Peg-Filgrastim",
+    "officialTitle": "Pivotal Study in Breast Cancer Patients Investigating Efficacy and Safety of LA-EP2006 and Neulasta\u00ae",
+    "overallStatus": "COMPLETED",
+    "conditions": "Chemotherapy-induced Neutropenia, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 308,
+    "primaryOutcomeMeasure": "Mean Duration of Severe Neutropenia (DSN) During Cycle 1 of Chemotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histologically proven breast cancer\n* eligible for six cycles of neoadjuvant or adjuvant chemotherapy\n\nExclusion Criteria:\n\n* concurrent or prior chemotherapy for breast cancer\n* concurrent or prior anti-cancer treatment for breast cancer such as endocrine therapy, immunotherapy, monoclonal antibodies, and/or biological therapy\n* concurrent prophylactic antibiotics\n* previous therapy with any G-CSF (granulocyte-colony stimulating factor) product\n\nOther protocol-defined inclusion/exclusion criteria may apply.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

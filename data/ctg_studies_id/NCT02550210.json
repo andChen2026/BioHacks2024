@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02550210",
+    "briefTitle": "A Study to Evaluate the Accuracy of a Breast Cancer Locator (BCL) in Patients With Palpable Cancers",
+    "officialTitle": "A Study to Evaluate the Accuracy of a Breast Cancer Locator (BCL) in Patients With Palpable Cancers",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 23,
+    "primaryOutcomeMeasure": "The Distance Measured by Pathology From the Tumor Edge to the Center of the Ink Spots, as Marked by the Black Inked Pins.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age greater than or equal to 18 years\n* Histologic diagnosis of palpable invasive breast cancer or ductal carcinoma in situ\n* Patient desire to undergo breast surgery\n* Ability to voluntarily provide informed consent to participate prior to any study-related assessments/procedures being conducted\n* The cancer enhances on breast MRI imaging.\n\nExclusion Criteria:\n\n* Absolute contraindication to MRI, including presence of implanted electrical device (pacemaker or neurostimulator), aneurysm clip, or metallic foreign body in or near eyes\n* Severe claustrophobia\n* Contraindication to use of gadolinium-based intravenous contrast, including life-threatening allergy or compromised renal function (creatinine \\> 2.0)\n* History of median sternotomy\n* Pregnancy. Patient attestation that they are not pregnant will be acceptable as per standard policy for MRIs at DHMC.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

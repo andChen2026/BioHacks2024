@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02654444",
+    "briefTitle": "Semi-Quantification of Her2/Neu Protein Expression in Formalin Fixed, Paraffin-Embedded Normal and Neoplastic Tissue",
+    "officialTitle": "Concordance Study of Her2 Expression Level in Breast Cancer Tissues",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 3,
+    "primaryOutcomeMeasure": "IVD study of HER2 IHC samples: Accuracy of analysis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women having breast cancer aged 21 and up\n* Borders of tumor nuclei are distinguishable\n* Nuclei should have good integrity\n* Background should not contain particles that interfere with the analysis\n\nExclusion Criteria:\n\n* Slides that cannot be analyzed manually by Pathologist",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

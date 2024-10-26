@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02297672",
+    "briefTitle": "Partial Breast Irradiation Using Interstitial Permanent Palladium-103 Seed Implant",
+    "officialTitle": "Partial Breast Irradiation Using Interstitial Permanent Palladium-103 Seed Implant",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Early Stage Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 75,
+    "primaryOutcomeMeasure": "Implant quality",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient consent and signature of approved consent form.\n\n  * Age greater than 55 years and postmenopausal.\n  * Life expectancy of at least ten years\n  * Stage 0 or I breast cancer. Tumour size \\< 2 cm.\n  * Invasive cancer must be pathologic grade 1 or 2\n  * Histology must be either Ductal Carcinoma In Situ or invasive ductal adenocarcinoma of the breast.\n  * Tumour removed by lumpectomy with clear margins (DCIS and invasive).\n  * Unifocal disease\n  * For invasive breast cancer, axillary staging by either sentinel node biopsy or axillary dissection (minimum of 6 axillary nodes). Not required for DCIS.\n  * Brachytherapy generally should be performed within 16 weeks of the last surgery (lumpectomy, re-excision of margins, or axillary staging procedure). If \\> 16 weeks, will be assessed on case-by-case basis, based on seroma visibility and the presence of surgical clips in the tumour bed.\n  * Tumour must be Estrogen Receptor positive.\n  * The lumpectomy cavity (seroma) must be clearly delineated by ultrasound and CT and should be \\< 3 cm diameter (equivalent sphere) resulting in a maximum of 125 cc planning target volume (PTV).\n  * Breast seed implant must be considered technically deliverable by interstitial brachytherapy by the attending radiation oncologist and must be a minimum 2-plane implant.\n  * If prior non-breast malignancies, must have been disease-free for 5 or more years. Time limit waived for carcinoma in-situ of the cervix or colon, melanoma in-situ, and basal or squamous cell carcinoma of the skin.\n\nExclusion Criteria:\n\n* Stage T2 or higher breast cancer\n\n  * Histologically positive axillary nodes.\n  * High grade (grade 3) invasive ductal carcinoma\n  * Extensive DCIS\n  * Lymphatic or Vascular Invasion positive\n  * Significant persistent post surgical complications\n  * Palpable or radiographically suspicious ipsilateral or contralateral axillary, or regional nodes, unless histologically confirmed negative.\n  * Suspicious microcalcifications, densities, or palpable abnormalities in the ipsilateral or contralateral breast unless confirmed benign.\n  * Proven multi-centric carcinoma (invasive cancer or DCIS)\n  * Paget's disease of the nipple.\n  * Synchronous bilateral invasive or non-invasive breast cancer.\n  * History of previous ipsilateral invasive breast cancer or DCIS.\n  * Surgical margins that are positive or cannot be microscopically assessed.\n  * Clear delineation of the target lumpectomy cavity not possible.\n  * Breast implants.\n  * Prior ipsilateral breast or thoracic radiotherapy.\n  * Known genetic mutation in Breast Cancer Associated (BRCA 1 or 2)\n  * Collagen vascular disease,",
+    "sex": "FEMALE",
+    "minimumAge": "55 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

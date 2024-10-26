@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03715686",
+    "briefTitle": "To Accurately Assess Lymph Node Response to NACT by Wire Localization of Clip-marked Lymph Nodes",
+    "officialTitle": "To Accurately Assess Lymph Node Response to Neoadjuvant Chemotherapy by Wire Localization of Clip-marked Axillary Lymph Nodes in Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Neoplasm, Breast, Neoadjuvant Chemotherapy, Lymph Node Metastases, Response",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 230,
+    "primaryOutcomeMeasure": "The accuracy of SLNB alone and in combination with the removal of wire-localized-clip-marked nodes.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* between the age of 18 and 65\n* Eastern Cooperative Oncology Group (ECOG) score 0 or 1\n* pathologically proven positive axillary lymph node\n* enough renal and liver function to sustain chemotherapy\n* informed consent obtained\n\nExclusion Criteria:\n\n* inflammatory breast cancer\n* being pregnant or nursing\n* neoadjuvant chemotherapy not planned",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

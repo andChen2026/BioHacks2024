@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00620087",
+    "briefTitle": "Molecular Breast Imaging in Women With Atypia and LCIS",
+    "officialTitle": "Evaluation of a Small Field of View Gamma Camera for Scintimammography in Patients With Atypical Ductal Hyperplasia, Atypical Lobular Hyperplasia, and Lobular Carcinoma In Situ",
+    "overallStatus": "COMPLETED",
+    "conditions": "Atypical Lobular Hyperplasia, Atypical Ductal Hyperplasia, Lobular Carcinoma in Situ",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 66,
+    "primaryOutcomeMeasure": "Correlation between molecular breast imaging findings and surgical pathology",
+    "eligibilityCriteria": "Inclusion Criteria for Surveillance Arm:\n\n* Diagnosis of biopsy-prove ADH, ALH, or LCIS within the past 5 years based on core needle biopsy and/or excisional biopsy and confirmed by a Mayo pathologist.\n\nInclusion Criteria for Diagnostic Arm:\n\n* Recent core needle biopsy of the breast demonstrating ADH, ALH, or LCIS confirmed by Mayo pathologist.\n\nExclusion Criteria:\n\n* They are unable to understand and sign the consent form\n* They are pregnant or lactating\n* They are physically unable to sit upright and still for 40 minutes\n* They are younger than 18 years of age.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06510738",
+    "briefTitle": "Prediction of Non-sentinel Lymph Node Metastatic Status of Breast Cancer Based on Pathology-MRI Images",
+    "officialTitle": "Prediction of Non-sentinel Lymph Node Metastatic Status of Breast Cancer Based on Pathology-MRI Images and Artificial Intelligence",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer, Artificial Intelligence, Lymph Node Metastasis, Digital Pathology",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 700,
+    "primaryOutcomeMeasure": "Non-sentinel lymph node metastatic status",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with primary breast cancer\n2. Positive sentinel lymph node biopsy and axillary lymph node dissection.\n3. No neoadjuvant chemotherapy, radiotherapy or ablation prior to surgery.\n4. MRI within 3 weeks prior to surgery.\n\nExclusion Criteria:\n\n1. recurrent breast cancer or history of surgery or radiation therapy in the axilla\n2. Inflammatory breast cancer\n3. Bilateral breast cancer or metastatic breast cancer\n4. previous or current history of other malignant tumors\n5. Sentinel lymph node count \\> 5",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04192331",
+    "briefTitle": "Nab-paclitaxel Dose Schedual for HER-2 Negative Advanced Breast Cancer",
+    "officialTitle": "A Single-arm Opened Randomized Phase II Study of Nab-paclitaxel Dose Schedual in Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 97,
+    "primaryOutcomeMeasure": "PFS of two regimen",
+    "eligibilityCriteria": "Inclusion criteria\n\n* Female, aged\u2265 18 years old;\n* Histopathologically confirmed HER-2 negative (definition: immunohistochemical IHC 0, or 1+, or in situ hybridization ISH, defined as the ratio of HER2 gene copy number to CEP17 signal number less than 2.0, or for single probe detection, HER2 gene copy number less than 6) in patients with recurrent or metastatic breast cancer;\n* Up to two previous lines of chemotherapy were permitted for recurrent and metastatic diseases. And for endocrine therapy, the number of treatment lines can be omitted;\n* With measurable lesions;\n* The physical condition score of the Eastern American Cancer Collaboration Group (ECOG) was less than 1;\n* Expected survival period\\>3 months;\n\nExclusion Criteria\n\n* New York Heart Association NYHA scores identify patients with congestive heart failure at grade II or above;Uncontrolled brain metastasis;\n* Patients with severe systemic infection;Patients with peripheral nerve injury of degree II or above, or known drug allergy or intolerance within 4 weeks before admission;\n* Important organ disorders or diseases: liver and kidney dysfunction, history of myocardial infarction, unstable heart disease, chronic active hepatitis,etc;There is a history of other malignant tumors within 5 years (except cured cervical cancer or skin basal cell carcinoma);\n* Patients who had received other antineoplastic treatments or other experimental drugs within one month before treatment;\n* Patients who also participated in other clinical trials;\n* Researchers believe that patients are not suitable for any medical condition to enter the study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

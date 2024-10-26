@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00496678",
+    "briefTitle": "Trial of Patient Navigation-Activation",
+    "officialTitle": "RCT of Primary Care-based Patient Navigation-Activation",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Colorectal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 900,
+    "primaryOutcomeMeasure": "To develop, implement, and evaluate a primary care-based, patient navigation program using specially-trained community health workers. We will investigate the effect of this intervention on timing and quality of cancer-related care.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Receive care at a participating practice\n2. Have received a positive breast or colorectal cancer screening test requiring follow-up on a different day\n3. Have been newly diagnosed with breast or colorectal cancer\n4. Have received notification by the provider of an abnormal breast or colorectal screening result\n\nExclusion Criteria:\n\n1. Cognitively impaired\n2. Institutionalized (nursing home, incarcerated)\n3. Children \\<18\n4. Actively involved in cancer treatment at time of presentation\n5. Currently or previously navigated with (a) navigation documented in the medical record or (b) patient can articulate that they are in a navigation program or case management program for cancer\n6. History of prior invasive cancer, lymphoma, or leukemia except non-melanoma (basal or squamous of the skin) cancer or CIN (Cervical intraepithelial neoplasia).\n7. Prior cancer that has been treated-The rationale for excluding patients with any prior cancers that have been treated is that patient familiarity with the treatment process in general would make care easier even without a navigator.\n8. Women who are pregnant at time of enrollment.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

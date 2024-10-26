@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02610621",
+    "briefTitle": "Safety and Efficacy of Sentinel Node Biopsy Omission for Breast Cancer Patients Who Plan to Have Adjuvant Chemotherapy",
+    "officialTitle": "IIT2015-11-Giuliano: Safety and Efficacy of Omission of Sentinel Node Biopsy for Breast Cancer Patients Who Plan to Have Adjuvant Chemotherapy",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "A determination of the locoregional recurrence rate in patients with clinically node negative T1 and T2 breast cancer treated with systematic chemotherapy and whole breast radiation in whom sentinel node biopsy is not performed",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female age 18 and older, not pregnant or lactating\n* Clinical T1 or T2 invasive cancer with no suspicious palpable adenopathy\n* If abnormal axillary nodes are seen on preoperative imaging, a negative fine needle aspiration or core biopsy is required for study entry.\n* Planned treatment with breast conserving surgery and whole breast irradiation\n* Chemotherapy required postoperatively based on patient and tumor characteristics at diagnosis\n\nExclusion Criteria:\n\n* Patients with suspicious palpable axillary adenopathy\n* Patients with biopsy demonstrating axillary nodal metastases\n* Patients with treatment by mastectomy\n* Patients who have undergone neoadjuvant chemotherapy\n* Patients with co-morbidities rendering the patient not a candidate for chemotherapy, surgery, or irradiation\n* Patients treated with accelerated partial breast irradiation (APBI)\n* Patients with contraindication to radiation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

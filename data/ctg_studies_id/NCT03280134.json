@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03280134",
+    "briefTitle": "A Prospective Validation Cohort Study of a Prediction System on nSLN Metastasis in Early Breast Cancer",
+    "officialTitle": "CK19 Combined With Contrast-enhanced Ultrasound for Predicting Non-sentinel Lymph Node Status in Early Breast Cancer: a Prospectively Validation Cohort Study of the Predictive Model",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Lymph Node Metastases, Breast Cancer, Predictive Cancer Model",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 388,
+    "primaryOutcomeMeasure": "disease-free survival (DFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nthe test group should be in accordance with the pathological diagnosis of breast cancer, the clinical stage of breast cancer (stage cTis, cI, cII and cT3N1M0), the initial treatment to receive surgical treatment. Complete preoperative clinical diagnosis data, including the ipsilateral axillary lymph node CEUS data and peripheral blood sample; The negative-control group should comply with the pathological diagnosis, breast adenosis, fibrocystic lesions, breast cysts and other benign lesions, with complete preoperative clinical data, also including ipsilateral axillary lymph node CEUS data and peripheral blood sample\n\nExclusion Criteria:\n\n1. metastatic breast cancer, inflammatory breast disease, surgery without lymph node staging\n2. pregnancy or lactation\n3. patients with hematopoietic system disease or cancer, autoimmune diseases\n4. preservation of substandard peripheral blood samples.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

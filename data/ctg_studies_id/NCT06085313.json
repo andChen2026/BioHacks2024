@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06085313",
+    "briefTitle": "Cancer Pain Management Using a Web-based Intervention",
+    "officialTitle": "Cancer Pain Management: A Technology-Based Intervention for Asian American Breast Cancer Survivors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cancer of Breast, Depressive Symptoms, Cancer Pain",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Cancer Pain Management (CPM)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women aged 18 years and older who identify as Chinese, Korean, or Japanese;\n* have had a breast cancer diagnosis in the past;\n* can read and write English, Mandarin (simplified or traditional), Korean, or Japanese;\n* have access to the internet through computers or mobile devices (mobile phones and tablets);\n* have experienced cancer pain during the past week (at least 1 on a scale from 0 to 5 \\[no symptom=0, mild symptom that does not bother=1, somewhat bothering symptom=2, moderate symptom=3, severe symptom=4, and worst possible symptom=5\\]);\n* have experienced depressive symptoms during the past two weeks (1 to 10 on the Patient Health Questionnaire) which is equivalent to the cut-point of minimal to moderate depression.\n\nExclusion Criteria:\n\n* less than 18 years old because their cancer experience would be different from that of adults.\n* Those who are in treatment or not in treatment, but who were diagnosed with breast cancer within the past five years, will be excluded.\n* Those who participated in the PI's pilot studies will be excluded.\n* The participants of R33 phase will exclude those in active depression treatment regardless of their level of depression.\n* Those without Internet access will be excluded, but those with Internet access through community/group computers will be included.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

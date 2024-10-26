@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00251095",
+    "briefTitle": "Comparison of Safety and Efficacy of TOCOSOL(R) Paclitaxel Versus Taxol(R) for Treatment of Metastatic Breast Cancer",
+    "officialTitle": "A Multicenter Phase 3, Randomized Comparison of the Safety and Efficacy of Weekly TOCOSOL(R) Paclitaxel vs. Weekly Paclitaxel Injection in the Treatment of Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 821,
+    "primaryOutcomeMeasure": "Objective response rates",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with histologic diagnosis of breast carcinoma\n* Stage IV (M1) disease\n* Adult (18 years of age or older) patients\n\nExclusion Criteria:\n\n* Patients treated with a taxane within the past year\n* Patients whose tumor tissue is known to show over expression of HER2/neu",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

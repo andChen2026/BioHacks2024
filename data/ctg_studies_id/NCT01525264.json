@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01525264",
+    "briefTitle": "Breast Cancer Screening Intervention",
+    "officialTitle": "Korean Immigrants & Mammography-Culture-Specific Health Intervention (KIM-CHI)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 434,
+    "primaryOutcomeMeasure": "Change from baseline in mammography uptake at 15 months",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* For women, criteria for inclusion in the study are\n\n  1. 40 years of age or older\n  2. born in Korea but presently living in the U.S.\n  3. able to speak and read Korean\n  4. married to a KA man who meets inclusion criteria (2) and (3).\n\nExclusion Criteria:\n\n* Women who have had a mammogram within the past 1 year or have been diagnosed with breast cancer were excluded.",
+    "sex": "ALL",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

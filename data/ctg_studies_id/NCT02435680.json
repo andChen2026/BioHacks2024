@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02435680",
+    "briefTitle": "Efficacy Study of MCS110 Given With Carboplatin and Gemcitabine in Advanced Triple Negative Breast Cancer (TNBC)",
+    "officialTitle": "A Randomized Phase II Study of MCS110 Combined With Carboplatin and Gemcitabine in Advanced Triple Negative Breast Cancer (TNBC)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Triple Negative Breast Cancer (TNBC) With High TAMs",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS) as Per RECIST v1.1 (by Local Investigator Assessment)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult women (\u2265 18 years of age) with advanced TNBC.\n* Histological or cytological evidence of estrogen-receptor negative (ER-), progesterone receptor negative (PgR-) and human epidermal growth factor-2 receptor negative (HER2-) Breast Cancer by local laboratory testing, based on last available tumor tissue.\n* ER/PgR negativity to follow local guidelines\n* If IHC HER2 2+, a negative FISH test is required\n* A pre-treatment tumor biopsy demonstrating high TAM content as assessed per the central laboratory\n* Patients must have:\n\nAt least one measurable lesion per RECIST 1.1. (Note: Measurable lesions include lytic or mixed (lytic + blastic) bone lesions, with an identifiable soft tissue component that meets the measurability criteria)\n\nExclusion Criteria:\n\n* Prior chemotherapy for advanced BC. Previous adjuvant/neoadjuvant chemotherapy is allowed (carboplatin, cisplatin or gemcitabine only if \\> 12 months has passed since last administration).\n* Therapy for underlying malignancy within 2 weeks prior to start of study treatment:\n* Chemotherapy, biologic therapy (antibodies and biologically targeted small molecules)\n* Radiotherapy\n* Major surgery\n* Patients receiving concomitant immunosuppressive agents or chronic corticosteroids (\u226510 mg of prednisone or equivalent) at the time of first study dose.\n* Clinically significant cardiovascular disease such as uncontrolled or symptomatic arrhythmias, congestive heart failure, or myocardial infarction within 6 months of screening.\n* Known history of human immunodeficiency virus or active infection with hepatitis virus or any uncontrolled active systemic infection.\n* Patients with the following laboratory values during screening and on Day 1 predose:\n* Absolute Neutrophil Count (ANC) \\< 1.5x109/L\n* Hemoglobin \\< 9 g/dL\n* Platelets \\< 100x109/L\n* Serum creatinine \\> 1.5 x ULN\n* Serum total bilirubin \\> 1.5 x ULN\n* AST/SGOT and ALT/SGPT \\> 3.0 x ULN",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02344550",
+    "briefTitle": "Study of GnRH-A [Leuprorelin(Lorelin Depot] Plus Leterozole +/- Everolimus for Premenopausal Women With Metastatic Breast Cancer",
+    "officialTitle": "Ovarian Suppression Plus Letrozole Plus Everolimus for Hormone Receptor-Positive, Tamoxifen and Ovarian Suppression Pretreated, Premenopausal Women With Recurrent or Metastatic Breast Cancer[LEO]",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 137,
+    "primaryOutcomeMeasure": "Progression free survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 20 years\n* Histologically or cytologically confirmed, HER-2 negative breast cancer with recurrent or metastatic disease\n* No HER2 overexpressing breast cancer\n* Premenopausal status, defined as either\n* ER and/or PR positive\n* Progressive disease on tamoxifen treatment or sequential or combined treatment of tamoxifen and GnRH agonist as a palliative or an adjuvant endocrine treatment\n* Duration of tamoxifen treatment should be at least 3 months or more\n* No prior treatment with an aromatase inhibitor or inactivator or fulvestrant, or mTOR inhibitors\n* One line of chemotherapy in metastatic setting is permitted\n* ECOG performance status 0,1 or 2\n* At least one measurable lesion or mainly lytic bone lesions in the absence of measurable disease\n* Adequate hematologic, liver and kidney function\n\nExclusion Criteria:\n\n* Pregnant women or patients in lactation\n* More than one line of prior chemotherapy for metastatic breast cancer\n* GnRH agonist with tamoxifen treatment within 2 weeks.\n* Active malignancy other than breast cancer, in situ carcinoma of the cervix, controlled resected thyroid well differentiated carcinoma or non-melanomatous skin cancer in the past 5 years\n* Active cardiovascular disease such as angina, ventricular tachycardia, uncontrolled hypertension\n* Active uncontrolled infection\n* Symptomatic brain metastases\n* Lymphangitic carcinomatosis involving \\>50% of the lungs\n* Evidence of metastases involving more than one third of the liver on sonogram or CT\n* Patients not able or unwilling to give informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

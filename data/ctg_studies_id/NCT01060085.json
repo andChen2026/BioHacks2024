@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01060085",
+    "briefTitle": "Digital Breast Tomosynthesis Versus Contrast Enhanced Magnetic Resonance Imaging (MRI) for Breast Cancer Staging",
+    "officialTitle": "A Comparison of the Diagnostic Accuracy of Adjunctive Digital Breast Tomosynthesis Versus Adjunctive Contrast Enhanced Breast Magnetic Resonance Imaging in the Preoperative Assessment of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Ductal Carcinoma In Situ, Invasive Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 51,
+    "primaryOutcomeMeasure": "Comparison between the accuracy of DBT vs. CEMRI using two measurements: 1. Maximal diameter estimate by imaging modality and 2. Maximal diameter based on histopathology gold standard.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subject is female of any race and ethnicity\n* Subject is at least 30 years old\n* Subject has histologically proven DCIS or invasive breast carcinoma.\n* Subject is able to undergo CEMRI at DHMC-Lebanon\n\nExclusion Criteria:\n\n* Patients who are pregnant or think they may be pregnant\n* Patients who are breast-feeding.\n* Patients who have significant existing breast trauma\n* Subjects unable or unwilling to undergo informed consent\n* Absolute contraindication to CEMRI, including:\n\n  1. presence of implanted electrical device (pacemaker or neurostimulator),aneurysm clip, or metallic foreign body in or near the eyes\n  2. life threatening allergy to gadolinium contrast\n* CEMRI performed at institution other than DHMC Lebanon\n* Patients undergoing neoadjuvant therapy\n* Patients with maximum tumor diameter \\>5cm\n* Patients presenting with Inflammatory Breast Cancer\n* Patients with gross axillary lymphadenopathy on clinical exam or by imaging\n* Maximum breast size limitation: i.e. breast size that exceeds the size of the large format image receptor (24cm x 29cm) on any view",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

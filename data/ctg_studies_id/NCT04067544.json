@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04067544",
+    "briefTitle": "Acupuncture Treatment of Chemotherapy-Induced Peripheral Neuropathy in Women",
+    "officialTitle": "Acupuncture Treatment of Chemotherapy-Induced Peripheral Neuropathy in Women With Breast or Gynecologic Cancers: Mechanisms of Action and Feasibility",
+    "overallStatus": "TERMINATED",
+    "conditions": "Chemotherapy-induced Peripheral Neuropathy, Breast Cancer Female, Gynecologic Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 3,
+    "primaryOutcomeMeasure": "Mean monthly enrollment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nFemale age 18 or older.\n\n* Histologically proven breast, uterine, cervical or ovarian cancer of any stage.\n* Received either (1) a Paclitaxel treatment dose of at least 480 mg/m2 paclitaxel as a single or combination agent or (2) a Docetaxel treatment dose of at least 150 mg/m2 docetaxel as a single or combination agent. Treatment must be completed at least 3 months prior to enrollment.\n* Eligible patients report at least 1 month of altered sensation and/or pain in the feet (with or without presence in one or both hands) with a score of greater than or equal to 20 for CIPN on the sensory subscale of the CIPN-20 (scale 0-100).\n* Able to provide informed consent and willing to sign an approved consent form that conforms to federal and institutional guidelines.\n* ECOG status of 0 (asymptomatic), 1 (symptomatic but completely ambulatory) or 2 (symptomatic, \\<50% in bed during the day).\n\nExclusion Criteria:\n\n* Preexisting neuropathy due to other identified etiologies includes diabetes, vitamin B12 deficiency, or alcoholism.\n* Having received more than 6 acupuncture treatments for any condition in the last six months.\n* Patients with claustrophobia, pacemakers, non-MRI compatible breast expanders or port-a-caths, neurostimulator devices, current pregnancy, exposure to shrapnel, left-handedness, or otherwise unsafe for MRI scanning.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

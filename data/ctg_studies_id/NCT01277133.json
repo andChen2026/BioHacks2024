@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01277133",
+    "briefTitle": "An Observational Study on The Correlation Between Time of Initiation of Avastin (Bevacizumab) Treatment And Progression-Free Survival in Patients With Metastatic Breast Cancer (CRONOS 2)",
+    "officialTitle": "The Correlation Between the Moment of Bevacizumab theRapy initiatiOn and the Efficacy in patieNt With Metastatic Breast Cancer Treated With First Line Regimens Based On AvaStin",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 83,
+    "primaryOutcomeMeasure": "Correlation between the time from start of chemotherapy to the start of Avastin treatment with progression-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients, \\>/=18 years of age\n* Previously untreated metastatic breast cancer\n* Scheduled to start 1st line chemotherapeutic treatment\n* ECOG performance status 0-1\n\nExclusion Criteria:\n\n* Any conditions included in contraindication list for Avastin\n* Prior chemotherapy for metastatic breast cancer\n* Adjuvant/neoadjuvant chemotherapy or radio-chemotherapy of non-metastatic malignancy completed \\<6 months prior to treatment start",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

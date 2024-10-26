@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06424054",
+    "briefTitle": "Mitigating Toxicity by Electronic Health Portal-mediated Interactive Monitoring of Patient-reported Side Effects",
+    "officialTitle": "Mitigating Toxicity of (Neo)Adjuvant Chemotherapy by Applying Electronic Health Portal-mediated Interactive Monitoring of Patient-reported Side Effects: the Prospective Randomized eChemoCoach Trial",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer, eHealth, Symptom Monitoring, Self Management",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 746,
+    "primaryOutcomeMeasure": "The occurrence of any non-hematological side effects grade \u22653",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* - Starting (neo)adjuvant treatment with chemotherapy for breast cancer according to one of the below mentioned treatment protocols:\n\n  * Four cycles of doxorubicin 60mg/m2 and cyclophosphamide 600mg/m2 (AC) dose dense q 2 weeks, followed by twelve cycles of weekly paclitaxel 80mg/m2 (also in combination with carboplatin AUC6 q 3 weeks)\n  * Nine cycles q 3 weeks of paclitaxel 80mg/m2 on day 1 and 8, carboplatin AUC 3 on day 1 and 8, trastuzumab 8mg/kg loading dose (followed by doses of 6mg/m2 at subsequent cycles) on day1 and pertuzumab loading dose of 840mg (followed by doses of 420mg at subsequent cycles) on day 1\n* Age \u2265 18 years\n* WHO PS \u22641\n* Capable of using the EHP or get help in case of low (e-)health literacy. This includes being capable of login using DigiD, a system used by the Dutch government to verify the identity of a person\n* Being able to read or get help from a relative in case of illiteracy\n\nExclusion Criteria:\n\n* - Participation in a trial with an investigational product (because more frequent and structured symptom reporting is performed in these studies).\n* Patients who have been treated with chemotherapy in the past (since these patients are at higher risk for developing side effects of current chemotherapy).\n* Patients that already started with their chemotherapy cycle",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

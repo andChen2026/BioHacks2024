@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01626950",
+    "briefTitle": "Living Conditions and Breast Cancer",
+    "officialTitle": "Living Conditions and Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 684,
+    "primaryOutcomeMeasure": "The odds ratio for having a stage I-II diagnosis versus a stage III-IV diagnosis according to EPICE score category (social fragility versus no social fragility).",
+    "eligibilityCriteria": "Inclusion Criteria (for cases):\n\n* Patient has been correctly informed about the study, and agrees to participate\n* The patient must be insured or beneficiary of a health insurance plan\n* Incident breast cancer cases (diagnosis based on pathology) excluding sarcoma, classifiable as stage III-IV, surgical cases\n\nInclusion Criteria (for controls):\n\n* Patient has been correctly informed about the study, and agrees to participate\n* The patient must be insured or beneficiary of a health insurance plan\n* Incident breast cancer cases (diagnosis based on pathology) excluding sarcoma, classifiable as stage I-II, surgical cases\n\nExclusion Criteria (for cases and controls):\n\n* The patient is in an exclusion period determined by a previous study\n* The patient is under judicial protection, under tutorship or curatorship\n* The patient is pregnant, parturient, or breastfeeding\n* The patient is opposed to study participation\n* Women not able to answer a questionnaire due to language barriers or due to vascular or degenerative cerebral dysfunction\n* It is impossible to correctly inform the patient",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

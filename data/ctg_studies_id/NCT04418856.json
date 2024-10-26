@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04418856",
+    "briefTitle": "The Effects of Light Therapy to Treat Cancer-related Side Effects",
+    "officialTitle": "Light Therapy to Treat Cancer-related Fatigue, Sleep Problems, Depression and Cognitive Impairment Among Breast Cancer Patients.",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Circadian Rhythms, Fatigue, Sleep Disturbance, Cognitive Impairment, Inflammatory Response, Depression",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 240,
+    "primaryOutcomeMeasure": "FACIT-Fatigue Scale",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Breast cancer Patients: Newly diagnosed patients with stages 1 to 3 breast cancer scheduled to undergo surgery (without chemotherapy) and newly diagnosed patients with stages 1 to 3 breast cancer scheduled to undergo both surgery and chemotherapy.\n2. Healthy controls: never received a cancer diagnosis\n\nExclusion Criteria:\n\n* Stage 3B breast cancer, inflammatory or stage 4 breast cancer; under age 18; pregnancy; pre-existing anemia (Hb \\<10gm/dl); history of bipolar disorder or mania (which are contra-indications for BWL treatment); and any other physical or psychological impairments (e.g., sleep disorder diagnosis) which could limit participation.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

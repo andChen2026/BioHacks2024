@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00603408",
+    "briefTitle": "Effect of Chemotherapy and Radiation Prior to Surgery for Triple Negative Breast Cancer",
+    "officialTitle": "Effect of Neoadjuvant Cisplatin Based Chemoradiation Therapy for Locally Advanced Triple Negative Breast Cancer: Clinical Outcome and Correlation to Biological Parameters",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 5,
+    "primaryOutcomeMeasure": "Overall Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must be \\>= 18 years of age\n* Patients must be newly diagnosed with primary invasive ductal breast adenocarcinoma.\n* Tumor classified as clinically stage T2, T3 or T4 with any N (NX, N1, N2, or N3).\n* Tumor does not express the following biomarkers: estrogen receptor, progesterone receptor, Her2/neu\n* Adequate organ function defined as:\n\n  * Serum Creatinine \\<= 1.5 x upper limit of institutional normal.\n  * ALT, AST, ALK Phos \\<= 1.5 x upper limit of institutional normal.\n  * Bilirubin \\<= 1.5 x upper limit of institutional normal.\n  * Normal left ventricular function (LVEF \\> 50%) by MUGA or ECHO.\n\nExclusion Criteria:\n\n* No evidence of distant metastasis present by CT, Bone scan, or physical exam. If the bone scan or CT scans demonstrate indeterminate lesions, the nature of these lesions should be further clarified by additional testing such as PET or MRI.\n* No prior malignancies with the exception of curatively treated basal or squamous carcinoma of the skin or history of previous malignancies, treated with at least greater than 5 years disease free survival.\n* Women of child bearing potential may not be currently pregnant or breastfeeding at time of registration and must agree to use adequate contraception.\n* Karnofsky Performance Status of \\<= 70.\n* Patients with known history neural deficiencies (e.g. peripheral neuropathy).\n* Patients with a known hearing impairment (hearing loss or severe tinnitus).\n* Male patients",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

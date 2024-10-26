@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00647582",
+    "briefTitle": "Radiation Therapy During and After Lumpectomy in Treating Women With Stage I or Stage II Breast Cancer",
+    "officialTitle": "Phase II Study of Intra-operative Electron Irradiation and External Beam Irradiation After Lumpectomy in Patients With Stage T1N0M0 or T2N0M0 Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Feasibility",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed primary invasive breast carcinoma, meeting the following criteria:\n\n  * Stage I or II disease (T1-T2, N0, M0)\n  * Tumor pathologically determined to be \u2264 5 cm in diameter\n  * Single, discrete, well-defined primary tumor\n* No multicentric disease and/or diffuse malignant appearing microcalcifications\n\n  * Any microcalcifications must be focal\n\n    * Specimen radiograph is required after lumpectomy to assure removal of all malignant appearing calcifications\n* No axillary lymph node involvement\n\n  * Axillary lymph node status can be determined by level I and II lymph node dissection or sentinel lymph node sampling\n* Must have pathologically negative surgical margins\n* No evidence of metastatic breast cancer\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-2\n* Menopausal status not specified\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No pre-existing collagen vascular disease except rheumatoid arthritis that does not require immunosuppressive therapy\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior irradiation to the area of planned radiation field\n* Concurrent hormone therapy allowed",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

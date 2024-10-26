@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05179824",
+    "briefTitle": "Tempus Priority Study: a Pan-tumor Observational Study",
+    "officialTitle": "Tempus Priority Study: an Observational Study of Patients Who Have Received Comprehensive Genomic Profiling",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Prostate Cancer, Bladder Cancer, Lung Cancer, Brain Cancer, Pancreatic Cancer, Ovarian Cancer, Fallopian Tube Cancer, Peritoneal Cancer, Cancer of Liver, Cancer of Colon, Cancer of Head and Neck, Cancer of Stomach, Cancer of Gastrointestinal Tract, Cancer of Rectum, Cancer of Esophagus, Cancer of Skin, Cancer of Cervix, Cancer of Kidney, Cancer of Larynx, Cancer of Endometrium, Cancer of the Bile Duct, Cancer of Vulva, Cancer of Bone and Connective Tissue, Leukemia, Lymphoma, Spinal Cord Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Create robust data set of health information",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Solid or hematologic malignancy.\n2. Willing and able to provide informed consent where required.\n3. Has received or will receive genomic profiling.\n\nExclusion Criteria:\n\n1. Individuals without the capacity to consent.\n2. Prisoners at the time of enrollment.",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

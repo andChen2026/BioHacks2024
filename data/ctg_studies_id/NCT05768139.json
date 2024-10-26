@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05768139",
+    "briefTitle": "First-in-Human Study of STX-478 as Monotherapy and in Combination With Other Antineoplastic Agents in Participants With Advanced Solid Tumors",
+    "officialTitle": "First-in-Human Study of STX-478, a Mutant-Selective PI3K\u03b1 Inhibitor as Monotherapy and in Combination With Other Antineoplastic Agents in Participants With Advanced Solid Tumors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Gynecologic Cancer, HNSCC, Solid Tumors, Adult",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "Number of participants who experience at least 1 Dose Limiting Toxicity (DLT)",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n1. Has an advanced or refractory solid tumor malignancy that is metastatic or locally advanced and unresectable (as specified by Cohort)\n2. Has a new or recent tumor biopsy (collected at screening, if feasible) or archival tumor specimen within 10 years prior to screening\n3. Has a tumor that harbors a documented PI3K\u03b1 mutation (cohort specific criterion for cohort-specific mutation types)\n4. Is \u226518 years of age at the time of signing the ICF\n5. Has an ECOG performance status score of 0 or 1 at screening\n6. Has adequate organ function as defined per protocol\n\nKey Exclusion Criteria:\n\n1. Has history (within \u22642 years before screening) of a solid tumor or hematological malignancy that is histologically distinct from the cancers being studied\n2. Has symptomatic brain or spinal metastases\n3. Has tumor with known mutations/deletions in PTEN, and activating mutations in AKT (E17K) confirmed by a CLIA-certified or similarly certified laboratory\n4. Has an established diagnosis of diabetes mellitus type 1 or has uncontrolled diabetes mellitus type 2 (based on FPG and HbA1c thresholds defined in the inclusion criteria) requiring antihyperglycemic medication\n5. Cohorts A0, A1, A2, A3, A4, A5 and B: Has had prior treatment with PI3K/AKT/mTOR inhibitor(s), except in certain circumstances\n6. Has had treatment with any local or systemic antineoplastic therapy or investigational anticancer agent within 14 days or 4 half-lives, whichever is longer, prior to the initiation of study treatment up to a maximum washout period of 28 days\n7. Has toxicities from previous anticancer therapies that have not resolved to baseline levels or CTCAE grade \u22641, with the exception of alopecia and peripheral neuropathy\n8. Has had radiotherapy within 14 days before the initiation of study treatment\n9. Cohorts C1, C2, D1, and D2: Any prior systemic therapy for metastatic breast cancer, prior treatment with fulvestrant or any selective estrogen-receptor degrader, with the exception of participants that have received fulvestrant or any selective estrogen-receptor degrader as a part of neoadjuvant therapy only",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

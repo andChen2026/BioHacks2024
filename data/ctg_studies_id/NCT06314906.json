@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06314906",
+    "briefTitle": "Electroacupuncture Plus Antiemetic Therapy for Chemotherapy-Induced Nausea and Vomiting in Patients With Breast Cancer",
+    "officialTitle": "Combining Electroacupuncture With Antiemetic Therapy for Preventing Chemotherapy-Induced Nausea and Vomiting in Patients With Breast Cancer: A Clinical Study",
+    "overallStatus": "RECRUITING",
+    "conditions": "Electroacupuncture, Olanzapine-contained Four-drug Antiemetic, Nausea and Vomiting",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 370,
+    "primaryOutcomeMeasure": "Proportion of Patients Free from Nausea Throughout Treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients aged 18 to 75 years, inclusive, from any nationality.\n2. Patients diagnosed with early-stage breast cancer.\n3. Eastern Cooperative Oncology Group performance status ranging from 0 to 2.\n4. All patients must undergo highly emetogenic chemotherapy (HEC).\n5. Adequate organ function.\n6. Adequate contraception required for premenopausal women.\n\nExclusion Criteria:\n\n1. Scheduled to undergo chemotherapy between days 2 to 4 following HEC.\n2. Received or is planned to receive abdominal radiation therapy within 1 week before Day 1 in cycle 1.\n3. Significant medical or psychological conditions.\n4. Presents with symptomatic primary or metastatic central nervous system malignancy causing nausea and/or vomiting.\n5. Experiencing ongoing vomiting or nausea of grade 2 or higher according to Common Terminology Criteria for Adverse Events (CTCAE).\n6. Any known allergies to the study drug, antiemetics, or dexamethasone.\n7. Patients who have fear of electroacupuncture stimulation or are allergic to stainless steel needles.\n8. Received acupuncture treatments for any conditions within 8 weeks prior to HEC.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

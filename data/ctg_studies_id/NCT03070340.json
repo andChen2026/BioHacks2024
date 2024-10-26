@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03070340",
+    "briefTitle": "Comparison of MRI and CEDM to Evaluate Treatment Response Before Surgery",
+    "officialTitle": "Comparison of Breast Magnetic Resonance Imaging (MRI) and Contrast Enhanced Mammography (CEDM) to Evaluate Residual Disease Extent After Neoadjuvant Therapy (NAT)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 125,
+    "primaryOutcomeMeasure": "Compare diagnostic accuracy of breast MRI and CEDM",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Any woman who has completed or is nearing completion of neoadjuvant therapy for breast cancer and is scheduled for a post-NAT breast MRI and mammogram\n* Surgery (mastectomy or BCT) planned within 60 days of the MRI\n\nExclusion Criteria:\n\n* Women who have a contraindication to the intravenous use of iodinated contrast agent (i.e., allergy to iodinated contrast or severely impaired renal function with a creatinine level \\> 1.3 or eGFR \u226545)\n* Known allergic reaction to gadolinium; patient may be eligible if the referring physician determines that the MRI is medically necessary and if the patient is willing to undergo pre-medication for contrast allergy\n* Pregnant women\n* Male patients\n* Presence of non MR compatible metallic objects or metallic objects that, in the opinion of the radiologist, would make MRI a contraindication\n* Known or suspected renal impairment. Requirements for GFR prior to MRI as determined by local site standard practice\n* Women who have already had their standard of care post-NAT mammogram and/or breast MRI",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

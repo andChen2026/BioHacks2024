@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04768868",
+    "briefTitle": "The Safety and Pharmacokinetics Preliminary Efficacy of IMP7068 in Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase 1, Open-Label, Multi-Center, Dose Escalation and Expansion Study to Evaluate Safety, Tolerability, Pharmacokinetics, and Anti-Tumor Activity of the WEE1 Inhibitor IMP7068 Monotherapy in Patients With Advanced Solid Tumors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Advanced Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 350,
+    "primaryOutcomeMeasure": "Part 1 Dose Escalation: Incidence of treatment emergent adverse events (TEAEs)",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n1. The patient must voluntarily participate in this clinical study. Be willing and able to provide written informed consent form (ICF) prior to any study activity.\n2. Age \u226518 years on the day of signing the ICF, males or females. Only for Korea, Age \u226519 years on the day of signing the ICF.\n3. The enrolled patients must have histologically or cytologically confirmed advanced solid tumor that is refractory/intolerant to standard treatment or for which no standard treatment exists. The patients with known microsatellite-instability high (MSI-H) or deficient in mismatch repair (dMMR) disease are required to have received prior PD 1/PD-L1 therapy; those with known NTRK fusion are required to have received an approved TRK-inhibitor. The patients who are suitable for resection or other localized therapy that is potentially curative are not eligible.\n\nKey Exclusion Criteria:\n\n1. Patients with active or untreated known CNS metastases and/or carcinomatous meningitis should be excluded.\n2. Patients with serious acute or chronic infections.\n3. Patients who have received prescription or non-prescription drugs or other products known to be sensitive to CYP3A4 substrates or CYP3A4 substrates with a narrow therapeutic index, or to be moderate to strong inhibitors/inducers of CYP3A4 which cannot be discontinued 7 days prior to Day 1 of dosing and withheld throughout the study until 2 weeks after the last dose of IMP7068.\n4. Patients who are participating in or have participated in a study of an investigational agent and received study therapy or used an investigational device within 28 days of the first dose of treatment.\n5. Patients have not recovered (i.e., to Grade \u22641 or to baseline, as evaluated by NCI-CTCAE Version 5.0) from prior anti-cancer therapy-induced AEs, except for alopecia, anorexia or CTCAE grade 2 peripheral neuropathy.\n6. Patients who have undergone a major surgery or have undergone a radical radiotherapy within 28 days prior to the study treatment, or have undergone a palliative radiotherapy within 14 days prior to the study treatment, or have used a radioactive drug (Strontium, Samarium, etc.) within 56 days prior to the study treatment.\n7. Patients who are unable to swallow oral medications. Patients have gastrointestinal illnesses that may clinically significantly affect the absorption of oral medication IMP7068 at discretion of investigators.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

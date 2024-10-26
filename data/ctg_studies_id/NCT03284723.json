@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03284723",
+    "briefTitle": "PF-06804103 Dose Escalation in HER2 Positive and Negative (Negative Only in Part 2) Solid Tumors",
+    "officialTitle": "A Phase 1 Dose Escalation Study Evaluating the Safety and Tolerability of PF-06804103 in Patients With Human Epidermal Growth Factor Receptor 2 (HER2) Positive and Negative Solid Tumors",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 95,
+    "primaryOutcomeMeasure": "Number of Participants With Cycle 1 (21 Days) Dose-Limiting Toxicities (DLTs) in Part 1A",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* HER2 positive breast cancer or gastric cancer that is resistant to standard therapy or for which no standard therapy is available (Part 1A only)\n* HER2 positive and negative breast cancer (Part 2A)\n* HER2 negative breast cancer (Part 1B \\& Part 2B)\n* Performance status of 0 or 1\n* Adequate bone marrow, kidney and liver function\n\nExclusion Criteria:\n\n* Known CNS disease including, but not limited to, metastases\n* History of exposure to certain cumulative doses of anthracyclines\n* Grade 3 or higher hypersensitivity reaction to prior receipt of any antibody therapy\n* Active and clinically significant bacterial, fungal, or viral infection\n* Abnormal cardiac function defined by a LVEF \\<50% by ECHO or MUGA\n* Patients with previous history or active interstitial lung disease or pulmonary fibrosis, or a history of other clinically significant lung diseases",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

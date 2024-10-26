@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00805597",
+    "briefTitle": "Clinical Trial of Postmastectomy Radiotherapy in Breast Cancer With One to Three Positive Nodes",
+    "officialTitle": "A Phase \u2162 Randomized Clinical Trial of Postmastectomy Radiotherapy in Breast Cancer With One to Three Positive Nodes",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "overall survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Ipsilateral histologically confirmed invasive breast cancer\n* Undergone total mastectomy and axillary dissection\n* T1-2 and one to three axillary lymph nodes positive\n* A minimum of 10 axillary nodes dissected\n* Fit for chemotherapy(if indicated),endocrine therapy(if indicated)and postoperative irradiation\n* Written,informed consent\n\nExclusion Criteria:\n\n* Patients who undergone previous irradiation to the ipsilateral chest wall and supraclavicular region\n* Previous or concurrent malignant other than non-melanomatous skin cancer\n* Unable or unwilling to give informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

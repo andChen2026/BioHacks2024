@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00129922",
+    "briefTitle": "Fluorouracil, Epirubicin, and Cyclophosphamide Alone or Followed by Paclitaxel for Early Breast Cancer",
+    "officialTitle": "Phase III Study to Compare 6 Courses of FEC (Fluorouracil, Epirubicin and Cyclophosphamide) vs. 4 Courses of FEC Followed by 8 Weekly Paclitaxel Administrations, as Adjuvant Treatment for Node Positive Operable BC Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1289,
+    "primaryOutcomeMeasure": "disease-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent.\n* Histological diagnosis of breast cancer.\n* Node positive operable breast cancer (stages II-III).\n* Breast cancer surgery, consisting of radical mastectomy or conservative surgery, plus lymphadenectomy with at least 6 extirpated nodes. Surgery must have happened in the 8 weeks prior to randomisation.\n* Age \\>=18 and \\<= 70 years old.\n* Negative pregnancy test. Adequate contraceptive method during the study participation.\n* Performance status of 90-100 (Karnofsky index) or ECOG \\<=1.\n* Haemoglobin \\>= 10 g/dl; neutrophils \\> 1,500/cc; platelets \\> 100,000/cc.\n* Adequate hepatic function with bilirubin, SGOT and SGPT \\< 1.5 x upper normal limit (UNL).\n* Adequate cardiac function documented by left ventricular ejection fraction (LVEF).\n* Adequate renal function with creatinine \\< 1.5 mg/dl.\n\nExclusion Criteria:\n\n* Previous chemotherapy, hormone therapy and/or radiotherapy for breast cancer.\n* Bilateral breast cancer. Lobular in situ carcinoma.\n* Previous or current malignancies, except for basal skin carcinoma, cervical in situ carcinoma or superficial bladder carcinoma, adequately treated.\n* History of arrhythmias and/or congestive heart failure or cardiac blocking grade 2-3; history of myocardial infarction in 6 months before recruitment.\n* Inability for treatment and study compliance.\n* Pregnant or lactating women.\n* Active infection.\n* History of hypersensitivity to cremophor or cyclosporine.\n* Pre-existing grade 2 motor or sensorial neurotoxicity (National Cancer Institute Common Toxicity Criteria \\[NCI CTC\\]).\n* Hormonal receptor status not determined.\n* Any other criteria which, in investigator's opinion, may jeopardize patient's security or compliance.\n* Administration of other investigational product in the 30 days prior to randomisation; current participation in another clinical trial.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

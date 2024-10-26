@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01322854",
+    "briefTitle": "Adjuvant Whole Breast Radiotherapy (RT) With Intensity Modulated Radiotherapy (IMRT) and a Simultaneous Integrated Boost Versus Conventional RT and a Sequential Boost",
+    "officialTitle": "Randomized Phase III Trial Comparing Intensity Modulated Radiotherapy With Integrated Boost to Conventional Radiotherapy With Consecutive Boost in Patients With Breast Cancer After Breast Conserving Surgery",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 502,
+    "primaryOutcomeMeasure": "cosmetic results",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All patients aged \\>18 years and \\< 70 years after breast conserving surgery.\n* Patients aged \u2265 70 years with following risk factors:\n\n  * Tumor stadium \u2265 T2\n  * Multifocal disease\n  * Lymphangiosis\n  * Extended intraductal component\n  * Resection margin \u22643mm\n\nExclusion Criteria:\n\n* Refusal of the patients to be included in the study\n* Karnofsky Performance Score \u2264 70%\n* Metastatic disease (M1)\n* Other malignancies\n* Previous radiotherapy of the breast\n* Pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

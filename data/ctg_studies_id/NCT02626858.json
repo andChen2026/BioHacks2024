@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02626858",
+    "briefTitle": "Optimizing the Delineation of the Tumour Bed in Breast Irradiation",
+    "officialTitle": "Optimizing the Delineation of the Tumour Bed in Breast Irradiation",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "the interobserver variability (IOV) (%) of the delineated Clinical Target Volume (CTV) boost (cm3) with and without the fusion of the pre-operative CT-scan.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast Cancer patients, without metastases, who will undergo breast conserving surgery and probably will receive adjuvant chemotherapy and thereafter radiotherapy.\n\nExclusion Criteria:\n\n* Metastases at time of diagnosis",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

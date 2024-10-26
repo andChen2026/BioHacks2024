@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01957514",
+    "briefTitle": "Collecting, Analyzing, and Storing Samples From Patients With Metastatic, Triple Negative Breast Cancer Receiving Anti-cancer Therapy",
+    "officialTitle": "Intensive Trial of OMics in Cancer (ITOMIC) - Intensive Longitudinal Monitoring in Subjects With Triple-Negative Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Estrogen Receptor Negative, HER2/Neu Negative, Progesterone Receptor Negative, Stage IV Breast Cancer AJCC v6 and v7, Triple-Negative Breast Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 31,
+    "primaryOutcomeMeasure": "Incidence of adverse events resulting from performing multiple biopsies measured by the presence of biopsy-related complications, graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.03",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subjects have metastatic TNBC\n* Disease suitable for analysis from either (a) or (b) below:\n\n  * (a) Research biopsy\n\n    * Tumor tissue, which can include bone disease, as determined by physical exam or imaging (as assessed by a trained specialist in radiology)\n    * Must be collected before the subject receives treatment with a drug they have not received previously\n  * (b) Standard of care biopsy\n\n    * Tumor tissue available from a previous biopsy as standard of care (to be determined by the principal investigator \\[PI\\] or his designee)\n    * Must have been collected before subject receives treatment with a drug they have not received previously\n    * May begin treatment either after enrollment or within several weeks prior to enrollment\n* Subjects must be medically fit and willing to undergo repeated tissue biopsies or surgical procedures to get tumor tissue\n* Procedure-specific signed informed consent prior to initiation of any study-related procedures\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-1 (or a Karnofsky performance status of \\>= 50%)\n* Agree to allow their de-identified clinical and laboratory data to be posted to publicly available databases such as database of Genotypes and Phenotypes (dbGaP)\n\nExclusion Criteria:\n\n* Bevacizumab treatment within 4 weeks prior to biopsy\n* Anticoagulation therapy, unless reversed at the time of biopsy\n* The enrolling study oncologist has decided that the subject is not fit enough to undergo repeated tissue biopsies\n* Presence of a condition or abnormality that in the opinion of the enrolling investigator would compromise the safety of the subject or the quality of the data\n* Significant bleeding disorder\n* Known brain metastases that have not or will not be treated\n* Subjects with a life expectancy of less than 6 months\n* Prisoners\n* Inability to give informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

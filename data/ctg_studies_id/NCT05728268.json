@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05728268",
+    "briefTitle": "Neoadjuvant Dose-dense Chemotherapy for HR+/HER2- Breast Cancer Patients With High Proliferation Index",
+    "officialTitle": "Neoadjuvant Dose-dense Chemotherapy for HR+/HER2- Breast Cancer Patients With High Proliferation Index",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 64,
+    "primaryOutcomeMeasure": "RCB",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females with age of 18 to 70 years old.\n* Newly diagnosed breast cancer patients.\n* Planned neoadjuvant chemotherapy.\n* Hormone receptor status: Estrogen receptor (ER)-positive or Progesterone Receptor (PR)- positive.\n* HER2/neu-negative.\n* Ki67\u226530%.\n* Clinical stage IIB-IIIC.\n* Informed consent form understood and signed.\n* Patient agrees to all follow-up visits.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 to 1.\n* Women of childbearing potential must have a negative serum pregnancy test.\n\nExclusion Criteria:\n\n* Metastatic disease\n* Pregnancy.\n* Nursing mothers.\n* Active or uncontrolled infection.\n* Presence of another malignancies.\n* Granulocyte count \\< 1.5\\*10\\^9/L.\n* Platelet count \\< 100\\*10\\^9/L.\n* Hemoglobin \\< 90g/L.\n* Serum Creatinine more than 1.5 upper limit.\n* AST and ALT more than 2.5 upper limit.\n* LVEF\\< 50%.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

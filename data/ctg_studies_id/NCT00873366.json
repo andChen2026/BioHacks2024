@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00873366",
+    "briefTitle": "Breath Test for Women Receiving Tamoxifen in the Prevention or Treatment of Breast Cancer",
+    "officialTitle": "\u00b9\u00b3C - Dextromethorphan (DM) Breath Test for Determination of CYP2D6 Enzyme Activity in Patients Receiving Tamoxifen",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 92,
+    "primaryOutcomeMeasure": "Operating Characteristics of the \u00b9\u00b3C-dextromethorphan (13C-DM) Breath Test in Identifying Those Who Are CYP2D6 Genotypic Poor Metabolizers",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Eligible to receive tamoxifen for 6 months for either the prevention or treatment of non-invasive or invasive, stage I-III breast cancer\n* CYP2D6 genotype known\n\n  * Patients determined to be CYP2D6 poor metabolizers (by determination of a genotype test by their Mayo physician prior to study registration) are eligible to proceed with the initial breath test only\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* ECOG performance status 0-2\n* Life expectancy \\> 6 months\n* No known impaired hepatic activity defined as \u2265 grade 3 AST, alkaline phosphatase, or total bilirubin\n* No pulmonary disease (e.g., asthma or other respiratory disease) associated with hypercapnia\n* No uncontrolled metabolic disease (e.g., diabetes in the presence of gastroparesis, uncontrolled congestive heart failure, or uncontrolled gastrointestinal disorders \\[e.g., GERD\\])\n* No prior adverse reaction to dextromethorphan\n* No history of chronic liver disease (e.g., hepatitis B or hepatitis C, alcoholic liver disease, cirrhosis, or fibrotic disease)\n* Able and willing to fast overnight prior to the study session\n* Willing to return to Mayo Clinic for follow-up\n* Willing to provide biologic specimens\n\nPRIOR CONCURRENT THERAPY:\n\n* More than 24 hours since prior medications known to slow gastric emptying or gastrointestinal motility (e.g., alcohol, opioid analgesics, anticholinergics \\[e.g., antihistamines\\], and loperamide)\n* More than 4 weeks since prior and no concurrent CYP2D6 inhibitors or concurrent serotonin-reuptake inhibitors known to be potent CYP2D6 inhibitors (e.g.,paroxetine \\[Paxil\u00ae\\] and fluoxetine \\[Prozac\u00ae\\]\n\n  * If mild to moderate inhibitors of CYP2D6 are medically necessary, patients may go back on after the 8-week time point\n* More than 4 weeks since prior and no concurrent monoamine-oxidase inhibitors (e.g., furazolidone, phenelzine, procarbazine, selegiline, and tranylcypromine)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

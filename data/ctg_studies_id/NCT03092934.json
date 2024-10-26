@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03092934",
+    "briefTitle": "A Study of AK-01 (LY3295668) in Solid Tumors",
+    "officialTitle": "A Phase I/II Open-Label Multicenter Study to Evaluate the Safety and Efficacy of AK-01 as Monotherapy in Patients With Locally Advanced or Metastatic Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neoplasms, Neoplasm Metastasis, Triple Negative Breast Neoplasms, Head and Neck Neoplasms, Breast Neoplasms, Solid Tumor, Adult, Small Cell Lung Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 13,
+    "primaryOutcomeMeasure": "Phase 1: Maximum Tolerated Dose",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Have received at least 1 but no more than 4 prior systemic therapies\n* Have adequate organ function\n* Have a performance status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) scale\n* Have estimated life expectancy greater than or equal to (\u2265)12 weeks\n* Have fully recovered from radiation therapy or surgery, and are recovering from any acute adverse effects of other cancer therapies\n* Have discontinued all chemotherapy, investigational therapy, molecularly-targeted therapy, and cancer-related hormonal therapy at least 14 days prior, biologic or immunotherapeutic therapy at least 21 days prior, or mitomycin-C or nitrosoureas at least 6 weeks prior\n* Female participants with reproductive potential agree to use 2 forms of highly effective contraception during the study and for the following 3 months\n* Male participants must use a barrier method of contraception during the study and for the following 3 months\n\nPhase 1\n\n* Have evidence of a solid tumor that is locally advanced and/or metastatic (excluding primary brain tumor)\n\nPhase 2\n\n* Have disease measurable by Response Evaluation Criteria in Solid Tumors (RECIST) v.1.1\n* Have evidence of a solid tumor that is locally advanced and/or metastatic, and in:\n\n  * Small Cell Lung Cancer (SCLC), must have failed platinum-containing therapy\n  * Breast Cancer, be Estrogen Receptor positive and/or Progesterone Receptor positive, but Human Epidermal Growth Factor Receptor 2 (HER2) negative, and must have failed a hormone therapy and a Cyclin-dependent kinase 4/6 (CDK4/6) inhibitor\n  * Triple negative breast cancer (TNBC) and failed standard therapy\n  * Squamous cell cancers of the head neck associated with the human papilloma virus (HPV), and have failed standard therapy\n  * Other solid tumor type that has been approved by the sponsor\n\nExclusion Criteria:\n\n* Have symptomatic central nervous system (CNS) metastasis (unless asymptomatic and not current receiving corticosteroids) or a primary tumor of the CNS\n* Have a medical condition that precludes participation (swallowing disorder, organ transplant, pregnant or nursing, HIV, active Hepatitis B or C, cardiac disease, history of major surgery in upper gastrointestinal (GI) tract or GI disease, hypokalemia, hypomagnesaemia or hypocalcaemia that cannot be controlled)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

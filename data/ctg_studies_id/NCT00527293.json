@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00527293",
+    "briefTitle": "Partial Breast Radiation Therapy in Treating Women Undergoing Breast-Conserving Therapy for Early Stage Breast Cancer",
+    "officialTitle": "Partial Breast Irradiation for Patients Undergoing Breast Conservation Therapy for Early Stage Breast Cancer: A Pilot Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 29,
+    "primaryOutcomeMeasure": "Cosmetic outcome as determined by an established scale employed by the radiation oncologist and the surgeon",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer, including the following histologic subtypes:\n\n  * Invasive ductal carcinoma\n  * Medullary ductal carcinoma\n  * Papillary ductal carcinoma\n  * Colloid (mucinous) ductal carcinoma\n  * Tubular ductal carcinoma\n* The following histologic subtypes are not allowed:\n\n  * Invasive lobular carcinoma\n  * Extensive lobular carcinoma in situ\n  * Ductal carcinoma in situ (DCIS)\n  * Nonepithelial breast malignancies, such as lymphoma or sarcoma\n* No extensive intraductal component by Harvard definition (i.e., more than 25% of the invasive tumor is DCIS or DCIS present in adjacent tissue)\n* Stage I or II disease (T1, N0; T1, N1a; T2, N0; or T2, N1a)\n\n  * Lesion \u2264 3 cm\n  * No more than 3 positive lymph nodes\n\n    * Patients with 4 or more positive axillary lymph nodes found at the time of axillary lymph node dissection/sentinel lymph node biopsy are not eligible\n* Has undergone tylectomy (lumpectomy) and axillary lymph node sampling (axillary node dissection or sentinel node biopsy)\n\n  * Negative resection margins with \u2265 2 mm margin from invasive or in situ cancer OR a negative re-excision margin\n* Unifocal breast cancer\n\n  * No multicentric carcinoma (tumors in different quadrants of the breast or tumors separated by \u2265 4 cm)\n\n    * No palpable or radiographically suspicious contralateral axillary, ipsilateral or contralateral supraclavicular, infraclavicular, or internal mammary lymph nodes unless these are histologically confirmed negative\n* No skin involvement of disease\n* No Paget's disease of the nipple\n* No distant metastatic disease\n* Hormone-receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Menopausal status not specified\n* Not pregnant or lactating\n* Negative pregnancy test\n* Fertile patients must use effective contraception for \u2265 1 week prior to, during, and for \u2265 2 weeks after completion of study treatment\n* No collagen vascular disorders, specifically systemic lupus erythematosus, scleroderma, or dermatomyositis\n* No psychiatric, neurologic, or addictive disorders that would preclude obtaining informed consent\n* No other malignancy within the past 5 years, except non-melanomatous skin cancer\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior radiotherapy to the breast\n* No chemotherapy for at least 2 weeks before and 2 weeks after completion of study radiotherapy\n* Concurrent hormonal therapy allowed",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

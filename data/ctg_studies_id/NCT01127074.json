@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01127074",
+    "briefTitle": "Vaccination of Metastatic Breast Cancer Patients With a CD80-modified Allogeneic Cancer Cell Line (KS2422)",
+    "officialTitle": "Phase 1 Study: Induction of Systemic Immune Responses in Metastatic Breast Cancer Patients by Vaccination With a CD80-modified, Devitalized HLA-*A0201+ Breast Cancer Cell Line (KS24.22)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "safety of KS24.22 administration",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* proven diagnosis of carcinoma of the breast with distant metastatic disease\n* patient received either anthracycline- or taxane-based chemotherapy (\"state of the art\")\n* Karnofsky Score (performance status) 80%\n* HLA-\\*A0201-positive\n* minimum life expectancy of 6 month\n* written informed consent\n* activation of patient's T-lymphocytes by mitogen antibodies and the cell line used for vaccination\n\nExclusion Criteria:\n\n* manifestation of CNS metastases\n* immunosuppressive disease like AIDS, autoimmune disease\n* no serious concomitant systemic medical disorders or active acute or systemic infection\n* pregnancy\n* chemotherapies or radiotherapies in the 4 weeks preceding study entry\n* biological response modifiers (antibodies, TNF, cytokines) or other immune therapies in the 6 weeks preceding study entry (exclusion: hematopoetic growth factors)\n* organ transplanted patients",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

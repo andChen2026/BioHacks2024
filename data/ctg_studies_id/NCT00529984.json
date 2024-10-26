@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00529984",
+    "briefTitle": "A Phase I/II Study With CEA(6D) VRP Vaccine in Patients With Advanced or Metastatic CEA-Expressing Malignancies",
+    "officialTitle": "A Phase I/II Study of Active Immunotherapy With CEA(6D)VRP Vaccine(AVX701)in Patients With Advanced or Metastatic Malignancies Expressing CEA or Stage III Colon Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Colorectal Cancer, Breast Cancer, Lung Cancer, Pancreatic Cancer, Colon Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "determine the safety of immunization with CEA(6D) VRP",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nCohorts 1-4 only:\n\n* Histologically confirmed diagnosis of metastatic malignancy due to a tumor expressing CEA.\n* The tumor must express CEA as defined by immunohistochemical staining, CEA blood level, or a tumor known to be universally CEA positive.\n* Must have received treatment with standard therapy having a possible overall survival benefit or refused such therapy.\n* Must have received and progressed through at least one line of palliative chemotherapy for colorectal, breast, lung, or pancreatic cancer. For other malignancies, if a first line therapy with survival or palliative benefit exists, it should have been administered and there should have been progressive disease.\n\nCohort 5 Only:\n\n* Histologically confirmed colon cancer (rectal cancer excluded). Since colon cancer is nearly universally CEA positive, CEA staining is not required.\n* Documented stage III colon cancer with no evidence of disease.\n* One to six months following standard post-operative adjuvant treatment, which should have consisted of 5-fluorouracil and folinic acid or capecitabine with or without oxaliplatin for 4-6 months)\n\nAll Cohorts:\n\n* Karnofsky performance status \u2265 70%.\n* Estimated life expectancy \\> 6 months and not expected to require further systemic chemotherapy for at least 3 months.\n* Age \u2265 18 years.\n* Adequate hematologic function (WBC \u2265 3000/microliter, hemoglobin \u2265 9 g/dL, and platelets \u2265 100,000/microliter).\n* Adequate renal and hepatic function, (serum creatinine \\< 1.5 mg/dL, bilirubin \u2264 1.5 mg/dL, and ALT and AST \u2264 2.5 x upper limit of normal).\n* Patients who have received CEA-targeted immunotherapy, if treatment was discontinued at least 3 months before enrollment.\n* Patients who are taking medications that do not have a known history of immunosuppression are eligible for this trial.\n* Ability to understand and provide signed informed consent.\n* Ability to return to Duke University Medical Center for adequate follow-up, as required by protocol.\n\nExclusion Criteria:\n\n* Concurrent cytotoxic chemotherapy or radiation therapy (must be at least 3 months between any prior CEA-targeted immunotherapy and study treatment and at least 4 weeks between any other prior therapy and study treatment).\n* Patients with previously resected brain metastases will be permitted if a CT or MRI scan shows no metastasis within 1 month before enrollment.\n* History of autoimmune disease.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

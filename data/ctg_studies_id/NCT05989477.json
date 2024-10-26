@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05989477",
+    "briefTitle": "At-home Breast Oncology Care Delivered With E-health Solutions",
+    "officialTitle": "At-home Breast Oncology Care Delivered With E-health Solutions The ABODE Study",
+    "overallStatus": "RECRUITING",
+    "conditions": "Patient Engagement, Patient Activation, Patient Reported Outcome Measures",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Primary Objective",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females (assigned female at birth)\\*\n* Diagnosed with first, primary invasive BC\n* Must have surgery as their first step in treatment pathway\n* Age\u226518\n* Access to an electronic device with connection to the internet\n* A valid email address\n* Can communicate in English \\*Since BC risk is sex-related and based on physiological values, our inclusion criteria are based on sex (not gender)\n\nExclusion criteria:\n\n* Males (assigned male at birth), as BC surgical treatment options and experiences are different\n* Diagnosed with non-operable breast cancer\n* Stage 4/metastatic (whether determined at diagnosis or during surgery)\n* Those with hearing or visual challenges\n* Neo-adjuvant chemotherapy\n* Should not be enrolled in any other UHN study using an e-Health application\n* Breast cancer surgery is scheduled for less 5 business days after enrollment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

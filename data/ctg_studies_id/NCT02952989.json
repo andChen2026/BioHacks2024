@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02952989",
+    "briefTitle": "A Safety Study of SGN-2FF for Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase 1, Multicenter, Open-label, Dose-escalation Study of SGN-2FF in Patients With Advanced Solid Tumors",
+    "overallStatus": "TERMINATED",
+    "conditions": "Carcinoma, Non-Small-Cell Lung, Carcinoma, Renal Cell, Breast Neoplasms, Urinary Bladder Neoplasm, Carcinoma, Squamous Cell of Head and Neck, Colorectal Neoplasms, Gastric Adenocarcinoma, Gastroesophageal Junction Adenocarcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 47,
+    "primaryOutcomeMeasure": "The number of participants with adverse events that are related to treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with histologically or cytologically-confirmed, locally advanced, or metastatic solid malignancy that is relapsed, refractory, or progressing following at least 1 prior systemic therapy (Part A)\n* Measurable disease by computed tomography (CT) or magnetic resonance imaging (MRI) as defined by RECIST 1.1\n* Eastern Cooperative Oncology Group (ECOG) performance status of less than or equal to 1\n* Patients in Part B must have histologically or cytologically-confirmed, locally-advanced, or metastatic solid malignancy within the disease indications of Part A\n* Adequate baseline hematologic, renal, and hepatic function\n* Patients for whom there is no further standard therapy available at the time of enrollment (Part A)\n* Patients with a histologically-confirmed, advanced solid malignancy meeting one of the following criteria: (1) indication for which pembrolizumab is approved or (2) relapsed, refractory, or progressive disease following at least 1 prior therapy and for which no further standard therapy is a available (Parts C and D)\n\nExclusion Criteria:\n\n* Patients with carcinomatous meningitis or active central nervous system (CNS) metastases\n* Patients with recent (within 14 days) or serious ongoing infection\n* Patients requiring systemic treatment with corticosteroids (greater than 10 mg prednisone equivalents) or immunosuppressive medications within 14 days of enrollment\n* Patients with active known or suspected autoimmune disease or significant autoimmune-related toxicity from prior immuno-oncology therapy\n* Known active or latent tuberculosis\n* Uncontrolled diabetes mellitus\n* History of interstitial lung disease\n* Gastrointestinal abnormality that would affect absorption of SGN-2FF\n* Patients tested positive for hepatitis B or with a known, active hepatitis C infection\n* Women who are pregnant or breastfeeding\n* Patients with deep vein thrombosis (DVT)\n* Contraindication to prophylactic anticoagulation",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

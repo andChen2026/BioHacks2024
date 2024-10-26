@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01373671",
+    "briefTitle": "Evaluation of the Efficacy of Digital Breast Tomosynthesis Imaging",
+    "officialTitle": "Multi-center Case Collection Study to Create a Library of Images From Various Approved FFDM Systems and 3D Images From Siemens Inspiration Digital Breast Tomosynthesis (DBT) System for Studies in Support of the Inspiration DBT Approval",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 764,
+    "primaryOutcomeMeasure": "Efficacy Based on the Area Under the Receiver Operating Characteristic (ROC) Curve in Breasts Analyzed With DBT as an Adjunct to FFDM vs. FFDM Alone",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nAll subjects enrolled into the collection study must:\n\n* Provide signed informed consent after receiving a verbal and written explanation of the purpose and nature of the study\n* be females, 40 years of age or older at the screening mammographic evaluation or age 30 or older presenting for a biopsy and have one of the following mammograms:\n\n  o Normal cases at screening (BI-RADS\u00ae 1, 2 and 3):\n  * have a screening mammogram that includes the four standard screening views (RCC, RMLO, LCC and LMLO), as well as have both MLO and CC DBT scans of each breast,\n\n    o Actionable cases at screening (BI-RADS\u00ae 0, 4 or 5) with final BI-RADS\u00ae 1, 2, 3, 4 or 5:\n  * have a screening mammogram with four SSVs and any clinically necessary diagnostic mammographic views, such as straight lateral projections, rolled, magnification view and spot compression views, and, both MLO and CC DBT scans of each breast plus 4 SSVs repeated at the diagnostic or biopsy visit if the screening images are unavailable or were acquired more than 45 days prior to DBT acquisition,\n* have supporting ground-truth documentation for the final BI-RADS\u00ae assessment as follows:\n\n  * A one (1) year FFDM follow up without evidence of cancer for normal cases not undergoing biopsy\n  * A six (6) or twelve (12) month FFDM follow up confirming benign status for biopsy proven benign cases\n  * Pathology report for either benign or malignant biopsy finding\n\nExclusion Criteria:\n\nSubjects with any of the following conditions or who have had the following procedures will be excluded from this study:\n\n* Pregnant women or women who believe they may be pregnant or are trying to become pregnant.\n* Mastectomy patients\n* Subjects who have had lumpectomy \u2264 5 years prior to the study entry\n* Inmates (in accordance with 45 CFR 46.306) or mentally disabled individuals\n* BI-RADS\u00ae Category 6 (e.g., for which the mammogram was performed for the purpose of planning cancer therapy)\n* BI-RADS\u00ae Category 4 or 5 without confirming pathology reports will be considered incomplete\n* Subjects with mammograms that lack the required views or with views judged to be technically inadequate will be considered incomplete and the cases will not be considered for the MRMC reader studies\n* Subjects being accrued from the screening population who know that they will not be in the United States or available for follow up mammograms in one year.",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

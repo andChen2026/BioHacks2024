@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02304614",
+    "briefTitle": "The Use of 3D Surface Imaging in the Objective Assessment of Breast Conserving Therapy",
+    "officialTitle": "The Use of 3D Surface Imaging in the Objective Assessment of Breast Conserving Therapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 346,
+    "primaryOutcomeMeasure": "A multivariate model using clinical risk factors to predict percentage volume asymmetry",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients\n* No age limit\n* underwent unilateral breast conserving surgery at The Royal Marsden NHS Foundation Trust (RMH)\n* underwent adjuvant whole breast radiotherapy at RMH\n* attending for their annual surveillance mammogram\n* between one and five and half years after surgery (rounded to nearest whole year)\n\nExclusion Criteria:\n\n* undergone surgery to the contralateral breast (breast conserving surgery, symmetrisation or mastectomy)\n* undergone further surgery to the affected breast subsequent to BCT (eg lipofilling or other reconstruction).\n* unable to stand for long enough to have clinical photos (approximately 10 minutes)\n* unable to answer the BREAST-Q questionaire (e.g. learning difficulties)",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

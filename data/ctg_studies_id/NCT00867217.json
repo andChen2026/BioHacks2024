@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00867217",
+    "briefTitle": "Vitamin D3 for Aromatase Inhibitor Induced Arthralgias",
+    "officialTitle": "A Randomized Trial to Evaluate the Benefit of High Dose Vitamin D3 on Aromatase Inhibitor Letrozole-Associated Musculoskeletal Symptoms and Fatigue (The VITAL Trial).",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 160,
+    "primaryOutcomeMeasure": "Number of Participants With Worsening of Musculoskeletal Symptoms (MS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Post-menopausal women newly diagnosed with early stage breast cancer, who would be treated with an aromatase inhibitor\n* Serum 25OHD levels \\< 40 ng/ml\n\nExclusion Criteria:\n\n* Severe or debilitating musculoskeletal pain\n* Known metastatic disease\n* History of renal stones\n* History of hypercalcemia or hyperthyroidism\n* Currently receiving adjuvant or neoadjuvant chemotherapy\n* Currently receiving other investigational agents",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

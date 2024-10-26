@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01004081",
+    "briefTitle": "Hormone Receptor Positive Metastatic Breast Cancer (HR+ mBC) BIIB021 Plus Aromasin Schedule Finding",
+    "officialTitle": "Phase 2a, Open-Label, Randomized, Noncomparative Study of BIIB021 in Combination With Exemestane in Women With Hormone Receptor-Positive, Advanced Metastatic Breast Cancer Who Have Progressed on a Nonsteroidal Aromatase Inhibitor",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 54,
+    "primaryOutcomeMeasure": "The primary objective of this study is to assess the efficacy of 2 dosing regimens of BIIB021 in combination with exemestane in women whose HR+ breast cancer had progressed following treatment with a nonsteroidal AI.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 years of age\n* Must have histologically or cytologically confirmed estrogen receptor- positive or progesterone receptor-positive, incurable, locally advanced, or metastatic breast cancer.\n* Must have disease progression during treatment with a nonsteroidal AI for locally advanced or metastatic disease, or relapse during treatment or within 12 months of discontinuation of treatment in the adjuvant setting.\n* Must be a postmenopausal female.\n* Must have measurable or evaluable disease.\n\n  * Measurable disease is defined as \\>=1 lesion with a diameter of \\>=10 mm\n  * Evaluable disease is defined as bone lesions evaluable by plain X ray, CT scan, or MRI. Lesions identified only by radionuclide bone scan are not allowed.\n* One prior chemotherapy regimen for advanced mBC is allowed.\n* Prior radiotherapy is allowed.\n* Must be able to swallow and retain oral medication.\n* ECOG performance status of \\<=2\n* Required laboratory values\n\n  * Plasma cortisol and adrenocorticotropic hormone (ACTH) levels that are not suggestive of adrenal insufficiency unless on replacement therapy for known adrenal insufficiency.\n\nExclusion Criteria:\n\n* HER2 overexpressing tumor.\n* History of central nervous system (CNS) metastasis.\n* Previous treatment with exemestane or treatment with an Hsp90 inhibitor.\n* Use of proton pump inhibitors.\n* Known history of or positive test result for hepatitis B or C or HIV.\n* History of gastrectomy or major surgery to small intestine.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

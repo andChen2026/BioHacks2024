@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01207102",
+    "briefTitle": "Study Of Abraxane\u00ae And Carboplatin As First-Line Treatment For Triple Negative Metastatic Breast Cancer",
+    "officialTitle": "A Phase II Study of Abraxane\u00ae and Carboplatin as First-line Treatment for \"Triple Negative\" (Demonstrating no Expression for Estrogen, Progesterone, or Human Epidermal Growth Factor Receptor 2 (HER2)Receptors) Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "PFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with histologically or cytologically confirmed diagnosis of metastatic (Stage IV) breast cancer;\n* Measurable disease according to Response Evaluation Criteria in Solid Tumors (RECIST);\n* \"Triple negative\" disease defined as \"tumor demonstrating no expression for estrogen, progesterone or HER2 receptors.\" (No expression is categorized as \u2264 10% of cells staining or Allred \u2264 2);\n* Aged 18 years or older;\n* Eastern Cooperative Oncology Group (ECOG)ECOG/Zubrod performance status of 0 or 1; life expectancy \u2265 3 months;\n* No prior chemotherapy for metastatic disease.\n* At least 6 months must have elapsed since prior adjuvant chemotherapy.\n* Laboratory tests performed within 14 days of study entry showing:\n\n  * Granulocytes \u2265 1,500/\u00b5L;\n  * Platelets \u2265 100,000/\u00b5L;\n  * Hemoglobin \u2265 9.0 gm/dL;\n  * Total bilirubin \u2264 institutional upper limit of normal (ULN);\n  * Aspartate transaminase (AST) and alanine aminotransferase (ALT) \u2264 2.5 times ULN;\n  * Alkaline phosphatase \u2264 5 times ULN;\n  * Estimated creatinine clearance \u2265 60 mL/min.\n  * Urine protein:creatinine ratio \u2264 1.0. or 24 hour urine protein collection demonstrating \u2264 1 gram of protein per 24 hours to be eligible.\n* left ventricular ejection fraction (LVEF) \u2265 50% by multiple gated acquisition scan (MUGA)/Echocardiogram;\n* Informed consent to receive protocol treatment:\n* Cognitive and communication skills adequate to comply with study and/or follow-up procedures;\n* Geographic proximity and ability to comply with weekly study visits for the duration of the treatment;\n* No reproductive potential:\n\n  * If pre-menopausal - Negative serum pregnancy test within 3 days prior to initiation of protocol-based treatment and patient agrees to use contraceptive method (abstinence, intrauterine device, barrier device with spermicide or surgical sterilization) during and for 3 months after completion of protocol treatment;\n  * If post-menopausal - Amenorrhea for \u2265 12 months or follicle stimulating hormone (FSH) within post menopausal range.\n\nExclusion Criteria:\n\n* Pregnant or breast feeding.\n* Prior treatment with Abraxane\u00ae or carboplatin.\n* Prior chemotherapy for metastatic breast cancer.\n* Known hypersensitivity to any component of any study drug.\n* Active infection.\n* Current neuropathy \u2265 grade 2.\n* central nervous system (CNS) metastases as determined by head CT with contrast or head MRI.\n* Uncontrolled congestive heart failure (CHF), or history of myocardial ischemia (MI), unstable angina, stroke, or transient ischemia within previous 6 months.\n* Uncontrolled serious contraindicated medical condition or illness.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

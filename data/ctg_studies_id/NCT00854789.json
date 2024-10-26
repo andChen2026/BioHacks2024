@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00854789",
+    "briefTitle": "Safety and Efficacy Study of HER2/Neu (E75) Vaccine in Breast Cancer",
+    "officialTitle": "Phase Ib Trial of HER2/Neu Peptide (E75) Vaccine in Node Negative Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 95,
+    "primaryOutcomeMeasure": "The primary endpoints are the safety and optimal dosing of the vaccine to induce an in vivo peptide-specific immune response.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Breast cancer and negative lymph nodes\n2. HLA-A2+ and/or HLA-A3+ to receive the vaccine. HLA-A2-, HLA-A3- patients will be eligible to be included in the control group.\n3. Immunologically intact with a good performance status (defined below).\n4. Without evidence of disease.\n5. Patients may enroll while receiving appropriate hormonal therapy for their disease.\n6. Completion of all standard first-line therapies (but may still be on hormonal therapy)\n\nExclusion Criteria:\n\n1. HLA-A2- and/or HLA-A3- patients will not be vaccinated\n2. Anergic by the Mantoux panel of recall antigens\n3. Receiving immunosuppressive therapy\n4. In poor health (Karnofsky \\<60%, ECOG \\>2)\n5. Tbili \\>1.5 mg/dL and creatinine\\>2 mg/dL\n6. Pregnancy (urine HCG)\n7. Active metastatic disease\n8. Involved in other experimental protocols (unless approval is first obtained by the other study PI)\n9. Refusal of standard therapies",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

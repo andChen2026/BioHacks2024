@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02005770",
+    "briefTitle": "Anesthesia and Circulating Tumor Cells in Breast Cancer",
+    "officialTitle": "Does Anesthesia Technique Affect the Presence of Circulating Tumor Cells in Primary Breast Carcinoma? A Randomised Controlled Trial.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Female Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 221,
+    "primaryOutcomeMeasure": "Number of CTC before and after administration of anesthetics",
+    "eligibilityCriteria": "Inclusion criteria: \\> Female\n\n* Age 18 to 85\n* ASA I-III\n* Primary breast cancer (TNM stage = T1-3, N0-2, M0)\n* Primary surgery\n* Written informed consent\n\nExclusion criteria:\n\n* Metastatic breast cancer\n* Other than primary surgery (recurrence, reconstruction)\n* Pre-operative chemotherapy or radiotherapy\n* Auto-immune disease, HIV, other active cancer, age\\>85, ASA IV or V\n* Concomitant regional anesthesia\n* Chronic opioids medication\n* Any systemic immunosuppressive therapy\n* Known hypersensitivity or suspected allergy to propofol, soya or egg proteins\n* Known hypersensitivity to volatile anesthetics (malignant hyperthermia)\n* Pregnancy\n* Breast feeding\n* Non German-speaking patients\n* Enrollment in any other clinical trial during the course of this trial, 30 days prior to its beginning or 30 days after its completion",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

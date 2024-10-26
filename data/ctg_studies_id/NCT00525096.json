@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00525096",
+    "briefTitle": "Exemestane + Celecoxib vs Exemestane + Placebo in Metastatic Breast Cancer",
+    "officialTitle": "A Multicenter Randomized Phase III, Double-blind Study Comparing Efficacy of the Association of Exemestane and Celecoxib Versus Exemestane and Placebo in Menopausal Patients With Metastatic Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 157,
+    "primaryOutcomeMeasure": "Progression free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Femal patient aged \\> 18 years\n* Histologically proven breast cancer\n* Menopausal patient according to the following definition:\n\n  * amenorrhoea \\> 1 year or menopause affirmed by a rate of oestradiol or hypophyseal gonadotrophin\n  * surgical ovariectomy\n  * treatment by LHRH analog\n  * ovarian suppression by radiotherapy\n  * amenorrhoea induced by chemotherapy \\> 1 year\n* Oestradiol and/or progesterone positive receptors\n* Presence of one or several metastatic lesion:\n\n  * mesurable lesion\n  * bone metastase were detected by bone scintigraphy\n* Patient who can have received:\n\n  * Adjuvant chemotherapy and/or hormonotherapy (Tamoxifen)\n  * Metastatic Treatment by chemotherapy\n* PS \\< 2\n* Adequate biological values\n* Patient who has clearly given her consent by signing on informed consent form prior to participation\n\nExclusion Criteria:\n\n* Patient previously treated with hormonotherapy in metastatic phase\n* Antecedent of treatment with aromatase inhibitors\n* local relapse (with the exception of cutaneous thoracic nodes)\n* Patient with only one metastatic lesion like: pleurisy , ascites, lung Lymphangitis carcinomatosa",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

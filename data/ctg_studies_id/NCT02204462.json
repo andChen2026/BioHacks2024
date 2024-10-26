@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02204462",
+    "briefTitle": "FBnTP Imaging of Breast Cancer",
+    "officialTitle": "FBnTP Positron Emission Mammography Imaging of Mitochondria Function - Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "Malignant breast cancer detection",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with newly-diagnosed invasive and/or intraductal breast cancer detected by core needle or vacuum-assisted biopsy (i.e., index cancer)\n* Age \\> 25 Ability and willingness to sign informed consent prior to any study procedure.\n* Positive indication of disease on mammogram or MRI scan.\n* Candidate for breast cancer surgery on the basis of recommendation of a breast cancer surgeon.\n* Ability to undergo up to 90 minutes of PEM imaging.\n\nExclusion Criteria:\n\n* Any active or chronic illness that, in the opinion of the investigators, would make the study unsafe or limit compliance with study procedures.\n* Past or present history of active substance abuse (drug or alcohol).\n* Inability to tolerate venous access.\n* Pregnant females are excluded from this study. All females of child-bearing potential will undergo a serum pregnancy test within 48 hours prior to FBnTP administration.",
+    "sex": "FEMALE",
+    "minimumAge": "26 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

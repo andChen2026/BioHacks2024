@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06328465",
+    "briefTitle": "fREEDOM: REsonance for Early Detection Of Breast Cancer Metastases",
+    "officialTitle": "fREEDOM: REsonance for Early Detection Of Breast Cancer Metastases",
+    "overallStatus": "RECRUITING",
+    "conditions": "Invasive Breast Cancer, HER2-positive Breast Cancer, Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 145,
+    "primaryOutcomeMeasure": "5-year overall survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pre or post-menopausal patient with histologically confirmed invasive breast cancer stage II - III HER2 + or TN operated breast carcinoma or patients underwent neoadjuvant treatment (included cT4d) with residual disease at definitive surgery\n* No evidence of distant metastases at baseline perioperative radiological staging (DWB-MRI, total body Computed Tomography (CT) or Positron Emission Tomography (PET/CT) must be performed +/- 1 month from surgery)\n* No relevant comorbidities\n* Eastern Cooperative Oncology Group (ECOG) performance status 0\n* Geographically accessible for follow up\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Absolute contraindications that exclude the execution of the MRI investigation, regardless of the clinical indication\n* Relative contraindications that include situations in which the innocuousness of the examination is not documented with certainty that therefore do not recommend the execution, except for serious indications related to the patient's clinical need\n* Older age (\\>75 years)\n* Previous or concomitant other malignancy except basal or squamous cell carcinoma of the skin or adequately treated in situ carcinoma of the cervix\n* Uncontrolled intercurrent illness including symptomatic congestive heart failure, unstable angina pectoris, or psychiatric illness/social situations that would limit compliance with study requirements",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

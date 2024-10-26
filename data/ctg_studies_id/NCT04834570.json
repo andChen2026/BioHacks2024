@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04834570",
+    "briefTitle": "Breast Cancer Survivors: Main Physical and Psychosocial Problems After Completion of Treatment",
+    "officialTitle": "Breast Cancer Survivors: Main Physical and Psychosocial Problems After Completion of Treatment",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 105,
+    "primaryOutcomeMeasure": "Change in Global Health Status by EORTC QLQ-C30 (European Organization for Research and Treatment of Cancer Core Quality of Life Questionnaire)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer\n* Adult women (age \u2265 20 years old and less than 60 years old)\n* Patient who has been treated by surgery, with or without adjuvant chemotherapy\n* Clinical Stages I, II and III\n* Patients considered cured, without history of recurrences\n* Patients who completed treatment within a minimum of 1 year and are currently being undergoing outpatient follow-up\n\nExclusion Criteria:\n\n* Initial diagnosis of another type of cancer, other than breast cancer\n* Bilateral breast cancer\n* Patient unable to fill out the QoL questionnaire\n* Patient with disease recurrence\n* Patient with metastatic breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT"
+}

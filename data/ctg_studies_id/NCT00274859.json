@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00274859",
+    "briefTitle": "Gemcitabine and Oxaliplatin in Treating Patients With Metastatic Cancer",
+    "officialTitle": "Multicenter Phase II Study Evaluating Gemcitabine and Oxaliplatin in the Treatment of Patients Suffering From Metastatic Breast Cancer Who Are Not Candidates For Treatment With Antracyclines and Taxanes",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Unspecified Adult Solid Tumor, Protocol Specific",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "Objective response rate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed cancer\n\n  * Metastatic disease\n* Measurable metastatic disease \u2265 1 cm by spiral CT scan and/or cutaneous lesion \u2265 2 cm\n* Not a candidate for anthracycline or taxane chemotherapy\n* No brain metastases\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status (PS) 0-2 OR Karnofsky PS 60-100%\n* Life expectancy \\> 12 weeks\n* Neutrophil count \\> 1,000/mm\\^3\n* Platelet count \\> 100,000/mm\\^3\n* Alkaline phosphatase \\< 5 times upper limit of normal (ULN)\n* Bilirubin \\< 1.5 times ULN\n* Creatinine \\< 1.5 times ULN OR creatinine clearance \\> 30 mL/min\n* SGOT and SGPT \\< 3 times ULN (5 times ULN if liver metastases present)\n* No pre-existing neuropathy\n* Not pregnant or nursing\n* No uncontrolled hypercalcemia\n* No familial, social, geographical, or psychological condition that would preclude study treatment\n* No other malignancy that is not considered cured\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior chemotherapy for metastatic disease, including anthracyclines or taxanes\n* Prior hormonal therapy allowed",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

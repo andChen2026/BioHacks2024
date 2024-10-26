@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00089479",
+    "briefTitle": "A Study of Xeloda (Capecitabine) in Women With High-Risk Breast Cancer",
+    "officialTitle": "A Randomized, Open-label Study of the Effect of Adjuvant Therapy With Adriamycin Plus Cytoxan Followed by Taxotere or Taxotere Plus Xeloda on Overall Survival in Female Patients With High-risk Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2611,
+    "primaryOutcomeMeasure": "Disease Free Survival [Number of Events]",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female patients 18-70 years of age;\n* adenocarcinoma of the breast;\n* previous invasive breast cancer if diagnosed \\>5 years before entering study;\n* no evidence of metastatic disease.\n\nExclusion Criteria:\n\n* history of severe hypersensitivity reaction to Taxotere;\n* previous treatment with anthracycline, anthracenedione (mitoxantrone), or taxane;\n* treatment with fluoropyrimidine (5-fluorouracil) within the last 5 years.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

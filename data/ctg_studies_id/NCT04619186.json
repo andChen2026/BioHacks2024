@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04619186",
+    "briefTitle": "Diffusion-Weighted MRI for Breast Cancer Screening in Women With a Personal History of Breast Cancer",
+    "officialTitle": "Comparison of Diffusion-Weighted MRI and Mammography Alone or Combined Mammography and Ultrasonography for Screening Women With a Personal History of Breast Cancer (DIMRISC-2 Study)",
+    "overallStatus": "SUSPENDED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1694,
+    "primaryOutcomeMeasure": "Cancer detection rate (CDR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women over 25 years of age at the time of enrollment\n2. Women who underwent breast conservation therapy or mastectomy and at increased risk of an interval second breast cancer (Age \\<50 at first cancer diagnosis; Breast density BI-RADS category 3 and 4; First degree family history; First breast cancer was an interval cancer or symptomatic presentation; First breast cancer was grade 2, 3 or ER and PR negative)\n\nExclusion Criteria:\n\n1. Women with signs or symptoms of breast cancer\n2. Women who had bilateral mastectomy\n\n4. Women who had known metastatic disease 5. Pregnant or lactating women 6. Women with claustrophobia or metallic foreign body",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

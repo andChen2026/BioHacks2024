@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05289258",
+    "briefTitle": "Unified Barlow Protocol (UP) in Cancer Survivors for Cognitive Impairments",
+    "officialTitle": "Effectiveness of Cognitive Rehabilitation and the Unified Barlow Protocol (UP) in Cancer Survivors for Cognitive Impairments: a Randomized Controlled Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cancer, Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 123,
+    "primaryOutcomeMeasure": "Functional assessment of Cancer Therapy-Cognitive Function, version 3. (FACT-Cog).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Cancer diagnosis, stages I-III.\n* Cancer type: Breast.\n* Have received the last chemotherapy session in the last 6 months and a maximum of 6 years of treatment completion.\n* Probable or mild to moderate cognitive impairment (score between 26 and 10 points according to the MMSE).\n* Ability to be fluent in Spanish.\n* Not currently participating in another clinical trial.\n* Not currently receiving other psychological treatment\n\nExclusion Criteria:\n\n* Men and women aged \\> 70 years.\n* Diagnosis of cancer, stage IV or other types of cancer.\n* Last chemotherapy session \\< 6 months or \\> 6 years.\n* No cognitive impairment (MMSE score between 30 and 27 points).\n* Diagnosis of mental disorder (including substance abuse) prior to cancer diagnosis.\n* Relapse in disease after chemotherapy treatment is completed.\n* Neurodevelopmental Disorder Diagnosis.\n* Diagnosis of diseases that affect cognitive performance such as: hypertension, cardiac diseases, epilepsy, dementias, multiple sclerosis, functional disorders (fibromyalgia, chronic fatigue syndrome, irritable bowel syndrome, post-concussion syndrome, whiplash syndrome), CNS infections (HIV, encephalitis), metabolic disorders (diabetes, B12 deficiency), obstructive sleep apnea, brain damage (stroke, TBI, CNS cancer) and use of medications / substances that interfere with cognitive function such as pregabalin, gabapentin, topiramate, antidepressants tricyclics, sodium valproate, anticholinergics, methylphenidate, typical antipsychotics.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01950182",
+    "briefTitle": "Trastuzumab Combined With Chemotherapy or Endocrine Therapy to Treat Metastatic Luminal B2 Breast Cancer",
+    "officialTitle": "A Multicentre, Randomized Study of Trastuzumab Combined With Chemotherapy or Endocrine Therapy as the First Line Treatment for Patients With Metastatic Luminal B2 Breast Cancer Subtype",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 392,
+    "primaryOutcomeMeasure": "progression-free survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age 18 years or older.\n2. Patients with an Eastern Cooperative Oncology Group (ECOG) score of 0 or 1.\n3. Histologically confirmed metastatic or local recurrence of breast cancer.\n4. ER positive and/or progesterone receptor (PR) positive, HER-2+ defined as immuno-histochemistry3+ staining or FISH+.\n5. Prior adjuvant Trastuzumab therapy is permitted, but disease-free interval (DFI) must be more than 12 months.\n6. Patients must have measurable or evaluable disease.\n7. Adequate bone marrow reserve with neutrophils \\> 1000 and platelets \\> 100,000.\n8. Adequate renal function with serum creatinine \\< 2.0.\n9. Adequate hepatic reserve with serum bilirubin \\< 2.0, alanine transaminase(ALT) \\< 3 times the upper limit of normal, and alkaline phosphatase \\< 5 times the upper limit of normal.\n10. Adequate cardiac reserve with at least 45% of Left ventricular ejection fraction (LVEF) by echocardiogram.\n11. Able to give informed consent.\n12. Life expectancy of at least 12 weeks.\n\nExclusion Criteria:\n\n1. Pregnant or breast feeding.\n2. ECOG score \u22672\n3. DFI \\<12 months.\n4. LVEF \\< 45% by echocardiogram.\n5. Uncontrolled medical problems.\n6. Evidence of active acute or chronic infection.\n7. Hepatic, renal, or bone marrow dysfunction as detailed above.\n8. Concurrent malignancy or history of other malignancy within the last five years except as noted above.\n9. Known severe hypersensitivity to Trastuzumab.\n10. Patients were unable or unwilling to comply with program requirements.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

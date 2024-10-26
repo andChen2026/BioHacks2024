@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04983238",
+    "briefTitle": "Evaluation of Safety and Efficacy of Sodium Thiosulfate (BYON5667) Eye Drops to Reduce Ocular Toxicity in Cancer Patients Treated With SYD985",
+    "officialTitle": "A Multicenter, Randomized, Double-blind, Placebo-controlled Trial With a Single Arm run-in Period to Evaluate the Safety and Efficacy of Sodium Thiosulfate (BYON5667) Eye Drops to Reduce Ocular Toxicity in Cancer Patients Treated With SYD985",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 48,
+    "primaryOutcomeMeasure": "Efficacy of BYON5667 eye drops by assessing the percentage of patients with SYD985-related ocular adverse events Grade >=1 at Day 63",
+    "eligibilityCriteria": "Main Inclusion Criteria:\n\n1. Male or female, age \u226518 years at the time of signing first informed consent;\n2. Patient with histologically-confirmed, unresectable locally advanced or metastatic cancer with the following restriction:\n\n   Single arm part: patient with solid tumours of any origin (excluding gastric tumours and adenocarcinomas of the gastroesophageal junction) who has progressed on standard therapy or for whom no standard therapy exists; Randomized part: patient with breast cancer who had either progression during or after at least two human epidermal growth factor receptor 2 (HER2)-targeting treatment regimens for locally advanced or metastatic disease, or progression during or after \\[ado-\\]trastuzumab emtansine treatment for locally advanced or metastatic disease;\n3. HER2 tumour status as determined by a local laboratory using immunohistochemistry (IHC) and/or in situ hybridization (ISH):\n\n   Single arm part: at least IHC 1+; Randomized part: IHC 3+ and/or ISH positive;\n4. Eastern Cooperative Oncology Group (ECOG) performance status \u2264 1;\n5. Patient should refrain from wearing any kind of contact lenses during trial treatment;\n6. Adequate organ function\n\nMain Exclusion Criteria:\n\n1. Current or previous use of prohibited medication as listed in the protocol\n2. History of infusion-related reactions and/or hypersensitivity to trastuzumab containing treatment or excipients of the trial treatments which led to permanent discontinuation of the treatment;\n3. History or presence of keratitis;\n4. Left ventricular ejection fraction (LVEF) \\< 50%, or a history of clinically significant decrease in LVEF during previous trastuzumab containing treatment leading to permanent discontinuation of treatment;\n5. History or presence of idiopathic pulmonary fibrosis, organizing pneumonia (e.g. bronchiolitis obliterans), drug-induced or idiopathic pneumonitis, or evidence of active pneumonitis on screening chest CT scan;\n6. History or presence of clinically significant cardiovascular disease;\n7. Severe, uncontrolled systemic disease;\n8. Symptomatic brain metastases, brain metastases requiring steroids to manage symptoms, or treatment for brain metastases within 8 weeks.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

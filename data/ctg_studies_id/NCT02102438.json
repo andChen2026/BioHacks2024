@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02102438",
+    "briefTitle": "Chemotherapy for Elderly Patients Diagnosed With Localized HER2 Positive Breast Cancer",
+    "officialTitle": "Neoadjuvant or Adjuvant Chemotherapy Without Anthracyclines for Elderly Patients Diagnosed With HER2 Positive Breast Cancer",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer, HER-2 Positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Disease Free Survival (DFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinical or Pathological Stage I- IIIA breast adenocarcinoma.\n* HER2 overexpression or amplification defined by immunohistochemistry staining of +3 or positive fluorescence in situ hybridization (FISH) test.\n* Age \u2265 65 years old.\n* WHO performance status less than 2; adequate hematologic (granulocyte count \u2265 2 X 109/L, platelet count \u2265100 X109/L) and hepatic (transaminases \u2264 1.5 X the upper limit of normal (ULN), alkaline phosphatases \u2264 2.5 times ULN, and bilirubin \u2264 ULN) tests; and normal cardiac function (baseline left ventricular ejection fraction at least \u2265 55%)\n\nExclusion Criteria:\n\n* Radiologic imaging of metastatic disease.\n* History of cardiac disease contraindicating anthracyclines, uncontrolled essential hypertension or diabetes, stroke or any other comorbidity that could potentially compromise chemotherapy treatment, such as chronic obstructive pulmonary disease.\n* Any previous treatment with anti HER2 therapy.",
+    "sex": "ALL",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01920061",
+    "briefTitle": "A Study Of PF-05212384 In Combination With Other Anti-Tumor Agents and in Combination With Cisplatin in Patients With Triple Negative Breast Cancer in an Expansion Arm (TNBC)",
+    "officialTitle": "A PHASE 1B OPEN-LABEL THREE-ARM MULTI-CENTER STUDY TO ASSESS THE SAFETY AND TOLERABILITY OF PF-05212384 (PI3K/MTOR INHIBITOR) IN COMBINATION WITH OTHER ANTI-TUMOR AGENTS",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 110,
+    "primaryOutcomeMeasure": "Number of Participants With Dose Limiting Toxicities (DLTs) - Arms A, B and C",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nCisplatin Combination Expansion:\n\nArm 1:Patients with TNBC with no prior cytotoxic chemotherapy therapy in the metastatic setting; Arm 2: Patients with TNBC and one or two prior cytotoxic therapies in the metastatic setting.\n\n* Arm A: castrate resistant prostate cancer, advanced breast cancer, or non-small cell lunch cancer that are candidates for treatment with a docetaxel-based combination.\n* Arm B: Urothelial transitional cell cancer, triple negative breast cancer, ovarian cancer or non small cell lunch cancer that are candidates for a cisplatin-based combination.\n* Arm C: Her2+ breast cancer refractory to prior herceptin or lapatinib, her2+ esophagal-gastric cancer, head and neck squamous cell cancer, or non small cell lunch cancer that are candidates for treatment with a dacomitinib-based combination.\n* Availability of archival tumor biopsy sample or willing to provide fresh biopsy if not available.\n* Eastern Cooperative Oncology Group \\[ECOG\\] performance must be 0 or 1.\n* Adequate bone marrow, renal and liver function.\n\nExclusion Criteria:\n\n* Prior therapy for Cisplatin Combination Expansion:\n\n  * Prior platinum (carboplatin or cisplatin) in either the adjuvant or metastatic setting;\n  * Prior radiation to \\>25% bone marrow as estimated by the Investigator.\n* Patients with known symptomatic brain metastases.\n* Chemotherapy, radiotherapy, biologics or investigational agent within 4 weeks of the lead-in dose.\n* Major surgery within 4 weeks of the baseline disease assessments.\n* \\>2 prior regimens containing cytotoxic chemotherapy in the metastatic setting.\n* Active bacterial, fungal or viral infection.\n* Uncontrolled or significant cardiovascular disease.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

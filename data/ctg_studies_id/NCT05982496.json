@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05982496",
+    "briefTitle": "18F FES-PET/MRI for Tailoring Treatment of Luminal A and Lobular Breast Cancer",
+    "officialTitle": "18F-FES PET/MRI for Tailoring Treatment of Luminal A and Lobular Breast Cancer: a Phase II Prospective Cohort Study Evaluating the Performance of FES PET/MRI in Axillary Staging Compared With Axillary Surgery",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer Female, Lobular Breast Carcinoma, PET/MRI, Axillary Lymphadenopathy, Luminal A Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 221,
+    "primaryOutcomeMeasure": "Sensitivity of FES PET/MRI in detecting macrometastatic axillary lymph nodes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients, age\\>= 18 yrs, diagnosed with primary or advanced breast cancer\n* LumA or ER-positive Lobular subtypes Cohort A\n\n  * candidates to surgery as first treatment regardless of cN\n  * ER-positive Her2 negative BC with ki67\\>10% Cohort B\n  * ER positive BC treated with induction ET Cohort C\n  * candidates to neoadjuvant chemotherapy Cohort D\n  * Metastatic LumA or ER-positive Lob BC, at first diagnosis or in progression\n\nExclusion Criteria:\n\n* ER-negative tumors\n* Pregnancy;\n* Contraindication to PET;\n* Contraindication to MRI;\n* Claustrophobia;\n* Allergy to the MR contrast agent;\n* Severe renal insufficiency",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

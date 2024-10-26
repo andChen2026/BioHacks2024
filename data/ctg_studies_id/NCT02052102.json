@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02052102",
+    "briefTitle": "Study to See Whether Breath-Hold Techniques During RT Are Effective in Helping to Improve Sparing of the Heart",
+    "officialTitle": "A Cohort Study Assessing Cardiac Function With MRI in Left-Sided Breast Cancer Patients Treated With Deep Inspiration Breath Hold (DIBH) Technique to Improve Cardiac Sparing During Adjuvant Radiotherapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Adverse Effect of Radiation Therapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 63,
+    "primaryOutcomeMeasure": "Radiation related acute and long term functional changes in patients treated with deep-inspiration breath hold compared to free-breathing technique",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with pathologically confirmed left sided breast cancer eligible for adjuvant breast/chest wall plus or minus regional nodal radiotherapy\n* Women patients with age group between 18 and 70 years old\n* Karnofsky performance score \u2265 70\n* Ability to hold breath for at least 20 sec (for DIBH cohorts only)\n* Life expectancy \\>10 years\n\nExclusion Criteria:\n\n* For patients with prior Anthracycline based chemotherapy or Herceptin, if there is \\< 1.0 cm of heart on at least 3 slices ( 3 mm slices) on the FB scan, the patient will be considered a screen failure.\n* Previously irradiated or recurrent breast/chest wall tumours or previous malignancy other than non-melanoma skin cancer unless disease free for a minimum of 5 years prior to study entry\n* Patients that require a shell for breast immobilization\n* Patients requiring a boost\n* Stage IV disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

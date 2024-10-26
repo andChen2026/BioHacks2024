@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02751710",
+    "briefTitle": "Impact of 18F-FDG PET-CT Versus Conventional Staging in the Management of Patients Presenting With Clinical Stage III Breast Cancer",
+    "officialTitle": "Impact of 18F-FDG PET-CT Versus Conventional Staging in the Management of Patients Presenting With Clinical Stage III Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Stage III Breast Cancer (T0N2, T1N2, T2N2, T3N1, 2 or T4), Stage IIb Breast Cancer (T3N0)",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 369,
+    "primaryOutcomeMeasure": "Proportion of patients upstaged to Stage IV disease",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women (or men) with histological evidence of breast cancer for whom potentially curative treatment is planned.\n* Based on clinical information (physical exam, imaging):\n\n  1. Stage III breast cancer (T0N2, T1N2, T2N2, T3N1, 2 or T4), or\n  2. Stage IIb breast cancer (T3N0), Note: T2N1 is not eligible\n* Considered for combined modality therapy (surgical resection, chemotherapy, radiotherapy) of curative intent.\n\nExclusion Criteria:\n\n* Age \\< 18 years,\n* ECOG performance status \\> and = 3,\n* Prior systemic therapy (e.g. neo-adjuvant chemotherapy or hormonal therapy) for current breast cancer,\n* Previous staging investigations for current breast cancer,\n* Breast cancer with primary histological subtypes other than ductal or lobular (Note: Patients with mixed disease will be eligible for randomization),\n* Clinical suspicion of metastatic disease,\n* Relative contraindications to PET (e.g. uncontrolled diabetes (i.e. inability to decrease serum glucose below 10.2 mmol/L), claustrophobia, inability to be still for 30 minutes),\n* Inability to lie supine for imaging with PET-CT,\n* Inability to undergo CT because of known allergy to contrast,\n* History of another invasive malignancy within the previous two years (exception of non melanoma skin cancer) or a synchronous primary cancer, including a synchronous contralateral breast cancer (Note: Patients found to have a contralateral breast cancer on study imaging following randomization will remain in the study),\n* Known pregnancy or lactating female,\n* Inability to complete the study or required follow-up.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

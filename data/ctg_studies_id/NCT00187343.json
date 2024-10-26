@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00187343",
+    "briefTitle": "A Clinical Trial to Reduce Skin Burn Induced by Breast Radiotherapy Using Intensity Modulated Radiation Therapy (IMRT)",
+    "officialTitle": "A Phase III Study of Adjuvant Radiation Therapy in Early Breast Cancer Comparing the Use of Breast Intensity Modulated Radiation Therapy (IMRT) to Conventional Wedge Technique",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 340,
+    "primaryOutcomeMeasure": "Maximum skin toxicity measured weekly during the tratment and bi-weekly up to one month after the end of the treatment and complete resolution of skin reaction using the NCI common toxicity criteria version 3.0 scale",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* A confirmed histological diagnosis of breast carcinoma or DCIS;\n* Treated by breast conserving surgery;\n* Adjuvant radiation to the breast only (less than 3 positive lymph nodes);\n* Having a ECOG performance status of 0 or 1.\n* Having signed an informed consent.\n\nExclusion Criteria:\n\n* Patients treated by mastectomy;\n* Bilateral breast cancer;\n* Having an unhealed surgical scar (skin not closed and/or infection);\n* Having had prior radiation to the same breast;\n* Having active connective tissue disorder;\n* Patient being pregnant.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

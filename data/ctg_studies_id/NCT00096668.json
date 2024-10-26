@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00096668",
+    "briefTitle": "Evaluation of Safety and Efficacy of TOCOSOL(R) Paclitaxel as Initial Treatment for Metastatic Breast Cancer",
+    "officialTitle": "A Phase 2 Multicenter Evaluation of the Safety and Efficacy of TOCOSOL(R) Paclitaxel (S-8184 Paclitaxel Injectable Emulsion) as Initial Treatment of Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 47,
+    "primaryOutcomeMeasure": "Tolerability",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patient with histologic diagnosis of breast carcinoma\n* Stage IV (M1) disease\n* No prior cytotoxic chemotherapy regimen for treatment of metastatic breast cancer\n* Adult (18 years of age or older) patients\n* Adequate hematologic function (ANC \\>=1500 cells/mm3 and platelets \\>100,000/mm3\n* Serum creatinine \\<=2.0 mg/dL\n* Total bilirubin \\<=1.5 mg/dL\n* AST/SGOT and ALT/SGPT \\<=3 times the upper limit of institutional normal values\n* PT and PTT within institutional normal range\n* ECOG performance status of 0-2\n* At least one unidimensionally measurable lesion as defined by RECIST criteria assessable by radiographic evaluation\n* A signed IRB/Ethics Committee approved Informed Consent\n* Life expectancy of at least 12 weeks\n* Fully recovered from any previous surgery\n* A negative pregnancy test prior to study entry if premenopausal\n* Agree not to take Vitamin E supplementation while receiving study medication\n\nExclusion Criteria:\n\n* Any prior taxane-containing chemotherapy including Taxol or Taxotere\n* Patients who are pregnant or lactating\n* Peripheral neuropathy NCI-CTC grade 2 or greater\n* Wide-field radiation, hormonal therapy or trastuzumab within 4 weeks of first dose of study drug; cytotoxic chemotherapy within 6 months of first dose of study drug\n* Treatment with an investigational agent within 4 weeks of first dose of study drug\n* Patients with a history of carcinomas of primary sites which can not be distinguished histologically from metastatic breast carcinoma\n* Bone metastasis, effusions, ascites or elevated tumor markers as the only evidence of metastatic breast carcinoma\n* Brain metastases\n* Active bowel obstruction\n* Active, serious infection or other serious medical problems (other than metastatic breast cancer) likely to impair completion of the study protocol\n* Concurrent therapy with known substrates or inhibitors of the cytochrome P450 isoenzymes CYP2C8 or CYP3A4\n* Concurrent therapy with warfarin or other coumarin derivatives",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

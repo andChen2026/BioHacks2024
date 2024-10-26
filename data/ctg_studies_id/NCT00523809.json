@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00523809",
+    "briefTitle": "Allogeneic Hematopoietic Stem Cell Transplantation With Bevacizumab for Advanced Solid Tumor",
+    "officialTitle": "Nonmyeloablative Allogeneic Hematopoietic Stem Cell Transplantation With Bevacizumab for Advanced Solid Tumor",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Ovarian Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 5,
+    "primaryOutcomeMeasure": "Progression-free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. From Age 18 to Age \\</= 65 years old.\n2. Patients must have one of the following diseases. 1) metastatic breast cancer which achieved a tumor response (complete response (CR) or partial response (PR)) by pre-transplant therapy. For bone only metastatic breast cancer, a tumor response of stable disease (SD) is accepted. 2) low grade advanced ovarian cancer 3) high grade advanced ovarian cancer which achieved antitumor response (CR or PR) by pre-transplant therapy.\n3. Zubrod performance status \\</= 1.\n4. An HLA-matched (6/6 matches) related donor or unrelated donor (8/8 matches) willing and able to donate peripheral blood stem cell (PBSC) or bone marrow and/or lymphocytes by conventional techniques.\n5. Requirement of prior treatment. For metastatic renal cell carcinoma (RCC) two prior treatments, which include targeted therapy (e.g. Sorafenib and Stutent). For breast and ovarian cancer, one prior treatment which include chemotherapy.\n6. Adequate major organ functions.\n7. Signed informed consent.\n8. Left ventricular ejection fraction \\>/= 45%. Cardiology clearance is needed if the patient has left ventricular ejection fraction of \\< 45%, uncontrolled arrhythmias, or symptomatic cardiac disease.\n9. Forced expiratory volume in 1 second (FEV1), Forced vital capacity (FVC), and carbon monoxide diffusing capacity (DLCO) \\>/= 50% of predicted value. Pulmonary clearance is needed if the patient has FEV1, FVC, or DLCO \\< 50% of predicted valued or any symptomatic pulmonary disease.\n10. Serum creatinine \\</= 2.0 mg/dL, or creatinine clearance \\> 40 mL/min.\n11. Serum bilirubin \\</= 1.5 mg/dL, and serum glutamic-pyruvic transaminase (SGPT) \\</= 3 \\* upper limit of normal.\n\nExclusion Criteria:\n\n1. Prior history of allogeneic stem cell transplantation.\n2. Life expectancy is severely limited by concomitant illness.\n3. Clinically significant active infections.\n4. HIV infection.\n5. Chronic active hepatitis.\n6. Pregnant or lactating women.\n7. Presence of, or prior history of multiple brain metastasis. If patient has prior single brain metastasis treated with complete surgical resection or stereotactic radiation therapy, radiological imaging has to demonstrate no recurrence or no brain edema for at least 6 months from the end of the treatment.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

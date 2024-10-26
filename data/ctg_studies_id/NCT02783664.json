@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02783664",
+    "briefTitle": "Evaluating the Effects of Genetic Testing on Patients' Stress Levels",
+    "officialTitle": "Evaluating the Effects of Genetic Testing on Patients' Stress Levels",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 164,
+    "primaryOutcomeMeasure": "Measure anxiety at baseline using the State-Trait Anxiety Inventory.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females 18 years or older.\n* Identified as currently diagnosed with breast cancer within the past six months or are classified as being at high risk for developing breast cancer (i.e., they have a family history of cancer that puts them at risk for breast cancer) by the Froedtert Hospital \\& Medical College of Wisconsin Cancer Genetics Screening Program.\n\nExclusion Criteria:\n\n* Prior genetic testing for breast cancer.\n* Patient is a referral for genetic testing from an outside hospital system for whom there is no access to outside medical records.\n* Past medical history of breast cancer (not including a current diagnosis of breast cancer within the past six months).\n* Current or past history of ovarian cancer.\n* Known family history of a BRCA1/2 mutation or cancer susceptibility genetic mutation.\n* Patients who are seen in the day hospital for genetic counseling while they are being administered chemotherapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

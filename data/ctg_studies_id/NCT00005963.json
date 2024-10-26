@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00005963",
+    "briefTitle": "Docetaxel and Carboplatin in Treating Women With Metastatic Breast Cancer",
+    "officialTitle": "Phase II Trial of Docetaxel and Carboplatin as First-Line Therapy for Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 53,
+    "primaryOutcomeMeasure": "objective response rate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS: Histologically proven metastatic adenocarcinoma of the breast Measurable disease At least 20 mm in at least 1 dimension Hormone receptor status: Not specified\n\nPATIENT CHARACTERISTICS: Age: 18 and over Sex: Female Menopausal status: Not specified Performance status: ECOG 0-2 Life expectancy: At least 3 months Hematopoietic: Granulocyte count at least 1,500/mm3 Platelet count at least 100,000/mm3 Hepatic: Bilirubin no greater than upper limit of normal (ULN) SGOT/SGPT no greater than 2.5 times ULN Alkaline phosphatase no greater than ULN OR SGOT/SGPT no greater than ULN Alkaline phosphatase no greater than 4 times ULN Renal: Creatinine no greater than 1.5 times ULN Cardiovascular: No myocardial infarction within the past 6 months No congestive heart failure No unstable angina No clinically significant pericardial effusion or arrhythmia Other: No other invasive malignancy within the past 5 years except curatively treated basal cell or squamous cell skin cancer or carcinoma in situ of the cervix No active unresolved infection No prior hypersensitivity reaction to docetaxel No grade 2 or greater sensory or motor neuropathy Not pregnant or nursing Negative pregnancy test Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY: Biologic therapy: No concurrent prophylactic filgrastim (G-CSF) during the first course of study therapy Chemotherapy: No prior chemotherapy for metastatic disease Prior adjuvant chemotherapy allowed More than 1 year since prior paclitaxel, docetaxel, cisplatin, or carboplatin No other concurrent chemotherapy Endocrine therapy: Not specified Radiotherapy: At least 4 weeks since prior radiotherapy to breast, chest wall, or axilla No prior radiotherapy to greater than 30% of bone marrow No concurrent radiotherapy Surgery: At least 4 weeks since prior major surgery and recovered Other: More than 7 days since prior IV antibiotics No concurrent experimental drugs",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

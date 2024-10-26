@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00807859",
+    "briefTitle": "Safety Study of AMG 386 to Treat HER2-positive Locally Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "An Open-Label Study of AMG 386 in Combination With Either Paclitaxel and Trastuzumab or Capecitabine and Lapatinib in Subjects With HER2-positive Locally Recurrent or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Breast Neoplasms, Breast Tumors, Cancer, Locally Recurrent and Metastatic Breast Cancer, Metastases, Metastatic Cancer, Oncology, Solid Tumors, Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 65,
+    "primaryOutcomeMeasure": "Primary objective is to identify the incidence of adverse events and clinical laboratory abnormalities defined as a dose limiting toxicity in subjects treated with AMG 386 plus paclitaxel and trastuzumab or with AMG 386 plus capecitabine and lapatinib",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histologically or cytologically confirmed adenocarcinoma of the breast with locally recurrent or metastatic disease not amenable to any local treatment with curative intent.\n* HER2-positive by FISH, CISH, or IHC 3+\n* ECOG performance status 0 or 1\n* Left ventricular ejection fraction greater than or equal to institutional lower limit of normal\n* Adequate laboratory studies (hematological, chemistries and urinalysis)\n* Life expectancy greater than or equal to 3 months\n* Cohort A only:\n* Trastuzumab na\u00efve or trastuzumab in the neo-adjuvant setting\n* No clinically significant drop in cardiac function prior exposure to trastuzumab\n* No prior chemotherapy for metastatic or locally recurrent breast cancer\n* No prior lapatinib therapy\n* At least 3 weeks from enrollment since prior chemotherapeutic agents, including taxanes, in the neoadjuvant or adjuvant setting\n* At least 3 months from enrollment since prior trastuzumab in the neoadjuvant or adjuvant setting\n* Cohort B only:\n* Must have failed trastuzumab in the first-line metastatic setting. Trastuzumab must be discontinued for at least 3 weeks prior to enrollment\n* Must have received prior chemotherapy as adjuvant therapy or for metastatic disease\n* Prior chemotherapy treatment must be discontinued for at least 3 weeks prior to enrollment\n* No prior capecitabine\n* No prior lapatinib\n\nExclusion Criteria:\n\n* Inflammatory breast cancer\n* Central nervous system metastasis\n* Clinically significant cardiovascular disease\n* Radiation therapy \u2264 14 days prior to enrollment.\n* Concurrent anticoagulation therapy, excluding aspirin, anti-platelet agents, low molecular weight heparin or low dose warfarin per protocol.\n* Uncontrolled hypertension defined as diastolic blood pressure \\> 90 mmHg OR systolic blood pressure \\> 140 mmHg.\n* Subjects with a history of prior malignancy, except:\n* For Cohort B only:\n* Current or prior history of long QT syndrome\n* Baseline ECG report of QTc interval of \\> 480 milliseconds\n* Severe chronic liver disease (Child Pugh C)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

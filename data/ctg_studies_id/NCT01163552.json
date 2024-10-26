@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01163552",
+    "briefTitle": "Heated Chemotherapy for Cancers That Have Spread to the Chest Cavity",
+    "officialTitle": "Surgical Cytoreduction Followed by Intraoperative Intrathoracic Hyperthermic Chemotherapy Perfusion for the Management of Disseminated Pleural Malignancies",
+    "overallStatus": "COMPLETED",
+    "conditions": "Pleural Metastases, Breast Cancer, Colon Cancer, Ovarian Cancer, Uterine Cancer, Renal Cell Cancer, Thymic Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 5,
+    "primaryOutcomeMeasure": "Time to disease progression",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Adults aged 18-75 years\n2. Radiographic evidence of pleural dissemination with histologically or cytologically confirmed diagnosis.\n3. Primary source control (breast, ovarian, uterine, colon, renal cell, thymic cancer)\n4. Adequate liver and renal function defined as a bilirubin of \\< 2.0 mg/dl, albumin \\> 3.0g/dl, and a creatinine of \\< 1.5 mg/dl, respectively.\n5. Absolute neutrophil count (ANC) of \u22651,500/mm3 and a platelet count \u2265100,000/mm3.\n6. A Karnofsky Performance Status score of \u226560\n\nExclusion Criteria:\n\n1. Patients without satisfactory oncological control of their primary cancer.\n2. Radiographic evidence of abdominal, pelvic, or intracranial metastatic disease.\n3. Chemotherapy and/or radiotherapy must have been completed at least one month prior to entry in the study. Patients may not receive concurrent chemotherapy, immunotherapy, radiotherapy, or any investigational drugs while participating in this study.\n4. Significant active medical disease including, but not limited to:\n\n   * Cardiac disease, including: congestive heart failure or angina pectoris; recent (within 1 year) history of a myocardial infarction; uncontrolled hypertension; arrhythmias.\n   * Active infections\n   * Uncontrolled diabetes mellitus\n   * Chronic renal insufficiency\n   * HIV/AIDS - routine HIV testing will not be performed, but patients known to be HIV positive will be excluded.\n5. Pregnant or lactating women.\n6. Allergy to intravenous contrast",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

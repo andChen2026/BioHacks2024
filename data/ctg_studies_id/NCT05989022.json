@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05989022",
+    "briefTitle": "Comparison of Low-dose Spiral Breast CT With MRI in Major Indications of MRI for Breast Diagnostics",
+    "officialTitle": "Comparison of Low-dose Spiral Breast CT With MRI in Major Indications of MRI for Breast Diagnostics",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Diagnosis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 428,
+    "primaryOutcomeMeasure": "Non-inferiority of CE-BCT compared with CE-MRI in Breast Cancer diagnosis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Sex: female\n2. Age: at least 18 years\n3. Inconclusive findings in conventional imaging or preoperative staging or evaluation of therapy response in the neoadjuvant chemotherapy setting or imaging of the breast after breast-conserving therapy or finding the cause of hemorrhagic nipple discharge or prosthesis imaging or screening of women with hereditary or familial increased risk for the development of breast cancer or axillary lymph node metastasis suspected to originate from breast tissue\n4. Persons able and willing to understand and sign informed consent form\n\nExclusion Criteria:\n\n1. Known pregnancy or breastfeeding\n2. Presence of BRCA1 or BRCA2 allele\n3. Insufficient renal function (MDRD)\n4. Dysfunction of the thyroid gland (TSH degradation)\n5. Known allergy or intolerance against iodine-containing contrast enhancing agents or MRI contrast enhancing agents\n6. Patients with paramagnetic or magnetic material inside the breast, claustrophobia",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

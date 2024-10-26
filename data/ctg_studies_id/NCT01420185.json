@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01420185",
+    "briefTitle": "Identification of Genes That Predict Local Recurrence in Samples From Patients With Breast Cancer Treated on NSABP-B-28",
+    "officialTitle": "Molecular Predictors of Loco-Regional Recurrence in Node Positive Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1300,
+    "primaryOutcomeMeasure": "Association between low, intermediate, and high 21-gene recurrence score (RS) and risk of LRR",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosed with breast cancer and enrolled on NSABP-B-28.\n\n  * Estrogen-receptor positive (ER+)\n  * Node-positive disease\n* Primary tumor tissue samples available\n* Treated with cyclophosphamide and doxorubicin hydrochloride and tamoxifen with or without paclitaxel\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02850302",
+    "briefTitle": "Triple Negative Breast Cancer: Identification Pilot Study of Predictive Transcriptome Profiles of Early Tumor Drug Resistance Observed in 18F-Fluorodeoxyglucose (FDG) PET",
+    "officialTitle": "N/A",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 23,
+    "primaryOutcomeMeasure": "Variation of mutational profile",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women more than 18 years old\n* breast cancer recently diagnosis (no prior treatment), histologically proven\n* stade II or III in the \"International union against cancer\"(UICC) classification\n* non metastatic patient\n* Eastern Cooperative Oncology Group (ECOG) 0 or 1\n* Negativity of estrogen and progesterone receptor of the tumor (\\<10%)\n* Absence of overexpression of HER2 according to the classification Immunohistochemistry (IHC) - score 0 or 1+\n* Patient having read the information note\n* written, dated and signed Informed consent\n\nExclusion Criteria:\n\n* Unresectable breast cancer, bilateral, inflammatory (T4d) or metastatic.\n* Unbalanced diabetes during PET scans (glucose more or equal to 9 mmol)\n* Small breast cancer indication with first-conserving surgery\n* Treated breast cancer history\n* Pregnancy or breastfeeding\n* Refusal of the patient for trial participation\n* Private Person of liberty under supervision or under curators\n* Inability to submit to medical follow-up testing for social or psychological reasons\n* No affiliation to a social security scheme or medical state aid or the universal medical coverage\n* Known allergy or hypersensitivity to 18F-fluorodeoxyglucose\n* Patients with known renal impairment (creatinine clearance \\<60 ml / min / 1.73m2) or a known hepatic failure\n* Patients with a strict regime without salt (sodium levels may be higher than 1 mmol in a dose of 18 FDG).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

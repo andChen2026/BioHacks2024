@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03425656",
+    "briefTitle": "Comparing Efficacy and Safety of AryoGen Pharmed Biosimilar Trastuzumab (AryoTrust) Versus Herceptin\u00ae in Breast Cancer",
+    "officialTitle": "A Phase III, Randomized, Two-armed, Triple Blinded, Parallel, Active Controlled Non-Inferiority Clinical Trial of AryoTrust (AryoGen Trastuzumab) Efficacy and Safety in Comparison to Herceptin (Genentech) in HER2-Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Malignant Neoplasm of Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 108,
+    "primaryOutcomeMeasure": "Pathologic Complete Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 18-70 years old female patients\n* Patients with newly diagnosed stage III (locally advanced) or inoperable stage II (due to sizes larger than 5 cm or high tumor to breast ratio) tumors are candidates for participation.\n* Willing and able to sign an informed consent\n* Pathological diagnosis of adenocarcinoma of the breast\n* ECOG status of 0-1\n* With any ER/PR status\n* HER2 positive (Immunohistochemical (IHC) 3+ intensity, amplification of the HER2 gene on fluorescence in situ hybridization (FISH+ ) or HER2 positive results of Chromogenic in situ hybridization (CISH+)).\n\nExclusion Criteria:\n\n* Clinical or radiologic evidence of metastatic disease\n* History of any other malignancy including previous breast cancer, second non-breast malignant disease\n* History of previous chemotherapy\n* Left ventricular ejection fraction \\[LVEF\\] \\<55% confirmed by echo cardiogram within 3 months before registration, Any prior myocardial infarction, History of documented congestive heart failure (CHF),Any prior history of arrhythmia or cardiac valvular disease requiring medications or clinically significant, Current use of medications for treatment of angina pectoris, Current uncontrolled hypertension (diastolic \\> 100 mmHg or systolic \\> 200 mmHg), A severe conduction abnormality (having pacemaker or diagnosed by the ECG) and any other significant cardiovascular disease.\n* Hematologic abnormalities including baseline Absolute Neutrophil Count (ANC) of \u22641,500/\u00b5L or platelet count \u2264 100,000/\u00b5L\n* Liver dysfunction including : (baseline)\n\n  * Alanine amino transferase (ALT) and/or aspartate amino transferase (AST) \u2265 3 Upper Limit Normal (ULN)\n  * Alkaline phosphatase (ALP) \u22653 \u036f ULN\n  * serum total bilirubin \\> 1.5 ULN\n* Renal dysfunction, defined as serum creatinine \u22652.5 mg/dL\n* Pregnant, lactating women or women of childbearing potential who are not willing to use adequate contraception",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01747720",
+    "briefTitle": "Vitamin D and Mammographic Breast Density",
+    "officialTitle": "A Randomized Double-blind Placebo-controlled Trial of the Effect of Vitamin D Supplementation on Breast Density in Premenopausal Women",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 405,
+    "primaryOutcomeMeasure": "Mammographic breast density",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* be premenopausal at baseline;\n* have breast density of at least 20% at baseline;\n* have normal baseline serum calcium (2,12-2,60 mmol/L) and serum creatinine (45-85 \u03bcmol/L);\n* agree to have her mammogram at 12 months of follow-up at the same mammography clinic (same site) as the one where the mammogram at recruitment was done.\n\nExclusion Criteria:\n\n* taking \\> 400 IU/day of supplemental vitamin D and refusing to reduce (\u2264 400 IU/day) or cease such intake;\n* taking \\> 600 mg/day of supplemental calcium and refusing to reduce (\u2264 600 mg/day) or cease such intake;\n* have contra-indications for use of vitamin D supplementation (hypersensitivity to vitamin D or its analogues; a history of renal calculi or hypercalcemia, hypervitaminosis D);\n* taking medication suspected to interact with vitamin D: frequent use of antacids containing magnesium or aluminium; regular use of anticonvulsants (phenytoin, phenobarbital), digoxin, cholestyramine, colestipol, orlistat, mineral oil;\n* have a personal history of breast cancer;\n* have a personal history of cancer other than non-melanoma skin cancer within 5 last years;\n* have had breast reduction or augmentation including breast implantation (or planning to undergo such surgery during the trial);\n* be pregnant or planning a pregnancy in the next year.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

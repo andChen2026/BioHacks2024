@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04247633",
+    "briefTitle": "High Risk ER+HER2- T1-2N0-1 Early Breast Cancer With Palbociclib Plus Endocrine Therapy(HIPEx)",
+    "officialTitle": "Single-arm Phase II Study of Palbociclib Plus Endocrine Therapy in Patients With High Risk ER-positive/HER2-negative T1-2N0-1 Early Breast Cancer Incorporating GenesWell\u2122 BCT",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 578,
+    "primaryOutcomeMeasure": "3-year event-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patient is an adult, \u2265 19 years old at the time of informed consent\n2. Premenopausal and postmenopausal women or men with invasive breast cancer\n3. De novo primary disease\n4. Patient who performed surgery with curative aim\n5. Patient who has negative surgical resection margins\n6. Patient with histologically confirmed HER2-negative breast cancer\n7. Patient with histologically and cytologically confirmed ER positive breast cancer by local laboratory testing\n8. Pathological node assessment: pN0 or pN1\n9. Tumor size \u2265 0.5 cm, and T1 or T2\n10. Clinical High-Risk (Clinical high-risk patients as per the modified Adjuvant! Online guideline in the clinical trial MINADCT(Microarray in Node Negative Disease May Avoid Chemotherapy), refer to section 5.2.1)\n11. Genomic High-Risk in BCT score (\u2265 4)\n12. Patients agreed to use effective contraception or not be of childbearing potential.\n13. Patient has adequate bone marrow and organ function\n14. Patient has an Eastern Cooperative Oncology Group (ECOG) performance status \u2264 1\n15. Patient who is able to swallow and retain oral medication\n16. A FFPE tumor sample must be available for inclusion. The tumor sample must be taken from the excised primary tumor\n\nExclusion Criteria:\n\n1. Patient with recurred breast cancer\n2. Patient with histologically confirmed ER negative\n3. Patient with histologically confirmed HER2-positive\n4. Pathological node assessment: pN2 or pN3\n5. Patients has received neoadjuvant chemotherapy or endocrine therapy\n6. Patient has received preoperative treatment with CDK 4/6 inhibitors.\n7. Patient has received preoperative radiation therapy\n8. Tumor size less than 0.5 cm\n9. Patients with low clinical risk group (section 5.2.1)\n10. Patients who low BCT risk group (BCT score\\<4)\n11. Patients with lactose intolerance\n12. Patients with a hypersensitivity to IP and/or components of IP\n13. Pregnant women, women of childbearing potential or lactating women\n14. Patients who have serious underlying co-morbidities which could cause end-organ dysfunction\n15. A FFPE tumor sample is not available",
+    "sex": "ALL",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

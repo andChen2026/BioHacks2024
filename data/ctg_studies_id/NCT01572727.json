@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01572727",
+    "briefTitle": "A Study of the Experimental Drug BKM120 With Paclitaxel in Patients With HER2 Negative, Locally Advanced or Metastatic Breast Cancer, With or Without PI3K Activation",
+    "officialTitle": "A Randomized, Double-blind, Placebo Controlled, Phase II/III Study of BKM120 Plus Paclitaxel in Patients With HER2 Negative Inoperable Locally Advanced or Metastatic Breast Cancer, With or Without PI3K Pathway Activation.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 416,
+    "primaryOutcomeMeasure": "Progression-free Survival (PFS)Assessed by Local Investigator's Assessment (Phase ll)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer that is locally advanced or metastatic\n* HER2 negative disease, and a known hormone receptor status - ER/PgR (common breast cancer classification tests)\n* A tumor sample must be shipped to a central lab for identification of biomarkers (PI3K activation status) before randomization\n* Adequate bone marrow and organ function\n* Measurable or non-measurable disease\n\nExclusion Criteria:\n\n* Prior chemotherapy for locally advanced or metastatic disease\n* Previous treatment with PI3K or AKT inhibitors\n* Patient has symptomatic CNS metastases\n* Concurrent malignancy or malignancy within 3 years of study enrollment\n* Hematopoietic colony-stimulating growth factors or radiation within 2-4 weeks prior to starting study drug\n* Increasing or chronic treatment (\\> 5 days) with corticosteroids or another immunosuppressive agent\n* Active heart (cardiac) disease as defined in the protocol\n* Known hypersensitivity or contraindications to use paclitaxel\n* Pregnant or nursing (lactating) woman\n* Certain scores on an anxiety and depression mood questionaire given at screening\n* Other protocol defined criteria may apply",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04962425",
+    "briefTitle": "Risk Assessment Model of Trastuzumab-related Cardiotoxicity in Breast Cancer Patients",
+    "officialTitle": "Risk Assessment Model of Trastuzumab-related Cardiotoxicity in Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Cardiac Toxicity, Antitumor Drugs, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 240,
+    "primaryOutcomeMeasure": "Cardiac toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patients diagnosed with HER2-positive breast cancer treated in our hospital.\n2. Surgical treatment combined with chemotherapy or radiotherapy was completed according to NCCN guidelines, and trastuzumab standard treatment was received for at least half a year.\n\n(3) Cardiac function (including echocardiography or biomarkers) was assessed at least once within 3 months before trastuzumab treatment, and at least once during or after treatment was performed for heart-related tests.\n\n(4) Complete case data.\n\nExclusion Criteria:\n\n1. Patients who have not been properly treated with trastuzumab or have been treated for less than half a year;\n2. Patients who did not receive cardiac function assessment before trastuzumab treatment, during or after treatment;\n3. Patients whose case data were missing or lost to follow-up.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02616432",
+    "briefTitle": "Tomosynthesis Mammographic Imaging Screening Trial",
+    "officialTitle": "Tomosynthesis Mammography Imaging Screening Trial Lead-in",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 3065,
+    "primaryOutcomeMeasure": "Diagnostic Accuracy of DBT vs FFDM - AUC under ROC comparison",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Asymptomatic women age 40 and over\n* Scheduled for screening mammogram\n* Able to tolerate digital breast tomosynthesis and full-field digital mammographic imaging required by protocol\n* Willing and able to provide a written informed consent.\n\nExclusion Criteria:\n\n* Presenting for mammography with symptoms of breast disease\n* Have new breast complaints (e.g. lump, nipple discharge)\n* Have had a mammogram of both breasts within the last 11 months\n* Previous personal history of breast cancer\n* Has breast enhancements (e.g. implants or injections)\n* Pregnancy or intent to become pregnant.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

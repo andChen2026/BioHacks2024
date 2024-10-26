@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00594477",
+    "briefTitle": "Intensity Modulated Radiotherapy for Breast Cancer",
+    "officialTitle": "Intensity Modulated Radiation Therapy for Breast Cancer: A Phase I Feasibility Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Evaluate the feasibility of adjuvant comprehensive radiation therapy via IMRT with daily set-up position verified using 3D verification",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female gender\n* Age \u2265 18 years\n* Invasive primary female breast cancer\n* Pathologically proven regional nodal metastasis\n* Status post mastectomy or partial mastectomy with an assessment of axillary nodes via sentinel lymph node biopsy and/or axillary lymph node dissection.\n* Signed study specific consent form\n\nExclusion Criteria:\n\n* Distant metastasis\n* Currently Pregnant\n* Psychiatric or addictive disorders that preclude informed consent\n* Time from initial diagnosis to the start of radiation therapy \\> one year\n* Estimated life expectancy judged to be \\< one year\n* Prior radiation to the ipsilateral breast or chest wall\n* Primary breast cancer is lymphoma or sarcoma\n* Patients being treated with concurrent chemotherapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

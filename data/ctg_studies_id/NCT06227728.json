@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06227728",
+    "briefTitle": "Analysis of PD-L1, TMB, MSI and ctDNA Dynamics to Predict and Monitor Response to Immunotherapy in Metastatic Cancer.",
+    "officialTitle": "Analysis of PD-L1, TMB, MSI and Circulating Tumor DNA Dynamics to Predict and Monitor Response to Immunotherapy in Metastatic Cancer.",
+    "overallStatus": "RECRUITING",
+    "conditions": "Non Small Cell Lung Cancer, Breast Cancer, Colorectal Cancer, Gastric Cancer, Liver Cancer, Advanced Cancer, Immune Checkpoint Inhibitor",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "To investigate the relationship between ctDNA dynamics and clinical response to immune checkpoint inhibitors (ICIs) (assessed by RECIST 1.1).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 18 years and older, both genders.\n* Patients are diagnosed with stage IV cancer (lung, colorectal, breast, liver, gastric...) and indicated for ICI (first or second line). Concurrent chemotherapy with ICI is allowed.\n* FFPE/FNA sample is available.\n* Compliant with treatment protocol.\n* Patients consented to participate in the study.\n\nExclusion Criteria:\n\n* Patients already started ICI before enrollment.\n* Consolidation ICI (eg. Durvalumab).\n* Patients already started chemotherapy before enrollment.\n* Medical or psychiatric conditions or occupational responsibilities that may preclude compliance with the protocol.\n* Patients did not agree to participate in the studies.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

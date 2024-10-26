@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04320030",
+    "briefTitle": "[18F]-DPA-714 PET/CT (Positron Emission Tomography/Computerized Tomography) in Triple Negative Breast Cancers",
+    "officialTitle": "Pilot Feasibility Study: Inflammation and Presence of M2 Macrophages Explorations With[18F]-DPA-714 PET/CT in Triple Negative Breast Cancers",
+    "overallStatus": "COMPLETED",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 13,
+    "primaryOutcomeMeasure": "Correlation between M1/M2 macrophage polarization and [18F]DPA-714 PET/CT binding",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 18 Years and older\n* Triple negative primary breast cancer based on immunohistochemical results as follows:\n\n  * Estrogen receptor \\< 10%\n  * And Progesterone receptors \\< 10%\n  * And HER2 (Human Epidermal Growth Factor Receptor-2) not amplified or not overexpressed\n* Patient with a primary tumor eligible for primary surgery\n* Performance Status equal to 0 or 1\n* Fertile patients must use effective contraception\n* Patient must be affiliated to a Social Health Insurance\n* Written informed consent\n\nExclusion Criteria:\n\n* Patient with No triple negative breast cancer\n* Patient with inflammatory breast cancer\n* Patient with metastatic breast cancer\n* Patient receiving cancer treatments such as chemotherapy, immunotherapy, biologic response modifiers, hormonal therapy, and radiotherapy BEFORE the biopsy and PET scans are performed\n* Treated diabetes with fasting blood glucose \\> 10 mmol/L\n* Patient who received antibiotics and/or steroidal and/or non-steroidal anti-inflammatory drugs within 30 days PRIOR to \\[18F\\]-DPA-714 PET scan\n* Contraindication to MRI (implants or metallic prosthesis, severe claustrophobia, pacemaker ...)\n* Patient deprived of liberty, under a measure of safeguard of justice, under guardianship or under the authority of a guardian\n* Pregnant or nursing patient\n* Agitation; impossibility of lying motionless for at least 1 hour, or known claustrophobia",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

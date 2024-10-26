@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05797545",
+    "briefTitle": "Comparison of Ultrasound and Breast MRI for Breast Cancer Detection",
+    "officialTitle": "Comparison of Ultrasound and Breast MRI for Breast Cancer Detection Among Women With Dense Breasts and a Personal History of Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Neoplasms, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 1464,
+    "primaryOutcomeMeasure": "Cancer detection rate (CDR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 20-75 with a history of breast cancer (in situ carcinoma or invasive breast cancer \\[stage 0-3\\])\n* Women with a negative resection margin in the pathology results of the last surgical specimen from past breast cancer\n* Women with dense breasts with pattern C (heterogeneously dense) or D (extremely dense breasts) using AI-based Lunit INSIGHT for Mammography (version 1.1.4.3, Lunit Inc.) in the most recent mammography\n* Women who have not had a breast imaging test within 6 months\n* Women who agreed to undergo regular annual mammography, breast ultrasound, and breast MRI\n* If mammography, ultrasound, or breast MRI was performed within the last 1 year, the most recent test result is normal or positive (BI-RADS 1 or 2)\n\nExclusion Criteria:\n\n* Patients with symptoms related to current breast cancer or breast cancer recurrence (palpable mass, bloody or transparent nipple secretion, palpable mass in the axillary region, abnormal skin changes in the breast or nipple)\n* If you have been diagnosed with regional recurrence (axillary lymph nodes, supraclavicular and subclavian lymph nodes, internal mammary lymph nodes, etc.) or distant metastases\n* In case of bilateral total mastectomy\n* If women are receiving chemotherapy for cancer in other organs\n* Women during pregnancy or lactation\n* Glomerular filtration rate \\< 30 mL/min/1.73m2, or patients with renal insufficiency on dialysis\n* If women have severe claustrophobia\n* If women have a metal prosthesis that is not suitable for MR (e.g. breast tissue expander, etc.)\n* If there is a history of severe contrast agent side effects (e.g., anaphylactoid reaction, dyspnea, etc.)",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

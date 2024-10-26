@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01171924",
+    "briefTitle": "A Phase Ib Expansion Study Investigating the Safety, Efficacy, and Pharmacokinetics of Intravenous CUDC-101 in Subjects With Advanced Head and Neck, Gastric, Breast, Liver and Non-small Cell Lung Cancer Tumors",
+    "officialTitle": "A Phase Ib Open Label, Expansion Study to Investigate the Safety, Efficacy, and Pharmacokinetics of Intravenous CUDC-101 in Subjects With Advanced Head and Neck, Gastric, Breast, Liver and Non-small Cell Lung Cancer Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Head and Neck Cancer, Liver Cancer, Breast Cancer, Gastric Cancer, Non-Small Cell Lung Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 47,
+    "primaryOutcomeMeasure": "Number of Participants With Adverse Events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subjects with histopathologically confirmed diagnosis of advanced breast, gastric, head and neck, liver and non-small cell lung cancer.\n\n  * For subjects with non-small cell lung cancer only:\n\n    * Most recent treatment must be erlotinib and subjects must have had a radiographic partial or complete response to treatment as defined by RECIST criteria and should be currently progressing after the documented response.\n    * A documented mutation in EGFR exons 19 or 21\n* Subjects must have no further standard of care options or have refused standard therapy\n* Measurable or evaluable disease\n* Age \u2265 18 years\n* ECOG performance \\< 2\n* Life expectancy \u2265 3 months\n* If female, neither pregnant or lactating\n* If of child bearing potential, must use adequate birth control\n* Absolute neutrophil count \u2265 1,500/\u00b5L; platelets \u2265 100,000/\u00b5L;\n* Creatinine \u2264 1.5x upper limit of normal (ULN) or calculated creatinine clearance \u2265 60mL/min/1.73m2\n* Total bilirubin \u2264 1.5x ULN; AST/ALT \u2264 2.5x ULN. In subjects with documented liver metastases, the AST/ALT may be \u2264 5x ULN\n* Prothrombin time \u22641.5x ULN, unless receiving therapeutic anticoagulation\n* Serum magnesium and potassium within normal limits (may use supplements to achieve normal values)\n* Subjects with brain metastases are eligible if controlled on a stable dose \u2264 10mg prednisone/day or its equivalent dose of steroids\n* Able to render informed consent and to follow protocol requirements.\n\nExclusion Criteria:\n\n* Anticancer therapy within 4 weeks of study entry.\n* Use of investigational agent(s) within 30 days of study entry\n* History of cardiac disease with a New York Heart Association (NYHA) Class II or greater congestive heart failure (CHF), myocardial infarction (MI) or unstable angina in the past 6 months prior to Day 1 of treatment, serious arrhythmias requiring medication for treatment.\n* Known infection with human immunodeficiency virus (HIV), hepatitis B or hepatitis C. Subjects with liver cancer and hepatitis may be eligible.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

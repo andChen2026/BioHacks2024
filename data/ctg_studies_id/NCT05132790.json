@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05132790",
+    "briefTitle": "Breast Cancer Study of Stereotactic Body Radiation Therapy (SBRT) Combined Neoadjuvant Treatment",
+    "officialTitle": "Study to Evaluate the Efficacy and Safety of Stereotactic Body Radiation Therapy (SBRT) Combined Neoadjuvant Treatment for Patients With Triple-negative and Hormone Receptor-positive, HER2-negative Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Pathological complete response (pCR) for TNBC group",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed histologic diagnosis of invasive adenocarcinoma of the breast\n* ER, PR and HER2 testing, and\n* TNBC patients \uff08 HER2-neu 0-1+ by IHC or FISH-negative by ASCO CAP guidelines\uff09\n* ER-positive and HER2-negative breast cancer\n* tumor measuring \u22652 cm in maximal diameter as measured by any available standard of care imaging (mammogram, breast ultrasound, breast MRI)\n* Any nodal status\n* ECOG Performance Status of 0 -1\n* Screening laboratory values must meet the following criteria:\n\n  i. Absolute neutrophil count (ANC) \u22651.5 \u00d7 109/L ii. Platelets \u2265100 \u00d7 109/L iii. Hemoglobin \u2265 10.0 g/dl for TNBC, \u2265 10.0 g/dl for HR+/HER2-BC iv. Serum creatinine \u22641.5 x upper limit of normal (ULN) v. AST \u2264 2.5 xULN vi. ALT \u2264 2.5 x ULN vii. Total bilirubin \u2264 2.5 xULN viii left ventricular ejection fraction \u2265 50%.\n\nExclusion Criteria:\n\n* Any kind of prior treatment for breast cancer, including chemotherapy, radiotherapy, endocrine therapy and so on\n* Inflammatory breast cancer\n* Pregnant and lactating women;\n* distant metastasis\n* patients who have participated in other clinical trials.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

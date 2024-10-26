@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00578006",
+    "briefTitle": "Internet-based System for Cancer Patients to Self-report Toxicity",
+    "officialTitle": "Pilot Study of STAR, an Internet-based System for Cancer Patients to Self-report Toxicity Symptoms, Performance Status, and Quality of Life",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cervical Cancer, Lung Cancer, Prostate Cancer, Vaginal Cancer, Ovarian Cancer, Breast Cancer, Bladder Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1007,
+    "primaryOutcomeMeasure": "To evaluate patient willingness to use STAR (Symptom Tracking and Reporting for Patients), an Internet-based system for cancer patients to self-report common toxicity symptoms, performance status, and quality of life.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\>18 years\n* Diagnosis of gynecologic (ovarian; cervical; uterine; primary peritoneal), lung (non-small cell; small cell), gastrointestinal (colorectal, rectal, gastric, esophageal, GI neuroendocrine, small intestine malignancy, pancreatic, hepatocellular), breast, bladder cancer or prostate malignancy\n* Receiving primary medical oncology care at MSKCC medical oncology outpatient clinics\n* Receiving cytotoxic chemotherapy not on a clinical trial (or a new hormonal therapy in the case of prostate cancer patients only), with treatment expected to continue for at least four weeks from the time of enrollment\n* Signed informed consent and Research Authorization\n\nExclusion Criteria:\n\n* ECOG performance status greater than 2\n* Unable to read and comprehend English language text",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02743910",
+    "briefTitle": "Monitoring Plasma Tumor DNA in Early-Stage Breast Cancer",
+    "officialTitle": "Plasma Tumor DNA and Pathologic Complete Response in Early-Stage, High-Risk Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 229,
+    "primaryOutcomeMeasure": "Correlation of absence of plasma tumor DNA (ptDNA) with pathologic complete response (pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Newly diagnosed, histologically confirmed invasive breast cancer that is triple negative (estrogen receptor \\[ER\\], progesterone receptor \\[PR\\], and HER2-neu negative) or HER2-positive (any ER/PR status)\n* Unresected, untreated breast cancer that is T2, T3, or T4a-c; any N (nodal status); and M0 (not metastatic)\n* ECOG Performance Status of 0 or 1\n* Planning to receive a neoadjuvant chemotherapy regimen containing a taxane \u00b1 an anthracycline for at least 4 cycles. Patients with HER2-positive disease must also be planning to receive HER2-targeted therapy.\n* Diagnostic tumor material must be available for correlative analyses\n* Patients must have the ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* No prior treatment for the current breast cancer, though prior use of selective estrogen receptor modulators (SERMs) or aromatase inhibitors (AIs) for the prevention of breast cancer is acceptable.\n* Women who are pregnant or nursing are excluded.\n* No history of another primary malignancy in the last 5 years prior to registration. Patients with prior history of in situ cancer or basal or localized squamous cell skin cancer are eligible.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05370300",
+    "briefTitle": "SNAPS Breast Cancer Patient Study Breast Cancer Patients",
+    "officialTitle": "Subtraction Normalized Aggregated Phagocytic Signal in Peripheral Blood of Breast Cancer Patients (SNAPS - Clinical Trial) A NextGen RNASeq Feasibility Study of a Blood-based Model for Early Cancer Detection and Surveillance",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer, Breast Cancer Female",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Primary Aim",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients \\> 18 yrs of age.\n* Patients diagnosed with stage I-IV breast cancer, who have not begun definitive therapy.\n* Patients undergoing screening mammograms for breast cancer.\n\nExclusion Criteria:\n\n* Patients with a history of a different cancer within the previous 3 years (except non melanoma skin cancer).\n* Any prior treatment (surgery, chemo, hormonal, radiation, biologics, etc.) for current cancer.\n* Any biopsy which resulted in the entire tumor tissue being removed.\n* History of previous breast cancer.\n* Patients unable to provide informed consent.\n* Patients with an abnormal screening mammogram.\n* Patients whose hormone receptor and/or HER2 status are not available.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

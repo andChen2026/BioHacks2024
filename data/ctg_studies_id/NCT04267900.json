@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04267900",
+    "briefTitle": "99mTc-HPArk2 SPECT/CT for the Detection of HER2-positive Breast Cancer",
+    "officialTitle": "99mTc-HPArk2 SPECT/CT for the Detection of HER2-positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 34,
+    "primaryOutcomeMeasure": "Standardized uptake value of 99mTc-HPArk2 in breast tumor",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* patients in suspicion of breast cancer by mammography or ultrasonography,and being able to provide basic information and sign the written informed consent form\n\nExclusion Criteria:\n\n* The exclusion criteria included claustrophobia, pregnancy, breastfeeding, kidney or liver failure, inability to fulfill the study, and undergoing any preceding local or systemic therapies that might interfere with HER2 binding.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

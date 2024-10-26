@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02138812",
+    "briefTitle": "Phase I Dose Escalation of Oral BAY1161909 in Combination With Intravenous Paclitaxel",
+    "officialTitle": "An Open-label Phase I Dose-escalation Study to Characterize the Safety, Tolerability, Pharmacokinetics, and Maximum Tolerated Dose of Oral BAY1161909 in Combination With Weekly Intravenous Paclitaxel Given in an Intermittent Dosing Schedule in Subjects With Advanced Malignancies",
+    "overallStatus": "TERMINATED",
+    "conditions": "Medical Oncology",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 69,
+    "primaryOutcomeMeasure": "Maximum tolerated dose (MTD)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or female subjects aged =/\\> 18 years\n* Subjects with advanced, histologically or cytologically confirmed advanced malignancies (solid tumors), refractory to any standard therapy, have no standard therapy available, or subjects actively refused any standard treatment and / or if, in the judgment of the investigator, experimental treatment is clinically and ethically acceptable.\n* For the expansion cohort: women with histologically or cytologically confirmed triple negative breast cancer (TNBC)\n* Subjects must have evaluable or measurable disease according to Response Evaluation Criteria In Solid Tumors (RECIST) 1.1\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1\n* Life expectancy of at least 12 weeks\n* Adequate bone marrow, liver, and renal functions\n\nExclusion Criteria:\n\n* Known hypersensitivity to the study drugs or excipients of the preparations or any agent given in association with this study\n* Evidence of peripheral neuropathy of Grade \\> 2\n* History of cardiac disease: congestive heart failure New York Heart Association (NYHA) class \\> II, unstable angina (anginal symptoms at rest), new-onset angina (within the past 3 months before study entry), myocardial infarction within the past 3 months before study entry, or cardiac arrhythmias requiring anti-arrhythmic therapy (beta blockers, calcium channel blockers, and digoxin are permitted)\n* Prior treatment with more than 3 lines of cytostatic therapies for metastatic disease unless specifically agreed between investigator and sponsor. Subjects with a history of any prior Grade =/\\> 3 toxicity associated with taxane treatment will be excluded.\n* Uncontrolled hypertension defined as systolic blood pressure \\>150 mmHg or diastolic blood pressure \\>90 mmHg, despite optimal medical management\n* Moderate or severe hepatic impairment, i.e. Child-Pugh class B or C\n* History of human immunodeficiency virus (HIV) infection.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

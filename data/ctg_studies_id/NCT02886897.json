@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02886897",
+    "briefTitle": "A Study of Combinations of D-CIK Immunotherapy And Anti-PD-1 In Refractory Solid Tumors",
+    "officialTitle": "A Phase II Study of Combinations of Dendritic Cells and Cytokine-induced Killer Cell \uff08D-CIK) Immunotherapy And Anti-Programmed Death-1 In Refractory Solid Tumors",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Hepatocellular Carcinoma, Renal Cell Carcinoma, Bladder Cancer, Colorectal Cancer, Non-small-cell Lung Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Progress-free survival(PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participantswith treatment-refractory advanced hepatocellular carcinoma, renal cell carcinoma,bladder cancer,colorectal cancer,non-small-cell lung cancer,breast cancer and other solid cancers.\n* Age 18 to 75 years.\n* Willing to sign a durable power of attorney.\n* Able to understand and sign the Informed Consent Document.\n* Life expectancy of greater than three months.\n* An Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Patients of both genders must be willing to practice birth control from the time of enrollment on this study and for up to four months after receiving the preparative regimen.\n* Adequate organ function.\n* Serology:\n\n  * Seronegative for HIV antibody.\n  * Women of child-bearing potential must have a negative pregnancy test because of the potentially dangerous effects of the preparative chemotherapy on the fetus.\n* Hematology:\n\n  * WBC (\\> 3000/mm(3)).\n  * Platelet count greater than 100,000/mm(3).\n  * Hemoglobin greater than 8.0 g/dl.\n* Chemistry:\n\n  * Serum ALT/AST less or equal to 2.5 times the upper limit of normal.\n  * Serum creatinine less than or equal to 1.6 mg/dl.\n  * Total bilirubin less than or equal to 1.5 mg/dl, except in patients with Gilbert's Syndrome who must have a total bilirubin less than 3.0 mg/dl.\n\nExclusion Criteria:\n\n* Previous treatment with anti-CTLA-4 and anti-PD-1/PD-L1.\n* Active systemic infections, coagulation disorders or other major medical illnesses of the cardiovascular, respiratory or immune system, myocardial infarction, cardiac arrhythmias, obstructive or restrictive pulmonary disease.\n* Any form of primary immunodeficiency (such as Severe Combined Immunodeficiency Disease).\n* History of autoimmune disease\n* Concurrent opportunistic infections (The experimental treatment being evaluated in this protocol depends on an intact immune system. Patients who have decreased immune competence may be less responsive to the experimental treatment and more susceptible to its toxicities).\n* Concurrent antineoplastic therapies and systemic steroid therapy.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

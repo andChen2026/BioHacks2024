@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02080390",
+    "briefTitle": "Strain Imaging in Breast Cancer Patients Receiving Trastuzumab",
+    "officialTitle": "Strain Imaging in Breast Cancer Patients Receiving Trastuzumab",
+    "overallStatus": "COMPLETED",
+    "conditions": "Her 2 Positive Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Longitudinal Strain",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age greater than 18 years\n* Her 2 positive breast cancer.\n* Patients who are currently receiving Trastuzumab (Herceptin).\n* Patients who received Trastuzumab (Herceptin) after the formation of the UFHealth Medical Plaza pharmacy database was initiated.\n\nExclusion Criteria:\n\n* Age less than 18 years\n* Patients who have not received Trastuzumab (Herceptin).\n* Patients who received Trastuzumab prior to the formation of the UFHealth Medical Plaza pharmacy database.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

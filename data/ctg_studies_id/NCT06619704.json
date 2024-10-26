@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06619704",
+    "briefTitle": "Observational Retrospective Study to Assess the Use of Ribociclib in Patients With HR+, HER2- Metastatic Breast Cancer Treated With Chemotherapy",
+    "officialTitle": "A rEtrospectIve Real-world Analysis of earLy responsE ratEs With Ribociclib and Endocrine Therapy and Descriptive aNalysis of HR+, HER2- Metastatic Breast Cancer Patients Treated With Chemotherapy (EILEEN)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 194,
+    "primaryOutcomeMeasure": "Overall Response Rate (ORR) at First Assessment After Initiation of Treatment Combinations",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nGroup I: Postmenopausal female patients who had histologically or cytologically confirmed HR-positive (10% or more ER+), HER2-negative, metastatic breast cancer and initiated ribociclib combinations per local label.\n\n* Treated with ribociclib plus letrozole relapsed after 12 months completing adjuvant treatment or without any prior endocrine treatment for metastatic disease, 1 line or less chemotherapy was allowed.\n* Treated with ribociclib plus fulvestrant, clinical and/or radiological disease progression after at least 6 months and at least 1 aromatase inhibitor treatment for metastatic disease or relapsed after 12 months adjuvant aromatase inhibitor treatment and/or relapsed within 12 months completing adjuvant aromatase inhibitor, 2 lines or less prior treatments and 1 line or less prior chemotherapy at metastatic setting were allowed.\n* Had first treatment response rate assessment within 6 months after ribociclib initiation.\n* Initiated ribociclib in combination with letrozole/fulvestrant after MBC diagnosis after local approval of ribociclib in June 2020.\n\nGroup II: Postmenopausal female patients who had histologically or cytologically confirmed HR-positive (10% or more ER+), HER2-negative, metastatic breast cancer eligible for cyclin-dependent kinase (CDK) inhibitors according to local label but started chemotherapy.\n\nExclusion Criteria:\n\n* Pre- or perimenopausal women.\n* Enrollment in an interventional clinical trial for MBC during the study observation period.\n* Evidence of prior treatment with any CDK4/6 inhibitor in the adjuvant setting.\n* Evidence of another primary cancer within 3 years prior to the initial line containing ribociclib.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

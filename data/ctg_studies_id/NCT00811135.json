@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00811135",
+    "briefTitle": "A Study of Avastin (Bevacizumab) in Combination With Herceptin (Trastuzumab) and Xeloda (Capecitabine) in Patients With HER2-Positive Breast Cancer",
+    "officialTitle": "A Single Arm Open-label, Phase II Study of Bevacizumab in Combination With Trastuzumab and Capecitabine as First-line Treatment of Patients With HER2-positive Locally Recurrent or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 88,
+    "primaryOutcomeMeasure": "Percentage of Participants With a Best Overall Response (BOR) of Confirmed Complete Response (CR) or Partial Response (PR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* adult patients, \\>=18 years of age;\n* breast cancer with measurable locally recurrent or metastatic lesions;\n* candidate for chemotherapy;\n* HER2-positive disease;\n* ECOG PS of \\<=2.\n\nExclusion Criteria:\n\n* previous anticancer therapy for metastatic breast cancer;\n* previous radiotherapy for metastatic breast cancer (except for adjuvant radiotherapy \\>=6 months before enrollment);\n* chronic daily treatment with corticosteroids (\\>=10mg/day), aspirin (\\>325 mg/day) or clopidogrel (\\>75mg/day);\n* other primary tumor within last 5 years, except for adequately treated cervical cancer in situ, squamous or basal cell skin cancer;\n* uncontrolled hypertension or significant cardiovascular disease.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

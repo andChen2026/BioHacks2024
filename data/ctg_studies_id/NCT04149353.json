@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04149353",
+    "briefTitle": "PET/MR in Surgical Planning for Breast CA Treated With Neoadj Chemo",
+    "officialTitle": "Utility of PET/MR in Surgical Planning for Breast Cancer Treated With Neoadjuvant Chemotherapy",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "Change in PET Activity Estimates From Pre-treatment to Post-treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 years of age (no upper age limit)\n* Signed, IRB-approved written informed consent\n* Must have clinical T1-3, N0-3, M0 disease. All phenotypes are acceptable..\n* Must have surgically curable disease as evaluated by the UNC Multidisciplinary Tumor Board.\n* Must have pre- and post-treatment MRI imaging as part of the treatment plan.\n* Must be able to meet size restrictions for the PET-MR scanner: chest depth and abdominal depth less than 27 cm (approximately the smallest 55% of women will meet this), as measured on imaging or with physical template.\n* Must be in acceptable health to undergo chemotherapy and curative intent surgery as assessed by Multidisciplinary Tumor Board.\n* Must be able to understand and comply with study procedures for the entire length of the study.\n* Must receive their chemotherapy and curative intent surgery at UNC Hospitals. -If patient has a history of prior malignancy, including melanoma, patient must be cancer- free for three or more years. Non-melanoma skin cancers will be included even if not cancer-free for three years.\n* Women of childbearing potential must have a negative serum or urine pregnancy test performed within 7 days prior to each PET/MRI\n\nExclusion Criteria:\n\n* Inability to tolerate MRI (e.g., inability to lie flat for \\>1 hour)\n* Presence of pacemaker, intracranial aneurysm clip, bladder stimulator, cochlear implant or metal near eyes or near pelvis that would create excessive imaging artifact\n* Poorly controlled diabetes mellitus\n* Patient receiving neoadjuvant endocrine therapy (due to low likelihood of complete response)\n* Pregnancy or lactating female\n* Substance abuse, medical, psychological, or social conditions that may interfere with the patient's participation in the study\n* Evidence of distant disease on physical exam or initial imaging\n* Medical conditions precluding chemotherapy or curative intent surgery\n* Incarcerated or otherwise institutionalized at time of enrollment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03297346",
+    "briefTitle": "Early Detection of Cardiovascular Changes After Radiotherapy for Breast Cancer",
+    "officialTitle": "Early Detection of Cardiovascular Changes After Radiotherapy for Breast Cancer (EARLY HEART Study) in the Frame of the Implications of MEDIcal Low Dose RADiation Exposure (MEDIRAD) European Project",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 250,
+    "primaryOutcomeMeasure": "Number of patients with decreased myocardial function assessed by echocardiography",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female unilateral breast cancer patients\n* Treated with primary breast conserving surgery for stage I-III invasive adenocarcinoma of the breast or ductal carcinoma in situ (DCIS)\n* Age between 40-75 years at time of start radiotherapy\n* World Health Organisation (WHO) performance status 0-1\n* Planned for radiotherapy alone to the breast with or without the lymph node areas\n* Radiotherapy based on planning-CT scan using either three dimensional conformal radiation therapy (3D-CRT), Intensity-modulated radiotherapy (IMRT), or Volumetric Arc Therapy (VMAT/RapidArc)\n* Written Informed consent\n\nExclusion Criteria:\n\n* Male breast cancer patients\n* Neoadjuvant or adjuvant chemotherapy\n* M1 disease (metastatic breast cancer)\n* Medical history of coronary artery disease and/or myocardial infarction and/or atrial fibrillation\n* Previous thoracic or mediastinal radiation\n* Contraindications to injection of iodinated contrast such as allergy or renal failure\n* Pregnancy or lactation\n* Atrial fibrillation detected during electrocardiogram before radiotherapy\n* Abnormal echocardiography before radiotherapy defined as: Left Ventricular Ejection Fraction\\<50%; longitudinal strain \u2264 -16%; longitudinal strain rate \\<-1%, and/or abnormal wall motion\n* Presence of myocardial infarction detected during MRI before radiotherapy\n* CT or MRI results before radiotherapy requiring revascularisation",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

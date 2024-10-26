@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00486473",
+    "briefTitle": "Multihance Versus Magnevist in Breast MRI",
+    "officialTitle": "Phase III Multicenter Double-Blind, Randomized, Crossover Study to Compare MultiHance With Magnevist in Contrast-enhanced Magnetic Resonance Imaging (MRI) of the Breast",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 130,
+    "primaryOutcomeMeasure": "Sensitivity in diagnosing breast lesions compared to histopathology results",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Provides written informed consent\n* Female\n* Age 18 years or older\n* Suspicious or known breast lesion based on results from mammography or ultrasound\n* Planned to undergo histological diagnosis of breast lesion by having a non surgical biopsy or breast surgery within 30 days after the MRI exam\n\nExclusion Criteria:\n\n* Body weight \\> 100 kg\n* Pregnant or lactating\n* Server or end-stage organ failure\n* Moderate to severe renal impairment\n* Undergoing radiotherapy or completed radiotherapy in the last 18 months\n* Chemotherapy within 6 months of the 1st MRI exam",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05574907",
+    "briefTitle": "Characterizing Breast Cancer With 68Ga-FAPI PET/CT (PFB-01)",
+    "officialTitle": "Accuracy and Safety of 68Ga-FAPI PET/CT in the Diagnosis of Axillary Lymph Node Metastasis in Early Breast Cancer Patients: A Prospective Cohort Study",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 72,
+    "primaryOutcomeMeasure": "Diagnostic Performance (1)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* age 18-80 years old;\n* newly diagnosed BC confirmed by biopsy or with BI-RADS category 4C or 5 lesions by US or MG;\n* BC clinical stagecT1-3 cN0-3 M0;\n* no prior treatment for BC.\n\nExclusion Criteria:\n\n* pregnancy;\n* breastfeeding;\n* patients who were unwilling to undergo PET/CT scans.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

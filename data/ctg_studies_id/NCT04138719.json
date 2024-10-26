@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04138719",
+    "briefTitle": "Nab-paclitaxel Plus Carboplatin Versus Nab-paclitaxel Plus Epirubicin in the Neoadjuvant Therapy for Breast Cancer",
+    "officialTitle": "Clinical Study of Nab-paclitaxel Plus Carboplatin Versus Nab-paclitaxel Plus Epirubicin in the Neoadjuvant Therapy for Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Triple-negative Breast Cancer, Nab-paclitaxel",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 520,
+    "primaryOutcomeMeasure": "pCR (pathological complete response)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Females with age between 18 to 70 years old;\n2. Histologically confirmed primary invasive breast cancer;\n3. Histologically confirmed triple negative breast cancer;\n4. Patients who planned to accept preoperative neoadjuvant therapy and had a mass larger than 2 cm.\n5. Blood specimens and 5 sections of tumor tissue at baseline, blood specimens at surgery can be obtained.\n6. Have at least one measurable lesion as per the RECIST criteria (version 1.1);\n7. Eastern Cooperative Oncology Group (ECOG) performance status less than or equal to one;\n8. LVEF\u226555%\uff1b\n9. Bone marrow function\uff1aneutrophils (\u22651.5\u00d710\\^9/L), platelets (\u2265100\u00d710\\^9/L), hemoglobin (\u226590 g/L);\n10. Renal and hepatic function: Serum creatinine\u2264 1.5\u00d7institutional upper limit of normal (ULN); AST and ALT \u2264 2.5 \u00d7 ULN; Total bilirubin\u22641.5\u00d7ULN, or patients with Gilbert's syndrome \u2264 2.5 \u00d7 ULN;\n11. Patients had good compliance with the planned treatment, understood the research process and written informed consent.\n\nExclusion Criteria:\n\n1. Previous treatment with any cytotoxic chemotherapy, endocrine therapy, biotherapy or radiotherapy;\n2. Patients with heart disease above grade II (including grade II) identified by New York Heart Association (NYHA) scores;\n3. Patients with severe systemic infection or other serious diseases;\n4. Patients allergic to or intolerant of chemotherapeutic drugs or their adjuvants;\n5. Patients with other malignant tumors in the past five years, except for cured cervical carcinoma in situ and non-melanoma skin cancer;\n6. Pregnancy or lactation, as well as reproductive age patients who refused to take appropriate contraceptive measures in the trial;\n7. Participation in any trial drug treatment or another interventional clinical trial 30 days before first dose was given;\n8. The researchers considered the patients who were not suitable for enrollment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

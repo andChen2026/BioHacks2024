@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03011060",
+    "briefTitle": "Sequential Neo-adjuvant Chemotherapy Followed by Capecitabine Vs. Conventional Adjuvant Chemotherapy in Breast Cancer",
+    "officialTitle": "A Prospective Randomized Controlled Trail to Evaluate Efficacy and Safety of Sequential Neo-adjuvant Chemotherapy Plus Surgery Followed by Capecitabine Versus Conventional Postoperative Adjuvant Chemotherapy",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Neoplasm Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1588,
+    "primaryOutcomeMeasure": "Disease-free survival(DFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Pathologically confirmed unilateral invasive carcinoma (all pathological types);\n2. No gross or microscopic residual tumor after resection;\n3. Clinical stage \u2160-stage \u2162 A, no absolute surgical contraindications;\n4. Eastern Cooperative Oncology Group(ECOG) score \u22641;\n5. Accepting adjuvant chemotherapy within 15 days after surgery;\n6. No peripheral neuropathy;\n7. Normal bone marrow and organ functions:\n\n   1. Bone marrow function: ANC\u22651500/mm3\uff0cPLT\u2265100000/mm3\uff0cHGB\u22658g/dl\n   2. Renal function: serum creatinine\u22641.5 times the upper limit of normal(ULN), Liver function: total bilirubin \u22641.5 times the upper limit of normal\uff0cAST\u22642.5 times the upper limit of normal\uff0calanine aminotransferase(ALT)\u22642.5 times the upper limit of normal\n   3. Cardiac function:LVEF\u226550%\n8. Signed informed consent form.\n\nExclusion Criteria:\n\n1. Patients with the history of oral fluorouracil chemotherapy or Chinese medicine treatment;\n2. Patients with organ dysfunction:\n\n   1. Renal function: serum creatinine\\>1.5 times the upper limit of normal\n   2. Liver function: total bilirubin\\>1.5 times the upper limit of normal\uff0cAST\\>1.5 times the upper limit of normal, alanine aminotransferase(ALT)\\>1.5 times the upper limit of normal or alkaline phosphatase (ALP) \\>2.5 times the upper limit of normal\n   3. Cardiac function\uff1aLVEF\\<50%;\n3. Human epidermal growth factor receptor-2(HER-2) positive patients who cannot receive Herceptin treatment with a left ventricular ejection fraction(LVEF) less than 55%;\n4. Patients allergic to docetaxel, capecitabine, epirubicin and cyclophosphamide;\n5. Patients with severe systemic disease and/or uncontrollable infections;\n6. Patients with previous malignancies, including contralateral breast cancer;\n7. Patients with severe cardiovascular and cerebrovascular disease(i.e. Unstable angina, chronic cardiac failure, uncontrollable high blood pressure of \\>150/90 mmhg, myocardial infarction and cerebrovascular accident) history within 6 months before randomization;\n8. Pregnant or lactating women.\n9. Patients who have cognitive or psychological impairment as well as cannot understand the test program or stand side effects, which will result in a suspension of the trial program and follow-up;\n10. Patients without personal freedom or independent civil capacity.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02324088",
+    "briefTitle": "Interest of Maintenance Chemotherapy After Induction Treatment for Inflammatory Breast Cancer",
+    "officialTitle": "Phase III Trial Assessing the Interest of a Maintenance Chemotherapy Combining Docetaxel (Taxotere) 5-FU After Induction Treatment by Aintensive Chemotherapy for Inflammatory Breast Cancers",
+    "overallStatus": "COMPLETED",
+    "conditions": "Inflammatory Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 174,
+    "primaryOutcomeMeasure": "disease-free survival rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histologically proven breast cancer\n* inflammatory breast cancer\n* no metastatic site\n* age \\> or = 18 and \\< or = 60\n* OMS score: 0, 1, 2\n* life expectancy \\> or = 3 months\n* Normal (isotopic or ultrasonography) left ventricular ejection fraction\n* Normal haematological, liver, and kidney functions\n* patients who gave their written informed consent.\n\nExclusion Criteria:\n\n* non inflammatory breast tumour with a cutaneous permeation nodule\n* presence of a metastatic site\n* medical history of a cancerous tumour except for carcinoma in situ of the uterine cervix, a basal cell skin cancer, or a breast carcinoma on the contralateral side\n* patients having already had a chemotherapy, a radiotherapy, or an hormone therapy for this breast tumour\n* medical history of congestive heart failure even medically controlled\n* medical history of myocardial infarction during the 6 months before the inclusion in the study\n* active infection or other severe underlying pathology which could possibly prevent the patient from receiving treatments\n* administration of another chemotherapy during the study\n* pregnant or breast feeding patients (the patients of childbearing age must be placed under efficient contraception)\n* patients whose social or psychological state does not allow to consider a correct adherence to the treatment and to the required medical follow-up\n* WHO score 3,4\n* unbalanced diabetes\n* polysorbate 80 allergy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

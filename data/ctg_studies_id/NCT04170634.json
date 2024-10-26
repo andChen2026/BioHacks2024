@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04170634",
+    "briefTitle": "Tumoral Bone Strength Assessment by Numerical Simulation Using Quantitative CT : the MEKANOS Study",
+    "officialTitle": "Tumoral Bone Strength Assessment by Numerical Simulation Using Quantitative CT (Computed Tomography) : the MEKANOS Study",
+    "overallStatus": "RECRUITING",
+    "conditions": "Metastases to Bone, Metastatic Breast Cancer, Metastatic NSCLC",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 220,
+    "primaryOutcomeMeasure": "Measurement of mechanical strength of tumor proximal femur or tumor vertebrae obtained by numerical simulation using the finite element analysis (FEA) method.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients (\\> 18 years of age).\n* Patients who do not object to participating in the study. For patients participating to the biological collection: signature of the written informed consent..\n* Patients with secondary tumor lesion(s) of mammary or pulmonary non-small cell, renal, bladder, thyroid or myeloma bone origin.\n* Existence of a CT scan focused on the target lesion (or which will be performed as part of the care), performed within a time window of 30 days before and 20 days after inclusion, as part of the patient's usual bone management.\n* Target location: upper end of the femur (1/3 proximal) and/or vertebrae. Several locations are possible for the same patient, provided that the inclusion criteria are met for each target.\n* Size of target lesion: either diffuse permeative or \\> 15 mm in size.\n* Exposure to systemic bone therapy for 3 months or less (daily clodronate or denosumab, zoledronic acid, monthly pamidronate) is allowed\n* Patients who received previous systemic oncological treatments (chemotherapy, targeted therapy, immunotherapy...) are eligible.\n\nExclusion Criteria:\n\n* Patients who have received targeted treatment at the target location either in the form of radiotherapy, surgery or interventional radiology (cementoplasty, cryotherapy, radiofrequency).\n* Fractured pathological target bone.\n* For the femur target, the patient must not have a hip prosthesis on either side (target or contralateral)\n* Patients under trusteeship.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

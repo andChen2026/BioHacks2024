@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02723877",
+    "briefTitle": "PQR309 and Eribulin in Metastatic HER2 Negative and Triple-negative Breast Cancer (PIQHASSO)",
+    "officialTitle": "An Open Label, Non Randomized, Multicenter Phase 1/2b Study Investigating Safety and Efficacy of PQR309 and Eribulin Combination in Patients With Locally Advanced or Metastatic HER2 Negative and Triple-Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 41,
+    "primaryOutcomeMeasure": "Number of patients with treatment related Adverse Events and Serious Adverse Events as assessed by NCI CTCAEV4.03",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically/cytologically confirmed diagnosis of breast cancer. Radiological evidence of inoperable locally advanced or metastatic breast cancer.\n* HER2 negative breast cancer (based on the most recent analyzed biopsy) defined as a negative in situ hybridization test or an immunohistochemistry status of 0, 1+ or 2+.\n* Received at least 2 and no more than 5 prio chemotherapeutic regimens in locally advanced and/or metastatic setting.\n* Prior therapy has to include an anthracycline and a taxane in any combination or order.\n* For Expansion part:\n\nTriple-negative breast cancer defined as a negative in situ hybridization test or an immunohistochemistry (IHC) status of 0,1+ or 2+ER abnd PR status \\<10% by local laboratory testing.\n\nExclusion Criteria:\n\n* Previous systemic treatment with PI3K,mTOR or AKT inhibitors (allowed in the escalation part).\n* Previous treatment with eribulin (allowed in the escalation part). Known hypersensitivity to any of the excipients of PQR309 or eribulin.Concurrent treatment with other approved or investigational antineoplastic agent.\n* Symptomatic Central Nervous System metastases. The patient must have completed any prior local treatment for CNS metastases \\> 28 days prior to first dose of the study drug (including radiotherapy and/or surgery).\n* Clinically manifested diabetes mellitus(treated and/or clinical signs with fasting glucose \\>125mg/dl or HbA1c\\>7%), or documented steroid induced diabetes mellitus.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

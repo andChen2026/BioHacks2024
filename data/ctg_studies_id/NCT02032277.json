@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02032277",
+    "briefTitle": "A Study Evaluating Safety and Efficacy of the Addition of ABT-888 Plus Carboplatin Versus the Addition of Carboplatin to Standard Chemotherapy Versus Standard Chemotherapy in Subjects With Early Stage Triple Negative Breast Cancer",
+    "officialTitle": "A Randomized, Placebo-Controlled, Double-Blind, Phase 3 Study Evaluating Safety and Efficacy of the Addition of Veliparib Plus Carboplatin Versus the Addition of Carboplatin to Standard Neoadjuvant Chemotherapy Versus Standard Neoadjuvant Chemotherapy in Subjects With Early Stage Triple Negative Breast Cancer (TNBC)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 634,
+    "primaryOutcomeMeasure": "Pathological Complete Response (pCR).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histologically confirmed invasive breast cancer by core needle or incisional biopsy (excisional biopsy is not allowed). Clinical stage T2-3 N0-2 or T1 N1-2 by physical exam or radiologic studies.\n2. Documented Breast Cancer Gene (BRCA) germline mutation testing.\n3. Estrogen Receptor (ER)-, Progesterone Receptor (PR)-, and Human Epidermal Growth Factor Receptor (HER)2-negative (triple-negative) cancer of the breast.\n4. ECOG Performance status of 0 to 1.\n5. Women must be determined to be not of childbearing potential (surgically sterile, or postmenopausal defined as amenorrheic for at least 12 months) by the Investigator OR they must have a negative serum pregnancy test prior to randomization.\n\nExclusion Criteria:\n\n1. Previous anti-cancer treatment (cytotoxic chemotherapy, immunotherapy, biologic therapy radiotherapy or investigational agents) with therapeutic intent for current breast cancer.\n2. Previous treatment with carboplatin, paclitaxel, doxorubicin, cyclophosphamide and a Poly-(ADP-ribose)-Polymerase (PARP) inhibitor.\n3. Concurrent treatment with an ovarian hormonal replacement therapy or with hormonal agents such as raloxifene, tamoxifen or other selective estrogen receptor modulator (SERM). Subjects must have discontinued use of such agents prior to beginning study treatment.\n4. A history of seizure within 12 months prior to study entry.\n5. Pre-existing neuropathy from any cause in excess of Grade 1.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

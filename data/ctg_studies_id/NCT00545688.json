@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00545688",
+    "briefTitle": "A Study of Pertuzumab in Combination With Herceptin in Patients With HER2 Positive Breast Cancer.",
+    "officialTitle": "A Randomized, Open Label Study to Compare the Complete Pathological Response Rate Achieved With 4 Combinations of Herceptin, Docetaxel and Pertuzumab in Patients With Locally Advanced, Inflammatory or Early Stage HER2 Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 417,
+    "primaryOutcomeMeasure": "Percentage of Participants Achieving Pathological Complete Response (pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female patients, \\>=18 years of age;\n* locally advanced, inflammatory or early stage invasive breast cancer;\n* HER2 positive (HER2+++ by IHC or FISH/CISH+).\n\nExclusion Criteria:\n\n* metastatic disease (Stage IV) or bilateral breast cancer;\n* previous anticancer therapy or radiotherapy for any malignancy;\n* other malignancy, other than cancer in situ of the cervix, or basal cell cancer;\n* insulin-dependent diabetes;\n* clinically relevant cardiovascular disease.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

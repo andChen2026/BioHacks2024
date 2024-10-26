@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01460186",
+    "briefTitle": "Evaluation of the Predictive and Prognostic Value of Germ-line Polymorphisms in Patients With Metastatic Breast Cancer",
+    "officialTitle": "Evaluation of the Predictive and Prognostic Value of Germ-line Polymorphisms in Patients With Metastatic Breast Cancer : a Multicenter Non-randomized Prospective Cohort Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "N/A",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Germ line genetic factors associated with metastatic relapse",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with a histologically proven breast adenocarcinoma, with metastatic progression diagnosed within one year (inclusion of patients who have a metastatic progression more than one year ago would favor the inclusion of patients with indolent cancer, possibly biasing the study) or locally advanced (no curative treatment)\n* ER, PR and HER2 status known\n* Age \\>= 18 years\n* Affiliation with a social security scheme\n* Signed informed consent\n\nExclusion Criteria:\n\n* Coexisting or other cancer diagnosed within the previous 5 years that may be responsible for the current metastasis\n* Patient who cannot follow medical surveillance due to geographical, social or psychological reasons\n* Patient included in the SIGNAL study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

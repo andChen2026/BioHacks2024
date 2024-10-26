@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02479100",
+    "briefTitle": "Contrast Enhanced Spectral Mammography (CESM) Study",
+    "officialTitle": "An Assessment of the Impact of CONTrast ENhanceD Mammography (CESM) on Patient Management and Comparison With MRI (CONTEND Study)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 103,
+    "primaryOutcomeMeasure": "Assessment of impact the addition of CESM has on patient management - does this lead to an earlier diagnosis / treatment plan",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Be willing and able to give written informed consent for participation in the study.\n* Have a lesion of suspicion 3, 4 or 5 following mammography and ultrasound.\n\nExclusion Criteria:\n\n* Known or suspected pregnancyBreast implant\n* Previous breast cancer\n* Known renal impairment\n* History of anaphylactoid or anaphylactic reaction to any contrast media\n* Contrast media within 24 hours prior to CESM\n* Commencement of neo-adjuvant chemotherapy, hormone treatment, radiotherapy or surgery for this episode",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01110174",
+    "briefTitle": "Assessing Response to Neoadjuvant Chemotherapy With HD PET/CT, Serum Glycomic Markers and Tissue Muc-1 Isoforms",
+    "officialTitle": "Assessing Response to Neoadjuvant Chemotherapy With Dedicated Breast High Definition PET/CT, Serum Glycomic Markers and Tissue Muc-1 Isoforms",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 8,
+    "primaryOutcomeMeasure": "Assess the Ability of the HD PET/CT to Predict Final Histopathologic NAC Response.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient must sign informed consent to participate in the study.\n* Patient must be \u2265 18 years of age.\n* Histologic diagnosis of invasive breast cancer(ductal or lobular)\n* Stage II or III breast cancer and considered a candidate for curative mastectomy.\n* Selected mastectomy for surgical option of treatment.\n* Patient must agree to receive standard or dose-dense adriamycin, cyclophosphamide, and taxane-based chemotherapy given preoperatively.\n* Patient must have the following preoperative laboratory values confirmed within 28 days prior to registration: Creatinine \u2264 1.5 times ULN. Platelets \u2265 90,000/mm3. White blood count \u2265 1,500/mm3. PT/PTT \u2264 the institution ULN. Patients of child-bearing potential must have a negative urine or serum pregnancy test.\n* If a patient is a cancer survivor, the patient must have undergone potentially curative therapy for all prior malignancies, with no evidence of prior malignancy for at least 5 years (except for effectively treated basal cell or squamous cell carcinoma of the skin, or carcinoma-in-situ of the cervix treated by surgery alone).\n* The primary breast tumor must be detectable by mammogram at the time of diagnosis\n* Estimated cardiac ejection fraction \u2265 50% by echocardiogram or MUGA\n* ECOG performance status 0-1.\n\nExclusion Criteria:\n\n* Non-invasive breast cancer, benign breast disease, or tumor histology other than stage II or stage III invasive ductal carcinoma, invasive lobular carcinoma, or mixed ductal and lobular carcinoma.\n* The patient has known distant metastatic disease.\n* The patient wishes to pursue breast conservation.\n* The patient is male.\n* The patient is receiving preoperative chemotherapy other than adriamycin, cyclophosphamide, and a taxane (ACT) in standard or dose-dense fashion.\n* The patient is pregnant or breast feeding.\n* The primary tumor is not visualized by mammogram at the time of diagnosis.\n* The patient's estimated cardiac ejection fraction is \\<50% by echocardiogram or MUGA.\n* The patient has a documented intravenous contrast allergy or iodine allergy.\n* Her-2/neu positive patients by IHC or FISH who receive trastuzumab neoadjuvantly; patients who are Her-2/neu positive but elect not to receive trastuzumab neoadjuvantly are still eligible for participation.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

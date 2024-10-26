@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00075270",
+    "briefTitle": "Paclitaxel With / Without GW572016 (Lapatinib) As First Line Therapy For Women With Advanced Or Metastatic Breast Cancer",
+    "officialTitle": "A Randomized, Multicenter, Double-Blind, Placebo-Controlled, 2-Arm, Phase III Study of Oral GW572016 in Combination With Paclitaxel in Subjects Previously Untreated or Advanced or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neoplasms, Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 580,
+    "primaryOutcomeMeasure": "Time to Progression as Evaluated by the Investigator",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Signed Informed Consent\n* Able to swallow an oral medication\n* Cardiac ejection fraction within the institutional range of normal as measured by echocardiogram\n* Adequate kidney and liver function\n* Adequate bone marrow function\n* Tumor tissue available for testing\n* Prior adjuvant or neoadjuvant therapy is permitted with an anthracycline or anthracenedione-containing regimen however, subjects must have had cumulative doses of less than 360 mg/m2 of doxorubicin, 720 mg/m2 of epirubicin, or 72 mg/m2 of mitoxantrone\n* No Her2/neu overexpression in tumor tissue tested or status unknown if tissue has never been tested\n\nExclusion criteria:\n\n* Prior treatment regimens for advanced or metastatic breast cancer.\n* Pregnant or lactating\n* Conditions that would effect the absorption of an oral drug\n* Active infection\n* Brain metastases\n* Treatment with EGFR (Endothelial Growth Factor Receptor) inhibitor.\n* Known hypersensitivity to Taxol or excipients of Taxol\n* Peripheral neuropathy of Grade 2 or greater is not permitted\n* Severe Cardiovascular disease or cardiac disease requiring a device.\n* Serious medical or psychiatric disorder that would interfere with the patient's safety or informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

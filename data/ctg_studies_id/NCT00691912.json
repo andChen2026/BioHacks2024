@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00691912",
+    "briefTitle": "Therapy of Metastatic Breast Cancer With Paclitaxel and Liposomal Doxorubicin",
+    "officialTitle": "Extended Dose Frequency 1st-line Therapy of Metastatic Breast Cancer With Paclitaxel and Liposomal Doxorubicin (Myocet\u00ae)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "progression free survival assessed by imaging procedures",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women \\>/= 18 years with histologically proven metastatic breast cancer\n* No prior chemotherapy in the advanced situation\n* ECOG \\</= 2\n* Adequate bone marrow reserve\n* left ventricular ejection fraction (LVEF) \\>/= 50, measured within 4 weeks before study treatment\n* Existence of written informed consent\n\nExclusion Criteria:\n\n* Previous high dose therapy with stem cell support\n* Prior adjuvant treatment with cumulative anthracycline dose of 600 mg/m\u00b2 Epirubicin, 300 mg/m\u00b2 Doxorubicin, 80 mg/m\u00b2 Mitoxantrone\n* Concomitant hormon- or chemotherapy or radiation therapy\n* Her2/neu overexpression\n* pregnancy or breast feeding",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01608451",
+    "briefTitle": "Randomized Controlled Trial of Neo-adjuvant Progesterone and Vitamin D3 in Women With Large Operable Breast Cancer and Locally Advanced Breast Cancer",
+    "officialTitle": "Randomized Controlled Trial of Neo-adjuvant Progesterone and Vitamin D3 in Women With Large Operable Breast Cancer and Locally Advanced Breast Cancer.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Locally Advanced Breast Cancer and Large Operable Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 800,
+    "primaryOutcomeMeasure": "Disease-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Unilateral breast cancer\n* Large operable breast cancer/LOBC (T3N0M0 or T3N1M0) and Locally advanced breast cancer/LABC (T3N1-2M0; T2N2M0)\n* Age \\<70 years\n* Fit for CT\n\nExclusion Criteria:\n\n* Prior IB or EB\n* Metastatic breast cancer\n* Renal failure or deranged RFT\n* Hypoparathyroidism\n* Pregnant or lactating mothers or women of childbearing age not practicing contraception\n* Patient on any of the following drugs: Magnesium-containing antacids, Digitalis, Phenytoin barbiturates, Thiazide diuretics.\n* Previous history of other cancers except cured skin and cervical carcinoma in situ.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

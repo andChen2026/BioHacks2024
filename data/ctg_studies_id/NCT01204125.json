@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01204125",
+    "briefTitle": "Two Regimens of SAR240550/Weekly Paclitaxel and Paclitaxel Alone as Neoadjuvant Therapy in Triple Negative Breast Cancer Patients",
+    "officialTitle": "Randomized, Open-label, Phase 2 Study of the Efficacy and Safety of Weekly Paclitaxel Single-agent and Two Different Regimens of the PARP-1 Inhibitor SAR240550 (BSI-201) in Combination With Weekly Paclitaxel, as Neoadjuvant Therapy in Patients With Stage II-IIIA Triple Negative Breast Cancer (TNBC)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 141,
+    "primaryOutcomeMeasure": "Pathological Complete Response (pCR) rate defined as the complete absence of invasive carcinoma on histological examination of the breast at the time of definitive surgery and confirmed by blinded centralized review",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Histologically confirmed Stage II-IIIA invasive breast cancer eligible for definitive surgery and Estrogen Receptor (ER)-negative, Progesterone receptor (PgR)-negative and Human epidermal growth factor receptor 2 (HER2) non-overexpressing by Immunohistochemistry (IHC) (0+, 1+) or fluorescence in situ hybridization (FISH negative, ratio \\<1.8) or IHC (2+, 3+) /FISH-negative.\n* The primary tumor must be \\> 2cm in diameter measured by physical examination and mammography (mandatory) plus either echography or Magnetic Resonance Imaging (MRI)\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1\n* Adequate bone marrow reserve\n* Adequate liver and renal function.\n* Age \\> or = 18 years\n\nExclusion criteria:\n\n* Any prior treatment for primary breast cancer.\n* Bilateral or multicentric breast cancer.\n* Other primary tumors within the previous 5 years, except for adequately controlled limited basal cell carcinoma of the skin or carcinoma in situ of the cervix.\n* Pre-existing peripheral neuropathy grade \\> or = 2 as per National Cancer Institute Common Toxicity Criteria for Adverse Event (NCI CTCAE) at randomization.\n* Any history of medical (e.g., cardiovascular, uncontrolled pulmonary, renal, or hepatic dysfunction, uncontrolled infection) or psychiatric condition or laboratory abnormality that, in the opinion of the investigator, may increase the risks associated with the study participation or administration of the investigational products, or that may interfere with the interpretation of the results\n* Pregnancy or breastfeeding women.\n* Women of childbearing potential (\\<2 years after the last menstruation) not using effective, non-hormonal means of contraception during the study and for a period of 6 months following the last administration of study drug.\n* Requirement for radiation therapy concurrent with study anticancer treatment. Patients who require breast or chest wall radiation therapy after surgery are eligible.\n* Known hypersensitivity to any of the study drugs or excipients\n\nThe above information is not intended to contain all considerations relevant to a patient's potential participation in a clinical trial.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

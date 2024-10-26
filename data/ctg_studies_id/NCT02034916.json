@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02034916",
+    "briefTitle": "A Phase 2, 2-Stage, 2-Cohort Study of Talazoparib (BMN 673), in Locally Advanced and/or Metastatic Breast Cancer Patients With BRCA Mutation (ABRAZO Study)",
+    "officialTitle": "A PHASE 2, 2-STAGE, 2-COHORT STUDY OF TALAZOPARIB (BMN 673) ADMINISTERED TO GERMLINE BRCA MUTATION SUBJECTS WITH LOCALLY ADVANCED AND/OR METASTATIC BREAST CANCER",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasms, BRCA 1 Gene Mutation, BRCA 2 Gene Mutation",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 84,
+    "primaryOutcomeMeasure": "Objective Response Rate (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed carcinoma of the breast\n* Locally advanced and/or metastatic disease\n* Deleterious or pathogenic germline BRCA 1 or BRCA 2 mutation\n* Prior chemotherapy: Cohort 1) PR or CR to prior platinum-containing regimen for metastatic disease with disease progression \\> 8 weeks following the last dose of platinum; or Cohort 2) \\> 2 prior chemotherapy regimens for metastatic disease and no prior platinum for metastatic disease\n* ECOG performance status \u2264 1\n* Have adequate organ function\n\nExclusion Criteria:\n\n* Prior enrollment into a clinical trial of a PARP inhibitor\n* CNS metastasis except adequately treated brain metastasis documented by baseline CT or MRI scan that has not progressed since previous scans and that does not require corticosteroids for management of CNS symptoms\n* Prior malignancy except for prior BRCA-associated cancer as long as there is no current evidence of the prior cancer, carcinoma in situ of the cervix or non-melanoma skin cancer, and a cancer diagnosed and definitively treated \\>5 years prior to study enrollment with no subsequent evidence of recurrence\n* Known to be HIV positive, active hepatitis C virus, or active hepatitis B virus\n* Known hypersensitivity to any of the components of talazoparib",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

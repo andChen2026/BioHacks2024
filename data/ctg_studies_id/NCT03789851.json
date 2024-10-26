@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03789851",
+    "briefTitle": "Minimally Invasive Biopsy Predicting Breast pCR After NAC for Breast Cancer",
+    "officialTitle": "Minimally Invasive Biopsy Technique Predicting Breast Pathological Complete Respons After Neoadjuvant Chemotherapy for Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "false negative CNB results\uff0creported as the false negative rate (= FNR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* after full-course neoadjuvant chemotherapy (NAC) according to the NACT protocol\n* with cT1c-cT4a-c tumors\n* after informed consent\n* with breast ultrasound, mammography (and breast MRI where necessary) before and after NACT\n* Clinical / imaging partial or complete response to NAC\n* Any routine breast cancer surgical intervention planned according to guidelines (breast conservation or mastectomy)\n* Residual intramammary target lesion or clip marker is visible in ultrasound and / or mammography\n* Inclusion of only one breast per patient, in bilateral cancer one breast can be included\n* In case of multicentric disease: confirmation of the same tumorbiological subtype defined by immunohistology in at least 2 lesions.\n\nExclusion Criteria:\n\n* Palliative or recurrent breast cancer\n* Pregnancy and lactation\n* cT4d stage (inflammatory breast cancer)\n* M1 stages\n* stable disease according to a multimodal assessment of ultrasound, mammography and breast MRI (if available) according to RECIST\n* dislocation of marker (\\> 10mm distance to the initial lesion)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

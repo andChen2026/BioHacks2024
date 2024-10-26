@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03879629",
+    "briefTitle": "TrAstuzumab Cardiomyopathy Therapeutic Intervention With Carvedilol",
+    "officialTitle": "TrAstuzumab Cardiomyopathy Therapeutic Intervention With Carvedilol (TACTIC) Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 450,
+    "primaryOutcomeMeasure": "Rate of asymptomatic and symptomatic cardiac dysfunction",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \u226518 years of age,\n* new or locally recurrent diagnosis of HER2+ breast cancer that will be treated with curative intent\n* planned HER2-directed (any therapy targeting HER2 signaling including Trastuzumab +/- pertuzumab or trastuzumab-emtansine (T-DM1) Nerantinib and lapatinib will not be considered. \"HER2-directed therapy\" or \"anti-HER-2\".\n\nExclusion Criteria:\n\n* history of HF of any class and type, or diagnosis of cardiomyopathy in the past,\n* LVEF \\<50% at screening,\n* intolerance to beta-blocker,\n* baseline use of any beta-blocker for coronary artery disease including myocardial infarction\n* current ACE inhibitor or ARB therapy for hypertension in the presence of diabetes and/or for chronic kidney disease/proteinuria,\n* on active therapy with amiodarone, sotalol, or any other antiarrhythmic\n* Diagnosis of asthma with current daily use of anti-asthmatic therapy\n* heart rate \\< 50 BPM at screening (average of 3 most recent readings)\n* history of or current sick sinus syndrome,\n* AV block grade II or higher (unless patient has a permanent pacemaker) at screening,\n* systolic blood pressure \\< 90 mmHg at screening (average of 3 most recent readings)\n* severe hepatic dysfunction, as defined by NCI ODWG (total bilirubin \\>3x ULN, any AST elevation) or Child Pugh C class\n* pregnancy\n* Metastatic breast cancer (distant metastases)\n* Active systemic treatment for non-breast cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

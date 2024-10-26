@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01980823",
+    "briefTitle": "Pre-Surgical Trial of the Combination of Metformin and Atorvastatin in Newly Diagnosed Operable Breast Cancer",
+    "officialTitle": "Pre-Surgical \"Window of Opportunity\" Trial of the Combination of Metformin and Atorvastatin in Newly Diagnosed Operable Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Breast Tumors, Cancer of Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 23,
+    "primaryOutcomeMeasure": "Change in tissue levels of the proliferation marker Ki-67",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female subjects with histologically-confirmed operable invasive breast cancer or DCIS, who undergo core needle biopsy followed by surgical excision at least 2 weeks after enrollment\n* \u2265 5 mm by imaging/pathology of core to ensure enough pre- and post-treatment tissue for analysis\n* Age \u2265 21 years. Breast cancer is uncommon in patients less than this age.\n* No prior chemotherapy, radiation therapy, or breast resection within 6 months of study entry\n* Eastern Cooperative Oncology Group (ECOG) Performance Status 0-1\n* Signed informed consent\n\nExclusion Criteria:\n\n* Currently on medication for diabetes or hypercholesterolemia\n* Treatment with other investigational drugs within 6 months of study entry\n* Strong Cytochrome P450 3A4 (abbreviated CYP3A4) (e.g., clarithromycin, HIV protease inhibitors, and itraconazole), given potential interactions with atorvastatin\n* Renal impairment with a creatinine \\> 1.4 mg/dl\n* Hepatic impairment: Aspartate transaminase (AST)/(SGOT), Alanine Transaminase(ALT)/(SGPT) \u2265 2.5 x upper limit of normal range (ULN), OR Total bilirubin \u2265 1.5 x ULN (subjects with Gilbert's syndrome can have bilirubin of up to 1.5 x ULN), OR Alkaline phosphatase \\> 2.5 x ULN",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

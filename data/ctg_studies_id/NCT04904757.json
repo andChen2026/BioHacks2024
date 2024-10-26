@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04904757",
+    "briefTitle": "Contrast-enhanced Spectral Mammography (CESM) Breast Cancer Screening",
+    "officialTitle": "Willingness of Women to Undergo a Contrast-enhanced Spectral Mammography (CESM) for Breast Cancer Screening and Their Experience Before and After CESM",
+    "overallStatus": "RECRUITING",
+    "conditions": "Mammographic Breast Density, Mammography",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 210,
+    "primaryOutcomeMeasure": "Evaluate the patient experience during a screening CESM",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \u2022 Female\n\n  * 40 to 69 years\n  * Previous normal mammogram (BI-RADS 1 or 2) showing heterogeneous or extremely dense breast tissue within last 24 months\n  * Scheduled for screening mammogram as part of the patient's clinical care\n\nExclusion Criteria:\n\n* \u2022 No mammogram within last 24 months\n\n  * Fatty or scattered fibroglandular tissue on last mammogram\n  * History of allergy to iodinated contrast\n  * History of renal disease or renal function abnormalities\n  * Pregnant women\n  * History of diabetes\n  * History of paraproteinemia syndromes such as multiple myeloma\n  * History of collagen vascular disease\n  * History of vascular disease (coronary artery disease, myocardial infarction, carotid disease, peripheral vascular disease, or known visceral artery disease)\n  * Previously identified as high risk for breast cancer (\\>20% lifetime risk)\n  * Asthma\n  * Sickle Cell Anemia\n  * Currently on Dialysis",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

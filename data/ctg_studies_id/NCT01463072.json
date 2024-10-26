@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01463072",
+    "briefTitle": "Nab-Paclitaxel in Treating Older Patients With Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "Efficacy and Tolerability of Nanoparticle Albumin Bound Paclitaxel (Abraxane) in Patients 65 and Older With Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Locally Advanced Breast Carcinoma, Metastatic Breast Carcinoma, Recurrent Breast Carcinoma, Stage III Breast Cancer AJCC v7, Stage IIIA Breast Cancer AJCC v7, Stage IIIB Breast Cancer AJCC v7, Stage IIIC Breast Cancer AJCC v7, Stage IV Breast Cancer AJCC v6 and v7",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Percent of Participants With Grade 2-5 Toxicity Using National Cancer Institute Common Toxicity Criteria Version 4.0",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Locally advanced or metastatic breast cancer\n* Any estrogen receptor (ER), progesterone receptor (PR), or human epidermal growth factor receptor 2 (Her2neu) status as long as the patient will receive nab-paclitaxel alone\n* First or second line chemotherapy treatment for metastatic disease\n* Karnofsky performance status (KPS) \\>= 70%\n* Resolution of grade \\>= 2 toxicity from prior therapy (other than alopecia)\n* Peripheral neuropathy =\\< grade 1\n* Absolute neutrophil count \\>= 1,500/mm\\^3\n* Platelets \\>= 100,000 cells/mm\\^3\n* Hemoglobin (Hb) \\>= 9.0 g/dl\n* Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) =\\< 2.5 x institutional upper limit of normal\n* Alkaline phosphatase =\\< 2.5 x upper limit of normal unless bone metastasis are present in the absence of liver metastases\n* Bilirubin =\\< 1.5 mg/dl\n* Creatinine clearance (calculated or 24 hour) \\>= 30 ml/min\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Patients may not be receiving any other investigational agents\n* Untreated central nervous system (CNS) metastases or symptomatic CNS metastases requiring escalating doses of corticosteroids\n* Known history of allergic reactions to paclitaxel\n* Presence of any serious or uncontrolled infection\n* Receipt of a taxane for adjuvant therapy or metastatic disease in the last 12 months",
+    "sex": "ALL",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

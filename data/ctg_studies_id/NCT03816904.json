@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03816904",
+    "briefTitle": "Involvement of SK3 Calcium Channel in Taxane Neuropathy",
+    "officialTitle": "Involvement of SK3 Calcium Channel in Taxane Neuropathy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Chemotherapy-induced Peripheral Neuropathy, Prostate Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 97,
+    "primaryOutcomeMeasure": "Appearance of a neuropathy secondary to taxanes using Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nBreast Group\n\n* Age \u2265 18 years\n* Breast cancer\n* Chemotherapy with paclitaxel or docetaxel\n* Adjuvant or neoadjuvant chemotherapy in localized cancer or first-line treatment in metastatic cancer\n* Signed informed consent\n\nProstate Group\n\n* Age \u2265 18 years\n* Metastatic prostate cancer\n* Chemotherapy with docetaxel in 1st line\n* Signed informed consent\n\nExclusion Criteria:\n\n* Anteriority or concomitance of another chemotherapy provider of neuropathy (platinum salts)\n* Another possible cause of neuropathy: diabetes, alcoholism, vitamin B9 / B12 deficiency, neurodegenerative disease, Raynaud's syndrome",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

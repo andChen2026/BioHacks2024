@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01181518",
+    "briefTitle": "Tamoxifen Pharmacogenetics in Asian Breast Cancer Women",
+    "officialTitle": "Observational Study: Biomarker Research for Tamoxifen Pharmacogenetics Among Asian Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Poisoning by, Adverse Effect of and Underdosing of Tamoxifen",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Association between genetic polymorphisms of CYP2D6, CYP2C19, and CYP3A5 and disease free survival among tamoxifen treated breast cancer patients",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* incident breast cancer patients who underwent surgery\n\nExclusion Criteria:\n\n* previous cancer history before breast cancer diagnosis",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

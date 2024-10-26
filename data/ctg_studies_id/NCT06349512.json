@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06349512",
+    "briefTitle": "68Ga-FAPI-46 PET/CT for Predicting Histological Response in Triple-negative Breast Cancer (FAP-IT)",
+    "officialTitle": "68Ga-FAPI-46 PET/CT for Predicting Histological Response to Neoadjuvant Chemo-immunotherapy in Triple-negative Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Area under the ROC curve",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female with age \u2265 18 years,\n2. Patients with previously untreated, non-metastatic, centrally confirmed TNBC (stage T1c N1-2 or T2-4 N0-2 per AJCC) for whom a neoadjuvant treatment with chemotherapy + pembrolizumab is the recommended option as standard of care,\n3. Patients with measurable targets according to RECIST/PERCIST criteria,\n4. Patients without distant metastasis based on staging 18F-FDG PET/CT,\n5. Patients with tumor tissue available,\n6. Patients who provided a signed written informed consent,\n7. Patient ability to comply with protocol requirements,\n8. Patients covered by a health insurance system.\n\nExclusion Criteria:\n\n1. Pregnant and lactating women,\n2. Patients with prior anti-PD(L)1 immunotherapy,\n3. Patients with any contra-indication to chemo-immunotherapy standard of care therapy, per investigator assessment,\n4. Patients with altered mental status or psychiatric disorder that, in the opinion of the investigator, would preclude a valid patient informed consent,\n5. Patients who have difficulty undergoing trial procedures for geographic, social or psychological reasons,\n6. Patients who are not affiliated to a social security system, or who are deprived of liberty, or under guardianship.\n7. Person deprived of liberty or under guardianship",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

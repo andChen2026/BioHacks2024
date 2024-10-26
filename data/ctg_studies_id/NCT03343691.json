@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03343691",
+    "briefTitle": "Blood Test for Early Detection of Breast Cancer Using Todos Medical -Breast 1(TM-B1) Assay",
+    "officialTitle": "Blood Test for Early Detection of Breast Cancer Using Todos Medical -Breast 1(TM-B1) Assay",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "This study is intended to evaluate the sensitivity and specificity of the TM-B1 test compared to the Gold Standard diagnostic methods and clinical evaluations based on Digital X-Ray Mammography (XRM), and / or ultrasound, and / or MRI and / or pathology.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nScreening Population:\n\n* Subject signed the informed consent.\n* Subject is aged 25 years and older.\n* Subject is presenting for routine screening or diagnostic XRM and / or breast US.\n\nBreast Cancer Population\n\n* Subject signed the informed consent form.\n* Subject is aged 25 years and older.\n* Subject was diagnosed with a malignant breast tumor, and has not yet started treatment.\n\nExclusion Criteria:\n\nAll Subjects:\n\n* Subject has been diagnosed with any type of malignancy apart from breast cancer.\n* Subject has been previously treated for breast cancer.\n* Subject underwent any surgery within the previous year (apart from benign nevus removal).\n* Subject was treated for benign tumor within the previous year (e.g. polyps or cysts).\n* Subject has an active infection or inflammation from any type of infection (bacterial or viral) as determined clinically at screening.\n* Subject is currently taking medications related directly to, or that can affect, the immune system such as steroids.\n* Subject has any type of active autoimmune disease such as lupus or rheumatoid arthritis.\n* Diagnostic drugs (e.g. contrast materials) were injected or given orally to subject within the last 7 days prior to sample collection for TM-B1 analysis.\n* Subject has been taking any investigational drug which influence her health status within 30 days prior to sample collection for TM-B1 analysis.\n* Subject is not feeling well at the time of blood collection for TM-B1 analysis due to suspected bacterial or viral infection or subject has symptoms such as high fever, diarrhea, headache, vomiting, dizziness etc.\n* Subject is pregnant, lactating, or undergoing fertility treatment.\n* Subject has participated in this study, in another cohort, and the TM-B1 test was performed.\n\nBreast Cancer Population only:\n\n* The subject's tumor has been surgically removed before sample collection for TM-B1 analysis.",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

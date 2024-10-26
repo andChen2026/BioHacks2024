@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06161922",
+    "briefTitle": "Real World Patient-Reported Outcomes in Chinese Her2+ EBC Patients Receiving (Neo) Adjuvant Anti-Her2 Based Therapy",
+    "officialTitle": "Real World Patient-Reported Outcomes in Chinese Her2+ Early Breast Cancer Patients Receiving (Neo) Adjuvant Anti-Her2 Based Therapy",
+    "overallStatus": "RECRUITING",
+    "conditions": "HER2-positive Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "EORTC QLQ-C30 score",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients aged \u226518 years;\n2. Women;\n3. Have signed the informed consent form as per local regulations;\n4. Newly diagnosed with non-metastatic breast cancer (stage I-II-III, HER2+) at the time of starting anti-HER2 therapy;\n5. Be able to comply with the follow-up visits, assessments, answering questionnaires.\n\nExclusion Criteria:\n\n1. Metastatic breast cancer;\n2. Prior systemic treatment for any malignancy;\n3. Active secondary cancer requiring anti-HER2 therapy;\n4. Vulnerable populations \\[e.g., decisional impaired (cognitive, psychiatric), terminally ill, prisoners\\], or patients who, in the opinion of the investigator have a condition that precludes their ability to provide an informed consent;\n5. Men.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

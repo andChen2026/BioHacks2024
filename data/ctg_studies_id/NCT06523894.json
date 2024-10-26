@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06523894",
+    "briefTitle": "Ablative SBRT in Elderly BC Patients",
+    "officialTitle": "EASE (brEAst Stereo Elderly): A Phase Ia/Ib Study of Stereotactic Ablative Irradiation as an Alternative to Surgery in Elderly and Comorbid Breast Cancer Subjects",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 36,
+    "primaryOutcomeMeasure": "Maximum Tolerated Dose (MTD)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age over 70 years\n2. Histologically confirmed diagnosis of BC, any time before study enrollment.\n3. Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 3.\n4. Patient considered inoperable in multidisciplinary board decision or refusing surgery. Main criteria determining inoperability are inability to receive general anesthesia after anesthetics and/or surgical evaluation. Criteria described in the statement of American Society of Anesthesiologists (ASA) {, #4699} and American College of Surgeons Surgical risk calculators {, #4695} are usually addressed in the multidisciplinary discussion (Appendix ).\n5. Presence of measurable disease in the breast, defined as a lesion that can be accurately measured in at least one dimension with imaging (ultrasound, CT or MRI). Disease in the axilla or internal mammary chain is allowed and will be treated at the discretion of the radiation oncologist. Regional disease is not considered in measurements of local response.\n6. Primary tumor accessible to SBRT, as defined by treating radiation oncologist.\n7. Neo-adjuvant systemic therapy is allowed.\n8. Tumor size in planning computed tomography (CT) permitting SBRT delivery. SBRT appropriateness is defined by the treating radiation oncologist.\n9. Multifocality (over two tumor foci within the same breast quadrant) is allowed, as long as the total treatment volumes remain suitable for SBRT, as defined by the treating radiation oncologist.\n10. Total tumor treatment volume/ whole breast volume ratio not exceeding 30%.\n11. Previous treatment for BC to the contralateral breast is allowed. Previous treatment to the same breast for other reason than BC is allowed.\n12. Capacity of patient to collaborate for SBRT delivery.\n13. Capacity of patient to understand and sign a written informed consent according to International Council for Harmonization (ICH)/Good Clinical Practice (GCP) regulations before registration.\n\nExclusion Criteria:\n\n1. Prior surgery for the current diagnosis.\n2. Prior whole or partial breast irradiation to the involved breast.\n3. Absolute contraindication to RT, such as Li-Fraumeni syndrome.\n4. Current participation and receipt of study therapy or previous participation in a study of an investigational agent and receipt of study therapy or used an investigation device within 4 weeks of the first day of treatment.\n5. Not able to communicate meaningfully with investigator and site staff and/or incapable of discernment.\n6. Any other serious underlying medical, psychiatric, psychological, familial or geographical condition, which in the judgment of the investigator may interfere with the planned staging, treatment and follow-up, affect patient compliance or place the patient at high risk from treatment-related complications.\n\n   -",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

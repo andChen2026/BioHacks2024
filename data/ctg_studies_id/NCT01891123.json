@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01891123",
+    "briefTitle": "Explore the Individual Treatment of Docetaxel and Paclitaxel in NSCLC, NPC and BRC by PK-guided Dosing Strategy",
+    "officialTitle": "An Open-label Randomized Clinical Trial to Compare the Toxicities and Efficacy of Pharmacokinetically-guided and BSA Fixed Dosing Strategy of Docetaxel and Paclitaxel in Chinese Non-small Cell Lung Cancer, Nasopharyngeal Carcinoma, and Breast Cancer Patients.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Non-small Cell Lung Cancer, Breast Cancer, Nasal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Toxicities rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed by pathology for advanced non small cell lung cancer, suitable for paclitaxel or docetaxel chemotherapy (clinical stage IV according to 2009 IASLC staging or recurrent NSCLC; receiving palliative chemotherapy independent of lines)\n* ECOG PS score: 0 to 2 points\n* Survival is expected to more than 3 month\n* Bone marrow reserve function is good, the function of organs (liver and kidney) is good, can satisfy the conditions of implementation chemotherapy.\n* Sign the informed consent form\n* Compliance is good, can be followed up, willing to comply with the requirements of the study\n\nExclusion Criteria:\n\n* Physical status score (ECOG) greater than 2\n* organic disease\uff1bSeverely active infection\uff1bOrgan transplantation immune therapy\uff1bCan't complete with in four to six cycles of chemotherapy\n* Bone marrow, liver and kidney dysfunction, clinical doctors identify intolerance to chemotherapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

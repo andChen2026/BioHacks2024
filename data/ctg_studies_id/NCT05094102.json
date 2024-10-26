@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05094102",
+    "briefTitle": "Intraoperative Evaluation of Axillary Lymphatics",
+    "officialTitle": "Intraoperative Evaluation of Axillary Lymphatics for Breast Cancer Patients Undergoing Axillary Surgery",
+    "overallStatus": "COMPLETED",
+    "conditions": "Lymphedema, Surgery, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 9,
+    "primaryOutcomeMeasure": "Number of Cases Where Lymphatics Were Visualized by Blue Dye Versus by ICG Using the OnLume Imaging System",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \u2265 18 years of age\n* Diagnosis of breast cancer requiring surgical lymph node evaluation either by sentinel lymph node biopsy or axillary lymph node dissection\n* Surgery at University of Wisconsin Hospital and Clinic\n\nExclusion Criteria:\n\n* Pregnant or breast feeding\n* Unable to provide informed consent\n* Allergy to indocyanine green\n* Patients with clinically positive lymph nodes undergoing sentinel lymph node biopsy, with or without axillary lymph node dissection, after neoadjuvant chemotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

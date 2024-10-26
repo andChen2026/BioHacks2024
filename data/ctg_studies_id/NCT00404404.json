@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00404404",
+    "briefTitle": "ABI-007 and Bevacizumab in Treating Women With Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "Phase II Trial of Abraxane Administered on a Weekly Schedule in Combination With Bevacizumab in Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "Progression-free survival as measured by RECIST criteria at 1 and 2 years",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed invasive breast cancer\n* Recurrent or metastatic disease OR locally recurrent disease not amenable to resection with curative intent\n* Measurable or nonmeasurable disease\n* No CNS metastases by CT scan or MRI\n* No HER2-neu-positive tumors\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Menopausal status not specified\n* Performance status 0-1\n* Absolute neutrophil count \u2265 1,500/mm\u00b3\n* Platelet count \\> 100,000/mm\u00b3\n* Creatinine \\< 2.0 mg/dL\n* Bilirubin normal\n* AST \u2264 2 times upper limit of normal (ULN) (5 times ULN if there is known liver involvement)\n* Urine protein:creatinine ratio \\< 1.0 OR proteinuria \\< 2+ by urine dipstick OR \u2264 1 g protein on 24-hour urine collection\n* No peripheral neuropathy \\> grade 1\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No other malignancies within the past 5 years except carcinoma in situ of the cervix, melanoma in situ, or basal cell carcinoma of the skin\n* No inadequately controlled hypertension, defined as systolic blood pressure (BP) \\> 150 mm Hg and/or diastolic BP \\> 100 mm Hg on antihypertensive medications\n* No prior hypertensive crisis or hypertensive encephalopathy\n* No New York Heart Association class II-IV congestive heart failure\n* No myocardial infarction or unstable angina within the past 6 months\n* No stroke or transient ischemic attack within the past 6 months\n* No significant vascular disease (e.g., aortic aneurysm or aortic dissection)\n* No symptomatic peripheral vascular disease\n* No evidence of bleeding diathesis or coagulopathy\n* No significant traumatic injury within the past 28 days\n* No abdominal fistula, gastrointestinal perforation, or intra-abdominal abscess within the past 6 months\n* No serious, nonhealing wound, ulcer, or bone fracture\n* No known hypersensitivity to any component of bevacizumab\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior paclitaxel albumin-stabilized nanoparticle formulation (ABI-007; Abraxane\\^\u00ae) or bevacizumab\n* No prior chemotherapy for metastatic disease\n* Prior hormonal therapy for metastatic disease allowed\n* At least 4 weeks since any prior therapy for cancer\n\n  * More than 12 months since prior adjuvant chemotherapy, including use of a taxane\n* More than 28 days since prior major surgery or open biopsy\n* More than 7 days since prior core biopsy or minor surgery (excluding placement of a vascular access device)\n* No concurrent major surgery\n* No other concurrent therapy for breast cancer\n* Concurrent bisphosphonates allowed if there is bone involvement\n* No concurrent prophylactic granulocyte colony-stimulating factors",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

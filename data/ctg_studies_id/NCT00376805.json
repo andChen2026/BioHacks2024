@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00376805",
+    "briefTitle": "Allogeneic Natural Killer (NK) Cells in Patients With Advanced Metastatic Breast Cancer",
+    "officialTitle": "Allogeneic Natural Killer Cells in Patients With Advanced Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Number of Patients Who Had Expansion of Natural Killer Cells",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Diagnosis of metastatic breast cancer that has progressed on or failed at least one salvage chemotherapy regimen for metastatic disease and that meets the following disease specific related criteria:\n\n  * Measureable metastatic disease per Response Evaluation Criteria In Solid Tumor (RECIST) - bone only not eligible.\n  * Disease progression while receiving prior therapy with a hormonal agent (if estrogen/progesterone receptor-positive) and/or trastuzumab (Herceptin\u00ae) (if HER2-neu positive)\n  * Brain metastases allowed provided they are stable for \u2265 3 months after prior treatment\n* Related HLA-haploidentical natural killer cell donor available (by \u2265 class I serologic typing)\n* Male or female\n* Performance status 50-100%\n* Platelet count \u2265 80,000/mm\u00b3 (unsupported by transfusions)\n* Hemoglobin \u2265 9 g/dL (unsupported by transfusions)\n* Absolute neutrophil count \u2265 1,000/mm\u00b3 (unsupported by sargramostim \\[GM-CSF\\] or filgrastim \\[G-CSF\\])\n* Creatinine \u2264 2.0 mg/dL\n* Liver function tests \\< 5 times normal\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* LVEF \\> 40%\\*\n* Pulmonary function \\> 50%\\* (DLCO corrected AND FEV_1)\n* No active infection (i.e., afebrile, off antibiotics, and no uninvestigated radiologic lesions)\n\nExclusion Criteria:\n\n* At least 3 days since prior prednisone or other immunosuppressive medications\n* No other concurrent therapy for cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

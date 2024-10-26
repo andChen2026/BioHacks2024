@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02772367",
+    "briefTitle": "Generation of Heart Muscle Cells From Blood or Skin Cells of Breast Cancer Patients",
+    "officialTitle": "Generation of Induced Pluripotent Stem Cell Derived Cardiomyocytes From Patients Exposed to Trastuzumab Therapy for Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "derive iPSs from skin fibroblasts",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Age greater than 18 years\n* Willing to participate in protocol procedures with signed informed consent\n* Assessment of LVEE via echocardiogram, cardiac MRI, or MUGA\n\nSubjects in the cardiotoxicity group (TOX) must meet the following criteria:\n\n* History of HER2 positive breast cancer (stage I-IV)\n* Prior/current treatment with anthracycline based chemotherapy followed by anti-HER2 directed therapy or anti-HER2 directed therapy alone\n* Assessment of LVEF at baseline prior to initiation of anthracycline or anti-HER2 therapy and during anti-HER2 therapy via echocardiogram, cardiac MRI, or MUGA\n* Prior confirmed diagnosis of cardiotoxicity associated with anti-HER2 based therapy, defined as a decrease in LVEF \\> 10% from baseline to \\< 53% with symptoms of heart failure (NYHA class II-IV).\n\nSubjects in the no cardiotoxicity group (NO-TOX) must meet the following criteria:\n\n* History of HER2 positive breast cancer (stage I-IV)\n* Completion of planned anthracycline and anti-HER2 therapy, or anti-HER2 therapy alone\n* No symptoms of heart failure (NYHA class II-IV) during and at the end of anthracycline and anti-HER2 therapy\n* Assessment of LVEF at baseline prior to innitiation of anthracycline or anti-HER2 therapy and during anti-HER2 therapy via echocardiogram, cardiac MRI, or MUGA\n* Normal LVEF \\>53% at each assessment during and at the end of trastuzumab therapy.\n* Maximum absolute decrease in LVEF \\<5% from baseline during and at the end of trastuzumab therapy.\n* LVEF assessment performed at baseline and at least two time points during trastuzumab therapy.\n\nExclusion Criteria:\n\n* Unwilling or unable to give skin biopsies\n* Contraindications to punch biopsy including but not limited to bleeding diathesis, as determined by the investigator.\n* Known pre-existing CV disease prior to initiation of breast cancer therapy as determined by the investigator, including\n\n  * Obstructive coronary artery disease (stenosis \\>70%)\n  * Arrhythmia - paroxysmal or persistent atrial arrhythmias, sustained ventricular tachycardia (\\>30 seconds), ventricular fibrillation, or cardiac arrest\n  * Cardiomyopathy (EF \\<53%)\n  * Heart failure (NYHA class II-IV)\n  * Valvular heart disease with equal to or greater than moderate stenosis or regurgitation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

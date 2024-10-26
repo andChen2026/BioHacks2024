@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01148875",
+    "briefTitle": "Mammography Reminders for Encouraging Women to Undergo Regular Mammography Screenings for Breast Cancer",
+    "officialTitle": "Finding the M.I.N.C. for Mammography Maintenance",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 3547,
+    "primaryOutcomeMeasure": "Mammography Adherence",
+    "eligibilityCriteria": "Inclusion criteria:\n\n1. Women members of The North Carolina Teachers' and State Employees' Comprehensive Major Medical Plan (SHP)\n2. Age 40-75\n3. Enrolled with the SHP for at least 24 months, not covered by COBRA or Medicare primary\n4. Based on claims data, women will have had their last mammogram 6-8 months ago so reminders will arrive 2 months prior to due date for next mammogram.\n\nExclusion criteria:\n\n1. Unable to speak and understand English. We lack the resources to adapt the intervention appropriate for non-English speakers. Moreover, we do not know if the interventions lend themselves to cultural translation. We regard this as a next logical research activity.\n2. Have breast cancer or have some other illness that precludes participation. Women diagnosed with breast cancer before the study are ineligible; their screening schedules are consistent with recommendations for the general population. However, if women develop breast cancer during the study, we would ask them a reduced set of questions.\n\nWe selected age 75 as the upper limit, because there are too few women over age 75 to permit meaningful statistical analysis (\\<100 women in all). The SHP is largely a working population. We wish that it were possible both to include and analyze women older than age 75. This is a limitation of the population we have selected.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

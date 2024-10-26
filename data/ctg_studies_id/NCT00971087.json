@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00971087",
+    "briefTitle": "Multicenter Hologic Tomosynthesis Study",
+    "officialTitle": "A Multicenter, Controlled Clinical Trial to Evaluate the Hologic Tomosynthesis Mammography",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 3800,
+    "primaryOutcomeMeasure": "To detect a statistically significant increase in the area under the ROC curve when comparing 2-D plus 3-D images to the 2-D images. The ROC curves will be generated from the probability of malignancy scale, a score of 0% to 100%.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Any ethnic origin\n* No contraindication of routine bilateral mammography\n\nExclusion Criteria:\n\n* Any contraindications to mammographic screening, including but not limited to:\n* Significant existing breast trauma\n* Pregnancy\n* Lactating\n* Previous surgical biopsy\n* Previous breast cancer\n* Placement of an internal breast marker\n* Breast implants\n* Unable to understand and execute written informed consent\n* Breasts are too large to be imaged on the 24 cm by 29 cm detector with a single exposure",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

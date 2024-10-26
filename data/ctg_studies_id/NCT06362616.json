@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06362616",
+    "briefTitle": "Preoperative Accelerated Partial Breast Irradiation in Patients With Locally Recurrent or Second Primary Breast Cancer",
+    "officialTitle": "Preoperative Accelerated Partial Breast Irradiation in Patients With Locally Recurrent or Second Primary Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 31,
+    "primaryOutcomeMeasure": "Acute post-treatment toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients \u2265 51 years\n* Ipsilateral breast cancer; recurrence or second primary\n* Histologically proven invasive adenocarcinoma (invasive adenocarcinoma with ductal carcinoma in situ (DCIS) component is also accepted)\n* Histologically proven estrogen receptor positive, HER2neu-negative\n* Tumor size \u2264 3 cm\n* Grade I or grade II (biopsy)\n* cN0M0 (No evidence of nodal or distant metastases on axillary ultrasound and, if indicated, positron emission tomography-computed tomography (PET-CT) scan)\n* Unifocal lesions on mammogram and MRI (small satellite lesions adjacent to the tumor are accepted as long as it is suitable for local excision)\n* Interval since completion of local treatment of primary tumor \\> 12 months\n* Previous radiotherapy (whole breast or partial) of the ipsilateral breast\n* Repeat breast conserving surgery feasible\n* World Health Organization (WHO) performance \u2264 2\n* Written informed consent\n* The patient is legally competent\n\nExclusion Criteria:\n\n* \u2265 grade 3 radiotherapy toxicity in the breast after treatment of the primary tumor\n* Previous boost radiotherapy is not allowed, UNLESS the protocol tumor lies outside of the original boost area\n* Distant metastases and/or synchronous contralateral invasive or in situ carcinoma\n* Invasive lobular carcinoma (ILC) or pleiomorphic lobular carcinoma in situ (LCIS)\n* DCIS only, i.e. no invasive carcinoma present\n* Triple negative or HER2-positive subtype\n* Lymphovascular invasion in biopsy\n* Neoadjuvant systemic treatment for the protocol tumor (except for pre-surgery hormonal therapy \u2264 2 months)\n* (Planned) oncoplastic surgery with major tissue displacement\n* Participation in another clinical trial that interferes with the locoregional treatment of this protocol.\n* It is expected that dosimetric constraints cannot be met, such as lung/heart constraints.",
+    "sex": "FEMALE",
+    "minimumAge": "51 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

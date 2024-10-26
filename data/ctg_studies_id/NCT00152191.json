@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00152191",
+    "briefTitle": "A Randomized Controlled Study of Postoperative Adjuvant Therapy of Uracil-tegafur (UFT) Compared With Cyclophosphamide/Methotrexate/5-fluorouracil (CMF) in Breast Cancer (NSAS-BC)",
+    "officialTitle": "A Randomized Controlled Study of Postoperative Adjuvant Therapy of UFT Compared With CMF in High-risk Women With Axillary Node-negative Breast Cancer (NSAS-BC)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1300,
+    "primaryOutcomeMeasure": "Relapse-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 to 75\n* Performance status 0 or 1 (ECOG)\n* Hematopoietic WBC \u2265 4,000/mm\\^3 Platelet \u2265 100,000/mm\\^3\n* Hepatic AST and ALT \u2264 2.5 times upper limit of normal(ULN) Total bilirubin \u2264 ULN\n* Renal Creatinine \u2264 ULN\n\nExclusion Criteria:\n\n* Prior anticancer treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00626106",
+    "briefTitle": "QUILT-2.015: A Study of AMG 479 With Exemestane or Fulvestrant in Postmenopausal Women With Hormone Receptor Positive Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "An International, Randomized, Double-blind, Placebo-controlled, Phase 2 Study of AMG 479 With Exemestane or Fulvestrant in Postmenopausal Women With Hormone Receptor Positive Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Breast Tumors, Metastatic Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 156,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed carcinoma of the breast with locally advanced or metastatic disease\n* Confirmation of hormone receptor (HR) positive disease status\n* Amenable to receive endocrine therapy\n* Disease progression while receiving prior endocrine therapy for locally advanced or metastatic breast cancer\n* Postmenopausal woman \u2265 18 years old\n\nExclusion Criteria:\n\n* HR-unknown or HR-negative disease\n* Not amenable to endocrine therapy\n* Central nervous system metastasis",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05246735",
+    "briefTitle": "Frequency Domain Optical Imaging",
+    "officialTitle": "Frequency Domain Optical Imaging of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Compare spatial localization and contrast images of breast abnormalities from MR-guided NIR absorption and fluorescence tomography to NIR absorption and fluorescence tomography alone",
+    "eligibilityCriteria": "HEALTHY VOLUNTEERS\n\nInclusion Criteria:\n\n1. Female, \u226520 years old\n2. Breast size and epithelial integrity adequate to allow NIR imaging exams.\n3. Ability to provide written informed consent\n4. No serious associated psychiatric illnesses.\n\nExclusion Criteria:\n\n1. Absolute or relative contraindication to MRI:\n\n   1. the presence of an electronic implant, such as a pacemaker\n   2. the presence of a metal implant, such as an aneurysm clip\n   3. claustrophobia\n   4. the presence of other contraindication(s), as determined by the MRI technologists and radiologists.\n2. Pregnancy\n\nWOMEN WITH BREAST ABNORMALITIES\n\nInclusion:\n\n1. Female, \u2265 20 years old.\n2. Breast size and epithelial integrity adequate to allow NIR imaging exams.\n3. Ability to provide written informed consent.\n4. No serious associated psychiatric illnesses.\n5. A recent screening mammogram that questions the presence of an abnormality, thus requiring further mammographic examination.\n\nExclusion:\n\n1. Absolute or relative contraindication to MRI:\n\n   1. the presence of an electronic implant, such as a pacemaker\n   2. the presence of a metal implant, such as an aneurysm clip\n   3. claustrophobia\n   4. the presence of other contraindication(s), as determined by the MRI technologists and radiologists.\n2. Pregnancy\n3. A history of allergy to iodides\n4. A GFR \\< 30 ml/min as determined by blood test on the day of NIR/MR imaging, or from lab results within 3 months of NIR/MR imaging.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06243432",
+    "briefTitle": "Estrogen Receptors and HER2 Levels' Expression in Luminal Metastatic Breast Cancer",
+    "officialTitle": "Estrogen Receptors and HER2 Levels' Expression in Luminal Metastatic Breast Cancer: Correlation to Therapeutic Efficacy of Cycline-Dependent Kinase Inhibitors(CDK4/6) as First Line Treatment. CYCLHER Study",
+    "overallStatus": "RECRUITING",
+    "conditions": "Advanced Breast Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "Progression free survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 yo\n* Histological diagnosis of HR+/HER2- advanced breast cancer\n* Immunohistochemical HER2 negative evaluation (0, 1+ or 2+ FISH-)\n* Immunohistochemical expression levels of estrogen and progesterone receptors\n* First line CDK4/6 inhibitor plus endocrine therapy stared up to 12/31/2020\n* Signing of informed consent approved by local Ethic Committee\n\nExclusion Criteria:\n\n* Absence of clinical and pathological data that would compromise the definition of the study endpoints\n* HER2 positive (ICH 2+ and FISH positive or HER2 3 +) or triple negative disease\n* Previous chemotherapy for treatment of metastatic disease",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

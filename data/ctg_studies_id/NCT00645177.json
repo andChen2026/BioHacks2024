@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00645177",
+    "briefTitle": "Phase 2 Study of ABT-869 in Combination With Paclitaxel Versus Paclitaxel Alone to Treat Metastatic Breast Cancer",
+    "officialTitle": "A Phase 2 Randomized, Placebo-Controlled, Double-Blind Study of ABT-869 in Combination With Paclitaxel Versus Paclitaxel Alone as First-line Treatment in Subjects With Locally Recurrent or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Progression-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subject must be female and \\> 18 years of age.\n* Subject must be diagnosed with adenocarcinoma of the breast.\n* Subject must have metastatic disease or locally recurrent disease that is not amenable to surgical resection with curative intent.\n* No prior chemotherapy for locally recurrent or metastatic breast cancer.\n* At least 12 months since prior adjuvant or neoadjuvant chemotherapy (including prior taxane therapy and prior anti-angiogenic therapy \\[i.e. bevacizumab or a TKI\\]).\n* No HER-2 -over-expression (3+) breast cancer (unless treated with trastuzumab or lapatinib).\n* Subject has measurable disease by RECIST criteria (randomized portion only).\n* Eastern Cooperative Oncology Group (ECOG) Performance Score of 0-1.\n* Subject must have adequate bone marrow, renal and hepatic function.\n* Subject must have PTT \\< 1.5 x ULN and INR \\< 1.5.\n\nExclusion Criteria:\n\n* Subject has received anti-cancer therapy (other than chemotherapy) including investigational agents, or biologic therapy within 21 days or within a period defined by 5 half lives, whichever is shorter, prior to Study Day 1.\n* Subject has not recovered to less than or equal to grade 1 clinically significant adverse effects/toxicities of the previous therapy.\n* Subject has received radiation therapy within 14 days of Study Day 1.\n* Subject has received anti-cancer hormonal therapy within 14 days of Study Day 1.\n* Subject has undergone major surgery within 21 days of Study Day 1.\n* The subject has untreated brain or meningeal metastases.\n* Subject is receiving therapeutic anticoagulation therapy.\n* Subject has a history of or currently exhibits clinically significant cancer related events of bleeding (e.g., hemoptysis).\n* Subject currently exhibits symptomatic or persistent, uncontrolled hypertension.\n* Subject has a history of myocardial infarction, stroke, or transient ischemic attack (TIA) within 6 months of study day 1.\n* Subject has a documented left ventricular (LV) ejection fraction \\< 50%\n* Subject has known autoimmune disease with renal involvement.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

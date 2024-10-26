@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02004496",
+    "briefTitle": "Randomized Controlled Single-blind Trial to Evaluate the Mobile Tracking of Symptoms in Ambulatory Breast Cancer Patients",
+    "officialTitle": "N/A",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 139,
+    "primaryOutcomeMeasure": "Number of reported Adverse Events",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* female\n* 18 years old and older\n* German speaking\n* written informed consent\n* beginning of intravenous chemotherapy in the breast care center\n* diagnosis breast cancer\n* personal smartphone (own device)\n\nExclusion criteria:\n\n- patients who did not meet the inclusion criteria or if compliance could be questioned, e.g. due to a psychiatric illness or personal life.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

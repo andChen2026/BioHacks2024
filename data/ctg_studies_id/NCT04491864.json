@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04491864",
+    "briefTitle": "DWIBS-MRI: An Adjunct to the Traditional Diagnostic Breast Imaging Evaluation",
+    "officialTitle": "DWIBS-MRI: An Adjunct to the Traditional Diagnostic Breast Imaging Evaluation",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "MRI DWIBS Accuracy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* A patient will be eligible for inclusion in this study if she meets all of the following criteria:\n\n  1. \\>30 years of age\n  2. Genetic Female\n  3. Suspected diagnosis of BIRADS 4 or BIRADS 5 masses and/or asymmetries greater than 1 centimeter based on standard 2D/3D mammogram and ultrasound imaging.\n\nExclusion Criteria:\n\n* A patient is ineligible for inclusion in this study if she meets any of the following criteria:\n\n  1. Prior biopsy of suspicious lesion\n  2. Breast implants\n  3. Prior history of breast cancer\n  4. Patient has a pacemaker\n  5. Contraindications to use of MRI imaging (metal implants, etc.)\n  6. Woman pregnant or lactating\n  7. Calcifications as only findings present for a suspicious lesion",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

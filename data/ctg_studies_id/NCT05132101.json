@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05132101",
+    "briefTitle": "Analysis of the Real-world Prescription Pattern of Palbociclib Combination Therapy With Aromatase Inhibitor as a First Line Therapy in Metastatic Breast Cancer Patients Using the National Health Insurance Claims Data in South Korea",
+    "officialTitle": "Analysis of the Real-world Prescription Pattern of Palbociclib Combination Therapy With Aromatase Inhibitor as a 1st Line Therapy in Metastatic Breast Cancer Patients Using the National Health Insurance Claims Data in South Korea",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "Total treatment duration and cycle for Palbociclib",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients who were prescribed with palbociclib in combination with AI for at least 1 cycle during the index period\n* Patients who were diagnosed with BC during the index period\n\nExclusion Criteria:\n\n* Male\n* Prescribed with palbociclib during 12-month period preceding the index date",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

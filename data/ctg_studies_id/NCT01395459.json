@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01395459",
+    "briefTitle": "A Sustainable Approach to Increasing Cancer Screening",
+    "officialTitle": "A Sustainable Approach to Increasing Cancer Screening",
+    "overallStatus": "COMPLETED",
+    "conditions": "Colorectal Cancer, Breast Cancer, Cervical Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 13675,
+    "primaryOutcomeMeasure": "Change in population level cancer screening level at the health clinics involved.",
+    "eligibilityCriteria": "Parent study only (please see detailed description for substudy)\n\nInclusion criteria\n\n* All age and gender eligible patients, using GLFHC's guidelines, in need of: breast, cervical or colorectal cancer screenings.\n\nExclusion criteria\n\n* All GLFHC patients who do are not age or gender eligible for a breast, cervical or colorectal cancer screening.\n\nSubstudy only: Inclusion: age eligible clinic patients who pick up either a gFOBT or FIT kit during the study period. Exclusion: non-age eligible patients who pick up a home test kit.",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

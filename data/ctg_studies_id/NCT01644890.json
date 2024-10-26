@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01644890",
+    "briefTitle": "A Phase III Study of NK105 in Patients With Breast Cancer",
+    "officialTitle": "A Multi-national Phase III Clinical Study Comparing NK105 Versus Paclitaxel in Patients With Metastatic or Recurrent Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Nos Metastatic Recurrent",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 436,
+    "primaryOutcomeMeasure": "Progression Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent of the patient signed by herself.\n* Histologically confirmed metastatic or recurrent adenocarcinoma of the breast.\n* Aged 20 to 74 at the time of informed consent.\n\nExclusion Criteria:\n\n* Prior systemic chemotherapy with taxane anticancer drugs for metastatic or recurrent breast cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

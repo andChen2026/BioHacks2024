@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05142202",
+    "briefTitle": "High Five (HiFi) Accelerated Partial Breast Irradiation Study",
+    "officialTitle": "Doubly Accelerated Partial Breast Irradiation After Breast-Conserving Surgery for Early Breast Cancer - High Five (HiFi) APBI Study",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 147,
+    "primaryOutcomeMeasure": "Adjuvant treatment - the early toxicity incidence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* stage 0-II breast cancer\n* Invasive ductal carcinoma (NOS, NST, other subtypes), invasive lobular carcinoma, ductal carcinoma in situ (DCIS)\n* Invasive carcinoma/DCIS, which is unifocal and unicentric\n* pT1-2, maximal tumor size \\< 3 cm\n* pN0 (no metastases to the nodes)\n* LVI(-) - no lymphovascular invasion\n* M0 (no distant metastases)\n* Surgical margins free of cancer (no tumor on ink) in each direction; in the case of DCIS, the minimum margin of 2 mm in each direction\n* Lack of indications to chemotherapy/immunotherapy pre- or postsurgically (e.g., triple-negative, HER2-positive breast cancer)\n* Treatment start not later than 12 weeks after surgery (optimally 4-8 weeks, after wound healing)\n* Informed handwritten signed patient's consent\n\nExclusion Criteria:\n\n* stage III-IV breast cancer\n* pT2-4, maximal tumor size \u2265 3 cm\n* surgical margins cannot be properly microscopically assessed\n* EIC(+) - presence of extensive intraductal component\n* Paget's disease or microscopically assessed skin involvement\n* pN1-3M1 (presence of nodal or distant metastases)\n* pre- or postsurgical indications for chemotherapy/immunotherapy\n* other cancer (less than five years at time of recruitment) except skin cancer or cured FIGO 0-I cervical cancer\n* time of pregnancy or lactation\n* collagen disorders (congenital or acquired)\n* psychiatric disorder disabling patient's compliance\n* breast appearance or postsurgical status disabling safe interstitial multicatheter implantation\n* lack of informed handwritten signed patient's consent",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

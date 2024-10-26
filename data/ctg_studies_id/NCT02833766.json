@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02833766",
+    "briefTitle": "Anti-EGFR-immunoliposomes Loaded With Doxorubicin in Patients With Advanced Triple Negative EGFR Positive Breast Cancer",
+    "officialTitle": "Anti-EGFR-immunoliposomes Loaded With Doxorubicin in Patients With Advanced Triple Negative EGFR Positive Breast Cancer - A Multicenter Single Arm Phase II Trial",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 48,
+    "primaryOutcomeMeasure": "Progression-free survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent according to ICH/GCP regulations before prescreening and registration and prior to any trial specific procedures, including participation in mandatory translational research\n* Histologically proven diagnosis of TNBC in metastatic or locally advanced non operable stage\n* EGFR expression in primary tumor or metastases of at least (1+) in immunohistochemistry, assessed by central pathologist\n* Measurable or evaluable disease according to RECIST 1.1\n* No prior systemic treatment for metastatic or inoperable disease\n* Adequate bone marrow function: neutrophils \u2265 1.5 x 109/L, platelets \u2265 100 x 109/L\n* Adequate hepatic function: total bilirubin \u2264 1.5 x ULN; AST, ALT and AP \u2264 2.5 x ULN (AST, ALT and AP \u2264 5 x ULN if hepatic metastases are the only reason for enzyme elevation)\n* Adequate renal function: serum creatinine \u2264 1.5 x ULN and calculated creatinine clearance \\> 30 mL/min, according to the formula of Cockcroft-Gault.\n* Adequate cardiac function: Left Ventricular Ejection Fraction (LVEF) \u2265 40% as determined by either echocardiography (ECHO) or radionuclide angiocardiography (MUGA)\n\nExclusion Criteria:\n\n* Evidence of CNS or leptomeningeal metastases (even if previously treated); CNS imaging not required in asymptomatic patients\n* History of hematologic or primary solid tumor malignancy, unless in remission for at least 5 years from registration. Inclusion of adequately treated cervical carcinoma in situ or localized non-melanoma skin cancer is permitted independent of time since diagnosis\n* Previous therapy with more than 240 mg/m2 of doxorubicin or more than 450 mg/m2 of epirubicin\n* Previous radiotherapy for the metastatic disease (palliative radiotherapy of only non-target lesions is allowed)\n* Adjuvant treatment must have been stopped at least 6 months before registration\n* Any serious underlying medical condition (at the judgement of the investigator) which could impair the ability of the patient to participate in the trial (e.g. active autoimmune disease, uncontrolled diabetes, etc.)\n* Breastfeeding\n* Participation in any investigational drug trial within 4 weeks preceding treatment start\n* Any concomitant drugs contraindicated when administering Erbitux\u2122 or Caelyx\u2122 according to the Swissmedic-approved product information\n* Known hypersensitivity to trial drug(s) or to any component of the trial drug(s)\n* Any other serious underlying medical, psychiatric, psychological, familial or geographical condition, which in the judgment of the investigator may interfere with the planned staging, treatment and follow-up, affect patient compliance or place the patient at high risk from treatment-related complications.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

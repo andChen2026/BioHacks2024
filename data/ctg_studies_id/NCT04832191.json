@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04832191",
+    "briefTitle": "CE-MRI&CESM in Solid Breast Lesions",
+    "officialTitle": "1.3 Role of Contrast-enhanced Mammography and Dynamic Contrast-enhanced MRI in the Assessment of Solid Breast Lesions",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "comparison between accuracy of CESM and CE-MRI in diagnosing breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients who have previously undergone mammography (MG) and ultrasound and have a solid (BIRADs III and more) breast lesion.\n\nExclusion Criteria:\n\n* Cystic breast lesions\n* BIRADs I and II breast lesions(benign)\n* Pregnancy\n* History of allergic reaction to iodinated contrast agent\n* Renal insufficiency\n* Other contraindications to MRI include pacemaker, claustrophobia or metal prosthesis.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00146562",
+    "briefTitle": "Pegfilgrastim and Darbepoetin Alfa in Support of Adjuvant Chemotherapy for Breast Cancer",
+    "officialTitle": "A Phase II Study of Pegfilgrastim (Neulasta) and Darbepoetin Alfa (Aranesp) in Support of Dose-Dense Adjuvant Chemotherapy for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Stage I Breast Cancer, Stage II Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 135,
+    "primaryOutcomeMeasure": "To determine the rate of febrile neutropenia in women treated with dose-dense adjuvant chemotherapy receiving pegfilgrastim every 2 weeks.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed breast cancer clinical stage I, II or III disease. Patients must be deemed of sufficient risk for tumor or recurrence\n* Patients may receive the defined adjuvant chemotherapy treatment either following definitive breast surgery or prior to definitive breast surgery\n* 18 years of age or older\n* ECOG performance status 0 or 1\n* ANC \\> 1,500/uL\n* Hemoglobin \\> 9 g/dL\n* Platelets \\> 100,000/ul\n* Total bilirubin less than or equal to ULN\n* AST/ALT \\< 1.5 x ULN\n* Creatinine within normal institutional limits\n* PT/PTT \\< institutional upper limit of normal\n* LVEF \\> 50%\n\nExclusion Criteria:\n\n* Previous cytotoxic chemotherapy or therapeutic radiation therapy\n* Pregnant or lactating women\n* Receiving any other investigational agents\n* Stage IV breast cancer\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to pegfilgrastim or darbepoetin\n* Previous exposure to G-CSF or pegfilgrastim or to recombinant erythropoetin-related growth factors.\n* On antibiotics within 72 hours of registration\n* Patients with immune deficiency who are at increased risk of lethal infections when treated with marrow-suppressive therapy, or HIV-positive patients receiving anti-retroviral therapy\n* Sickle cell disease\n* Known positive antibody response to any erythropoietic agent\n* Known hematologic diseases\n* Known history of hyperviscosity syndrome\n* Patients on lithium\n* RBC transfusion within past 4 weeks",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

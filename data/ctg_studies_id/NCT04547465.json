@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04547465",
+    "briefTitle": "2D Speckle-tracking Echocardiography in Chemotherapy-induced Cardiomyopathy With Cardiovascular Risk Factors",
+    "officialTitle": "The Role of 2D Speckle-tracking Echocardiography in Diagnosis Chemotherapy-induced Cardiomyopathy in Breast Cancer Patients With High Cardiovascular Risk Factors",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Cardiomyopathy Due to Drug, Breast Cancer, Cardiovascular Risk Factor",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "The incidence of chemotherapy induced cardiomyopathy in breast cancer patients with cardiovascular risk",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer patients treated by anthracycline and/or trastuzumab\n* Have at least one of these cardiovascular risks: age \\> 60, hypertension, atrial fibrillation, diabetes mellitus, dyslipidemia, chronic kidney disease, obesity, family history of cardiovascular diseases.\n\nExclusion Criteria:\n\n* Left ventricular ejection fraction \\< 50% before chemotherapy\n* Chronic heart failure with NYHA functional class \\>= II\n* Significant valvular stenosis/regurgitation\n* Acute heart failure due to acute coronary syndrome during follow-up",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

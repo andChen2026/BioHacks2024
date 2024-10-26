@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03036943",
+    "briefTitle": "Fluciclovine (18F) Imaging of Breast Cancer",
+    "officialTitle": "An Open-labelled Study to Characterise Fluciclovine (18F) Uptake Measured by positRon emissiON Tomography In Breast cancER",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Tumour standardised uptake values (SUV) in invasive breast cancer, classified by molecular type, on fluciclovine (18F) PET imaging.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Biopsy proven breast cancer (invasive ductal or ductal carcinoma in situ (DCIS)) measuring \u2265 1.5cm\n\n   * Tumour size should be based on the longest diameter measured on ultrasound, mammogram or MRI performed within 2 months prior to enrolment.\n2. No prior treatment for breast cancer.\n3. Female, Age \\>= 40 years.\n4. The patient is willing and able to comply with the protocol scheduled visits and examinations for the duration of the study. Women of childbearing potential must follow contraception guidance given as standard of care at breast cancer diagnosis.\n5. Written (signed and dated) informed consent.\n\nExclusion Criteria:\n\n1. Pregnant or breastfeeding women\n2. Major surgery or significant traumatic injury within four weeks prior to enrolment.\n3. Treatment with any other investigational agent, or participation in another interventional clinical study within 4 weeks prior to enrolment.\n4. Multifocal breast cancer (defined as more than two tumours, either unilateral or bilateral).\n5. Known hypersensitivity to fluciclovine (18F) or any of its constituents.\n6. Other psychological, social or medical condition, physical examination finding or a laboratory abnormality that the Investigator considers would make the patient a poor study candidate or could interfere with protocol compliance or the interpretation of study results.\n7. Any other active malignancy or any previous diagnosis of melanoma.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

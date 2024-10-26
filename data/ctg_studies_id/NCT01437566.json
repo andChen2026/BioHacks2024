@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01437566",
+    "briefTitle": "Study of GDC-0941 or GDC-0980 With Fulvestrant Versus Fulvestrant in Advanced or Metastatic Breast Cancer in Participants Resistant to Aromatase Inhibitor Therapy",
+    "officialTitle": "A Phase II, Double-Blind, Placebo Controlled, Randomized Study of GDC-0941 or GDC-0980 With Fulvestrant Versus Fulvestrant in Advanced or Metastatic Breast Cancer in Patients Resistant to Aromatase Inhibitor Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 318,
+    "primaryOutcomeMeasure": "Progression Free Survival as Assessed by the Investigator Per modified RECIST v 1.1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1\n* As per national or local treatment guidelines, endocrine therapy (i.e., fulvestrant) is recommended and treatment with cytotoxic chemotherapy is not necessary for participants, at time of entry into the study.\n* Part I: Postmenopausal women with locally ABC or MBC whose disease relapsed during treatment with (or within 6 months after discontinuation of) an AI in the adjuvant setting or progressed during treatment with an AI in the metastatic setting.\n* Part II: Postmenopausal women with locally ABC or MBC whose disease has progressed during or after treatment with an AI. Participants who discontinued the AI for toxicity rather than completion of regimen or for disease progression are not eligible\n* Estrogen receptor (ER)-positive disease and human epidermal receptor 2 (HER2)-negative disease\n* Participants must have measurable disease by response evaluation criteria in solid tumors (RECIST) version (v) 1.1 or bone-only disease with radiologic scans\n* Adequate hematologic and end-organ function\n\nExclusion Criteria:\n\n* Prior treatment with fulvestrant, phosphoinositide 3-kinase (PI3K) inhibitor, or mechanistic target of rapamycin (mTOR) inhibitor for ABC or MBC\n* Prior anti-cancer therapy or radiotherapy within 2 weeks prior to Day 1 of Cycle 1\n* Prior treatment with greater than (\\>) one cytotoxic chemotherapy regimens or experienced recurrent or progressive disease on \\> two endocrine therapies for MBC\n* Participants requiring anti-hyperglycemic therapy\n* Clinically significant cardiac or pulmonary dysfunction\n* History of malabsorption syndrome or other condition that would interfere with enteral absorption\n* Clinically significant history of liver disease\n* Active uncontrolled autoimmune disease or active inflammatory disease\n* Immunocompromised status\n* Need for current chronic corticosteroid therapy\n* Pregnancy, lactation, or breastfeeding\n* Current severe, uncontrolled systemic disease\n* Symptomatic hypercalcemia\n* Known untreated or active central nervous system (CNS) metastases\n* History of other malignancy within the previous 5 years, except for appropriately treated carcinoma in situ of the cervix, non-melanoma skin carcinoma, Stage I uterine cancer, or patients who have undergone potentially curative therapy with no evidence of disease and are deemed by the treating physician to be at low risk for recurrence",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

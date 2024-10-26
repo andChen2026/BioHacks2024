@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02582801",
+    "briefTitle": "Clinical Research of 18F-Alfatide \u2161 PET/CT in Breast Cancer",
+    "officialTitle": "18F-Alfatide \u2161 PET/CT in the Diagnosis and Treatment Response Evaluation of Breast Cancer Patients",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "Maximum standardized uptake value (SUVmax)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The patients have been suspected or diagnosed with breast cancer and they have not received any treatment; It must fulfill the ethical requirements and subjects have signed an informed consent.\n\nExclusion Criteria:\n\n* Pregnancy or nursing mothers; Those patients accompanied by other serious diseases such as cardiac functional insufficiency, hepatic and renal function insufficiency.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

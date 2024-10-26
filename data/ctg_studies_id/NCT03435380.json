@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03435380",
+    "briefTitle": "Promoting Breast Cancer Screening in Women Who Survived Childhood Cancer",
+    "officialTitle": "EMPOWER-II: Promoting Breast Cancer Screening in Women Who Survived Childhood Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Early Detection of Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 314,
+    "primaryOutcomeMeasure": "Percentage of Women Who Completed a Breast MRI and Mammogram",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nEligible participants will include women who:\n\n* Were diagnosed with a childhood cancer prior to the age of 21 years;\n* Were treated with \u2265 10 Gy of chest RT (recent revision with a lower dose threshold);1\n* Do not have a history of breast cancer;\n* Have not had both a breast MRI and mammogram in the previous 24 months;\n* Do not have a contraindication to MRI (i.e., pacemaker);\n* Are 25 years of age or older at time of enrollment;\n* Have an interval from their chest RT to the time of enrollment of at least 8 years;\n* Have a smartphone;\n* Are English-speaking.\n\nParticipants will be selected from women in the Childhood cancer Survivor Study (CCSS) cohort.",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

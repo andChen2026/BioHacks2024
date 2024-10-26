@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00681928",
+    "briefTitle": "Cognitive Function in Older Women With Stage I, Stage II, or Stage III Breast Cancer Receiving Hormone Therapy",
+    "officialTitle": "The Effect of Aromatase Inhibition on the Cognitive Function of Older Patients With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 72,
+    "primaryOutcomeMeasure": "Impact of treatment with an aromatase inhibitor on cognitive function",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Meets 1 of the following criteria:\n\n  * Patient diagnosed with breast cancer\n\n    * Stage I-III disease\n    * Estrogen receptor- and/or progesterone receptor-positive\n    * Planning to start treatment with anastrozole or letrozole\n  * Age-matched healthy volunteer (control)\n\n    * No history of breast cancer\n    * Not receiving adjuvant aromatase inhibitor therapy\n\nPATIENT CHARACTERISTICS:\n\n* Postmenopausal\n* Able to converse, write, and read English\n* No claustrophobia (patients participating in the PET scan correlative study)\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior hormonal therapy, including estrogen replacement therapy\n* No previous treatment with CNS radiation",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

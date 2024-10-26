@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02607215",
+    "briefTitle": "Platinum Rechallenge in Patients With Platinum-sensitive mTNBC",
+    "officialTitle": "Platinum Retreated in Second- or Third-line Patients With Platinum Sensitive Metastatic Triple Negative Breast Cancer (Randomised, Phase II, NPN Trial)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 84,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Females with age between 18 and 70 years old\n2. Performance status no more than 2\n3. Life expectancy longer than 3 months\n4. Histological proven unresectable recurrent or advanced breast cancer\n5. Triple-negative for estrogen receptor (ER), progestogen receptor (PR), and human epithelial receptor-2 (HER2) by immunohistochemistry (ER \\<1%, PR \\<1% and Her2 negative). A negative Her2 gene amplification should be verified by FISH test for those patients with Her2 (2+).\n6. Patients must have progressed after 1or 2 prior chemotherapy regimens for metastatic disease, cis/carbo-platin pretreated only 1 previous line prior to randomisation. Platinum sensitive in this study is defined as complete or partial or stable disease following completion (a minimum of 4 treatment cycles) of previous platinum-based chemotherapy and disease progression greater than 3 months after completion of their last dose of platinum chemotherapy (last dose).\n7. At least one measurable disease according to the response evaluation criteria in solid tumor (RECIST 1.1)\n8. Radiation therapy within 4 weeks prior to enrollment\n9. All patients enrolled are required to have adequate hematologic, hepatic, and renal function\n10. Be able to understand the study procedures and sign informed consent.\n\nExclusion Criteria:\n\n1. Patients had prior treatment with vinorelbine\n2. Pregnant or lactating women, women of child-bearing potential, unwilling to use adequate contraceptive protection during the process of the study\n3. Patients with symptomatic central nervous system metastases are not permitted, except for those with stable and asymptomatic brain metastases who have completed cranial irradiation, and have at least one measurable lesion outside the brain. Radiotherapy should be completed within 4 weeks prior to the registration\n4. Treatment with an investigational product within 4 weeks before the first treatment\n5. Severe cardiopulmonary insufficiency, severe hepatic and renal dysfunction\n6. Uncontrolled serious infection\n7. Other active malignancies (including other hematologic malignancies) or other malignancies, except for cured nonmelanoma skin cancer or cervical intraepithelial neoplasia.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

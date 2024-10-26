@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02918084",
+    "briefTitle": "CONcurrent vs SEqueNTial Adjuvant Treatments in Early Breast Cancer",
+    "officialTitle": "A Phase III Study Comparing the Concurrent Versus the Sequential Administration of Chemotherapy and Aromatase Inhibitors, as Adjuvant Treatment of Post-menopausal Patients With Endocrine-responsive Early Breast Cancer.",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Disease- free Survival (DFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with histological diagnosis of invasive breast cancer completely removed by surgery, any T, any N.\n* Postmenopausal status defined by at least one of the following conditions:\n\n  1. Aged \u2265 60\n  2. Aged 45-59 and satisfying one or more of the following criteria:\n\n     * amenorrhea for \u226512 months and intact uterus;\n     * amenorrhea for \\<12 months and follicle-stimulating hormone (FSH) within the postmenopausal range, including:\n\n       * pts with hysterectomy\n       * pts who have received hormone replacement therapy (HRT)\n       * pts with chemotherapy-induced amenorrhea\n  3. bilateral oophorectomy at any age \\>18 years.\n* Primary tumor positive for Estrogen Receptors (ER) and/or Progesteron receptors (PgR) (\u22651% tumor cells positive by immunohistochemistry or \u2265 10 fmol/mg cytosol protein by ligand binding assay).\n* Patients who are prescribed 5 years of endocrine therapy with an aromatase inhibitors (AI)\n* Indication for adjuvant chemotherapy- Patients with HER-2 positive tumors are eligible provided that they are prescribed trastuzumab according to registered schedule.\n* Signed informed consent.\n\nExclusion Criteria:\n\n* HRT currently assumed or during the month before randomization\n* Recurrent or metastatic disease\n* HER-2 positive tumors if treatment with trastuzumab is considered not appropriate/feasible\n* Concurrent illness that contraindicate adjuvant endocrine treatment and/or chemotherapy\n* Patients who have received Tamoxifen as part of any breast cancer prevention trial\n* Previous history of invasive breast cancer or other invasive malignancy within the previous 10 years, other than squamous or basal cell carcinoma of the skin or carcinoma in situ of the cervix, adequately cone biopsied\n* Concomitant severe disease which would place the patient at unusual risk\n* Concurrent treatment with experimental drugs\n* Patients treated with systemic investigational drugs within the past 30 days",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

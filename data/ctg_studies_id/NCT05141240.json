@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05141240",
+    "briefTitle": "A Real-world Analysis of Concomitant Medication Use Among Metastatic Breast Cancer Patients Treated With CDK4/6 Inhibitors",
+    "officialTitle": "A Real-world Analysis of Concomitant Medication Use Among Metastatic Breast Cancer Patients Treated With CDK4/6 Inhibitors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 4650,
+    "primaryOutcomeMeasure": "Number of participants with a prescription fill of ribociclib, palbociclib, or abemaciclib",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Treated with CDK4/6i from 2015-02-01 to 2019-06-30\n* \u22652 claims with a BC diagnosis recorded \u226530 days apart from the index date\n* \u22652 claims with an mBC diagnosis, with a time interval between the first BC diagnosis date and the first mBC diagnosis date no longer than 30 days\n* Female patients aged \u226518 years\n* Continuous health plan enrollment for \u22653 months prior to the index date and \u22653 months post-index date\n\nExclusion Criteria:\n\n* None",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

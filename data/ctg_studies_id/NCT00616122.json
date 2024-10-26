@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00616122",
+    "briefTitle": "Sunitinib, Cyclophosphamide, and Methotrexate in Treating Patients With Metastatic Breast Cancer",
+    "officialTitle": "Phase I/II Study of SU11248 (Sutent) in Combination With Metronomic Dosing of Cyclophosphamide and Methotrexate in Patients With Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 32,
+    "primaryOutcomeMeasure": "Maximum Tolerated Dose of Sunitinib (Phase I)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Pathologically confirmed diagnosis of breast cancer with documented progressive disease\n\n  * Metastatic disease\n* Measurable disease as defined by RECIST criteria or evaluable disease\n* Must have received at least one prior chemotherapy regimen for metastatic breast cancer\n\n  * Patients refusing all other chemotherapy for breast cancer may enroll without prior treatment\n* Patients with HER2-overexpression disease must have been previously treated with trastuzumab (Herceptin\u00ae)\n* Patients with stable brain metastases are eligible\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* Life expectancy \u2265 12 weeks\n* Absolute Neutrophil Count (ANC) \u2265 1,000/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Creatinine \u2264 1.5 times upper limit of normal (ULN)\n* aspartate aminotransferase (AST) and alanine aminotransferase (ALT) \u2264 2.5 times ULN (\u2264 5 times ULN in the presence of liver metastases)\n* Total bilirubin \u2264 1.5 times ULN\n* Able to take oral medications and maintain hydration\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for 6 months after treatment\n* No severe concurrent illness including, but not limited to, any of the following:\n\n  * Congestive heart failure\n  * Significant cardiac disease\n  * Uncontrolled hypertension\n* Must be able to read and speak English\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* At least 2 weeks since prior treatment, including chemotherapy, hormonal therapy, trastuzumab (Herceptin\u00ae), or other targeted therapies\n* Prior bevacizumab allowed if discontinued for any reason other than toxicity\n* No potent inducers or inhibitors of CYP3A4 enzymes that effect the metabolism of sunitinib malate\n* No prior sunitinib malate\n* No other concurrent investigational therapy\n* No concurrent radiotherapy\n* Concurrent bisphosphonates allowed",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00083993",
+    "briefTitle": "Study Evaluating CCI-779 and Letrozole in Post-menopausal Women With Breast Cancer",
+    "officialTitle": "A Phase 3 Randomized, Placebo-Controlled, Double-Blind Study of Oral CCI-779 Administered in Combination With Letrozole vs. Letrozole Alone as First Line Hormonal Therapy in Postmenopausal Women With Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasms, Neoplasm Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1236,
+    "primaryOutcomeMeasure": "To determine overall progression free survival.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged greater than 18 years.\n* Postmenopausal subjects\n* Confirmed diagnosis of locally advanced (not amenable to curative surgery and/or radiation) or metastatic breast cancer (Stage 3B or 4 respectively, by American Joint Committee on Cancer Criteria)\n\nExclusion Criteria:\n\n* Extensive visceral disease\n* Subjects with bone as the only site of disease\n* Prior radiation therapy to the site of measurable disease for subjects with a solitary measurable lesion",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

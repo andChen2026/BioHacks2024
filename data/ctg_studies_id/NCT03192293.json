@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03192293",
+    "briefTitle": "Metformin and Simvastatin in Addition to Fulvestrant",
+    "officialTitle": "Single Arm Phase 2 Study of Metformin and Simvastatin in Addition to Fulvestrant in Metastatic Estrogen Receptor Positive Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "Clinical benefit rate (CBR)",
+    "eligibilityCriteria": "Eligibility criteria:\n\n* Women 18 years or older with metastatic or locally advanced disease, not amenable to curative therapy\n* Confirmed diagnosis of HR+/HER2- breast cancer\n* Any menopausal status\n* Progressed within 12 months from prior adjuvant or progressed within 1 month from prior advanced/metastatic endocrine breast cancer therapy\n* On an LHRH agonist for at least 28 days, if pre-/peri-menopausal\\*.\n* Measurable disease defined by RECIST version 1.1, or bone-only disease\n* Eastern Cooperative Oncology Group (ECOG) PS 0-2 and estimated life expectancy of at least 12 weeks\n* Adequate organ and marrow function, resolution of all toxic effects of prior therapy or surgical procedures\n* Signed informed consent\n* Pre-menopausal\\* females must have a negative serum pregnancy test within 21 days of study enrollment\n\n  * Definition of Menopause:\n\n    i. Age \\> 60 years, ii. Age \\< 60 years with amenorrhoea for \\> 12 months in the absence of endocrine therapy or chemotherapy iii. Bilateral oophorectomy\n\nExclusion criteria:\n\n* Prior treatment with any CDK inhibitor, Fulvestrant, Everolimus, or agent that inhibits the PI3K-mTOR pathway\n* Patients with symptomatic visceral disease, or known uncontrolled or symptomatic CNS metastases\n* Patients who have not yet recovered from the toxicities of the previous anti-cancer therapy.\n* Concurrent administration of other anti-tumor therapies, including cytotoxic chemotherapy, hormonal therapy, and immunotherapy are prohibited. Concomitant bone-modifying agents and gonadotropin-releasing hormone therapy are allowed.\n* Major surgery or radiotherapy within 2 weeks of randomization\n* Prior stem cell or bone marrow transplantation\n* Use of potent CYP3A4 inhibitors or inducers (Table 1); a washout period of 14 days is required for patients discontinuing these medications prior to study enrollment.\n* Currently on medications for diabetes (e.g. Metformin, sulphonylureas, insulin) or hypercholesterolaemia (statins or fibrates)\n* Renal impairment: Estimated glomerular filtration rate (eGFR) \\<60 mL/minute/1.73 m2\n* Hepatic impairment: Aspartate transaminase (AST), Alanine Transaminase(ALT) \u2265 2.5 x upper limit of normal range (ULN), OR Total bilirubin \u2265 1.5 x ULN (subjects with Gilbert's syndrome can have bilirubin of up to 1.5 x ULN)\n* Pregnancy.\n* Breast feeding.\n* Serious concomitant disorders that would compromise the safety of the patient or compromise the patient's ability to complete the study, at the discretion of the investigator.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

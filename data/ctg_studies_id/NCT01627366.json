@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01627366",
+    "briefTitle": "Study of Survivorship Care Plans and Outcomes in Underserved Breast Cancer Survivors",
+    "officialTitle": "Survivorship Plans and Outcomes in Underserved Breast Cancer Survivors RCT",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Provider Adherence Score (PAS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* 21 years of age or older\n* English- or Spanish-speaking\n* Diagnosis of ductal carcinoma in situ (DCIS) or Stage I, II, or III BC for the first time\n* 10-24 months post-diagnosis\n* At least 1 month post-chemotherapy completion\n\nExclusion Criteria:\n\n* Previous cancer except non-melanomatous skin cancers or in situ non-breast cancers\n* Pregnant and lactating women\n* Patients receiving parenteral anti-cancer therapy, except trastuzumab\n* Clinically apparent cognitive or psychiatric impairment\n* Participation in another research study\n* Current treatment for another cancer\n* Male\n* Residing outside of Los Angeles County\n* Too ill to participate",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

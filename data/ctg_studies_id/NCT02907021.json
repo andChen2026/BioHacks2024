@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02907021",
+    "briefTitle": "Safety of Continuing CHemotherapy in Overt Left Ventricular Dysfunction Using Antibodies to HER-2",
+    "officialTitle": "A Phase I Clinical Study to Examine the Safety of Continued Treatment With Trastuzumab for Individuals With Overt Left Ventricular Dysfunction",
+    "overallStatus": "COMPLETED",
+    "conditions": "Heart Failure, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Safety outcomes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage I-III HER-2 positive breast cancer\n* Receiving adjuvant therapy with trastuzumab\n* Provide informed consent\n* Exhibit LV dysfunction as evidenced by either\n\n  * LVEF between 40% and the lower limit for normal (i.e. \\<54% in women or \\< 52% in men18), or\n  * LVEF within normal limits (i.e. \u226554% in women or \u226552% in men) and NYHA class II heart failure symptoms within the past year, or\n  * A fall in LVEF of \u226515% from baseline\n\nExclusion Criteria:\n\nPatients will not be eligible for SCHOLAR if they have any of the following:\n\n* NYHA class III or IV heart failure\n* Systolic blood pressure \\<90mmHg\n* Current use of both ACE-I/angiotensin receptor blocker and beta-blocker\n* Contra-indication to both ACE-I/angiotensin receptor blocker and beta-blocker",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

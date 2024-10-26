@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03863223",
+    "briefTitle": "A Study of Pyrotinib in Combination With Trastuzumab and Docetaxel in Patients With HER2 Metastatic Breast Cancer",
+    "officialTitle": "A Phase 3,Randomized, Double-blinded, Placebo-controlled Study to Evaluate Efficacy and Safety of Pyrotinib Plus Trastuzumab and Docetaxel Versus Placebo Plus Trastuzumab and Docetaxel in Patients With HER2 Positive MBC.",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 590,
+    "primaryOutcomeMeasure": "PFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. HER2 positive recurrent or metastasis breast cancer.\n2. Patients with measurable disease are eligible.\n3. Eastern Cooperative Oncology Group(ECOG) performance status 0 or 1.\n4. Adequate organ function.\n5. Signed, written inform consent obtained prior to any study procedure.\n\nExclusion Criteria:\n\n1. History of anti-cancer therapy for MBC\uff08with the exception of one prior hormonal regimen for MBC\uff09.\n2. History of HER tyrosine kinase inhibitors or monoclonal antibody for breast cancer in any treatment setting\uff0cexcept trastuzumab used in the neo-adjuvant or adjuvant setting.\n3. Assessed by the investigator to be unable receive systemic chemotherapy.\n4. History of other malignancy within the last 5 years\uff0cexcept for carcinoma in situ of cervix\uff0cbasal cell carcinoma or squamous cell carcinoma of the skin that has been previously treated with curative intent.\n5. Pregnant or lactating women\uff0cor for women of childbearing potential unwilling to use a highly-effective contraception during of the study treatment and for at least 7 months after the last dose of study treatment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

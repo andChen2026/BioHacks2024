@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01290354",
+    "briefTitle": "Exploratory Lapatinib (Positron Emission Tomography) PET Study in Subjects With Breast Cancer",
+    "officialTitle": "An Open-label Positron Emission Tomography Study to Investigate and Quantify Brain and Tumour Penetration of [11C]Lapatinib in Subjects With HER2-overexpressing Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Brain penetration of [11C]lapatinib",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, aged \\>/= 18 years old\n* Advanced or metastatic breast cancer with overexpression of HER2\n* Be able to provide written informed consent and comply with protocol requirements\n* If of child-bearing potential, using adequate and medically acceptable contraception method\n* Have an ECOG performance status of 0-2 and be in stable condition\n* Able to lie still on the PET scanner for approx. 1.5-2 h\n* Adequate hepatic and renal function\n* Patent ulnar artery or collateral arterial blood vessels\n* If have CNS metastases, disease must be stable\n* Subjects with CNS metastases should have at least a single 1 cm diameter lesion as shown on contrast MRI\n\nExclusion Criteria:\n\n* Subjects with brain metastases who have undergone prior CNS surgery\n* Significant brain abnormalities, neurological disorder, psychiatric disorder or previous brain damage\n* Diabetes type I\n* History of HIV, hepatitis B or hepatitis C infection\n* Current alcohol and/or drug abuse\n* Positive pregnancy test or lactation\n* Malabsorption syndrome or disease affecting gastrointestinal function that may affect intestinal absorption\n* Requirement for additional concurrent anti-cancer therapy\n* History of uncontrolled or symptomatic angina\n* Concurrent treatment with an investigational agent or anti-cytotoxic therapy or use within 30 days or 5 half-lives\n* Known hypersensitivity reaction of idiosyncrasy to drugs chemically related to lapatinib or its excipients\n* Concurrent treatment with CYP3A4 inducers and inhibitors\n* Unwillingness to refrain from consuming red wine, Seville oranges, grapefruit, pomelo, grapefruit hybrids and their juices from 7 days before Day 1 until collection of the final pharmacokinetic sample\n* Known history of claustrophobia\n* Known contraindications or likely risk of toxicity to gadlinium-based MRI contrast media\n* Presence of cardiac pacemaker, other electronic device or ferromagnetic metal foreign bodies\n* Any abnormality found on the MRI scan which, in the opinion of the investigator, may influence the outcome of the PET scans or affect the safety of the volunteer\n* Acute or active hepatic or biliary disease\n* Any medical condition or circumstance making the volunteer unsuitable for participation in the study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

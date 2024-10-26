@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06568705",
+    "briefTitle": "Hypofractionated Online Adaptive Radiotherapy of Breast Cancer",
+    "officialTitle": "Hypofractionated Online Adaptive Radiotherapy of Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "The dose coverage of target volume as assessed by planning tumor volume V100%",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, aged \u226535 years, \\<70 years\n* ECOG score: 0-2\n* Having underwent breast-conserving surgery or Modified radical mastectomy with or without sentinel lymph node biopsy or axillary lymph node dissection\n* Pathologically confirmed primary breast cancer\n* For patients who did not receive neoadjuvant therapy: pathological staged pT0-2N0-1; for patients who received neoadjuvant therapy: staged ypT0-2N0-1\n* Indicated for postoperative adjuvant radiotherapy, planned to undergo postoperative adjuvant radiotherapy\n* Able to cooperate and tolerate the treatment\n\nExclusion Criteria:\n\n* Pathologically confirmed metastasis in supraclavicular or infraclavicular lymph nodes, or distant metastasis\n* History of radiotherapy to the neck or chest\n* Contraindications or intolerance to radiation therapy (such as pregnancy or lactation, severe impairment of heart, lung, kidney, liver, or other vital organ functions; severe infection or hematologic abnormalities; brachial plexus nerve injury on the affected side; active connective tissue diseases, etc.)\n* History of malignant tumors",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

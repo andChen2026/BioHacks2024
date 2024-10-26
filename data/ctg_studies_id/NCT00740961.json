@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00740961",
+    "briefTitle": "Older Patients With Newly Diagnosed Breast Cancer or Colon Cancer",
+    "officialTitle": "The Vulnerable Elders Survey Study of Older Cancer Patients",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Cognitive/Functional Effects, Colorectal Cancer, Psychosocial Effects of Cancer and Its Treatment",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 63,
+    "primaryOutcomeMeasure": "Number of impaired domains on Comprehensive Geriatric Assessment (CGA)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast or colon cancer\n\n  * Newly diagnosed disease\n  * Any stage disease\n* Undergoing treatment at the Ireland Cancer Center, University Hospitals Case Medical Center Site\n* Scheduled to start a new chemotherapy regimen (objective II only)\n* Not concurrently enrolled in a GEM trial (objectives II, III, and IV)\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Understands English\n* Menopausal status not specified\n\nPRIOR CONCURRENT THERAPY:\n\n* See Diseases Characteristics",
+    "sex": "ALL",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

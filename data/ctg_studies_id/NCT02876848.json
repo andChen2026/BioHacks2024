@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02876848",
+    "briefTitle": "A Novel E-Health Approach in Optimizing Treatment for Seniors (OPTIMUM Study)",
+    "officialTitle": "Adjuvant Endocrine Therapy in Breast Therapy in Breast Cancer: A Novel E-Health Approach in Optimizing Treatment for Seniors (OPTIMUM Study)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms, Medication Adherence",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Proportion of patients discontinuing adjuvant endocrine therapy treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Must be \u2265 65 years old,\n2. Have been diagnosed with incident (non-metastatic) breast cancer,\n3. Have a histologically-confirmed breast adenocarcinoma,\n4. Have undergone breast surgery for stages I-III disease,\n5. Have medical insurance with the R\u00e9gie de l'Assurance Maladie du Qu\u00e9bec (RAMQ) for at least 1 year prior to surgery,\n6. Have HR positive disease,\n7. Have no history of AET use prior to the diagnosis of breast cancer,\n8. Expected to initiate AET or have only recently initiated AET (\\<6 months) but are free of previous discontinuation events,\n9. Have the ability to consent for herself.\n\nExclusion Criteria:\n\nmale gender",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03183401",
+    "briefTitle": "National Breast and Thyroid Screening After a Treatment Received Against a Cancer During Childhood",
+    "officialTitle": "National Breast and Thyroid Screening After a Treatment Received Against a Cancer During Childhood",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Early Detection of Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "follow of cancer screening recommendations",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* childhood cancer survivor, and\n* treated with radiotherapy\n* health status compatible, and\n* have had a long-term follow-up consultation describing a personalized post-cancer plan and,\n* informed consent signed by patient\n\n  + Inclusion criteria for breast screening\n* being a woman and being 25 years or more for breast cancer screening, with a minimum delay of 8 years after radiotherapy, or\n* with a significant irradiation dose to the breast (Irradiation that delivered at least 10 Gy on at least part of the breast (v 5\\> 10 Gy) or on the mammary bud (v 100\\> 10 Gy) - (centrally validated dose) or received TBI (Total Body Irradiation)\\> 8 Gy according to a bi-fractioned scheme or\\> 6 Gy in single dose)\n\n  +Inclusion criteria for thyroid screening:\n* being a man or a woman and being 18 years or more for thyroid cancer screening with a minimum delay of 5 years after radiotherapy, and,\n* with a significant irradiation dose to the thyroid (Irradiation having delivered at least 3 Gy on the thyroid (v100\\> 3 Gy), or having received a TBI (Total Body Irradiation)\\> 2 Gy, and / or treatment with 131i-metaiodobenzylguanidine), and\n\nExclusion Criteria:\n\n* life expectancy \\<10 years due to other pathology\n* patient in regular follow-up within the framework of a genetic susceptibility (ex li fraumeni)\n* person placed under safeguard of justice\n\n  + exclusion criteria for breast cancer screening :\n* patient treated with bilateral mastectomy, or\n* patient being treated for breast cancer, or\n* patient initially treated with radiotherapy for breast cancer\n\n  + exclusion criteria for breast cancer screening :\n* Thyroidectomy, or\n* patient undergoing treatment or with a personal history of thyroid cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

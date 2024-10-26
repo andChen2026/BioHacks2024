@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01336257",
+    "briefTitle": "Effectiveness of a Decision Support System in Improving the Diagnosis and Screening Rate of Breast Cancer",
+    "officialTitle": "Effectiveness of a Decision Support System in Improving the Diagnosis and Screening Rate of Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 2200,
+    "primaryOutcomeMeasure": "Number of participants with new Breast Neoplasms Diagnosis (Incident cases)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women between 50 and 69 years old\n\nExclusion Criteria:\n\n* Breast Neoplasms\n* Bilateral mastectomy\n* Disabled Persons",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

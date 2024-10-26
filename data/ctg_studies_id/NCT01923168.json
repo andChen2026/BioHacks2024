@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01923168",
+    "briefTitle": "Study of Letrozole With or Without BYL719 or Buparlisib, for the Neoadjuvant Treatment of Postmenopausal Women",
+    "officialTitle": "A Phase II Randomized, Double-blind Placebo Controlled, Study of Letrozole With or Without BYL719 or Buparlisib, for the Neoadjuvant Treatment of Postmenopausal Women With Hormone Receptor-positive HER2-negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 340,
+    "primaryOutcomeMeasure": "Pathological Complete Response (pCR) Per Investigator Assessment for Alpelisib vs. Placebo for PIK3CA Mutant Cohort",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patient is an adult, female \u2265 18 years old at the time of informed consent\n2. Patient has a histologically and/or cytologically confirmed diagnosis of breast cancer\n3. Patient is postmenopausal.\n4. Patient has T1c-T3, any N, M0, operable breast cancer\n5. Patients must have measurable disease\n6. Patient has diagnostic biopsy available for the analysis of PIK3CA mutation and Ki67 level.\n7. Patient has estrogen-receptor and/or progesterone positive breast cancer as per local laboratory testing\n8. Patient has HER2 negative breast cancer defined as a negative in situ hybridization test or an IHC status of 0 or 1+ as per local laboratory testing\n\nExclusion Criteria:\n\n1. Patient has locally recurrent or metastatic disease\n2. Patient has received any systemic therapy (e.g. chemotherapy, targeted therapy, immunotherapy) or radiotherapy for current breast cancer disease before randomization.\n3. Patient with type 1 diabetes mellitus or not adequately controlled type 2 diabetes mellitus\n4. History of acute pancreatitis within 1 year of study entry\n5. Uncontrolled hypertension",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

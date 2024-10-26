@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06582849",
+    "briefTitle": "Enhanced Assistance During Radiotherapy for Unmet Essential Needs",
+    "officialTitle": "Enhanced Assistance During Radiotherapy for Unmet Essential Needs (EARN): a Single Center Hybrid Type 1 Efficacy-implementation Study",
+    "overallStatus": "RECRUITING",
+    "conditions": "Bone Cancer, Brain Cancer, Colorectal Cancer, Esophagus Cancer, Lymphoma, Salivary Gland Cancer, Head and Neck Cancer, Liver Cancer, Ovarian Cancer, Pancreatic Cancer, Prostate Cancer, Small Intestine Cancer, Stomach Cancer, Urinary Bladder Cancer, Anal Cancer, Blood Cancer, Breast Cancer, Cervical Cancer, Lung Cancer, Kidney Cancer, Penile Cancer, Skin Cancer, Testicular Cancer, Thyroid Cancer, Uterine Cancer, Vaginal Cancer, Vulvar Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 33,
+    "primaryOutcomeMeasure": "Delay-free completion of radiotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* At least 18 years of age.\n* Planned to receive or currently receiving a protracted course of curative-intent (neoadjuvant, definitive, or postoperative) radiotherapy.\n\n  * For the purposes of this study, radiotherapy must consist of \\>10 fractions (if radiotherapy not yet initiated) or \\>15 additional fractions after the date of consent (if radiotherapy initiated prior to study consent).\n* Be willing to undergo radiotherapy at the Barnes-Jewish Hospital location.\n* Indicate at least 1 unmet essential need, including food insecurity, transportation insecurity, housing instability, utility needs, childcare needs, or other financial insecurity.\n* Accept a referral to and meet with a social worker.\n* Have unmet essential needs that will not be able to be fully addressed by standard assistance. This determination can be made by the assigned social worker or by the patient after they meet with the social worker.\n* Ability to understand and willingness to sign an IRB approved written informed consent document. Legally authorized representatives may sign and give informed consent on behalf of study participants.\n\nExclusion Criteria:\n\n* Planned or scheduled to undergo radiotherapy simulation more than 28 days from the date of consent.\n* Admitted to the hospital and not expected to undergo \\>10 fractions of radiotherapy as an outpatient.\n* Undergoing treatment for anaplastic thyroid cancer. Patients with anaplastic thyroid cancer have a relatively low likelihood of completing radiotherapy due to the aggressive disease course.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

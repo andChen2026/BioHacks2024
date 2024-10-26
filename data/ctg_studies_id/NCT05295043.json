@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05295043",
+    "briefTitle": "Advanced Breast Cancer Study of CDK4/6 Inhibitor Combined With Endocrine Therapy Endocrine Therapy in HR+/HER2- Advanced Breast Cancer",
+    "officialTitle": "A Multicenter Clinical Study Evaluating Real-world CDK4/6 Inhibitor Combined With Endocrine Therapy in HR+/HER2- Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Advanced HR+ HER2 Negative Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Progression-free survival (PFS) From enrollment to progression or death (for any reason) Progression-free survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 1) Female patients with advanced breast cancer aged \u226518 years. 2) For breast cancer patients diagnosed as HR-positive and HER2-negative by pathological examination, the expression levels of ER, PR, and HER2 were reported by immunohistochemistry in the primary or metastatic lesions.\n\n  1. ER positivity and/or PR positivity is defined as: the proportion of tumor cells with positive staining accounts for \u2265 10% of all tumor cells (confirmed by the investigator of the trial center);\n  2. HER2 negative is defined as: standard immunohistochemistry (IHC) test is 0/1+; HER2 (2+) needs to be tested by FISH, HER2/CEP17 ratio is less than 2.0 or HER2 gene copy number is less than 4 (by the test center of the test center) Investigator review and confirmation).\n\n     3) CDK4/6 inhibitors combined with endocrine therapy can conduct complete efficacy evaluation and follow-up information collection.\n\n     4) Postmenopausal or premenopausal/perimenopausal female patients can be enrolled.\n\n     Postmenopausal status, defined as meeting at least one of the following criteria: prior bilateral ovarian surgery; age \u226560 years; age \\<60 years, menopause for at least 12 months (not due to chemotherapy, tamoxifen, toremide) fen or ovarian suppression) and follicle-stimulating hormone (FSH) and estrogen levels are in the postmenopausal range.\n\n     Premenopausal or perimenopausal women may also be enrolled, but must be willing to receive LHRHa during the study period.\n\n     5) According to RECIST 1.1 criteria, patients must have: a) measurable lesions; b) unmeasurable osteolytic or mixed (osteolytic + osteoblastic) bone lesions in the absence of measurable lesions.\n\n     Exclusion Criteria:\n* 1) Early breast cancer patients receive CDK4/6 inhibitor drug therapy. 2) HER2 overexpression or gene amplification, such as immunohistochemical score 3+ or positive fluorescence in situ hybridization.\n\n  3) Pregnant or lactating female patients. 4) Patients deemed unsuitable for inclusion by the investigator.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

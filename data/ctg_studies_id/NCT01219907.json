@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01219907",
+    "briefTitle": "Ex Vivo-Expanded HER2-Specific T Cells and Cyclophosphamide After Vaccine Therapy in Treating Patients With HER2-Positive Stage IV Breast Cancer",
+    "officialTitle": "Phase I Study of Adoptive T-Cell Therapy With HER-2/Neu (HER-2)-Specific Memory CD8+ T Lymphocytes Obtained Following In Vivo Priming With a Peptide Vaccine in Patients With Advanced Stage HER-2-Positive Breast Cancer",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "HER2-positive Breast Cancer, Male Breast Cancer, Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Ability to expand HER-2-specific T cells ex vivo from memory T cell subsets which are derived from patients with advanced HER-2 expressing cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with HER-2+ Stage IV breast cancer that have been maximally treated and not in a complete remission\n* Subjects must be \\> 18 years old\n* Extra skeletal disease that can be accurately measured in at least one dimension as \\>= 20 mm with conventional CT techniques or \\>= 10 mm with spiral CT scan\n* Skeletal or bone-only disease that is measurable by FDG PET imaging will also be allowed\n* Patients can be receiving trastuzumab and/or hormonal therapy and/or bisphosphonates\n* HER2 overexpression in the primary tumor or metastasis by IHC of 2+ or 3+, or documented gene amplification by FISH analysis; if over expression is 2+ by IHC, patients must have HER2 gene amplification documented by FISH\n* Performance Status Score (ECOG/Zubrod Scale) must be =\\< 2\n* Patients must be off all immunosuppressive treatments such as chemotherapy or systemic steroid therapy a minimum of 3 weeks prior to initiation of study (i.e. first vaccination)\n* Patients on trastuzumab must have a baseline LVEF measured by MUGA or echocardiogram \\>= the lower limit of normal for the facility within 3 months of enrollment to study\n* Subjects must be HLA-A2 (HLA A\\*0201) positive\n* ANC \\>= 1000/mm\\^3\n* Hgb \\>= 10 mg/dl\n* Platelet count \\>= 75,000/mm\\^3\n* Men and women of reproductive ability must agree to use contraceptives during the entire study period\n\nExclusion Criteria:\n\n* Serum creatinine \\> 2.0 mg/dl\n* Serum bilirubin \\> 2.5 times the upper limit of normal\n* Contraindication to receiving GM-CSF based vaccine products\n* New York Heart Association functional class III-IV heart failure, symptomatic pericardial effusion, or unstable angina\n* History of disorders associated with immunosuppression such as HIV\n* Pregnant or breast-feeding women\n* ANC \\< 1000/mm\\^3\n* Hgb \\< 10 mg/dl\n* Platelet count \\< 75,000/mm\\^3\n* Active brain metastasis",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01326481",
+    "briefTitle": "Open Label Dose-Finding Study of TRC105 Plus Capecitabine for Metastatic Breast Cancer",
+    "officialTitle": "An Open Label Phase 1B Dose-Finding Study of TRC105 in Combination With Capecitabine for Progressive or Recurrent Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 19,
+    "primaryOutcomeMeasure": "Determine Maximum Tolerated Dose of TRC105 in Combination With Capecitabine",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven advanced solid cancer for which curative therapy is not available (Part 1 only)\n* Histologically proven metastatic Her-2-negative breast cancer (Part 2 only)\n* Measurable disease by RECIST 1.1 criteria (Part 2 only)\n* Willing and able to consent for self to participate in study\n* Progressive or recurrent disease after prior systemic chemotherapy regimen\n* Age \u2265 18 years\n* ECOG performance status of 0 or 1\n* Resolution of all acute toxic effects of prior therapy to NCI CTCAE Grade \u2264 1 or baseline (except alopecia)\n* Adequate organ function\n\nExclusion Criteria:\n\n* Prior treatment with more than one systemic chemotherapy regimen for metastatic disease.\n* Prior treatment with TRC105\n* History of hypersensitivity reaction to antimetabolite therapy\n* Receipt of an investigational agent within 28 days of starting study treatment\n* Prior surgery (including open biopsy), radiation therapy or systemic therapy within 28 days of starting study treatment\n* Minor surgical procedures within 14 days prior to first dose of TRC105\n* History of brain metastasis, spinal cord compression, or carcinomatous meningitis, or new evidence of brain or leptomeningeal disease\n* Angina, MI, symptomatic congestive heart failure, cerebrovascular accident, transient ischemic attack, arterial embolism, pulmonary embolism, DVT, PTCA or CABG within the past 6 months\n* Uncontrolled chronic hypertension defined as systolic \\> 140 or diastolic \\> 90 despite optimal therapy\n* Past medical history of acquired or inherited coagulopathy including patients with known hereditary hemorrhagic telangiectasia\n* Thrombolytic or anticoagulant use (except to maintain i.v. catheters) within 10 days prior to first dose with TRC105\n* Cardiac dysrhythmias of NCI CTCAE Grade \u2265 2 within the last month\n* Hemorrhage within 28 days of starting study treatment\n* Unhealed wounds within 28 days of starting study treatment\n* History of peptic ulcer disease or gastritis within the past 6 months, unless treated for the condition and complete resolution has been documented by esophagogastroduodenoscopy (EGD) within 28 days of starting study treatment\n* Known human immunodeficiency virus (HIV) or acquired immunodeficiency syndrome (AIDS) related illness\n* Known active viral or nonviral hepatitis\n* History of hypersensitivity reaction to human or mouse antibody products\n* Lung cancer with central chest lesions\n* Pregnancy or breastfeeding",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

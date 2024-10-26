@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01243541",
+    "briefTitle": "Cryotherapy in Preventing Peripheral Neuropathy and Nail Toxicity in Patients With Breast Cancer Who Are Receiving Paclitaxel",
+    "officialTitle": "Cold Therapy to Prevent Paclitaxel-Induced Peripheral Neuropathy and Cutaneous Toxicity",
+    "overallStatus": "TERMINATED",
+    "conditions": "Chemotherapeutic Agent Toxicity, Pain, Peripheral Neuropathy, Recurrent Breast Cancer, Stage IA Breast Cancer, Stage IB Breast Cancer, Stage II Breast Cancer, Stage IIIA Breast Cancer, Stage IIIB Breast Cancer, Stage IIIC Breast Cancer, Stage IV Breast Cancer, Therapy-related Toxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 33,
+    "primaryOutcomeMeasure": "To assess the primary aim of the study to determine the differences in \"tingling\" and \"numbness\" (measured on a 0-10 numeric rating scale) between the treated and untreated extremities.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with histologically confirmed diagnosis of breast cancer (any stage)\n* Must be receiving either adjuvant or neo-adjuvant dose-dense anthracycline/taxane-based chemotherapy\n* Specifically, this study seeks to characterize neuropathies associated with patients receiving paclitaxel cycles separated by two week intervals\n* Patients may have received any of the following therapies: surgery, chemotherapy, hormones, biologics, or radiation\n* Prior chemotherapies are permitted, except with prior treatments with taxanes\n* Required lab values: CBC, Comprehensive Chemistry Panel\n* Desired lab values: If the patient's record also includes TSH, HbA1c, and folate, then those will be recorded as well\n* All patients will have given signed, informed consent prior to registration\n\nExclusion Criteria:\n\n* Patients must not have received any prior taxane treatments\n* Patients must not have a history of peripheral neuropathy (regardless of cause)\n* Patient must not have a history of diabetes mellitus\n* Patient must not have a history of Raynaud's disease\n* Men are not eligible",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

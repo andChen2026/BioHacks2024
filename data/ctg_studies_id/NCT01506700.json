@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01506700",
+    "briefTitle": "Real Time Optical Coherence Tomography (OCT) of Human Tissue",
+    "officialTitle": "Real Time Optical Coherence Tomography (OCT) of Human Tissue",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 5,
+    "primaryOutcomeMeasure": "The sensitivity and specificity of Optical Coherence Tomography to identify whether or not tumor can be identified ex vivo on breast cancer specimens as compared to post-surgical histology conclusions.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women 18 years of age or older\n2. Signed ICF\n3. Women who have been histologically diagnosed with invasive ductal carcinoma or invasive lobular carcinoma of the breast prior to surgery\n4. Planning breast preservation\n5. Patients undergoing lumpectomy (partial mastectomy) procedure\n\nExclusion Criteria:\n\n1. Multicentric disease (histologically diagnosed cancer in two different quadrants of the breast)\n2. Neoadjuvant systemic therapy\n3. All T4 tumors\n4. Previous radiation in the operated breast\n5. Prior surgical procedure in the same quadrant\n6. Implants in the operated breast\n7. Pregnancy\n8. Lactation\n9. Participating in any other investigational study for either drug or device which can influence collection of valid data under this study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

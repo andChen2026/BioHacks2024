@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00687778",
+    "briefTitle": "11C-Acetate PET/CT Non-FDG-Avid Tumors",
+    "officialTitle": "N/A",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Soft Tissue Sarcomas, Thyroid Cancer, Lung Cancer, Indolent Lymphoma, Neuroendocrine Tumors, GIST, Uterine Malignancies, Carcinoma, Hepatocellular, Carcinoma, Lobular, Teratoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Uptake of C11-Acetate and F18-FDG in tumor will be measured in SUV PET units",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* patients with newly diagnosed tumors, which are often non-FDG avid or show only low intensity uptake:\n\n  * Soft tissue sarcomas\n  * well-differentiated thyroid cancer\n  * well-differentiated and bronchoalveolar lung cancer\n  * indolent lymphomas\n  * neuroendocrine tumors\n  * GIST\n  * uterine malignancies\n  * mucin-producing cancer\n  * teratoma\n  * hepatoma\n  * HCC\n  * lobular breast carcinoma\n* Patients over the age of 18\n\nExclusion Criteria:\n\n* patients under the age of 18 years\n* pregnant and lactating women\n* claustrophobic patients",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

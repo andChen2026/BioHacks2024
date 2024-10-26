@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04012918",
+    "briefTitle": "Capecitabine in Combination With Aromatase Inhibitor Versus Aromatase Inhibitors, in Hormonal Receptor Positive Recurrent or Metastatic Breast Cancer Patients, Randomized Controlled Study",
+    "officialTitle": "Capecitabine in Combination With Aromatase Inhibitor Versus Aromatase Inhibitors, in Hormonal Receptor Positive Recurrent or Metastatic Breast Cancer Patients, Randomized Controlled Study (CONCEPT Trial)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 124,
+    "primaryOutcomeMeasure": "Progress-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Adult women with locoregionally recurrent or metastatic disease not amenable to curative therapy\n2. Eastern Cooperative Oncology Group (ECOG) 0-2\n3. Hormone receptor positive\n4. No prior systemic anti-cancer therapy for advanced ER+ disease ( hormonal therapy)\n5. Measurable disease defined by revised RECIST criteria (version 1.1), or bone-only disease\n6. normal laboratory values\n7. Postmenopausal or premenopausal with oophorectomy (medical or surgical).\n\nExclusion Criteria:\n\n1. Patients with advanced, symptomatic, visceral spread that are at risk of life threatening complication in the short term\n2. Prior (neo) adjuvant treatment with same aromatase inhibitor type with DFI =\\< 12 months from completion of treatment.\n3. Known uncontrolled or symptomatic central nervous system metastases\n4. Second primary malignancy\n5. Serious uncontrolled intercurrent infections or intercurrent medical or psychiatric illness\n6. unable to swallow tablets, or malabsorption patients.\n7. unwilling or unable to comply with study protocol or unable to meet the follow up.\n8. patients who researchers considered were not suitable to participate.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00107510",
+    "briefTitle": "Docetaxel, Carboplatin, and Pegfilgrastim in Treating Patients Who Are Undergoing Surgery for Stage II or Stage III Breast Cancer",
+    "officialTitle": "Phase II Trial of Docetaxel and Carboplatin Administered Every Two Weeks as Induction Therapy for Stage II or III Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 58,
+    "primaryOutcomeMeasure": "Pathological complete response rate by histologic evaluation at definitive surgery",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of breast cancer\n\n  * Clinical stage II or III disease (including T2-4, N0-3)\n* No clinical or radiological evidence of distant metastases\n\n  * Isolated supraclavicular lymph node involvement allowed\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nSex\n\n* Male or female\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* ECOG 0-1\n\nLife expectancy\n\n* At least 3 months\n\nHematopoietic\n\n* Absolute neutrophil count \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Hemoglobin \u2265 10.0 g/dL\n\nHepatic\n\n* Bilirubin normal\n* Meets 1 of the following criteria:\n\n  * AST or ALT \u2264 5 times upper limit of normal (ULN) AND alkaline phosphatase normal\n  * AST or ALT \u2264 1.5 times ULN AND alkaline phosphatase \u2264 2.5 times ULN\n  * AST or ALT normal AND alkaline phosphatase \u2264 5 times ULN\n\nRenal\n\n* Creatinine clearance \u2265 30 mL/min\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for 30 days after study treatment\n* No active unresolved infection\n* No history of severe hypersensitivity reaction to docetaxel, carboplatin, or any other drug formulated with polysorbate 80\n* No known hypersensitivity to E. coli-derived proteins, filgrastim (G-CSF), or pegfilgrastim\n* No peripheral neuropathy \u2265 grade 2\n* No other invasive malignancy within the past 5 years except curatively treated basal cell or squamous cell skin cancer or carcinoma in situ of the cervix\n\nPRIOR CONCURRENT THERAPY:\n\nSurgery\n\n* No prior surgical resection for invasive breast cancer\n\nOther\n\n* No other prior therapy for invasive breast cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

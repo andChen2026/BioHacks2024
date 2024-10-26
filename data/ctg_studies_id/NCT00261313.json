@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00261313",
+    "briefTitle": "ACCELERATE: Doxorubicin and Cyclophosphamide Followed by Paclitaxel With Pegfilgrastim and Darbepoetin Alfa Support for the Treatment of Women With Breast Cancer",
+    "officialTitle": "An Open Label Phase 2 Study of Doxorubicin and Cyclophosphamide Followed by Paclitaxel Delivered Every 14 Days With Pegfilgrastim and Darbepoetin Alfa Support for the Adjuvant Treatment of Women With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "The proportion of subjects experiencing any delay in any cycle of chemotherapy over the course of the study",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer diagnosis node-positive or high risk node negative\n* Estrogen receptor (ER) negative or ER positive (stage IIA, IIB or IIIA) disease.\n\nExclusion Criteria:\n\n* Metastatic breast cancer\n* Clinically significant cardiac disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

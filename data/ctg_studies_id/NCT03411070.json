@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03411070",
+    "briefTitle": "SCOUT Reflector for Tagging Lymph Nodes for Targeted Removal in Patients With Breast Cancer",
+    "officialTitle": "Using Radar Technology to Tag Abnormal Lymph Nodes for Removal During Surgery Following Neoadjuvant Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Positive Axillary Lymph Node, Stage 0 Breast Cancer AJCC v6 and v7, Stage I Breast Cancer AJCC v7, Stage IA Breast Cancer AJCC v7, Stage IB Breast Cancer AJCC v7, Stage II Breast Cancer AJCC v6 and v7, Stage IIA Breast Cancer AJCC v6 and v7, Stage IIB Breast Cancer AJCC v6 and v7, Stage III Breast Cancer AJCC v7, Stage IIIA Breast Cancer AJCC v7, Stage IIIB Breast Cancer AJCC v7, Stage IIIC Breast Cancer AJCC v7",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 27,
+    "primaryOutcomeMeasure": "Percentage of patients with successful retrieval of reflector confirmed by specimen radiography",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Able to give written informed consent to participate in the study\n* Patients with a breast cancer diagnosis of any subtype and a biopsy-proven positive axillary lymph node who will be treated first with chemotherapy\n* Enlarged lymph node and/or clip targetable with image guidance\n* Patients who are eligible for surgical resection of the primary breast cancer and targeted dissection of the axilla\n\nExclusion Criteria:\n\n* More than 3 positive axillary nodes on imaging or matted nodes on clinical exam\n* Stage IV breast cancer\n* Pregnant or lactating females\n* Patients with inflammatory breast cancer\n* Patients with allergies to isosulfan blue or technetium, which would preclude sentinel node mapping\n* Patients who have had previous axillary surgery, including sentinel lymph node biopsy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

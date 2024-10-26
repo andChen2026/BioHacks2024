@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00793377",
+    "briefTitle": "Neoadjuvant Doxorubicin/Cyclophosphamide Followed by Docetaxel (AC-Doc) Versus Dose-Dense Doxorubicin and Docetaxel (ADoc) in Breast Cancer",
+    "officialTitle": "A Randomized, Multicenter, Open Phase III Study Comparing a Dose-Intensified 8 Week Schedule of Adriamycin and Docetaxel (ADOC) With a Sequential 24 Week Schedule of Adriamycin/Cyclophosphamide Followed by Docetaxel (AC-DOC) Regimen as Preoperative Therapy in Patients With Operable Carcinoma of the Breast (T2-3 N0-2 M0)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Primary Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 913,
+    "primaryOutcomeMeasure": "Pathological locoregional complete tumor response (pCR) between both arms",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pre-study screening performed according to section 7.1\n* Unilateral primary carcinoma of the breast, confirmed histologically by core or tru-cut biopsy. Fine-needle aspiration is not sufficient. Incisional biopsy is only allowed if less than 20% of the tumor is excised.\n* Two-dimensionally measurable (mammography, ultrasound, or MRI) breast tumor\n* Primary tumor \\>= 2 cm in largest diameter by either palpation, sonography or mammography, or breast MRI. In patients with multifocal or multicentric breast cancer, the largest lesion should be measured.\n* No evidence of distant metastases\n* Life expectancy of at least 10 years, disregarding the diagnosis of cancer.\n* Karnofsky index \\>= 70%.\n* Age 18 years or older.\n* Adequate hematological, renal, and hepatic function (WBC \\> 4000, platelets \\> 100 000, bilirubin, serum creatinine and transaminases within 1.5 \u00d7 upper normal range).\n* Evidence of normal cardiac function (with or without medication) from the patient history and from electrocardiography. Normal function is confirmed by echocardiography or multiple gated acquisition (MUGA) scan.\n* Negative pregnancy test and appropriate nonhormonal contraception in fertile women. Intrauterine pessaries with progestogens are allowed.\n* Written informed consent and assumed compliance for therapy and follow up of the patients.\n* Consent of patient, pathologist and investigator to supply tumor material of biopsy and surgery for central pathologic evaluation and examination of predictive factors.\n\nExclusion Criteria:\n\n* Locally advanced (stage T4), bilateral, metastatic, or inflammatory breast cancer. If one of these conditions is suspected, it has to be excluded before enrollment into study.\n* Previous treatment for breast cancer, including surgery, radiation, cytotoxic, or endocrine treatments.\n* Previous malignancy other than breast cancer or noninvasive breast cancer if the disease-free interval is less than 10 years.\n* Previous cytotoxic treatment for any condition.\n* Preexisting neurotoxicity greater than grade II.\n* Active infection or other significant illness that could influence the tolerability of treatment.\n* Current treatment with sex hormones (treatment has to be discontinued before the start of systemic therapy).\n* Psychiatric illness or drug addiction that would preclude obtaining informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

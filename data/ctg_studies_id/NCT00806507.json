@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00806507",
+    "briefTitle": "Early Detection and Prediction of Chemotherapy Induced Cardiac Toxicity in Breast Cancer Patients",
+    "officialTitle": "Early Detection and Prediction of Chemotherapy Induced Cardiac Toxicity in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "Predictors of cardio-toxicity in female patients with breast cancer exposed to trastuzumab +/- previous anthracycline agents",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age 18 years or older\n2. HER-2 positive breast cancer\n3. Scheduled to receive Herceptin infusion therapy after exposure to anthracycline-based chemotherapy in one of the following manners: Adjuvant or neoadjuvant treatment with anthracycline-based chemotherapy preceded or followed by Herceptin infusion therapy, Herceptin monotherapy in patients with metastatic disease previously treated with anthracycline-based chemotherapy, Herceptin in combination with non-anthracycline chemotherapy in patients with metastatic disease previously treated with anthracycline-based chemotherapy\n4. Normal baseline left ventricular ejection fraction.\n\nExclusion Criteria:\n\n1. Pre-existing cardiomyopathy (Left Ventricular Ejection Fraction (LVEF) \\< 50%)\n2. Other contraindication to Herceptin therapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

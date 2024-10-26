@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00837265",
+    "briefTitle": "Balugrastim (Neugranin) in Breast Cancer Participants Receiving Doxorubicin/Docetaxel",
+    "officialTitle": "A Randomized Study of Subcutaneously Administered Neugranin (Recombinant Human Albumin-Human Granulocyte Colony Stimulating Factor) or Pegfilgrastim in Subjects With Breast Cancer Receiving Myelosuppressive Chemotherapy (Doxorubicin/Docetaxel)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Chemotherapy-induced Neutropenia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 334,
+    "primaryOutcomeMeasure": "Duration of Severe Neutropenia in Cycle 1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer participants scheduled to receive the AT regimen (doxorubicin/ docetaxel).\n\nExclusion Criteria:\n\n* Participants may have received no more than 1 prior chemotherapy regimen (including adjuvant therapy if given within the last 12 months).",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

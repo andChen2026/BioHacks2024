@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00033397",
+    "briefTitle": "Diagnostic Procedures in Women With Locally Advanced Breast Cancer Who Are Receiving Chemotherapy Before Breast Cancer Surgery",
+    "officialTitle": "Contrast-Enhanced Breast MRI, MRS, And Correlative Science Studies To Characterize Tumor Response In Patients Undergoing Neoadjuvant Treatment For Locally Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 360,
+    "primaryOutcomeMeasure": "response",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed newly diagnosed adenocarcinoma of the breast by core needle biopsy, incisional biopsy, or fine needle aspiration (FNA)\n\n  * Incisional biopsy must result in \\< 10% removal of gross residual disease\n* Measurable disease\n\n  * At least 1 unidimensionally measurable lesion \u2265 20 mm by conventional techniques OR \u2265 10 mm by spiral CT scan OR\n* Nonmeasurable disease\n* Meets one of the following staging criteria:\n\n  * Stage II or III disease\n  * T4, any N, M0, including clinical or pathologic inflammatory disease\n  * Regional stage IV disease where supraclavicular/infraclavicular lymph nodes are only site of metastasis\n* No clinical or imaging evidence of distant metastasis\n* Metaplastic carcinomas allowed\n* Synchronous bilateral primaries allowed if the more advanced tumor meets staging criteria\n* Patients for whom FNA was used to confirm initial diagnosis must have histologically confirmed invasive carcinoma by the start of chemotherapy\n* Her-2/neu status known\n* Currently receiving neoadjuvant chemotherapy consisting of a taxane-based regimen alone or followed by an anthracycline-based regimen\n* Concurrent enrollment in the ACRIN-6657/CALGB-150012 imaging protocol required\n* Hormone receptor status:\n\n  * Any estrogen receptor or progesterone receptor status\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nSex\n\n* Female Cardiovascular\n* No uncontrolled or severe cardiovascular disease\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* No ferromagnetic prostheses including the following:\n\n  * Metallic implants not compatible with a magnetic resonance imaging machine\n  * Heart valves\n  * Aneurysm clips\n  * Orthopedic prosthesis\n  * Any metallic fragments anywhere in the body\n\nPRIOR CONCURRENT THERAPY:\n\nChemotherapy\n\n* See Disease Characteristics\n* No prior chemotherapy to the ipsilateral breast for this malignancy\n\nEndocrine therapy\n\n* At least 4 weeks since prior tamoxifen or raloxifene\n\nRadiotherapy\n\n* No prior radiotherapy to the ipsilateral breast for this malignancy\n\nOther\n\n* No other prior cytotoxic regimens",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

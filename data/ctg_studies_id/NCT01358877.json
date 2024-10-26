@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01358877",
+    "briefTitle": "A Study of Pertuzumab in Addition to Chemotherapy and Trastuzumab as Adjuvant Therapy in Participants With Human Epidermal Growth Receptor 2 (HER2)-Positive Primary Breast Cancer",
+    "officialTitle": "A Randomized Multicenter, Double-Blind, Placebo-Controlled Comparison of Chemotherapy Plus Trastuzumab Plus Placebo Versus Chemotherapy Plus Trastuzumab Plus Pertuzumab as Adjuvant Therapy in Patients With Operable HER2-Positive Primary Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4804,
+    "primaryOutcomeMeasure": "Percentage of Participants With Invasive Disease-Free Survival (IDFS) Event (Excluding Second Primary Non-Breast Cancer [SPNBC]), as Assessed Using Radiologic, Histologic Examinations or Laboratory Findings",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Non-metastatic operable primary invasive HER2-positive carcinoma of the breast that is histologically confirmed, and adequately excised\n* Eastern Cooperative Oncology Group (ECOG) performance status less than or equal to (\\</=) 1\n* Known hormone receptor status (estrogen receptor and progesterone receptor)\n* The interval between definitive surgery for breast cancer and the first dose of chemotherapy must be no more than 8 weeks (56 days). The first cycle of chemotherapy must be administered within 7 days of randomization or on Day 56, whichever occurs first\n* Baseline left ventricular ejection fraction (LVEF) greater than or equal to (\\>/=) 55 percent (%) measured by echocardiogram (ECHO) or Multiple-Gated Acquisition (MUGA) Scan\n* Confirmed HER2 positive status\n* Completion of all necessary baseline laboratory and radiologic investigations prior to randomization\n* Women of childbearing potential and male participants with partners of childbearing potential must agree to use effective contraception (as defined by the protocol) by the participant and/or partner for the duration of the study treatment and for at least 7 months after the last dose of study drug\n\nExclusion Criteria:\n\n* History of any prior (ipsi- and/or contralateral) invasive breast cancer\n* History of non-breast malignancies within the 5 years prior to study entry, except for carcinoma in situ of the cervix, carcinoma in situ of the colon, melanoma in situ, and basal cell and squamous cell carcinomas of the skin\n* Any \"clinical\" T4 tumor as defined by primary tumor/regional lymph nodes/distant metastasis (TNM), including inflammatory breast cancer\n* Any node-negative tumor\n* Any previous systemic chemotherapy for cancer or radiotherapy for cancer\n* Prior use of anti-HER2 therapy for any reason or other prior biologic or immunotherapy for cancer\n* Concurrent anti-cancer treatment in another investigational trial\n* Serious cardiac or cardiovascular disease or condition\n* Other concurrent serious diseases that may interfere with planned treatment including severe pulmonary conditions/illness\n* Abnormal laboratory tests immediately prior to randomization\n* Pregnant or lactating women\n* Sensitivity to any of the study medications or any of the ingredients or excipients of these medications",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

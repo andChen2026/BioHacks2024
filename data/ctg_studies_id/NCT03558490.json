@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03558490",
+    "briefTitle": "A Study to Assess the Feasibility of an E-Health System (ZEMY) Designed to Manage Symptoms in Participants With Breast Cancer Under Anti-Cancer Treatment",
+    "officialTitle": "Feasibility Assessment of an E-Health System (ZEMY) Designed to Manage Symptoms in Patients With Breast Cancer Under Anti-Cancer Treatment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 56,
+    "primaryOutcomeMeasure": "Percentage of Participants Who Successfully Use ZEMY",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with breast cancer starting a treatment including oral and/or parenteral anti-cancer drugs (chemotherapy and/or targeted therapies, hormonotherapy)\n* Inter-cycle duration between hospital visits \u226514 days (this period of time is estimated to be consistent with a need for support during the home setting period)\n* Patients shall be prescribed loperamide or any other anti-diarrheic treatment in case of diarrhea and prescription for any medication indicated in case of nausea/vomiting\n* Able to speak and read French and to use a smartphone embedding ZEMY, in the investigator's judgment\n* Able to comply with the study protocol, in the investigator's judgment\n* Patient affiliated to the national social security or beneficiary to such insurance.\n\nExclusion Criteria:\n\n* Pregnant\n* Already enrolled in a clinical study involving experimental medication or eHealth device\n* Concomitant malignancy\n* ECOG score \\>2\n* Treated with single hormonotherapy, single surgery or single radiotherapy, immunotherapy.\n* Patient whose mental state renders her unable to understand the nature, purposes, and consequences of the study\n* Patient not trained to the use of ZEMY\n* Patient not trained to take her blood pressure measurement\n* Patient deprived of her liberty by judicial or administrative order.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

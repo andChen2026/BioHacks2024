@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01027416",
+    "briefTitle": "Analyzing a New Mechanism in Response to Tamoxifen Therapy in Breast Cancer Patients",
+    "officialTitle": "Pilot Study to Analyze a Novel Mechanism Underlying Response to Tamoxifen Therapy in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 59,
+    "primaryOutcomeMeasure": "Mean Percent Positive Proximity Ligation Assays of All Tumor Protein p53-wild Type Breast Tumors in Participants by Treatment Arm",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. The patient must consent to be in the study and must have signed an approved consent form conforming to institutional guidelines\n2. The patient must be 18 years or older.\n3. Core biopsy should definitively demonstrate invasive carcinoma.\n4. Invasive carcinoma should be ER-apha receptor positive\n5. The tumor should be approximately at least 1 cm, to account for variability in imaging and imaging occult disease (physical exam, mammography, ultrasound). We recognize that from time to time because of this variation, there might not be enough tissue available for analysis after surgical excision but this will allow the greatest opportunity to capture as many eligible patients as possible.\n6. Patients in whom surgical excision of the tumor is part of standard of care management\n7. ECOG score of 0 or 1\n8. Negative serum or urine beta-hCG pregnancy test at screening for patients of child-bearing potential (this is routinely done if the patient is premenopausal and having surgery)\n9. Consent to participate in DBBR (RPCI only)\n\nExclusion Criteria:\n\n1. Male patients are not eligible for this study\n2. Female patients with inoperable tumors or women with stage 4 disease diagnosed on CT, PET, PET/CT or bone scan.\n3. Patients with diagnosis by FNA cytology only\n4. Pregnant or lactating women\n5. Prior therapy for breast cancer, including irradiation, chemo- immuno- and/or hormonal therapy\n6. Patients receiving any hormonal therapy, e.g. ovarian hormonal replacement therapy, infertility medications etc., are not eligible\n7. Nonmalignant systemic disease (cardiovascular, renal, hepatic, etc.) that would preclude the patient from being subjected to surgical excision\n8. Psychiatric or addictive disorders that would preclude obtaining informed consent\n9. Patients known or suspected to have hypercoagulable syndrome or with history of venous or arterial thrombosis, stroke, TIA, or pulmonary embolism\n10. Women with non-invasive disease or microinvasion are not eligible.\n11. Women undergoing neoadjuvant chemotherapy are not eligible\n12. women currently on tamoxifen and raloxifene for prevention are not eligible\n13. Patients shall not receive any herbal/alternative therapies such as flaxseed or soy products or black cohosh.\n14. Patients with a known mutation in p53 (Li Fraumeni Syndrome)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

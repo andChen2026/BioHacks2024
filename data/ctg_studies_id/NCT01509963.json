@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01509963",
+    "briefTitle": "The Memorial Sloan-Kettering Cancer Center (MSKCC",
+    "officialTitle": "Prospective Evaluation of the Reliability of the Combined Use of Two Models to Predict Non-sentinel Lymph Node Status in Breast Cancer Patients With Metastatic Sentinel Lymph Nodes: the MSKCC Nomogram and the Tenon Score.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 3194,
+    "primaryOutcomeMeasure": "False negative rate in patients with both a \u2264 10% probability of metastatic non-SN with the MSKCC nomogram and a Tenon score \u2264 3.5 (i.e. low risk): proportion of patients with metastatic non-SN at additional ALND.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients aged over 18 years old with invasive breast cancer with an indication of SN procedure as recommended by Saint-Paul de VENCE in 2005 amended in 2009\n* T1-2 breast cancer\n* Patients having social security coverage.\n\nExclusion Criteria:\n\n* Patient under the age of 18.\n* Patient who had neoadjuvant chemotherapy.\n* Patient who had had radiotherapy to the ipsilateral axilla or breast.\n* Pregnant patient.\n* Patients who do not speak French.\n* Patients refusing to participate in the study.\n* Simultaneous participation in another research period of exclusion",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

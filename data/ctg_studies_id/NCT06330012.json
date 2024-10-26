@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06330012",
+    "briefTitle": "The Resistance Mechanism of Trastuzumab Deruxtexan in HER2 Positive Breast Cancer Patients.",
+    "officialTitle": "Spatial Transcriptomic Approach for Revealing the Resistance Mechanism of Trastuzumab Deruxtexan in HER2 Positive Breast Cancer Patients.",
+    "overallStatus": "RECRUITING",
+    "conditions": "HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Spatial transcriptomic analysis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* HER2 positive breast cancer\n* Stage IV disease\n* Treated with T-Dxd\n* Available FFPE samples\n\nExclusion Criteria:\n\n* TNBC breast cancer\n* Hormone receptor positive breast cancer\n* Non-available FFPE samples\n* Treated except T-Dxd",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

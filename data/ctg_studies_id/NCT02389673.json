@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02389673",
+    "briefTitle": "Intra-operative Radiotherapy For Women With Ductal Carcinoma in Situ Breast Cancer",
+    "officialTitle": "Intra-operative Radiotherapy After Breast-conversing Surgery in Treating Women With Ductal Carcinoma in Situ Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 222,
+    "primaryOutcomeMeasure": "ipsilateral breast tumor recurrence rate after surgery within five years",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Tumor diameter \\< 5 cm\n* Low grade ductal carcinoma in situ\n* Candidate for breast-conserving surgery\n* Must have undergone lumpectomy with negative margins or minimal margin involvement\n* Currently undergoing re-excision of the biopsy cavity and/or sentinel lymph node biopsy or axillary lymph node dissection\n* No evidence of metastatic disease\n* Informed consent\n\nExclusion Criteria:\n\n* No informed consent\n* Tumor size \\> 5 cm\n* Intermediate or high grade ductal carcinoma in situ\n* Invasive carcinoma\n* No indication for a boost",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

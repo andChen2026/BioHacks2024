@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02404844",
+    "briefTitle": "Trial of BKM120/Tamoxifen-combination in Patients With HR-pos, HER2-neg Breast Cancer",
+    "officialTitle": "Molecularly Stratified Parallel Cohort, Single Arm Phase II Trial of the Phosphoinositide 3-kinase (PI3K) Inhibitor Buparlisib (BKM120) in Combination With Tamoxifen in Patients With Hormone Receptor-positive, HER2-negative Inoperable (Locally Advanced or Metastatic) Breast Cancer With Prior Exposure to Antihormonal Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 48,
+    "primaryOutcomeMeasure": "Progression free survival (PFS)-rate in the full population, after 6 months",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient has histologically and/or cytologically confirmed diagnosis of breast cancer\n* Patient has radiologic or objective evidence of inoperable locally advanced, or metastatic breast cancer\n* Patient has a known hormone receptor status HR-positive (ER and/or PR positive) and HER2-negative status\n* Patient has a representative archival formalin-fixed tumor biopsy (metastasis or primary tumor)\n* Patient has prior exposure to antihormonal therapy\n* Patient has received \u2264 2 prior antihormonal treatments in the metastatic setting\n* Prior treatment with tamoxifen in the (neo-)adjuvant setting is allowed but has to be discontinued for at least 1 year.\n* Patient may have received up to one prior chemotherapy in the metastatic setting\n* Measurable or non-measurable lesions according to RECIST v1.1 criteria\n* Patient has an Eastern Cooperative Oncology Group (ECOG) performance status score \u2264 2\n\nExclusion Criteria:\n\n* Patient has received previous treatment with a PI3K- or AKT-inhibitor or mTOR-inhibitors\n* Prior treatment with Tamoxifen in the metastatic setting. Treatment with tamoxifen in the (neo-)adjuvant setting is allowed, but has to be discontinued for at least 1 year\n* Patient has symptomatic CNS metastases\n* Patient has a medically documented history of or active major depressive episode, bipolar disorder (I or II), obsessive-compulsive disorder, schizophrenia, a history of suicidal attempt or ideation, or homicidal ideation (e.g. risk of doing harm to self or others), or patients with active severe personality disorders (defined according to DSM-IV).\n* Patient has a known history of HIV infection (testing not mandatory) infection",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

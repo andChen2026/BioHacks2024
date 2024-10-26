@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06635980",
+    "briefTitle": "Hypofractionated Radiotherapy Before or After Breast Surgery for Treatment of Patients With Non-Metastatic Breast Cancer",
+    "officialTitle": "A Randomized Phase II Trial of Hypofractionated Radiotherapy for Non-Metastatic Breast Cancer Before or After Breast Surgery for Different Breast Cancer Risk Groups",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Anatomic Stage I Breast Cancer AJCC v8, Anatomic Stage II Breast Cancer AJCC v8, Anatomic Stage III Breast Cancer AJCC v8, Breast Carcinoma, Triple-Negative Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Incidence of grade 3 or higher radiation treatment (RT) related adverse events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\>= 18 years\n* Histological confirmation of breast cancer\n* Clinical stage T1-T4 N0-3 M0\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 to 2\n* Able to and provides Institutional Review Board (IRB)-approved study specific written informed consent\n* Able to complete all mandatory tests listed in the trial\n* Willing to return to enrolling institution for follow-up (during the active monitoring phase of the study)\n* Indications for radiotherapy for breast cancer\n\nExclusion Criteria:\n\n* Medical contraindication to receipt of radiotherapy\n* Severe active co-morbid systemic illnesses or other severe concurrent disease which, in the judgment of the investigator, would make the patient inappropriate for entry into this study or interfere significantly with the proper assessment of safety and toxicity of the prescribed regimens\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements or providing informed consent in the judgment of the principal investigator\n* Active systemic lupus or scleroderma\n* Pregnancy\n* Women of childbearing potential who are unwilling to employ adequate contraception\n* Prior receipt of ipsilateral breast or chest wall radiation\n* Recurrent breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

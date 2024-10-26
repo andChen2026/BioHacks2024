@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04033419",
+    "briefTitle": "Memantine for Prevention of Cognitive Decline in Patients With Breast Cancer",
+    "officialTitle": "Memantine for Prevention of Cognitive Decline During Adjuvant or Neoadjuvant Chemotherapy in Patients With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cognitive Decline, Chemo-brain",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 55,
+    "primaryOutcomeMeasure": "Change in Visual Working Memory - Delayed Matching to Sample Test",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Able to provide informed consent\n* At least 18 years of age\n* Able to speak English\n* Diagnosed with breast cancer, Stages I-III\n* Scheduled for adjuvant or neoadjuvant chemotherapy\n\nExclusion Criteria:\n\n* A history of adverse reaction to memantine\n* Another cancer diagnosis with an estimated survival of less than five years\n* Previous chemotherapy exposure\n* Severe cognitive impairment, defined as Blessed Orientation Memory Concentration Test (BOMC) \u2265 11.\n* Pregnancy, confirmed by a negative pregnancy test within 30 days of study enrollment, or breastfeeding\n* Current alcohol or drug abuse",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

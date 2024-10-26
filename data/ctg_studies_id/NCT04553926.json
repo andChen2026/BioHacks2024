@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04553926",
+    "briefTitle": "'OLAP' (OLAparib Regulatory Post-marketing Surveillance)",
+    "officialTitle": "Lynparza Tablet (Olaparib) Regulatory Post-Marketing Surveillance",
+    "overallStatus": "RECRUITING",
+    "conditions": "Ovarian Cancer, Breast Cancer, Prostate Cancer, Pancreatic Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 650,
+    "primaryOutcomeMeasure": "Safety (adverse events (AEs), serious AEs (SAEs), adverse drug reactions(ADRs), serious ADRs (SADRs), unexpected AEs/ADRs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Eligible for the study drug treatment according to the approved label in South Korea\n2. Provision of signed and dated written informed consent by the patient or legally acceptable representative\n\nExclusion Criteria:\n\n1. History of hypersensitivity to excipients of the study drug or to drugs with a similar chemical structure or class to the study drug\n2. Prior exposure to any Polyadenosine 5'diphosphoribose polymerase (PARP) inhibitors, including the study drug\n3. Pregnant and/or breast feeding\n4. Current participation in any interventional trial\n5. Other off-label indications according to the approved label",
+    "sex": "ALL",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

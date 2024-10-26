@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06003114",
+    "briefTitle": "A Study to Understand the Use of Palbociclib in Canadian Patients With Breast Cancer That Has Spread to Other Organs",
+    "officialTitle": "Real-World Utilization of Palbociclib as 1L Treatment in Canadian HR+/HER2-women Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 472,
+    "primaryOutcomeMeasure": "Estimate the median Duration of Treatment (DoT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Received at least one cycle of palbociclib as first line therapy for metastatic breast cancer between 01 January 2016 and 31 December 2022\n* Histologically confirmed HR+/HER2- metastatic breast cancer\n* Minimum of 3 months available follow-up on palbociclib\n\nExclusion Criteria:\n\n* Received a different CDK4/6 inhibitor before palbociclib in the first line\n* Received other systemic therapy, including hormone therapy, 15-60 days prior to initiation of palbociclib\n* Invalid or incomplete records (more specifically, complete duration of treatment on palbociclib, endocrine therapy or LHRH)\n* Death date recorded on or before the date of index date",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

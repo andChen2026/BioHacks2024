@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06106282",
+    "briefTitle": "Breast Cancer Survivors Who Experience Aromatase Inhibitor Associated Musculoskeletal Symptoms (AIMSS)",
+    "officialTitle": "Breast Cancer Survivors Who Experience Aromatase Inhibitor Associated Musculoskeletal Symptoms (AIMSS): A Multidisciplinary Pain Program Designed to Decrease Pain and Improve Functioning, Mood, and Medication Adherence.",
+    "overallStatus": "RECRUITING",
+    "conditions": "Anatomic Stage 0 Breast Cancer AJCC v8, Anatomic Stage I Breast Cancer AJCC v8, Anatomic Stage II Breast Cancer AJCC v8, Anatomic Stage III Breast Cancer AJCC v8, Hormone Receptor-Positive Breast Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Adherence to Aromatase Inhibitor (AI) treatment regimen",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients are 18 years old or more.\n\n  * A breast cancer survivor ECOG =\\< 2, stage 0-III HR+ who is experiencing musculoskeletal symptoms associated with aromatase inhibitors intake\n  * Patients must be at least 6 months on aromatase inhibitors and for no more than 7 years\n\nExclusion Criteria:\n\n* Breast cancer survivor patients that are not in aromatase inhibitor treatment or have less than 6 months of treatment or more than 7 years of treatment.\n\n  * Asymptomatic patients\n  * Patients less than 18 years old\n  * Patient that are not being followed as a Mayo Clinic patient\n\n    * Patients with stage IV breast carcinoma\n    * Patients that are HR -\n    * Patients that are ECOG 3 or more",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

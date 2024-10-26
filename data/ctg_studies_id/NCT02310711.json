@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02310711",
+    "briefTitle": "Multi-scale Modeling of Breast Conserving Therapy",
+    "officialTitle": "A Pilot Study for the Identification of Targets for Clinical Improvement in Breast Conserving Therapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "Study Endpoint",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Adult females \u2265 age 30 years\n2. Have early stage (Stage I, II), non-metastatic breast cancer\n3. Planned to receive BCT\n4. Have received a pre-operative mammogram within 30 days of surgery\n5. Have received pre-operative magnetic resonance imaging (MRI) within 30 days of surgery\n6. Planned to receive post-surgery radiotherapy by whole breast radiotherapy\n7. Signed informed consent form prior to any research assessment\n\nExclusion Criteria:\n\n1. Adult females younger than 30 years of age\n2. Previous breast cancer\n3. Neo-adjuvant therapy for breast cancer\n4. Pregnant or nursing females\n5. Participation in a study of investigational drug in the previous 30 days or 5 half-lives of the investigational drug",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01497015",
+    "briefTitle": "Memory Training Intervention for Breast Cancer Survivors",
+    "officialTitle": "Memory Training Intervention for Breast Cancer Survivors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 88,
+    "primaryOutcomeMeasure": "Memory Performance",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. female gender (breast cancer is rare in men);\n2. self-reported memory impairment and desire for treatment (to focus on BCS in greatest need);\n3. first diagnosis of non-metastatic breast cancer (to control for multiple treatments or brain metastases in women with recurrent or metastatic disease);\n4. \u2265 1 year post-treatment including surgery, radiation, and/or chemotherapy (reduce confounding factors related to acute effects of treatment);32\n5. age \u2265 40 years (our prior studies indicate approximately 75% of BCS meet this criterion and reduce sample variability);\n6. post-menopausal (majority are post-menopausal at diagnosis and reduce sample variability); and\n7. able to read, write, understand, and speak English (to ensure informed consent).\n\nExclusion Criteria:\n\nWomen will be excluded if they have other co-morbidities or deficits that would sufficiently impair performance or inhibit cognitive training including:\n\n1. substantial cognitive decline (score \\< 24 on the Mini Mental State Exam (MMSE);33\n2. history of stroke, encephalitis, traumatic brain injury, brain surgery, dementia, Alzheimer disease, or Parkinson disease;\n3. cranial radiation therapy or intrathecal therapy;\n4. current active major depression or substance abuse or history of bipolar disorder, psychosis, schizophrenia, or learning disability;\n5. history of or current other cancer except for basal cell skin cancer; or\n6. receiving other cognitive training (to avoid exposure to other training).",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

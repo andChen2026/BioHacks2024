@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00162929",
+    "briefTitle": "Her-2/Neu in Patients With Metastatic Breast Cancer (AdHERe)",
+    "officialTitle": "A Phase I Study Investigating Multiple Injections of Autologous CD34+ Derived Dendritic Cells Transduced With an Adenovirus Expressing Rat Her-2/Neu in Patients With Metastatic or Locally Recurrent Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 5,
+    "primaryOutcomeMeasure": "toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Metastatic or locally recurrent breast cancer\n2. 18 years of age or older\n3. Her-2/neu positive (3+ by immunohistochemistry or fluorescence in-situ hybridization \\[FISH\\] +)\n4. One of the following:\n\n   1. currently receiving hormonal therapy or are candidates for such, or\n   2. being considered for trastuzumab, or\n   3. cancer has progressed on trastuzumab.\n\nExclusion Criteria:\n\n1. Pregnant or lactating women.\n2. Prior or concurrent malignancies except for treated basal cell or squamous cell carcinoma of the skin or in situ cancer of the cervix or any other cancer treated and presumed cured for more than five years prior to study entry.\n3. Currently receiving chemotherapy, immunotherapy, adenoviral gene therapy or biological cancer therapy. \\[Note: concurrent hormonal therapy (tamoxifen, aromatase inhibitors, or megace) is permitted.\\]\n4. Treatment with trastuzumab within 4 weeks prior to first dose of vaccine therapy.\n5. Hemoglobin \\< 80 g/L or granulocytes \\< 1.5 \u00d7 10\\^9/L or lymphocytes \\< 1.0 \u00d7 10\\^9/L or platelets \\< 100 \u00d7 10\\^9/L.\n6. Baseline liver enzymes (AST or ALT) greater than 3 times the upper limit of normal or greater than 5 times the upper limit of normal if liver metastases are present and/or bilirubin is greater than 50 mmol.\n7. CD4 cells \\< 0.5 \u00d710\\^9/L\n8. Patients with documented brain metastases.\n9. Patients with any acute illness that would interfere with the collection of CD34+ cells or administration of vaccination cellular therapy (i.e. unstable angina, renal or liver failure, or severe chronic obstructive airway disease).\n10. Any patients requiring concurrent immunosuppressive therapy (e.g. corticosteroids).\n11. Eastern Cooperative Oncology Group (ECOG) performance status of \\> 2.\n12. Patients with a life expectancy of less than 6 months.\n13. Geographic inaccessibility which would preclude follow-up. Patients registered on the trial must be treated and followed at the Juravinski Cancer Center and the Henderson site of the Hamilton Health Sciences.\n14. Failure to give written informed consent.\n15. Baseline left ventricular ejection fraction (LVEF) \\< 55% by echocardiography or multigated acquisition (MUGA) scan.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

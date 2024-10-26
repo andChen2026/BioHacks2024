@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02186015",
+    "briefTitle": "Safety, Feasibility and Efficacy of Vitamin D Supplementation in Women With Metastatic Breast Cancer (SAFE-D)",
+    "officialTitle": "Safety, Feasibility and Efficacy of Vitamin D Supplementation in Women With Metastatic Breast Cancer (SAFE-D)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Adult Women, Metastatic Breast Cancer, Estrogen Receptor Positive",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 43,
+    "primaryOutcomeMeasure": "Change in Serum 25(OH)D",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Metastatic breast cancer (Stage IV)\n2. Histologically confirmed estrogen receptor positive disease\n3. Female\n4. Serum 25(OH) \\<30 ng/ml\n5. Age \u2265 18 years\n6. Pre or post-menopausal\n7. ECOG Performance status 0-2\n8. Adequate organ function as defined as GFR\\> 30 mls/min and serum calcium \u2264 10.4 mg/dl\n9. Any race/ethnicity\n10. English speaking\n11. No changes to MBC treatments within 30 days of enrollment and/or deemed clinically stable by their treating physician\n12. Willingness to sign a written informed consent and complete questionnaires\n13. Cease ingestion of vitamin D supplementation not study related\n\nExclusion Criteria:\n\n1. Women with Stage I-III breast cancer\n2. Serum 25(OH)D levels \u2265 30 ng/ml\n3. Untreated CNS involvement\n4. History of kidney stones\n5. History of renal failure\n6. History of hyperparathyroidism\n7. History of hypersensitivity to vitamin D\n8. Non-English speaking\n9. Currently pregnant or lactating, or anticipating pregnancy\n10. Unwilling to cease ingestion of calcium supplements (\\>1000 mg/d)\n11. Unwilling or unable to complete informed consent or study questionnaires\n12. Psychiatric or other clinical conditions that preclude study compliance\n13. Other important medical or safety considerations at the discretion of the investigator and/or study physician, including non-compliance with the study therapy or other activities",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

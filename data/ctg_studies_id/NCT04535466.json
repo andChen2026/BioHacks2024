@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04535466",
+    "briefTitle": "Diagnosis Predictive Modle for Dense Density Breast Tissue Based on Radiomics",
+    "officialTitle": "Development of an Artificial Intelligence Precise Diagnosis Predictive Modle for Dense Density Breast Tissue Based on Radiomics",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Diseases, Artificial Intelligence, Dense Breast Density, Predictive Cancer Model",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "the predictive model's area under curve(AUC)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with dense breast density tissue\n* Digital breast tomosynthesis was performed\n* Breast ultrasound examination was performed\n* Pathologic examination of breast lesions was performed\n\nExclusion Criteria:\n\n* Incomplete clinicopathologic data\n* Female patients with fatty glands of the breast",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

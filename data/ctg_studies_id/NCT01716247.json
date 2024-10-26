@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01716247",
+    "briefTitle": "Comparison of Contrast Enhanced Mammography to Breast MRI in Screening Patients at Increased Risk for Breast Cancer",
+    "officialTitle": "Comparison of Contrast Enhanced Mammography to Breast MRI in Screening Patients at Increased Risk for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Women at Increased Risk for Developing Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "compare the sensitivity and specificity CESM",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women considered at increased risk for developing breast carcinoma (those with a lifetime risk of \\>15%due to family history, genetic predisposition, prior radiation therapy to the chest, prior biopsy showing a high risk lesion, or personal history of breast cancer) that are being screened with breast MRI.\n* Women who have a screening digital mammogram on the day of CESM or within 365 days prior\n\nExclusion Criteria:\n\n* Women under 21.\n* Pregnant or possibly pregnant.\n* Women who have a contraindication to the intravenous use of iodinated - contrast agent (i.e., allergy to iodinated contrastor severely impaired renal function with a creatinine level \\> or = to 1.3).\n* Women with breast implants.\n* Women with pacemakers.\n* Women with aneurysm clips that don't allow for MRI.\n* Women too claustrophobic to undergo MRI.",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

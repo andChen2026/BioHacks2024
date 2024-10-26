@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05430347",
+    "briefTitle": "Clinical Study of Pyrotinib in Neoadjuvant Therapy of HR-positive and HER2-positive Breast Cancer",
+    "officialTitle": "A Multicenter Phase II Clinical Study of Pyrotinib or Pertuzumab Combined With Docetaxel, Carboplatin, and Trastuzumab in Neoadjuvant Therapy for HR-positive, HER2-positive Breast Cancer",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "tpCR rate (ypT0/is ypN0)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women aged 18-70 with breast cancer;\n2. Pathologically confirmed unilateral invasive ductal carcinoma (with or without intraductal carcinoma components);\n3. Proposed to receive neoadjuvant therapy;\n4. Positive ER and/or PgR (defined as \u226510% positive immunohistochemical test);\n5. HER2 positive (defined as IMMUNOHISTOchemical HER2 ++, or HER2 ++ and in situ hybridization (ISH) results in HER2 gene amplification);\n6. There is no evidence of metastasis in clinical or imaging;\n7. ECOG score 0 or 1;\n8. White blood cell count \u22653.5\u00d7109/L, neutrophil count \u22652\u00d7109/L, platelet count \u2265100\u00d7109/L and hemoglobin \u226590 g/L before neoadjuvant therapy;\n9. Before neoadjuvant therapy, AST and ALT \\< 1.5 times the upper limit of normal value, alkaline phosphatase \\< 2.5 times the upper limit of normal value, total bilirubin \\< 1.5 times the upper limit of normal value; Serum creatinine \\< 1.5 times the upper limit of normal value;\n10. LVEF\u226555% on 2d echocardiography before neoadjuvant therapy;\n11. Signed informed consent.\n\nExclusion Criteria:\n\n1. Clinical or imaging suspicion of lateral breast malignancy has not been confirmed;\n2. Prior malignancy (except basal cell carcinoma of the skin and carcinoma in situ of the cervix), including contralateral breast cancer;\n3. The patient has been enrolled in other clinical trials;\n4. Patients suffering from serious systemic diseases and/or uncontrollable infections cannot be enrolled in the study;\n5. Severe cardiovascular and cerebrovascular diseases (e.g., unstable angina pectoris, chronic heart failure, uncontrolled hypertension \\> 150/90mmHg, myocardial infarction or cerebrovascular accident) within the first 6 months of randomization;\n6. Have a history of blood system diseases, especially platelet-related diseases;\n7. Patients with previous intestinal inflammation, intestinal dysfunction, severe diarrhea and constipation;\n8. People who are known to be allergic to chemotherapy drugs, targeted drugs or TKI drugs;\n9. Women of childbearing age refuse contraception during treatment and within 8 weeks after completion of treatment;\n10. Pregnant and lactation women;\n11. positive pregnancy test before drug use after joining the test;\n12. Mental illness, cognitive impairment, inability to understand the test protocol and side effects, inability to complete the test protocol and follow-up workers (systematic evaluation is required before the trial is enrolled);\n13. Persons without personal freedom and independent capacity for civil conduct.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

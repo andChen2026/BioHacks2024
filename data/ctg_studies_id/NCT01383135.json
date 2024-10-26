@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01383135",
+    "briefTitle": "Biodistribution and Safety of the PET Probes [18F]FPRGD2 and [18F]FPPRGD2",
+    "officialTitle": "Biodistribution and Safety of the PET Probes [18F]FPRGD2 and [18F]FPPRGD2",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Non-Small-Cell Lung Cancer, Glioblastoma, Other Cancers",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 27,
+    "primaryOutcomeMeasure": "Tracer Dosimetry by Organ",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nHealthy volunteers:\n\n1. Must be 18 years of age or older.\n2. Must have no known medical problems and have had a full medical exam within 6 months of the study.\n3. Must understand and voluntarily have signed an Informed Consent after its contents have been fully explained.\n4. Women of child bearing potential (as defined as women who are not post menopausal for 12 months or who have had no previous surgical sterilization).\n5. Men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry, for the duration of study participation and for 30 days after the last dose.\n\nCancer subjects:\n\n1. Greater than 18 years-old at the time of radiotracer administration\n2. Provides written informed consent\n3. Diagnosed with advanced non-small cell lung cancer (NSCLC), breast cancer, pancreatic cancer and glioblastoma multiforme (GBM); patients will undergo bevacizumab or Cyberknife therapy\n4. Able to remain still for duration of each imaging procedure (about one hour)\n\nExclusion Criteria\n\n1. Less than 18 years-old at the time of radiotracer administration\n2. Pregnant or nursing",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

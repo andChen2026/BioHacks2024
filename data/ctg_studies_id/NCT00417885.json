@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00417885",
+    "briefTitle": "A Clinical Trial Assessing Efficacy and Safety of Sunitinib and Exemestane in Patients With ER [Estrogen Receptor] + and/or PgR [Progesterone Receptor] + Breast Cancer",
+    "officialTitle": "Phase 1/2 Open-Label Trial Of Sutent (Sunitinib Malate) And Aromasin(Exemestane) In The First-Line Treatment Of Hormone Receptor-Positive Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* At least 18 years of age\n* Estrogen and/or progesterone receptor positive adenocarcinoma of the breast with evidence of 1) unresectable 2)locally recurrent, or 3) metastatic disease\n* Postmenopausal\n* ECOG \\[Eastern Cooperative Oncology Group\\] \\</=1\n* Evaluable(e.g bone only disease allowed) and Measurable disease \\[RECIST (Response Evaluation Criterion in Solid Tumors)\\]\n\nExclusion Criteria:\n\n* HER2 \\[Human Epidermal Growth factor Receptor 2\\] positive disease not previously treated with herceptin\n* Any prior anti-angiogenic therapy, endocrine or cytotoxic anti-cancer therapy in the metastatic disease setting\n* Radiation therapy within 2 weeks of first study treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00194753",
+    "briefTitle": "Adjuvant Therapy for High-Risk Breast Cancer With Wkly Adriamycin & Oral Cytoxan With G-CSF for 12 Wks; Wkly Taxol x 12",
+    "officialTitle": "Adjuvant Therapy for High-Risk Localized Breast Cancer With Weekly Adriamycin +/- Oral Cytoxan With Continuous G-CSF Support for 12 Weeks Followed by Weekly Taxol for 12 Weeks, Phase II",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Delivered dose intensity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient must have a histologically confirmed diagnosis of primary breast carcinoma that has been surgically resected. (This regimen is not intended for neoadjuvant treatment.)\n* The attending physician must judge the patient to be an appropriate candidate for Adriamycin based adjuvant chemotherapy. Appropriate candidates generally include those with stage II or III breast cancer. The individual attending physician, however, should make the decision.\n* Tumor HER-2/neu expression must be determined prior to study enrollment. Assessment may be by fluorescence in situ hybridization (FISH) assay or by immunocytochemistry (ICC). If determination is \"intermediate\" by immunocytochemistry, FISH must be performed. Protocol therapy is determined by HER-2/neu result.\n* Patient must be at least 18.\n* The patient must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines.\n* Pre-study hematologic values required for entry onto trial are: WBC greater than= 4,000/mm3, ANC greater than= 1,500/mm3 and platelets greater than= 100,000/mm3.\n\nExclusion Criteria:\n\n* Patients with significant renal dysfunction (creatinine greater than 1.5 x institutional upper limit of normal (IULN)) or hepatic dysfunction (bilirubin greater than IULN; transaminases greater than 2.5 x IULN) are not eligible.\n* Except for the following, no prior malignancy is allowed: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated stage I or II cancer from which the patient has been disease free for 5 years.\n* Patients with clinically apparent cardiac disease, or history of same, are not eligible. Patients who are \\> 60 years of age or who have a history of hypertension must have a MUGA prior to enrollment. LVEF must be normal.\n* Patients who have received prior chemotherapy or radiotherapy are not eligible.\n* Patients who are pregnant or breastfeeding are not eligible. Women of child bearing potential must have a serum pregnancy test that is negative and agree to practice adequate contraception.\n* Patients with active infection are not eligible.\n* Patients who are known to be infected with HIV, hepatitis B or hepatitis C are not eligible. Testing is not required unless there is a high index of clinical suspicion.\n* Patients suffering from psychiatric impairment are not eligible.\n* Patients with known hypersensitivity to trimethoprim or sulfonamides are not eligible.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

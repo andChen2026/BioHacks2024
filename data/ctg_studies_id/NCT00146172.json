@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00146172",
+    "briefTitle": "Study Evaluating HKI-272 in Tumors",
+    "officialTitle": "An Ascending Single and Multiple Dose Study of the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of HKI-272 Administered Orally to Subjects With HER-2/NEU or HER-1/EGFR-Positive Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 73,
+    "primaryOutcomeMeasure": "Dose Limiting Toxicity (DLT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Her2/neu or Her1/EGFR positive cancer\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2\n* Measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST)\n\nExclusion Criteria:\n\n* Prior treatment with anthracyclines with a cumulative dose of doxorubicin or equivalent of greater than 300 mg/m\\^2\n* Patients with significant cardiac risk factors\n* Active central nervous system metastasis",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

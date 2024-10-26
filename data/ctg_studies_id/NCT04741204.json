@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04741204",
+    "briefTitle": "Metformin Use to Reduce Disparities in Newly Diagnosed Breast Cancer",
+    "officialTitle": "Metformin Use to Reduce Disparities in Newly Diagnosed Breast Cancer Response to Neoadjuvant Treatment",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer Stage, Insulin Resistance, Racial Bias",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Tumor progression",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Non-Hispanic white or black females\n* Age \\> = 18 years\n* English speaking\n* Newly diagnosed breast cancer\n* BMI \\> = 25 (must be overweight)\n* Insulin-resistant (as determined by 2 hour 75 gm oral glucose tolerance test (OGTT)). Concentrations and trajectories of insulin and glucose at 0, 30, 60, and 120 min during an oral glucose tolerance test will undergo mathematical modeling. The numbers for defining insulin resistance have been established in the Woman's Laboratory and are interpreted by the pathologists.\n\nExclusion Criteria:\n\n* Metastatic Disease\n* Current diagnosis of Diabetes or diagnosed with diabetes (as determined by HbA1C\\> 6.5)\n* Having surgery prior to chemotherapy\n* Medical conditions for which metformin is contraindicated (gastrointestinal and renal failure),\n* Abnormal CBC (defined by a baseline platelet count of less than 130 and a baseline absolute neutrophil count of less than 1000). In addition, baseline hemoglobin of less than 10, if there is no evidence of a concurrent nutritional deficiency (like iron). \\[Patients simply needing something like iron to correct the anemia will not be excluded\\].",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

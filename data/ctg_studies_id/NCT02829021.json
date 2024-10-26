@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02829021",
+    "briefTitle": "Dynamic Infrared Thermography in Breast Cancer Diagnostics",
+    "officialTitle": "Dynamic Infrared Thermography in Breast Cancer Diagnostics. A Diagnostic Accuracy Study Comparing Dynamic Infrared Thermography Against Mammography (Reference Standard)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 168,
+    "primaryOutcomeMeasure": "Diagnostic accuracy of Thermography compared with Mammography and breast biopsy.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women,\n* aged 50-69\n* attending the Norwegian Breast Screening Program,\n* recalled for assessment after positive mammography screening\n\nExclusion Criteria:\n\n* not attending the Norwegian Breast Screening Program,\n* recalled to mammography for other reason than positive screening mammogram.",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

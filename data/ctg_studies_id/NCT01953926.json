@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01953926",
+    "briefTitle": "Basket Study of Neratinib in Participants With Solid Tumors Harboring Somatic HER2 or EGFR Exon 18 Mutations",
+    "officialTitle": "An Open-Label, Phase 2 Basket Study of Neratinib in Patients With Solid Tumors With Somatic Activating HER Mutations",
+    "overallStatus": "TERMINATED",
+    "conditions": "Solid Tumors Harboring Somatic HER2 or EGFR Exon 18 Mutations",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 582,
+    "primaryOutcomeMeasure": "Confirmed Objective Response Rate (ORR) by Independent Central Review (Breast Cancer With Prior CDK46i Cohort)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Provide written informed consent\n* Histologically confirmed cancers for which no curative therapy exists\n* Documented HER2 or EGFR exon 18 mutation\n* Participants must agree and commit to use appropriate methods of contraception as outlined in the protocol\n* At least one measurable lesion, defined by RECIST v1.1\n\nExclusion Criteria:\n\n* Participants harboring ineligible somatic HER2 mutations\n* Prior treatment with any HER2-directed tyrosine kinase inhibitor (e.g., lapatinib, afatinib, dacomitinib, neratinib) is excluded with the following exception: patients with EGFR exon 18 mutated NSCLC who may have received afatinib, osimertinib, or other pan HER or EGFR TKIs remain eligible\n* Participants who are receiving any other anticancer agents\n* Symptomatic or unstable brain metastases\n* Women who are pregnant or breast-feeding\n\nThere are additional inclusion and exclusion criteria. The study center will determine if criteria for participation are met.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

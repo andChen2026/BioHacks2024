@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05931445",
+    "briefTitle": "Patient Reported Outcomes Study Using Electronic Monitoring System for Advanced or Metastatic Solid Cancer",
+    "officialTitle": "Multicenter, Open-label, Randomized, Controlled Study to Test the Utility of Electronic Patient-reported Outcome (ePRO) Monitoring in Patients With Unresectable Advanced Cancers or Metastatic/Recurrent Solid Tumors",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Lung Cancer, Colorectal Cancer, Liver Cancer, Stomach Cancer, Endometrial Cancer, Ovarian Cancer, Squamous Cell Carcinoma of the Head and Neck",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Overall Survival (OS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Unresectable, advanced, metastasized, or relapsed solid tumors (Breast Cancer, Lung Cancer, Colorectal Cancer, Liver Cancer, Stomach Cancer, Endometrial Cancer, Ovarian Cancer, or Squamous Cell Carcinoma of the Head and Neck)\n2. Expected to be able to undergo treatment or observation for at least 6 months at the study site\n3. Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) of 0, 1, or 2\n4. Receiving systemic anticancer mono- or combination pharmacotherapy (e.g., cytotoxic anticancer agents, molecularly targeted drugs, and immune checkpoint inhibitors) at enrollment or scheduled to begin such therapy within 1 month from the date of enrollment (In principle, patients should be receiving pharmacotherapy on an out-patient basis.)\n5. Capable of using electronic device (includes cases needing some assistance)\n6. Aged 18 years or older at informed consent\n7. Written consent for the study personally obtained from the subject\n\nExclusion Criteria:\n\n1. Has undergone four or more regimens of pharmacotherapy for advanced, metastasized, or relapsed solid tumors\\*Notes 1, 2\n2. Currently participating in a study where PRO is tracked and the results are passed on to a physician\n3. The following are exclusion criteria for individual types of cancer 1) Breast cancer\n\n   * Scheduled to receive or currently receiving endocrine therapy (including endocrine therapy in combination with other agents) for hormone receptor-positive breast cancer\n   * Scheduled to receive or currently receiving first regimen of anti-HER2 therapy for HER2-positive disease 2) Liver cancer\n   * Hepatic function of Child-Pugh B/C\n4. Undergoing or scheduled to undergo radiation therapy for curative purposes\n5. Deemed otherwise unsuitable for the study by the investigator or sub-investigator\n\n   * Notes:\n\n     1. If the disease has relapsed during perioperative adjuvant chemotherapy or within 24 weeks after adjuvant chemotherapy, the adjuvant chemotherapy will be considered as the first regimen of adjuvant chemotherapy.\n     2. Does not include endocrine therapy for breast cancer.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

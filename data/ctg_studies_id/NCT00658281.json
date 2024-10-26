@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00658281",
+    "briefTitle": "Setup Variation in the Supraclavicular Lymph Nodes Treatment in Breast Cancer Patients",
+    "officialTitle": "A Pilot Study of Setup Variation in the Supraclavicular Lymph Nodes Treatment in Breast Cancer Patients Using On-Board Imaging System With Linear Accelerator",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "System Failure (defined as 2 or more disagreements between the EPID and either OBI systems or CT-on-rail from among the 5 evaluations for a particular patient)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histologically confirmed carcinoma of the breast.\n2. American Joint Committee on Cancer (AJCC) Stage I-III, or locally recurrent breast cancer\n3. Planned for radiation treatment of the supraclavicular and axillary apex nodal beds using a SCV field\n4. Age greater than or equal to 18 years, since classic breast cancer is a disease of adults\n5. Able to understand the current trial and give informed consent\n\nExclusion Criteria:\n\n1. Has bilateral breast cancer requiring radiation to both breasts due to anatomic constraints on planning CT\n2. inflammatory carcinoma due to altered treatment schedule",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

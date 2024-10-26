@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00944047",
+    "briefTitle": "Evaluate Trastuzumab Plus Standard Chemotherapy Given Before Surgery in Breast Cancer Patients With Low HER 2 Expression",
+    "officialTitle": "Abraxane and Trastuzumab Followed by Dose Dense Doxorubicin and Cyclophosphamide as Neoadjuvant Therapy in Invasive Breast Cancer With Low HER2 Expression (1+ or 2+ by IHC)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 32,
+    "primaryOutcomeMeasure": "Pathologic Complete Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patient \u2265 18 years of age\n* Histologically proven stage II or III adenocarcinoma of the breast\n* Must be candidate for neoadjuvant treatment (Tumor size \u2265 2 cm, T2, T3, T4 and/or clinical N1 or N2).\n* HER-2/neu 1+ or 2+ by immunohistochemistry\n* Must have operable tumor.\n* Performance status of 2 or better per SWOG criteria\n* LVEF \u2265 55% by echocardiogram performed within 4 weeks prior to treatment initiation\n* If patient of childbearing potential, pregnancy test is negative\n* Patients with reproductive potential must use an effective method to avoid pregnancy for the duration of the trial.\n* Adequate bone marrow function: ANC \\> 1500/mm3, platelet count \\> 100,000/mm3, and hemoglobin \\> 9 g/dL\n* Adequate kidney function: serum creatinine of \\< 1.5mg/dl and/or creatinine clearance of \\> 60 mL/min\n* Adequate hepatic function: transaminases \\< 2.5 x upper limit of normal and total bilirubin \\< 1.5 mg/dL\n* Must be informed of the investigational nature of the study and must sign an informed consent in accordance with the institutional rules.\n* Pretreatment lab values must be performed within 14 days of patient registration, and other baseline studies (with the exception of mammogram) must be performed within 30 days of patient registration.\n\nEXCLUSION CRITERIA:\n\n* Patient with metastatic breast cancer.\n* Women with tumors that are HER-2 neu 0+ or 3+ by immunohistochemistry\n* Women with HER 2 FISH amplified tumors (FISH ratio \\>2.2)\n* Patients who have had prior endocrine therapy for \\> 4 weeks or chemotherapy for this breast cancer will be excluded.\n* Locally advanced, inoperable tumors will be excluded.\n* The presence of any other medical or psychiatric disorder that, in the opinion of the treating physician, would contraindicate the use of drugs in this protocol or place the subject at undue risk for treatment complications.\n* History of significant cardiac disease, cardiac risk factors or uncontrolled arrhythmias\n* Ejection fraction \\< 55%\n* Pregnancy or lactation\n* Patients with inadequate laboratory values (as defined above) are excluded from study.\n* Patients with NCI common toxicity criteria (CTC) grade 2 or greater peripheral neuropathy are excluded from study.\n* Patients with active infection are excluded from study.\n* Patients with concomitant or previous malignancies within the last 5 years, are excluded from the study. Exceptions include: adequately treated basal or squamous cell carcinoma of the skin, carcinoma in situ of the cervix, and ductal carcinoma in situ (DCIS).\n* Patients with emotional limitations are excluded from study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

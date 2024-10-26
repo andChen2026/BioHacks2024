@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02816164",
+    "briefTitle": "A Study to Compare Administration Schedules of G-CSF (Filgrastim) for Primary Prophylaxis of Febrile Neutropenia",
+    "officialTitle": "A Multi Centre Study to Compare Administration Schedules of G-CSF (Filgrastim) for Primary Prophylaxis of Chemotherapy-Induced Febrile Neutropenia in Early Stage Breast Cancer (REaCT-G2)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Early Stage Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 324,
+    "primaryOutcomeMeasure": "Febrile neutropenia",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed primary breast cancer\n* Planned to start docetaxel component of FEC-D or AC-D, or first cycle of; dose-dense AC-T, TC, FEC-D or TAC chemotherapy\n* \u226519 years of age\n* Able to provide verbal consent\n\nExclusion Criteria:\n\n* Contraindication to Filgrastim",
+    "sex": "ALL",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02626039",
+    "briefTitle": "Characterization & Comparison of Drugable Mutations in Primary and Metastatic Tumors, CTCs and cfDNA in MBCpatients",
+    "officialTitle": "Characterization and Comparison of Drugable Mutations in Primary Tumors, Metastatic Tissue, Circulating Tumor Cells and Cell-Free Circulating DNA in Metastatic Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Cohen's kappa coefficient to measure the inter-rater agreement for mutations and other genomic findings (categorical items) between the metastatic tissue and the primary tumor tissue in Metastatic Breast Cancer patients.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Metastatic breast cancer confirmed by radiologic findings\n* \u2265 18 years old\n* Able to give signed consent\n* Availability to get the paraffin block of her primary tumor.\n* First metastatic relapse or tumor regrowth while on treatment for metastatic disease (progressive disease while on treatment)\n* Biopsy of the metastatic site clinically indicated\n\nExclusion Criteria:\n\n* Inability to get a core sample from a metastatic site\n* Bone disease only (the decalcification process usually prevents an appropriate genomic study).\n* Unable to drawn peripheral blood\n* Unable to give the informed consent\n* Coagulation disorders\n* ECOG status 3-4",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

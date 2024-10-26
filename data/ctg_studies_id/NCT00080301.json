@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00080301",
+    "briefTitle": "Novel Epothilone Plus Capecitabine Versus Capecitabine Alone in Patients With Advanced Breast Cancer",
+    "officialTitle": "A Phase III Trial of Novel Epothilone BMS-247550 Plus Capecitabine Versus Capecitabine Alone in Patients With Advanced Breast Cancer Previously Treated With or Resistant to an Anthracycline and Who Are Taxane Resistant",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Metastases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 752,
+    "primaryOutcomeMeasure": "Progression-free Survival (PFS) Per Independent Radiology Review Committee (IRRC)",
+    "eligibilityCriteria": "* Patients must have received either 2 or 3 prior chemotherapy regimens including adjuvant or neoadjuvant therapy.\n* Prior treatment must have included both an anthracycline (i.e., doxorubicin or epirubicin) and a taxane (i.e., paclitaxel or docetaxel).\n* Patients must have received a minimum cumulative dose of anthracycline or must be resistant to an anthracycline.\n* Patients must be resistant to taxane therapy.\n* Patients may not have any history of brain and/or leptomeningeal metastases.\n* Patients may not have CTC Grade 2 or greater neuropathy (motor or sensory).\n* Patients may have not have had prior treatment with an epothilone and/or capecitabine (i.e., Xeloda)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

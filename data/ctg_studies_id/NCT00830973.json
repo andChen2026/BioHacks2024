@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00830973",
+    "briefTitle": "The Clinical and Economic Impact of Pharmacogenomic Testing for Tamoxifen Metabolism in Postmenopausal Women Receiving Tamoxifen for Prevention of Recurrent Breast Cancer",
+    "officialTitle": "Tamoxifen Pharmacogenomics and the Prevention of Recurrent Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Tamoxifen",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 184,
+    "primaryOutcomeMeasure": "Determine the prevalence of different CYP450 2D6 phenotypes including poor metabolism status",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient currently has a pharmacy benefit with Medco for an enrolled client\n* Patient has a adjudicated tamoxifen pharmacy claims within the last six months\n* Patient is still taking tamoxifen to prevent recurrent breast cancer\n* Patient is a natural postmenopausal women 50 years of age or older\n* Patient signs consent\n* Patient is willing to provide sample for genetic testing\n* Physician managing tamoxifen therapy is willing to order pharmacogenetic test\n\nExclusion Criteria:\n\n* Patient is male\n* Patient is under 50 years old\n* Patient has previous history of CYP450 2D6 testing\n* Patient is no longer taking tamoxifen\n* Patient refuses to sign consent\n* Patient wishes to no longer participate after testing\n* Patient's physician refuses to order pharmacogenetic test",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

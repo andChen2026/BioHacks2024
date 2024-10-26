@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05063604",
+    "briefTitle": "Antidepressant Efficacy of Psychotherapy and Citalopram in Patients With Breast Cancer and Major Depression",
+    "officialTitle": "Randomized, Controlled, Open and Unicentric Phase II Clinical Trial, With Two Parallel Groups, to Evaluate the Antidepressant Efficacy of Psychotherapy and Citalopram in Women Diagnosed With Breast Cancer and Major Depression",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Major Depressive Episode",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Change from Baseline in severity of depression on the Beck Depression Inventory (BDI) at week 12.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients first time diagnosed with breast cancer (stage I, II, III, or IV) between ages 18 and 75 (both inclusive).\n* Patients with a \"moderate-severe\" level of emotional distress who meet the diagnostic criteria for major depression for at least two weeks or adjustment disorder with depressive mood for at least two months, according to the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition criteria (DSM-V), during the twelve months following the diagnose of breast cancer.\n* Informed Consent Form Signature\n\nExclusion Criteria:\n\n* Women who are pregnant or breastfeeding.\n* Suicide risk.\n* Metastatic brain disease.\n* Personal History of oncological disease.\n* Personal History of serious somatic disease (cardiac, hepatic, respiratory, endocrinological, neurological and haematological).\n* Personal History of organic brain disorder, substance abuse/dependence.\n* Personal History of psychotic disorder, bipolar disorder and/or mental retardation.\n* Contraindications of citalopram treatment.\n* Taking antidepressants after the breast cancer diagnosis.\n* Psychotherapy treatment after breast cancer diagnosis .",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

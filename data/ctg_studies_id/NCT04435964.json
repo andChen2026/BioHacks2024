@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04435964",
+    "briefTitle": "Gender Difference in sidE eFfects of ImmuNotherapy: a Possible Clue to Optimize cancEr tReatment",
+    "officialTitle": "Gender Difference in sidE eFfects of ImmuNotherapy: a Possible Clue to Optimize cancEr tReatment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Melanoma, Lung Cancer, Head and Neck Cancer, Urogenital Neoplasms, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 247,
+    "primaryOutcomeMeasure": "Immune-related severe (G\u2265 2) adverse events (irAEs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent.\n* Histologically confirmed diagnosis of one of the following cancers: melanoma, lung, head and neck, urogenital, breast cancer. In addition, other solid tumors characterized by the presence of microsatellite instability (MSI-high), treated with immunocheckpoint inhibitors (ICI) irrespective of treatment schedule. It is possible to include patients treated with Immunotherapy in a compassionate use setting.\n* Any disease stage.\n* Patients eligible for immune checkpoint inhibitors (ICI)-containing regimens: ICI single agent; Combination of ICIs; ICI-chemotherapy combination; ICI-radiotherapy combination.\n* Any treatment setting (neoadjuvant, adjuvant, advanced disease, maintenance).\n* Patient age \u226518 years\n* ECOG Performance Status of 0-2.\n* Adequate bone marrow, liver and renal function.\n* Life expectancy of at least 12 weeks.\n\nExclusion Criteria:\n\n* Patients not eligible for ICI-containing regimens.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05033769",
+    "briefTitle": "Assessing ImmunoResponse Post Eribulin: Eribulin and Immunogenicity in Advanced Breast Cancer",
+    "officialTitle": "AIRE - Assessing ImmunoResponse Post Eribulin: Eribulin and Immunogenicity in Advanced Breast Cancer - a Prospectively Randomized Phase IV Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Female, Neoplasm, Breast, Breast Cancer Metastatic",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 82,
+    "primaryOutcomeMeasure": "Immune responsivity (IR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent prior to beginning of trial specific procedures\n* Subject must be female and aged \u2265 18 years on day of signing informed consent\n* ECOG 0-1\n* Histologically confirmed, HER2 negative breast cancer determined by core biopsy of tumor lesion. Human epidermal growth factor receptor 2 (HER2) negativity is defined as either of the following by local laboratory assessment: In situ hybridization (ISH) non-amplified (ratio \u2264 2.2), or IHC 0 or IHC 1+.\n* Indication for chemotherapy\n* Previous therapy with one chemotherapy line\n* Target lesion (RECIST 1.1)\n* Adequate organ function defined as:\n\nCreatinine Clearance \\> 50 ml/min ANC \u2265 1.5 x 10 3 /\u03bcL Thrombocytes \\> 100 x 10 3 /\u03bcL\n\nExclusion Criteria:\n\n* HER2 positive disease\n* Indication for an anti-hormone treatment\n* Active infection requiring systemic therapy.\n* Active autoimmune disease or other diseases that requires systemic treatment with corticosteroids or immunosuppressive drugs.\n* History of primary or acquired immunodeficiency (including allogenic organ transplant).\n* Active or prior documented inflammatory bowel disease (e.g., Crohn's disease, ulcerative colitis).\n* Severely impaired liver function (Child Pugh C)\n* Hypersensitivity to study medication or any of its components\n* Neuropathy (PNP) \\> Grade 2 (CTCAE 5.0)\n* Congenital long QT syndrome\n* Preexisting concomitant use of strong CYP3A4 and CYP2C8 inhibiting or inducing drugs\n* Life expectancy of less than three months\n* Pregnancy (contraception is required according tocontraceptive guidance)\n* Lactation\n* Known history of following infections: Human immunodeficiency virus (HIV), History of acute or chronic Hepatitis B or Hepatitis C\n* Has received a live-virus vaccination within 30 days of planned treatment start. Seasonal flu vaccines that do not contain live virus are permitted.\n* Does not agree to blood collection",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

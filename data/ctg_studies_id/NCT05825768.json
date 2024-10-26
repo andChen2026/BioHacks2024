@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05825768",
+    "briefTitle": "Preoperative Magnetic Resonance Imaging to Obtain Adequate Resection Margins in Breast Conserving Surgery, (PRIMAR) Trial",
+    "officialTitle": "Preoperative Magnetic Resonance Imaging to Obtain Adequate Resection Margins (PRIMAR) Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 440,
+    "primaryOutcomeMeasure": "Involved resection margins in the final histopathology",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Newly diagnosed women with biopsy-verified invasive breast cancer\n* Age \\> 18 year\n* Eligible for Breast Conserving Surgery (BCS) based on preoperative ultrasound and mammography\n* Cooperative to receive an Magnetic Resonance Imaging (MRI)-examination\n\nExclusion Criteria:\n\n* Planned mastectomy\n* Included patients where the planned BCS changes to mastectomy based on preoperative MRI\n* Patients where a preoperative MRI is requiered (patients treated with neoadjuvant therapy and complex cases where a preoperative MRI is needed)\n* Previous surgery for pre-malignant or malignant lesions in the breast\n* Pregnancy and lactation\n* Male breast cancer\n* Contraindications for an MRI-examination (pacemaker, severe kidney insufficiency with glomerular filtration rate \\< 30 mL/min, and MRI incompatible implants or devices, claustrophobia, disability that prevents an MRI-examination in a prone position, allergy towards Dotarem (intravenous contrast agent for MRI)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

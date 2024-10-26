@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04109261",
+    "briefTitle": "Analysis of Palbociclib Treatment in Patients With Advanced Breast Cancer Within a Compassionate Use Programe",
+    "officialTitle": "Retrospective Observational Analysis of Palbociclib Treatment in Patients With Advanced Breast Cancer Within a Compassionate Use Programme",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 237,
+    "primaryOutcomeMeasure": "Time to progression",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with RH+ y HER2- metastatic breast cancer having progressed to at least 4 previous standard treatment lines in the metastatic setting, and are not eligible to receive palbociclib in a clinical trial\n2. Absolute neutrophil count \u22651,500/mm3 (1.5 x 109/L)\n3. Platelet count \u2265100,000/mm3 (100 x 109/L)\n4. Haemoglobin \u22659 g/dL\n5. Creatinine \u22641.5 x ULN or creatinine clearance \u2265 60 mL/min\n6. Total bilirubin \u22641.5 x ULN (\u22643.0 x ULN in case of Gilbert's disease)\n7. AST and/or ALT \u22643 x ULN (\u22645.0 x ULN in case of hepatic metastases)\n8. Alkaline phosphatase \u22642.5 x ULN (\u22645.0 x ULN in case of hepatic or bone metastases)\n\nExclusion Criteria:\n\n1. Major surgery, chemotherapy, radiotherapy, treatment with an investigational drug or any other active anticancer therapy within two weeks of treatment initiation\n2. Previous radiotherapy in \u226525% of bone marrow\n3. QTc \\>480 msec, personal or family past history of short or long QT syndrome, Brugada's syndrome, or past history of QT interval prolongation, or tachycardia with Torsade de Pointes (TdP)\n4. History of any of the following conditions within 6 months of treatment initiation: myocardial infarction, unstable angina, grade \u22652 arrhythmia (CTCAE version 4.0), atrial fibrillation, coronary or peripheral artery by-pass, symptomatic congestive heart failure, stroke, or pulmonary thromboembolism\n5. Known hypersensitivity to palbociclib\n6. Current or recent suicidal ideation or behaviour",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

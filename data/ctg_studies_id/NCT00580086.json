@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00580086",
+    "briefTitle": "Monitoring Response to Neoadjuvant Chemotherapy by the Use of Breast Proton MR Spectroscopy",
+    "officialTitle": "Monitoring Response to Neoadjuvant Chemotherapy by the Use of Breast Proton MR Spectroscopy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 19,
+    "primaryOutcomeMeasure": "The spectroscopic data will be analyzed to determine whether this can enable early prediction of therapeutic response as assessed by RECIST and ultimately surgical pathology after the completion of the full course of drug treatment.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients need to be \u2265 18 years of age\n* Patients with biopsy confirmed adenocarcinoma of the breast, scheduled to receive neoadjuvant chemotherapy prior to surgical management.\n\nExclusion Criteria:\n\n* Patients who would normally be excluded from undergoing an MRI examination include:\n\n  * Patients with a pacemaker, aneurysm clip or any other condition that would warrant avoidance of a strong magnetic field\n  * Patients who are pregnant\n* Patients who are unable to comply or complete the MRI exam such as patients with claustrophobia and patients who have electrically, magnetically, or mechanically activated implants, such as heart pacemakers, certain types of artificial joints, inner ear implants, eye implants, or certain surgical clips used in vascular surgery.\n* Patients who are not candidates for neoadjuvant chemotherapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

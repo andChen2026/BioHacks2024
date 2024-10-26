@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01069081",
+    "briefTitle": "Docetaxel and Cisplatin Chemotherapy With or Without High Dose Proton Pump Inhibitor in Metastatic Breast Cancer",
+    "officialTitle": "Phase II Study of Docetaxel and Cisplatin Chemotherapy Versus Docetaxel and Cisplatin Chemotherapy Combined With High Dose Proton Pump Inhibitor in Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Metastasis, Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 94,
+    "primaryOutcomeMeasure": "Time to progression",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent.\n* Female, \u2265 18 years.\n* Histologically confirmed invasive breast cancer.\n* Metastatic breast cancer.\n* Karnofsky Performance Status \u226560.\n* Life expectancy of more than 3 months.\n* Subject must have adequate organ function.\n* Normal laboratory values: hemoglobin \\> 80g/dl, neutrophils \\> 2.0\u00d710\\^9/L, platelets \\> 80\u00d710\\^9/L, serum creatinine \\< upper limit of normal (ULN), serum bilirubin \\< ULN, ALT and AST \\< 2.5\u00d7ULN, AKP \\< 5\u00d7ULN.\n* Negative serum pregnancy test for women with childbearing potential.\n* Good conditions for infusion and willing to have phlebotomy throughout whole study.\n* Have ceased anti-tumor treatments including endocrinotherapy and bio-targeted therapy for more than 28 days.\n* Have at least one target lesion according to the Response Evaluation Criteria in Solid Tumors (RECIST) criteria.\n* No prior use of docetaxel or has used docetaxel in adjuvant/neo-adjuvant chemotherapy and has a relapse free survival of at least 12 months.\n\nExclusion Criteria:\n\n* Pregnant or lactating females.\n* History of other malignancy. However, subjects who have been disease-free for 5 years, or subjects with a history of completely resected non-melanoma skin cancer or successfully treated in situ carcinoma are eligible.\n* Concurrent disease or condition that would make the subject inappropriate for study participation, or any serious medical disorder that would interfere with the subject's safety.\n* Active or uncontrolled infection.\n* Known history of uncontrolled or symptomatic angina, arrhythmias, or congestive heart failure.\n* Concomitant with brain metastases.\n* Have received chemotherapy after metastasis.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

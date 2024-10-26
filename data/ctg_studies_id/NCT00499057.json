@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00499057",
+    "briefTitle": "Partial Breast Irradiation With Interstitial High Dose Rate Brachytherapy",
+    "officialTitle": "Interstitial High Dose-Rate Brachytherapy for Partial Breast Irradiation in Early Breast Cancer: Results of Phase II Prospective Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "cancer related deaths",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> or = 40 years\n* ECOG performance status 0-2\n* T dimensions \u2264 2.5 cm\n* Negative surgical margins\n* Negative axillary lymph nodes\n* Suitable breast anatomy for implantation\n\nExclusion Criteria:\n\n* Age \\< 40 years\n* ECOG performance status \\> 2\n* T dimensions \\> 2.5\n* Positive surgical margins\n* Positive axillary lymph node\n* Infiltrating lobular histology\n* Significant areas of lobular carcinoma in situ\n* Paget's disease of the nipple\n* Extensive intraductal component (EIC)\n* Lymphovascular invasion\n* Multifocality (n) skin infiltration",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

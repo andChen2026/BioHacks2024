@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04147494",
+    "briefTitle": "Experimental PET Imaging Scans Before Cancer Surgery to Study the Amount of PET Tracer Accumulated in Normal and Cancer Tissues",
+    "officialTitle": "PET Biodistribution Study of 68Ga-PSMA-11 and 68Ga-FAPI-46 in Patients With Non-Prostate Cancers: An Exploratory Biodistribution Study With Histopathology Validation",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Carcinoma, Colon Carcinoma, Esophageal Carcinoma, Gastric Carcinoma, Head and Neck Carcinoma, Kidney Carcinoma, Lung Carcinoma, Ovarian Carcinoma, Pancreatic Carcinoma, Solid Neoplasm, Uterine Corpus Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "To define and document the biodistribution of gallium Ga 68 FAPi-46 (68Ga-FAPi-46) and gallium Ga 68-labeled PSMA-11 (68Ga-PSMA-11) in normal and cancer tissues of patients with various non-prostate malignancies",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with the following cancer types:\n\n  * Breast cancer\n  * Colon cancer\n  * Esophageal cancer\n  * Gastric cancer\n  * Head and Neck cancer\n  * Lung cancer\n  * Ovarian cancer\n  * Pancreatic cancer\n  * Renal cancer\n  * Uterus cancer\n* Patients who are scheduled to undergo surgical resection of the primary tumor and/or metastasis\n* Patient can provide written informed consent\n* Patient is capable of complying with study procedures\n* Patient is able to remain still for duration of imaging procedure (up to one hour)\n\nExclusion Criteria:\n\n* Patient is pregnant or nursing\n* Patients with any new cancer therapy between the baseline 18F-FDG PET/CT and the investigational FAPI PET/CT\n* Patient has underlying disease which, based on the judgment of the investigator, might interfere with the collection of high quality data",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

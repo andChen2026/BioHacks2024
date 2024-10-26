@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01157026",
+    "briefTitle": "A Pilot Clinical Trial With Tocotrienol on Breast Cancer",
+    "officialTitle": "Effectiveness of Tocotrienol-rich Fraction Combined With Tamoxifen in the Management of Women With Early Breast Cancer: A Pilot Clinical Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 240,
+    "primaryOutcomeMeasure": "breast cancer specific survival",
+    "eligibilityCriteria": "Inclusion criteria:\n\n1. women with estrogen receptor positive tumors.\n2. 40-60 years of age at the start of the tamoxifen therapy.\n3. histologically confirmed primary breast cancer.\n4. a tumor that was positive for estrogen receptors, progesterone receptors, or both.\n5. an Eastern Cooperative Oncology Group performance status of 0,1, or 2 (scored on a scale of 0 to 5, with lower scores indicating better function).\n\nExclusion criteria:\n\n1. concurrent use of investigational drugs and estrogen receptor status negative or unknown.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02770586",
+    "briefTitle": "Comparison of Positron Emission Mammography and Contrast-enhanced Breast MRI",
+    "officialTitle": "Comparison of Positron Emission Mammography and Contrast-enhanced Breast MRI in Women With a High Suspicion of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Diagnostic yield of breast cancers detected on PEM compared to MRI",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All women in this study will have recent imaging study (mammogram, tomosynthesis, MBI or ultrasound) interpreted as highly suspicious for malignancy or known biopsy-proven malignancy (BI-RADS Category 5 or 6 within 60 days prior to the MRI or PEM study\n* Scheduled or will be scheduled for clinically indicated contrast-enhanced breast MRI examination\n* PEM must be performed within 5 business days, prior to or following the clinical MRI\n* Participant has signed the study-specific informed consent prior to registration\n* Age 25 or older\n\nExclusion Criteria:\n\n* Unable to understand and sign the consent form\n* Pregnant or lactating\n* Physically unable to lie prone for \\~20 minutes\n* Undergone bilateral mastectomy\n* Weight more than 300 lbs (weight limit on PEM table)\n* Have contraindications to the clinical MRI examination\n* Scheduled to undergo breast biopsy or surgery in the time period between the PEM and MRI studies",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

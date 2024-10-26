@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01563211",
+    "briefTitle": "Predictive Model of Therapy Outcomes in Breast Cancer Patients",
+    "officialTitle": "Predictive Modelling of Short Term Outcomes Following Systemic Neo-adjuvant and Adjuvant Therapy in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Toxicity From Medication (Endocrine Treatment and Chemotherapy) Given for Breast Cancer Treatment.",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 70,
+    "primaryOutcomeMeasure": "The primary outcome measure for the study is to determine the relationship between metabonomics spectrum and side effects from chemotherapy and endocrine therapy for patients receiving treatment for breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven breast cancer.\n* Female \u2265 18 years of age, no upper age limit.\n* Pretreatment haematology and biochemistry values with acceptable limits:\n* Haemoglobin (Hb) \\> 9g/dl\n* Aspartate aminotransferase (AST) or Alanine aminotransferase (ALT) \u2264 1.5 x ULN\n* Serum bilirrubin \u2264 1.5 x ULN\n* Alkaline phosphatase \u2264 1.5 x ULN\n* White blood cell (WBC) count \u2265 3.0 x 109/L and absolute neutrophil count (ANC) \u2265 1.5 x 109/L\n* Platelets \u2265 100 x 109/L\n* Serum creatinine \u2264 1.5 x ULN\n* WHO performance status 0 or 1\n* No active or uncontrolled infection\n* Written informed consent prior to commencement of specific protocol procedures\n* No concomitant medical, psychiatric or geographical problems that might prevent follow up of symptoms according to protocol.\n\nExclusion Criteria:\n\n* Other serious illness or medical condition:\n* Congestive heart failure or unstable angina pectoris, previous history of myocardial infarction within 1 year prior to study entry, uncontrolled hypertension or high risk of uncontrolled arrhythmias\n* History of significant neurological or psychiatric disorders including psychotic disorders, dementia or seizure that would prohibit the understanding and giving of informed consent\n* Active uncontrolled infection\n* Active peptic ulcer, unstable diabetes mellitus\n* Only cytological proof of malignancy\n* Patients not able or willing to give informed consent\n* Patients taking medication other than low dose aspirin, antihypertensives or statins.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

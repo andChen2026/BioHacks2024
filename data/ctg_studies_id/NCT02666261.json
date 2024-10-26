@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02666261",
+    "briefTitle": "A Study on the Epidemiology and Testing of Human Epidermal Growth Factor-Receptor 2 (HER2) in Breast Cancer in Germany",
+    "officialTitle": "A Non-interventional Study on the Epidemiology and Testing of HER2 in Breast Cancer in Germany",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 15000,
+    "primaryOutcomeMeasure": "Number of HER2 Positive Samples",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Samples derived from men and women of age greater than or equal to (\\>/=) 18 years\n* Samples derived from participants with any stage of histologically confirmed invasive breast cancer with HER2 diagnostics performed within routine (histo-)pathological workup or\n* (Histo-)Pathological work-up of the tumor sample as at or after start of this study\n* Available information on the year of birth of the participant\n* No pre-selection of tumor samples is allowed. Tumor samples have to be documented consecutively in the order of their (histo-)pathological work-up.\n\nExclusion Criteria:\n\n* Sample derived from participants with any stage of breast cancer with no HER2 diagnostics performed at the time of routine (histo-)pathological work-up.\n* Samples derived prior to the start of this study.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

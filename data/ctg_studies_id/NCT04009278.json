@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04009278",
+    "briefTitle": "Self-compression Mammography in Clinical Practice",
+    "officialTitle": "Self-compression Mammography in Clinical Practice: A Randomized Clinical Trial Compared to Standard Compression Mammography",
+    "overallStatus": "COMPLETED",
+    "conditions": "Mammography, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 502,
+    "primaryOutcomeMeasure": "Average glandular dose administered (mSv)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women in follow-up after surgery\n* Symptomatic women undergoing mammography\n* Early diagnosis in asymptomatic women outside the organized screening program (these women are predominantly aged 40-44 / 75-85)\n* Women with familiar risk\n\nExclusion Criteria:\n\n* Augmentation prostheses\n* Women in screening with active invitation\n* Physical impossibility to use the self-compression command\n* Inability to provide consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Months",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

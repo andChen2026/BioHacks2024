@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02457117",
+    "briefTitle": "A Multi-Institutional Registry for CyberKnife Stereotactic Accelerated Partial Breast Irradiation (CK-SAPBI)",
+    "officialTitle": "A Multi-Institutional Registry for CyberKnife Stereotactic Accelerated Partial Breast Irradiation (CK-SAPBI)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "In breast failure",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subjects are eligible to participate in the registry if they receive CK-SAPBI in 5 fractions within 12 weeks of surgery and sign an institution specific consent form.\n\nAdditionally, subjects will be considered standard risk and optimal for CK-SAPBI if they meet the following criteria:\n\n* Newly diagnosed AJCC (seventh edition) Stage 0 or I breast cancer.\n* On histological examination, the tumor must be DCIS or invasive non-lobular carcinoma of the breast\n* Surgical treatment of the breast must have been wide excision, lumpectomy or partial mastectomy\n* Age 50 years or greater\n* ER positive\n* PR positive\n* Her2 negative (IHC 0-1+; for IHC 2+, FISH must be non-amplified)\n* Subjects with invasive tumors should undergo axillary sentinel lymph node evaluation or axillary lymph node dissection.\n* Negative inked surgical margins of excision or re-excision, clear of invasive tumor and DCIS by at least 2 mm\n* Negative post-excision or post-reexcision mammography if cancer presented with malignancy-associated microcalcifications with no remaining suspicious calcifications in the breast before radiotherapy. Alternatively, a specimen radiograph can be obtained showing all the suspicious calcifications.\n* No involved axillary lymph nodes, N0(i+) allowed\n* Target lumpectomy cavity/whole breast reference volume must be \\<30% based on treatment planning CT\n\nExclusion Criteria:\n\n* -Patients with invasive lobular carcinoma or nonepithelial breast malignancies such as sarcoma or lymphoma.\n* Patients with tumors greater than 2 cm\n* Patients with surgical margins which cannot be microscopically assessed or not cleared by at least 2mm at pathological evaluation.\n* Patients with multicentric carcinoma or with other clinically or radiographically suspicious areas in the ipsilateral breast unless confirmed to be negative for malignancy by biopsy. Breast MRI will be required to exclude multicentric disease and additional suspicious areas will require biopsy to exclude malignancy.\n* Patients with involved axillary nodes.\n* Patients with collagen vascular diseases (active).\n* Patient with known deleterious BRCA1/2 mutations or known mutations in other high penetrance genes (TP53, STK11, PTEN, CDH1)\n* Patients with prior ipsilateral breast irradiation.\n* Patients with prior ipsilateral thoracic irradiation.\n* Patients with Paget's disease of the nipple.\n* Patients with diffuse suspicious microcalcifications.\n* Patients with suspicious microcalcifications remaining on the post-excision mammogram.\n* Patients receiving (neo)adjuvant systemic therapy other than hormonal therapy\n* Patients with oncoplastic reconstruction and absence of surgical clips",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

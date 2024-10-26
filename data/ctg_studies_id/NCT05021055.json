@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05021055",
+    "briefTitle": "Multicentric Study for External Validation of a Deep Learning Model for Mammographic Breast Density Categorization",
+    "officialTitle": "Multicentric Study for External Validation of a Deep Learning Model for Mammographic Breast Density Categorization",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 277,
+    "primaryOutcomeMeasure": "Agreement between the majority report and Artemisia\u00b4s categorization of dense breasts/non-dense breasts",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Mammograms included in the study should meet the following criteria:\n\n  * Female patients of 40 years of age or more.\n  * To have at least one screening mammography exam performed at Saint John's\n  * Cancer Institute during the study period. These exams will be included regardless of the brand of the mammography equipment.\n  * Mammograms should be performed with digital equipment.\n\nExclusion Criteria:\n\n* Mammograms with the following criteria will be excluded from the study:\n\n  * Patients with gigantomastia, defined by the need for more than one image of each mammographic view (mediolateral oblique and craniocaudal) to evaluate the entire breast volume.\n  * Patients with breast implants.\n  * Patients with a history of breast surgery.",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

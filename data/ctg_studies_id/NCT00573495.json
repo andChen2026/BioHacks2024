@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00573495",
+    "briefTitle": "Multipeptide Vaccine for Advanced Breast Cancer",
+    "officialTitle": "A Study of hTERT/Survivin Multi-peptide Vaccine With Daclizumab and Prevnar for Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm, Breast Cancer, Cancer of the Breast, Carcinoma, Ductal",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 11,
+    "primaryOutcomeMeasure": "Safety",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage IV breast cancer that has failed at least one conventional therapy for metastatic disease\n* HLA-A2 positive\n* Measurable or evaluable disease\n* ECOG performance status 0-1\n* Negative contrast CT or MRI scan of the brain within 30 days of treatment\n* Negative pregnancy test within 14 days of treatment for women of childbearing potential\n\nExclusion Criteria:\n\n* History of brain metastases within the last 4 years\n* The use of chemotherapy, radiation therapy, immunosuppressive drugs, systemic glucocorticoids, growth factors, or experimental therapy, and anti-coagulants within 14 days prior to treatment\n* Initiation of hormonal agent in the 30 days before treatment\n* Initiation of Herceptin in the 30 days prior to treatment.\n* History of bone marrow or stem cell transplantation\n* Pregnant or lactating",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

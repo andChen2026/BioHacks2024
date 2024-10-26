@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05021900",
+    "briefTitle": "Efficacy and Safety of Tenalisib (RP6530), in Patients With Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "A Phase II, Multi-center, Randomized, Open-label, Two-arm Study to Assess the Efficacy and Safety of Tenalisib (RP6530), a PI3K \u03b4/\u03b3 and SIK3 Inhibitor, in Patients With Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Locally Advanced Breast Cancer, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Percentage of Patients Without Disease Progression",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients must be \u226518 years of age, at the time of signing informed consent.\n2. Female patients who have histologically and/or cytologically confirmed locally advanced or metastatic breast cancer that has progressed following at least one line of therapy.\n3. Patients with at least one measurable lesion per RECIST version 1.1 at baseline that can be accurately assessed by CT scan or MRI and is suitable for repeated assessment at follow up-visits.\n4. ECOG performance status 0 to 2.\n5. Life expectancy of at least 3 months.\n6. Adequate bone marrow, liver, and renal functions\n7. Female patients of childbearing potential should be willing to use a medically acceptable method of contraception\n\nExclusion Criteria:\n\n1. Patients with HER-2 positive breast cancer.\n2. Patients receiving anticancer therapy within 4 weeks or 5 half-lives of the drug prior to C1D1, whichever is shorter.\n3. Patient who has not recovered from acute toxicities (defined as NCI-CTCAE grade \\> 1) of previous therapy except treatment-related alopecia.\n4. Patients who have had disease progression within 8 weeks of platinum chemotherapy.\n5. Prior exposure to investigational or marketed PI3K inhibitors given for the treatment of breast cancer.\n6. Major surgery within 4 weeks of starting study treatment OR any patient who has not recovered from the effects of major surgery.\n7. Patient with symptomatic uncontrolled brain metastasis.\n8. HIV-positive patients who are on antiretroviral therapy OR active hepatitis C OR active hepatitis B virus infections.\n9. Ongoing immunosuppressive therapy including systemic corticosteroids except as allowed per concomitant medication.\n10. Known history of severe liver injury as judged by the investigator.\n11. History of severe cutaneous reactions in the past.\n12. Active gastrointestinal tract disease with malabsorption syndrome or uncontrolled inflammatory gastrointestinal disease such as Crohn's disease or ulcerative colitis.\n13. Pregnancy or lactation.\n14. Patient with other active malignancies at the time of screening.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

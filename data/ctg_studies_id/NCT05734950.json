@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05734950",
+    "briefTitle": "Biological Characteristics of Older Women (> 70 Years) With ER Positive, HER2 Negative Early Breast Cancer",
+    "officialTitle": "Biological Characteristics of Older Women (> 70 Years) With Oestrogen-receptor (ER) Positive, Human Epidermal Growth Factor 2 (HER2) Negative Early Breast Cancer: Definition of Molecular and Genomic Features.",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Breast Cancer Female",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Distribution of TILs percentage",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Post-menopausal women aged \\>70 years at the time of diagnosis of invasive breast cancer.\n* ER positive (Allred score \\>5/8), HER2 negative early invasive BC.\n* Stage I-III BC.\n* Surgical tissue available.\n* No pre-surgical systemic therapy (i.e., no pre-operative ET or chemotherapy).\n* Planned adjuvant ET with an aromatase-inhibitor.\n* No adjuvant chemotherapy.\n* Surgery was performed between 1st January 2014 and 31st December 2016.\n\nExclusion Criteria:\n\n* Pre- or perimenopausal.\n* ER negative or HER2-positive BC.\n* Multifocal cancer where not all of foci ER positive HER2 negative\n* Bilateral breast cancer.\n* Stage IV breast cancer.\n* Benign histology or DCIS.\n* Pre-surgical treatment.\n* Prior chemotherapy for BC.",
+    "sex": "FEMALE",
+    "minimumAge": "71 Years",
+    "stdAges": "OLDER_ADULT"
+}

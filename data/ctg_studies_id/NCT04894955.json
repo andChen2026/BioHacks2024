@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04894955",
+    "briefTitle": "Micrima MARIA Data Collection for Machine Learning Study",
+    "officialTitle": "Micrima MARIA Data Collection for Machine Learning Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "Validation of MARIA breast classifier for malignant/benign tissue using clinical information",
+    "eligibilityCriteria": "Inclusion Criteria\n\nTo be eligible to participate in this study, a subject must meet all the following criteria:\n\n* Attending a symptomatic clinic or other appointment at a participating site\n* Female sex\n* 18 years or older\n* Able to provide informed consent\n* Not in any identified, vulnerable group\n\nExclusion Criteria\n\nA potential subject who meets any of the following criteria will be excluded from participation in this study:\n\n* Unable to mount MARIA\u00ae participant bed\n* Unable to lie in the prone position for a period of up to 5 minutes\n* Participants who have undergone biopsy less than 5 days before the MARIA\u00ae scan\n* Participants with implanted electronics\n* Participants with breast implants\n* Participants with nipple piercings (unless they are removed prior to the MARIA\u00ae scan)\n* Breast sizes too small or too large to be suitable",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

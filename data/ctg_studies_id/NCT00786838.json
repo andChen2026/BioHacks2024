@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00786838",
+    "briefTitle": "A Study to Assess the Potential Effects of a Single-Dose Administration of Trabectedin on the QT Intervals of the Electrocardiogram",
+    "officialTitle": "A Single-Blind, Multicenter, Placebo-Controlled, Sequential Design Study Evaluating the Potential Effects of a Single-Dose Administration of Trabectedin on the QT Intervals of the Electrocardiogram",
+    "overallStatus": "COMPLETED",
+    "conditions": "Solid Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 76,
+    "primaryOutcomeMeasure": "The Difference in the Change From Baseline (Predose on Day 1) in QTc Intervals Trabectedin Relative to Placebo at 24 Hour Post Dose by Fridericia Correction",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants with locally advanced or metastatic solid tumors who have received three or less prior lines of systemic chemotherapy\n* Participants must have relapsed or had progressive disease following standard of care treatment with chemotherapy prior to enrollment, or intolerant to prior standard of care treatment with chemotherapy\n* Normal cardiac conduction and function as documented on a 12-lead electrocardiogram\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 to 1\n* Adequate organ function as evidenced by laboratory tests\n* Able to receive dexamethasone or its equivalent\n* Agrees to protocol-defined use of effective contraception\n\nExclusion Criteria:\n\n* Participants treated with more than three prior chemotherapy regimens (including adjuvant therapy)\n* Previous exposure to trabectedin\n* Central nervous system (CNS) metastasis\n* Known hypersensitivity to any of the components of the trabectedin intravenous formulation or dexamethasone\n* Heart rhythm disturbances, unusual T wave and U wave (if present) morphology, blood pressure outside of normal range, a history of cardiac failure, myocardial infarction, or cardiomyopathy, or a history of additional risk factors for torsade de pointes (eg, heart failure, electrolyte abnormalities, family history of Long QT Syndrome)\n* Participants who at screening are on medication that is known to prolong the QT interval or who is on CYP3A4 inhibitors or inducers",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

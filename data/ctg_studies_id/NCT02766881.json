@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02766881",
+    "briefTitle": "Evaluation of the DCIS Score for Decisions on Radiotherapy in Patients With Low/Intermediate Risk DCIS",
+    "officialTitle": "Evaluation of the Ductal Carcinoma In Situ Score for Decisions on Radiotherapy in Patients With Low/Intermediate Risk DCIS",
+    "overallStatus": "COMPLETED",
+    "conditions": "DCIS",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 281,
+    "primaryOutcomeMeasure": "Change in radiotherapy treatment recommendation made by physician",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n(1) Women with newly diagnosed breast cancer treated by definitive surgery with histological evidence limited to DCIS.\n\nExclusion Criteria:\n\n1. Age \\< or = 45;\n2. Treated by mastectomy;\n3. Surgical margins of \\<1mm;(re-excisions may be performed where results are regarded as clear margins, these cases will not exclude patients);\n4. Tumour size \\>2.5cm;\n5. Any invasive breast cancer including micro invasion;\n6. Histological evidence of multifocality (defined as having more than one distinct focus of DCIS with \\>5mm of intervening benign breast tissue in one quadrant of the breast);\n7. Any associated lobular carcinoma in situ;\n8. Previous diagnosis of ipsilateral invasive carcinoma or DCIS of the breast;\n9. Any contraindication for whole breast irradiation such as chronic heart or lung disease or previous ipsilateral chest wall radiotherapy;\n10. Physician/patient unwilling to comply with study protocol; and\n11. Inability to provide informed consent (e.g. dementia or severe cognitive impairment).",
+    "sex": "FEMALE",
+    "minimumAge": "46 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

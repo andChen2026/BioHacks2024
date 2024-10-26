@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00210236",
+    "briefTitle": "Surgical Breast Resection With or Without Axillary Lymph Node Excision in Treating Women With Breast Cancer",
+    "officialTitle": "Surgical Resection With or Without Axillary Lymph Node Excision in Treating Menopausal Women With Infiltrative Breast Cancer Smaller Than 10 mm",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 592,
+    "primaryOutcomeMeasure": "Overall Survival (5 years)",
+    "eligibilityCriteria": "Inclusion criteria:\n\nWomen, 50 year or more Menopausal women Breast cancer Macroscopic tumor size of 10 mm or less (measured during operation) No palpable axillary node ( N0)\n\nExclusion criteria:\n\nPrevious cancer history life expectancy \\< 10 years Metastasis",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

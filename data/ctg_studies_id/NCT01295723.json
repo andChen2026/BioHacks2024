@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01295723",
+    "briefTitle": "Intraoperative Boost Radiotherapy With Electrons (IOERT) Followed By Hypofractionated Whole-Breast Irradiation (WBRT)",
+    "officialTitle": "Intraoperative Boost Radiotherapy With Electrons (IOERT) Followed By Hypofractionated Whole-Breast Irradiation (WBRT)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Invasive Lobular and Ductal Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Assessment of acute and late toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological proven invasive breast carcinoma (ductal and lobular)\n* Age \\> 40 years\n* Karnofsky performance status \\>70%\n* Single discrete tumor or focal microcalcifications that can be imaged on a specimen radiograph or multifocal disease within the same quadrant with a maximum dimension of 4 cm (invasive foci)\n* Nodal Status: NO-1\n* Clear surgical margins: R0; min 2mm. Re-excision after IOERT is permitted but not required to achieve (-) margin.\n* All grades G1 - G3\n* Any hormonal receptor and Her-2 status\n* Informed consent\n\nExclusion Criteria:\n\n* In-situ Carcinoma without invasive component or multifocal disease \\> 4 cm\n* Tumor stage: T3 or 4\n* Nodal Status \\> N1 pathologically\n* Surgical margins \\< 2mm\n* Multicentricity\n* Previous radiotherapy to the involved breast\n* Karnofsky Index \\< 70%\n* Mixed connective tissue diseases e.g. rheumatoid polyarthritis, thromboangitis obliterans, systemic lupus.\n* Distant metastases\n* Unable to provide written consent",
+    "sex": "ALL",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

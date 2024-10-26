@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04419077",
+    "briefTitle": "Interest of Virtual Reality to Prevent Cancer Patient Anxiety Before Chemotherapy or an Invasive Act",
+    "officialTitle": "Interest of Virtual Reality to Prevent Cancer Patient Anxiety Before Chemotherapy or an Invasive Act",
+    "overallStatus": "COMPLETED",
+    "conditions": "Anxiety, Chemotherapy Effect, Breast Cancer, Head Cancer Neck",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 41,
+    "primaryOutcomeMeasure": "Difference of anxiety using the State-Trait Anxiety Inventory before oncologic procedure",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nFor all patients:\n\n* Patient Study Information and written informed consent\n* Social Security Affiliation\n\nFor breast cancer cohort :\n\n* Adult patient (\\>18 years)\n* Histological or cytological proven breast cancer\n* Eligible to an adjuvant or neo-adjuvant IV chemotherapy given every 2 to 3 weeks (with protocol doxorubicin- cyclophosphamide, docetaxel-cyclophosmadide, docetaxel-cyclophosphamide-trastuzumab, docetaxel, carboplatine, trastuzumab, epirubicin-cyclophosphamide, etc)\n* Therapeutic strategy validated in multidisciplinary meeting\n* First chemotherapy cure (C1D1) not initiated yet\n* Patients with a complete healing after resection (for adjuvant chemotherapy)\n* Patients that do not report residual pain with an intensity \\> 4.\n\nFor head, neck and bladder cancer cohort :\n\n* Adult patient (\\>18 years)\n* Histological or cytological proven head, neck or bladder cancer\n* Patient eligible for an adjuvant or neoadjuvant based on cisplatin.\n* Therapeutic strategy validated in multidisciplinary meeting\n* First chemotherapy cure (C1D1) not initiated yet\n* Patients with a complete healing after resection.\n* Patients that do not report residual pain with an intensity \\> 4.\n\nFor invasive act leading to potential anxiety cohort :\n\n* Adult patient (\\>18 years)\n* Histological or cytological proven cancer\n* Patient with a planned hospitalization at oncological unit\n* Eupneic patient\n* Afebrile patient\n\nPatient for whom an invasive act leading to potential anxiety is planned (excluding percutaneous implantable chamber) :\n\n* Puncture\n* Deep biopsy\n* Sounding\n* Endoscopy without general anesthesia\n* myelogram\n\nExclusion Criteria:\n\n* Patient with a consciousness disturbance or a spatio-temporal disturbance\n* Claustrophobic patient\n* Patient with a non-stabilized psychiatric pathology\n* Patient with seizure crisis background\n* Patient with a visual or hearing disturbance that is not compatible with video watching and sound listening\n* Patients with out-of range clinical parameters (arterial pressure, cardiac frequency,..)\n* Patients with out-of range blood parameters that are not compatible with chemotherapy or an invasive act.\n* Patient with a life expectancy below 3 months.\n* Impossibility to track and follow patient (any reason)\n* Patient deprived of liberty or subjected to guardianship",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

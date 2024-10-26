@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01468675",
+    "briefTitle": "Health Information Technology (HIT) Enhanced Family History Documentation and Management in Primary Care",
+    "officialTitle": "Health Information Technology (HIT) Enhanced Family History Documentation and Management in Primary Care",
+    "overallStatus": "COMPLETED",
+    "conditions": "Colorectal Cancer, Breast Cancer, Coronary Heart Disease, Diabetes",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 6075,
+    "primaryOutcomeMeasure": "Number of Subjects Who Discussed Disease Risk With Primary Care Provider",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults 18 - 75 Years old\n* English or Spanish speaking\n* Recent visit to a participating primary care practice\n\nExclusion Criteria\n\n* No phone number or email address listed in the EHR",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

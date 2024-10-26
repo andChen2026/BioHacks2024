@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02810093",
+    "briefTitle": "Big Data and Text-mining Technologies Applied for Breast Cancer Medical Data Analysis",
+    "officialTitle": "SENOMETRY : Big Data and Text-mining Technologies Applied for Breast Cancer Medical Data Analysis",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 10000,
+    "primaryOutcomeMeasure": "Validate the reliability of a computer-based, automatic information retrieval method specific to medical records from breast cancer multidisciplinary meetings",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Majority (age \\> 18)\n* Malignant breast tumors\n* signed informed consent\n\nExclusion Criteria:\n\n* Benign breast pathology\n* Patients not initially treated at the H\u00f4pitaux Universitaires de Strasbourg",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

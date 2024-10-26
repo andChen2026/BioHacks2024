@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05985551",
+    "briefTitle": "Delayed SLND for Patients With Breast Cancer Undergoing Primary Systemic Treatment",
+    "officialTitle": "A Feasibility Study on the Timeframe of Superparamagnetic Iron Oxide Nanoparticles Administration in Patients Receiving Primary Systemic Therapy for Early Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Chemotherapy Effect, Sentinel Lymph Node",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 114,
+    "primaryOutcomeMeasure": "Correlation between concordance (isotope and SPIO) and timepoint of SPIO administration to surgery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients with non-metastatic primary breast cancer and cN0/cN1 axilla, as defined by clinical examination and axillary ultrasound (with fine needle aspiration or core biopsy verification of metastasis) intended for PST (chemotherapy, targeted treatment or endocrine therapy) with a curative intention at diagnosis,\n\nExclusion Criteria:\n\n* Distant metastases at diagnosis\n* Inflammatory breast cancer\n* Tumor progression during PST for cN1 patients\n* ycN1 after completion of PST\n* surgery before the completion of PST for any reason (PST adverse effects, patient preference)\n* cN1-to-ycN0 patients that opted for ALND",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03716583",
+    "briefTitle": "Melatonin Cream Against Acute Radiation Dermatitis in Patients With Early Breast Cancer",
+    "officialTitle": "MELADERM-trial: Melatonin Cream Against Acute Radiation Dermatitis in Patients With Early Breast Cancer: a Pivotal Phase 2, Double-blind, Randomized, Placebo-controlled Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Radiation Dermatitis, Radiation Dermatitis Acute, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 48,
+    "primaryOutcomeMeasure": "Radiation Therapy Oncology Group's acute radiation morbidity scoring criteria of the skin",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosed with early breast cancer\n* Over 49 years old\n* Have had radical tumor resection surgery\n* Follows treatment regimens and follow-up at Rigshospitalet\n* Written informed consent after written and verbal information\n\nExclusion Criteria:\n\n* Inability to understand Danish, written or spoken\n* Mental illness (Defined as having a diagnosis and being in medical treatment, or if anticipated poor compliance)\n* Previous therapy with ionizing radiation in the thoracic or neck area\n* Use of bolus for radiation therapy (A bolus is a material which has dose absorption properties equivalent to tissue. It is placed on the irradiated area to alter dosing or target of the radiation therapy)\n* Pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

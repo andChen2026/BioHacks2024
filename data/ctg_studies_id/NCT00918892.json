@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00918892",
+    "briefTitle": "Assessment of Candidate Protein Expression in Breast Cancer Specimens",
+    "officialTitle": "Assessment of Candidate Protein Expression in Human Breast Cancer Specimens",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 460,
+    "primaryOutcomeMeasure": "Differential expression of candidate genes between normal and cancer breast tissues",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nDISEASE CHARACTERISTICS:\n\n* Diagnosis of breast cancer\n* Tissue samples available\n* Samples are selected based on presence or absence of tumor receptors, (i.e.; estrogen, progesterone, and HER2 receptors) and grouped into following 4 categories:\n\n  * Estrogen receptor (ER)-positive/progesterone receptor (PR)-positive/HER2-negative\n  * ER-positive/PR-positive/ HER2-positive by FISH\n  * ER-negative/PR-negative/HER2-positive\n  * ER-negative/PR-negative/HER2-negative(triple negative or basal-type cancers)\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n\nPRIOR CONCURRENT THERAPY:\n\n* Not specified\n\nExclusion Criteria:\n\n* There are no exclusion criteria in this protocol",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

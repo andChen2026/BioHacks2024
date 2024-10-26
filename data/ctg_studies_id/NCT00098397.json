@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00098397",
+    "briefTitle": "FR901228 in Treating Patients With Metastatic Breast Cancer",
+    "officialTitle": "A Phase II Study Of Single Agent Depsipeptide (FK228) In Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Male Breast Cancer, Recurrent Breast Cancer, Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 37,
+    "primaryOutcomeMeasure": "Efficacy (complete and partial response) according to RECIST",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed breast cancer\n\n  * Metastatic disease\n* Measurable disease\n\n  * At least 1 unidimensionally measurable lesion \u2265 20 mm by conventional techniques OR \u2265 10 mm by spiral CT scan\n  * The following are not considered measurable disease:\n\n    * Bone disease only\n    * Pleural effusion\n    * Peritoneal effusion\n* Must have received prior anthracycline (doxorubicin or epirubicin) and/or taxane (paclitaxel or docetaxel) as adjuvant therapy or for advanced disease\n\n  * Therapy with high-dose regimens or bone marrow transplantation is considered 1 prior regimen\n* No known brain metastases\n* Hormone receptor status:\n\n  * Not specified\n* Male or female\n* Performance status - ECOG 0-1\n* Performance status - Karnofsky 70-100%\n* More than 12 weeks\n* Absolute neutrophil count \u2265 1,500/mm\\^3\n* WBC \u2265 3,000/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Bilirubin normal\n* AST or ALT \u2264 2.5 times upper limit of normal\n* Creatinine normal\n* Creatinine clearance \u2265 60 mL/min\n* QTc \\< 500 msec\n* No New York Heart Association class III or IV congestive heart failure\n* No myocardial infarction within the past year\n* No uncontrolled dysrhythmia\n* No poorly controlled angina\n* No other significant cardiac disease\n* No history of serious ventricular arrhythmia (ventricular tachycardia or ventricular fibrillation \u2265 3 beats in a row)\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No history of allergic reaction attributed to compounds of similar chemical or biologic composition to FR901228\n* No active or ongoing infection\n* No psychiatric illness or social situation that would preclude study compliance\n* No other uncontrolled illness\n* No concurrent biologic agents\n* No more than 1 prior chemotherapy regimen for metastatic disease\n* More than 4 weeks since prior chemotherapy (6 weeks for nitrosoureas or mitomycin) and recovered\n* No prior FR901228 (depsipeptide)\n* No other concurrent chemotherapy\n* Prior hormonal therapy for metastatic disease or as adjuvant therapy allowed\n* More than 4 weeks since prior radiotherapy and recovered\n* No concurrent radiotherapy\n* More than 2 weeks since prior minor surgery and recovered\n* More than 4 weeks since prior major surgery and recovered\n* Concurrent bisphosphonates allowed provided therapy was initiated \u2265 3 months ago\n* No concurrent agents that cause QTc prolongation\n* No concurrent combination antiretroviral therapy for HIV-positive patients\n* No concurrent drugs known to have histone deacetylase activity (e.g., valproic acid)\n* No other concurrent investigational agents\n* No other concurrent anticancer therapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

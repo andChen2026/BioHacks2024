@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00210210",
+    "briefTitle": "Administration of Ketamine to Prevent the Post-operative Pain",
+    "officialTitle": "Effect of Ketamine, at the Induction and Its Maintenance to Prevent the Post-operative Pain: Clinical Trial in Cancerology",
+    "overallStatus": "COMPLETED",
+    "conditions": "Postoperative Pain, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 230,
+    "primaryOutcomeMeasure": "Morphine consumption (first 48 post-operative hours)",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Patients 18 years older\n* ASA class 1 or 2\n* with surgery of breast cancer (mastectomy or tumorectomy)\n\nExclusion criteria:\n\n.K\u00e9tamine hypersensitivity\n\n* Major psychiatric disorders\n* Major cardio-vascular disorders\n* Major neurologic disorders\n* Major ocular disorders\n* Morphine in pre-operative period",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

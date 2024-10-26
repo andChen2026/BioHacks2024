@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04176354",
+    "briefTitle": "Real-world Treatment Patterns and Effectiveness of Palbociclib and AI Therapy",
+    "officialTitle": "Real-world Treatment Patterns and Effectiveness of Palbociclib in Combination With an Aromatase Inhibitor as Initial Endocrine Based Therapy in Metastatic/Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 813,
+    "primaryOutcomeMeasure": "Real-World Progression Free Survival (rwPFS): Using Kaplan-Meier Method",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female sex\n2. At least 18 years old at MBC diagnosis\n3. Diagnosis of MBC at any point in patient history\n\n   1. ICD-9 (174.x, 175.x) or ICD-10 (C50.xx) diagnosis of BC\n   2. Confirmation of metastatic disease\n   3. At least 2 document clinical visits\n   4. Evidence of stage IV or recurrent MBC with a metastatic diagnosis date on or after 2011, as confirmed by unstructured clinical documents\n4. HR+/HER2-\n\n   1. HR+: ER+ or PR+ test before or up to 60 days after MBC diagnosis\n   2. HER2-: any HER2 negative test and the absence of a positive test (IHC positive 3+, FISH positive/amplified, Positive NOS) before or up to 60 days after MBC diagnosis\n5. Palbociclib + AI or letrozole as first-line therapy for MBC during the period from February/2015 through August /31/2018 (or 3 months prior to study cut-off date) to allow for a possible minimum follow-up time of 90 days until the study cutoff date. AI was administered within (\u00b1) 28 days of Palbociclib index date.\n\nExclusion Criteria:\n\n1. Evidence of prior treatment with other CDK4/6I (Ribociclib or Abemaciclib), AI (Letrozole, Exemestane, and Anastrazole), Tamoxifen, Raloxifene, Toremifene, or Fulvestrant for MBC\n2. First structured activity greater than 90 days after MBC diagnostic date\n3. Treatment with a CDK4/6 inhibitor as part of a clinical trial",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

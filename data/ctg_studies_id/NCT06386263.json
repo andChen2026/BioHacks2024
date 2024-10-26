@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06386263",
+    "briefTitle": "HER-TEMPO - Real World Treatment-related Outcomes on T-DXd in Canada",
+    "officialTitle": "Real World Study of TrEatment Discontinuations and Modifications for Patients With HER2+ and HER2-low Metastatic Breast Cancer On Trastuzumab Deruxtecan",
+    "overallStatus": "RECRUITING",
+    "conditions": "Unresectable Breast Cancer, Metastatic Breast Cancer, HER2-low Expressing Breast Cancer, HER2-positive Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 75,
+    "primaryOutcomeMeasure": "Early treatment discontinuation rates",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nEnrollment criteria for HER2-positive PSP:\n\n* Adults, 18 years of age or older\n* Unresectable or metastatic HER2-positive breast cancer who have received at least one prior anti-HER2-based regimen either in the metastatic setting, or in the neoadjuvant or adjuvant setting and developed disease recurrence during or within 6 months of completing neoadjuvant or adjuvant therapy\n* Patients must not have received a prior anti-HER2 ADC, such as trastuzumab emtansine, in the metastatic setting\n* Patients who received a prior anti-HER2 ADC in the adjuvant setting must have progressed \\>12 months following the completion of therapy\n\nEnrollment criteria for HER2-low PSP:\n\n* Adults, 18 years of age or older\n* Unresectable or metastatic HER2-low (IHC 1+ or IHC 2+/ISH-) breast cancer who have received at least one prior line of chemotherapy in the metastatic setting or developed disease recurrence during or within 6 months of completing adjuvant chemotherapy\n* Patients with HR+ breast cancer should have received at least one or be considered ineligible for endocrine therapy.\n\nPatients in the SPP must additionally meet the following criteria:\n\n* Patients must have provided consent to be contacted for future research and provided consent to participate in the current observational study\n\nExclusion Criteria (both cohorts):\n\n* Patients who enrolled in the PSP, but did not initiate therapy with T-DXd by the end of the PSP program\n* Patients with medical history of Interstitial Lung Disease (ILD) / pneumonitis that required steroids or current ILD /pneumonitis\n* Patients who do not have adequate renal or hepatic function, defined as:\n* Inadequate renal function is defined as Creatinine clearance \\<30 mL/min, as calculated using the Cockcroft-Gault equation .\n* Inadequate hepatic function is aspartate aminotransferase (AST)/alanine aminotransferase (ALT) \\>5 \u00d7 upper limit of normal (ULN). Total bilirubin \\>1.5 \u00d7 ULN if no liver metastases or \u2265 3 x ULN in the presence of documented Gilbert's syndrome (unconjugated hyperbilirubinemia) or liver metastases at baseline.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

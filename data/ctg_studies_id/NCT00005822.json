@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00005822",
+    "briefTitle": "SU5416 and Doxorubicin in Treating Patients With Stage IIIB or Stage IV Inflammatory Breast Cancer",
+    "officialTitle": "A Phase I Pharmacokinetic, Pharmacodynamic, and Clinical Study of the Combination of the Angiogenesis Inhibitor SU5416 and Doxorubicin in Inflammatory Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 21,
+    "primaryOutcomeMeasure": "Determine the maximum tolerated dose of SU5416 and doxorubicin in patients with stage IIIB or IV inflammatory breast cancer.",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed stage IIIB or IV (supraclavicular lymph node involvement or metastasis) inflammatory breast cancer\n\n  * Primary or secondary\n* No brain metastases or primary brain tumors\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nSex:\n\n* Male or female\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* ECOG 0-2\n\nLife expectancy:\n\n* At least 12 weeks\n\nHematopoietic:\n\n* WBC at least 3,500/mm\\^3\n* Granulocyte count at least 1,500/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n* Hemoglobin greater than 9.0 g/dL\n\nHepatic:\n\n* Bilirubin normal\n* AST and ALT less than 2 times upper limit of normal\n* PT and PTT normal OR\n* INR less than 1.1\n\nRenal:\n\n* Creatinine less than 1.5 mg/dL OR\n* Creatinine clearance greater than 60 mL/min\n\nCardiovascular:\n\n* LVEF at least 50% by MUGA\n* No New York Heart Association class III or IV heart disease\n* No uncompensated coronary artery disease\n* No myocardial infarction or unstable angina within the past 6 months\n* No deep venous or arterial thrombosis within the past 3 months\n\nPulmonary:\n\n* No history of pulmonary embolism within the past 3 months\n\nOther:\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No history of diabetes mellitus with severe peripheral vascular disease\n* No other prior or concurrent malignancies within the past 10 years except inactive nonmelanomatous skin cancer or carcinoma in situ of the cervix\n* No other uncontrolled illnesses\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No concurrent epoetin alfa or filgrastim (G-CSF)\n\nChemotherapy:\n\n* No more than 2 prior chemotherapy regimens allowed\n* No prior doxorubicin or other anthracycline\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* Prior radiotherapy allowed\n\nSurgery:\n\n* Not specified",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

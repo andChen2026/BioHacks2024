@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00072462",
+    "briefTitle": "Adjuvant Tamoxifen Compared With Anastrozole in Treating Postmenopausal Women With Ductal Carcinoma In Situ",
+    "officialTitle": "International Breast Cancer Intervention Study II (IBIS-II) (DCIS)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2980,
+    "primaryOutcomeMeasure": "Number of Participants With Breast Cancer Recurrence, Including Recurrent DCIS and New Contralateral Tumours",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of ductal carcinoma in situ within the past 6 months\n\n  * Locally excised with tumor-free margins at least 1 mm\n* Hormone receptor status:\n\n  * Estrogen or progesterone receptor positive\n\n    * Equal to or greater than 5% positive cells\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 40 to 70\n\nSex\n\n* Female\n\nMenopausal status\n\n* Postmenopausal, defined as meeting at least 1 of the following criteria:\n\n  * Over age 60\n  * Prior bilateral oophorectomy\n  * Age 60 or under with a uterus AND amenorrhea for at least the past 12 months\n  * Age 60 or under without a uterus AND follicle-stimulating hormone greater than 20 IU/L\n\nPerformance status\n\n* Not specified\n\nLife expectancy\n\n* At least 10 years\n\nHematopoietic\n\n* Not specified\n\nHepatic\n\n* Not specified\n\nRenal\n\n* Not specified\n\nCardiovascular\n\n* No prior deep vein thrombosis\n* No prior transient ischemic attack\n* No prior cerebrovascular accident\n\nPulmonary\n\n* No prior pulmonary embolism\n\nOther\n\n* No unexplained postmenopausal bleeding\n* No other cancer within the past 5 years except nonmelanoma skin cancer or carcinoma in situ of the cervix\n* No other concurrent medical condition that would preclude study therapy, place the patient at unusual risk, or confound study results\n* No evidence of osteoporosis\n* Fragility fractures within the spine allowed if T-score level is greater than -4 and consist of no more than 2 fractures\n* Psychologically and physically suitable for 5 years of study therapy\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* Not specified\n\nEndocrine therapy\n\n* No prior or concurrent tamoxifen use lasting more than 6 months unless treatment was completed more than 5 years ago. Women in IBIS-I can join if off trial therapy for at least 5 years.\n* No prior or concurrent raloxifene use lasting more than 6 months unless treatment was completed more than 5 years ago.\n* No other prior or concurrent selective estrogen-receptor modulator use lasting more than 6 months unless treatment was completed more than 5 years ago\n* No concurrent systemic estrogen-based hormone replacement therapy, including vaginal estrogen preparations\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* See Disease Characteristics\n* No prior mastectomy\n* No planned prophylactic mastectomy\n\nOther\n\n* At least 3 months since prior unapproved or experimental agents\n* No concurrent anticoagulants",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

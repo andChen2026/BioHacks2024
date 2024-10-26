@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04007861",
+    "briefTitle": "Exploring the Link Between Cancer Genetics and PPSP",
+    "officialTitle": "Exploring the Link Between Cancer Genetics and Persistent Post-surgical Pain (PPSP) Following Breast Cancer Treatment",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Cancer-related Pain, Chronic Post Cancer Surgery Pain, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 104,
+    "primaryOutcomeMeasure": "The difference in the proportion of mutations of the PIK3CA gene.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients receiving treatment at the Royal Marsden Hospital.\n* Patients with a diagnosis of primary breast cancer.\n* Patients who have had surgical resection of their breast tumour.\n* Paraffin-embedded tissue samples available from Royal Marsden Tissue Banks.\n\nExclusion Criteria:\n\n* Under 18 years of age.\n* Lack of adequate tissue sample available from the Tissue Bank.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

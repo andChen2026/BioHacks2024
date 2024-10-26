@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00864175",
+    "briefTitle": "Open Label Trial of INCB07839 to Determine Effect and Safety of INCB007839 Plus Trastuzumab in HER2 Positive Metastatic Breast Cancer",
+    "officialTitle": "A Phase 1/2, Modified Dose Escalation, Open Label Trial to Determine the Therapeutic Effect and Safety of INCB007839 Combined With Trastuzumab in Patients With Previously Untreated HER2 Positive Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 68,
+    "primaryOutcomeMeasure": "Overall response rate (complete + partial response) using RECIST (Response Evaluation Criteria in Solid Tumor) criteria",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed metastatic breast carcinoma that is HER2 positive\n* Measurable disease as defined by the RECIST criteria\n* Life expectancy greater than or equal to 6 months\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n\nExclusion Criteria:\n\n* Received any anticancer medications in the 28 days prior to enrollment into this study\n* Received any anticancer medications for cancers other than breast cancer within 6 months prior to enrollment in this study.\n* History of deep venous thrombosis within the last year\n* Contraindication to low dose warfarin therapy\n* Clinically significant cardiomyopathy\n* Prior treatment with INCB007839 or trastuzumab or lapatinib",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

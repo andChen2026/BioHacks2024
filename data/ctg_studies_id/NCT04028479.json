@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04028479",
+    "briefTitle": "The Registry of Oncology Outcomes Associated With Testing and Treatment",
+    "officialTitle": "The Registry of Oncology Outcomes Associated With Testing and Treatment (ROOT)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Adenocarcinoma, Adenocystic Carcinoma, Anal Cancer, Appendix Cancer, Brain Tumor, Glioblastoma, Astrocytoma, Bile Duct Cancer, Cholangiocarcinoma, Bladder Cancer, Bone Cancer, Synovial Sarcoma, Chondrosarcoma, Liposarcoma, Sarcoma, Kaposi, Sarcoma,Soft Tissue, Sarcoma, Osteosarcoma, CNS Cancer, Brain Stem Neoplasms, Breast Cancer, Cervical Cancer, Colorectal Cancer, Rectal Cancer, Colon Cancer, Esophageal Cancer, Esophagus Cancer, Cancer of Colon, Pancreatic Cancer, Cancer of Pancreas, Testis Cancer, Testicular Cancer, Ureter Cancer, Renal Cell Carcinoma, Kidney Cancer, Gestational Trophoblastic Tumor, Head and Neck Neoplasms, Parotid Tumor, Larynx Cancer, Tongue Cancer, Pharynx Cancer, Salivary Gland Cancer, Acute Myeloid Leukemia, Chronic Myeloid Leukemia, Acute Lymphoblastic Leukemia, Multiple Myeloma, Non Hodgkin Lymphoma, Carcinoid Tumor, Lung Cancer, Neuroendocrine Tumors, Mesothelioma, Thyroid Cancer, Parathyroid Neoplasms, Adrenal Cancer, Small Bowel Cancer, Stomach Cancer, Liver Cancer, Hepatic Cancer, Melanoma, Skin Cancer, Unknown Primary Tumors, Uterine Cancer, Fallopian Tube Cancer, Ovarian Cancer, Prostate Cancer, Vaginal Cancer, Penile Cancer, Vulvar Cancer, Waldenstrom Macroglobulinemia, Cancer, Advanced, Thymus Cancer, Nasopharyngeal Carcinoma, Multiple Endocrine Neoplasia, Pheochromocytoma, Small Cell Carcinoma, Pulmonary Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 100000,
+    "primaryOutcomeMeasure": "Best overall response (BOR) - 1st line of therapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient or representative provides written informed consent\n* Patient is diagnosed with advanced malignancy\n* Patient is willing to be treated for this malignancy according to a plan determine by them and their physician\n* patient will be willing to have regular follow up visits as part of their standard of care\n\nExclusion Criteria:\n\n* patient is not a candidate or does not desire any treatment for their disease",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

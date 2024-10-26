@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04009941",
+    "briefTitle": "Efficacy and Safety of 4.5mg PEG-rhG-CSF Per Cycle in Preventing Neutropenia After Intensive Chemotherapy for Breast Cancer",
+    "officialTitle": "Study on the Efficacy and Safety of 4.5mg Pegylated Recombinant Human Granulocyte Colony Stimulating Factor Per Cycle in Preventing Neutropenia After Intensive Chemotherapy for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Neutropenia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 104,
+    "primaryOutcomeMeasure": "RDI for each EC chemotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer patients in need for adjuvant chemotherapy confirmed by histopathology, whom should accept ddEC regimen.\n* ECOG\\<=1\n* Expected survival is greater than 6 months\n* Qualified for chemotherapy\uff0cWBC\\>=3\\*109/L, ANC\\>=1.5\\*109/L, Hb\\>=80g/L, PLT\\>=80\\*109/L. With no bleeding tendency or systemic hematology disorder symptoms.\n* No obvious EKG abnormality, no obvious cardiac dysfunction, and normal left ventricular ejection fraction.\n* Liver function, ALT and AST should less than 2.5 times of the upper limit.\n* Renal function, Cr and BUN should less than 1.5 times of the upper limit.\n* Subjects voluntarily participate in this study and sign informed consent.\n\nExclusion Criteria:\n\n* Total amount of doxorubicin used in previous chemotherapy\\>240mg/m2, or epirubicin\\>360mg/m2\n* Has received hematopoietic stem cell transplantation or bone marrow transplantation\n* Other drugs are currently in clinical trials\n* There are currently hard-to-control infections, body temperature is higher than 38 degrees.\n* Received PEG-rhG-CSF treatment before enrollment\n* Received chemotherapy in 4 weeks before enrollment\n* Patients with any visceral metastasis\n* Patients with severe heart, kidney, liver or any other important organs chronic diseases\n* Patients with severe uncontrolled diabetes\n* Patients with allergic diseases, or allergies to this product or other biological products derived from genetically engineered e. coli\n* Suspected or real drug users, substance abusers, alcoholics\n* Pregnant or lactating women\n* Severe mental or neurological disorders that affect informed consent and adverse reactions described or observed",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

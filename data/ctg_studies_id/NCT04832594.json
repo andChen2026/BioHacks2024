@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04832594",
+    "briefTitle": "Using AI to Select Women for Supplemental MRI in Breast Cancer Screening",
+    "officialTitle": "Image Analysis With Artificial Intelligence to Increase Precision in Breast Cancer Screening - the ScreenTrust MRI Substudy: a Prospective Trial of AI to Select Women for Supplemental Screening MRI",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 2500,
+    "primaryOutcomeMeasure": "Significantly Delayed Breast Cancer Detection per 1000 women",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Complete four-view screening mammography examination\n\nExclusion Criteria:\n\n* Women in surveillance program referred from the hereditary cancer unit\n* Breast implants\n* Prior breast cancer\n* Breast feeding\n* MRI contraindication requiring radiologist assessment\n* AI Tool unable to process mammograms due to technical reason",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

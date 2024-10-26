@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01301729",
+    "briefTitle": "A Study of Herceptin (Trastuzumab) in Combination With a Taxane in Participants With HER2-Positive Breast Cancer Who Relapsed After (Neo)Adjuvant Herceptin Treatment",
+    "officialTitle": "A Multicenter, Single Arm, Open-Label PhIV Study to Investigate the Effect of First-Line Herceptin (Trastuzumab) in Combination With a Taxane in Patients With Metastatic Breast Cancer Who Relapsed After Receiving (Neo)Adjuvant Herceptin for HER2-Positive Early Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 32,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female participants , \\>/= 18 years of age\n* Locally recurrent/metastatic breast cancer (relapse in supra- or infraclavicular lymph nodes is regarded as metastatic disease)\n* HER2-positive primary disease\n* Participants must have received Herceptin in the adjuvant and/or neoadjuvant setting\n* Relapsed breast cancer \\>/= 6 months after discontinuing last drugs of Herceptin and/or chemotherapy in the adjuvant and/or neoadjuvant setting for HER2-positive breast cancer\n* Measurable disease according to RECIST 1.0\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* Maximum cumulative dose of doxorubicin \\</= 360 mg/m2 or of epirubicin \\</= 720 mg/m2 or no prior anthracyclines\n* At least 3 weeks after prior surgery or radiotherapy\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding women\n* Previous chemotherapy for metastatic breast cancer (prior endocrine therapy till progressive disease is allowed)\n* Pleural effusions, ascites or bone lesions as only manifestation of disease\n* Brain metastases\n* Invasive malignancy other than metastatic breast cancer\n* Inadequate bone marrow, hepatic or renal function\n* Prior treatment with anti-HER therapies other than (neo)adjuvant Herceptin",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

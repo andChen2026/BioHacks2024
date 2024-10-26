@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05311618",
+    "briefTitle": "Study of NGM438 as Monotherapy and in Combination With Pembrolizumab in Advanced or Metastatic Solid Tumors",
+    "officialTitle": "A Phase 1/1b Dose Escalation/Expansion Study of NGM438 as Monotherapy and in Combination With Pembrolizumab in Advanced or Metastatic Solid Tumors",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Pancreatic Cancer, Breast Cancer, Gastric Cancer, Non Small Cell Lung Cancer, Cervical Cancer, Endocervical Cancer, Squamous Cell Carcinoma of Head and Neck, Bladder Urothelial Cancer, Colorectal Cancer, Esophageal Cancer, Ovarian Cancer, Renal Cell Carcinoma, Prostate Cancer, Melanoma, Mesothelioma, Cholangiocarcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 71,
+    "primaryOutcomeMeasure": "Number of Patients with Dose-limiting Toxicities",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically documented locally advanced or metastatic solid tumor malignancy.\n* Progressed or was intolerant to all available therapies known to confer clinical benefit appropriate for their tumor type for which the patient was eligible and willing to receive.\n* Adequate bone marrow, kidney and liver function\n* Performance status of 0 or 1.\n* Resolved acute effects of any prior therapy to baseline severity or CTCAE Grade 1 except for AEs not constituting a safety risk by Investigator judgement.\n\nExclusion Criteria:\n\n\u2022 Prior treatment targeting LAIR1",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

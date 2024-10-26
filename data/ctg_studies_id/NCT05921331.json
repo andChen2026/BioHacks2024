@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05921331",
+    "briefTitle": "RJBC-APP and Breast Cancer Treatment Compliance",
+    "officialTitle": "Mobile Medical Application on Adjuvant Therapy Compliance and Quality of Life in Patients With Early Breast Cancer: a Multicentric, Open-labeled, Randomized Controlled Trial",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 540,
+    "primaryOutcomeMeasure": "Rate of compliance with adjuvant therapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Females aged 18-70\n2. Eastern Cooperative Oncology Group Performance Status Score 0-2\n3. Breast cancer by pathology\n4. Adjuvant therapy by multidisciplinary team\n5. Written informed consent form\n\nExclusion Criteria:\n\n1. Distant metastases at diagnosis\n2. Unable to use a smartphone",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

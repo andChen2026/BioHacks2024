@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00091442",
+    "briefTitle": "A Study of Docetaxel Monotherapy or DOXIL and Docetaxel in Patients With Advanced Breast Cancer",
+    "officialTitle": "A Randomized Controlled Study of Docetaxel Monotherapy or Docetaxel and DOXIL for the Treatment of Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 751,
+    "primaryOutcomeMeasure": "Time to Progression",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females with locally advanced or metastatic breast cancer who received prior anthracycline therapy in the neoadjuvant or adjuvant setting, and had at least a 12-month disease-free interval since the end of their last cytotoxic therapy, were eligible for the study\n* Participants who received prior hormonal therapy, or no more than 1 cytotoxic chemotherapy regimen (anthracyclines, taxanes, or antitubulin agents were not permitted), or both for advanced disease\n* Participants with normal cardiac function, as evidenced by a normal left ventricular ejection fraction\n\nExclusion Criteria:\n\n* More than 1 prior cytotoxic chemotherapy regimen for advanced breast cancer\n* Treatment of advanced breast cancer with an anthracycline, paclitaxel, docetaxel, vinorelbine, or vinblastine (prior treatment of advanced breast cancer with 1 regimen that included alkylating agents or antimetabolite agents was acceptable)\n* Less than 2 months since the last dose of trastuzumab\n* Less than 3 weeks since last dose of tamoxifen or fulvestrant, or less than 1 week since the last dose of other hormonal therapy\n* Radiation to areas of disease within 30 days before study enrollment\n* History of New York Heart Association Class II or greater cardiac disease or other clinical evidence of congestive heart failure",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

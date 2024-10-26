@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03539965",
+    "briefTitle": "Triple-negative Breast Cancer: a New Perspective on Biomarkers",
+    "officialTitle": "Triple-negative Breast Cancer: a New Perspective on Predictive and Prognostic Biomarkers",
+    "overallStatus": "COMPLETED",
+    "conditions": "Triple Negative Breast Neoplasms, Triple Negative Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 239,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women older than 18 years\n* Locally advanced TNBC (T3-4, any Node, M0; any Tumor, N1-3, M0)\n* Patients submitted to anthracycline and taxane-based neoadjuvant chemotherapy and then operated between January 2010 and December 2014 at the Brazilian National Cancer Institute.\n\nExclusion Criteria:\n\n* Patients with metastatic Breast Cancer;\n* Other non-epithelial histologies of breast cancer;\n* Pure Ductal Carcinoma In Situ diagnoses are not eligible.\n* Patients with scarce material for immunohistochemistry;\n* Other primary synchronous or anachronistic tumors in the breast or other sites;\n* No prior immunotherapeutic, chemotherapeutic or antiandrogenic drugs allowed\n* Patients treated with alternative neoadjuvant chemotherapy regimens (not based on anthracycline and taxane) or with only hormone therapy;\n* Patients who received chemotherapy or who were operated outside the INCA.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

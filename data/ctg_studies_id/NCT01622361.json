@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01622361",
+    "briefTitle": "Premenopausal Patient With Hormone Responsive, HER2 Negative, Lymph Node Positive Breast Cancer",
+    "officialTitle": "A Phase III, Open-Label, Prospective, Randomized, Multicenter, Neo-adjuvant Study of Chemotherapy Versus Endocrine Therapy in Premenopausal Patient With Hormone Responsive, HER2 Negative, Lymph Node Positive Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 290,
+    "primaryOutcomeMeasure": "Response Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histologically proven primary invasive breast cancer which is thought to be suitable for neo-adjuvant treatment\n2. Pathologically proven lymph node positive tumor(FNAB or Core biopsy)\n3. Tumor must be ER positive(eligible patients include Allred score 5 and more, Modified Allred 4 and more) and HER-2 negative(IHC score is 0-1+; If IHC score is 2+, the result of FISH or SISH is negative)\n4. Premenopausal women\n\n   Premenopausal status as defined by :\n   * Last menses within 6 month of randomization or\n   * For patients who have had a unilateral oophorectomy, E2 \u2265 20PG/mL and FSH \\< 30mIU/Ml within 4 weeks of randomization\n5. over 20 years old\n6. Pre-treatment haematology and biochemistry values within acceptable limits :\n\n   * ANC \u2265 1.5 \u00d7 109/l\n   * Hb \\> 9g/dl\n   * Platelets \u2265 100 \u00d7 109/l\n   * AST/ALT \u2264 1.5 \u00d7 ULN(Upper Limit of Normal)\n   * ALP \u2264 1.5 \u00d7 ULN\n   * Serum bilirubin \u2264 1.5 \u00d7 ULN\n   * Serum creatinine \u2264 1.5 \u00d7 ULN\n7. ECOG PS of 0 or 1\n8. No concomitant medical, psychiatric or geographic problems that might prevent completion of treatment or follow-up\n9. Before any study-specific procedures, the appropriate written informed consent must be obtained\n\nExclusion Criteria:\n\n1. Inflammatory breast cancer\n2. Inoperable disease that is judged very unlikely to be rendered operable by neo-adjuvant treatment\n3. Known severe hypersensitivity to GnRHa treatment\n4. Bilateral invasive breast cancer\n5. Other serious illness or medical condition:\n\n   * congestive heart failure or unstable angina pectoris, previous history of myocardial infarction within 1 year from study entry, uncontrolled hypertension or high-risk uncontrolled arrhythmias\n   * history of significant neurologic or psychiatric disorders including psychotic disorders, dementia or seizures that would prohibit the understanding and giving of informed consent\n   * active uncontrolled infection\n6. HRT within 4 weeks of starting treatment\n7. Definite contra-indications for the use of corticosteroids.\n8. Last 10 years with a history of other malignant tumor (except in the case of basal cell carcinoma or cervical carcinoma in situ, and where treatment consisted solely of resection)\n9. Systemic metastatic (Tests for the diagnosis of systemic metastatic comply with the guideline in each institution)\n10. Pregnant or breastfeeding women\n11. Chronic oral treatment with corticosteroids unless initiated \\> 6 months prior to study entry and at low dose (\u2264 20 mg methylprednisolone or equivalent).",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00388115",
+    "briefTitle": "Radiofrequency Ablation in Treating Patients With Early Invasive Breast Cancer or Ductal Carcinoma in Situ",
+    "officialTitle": "A Pilot Study of Radiofrequency Ablation of Early Invasive and In Situ Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "Number and proportion of patients with viable cancer cells remaining in the resected specimen as measured by enzyme cell viability analysis and amount of tumor coagulated at post-treatment biopsy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females of ages \u226518 years.\n* Core biopsy proven invasive breast cancer OR\n* Core biopsy proven low or intermediate grade DCIS.\n* Tumor less than or equal to 2.0 cm in diameter.\n* No prior surgical treatment for breast cancer within 30 days.\n* Life expectancy of \\> 10 years, not including the diagnosis of cancer.\n* ECOG performance status of 0-2.\n* Informed consent given.\n* Multifocal invasive breast cancer patients are eligible. All tumors that are palpable or visualized by USS can be treated.\n\nExclusion Criteria:\n\n* Male subjects.\n* Ages \\< 18 years.\n* Breast tumor \\> 2.0 cm in diameter.\n* Evidence of distant metastatic disease.\n* Evidence of diffuse calcification suggestive of extensive or multifocal DCIS.\n* High grade DCIS or presence of comedo-necrosis because these lesions can be associated with invasive breast cancer, which would go undetected if the lesion is entirely destroyed by the RF ablation.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

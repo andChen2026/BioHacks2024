@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06499077",
+    "briefTitle": "Non-invasive Detection of Breast Cancer by Breath Analysis",
+    "officialTitle": "Non-invasive Detection of Breast Cancer by Mass-spectrometry-based Profiling of Exhaled Breath",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Neoplasm Female",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Classification of the exhaled breath of breast cancer patients and controls as assessed by the comparison of the global breath profile of volatile organic compounds (VOCs) measured using Mass Spectrometry analysis.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. be \\>= 18 years\n2. Patients\n\n2.a patients at early stage of breast cancer 2.b exahled breath collected and analysed at the baseline before any surgical or pharmacological treatment\n\n3. Controls 3.1 subjects with negative breast imaging (BI-RADS= 1,2) 3.2 exhaled breath collected and analysed on the day of breast screening\n\n-\n\nExclusion Criteria:\n\n1. any cancer in the 5 years before the inclusion\n2. major surgery within 4 weeks before the inclusion\n3. previous or concomitant long-term treatment with systemic steroids or immunosuppressive/immunomodulating drugs\n4. concomitant acute infection, viral hepatitis, HIV infection, COVID19 infection or other serious concomitant medical disorders\n5. organ allograft\n\n   -",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

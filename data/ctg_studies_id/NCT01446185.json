@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01446185",
+    "briefTitle": "Treatment Decision Impact of OncotypeDX\u2122 in HR+, N- Breast Cancer Patients",
+    "officialTitle": "Treatment Decision Impact of OncotypeDX\u2122 in HR+, N- Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "impact of the Oncotype DX Recurrence Score on the treatment recommendation made",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients \\> 18 years old.\n2. Pre- or post- menopausal women with breast adenocarcinoma, confirmed by a pathologist and who underwent surgery, with a maximum of 4 weeks between surgery and the 2nd therapeutic decision with Oncotype DX.\n3. HR positive (at least ER+) breast cancer patients (defined by a threshold of 10% of the cells IHC + without N- or pN1(mi), Her2 - (IHC0, 1, 2+ or FISH -)\n4. Patients must be eligible to receive adjuvant chemotherapy as defined by a good Karnofsky index, no hematological, cardiological or hepatic contraindications nor any impeding comorbidity.\n5. Patients must have given a written informed consent.\n\nExclusion Criteria:\n\n1. T3 or T4, HR-, N+ (except pN1 (mi) (sn), Her2+ (IHC 3+ or Fish+) patients.\n2. Metastatic patients.\n3. Patients who cannot give an informed consent.\n4. Patients who cannot receive chemotherapy.\n5. Patient who participated in another clinical trial and is still in the exclusion period of any other trial.\n6. Mentally disabled patient who has no legal responsibility for herself.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

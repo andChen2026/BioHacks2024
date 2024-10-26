@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03688958",
+    "briefTitle": "Iodine Supplementation on Breast Cancer",
+    "officialTitle": "Effect of Dietary Iodine Supplementation on the Proliferation of Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Tumor response [change in size]",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed, stage II or III breast cancer\n* Scheduled to surgical of the primary tumor (stage II)\n* Will receive neoadjuvant FEC/TE chemotherapy (stage III).\n* age \\> 18 and \\< 81 years\n* Non-pregnant\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n\nExclusion Criteria:\n\n* Known sensitivity to iodine or FEC/TE\n* Concurrent severe and/or uncontrolled disease\n* Myocardial infarction within the last six months before the study\n* Unstable or uncontrolled hypertension\n* Thyroid dysfunction",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01329068",
+    "briefTitle": "Patient Empowerment by Group Medical Consultations",
+    "officialTitle": "Patient Empowerment by Group Medical Consultations in the Follow-up of Breast Cancer Survivors and Surveillance of Women With a BRCA Mutation",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, BRCA Mutation",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 320,
+    "primaryOutcomeMeasure": "Psychological distress (SCL-90) and empowerment (Cancer Empowerment Questionnaire)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nParticipants: patients in follow-up after breast cancer\n\n* Women \u2265 18 years of age with histologically proven breast cancer.\n* Primary treatment (surgery, radiotherapy, chemotherapy) completed maximally 5 years ago.\n\nParticipants: women with a BRCA mutation\n\n* Women \u2265 25 years of age with a proven BRCA1 or BRCA2 mutation.\n* Carrier of a BRCA1 or BRCA2 mutation, diagnosed maximally two years before inclusion.\n\nExclusion Criteria:\n\nParticipants: patients in follow-up after breast cancer\n\n* Metastatic breast cancer\n* Currently involved in a diagnostic work-up because of a suspicion of breast cancer, either primary or metastatic.\n* A history of prophylactic mastectomy.\n* Current psychiatric disease precluding consultations in a group.\n* Insufficient command of the Dutch language to be able to follow a group discussion and/or to fill out a Dutch questionnaire\n\nParticipants: women with a BRCA mutation\n\n* Metastatic breast cancer\n* Currently involved in a diagnostic work-up because of a suspicion of breast cancer, either primary or metastatic.\n* A history of prophylactic mastectomy.\n* Current psychiatric disease precluding consultations in a group.\n* Insufficient command of the Dutch language to be able to follow a group discussion and/or to fill out a Dutch questionnaire",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00291798",
+    "briefTitle": "Neoadjuvant Endocrinotherapy of Breast Cancer (Mamma Carcinoma) With Exemestane",
+    "officialTitle": "Neoadjuvant Endocrinotherapy of Mamma Carcinoma With Exemestane",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 98,
+    "primaryOutcomeMeasure": "rate of remission",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically verified breast cancer (punch biopsy), established HER-2/neu status\n* Postmenopausal patients (\\> 1 year following outset of menopause and/or postmenopausal hormonal profile)\n* Clinical staging: T2 (\\> 3 cm), T3, T4a-c, N0-1\n* Hormone receptor positivity, i.e. estrogen and/or progesterone receptor \\> 10 fmol/mg cytosolic protein or ER-ICA-positive and/or PgR-ICA-positive. Positivity of + (low-grade) in one hormone receptor is only eligible in the presence of positivity in the other hormone receptor.\n* no internal contraindication\n* life expectation \\> 6 month\n* written informed consent\n\nExclusion Criteria:\n\n* premenopausal patients and patients with no clearly indicated menopausal status\n* manifest second malignant tumor (except basalioma or in situ carcinoma of cervix uteri)\n* uncontrolled internal disease i.e. diabetes mellitus, cardiac disease (NYHA III/IV)\n* thromboembolic disease\n* inflammatory mamma carcinoma\n* existence of distant metastases\n* former or simultaneously therapy with antioestrogens, aromatase inhibitors, cytostatics or radiotherapy\n* corticosteroids before and during the study (except inhalant application)\n* lack of compliance",
+    "sex": "FEMALE",
+    "minimumAge": "59 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01472094",
+    "briefTitle": "The Hurria Older PatiEnts (HOPE) With Breast Cancer Study",
+    "officialTitle": "Clinical and Biological Predictors of Chemotherapy Toxicity in Older Adults",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 700,
+    "primaryOutcomeMeasure": "Develop a predictive model of clinical and biological predictors for grade 2-5 toxicity to adjuvant and neoadjuvant chemotherapy.",
+    "eligibilityCriteria": "Patients with Breast Cancer:\n\nInclusion Criteria:\n\n* Patients with stages I-III breast cancer receiving adjuvant or neoadjuvant chemotherapy\n* Able to understand English\n* Able to provide informed consent\n* Patients age \u226565 and of any performance status are eligible\n\nExclusion Criteria:\n\n* Patients with metastatic disease\n\nBreast Cancer Controls:\n\nInclusion Criteria:\n\n* Patients with stages I-III breast cancer\n* Patient will not receive adjuvant or neoadjuvant chemotherapy\n* Patients age \u226565 and of any performance status are eligible\n* Able to understand English\n* Able to provide informed consent\n\nExclusion Criteria:\n\n* Patients with metastatic disease\n* Receipt of chemotherapy\n\nHealthy Controls:\n\nInclusion Criteria:\n\n* Patients age \u226565 and of any performance status are eligible\n* No history of cancer (excluding non-melanoma skin cancer)\n* Able to understand English\n* Able to provide informed consent",
+    "sex": "ALL",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

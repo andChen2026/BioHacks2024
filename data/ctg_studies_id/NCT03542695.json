@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03542695",
+    "briefTitle": "64 Cu-DOTA-alendronate PET Imaging in Localizing and Characterizing Breast Calcifications in Participants Before Undergoing Mastectomy",
+    "officialTitle": "Use of 64Cu-DOTA-Alendronate PET Imaging for Localization and Characterization of Breast Calcifications",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Carcinoma, Calcification",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "Maximum standardized uptake value (SUVmax) of 64Cu-DOTA-alendronate in evaluating tumor size and calcifications",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Evidence of calcifications on mammogram\n* Biopsy confirmed malignancy associated calcifications in at least one breast\n* Biopsy confirmed benign calcifications in at least one breast (same or contralateral breast)\n* Planned total mastectomy for treatment\n* Ability to provide informed consent\n* Negative serum pregnancy test\n* No evidence of impaired hepatic or kidney function\n\nExclusion Criteria:\n\n* Participants who do not have residual calcifications present on mammogram following biopsy\n* Concurrent malignancy other than non-melanoma skin cancer\n* Patients with known metastatic disease\n* Patients who have received prior treatment for the current breast cancer\n* Patients currently using oral bisphosphonate therapy\n* Patients with injection of other radioactive material within 90 days\n* Inability to provide informed consent\n* Pregnant or lactating patients\n* Patients with impaired kidney function (creatinine \\>= 1.3 mg/dL or \\< 0.6 mg/dL)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

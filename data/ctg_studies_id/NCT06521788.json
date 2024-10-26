@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06521788",
+    "briefTitle": "Artificial Intelligence Assisted Breast Ultrasound in Breast Cancer Screening",
+    "officialTitle": "Application Research of B-ultrasound Assisted by Artificial Intelligence in Breast Cancer Screening",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Screening",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 21790,
+    "primaryOutcomeMeasure": "Incidence rate of early breast cancer in each arm",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 35-70 who participated in breast cancer screening (Shanghai Rural Women \"Women two cancer screening project\", national major public health service project \"Rural women breast cancer screening Project\" and \"Gynecological diseases and breast diseases screening project for retired and living difficult women\") in Shanghai district\n\nExclusion Criteria:\n\n* 1. Personal history of breast carcinoma, either invasive or ductal carcinoma in situ (DCIS); 2. Personal history of any types of malignant neoplasms; 3. Known condition or suspicion of severe cardiopulmonary insufficiency, liver and kidney insufficiency and other systemic diseases; 4. Known condition or suspicion of serious comorbidities and average life expectancy less than 5 years; 5. History of lateral or bilateral mastectomy; 6. Disagree to participate in the study and follow-up interviews.",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

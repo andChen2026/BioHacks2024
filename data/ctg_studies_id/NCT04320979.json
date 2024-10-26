@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04320979",
+    "briefTitle": "Postmastecomy Internal Mammary Nodal Irradiation for High-risk Breast Cancer Patients",
+    "officialTitle": "Postmastectomy Prophylactic Internal Mammary Nodal Irradiation for High-risk Patients With Non-metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "disease-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group Performance Status Scale 0-2\n* Histologically confirmed invasive breast cancer\n* Underwent total mastectomy and axillary dissection(10 or more axillary lymph nodes detected) and negative margins\n* Patients who had \u22654 positive axillary lymph nodes; or 1-3positive axillary lymph nodes and T3-4; or 1-3positive axillary lymph nodes and T1-2, and score\u22653 based on the following high risk factors: age\u226440 years(score 1), primary tumor in the inner quadrant (score 1), 2-3 positive axillary lymph nodes (score 1), positive vascular invasion (score 1), re-staged based on eighth Cancer Staging System staging system(IB-IIA score 1\uff0c IIB-IIIA score 2); or ypN+ after neoadjuvant chemotherapy\n* No supraclavicular or internal mammary nodes metastases based on images before system therapy\n* No distant metastases\n* Could tolerate radiotherapy\n* Treated with chemotherapy (anthracycline and/or taxane-based combined chemotherapy, \u22656 cycles)\n* Anticipated to receive endocrine therapy for 5 years if indicated\n* Anticipated to receive anti-HER2 therapy for 1 years if indicated\n* LVEF\u226550% based on echocardiogram\n* Willing to follow up\n* Written,informed consent\n\nExclusion Criteria:\n\n* Simultaneous bilateral breast cancer\n* Sentinel lymph node biopsy only without axillary dissection\n* Had received internal mammary node dissection\n* No imaging assessment of the internal mammary nodal before system therapy\n* One-stage breast reconstruction\n* Severe cardiac insufficiency; myocardial infarction or uncorrected unstable arrhythmia or uncorrected unstable angina in the last 3 months; pericardial disease\n* Had history of chest wall or supraclavicular radiotherapy\n* Had simultaneous or previous secondary malignancies, except for non-malignant melanoma skin cancer, papillary thyroid / follicular carcinoma, cervical carcinoma in situ, contralateral non-invasive breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

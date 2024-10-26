@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01792999",
+    "briefTitle": "Koning Breast CT for Breast Imaging in China",
+    "officialTitle": "Koning Breast CT for Breast Imaging in China",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 418,
+    "primaryOutcomeMeasure": "Efficacy of KBCT, CE-KBCT and Mammography",
+    "eligibilityCriteria": "Non-contrast KBCT\n\nInclusion Criteria:\n\n* Females at least 35 years of age of any ethnicity\n* Had diagnostic imaging\n* Will undergo study imaging no later than two weeks from date of diagnostic mammogram\n* Is able to undergo informed consent\n\nExclusion Criteria:\n\n* Pregnancy\n* Lactation\n* Subjects with physical limitations that may prohibit resting prone on the exam table, such as, but not limited to: frozen shoulder, recent heart surgery, pace maker.\n* Subjects who are unable to tolerate study constraints.\n* Subjects who have received radiation treatments to the thorax for malignant and nonmalignant conditions, such as (but not limited to)\n\n  * Treatment for enlarged thymus gland as an infant\n  * Irradiation for benign breast conditions, including breast inflammation after giving birth\n  * Treatment for Hodgkins disease\n* Subjects who have participated in a prior breast clinical trial that gave additional radiation dose, such as an additional mammogram.\n* Subjects who have received large numbers of diagnostic x-ray examinations for monitoring of disease such as (but not limited to)\n\n  * Tuberculosis\n  * Severe scoliosis\n\nContrast-enhanced KBCT\n\nInclusion Criteria:\n\n* Females at least 35 years of age of any ethnicity\n* Had diagnostic imaging and was determined to have biopsy or surgery\n* Will undergo study imaging no later than two weeks from date of diagnostic mammogram\n* Is able to undergo informed consent\n\nExclusion Criteria:\n\nSame as the exclusion criteria as non-contrast KBCT, plus the following:\n\n* Abnormal Glomerular Filtration Rate (GFR)/Blood Urea Nitrogen (BUN) or Creatinine at Pre contrast blood screening\n* Previous non-ionic contrast reaction\n* History of renal dysfunction/kidney disease\n* Diabetes mellitus treated with metformin\n* Multiple myeloma\n* Dehydration\n* History of nephrotoxic medication use\n* Hyperthyroidism\n* Pheochromocytoma\n* Sickle Cell Disease",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

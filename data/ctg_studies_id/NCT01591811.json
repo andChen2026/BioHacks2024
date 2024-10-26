@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01591811",
+    "briefTitle": "Prospective Trial of Two Prone Breast Radiotherapy Techniques With Randomization to Concurrent Versus Weekly Boost",
+    "officialTitle": "Prospective Trial of Two Prone Breast Radiotherapy Techniques With Randomization to Concurrent Versus Weekly Boost",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 433,
+    "primaryOutcomeMeasure": "Number of patients with acute radiation toxicity of Grade 2 or higher.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Pre- or post-menopausal women with Stage 0, I and II breast cancer (Post-menopausal women defined as either (a) at least 2 years without menstrual period or (b) or patients older than 50 with serological evidence of post-menopausal status or (c) hysterectomized patients of any age with FSH confirmation of post-menopausal status)\n2. Biopsy-proven invasive breast cancer, excised with negative margins of at least 1 mm\n3. Status post segmental mastectomy, after sentinel node biopsy and/or axillary node dissection (DCIS and Tumors \\<5 mm in size do not require nodal assessment)\n4. At least 2 weeks from last chemotherapy\n5. Patient needs to be able to understand and demonstrate willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n1. Previous radiation therapy to the ipsilateral breast\n2. More than 3 involved nodes identified at axillary staging, requiring adjuvant axillary radiation\n3. Active connective tissue disorders, such as lupus or scleroderma\n4. Prior or concurrent malignancy other than basal or squamous cell skin cancer or carcinoma in-situ of the cervix, unless disease-free \\> 3 years\n5. Pregnant or lactating women",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

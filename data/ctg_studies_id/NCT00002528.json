@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00002528",
+    "briefTitle": "Surgery With or Without Lymph Node Removal in Treating Older Women With Stage I or Stage IIA Breast Cancer",
+    "officialTitle": "Surgical Therapy With or Without Axillary Node Clearance for Breast Cancer in the Elderly Who Receive Adjuvant Therapy With Tamoxifen.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 473,
+    "primaryOutcomeMeasure": "Disease-free survival",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed stage I or IIA breast carcinoma that is considered operable\n* No prior axillary clearance or biopsy\n* Complete excisional biopsy of primary tumor without axillary clearance or biopsy allowed\n* Suspicious manifestations of metastatic disease (e.g., hot spots on bone scan or skeletal pain of unknown cause) must be proven benign\n* No bilateral breast cancer (any mass in contralateral breast must be proven benign by biopsy)\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 60 and over\n\nSex:\n\n* Female\n\nMenopausal status\n\n* Postmenopausal\n\nPerformance status:\n\n* Not specified\n\nHematopoietic:\n\n* WBC greater than 4,000/mm\\^3\n* Platelet count greater than 100,000/mm\\^3\n\nHepatic:\n\n* Bilirubin less than 1.1 mg/dL\n* AST less than 60 U/L\n\nRenal:\n\n* Creatinine less than 1.3 mg/dL\n\nCardiovascular:\n\n* Normal cardiac function\n* No history of congestive heart failure\n\nOther:\n\n* No nonmalignant systemic disease that would preclude protocol therapy or prolonged follow-up\n* No psychiatric or addictive disorder that would preclude protocol therapy or informed consent\n* No other prior or concurrent malignancy except nonmelanomatous skin cancer or adequately treated carcinoma in situ of the cervix\n* Geographically accessible for follow-up\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No prior biologic therapy for breast cancer\n\nChemotherapy:\n\n* No prior chemotherapy for breast cancer\n\nEndocrine therapy:\n\n* No prior endocrine therapy for breast cancer\n\nRadiotherapy:\n\n* No prior radiotherapy for breast cancer\n\nSurgery:\n\n* See Disease Characteristics",
+    "sex": "FEMALE",
+    "minimumAge": "60 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

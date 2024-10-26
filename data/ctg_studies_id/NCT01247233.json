@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01247233",
+    "briefTitle": "Standard or Hypofractionated Radiotherapy Versus Accelerated Partial Breast Irradiation (APBI) for Breast Cancer",
+    "officialTitle": "Phase III Multicentric Trial Comparing Accelerated Partial Breast Irradiation (APBI) Versus Standard or Hypofractionated Whole Breast Irradiation in Low Risk of Local Recurrence of Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Lumpectomy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1006,
+    "primaryOutcomeMeasure": "rate of local recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged \u226550 years\n* Menopausal status confirmed\n* Pathology confirmation of invasive carcinoma (all types)\n* Complete tumor removal and conservative surgery\n* Pathologic tumor size of invasive carcinoma \u22642 cm (including the in situ component) pT1\n* All histopathologic grades\n* Clear lateral margins for the invasive and in situ disease (\\>2 mm)\n* pN0 or pN(i+)\n* No metastasis\n* Radiotherapy should be started more than 4 weeks and less than 12 weeks after last surgery\n* Surgical clips (4 to 5 clips in the tumor bed)\n* No prior breast or mediastinal radiotherapy\n* Eastern Cooperative Oncology Group (ECOG) 0-1\n* Information to the patient and signed informed consent\n\nExclusion Criteria:\n\n* Multifocal invasive ductal carcinoma defined as the presence of at least two distinct tumors that are separated by normal tissue or when the distance between the two lesions does not permit conservative surgery\n* Bilateral breast cancer\n* No or less than 4 surgical clips in the tumor bed\n* Nodal involvement : pN1 (including micrometastasis, mi+), pN2, pN3\n* Metastatic disease\n* internal mammary node involvement or supraclavicular lymph node involvement\n* Indication of chemotherapy or trastuzumab\n* Involved or close lateral margins for the invasive and /or in situ components (\\<2 mm) AND impossibility to re-operate or impossible to perform another conservative surgery\n* Patients with known BRCA1 or BRCA2 mutations\n* Previous mammoplasty\n* Previous homolateral breast and/or mediastinal irradiation\n* Previous invasive cancer (except basocellular epithelioma or in situ carcinoma of the cervix)\n* No geographical, social or psychologic reasons that would prevent study follow",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

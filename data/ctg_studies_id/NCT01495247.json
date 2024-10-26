@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01495247",
+    "briefTitle": "Phase Ib/II Trial of BEZ235 With Paclitaxel in Patients With HER2 Negative, Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "A Dose-finding Phase Ib Study Followed by an Open-label, Randomized Phase II Study of BEZ235 Plus Paclitaxel in Patients With HER2 Negative, Inoperable Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Inoperable Locally Advanced Breast Cancer, Metastatic Breast Cancer (MBC)",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 18,
+    "primaryOutcomeMeasure": "Phase lb: Dose Limiting Toxicities (DLTs) the first cycle of treatment",
+    "eligibilityCriteria": "Inclusion Criteria (phase lb):\n\n* Females with Breast cancer that is histologically or cytologically confirmed, HER2 negative and locally advanced or metastatic as confirmed by radiology\n* ECOG performance status 0 and 1\n* Adequate bone marrow and organ function\n\nExclusion Criteria (Phase lb):\n\n* Previous treatment with PI3K and/or mTOR inhibitors\n* Symptomatic Central Nervous System (CNS) metastases\n* Concurrent malignancy or malignancy in the last 5 years prior to start of study treatment\n* Wide field radiotherapy \u2264 28 days or limited field radiation for palliation \u2264 14 days prior to starting study drug\n* Active cardiac disease (e.g. LVEF less than institutional lower limit of normal, QTcF \\> 480 msec, unstable angina pectoris, ventricular, supraventricular or nodal arrhythmias)\n* Inadequately controlled hypertension\n* Impairment of gastrointestinal (GI) function or GI disease that may significantly alter the absorption of BEZ235 and/or paclitaxel\n* Treatment at start of study treatment with drugs with a known risk to induce Torsades de Pointes, moderate and strong inhibitors or inducers of isoenzyme CYP3A4, warfarin and coumadin analogues, LHRH agonists\n* Sensitivity to paclitaxel treatment\n* Uncontrolled diabetes mellitus\n* Pregnant or nursing (lactating) woman\n\nOther protocol-defined inclusion/exclusion criteria may apply",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

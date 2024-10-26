@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04074460",
+    "briefTitle": "Volatile Anaesthesia and Perioperative Outcomes Related to Cancer Feasibility Study",
+    "officialTitle": "Volatile Anaesthesia and Perioperative Outcomes Related to Cancer (VAPOR-C): A Feasibility Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cancer, Breast, Cancer Colorectal, Cancer Prostate, Cancer, Lung, Cancer Melanoma Skin, Cancer, Other",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 169,
+    "primaryOutcomeMeasure": "To measure the ability to recruit eligible patients into the study.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or female\n* Age 18-80 years\n* Elective surgery\n* Major cancer surgery expecting to last two or more hours, for:\n* Breast (mastectomy or segmentectomy plus sentinel node dissection)\n* Colorectal\n* Lung\n* Prostate\n* Melanoma (excision of melanoma plus lymph node dissection AND/OR skin flap construction\n* Other major cancer surgeries (e.g. oesophagectomy, head and neck cancer, etc.)\n\nExclusion Criteria\n\n* Palliative surgery for end-stage disease with no curative intent\n* Emergency surgery\n* Extensive comorbid disease, i.e. American Society of Anesthesiologists (ASA) Score \\> 4\n* Age \\<18 or \\>80 years old\n* Refusal or inability to provide valid informed consent\n* Risk of severe postoperative nausea and vomiting (PONV risk score \\>3)\n* Previous allergy or contraindication to either anaesthetic medication\n* Indication for gas induction of anaesthesia\n* Currently enrolled in another clinical trial unless agreed by the coordinating principal investigator and site principal investigator that co-enrolment can occur.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

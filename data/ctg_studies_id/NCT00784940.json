@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00784940",
+    "briefTitle": "ATAC - Bone Density Sub-Protocol",
+    "officialTitle": "A Randomised, Double-Blind Trial to Assess the Effects on Bone Mineral Density and Metabolism of Arimidex Alone, Nolvadex Alone, or Arimidex and Nolvadex in Combination, (in Comparison to a Control Group) When Used as Adjuvant Treatment for Breast Cancer in Postmenopausal Women",
+    "overallStatus": "COMPLETED",
+    "conditions": "Bone Density",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 308,
+    "primaryOutcomeMeasure": "Time to withdrawal",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eligible for entry into the main ATAC trial 1033IL/0029\n* Women defined as post-menopausal\n* Patients with histologically proven operable invasive breast cancer\n* Who following primary surgery have a good prognosis and would be ethically suitable to remain untreated\n\nExclusion Criteria:\n\n* Excluded from entry into the main ATAC trial (1033IL/0029)\n* Patients who have received hormone replacement therapy within the previous 12 months prior to randomisation\n* Patients who have received bisphosphonate therapy within the previous 12 months prior to randomisation\n* Patients who have had a bone fracture within the previous 6 months prior to randomisation",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00960960",
+    "briefTitle": "A Study of PI3-Kinase Inhibitor GDC-0941 in Combination With Paclitaxel, With and Without Bevacizumab or Trastuzumab, and With Letrozole, in Participants With Locally Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "A Phase Ib, Open-Label, Dose-Escalation Study of the Safety and Pharmacology of PI3-Kinase Inhibitor GDC-0941 (Pictilisib) in Combination With Paclitaxel, With and Without Bevacizumab or Trastuzumab, and With Letrozole in Patients With Locally Recurrent Or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 71,
+    "primaryOutcomeMeasure": "Percentage of Participants With Dose-Limiting Toxicities (DLTs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed adenocarcinoma of the breast with locally recurrent or metastatic disease\n* Adequate organ and bone marrow function as assessed by laboratory tests\n* Evaluable disease or disease measurable per RECIST\n* Agreement to use an effective form of contraception for the duration of the study\n\nExclusion Criteria:\n\n* History of malabsorption syndrome or other condition that would interfere with enteral absorption\n* Any condition requiring full-dose anticoagulants, such as warfarin, heparin, or thrombolytic agents\n* Prior anti-cancer therapy (e.g., chemotherapy, biologic therapy, radiotherapy, or hormonal therapy) within 4 weeks or 5 half-lives (whichever is shorter) of the first dose of study treatment\n* Uncontrolled current illness\n* Active small or large intestine inflammation (such as Crohn's disease or ulcerative colitis)\n* Clinically significant history of liver disease, including cirrhosis, current alcohol abuse, or current known active infection with human immunodeficiency virus (HIV), hepatitis B virus, or hepatitis C virus\n* Known HIV infection\n* New York Heart Association (NYHA) Class II or greater congestive heart failure\n* Active ventricular arrhythmia requiring medication\n* Pregnancy, lactation, or breastfeeding\n* Known significant hypersensitivity to study drugs or excipients\n* History of arterial thromboembolic disease within 6 months of first study treatment\n* No more than two prior chemotherapy regimens for metastatic disease",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

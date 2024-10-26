@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01612728",
+    "briefTitle": "Treatment for Joint Pains Due to Aromatase Inhibitor Therapy in Breast Cancer",
+    "officialTitle": "Aromatase Inhibitor-Induced Arthralgia: A Proposed Management Algorithm",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer, Arthralgia, Joint Pain",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Medication compliance",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* age greater than 18 years\n* stage I-III ER+ breast cancer\n* beginning adjuvant AI therapy\n* post-menopausal as defined by any of the following: age \\>60 years, history of bilateral oophorectomy, amenorrhea for 1 year with intact uterus and ovaries, or serum estradiol and FSH concentrations in the post-menopausal range along with either amenorrhea for 6 months or previous hysterectomy\n\nExclusion Criteria:\n\n* previous use of an aromatase inhibitor",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

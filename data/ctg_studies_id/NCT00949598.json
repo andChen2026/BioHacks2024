@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00949598",
+    "briefTitle": "Letrozole or Tamoxifen Citrate in Treating Older Postmenopausal Women Undergoing Surgery for Breast Cancer",
+    "officialTitle": "Randomized Double-blind Study to Compare Two Neo-adjuvant Treatments: an Anti-aromatase vs SERM for Postmenopausal Women With ER+ Breast Adenocarcinoma: Effect on Intermediate Predictive Biological Response to Treatment.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 177,
+    "primaryOutcomeMeasure": "Changes in Ki67 and PCNA after 4 months of treatment with letrozole vs tamoxifen citrate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive breast adenocarcinoma\n\n  * Clinically T2 tumor and/or \\> 1 cm by echography\n  * Estrogen receptor (ER)-positive and \\> 10% of the tumor cells positive\n\n    * No ER-negative disease\n* No prior breast cancer\n* No metastatic or inflammatory breast adenocarcinoma\n\nPATIENT CHARACTERISTICS:\n\n* Postmenopausal\n* No cardiac function that could contraindicate surgery or medical treatment (e.g., radiotherapy and/or chemotherapy)\n* No prior malignancies within the past 5 years except for nonmelanoma skin cancer or carcinoma in situ of the cervix\n* No mental incapacitation that would preclude consent\n* No contraindication to tamoxifen citrate or letrozole\n\nPRIOR CONCURRENT THERAPY:\n\n* More than 8 days since prior hormone-replacement therapy or other treatment (i.e., phytoestrogen) for menopause\n* No concurrent therapy that would modify the expression of the genes regulated by estrogen\n* No concurrent participation in another clinical study",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

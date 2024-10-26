@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01881932",
+    "briefTitle": "Acupuncture to Prevent Chemotherapy Dose Reduction Due to Chemotherapy-induced Peripheral Neuropathy in Breast and Colorectal Cancer Patients (GCC1232)",
+    "officialTitle": "Acupuncture to Prevent Chemotherapy Dose Reduction Due to Chemotherapy-induced Peripheral Neuropathy in Breast and Colorectal Cancer Patients",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Colorectal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 19,
+    "primaryOutcomeMeasure": "Proportion of Colorectal and Breast Cancer Patients in Each Arm Who Require Dose Reduction or Discontinuation Due to Chemotherapy-induced Peripheral Neuropathy.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven stage I-III carcinoma of the breast OR histologically proven stage I-III colorectal carcinoma.\n* Receiving adjuvant or neoadjuvant chemotherapy that includes a taxane or oxaliplatin.\n* While on chemotherapy, develop greater than or equal to NCI-CTC grade 2 CIPN.\n* Eastern Cooperative Oncology Group performance status 0-2.\n* The patient is aware of the nature of his/her diagnosis, understands the study regimen, its requirements, risks, and discomforts, and is able and willing to sign an informed consent form.\n\nExclusion Criteria:\n\n* Prior acupuncture within one year of enrollment.\n* Known metastatic (stage IV) breast or colorectal cancer involvement.\n* Pre-existing peripheral neuropathy before chemotherapy is initiated\n* Currently taking anti-neuropathy medication such as gabapentin, or pregabalin.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

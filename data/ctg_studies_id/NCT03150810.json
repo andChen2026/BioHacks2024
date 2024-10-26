@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03150810",
+    "briefTitle": "Study to Assess Safety, Tolerability and Clinical Activity of BGB-290 in Combination With Temozolomide (TMZ) in Participants With Locally Advanced or Metastatic Solid Tumors",
+    "officialTitle": "A Phase 1b Study to Assess the Safety, Tolerability and Clinical Activity of BGB-290 in Combination With Temozolomide (TMZ) in Subjects With Locally Advanced or Metastatic Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Locally Advanced or Metastatic Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 139,
+    "primaryOutcomeMeasure": "Incidence and nature of dose limiting toxicities (DLTs) as assessed by CTCAE.",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n1. Age \u226518 years old with advanced or metastatic stage solid tumors\n2. Eastern Cooperative Oncology Group (ECOG) status \u2264 1 and measurable disease per RECIST V1.1 (except for participants in dose escalation and prostate cancer participants)\n3. Additional inclusion criteria for dose expansion cohorts:\n\nParticipants with homologous recombination deficiency (HRD+) or known BRCA mutant Ovarian cancer\n\na. Previously received at least 1 line of platinum containing chemotherapy and No progression or recurrent disease in 6 months from last platinum containing regimen. Participants with HRD+ or known breast cancer susceptibility gene (BRCA) mutant Triple-Negative Breast Cancer\n\na. 0 - 1 prior platinum-containing regimen (any treatment setting) and received \u2264 3 prior regimens (advanced or metastatic setting).\n\nParticipants with HRD+ or known BRCA mutant Prostate cancer\n\n1. Chemotherapy-na\u00efve or previously received \u22642 taxane-based regimens.\n2. May have pre-or post-treatment with a novel androgen receptor targeted agent. Participants Small cell lung and gastric cancer\n\na. Previously received \u2264 2 prior lines of therapy. Participants with HRD+ NSCLC, head and neck cancer, esophageal cancer and soft tissue sarcomas\n\n1. Must have tumors with with HRD+ as centrally determined\n2. Must have received at least 1 but not more than 3 prior lines of therapy.\n\nTreatment na\u00efve patients with soft tissue sarcoma might be allowed if standard of care therapy is not suitable or available.\n\nKey Exclusion Criteria: All participants\n\n1. Prior exposure to a poly adenosine diphosphate-ribose polymerase (PARP) inhibitor.\n2. Refractory to platinum-based therapy.\n\nNOTE: Other protocol defined Inclusion/Exclusion criteria may apply.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03452774",
+    "briefTitle": "SYNERGY-AI: Artificial Intelligence Based Precision Oncology Clinical Trial Matching and Registry",
+    "officialTitle": "SYNERGY-AI: Artificial Intelligence Based Precision Oncology Clinical Trial Matching and Registry",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cancer, Metastatic, Cancer, Cancer of Pancreas, Cancer of Liver, Cancer of Stomach, Cancer Liver, Cancer of Rectum, Cancer of Kidney, Cancer of Esophagus, Cancer of Cervix, Cancer of Colon, Cancer of Larynx, Cancer, Lung, Cancer, Breast, Cancer, Advanced, Cancer Prostate, Cancer of Neck, Cancer of Skin, Neuroendocrine Tumors, Carcinoma, Mismatch Repair Deficiency, BRCA Gene Rearrangement, Non Hodgkin Lymphoma, Leukemia, Non Small Cell Lung Cancer, Cholangiocarcinoma, Glioblastoma, Central Nervous System Tumor, Melanoma, Urothelial Carcinoma, Bladder Cancer, Ovarian Cancer, Endometrial Cancer, Testicular Cancer, Breast Cancer, COVID, Myelofibrosis, Myeloproliferative Neoplasm, Myeloproliferative Disorders, Follicular Lymphoma, Mantle Cell Lymphoma, Marginal Zone Lymphoma, Myelodysplastic Syndromes",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 50000,
+    "primaryOutcomeMeasure": "Proportion of patients Eligible for CTE versus Actual CTE",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pts with solid and hematological malignancies;\n* Pts cancer-related biomarkers, gene variants, fusion and rearrangements (by immunohistochemistry, PCR, FISH or NGS): PD-L1, MSI (MMR), Claudin18.2, HER2/Neu, Tumor mutational burden/load (TMB), ABL1, ACVR1B, AKT1, AKT2, AKT3, ALK, APC, AR, ATM, ATRX, AURKA, AURKB, BAP1, BCL2, BCL6, BRAF, BRCA1, BRCA2, BTK, CCND1, CCND2, CCND3, CDK4, CDK6, CDKN1A/B, CEBPA, CHEK1, CHEK2, CSF1R, CTNNB1, DAXX, DDR1/2, DNMT3A, EGFR, ERBB2, ERBB3, ERBB4, ERCC4, ER, ESR1, FANCA, FAS, FBXW7, FGFR1, FGFR2, FGFR3, FGFR4, FLT3, GATA3, GATA6, GNAS, HDAC1, HGF, HRAS, IDH1, IDH2, IGF1R, JAK1, JAK2, JAK3, KDR (VEGFR2), KIT, KRAS, MAP2K2 (MEK2), MAP3K1, MCL1, MDM2, MDM4, MEN1, MET, MSH2, MSH3, MSH6, MTOR, MUTYH, MYC, MYCL (MYCL1), NF1, NF2, NOTCH1, NPM1, NRAS, NTRK1, NTRK2, NTRK3, PALB2, PARP1, PARP2, PARP3, PBRM1, PDCD1 (PD1), PDCD1LG2 (PD-L2), PDGFRA, PDGFRB, PIK3C, PMS2, POLD1, POLE, PRDM1, PTCH1, PTEN, RAF1, RB1, RET, RICTOR, ROS1, RPTOR, SDHA/B/C, SMAD, SMARC, SMO, STK11, TGFBR2, TP53, TSC1, TSC2, VEGFA, VHL, WT1, ZNF217, ZNF703, CEACAM, NRG1, among others.\n\nThese biomarkers should be determined by local laboratory, external vendor, or next generation sequencing platform\n\n* Decision to consider clinical trial pre-screening enrollment (CTE) by primary provider and/or patient\n\nExclusion Criteria:\n\n* ECOG PS \\> 2;\n* Abnormal organ function;\n* Hospice enrollment",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

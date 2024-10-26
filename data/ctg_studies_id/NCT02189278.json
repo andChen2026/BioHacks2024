@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02189278",
+    "briefTitle": "Improving Adherence to Recommended Surveillance in Breast Cancer Survivors",
+    "officialTitle": "Improving Adherence to Recommended Surveillance in Breast Cancer Survivors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Surveillance adherence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 21 years of age or older\n* Diagnosis of Stage I to IIIA breast cancer\n* Within 1 to 5 years post primary cancer treatment (i.e., surgery, chemotherapy, and/or radiation therapy)\n* No diagnosis of recurrent breast cancer or a new primary cancer\n* Able to provide meaningful consent\n\nExclusion Criteria:\n\n* \\< 21 years of age\n* Unable to provide meaningful consent\n* Surgically treated with bilateral mastectomy",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

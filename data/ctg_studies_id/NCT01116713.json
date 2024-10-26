@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01116713",
+    "briefTitle": "Effect of Dexamethasone in Postoperative Symptoms After Mastectomy for Breast Cancer",
+    "officialTitle": "Preoperative Dexamethasone Reduces Postoperative Pain, Nausea and Vomiting Following Mastectomy for Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Postoperative Pain, Postoperative Nausea, Postoperative Vomiting",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 70,
+    "primaryOutcomeMeasure": "Pain was assessed immediately on return to the recovery room and at 6, 12 and 24 h after the operation using a visual analogue scale (VAS; 0 = no pain to 10 = most severe pain).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* American Society of Anesthesiologists classes I-II female patients with breast cancer scheduled for surgical treatment; mastectomy plus axillary node dissection.\n\nExclusion Criteria:\n\n* American Society of Anesthesiologists classes III and IV.\n* Age more than 80 years; pregnancy; active menstruation; treatment with steroids; severe diabetes mellitus (serum HbA1c \\> 8%); use of opioids, sedatives or any kind of analgesics less than one week before mastectomy, or a history of alcohol or drug abuse.\n* Patients with any history of motion sickness and or previous postoperative nausea and vomiting after any surgical procedure.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

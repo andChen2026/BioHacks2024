@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00669773",
+    "briefTitle": "Validate Gene Expression and Proteomic Signatures Predictive of Treatment for Response for Breast Cancer Patient",
+    "officialTitle": "Phase 2 Randomized Study of Adriamycin & Docetaxel in the First-line Treatment of Locally Advanced or Metastatic Breast Cancer Patients With Measurable Primary Breast Tumor to Validate Gene Expression & Proteomic Signatures Predictive of Treatment Response",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 49,
+    "primaryOutcomeMeasure": "Clinical and pathological response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPatients may be included in the study only if they meet all of the following criteria:\n\n* Female, age 18 years or above.\n* Histologic or cytologic diagnosis of breast carcinoma.\n* T2-4 breast cancer with measurable primary breast tumor, defined as palpable tumor with both diameters 2.0cm or greater as measured by caliper.\n* Patients must not have received prior chemotherapy or hormonal therapy for the treatment of breast cancer.\n* Karnofsky performance status of 70 or higher.\n* Estimated life expectancy of at least 12 weeks.\n* Adequate organ function including the following:\n\n  * Bone marrow:\n\n    * Absolute neutrophil (segmented and bands) count (ANC)\\>= 1.5 x 10 9/L\n    * Platelets \\>= 100 x 10 9/L\n  * Hepatic:\n\n    * Bilirubin \\<= 1.5 x upper limit of normal (ULN),\n    * ALT or AST \\<= 2.5x ULN, (or \\<= 5 X with liver metastases)\n  * Renal:\n\n    * creatinine \\<= 1.5x ULN\n* Left ventricular ejection fraction \\>= 50%\n* Signed informed consent from patient or legal representative.\n* Patients with reproductive potential must use an approved contraceptive method if appropriate (eg, intrauterine device, birth control pills, or barrier device) during and for three months after the study. Females with childbearing potential must have a negative serum pregnancy test within 7 days prior to study enrollment.\n\nExclusion Criteria:\n\nPatients will be excluded from the study for any of the following reasons:\n\n* Prior treatment for locally advanced or metastatic breast cancer.\n* Treatment within the last 30 days with any investigational drug.\n* Concurrent administration of any other tumor therapy, including cytotoxic chemotherapy, hormonal therapy, and immunotherapy.\n* Active infection that in the opinion of the investigator would compromise the patient's ability to tolerate therapy.\n* Pregnancy.\n* Breast feeding.\n* Serious concomitant disorders that would compromise the safety of the patient or compromise the patient's ability to complete the study, at the discretion of the investigator.\n* Poorly controlled diabetes mellitus.\n* Second primary malignancy that is clinically detectable at the time of consideration for study enrollment.\n* Symptomatic brain metastasis.\n* History of significant neurological or mental disorder, including seizures or dementia.\n* Peripheral neuropathy of CTC grade 2 or above (NCI CTC version 3).\n* History of hypersensitivity to drugs formulated in Tween 80, the vehicle used for commercial docetaxel formulations.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

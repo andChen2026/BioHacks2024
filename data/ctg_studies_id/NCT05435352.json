@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05435352",
+    "briefTitle": "Image-based AI Predictive Biomarkers for Precision Neoadjuvant Triple-negative Breast Cancer Treatment",
+    "officialTitle": "Prospective Evaluation of Image-based Artificial Intelligence Research and Development Tool for Precision Neoadjuvant Triple-Negative Breast Cancer Treatment",
+    "overallStatus": "RECRUITING",
+    "conditions": "Triple Negative Breast Cancer, Triple Negative Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Pathological complete response correlation accuracy (specificity)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Able to give written informed consent prior to admission to this study.\n* Female or male aged \u226518 years.\n* Histologically confirmed invasive primary breast cancer which is triple-negative by the most recent ASCO/College of American Pathologists (CAP) guidelines.\n* Stage I-III breast cancer planned for neoadjuvant chemotherapy followed by surgery.\n* Primary breast tumor size \u226510 mm. For patients with bilateral tumors both of the breast tumors have to be TNBC and at least one has to be \u226510 mm.\n* Willing to undergo a mandatory additional core needle biopsy from the primary breast mass prior to starting neoadjuvant chemotherapy. Patients with bilateral breast cancer only need to have one tumor biopsied if both tumors are \u226510 mm.\n* Willing to donate 40mL of whole blood (cohort B only)\n\nExclusion Criteria:\n\n* Inflammatory breast cancer.\n* Inoperable or metastatic TNBC.\n* Patients who have already commenced neoadjuvant chemotherapy.\n* Treatment concurrently or within 4 weeks of commencing neoadjuvant chemotherapy with any experimental therapies. Patients who are due to receive standard of care neoadjuvant chemotherapy on the control arm of a trial may be eligible after discussion with the medical monitor.\n* Secretory or adenoid cystic histological subtypes of triple-negative breast cancer.\n* Any other disease, metabolic dysfunction, physical examination finding, or clinical laboratory finding that, in the investigator's opinion, gives reasonable suspicion of a disease or condition that may affect the interpretation of the results, render the patient at high risk from treatment complications or interferes with obtaining informed consent.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

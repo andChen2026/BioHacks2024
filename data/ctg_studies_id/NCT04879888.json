@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04879888",
+    "briefTitle": "Personalized Vaccine for Cancer Immunotherapy",
+    "officialTitle": "Estudio cl\u00ednico Fase I de Inmunoterapia Con Vacunas sint\u00e9ticas Personalizadas en Pacientes Con c\u00e1ncer de Mama Triple Negativo",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 9,
+    "primaryOutcomeMeasure": "Number of adverse effects",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with a diagnosis of ductal cancer who enter the primary or neoadjuvant chemotherapy regimen treated with Doxorubicin or Cyclophosphamide.\n* Patients with breast cancer with the HLA-A \\* 02: 01 haplotype.\n* Women of legal age who are not pregnant or breastfeeding (patients or controls).\n* Patients who have histologically confirmed primary breast carcinoma of the ductal type.\n* Karnofsky index greater than 70%\n* Voluntary acceptance of informed consent.\n\nExclusion Criteria:\n\n* Patients with a diagnosis of triple-negative breast cancer.\n* Pregnant patients\n* Patients under age or over 70 years\n* Patients diagnosed with autoimmune diseases\n* The patient has a Karnofsky lower than 70% or an ECOG higher than 1.\n* Patients who have received some therapy as a treatment for their tumor pathology (radiotherapy, chemotherapy, immunotherapy, or gene therapy).\n* Active autoimmune disease requiring treatment or a history of autoimmune disease that could be exacerbated by treatment. Patients with endocrine disease controlled by replacement therapy, including thyroid disease, adrenal disease, and vitiligo, can be included.\n* Presence of a chronic or acute infection, such as HIV, viral hepatitis, or tuberculosis, before or after signing the informed consent.\n* Use of immunosuppressants within 4 weeks before the trial (e.g., corticosteroids), such as azathioprine, prednisone, or cyclosporine A. The use of local steroids (topical, nasal, or inhaled) may be acceptable.\n* Clinically significant cardiomyopathy, which requires treatment.\n* Splenectomized patients.\n* Patients who do not receive the neoadjuvant chemotherapy regimen with Doxorubicin and cyclophosphamide for three cycles or receive some other type of complementary therapy such as taxanes.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

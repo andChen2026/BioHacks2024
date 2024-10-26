@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00506064",
+    "briefTitle": "Melatonin Postoperative Sleep Study in Breast Cancer Patients",
+    "officialTitle": "Melatonin Postoperative Sleep Study in Breast Cancer Patients",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "Objective Sleep Response of Patients",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Breast cancer patients having a unilateral segmental mastectomy, with or without intraoperative lymph node mapping, sentinel node biopsy, and axillary node dissection\n2. Ages \\>= 40 years\n3. American Society of Anesthesiology (ASA) physical status classification of preoperative functioning) 1-4 levels are acceptable\n4. Willing and able to give written informed consent\n5. Willing and able to complete questionnaires\n6. Not currently taking benzodiazepine medication for insomnia.\n\nExclusion Criteria:\n\n1. Autoimmune diseases: rheumatoid arthritis, systemic lupus, or other collagen vascular disease\n2. Alcoholics\n3. Seizure disorder\n4. Thyroid disease\n5. Pregnant or lactating patients (effects not known in pregnancy)\n6. Renal/hepatic failure (if ood urea nitrogen (BUN) or creatinine (Cr) \\>2.5\\* Upper limit of normal (ULN); Bili or aspartate aminotransferase (AST) or alanine aminotransferase (ALT)\\>2.5\\* ULN)\n7. Dementia/poor compliance\n8. Manic/psychotic patients\n9. Children/adults under 40 yrs\n10. Movement disorders (ex. restless leg syndrome)\n11. Tremor disorder (ex. parkinsonism)\n12. Chronic benzodiazepine use for sleep (\\>4 times per week )\n13. Designated preop medications including melatonin for sleep",
+    "sex": "ALL",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

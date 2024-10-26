@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02485119",
+    "briefTitle": "Phase I Dose Escalation Study of BAY94-9343 Given by Intravenous Infusion Every 3 Weeks in Japanese Subjects With Advanced Malignancies",
+    "officialTitle": "An Open Label, Phase I Study to Evaluate the Safety, Tolerability and Pharmacokinetics of BAY94-9343 Given by Intravenous Infusion Every 3 Weeks (Q3W) in Japanese Subjects With Advanced Malignancies",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 12,
+    "primaryOutcomeMeasure": "Number of Treatment-emergent Adverse Events (TEAEs) as a measure of safety and tolerability",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Japanese subjects \u2265 20 years of age\n* ECOG Performance Status of 0 to 1\n* Life expectancy of at least 12 weeks\n* Subjects with advanced, histologically or cytologically confirmed solid tumors, not amenable to any standard therapy, have no standard therapy available\n* Subjects whose fresh or archival tumor tissues are available\n* Measurable disease with at least one lesion that can be accurately measured in at least one dimension according to RECIST criteria (Version 1.1 or modified version)\n* Adequate bone marrow, liver, and renal function\n\nExclusion Criteria:\n\n* Anticancer chemotherapy, experimental cancer therapy, or immunotherapy within 2 weeks of start of the first dose\n* Impaired cardiac function or clinically significant cardiac disease (i.e., congestive heart failure (CHF) NYHA Class III or IV)\n* Myocardial infarction or onset of unstable angina \\< 3 months prior to general screening\n* Cardiac arrhythmias in the electrocardiogram that would interfere with QT/QTc interval measurement (LBBB (left bundle branch block), AV block, atrial fibrillation)\n* QTc \\>470 ms, derived as the average of the 3 values measured by the ECG recorder's algorithm on the ECG triplicate\n* LVEF (left ventricular ejection fraction) \\<50 %\n* Uncontrolled hypertension defined as systolic blood pressure \\> 150 mm Hg and/or diastolic blood pressure \\> 90 mmHg, despite optimal medical management\n* Known human immunodeficiency virus (HIV) infection\n* Subjects with an active hepatitis B or C infection requiring treatment\n* Personal or family history of Long QT Syndrome (LQTS)\n* Subject with clinically significant eye disorders",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

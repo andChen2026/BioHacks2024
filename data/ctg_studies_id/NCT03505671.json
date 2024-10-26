@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03505671",
+    "briefTitle": "Acupuncture in Reducing Chemotherapy-Induced Peripheral Neuropathy in Participants With Stage I-III Breast Cancer",
+    "officialTitle": "Acupuncture for Chemotherapy-Induced Peripheral Neuropathy Among Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Anatomic Stage I Breast Cancer AJCC v8, Anatomic Stage IA Breast Cancer AJCC v8, Anatomic Stage IB Breast Cancer AJCC v8, Anatomic Stage II Breast Cancer AJCC v8, Anatomic Stage IIA Breast Cancer AJCC v8, Anatomic Stage IIB Breast Cancer AJCC v8, Anatomic Stage III Breast Cancer AJCC v8, Anatomic Stage IIIA Breast Cancer AJCC v8, Anatomic Stage IIIB Breast Cancer AJCC v8, Anatomic Stage IIIC Breast Cancer AJCC v8, Grade 1 Peripheral Motor Neuropathy, CTCAE, Grade 1 Peripheral Sensory Neuropathy, CTCAE, Grade 2 Peripheral Motor Neuropathy, CTCAE, Grade 2 Peripheral Sensory Neuropathy, CTCAE, Prognostic Stage I Breast Cancer AJCC v8, Prognostic Stage IA Breast Cancer AJCC v8, Prognostic Stage IB Breast Cancer AJCC v8, Prognostic Stage II Breast Cancer AJCC v8, Prognostic Stage IIA Breast Cancer AJCC v8, Prognostic Stage IIB Breast Cancer AJCC v8, Prognostic Stage III Breast Cancer AJCC v8, Prognostic Stage IIIA Breast Cancer AJCC v8, Prognostic Stage IIIB Breast Cancer AJCC v8, Prognostic Stage IIIC Breast Cancer AJCC v8",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 23,
+    "primaryOutcomeMeasure": "Change in the Sensory Neuropathic Pain Score as Measured by the European Organization of Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire (QLQ)-Chemotherapy-Induced Peripheral Neuropathy (CIPN) 20 Item (20)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast and GI cancer stage I-III\n* Currently receiving or recently completed neurotoxic chemotherapy (either adjuvant or neoadjuvant). Currently is defined as including up until when the next cycle would be delivered, that is if the patient is getting chemotherapy every week, this would include a week after their last treatment; if the patient is getting treatment every 2 weeks, this would include 2 weeks after their last treatment; if the patient is getting treatment every 3 weeks, this would include 3 weeks after their last treatment, etc. Recently completed is defined as 6 weeks after this time period. For example, if a patient was getting chemotherapy every week, this would include seven weeks after their last treatment; if the patient was getting treatment every 2 weeks, this would include 8 weeks after their last treatment; if the patient were getting treatment every 3 weeks, this would include 9 weeks after their last treatment, etc.\n* Clinical symptoms of peripheral neuropathy of grade 1 or grade 2 as measured by the National Cancer Institute (NCI)-CTCAE\n* Ability and willingness to understand and sign an informed consent\n\nExclusion Criteria:\n\n* Self-reported or documented history of UNRESOLVED pre-existing peripheral neuropathy due to diabetes, human immunodeficiency virus (HIV), or other conditions.\n* Unable to provide medical history.\n* Male patients.\n* Pregnant.\n* Unwilling to receive acupuncture or unable to travel for treatments.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03417115",
+    "briefTitle": "Breast Cancer Registry Platform",
+    "officialTitle": "Treatment and Outcome of Patients With Breast Cancer: Clinical Research Platform for Real World Data",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 5000,
+    "primaryOutcomeMeasure": "Treatment reality",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nEBC cohort:\n\n* Female and male patients with early breast cancer (stage I-III defined as breast cancer that has not spread beyond the breast or the axillary lymph nodes)\n* Patients at the start of their initial systemic treatment for EBC, i.e. at start of neoadjuvant treatment for patients receiving neoadjuvant thera-py or at start of adjuvant treatment if no neoadjuvant therapy is given. Treatment can be cytotoxic, endocrine, or targeted substances, what-ever was given first\n\nABC cohort:\n\n* Female and male patients with advanced breast cancer (stage IV defined as synchronous or metachronous diagnosis of distant metastases at inclusion)\n* Patients at the start of their initial first-line systemic treatment for ABC, which can be cytotoxic, endocrine or targeting a specific signaling pathway, whatever is given first\n\nAll cohorts:\n\n* Written informed consent\n\n  * Patients participating in the PRO module: signing of informed consent form and completion of baseline questionnaire before start of initial systemic treatment for EBC or systemic first-line treatment for ABC\n  * Patients not participating in the PRO module: within six weeks after start of initial systemic treatment for EBC or systemic first-line treatment for ABC\n* Age \u2265 18 years\n\nExclusion Criteria:\n\n* Patients with prior systemic therapy (cytotoxic, endocrine, or targeted) for EBC or ABC\n* Patients who do not receive any systemic therapy for EBC or ABC",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

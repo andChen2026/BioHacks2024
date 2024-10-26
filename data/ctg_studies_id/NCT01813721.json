@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01813721",
+    "briefTitle": "Study Investigating How Physicians Assess the Risk of Patients Developing Febrile Neutropenia During Chemotherapy.",
+    "officialTitle": "Study to Investigate Which Clinical Risk Factors Are Considered by Physicians When Conducting Overall Febrile Neutropenia Risk Assessments for Patients Receiving Chemotherapy With an Intermediate (10% - 20%) Febrile Neutropenia Risk.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Chemotherapy-induced Febrile Neutropenia",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1007,
+    "primaryOutcomeMeasure": "Percentage of Investigators Who Ranked Age and Chemotherapy Regimen as a Risk Factor for Febrile Neutropenia",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 years old\n* Any stage NHL, small cell lung cancer (SCLC), non-small cell lung cancer (NSCLC), or breast cancer initiating a new chemotherapy course\n* Scheduled to receive one of the permitted standard dose chemotherapy regimens with an estimated intermediate (10%-20%) FN risk according to published data or guidelines (planned dose modifications +/-10% are allowable).\n* Before any study-specific procedure, the appropriate written informed consent must be obtained where this is required by local regulations\n\nExclusion Criteria:\n\n* Ongoing or planned concurrent participation in any clinical study involving Investigational Product that has not been approved by the European Medicines Agency (EMA) or competent authority for any indication,\n* Ongoing or planned concurrent participation in any clinical study where the administration of Colony Stimulating Factor (CSF) is determined by the protocol (clinical trials on an approved drug and observational trials are permitted as long as these do not mandate how neutropenia should be treated)\n* Prior stem-cell transplantation (includes bone marrow transplantation)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

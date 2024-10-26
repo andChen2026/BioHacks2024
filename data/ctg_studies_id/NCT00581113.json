@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00581113",
+    "briefTitle": "Neural Stem Cell Preserving Brain Radiation Therapy & Stereotactic Radiosurgery in Patients With 1-6 Brain Metastases",
+    "officialTitle": "A Study of Neural Stem Cell (NSC) Preserving Whole Brain Radiation Therapy (WBRT) and Stereotactic Radiosurgery in Patients With 1-6 Brain Metastases",
+    "overallStatus": "TERMINATED",
+    "conditions": "Lung Cancer, Breast Cancer, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 8,
+    "primaryOutcomeMeasure": "Increase in the Bi-dimensional Tumor Area for Any of the Tracked Brain Metastases or the Appearance of Any New Brain Metastases on a Follow-up MRI.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed non-melanoma primary malignancy with 1-6 intraparenchymal brain metastases (or small cell lung cancer being considered for prophylactic brain irradiation (PBI) with no demonstrable intracranial lesions).\n* A diagnostic contrast-enhanced magnetic resonance imaging (MRI) demonstrating the presence of 1-6 brain metastases performed within 4 weeks of registration. Note: If small cell lung cancer primary and patient being considered for PBI, MRI must demonstrate no intracranial lesions.\n* Patients with totally resected intraparenchymal brain metastases; not all lesions need be resected if all other criteria are satisfied (no more than 6 total lesions)\n* The contrast-enhancing intraparenchymal brain tumor must be well circumscribed and must have maximum diameter of no more than 4 cm in any dimension on the enhanced scan. If multiple lesions are present and one lesion is at the maximum diameter, the other(s) must not exceed 3.0 cm in maximum diameter.\n* Metastatic lesions must be distributed peripherally, that is, at least 0.5 cm lateral (outside) of the lateral ventricles and/or hippocampus bilaterally. Posterior fossa metastatic lesions are allowed in the study.\n* Age 18 years or older.\n* Zubrod performance score 0-1.\n* Neurologic function score 0, 1, or 2.\n* Patients receiving glucocorticoids should be tapered to the lowest possible dose, or altogether, as judged by the participating physician. If glucocorticoid dose is adjusted or given for the first time, patient must remain on stable dose of glucocorticoids for at least 3 days prior to initial Neurocognitive Assessment Protocol (NAP), CT and MR imaging.\n\nExclusion Criteria:\n\n* Major medical illnesses or psychiatric impairments, which in the investigators opinion will prevent administration or completion of the protocol therapy and/or interfere with follow-up.\n* For patients who have undergone subtotal resection, residual disease must be 4 cm in maximum diameter.\n* Inability to obtain histologic proof of primary malignancy.\n* Patients with leptomeningial metastases documented by MRI or cerebral spinal fluid (CSF) evaluation.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

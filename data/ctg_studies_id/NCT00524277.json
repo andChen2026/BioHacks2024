@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00524277",
+    "briefTitle": "Vaccine Therapy in Treating Patients With Breast Cancer",
+    "officialTitle": "Phase II Trial of the HER2/Neu Peptide GP2 + GM-CSF Vaccine vs GM-CSF Alone in HLA-A2+ OR the Modified HER2/Neu Peptide AE37 + GM-CSF Vaccine vs GM-CSF Alone in HLA-A2- Node-Positive and High-Risk Node-Negative Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 456,
+    "primaryOutcomeMeasure": "Disease recurrence",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\nInclusion criteria:\n\n1. Lymph node-positive breast cancer or high-risk lymph node-negative breast cancer. The latter is defined by any one of the following criteria:\n\n   * T2 disease\n   * Grade 3 disease\n   * Lymphovascular invasion\n   * Estrogen receptor- or progesterone receptor-negative disease\n   * HER2/neu-expressing tumor (immunohistochemistry \\[IHC\\] 3+ and/or amplified fluorescence in situ hybridization \\[FISH\\] \\>2.2, or N0 (i+))\n2. HER2/neu-expressing tumor (IHC 1-3+ and or positive FISH \\>1.2)\n3. Completion of primary standard of care breast cancer therapies (i.e., surgery, chemotherapy, immunotherapy and radiation therapy as appropriate per standard of care for patients' specific cancer)\n4. Clinically cancer-free (no evidence of disease)\n5. Patients may be enrolled between 1-6 months from completion of standard primary breast cancer therapies\n6. Good performance status (as defined in Exclusion Criteria)\n7. Capable of informed consent\n\nExclusion criteria:\n\n1. HER2/neu-negative breast cancers (IHC 0)\n2. Clinical and/or radiographic evidence of residual or persistent breast cancer\n3. Receiving immunosuppressive therapy to include chemotherapy, steroids, or methotrexate\n4. In poor health (Karnofsky \\<60%, ECOG \\>/-2)\n5. Total bilirubin \\>1.8, creatinine \\>2, hemoglobin \\<10, platelets \\<50,000, WBC \\<2,000)\n6. Active interstitial lung disease; asthma requiring more than as needed bronchodilators for management; or other autoimmune lung disease\n7. Pregnancy (urine hCG)\n8. Breast feeding\n9. History of autoimmune disease\n10. Involved in other experimental protocols (except with permission of the other study PI)\n\nPATIENT CHARACTERISTICS:\n\nInclusion criteria:\n\n* Female or male\n* Menopausal status not specified\n* Immunologically intact by recall anergy testing\n* Negative pregnancy test\n\nExclusion criteria:\n\n* Karnofsky 0-60% or ECOG \u2265 2\n* Total bilirubin \\> 1.8 g/dL\n* Creatinine \\> 2.0 g/dL\n* Hemoglobin \\< 10.0 g/dL\n* Platelet count \\< 50,000/mm\u00b3\n* WBC\\< 2,000/mm\u00b3\n* Active pulmonary disease requiring medication that includes multiple inhalers\n* Pregnancy\n* Breastfeeding\n* History of autoimmune disease\n\nPRIOR CONCURRENT THERAPY:\n\nInclusion criteria:\n\n* See Disease Characteristics\n\nExclusion criteria:\n\n* Concurrent immunosuppressive therapy including chemotherapy, steroids, or methotrexate\n* Concurrent participation in another experimental treatment (except with permission of the other study investigator)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

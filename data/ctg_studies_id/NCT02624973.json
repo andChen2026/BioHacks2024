@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02624973",
+    "briefTitle": "PErsonalized TREatment of High-risk MAmmary Cancer - the PETREMAC Trial",
+    "officialTitle": "PErsonalized TREatment of High-risk MAmmary Cancer - the PETREMAC Trial",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Predictive and prognostic value of mutations in 300 cancer-related genes assessed in breast cancer tissue by next generation sequencing before starting neoadjuvant therapy.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Previously untreated, histologically confirmed non-inflammatory breast cancer, \\>4 cm in diameter and /or metastatic ipsilateral axillary deposits for which the smallest diameter of the largest node \\>2 cm by CT or ultrasound scan.\n* WHO performance status 0-1\n* Known tumor ER, PGR, HER2 and TP53 status.\n* Known tumor Ki67 percentage (if ER/PGR\\>50% and TP53 wt status).\n* Distant metastasis not suspected. Patients will undergo radiology exams during screening phase, after signing the informed consent.\n* Age \\>18 years\n* Patients must have clinically and/or radiographically documented measurable breast cancer according to RECIST.\n* Radiology studies (CT thorax/abdomen and bone scintigraphy/bone scan) must be performed within 28 days prior to registration.\n* Absence of any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule; those conditions should be discussed with the patient before registration in the trial\n* Before patient registration/randomization, written informed consent must be given according to national and local regulations.\n* For arms B-H:\n\n  * Neutrophils \\> 1.5 x 109/L\n  * Platelets \\> 100 x 109/L\n  * Bilirubin \\< 2 x upper limit normal (ULN). For patients with Gilbert\u00b4s syndrome bilirubin \\>2 x ULN is accepted if there is no evidence of biliary obstruction.\n  * Serum creatinine \\< 1.5 x ULN\n  * ALT and Alk Phos (ALP) \\<2.5 x ULN\n  * INR \\< 1.5\n\nExclusion Criteria:\n\n* Unstable angina pectoris or heart failure\n* Other co-morbidity that, based on the assessment of the treating physician, may preclude the use of chemotherapy at actual doses.\n* Pregnant or lactating patients can not be included.\n* Clinical evidence of serious coagulopathy. Prior arterial/venous thrombosis or embolism does not exclude patients from inclusion, unless patient is considered unfit by study oncologist.\n* Patient not able to give an informed consent or comply with study regulations as deemed by study investigator.\n* Active cystitis (to be treated upfront)\n* Active bacterial infections\n* Urinary obstruction",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

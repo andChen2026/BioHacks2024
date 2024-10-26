@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00775645",
+    "briefTitle": "S0715: Acetyl-L-Carnitine in Preventing Neuropathy in Women With Stage I, II, or IIIA Breast Cancer Undergoing Chemo",
+    "officialTitle": "S0715: Randomized Placebo-Controlled Trial of Acetyl-L-Carnitine (ALC) for the Prevention of Taxane Induced Neuropathy Phase III",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Chemotherapeutic Agent Toxicity, Fatigue, Neuropathy, Neurotoxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 437,
+    "primaryOutcomeMeasure": "12-week FACT-Taxane Neurotoxicity Model-adjusted Score in ALC and Placebo Groups",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed primary invasive adenocarcinoma of the breast\n\n  * Stage I-III disease\n  * No metastatic disease\n* Must have undergone modified radical mastectomy or breast-sparing surgery\n* Planning to receive one of the following standard taxane-based systemic chemotherapy regimens as adjuvant therapy for breast cancer:\n\n  * Paclitaxel 80 mg/m\u00b2 weekly for 12 weeks\n  * Paclitaxel 175 mg/m\u00b2 every other week for 4 courses (8 weeks)\n  * Paclitaxel 175 mg/m\u00b2 every other week for 6 courses (12 weeks)\n  * Docetaxel 75 mg/m\u00b2 every 3 weeks for 4 courses (12 weeks)\n  * Docetaxel 75 mg/m\u00b2 every 3 weeks for 6 courses (18 weeks)\n* No history of neuropathy\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* Zubrod performance status 0-2\n* Serum creatinine \u2264 2.5 times upper limit of normal\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n* Able to complete questionnaires in English or Spanish\n* Willing to submit blood samples for DNA extraction, genotyping analysis, and nerve growth factor studies\n* No history of diabetes\n* No history of seizure disorder\n* No other malignancy within the past 5 years except adequately treated basal cell or squamous cell skin cancer, carcinoma in situ of the cervix, ductal carcinoma in situ, or adequately treated stage I or stage II malignancy from which the patient is currently in complete remission\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* Recovered from prior breast surgery\n* Prior neoadjuvant or adjuvant chemotherapy allowed\n* No prior taxane therapy\n* No prior biologic therapy for treatment of breast cancer\n* No concurrent vitamin E, glutamine, gabapentin, nortriptyline, amitriptyline, or duloxetine hydrochloride\n\n  * Multivitamins containing vitamin E allowed provided vitamin E dose is \\< 1,000 IU\n* No concurrent anti-seizure medications\n* Concurrent hormonal therapy allowed\n* Concurrent biologic therapy allowed (e.g., Herceptin)\n* Concurrent participation in another therapeutic clinical trial allowed",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

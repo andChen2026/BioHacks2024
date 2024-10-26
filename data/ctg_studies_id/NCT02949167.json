@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02949167",
+    "briefTitle": "MyHealth: Follow-up After Breast Cancer Treatment",
+    "officialTitle": "MyHealth: Nurse-led Compared to Physician-led Breast Cancer Follow-up: A Randomized Controlled Trial",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 503,
+    "primaryOutcomeMeasure": "Changes in breast cancer specific symptom burden (TOI-PFB)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Complete remission following primary treatment for loco-regional BC (stage I-II) - No confirmed genetic predisposition to BC\n* Female gender\n* Performance status \u22643\n* Read, understand and speak Danish\n* No severe cognitive problems\n* No severe psychiatric disease requiring treatment or any substance abuse.\n\nExclusion Criteria:\n\n* Genetic predisposition for BC\n* Patient younger than 40 years of age at diagnosis\n* Control after recurrent breast cancer\n* Other active cancer except non-melanoma skin cancer\n* Severe cognitive problems or dementia\n* Severe psychiatric disease requiring treatment, e.g. schizophrenia, alcohol or narcotic dependence",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

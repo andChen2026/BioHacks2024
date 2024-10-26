@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00900627",
+    "briefTitle": "Phase I/II AZD8931/Paclitaxel in Treatment of Advanced Solid Tumours (Phase I) and Advanced Breast Cancer (Phase II)",
+    "officialTitle": "A Phase I/II Multi-centre Study of AZD8931 in Combination With Weekly Paclitaxel to Assess the Safety, Tolerability, Pharmacokinetics and Efficacy in Patients With Advanced Solid Tumours and in a Selected Population With Low HER2-expressing Locally Recurrent and/or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neoplasms, Breast Neoplasms, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 330,
+    "primaryOutcomeMeasure": "Phase I: The Number of Dose Limiting Toxicities in AZD8931 in Combination With Weekly Paclitaxel",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Male/ female with solid, malignant tumour which is unresponsive to standard therapies (Phase I). Female patients with advanced breast cancer with low HER2 expression (Phase II)\n* Suitable for paclitaxel chemotherapy\n* Life expectancy more than 12 weeks\n\nExclusion Criteria:\n\n* Inadequate kidney, liver, heart, gastric, lung or eye function\n* Hypersensitive to paclitaxel\n* No symptomatic uncontrolled brain metastases\n* Previous taxane chemotherapy within 12 months (Phase II)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

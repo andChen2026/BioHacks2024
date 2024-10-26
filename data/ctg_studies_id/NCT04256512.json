@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04256512",
+    "briefTitle": "Cryotherapy for the Prevention of Taxane-Induced Sensory Neuropathy of the Hands and Feet in Breast Cancer Patients",
+    "officialTitle": "Cryotherapy to Prevent Taxane-Induced Sensory Neuropathy of the Hands and Feet",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 94,
+    "primaryOutcomeMeasure": "Peripheral neuropathy (PN)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients \\>= 18 years of age with a diagnosis of breast cancer\n* Patients receiving 12-18 weeks of chemotherapy with a taxane-based regimen (4 cycles of weekly x 3 paclitaxel or 4-6 cycles of docetaxel every 3 weeks)\n* Absence of sensory peripheral neuropathy, skin or nail disorders at the start of treatment\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2\n* Ability to complete questionnaires by themselves or with assistance\n* Ability to give signed informed consent\n\nExclusion Criteria:\n\n* History of prior sensory/motor peripheral neuropathy from any cause\n* History of prior Raynaud's phenomenon\n* History of cryoglobulinemia\n* Active peripheral vascular disease\n* Cold intolerance\n* Prior exposure to neurotoxic chemotherapy in the last 10 years\n* Hand-foot syndrome\n* Tumor metastasis in bone, soft tissue, or skin of the hands or feet\n* Absence of one or more fingers or toes\n* Prior exposure to taxane chemotherapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

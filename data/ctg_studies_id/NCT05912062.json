@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05912062",
+    "briefTitle": "Early On-treatment Transcriptional Profiling as Predictor of Response in Early-stage HER2-positive Breast Cancer",
+    "officialTitle": "Early On-treatment Transcriptional Profiling as Predictor of Response in Early-stage HER2-positive Breast Cancer (BiOnHER)",
+    "overallStatus": "RECRUITING",
+    "conditions": "HER2-positive Breast Cancer, Neoplasms, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Changes in gene expression (by RNA-seq technology) induced by a single dose of dual HER2-blockade with pertuzumab and trastuzumab.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent prior to beginning specific protocol procedures\n* Untreated invasive breast carcinoma eligible for neoadjuvant treatment\n* Histologically or cytologically confirmed human epidermal growth factor receptor 2 positive (HER2) Breast Cancer defined by ASCO/CAP guidelines based on the most recent analyzed biopsy or other pathology specimen; independently for estrogen receptor (ER) and progesterone receptor (PR)\n* Female and male patients\n* Age \u226518 years\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Adequate organ function defined as: Absolute neutrophil count (ANC) \u22651.5 \u00d7 109/L, Hemoglobin (Hgb) \u226510 g/dL, Platelets \\>100 000/mm3, Creatinine \u22641.6 mg/dL, ALT and AST \u22642.5 \u00d7 ULN, Alkaline phosphatase \u22645 ULN, Total bilirubin \u22641.5 mg/dL\n* Baseline LVEF \u226550% measured by echocardiography (ECHO) or Multiple Gate Acquisition (MUGA) scan\n* Negative \u03b2-HCG pregnancy test (serum) for premenopausal women of reproductive capacity (those who are biologically capable of having children) and for women less than 12 months after the menopause. All subjects who are biologically capable of having children must agree and commit to the use of a reliable method of birth control from 2 weeks before administration of the first dose of investigational product until 28 days after last dose of investigational product\n* Absence of any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule\n\nExclusion Criteria:\n\n* Known metastatic disease\n* Known or suspected hypersensitivity reaction to any investigational or therapeutic compound or their incorporated substances\n* Concurrent congestive heart failure or LVEF \\<50%\n* History of significant comorbidities that, in the judgment of the investigator, may interfere with the conduction of the study, the evaluation of response, or with informed consent\n* Use of any investigational agent or participation in another therapeutic clinical trial concurrently or in the previous 30 days before the enrollment\n* Patients who are pregnant or breast-feeding\n* Women of child-bearing potential who are unable or unwilling to use contraceptive measures\n* Inability or unwillingness to abide by the study protocol or cooperate fully with the investigator\n* Concurrent neoadjuvant cancer therapy (chemotherapy, radiation therapy, immunotherapy, biologic therapy other than the trial therapies)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

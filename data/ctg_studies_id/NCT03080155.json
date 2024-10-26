@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03080155",
+    "briefTitle": "Evaluation of a Three Dimensional Functional Metabolic Imaging and Risk Assessment System in Classifying Women for Likelihood of Breast Cancer",
+    "officialTitle": "Evaluation of a Three Dimensional Functional Metabolic Imaging and Risk Assessment System in Classifying Women for Likelihood of Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 680,
+    "primaryOutcomeMeasure": "determining MIRA's PPV (positive predictive value)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women who are between 30 to 70 years of age and who are asymptomatic and scheduled to undergo routine breast cancer screening (MRI and/or mammography) OR\n* Women who are between 30 to 79 years of age and scheduled for image-guided needle biopsy as a result of findings obtained during standard of care imaging modalities (mammography, ultrasound and/or MRI) performed at the clinical site that participates in the study.\n\nExclusion Criteria:\n\n1. Contraindication to bilateral mammography or MRI.\n2. Subjects who are unable to read, understand and execute the informed consent procedure.\n3. Subjects who have had mammography, ultrasound or MRI examination performed on the day of the study prior to MIRA scan.\n4. Subjects who have significant existing breast trauma.\n5. Subjects who have undergone lumpectomy/mastectomy.\n6. Subjects who have undergone breast reduction or breast augmentation.\n7. Subjects who have undergone any other type of breast surgery.\n8. Subjects who have large breast scar / Breast deformation.\n9. Subjects who have undergone a breast needle biopsy within the 6-month period prior to their intended enrollment into the study.\n10. Subjects who have a temperature \\> 37.8C degrees on the day of the MIRA imaging.\n11. Subjects who are pregnant or lactating.\n12. Subjects who have had placement of an internal breast marker.\n13. Subjects with known Raynaud's Disease.\n14. Subjects that are claustrophobic or have physical limitations that do not allow them to sit in the system chair for the required imaging session.\n15. Subjects with implanted pacemaker/defibrillator, implanted venous access device (portacath) or other implanted devices.\n16. Inmates or mentally disabled individuals.\n17. Subjects with a BI-RADS category 6 (e.g. for which mammogram was performed for the purpose of planning cancer therapy).\n18. Subjects who participated in the Calibration Phase will not be able to participate in the Testing Phase.\n19. Subjects currently participating in another investigational clinical study.\n20. Subjects undergoing breast MR for pre-staging.\n21. Subjects with known Mastitis",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

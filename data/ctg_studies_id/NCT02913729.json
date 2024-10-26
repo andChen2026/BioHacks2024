@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02913729",
+    "briefTitle": "Pre- Versus Postoperative Accelerated Partial Breast Irradiation",
+    "officialTitle": "Pre- Versus Postoperative Accelerated Partial Breast Irradiation in Early Stage Breast Cancer Patients",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Cancer of the Breast, Neoplasms, Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 65,
+    "primaryOutcomeMeasure": "Cosmetic outcome",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients \u2265 51 years\n* clinical stage tumor-1-2 (\u2264 3 cm)\n* cN0\n* Grade I or grade II (biopsy)\n* Histologically proven invasive ductal adenocarcinoma\n* Unifocal lesions on mammogram and MRI (small satellite lesions adjacent to the tumor are accepted as long as it is suitable for local excision to be determined by the participating centre)\n* World Health Organization performance status \u2264 2\n* Life expectancy \u2265 5 years\n* Written informed consent\n\nExclusion Criteria:\n\n* Distant metastases\n* Lobular invasive carcinomas\n* Pure Ductal Carcinoma in situ (DCIS) without invasive tumor\n* Grade III in biopsy\n* Triple negative tumors\n* HER2neu positive tumors\n* Lymphvascular invasion in biopsy\n* TNM pathologic stage N1-3\n* pN+ (micro- or macrometastases)\n* Multicentric / multifocal disease on mammogram or MRI\n* Diffuse calcifications on mammogram (Birads 3, 4 or 5)\n* Prior treatment for the protocol tumor (no surgery, no neoadjuvant chemotherapy or neoadjuvant hormonal therapy, no previous radiotherapy)\n* Previous contralateral breast cancer\n* Other neoplasms in the last 5 years with the exception of:\n* Basal cell carcinoma of the skin\n* Adequately treated carcinoma in situ of the cervix\n* Planned oncoplastic resection with tissue displacement\n* No social security affiliation/health insurance\n* Participation in another clinical trial that interferes with the locoregional treatment of this protocol\n* It is expected that dosimetric constraints cannot be met, ie, lung/heart constraints or if the ratio PTV/ipsilateral breast \\>30%",
+    "sex": "FEMALE",
+    "minimumAge": "51 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01569672",
+    "briefTitle": "Ohio Patient Navigator Research Program",
+    "officialTitle": "Ohio Patient Navigation Research Program",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Cervical Cancer, Colon Cancer, Rectal Cancer, Abnormal Breast Cancer Screening Tests, Abnormal Cervical Cancer Screening Tests, Abnormal Colon Cancer Screening Tests",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 941,
+    "primaryOutcomeMeasure": "Amount of time from abnormal evaluation of the breast, cervix, and colon or rectum to needed tests and treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Over age 18 years\n* Be a regular patient of the primary care practice\n* Be able to give informed consent\n* Have had either an abnormal screening test, an abnormal diagnostic test, or an abnormal clinical finding leading to diagnostic testing for cervical, breast, or colorectal cancer, or a diagnosis of cervical, breast, or colorectal cancer\n* Speak and understand English, or Spanish. For those participants who do not speak and understand English they will only be enrolled/consented into the program if translation services are available.\n\nExclusion Criteria:\n\n* Cognitively impaired\n* Prior history of cancer (except for nonmelanoma of the skin)\n* Living in a nursing home\n* Prior navigation",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

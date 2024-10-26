@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04341129",
+    "briefTitle": "Abbreviated MRI Protocol: Initial Experience With Dotarem\u00ae (Gadoterate Meglumine)",
+    "officialTitle": "Abbreviated MRI Protocol: Initial Experience With Dotarem\u00ae (Gadoterate Meglumine)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Breast Diseases, Breast Fibroadenoma, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Compare the diagnostic accuracy of dynamic contrast-enhanced breast MRIs performed with an abbreviated protocol versus a full protocol",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women between the ages of 18-80.\n* Women with diagnostic imaging findings highly suspicious for breast cancer (BI-RADS category 4 or 5) or known breast cancer (BI-RADS category 6). Per BI-RADS lexicon, category 4 lesions carry a malignancy risk of 2-95% and category 5 lesions carry a malignancy risk of \\>95%.\n\nExclusion Criteria:\n\n* Women with a history of adverse reactions to contrast media.\n* Women with GFR below 30 mL/min/1.73m\u00b2.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

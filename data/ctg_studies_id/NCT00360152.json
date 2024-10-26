@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00360152",
+    "briefTitle": "Testing of Different Methods for Determining Whether Breast Cancer Has Spread to the Lymph Nodes",
+    "officialTitle": "Minimally Invasive Staging of the Axilla in Breast Cancer: A Pilot Study to Assess the Feasibility of Axillary Ultrasound, Fine Needle Aspiration Biopsy and Molecular Analysis",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Determine the sensitivity of AUS and real-time RT-PCR/RT-LAMP to predict the pathologic status of the axilla in breast cancer patients",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients, aged 18 and over.\n* Patients must be newly diagnosed with clinical stage I or II breast cancer and be eligible for breast surgery and core breast biopsy of their proven breast carcinoma.\n\nExclusion Criteria:\n\n* Inability to give informed consent\n* Contraindications for breast surgery or biopsy\n\nPatients with no evidence of malignancy scheduled to undergo procedures under general anesthesia must fulfill the following eligibility requirements:\n\n* Female patients, aged 18 and over\n* Patient must be scheduled to undergo a procedure under general anesthesia with access to lymph nodes that can be biopsied by FNA biopsy at minimal risk to the patient\n* Patient must be willing to give informed consent\n* Patient with no history of malignancy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

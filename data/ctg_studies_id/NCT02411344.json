@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02411344",
+    "briefTitle": "Preoperative Study With Trastuzumab, Pertuzumab and Letrozole in Breast Cancer Patients Sensitive to Hormonal Therapy",
+    "officialTitle": "PERtuzumab-trastuzumab Plus lEetrozoLe In Endocrine Sensitive Breast Cancer: a Phase II neoAdjuvant Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Endocrine Sensitive HER2+/HR+ Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 64,
+    "primaryOutcomeMeasure": "Rate of pathologic complete response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* primary diagnosis of infiltrating breast cancer\n* HR positivity (ER \u2265 10% and/or PgR \u226510%) and HER2 positivity (IHC 3+ or FISH/CISH amplification), as assessed by local laboratory.\n* Stage II-IIIA\n* age \\>18 yrs\n* ECOG Performance Status 0-1\n* Postmenopausal status, defined by at least one of the following:\n\n  60 years of age; \\< 60 years of age and amenorrheic for \\>/=12 months prior to day 1 \\< 60 years of age, without a uterus, and luteinizing hormone (LH) and follicle stimulating hormone (FSH) values within postmenopausal range Prior bilateral oophorectomy Prior radiation castration with amenorrhea for at least 6 months\n* Cardiac ejection fraction within the institutional range of normal (as measured by echocardiogram or MUGA scan).\n* Normal organ and marrow function as defined below:\n\n(leukocytes \\>=3000/mcL; absolute neutrophil count \\>=1,500/mcL; platelets \\>=100,000/mcL; total bilirubin within 1.25 x normal institutional limits (with the exception of Gilbert's syndrome); AST (SGOT)/ALT(SGPT) within 1.25 x institutional upper limit of normal creatinine within normal institutional limits\n\n* Availability of tumor tissue suitable for biological and molecular examination before starting primary treatment\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Stage IIIB, IIIC, and inflammatory breast cancer\n* Stage IV breast cancer\n* Prior treatment with chemotherapy, endocrine therapy or radiotherapy. Prior treatment with HER2 targeting therapies\n* LVEF below the ULN\n* Uncontrolled hypertension (systolic \\>150 mm Hg and/or diastolic \\>100 mm Hg) or clinically significant (i.e. active) cardiovascular disease: cerebrovascular accident (CVA)/stroke or myocardial infarction within 6 months prior to first study medication, unstable angina, congestive heart failure (CHF) of New York Heart Association (NYHA) grade II or higher, or serious cardiac arrhythmia requiring medication.\n* Received any investigational treatment within 4 weeks of study start.\n* Subjects with known infection with HIV, HBV, HCV\n* Known hypersensitivity to any of the study drugs or excipients.\n* Dyspnoea at rest or other disease requiring continuous oxygen therapy.\n* Psychiatric illness/social situations that would limit compliance with study requirements\n* Subjects assessed by the investigator to be unable or unwilling to comply with the requirements of the protocol",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

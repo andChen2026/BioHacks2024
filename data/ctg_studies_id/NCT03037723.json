@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03037723",
+    "briefTitle": "Prone Whole-Breast RadiationTherapy Versus Supine Whole-Breast Radiation Therapy Imaging",
+    "officialTitle": "Prospective Trial of Prone Whole-Breast RadiationTherapy Versus Supine Whole-Breast Radiation Therapy With and Without Respiratory Gating, a Dosimetric Comparison",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Respiratory Gating, Prone",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "mean heart dose",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage 0-IIA left, breast cancer,\n* After lumpectomy or segmental mastectomy,\n* With negative surgical margins\n\nExclusion Criteria:\n\n* Right breast cancer\n* Positive surgical margins\n* Stage 2B or higher",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

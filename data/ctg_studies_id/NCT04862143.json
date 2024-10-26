@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04862143",
+    "briefTitle": "Pilot Decentralized Clinical Trial in Men and Pre and Post-menopausal Women With Breast Cancer and a Specific Mutation (PIK3CA) Treated With Alpelisib in Combination With Fulvestrant",
+    "officialTitle": "Open-label, Multicenter, Pilot-trial Evaluating the Safety and Utility of a Hybrid Decentralized Clinical Trial (DCT) Approach Using a TELEmedicine Platform in Patients With HR-positive/HER2-negative Advanced Breast Cancer With a PIK3CA Mutation Treated With Alpelisib - Fulvestrant TELEPIK Trial",
+    "overallStatus": "TERMINATED",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2,
+    "primaryOutcomeMeasure": "Participant Satisfaction Assessed Through the Trial Feedback Questionnaire (TFQ)",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n1. Participant is an adult \u226518 years old at the time of consent\n2. Participant with ABC (loco regionally recurrent or metastatic) not amenable to curative therapy.\n3. Participant with a histologically and/or cytologically confirmed diagnosis of ER-positive and/or PR-positive breast cancer by local laboratory.\n4. Participant with a confirmed HER2-negative ABC.\n5. Participant with a pathology report confirming PIK3CA mutant status by a certified laboratory using a validated PIK3CA mutation assay (from either tissue or blood).\n6. Participant was willing to operate a smartphone compatible with the software of the medical device and willing to manage applications\n7. Participant was willing to use the telemedicine platform and to follow the remote participant monitoring procedure.\n\nKey Exclusion Criteria:\n\n1. Participant had received prior treatment with any PI3K, mTOR or AKT inhibitor.\n2. Participant with known hypersensitivity to alpelisib or fulvestrant, or to any of the excipients of alpelisib or fulvestrant.\n3. Participant participated in a prior investigational study within 30 days prior to the start of trial treatment or within 5 half-lives of the trial treatment, whichever was longer.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

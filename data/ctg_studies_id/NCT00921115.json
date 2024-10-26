@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00921115",
+    "briefTitle": "Anti-Hormone Therapy (With Anastrazole and Fulvestrant) Before Surgery to Treat Postmenopausal Women With Breast Cancer.",
+    "officialTitle": "Combined Fulvestrant and Anastrozole as Neo-adjuvant Endocrine Therapy in Postmenopausal Women With Hormone Receptor Positive Invasive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Invasive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 42,
+    "primaryOutcomeMeasure": "Pathologic Complete Response (PCR) Rate",
+    "eligibilityCriteria": "Inclusion criteria\n\n* Female patient \\> 18 years of age.\n* Histologically proven invasive adenocarcinoma of the breast.\n* Patients must be candidates for neoadjuvant treatment (Tumor size \\> 2cm and/or clinical N1 or N2).\n* ER positive (\\> 10% of cells) and/or PgR positive (\\> 10% of the cells) and HER-2 negative disease (IHC 0 or 1+ and/or FISH negative, IHC 2+ and FISH negative)\n* Menopausal status\n\n  * Patients must be post-menopausal as defined by one of the following criteria:\n\n    * Prior bilateral oophorectomy\n    * 12 months since LMP with no prior hysterectomy\n    * Patients \\> 55 years with prior hysterectomy\n    * Patients \\< 55 years of age and with a prior hysterectomy without oophorectomy, estradiol and FSH levels must be consistent with the patient being postmenopausal.\n  * Premenopausal or perimenopausal women who do not meet the postmenopausal criteria above are also eligible, but are required to undergo ovarian suppression with an LHRH agonist. Ovarian suppression can be initiated any time prior to or on day 1 of protocol therapy and must continue throughout protocol therapy.\n* Performance status of 2 or better per SWOG criteria\n* No prior chemotherapy or endocrine therapy for the current cancer diagnosis.\n* If female of childbearing potential, pregnancy test is negative prior to initiation of ovarian suppression.\n* Patients must be informed of the investigational nature of the study, and must sign an informed consent in accordance with the institutional rules.\n* Oncotype Dx Recurrence Score \\</= 25.\n\nExclusion criteria\n\n* Patients with metastatic disease.\n* The presence of any other medical or psychiatric disorder that, in the opinion of the treating physician, would contraindicate the use of drugs in this protocol or place the subject at undue risk for treatment complications.\n* Premenopausal without ovarian suppression.\n* Pregnancy or lactation.\n* Patients with concomitant or previous malignancies within the last 5 years, with the exception of adequately treated basal or squamous cell carcinoma of the skin or carcinoma in situ of the cervix.\n* Patients with emotional limitations are excluded from study\n* Platelets less than 100 x 109 /L\n* Total bilirubin greater than 1.5 x ULRR\n* ALT or AST greater than 2.5 x ULRR\n* History of bleeding diathesis (i.e., disseminated intravascular coagulation \\[DIC\\], clotting factor deficiency) or long-term anticoagulant therapy (other than antiplatelet therapy).\n* History of hypersensitivity to active or inactive excipients of fulvestrant (i.e. castor oil or Mannitol).\n* Oncotype Dx Recurrence Score of \\>25.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

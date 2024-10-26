@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00721370",
+    "briefTitle": "Near-Infrared Fluorescent Sentinel Lymph Node Mapping for Breast Cancer",
+    "officialTitle": "Near-Infrared Fluorescent Sentinel Lymph Node Mapping for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 12,
+    "primaryOutcomeMeasure": "Ergonomics and function of the imaging system - verify that the imaging system does not interfere with Sentinel Lymph Node mapping procedure and can be used safely by the surgeon.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women or men above the age of 21 who have biopsy-proven breast cancer, and who are undergoing sentinel lymph node mapping for staging and treatment of their disease.\n\nExclusion Criteria:\n\n* Pregnant women,\n* Significant renal, cardiac, or pulmonary disease,\n* History of iodine allergy.",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

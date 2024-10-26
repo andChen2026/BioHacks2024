@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02883985",
+    "briefTitle": "Safety Study of the Hypo-fractionated (Large Doses) Radiation Therapy in Post-menopausal Women With Breast Cancers",
+    "officialTitle": "Hypo-Fractionated Conformal Radiation Therapy to the Tumor Bed After Segmental Mastectomy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Number of participants with treatment-related adverse events as assessed by CTCAE v4.0",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Post-menopausal women (at least 2 years without menstrual period):\n\nhysterectomized patients need follicle-stimulating hormone (FSH) confirmation of post-menopausal status.\n\n* Original tumor non-palpable (mammographically detected).\n* Small primary tumor (pT1) breast cancer, excised with negative margins (defined as at least a 5 mm margin).\n* N0 or sentinel node negative or N0 clinically if the tumor is \\<1 cm in size.\n* Patient offered six weeks of post-segmental mastectomy conventional radiation therapy and declined.\n* Prescribed antihormonal therapy as part of their management.\n\nExclusion Criteria:\n\n* Previous radiation therapy to the ipsilateral breast.\n* Presence of a proportion of ductal carcinoma in situ (DCIS) in the pathology specimen which is compatible with extensive intraductal component (EIC).\n* Women incapable of providing their own consent. Mental status will be assessed by the Principal Investigator using the Radiation Therapy Oncology Group (RTOG) Mini-Mental Status Examination.\n* Women with a diagnosis of multifocal breast cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

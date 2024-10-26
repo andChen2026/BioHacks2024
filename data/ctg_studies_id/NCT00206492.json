@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00206492",
+    "briefTitle": "Trial of ZD1839 (Iressa) and Tamoxifen in Breast Cancer Patients",
+    "officialTitle": "A Neoadjuvant Phase II Trial of ZD1839 (Iressa) and Tamoxifen in Inoperable Locally Advanced HER2-Overexpressing, ER-Positive Breast Cancer Patients: Biologic Correlative Study (AZ #1839US/0303)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 3,
+    "primaryOutcomeMeasure": "cellular response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. All patients must be female and must have signed an informed consent form.\n2. Primary breast cancers must be human epidermal growth factor receptor (HER2) overexpressing (2+ or 3+, or both, as determined by immunohistochemistry \\[IHC\\]), and estrogen receptor (ER) positive. Primary breast cancers must be of clinical and/or radiologic size \\>4 cm, with or without gross metastatic disease according to the International Union against Cancer (UICC) modified World Health Organization (WHO) criteria.\n3. Negative serum pregnancy test (bHCG) within 7 days of starting study, if of child-bearing potential.\n4. Adequate bone marrow function:\n\n   * Hematocrit \\>30%,\n   * total neutrophil count must be \\>1.5 x 10\\^9/L, and\n   * platelet count \\>100 x 10\\^9/L.\n5. Renal function tests:\n\n   * creatinine within 1.5 times the institution's upper limit of normal (ULN).\n6. Liver function tests:\n\n   * Total serum bilirubin within ULN,\n   * liver transaminases within 2.5 x ULN,\n   * alkaline phosphatase within 5 x ULN.\n7. Performance status (WHO scale) \\<2.\n8. Age \\> 18 years.\n\nExclusion Criteria:\n\n1. Pregnancy or unwillingness to use a reliable contraceptive method in women of child-bearing potential.\n2. Women who are lactating or breastfeeding.\n3. Severe underlying chronic illness or disease.\n4. Patients on other investigational drugs while on study will be excluded.\n5. Severe or uncontrolled hypertension, history of congestive heart failure, acute myocardial infarction, or severe coronary arterial disease.\n6. No previous or current malignancies at other sites within the preceding 5 years, with the exception of adequately treated, cone-biopsied in situ carcinoma of the cervix uteri and basal or squamous cell carcinoma of the skin.\n7. Any evidence of ongoing interstitial lung disease.\n8. Concomitant use of phenytoin, carbamazepine, rifampicin, barbiturates, or St John's Wort.\n9. Treatment with a non-approved or investigational drug within 30 days before Day 1 of study treatment.\n10. Known severe hypersensitivity to ZD1839 or any of the excipients of this product.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

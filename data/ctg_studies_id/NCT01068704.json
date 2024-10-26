@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01068704",
+    "briefTitle": "Efficacy and Safety of BMS-690514 in Combination With Letrozole to Treat Metastatic Breast Cancer",
+    "officialTitle": "An Open-Label Randomized, Parallel, Two-Arm Phase II Study Comparing BMS-690514 + Letrozole With Lapatinib + Letrozole in Recurrent and Metastatic Breast Cancer Patients Who Are Hormone Receptor Positive Despite HER2 Status And Who Relapsed While Receiving or After Completing Adjuvant Antiendocrine Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "Clinical Benefit Rate defined as percentage of subjects with a complete response, partial response, or stable disease for at least 6 months",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Documented invasive breast cancer\n* Greater than 10% tumor cells positive for estrogen receptor and/or progesterone receptor\n* HER2+ and HER2- (Human Epidermal growth factor Receptor) disease\n* Rapid disease progression despite treatment with tamoxifen, anastrozole or exemestane\n* ECOG Performance status = 0 or 1\n\nExclusion Criteria:\n\n* Prior hormonal therapy for metastatic disease\n* Prior hormonal therapy with letrozole for adjuvant disease\n* Symptomatic brain metastases\n* Prior treatment with any tyrosine kinase inhibitor",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

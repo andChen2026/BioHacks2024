@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05048641",
+    "briefTitle": "Effectiveness of Mobile Messenger-initiated Reminder on Biannual Mammography Adherence in Breast Cancer Screening",
+    "officialTitle": "Effectiveness of Mobile Messenger-initiated Reminder on Biannual Mammography Adherence in Breast Cancer Screening",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "Attendance of the second round of mammography follow up and repeat mammography arrangement.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with negative mammography results which are defined as BI-RADS (Breast Imaging-Reporting and Data System) 1 or 2 in the first round of mammography screening of the existing opportunistic breast cancer screening cohort\n* Due for second round of biannual follow up of mammography\n* Consented to be contacted via WhatsApp Messenger\n\nExclusion Criteria:\n\n* Those without access to WhatsApp Messenger or disagreed to be contacted via WhatsApp Messenger",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

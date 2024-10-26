@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01153035",
+    "briefTitle": "Excision Followed by Radiofrequency Ablation for Breast Cancer",
+    "officialTitle": "ABLATE Registry: Radiofrequency Ablation After Breast Lumpectomy (eRFA) Added To Extend Intraoperative Margins in the Treatment of Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 104,
+    "primaryOutcomeMeasure": "Estimate the re-excision rate for close (<3mm) or positive margins",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient is a female, \u2265 50 years of age\n* The tumor size is \u2264 3 cm (on pre-study radiologic OR clinical exam)\n* The tumor is unicentric and unilateral\n* The tumor is not involving the skin\n* Pathology confirms ductal in situ (DCIS) OR infiltrating ductal carcinoma (IDC), grade I-III\n* If tumor is IDC, pathology must be hormone receptor positive (ER+ and/or PR+)\n* Patient signs current written informed consent and HIPAA forms\n\nExclusion Criteria:\n\n* Patient is under 50 years of age\n* Patient is male\n* Tumor \\> 3 cm in diameter\n* Bilateral malignancy\n* Clinically positive lymph nodes\n* Tumor involving the skin\n* Pathology confirms invasive lobular carcinoma\n* Breast implants\n* Less than 2 years disease-free survival from previous breast cancer\n* Neoadjuvant chemotherapy or chemotherapy for another breast cancer within two years",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

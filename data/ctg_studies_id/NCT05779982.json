@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05779982",
+    "briefTitle": "SURPASS Retrospective Study",
+    "officialTitle": "Outcomes of Sentinel Node Biopsy According to MRI Response in an Association With the Subtypes in cN1-3 Breast Cancer After Neoadjuvant Systemic Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Breast MRI, Neoadjuvant Systemic Therapy, Sentinel Lymph Node",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "False negative rate of sentinel lymph node biopsy according to radiologic response stratified by brest cancer subtype",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* cN1-3 breast cancer at initial presentation\n* received neoadjuvant systemic therapy (NAST)\n* received sentinel lymph node biopsy (SLNB) followed by additional axillary lymph node dissection (ALND)\n* breast MRI performed at baseline and post-NAST.\n\nExclusion Criteria:\n\n* case with unavailable data for breast MRI and operation",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02725840",
+    "briefTitle": "Breast Cancer Lung Late Effects",
+    "officialTitle": "Early Markers of Subclinical Pulmonary Vascular Radiation Toxicity in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Radiation Injury, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 41,
+    "primaryOutcomeMeasure": "The lower dose limit for measurable change in number of small blood vessels as characterized from chest CT scans at 1,3,6, 12 and 24 months (= 2 years) and compared between proton versus X-ray radiation therapy.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women who are at least 18 years of age.\n* Women with Stage II or higher primary breast cancer and who are scheduled to receive conventional X-ray RT (n=30) or proton therapy (n=25) to the breast and chest wall.\n\nExclusion Criteria:\n\n* Patients not willing or able to submit to repeat chest CT scans and blood draws.\n* Pregnant women.\n* Patients who have previously had radiation treatment where any portion of the lung received greater than 5 Gy of radiation exposure.\n* Women with bilateral breast cancer or metastatic disease to sites near the chest where additional radiation exposure to any portion of the lung of greater than 5 Gy is anticipated.\n* Women with allergic reaction to all common CT contrast agents.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

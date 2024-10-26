@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00593827",
+    "briefTitle": "Phase II Trial of Weekly or Every 3-week Ixabepilone for Patients With Metastatic Breast Cancer",
+    "officialTitle": "Phase II Randomized Trial of Weekly and Every 3-week Ixabepilone in Metastatic Breast Cancer (MBC) Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 176,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS) at 6 Months (6-month PFS Rate): Proportion of Participants Progression Free at 6 Months",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Has MBC that is measurable by RECIST or has nonmeasurable disease with serum CA27.29 (or CA15.3) \u2265 50\n* Has Human Epidermal Growth Factor Receptor 2 (HER2) negative breast cancer\n* Prior chemotherapy is permitted with no limit on the number of prior regimens\n* Two weeks or more have elapsed since last chemotherapy or radiation treatment\n* Has an Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) of 0-2\n* Is female, \u2265 18 yrs of age\n* Protocol defined appropriate laboratory values\n* Negative pregnancy test within 7 calendar days prior to registration\n* Has signed a patient informed consent\n\nExclusion Criteria:\n\n* Had prior treatment with ixabepilone or other epothilones\n* Has HER2+ disease\n* Has a known, prior, severe (National Cancer Institute Common Terminology Criteria Adverse Events \\[NCI CTCAE\\] Grade 3-4) history of hypersensitivity reaction to a drug formulated in Cremophor \u00ae EL (polyoxyethylated castor oil)\n* Is receiving concurrent immunotherapy, hormonal therapy or radiation therapy\n* Is receiving concurrent investigational therapy or has received such therapy within the past 30 days\n* Has peripheral neuropathy \\> Grade 1\n* Has evidence of central nervous system (CNS) involvement requiring radiation or steroid treatment. Participants with stable brain metastases who are off steroids at least 2 weeks are eligible\n* Is pregnant or breast feeding",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

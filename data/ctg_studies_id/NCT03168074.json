@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03168074",
+    "briefTitle": "Phase II Study of Single Agent Lenvatinib",
+    "officialTitle": "A Phase II Window-of-opportunity Study of Single Agent Lenvatinib in Estrogen Receptor Positive Early Stage Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Biological effects of short-course single agent lenvatinib in estrogen receptor positive breast cancer using a window-of-opportunity design",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPatients must fulfill ALL the following inclusion criteria\n\n* Female \u226518 years\n* Histological or cytological diagnosis of breast carcinoma\n* No prior treatment for current breast carcinoma\n* Scheduled for upfront definitive breast cancer surgery (breast conserving surgery or mastectomy with or without sentinel lymph node biopsy or axillary lymph node clearance)\n* Estrogen receptor positive (\\>1%)\n* Adequate bone marrow, renal and liver function\n* Adequate organ function including the following:\n\n  * Bone marrow:\n\n    * Absolute neutrophil (segmented and bands) count (ANC) \\>= 1.5 x 109/L\n    * Platelets \\>= 100 x 109/L\n  * Hepatic:\n\n    * Bilirubin \\< = 1.5 x upper limit of normal (ULN),\n    * ALT or AST \\< = 2.5x ULN, (or \\< = 5 X with liver metastases)\n  * Renal:\n\n    * Creatinine \\< = 1.5x ULN\n* Normal thyroid function\n* Able to swallow pills\n* Able to sign informed consent\n* Able to comply with study-related procedures\n\nExclusion Criteria:\n\nPatients will be excluded from the study for any of the following reasons:\n\n* Scheduled for neoadjuvant systemic therapy\n* Concurrent administration of any other tumor therapy, including cytotoxic chemotherapy, hormonal therapy, and immunotherapy.\n* Treatment within the last 28 days with any investigational drug.\n* Major surgery within 28 days of study drug administration.\n* Pregnancy.\n* Breast feeding.\n* Serious concomitant disorders that would compromise the safety of the patient or compromise the patient's ability to complete the study, at the discretion of the investigator.\n* Poorly controlled diabetes mellitus.\n* Second primary malignancy that is clinically detectable at the time of consideration for study enrollment\n* Symptomatic brain metastasis.\n* History of significant neurological or mental disorder, including seizures or dementia.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

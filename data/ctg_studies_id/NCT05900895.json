@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05900895",
+    "briefTitle": "Estradiol Plus Olaparib for Breast Cancer (PHOEBE)",
+    "officialTitle": "Phase 1b Study of Olaparib and Estradiol in Advanced ER+ Breast Cancer (PHOEBE)",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Determine the Phase II dose of olaparib in combination with 17b-estradiol",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Post-menopausal women with ER+/HER2- breast cancer.\n* Metastatic or locoregional recurrence not amenable to treatment with curative intent.\n* Received \u22651 prior line of endocrine-based therapy in the advanced/metastatic setting.\n\nExclusion Criteria:\n\n* During study treatment, no concurrent anti-cancer therapies are allowed with the following exceptions:\n\n  o Anti-resorptive bone therapies (e.g., bisphosphonates, denosumab) permitted.\n* Any investigational cancer therapy or systemic chemotherapy in the last 3 weeks.\n* Any radiation therapy in the last 2 weeks.\n* Known CNS disease, unless clinically stable for \u2265 3 months.\n* Concomitant use of known strong or moderate CYP3A inhibitors.\n* Persistent toxicities (\u2265CTCAE grade 2) caused by previous cancer therapy.\n* History of any of the following:\n\n  * Deep venous thrombosis\n  * Pulmonary embolism\n  * Stroke\n  * Acute myocardial infarction\n  * Congestive heart failure\n  * Previous malignancy not treated with curative intent, or with an estimated recurrence risk \u226530%\n  * Severe renal impairment (creatinine clearance \u2264 30 mL/min).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

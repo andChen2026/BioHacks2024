@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06590857",
+    "briefTitle": "Trial of 225Ac-DOTATATE (RYZ101) Alone and with Pembrolizumab in Subjects with ER+, HER2-negative Unresectable or Metastatic Breast Cancer Expressing SSTRs",
+    "officialTitle": "Phase 1b/2 Open-label Trial of 225Ac-DOTATATE (RYZ101) Alone and in Combination with Pembrolizumab in Subjects with Estrogen Receptor-positive (ER+), Human Epidermal Growth Factor Receptor 2 (HER2)-negative, Locally Advanced and Unresectable or Metastatic Breast Cancer Expressing Somatostatin Receptors (SSTRs) and Progressed After Antibody-drug Conjugates And/or Chemotherapy (TRACY-1)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Metastatic Breast Cancer, HER2-negative Breast Cancer, ER+ Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 172,
+    "primaryOutcomeMeasure": "Dose Escalation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group Performance Status of \u2264 2\n* Histologically confirmed, ER+ (defined as \u22651% of tumor cells staining positive for ER on IHC, or if no percentage is available, then an Allred IHC score of \u22653/8), HER2-negative (defined as IHC score of 0 or 1, or IHC score of 2 with negative ISH) locally advanced and unresectable or metastatic breast cancer not amenable to treatment with curative intent.\n* At least one RECIST v1.1-measurable tumor lesion that is SSTR-PET positive (defined as maximum standard uptake value (SUVmax) higher than liver mean standard uptake value (SUVmean) on SSTR-PET imaging) and at least 80% of RECIST v1.1 measurable tumor lesions are SSTR-PET positive within 90 days of enrollment.\n* Sufficient renal function, as evidenced by creatinine clearance (CrCl) \u226560 mL/min calculated using the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation\n* Adequate hematologic, hepatic and coagulation function\n\nExclusion Criteria:\n\n* History of severe hypersensitivity (Grade \u22653) to any of the components or excipients used in the study treatments or imaging agents.\n* Prior RPT, including radioembolization.\n* Has received prior therapy with an anti-programmed cell death protein 1 (anti-PD-1), anti-PD L1, or anti-programmed cell death-ligand 2 (anti-PD-L2) agent or with an agent directed to another stimulatory or co-inhibitory T-cell receptor (e.g., cytotoxic T-lymphocyte-associated protein 4 \\[CTLA-4\\], OX 40, CD137).\n* Any toxicities from prior treatments that have not recovered to CTCAE Grade \u22641, except for alopecia.\n* Significant cardiovascular disease\n* Known brain, meningeal, or spinal cord metastases. Subjects with brain metastases may be eligible if asymptomatic, previously treated, and all brain lesions must have been controlled for at least 6 months prior to enrollment. Subjects with untreated brain lesions that are SSTR+ may be eligible after approval by the medical monitor.\n* History of hypersensitivity or allergy to pembrolizumab or any of its components, or to 225Ac, 68Ga, 64Cu, octreotate, or any of the excipients of DOTATATE imaging agents.\n* Prior or concurrent malignancy whose natural history or treatment has the potential to interfere with the study safety or efficacy assessments.\n\nOther protocol-defined criteria may apply.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

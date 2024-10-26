@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03674827",
+    "briefTitle": "Vaccine-Based Immunotherapy Regimen For NSCLC and TNBC",
+    "officialTitle": "A PHASE 1 STUDY TO EVALUATE THE SAFETY, PHARMACOKINETICS, AND PHARMACODYNAMICS OF ESCALATING DOSES AND TREATMENT INTENSIFICATION OF A VACCINE-BASED IMMUNOTHERAPY REGIMEN-2 (VBIR-2) (PF-06936308) FOR ADVANCED NON-SMALL CELL LUNG CANCER AND METASTATIC TRIPLE-NEGATIVE BREAST CANCER",
+    "overallStatus": "TERMINATED",
+    "conditions": "Non-Small Cell Lung Cancer, Triple-negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 36,
+    "primaryOutcomeMeasure": "Number of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPart 1:Histological or cytological diagnosis of non-small cell lung cancer or triple-negative breast cancer. Adequate bone marrow, renal and liver function.\n\nPart 2: Histological or cytological diagnosis of metastatic non-small cell lung cancer previously treated with 1 or 2 regimens in metastatic setting including a CPI and platinum-based chemotherapy. Adequate bone marrow, renal and liver function.\n\nExclusion Criteria:\n\n* Known symptomatic brain metastases\n* ECOG performance status greater than or equal to 2\n* Concurrent immunotherapy\n* History of or active autoimmune disorders (including but not limited to: myasthenia gravis, thyroiditis, pneumonitis, rheumatoid arthritis, multiple sclerosis, systemic lupus, erythematosus, scleroderma) and other conditions that disorganize or alter the immune system.\n* History of inflammatory bowel disease.\n* Current use of any implanted electronic stimulation device, such as cardiac demand pacemakers, automatic implantable cardiac defibrillator, nerve stimulators, or deep brain stimulators.\n* Presence of any surgical or traumatic metal implants at the site of administration",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

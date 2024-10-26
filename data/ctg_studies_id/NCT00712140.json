@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00712140",
+    "briefTitle": "Trastuzumab in Treating Women With HER2-Positive Early Breast Cancer",
+    "officialTitle": "Persephone: Duration of Trastuzumab With Chemotherapy in Women With Early Stage Breast Cancer: Six Months Versus Twelve",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4000,
+    "primaryOutcomeMeasure": "Disease-free survival",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive breast cancer\n* No evidence of metastatic disease\n* Overexpression of HER2 receptor defined as 3+ or 2+ HER2 positivity measured by fluorescent in situ hybridization (FISH) gene amplification\n* Indication for chemotherapy based on the following clinical and histopathological features:\n\n  * Receiving or scheduled to receive neoadjuvant chemotherapy\n\n    * Time between diagnosis biopsy and start date of chemotherapy should be less than 1 month\n  * Receiving or scheduled to receive adjuvant chemotherapy\n\n    * Completely resected disease, with negative surgical margins (apart from deep margin if full thickness resection)\n    * Marginally resected disease and/or positive sentinel nodes allowed provided patients undergo completion of surgery (breast and/or axillary clearance) after chemotherapy\n* Hormone receptor status known\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* ECOG performance status 0-1\n* Adequate bone marrow, hepatic, and renal function\n* LVEF normal by ECHO or MUGA\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n* No clinically significant cardiac abnormalities\n* No myocardial infarction within the past 6 months\n* No uncontrolled or malignant hypertension\n* No history of atrioventricular arrhythmia and/or congestive heart failure (even under medical control), or active second or third degree cardiac block\n* No history of allergy to drugs containing polysorbate 20 and the excipient polysorbate 80 (TWEEN 80\u00ae) or history of allergy to mouse proteins\n* No co-morbidity significantly adding to risks associated with cytotoxic chemotherapy (i.e., severe chronic obstructive pulmonary disease or poorly controlled diabetes)\n* No prior diagnosis of malignancy unless managed by surgical treatment only and disease-free for 10 years\n\n  * Prior basal cell carcinoma, cervical carcinoma in situ, or ductal carcinoma in situ of the breast allowed if treated by surgery only\n* No concomitant medical or psychiatric problems that might preclude completion of treatment or follow-up\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior chemotherapy or radiotherapy\n* Concurrent radiotherapy allowed",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

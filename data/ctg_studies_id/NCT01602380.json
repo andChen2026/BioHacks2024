@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01602380",
+    "briefTitle": "A Global Study to Compare the Effects of Fulvestrant and Arimidex in a Subset of Patients With Breast Cancer.",
+    "officialTitle": "A Randomised, Double-blind, Parallel-group, Multicentre, Phase III Study to Compare the Efficacy and Tolerability of Fulvestrant (FASLODEX) 500 mg With Anastrozole (ARIMIDEX) 1 mg as Hormonal Treatment for Postmenopausal Women With Hormone Receptor-Positive Locally Advanced or Metastatic Breast Cancer Who Have Not Previously Been Treated With Any Hormonal Therapy.",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Hormone Receptor Positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 462,
+    "primaryOutcomeMeasure": "Comparison of Progression-Free Survival (PFS) in Patients Treated With Fulvestrant With Those Treated With Anastrozole",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological confirmation of breast cancer in post menopausal women (age \\>=60). Positive hormone receptor status (ER +ve and/or PgR +ve) of primary or metastatic tumour tissue based on local laboratory assessment.\n* EITHER locally advanced disease (1 line of chemotherapy allowed only if remain unsuitable for therapy of curative intent) OR Metastatic disease. (1 line of chemotherapy for breast cancer allowed only if subsequent evidence of further progressive disease)\n* At least 1 lesion (measurable and/or non-measurable) that can be accurately assessed at baseline and is suitable for repeated assessment.\n* Postmenopausal women, fulfilling 1 of:\n\n  * Prior bilateral oophorectomy\n  * Age \\>60 years\n  * Age \\< 60 years and amenorrheic for 12+months in the absence of chemotherapy, tamoxifen, toremifene, or ovarian suppression and FSH and oestradiol in the postmenopausal range\n\nExclusion Criteria:\n\n* Presence of life-threatening metastatic disease\n* Any of:\n\n  * Extensive hepatic involvement\n  * involving brain or meninges\n  * symptomatic pulmonary lymph spread\n* Discrete lung metastases are acceptable if respiratory function is not significantly compromised\n* Prior systemic therapy for breast cancer other than one line of cytotoxic chemotherapy (the last dose of chemotherapy must have been received more than 28 days prior to randomisation)\n* Radiation therapy if not completed within 28 days prior to randomisation (with the exception of radiotherapy given for control of bone pain, started prior to randomisation). Prior hormonal treatment for breast cancer.\n* Current or prior malignancy within previous 3 years (other than breast cancer or adequately treated basal cell or squamous cell carcinoma of the skin or in situ carcinoma of the cervix).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

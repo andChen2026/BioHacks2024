@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05067972",
+    "briefTitle": "A Study of PF-07260437 in Advanced or Metastatic Solid Tumors",
+    "officialTitle": "A PHASE 1 DOSE ESCALATION AND EXPANSION STUDY TO EVALUATE THE SAFETY, TOLERABILITY, PHARMACOKINETIC, PHARMACODYNAMIC, AND ANTITUMOR ACTIVITY OF PF-07260437 IN ADVANCED OR METASTATIC SOLID TUMORS",
+    "overallStatus": "TERMINATED",
+    "conditions": "Ovarian Neoplasms, Endometrial Neoplasms, Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Number of participants with dose limiting toxicities (DLTs) in Dose escalation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Part 1: Histological/cytological diagnosis of selected locally advanced or metastatic breast cancer, endometrial cancer and ovarian cancer\n* Part 2A:In second line or more, participants with histological/cytological diagnosis of locally advanced or metastatic HR+ HER2- breast cancer showing high B7-H4 expression\n* Part 2B: In second line or more participants with histological or cytological diagnosis of locally advance or metastatic HR+ Her2- breast cancer or triple negative breast cancer (TNBC) with no biomarker pre-selection\n* Part 2C: In second line or more participants with histological diagnosis of locally advance or metastatic triple negative breast cancer with high B7-H4 expression\n* Thyroid function within normal laboratory range; in participants with abnormal thyroid function if Free T4 is normal and participant is clinically euthyroid, participants is eligible\n\nExclusion Criteria:\n\n* Participants with any active malignancy within 3 years prior to enrollment\n* Participants with advanced/metastatic, symptomatic, visceral spread, that are at risk of life-threatening complications in the short term (including participants with massive uncontrolled effusions \\[pleural, pericardial, peritoneal\\], pulmonary lymphangitis, and over 50% liver involvement).\n* History of Grade \u22653 immune mediated adverse events (including liver function tests that where considered drug related and cytokine release syndrome) that was considered related to prior immune modulatory therapy (eg, immune checkpoint inhibitors, co stimulatory agents, etc.) and required immunosuppressive therapy within 1 year of treatment.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03829553",
+    "briefTitle": "Hypofractionated Irradiation At Regional Nodal Area for Breast Cancer Vs Existed Standard Treatment",
+    "officialTitle": "Hypofractionated Versus Conventional Intensity-Modulated Radiation Therapy for Breast Cancer Patients With an Indication for Regional Nodal Irradiation: A Randomized Multi-center Phase III Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 801,
+    "primaryOutcomeMeasure": "Locoregional recurrence (LRR)",
+    "eligibilityCriteria": "Inclusion criteria :\n\n* Age 18-75 years old\n* unilateral histologically confirmed invasive breast carcinoma of pT1-3\n* breast conservation surgery or mastectomy\n* Breast reconstruction is allowed\n* histologically confirmed positive axillary lymph nodes (positive sentinel lymph nodes without axillary dissection is allowed)\n* Life expectancy of \\>5 years\n* A minimum negative surgical margin width of \\>2mm\n* Karnofsky Performance Status \u226580\n* Estrogen-receptor, Progesterone-receptor, human epidermal growth factor receptor-2 (HER-2) and Ki67 index can be performed on the primary breast tumor or axillary nodes.\n* Written informed consent\n\nExclusion criteria:\n\n* Supraclavicular lymph nodes, positive ipsilateral internal mammary lymph nodes or residual axillary nodes that may be eligible for a boost dose.\n* Pregnant or lactating\n* Severe non-neoplastic medical comorbidities\n* Diagnosis of non-breast malignancy within 5 years preceding enrollment (except for basal cell carcinoma of the skin or carcinoma in situ of the cervix).\n* Simultaneous contralateral breast cancer\n* Previous RT to thoracic and/or axillary, cervical region\n* Active collagen vascular disease\n* Evidence of distant metastatic disease and/or T4 disease\n\nNotes for exlusion criteria:\n\n1. Patients with severe non-neoplastic medical comorbidities (e.g.,severe ischemic heart disease, severe arrhythmia or severe chronic obstructive pulmonary disease ) that would preclude radiation treatment will be excluded.\n2. Simultaneous contralateral breast cancer includes histologically confirmed DCIS only.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

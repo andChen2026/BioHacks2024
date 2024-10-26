@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00343863",
+    "briefTitle": "Dexamethasone and Ondansetron Hydrochloride or Palonosetron Hydrochloride in Preventing Nausea and Vomiting in Patients Receiving Doxorubicin Hydrochloride and Cyclophosphamide For Early Stage Breast Cancer",
+    "officialTitle": "Efficacy of Palonosetron in the Prevention of Acute and Delayed Chemotherapy-Induced Nausea and Vomiting Following Dose Dense Adriamycin-Cyclophosphamide Chemotherapy in Early Stage Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Male Breast Cancer, Nausea and Vomiting, Stage I Breast Cancer, Stage II Breast Cancer, Stage IIIA Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 41,
+    "primaryOutcomeMeasure": "Count of Patients Achieving a Complete Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have a histologically confirmed diagnosis of primary breast carcinoma\n* Patient must be naive to chemotherapy at the time of enrollment\n* Patients must have prescribed weekly intravenous adriamycin (doxorubicin) and daily oral cyclophosphamide treatment for early breast cancer\n* The patient must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines\n* Patients must have a Karnofsky index of greater than or equal to 50%\n* Known mild to moderate hepatic, renal or cardiovascular impairment may be enrolled at the discretion of the investigator\n\nExclusion Criteria:\n\n* Receipt of investigational drug within 30 days before study entry\n* Received any drug with potential anti-emetic effect within 24 hours prior to the start of study-designated chemotherapeutic agent (with the exception of administration of the palonosetron/dexamethasone infusion solution), including the following: 5-HT3 receptor antagonists; dopamine receptor antagonists (metoclopramide); phenothiazine anti-emetics (prochlorperazine, thiethylperazine and perphenazine); diphenhydramine, scopolamine, chlorpheniramine maleate, trimethobenzamide (diphenhydramine will be allowed if given for prophylactic treatment of hypersensitivity reactions associated with the administration of Taxanes); all benzodiazepines; haloperidol, droperidol, tetrahydrocannabinol, or nabilone; any systemic corticosteroid (hydrocortisone, methylprednisolone, prednisone) (topical or inhaled preparations are allowed)\n* Any vomiting, retching or NCI Common Toxicity Criteria version 3.0 grade 2-4 nausea in the 24 hours preceding chemotherapy\n* Ongoing vomiting from any organic etiology\n* Need to receive systemic corticosteroids, except: a) when defined as part of the chemotherapy regimen as a preventative measure for chemotherapy toxicities; b) topical or inhaled preparations; and/or c) when used as rescue medication during the study\n* Known contraindication to 5-HT3 receptor antagonists (including palonosetron) or dexamethasone\n* Need to receive radiotherapy during the study\n* Inability to understand or cooperate with study procedures",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

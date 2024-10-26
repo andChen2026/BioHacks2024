@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04182568",
+    "briefTitle": "Nab-paclitaxel Compared With Docetaxel Followed by Anthracyclines and Cyclophosphamide in the Neoadjuvant Breast Cancer",
+    "officialTitle": "Nab-paclitaxel Compared With Docetaxel Followed by Anthracyclines and Cyclophosphamide in the Neoadjuvant Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "RCB",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 1) age: 18-70 years old, female;\n\n  2) patients with primary breast cancer, T2 or above, diagnosed by histopathology;\n\n  3) HR was positive and HER-2 was negative by IHC;\n\n  4) according to the RECIST 1.1 standard, there should be at least one measurable objective focus with tumor diameter \\> 2cm;\n\n  5) ECoG physical fitness score 0-1;\n\n  6) LVEF\u226555%\uff1b\n\n  7) bone marrow function: neutrophil \u2265 1.5 \u00d7 109 / L, platelet \u2265 100 \u00d7 109 / L, hemoglobin \u2265 90g / L;\n\n  8) liver and kidney function: serum creatinine \u2264 1.5 times the upper limit of normal value; AST and alt \u2264 2.5 times the upper limit of normal value; total bilirubin \u2264 1.5 times the upper limit of normal value, or patients with Gilbert's syndrome \u2264 2.5 times the upper limit of normal value;\n\n  9) patients have good compliance with the planned treatment, can understand the research process of this study and sign the written informed consent\n\nExclusion Criteria:\n\n* 1) previously received cytotoxic chemotherapy, endocrine therapy, biological therapy or radiotherapy for any reason;\n\n  2) patients with stage IV metastasis at the initial diagnosis;\n\n  2) New York Heart Association (NYHA) rating of patients with heart disease above grade II (including grade II);\n\n  3) patients with serious systemic infection or other serious diseases;\n\n  4) patients who are known to be allergic or intolerant to chemotherapy drugs or their adjuvants;\n\n  5) in the past 5 years, there have been other malignant tumors, except the cured carcinoma in situ of cervix and skin cancer without melanoma;\n\n  6) pregnancy or lactation, as well as childbearing age patients who refuse to take appropriate contraceptive measures during the trial;\n\n  7) participated in other experimental studies within 30 days before the administration of the first study drug;\n\n  8) patients not suitable for the study were judged by the researchers.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

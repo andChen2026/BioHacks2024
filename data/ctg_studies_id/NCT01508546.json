@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01508546",
+    "briefTitle": "Conservative Surgery With or Without Axillary Lymphnode Removal in Treating Women With T1N0 Breast Cancer",
+    "officialTitle": "N/A",
+    "overallStatus": "COMPLETED",
+    "conditions": "Female Breast Neoplasms, Carcinoma, Ductal, Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 565,
+    "primaryOutcomeMeasure": "Difference in breast cancer mortality and overall survival between the two arms",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women with T1N0M0 invasive breast cancer\n* 18-65 years\n\nExclusion Criteria:\n\n* bilateral breast cancer\n* no other prior or concurrent malignancy except basal cell carcinoma",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

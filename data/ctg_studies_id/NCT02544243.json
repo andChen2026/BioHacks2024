@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02544243",
+    "briefTitle": "Vinorelbine/Gemcitabine Versus Vinorelbine/Cisplatin in Metastatic Breast Cancer",
+    "officialTitle": "Randomised, Multicenter Phase II Study in Patients With Metastatic Breast Cancer With Vinorelbine Plus Gemcitabine Versus Vinorelbine Plus Cisplatin",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Progression Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed metastatic breast cancer\n* All patients were required to give written informed consent\n* To have received a previous treatment with anthracyclines and taxanes\n* Previous radiotherapy is allowed, whenever the radiated area is not the only disease location\n* At least 4 weeks since the last previous antineoplastic treatment\n* Patients must have recovered from all previous toxicities\n* Karnofsky Performance status \\>= 70%\n* Adequate hematological, renal, cardiac and hepatic function\n* Life expectancy of at least 12 weeks\n* Patients able to comply and to receive an adequate follow-up\n\nExclusion Criteria:\n\n* Only bone metastases\n* Active infection\n* Previous treatment with one of the study drugs\n* Application of other cytotoxic chemotherapy\n* Insufficient renal function (creatinine clearance \\< 60ml/min)\n* Clinically unstable brain metastasis\n* Pregnancy or lactation\n* Other primary malignancies (other than carcinoma-in-situ of the cervix or adequately treated basal cell cancer of the skin)\n* Abnormal liver function (bilirubin \\> 2.0-fold upper normal limit (UNL); Alanine aminotransferase and aspartate aminotransferase \\>2.5-fold UNL). In patients with hepatic metastasis, a value of Alanine aminotransferase and aspartate aminotransferase of up to 5-fold UNL is permitted\n* Males\n* Second malignancy (except for cervix carcinoma in situ or skin carcinoma - no melanoma- with an adequate treatment). Previous malignancies are allowed if disease-free survival is superior to 5 years, except for renal carcinoma or melanoma",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

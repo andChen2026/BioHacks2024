@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01569087",
+    "briefTitle": "Dose-finding Study of Empegfilgrastim for Neutropenia Prophylaxis in Patients With Breast Cancer",
+    "officialTitle": "Randomized Multicenter Open-label Phase II Clinical Study Comparing the Efficacy and Safety of the Single Dose of Extimia\u00ae Versus Daily Filgrastim for Neutropenia Prophylaxis in Breast Cancer Patients Receiving Myelosuppressive Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Chemotherapy-induced Neutropenia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "CTCAE Grade 3/4 Neutropenia Incidence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent form;\n* Histologically verified diagnosis of stage IIb/III/IV breast cancer;\n* Age of 18-70 years inclusive;\n* If the patient had received the chemotherapy for breast cancer, it should be finished 30 days before the beginning of the study;\n* ECOG Performance Status of 0, 1 or 2, not increasing within during 2 weeks before randomization;\n* ANC level of 1500/\u03bcL and more at the beginning of the study\n* Platelet count of 100 000/\u03bcL and more at the beginning of the study\n* Hemoglobin level of 90 g/l and more\n* Creatinine level \\<1.5 mg/dl\n* Total bilirubin level \\<1.5 \u00d7 the upper limit of normal (ULN)\n* ALT and/or AST levels \\<2.5\u00d7ULN (5\u00d7ULN for patients with liver metastases);\n* Alkaline phosphatase \\<5\u00d7ULN;\n* Left ventricular ejection fraction \\>50% and more;\n* If the patient had received adjuvant and/or neoadjuvant therapy, the cumulative dose of anthracyclines should not exceed 500 mg/m2 for doxorubicin or 500 mg/m2 for epirubicin;\n* Ability of the participant to follow the protocol requirements, according to the Investigator's opinion;\n* Patients of childbearing potential must implement reliable contraceptive measures during the study treatment, starting 4 weeks prior randomization and for 6 months after the last administration of the study drug.\n\nExclusion Criteria:\n\n* Patient has received two or more chemotherapy regimens for the metastatic breast cancer;\n* Documented hypersensitivity to filgrastim, pegfilgrastim, docetaxel, doxorubicin, dexamethasone and/or its excipients, PEGylated drugs, recombinant proteins.\n* Pregnancy or breastfeeding;\n* Systemic antibiotic therapy within 72 h prior empegfilgrastim/filgrastim administration;\n* Concomitant radiotherapy (except selective radiotherapy of bone metastases);\n* Surgery, radiotherapy (except selective radiotherapy of bone metastases), administration of any experimental drugs within 30 days prior randomization;\n* History of bone marrow/stem cell transplantation;\n* Conditions limiting the patient's ability to follow the protocol;\n* CTCAE grade 2/4 neuropathy\n* HIV, HCV, HBV, T.Pallidum infection(s);\n* Acute or active chronic infections.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

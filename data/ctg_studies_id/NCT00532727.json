@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00532727",
+    "briefTitle": "Triple Negative Breast Cancer Trial",
+    "officialTitle": "Triple Negative Trial: A Randomised Phase III Trial of Carboplatin Compared to Docetaxel for Patients With Metastatic or Recurrent Locally Advanced ER-, PR- and HER2- Breast Cancer.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "Response: Response will be evaluated after three and six cycles of chemotherapy using modified Response Evaluation Criteria in Solid Tumours (RECIST) criteria, with appropriate clinical assessment and radiological investigations.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed ER-, PR-, primary breast cancer\n* Histologically confirmed HER2- primary breast cancer\n* Measurable confirmed metastatic or recurrent locally advanced disease unsuitable for local therapy but suitable for taxane chemotherapy\n* Patients with stable, treated bain metastases will be eligible providing informed consent can be given and that other sites of measurable disease are present.\n* Patients with bone metastases currently receiving bisphosphonates for palliation will be eligible providing informed consent can be given and that other sites of measurable disease are present\n* ECOG Performance Status 0, 1, or 2\n* Adequate haematology, biochemical indices (FBC, U \\& Es)\n* LFTs = Normal bilirubin, AST and/or ALT = 3 x ULN if Alk Phos \\>5 x ULN (or an isolated elevation AST/ALT of \u22645 x ULN\n* Adequate renal function - Creatinine clearance of \\>25mls per minute\n* Written informed consent, able to comply with treatment and follow up\n\nExclusion Criteria:\n\n* Original primary tumour or subsequent relapse known to be positive for any of ER, PR, or HER2 receptors\n* Patients unfit for chemotherapy or those with neuropathy \\>grade 1 (sensory or motor)\n* Known allergy to platinum compounds or to mannitol\n* Known sensitivity to taxanes\n* Patients with inoperable locally advanced disease suitable for local radiotherapy or an anthracycline containing regimen\n* Previous chemotherapy for metastatic disease other than an anthracycline as in inclusion criteria above\n* Previous exposure to a taxane in adjuvant chemotherapy within 12 months of trial entry\n* Previous treatment with a taxane for recurrent locally advanced disease\n* Previous treatment with a platinum chemotherapy drug\n* LFTs = Abnormal bilirubin (\\> ULN), AST and/or ALT \\>3 X ULN and Alk Phos \\>5 x ULN (or an isolated elevation AST/ALT of \\>5 x ULN)\n* Patients with a life expectancy of less than 3 months\n* Previous malignancies other than adequately treated in situ carcinoma of the uterine cervix or basal or squamous call carcinoma of the skin, unless there has been a disease free interval of at least 10 years\n* Previous or synchronous second breast cancer (unless also confirmed ER-, PR- and HER2-)\n* Patients with bone limited disease\n* Other serious uncontrolled medical conditions or concurrent medical illness likely to compromise life expectancy and/or the completion of trial therapy\n* Pregnant, lactating or potentially childbearing women not using adequate contraception",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

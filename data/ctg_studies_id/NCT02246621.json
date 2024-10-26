@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02246621",
+    "briefTitle": "A Study of Nonsteroidal Aromatase Inhibitors Plus Abemaciclib (LY2835219) in Postmenopausal Women With Breast Cancer",
+    "officialTitle": "A Randomized, Double-Blind, Placebo-Controlled, Phase 3 Study of Nonsteroidal Aromatase Inhibitors (Anastrozole or Letrozole) Plus LY2835219, a CDK4/6 Inhibitor, or Placebo in Postmenopausal Women With Hormone Receptor-Positive, HER2-Negative Locoregionally Recurrent or Metastatic Breast Cancer With No Prior Systemic Therapy in This Disease Setting",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 493,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Have a diagnosis of hormone receptor-positive (HR+), human epidermal growth factor receptor 2-negative (HER2-) breast cancer\n* Have locoregionally recurrent disease not amenable to resection or radiation therapy with curative intent or metastatic disease\n* Have postmenopausal status\n* Have either measurable disease or nonmeasurable bone-only disease\n* Have a performance status \u22641 on the Eastern Cooperative Oncology Group (ECOG) scale\n* Have adequate organ function\n* Have discontinued previous localized radiotherapy for palliative purposes or for lytic lesions at risk of fracture prior to randomization and recovered from the acute effects of therapy\n* Are able to swallow capsules\n\nExclusion Criteria:\n\n* Have visceral crisis, lymphangitic spread, or leptomeningeal carcinomatosis\n* Have inflammatory breast cancer\n* Have clinical evidence or a history of central nervous system (CNS) metastasis\n* Are currently receiving or have previously received endocrine therapy for locoregionally recurrent or metastatic breast cancer\n* Have received prior (neo)adjuvant endocrine therapy with a disease-free interval \u226412 months from completion of treatment\n* Are currently receiving or have previously received chemotherapy for locoregionally recurrent or metastatic breast cancer\n* Have received prior treatment with everolimus\n* Have received prior treatment with any cyclin-dependent kinase (CDK) 4/6 inhibitor (or participated in any CDK4/6 inhibitor clinical trial for which treatment assignment is still blinded)\n* Have initiated bisphosphonates or approved receptor activator of nuclear factor kappa-B ligand (RANK-L) targeted agents \\<7 days prior to randomization\n* Are currently receiving an investigational drug in a clinical trial or participating in any other type of medical research judged not to be scientifically or medically compatible with this study\n* Have received treatment with a drug that has not received regulatory approval for any indication within 14 or 21 days of randomization for a nonmyelosuppressive or myelosuppressive agent, respectively\n* Have had major surgery within 14 days prior to randomization",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02401685",
+    "briefTitle": "POSNOC - A Trial Looking at Axillary Treatment in Early Breast Cancer",
+    "officialTitle": "POSNOC - POsitive Sentinel NOde: Adjuvant Therapy Alone Versus Adjuvant Therapy Plus Clearance or Axillary Radiotherapy. A Randomised Controlled Trial of Axillary Treatment in Women With Early Stage Breast Cancer Who Have Metastases in One or Two Sentinel Nodes",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1900,
+    "primaryOutcomeMeasure": "Axillary recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Unifocal or multi-focal invasive tumour with lesion \u22645 cm in its largest dimension, measured pathologically or largest invasive tumour diameter on radiology should be used for women who are randomised intra-operatively or undergo sentinel node biopsy before neoadjuvant therapy (tumour size should be based only on the single largest tumour; do not add the sizes together from the multiple foci)\n* At sentinel node biopsy have 1 or 2 nodes with macrometastases (tumour deposit \\>2.0mm in largest dimension or defined as macrometastasis on molecular assay)\n* Fit for axillary treatment and adjuvant therapy\n* Have given written informed consent\n\nExclusion Criteria:\n\n* bilateral invasive breast cancer\n* more than 2 nodes with macrometastases\n* neoadjuvant therapy for breast cancer except:\n\n  * if sentinel node biopsy performed prior to neoadjuvant chemotherapy in women with early breast cancer\n  * short duration of neoadjuvant endocrine therapy is acceptable (up to 3 months)\n* previous axillary surgery on the same body side as the scheduled sentinel node biopsy\n* not receiving adjuvant systemic therapy\n* previous cancer less than 5 years previously or concomitant malignancy except:\n\n  * basal or squamous cell carcinoma of the skin\n  * in situ carcinoma of the cervix\n  * in situ melanoma\n  * contra- or ipsilateral in situ breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

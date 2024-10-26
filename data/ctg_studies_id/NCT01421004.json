@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01421004",
+    "briefTitle": "Bioequivalence of 2 Formulations of TKI258 in Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase I, Open-label, Multi-center, Randomized, Crossover Study to Assess the Bioequivalence of 2 Formulations of TKI258, FMI Capsule and FMI Tablet, in Patients With Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Solid Tumors, Excluding Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 166,
+    "primaryOutcomeMeasure": "Composite of Pharmacokinetics of TKI258, FMI capsule (supplied in 100 mg strength) and FMI tablet (supplied in 250 mg strength), in patients with advanced solid tumors, excluding breast cancer based on PK parameters AUClast and Cmax",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with a histopathologically or cytopathologically confirmed diagnosis of an advanced solid tumor, excluding breast cancer, who have progressed despite standard therapy, or for which no standard therapy exists\n2. ECOG performance status (PS) 0, 1 or 2\n3. Patients must meet protocol-specified laboratory values\n\nExclusion Criteria:\n\n1. Patients with brain metastases\n2. Patients who have concurrent severe and/or uncontrolled medical conditions which could compromise participation in the study\n3. Patients who have not recovered from previous anti-cancer therapies\n4. Patients who are expected to receive any prohibited medications during the bioequivalence phase of the study\n5. Female patients who are pregnant, breast feeding\n6. Fertile male or women of child-bearing potential not willing to use two highly effective methods of contraception\n\nOther protocol-defined inclusion/exclusion criteria may apply",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

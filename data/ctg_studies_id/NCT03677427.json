@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03677427",
+    "briefTitle": "Comparing 5 and 15 Fractions for Whole Breast Irradiation After Breast Conserving Surgery",
+    "officialTitle": "Randomized Trial Comparing 5 and 15 Fractions for Whole Breast Irradiation After Breast Conserving Surgery",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 488,
+    "primaryOutcomeMeasure": "radiation-induced breast retraction",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female patients with non-metastatic breast cancer,\n* age \u2265 18 years,\n* breast conserving surgery,\n* multidisciplinary decision of adjuvant breast irradiation,\n* informed consent obtained, signed and dated before specific protocol procedures\n\nExclusion Criteria:\n\n* lymph node metastases,\n* distant metastases,\n* bilateral breast irradiation,\n* history of previous radiation treatment to the same region\n* life expectancy of less than 2 years,\n* planned reconstructive surgery,\n* conditions making toxicity evaluation difficult (e.g. skin disorders),\n* inability to respect constraints on organs at risks\n* patients unlikely to comply with the protocol",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

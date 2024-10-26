@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06036563",
+    "briefTitle": "Prospective Screening and Differentiating Common Cancers Using Peripheral Blood Cell-Free DNA Sequencing",
+    "officialTitle": "A Multicenter Prospective Diagnostic Test: Screening and Differentiating Common Cancers (Cancers of Lung, Stomach, Colorectum, Esophagus, Liver, Breast and Pancreas) Based on Peripheral Blood Cell-Free DNA Sequencing",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cancer Diagnosis, LungCancer, Gastric Cancer, Liver Cancer, Colorectal Cancer, Esophagus Cancer, Breast Cancer, Pancreas Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 3200,
+    "primaryOutcomeMeasure": "diagnostic accuracy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. \\>20 and \\< 80 years old.\n2. Cancer group: Newly diagnosed cancer patients with a confirmed pathological diagnosis within 90 days before blood collection or within 30 days after blood collection, including lung cancer, esophageal cancer, breast cancer, stomach cancer, colorectal cancer, liver cancer, and pancreatic cancer.\n\nNon-cancer group: Individuals who have not been diagnosed with cancer during routine physical examinations and one-year follow-up.\n\nExclusion Criteria:\n\n1. Uncontrolled or active systemic diseases, such as autoimmune diseases, tuberculosis, AIDS, etc.\n2. New onset, recurrence, or exacerbation of various inflammations within 2 weeks before blood collection, or the presence of fever, use of corticosteroids.\n3. New onset or exacerbation of thromboembolic diseases, hemorrhagic diseases, or those who have received allogeneic blood transfusion within 1 month before blood collection.\n4. Any cancer treatment performed within the past 3 years.\n5. Individuals who have undergone organ or bone marrow transplantation.\n6. Participants during pregnancy or lactation.\n7. Individuals with malnutrition, severe mental illness, or genetic diseases.\n8. Other diseases or conditions deemed by the physician as unsuitable for participation in this study.\n9. Individuals who are unable to sign an informed consent form.",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

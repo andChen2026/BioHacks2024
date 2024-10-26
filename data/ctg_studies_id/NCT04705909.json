@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04705909",
+    "briefTitle": "Efficacy of Statin Addition to Neoadjuvant Chemotherapy Protocols for Breast Cancer",
+    "officialTitle": "Efficacy of Statin Addition to Neoadjuvant Chemotherapy Protocols for Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "clinical response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Provision of informed consent before any study-specific procedures.\n* Histologic confirmation of invasive breast cancer.\n* Plans for the administration of neoadjuvant chemotherapy.\n* Not currently pregnant during the study\n\nExclusion Criteria:\n\n* Severe gastrointestinal disorder\n* Current use of statins or fibrates for any time during the 3 months before the study\n* Proven hypersensitivity to statins\n* Currently on medication for hypercholesterolemia\n* Strong Cytochrome P450 3A4 (abbreviated CYP3A4) (e.g., clarithromycin, HIV protease inhibitors, and itraconazole), given potential interactions with statins\n* Renal impairment with a creatinine \\> 1.4 mg/dl\n* Hepatic impairment: Aspartate transaminase (AST)/(SGOT), Alanine Transaminase (ALT)/(SGPT) \u2265 2.5 x upper limit of the normal range (ULN), OR Total bilirubin \u2265 1.5 x ULN (subjects with Gilbert's syndrome can have bilirubin of up to 1.5 x ULN), OR Alkaline phosphatase \\> 2.5 x ULN\n* Central nervous system (CNS) diseases and major psychiatric diseases or inability to comply with the protocol procedures\n* Active infections\n* Cardiac failure, class I-IV\n* Current anticoagulant or antiplatelet aggregation therapy\n* Current lactation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

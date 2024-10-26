@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04033172",
+    "briefTitle": "Pyrotinib Plus Fulvestrant in Patients With HR+/HER2+ Metastatic Breast Cancer (Pyrotinib+Fulvestrant )",
+    "officialTitle": "Pyrotinib Plus Fulvestrant in Patients HR+/HER2+ Metastatic Breast Cancer : a Prospective, Single-arm, Single-center Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women aged 18-75 years old; HR positive and HER2 positive (immunohistochemistry or FISH test confirmed).\n2. ECOG score \u2264 2, expected survival \u2265 3 months.\n3. Histology or cytology confirmed as breast cancer.\n4. Prior to trastuzumab and endocrine therapy and progression/recurrence.\n5. At least one RECIST 1.1 defined measurable lesions.\n6. Normal function of major organs.\n\nExclusion Criteria:\n\n1. pregnant or lactating women\n2. Patients who have relapsed or progressed within 12 months of end of adjuvant or neoadjuvant therapy, including chemotherapy, target therapy (eg lapatinib\uff0c trastuzumab), or other anti-tumor therapy. Except for endocrine therapy.\n3. Severe chronic gastrointestinal diseases with diarrhea as the main symptom (such as Crohn's disease, malabsorption, or \u22652 grade diarrhea caused by any cause at baseline).\n4. Rapid progress of organ invasion (such as liver and lung disease greater than 1/2 organ area or liver dysfunction, etc.)\n5. Patients with central nervous system disorders or mental disorders\n6. Bone metastasis lesions only, no other measurable lesions.\n7. Hypertension (systolic blood pressure \\> 180 mmHg or diastolic blood pressure \\> 100 mmHg) without ideal control.\n8. Uncontrolled heart disease.\n9. Have congenital long or short QT syndrome or have a family history or personal history of Brugada syndrome.\n10. Uncontrolled rain metastasis.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

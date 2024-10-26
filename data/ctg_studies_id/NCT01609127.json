@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01609127",
+    "briefTitle": "Tesetaxel Every 3 Weeks vs Weekly vs Capecitabine as 1st-line Therapy for Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "A Randomized, Phase II Study of Tesetaxel Once Every 3 Weeks Versus Tesetaxel Once Weekly for 3 Weeks Versus Capecitabine Twice Daily for 14 Days as First-line Therapy for Subjects With Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Locally Advanced Non-resectable Breast Cancer, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 213,
+    "primaryOutcomeMeasure": "Response rate",
+    "eligibilityCriteria": "Key inclusion criteria:\n\n1. Female\n2. At least 18 years of age\n3. Locally advanced non-resectable or metastatic breast cancer\n4. HER2 negative disease\n5. Measurable disease per revised RECIST, Version 1.1\n6. Eastern Cooperative Oncology Group performance status 0 or 1\n7. Chemotherapy na\u00efve, OR 1 prior chemotherapy regimen in the neoadjuvant or adjuvant setting provided the patient has had a disease-free interval of \u2265 12 months after ending this chemotherapy. If the neoadjuvant or adjuvant chemotherapy included a taxane, \u2265 2 years must have passed since this treatment ended.\n8. Documented disease recurrence or progression\n9. Adequate bone marrow, hepatic, and renal function\n10. Ability to swallow an oral solid-dosage form of medication\n11. Written informed consent\n\nKey exclusion criteria:\n\n1. Known metastasis to the central nervous system\n2. Other cancer within the preceding 5 years other than curatively treated basal or squamous cell carcinoma of the skin or carcinoma of the cervix in situ\n3. Significant medical disease other than breast cancer\n4. Presence of neuropathy \\> Grade 1 (NCI CTC)\n5. History of hypersensitivity to a taxane or capecitabine, other fluoropyrimidine agents, or any of their ingredients\n6. History of severe or unexpected reaction to fluoropyrimidine therapy\n7. Need to continue any regularly-taken medication that is a potent inhibitor or inducer of the CYP3A pathway\n8. Less than 2 weeks since use of a medication or ingestion of an agent, beverage, or food that is a potent inhibitor or inducer of the CYP3A pathway\n9. Known dihydropyrimidine dehydrogenase deficiency\n10. Pregnancy or lactation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00247442",
+    "briefTitle": "Australian Screening Mammography Decision Aid Trial (ASMDAT)",
+    "officialTitle": "An Evaluation of a Decision Aid for Women Aged Over 70 Considering Whether to Stop or Continue Having Mammography Screening.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "ECT",
+    "enrollmentCount": 670,
+    "primaryOutcomeMeasure": "Informed choice",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women who are due their FIRST screening mammogram over the age of 70, and who have previously participated in screening mammography at BreastScreen NSW.\n\nExclusion Criteria:\n\n* Inability to complete a telephone interview in English.\n* Personal history of breast cancer (invasive and pre-invasive).",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

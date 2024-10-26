@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02616744",
+    "briefTitle": "Study of Oral Bisphosphonate for Osteopenic Women Treated With Adjuvant Aromatase Inhibitors",
+    "officialTitle": "A Single--blind, Randomized, Placebo--controlled Phase II Study to Evaluate the Impact of Oral Bisphosphonate Treatment on Bone Mineral Density in Osteopenic Women Receiving Adjuvant Aromatase Inhibitors - BONADIUV Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 171,
+    "primaryOutcomeMeasure": "Lumbar spine and trochanter T-score mean difference as measure of BMD variation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of hormone-receptor positive early breast cancer\n* Menopausal status\n* Age \\< 75 years\n* Written informed consent\n\nExclusion Criteria:\n\n* Premenopausal status at time of randomization\n* Comorbidities with increased risk of osteoporosis (primary hyperparathyroidism, hyperthyroidism, rheumatoid arthritis)\n* BMI \\< 18\n* Chronic use of steroids\n* Use of bisphosphonates at time of randomization\n* Psychiatric disorders",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

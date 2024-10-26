@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04818931",
+    "briefTitle": "Does a Preoperative Prophylactic Antibiotic Reduce Surgical Site Infection Following Wire-localized Lumpectomy",
+    "officialTitle": "Does a Preoperative Prophylactic Antibiotic Reduce Surgical Site Infection Following Wire-localized Lumpectomy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 326,
+    "primaryOutcomeMeasure": "Number of participants with surgical site infection in each group",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \\>18 years of age\n* female\n* scheduled for a wire-localized lumpectomy\n\nExclusion Criteria:\n\n* pregnant or breastfeeding women\n* incapacity to give informed consent\n* preoperative breast infection\n* patients known to be colonized with MRSA\n* immunocompromised patients\n* preoperative antibiotic prophylaxis needed for any concomitant condition.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

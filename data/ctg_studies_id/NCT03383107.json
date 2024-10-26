@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03383107",
+    "briefTitle": "Effect of Radiotherapy Variables on Circulating Effectors of Immune Response and Local Microbiome",
+    "officialTitle": "Effect of Radiotherapy Variables on Circulating Effectors of Immune Response and Local Microbiome",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Prostate Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 66,
+    "primaryOutcomeMeasure": "prospectively collecting blood specimens to assess peripheral immune mediatiors in 4 distinct clinical settings",
+    "eligibilityCriteria": "Cohort 1a and b: Prostate cancer subjects undergoing 9 week radiation\n\nInclusion criteria:\n\n* Biopsy-proven diagnosis of prostate adenocarcinoma\n* Age \u2265 18\n\nExclusion criteria:\n\n* History of prior pelvic radiation (external beam or brachytherapy)\n* Prior or concurrent lymphomatous/hematogenous malignancy, or history of prior/concurrent invasive malignancy during the past 5 years\n* History of hormone therapy such as LHRH agonists (gosrelin, leuprolide), anti-androgens (flutamide, bicalutamide), surgical castration (orchiectomy)\n* History of irritable bowel disease\n* Evidence of lymph node involvement or metastatic disease\n\nCohort 2a : Breast cancer subjects undergoing standard fractionation RT of 5 weeks\n\nInclusion criteria:\n\n* Biopsy-proven diagnosis of invasive breast cancer, s/p breast surgery to negative margins, and requiring adjuvant breast and nodal RT\n* Age \u2265 18\n\nExclusion criteria:\n\n* History of prior radiation therapy to the ipsilateral breast\n* Prior or concurrent lymphomatous/hematogenous malignancy, or history of prior/concurrent invasive malignancy during the past 5 years\n* \\< 1 month from completion of chemotherapy to start of RT\n* Evidence of metastatic disease\n\nCohort 2b: Breast cancer subjects undergoing PBI\n\nInclusion criteria:\n\n* Post-menopausal women defined as either 1) at least 2 years without menstrual period or 2) or patients older than 50 with serological evidence of post-menopausal status or 3) hysterectomized patients of any age with FSH confirmation of post-menopausal status.\n* Post-segmental mastectomy with negative margins\n* If bilateral, pT1 breast cancer, excised with negative margins AND/OR\n* pTis excised with negative margins\n* Clinically N0 or pN0 or sentinel node negative\n* Diagnosis of ductal carcinoma in situ DCIS, limited to \\<2cm size of DCIS and to lesions of low or intermediate grade, excised (or re-excised) with final negative margins ( no DCIS on inked margins).\n* Age \u2265 18\n\nExclusion criteria:\n\n* History of prior radiation therapy to the ipsilateral breast\n* Presence of a proportion of DCIS in the core biopsy specimen which is compatible with extensive intraductal component (EIC).\n* \\< 1 month from completion of chemotherapy to start of RT\n* Evidence of metastatic disease",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

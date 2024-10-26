@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06363812",
+    "briefTitle": "Probability of OncotypeDx to Reallocate as Low or High Risk of Recurrence Breast Cancer Patients With Uncertain Biology",
+    "officialTitle": "Prospective Study Evaluating the Probability of OncotypeDx to Allocate at Low or High Risk of Recurrence Early ER Positive HER2 Negative Breast Cancer Patients With Uncertain Biological Behavior Evaluated by Pathological Parameters",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 258,
+    "primaryOutcomeMeasure": "the proportion of tumor samples with a useful OncotypeDx",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological diagnosis of infiltrating ductal or lobular ER+ HER2- early breast cancer adequately treated with surgery\n* Nodal status: no regional lymph node metastasis (pN0) or micrometastatic regional lymph node (pN1mic)\n* Uncertain biological behavior defined by all of the following parameters: ER \\>20% and progesterone receptor (PgR) \\>20% and Ki67 between 14% and 30% and G2\n* Written informed consent\n\nExclusion Criteria:\n\n* pathologic tumor stage (pT) \\> 5 cm (not applicable to the internal control group)\n* Prior neoadjuvant therapy\n* Evidence of metastatic disease\n* No axillary exploration (sentinel lymph node biopsy or axillary dissection)\n* Multifocal or multicentral or bilateral tumors",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

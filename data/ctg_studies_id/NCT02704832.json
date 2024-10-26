@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02704832",
+    "briefTitle": "Role of Geriatric Intervention in Treatment of Older Patients With Cancer (PREPARE)",
+    "officialTitle": "Role of Geriatric Intervention in Treatment of Older Patients With Cancer : a Phase III Randomized Study (PREPARE)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Colorectal Cancer, Lung Cancer, Prostate Cancer, Bladder Cancer, Ovarian Cancer, Lymphoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 1500,
+    "primaryOutcomeMeasure": "Overall survival defined as the delay between randomization and death, all causes.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patient older 70 years and older\n2. Performance status 0 to 3 (WHO)\n3. G8 and QLQ-C30 questionnaires 'score are available\n4. No previous geriatric evaluation during cancer treatment\n5. Locally advanced or metastatic disease :\n\n   1. 1st line medical treatment :\n\n      * Breast cancer : locally advanced or metastatic disease, hormone-resistant and Her2 negative,\n      * Colon and rectum : metastatic (unresectable metastasis),\n      * Prostate cancer : metastatic and refractory to hormonal castration,\n      * Bladder cancer : locally advanced or metastatic,\n      * Ovarian cancer : advanced stage (IIb to IV),\n      * Lung cancer : metastatic non-small cell,\n      * Lymphomas (indolent and aggressive)\n   2. Or 2nd line medical treatment :\n\n      * Breast cancer : locally advanced or metastatic disease, hormone-resistant and Her2 negative,\n      * Colon and rectum : metastatic (unresectable metastasis),\n      * Prostate cancer : metastatic and refractory to hormonal castration,\n      * Ovarian cancer : advanced stage (IIb to IV),\n      * Lymphomas (indolent and aggressive)\n6. Life expectancy over 6 months\n7. Signed informed consent\n8. Patients with a French social security in compliance with the French law relating to biomedical research (Article L.1121-11 of French Public Health Code).\n\nExclusion Criteria:\n\n1. Patient who already received 2 medical treatment lines\n2. Exclusive 1st or 2nd treatment lines of :\n\n   * Hormonotherapy (except for prostate cancer : abiteratone acetate is allowed),\n   * Surgery,\n   * Radiotherapy,\n3. \"Best supportive care\" treatment\n4. Patient unable to understand quality of life questionnaire\n5. Patient unable to follow and comply with the study procedures because of any geographical, social or psychological reasons.\n6. Patient placed under guardianship\n7. Planned concomitant participation to another medical interventional trial during the 12 months following the inclusion in the randomized study PREPARE\n8. Previous enrolment in the present study",
+    "sex": "ALL",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

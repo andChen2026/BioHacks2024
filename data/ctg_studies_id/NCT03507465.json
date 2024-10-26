@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03507465",
+    "briefTitle": "Letrozole Plus Low-Dose Metronomic Capecitabine Versus EC-T (Epirubicin/Cyclophosphamide Followed by Docetaxel) as Neoadjuvant Therapy for ER+/HER2-negative Breast Cancer",
+    "officialTitle": "Letrozole Plus Low-Dose Metronomic Capecitabine Versus EC-T (Epirubicin/Cyclophosphamide Followed by Docetaxel) as Neoadjuvant Therapy for ER+/HER2-negative Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 290,
+    "primaryOutcomeMeasure": "objective response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n-women (age 18-70 years) with clinical T2-3 N0-1 M0 ER-positive (ER) allred score 4-8\uff0cand progesterone receptor-positive (PgR) \uff0cHER2-negative adequate bone marrow reserve (WBC count, 3.5 \\*109/L; platelets, 100\\*109/L; hemoglobin, 10g/dL), hepatic function (AST/ALT bilirubin and alkaline phosphatase levels 1.25 the upper limit of normal value), and renal function (serum creatinine 1.25 the upper limit of normal value).\n\nLuminal A/ lymph node positive breast cancer or Luminal B breast cancer patients\n\nExclusion Criteria:\n\n* (a) male patients; (b) patients with inflammatory breast cancer or distant metastasis; (c) patients who were previously treated with chemotherapy, radiation therapy or prior treatment with AIs or antiestrogens for breast cancer; (d) patients with a second concomitant neoplasm; and (e) patients who could not meet the eligibility criteria.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

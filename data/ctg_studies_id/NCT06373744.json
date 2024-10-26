@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06373744",
+    "briefTitle": "Metronomic Chemotherapy in a Real-world Population of Advanced Breast Cancer Patients",
+    "officialTitle": "Metronomic Chemotherapy in a Real-world Population of Advanced Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 597,
+    "primaryOutcomeMeasure": "Progression free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Females, \\>18 years old;\n2. Diagnosed with advanced breast cancer when using metronomic chemotherapy;\n3. At least one clinical evaluation, including physical examination and imaging, according to the instructions of the supervising physician during the use of metronomic chemotherapy. Examinations include ultrasound, computed tomography, and magnetic resonance imaging;\n4. Metronomic chemotherapy can be used alone, and patients who use it in combination with other drugs can also be included;\n5. The clinical pathological information that needs to be collected is complete.\n\nExclusion Criteria:\n\n1. Taking the drug for less than 2 weeks;\n2. losing follow-up after taking the therapy;\n3. The patient's breast cancer was still in the early stage when taking the therapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

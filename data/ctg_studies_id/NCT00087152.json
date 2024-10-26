@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00087152",
+    "briefTitle": "S0338, Imatinib Mesylate and Capecitabine in Treating Women With Progressive Stage IV Breast Cancer",
+    "officialTitle": "Phase II Trial Of Imatinib Mesylate (Gleevec\u00ae) (NSC-716051) In Combination With Capecitabine (Xeloda\u00ae) (NSC-712807) In Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 27,
+    "primaryOutcomeMeasure": "Confirmed Response Rate (Complete and Partial)",
+    "eligibilityCriteria": "* Histologically or cytologically confirmed adenocarcinoma of the breast\n* Stage IV measurable disease\n* Disease progression after at least 1, but no more than 2, prior chemotherapy regimens for metastatic disease\n* Patients with hormone-sensitive tumors must have received prior hormonal therapy\n* Patients with human epidermal growth factor receptor 2 (HER2)/neu-overexpressing tumors (3+ by immunohistochemistry or amplified by fluorescent in situ hybridization) should have received trastuzumab (Herceptin\u00ae) in the adjuvant or metastatic setting (unless contraindicated)\n* No clinical evidence of or known brain or central nervous system (CNS) disease\n* Hormone Receptor status known\n* Female age 18 and over\n* Performance status Zubrod 0-2\n* Absolute neutrophil count \\> 1,500/mm\\^3\n* Leukocyte count \\> 3,000/mm\\^3\n* Platelet count \\> 100,000/mm\\^3\n* Bilirubin normal\n* aspartate aminotransferase (AST) / alanine aminotransferase (ALT) \\< 2.5 times upper limit of normal\n* Creatinine normal OR Creatinine clearance \\> 60 mL/min\n* Not pregnant or nursing\n* Fertile patients must use effective contraception during and for 3 months after study participation\n* No history of severe hypersensitivity reaction to compounds of similar chemical or biological composition to imatinib mesylate, capecitabine, or fluorouracil\n* No other malignancy within the past 5 years except adequately treated basal cell or squamous cell skin cancer or carcinoma in situ of the cervix\n* No prior biologic therapy (e.g., vaccines)\n* No concurrent filgrastim (G-CSF) for chemotherapy-induced neutropenia\n* No prior capecitabine or fluorouracil for metastatic breast cancer\n* Prior hormonal therapy allowed\n* More than 4 weeks since prior radiotherapy - Previously irradiated area(s) must not be the only site of disease\n* More than 4 weeks since prior major surgery\n* More than 4 weeks since prior therapy for breast cancer\n* No concurrent combination antiretroviral therapy for HIV-positive patients\n* No other concurrent investigational or commercial agents or therapies for metastatic breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

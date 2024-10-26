@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06469606",
+    "briefTitle": "Study on Female Patients' Mammographic Texture Features",
+    "officialTitle": "A Cohort Study on feMale Patients' mammogRaphic texturE featureS: the COMPRESS Trial",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer, Artificial Intelligence, Mammography",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Mammographic texture features",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Candidate is a biological female aged 18 years or above;\n* Candidate is willing and able to give informed consent and gives their written consent for the participation in the study;\n* There is a clinical indication for a uni- or bilateral mastectomy\n\nExclusion Criteria:\n\n* Candidate lacks the capacity to provide informed consent;\n* Candidate has breast implants",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

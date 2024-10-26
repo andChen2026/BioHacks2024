@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01275859",
+    "briefTitle": "Neoadjuvant Combined Endocrine and HER2 Target Therapy in Postmenopausal Women With ER and Her2 Positive Breast Cancer",
+    "officialTitle": "Neoadjuvant Letrozole and Lapatinib in Postmenopausal Women With ER and Her2 Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "pCR",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent\n* Female patients\n* Histologically confirmed invasive breast cancer\n* Primary tumor greater than 2cm diameter, measured by sonography\n* N0-3 (any N if resectable) and no evidence of distant metastasis (M) (isolated supraclavicular node involvement allowed)\n* ER positive (intermediate and strong positive)\n* HER2 positive (IHC3+ or FISH positive in case of IHC 2+)\n* No evidence of metastasis (M0)\n* No prior hormonal, chemotherapy or radiotherapy is allowed\n* No breast operation other than biopsy to make diagnosis is allowed\n* Postmenopausal women with ECOG Performance Status of 0 or 1\n* Postmenopausal, as defined by any of the following:\n* At least 55 years of age\n* Under 55 years of age and amenorrheic for at least 12 months OR follicle-stimulating hormone (FSH) values \u2265 30 IU/L and estradiol levels \u2264 20 IU/L\n* Prior bilateral oophorectomy or prior radiation castration with amenorrhea for at least 6 months\n* Adequate hematopoietic, renal, hepatic function:\n\nExclusion Criteria:\n\n* Patients who received hormonal, chemotherapy or radiotherapy for breast cancer\n* Patients who underwent surgery for breast cancer\n* Patients with bilateral invasive breast cancer\n* Patients with inflammatory breast cancer (T4d)\n* Patients without primary tumor (T0) Inability to perform \\[18F\\]FES PET imaging due to physical inability, claustrophobia, or other mental illness.\n* ER poor disease as defined locally (e.g: Allred score 1-3, H-score\\<100)\n* Patients who have history of cancer other than in situ uterine cervix cancer or non-melanotic skin cancer\n* Chronic daily treatment with aspirin (\\>325mg/day) or clopidogrel (\\>75mg/day)\n* Chronic daily treatment with corticosteroids (dose of \\>10mg /day ethylprednisolone equivalent)\n* Clinically significant cardiovascular disease: CVA/stroke (\\<6month prior to enroll), MI (\\<6month prior to enroll), unstable angina, NYHA Grade II or greater congestive heart failure, or serious cardiac arrhythmia requiring medication.\n* Hormone replacement therapy within 4 weeks of starting treatment\n* Known hypersensitivity to any of the study drugs including ditosylate monohydrate salt\n* Pregnant or nursing mother (if applicable)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

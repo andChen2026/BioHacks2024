@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04257799",
+    "briefTitle": "Lumpectomy Specimen Margin Evaluation With Tomography and Structured Light Imaging",
+    "officialTitle": "Lumpectomy Specimen Margin Evaluation With Tomography and Structured Light Imaging",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Sensitivity and Specificity of 3D tomography-SLI as measured by concurrence with standard of care 2-D mammography",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Females 18 years of age or older.\n2. Histologic diagnosis of invasive breast cancer based on pre-surgical core biopsy.\n3. Scheduled for breast conserving surgery in the Dartmouth-Hitchcock (DH) Outpatient Surgical Center\n4. Ability to give an informed consent.\n\nExclusion Criteria:\n\n1. Patients who will have an expected specimen size greater than the specimen holder (i.e. \\> 10 X 10 X 5 cm).\n2. Prisoners and cognitively impaired adults.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

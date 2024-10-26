@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01111175",
+    "briefTitle": "Triple Negative Breast Cancer Biomarker Study",
+    "officialTitle": "Triple Negative Breast Cancer Biomarker Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer, Triple Negative Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 14,
+    "primaryOutcomeMeasure": "Time-to-progression (TTP)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Has metastatic or locally recurrent triple negative breast cancer and is scheduled for medically indicated surgical biopsy or resection of disease\n* Will have measurable or evaluable (nonmeasurable) disease per RECIST v 1.1 (see Section 10) present after surgical biopsy/resection. Note: following surgical resection, if the tumor sample is found to be inadequate for comprehensive molecular analysis, the patient will be deemed ineligible and will be replaced.\n* Has received at least 1 prior chemotherapeutic regimen for their metastatic or locally recurrent TNBC prior to initiating the molecularly-selected therapy. There is no limit on the prior therapy for TNBC. Note: We strongly recommend holding of on intervening therapy if possible from the time of biopsy to the completion of sequencing so as not to change the cancer under the selective pressure of treatment, so that the sequencing results are reflective of the current cancer.\n* Is at least 18 years of age\n* Has an expected survival of at least 6 months, as estimated by the treating oncologist\n* Has planned surgical resection (indicated for the medical care of the patient) that will yield a minimum fresh/frozen tumor sample of 1 cm x 1 cm x 1 cm (\\~300 mg) that will be available for molecular profiling analysis.\n* Is agreeable to having a blood sample (10-20 mL) drawn and analyzed to compare their normal genetic profile to that of their tumor sample\n* Has signed the most recent Patient Informed Consent Form\n* Has signed a Patient Authorization Form\n\nExclusion Criteria:\n\n* Has breast cancer other than metastatic or locally recurrent TNBC. Note: surgical resection of the recurrent TNBC will render the patient as \"no evidence of disease\" (NED). NED patients are ineligible and will be replaced.\n* Has a history of heart disease, other conditions that would prevent treatment with a standard chemotherapeutic agent\n* Has evidence of central nervous system (CNS) involvement that is progressing or that requires radiation, resection or steroid therapy\n* Has a serious uncontrolled intercurrent medical or psychiatric illness, including serious infection\n* Is a pregnant or nursing woman\n* Is unable to comply with requirements of study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

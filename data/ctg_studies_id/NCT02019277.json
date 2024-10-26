@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02019277",
+    "briefTitle": "A Study of Pertuzumab and Trastuzumab Subcutaneous (SC) Treatment in Combination With a Taxane in Participants With Human Epidermal Growth Factor Receptor 2 (HER2)-Positive Metastatic Breast Cancer",
+    "officialTitle": "An Open-label, Multicentre, Phase IIIb Study With Intravenous Administration of Pertuzumab, Subcutaneous Trastuzumab, and a Taxane in Patients With HER2-positive Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Percentage of Participants With Adverse Events (AEs) and Serious AEs",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* HER2-positive disease, with an immunohistochemistry score of 3+ or in situ hybridization (ISH)-positive on primary tumor or metastatic site\n* Histologically or cytologically confirmed adenocarcinoma of the breast with metastatic disease with at least one measurable lesion and/or non-measurable disease according to RECIST Version 1.1\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2 for participants who will receive paclitaxel or nab-paclitaxel chemotherapy and ECOG 0-1 for participants who will receive docetaxel chemotherapy\n* LVEF of greater than or equal to (\\>=) 50 percent (%) measured by ECHO or MUGA scan before the first doses of pertuzumab and trastuzumab\n* Previous use of either adjuvant or neoadjuvant anti-HER2 therapy is allowed\n* Hormonal therapy will be allowed as per institutional guidelines. Hormonal therapy cannot be administered in combination with taxane therapy\n\nExclusion Criteria:\n\n* Previous systemic non-hormonal anticancer therapy for treatment of mBC\n* History of other cancers. Participants with curatively treated carcinoma in situ of the cervix or basal cell carcinoma and participants with other curatively-treated cancers who have been disease-free for at least 5 years are eligible. Participants with previous ductal carcinoma in situ (DCIS) of the breast are also eligible for the study\n* Pregnant or breastfeeding women. Positive serum pregnancy test in women of childbearing potential, premenopausal or less than 12 months of amenorrhea post-menopause, within 7 days before the first dose of pertuzumab and trastuzumab\n* Current peripheral neuropathy of Grade 3 or greater (National Cancer Institute Common Terminology Criteria for Adverse Events \\[NCI CTCAE\\] Version 4.0)\n* Radiographic evidence of central nervous system (CNS) metastases as assessed by computed tomography (CT) or magnetic resonance imaging (MRI), unless they have been treated and have been stable for at least 3 months and do not require ongoing corticosteroid treatment\n* Participants with other concurrent serious diseases that may interfere with planned treatment, including severe pulmonary conditions/illness\n* Inadequate organ function\n* Serious cardiac illness or medical conditions that would preclude the use of trastuzumab\n* Participants with severe dyspnea at rest or requiring supplementary oxygen therapy\n* Concurrent enrollment in another clinical study using an investigational anti-cancer treatment, within 28 days before the first doses of trastuzumab and pertuzumab",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

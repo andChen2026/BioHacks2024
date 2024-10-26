@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05101564",
+    "briefTitle": "Umbrella Trial Testing Integrative Subtype Targeted Therapeutics in Estrogen Receptor Positive, HER2-Negative Breast Cancer",
+    "officialTitle": "An Umbrella, Randomized, Controlled, Pre Operative Trial Testing Integrative Subtype Targeted Therapeutics in Estrogen Receptor Positive, HER2-Negative Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, HER2-negative Breast Cancer, ER Positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 19,
+    "primaryOutcomeMeasure": "Percentage change in Ki67",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pre-Screening Phase\n* Biopsy-proven ER-positive, HER2-negative breast cancer. ER-positivity and PR-positivity are defined as \u22651% cells staining positive by immunohistochemistry. HER2-negativity is defined by IHC or FISH, per ASCO-CAP 2018 guidelines. Breast tumor must be intact and tumor size must be \u2265 1 cm as measured by ultrasound, mammogram, MRI, or clinical exam. If tumor is locally recurrent, it must be in the breast (not skin, node, or chest wall recurrence). Ki67 may or may not have been done locally but if done locally, must be \u2265 5%. Any nodal status is allowed, as M0 or M1 disease.\n* Women or men, age \u2265 18 years old.\n* Performance status 0 to 1 (by Eastern Cooperative Oncology Group \\[ECOG\\] scale).\n* Ability to understand and the willingness to sign a written informed consent document.\n\nTreatment Phase\n\n* Breast tumor classifies as relevant integrative subtype per tumor sequencing performed and analyzed by central laboratory.\n* Breast tumor Ki67 score \u2265 10% as assessed by central laboratory.\n* Each investigational agent specific inclusion criteria can be found in the agent-specific appendix\n\nExclusion Criteria:\n\n* Pregnant woman, as confirmed by positive serum hCG test prior to initiating study treatment. Nursing (lactating) woman also not allowed.\n* Prior breast cancer-directed therapy (surgery, radiation, chemotherapy, or endocrine therapy) is not allowed, with the exception of people with in-breast recurrences. People with in-breast recurrences cannot have had breast cancer-directed therapy (radiation, chemotherapy, or endocrine therapy; surgery is acceptable) within the 6 months prior to signing the pre-screening consent. Pre-endocrine therapy for breast cancer risk reduction is allowed.\n* Known hypersensitivity to study agent (IP) or standard endocrine therapy drug, or to any of the excipients of study agent (IP) or standard endocrine therapy drug.\n* Each study agent specific exclusion criteria can be found in the agent-specific appendix",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

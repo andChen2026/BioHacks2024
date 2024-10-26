@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04270032",
+    "briefTitle": "Using Deep Learning Methods to Analyze Automated Breast Ultrasound and Hand-held Ultrasound Images, to Establish a Diagnosis, Therapy Assessment and Prognosis Prediction Model of Breast Cancer.",
+    "officialTitle": "To Build and Evaluate a Precise Diagnosis, Therapy Assessment and Prognosis Prediction Model of Breast Cancer Based on Artificial Intelligence",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 10000,
+    "primaryOutcomeMeasure": "sensitivity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patients over 18 years old who come to the two centers for physical examination or treatment;\n2. Complete basic information and image data\n\nExclusion Criteria:\n\n1. There is no complete ABUS and HHUS images data;\n2. The image quality is poor;\n3. In multifocal breast cancer, the correlation between the tumor in the image and the postoperative pathological examination is uncertain.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

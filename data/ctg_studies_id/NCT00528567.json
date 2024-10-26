@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00528567",
+    "briefTitle": "BEATRICE Study: A Study of Bevacizumab (Avastin) Adjuvant Therapy in Triple Negative Breast Cancer",
+    "officialTitle": "An International Multi-centre Open-label 2-arm Phase III Trial of Adjuvant Bevacizumab in \"Triple Negative\" Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2591,
+    "primaryOutcomeMeasure": "Time to Invasive Disease-free Survival (IDFS) Event",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* adult patients, \\>=18 years of age;\n* operable primary invasive breast cancer;\n* completed definitive loco-regional surgery;\n* primary tumor centrally confirmed as triple negative.\n\nExclusion Criteria:\n\n* locally advanced breast cancers;\n* previous breast cancer history;\n* clinically significant cardiovascular disease.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

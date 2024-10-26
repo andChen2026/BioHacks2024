@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00716482",
+    "briefTitle": "Ultrasound Elastography of Breast Lesions",
+    "officialTitle": "Assessment of the Clinical Value of SuperSonic Shear Wave Elastography in the Ultrasonic Evaluation of Breast Lesions",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1681,
+    "primaryOutcomeMeasure": "Estimates of Effect of Selectively Upgrading BIRADS Category 3 and Downgrading BIRADS 4a Masses Based on SWE Features. Overall Specificity and Sensitivity of BI-RADS Score Using Conventional B-mode Ultrasound vs. B-mode + Certain SWE Characteristics",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* patients who have been referred to a breast ultrasound because of a positive physical palpation and/or positive mammograms and/or positive ultrasound and/or positive MRI.\n* female\n* age 21 or older\n* provide informed consent\n\nExclusion Criteria:\n\n* Women who are unwilling or unable to provide informed consent\n* Women with breast implants\n* Women with superficial lesions or lesions on skin (with the most superficial surface of the lesion within 5 mm of the skin surface)\n* Women who are pregnant or breastfeeding\n* Women who are undergoing chemotherapy or radiotherapy for any cancer\n* Women with previous breast conserving surgery on the breast of interest Note: Previous excision of a benign lesion 4 cm or more away from the suspected lesion does not constitute an exclusion criterion.",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

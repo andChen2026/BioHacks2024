@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02365831",
+    "briefTitle": "Observation of Medical Treatments in MBC HER2-negative Patients",
+    "officialTitle": "Evaluation of Medical Treatments in MBC HER2 Negative Patients in Italy - Observational Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1500,
+    "primaryOutcomeMeasure": "Number subsequent lines of treatment.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with HER2-negative metastatic breast cancer (Stage IV), that have received or not the endocrine therapy for the metastatic disease and that are candidate for the first-line chemotherapy treatment in the years 2014-2015 (prospective cohort), or patients that have received a treatment of first, second or subsequent-line of chemotherapy for the metastatic disease in the years 2012-2013 (retrospective cohort).\n2. Age \\> 18 years\n3. Availability of all information required by the study, in particular:\n\n   * histology\n   * hormone receptor status\n   * grading\n   * stage of disease at diagnosis\n   * type of surgery for the primary tumor\n   * type of adjuvant therapy (chemotherapy or hormone therapy)\n   * type of medication received as adjuvant therapy\n   * date and seat of the relapse\n   * type of treatment received for the first / second / third-line of treatment of metastatic disease (chemotherapy or hormone therapy)\n   * type of chemotherapy regimen used and details about the medication, date and seat of disease progression\n4. Written informed consent (in case of the impossibility to obtain the consent in writing, eg, death of the patient, the data will be collected as required by the Guarantor, OJ N.72 of March 26, 2012)\n\nExclusion Criteria:\n\n1. Patients with metastatic disease at diagnosis\n2. Patients with HER2-positive breast\n3. Participation in clinical research protocols, both for the retrospective cohort and for the perspective one",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03901339",
+    "briefTitle": "Study of Sacituzumab Govitecan-hziy Versus Treatment of Physician's Choice in Participants With HR+/HER2- Metastatic Breast Cancer",
+    "officialTitle": "Phase 3 Study of Sacituzumab Govitecan (IMMU-132) Versus Treatment of Physician's Choice (TPC) in Subjects With Hormonal Receptor-Positive (HR+) Human Epidermal Growth Factor Receptor 2 (HER2) Negative Metastatic Breast Cancer (MBC) Who Have Failed at Least Two Prior Chemotherapy Regimens",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 543,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS) by Blinded Independent Central Review (BICR) Assessment",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Documented evidence of hormone receptor-positive human epidermal growth factor receptor 2 negative (HER2-negative) (hormonal receptor-positive (HR+)/HER2-) metastatic breast cancer (MBC) confirmed.\n* Refractory to or relapsed after at least 2, and no more than 4, prior systemic chemotherapy regimens for metastatic disease:\n\n  * At least 1 taxane in any setting.\n  * At least 1 prior anticancer hormonal treatment in any setting.\n  * At least 1 cyclin-dependent kinase inhibitor 4/6 in any setting.\n* Eligible for one of the chemotherapy options listed in the TPC arm.\n* Documented disease progression after the most recent therapy.\n* Adequate bone marrow function (hemoglobin \u2265 9 g/dL, absolute neutrophil count (ANC) \u2265 1,500 per mm\\^3, platelets \u2265 100,000 per mm\\^3).\n* Adequate renal function: calculated creatinine clearance \u2265 30 mL/minute according to the Cockcroft and Gault formula .\n* Adequate liver function (bilirubin \u2264 1.5 institutional upper limit of normal (IULN), or \u2264 3 IULN for individuals with documented Gilbert's syndrome, aspartate aminotransferase (AST) and Alanine aminotransferase (ALT) \u2264 2.5 x IULN (in the case of liver metastases \u2264 5.0 x IULN)).\n* Females must not be lactating or pregnant at Screening or Baseline (as documented by a negative beta human chorionic gonadotropin (\u00df-hCG)).\n\nKey Exclusion Criteria:\n\n* Previous treatment with topoisomerase 1 Inhibitors as a free form or as other formulations.\n* History of significant cardiovascular disease or clinically significant electrocardiogram (ECG) abnormality.\n* Active serious infection requiring antibiotics.\n* Any medical or other condition which, in the opinion of the Investigator, causes the individual to be medically unfit to receive sacituzumab govitecan or unsuitable for any reason.\n* Locally advanced MBC (stage IIIc) in individuals who are candidates for curative intent therapy at the time of study enrollment.\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00089999",
+    "briefTitle": "Lapatinib In Chemotherapy-Naive Or Metastatic Breast Cancer",
+    "officialTitle": "A Phase II, Open-Label, Randomized, Parallel-Group Multicenter Trial Comparing Two Schedules of GW572016 as First-Line Monotherapy in Patients With Advanced or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neoplasms, Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 138,
+    "primaryOutcomeMeasure": "Number of Participants With a Best Overall Response (OR) of Confirmed Complete Response (CR) or Partial Response (PR), as Assessed by the Independent Review Committee (IRC)",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Histologically confirmed invasive breast cancer with incurable stage IIIB, IIIC with T4 lesion or stage IV disease at primary diagnosis or at relapse after curative intent surgery.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1.\n* Documented amplification of ErbB2 by Fluorescence in situ hybridization (FISH)\n* Measurable disease by Response Evaluation Criteria In Solid Tumors (RECIST)\n* Adequate renal, hepatic and cardiac function\n\nExclusion criteria:\n\n* Prior chemotherapy, immunotherapy, biologic therapy or anti-ErbB1/ErbB2 therapy other than adjuvant therapy. \\[Prior neo-adjuvant or adjuvant therapy (including trastuzumab) will be allowed provided it was stopped at least 12 months before study entry.\n* Patients with active brain metastases\n* Patients with bilateral breast cancer, bone metastases as the only disease site or metastases to more than 30% of the hepatic parenchyma.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

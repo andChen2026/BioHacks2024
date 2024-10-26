@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06363123",
+    "briefTitle": "Plasma Metabolic Biomarkers for Multi-Cancer Diagnosis",
+    "officialTitle": "Identification and Validation of Plasma Diagnostic Biomarkers for Multi-Cancer Based on Metabolomics: A Multi-Center Clinical Research and Validation Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Lung Cancer, Breast Cancer, Colorectal Cancer, Thyroid Cancer, Gastric Cancer, Cervical Cancer, Liver Cancer, Pancreatic Cancer, Cholangiocarcinoma, Prostate Cancer, Esophageal Cancer, Ovarian Cancer, Renal Cell Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2700,
+    "primaryOutcomeMeasure": "Plasma metabolite content",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Multi-Cancer Group:\n\n  * Patients with a confirmed diagnosis based on the clinical \"gold standard\".\n  * Collection of plasma samples prior to treatment.\n  * Availability of complete clinical data.\n* Control Group:\n\n  * Individuals with no abnormalities in routine physical examinations and relevant clinical tests.\n  * Age \u2265 45 years.\n  * Availability of complete clinical data.\n\nExclusion Criteria:\n\n* Previous reception of anti-tumor treatments (including radiotherapy, chemotherapy, etc.) before blood collection.\n* Coexistence of other systemic tumors.\n* Absence of plasma sample collection before treatment.\n* Pregnancy status.\n* No clear evidence of histopathological diagnosis (not applicable to the control group based on this criterion).\n* Patients with severe acute infections.\n* Patients with severe anemia.\n* Patients with severe liver or kidney dysfunction.\n* Patients with autoimmune deficiency diseases.\n* Patients with Hyperlipidemia.\n* Patients received contrast agent injection before blood draw.\n* Patients with psychiatric disorders.",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

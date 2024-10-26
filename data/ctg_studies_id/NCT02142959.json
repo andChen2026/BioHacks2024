@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02142959",
+    "briefTitle": "RTA 408 Lotion in Patients at Risk for Radiation Dermatitis - PRIMROSE",
+    "officialTitle": "A Randomized, Double-blind, Vehicle-controlled, Parallel-group Phase 2 Study of the Efficacy, Safety, and Pharmacokinetics of RTA 408 Lotion in the Treatment of Patients at Risk for Radiation Dermatitis",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 187,
+    "primaryOutcomeMeasure": "Time-averaged Effect on Radiation Dermatitis Grade Measured With Common Terminology Criteria for Adverse Events (CTCAE, v 4.03) Following 3D Conformal Radiation Therapy to the Breast Following Topical Application of Omaveloxolone Lotion or Lotion Vehicle",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Adult female patients (18 to 75 years of age, inclusive);\n2. Patients diagnosed with ductal carcinoma in situ or non-inflammatory breast adenocarcinoma who have been referred for post-operative radiotherapy and have had no prior radiation treatment to that breast;\n3. Patients planning to undergo 3D conformal radiation therapy to the whole breast (as part of breast-conservation therapy / lumpectomy) or chest wall (as part of post-mastectomy irradiation), with or without treatment of regional lymph nodes (i.e., axillary, supraclavicular, or internal mammary), using one of the following treatment schedules:\n\n   1. 45 - 50.4 Gy in 1.8 Gy per day, in addition to 10-16 Gy boost\n   2. 46 - 50 Gy in 2 Gy per day, in addition to 10-16 Gy boost;\n4. Patients who received breast-conservation therapy / lumpectomy must be receiving \u2265 107% of the total radiation dose (calculated from the total radiation dose including boost) to any portion of the breast, based on radiation inhomogeneity, and/or have a breast volume \u2265 1200 cc;\n\nExclusion Criteria:\n\n1. Patients with Stage T4 or Stage IV breast cancer;\n2. Patients with prior radiation therapy to the breast treated in this study;\n3. Patients with type V or VI skin according to the Fitzpatrick scale;\n4. Patients with bilateral breast cancer;\n5. Patients receiving partial breast irradiation therapy;\n6. Patients with uncontrolled diabetes (HbA1c \\> 11.0%, historical values within 6 months of screening are acceptable);\n7. Patients with collagen vascular disease or vasculitis;\n8. Patients with concurrent active malignancy other than adequately treated basal cell carcinoma of the skin or carcinoma in situ of the cervix;\n9. Patients with active bacterial, fungal or viral skin infections;\n10. Patients with known active hepatitis B or hepatitis C infection;\n11. Patients who intend to use any other topical cream, lotion or preparation applied to the radiation treatment area;\n12. Patients receiving concomitant chemotherapy during the course of the planned radiation treatment regimen. Patients are eligible if they are receiving sequential, neoadjuvant or adjuvant chemotherapy that is not anticipated to be delivered during the time course of the radiation treatment regimen.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

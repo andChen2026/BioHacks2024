@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03305757",
+    "briefTitle": "Seroma Reduction After Mastectomy",
+    "officialTitle": "A Multi-center, Double Blinded Randomized Controlled Trial Evaluating Closure of the Dead Space After Mastectomy Using Sutures or Tissue Glue Versus Conventional Closure. Protocol for the Seroma Reduction After Mastectomy (SAM) Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Seroma, Aspiration, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 339,
+    "primaryOutcomeMeasure": "Number of seroma aspirations",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Older than 18 years\n* Female sex\n* Indication for mastectomy or modified radical mastectomy\n\nExclusion Criteria:\n\n* Patients undergoing breast conserving therapy\n* Patients undergoing direct breast reconstruction\n* Unable to comprehend implications and extent of study and sign for informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

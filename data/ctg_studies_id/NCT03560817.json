@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03560817",
+    "briefTitle": "Survey of Health Preferences in Cancer Patients (QALY-Cancer)",
+    "officialTitle": "Survey of Health Preferences in Cancer Patients: a Study Protocol for a Prospective, Longitudinal Cohort Using Online Survey",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Colorectal Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 198,
+    "primaryOutcomeMeasure": "Health utilities for SF-6Dv2 before chemotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* to be 18 years of age or older;\n* to reside in Quebec;\n* have already had a chemotherapy treatment cycle;\n* be on the eve of a new round of chemotherapy treatment;\n* have breast or colorectal cancer\n\nExclusion Criteria:\n\n* being over 80 years of age;\n* not be able to complete a computer questionnaire;\n* can not read or write in French;\n* not be able to sign a consent form;\n* the only treatment offered is surgery;\n* presence of metastases to the brain;\n* patient with delirium, psychosis or severe depression (i.e. chronic condition with treatment)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

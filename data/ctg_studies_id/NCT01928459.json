@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01928459",
+    "briefTitle": "Phase 1b Trial of BGJ398/BYL719 in Solid Tumors",
+    "officialTitle": "A Phase Ib, Open-label Study of Oral BGJ398 in Combination With Oral BYL719 in Adult Patients With Select Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Solid Tumors, Metastatic Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 62,
+    "primaryOutcomeMeasure": "Incidence rate of dose limiting toxicities (DLTs) of the combination of BGJ398 with BYL719",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically/cytologically confirmed advanced or metastatic solid tumors who have failed standard therapy or for whom no effective standard anti-cancer therapy exists\n* Documented PIK3CA mutations in all patients in dose escalation and expansion with or without documented genetic alterations in FGFR depending upon dose expansion cohort (either local or central determination)\n* Measurable disease defined by RECIST v1.1\n* ECOG performance status of \u22642\n\nExclusion Criteria:\n\n* Prior PI3Ki or selective FGFR inhibitor treatment (for patients enrolled to expansion part)\n* Colorectal cancer (for patients enrolled to expansion part)\n* Patients with diabetes mellitus requiring insulin treatment and/or with clinical signs or with fasting glucose \u2265 140 mg/dL / 7.8 mmol/L, history of clinically significant gestational diabetes mellitus or documented steroid-induced diabetes mellitus\n* Use of medications that increase serum levels of phosphorus and/or calcium\n* Inorganic phosphorus outside of normal limits\n* Total and ionized serum calcium outside of normal limits",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

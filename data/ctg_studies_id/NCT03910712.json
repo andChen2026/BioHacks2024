@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03910712",
+    "briefTitle": "Pyrotinib Combined With Trastuzumab and AI in the First-line Treatment of HER2 Positive/ HR Positive MBC",
+    "officialTitle": "A Randomized, Open-label Study of First Line Pyrotinib, Trastuzumab With an Aromatase Inhibitors, in the Treatment of HER2 Positive and HR Positive Metastatic or Inoperable Locally Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Female, HER2-positive Breast Cancer, Hormone Receptor Positive Malignant Neoplasm of Breast, Metastatic Breast Cancer, Breast Diseases, Hormone Receptor Positive Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 250,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age\u226518 years, female;\n2. Postmenopausal or pre-menopausal with ovarian function suppression;\n3. At least one measurable lesion evaluable according to Response Evaluation Criteria In Solid Tumors Version 1.1;\n4. Metastatic or inoperable local advanced breast cancer;\n5. HER2-positive breast cancer;\n6. HR-positive breast cancer;\n7. LVEF \u226550%;\n\nExclusion Criteria:\n\n1. Previous systemic non-hormonal anticancer therapy in the metastatic or advanced breast cancer setting;\n2. Received endocrine therapy within 7 days before randomization;\n3. Uncontrolled central nervous system metastases;\n4. Disease-free interval from completion of adjuvant/neo-adjuvant systemic non-hormonal treatment to recurrence of within 6 months.\n5. Other malignancies within the last 3 years, except for carcinoma in situ of the cervix or basal cell carcinoma.\n6. Major surgical procedure or significant traumatic injury within 28 days prior to study treatment start or anticipation of the need for major surgery during the course of study treatment\n7. Severe organ dysfunction as assessed by signs and symptoms, laboratory studies and rapid progression of disease, which leading to a clinical indication for chemotherapy.\n8. History of CHF of any New York Heart Association (NYHA) criteria, or serious cardiac arrhythmia requiring treatment (exception, atrial fibrillation, paroxysmal supraventricular tachycardia);\n9. History of myocardial infarction within 6 months of randomization\n10. History of LVEF decline to below 50% during or after prior trastuzumab neo-adjuvant or adjuvant therapy\n11. Pregnant or lactating women;\n12. QT interval\\>470 ms\uff1b\n13. Serious concomitant diseases (including severe hypertension, severe diabetes, active infection, thyroid disease, etc.) that are harmful to the patient's safety or affect the patient's completion of the study;",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00070278",
+    "briefTitle": "Neoadjuvant Epirubicin, Cyclophosphamide, and Paclitaxel With or Without Gemcitabine in Treating Women Who Are Undergoing Surgery for Early Breast Cancer",
+    "officialTitle": "A Phase III Randomized Neoadjuvant Study of Sequential Epirubicin/Cyclophosphamide and Paclitaxel + - Gemcitabine in Poor Risk Early Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 800,
+    "primaryOutcomeMeasure": "Complete pathological response after 4 courses",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive breast cancer\n\n  * Grade 2 or 3\n* Tumor size at least 3 cm by ultrasound\n* No evidence of metastatic disease\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* Not specified\n\nSex\n\n* Female\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* Not specified\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Not specified\n\nHepatic\n\n* Not specified\n\nRenal\n\n* Not specified\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* Fit to receive study chemotherapy\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* Not specified\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* Not specified",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

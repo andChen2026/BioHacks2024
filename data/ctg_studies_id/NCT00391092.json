@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00391092",
+    "briefTitle": "A Study of Avastin (Bevacizumab) in Combination With Herceptin (Trastuzumab)/Docetaxel in Patients With HER2 Positive Metastatic Breast Cancer.",
+    "officialTitle": "A Randomized, Open-label Study to Compare the Effect of First-line Treatment With Avastin in Combination With Herceptin/Docetaxel and Herceptin/Docetaxel Alone on Progression-free Survival in Patients With HER2 Positive Locally Recurrent or Metastatic Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 424,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* adult patients, \\>=18 years of age;\n* HER2 positive breast cancer with locally recurrent or metastatic lesions;\n* eligible for chemotherapy;\n* baseline LVEF \\>=50%.\n\nExclusion Criteria:\n\n* previous chemotherapy for metastatic or locally recurrent breast cancer;\n* previous radiotherapy for metastatic breast cancer (except for metastatic bone pain relief);\n* other primary tumor within last 5 years, with the exception of basal or squamous skin cancer, or in situ cancer of the cervix;\n* clinically significant cardiovascular disease;\n* chronic daily treatment with aspirin (\\>325mg/day) or clopidogrel (\\>75mg/day).",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

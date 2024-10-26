@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03199560",
+    "briefTitle": "Tilmanocept vs Sulfur Colloid in Sentinel Lymph Node Biopsy",
+    "officialTitle": "A Randomized Controlled Double-blinded Study Comparing the Intraoperative Injection of Lymphatic Mapping Agents Tc 99m Tilmanocept to Tc 99m Filtered Sulfur Colloid in Breast Cancer Patients Undergoing Breast Conservation and Sentinel Lymph Node Biopsy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Sentinel Lymph Node Biopsy, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 86,
+    "primaryOutcomeMeasure": "Number of harvested lymph nodes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women above 18 years of age with biopsy proven, clinically stage 1 or 2 breast cancer who will be undergoing partial mastectomy with SLNBx at Memorial Health\n\nExclusion Criteria:\n\n* Women under the age of 18,\n* Clinically positive axillary nodes\n* Neoadjuvant therapy for current breast cancer diagnosis\n* Women with previous SLNBx or axillary node dissection\n* Pregnant women\n* Women with previous radiation above the diaphragm, and below the neck",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

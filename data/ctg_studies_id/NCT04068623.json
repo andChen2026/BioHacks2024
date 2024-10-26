@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04068623",
+    "briefTitle": "Correlation Between TILs and Blood Cell Counts in Triple Negative Breast Cancer Patients",
+    "officialTitle": "PERCEPTION Trial Protocol: Comparison of Predictive and Prognostic Capacities of Neutrophil, Lymphocyte and Platelet Counts and Tumour-infiltrating Lymphocytes in Triple Negative Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 90,
+    "primaryOutcomeMeasure": "Assessment of the correlation between the lymphocyte infiltration rate assessed on biopsy, and the NLR (neutrophil-to-lymphocyte ratio) measured on blood samples, in women with triple negative breast cancer, at the time of diagnosis.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Age \\> 18 years\n* Diagnosed with primitive, non-metastatic, histologically proved, triple negative breast cancer\n* Patient treated with chemotherapy, surgery and radiation therapy\n* Patient able to understand the French language\n* Patient affiliated to social security\n* Obtaining signed written consent\n\nExclusion Criteria:\n\n* Male\n* Unavailable tumoral samples before inclusion\n* Unavailable blood test results at baseline, before inclusion",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

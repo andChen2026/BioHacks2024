@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01222416",
+    "briefTitle": "PET/CT Evaluation of Treatment Response in Breast Cancer",
+    "officialTitle": "Positron Emission Tomography (PET)-Computed Tomography (CT) PET/CT Evaluation of Treatment Response in Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "The Difference in the Change (Pre and End-treatment) of Standard Uptake Value (SUV) Between Pathological Non-responders and Responders (pCR)",
+    "eligibilityCriteria": "Inclusion Criteria\n\n* Subjects must have histologically proven breast cancer\n* Subjects are being considered for preoperative chemotherapy\n* Subjects must be \u2265 18 years old. Sensor Sub-Study Only\n* Palpable subcutaneous or known disease with one surface \\<1cm below surface of skin.\n* A subset of patients who have a mass located on any surface of the breast that is accessible for Lucerno sensor placement will have additional testing.\n\nExclusion Criteria\n\n* Children will be excluded from this study.\n* Pregnant women and women who are breast feeding will be excluded from this study. (The Vanderbilt University Medical Center radiology \"PET Procedure Screening Form\" will be used to identify and exclude subjects who are pregnant or breastfeeding. A urine pregnancy test/or serum beta HCG will also be performed for women of child bearing potential).\n* Patients who are acutely ill who are deemed by their treating physician as not suitable candidates for this study.\n* Intraluminal lesions will be excluded from the sensor sub-study.\n* Non biopsy proven malignancy will be excluded from this study.\n* Palpable subcutaneous or known disease with one surface \\>1cm below surface of skin will be excluded from the sensor sub-study.\n* Draining or exposed malignant tumor will be excluded from the sensor sub-study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

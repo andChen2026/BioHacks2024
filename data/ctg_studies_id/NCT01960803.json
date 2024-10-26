@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01960803",
+    "briefTitle": "Lumpectomy Followed By Intraoperative Electron Radiation Therapy (IOERT)",
+    "officialTitle": "Lumpectomy Followed By Intraoperative Electron Radiation Therapy (IOERT) As A Single, Full Dose Partial Breast Irradiation For Early Stage, Node Negative, Invasive Breast Cancer",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Invasive Ductal Breast Cancer, Carcinoma Breast Stage I",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "To evaluate change over time on the incidence of local and distance recurrence rates.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient agrees to breast conservation therapy (segmental resection, partial mastectomy, and radiation therapy) as the treatment for their breast cancer\n* Patient agrees to evaluation of the axilla with sentinel lymph node biopsy\n* Peri or post-menopausal women age \\> 50, defined as women who have experienced no menstrual period in the past 6 months or more\n* BRCA1 and 2 gene mutation negative, if tested. \\[genetic testing is NOT required based upon personal or family history\\]\n* Unifocal (unicentric), invasive ductal carcinoma or favorable sub-types (mucinous, tubular, colloid) \\< 2.0 cm in diameter, primary T-stage of Tis or T1 (AJCC criteria)\n* Grade 1, 2, or 3 acceptable\n* Associated LCIS is allowed\n* Pure DCIS allowed if \\<2.5 cm, low to intermediate nuclear grade and resected margins negative at \\> 3 mm (per ASTRO criteria)\n* Estrogen receptor (ER) status of positive\n* Patient has clear margins \\>2 mm on gross pathologic examination\n* Patient is node-negative, defined as N0 (i-) or N0 (i+)\n* Patient must be deemed functionally and mentally competent to understand and sign the informed consent\n* Neoadjuvant hormonal therapy is allowed if all other ASTRO suitable criteria have been met prior to onset of hormonal therapy\n\nExclusion Criteria:\n\n* Prior breast malignancy or other malignancy if metastatic, or with expected survival of \\< 5 years\n* Immunocompromised status\n* Pregnancy\n* Women with an active connective tissue disorder (i.e. scleroderma, lupus and others)\n* Breast cancer that involves the skin or chest wall, locally advanced breast cancer\n* Invasive lobular carcinoma\n* Evidence of lymphovascular invasion (LVI)\n* Invasive carcinoma with extensive intraductal component (EIC)\n* Neoadjuvant chemotherapy\n* Patients with 1 or more positive lymph node determined during surgery with sentinel node and/or axillary dissection\n* Someone who is not a candidate for breast conserving management, i.e., prior whole breast radiation therapy",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

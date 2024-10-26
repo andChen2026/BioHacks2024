@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00771433",
+    "briefTitle": "G-CSF in Preventing Neutropenia in Women Receiving Chemotherapy for Breast Cancer",
+    "officialTitle": "Evaluation of the Efficacy of Adding Daily G-CSF (Granulocyte Colony Stimulating Factor) for Prevention of Hematologic Toxicity Due to Neoadjuvant or Adjvuant Chemotherapy in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Chemotherapeutic Agent Toxicity, Neutropenia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Occurrence of febrile neutropenia",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of breast cancer\n* Receiving 1 of the following neoadjuvant or adjuvant chemotherapy regimens:\n\n  * Six courses of epirubicin hydrochloride and docetaxel\n  * Six courses of fluorouracil, epirubicin hydrochloride, and cyclophosphamide (FEC) 100 or 3 courses of FEC 100 and 3 courses of docetaxel 100\n* Must have received at least 2 chemotherapy regimens prior to study therapy\n* No malignant hematological disease\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n* No contraindications to standard neoadjuvant or adjuvant chemotherapy\n* No known hypersensitivity to G-CSF or any of its components\n* No patients deprived of liberty or under guardianship\n* No psychological, familial, social, or geographical reasons preventing follow-up\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No concurrent participation in another experimental drug study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

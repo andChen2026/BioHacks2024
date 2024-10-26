@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04307407",
+    "briefTitle": "Exercise in Breast Cancer Survivors",
+    "officialTitle": "The Cause Trial: A Randomized Trial of Aerobic Exercise on CVD Risk Factors in Breast Cancer Survivors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 210,
+    "primaryOutcomeMeasure": "Change in VO2peak",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eligible BCS must be listed in the Norwegian Cancer registry\n* Female\n* Adult-onset breast cancer diagnosis, diagnosed between 2008 and 2012\n* 60 years or younger at the time of diagnosis\n* received anthracycline-based chemotherapy as a part of their treatment history\n* signed informed consent and medical doctors approveal of participation prior to inclusion\n\nExclusion Criteria:\n\n* Received Herceptin\n* Diagnosed with stage IV breast cancer\n* Relapse since diagnosis\n* A history, or current presence, of another diagnosis of invasive cancer of any kind\n* Selfreported severe fatigue\n* present with any uncontrolled- or recent cardiovascular disease, has undergone heart surgery or uses a pacemaker\n* currently exercising more than 90 minutes per week",
+    "sex": "FEMALE",
+    "minimumAge": "28 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

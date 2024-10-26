@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03430466",
+    "briefTitle": "Anti PD-L1 Antibody + Anti CTLA-4 Antibody in Combination With Hormone Therapy in Patients With Hormone Receptor Positive HER2-negative Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "Phase II Study to Assess Efficacy, Safety & Immunological Biomarker of Anti PD-L1 Antibody + Anti CTLA-4 Antibody in Combination With Hormone Therapy in Patients With Hormone Receptor Positive HER2-negative Recurrent or Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "Response rate based on RECIST1.1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients aged \\>= 20 years at informed consent.\n2. Patients who have provided written informed consent themselves.\n3. Patients who have metastatic and/or advanced lesion\n4. Documentation of ER-positive and/or PR-positive tumor (\\>=1% positive stained cells).\n5. Patients with cancer confirmed to be HER2-negative.\n6. Patients with confirmed menopause\n7. Patients who have plans of 2nd hormone therapy.\n8. Patients with a measurable lesion based on RECIST 1.1\n9. Patients with ECOG PS of 0 to 1.\n10. Patients without any severe disorder in the major organs.\n\nExclusion Criteria:\n\n-\n\nExclusion Criteria:\n\n1. Active or prior documented autoimmune disease within the past 2 years.\n2. Current or prior use of immunosuppressive medication within 28 days before the first dose of durvalumab or tremelimumab\n3. Patients with central nervous system metastasis\n4. Patients with life-threatening disease.\n5. Patients with a history of treatment with anti-PD-1, anti-PD-L1, anti-PD-L2 or anti-CTLA-4 antibody drug.\n6. Patients who have received live vaccination within 30 days before start of the investigational products.\n7. Patients with a past medical history of pneumonia requiring steroid treatment or with a past medical history of interstitial pneumonia.\n8. Patients considered ineligible for participation in this study by their attending physicians.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

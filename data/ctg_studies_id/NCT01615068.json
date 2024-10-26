@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01615068",
+    "briefTitle": "An Observational Study in Patients With HER2 Positive Metastatic Breast Cancer (SystHERs Registry)",
+    "officialTitle": "An Observational Cohort Study of Treatment Patterns and Outcomes in Patients With HER2 Positive (HER2+) Metastatic Breast Cancer (SystHERs Registry (Systemic Therapies for HER2+ Metastatic Breast Cancer Study)).",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1007,
+    "primaryOutcomeMeasure": "Distribution of patients receiving unique treatment regimen/sequence of treatment regimens",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients, \\>/=18 years of age\n* Initial diagnosis of HER2+ MBC, as diagnosed by the treating physician, no more than 6 months prior to study enrollment\n* Availability of cancer-specific historical data points in the patient's medical records\n\nExclusion Criteria:\n\n* Any inability to provide informed consent",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

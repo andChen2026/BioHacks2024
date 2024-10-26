@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00212121",
+    "briefTitle": "Radiation Dose Intensity Study in Breast Cancer in Young Women",
+    "officialTitle": "Radiation Dose Intensity Study in Breast Cancer in Young Women: a Randomized Phase III Trial of Additional Dose to the Tumor Bed",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2400,
+    "primaryOutcomeMeasure": "Local control at 10 yr",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Age 50 years or younger.\n* Histological diagnosis of invasive mammary cancer including all subtypes of invasive adenocarcinoma.\n* Tumor location and extension imaged prior to surgery using at least mammography and ultrasound.\n* Unicentric tumors and multifocal tumors removed using a wide local excision; microscopic radical resection (focally involved margins allowed, defined as:\n\nany DCIS or invasive carcinoma in 3 or fewer low-power fields (using a x 4 objective and a x 10 ocular lens, which has a diameter of 5 mm per low-power microscopic fields).\n\n* Sentinel lymph node biopsy and/or axillary lymph node dissection has been performed.\n* Breast cancer stage: pT1-2pN0-2a M0.\n* No treatment is allowed prior to surgery (no neoadjuvant chemotherapy, no neoadjuvant hormonal therapy, no pre-operative radiotherapy).\n* In cases where no adjuvant chemotherapy is given, wide local excision has been performed \\< 10 weeks before the start of radiotherapy.\n* In cases where adjuvant chemotherapy is given immediately after surgery, wide local excision has been performed \\< 6 months before the start of radiotherapy, and chemotherapy should be completed \\< 6 weeks before the start of radiotherapy.\n* In cases where hormonal treatment is planned, this is given after completion of the radiotherapy.\n* No previous history or synchronous malignant tumor in the other breast, previous history of malignant disease, except adequately treated carcinoma in situ of the cervix or basal cell carcinoma of the skin.\n* ECOG performance scale 2 or less.\n\nExclusion criteria:\n\n* Residual microcalcifications on mammogram.\n* All histological types of malignancies other than invasive adenocarcinoma.\n* In situ carcinoma of the breast, without invasive tumor.\n* Concurrent pregnancy.\n* Multicentric tumors, and multifocal. tumors excised using multiple excisions \\* Invasive breast cancer in both breasts.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

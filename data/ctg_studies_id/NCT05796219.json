@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05796219",
+    "briefTitle": "Automated Low Dose Risk Assessment Mammography (ALDRAM)",
+    "officialTitle": "Technical Development of Automated Low Dose Risk Assessment Mammography (ALDRAM) in Women Attending for Annual Mammography Through a Family History Clinic",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 154,
+    "primaryOutcomeMeasure": "Correlation between full dose and low dose percent mammographic density estimates",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females with moderate to high risk of breast cancer, identified through and attending for annual review and mammography at the family history clinic, Nightingale Centre, Manchester\n* Current age 30-45 years\n* Capable of providing informed consent to a patient information sheet written in English\n\nExclusion Criteria:\n\n* Prior breast cancer\n* Prior breast augmentation or reduction\n* Participation in the TARA-Prev study which included an additional mammogram and thus radiation dose",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT"
+}

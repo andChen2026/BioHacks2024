@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00401427",
+    "briefTitle": "HERVIN: Trastuzumab and Vinorelbine in Metastatic Breast Cancer",
+    "officialTitle": "A Single-centre Phase 2 Study of Vinorelbine Plus 3-weekly Trastuzumab in Metastatic Breast Cancer Overexpressing Her-2",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed breast cancer\n* Stage IV\n* No prior or not more than one prior chemotherapy for metastatic disease\n* Overexpression of HER-2 (3+ on immunohistochemical exam) or amplified genetic expression of c-erbB2/neu (positive by Fish method)\n* Performance status 0-2 (ECOG)\n\nExclusion Criteria:\n\n* Absence of measurable disease\n* Life expectancy \\< 3 months\n* Concomitant malignancy or malignancy within previous 5 years (except basal cell or spinocellular skin cancer and in situ cervical cancer if they have been adequately treated\n* Previous treatment with trastuzumab or vinorelbine\n* Neutrophils \\< 1500/mm3 or platelets \\< 100000/mm3 or haemoglobin \\< 8 g/dl\n* Creatinine \\> 1.5 x the value of the upper normal limit\n* GOT and/or GPT \\> 2.5 x the value of the upper normal limit and/or bilirubin \\> 1.5 x the value of the upper normal limit in the absence of liver metastases\n* GOT and/or GPT \\> 5 x the value of the upper normal limit and/or bilirubin \\> 3 x the value of the upper normal limit in the presence of liver metastases\n* Left ventricular ejection fraction \\< 50% (measured by ultrasound or MUGA angiography)\n* Concomitant conditions that contraindicate the use of the drugs in the protocol\n* Male gender\n* Pregnancy or lactation\u00b7\n* Incapacity or refusal to provide informed consent\n* Inability to comply with followup",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

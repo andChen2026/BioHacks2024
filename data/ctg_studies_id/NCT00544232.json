@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00544232",
+    "briefTitle": "Preoperative Epirubicin Paclitaxel Aranesp Study (PREPARE)",
+    "officialTitle": "Randomized Comparison of a Preoperative, Dose-Intensified, Interval-Shortened, Sequential Chemotherapy With Epirubicin, Paclitaxel and CMF \u00b1 Darbepoetin Alfa Versus a Preoperative, Sequential Chemotherapy With Epirubicin and Cyclophosphamide Followed by Paclitaxel in Standard Dosage \u00b1 Darbepoetin Alfa in Patients With Primary Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 720,
+    "primaryOutcomeMeasure": "Relapse-free survival time and overall survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed breast cancer: at least three fast biopsies.\n* Primary tumor \u22652 cm acc. to clinical measurement or manifestation of an inflammatory breast cancer.\n* No systemic metastasis, exclusion by chest x-ray, sonogram of the upper abdomen and skeletal scintiscan.\n* Age \u226518 years and \u226465 years.\n* ECOG \\< 2/WHO 0-1\n* Adequate organ function defined as SGOT and bilirubin \u2264 1.5\u00d7 upper limit WBC \u2265 3000 /\u00b5L Neutrophils \u2265 1000 /\u00b5L Platelets \u2265 100,000 /\u00b5L Serum creatinine \\< 2.0 mg/dL\n* Unremarkable heart echo\n* No florid hepatitis\n* Written consent to participate in the treatment optimization protocol\n\nExclusion Criteria:\n\n* Multicentricity in various quadrants (contact the study office)\n* Known allergy to E. coli-produced medication\n* Known allergy to medication containing cremophor (e.g., cyclosporin A)\n* Patients receiving immunosuppressant therapy\n* Lack of consent after informing the patient\n* Lack of willingness to keep and disclose personal medical data as part of the study\n* Pregnancy, nursing\n* Secondary malignancy, excluding basalioma of the skin or carcinoma in situ of the cervix that has received curative therapy\n* Pre-existing treatment-resistant cardiac disease, coronary heart disease, arrhythmias, cardiac insufficiency\n* Patients with uncontrolled hypertension (diastolic \\>95 mmHg)\n* A history of convulsions\n* Known hypersensitivity to darbepoetin alfa or any of its other ingredients or a known hypersensitivity to r-HuEPO",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

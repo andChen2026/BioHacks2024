@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00276536",
+    "briefTitle": "Interferon Alfa in Treating Patients With Stage IV Solid Tumors, Lymphoma, or Myeloma",
+    "officialTitle": "Phase I Evaluation of Interferon-alpha-1b in Solid Tumors, Lymphoma or Myeloma",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Kidney Cancer, Lymphoma, Melanoma, Multiple Myeloma, Sarcoma, Unspecified Adult Solid Tumor, Protocol Specific",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "Tolerance and safety as measured by any \u2265 Grade IV granulocyte toxicity or any Grade III toxicity thought to be drug related at 1 week after each course",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed malignancy, including, but not limited to, renal cell carcinoma, melanoma, Kaposi's sarcoma, breast carcinoma, lymphoma, myeloma, or tumors of endothelial origin\n\n  * Stage IV disease\n  * Refractory to standard therapy\n* Measurable or evaluable disease\n\n  * Evaluable disease can include clinically or radiographically nonmeasurable tumor or specific tumor markers\n* Patients with prior solitary CNS metastasis allowed\n\n  * Must have had prior definitive therapy \u2265 3 months previously\n  * No requirement for glucocorticoids unless for physiologic replacement\n* No multiple CNS metastases\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-1\n* Granulocyte count \u2265 1,500/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Creatinine \u2264 1.3 times upper limit of normal (ULN) OR\n* Creatinine clearance of 60 mL/min\n* Bilirubin \u2264 1.3 times ULN\n* AST \u2264 5 times ULN\n* No pregnant or lactating women\n* Fertile women and men, unless surgically sterile, must use effective contraception\n* No history of serious cardiac arrhythmia or cardiac arrhythmia requiring treatment\n* No congestive heart failure\n* No angina pectoris\n* No New York Heart Association class III or IV disease\n* No other severe cardiovascular disease\n* No known seizure disorder\n* No known HIV or hepatitis B surface antigen positivity\n* No active clinical infection requiring antibiotics within the past 7 days\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* At least 4 months since prior interferon therapy and/or \u2264 400 million units of interferon\n* At least 3 weeks since prior major surgery requiring general anesthesia\n* At least 3 weeks since prior radiotherapy or chemotherapy\n* Treatment with hormones or other chemotherapeutic agents may not be administered except for steroids given for preexisting adrenal failure or hormones administered for nondisease-related conditions (e.g., insulin for diabetes)\n* No prior organ allograft\n* No concurrent dexamethasone, other steroidal antiemetics, or anti-inflammatories\n* No concurrent palliative radiotherapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

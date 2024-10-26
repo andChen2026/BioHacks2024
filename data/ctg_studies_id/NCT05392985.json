@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05392985",
+    "briefTitle": "Detection and Analysis of MBC With Heterogeneous ER Expression",
+    "officialTitle": "Chemotherapy Versus Endocrine Therapy in Metastatic Breast Cancer Patients With Heterogeneous Estrogen Receptor Expression",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 51,
+    "primaryOutcomeMeasure": "PFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients received 18F-FES PET/CT in Fudan University Shanghai Cancer Center from 2017-2021.\n* Patients had both FES positive (FES+) and negative (FES-) lesions in FES exam.\n* Patients received further treatment.\n\nExclusion Criteria:\n\n* Incomplete medical records.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

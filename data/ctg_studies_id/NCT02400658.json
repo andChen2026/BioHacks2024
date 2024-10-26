@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02400658",
+    "briefTitle": "Efficacy of IORT With CT-Guided HDR Brachytherapy for Treatment of Breast Cancer",
+    "officialTitle": "A Prospective Single-Arm Phase II Study To Investigate The Efficacy Of Single-Fraction Intraoperative Radiation Treatment Using A Multi-Lumen Balloon Applicator And In-Room CT Imaging For The Treatment Of Early-Stage Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 358,
+    "primaryOutcomeMeasure": "Rate of Local Breast Tumor Recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patient has elected breast conserving surgery or whole breast irradiation treatment for early-stage breast cancer.\n2. Tumor size must be less than or equal to 3 cm.\n3. Patient is 45 years of age or older.\n\nExclusion Criteria:\n\n1. Male patients.\n2. Pregnant patients.\n3. Breast cancer that involves the skin or chest wall.\n4. History of ipsilateral breast cancer.\n5. Multicentric breast cancer in the ipsilateral breast.\n6. Known BRCA gene mutation.\n7. Patient with nodal disease.\n8. Patient is undergoing initial medical treatment (hormone or chemotherapy) to reduce tumor size.\n9. Patient with breast implants (does not include patients having implants AFTER intra-operative radiotherapy).",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

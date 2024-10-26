@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05154474",
+    "briefTitle": "Assessment of Sarcopenia at Diagnosis for Patients With Previously Untreated Metastatic Cancer or Hematologic Malignancy",
+    "officialTitle": "Assessment of the Proportion of Patients With Sarcopenia at Diagnosis for Patients With Previously Untreated Metastatic Cancer or Hematologic Malignancy.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Metastatic Cancer, Cancer, Breast, Cancer Colon, Cancer, Rectum, Cancer, Lung, Cancer Ovaries, Cancer Prostate, Cancer, Kidney, Cancer Pancreas, Myeloma, Myelodysplasia, Leukemia, Myeloid, Acute, Leukemia,Myeloid, Chronic, Leukemia, Lymphocytic, Acute, Leukemia, Lymphocytic, Chronic",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Rate of patients with sarcopenia diagnosed with metastatic cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patient aged 18 years or older\n2. Patient with solid cancer diagnosed with metastatic disease,or hematological disease requiring treatment (myeloma, lymphoma, high-risk myelodysplasia, acute or chronic myeloid leukemia, acute and chronic lymphoid leukemia)\n3. Patient naive of cancer treatment\n4. Pathology including performing a CT scan with cuts of the lumbar spine in standard care\n5. Patient enrolled in social security\n6. Patient has given his written consent ahead of any specific protocol procedure.\n\nExclusion Criteria:\n\n1. Minor patient\n2. Metastatic neurological impairment\n3. Patient deprived of their liberty, under guardianship or trusteeship\n4. Patient with dementia, mental disorders or psychological pathology which could compromise patient informed consent and/or the observance of the study protocol\n5. Patient cannot submit to the protocol for psychological, social, familial or geographical reasons\n6. Patient is pregnant\n7. History of cancer treated (excluding surgery alone for tumors in situ) within 5 years of inclusion",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

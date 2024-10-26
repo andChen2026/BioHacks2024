@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00629187",
+    "briefTitle": "Safety Study of High Dose Temozolomide to Treat Relapsed/Refractory Central Nervous System (CNS) Malignancy",
+    "officialTitle": "Phase I Dose Escalation Study of Temozolomide With Autologous Stem Cell Rescue for Patients With Relapsed/Refractory CNS Malignancy Including Isolated Metastatic Disease",
+    "overallStatus": "TERMINATED",
+    "conditions": "Central Nervous System Neoplasms, Neoplasm Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2,
+    "primaryOutcomeMeasure": "Determine the maximum tolerated dose of temozolomide with hematopoietic stem cell rescue in patients with recurrent CNS malignancy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients or their health care proxies must be able to provide consent to participate in this trial.\n* Patients must have one of the following diagnoses which has not responded or recurred following at least one prior chemotherapy regimen or radiation therapy:\n\n  * anaplastic astrocytoma, glioblastoma multiforme or oligodendroglioma\n  * primary CNS lymphoma\n  * malignant disease metastatic to the CNS\n* Patients must be candidates for high dose chemotherapy and autologous stem cell transplant according to the following criteria:\n\n  * Patients must be between the ages of 18 and 70 years (inclusive)\n  * Patients must have a left ventricular ejection fraction greater than or equal to 45% by MUGA or echocardiogram\n  * Patients must have adequate pulmonary function with FEV1, FVC and DLCO greater than or equal to 50% of predicted\n  * Patients must have serum direct bilirubin less than or equal to 2.0 mg/dl and transaminases less than or equal to 3x institutional upper limit of normal\n  * Patients must have serum creatinine less than or equal to 2 mg/dl with creatinine clearance greater than or equal to 60 ml/min (either calculated or measured)\n  * Patients must have an ECOG performance status between 0 and 2\n* Patients must be at least 4 weeks from last cytoreductive chemotherapy.\n* Expected survival of at least 3 months\n\nExclusion Criteria:\n\n* Patients with uncontrolled metastatic disease outside of the CNS which would itself, in the investigator's opinion, limit survival to less than 6 months\n* Patients with uncontrolled seizures are ineligible.\n* Patients with a history of myocardial infarction within the preceding 6 months, significant arrhythmia within the preceding 3 months, or uncontrolled hypertension or congestive heart failure are ineligible.\n* Patients with unstable angina are ineligible.\n* Pregnant or lactating women are ineligible.\n* Male and female patients who do not agree to practice approved methods of birth control for the duration of the study are ineligible.\n* Patients with uncontrolled, active infection are ineligible.\n* Patients infected with HIV are ineligible.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

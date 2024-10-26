@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03423199",
+    "briefTitle": "PAlbociclib Plus Tamoxifen for the Treatment of Hormone Receptor-positive, HER2-negative Advanced Breast Cancer Women - Asian studY",
+    "officialTitle": "Asian, International, Multicenter, Randomized, Double-Blind, Placebo-Controlled, Phase 3 Trial of Tamoxifen With or Without Palbociclib \u00b1 Goserelin in Women With Hormone Receptor-Positive, HER2-Negative Advanced or Metastatic Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 180,
+    "primaryOutcomeMeasure": "Progression-free survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women 18 years of age or older with histologically or cytologically proven locally advanced or metastatic breast cancer, not amenable to resection or radiation therapy with curative intent\n* Documented diagnosis of HR+/HER2- breast cancer\n* Any menopausal status\n* Previously untreated with any endocrine therapy for their HR+/HER2- advanced breast cancer; or progressed while on or within 3 month from prior endocrine therapy other than tamoxifen for advanced breast cancer. If patients have adjuvant endocrine therapy, they must satisfy as follows: progressed 12 months or more since prior adjuvant endocrine therapy with tamoxifen; or progressed during or after adjuvant endocrine therapy with an aromatase inhibitor.\n* Measurable disease or non-measurable disease as defined by RECIST ver.1.1\n* Eastern Cooperative Oncology Group (ECOG) PS 0-1\n* Adequate organ and marrow function, resolution of all toxic effects of prior therapy or surgical procedures\n\nExclusion Criteria:\n\n* Prior treatment with any CDK inhibitor, tamoxifen, everolimus, or agent that inhibits the PI3K-mTOR pathway\n* Patients with extensive advanced/metastatic, symptomatic visceral disease, or known uncontrolled or symptomatic CNS metastases\n* Use of strong or moderate CYP3A4 and/or CYP2D6 inhibitors or inducers\n* Major surgery or any anti-cancer therapy within 2 weeks of randomization\n* Prior stem cell or bone marrow transplantation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

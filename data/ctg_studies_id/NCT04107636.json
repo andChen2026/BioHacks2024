@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04107636",
+    "briefTitle": "Minimal Invasive Breast Cancer Excision Using Vacuum Assisted Biopsy Under Ultrasound Guidance",
+    "officialTitle": "Minimal Invasive Breast Cancer Excision Using Vacuum Assisted Biopsy Under Ultrasound Guidance",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 170,
+    "primaryOutcomeMeasure": "Frequency of successful complete tumor excision by the VAB system",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female sex.\n* 18 years or older.\n* US visible breast cancer.\n* Histologically proven non-lobular invasive breast carcinoma with maximum diameter of 15 mm as assessed by US.\n* Willing and able to undergo preoperative breast MRI\n* Able to fill out the questionnaire\n* Able to provide informed consent.\n\nExclusion Criteria:\n\n* Male sex.\n* 17 years or younger.\n* No proven invasive breast cancer.\n* Poor US visibility of the breast cancer.\n* Neoadjuvant therapy.\n* Contra-indications to breast MRI or intravenous contrast administration.\n* Unable to fill out the questionnaire\n* Unable to provide informed consent.\n* Patients with breast implants.\n* Pregnancy.\n* Presence of additional malignant lesions at ipsilateral site on MRI.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

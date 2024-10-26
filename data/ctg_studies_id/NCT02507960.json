@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02507960",
+    "briefTitle": "The Gamma Pod: A Clinical Feasibility Study Device GCC 1202: The Gamma Pod: A Clinical Feasibility Study",
+    "officialTitle": "(GCC 1202): Tumor Bed Dose Delivery Using a Breast Specific Radiosurgery Device. The Gamma Pod : A Clinical Feasibility Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 17,
+    "primaryOutcomeMeasure": "Demonstration of the Feasibility and Safety of Delivering a Radiation Treatment Using the GammaPod (TM)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The patient must sign consent for study participation.\n* The patient must be female and have a diagnosis of an invasive or non-invasive breast cancer that was treated surgically by a partial mastectomy.\n* The patient must be deemed an appropriate candidate for breast conserving therapy (i.e. not pregnant, never had radiation to the treated breast, breast size would allow adequate cosmesis after volume loss from partial mastectomy).\n* Patients with involved lymph nodes are candidates for the study as long as regional nodal radiation is not required by the treating physician.\n* Surgical margins are negative for invasive or non-invasive breast cancer.\n* The greatest dimension of the tumor is less than 4cm before surgery.\n* The volume of the TB CTV is less than 25% of the whole breast PTV which is a criteria used for partial breast alone trials (NSABP B-39).\n* Multifocal disease is allowed if it was removed by a single lumpectomy resection and the patient remained a candidate for breast conservation.\n* Age 60 years and older.\n* Women of childbearing potential must use an effective contraceptive method such as condom/diaphragm and spermicidal foam, intrauterine device (IUD), or prescription birth control pills.A negative pregnancy test must be obtained prior to study enrollment or waiver signed.\n* The surgical cavity is clearly visible on CT images.\n* The patient must weigh less than 150Kg (330lb), which is the limit of the imaging couch.\n* The patient must feel comfortable in the prone position.\n\nExclusion Criteria:\n\n* Patients with proven multicentric carcinoma (tumors in different quadrants of the breast or tumor separated by at least 4 cm).\n* Prior radiation therapy above the umbilicus\n* Unable to fit into the immobilization breast cup with an adequate seal\n* Male gender.\n* Patient cannot comfortably be set up in the prone position (i.e. physical disability)\n* Unable to fit into the breast immobilization device due to breast size or other anatomical reason.\n* Mastectomy is the surgery performed.\n* Patient has received prior radiotherapy to the involved breast.\n* Regional nodal irradiation is part of the treatment plan.\n* Tumor bed is less than 5 mm from the skin surface.\n* Patients with skin involvement, regardless of tumor size.\n* Patients with connective tissue disorders specifically systemic lupus erythematosis, scleroderma, or dermatomyositis.\n* Patients with psychiatric or addictive disorders that would preclude obtaining informed consent.\n* Patients who are pregnant or lactating due to potential exposure of the fetus to RT and unknown effects of RT to lactating females.",
+    "sex": "FEMALE",
+    "minimumAge": "60 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

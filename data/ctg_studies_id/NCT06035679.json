@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06035679",
+    "briefTitle": "Pyrotinib Combined With Trastuzumab and Chemotherapy Neoadjuvant Therapy for HER2-positive Breast Cancer",
+    "officialTitle": "Prospective, Single-center, Observational Clinical Study of Pyrotinib Combined With Trastuzumab and Chemotherapy Neoadjuvant Therapy for HER2-positive Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "tpCR",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patients aged 18-75 years;\n2. Her2-positive breast cancer confirmed by pathology;\n3. invasive breast cancer confirmed by histology, Tumor stage: early stage (T1c-3, N0-1, M0) or locally advanced stage (T2-4, N2, N3, M0);\n4. ECOG PS: 0-1 score;\n5. Plan to undergo the final surgical removal of breast cancer, i.e. breast conserving surgery or total mastectomy, sentinel lymph node (SN) biopsy or axillary lymph node dissection (ALND)\n6. Normal function of major organs means that the following criteria are met:\n\n(1) Blood test neutrophil (ANC) \\>=1.5x10\\^9/L; Platelet count (PLT) \\>=90x10\\^9/L; Hemoglobin (Hb) \\>=90g/L; (2) Total bilirubin (TBIL) \\<=1.5 upper limit of normal (ULN); Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) \\<=1.5xULN; Alkaline phosphatase \\<=2.5xULN; Urea nitrogen (BUN) and creatinine (Cr) \\<=1.5xULN; (3) Left ventricular ejection fraction (LVEF) \\>=55%; (4) The QT interval (QTcF) corrected by Fridericia method was less than 470msec in 12-lead ECG; 7. For women who have not undergone menopause or surgical sterilization: consent to abstinence or use an effective contraceptive method (during treatment and for at least 7 months after the last dose in the study treatment); 8. Volunteer to participate in this study, sign the informed consent, have good compliance and be willing to cooperate with follow-up.\n\nExclusion Criteria:\n\n1. Known allergic history of the drug components of this protocol;\n2. Previous or co-existing other malignant tumors, except cured basal cell carcinoma of the skin and carcinoma in situ of the cervix;\n3. Participated in clinical trials of other antitumor drugs within four weeks;\n4. Stage IV (metastatic) breast cancer;\n5. Multiple factors affecting oral medication (e.g., inability to swallow, post-gastrointestinal resection, chronic diarrhea, and intestinal obstruction);\n6. A history of congestive heart failure (CHF) or uncontrolled heart disease (angina, arrhythmia, hypertension);\n7. Patients with active infection and severe mental illness;\n8. Pregnant or lactating patients;\n9. Patients with allergies or known history of allergies to the drug components of this protocol; A history of immunodeficiency, including being HIV positive, or having other acquired or congenital immunodeficiency diseases, or a history of organ transplantation;\n10. Concomitant diseases that, in the judgment of the investigator, seriously endanger the patient's safety or interfere with the patient's completion of the study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

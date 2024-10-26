@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00774241",
+    "briefTitle": "PRIMADOS Study:A Study of Avastin (Bevacizumab) Plus Docetaxel for First Line Treatment of Patients With Metastatic Breast Cancer",
+    "officialTitle": "An Open Label Study of the Effect of First Line Combination Treatment With Avastin and Docetaxel on Disease Response in Patients With Metastatic Breast Cancer",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Response rate, median progression free survival, overall survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* male and female patients, \\>=18 years of age;\n* stage IV, HER2 negative metastatic breast cancer;\n* candidate for taxane-based therapy;\n* ECOG performance status 0-2.\n\nExclusion Criteria:\n\n* prior chemotherapy for metastatic breast cancer;\n* concomitant primary malignant disease, except for adequately treated cervical cancer in situ, or basal or squamous cell skin cancer within last 5 years;\n* suspicion of CNS metastasis;\n* clinically significant cardiovascular disease.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

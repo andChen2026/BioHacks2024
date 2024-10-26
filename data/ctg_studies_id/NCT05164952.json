@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05164952",
+    "briefTitle": "Delayed Versus Immediate Use Of Zoledronic Acid For Postmenopausal Patients With Early Breast Cancer Who Are Using Adjuvant Letrozole",
+    "officialTitle": "Delayed Versus Immediate Use Of Zoledronic Acid For Postmenopausal Patients With ER/PR Positive Early Breast Cancer Who Are Using Adjuvant Letrozole",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Use of Zoledronic Acid in Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "The percentage change in lumber spine (L2-L4) BMD at 12 and 24 months for immediate- versus delayed-ZOL patients.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histologic evidence of ER/PR positive breast adenocarcinoma\n2. Postmenopausal women.\n3. Baseline LS and total hip BMD T-score \\> -2.0.\n4. No prior treatment with denosumab or IV bisphosphonates is allowed.\n5. No prior treatment with radiopharmaceuticals.\n6. Not pregnant and not nursing.\n7. Good dental health.\n8. ECOG performance status 0-2.\n9. Calculated creatinine clearance \\>= 30 mL/min.\n10. Corrected serum calcium \\>= 8.0 mg/dL (2.00 mmol/L) and \\< 11.6 mg/dL (2.90 mmol/L)\n\nExclusion Criteria:\n\n1. Patients with dental problems.\n2. Patients with impaired renal functions\n3. Patients with osteopenia, or T- score is below -2.0\n4. Patients with history of serious drug hypersensitivity or drug allergy.",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01492101",
+    "briefTitle": "The BEACON Study (Breast Cancer Outcomes With NKTR-102)",
+    "officialTitle": "The BEACON Study (Breast Cancer Outcomes With NKTR-102): A Phase 3 Open-Label, Randomized, Multicenter Study of NKTR-102 Versus Treatment of Physician's Choice (TPC) in Patients With Locally Recurrent or Metastatic Breast Cancer Previously Treated With an Anthracycline, a Taxane and Capecitabine",
+    "overallStatus": "COMPLETED",
+    "conditions": "Locally Recurrent Breast Cancer, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 852,
+    "primaryOutcomeMeasure": "Kaplan-Meier Estimate of Overall Survival: Intention to Treat (ITT) Population",
+    "eligibilityCriteria": "Inclusion Criteria (major highlights):\n\n* Patient is an adult female with histologically or cytologically confirmed carcinoma of the breast for whom single-agent cytotoxic chemotherapy is indicated\n* Patient can have either measurable or non-measurable disease by RECIST.\n* Patient has received prior therapy (administered in the neoadjuvant, adjuvant and/or metastatic setting) with an anthracycline, a taxane and capecitabine\n* Patient has minimum of 2 and a maximum of 5 prior cytotoxic chemotherapy regimens with the last dose administered within 6 months. A minimum of two chemotherapy regimens had to be for locally recurrent and/or metastatic disease. All therapy received prior to a diagnosis of metastatic disease (eg, neoadjuvant, adjuvant or repeated adjuvant therapy following a second resection) is counted as one regimen.\n* Patient has Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Adequate hematopoietic, liver and kidney functions.\n\nExclusion Criteria (major highlights):\n\n* Patient with chemotherapy within 21 days, radiotherapy within 14 days, biological therapy with 14 days, hormonal therapy within 7 days and investigational therapy within 21 days prior to randomization.\n* Patient with any major surgery within 28 days prior to randomization.\n* Patient with concurrent use of biologic agents for the treatment of cancer including antibodies or any investigational agent(s).\n* Patient with prior treatment for cancer with a camptothecin derivative.\n* Patient with chronic or acute GI disorders resulting in diarrhea of any severity grade; patients who are using chronic anti-diarrheal supportive care to control diarrhea in the 28 days prior to randomization.\n* Patient received pharmacotherapy for hepatitis B or C, tuberculosis or HIV.\n* Patient with known cirrhosis diagnosed with Child-PUGH Class A or higher liver disease.\n* Patient with prior malignancy (other than breast cancer) except for non-melanoma skin cancer and carcinoma in situ (of the cervix or bladder), unless diagnosed and definitively treated more than 5 years prior to randomization.\n* Patient requiring daily use of oxygen supplementation in the 28 days prior to randomization.\n* Patients with significant cardiovascular impairment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

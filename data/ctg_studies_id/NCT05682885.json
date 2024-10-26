@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05682885",
+    "briefTitle": "The Effectiveness of Lymphatic Bypass Supermicrosurgery",
+    "officialTitle": "The Effectiveness of Lymphatic Bypass Supermicrosurgery for Primary Lymphedema Prevention After Breast Cancer Axillary Lymph Node Dissection: a Randomized Controlled Study",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Related Lymphedema, Lymphedema Arm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 140,
+    "primaryOutcomeMeasure": "Cumulative incidence of BCRL",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer patient aged \\>18 years old\n* Breast cancer patient with clinically ALNs metastases (cN1 or cN2).\n* Breast cancer patient with no clinical metastasis and tumor size \u22655cm or no sentinel lymph node biopsy facility in the hospital.\n* Any breast cancer patients that receive neoadjuvant systemic therapy.\n\nExclusion Criteria:\n\n* Stage IV breast cancer patients who do not show clinical and radiological improvement after primary systemic therapy.\n* Breast cancer patients with previous surgeries such as mastectomy, axillary lymph node biopsy, sentinel lymph node biopsy (SLNB), and ALND.\n* Breast cancer patients with prior breast, chest wall, axillary, or neck radiotherapy.\n* Breast cancer patients with preoperative lymphatic system abnormality detected by ICG lymphography.\n* Breast cancer patients with iodine allergy, asthma, decreased kidney function, pregnancy, and lactation.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

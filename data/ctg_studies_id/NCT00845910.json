@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00845910",
+    "briefTitle": "A Study of Circulating Endothelial Cell as Marker for Avastin (Bevacizumab) in Combination With Docetaxel Plus Xeloda (Capecitabine) as First Line Treatment for Patients With Locally Recurrent and Metastatic Breast Cancer",
+    "officialTitle": "A Phase II Trial of Evaluating Circulating Endothelial Cell as A Surrogate Marker for Monitoring Treatment Efficacy of Docetaxel Plus Capecitabine With Bevacizumab as First Line Treatment for Patients With Locally Recurrent and Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 22,
+    "primaryOutcomeMeasure": "Overall response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female patients, 18-65 years of age;\n* locally recurrent and metastatic breast cancer;\n* measurable or evaluable disease;\n* ECOG performance status of 0-2;\n* LVEF \\>=50% without clinical symptoms or signs of heart failure.\n\nExclusion Criteria:\n\n* unknown HER2 status, or known HER2-positive status;\n* prior chemotherapy for locally recurrent or metastatic disease;\n* prior adjuvant or neoadjuvant taxane therapy within 12 months prior to start of treatment;\n* clinical or radiological evidence of CNS metastases;\n* clinically significant cardiovascular disease.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

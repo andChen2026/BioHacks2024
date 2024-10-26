@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00022230",
+    "briefTitle": "Combination Chemotherapy Plus Biological Therapy in Treating Patients With Stage II or Stage III Breast Cancer",
+    "officialTitle": "Combination of Chemotherapy With Taxol, Adriamycin, and Cytoxan (TAC), Multiple Infusions of Activated T Cells (ATC), Interleukin-2 (IL-2) and GM-CSF for High Risk Breast Cancer With and Without Her2/Neu Overexpression. (Phase I/II)",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Toxicity",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed stage II or III adenocarcinoma of the breast\n* High-risk disease\n\n  * At least 4 positive lymph nodes\n  * Fewer than 4 positive lymph nodes considered high-risk if one of the following is present:\n\n    * HER2/neu-positive disease\n    * Enlarged axillary nodes\n    * Extra capsular extension of tumor from lymph node\n    * Dermal lymphatic invasion\n    * Vascular invasion\n    * Bilateral disease\n    * Familial breast cancer\n    * T4 locally advanced disease\n* Clinically chemosensitive to prior paclitaxel (or other taxane), doxorubicin, and cyclophosphamide\n\n  * No relapse after chemotherapy\n* No clinical evidence of brain metastases\n* Hormone receptor status:\n\n  * Estrogen and progesterone receptor status known\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* Karnofsky 70-100% OR\n* ECOG 0-2\n\nLife expectancy:\n\n* At least 3 months\n\nHematopoietic:\n\n* Granulocyte count at least 1,500/mm\\^3\n* Platelet count at least 50,000/mm\\^3\n* Hemoglobin greater than 8 g/dL\n\nHepatic:\n\n* Bilirubin less than 1.5 times normal\n* SGOT less than 1.5 times normal\n\nRenal\n\n* Creatinine less than 1.8 mg/dL\n* Creatinine clearance at least 60 mL/min\n* BUN less than 1.5 times normal\n\nCardiovascular:\n\n* Ejection fraction at least 45% by MUGA\n* No uncontrolled or significant cardiovascular disease\n* No myocardial infarction within the past year\n* No significant congestive heart failure\n\nPulmonary:\n\n* FEV_1 at least 60% predicted\n* DLCO at least 60% predicted\n* FVC at least 60% predicted\n\nOther:\n\n* No other malignancy except curatively treated squamous cell carcinoma in situ of the cervix or basal cell skin cancer\n* No other serious medical or psychiatric illness that would preclude study participation\n* HIV negative\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* See Disease Characteristics\n* Prior standard chemotherapy with anthracyclines or combination chemotherapy involving a combination of taxanes, doxorubicin, and/or cyclophosphamide allowed\n\nEndocrine therapy:\n\n* No concurrent hormonal therapy for breast cancer\n* Concurrent hormonal therapy for nondisease-related conditions (e.g., insulin for diabetes) allowed\n* Concurrent steroids for adrenal failure, septic shock, or pulmonary toxicity allowed\n\nRadiotherapy:\n\n* Not specified\n\nSurgery:\n\n* Prior complete resection of tumor allowed\n\nOther:\n\n* Prior successful neoadjuvant therapy allowed",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

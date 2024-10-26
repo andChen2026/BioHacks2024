@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02010021",
+    "briefTitle": "Presurgical Treatment With Letrozole in Patients With Early-stage Breast Cancer.",
+    "officialTitle": "Presurgical Treatment With Letrozole in Patients With Early-stage Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 17,
+    "primaryOutcomeMeasure": "Change in Insulin Receptor Substrate 1 (IRS-1) / Phosphoinositide 3-kinase (PI3K) / Serine-threonine Protein Kinase (AKT) Pathway Activation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologic Documentation of invasive breast cancer by core needle or incisional biopsy. Excess baseline biopsy tumor tissue sufficient to make three 5-micron sections must be available for molecular analyses as part of this study.\n* The invasive cancer must be estrogen receptor alpha (ER)-positive, with ER staining present in greater than 50% staining of invasive cancer cells by IHC.\n* The invasive cancer must be human epidermal growth factor receptor 2 (HER2) negative (IHC 0-1+, or with a fluorescence in situ hybridization (FISH) ratio of \\<1.8 if IHC is 2+ or if IHC has not been done).\n* Clinical stage I-III invasive breast cancer with the intent to treat with surgical resection of the primary tumor. Tumor must be \u2265 2cm to provide adequate tissue.\n* Patients with multi-centric or bilateral disease are eligible if the target lesions meet the other eligibility criteria. Samples from all available tumors are requested for research purposes.\n* Women \u2265 age 18, for whom adjuvant treatment with an aromatase inhibitor would be clinically indicated. Women must be either post-menopausal, or pre-menopausal having undergone oophorectomy.\n* Patients must meet the following clinical laboratory criteria:\n\nAbsolute neutrophil count (ANC)\u2265 1000/mm3 and platelet count \u2265 75,000/mm3. Total bilirubin \u2264 1.5 X the upper limit of normal range (ULN). Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) \u2264 3 x ULN.\n\n- Ability to give informed consent.\n\nExclusion Criteria:\n\n* Prior endocrine therapy for any histologically confirmed cancer is not allowed. Prior endocrine therapy that was administered \u2265 5 years ago for the prevention of breast cancer in patients with no history of breast cancer is allowed.\n* Systemic drug treatment to induce ovarian suppression if woman is pre-menopausal.\n* Any other neoadjuvant therapy for breast cancer (i.e., treatment with any other anti-cancer agent besides Letrozole (10-21)days before surgical resection of the primary tumor).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04657237",
+    "briefTitle": "Effect of Anesthesia on Expression of Programmed Death-1 and Programmed Death-1 Ligand in Breast Cancer",
+    "officialTitle": "Effect of Anesthesia and Surgical Stress on the Expression of Programmed Death-1 and Programmed Death-1 Ligand on T Lymphocyte After Breast Cancer Surgeries",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Programmed Cell Death 1",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "change in level of PD1 and PD1 ligand postoperatively",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* patients scheduled for breast cancer surgery\n\nExclusion Criteria:\n\n* compromised immune function (such as infection with the human immunodeficiency virus, immunodeficiency, or treatment with corticosteroids, immunosuppressive drugs, or chemotherapy)\n* ASA \\> III\n* age\\> 70 years old.\n* patients refusal to the procedure.\n* Infection of the skin at or near site of needle puncture.\n* Coagulopathy .\n* Drug hypersensitivity or allergy to the studied drugs.\n* Central or peripheral neuropthy .\n* Pre-operative opoid consumption ( within 24 hours preoperative )\n* Anomalies of the vertebral column .",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

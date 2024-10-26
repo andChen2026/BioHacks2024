@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00662025",
+    "briefTitle": "Study Of Sunitinib With Capecitabine In Breast Cancer",
+    "officialTitle": "A Phase II Study Of Sunitinib Malate In Combination With Capecitabine In Patients With Advanced Or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced/Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 63,
+    "primaryOutcomeMeasure": "Number of Participants With Objective Response Based on Data Review Committee's Assessment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically- or cytologically-proven diagnosis of breast adenocarcinoma that is not amenable to surgery, radiation, or combined modality therapy with curative intent\n* Measurable disease as per RECIST. Measurable lesions that have been previously irradiated will not be considered target lesions unless increase in size has been observed following completion of radiation therapy.\n* Prior treatment with an anthracycline and a taxane in the neoadjuvant, adjuvant or metastatic disease settings.\n\nExclusion Criteria:\n\n* Histology of inflammatory carcinoma with no other measurable disease. Patients with histology of inflammatory carcinoma are allowed on study if they have measurable disease.\n* Brain metastases, spinal cord compression, or carcinomatous meningitis, or leptomeningeal disease.\n* Prior treatment with 5-fluorouracil (5-FU) and 5-FU derivatives such as Furtulon (5'-DFUR), Futraful/ Sunfural (tegafur), UFT/UFT-E (tegafur/uracil), TS-1 (tegafur/gimeracil/oteracil) or Mifurol (carmofur) in metastatic disease setting",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

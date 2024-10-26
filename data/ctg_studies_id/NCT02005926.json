@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02005926",
+    "briefTitle": "The Accuracy of Sentinel Node Biopsy of Breast Cancer With Sonographic Abnormal Axillary Lymph Nodes",
+    "officialTitle": "Phase II Trail of Removing Sonographic Abnormal Lymph Node in Sentinel Lymph Node Biopsy of Breast Cancer Patient",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "False negative rate of sentinel node biopsy if sonographic abnormal node not be removed",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histologically confirmsed primary breast cancer by core neelde biopsy or excisional biospy\n* abnormal axillary lymph node was found by ultrasound examination before SLNB (abnormal nodes were defined as completely hypoechoic node, asymmetric focal hypoechoic node, cortical lobulation and cortical thickness \\>3mm)\n* ultrasound-guided FNA cytology of these nodes were performed\n* the result of FNA cytology was negative (no tumour cell was found)\n* patient planed to perform SLNB\n\nExclusion Criteria:\n\n* pathological diagnosed ductal carcinoma in situ by excisional biospy\n* abnormal axillary lymph node was found by ultrasound examination but FNA cytology of these nodes were not performed\n* the result of FNA cytology was positive (tumour cell was found)\n* T4d tumour\n* patient has recieved neo-adjuvant system therapy",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00802711",
+    "briefTitle": "3-Dimensional Conformal Radiation Therapy or Internal Radiation Therapy After Breast-Conserving Surgery in Treating Women With Stage I or Stage II Breast Cancer",
+    "officialTitle": "Phase II Randomised Clinical Trial of Accelerated Partial Breast Irradiation (APBI) Comparing 3-Dimensional Conformal Radiation Therapy and Multi-Catheter Interstitial Brachytherapy.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Rate of successfully delivered accelerated partial breast irradiation",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Pathologically proven invasive ductal carcinoma of the breast\n\n  * Stage I or II disease (pathological tumor size \u2264 3 cm, N0, M0 disease)\n\n    * No T2 (tumor size \\> 3 cm) or T3 disease\n    * No lymph node (L0) or hemangiosis (V0) invasion\n* Unilateral, unifocal, and unicentric tumor without associated suspicious diffuse microcalcification in the ipsilateral or contralateral breast\n\n  * No multifocal/multicentric disease\n* Previously treated with breast-conserving surgery with adequate axillary node management\n\n  * Negative surgical resection margins for tumor (invasive tumor or ductal carcinoma in situ \\[DCIS\\]) on histology\n  * Clearly identified primary tumor excision cavity (clips recommended) with a target lumpectomy cavity/whole breast ratio quantifiable and \u2264 25% on the post-operative CT scan\n\n    * Patients with a lumpectomy cavity/whole breast ratio 25-30% are eligible but will undergo partial breast irradiation using multi-catheter interstitial brachytherapy during study\n* Breast size amenable to partial breast irradiation (i.e., \\> A-cup size)\n* No other pathological invasive tumor or DCIS\n* No associated extensive DCIS component (\\< 25%)\n* No associated Paget's disease of the nipple\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No breast implants\n* No collagen vascular disease\n* No psychiatric condition or other condition that, in the opinion of the investigator, would preclude study requirements\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior radiotherapy\n* No concurrent chemotherapy\n\n  * Sequential chemotherapy allowed\n* Concurrent hormonal therapy allowed",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

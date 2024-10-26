@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01170143",
+    "briefTitle": "Efficacy and Safety Study of Trastuzumab, Paclitaxel and Carboplatin on HER2+ Preoperative Breast Cancer",
+    "officialTitle": "A Randomized Study to Investigate the Efficacy and Safety of qw or q3w Trastuzumab, Paclitaxel and Carboplatin in Patients With IIB-IIIB HER2 Positive Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Primary Endpoint is efficacy. To compare the efficacy in terms of the pathological complete response rate (pCR) to preoperative administration of qw or q3w Paclitaxel, Carboplatin and Trastuzumab (PCH).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women aged equals to or more than 18 years and no more than 70 years with life expectancy more than 12 months\n2. Histologically confirmed invasive breast cancer (excluding inflammatory breast cancer) by core needle biopsy, T2N1 or local advanced breast cancer, with no evidence of metastasis\n3. HER2 positive confirmed by FISH/CISH+ or IHC 3+\n4. With no history of cancer other than in situ uterine cervix cancer or skin basal cell carcinoma\n5. Adequate hematopoietic function: Neutrophil larger than 1.5\\*109/L; Hb larger than 100g/L; PLT larger than 100\\*109/L\n6. Adequate hepatic and renal function\n\n   * serum AST less than 60U/L\n   * Total bilirubin less than 1.5 ULN\n   * serum creatinine less than 110umol/L\n   * BUN less than 7.1mmol/L\n7. LVEF 55% by MUGA scan or echocardiography\n8. Adequate coagulation function\n9. ECOG PS 0-1\n10. Willing to take biopsy before surgery and during chemotherapy and willing to take pre-operative chemotherapy and related treatment\n11. Women of child-bearing potential must have a negative pregnancy test (urine or serum) within 7 days of drug administration and agree to take an adequate contraceptive measure\n12. Signed written informed consent; Able to comply with the protocol\n\nExclusion Criteria:\n\n1. Prior systemic or loco-regional treatment of breast cancer, including chemotherapy\n2. Metastatic breast cancer\n3. Patients with medical conditions that renders them intolerant to neoadjuvant therapy and related treatment, including uncontrolled pulmonary disease, Diabetes Mellitus, severe infection, active peptic ulcer, Coagulation disorder, connective tissue disease or myelo-suppressive disease\n4. History of congestive heart failure, uncontrolled or symptomatic angina pectoris, arrhythmia or myocardial infarction; poorly controlled hypertension (Systolic BP more than 180mmHg or Diastolic BP more than 100mmHg\uff09\n5. grade 1 peripheral neuropathy from any cause\n6. Patient is pregnant or nursing\n7. Not willing to take pre-operative biopsy or neo-adjuvant therapy\n8. Patients with psychiatric disorder or other disease leading to incompliance to the therapy\n9. Known hypersensitivity to any ingredient of the regimen\n10. Treatment with any investigational drug within 30 days before the beginning of treatment with study drug",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

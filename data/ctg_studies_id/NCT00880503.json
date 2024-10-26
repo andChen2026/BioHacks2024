@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00880503",
+    "briefTitle": "Collection of Tissue Samples for Study of Multidrug Resistance",
+    "officialTitle": "Multidrug Resistance Molecular Target Analysis of Human Samples Collected in Clinical Trials Performed Outside of the Intramural National Cancer Institute",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Carcinoma, Breast Cancer, Medullary Thyroid Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 325,
+    "primaryOutcomeMeasure": "Expression of MDR1/P-glycoprotein and related drug resistance proteins",
+    "eligibilityCriteria": "* INCLUSION CRITERIA:\n\nAny patients entered on approved trials of cancer therapeutics at Children's Hospital of Pittsburgh, Herlev Hospital, and the University of Copenhagen outside of the intramural NCI are eligible for inclusion, provided that they have consented to tumor studies in the original consent forms.\n\nEXCLUSION CRITERIA:\n\nNone anticipated at this time.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

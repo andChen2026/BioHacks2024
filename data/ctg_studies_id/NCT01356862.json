@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01356862",
+    "briefTitle": "Pasireotide LAR Administration in Lymphocele Prevention After Axillary Node Dissection for Breast Cancer",
+    "officialTitle": "Evaluation of the Effect of Pasireotide LAR Administration in the Lymphocele Prevention After Axillary Node Dissection for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 91,
+    "primaryOutcomeMeasure": "aspirations global volume of lymphoceles",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patient aged 18 years or over.\n* Patient understands French.\n* Patient covered by the French national health insurance system.\n* Any female patient scheduled for breast surgery with mastectomy and axillary node dissection indicated at the pre-surgical stage.\n\nExclusion Criteria:\n\n* Patient under the age of 18 years.\n* Patient who does not understand French.\n* Patient not covered by the French national health insurance system.\n* Patient exhibiting one or more contraindications to anesthesia and surgery.\n* Patient with a contra-indication to pasireotide\n* Refusal by the patient\n* Scheduled sentinel node procedure\n* Abnormal coagulation or curative anticoagulant treatment\n* Women of child-bearing potential without effective contraception,\n* Pregnant or breast-feeding women\n* Poorly controlled diabetes (HbA1c \\> 8%)\n* History of radiotherapy\n* Recurrent breast cancer\n* Patient with a congestive cardiac insufficiency (NYHA category III or IV), an instable angina pectoris, sustained ventricular tachycardia or ventricular fibrillation episodes or history of myocardial infarction during the last 6 months.\n* Patient presenting an extension of QT interval (QT corrected according to the Fridericia formula (QTcF)) at the screening or baseline (predose) \\> 450msec\n* History of syncope or family history of sudden death or significant cardiac arrhythmia\n* Risk factors for torsades de pointes: hypokaliaemia, hypomagnesaemia, known structural or ischaemic cardiac disease, bradycardia (HR\\<55/min) or high grade AV block\n* Concomitant disease that could prolong QT or increase exposure to the study medication including dehydration, renal or hepatic impairment\n* Concomitant medication known to increase the QT interval\n* Patient with an hepatic pathology such as cirrhosis, chronic hepatitis active or persistent, or an elevation of ALAT rate, ASAT rate twice higher than the normal superior limit (NSL)\n* Patient having leucocytes \\< 3x109/L, Hb \\< 90% LIN, platelets \\< 100x109/L\n* Patient having a pathology or medical history susceptible to interfere with the realization of the study or results evaluation according to the judgment of the investigator or the study monitor\n* Patient participating to another clinical trial with another molecule in study during the month before the first dose\n* Known oversensitivity to somatostatine analogs or another component of prolonged release pasireotide or prolonged release octreotide formulations.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02664389",
+    "briefTitle": "Targeted Next-generation Sequencing Panel for Identification of Germline Mutations in Early Onset Cancers With Sporadic or Hereditary Presentation",
+    "officialTitle": "Targeted Next-generation Sequencing Panel for Identification of Germline Mutations in Early Onset Cancers With Sporadic or Hereditary Presentation",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Ovarian Cancer, Colorectal Cancer, Pediatric Cancers, Multiple Primary Malignant Tumours",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 289,
+    "primaryOutcomeMeasure": "Frequency of germline deleterious mutations",
+    "eligibilityCriteria": "Inclusion Criteria :\n\n* Older than 18 or parental agreement in case of children.\n\nFor patient with early-onset breast cancer :\n\n* Invasive breast cancer, regardless of histological type or stage, diagnosed before 31 years.\n* Sporadic or familial presentation\n* No genomic alterations of BRCA1, BRCA2 or TP53\n\nFor patient with early-onset ovarian cancer :\n\n* Invasive ovarian cancer, regardless of histological type or stage, diagnosed before 41 years.\n* Sporadic or familial presentation\n* No genomic alterations of BRCA1, BRCA2\n\nPatient with early-onset colorectal cancer :\n\n* Invasive colorectal cancer diagnosed before 31 years.\n* Sporadic or familial presentation\n* No genomic alteration of MSH2, MLH1 or MSH6 in case of HNPCC presentation\n* No genomic alteration of APC, MUTYH, SMAD4, BMPR1A, PTEN or STK11 in case of adenomatous polyposis or hamartoma presentation\n\nPatient with pediatric cancer :\n\n* Non haematological tumour diagnosed before 16 years, with Li-Fraumeni presentation.\n* No genomic alteration of TP53\n\nPatient with Multiple primary malignant tumours :\n\n* Multiple synchronous or metachronous primary malignant tumors with early-onset\n* No syndromic presentation\n\nExclusion Criteria:\n\n* Any already known deleterious mutations according to the patient's phenotype",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

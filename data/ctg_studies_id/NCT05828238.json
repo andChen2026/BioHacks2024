@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05828238",
+    "briefTitle": "Positron Emission Tomograph(PET) Imaging Explores the Role of SF-DEVD-2 in Monitoring Tumor Efficacy",
+    "officialTitle": "PET Imaging Explores the Role of SF-DEVD-2 in Monitoring Tumor Efficacy",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Stage II, Breast Cancer Stage III, Solid Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Evaluation of tissue distribution of [18F]-DEVD-2",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients voluntarily signed informed consent;\n2. Age18-70, male or female;\n3. Diagnosed with stage 2 or 3 breast cancer\n4. Solid tumors\u3001masses larger than 2cm with lymph node metastasis\n5. Pathology is HER3+\u3001triple negative patients\n6. Patients to be treated with neoadjuvant chemotherapy\n\nExclusion Criteria:\n\n1. Age greater than or equal to 70 years old\n2. Abnormal liver and kidney function (more than five times the normal value)\n3. Diagnosis level of breast cancer stage 4 or second time tumor patients",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

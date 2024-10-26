@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03669497",
+    "briefTitle": "Hypo-Fractionated Radiotherapy in Breast Cancer",
+    "officialTitle": "Hypo-fractionated Radiotherapy Schedule of 26 GY in 5 Fractions With Simultaneous Integrated Boost (6 GY) in Advanced Incurable Breast Cancer: A Prospective Phase I/II Study (HYPORT-B).",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Advanced Breast Cancer, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 33,
+    "primaryOutcomeMeasure": "Toxicity (CTCAE v 4.03)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u226518 years\n\n  * Female\n  * Invasive carcinoma of the breast\n  * ECOG performance status 0-2\n  * Locally advanced breast cancer which is not amenable to curative surgery as decided by multidisciplinary tumour board.\n  * Metastatic breast cancer patients:\n\n    * Who are awaiting palliative locoregional radiotherapy for symptom (pain bleeding, ulceration, impending fungation) control.\n    * Who have completed a scheduled course of palliative chemotherapy and is felt to benefit from local radiation therapy\n  * Able to give informed consent\n\nExclusion Criteria:\n\n* Breast reconstruction using implants\n\n  * Concurrent cyto-toxic chemotherapy\n  * Prior radiation to the chest wall / breast",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

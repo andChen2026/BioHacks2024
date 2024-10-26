@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02546232",
+    "briefTitle": "Improved Breast Cancer Therapy (I-BCT-1) in the Neoadjuvant and Metastatic Setting",
+    "officialTitle": "Improved Breast Cancer Therapy (I-BCT-1) in the Neoadjuvant and Metastatic Setting: A Phase 2 Clinical Trial Protocol Studying Biological Rationale for the Optimal Selection of Treatment Regimens",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 196,
+    "primaryOutcomeMeasure": "Treatment response: Cohort I - pCR (pathologic complete response), Cohort II - CR (complete response), PR (partial response), SD (stable disease), PD (progressive disease)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Written informed consent obtained prior to any study-specific procedure\n2. Female or male age \u2265 18 years\n3. Able to comply with the protocol\n4. Histologically or cytologically confirmed, HER2 (human epidermal growth factor 2) -negative, men or women with breast adenocarcinoma\n5. WHO performance status \u2264 2\n6. Adequate hematological function Absolute neutrophil count (ANC) \u22651.0 x 109/L AND Platelet count \u2265100 x 109/L AND Hemoglobin \u2265 10 g/dL (may be transfused to maintain or exceed this level)\n7. Adequate liver function Total bilirubin \\<1.5 x upper limit of normal (ULN) AND AST (aspartate aminotransferase), ALT (alanine aminotransferase) \\<2.5 x ULN (in cohort I); AST, ALT \\<5 x ULN (in cohort II)\n8. Adequate renal function Serum creatinine \u22641.25 x ULN (and if measured: Creatinine clearance within normal reference values)\n9. Women should not be pregnant or breast-feeding. Women with an intact uterus (unless amenorrhoeic for the last 24 months and premenopausal levels of FSH (follicle stimulating hormone), LH (luteinizing hormone) and oestradiol) must have a negative serum pregnancy test within 28 days prior to inclusion into the study.\n\nExclusion Criteria:\n\n1. Previous chemotherapy treatment for localized breast cancer less than 24 months before inclusion into study (cohort I) or metastatic breast cancer treated with taxane (cohort II).\n2. Other earlier or concomitant carcinoma less than five years prior to the breast cancer diagnosis, except for basal cell carcinoma, in situ cervix cancer or breast cancer\n3. Clinically significant (i.e. active) cardiovascular disease for example cardiovascular accident (\u22646 months before enrolment), myocardial infarction (\u22646 months before enrolment), unstable angina, congestive heart failure (CHF) NYHA (New York Heart Association) Class \u2265II, serious cardiac arrhythmia requiring medication during the study, which might interfere with regularity of the study treatment, or not controlled by medication\n4. Treatment with any other investigational agent, or participation in another clinical intervention trial within 21 days prior to enrolment\n5. Evidence of any other disease, neurological or metabolic dysfunction, physical examination finding or laboratory finding giving reasonable suspicion of a disease or condition that contraindicates the use of an investigational drug or puts the patient at high risk for treatment-related complications.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

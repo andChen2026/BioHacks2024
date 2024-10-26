@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01343459",
+    "briefTitle": "Intra-Operative Electron Boost and Hypofractionated Whole-Breast Irradiation During Breast-conserving Treatment (BCT)",
+    "officialTitle": "Hypofractionated Whole-Breast Irradiation Preceded by Intra-Operative Radiotherapy With Electrons as Anticipated Boost HIOB A New Option in Breast-Conserving Treatment for Operated Breast Cancer Stages I and II",
+    "overallStatus": "COMPLETED",
+    "conditions": "Local Neoplasm Recurrence, Toxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1464,
+    "primaryOutcomeMeasure": "5 year local recurrence rate: Sequential Probability Ratio Test",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological proven invasive breast carcinoma\n* Age: \u2265 35 years\n* Tumor stage T1-2\n* nodal status: N0-1\n* Freedom of surgical margins: R0 (both invasive and in situ component), that means no ink on tumors (invasive or in situ) (ago-online.de) .\n* Also multifocal disease within the same quadrant with a maximum distance of \\< 5 cm\n* all grades G1-G3\n* Hormonal receptor and Her-2 status: no limitations\n* Informed and undersigned consent\n\nExclusion Criteria:\n\n* In-situ Carcinoma without invasive component\n* Age \\< 35\n* Tumor stage T3,4\n* Nodal status \\>N1\n* if irradiation of regional lymphatics is required\n* R1\n* Re-excision after IOERT\n* Immediately secondary mastectomy (not due to recurrence).\n* Multicentricity according to international definition: \\> 5 cm distance to each other\n* previous radiotherapy to the involved breast\n* Karnofsky Index \\< 70%\n* Mixed connective tissue diseases including rheumatoid Polyarthritis, Thrombangitis obliterans\n* Chronic pre-existent lung disease (Lung fibrosis, Pneumokoniosis, late-type Allergies like Farmer lung; Asthma bronchiale, severe Emphysema, COPD III \\*)\n* Cardiac Co-Morbidity: clinically positive coronary vessel disease, St.p. myocardial infarction, pacemakers and/or defibrillators)\n* Distant metastases\n* breast size (PTV) \\> 2500 ml\n* missing written consent\n* observed pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

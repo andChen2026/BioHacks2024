@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00338286",
+    "briefTitle": "A Study of Epoetin Alfa Plus Standard Supportive Care Versus Standard Supportive Care Only in Anemic Patients With Metastatic Breast Cancer Receiving Standard Chemotherapy",
+    "officialTitle": "A Randomized, Open-label, Multicenter, Phase 3 Study of Epoetin Alfa Plus Standard Supportive Care Versus Standard Supportive Care in Anemic Patients With Metastatic Breast Cancer Receiving Standard Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Neoplasm Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2098,
+    "primaryOutcomeMeasure": "Progression Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed (e.g., slide of tissue) breast cancer\n* HER2/NEU positive or negative\n* Clinical evidence of metastasis (e.g., biopsy) with at least 1 measurable metastatic (M1) lesion prior to starting the current chemotherapy\n* Received 1st and 2nd line chemotherapy\n* Hemoglobin (Hb) \\<= 11g/dL at the time of randomization\n* planned to receive at least 2 more cycles of chemotherapy\n* Life expectancy \\> 6 months\n* Eastern Cooperative Oncology Group score 0 or 1\n* At least 18 years old using effective birth control or surgically sterile or postmenopausal for 1 year\n\nExclusion Criteria:\n\n* Active second cancer\n* no recent history of clinically relevant thrombovascular event\n* Current treatment with anticoagulants\n* Brain metastasis or CNS involvement\n* Anemia secondary to another cause\n* Recent (within prior 1 months) use of an ESA\n* Patient pregnant or breast feeding\n* Progressive disease during adjuvant/neoadjuvant chemotherapy\n* Rapidly progressive or life-threatening metastatic disease\n* Concomitant endocrine therapy\n* Patient in whom the only site of metastasis was local and was successfully treated surgically.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

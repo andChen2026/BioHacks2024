@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02056080",
+    "briefTitle": "Clinical Benefit of the Treatment With Trastuzumab in Combination With Lapatinib in Metastatic Breast Cancer HER2 Positive Patients Who Has Been Previously Treated With Trastuzumab and/or Lapatinib",
+    "officialTitle": "Observational, Retrospective and Multicenter Study to Evaluate the Clinical Benefit of Trastuzumab in Combination With Lapatinib in Metastatic Breast Cancer HER2 Positive Patients Who Has Been Previously Treated With Trastuzumab and/or Lapatinib",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 111,
+    "primaryOutcomeMeasure": "Clinical response rate assessed by RECIST criteria",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of metastatic breast cancer HER2-positive phenotype (confirmed by IHC 3 + or FISH positive)\n* Older than 18 years\n* Progressed to at least one prior treatment line for MBC with trastuzumab and / or lapatinib, either as monotherapy or in combination with chemotherapy or hormonal therapy schemes\n* Having the patient's complete medical history that contains all lines antiHER2 therapy treatment\n* Being a patient who initiated the combination of trastuzumab and lapatinib between January 2005 and December 2011\n* Inform the patient and get the signature of the informed consent\n\nExclusion Criteria:\n\n* Not having phenotypic classification of the tumor by IHC or FISH test for HER2\n* Being a patient with HER2-negative phenotype(FISH negative or IHC in range \\[0-2 +\\] without FISH)\n* Being a patient who received the trastuzumab and/or lapatinib treatment (TL) in combination with chemotherapy\n* Being a patient who, since January 2012, began TL therapy for metastatic disease.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

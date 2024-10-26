@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00602108",
+    "briefTitle": "Radiation Therapy in Treating Women Undergoing Lumpectomy for Stage I or Stage IIA Breast Cancer",
+    "officialTitle": "Phase II Study of Intra-operative Electron Irradiation and Hypofractionated External Beam Irradiation After Lumpectomy in Patients With Stage T1N0M0 or T2N0M0 Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Toxicity: Up to 3 months post external beam radiation therapy",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed primary invasive breast carcinoma\n\n  * Stage I-IIA disease (T1, N0, M0 or T2, N0, M0)\n  * Pathologically determined single, discrete, and well-defined primary tumor \u2264 5 cm in diameter\n\n    * Pathologically negative surgical margins\n* No multicentric disease and/or diffuse malignant appearing microcalcifications\n\n  * Micro-calcifications must be focal\n\n    * Specimen radiograph is required after lumpectomy for tumors associated with malignant appearing calcifications to assure removal of all malignant appearing calcifications\n    * Specimen radiograph is optional if the tumor appears as a discrete mass on mammogram\n* No axillary lymph node involvement\n* No evidence of metastatic breast cancer\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-2\n* Menopausal status not specified\n* No pre-existing collagen vascular disease except rheumatoid arthritis that does not require immunosuppressive therapy\n* Not pregnant or nursing\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior irradiation to the area of planned radiation field\n* No prior placement of breast prosthesis in the treated breast\n* Concurrent hormonal therapy with external-beam irradiation allowed",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

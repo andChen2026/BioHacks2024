@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02997553",
+    "briefTitle": "Fluorescence for Sentinel Lymph Node Identification in Cancer Surgery",
+    "officialTitle": "Reliability of Indocyanine Green Use in Sentinel Lymph Node Identification in Cancer Surgery",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Carcinoma, Head and Neck Cancer, Melanoma (Skin), Squamous Cell Carcinoma, Skin, Cervix Cancer, Endometrium Cancer, Ovary Cancer, Vulva Cancer, Anus Cancer, Rectum Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 744,
+    "primaryOutcomeMeasure": "Non-inferiority of indocyanine green guided sentinel lymph node biopsy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* age \\>18 years\n* cancer histologically proved\n* patient eligible for sentinel node detection\n* contraceptive methods for men and women of childbearing age\n* signed informed consent form\n* patient affiliated to the social security system\n\nExclusion Criteria:\n\n* neoadjuvant chemotherapy or hormone therapy\n* adenopathy (s) clinically suspicious or positively cytopenic\n* women who are pregnant or breast-feeding\n* associated pathology that may prevent patient of receive indocyanine green\n* ongoing participation in another clinical trial with an investigational drug\n* patients deprived of liberty or under supervision\n* impossibility to undergo medical follow-up of the trial for geographical, social or psychological reasons",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

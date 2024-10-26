@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00010140",
+    "briefTitle": "Epirubicin and Tamoxifen With or Without Docetaxel in Treating Postmenopausal Women With Breast Cancer",
+    "officialTitle": "A Multicenter Randomized Trial of Sequential Epirubicin and Docetaxel Versus Epirubicin in Node Positive Postmenopausal Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": "N/A",
+    "primaryOutcomeMeasure": "Disease-free survival",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically proven node-positive breast cancer\n* Postmenopausal\n\n  * Last menstrual period more than 12 months before initial surgery OR\n  * Any age with prior bilateral oophorectomy OR\n  * Age 50 or over with prior hysterectomy without oophorectomy (unrelated to malignancy)\n* No distant metastases\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* See Disease Characteristics\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* See Disease Characteristics\n\nPerformance status:\n\n* WHO (ECOG) 0-1\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* WBC at least 3,000/mm3 OR\n* Absolute neutrophil count at least 1,500/mm3\n* Platelet count at least 100,000/mm3\n\nHepatic:\n\n* Bilirubin normal\n* SGOT and SGPT no greater than 1.5 times normal\n* Alkaline phosphatase no greater than 1.5 times normal\n\nRenal:\n\n* Creatinine less than 1.5 times normal\n\nCardiovascular:\n\n* No history of significant angina, congestive heart failure, or myocardial infarction within the past year\n* No clinically significant arrhythmias or uncontrolled hypertension\n* LVEF normal by MUGA, LV gated scan, or echocardiogram\n\nOther:\n\n* No other concurrent serious illness\n* No other prior or concurrent malignancy except adequately treated squamous cell or basal cell skin cancer or carcinoma in situ of the cervix\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* Not specified\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* Not specified\n\nSurgery:\n\n* See Disease Characteristics",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

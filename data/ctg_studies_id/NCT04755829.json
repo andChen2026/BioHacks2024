@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04755829",
+    "briefTitle": "Breath Test to Predict Breast Cancer and Outcome of Mammography",
+    "officialTitle": "Breath Test to Predict Breast Cancer and Outcome of Mammography",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Abnormal Mammogram, Unspecified",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "BREATH TEST TO PREDICT BREAST CANCER",
+    "eligibilityCriteria": "Group 1: Normal screening mammogram\n\nInclusion Criteria:\n\n1. Female aged 18 years or older\n2. Understands the study, and is willing to give written informed consent to participate\n3. If a screening mammogram was performed during the preceding six month period, then the results were reported as normal (BIRADS 1 or 2)\n4. If a screening mammogram was not performed during the preceding six month period, then approves collection of the results of a screening mammogram if and when it is performed subsequently\\*.\n5. Approves collection of relevant additional data for clinical research record if and when these data become available, including results of imaging studies, breast biopsy, and other relevant biomarker data e.g. status of BRCA1, BRCA2, HER2 and receptors (ER+ or ER-) and progesterone (PgR+ or PgR-) \\* If a subsequent screening mammogram is reported as abnormal, the subject will be transferred to Group 2 for analysis of data.\n\nExclusion Criteria:\n\n1. Previous history of an abnormal mammogram, breast disease, or breast biopsy\n2. Previous history of cancer of any site, with the exception of basal cell carcinoma of skin\n3. Concurrent serious or potentially life-threatening disease (e.g. severe cardiac or infectious disease)\n4. Concurrent acute pulmonary disease (e.g. influenza, influenza-like illness, acute asthma, or pneumonitis).\n5. General anesthesia during the 10-day period prior to breath collection.\n\nGroup 2: Abnormal screening mammogram\n\nInclusion Criteria:\n\nFemale aged 18 years or older\n\n1. Understands the study, and is willing to give written informed consent to participate\n2. Abnormal screening mammogram during preceding six months (BIRADS 3-6)\n3. Approves collection of relevant additional data for clinical research record if and when it becomes available, including results of imaging studies, biopsy results, and other relevant biomarker data e.g. status of BRCA1, BRCA2, HER2 and receptors (ER+ or ER-) and progesterone (PgR+ or PgR-)\n\nExclusion criteria:\n\n1. Previous history of cancer of any site, with the exception of basal cell carcinoma of skin\n2. Previous history of breast biopsy\n3. Concurrent serious or potentially life-threatening disease (e.g. severe cardiac or infectious disease)\n4. Concurrent acute pulmonary disease (e.g. influenza, influenza-like illness, acute asthma, or pneumonitis).\n5. General anesthesia during the 10-day period prior to breath collection. -",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

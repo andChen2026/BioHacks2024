@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04175210",
+    "briefTitle": "Prospective Randomized Study of Accelerated Radiation Therapy (PRART)",
+    "officialTitle": "Prospective Randomized Study of Accelerated Radiation Therapy (PRART) : A Non-Inferiority Trial to Compare Breast Cosmesis and Local Control After Concomitant Boost Breast Radiotherapy With Fifteen Fractions in Three Weeks (Arm 1, Standard) Versus Ten Fractions in Two Weeks (Arm 2, Experimental)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "Proportions of patients with adverse cosmetic outcomes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women status post segmental mastectomy\n* If unilateral, pT1-2 breast cancer excised with negative margins\n* If bilateral, pT1-2 breast cancer excised with negative margins AND/OR pTis excised with negative margins.\n* Clinically N0 or pN0 or sentinel node negative\n* Ductal carcinoma in situ DCIS with negative margins (no DCIS on inked margins).\n\nExclusion Criteria:\n\n* Previous radiation therapy to the ipsilateral breast.\n* 90 days from last surgery, unless s/p adjuvant chemotherapy\n* 60 days from last chemotherapy\n* Male breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

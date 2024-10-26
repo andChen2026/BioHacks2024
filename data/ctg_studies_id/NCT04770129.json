@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04770129",
+    "briefTitle": "Real-World Data on Clinical Characteristics, Demographics, and Outcomes of Patients With Metastatic Breast Cancer in Turkey",
+    "officialTitle": "Demographic Data and Outcomes Of Metastatic Breast Cancer Patients Treated Over The Last Decade At Tertiary Oncology Clinics In Highly Populated Cities In Turkey: A Turkish Oncology Collaborative Group Analysis",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1331,
+    "primaryOutcomeMeasure": "Treatment outcome data: Overall survival (OS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 years, no upper age limit.\n* Must have a definite diagnosis of metastatic breast cancer at the time of initial application at any of the participating clinical centers.\n* Patients who were initiated their first treatment at the center where the initial mBC diagnosis was made and whose follow-up and treatment period have continued at the current center.\n* Patients must have signed an informed consent that allow collection of personal data and protection of patient confidentiality according to the standard procedures of each participating center.\n\nExclusion Criteria:\n\n* Patients who were referred to the participating centers for further treatment for a second opinion.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

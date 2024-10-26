@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02597179",
+    "briefTitle": "Genome Sequencing in Refractory Breast Cancer to Molecular Targeted Therapy and Young Breast Cancer",
+    "officialTitle": "Genome Sequencing in Refractory Breast Cancer to Molecular Targeted Therapy and Young Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 350,
+    "primaryOutcomeMeasure": "Number of Participants With Mutated Genes and/or Abnormal Gene expression and/or Different Immune signature That Affect to Treatment Outcome.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histologically or cytologically confirmed breast cancer that is either metastatic or young breast cancer(\u2264 40 years of age).\n2. HER2 positive patient who failed HER2 target therapy including trastuzumab with feasible biopsy site.\n3. Triple Negative Breast Cancer patient who failed standard therapy with feasible biopsy site.\n4. Hormone Receptor positive patient who failed standard therapy with feasible biopsy site.\n5. Age \u2265 21 years\n6. Written informed consent\n\nExclusion Criteria:\n\n1. No feasible biopsy site\n2. No written informed consent",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04987931",
+    "briefTitle": "Real-World Outcomes of US Talazoparib-Treated Patients With Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "Real-World Patient Characteristics, Treatment Patterns, and Clinical Outcomes Among Talazoparib-Treated Patients With HER2-Negative, Locally Advanced or Metastatic Breast Cancer and Germline BRCA1/2 Mutations: US Chart Review",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 84,
+    "primaryOutcomeMeasure": "Time to Treatment Failure (TTF) for Talazoparib",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosed with HER2-negative ABC\n* gBRCA1/2 mutation(s)\n* Treatment with talazoparib monotherapy initiated on or after October 16, 2018\n\n  -\u226518 years of age at initiation of talazoparib\n* A minimum of 6 months follow-up time after initiation of talazoparib unless the patient died within this follow-up period\n\nExclusion Criteria:\n\n* Participation in any BC clinical trial after initiation of talazoparib\n* Treatment with a PARP inhibitor as neoadjuvant/adjuvant therapy\n* gBRCA1/2 or HER2 status unknown\n* Diagnosis of any other malignancy, except carcinoma in situ or nonmelanoma skin cancer, within the 5 years prior to data collection",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

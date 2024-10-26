@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02698202",
+    "briefTitle": "Screening for Breast Cancer With Digital Breast Tomosynthesis",
+    "officialTitle": "Randomized Controlled Trial to Evaluate the Efficacy of Digital Breast Tomosynthesis in Reggio Emilia Breast Cancer Screening Program in the 45-74 Age Group",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 40000,
+    "primaryOutcomeMeasure": "cumulative incidence of T2+ cancers after screening",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n45-70 years old women invited to breast cancer screening program who accepted to participate\n\nExclusion Criteria:\n\n* previous breast cancer diagnosis\n* pregnancy or suspicion of pregnancy\n* presence of BRCA1/2 gene mutation\n* Previous Digital Breast Tomosynthesis performed\n* unable to understand informed consent\n* chemotherapy in progress\n* presence of breast implant",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03279198",
+    "briefTitle": "Increasing Colorectal and Breast Cancer Screening in Women",
+    "officialTitle": "Increasing Colorectal and Breast Cancer Screening in Women",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female, Colorectal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 1196,
+    "primaryOutcomeMeasure": "Primary Outcome -differences in CRC screening adherence, when controlling for adherence to BC screening at baseline, among women who are randomized to 1) usual care; 2) a TIWeb; 3) a CSC, and 4) a TIWeb plus a CSC.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* a patient of any of the participating physicians\n* not having had a fecal occult blood test (fobt) in the last 12 months\n* not having had a fecal immunochemical test (fit) in the past 15 months\n* not having had sigmoidoscopy more than 5 years ago\n* not having had a colonoscopy more than 10 years ago\n* have high-speed internet access\n\nExclusion Criteria\n\n* a personal history of colorectal cancer\n* a personal history of breast cancer\n* a personal history of colorectal polyps\n* a personal history of inflammatory bowel disease\n* having any medical conditions that would prohibit a mammogram or CRC screening\n* have already had CRC screening",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04778670",
+    "briefTitle": "Artificial Intelligence in Large-scale Breast Cancer Screening",
+    "officialTitle": "Artificial Intelligence in a Population-based Breast Cancer Screening - the Prospective Clinical Trial ScreenTrust CAD",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Neoplasm Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 55579,
+    "primaryOutcomeMeasure": "Incident breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants in regular population-based breast cancer screening at Capio St G\u00f6ran Hospital\n\nExclusion Criteria:\n\n* Incomplete exam (complete exam: mediolateral oblique and craniocaudal images of Left and Right breast)\n* Breast implant\n* Complete mastectomy (excluded from screening positive group)\n* Participant in surveillance program for prior breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

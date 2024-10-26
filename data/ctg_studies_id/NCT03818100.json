@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03818100",
+    "briefTitle": "Neo-RT: A Study Investigating Whether Changing the Sequence of Treatments (Starting Radiotherapy Followed by Hormone Therapy Before Surgery) is Feasible",
+    "officialTitle": "Neo-RT: Pre-operative Breast Intensity Modulated Radiotherapy in Patients Receiving Neo-adjuvant Hormonal Treatment for Breast Cancer - a Feasibility Study.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 43,
+    "primaryOutcomeMeasure": "The proportion of patients successfully completing neo-adjuvant IMRT and endocrine treatment followed by beast surgery, as per study protocol.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent to participate\n* Female\n* Aged 18 years and older\n* ECOG performance status 0-2\n* Histology confirmed invasive breast cancer\n* ER positive (Allred score 6-8)\n* HER2 negative\n* Palpable size \u226520mm\n* Grade I-II (or grade III if considered not suitable for neo-adjuvant chemotherapy)\n* Considered that radiotherapy will make breast conserving surgery easier\n* No evidence of non-breast malignancy if treated with curative intent unless the patient has been disease free \u22655 years\n* Unifocal or multifocal disease, i.e. tumour in the same quadrant and breast conserving surgery still feasible\n\nExclusion Criteria:\n\n* Contraindications to breast radiotherapy or neo-adjuvant endocrine therapy\n* Bilateral breast cancer\n* Metastatic cancer\n* Multicentric disease\n* Concomitant medical/psychiatric problems preventing completion of study treatment or follow-up\n* Pregnancy\n* Breast feeding",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

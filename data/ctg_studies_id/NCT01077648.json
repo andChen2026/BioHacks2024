@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01077648",
+    "briefTitle": "Brain Metastasis in Breast Cancer Patients",
+    "officialTitle": "Occurrence of Brain Metastasis in Breast Cancer Patients Diagnosed at Advanced Stages of the Disease",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "Proportion of advanced stage breast cancer patients that develop brain metastases, overall and stratified by anti-HER2 therapy (for HER2+ patients only).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Initially diagnosed with American Joint Commission on Cancer (AJCC) stage III or stage IV breast cancer between January 1, 1995 through December 31, 2007 -OR- diagnosed with AJCC stage I or II breast cancer and progressed to stage III or IV disease between January 1, 1995 through December 31, 2007;\n* At least one year of follow-up after initial diagnosis (among patients who did not die before one year of follow-up); and\n* Age 30 years or older at diagnosis.\n\nExclusion Criteria:\n\n* Does not have at least one year of follow-up after initial diagnosis (among patients who did not die before one year of follow-up); and\n* Age less than 30 years or older at diagnosis.",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

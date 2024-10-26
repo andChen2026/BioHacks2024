@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00121160",
+    "briefTitle": "Health SMART (Stress Management and Relaxation Training) to Improve Vaccine Immune Response",
+    "officialTitle": "Can Stress Management Improve Vaccine Immune Response",
+    "overallStatus": "COMPLETED",
+    "conditions": "Psychological Stress",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 126,
+    "primaryOutcomeMeasure": "Independent sample t-test will be used to compare 1) antibody change scores from before to after the first and second dose of vaccine, and 2) distress change scores from before to after the intervention",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, age 18-60 years\n* Family history of breast cancer\n* Fluent in English\n* Working phone\n* Working address\n* Plan to live in the area for one year\n\nExclusion Criteria:\n\n* Prior cancer diagnosis (except non-melanoma skin cancer)\n* Current major depressive episode\n* History of Bipolar Disorder or Schizophrenia\n* History of autoimmune disease\n* History of Hepatitis A or HA vaccination\n* Current infectious disease\n* Use of immune modulating drugs",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

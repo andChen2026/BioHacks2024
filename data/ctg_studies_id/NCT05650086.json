@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05650086",
+    "briefTitle": "Novel Thermal Imaging Technique for Breast Screening",
+    "officialTitle": "A Phase II Study to Evaluate Accuracy of ThermalytixTM in Detecting Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 115,
+    "primaryOutcomeMeasure": "Sensitivity and specificity of ThermalytixTM in detecting breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Be capable of understanding the investigational nature of the study and all pertinent aspects of the study\n* Be capable of signing and providing written consent in accordance with institutional and federal guidelines\n* Be willing and able to comply with scheduled visits, treatment plan, and follow up with research staff\n* Age \u2265 21 years\n* Cohort specific criteria\n* Cohort 1: Be scheduled for biopsy\n* Cohort 2: Had a normal screening mammogram within 3 months of study enrollment\n* Cohort 3: Be scheduled for diagnostic mammogram\n* Cohort 4: History of breast cancer, s/p lumpectomy and be scheduled for routine mammogram\n\nExclusion Criteria:\n\n* Cohort specific criteria\n* Cohort 1: Previous biopsies in the same or opposite breast within 3 months of study enrollment, prior history of breast cancer, prior history of breast surgeries including implants\n* Cohort 2: prior history of breast surgeries including implants\n* Cohort 3: Already underwent a biopsy in the same or opposite breast within 3 months of study enrollment, prior history of breast cancer, prior history of breast surgeries including implants\n* Cohort 4: surgery \\<1 year, h/o mastectomy with reconstruction\n* Unable to complete study related procedures",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

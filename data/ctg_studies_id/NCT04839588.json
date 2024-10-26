@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04839588",
+    "briefTitle": "Telerehabilitation Cognitive Impairments Following Chemotherapy Usability Study",
+    "officialTitle": "Home-based Virtual Reality System for the Treatment of Chemotherapy-related Cognitive Impairments",
+    "overallStatus": "COMPLETED",
+    "conditions": "Chemotherapy-Related Cognitive Impairment, Healthy",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "USE questionnaire to assess the usability of a computerized system",
+    "eligibilityCriteria": "At NJ Bioscience Center Healthy Volunteers\n\n* Female\n* Age 20 to 65;\n* Good or corrected hearing;\n* Good or corrected vision;\n* No motor or cognitive impairments;\n* English speakers;\n* Those with low propensity for simulation sickness (as determined by the Simulation Sickness Questionnaire \\[Kennedy et al, 1993\\]).\n* Either healthy or having had stage II or stage III breast cancer;\n* Montreal Cognitive Assessment (MoCA) Score 10-25 indicating mild to moderate impairment \\[Chapman 2016\\] or 26-30 indicating normal cognition;\n\nEXCLUSION CRITERIA\n\n* Male;\n* Female participants younger than 20 or older than 65;\n* High propensity for simulation sickness (as determined by Simulation Sickness Questionnaire screening);\n* Those with severe visual neglect or legally blind;\n* Those with severe hearing loss or deafness;\n* Those with uncontrolled hypertension (\\>190/100 mmHg);\n* Those with severe cognitive impairment (MoCA score\\<10);\n* Current diagnosis of moderate-severe depression (Beck Depression Inventory II score of 17-63);\n* a history of psychiatric illness, defined as serious psychiatric illness such as bipolar mood disorder and schizophrenia, or requiring psychiatric hospitalization.\n* a history of or current substance abuse;\n* a previous head injury resulting in loss of consciousness;\n* a prior diagnosis of neurological illness;\n* a current or prior diagnosis of brain cancer;\n* non-English speakers;\n* Those unable to reliable participate in pre-study assessment due to any reason;\n* Those with co-morbidities limiting arm and neck motor function (ex. lymphedema, chronic pain, severe arthritis);\n* Less than 1 month post first chemotherapy regimen or starting chemotherapy during 16 weeks post screening (as chemotherapy during study participation is a confounding factor);\n* Those with Stage IV (metastatic) breast cancer will be excluded;\n* Those presenting with multiple cancers, such as breast and arm bone cancer, or breast and brain cancer;\n* Those who are unwilling to allow a home inspection to ascertain Internet quality, determine best placement for the experimental or sham systems, for installation and removal of the systems and necessary repairs.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

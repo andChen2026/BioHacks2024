@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01724866",
+    "briefTitle": "Phase 2 Study of SPI-2012 or Pegfilgrastim for the Management of Neutropenia in Participants With Breast Cancer",
+    "officialTitle": "Phase 2, Open-Label, Dose-Ranging Study of SPI-2012 (HM10460A) or Pegfilgrastim Use for the Management of Neutropenia in Patients With Breast Cancer Who Are Candidates for Adjuvant and Neoadjuvant Chemotherapy With the Docetaxel + Cyclophosphamide (TC) Regimen",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neutropenia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 148,
+    "primaryOutcomeMeasure": "Duration of Severe Neutropenia (DSN) in Cycle 1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed breast cancer and candidate for adjuvant or neoadjuvant chemotherapy\n* Candidate for docetaxel and cyclophosphamide chemotherapy\n* Female or male at least 18 years of age\n* Eastern Cooperative Oncology Group (ECOG) \u2264 2\n* Absolute neutrophil count (ANC) \u2265 1.5\u00d7109/L\n* Platelet count \u2265 100 x 10\\^9/L\n* Creatinine \u2264 1.5 x upper limit of normal (ULN)\n* Total bilirubin \u22641.5 mg/dL(\u2264 25.65 \u03bcmol/L).\n* Aspartate aminotransferase per serum glutamic-oxaloacetic transaminase (AST/SGOT) and/or alanine aminotransferase per serum glutamic-pyruvic transaminase (ALT/SGPT) \u2264 2.5 x ULN\n* Hemoglobin \\> 9 g/dL\n* Alkaline phosphatase \u2264 1.5 x ULN\n\nExclusion Criteria:\n\n* Known sensitivity to E. coli-derived products or known sensitivity to any of the products to be administered\n* Known Human Immunodeficiency Virus (HIV) infection\n* Hepatitis B Virus (HBV) or Hepatitis C Virus (HCV) diagnosis with detectable viral load or immunological evidence of chronic active disease\n* Active infection or any serious underlying medical condition that would impair ability to receive protocol treatment\n* Prior bone marrow or stem cell transplant\n* Prolonged exposure to glucocorticosteroids and immunosuppressive agents",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

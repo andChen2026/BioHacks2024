@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01849614",
+    "briefTitle": "Assessment of Ability of Breath Hold for Left-sided Breast Cancer Radiation Therapy to Reduce Side Effects to Heart",
+    "officialTitle": "Prospective Pilot Study of Assessment of Breath Hold as a Means to Mitigate the Risk of Radiation-associated Reductions in Regional Cardiac Perfusion in Patients With Left-sided Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Changes in cardiac perfusion",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* signed an Institutional Review Board (IRB)-approved informed consent document for protocol\n* age \\>= 18 years\n* histologically confirmed left-sided breast cancer scheduled to undergo curative intent radiation treatment post lumpectomy or mastectomy\n* stage 0-III left-sided breast cancer (including DCIS)\n* SPECT score of 0 at baseline\n* radiation oncologist agrees target volume coverage will not be compromised via use of the DIBH technique along with conformal field shaping\n\nExclusion Criteria:\n\n* active cardiac disease, defined as a history of angina, arrhythmias, myocardial infarction, congestive heart failure, or any other cardiac condition, which in the opinion of the treating physician would make this protocol unreasonably hazardous for the patient\n* symptomatic pulmonary disease currently requiring regular medication including but not restricted to bronchodilators\n* concurrent chemotherapy\n* prior receipt of mediastinal radiation therapy\n* pregnant or lactating women\n* inability to understand and follow breathing instructions for the DIBH procedure",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

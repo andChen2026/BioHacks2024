@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00379015",
+    "briefTitle": "Epirubicin and Cyclophosphamide Followed By Docetaxel and Trastuzumab in Treating Women With HER2-Positive Stage III or Stage IV Breast Cancer",
+    "officialTitle": "Neoadjuvant Epirubicin/Cyclophosphamide Followed by Docetaxel Combined With Trastuzumab for the Patients With HER-Positive Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 38,
+    "primaryOutcomeMeasure": "Pathological complete response",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of primary breast cancer\n\n  * Stage IIIB, IIIC, or IV disease\n* No inflammatory disease\n* HER2 over-expressing tumor as assessed by immunohistochemistry and/or fluorescent in situ hybridization\n* Hormone receptor status known\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Menopausal status not specified\n* Performance status 0-1\n* WBC \u2264 10,000/mm\u00b3\n* Absolute neutrophil count \u2265 2,000/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Hemoglobin \u2265 9.5 g/dL\n* SGOT/SGPT \u2264 60 IU/L\n* Bilirubin \u2264 1.5 mg/dL\n* Creatinine \u2264 1.5 mg/dL\n* LVEF \u2265 55%\n* No signs of pneumonitis\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior surgery except for biopsy\n* No prior or concurrent chemotherapy and/or hormonal therapy\n* No prior or concurrent biological therapy\n* No prior or concurrent radiotherapy except postoperative radiotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

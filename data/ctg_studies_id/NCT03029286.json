@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03029286",
+    "briefTitle": "ENGAGED 2 Study: Experiences With Mammography Screening and Breast Density 2",
+    "officialTitle": "ENGAGED 2 Study: Experiences With Mammography Screening and Breast Density 2",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Density, Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 995,
+    "primaryOutcomeMeasure": "Uptake of chemoprevention gathered via health plan pharmacy records at 12 months",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women, aged 40-69\n* Enrolled at Group Health\n* Have had a negative mammogram as part of their routine care\n* Either (a) an intermediate 5-year risk (\\>1.67%-2.49%) and extremely dense breasts or (b) a high 5-year risk (\u22652.50%) and either heterogeneously dense or extremely dense breasts utilizing the Breast Cancer Surveillance Consortium Risk Calculator (http://tools.bcsc-scc.org/BC5yearRisk/)\n* Women must also have a valid email address.\n\nExclusion Criteria:\n\n* Not able to speak and read English\n* History of LCIS\n* Prior cancer diagnosis (including DCIS)\n* Known BRCA1/2 family mutation, or previous receipt of cancer genetic counseling\n* Do not want to be contacted for research\n* Have previously participated in intervention development activities\n* Dis-enrolled from health plan between mammogram and start of recruitment.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

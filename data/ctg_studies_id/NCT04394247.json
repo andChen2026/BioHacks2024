@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04394247",
+    "briefTitle": "Patient Characteristics, Treatment Patterns, and Clinical Outcomes in Patients Diagnosed With HR+/HER2 Advanced/Metastatic Breast Cancer on Palbociclib + Aromatase Inhibitor (AI) Combination Therapy",
+    "officialTitle": "Patient Characteristics, Treatment Patterns, and Clinical Outcomes in Patients Diagnosed With HR+/HER2- Advanced/Metastatic Breast Cancer Receiving Palbociclib + Aromatase Inhibitor (AI) Combination Therapy as First-Line Treatment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 242,
+    "primaryOutcomeMeasure": "Percentage of Participants With Treatment Regimen Distribution",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female or male sex.\n* Diagnosis (confirmed by clinical review) of A/MBC, defined as breast cancer at stage IIIB, stage IIIC, stage IV or identified as having distant metastasis.\n* Age \u226518 years at A/MBC diagnosis.\n* Initiated palbociclib in combination with an AI as first-line therapy after A/MBC diagnosis on or after 03 February 2015 through 31 July 2019. Note that the date of the start of the inclusion period reflects the month of palbociclib US FDA approval.\n* Evidence of ER or PR positive disease, or absence of any indication of ER and PR negative disease closest to A/MBC diagnosis (ie, patients are eligible without affirmative indication of ER/PR+ status as long as ER/PR- indication is not present).\n* Evidence of HER2 negative disease, or absence of any indication of HER2 positive disease closest to A/MBC diagnosis (ie, patients are eligible without affirmative indication of HER2- status as long as HER2+ indication is not present).\n\nExclusion Criteria:\n\n* Enrollment in an interventional clinical trial for A/MBC during the study observation period.\n* Evidence of prior treatment with any CDK4/6 inhibitor in the adjuvant setting.\n* Evidence of another primary cancer within 3 years prior to the initial line containing palbociclib.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

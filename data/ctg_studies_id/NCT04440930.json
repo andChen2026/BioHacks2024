@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04440930",
+    "briefTitle": "White Tea for Prevention of Chemotherapy Induced Mucositis",
+    "officialTitle": "Can White Tea Prevent Oral Mucositis in Patients Receiving Neoadjuvant or Adjuvant Treatment With Paclitaxel for Breast Cancer? A Randomized Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Oral Mucositis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 88,
+    "primaryOutcomeMeasure": "Incidence of oral mucositis grade 2 or higher as measured by the Revised Oral Assessment Guide.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Woman with breast cancer\n* Planned neoadjuvant or adjuvant paclitaxel treatment\n* Age \u2265 18 years\n* Understand and speak Danish\n* Written and orally informed consent\n\nExclusion Criteria:\n\n- Palliative treatment with paclitaxel",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01732276",
+    "briefTitle": "The Safety and Effects of Gefitinib in Triple-negative,EGFR Positive Metastatic Breast Cancer",
+    "officialTitle": "Phase \u2161 Study of Gefitinib in Triple-negative,EGFR Positive Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "clinical benefit rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \u226518 years of age\n* \u22651 measurable or assessable lesion\n* Eastern Cooperative Oncology Group(ECOG)performance status of 0-2\n* adequate renal,hepatic and hematological function\n* a life expectancy of \\>12 weeks\n* histologically proven EGFR positive metastatic TNBC\n\nExclusion Criteria:\n\n* brain metastasis",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

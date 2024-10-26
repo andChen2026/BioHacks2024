@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04030104",
+    "briefTitle": "Optoacoustic Images Versus Imagio\u00ae Ultrasound",
+    "officialTitle": "Imagio\u00ae Pivotal Multi-Reader, Multi-Case Study of Optoacoustic Images Versus Imagio\u00ae Ultrasound to Guide Decision to Biopsy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 480,
+    "primaryOutcomeMeasure": "Gain in Specificity at Fixed 98% Sensitivity (fSp)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* One analyzable mass per patient: BI-RADS 3 and 4a, 4b, 4c and 5 masses as declared by clinical site investigator via PIONEER study inclusion criteria and categorized as BIRADS 3, 4a, 4b 4c and 5 by conventional diagnostic ultrasound (CDU)\n* Masses declared to be in the PIONEER Intention to Diagnose (ITD)/analysis population, including high risk cases per original PIONEER protocol\n* Patient age, indication for study entry and available medical history\n* Evaluable mammograms and OA and IUS video loops and stills for each mass\n\nExclusion Criteria:\n\n* Critical missing IUS or OA still image and/or video loop views or incorrect IUS or OA stills and video loops that would preclude a case from being evaluated by readers\n* Reader-02 Proficiency Test and training cases",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

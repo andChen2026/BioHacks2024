@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00030758",
+    "briefTitle": "Filgrastim or Pegfilgrastim in Preventing Neutropenia in Women Receiving Chemotherapy Following Surgery for Breast Cancer",
+    "officialTitle": "G-CSF (Filgrastim) or Pegfilgrastim Secondary Prophylaxis In The Adjuvant Chemotherapy Of Early Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Neutropenia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 816,
+    "primaryOutcomeMeasure": "Proportion of patients achieving \u2265 85% of planned dose intensity",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive breast cancer\n\n  * No locally advanced or metastatic breast cancer, including supraclavicular fossa metastases\n* Prior neutropenic event on current chemotherapy regimen, defined as 1 of the following:\n\n  * Hospitalization due to neutropenia\n  * Absolute neutrophil count \u2264 1.5 times upper limit of normal and considered sufficiently low to require a treatment delay or a dose reduction \\> 15% of planned dose\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* Not specified\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* See Disease Characteristics\n\nHepatic:\n\n* Not specified\n\nRenal:\n\n* Not specified\n\nOther:\n\n* No other concurrent malignancy\n* Considered suitable risk and fitness status to continue adjuvant chemotherapy\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No prior filgrastim (G-CSF) or pegfilgrastim\n\nChemotherapy:\n\n* See Disease Characteristics\n* No prior chemotherapy other than current regimen\n\nEndocrine therapy:\n\n* Prior tamoxifen allowed\n\nRadiotherapy:\n\n* Concurrent radiotherapy allowed\n* No concurrent sandwich/synchronous radiotherapy (i.e., administered during a break in the chemotherapy regimen)\n\nSurgery:\n\n* See Disease Characteristics\n\nOther:\n\n* Concurrent enrollment on other licensed chemotherapy trials allowed provided G-CSF is not excluded (e.g., TACT or TANGO trials)\n* Concurrent enrollment in the sequential arm of the SECRAB trial allowed (synchronous arm ineligible)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

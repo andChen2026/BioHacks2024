@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02479607",
+    "briefTitle": "Effects of an ICT-platform for Assessment and Management of Patient-reported Symptoms During Treatment for Breast Cancer",
+    "officialTitle": "PhONEME - ParticipatOn Ehealth MobilE. Effects of an Interactive ICT-platform for Assessment and Management of Symptoms in Patients Treated for Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Questionnaire Scale for Functional Health Literacy (S-FHL-Swedish version)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The diagnosis of breast cancer\n* Patients who will receive neoadjuvant chemotherapy\n* Literacy in the Swedish language\n\nExclusion Criteria:\n\n* Patients who need an interpreter at the doctor's visit\n* Patients who have a known severe cognitive impairment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

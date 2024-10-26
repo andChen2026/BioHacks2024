@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03459898",
+    "briefTitle": "Assessment of Left-sided Cardiac Sparing Through the Use of 3-dimensional Surface Matching-based Deep Inspiration Breath Hold and Active Breathing Control",
+    "officialTitle": "Assessment of Left-sided Cardiac Sparing Through the Use of 3-dimensional Surface Matching-based Deep Inspiration Breath Hold and Active Breathing Control",
+    "overallStatus": "COMPLETED",
+    "conditions": "Left-Sided Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Reproducibility of ABC or vDIBH set-up as measured by Align RT.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with diagnosis of left-sided breast malignancy\n* Women who require left chest wall or breast irradiation status post mastectomy or lumpectomy\n* Treatment with modified wide tangents to include IMCs\n* Treatment with four-field technique\n* Age \\>18 years\n* Performance status ECOG \\<3\n* Patient must be able to maintain a 30 second breath hold\n* Conventional chest wall or breast radiation delivery dose of 50Gy/25 or hypofractionated chest wall/breast radiation delivery dose of 42.56Gy/16 with or without a boost\n\nExclusion Criteria:\n\n* Right sided breast cancer patients\n* Treatment with partial breast irradiation\n* Previous left breast/chest wall irradiation\n* Locally advanced breast cancer\n* Pregnant patients\n* Unable to follow commands",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

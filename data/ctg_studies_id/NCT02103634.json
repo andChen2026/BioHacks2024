@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02103634",
+    "briefTitle": "NaF PET/MRI Evaluation for Bone Metastases in Breast Cancer",
+    "officialTitle": "NaF PET/MRI Evaluation for Bone Metastases in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Malignant Neoplasm of Breast TNM Staging Distant Metastasis (M), Untreated Bone Metastases",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 29,
+    "primaryOutcomeMeasure": "Sensitivity of NaF PET/MRI",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Referred to University Hospitals Cleveland Medical Center Nuclear Medicine for methylene diphosphonate (MDP) Bone Scintigraphy\n* Must understand and voluntarily sign an Informed consent form after the contents have been fully explained to them.\n* Patients must have no contra-indications to PET/CT or MRI (Patients will NOT be receiving either CT or MRI contrast and thus, those contraindications are not exclusionary).\n\nExclusion Criteria:\n\n* Patients who cannot tolerate imaging up to 120 minutes of total imaging (breaks of several minutes between imaging will be available)\n* Pregnant or breast feeding women.\n* Healthy volunteers\n* Inability to comply with instructions\n* MRI contraindications Include:\n\n  * Patients with ferromagnetic or otherwise non-MRI compatible aneurysm clips\n  * Patients with implanted pacemaker or implanted defibrillator device\n  * Patients with contraindications for MRI due to embedded foreign metallic objects. Bullets, shrapnel, metalwork fragments, or other metallic material adds unnecessary risk to the patient\n  * Implanted medical device not described above that is not MRI-compatible\n  * Known history of claustrophobia\n  * Contrast contraindications not included since patients will not be receiving MRI or CT contrast as part of this study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

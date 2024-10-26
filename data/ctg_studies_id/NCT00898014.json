@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00898014",
+    "briefTitle": "Blood Levels of Tumor Cells in Predicting Response in Patients Receiving First-Line Chemotherapy for Stage IV Breast Cancer",
+    "officialTitle": "Study Evaluating the Prognostic and Predictive Value of Response to First-Line Chemotherapy by Detection of Circulating Tumor Cells (CTC) in Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 216,
+    "primaryOutcomeMeasure": "Correlation of circulating tumor cells (CTC) with overall survival",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of stage IV breast cancer\n* Measurable or evaluable disease\n* Scheduled to receive first-line chemotherapy with or without trastuzumab (Herceptin\u00ae), depending on HER-2 status\n* Histologic block available for confirming pathologic diagnosis and measuring HER-2 status via FISH\n\nPATIENT CHARACTERISTICS:\n\n* Life expectancy \\> 3 months\n* No other cancer in the past 5 years except for basal cell skin cancer or epithelial in situ cancer of the cervix\n* No geographic, social, or psychiatric reasons that would make treatment impossible\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior chemotherapy for metastatic disease",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00131924",
+    "briefTitle": "High-Dose Esterified Estrogens in Treating Postmenopausal Women With Metastatic Breast Cancer That Has Failed Previous Hormone Therapy",
+    "officialTitle": "Phase II Study of High-Dose Estrogen in Postmenopausal Women With Hormone Receptor-Positive Metastatic Breast Cancer After Failure of Sequential Endocrine Therapies",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "Clinical response rate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer\n\n  * Metastatic disease\n* Documented disease progression\n\n  * Must have received and subsequently failed (due to disease progression) \u2265 2 prior sequential endocrine therapies for treatment of metastatic breast cancer\n\n    * Disease progression during adjuvant tamoxifen is considered 1 prior therapy\n    * The 2 most recent treatments must have been endocrine agents\n* At least 1 objective measurable disease parameter\n* Brain metastases allowed provided both of the following criteria are met:\n\n  * Brain metastases were previously treated AND are currently stable\n  * Brain metastases are not the only site of metastatic disease\n* Hormone receptor status\n\n  * Estrogen and/or progesterone receptor-positive tumor\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nSex\n\n* Female\n\nMenopausal status\n\n* Postmenopausal, as defined by any of the following:\n\n  * At least 50 years of age with an intact uterus AND amenorrheic for the past 12 months\n  * At least 50 years of age without a uterus AND follicle-stimulating hormone (FSH) level within postmenopausal range\n  * Under 50 years of age and FSH level within postmenopausal range\n  * Prior bilateral oophorectomy\n\nPerformance status\n\n* ECOG 0-2\n\nLife expectancy\n\n* At least 6 months\n\nHematopoietic\n\n* Adequate hematologic function\n\nHepatic\n\n* Adequate hepatic function\n* Bilirubin \u2264 1.5 times upper limit of normal\n* No history of hepatic adenoma\n\nRenal\n\n* Adequate renal function\n* No history of hypercalcemia or severe hypocalcemia\n\nCardiovascular\n\n* No history of thrombophlebitis or thromboembolic disorders associated with prior estrogen use\n* No active thrombophlebitis or thromboembolic disorders\n* No history of uncontrolled hypertension\n\nOther\n\n* Not pregnant\n* No undiagnosed abnormal vaginal bleeding\n* No other serious medical illness\n* No psychiatric illness that would preclude giving informed consent\n* No other invasive malignancy within the past 5 years except curatively treated basal cell or squamous cell skin cancer or carcinoma in situ of the cervix\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* Prior chemotherapy for metastatic disease allowed\n* Prior adjuvant chemotherapy allowed\n\nEndocrine therapy\n\n* See Disease Characteristics\n\nRadiotherapy\n\n* Prior radiotherapy allowed provided the only site of measurable disease was not irradiated\n\nSurgery\n\n* Not specified",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01492556",
+    "briefTitle": "Study of Etoposide in Treating Patients With Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "A Phase II, Single-arm, Multicenter Study of Etoposide Monotherapy in Treating Patients With Recurrent or Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Progression-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age: 18-80 years old.\n* ECOG status: 0-2.\n* Histologic or cytologic diagnosis of locally advanced or metastatic breast cancer.\n* No more than three prior chemotherapies, adjuvant chemotherapy excluded.\n* Received prior anthracycline, taxane therapy.\n* At least 4 weeks from previous chemotherapy.\n* Measurable disease of \\>=2 cm (\\>=1 cm on spiral CT scan).\n* Life expectancy of \u2265 3 months.\n* Adequate organ functions:\n\n  * Hemoglobin \u226510.0 g/dl, Absolute neutrophil count \u22651.5\u00d710\\^9/L, Platelet count \u2265100\u00d710\\^9/L,\n  * Creatinine clearance \u226560ml/min,\n  * Bilirubin \u22641.5 times upper limit of normal (ULN); AKP,AST and ALT \u22642.5x ULN(\u22645x ULN if due to liver metastases).\n* Signed informed consent.\n* Menopausal women or received surgical sterilization, women with children potential must not be pregnant or nursing with negative pregnancy test and willing to practice acceptable methods of birth control during the study and 3 months after the study.\n\nExclusion Criteria:\n\n* Pregnancy or lactation.\n* Untreated or uncontrolled CNS metastases, or with refractory psychiatric illness.\n* Prior treatment with Etoposide.\n* Other primary malignancies within the past 5 years except for carcinoma in situ of the cervix or nonmelanoma skin cancer.\n* Clinically significant heart diseases (e.g.congestive heart failure, symptomatic coronary disease, uncontrolled cardiac arrhythmia, Myocardial infarction) within the past 12 months.\n* Serious uncontrolled concurrent infection or metabolism disorder.\n* Concurrent treatment for active peptic ulcer disease or with digestive disorders.\n* Prior radiotherapy and major surgery within 3 weeks before screening.\n* Less than 4 weeks since prior investigational agents.\n* Metastases present in more than one-third whole liver.\n* Unable or unwilling to comply with the study protocol.\n* Unsuitable to participate in study, that in the opinion of the treating physician.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01292733",
+    "briefTitle": "Cancer Screening Program for Women at High Risk for Developing Ovarian Cancer",
+    "officialTitle": "Ovarian Cancer Early Detection Screening Program",
+    "overallStatus": "TERMINATED",
+    "conditions": "Ovarian Diseases, Ovarian Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 534,
+    "primaryOutcomeMeasure": "Measuring for elevated levels of tumor marker CA-125 in the blood over time.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Must meet one of the following:\n\n  * The family contains at least two ovarian or breast cancers in the subject or first or second degree relatives of the subject.\n  * The subject is of Ashkenazi Jewish ethnicity with one first degree or two second-degree relatives with breast or ovarian cancer, or subject is of Ashkenazi ancestry and has had breast cancer.\n  * The subject has a male relative with breast cancer diagnosed at any age.\n  * Probability of carrying a BRCA1/2 mutation given family pedigree of breast and ovarian cancers exceeds 20% (as determined by BRCAPRO 95% posterior probability interval).\n\nExclusion Criteria:\n\n* Prior ovarian cancer or peritoneal carcinomatosis\n* A first or second degree relative with a BRCA1/2 mutation and has tested negative for exactly the same mutation.\n* The subject has no ovaries.\n* Less than 30 years of age, unless 25-30 with BRCA I or II mutation confirmed\n* Currently pregnant\n* Currently receiving adjuvant chemotherapy or radiation therapy for cancer (excluding tamoxifen). Patients who are being treated for local disease may enroll 3 months after completion of last treatment (excluding tamoxifen).\n* Treatment (excluding tamoxifen) for prior metastatic malignancy within the past five years.\n* Intraperitoneal surgery within the last 3 months.",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

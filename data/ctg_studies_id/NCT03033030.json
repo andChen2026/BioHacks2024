@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03033030",
+    "briefTitle": "Tomosynthesis (TS) or Ultrasound (US) in Mammography-negative Dense Breasts (TOMUS). National Multicenter Trial",
+    "officialTitle": "Tomosynthesis (TS) or Ultrasound (US) in Mammography-negative Dense Breasts (TOMUS). National Multicenter Trial",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 8000,
+    "primaryOutcomeMeasure": "Incremental Cancer Detection Rate or Area Under the Curve",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Asymptomatic subjects \\<50 years of age presenting for mammography, with the exception of those that, on previous mammograms are found to have breast density BI- RADS D1-2.\n* Asymptomatic subjects \u2265 50 years of age who request mammography and have breast density BI-RADS 3-4.\n* Written Informed consent.\n\nExclusion Criteria:\n\n* Pregnant and breast feeding women\n* Unable to tolerate breast compression\n* Breast implants\n* Unable to understand or execute written informed consent\n* Unable or unwilling to agree to follow-up during observation period",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

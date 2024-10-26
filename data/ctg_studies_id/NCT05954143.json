@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05954143",
+    "briefTitle": "Trial of BDC-1001 +/- Pertuzumab in Subjects With HER2-Positive Metastatic Breast Cancer",
+    "officialTitle": "Phase 2, Multi-Center, Randomized, Open-Label Trial of BDC-1001 as a Single Agent and in Combination With Pertuzumab in Subjects With HER2-Positive Metastatic Breast Cancer Previously Treated With Trastuzumab Deruxtecan",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Metastatic Breast Cancer, HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 11,
+    "primaryOutcomeMeasure": "Anti-tumor activity of BDC-1001 as a single agent and in combination with pertuzumab",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Histologically confirmed adenocarcinoma of the breast that is HER2+ (IHC 3+ or gene amplification by ISH or NGS).\n* Have received 2 or more prior lines of anti-HER2-directed therapies, at least 1 in the metastatic setting and including trastuzumab deruxtecan.\n* Measurable disease as determined by RECIST v.1.1.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Have life expectancy of greater than 12 weeks per the Investigator.\n* All subjects must agree to have a biopsy prior to enrollment. If, in the judgment of the Investigator, a biopsy is not safely accessible or clinically feasible an archival tumor tissue sample must be submitted in lieu of a freshly collected specimen.\n\nKey Exclusion Criteria:\n\n* History of severe hypersensitivity to any ingredient of BDC-1001 or pertuzumab.\n* Previous treatment with a small molecule TLR7/8 agonist or TLR7/8 agonist that has been conjugated to tumor-targeting antibody such as ISACs within 12 months before starting study treatment.\n* Impaired cardiac function or history of clinically significant cardiac disease.\n* Human Immunodeficiency virus (HIV) infection, active hepatitis B infection, or hepatitis C infection.\n* Central nervous system metastases with the exception of disease that is asymptomatic, clinically stable, and has not required steroids for at least 28 days before starting study treatment.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

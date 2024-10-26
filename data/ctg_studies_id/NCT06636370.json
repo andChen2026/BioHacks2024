@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06636370",
+    "briefTitle": "Supplemental Screening for Women With Extremely Dense Breast Tissue: the DENSE-2 Trial",
+    "officialTitle": "Contrast-enhanced Mammography and Abbreviated MRI as Supplemental Screening Modalities for Women Aged 50-75 With Extremely Dense Breast Tissue: the DENSE-2 Trial",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 36000,
+    "primaryOutcomeMeasure": "Interval Cancer Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participant in the Dutch population-based breast cancer screening program with a negative mammography result (BI-RADS classification 1 or 2).\n* Extremely dense breast tissue (assessed with Quantra software, category D).\n* Age between 49-72 years (women are invited to the Dutch screening program in the year they turn 50, so the minimum age is 49 years. The maximum age for inclusion is 72 years to ensure that women can still participate in a second round of supplemental screening).\n* Living in the service area (travel distance of up to 60 km) of the 15 participating hospitals.\n* Absence of breast implants (Quantra cannot provide an accurate density determination for breasts with implants).\n* No objection to data sharing.\n* Not a participant in the DENSE trial or STREAM trial (participants in the DENSE and STREAM trials are known to the Dutch screening organization).\n\nExclusion Criteria:\n\nThe additional exclusion criteria for the intervention arms are checked after randomization and recruitment (this order is due to the pre-randomization design):\n\n* Presence of in-body metals (only for AB-MRI, this involves specific metals and is asked by telephone).\n* Previous allergic reaction to the provided contrast agent.\n* Renal insufficiency (glomerular filtration rate \\<30 ml/min) (only for CEM, is checked for with questionnaire I and possibly renal function measurement).\n* Severe claustrophobia (only for AB-MRI).\n* Severe obesity (weight \\>150 kg) (only for AB-MRI).",
+    "sex": "FEMALE",
+    "minimumAge": "49 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

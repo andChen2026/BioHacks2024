@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04527510",
+    "briefTitle": "Remote Breast Cancer Screening Study",
+    "officialTitle": "Remote Breast Cancer Screening Based on Automated Breast Ultrasound Among Chinese Women: a Multi-center, Prospective, Cohort Study",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Mass Screening, Cancer Screening, Ultrasound Imaging, AI (Artificial Intelligence)",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 6333,
+    "primaryOutcomeMeasure": "The performance of breast cancer screening based on AB US with remote reading mode",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Any age at 35 and over\n2. Screening breast cancer with AB US\n3. Obtaining written informed consent\n\nExclusion Criteria:\n\n1. symptoms of breast cancer\n2. surgical of breast within 12 months prior to the study\n3. known diagnosis breast cancer\n4. poor image quality\n5. follow-up was less than 12 months",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

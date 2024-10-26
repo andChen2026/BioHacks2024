@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02289365",
+    "briefTitle": "Orally Administrated JBM-TC4 Prevents Acute Radiodermatitis in Breast Cancer Patients",
+    "officialTitle": "Phase 2 Study of Orally Administrated JBM-TC4 for the Prevention of Acute Radiation-induced Dermatitis in Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Radiodermatitis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Radiation Dermatitis Severity Scale (RDS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* males or non-pregnant females at least 20 year of age.\n* Diagnosis of, non-inflammatory breast adenocarcinoma and be referred for post-operative radiotherapy without concurrent chemotherapy.\n* Breast adenocarcinoma previously treated by lumpectomy with or without adjuvant or neoadjuvant chemotherapy or hormonal treatment.\n* With in situ breast cancer are also eligible\n* Prescribed concurrent hormone treatment with radiation treatment\n* Participants must be scheduled to receive 5 sessions of radiotherapy per week (1 session per day) for at least 5 weeks using standard (1.8 Gy to 2.0 Gy per session) for total dose of at least 45 Gy.\n* A time period of 3 weeks must elapse after chemotherapy and surgery before beginning this study.\n* Must be able to swallow medication.\n* Participant must give informed consent.\n\nExclusion Criteria:\n\n* Bilateral breast cancer\n* Previous radiotherapy to the breast or chest.\n* Chemotherapy cocurrent with radiation treatment.\n* Receiving treatment with anti-coagulants, or anti-human epidermal growth factor receptor drugs, e.g., Iressa (gefitinib), Erbitux (cetuximab, C225), concurrently with their radiotherapy.\n* Prior breast reconstructions, implants, and/or expanders.\n* Known radiosensitivity syndromes, e.g., Ataxia-telangiectasia.\n* Collagen vascular disease, vasculitis, unhealed surgical sites, breast infections, or systemic lupus erythematosus.\n* Baseline blood tests that meet the following criteria:\n\n  * Grade 2 change in hemoglobin (i.e., 25% decease from baseline);\n  * Grade 1 change in platelets (i.e., \\< 75'000/mm3);\n  * Grade 2 change in prothrombin time and partial thromboplastin time (i.e., 1.5-2x upper limit of normal);\n  * Grade 1 change in aspartate transaminase, alanine transaminase (i.e., \\> 2.5x upper limit of normal);\n  * Grade 1 change in bilirubin (i.e., \\> 1.5x upper limit of normal);\n  * Grade 1 change in Creatinine (i.e., \\> 2x upper limit of normal).\n* Conditions affecting the absorption for oral medications.",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

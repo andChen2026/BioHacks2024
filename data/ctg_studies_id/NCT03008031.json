@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03008031",
+    "briefTitle": "Reduced Contrast Administration in Contrast-enhanced Spectral Mammography (CESM)",
+    "officialTitle": "N/A",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasm, Contrast-enhanced Spectral Mammography",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 11,
+    "primaryOutcomeMeasure": "Accuracy of maximum tumor size measurements for breast cancer detected with the clinical CESM exam (reference) compared to the (experimental) CESM exams with varying (lower) dose concentrations.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patient with histopathologically confirmed invasive breast cancer who recently underwent a clinical CESM exam without complications;\n* Treated with primary surgery;\n* Willing and able to undergo all study procedures;\n* Has personally provided written informed consent.\n* Age \u2265 18\n\nExclusion Criteria:\n\n* Pregnancy\n* Allergy for any of the ingredients of (Ultravist) contrast agent\n* Being unable to give informed consent in person\n* History of coronary arterial disease or unstable angina\n* Acute or chronic severe renal insufficiency",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

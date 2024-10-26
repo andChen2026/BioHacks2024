@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00897845",
+    "briefTitle": "Studying Tumor Samples From Women Who Have Undergone Chemotherapy for Breast Cancer",
+    "officialTitle": "Molecular Profiling of E2197 FFPE Samples Using a Custom 512 Breast Cancer Gene Set on the DASL Platform: Towards the Development of Predictive Gene Sets for Risk of Recurrence in Patients With Operable Breast Cancer Treated With Adjuvant Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2541,
+    "primaryOutcomeMeasure": "Correlation of results with Outcome",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer tumor samples collected on clinical trial ECOG-E2197\n* Histologically lymph node-positive (N1-3) OR high-risk lymph node-negative disease\n* Hormone receptor-positive or negative disease (status known)\n* HER2 status known\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

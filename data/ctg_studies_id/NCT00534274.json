@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00534274",
+    "briefTitle": "Positron Emission Tomography Using 3'-Deoxy-3'-(18F) Fluorothymidine in Treating Women With Locally Advanced Cancer in One Breast Who Are Receiving Chemotherapy",
+    "officialTitle": "Study of Positron Emission Tomography With 3'-Deoxy-3'-[18F] Fluoro-thymidine ([18F]-FLT) for the Evaluation of Response to Neoadjuvant Chemotherapy for Cancers of the Breast",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 97,
+    "primaryOutcomeMeasure": "Intensity of tumor uptake of 3'-deoxy-3'-(18F) fluorothymidine (18F-FLT) determined visually and correlated with histological or surgical response according to Sataloff criteria",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\nInclusion criteria:\n\n* Histologically confirmed unilateral breast cancer\n\n  * T2 or T3, any N, M0\n  * Unifocal by mammography and ultrasound\n* Negative for c-erbB2 by immunohistochemistry (IHC)\n* Planning neoadjuvant chemotherapy comprising anthracyclines and/or taxanes, alone or combined\n* Measurable disease by ultrasound\n* Hormone receptor status not specified\n\nExclusion criteria:\n\n* Bilateral disease\n* Multifocal tumor\n* Invasive grade I lobular cancer\n* Metastatic disease\n* Stage \u2265 T4 disease\n* Cutaneous invasion, major adherence, or inflammatory disease\n* Tumor overexpressing c-erbB2 by IHC (HER 2+++)\n* Suspected clinical or radiological lesion (examined or not)\n\nPATIENT CHARACTERISTICS:\n\nInclusion criteria:\n\n* ECOG performance status 0-1\n* Female\n* Menopausal status not specified\n* Hematologic, hepatic, and renal function normal\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n\nExclusion criteria:\n\n* Alcohol dependency or prior reaction to ethanol injection\n* Impossible to receive study therapy due to geographical, social, or psychological reasons\n* Prisoners or patients under supervision\n\nPRIOR CONCURRENT THERAPY:\n\nInclusion criteria:\n\n* See Disease Characteristics\n\nExclusion criteria:\n\n* Participation in another concurrent therapeutic study with an experimental drug",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

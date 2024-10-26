@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03637738",
+    "briefTitle": "Medico Economic Study, Comparing Intrabeam\u00ae on Surgical Resection Bed to Conventional Surgery + EBRT, in Breast Cancer",
+    "officialTitle": "Medico Economic Study, Randomized, Comparing Intraoperative Radiotherapy With Intrabeam\u00ae on Surgical Resection Bed Versus Conventional Surgery + EBRT in Postmenopausal Patients Operated by Conservative Surgery for Low Risk Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Menopausal Patients, Low-risk Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 246,
+    "primaryOutcomeMeasure": "Actual cost",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven invasive ductal breast cancer,\n* Menopausal women at least 55 years old,\n* Clinical and ultrasound size \u2264 to 20 mm, N0,\n* Biopsy with all following criteria: SBR I or II, HER2 (0, +, ++ with FISH or SISH required), positive estrogen receptors, no embolus\n* No personal history of breast cancer or BRCA gene mutation.\n* Social insurance\n* Signed consent\n\nExclusion Criteria:\n\n* Bifocal or bilateral breast cancer,\n* Presence of invasive ductal carcinoma with diffuse micro calcifications on mammography,\n* Invasive lobular carcinoma,\n* Presence of lymph node involvement,\n* History of malignant disease if life expectancy without recurrence at 10 years \\<90%,\n* Adult under guardianship,\n* History of chest radiation therapy (Hodgkin's).",
+    "sex": "FEMALE",
+    "minimumAge": "55 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

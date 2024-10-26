@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04603209",
+    "briefTitle": "Registry for Intra-Operative Radiotherapy During Breast Conserving Surgery in Patients With Early Stage Breast Cancer",
+    "officialTitle": "Research Registry for Intra-Operative Radiotherapy (IORT) During Breast Conserving Surgery in Patients With in Situ and Early Stage Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Early-stage Breast Cancer, Breast Carcinoma in Situ, Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Disease Recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinical stage Tis, T1, or T2(\u2264 3cm), N0, M0 (AJCC Classification)\n* Unifocal Disease\n* Candidate for breast-conserving surgery\n* Recommended treatment by multidisciplinary team\n\nExclusion Criteria:\n\n* Clinical stage T3-4, N1-3, M1\n* Multifocal disease",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

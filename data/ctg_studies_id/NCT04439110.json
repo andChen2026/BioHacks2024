@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04439110",
+    "briefTitle": "Testing Ado-Trastuzumab Emtansine as a Potential Targeted Treatment in Cancers With HER2 Genetic Changes (MATCH-Subprotocol Q)",
+    "officialTitle": "MATCH Treatment Subprotocol Q: Ado-trastuzumab Emtansine in Patients With Tumors With HER2 Amplification (Except Breast and Gastric/Gastro-Esophageal Junction (GEJ) Adenocarcinomas)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Advanced Lymphoma, Advanced Malignant Solid Neoplasm, Hematopoietic and Lymphoid Cell Neoplasm, Refractory Lymphoma, Refractory Malignant Solid Neoplasm, Refractory Multiple Myeloma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 38,
+    "primaryOutcomeMeasure": "Objective Response Rate (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have met applicable eligibility criteria in the Master MATCH Protocol prior to registration to treatment subprotocol\n* Patients' tumor sample must have HER2 amplification \\> 7 based on targeted custom Ampliseq panel on the Ion Torrent Personal Genome Machine (PGM)\n* Hemoglobin \\>= 9.0 g/dL (which may be reached by transfusion)\n* Patients will be allowed if on anticoagulation (except warfarin and other coumarin derivatives) or on aspirin 81 mg by mouth daily. Additional monitoring while on anticoagulation will be based on institutional guidelines and/or physician discretion. However, patients will not be allowed if on long acting anti-platelet agents such as clopidogrel\n* Patients must have an electrocardiogram (ECG) within 4 weeks prior to treatment assignment and must have no clinically important abnormalities in rhythm, conduction or morphology of resting ECG (e.g. complete left bundle branch block, third degree heart block)\n* Patients must have echocardiography (ECHO) or nuclear study (multigated acquisition scan \\[MUGA\\] or First Pass) within 4 weeks prior to registration to treatment and must not have a left ventricular ejection fraction (LVEF) \\< 50% to be eligible\n* Women of childbearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry, for the duration of study participation, and for 7 months after completion of study\n\nExclusion Criteria:\n\n* Patients with a diagnosis of breast cancer or gastric/gastroesophageal junction (GEJ) cancer will be excluded\n* Patients must not have known hypersensitivity to ado-trastuzumab emtansine or compounds of similar chemical or biologic composition\n* Patients with current peripheral neuropathy of grade 3 or greater (National Cancer Institute \\[NCI\\]-Common Toxicity Criteria \\[CTC\\], version 4.0) will be excluded\n\n  * Neuropathy assessment and grade assignment will be based on history (location, duration, balance and gait, effect on activity of daily living \\[ADLs\\]) and physical exam\n* Patient must not have had any of the prior therapies:\n\n  * Food and Drug Administration (FDA) approved:\n\n    * Trastuzumab\n    * Pertuzumab\n    * Ado-trastuzumab emtansine\n  * Investigational:\n\n    * Margetuximab\n    * PF-05280014 (Pfizer, Trastuzumab Biosimilar)\n    * CT-P6 (Celltrion, Trastuzumab Biosimilar)\n    * ABP-980 (Amgen, Trastuzumab Biosimilar)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

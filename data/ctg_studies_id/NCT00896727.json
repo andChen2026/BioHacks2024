@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00896727",
+    "briefTitle": "S9313A Protein Expression Analysis of Breast Cancer Tissue Microarrays From Clinical Trial SWOG-9313",
+    "officialTitle": "Prediction of Therapeutic Response Using AQUA\u2122 Quantitative Protein Expression Analysis of ER, PgR, and HER2 of Breast Cancer Tissue Microarrays From SWOG Protocol 9313",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2100,
+    "primaryOutcomeMeasure": "In-situ protein expression of estrogen receptor (ER), progesterone receptor (PR), HER-2, and p53 as measured by automated quantitative analysis (AQUA\u2122)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of primary invasive adenocarcinoma of the breast\n\n  * Stage I-IIIA disease (T1-3, N0-1, M0)\n* Enrolled on clinical trial SWOG-9313\n* Tumor tissue available for testing\n\nPATIENT CHARACTERISTICS:\n\n* Not specified\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00756496",
+    "briefTitle": "Case Collection Study to Support Digital Mammography Image Software Change",
+    "officialTitle": "A Multi-center Feature Analysis Study to Compare the Diagnostic Accuracy of Siemens' Image Processing (SIP) Algorithms With Lorad's Image Processing (LIP) Algorithms in Detecting and Characterizing Breast Lesions",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 442,
+    "primaryOutcomeMeasure": "Area Under the Receiver Operating Characteristic (ROC) Curve to Compare Diagnostic Accuracy of 2 Algorithms in Breast Cancer Diagnosis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* \\> 40 years\n\nExclusion Criteria:\n\n* Pregnant women, or women who may become pregnant\n* Mammographic evidence of breast surgery, prior radiation to the breast, needle projection or pre-biopsy markings are evident in the mammogram (but may include breast implants)\n* Palpable lesion or one that is visible by another modality\n* Inmates",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01313117",
+    "briefTitle": "Alpha-lipoic Acid in Patients at Risk for Paclitaxel Induced Neuropathy",
+    "officialTitle": "Dose Finding and Tolerability Study of Alpha-lipoic Acid in Patients at Risk for Paclitaxel Induced Peripheral Neuropathy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Peripheral Neuropathy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 9,
+    "primaryOutcomeMeasure": "Identification of the Optimal Dose of ALA Based on Acceptable Adverse Event(AE) Profile",
+    "eligibilityCriteria": "Inclusion Criteria\n\n1. Diagnosis of Breast cancer.\n2. Breast cancer must meet the following criteria:\n\n   * Early stage breast cancer (stages I, IIA) must be estrogen receptor (ER) positive AND low tumor grade (histopathologic grade 1 or 2)\n   * Locally advanced breast cancer (LABC) (stages IIB, IIIA, IIB as defined by the Union for International Cancer Control and American Joint Committee on Cancer) must be ER positive, HER2 positive or HER2 negative, AND satisfy the following requirements: high endocrine responsiveness (defined as greater than 50% of tumor cells staining for hormone receptors), Grade 1 or 2 histological grade, less than 4 nodes positive, absence of extensive peritumoral vascular invasion, AND pathological tumor size less than 5 cm.\n   * Inflammatory breast cancer (IBC) (stage IIIC)\n   * Metastatic breast cancer (stage IV)\n3. Must be receiving single agent paclitaxel in their prescribed chemotherapy regimen.\n4. Age \\> 18 years. There is no upper age limit for participation in this study.\n5. Required lab values: AST, ALT, creatinine\n6. Women of childbearing potential and sexually active males must agree to use contraception while on study.\n7. ECOG performance status 0,1,2\n8. All patients must have given signed, informed consent.\n\nExclusion Criteria\n\n1. Breast cancer meeting the following criteria:\n\n   * Breast cancer stage 0\n   * Early stage breast cancer (stages I, IIA) that is ER negative OR higher tumor grade (histopathologic grade greater than 2)\n   * Stages I, II, and IIIA triple negative breast cancer (negative for estrogen receptors, progesterone receptors, and HER2)\n   * LABC (stages IIB, IIIA, IIB) if they have low endocrine responsiveness (defined as less than 50% of tumor cells staining for hormone receptors), Grade 3 histological grade, 4 or more nodes positive, presence of extensive peritumoral vascular invasion, OR pathological tumor size greater than 5 cm\n   * LABC (stages IIB, IIIA, IIB) that are ER negative\n2. Evidence of pre-existing peripheral neuropathy as determined by baseline Michigan neuropathy screening instrument score \\> 2.\n3. Previous chemotherapy treatment of any kind.\n4. AST and ALT \\>2 times upper limit of normal; Creatinine \\> 2.0 mg/dL.\n5. Current use of medications or substances known to be associated with peripheral neuropathy.\n6. Use of ALA or other anti-oxidant supplements during the prior three months.\n7. Diabetes mellitus or use of medications known to lower blood sugar.\n8. Participation in any other experimental trial.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

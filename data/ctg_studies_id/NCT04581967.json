@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04581967",
+    "briefTitle": "Study of CYP2C19 and ALDH3A1 Polymorphisms in Breast Cancer Patients",
+    "officialTitle": "Pharmacogenetic Risk Factors of Doxorubicin-Cyclophosphamide Chemotherapy Related Toxicities in Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Patients",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "The frequency of the genetic polymorphisms of CYP2C19 in breast cancer patients",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Confirmed diagnosis of breast cancer.\n2. Age ranging from 18 to 75 years old female.\n3. Patients will take Doxorubicin-Cyclophosphamide regimen as chemotherapy treatment.\n\nExclusion Criteria:\n\n1. Any other malignancy.\n2. Previous treatment for metastatic disease.\n3. Pregnancy or breastfeeding female.\n4. Inadequate bone marrow and cardiac function.\n5. Serious or uncontrolled medical conditions.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

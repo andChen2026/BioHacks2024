@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03980054",
+    "briefTitle": "A Study of Evaluating The Effects Of Pyrotinib After Adjuvant Trastuzumab In Women With Early Stage Breast Cancer",
+    "officialTitle": "A Phase III Study to Evaluate the Efficacy and Safety of Pyrotinib Versus Placebo in Patients With Human Epidermal Growth Factor Receptor 2 (HER2) Positive Early or Locally Advanced Breast Cancer After Adjuvant Trastuzumab",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1192,
+    "primaryOutcomeMeasure": "Invasive Disease-free Survival (iDFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients, 18 years \u2264 age \u2264 75 years\uff1b\n* Performance Status- Eastern Cooperative Oncology Group (ECOG) 0-1\n* Histologically confirmed invasive HER2 positive breast cancer.\n* Known hormone receptor status.\n* Cardiovascular: Baseline left ventricular ejection fraction (LVEF)\u226555% measured by Echocardiogram.\n* Been treated for early breast cancer with standard of care duration of trastuzumab.\n* If been not treated neoadjuvantly, lymph node metastases need to be confirmed by postoperative pathology; if been treated neoadjuvantly , have not reached totally pathologic complete response.\n* Signed informed consent form (ICF) .\n\nExclusion Criteria:\n\n* Positive clinical and radiologic assessments for local or regional recurrence of disease at the time of study entry.\n* History of heart disease.\n* Bilateral breast cancer.\n* Corrected QT (QTc) interval \u22650.47 seconds.\n* History of gastrointestinal disease with diarrhea as the major symptom.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00181363",
+    "briefTitle": "Prone Breast Irradiation for Pendulous Breasts",
+    "officialTitle": "Mamma Board Project: Prone Breast Irradiation for Pendulous Breasts",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Dose Homogeneity 1: PTV",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients should have had breast-conserving surgery for breast cancer or DCIS (Ductal Carcinoma in Situ)\n* No indication for radiotherapy of regional nodes\n* Large, pendulous breasts (bra size D and over)\n\nExclusion Criteria:\n\n* Regional radiotherapy is indicated\n* Unable to lie in prone position",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

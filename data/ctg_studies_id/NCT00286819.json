@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00286819",
+    "briefTitle": "Dose Density FU 75 and FU 90 as Adjuvant Therapy for Early Breast Cancer",
+    "officialTitle": "Randomized Phase II Study of Dose-Dense Fluorouracil Plus Epirubicin 75 Plus Cyclophosphamide (FEC75) and Fluorouracil Plus Epirubicin 90 Plus Cyclophosphamide (FEC90) as Adjuvant Therapy for Early Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "The primary objective of this randomized phase II is to determine the relative dose intensity (RDI) of six adjuvant cycles of FEC75 and FEC90 regimens given every 14 days with pegfilgrastim (Neulasta) support in subjects with early breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* patients with histological diagnosis of invasive breast cancer\n* Patients with early stage I, II,III breast cancer amendable for complete surgical resection.\n* Patients with any nodal status\n* Patients with ER and PR -negative tumors. In case of axillary involvement:any hormonal receptors status.\n* perfomance Status 0-1 on the ECOG Scale\n* patients indicated for adjuvant chemotherapy\n* No previous chemotherapy or radiotherapy\n* Patients have to be randomized within 8 weeks after surgery. Its recommended that patients will start chemotherapy within 1 month after surgical treatment.\n\nExclusion Criteria:\n\n* active infection\n* pregnancy/breast feeding\n* serious concomitant systemic disorders incompatible with the study\n* Second primary malignancy (expect in situ carcinoma of the cervix or adequately treated basal cell carcinoma of the skin)\n* Use of any other investigational agent within 4 weeks before enrollment into the study\n* Cocurrent administration of radiation therapy, chemotherapy, hormonal therapy or immunotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

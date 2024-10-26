@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00295646",
+    "briefTitle": "Tamoxifen Versus Anastrozole, Alone or in Combination With Zoledronic Acid",
+    "officialTitle": "Tamoxifen Versus Anastrozole, Alone or in Combination With Zoledronic Acid, in Premenopausal, Hormone Receptor-positive Breast Cancer Patients (Stage I, II)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1803,
+    "primaryOutcomeMeasure": "Comparison of Anastrozole vs Tamoxifen in Premenopausal Patients With Non-metastatic Breast Cancer With Respect to Disease-free Survival (DFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Premenopausal, hormone receptor-positive patient\n* Histologically verified (minimally) invasive breast cancer, local radical treatment\n* 0-9 involved axillary lymph nodes (\u2265 10 histologically examined nodes)\n* Tumor stage: pT1b-3, yT0 or yT1a\n\nExclusion Criteria:\n\n* T1a, T4d, yT4; M1\n* Previous breast tumor irradiation\n* Previous or concurrent chemotherapy (except for preoperative chemotherapy)\n* Serum creatinine \\> 1.5 x UNL or creatinine clearance \\< 60 ml/min",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT"
+}

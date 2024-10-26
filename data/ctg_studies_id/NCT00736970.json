@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00736970",
+    "briefTitle": "Oral Deforolimus With Trastuzumab for Patients With HER2-positive Trastuzumab-Refractory Metastatic Breast Cancer (8669-009)",
+    "officialTitle": "A Phase II Trial of Oral Deforolimus (AP23573; MK-8669), an mTOR Inhibitor, in Combination With Trastuzumab for Patients With HER2-positive Trastuzumab-Refractory Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 34,
+    "primaryOutcomeMeasure": "Objective Response Rate (ORR) measured by modified RECIST guidelines",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, 18 years of age or older\n* Histologically confirmed HER2-positive metastatic breast cancer\n* Trastuzumab-resistance\n* Measurable disease, according to RECIST guidelines\n* ECOG performance status less than or equal to 1\n* Life expectancy greater than 3 months\n* No prior treatment with temsirolimus, everolimus, rapamycin, or any other mTOR inhibitor\n* At least 4 weeks must have lapsed between prior investigational therapy, chemotherapy or radiotherapy, and the first dose of ridaforolimus\n* Left ventricular ejection greater than or equal to 50%\n* Adequate cardiovascular function\n* Adequate hematological, hepatic, and renal function\n* Serum cholesterol less than or equal to 350 mg/dL and triglycerides less than or equal to 400 mg/dL\n* Negative pregnancy test within 7 days prior to first dose of study drug and must use an approved contraceptive method from screening to 30 days after the last dose of study drug\n* Availability and patient consent to obtain archival tissue samples\n* Signed informed consent\n\nExclusion Criteria:\n\n* Inadequate recovery from any prior surgical procedure or having undergone any major surgery within 2 weeks before trial entry\n* Grade 1 or Grade 2 hypersensitivity reactions to prior trastuzumab therapy if these reactions prevented further trastuzumab administration\n* Grade 3 or Grade 4 hypersensitivity reaction to prior trastuzumab\n* Symptomatic intrinsic lung disease or extensive tumor involvement of the lungs, resulting in dyspnea at rest\n* Known allergy to macrolide antibiotics\n* Pregnant or breast-feeding\n* Know history of HIV\n* Diagnosis of brain metastasis or leptomeningeal carcinomatosis within 3 months\n* Other malignancies within the past 3 years, except for adequately treated carcinoma of the cervix or basal or squamous cell carcinoma of the skin\n* Active infection requiring prescription intervention\n* Newly diagnosed or poorly controlled Type 1 or 2 diabetes\n* Other concurrent illness which, in the Investigator's judgment, would either compromise the patient's safety or interfere with the evaluation of the safety of the study drug\n* Concurrent treatment with medications that strongly induce or inhibit cytochrome P450.\n* Any condition that renders patient unable to fully understand and provide informed consent and/or comply with the protocol",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01965522",
+    "briefTitle": "Anti-proliferative Effects of Vitamin D and Melatonin in Breast Cancer",
+    "officialTitle": "Anti-proliferative Effects of Vitamin D and Melatonin in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Early Stage Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Ki67",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Woman with histologically confirmed invasive breast cancer (ductal, lobular, or mixed)\n* Planned to undergo definitive surgery, either lumpectomy or mastectomy in 3 or more weeks\n\nExclusion Criteria:\n\n* Less than 18 years of age\n* Stage IIIB or IV disease\n* Inoperable locally advanced or metastatic breast cancer\n* Neoadjuvant chemotherapy is intended\n* Currently taking vitamin D supplements\n* Currently taking melatonin supplements\n* Previously taking vitamin D or melatonin supplements within the last 3 months\n* Currently taking a multivitamin and not willing to discontinue for the duration of the study\n* Hyperparathyroid disease or other calcium disturbance in the past five years\n* Active renal stones in the last six months\n* Renal failure (creatinine \\> 190 mmol/L)\n* Hypercalcemia (serum calcium \\> 2.6 mmol/L)\n* Known pregnancy\n* Participation in another clinical trial where the patient receives any other investigational product\n* Unwilling or unable to provide informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

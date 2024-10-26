@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05450016",
+    "briefTitle": "Assessment of the Breast Cosmesis Using Deep Neural Networks: an Exploratory Study (ABCD)",
+    "officialTitle": "Assessment of the Breast Cosmesis Using Deep Neural Networks: an Exploratory Study (ABCD)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 720,
+    "primaryOutcomeMeasure": "Proportion of patients with excellent/good cosmesis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of primary breast cancer (invasive or in situ)\n* Patient undergone breast conservation / Whole breast reconstruction\n* Patient received breast RT\n* Already provided written informed consent on earlier projects\n* Patient provided photographs of both breasts\n* Non-metastatic disease or oligometastatic\n* Age \\> 18 years\n* Reconsent given\n\nExclusion Criteria:\n\n* Mastectomy without whole breast reconstruction\n* Bilateral breast cancer\n* Partial breast irradiation\n* Male patient\n* Limited life expectancy due to co-morbidity\n* Patients undergoing brachy boost",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

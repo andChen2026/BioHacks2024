@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00169000",
+    "briefTitle": "Safety Study of a New Schedule of Capecitabine and Docetaxel to Treat Cancers",
+    "officialTitle": "Phase I Study of a Novel Schedule of Capecitabine and Docetaxel in Patients With Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 12,
+    "primaryOutcomeMeasure": "To determine the maximum tolerated dose, and dose limiting toxicity of capecitabine when given daily for 14 days with docetaxel given on day 8 of a 21 day cycle",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with a histologically or cytologically proven metastatic solid tumor.\n* Patients with measurable disease or an evaluable bone lesion that will not undergo biopsy.\n* Patients treated within the additional cohort at MTD will have metastatic breast cancer with a site of disease that is amenable to percutaneous FNA and must be willing to undergo serial FNA biopsies of their primary tumor.\n* Age \\> 18 years.\n* Life expectancy of at least 6 months.\n* ECOG performance status 0-2.\n* Adequate hematologic, hepatic, and renal function\n* Patients must have an intact upper gastrointestinal tract, be able to swallow tablets, and not have a malabsorption syndrome.\n\nExclusion Criteria:\n\n* No significant uncontrolled infectious or cardiovascular disease, or a myocardial infarction within the prior 12 months.\n* No prior organ allograft.\n* No prior treatment with capecitabine or with docetaxel.\n* No prior unanticipated severe reaction to fluoropyrimidine therapy or known hypersensitivity to 5-fluorouracil.\n* No concurrent antacid therapy is allowed.\n* No other significant medical/surgical diseases.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

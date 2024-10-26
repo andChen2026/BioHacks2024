@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06534125",
+    "briefTitle": "Acutherapy to Prevent Aromatase Inhibitor-Associated Arthralgias in Non-Hispanic Black Postmenopausal Women with Early-Stage Breast Cancer",
+    "officialTitle": "Preventing Aromatase Inhibitor-Associated Arthralgias Among Non-Hispanic Black Postmenopausal Women with Early-Stage Breast Cancer",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Anatomic Stage I Breast Cancer AJCC V8, Anatomic Stage II Breast Cancer AJCC V8, Anatomic Stage III Breast Cancer AJCC V8, HER2-Negative Breast Carcinoma, Hormone Receptor-Positive Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Brief pain inventory (BPI) pain severity score",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 years\n* Self-identified Non-Hispanic Black woman\n* Postmenopausal status (\\>= 12 months since last menstrual period, history of bilateral salpingo-oophorectomy, or estradiol, follicle-stimulating hormone \\[FSH\\], and luteinizing hormone \\[LH\\] levels consistent with menopause)\n* Diagnosed with stage I-III HR+/HER2 negative (-) breast cancer\n* Completed all phases of active therapy (e.g. surgery, chemotherapy, and/or radiation) at least 14 days before study enrollment\n* Planned to start adjuvant AI\n\nExclusion Criteria:\n\n* Diagnosed with metastatic breast cancer\n* Premenopausal status\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to acupuncture needles or other agents used in study\n* Diagnosis of rheumatoid arthritis, multiple sclerosis, or muscular dystrophy\n* A history of or current CDK 4/6 inhibitor use\n* A history of neoadjuvant AI use\n* Use of adjuvant AI \\> 14 days\n* Received acupuncture within 60 days prior to start of study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

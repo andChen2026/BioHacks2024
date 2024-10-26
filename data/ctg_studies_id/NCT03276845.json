@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03276845",
+    "briefTitle": "Multiparametric High-resolution Ultrasound of the Breast",
+    "officialTitle": "Multiparametric High-resolution 3-D Sonography With Color/Power-Doppler, Elastography and Contrast-enhanced Sonography for an Improved Detection and Characterization of Breast Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 124,
+    "primaryOutcomeMeasure": "Diagnostic accuracy (sensitivity, specificity, area under the receiver operating characteristic-ROC curve)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinical, mammographic, MR-tomographic and/or ultrasonographic verification of a suspicious breast lesion (BIRADS 4 and 5)\n* Age \\> 18 years\n* Written informed consent\n* Histopathological verification of the lesions either by core biopsy or by surgical excision\n\nExclusion Criteria:\n\n* Unstable or non-compliant patients\n* Pregnant or lactating patients or patients with suspected pregnancy\n* Known contraindication to the intravenous administration of US contrast agents\n* Acute or chronic renal insufficiency\n* Pre- or post-transplant patients",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

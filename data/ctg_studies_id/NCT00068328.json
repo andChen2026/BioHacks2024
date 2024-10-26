@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00068328",
+    "briefTitle": "Chemotherapy Decisions and Outcomes in Older Women With Newly Diagnosed Breast Cancer",
+    "officialTitle": "Observational Cohort Study: Chemotherapy Decisions and Outcomes in Women Age 65 or Older With Operable, Newly Diagnosed Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Psychosocial Effects of Cancer and Its Treatment",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1706,
+    "primaryOutcomeMeasure": "quality of life",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed primary adenocarcinoma of the breast\n\n  * Operable disease\n  * Invasive and unilateral tumor\n  * No more than 20 weeks since diagnosis\n  * T1-4 (tumor size \u2265 1 cm), N0, M0 OR\n  * T1-4, N1-3, M0\n* No prior carcinoma in situ, lobular carcinoma in situ, ductal carcinoma in situ, or invasive breast cancer\n* Hormone receptor status:\n\n  * Any estrogen receptor status\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 65 and over\n\nSex\n\n* Female\n\nOther\n\n* No other malignancy except those for which the patient has completed treatment AND is considered to be at less than 30% risk of recurrence\n* History of non-melanoma skin cancer allowed\n* Sufficient cognitive function to consent to and complete interviews\n* English or Spanish speaking",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

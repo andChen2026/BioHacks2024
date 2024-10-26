@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03082456",
+    "briefTitle": "Molecular Breast Imaging in Screening Breast Cancer",
+    "officialTitle": "Molecular Breast Imaging in Screening Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 164,
+    "primaryOutcomeMeasure": "Recall rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients undergoing myocardial perfusion imaging will be eligible if they sign the informed consent.\n\nExclusion Criteria:\n\n* They are unable to understand and sign the consent form\n* They are physically unable to sit upright and still for 20 minutes.\n* They have undergone breast surgery or breast biopsy within the last 12 months.\n* They have had trauma to the breast tissue or undergone radiation treatment to the breast within the last 12 months.",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

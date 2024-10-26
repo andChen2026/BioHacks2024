@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05507398",
+    "briefTitle": "The Anti-tumor Effect of Metformin And Atorvastatin in Breast Cancer",
+    "officialTitle": "Comparative Clinical Study Evaluating the Anti-tumor Effect of Metformin Versus Atorvastatin as an Adjuvant Therapy With Chemotherapy in Patients With Non-metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Improvement in the overall response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with radiologically and histologically (biopsy) confirmed diagnosis of breast cancer and with stage I, II, and stage III breast cancer according to the American Joint Committee on Cancer (TNM staging system of breast cancer).\n* Patients with no contraindication for chemotherapy, metformin, or statins\n* Females aged \u2265 18 years old\n* Performance status \\< 2 according to the Eastern Cooperative Oncology Group (ECOG) score\n\nExclusion Criteria:\n\n* Patients with metastatic breast cancer (stage IV)\n* Pregnant or lactating women.\n* Patients with hepatic or renal impairment.\n* Patients with myopathy.\n* Patients with any condition predispose to acidosis (COPD, heart failure, ....)\n* Patients who had dementia, mental retarded, and any psychiatric condition that would prohibit the understanding or signing of informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

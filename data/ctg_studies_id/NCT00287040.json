@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00287040",
+    "briefTitle": "Breast Cancer Screening Via Computer V. Phone",
+    "officialTitle": "Breast Cancer Screening Via Computer V. Phone",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Screening",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 1686,
+    "primaryOutcomeMeasure": "To increase annual mammography adherence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \u2022 Must have been a member of their HMO/insurance plan for at least 15 months with records indicating no mammogram (screening or diagnostic) in that 15-month period\n\n  * Current member of the plan at time of study enrollment\n  * No history of breast cancer diagnosis\n  * Complete telephone number and mailing address\n\nExclusion Criteria:\n\n* \u2022 Any claim submitted for a mammogram (screening or diagnostic) in the last 15 months within the HMO/insurance plan or an outside source\n\n  * Previous breast cancer diagnosis\n  * Incomplete telephone number or mailing address",
+    "sex": "FEMALE",
+    "minimumAge": "41 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

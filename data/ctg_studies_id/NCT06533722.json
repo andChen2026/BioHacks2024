@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06533722",
+    "briefTitle": "Adaptive Therapy for Post-Second-Line Advanced Breast Cancer",
+    "officialTitle": "A Phase II Study of the Efficacy and Safety of Adaptive Therapy for Metastatic Refractory Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "HER2-negative Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "progression-free survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Understands and voluntarily signs the informed consent form.\n* Minimum life expectancy 16 weeks.\n* Histologically or cytologically confirmed advanced invasive breast cancer.\n* Histological type: human epidermal growth factor receptor 2 (HER2) negative.\n* Prior failure of at least first-line treatment for metastatic disease.\n* At least 1 measurable lesion as defined by Response Evaluation Criteria in Solid Tumors (RECIST) criteria.\n* Adequate organ function including bone marrow, renal function, hepatic function, and cardiac reserve.\n* Premenopausal women must use medically acceptable contraception during the study.\n* Compliance with the study protocol.\n\nExclusion Criteria:\n\n* Pregnant or breast feeding.\n* Uncontrolled medical problems.\n* Evidence of active acute or chronic infection.\n* Hepatic, renal, cardiac, or bone marrow dysfunction.\n* Concurrent malignancy or history of other malignancy within the last five years.\n* Patients were unable or unwilling to comply with program requirements.\n* Concurrent use of any other anti-cancer therapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00258960",
+    "briefTitle": "Caelyx, Cyclophosphamide and Herceptin in Patients With Metastatic Breast Cancer",
+    "officialTitle": "Phase IV/II Trial With the Combination of Pegylated Liposomal Doxorubicin (Caelyx), Cyclophosphamide and Trastuzumab in Patients With Metastatic Breast Cancer With Overexpression of Human Epidermal Growth Factor Receptor 2 (HER2)/Neu",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 49,
+    "primaryOutcomeMeasure": "Objective Response Rate (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must sign an informed consent before of specific procedures of clinical trial.\n* Patients with histologically confirmed breast cancer and overexpression of Her2neu.\n* Age\\> 18 years.\n* Eastern Cooperative Oncology Group (ECOG) equal or \\< 2.\n* Patients have not been treated previously with chemotherapy for metastatic disease.\n* Patients must have at least one measurable lesion according to RECIST criteria.\n* Patients should have an adequate organ function to tolerate chemotherapy.\n\nExclusion Criteria:\n\n* Patients with hypersensitivity reactions to any of the medications of the clinical trial.\n* Patients who are pregnant or lactating are not eligible.\n* Hepatic disease.\n* Not controlled active infection\n* Symptomatic metastatic brain cancer\n* Previous adjuvant treatment with anthracyclines with a total accumulated dose \\> 300 mg/m2 (Doxorubicin) or \\> 600 mg/m2 (Epirubicin)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

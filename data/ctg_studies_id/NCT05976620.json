@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05976620",
+    "briefTitle": "Clinical Study of 18F-FAPI-RGD in Breast Tumors",
+    "officialTitle": "Clinical Study of 18F Labeled Probe Targeting Fibroblast Activation Protein Inhibitor and Integrin av\u03b23 (FAPI-RGD) in Breast Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Tumors",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Correlation between clinical indicators and PET/CT results",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 and above\n* No gender difference\n* Patients who have been diagnosed with, or are clinically highly suspected of, breast tumors and have had no other treatment within 3 months\n* Tumor size (T), lymph node status (N), and overall clinical stage of diagnosed patients were determined according to the American Joint Committee on Cancer criteria revised in 2010\n\nExclusion Criteria:\n\n* Patients with a second primary tumor\n* Pregnant or breastfeeding\n* Severe liver or kidney disease\n* Claustrophobia or other PET/CT scan contraindications",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

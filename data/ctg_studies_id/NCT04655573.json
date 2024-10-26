@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04655573",
+    "briefTitle": "A Pilot Study of a Micro-Organosphere Drug Screen Platform to Lead Care in Advanced Breast Cancer",
+    "officialTitle": "A Pilot Study of a Micro-Organosphere Drug Screen Platform to Lead Care in Advanced Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 7,
+    "primaryOutcomeMeasure": "The proportion of patients with successful generation of PDMO from the patient's biopsy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Provide written informed consent.\n2. Female ages 18 or older.\n3. Have measurable disease \u2265 2 cm defined by RECIST version 1.1.\n4. Amenable to standard of care biopsy with co-consent to the Duke BioRepository \\& Precision Pathology Center (BRPC) protocol (Pro00035974) to collect extra biopsy tissue for research or willing to provide extra tissue other than standard of care without co-consent to BRPC.\n5. Evidence of advanced cancer of the breast that is surgically unresectable with pathology confirming ER, PR, and HER2 status. NOTE: patients may enroll prior to receiving clinical biopsy results based on historical pathology results.\n6. Patient is eligible for chemotherapy as monotherapy or in combination with single-agent anti HER2 Therapy.\n\n   * ER+/PR+/HER2-, must have progressed or be intolerant to CDK 4/6 inhibitor and/or endocrine therapy unless CDK 4/6 inhibitor is not able to be provided per the clinician's discretion endocrine therapy and CDK 4/6 inhibitor\n   * ER+/PR+/HER2+ or ER-/PR-HER2+, must have progressed or be intolerant to \u2265 2 lines of anti-HER2 therapy and be considered for mono-chemotherapy with trastuzumab and/or anti-HER2 tyrosine kinase inhibitor\n   * ER-/PR-HER2-, PD-L1- and/or TMB \\<10 may may be considered for first line of treatment\n7. Treating physician is planning to treat breast cancer in the advanced setting with a chemotherapy backbone. This study excludes patients who will receive an antibody-drug conjugate as their proposed treatment.\n8. Impending visceral crisis is allowed only if the patient can have a biopsy prior to starting systemic mono-chemotherapy\n9. ECOG performance status of 0, 1, or 2.\n10. Any metastatic site that is \u2265 2cm and amenable to core needle biopsy. Patients with brain metastases are allowed and MOS may be generated from a resected breast cancer brain metastasis\n\nExclusion Criteria:\n\n1. Actively requiring systemic antibiotics.\n2. Clinically significant cardiac disease, including unstable angina or acute myocardial infarction within 6 months of enrollment.\n3. Leptomeningeal disease\n4. Pregnant women.\n5. Enrolling on an investigational agent.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

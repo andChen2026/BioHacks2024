@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01156753",
+    "briefTitle": "A Study of CDX-011 (CR011-vcMMAE) in Patients With Advanced GPNMB-expressing Breast Cancer",
+    "officialTitle": "A Phase II, Randomized, Multicenter Study of CDX-011 (CR011-vcMMAE) in Patients With Advanced GPNMB-expressing Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Objective response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nAmong other criteria, patients must meet all of the following conditions to be eligible for the study:\n\n1. 18 years of age or older.\n2. Locally advanced or metastatic breast cancer.\n3. Previous treatment with at least two but no more than seven prior chemotherapy treatments for progressive, recurrent or metastatic breast cancer.\n4. Unless not a candidate for these agents, prior therapies must have included a taxane, an anthracycline, and capecitabine, as well as trastuzumab and lapatinib for patients whose tumors are positive for the human epidermal growth factor receptor 2 (HER2). (Patients who received incomplete courses of therapy with these agents due to intolerance will be eligible.)\n5. Breast cancer tumor confirmed to express GPNMB. This will be determined by submitting a tissue sample (obtained during a diagnostic biopsy or surgery) to a central laboratory for analysis.\n\nExclusion Criteria:\n\nAmong other criteria, patients who meet any of the following conditions are NOT eligible for the study:\n\n1. Ongoing neuropathy or other chemotherapy or radiation-related toxicities that are moderate (Grade 2) or worse in severity.\n2. Known brain metastases, unless previously treated and asymptomatic for 2 months and not progressive in size or number for 2 months.\n3. Significant cardiovascular disease or any other underlying medical condition that, in the Investigator's opinion, will make the administration of study treatment (CDX-011 or chemotherapy) hazardous or would obscure the interpretation of side effects.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

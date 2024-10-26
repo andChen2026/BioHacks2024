@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00919880",
+    "briefTitle": "Comparison of Neo-adjuvant Weekly Paclitaxel With or Without Carboplatin in Early Breast Cancer",
+    "officialTitle": "A Phase II Randomized Clinical Trial of Neo-adjuvant Weekly Paclitaxel With or Without Carboplatin in Early Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 148,
+    "primaryOutcomeMeasure": "significant effect rate (the proportion of G4 and G5, graded by Miller & Payne Method); null effect rate (the proportion of G1 and G2)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female patients between 18 and 65 years old\n* pathological diagnosed invasive breast cancer; medium and high risk primary breast cancer according to St. Gallen 2007\n* able and willing to give consent to participate in the study\n\nExclusion Criteria:\n\n* pregnant or lactating females\n* previous treatment for breast cancer\n* other tumor history\n* instable complication (e.g., myocardial infarction within 6 months, arrhythmia, unstable diabetes, hypercalcemia) or uncontrolled infection\n* allergy history to similar drugs\n* concurrent disease or condition that would make the patient inappropriate for study participation\n* resist to participate in the study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

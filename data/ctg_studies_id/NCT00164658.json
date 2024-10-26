@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00164658",
+    "briefTitle": "Evaluating Tools for Health Promotion and Disease Prevention",
+    "officialTitle": "Evaluating Tools for Health Promotion and Disease Prevention",
+    "overallStatus": "COMPLETED",
+    "conditions": "Coronary Heart Disease, Stroke, Diabetes, Breast Cancer, Ovarian Cancer, Colorectal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 8400,
+    "primaryOutcomeMeasure": "Change in stage of adoption of health behaviors and referral for additional screening and follow up for high risk participants at 6 month post evaluation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* member of participating primary care practice network\n* able to provide informed consent\n* able to complete data assessment tools in English\n\nExclusion Criteria:\n\n* diagnosis of CHD, stroke, diabetes, breast cancer, ovarian cancer, or colorectal cancer\n* currently pregnant\n* evidence of cognitive impairment",
+    "sex": "ALL",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

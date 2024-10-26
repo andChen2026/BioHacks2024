@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05827081",
+    "briefTitle": "Phase IIIb Study of Ribociclib + ET in Early Breast Cancer",
+    "officialTitle": "A Phase IIIb Study to Characterize the Effectiveness and Safety of Adjuvant Ribociclib in a Wide Patient Population With HR+ HER2- Early Breast Cancer (Adjuvant WIDER)",
+    "overallStatus": "SUSPENDED",
+    "conditions": "Early Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 3100,
+    "primaryOutcomeMeasure": "Invasive Breast Cancer Free Survival (iBCFS) rate at 3 years",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Participant has a histologically and/or cytologically confirmed diagnosis of estrogen-receptor positive and/or progesterone receptor positive breast cancer\n* Participant has HER2-negative breast cancer\n* Participants may have already received any standard neoadjuvant and/or adjuvant ET, including tamoxifen or toremifene, at the time of informed consent signature, but enrollment should occur within 36 months of prior ET start date and the participant should have at least 3 years remaining of endocrine adjuvant therapy. For participants with prior ET treatment \\> 12 months, the investigator should rule out disease recurrence prior to enrollment. The number of participants with prior ET between 12 and 36 months will be capped at 1000.\n* Participant has no contraindication for the adjuvant ET in the study.\n* Participant after complete surgical resection with the final surgical specimen microscopic margins free from tumor and in one of below categories:\n\n  * Anatomic Stage Group III\n  * Anatomic Stage Group II (subset)\n  * Anatomic Stage Group I (high-risk subset as exploratory cohort)\n* Participant has an Eastern Cooperative Oncology Group (ECOG) Performance Status of 0,1 or 2.\n* Participant has adequate bone marrow and organ function.\n\nKey Exclusion Criteria:\n\n* Participant with distant metastases of breast cancer beyond regional lymph nodes (stage IV according to AJCC 8th edition) and/or evidence of recurrence after curative surgery.\n* Participant is concurrently using other anti-neoplastic therapy with the exception of adjuvant ET.\n* Participant has any other concurrent severe and/or uncontrolled medical condition\n* Clinically significant, uncontrolled heart disease and/or cardiac repolarization abnormality.\n* Pregnant or breast-feeding (lactating) women or women who plan to become pregnant or breast-feed during the trial.\n\nOther inlcusion/exclusion criteria may apply",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

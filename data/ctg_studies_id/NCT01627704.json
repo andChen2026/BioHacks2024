@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01627704",
+    "briefTitle": "Fluoroestradiol PET Imaging in Predicting Response to Hormone Therapy of Breast Cancer",
+    "officialTitle": "16\u03b1-[18F]-Fluoro-\u0153stradiol PET: an in Vivo Biomarker Predicting Response to Hormone Treatment of Metastatic Breast Cancer?",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 72,
+    "primaryOutcomeMeasure": "Response rate six months after induction or major change in hormone therapy for metastatic breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Post menopausal\n* age \\> 17\n* WHO 0-2\n* Metastatic adenocarcinoma of the breast\n* Treated by antihormone treatment during around 5 years withdrawn for at least 3 months OR metastatic cancer at diagnosis having received no more than one line of hormone treatment\n* Life expectancy \\> 6 months\n* Hormone-dependent cancer initially demonstrated by hormone receptors in the tumour\n* Presence of oestrogen receptors proven with immunohistochemistry (\\> 10%) and HER2 determined by immunohistochemistry or FISH (on primary tumour or a metastasis)\n* Metastatic recurrence on FDG PET dating less than 1 month, confirmed by another modality (contrast-enhanced CT, MRI, ultrasonography, bone scintigraphy or PET/CT, other)\n* FDG PET/CT available on PACS or CD DICOM III format 11\n* Informed consent obtained\n\nExclusion Criteria:\n\n* Other evolutive malignant disease or acute or chronic infectious disease\n* Chemotherapy during the last 3 months or change in treatment since FDG PET/CT.\n* Isolated liver metastasis (high FES uptake by normal liver)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03384992",
+    "briefTitle": "Targeted eHealth Intervention to Reduce Fear of Recurrence Among Breast Cancer Survivors",
+    "officialTitle": "Targeted eHealth Intervention to Reduce Fear of Recurrence Among Breast Cancer Survivors: The FoRtitude Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Fear of Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 215,
+    "primaryOutcomeMeasure": "Fear of Cancer Recurrence Inventory (FCRI) total score (minus Coping and Reassurance subscales)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Diagnosis of breast cancer, non-metastatic, stage I-III\n* Completed primary treatment for breast cancer (surgery, chemotherapy and/or radiation therapy, current hormonal treatment allowable)\n* No current evidence of disease\n\n  1. Greater than 1 year post treatment (for phase I interviews and usability testing)\n  2. Between 1 and 10 years post-treatment (for Phase I field testing and Phase II)\n* Good overall functional status as evidenced by ECOG Performance Status \\< 3\n* At least 18 years of age (for Phase I only)\n* At least 19 years of age (for Phase 2 only)\n* Able to speak and read English\n* Able to provide informed consent\n* Clinically significant FoR, measured by the 9-item FCRI severity scale using established cut-off\n\n  a. Patients may be eligible for Phase I and Phase IV of the study regardless of their FCRI score\n* Cellular telephone with SMS messaging capability and access to a computer with broadband Internet access\n* Self-reported familiarity with the Internet per Internet Usage Patterns Measure\n* For Phase III, participants must have participated in Phase II\n* For Phase IV, participants must be a self-identified African American breast cancer survivor that is willing to review site content and provide feedback in addition to meeting inclusion criteria above (with exception of FCRI severity scale score)\n\nExclusion Criteria:\n\n* Visual, hearing, voice, or motor impairment that would prevent completion of study procedures\n* Diagnosed with a psychotic disorder, bipolar disorder, dissociative disorder, or other diagnosis for which participation in this trial is either inappropriate or dangerous\n* Hazardous substance or alcohol use\n* Suicidal ideation, plan, intent\n* Dementia\n* Or if the participant is deemed ineligible by the investigators for reasons not otherwise specified.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

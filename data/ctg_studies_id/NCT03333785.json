@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03333785",
+    "briefTitle": "Randomized Trial of eOncoNote",
+    "officialTitle": "Improving Cancer Care Together Through eOncoNote",
+    "overallStatus": "COMPLETED",
+    "conditions": "Communication Research, Breast Cancer, Prostate Cancer, Colorectal Cancer, Lung Cancer, Program, Communication, Remote Consultation",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 181,
+    "primaryOutcomeMeasure": "Team/Cross Boundary Continuity subscale of the Nijmegen Continuity Questionnaire",
+    "eligibilityCriteria": "Patient inclusion criteria:\n\n* at least 18 years of age,\n* being in one of the following three cancer continuum specific phases:\n\n  1. Diagnosis phase: patients referred to the Cancer Assessment Clinic with suspected colorectal, prostate, or lung cancer;\n  2. Treatment phase: patients receiving adjuvant chemotherapy for early stage breast cancer, or radical or adjuvant radiation therapy for localized prostate cancer;\n  3. Survivorship phase: patients referred to the Wellness Beyond Cancer Program post completion of their adjuvant therapy for either breast or colorectal cancer with the intent of being discharged for survivorship care to their own family physician;\n* no prior history of cancer in the past 5 years (those with non-melanoma skin cancer can participate).\n\nPatient exclusion criteria:\n\n* Currently participating in another study requiring ongoing completion of patient reported outcome measures (such as quality of life measures) in order to minimize respondent burden,\n* Does not have a primary care provider,\n* Patients will be excluded if their primary care provider has another patient enrolled in the trial in order to control for contamination between randomization groups,\n* Inability to read and write in English,\n* Inability to provide informed consent, and\n* In the survivorship phase, patients who are discharged to the Wellness Beyond Cancer Program nurse practitioner (rather than their primary care providers) will be excluded.\n\nPrimary care providers eligibility criteria:\n\n* Licensed family physician or nurse practitioner,\n* Their patient has consented to be enrolled in the study, and they do not have any other patients enrolled in the study (to avoid contamination between intervention and control groups),\n* They are already registered on the Champlain BASE(TM) eConsult system prior to their patient being enrolled in the study.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

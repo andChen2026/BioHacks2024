@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00070057",
+    "briefTitle": "Celecoxib in Treating Postmenopausal Women Who Are Undergoing Surgery for Invasive Breast Cancer",
+    "officialTitle": "An Exploratory, Open-Label Phase I Pharmacodynamic Study of COX-2 Inhibition With Celecoxib (Celebrex) and Aromatase Activity in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Stage I Breast Cancer, Stage II Breast Cancer, Stage IIIA Breast Cancer, Stage IIIB Breast Cancer, Stage IIIC Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 75,
+    "primaryOutcomeMeasure": "Change in aromatase activity levels",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed invasive breast carcinoma\n\n  * Tumor at least 1 cm by radiologic estimate or physical exam\n  * No disease limited to ductal carcinoma in situ only\n* Planning to undergo surgery at Memorial Sloan-Kettering Cancer Center\n* Hormone receptor status:\n\n  * Not specified\n* Female\n* Postmenopausal as defined by at least 1 of the following:\n\n  * No menstrual period within the past 12 months\n  * Prior bilateral oophorectomy\n* No known liver disease\n* No renal insufficiency\n* No congestive heart failure\n* No coronary artery disease\n* No history of documented peptic ulcer disease\n* No gastritis\n* No medical condition that would preclude definitive surgery\n* No allergy to NSAIDs or sulfa-containing drugs\n* No connective tissue diseases, including any of the following:\n\n  * Systemic lupus erythematosus\n  * Reynaud's disease\n  * Scleroderma\n* More than 3 months since prior chemotherapy\n* More than 2 weeks since prior hormone replacement therapy\n* More than 2 weeks since prior tamoxifen\n* More than 2 weeks since prior aromatase inhibitors\n* More than 2 weeks since prior raloxifene\n* More than 2 weeks since prior steroids\n* More than 1 week since prior nonsteroidal anti-inflammatory drugs (NSAIDs)\n* More than 1 week since prior cyclooxygenase (COX)-2 inhibitors\n* No concurrent warfarin\n* No concurrent thiazide or loop diuretics\n* No concurrent COX-2 inhibitors\n* No concurrent NSAIDs",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

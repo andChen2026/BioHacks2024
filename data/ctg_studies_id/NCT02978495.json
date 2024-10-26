@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02978495",
+    "briefTitle": "Neoadjuvant Carboplatin in Triple Negative Breast Cancer",
+    "officialTitle": "Neoadjuvant Carboplatin in Triple Negative Breast Cancer - A Prospective Phase II Study (NACATRINE Trial).",
+    "overallStatus": "COMPLETED",
+    "conditions": "BRCA1 Hereditary Breast and Ovarian Cancer Syndrome",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 154,
+    "primaryOutcomeMeasure": "Pathological complete response (pCR), defined as absence of invasive cancer in the breast and axillary lymph nodes.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Triple Negative Breast Cancer;\n* Stage II or III;\n* Performance Status ECOG \\<2 or Karnofsky \\>50%;\n* Hematologic (minimal values):\n\nAbsolute neutrophil count \\> 1,500/mm3 Hemoglobin \\> 10.0 g/dl Platelet count \\> 100,000/mm3\n\nExclusion Criteria:\n\n* Stage I or IV;\n* other malignancies.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

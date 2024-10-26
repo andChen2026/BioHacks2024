@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05721326",
+    "briefTitle": "Sequential EHR Based Interventions to Increase Genetic Testing for Breast and Ovarian Cancer Predisposition",
+    "officialTitle": "Sequential EHR Based Interventions to Increase Genetic Testing for Breast and Ovarian Cancer Predisposition Across Diverse Patient Populations in Gynecology Practices At Penn Medicine",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Genetic Predisposition to Disease, Breast Cancer Female, Ovarian Cancer, Hereditary Breast and Ovarian Cancer, Hereditary Cancer Syndrome, Hereditary Diseases, Gene Mutation-Related Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 3000,
+    "primaryOutcomeMeasure": "Number of Genetic Counseling Appointments Completed Following MPM Delivery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with serous ovarian cancer diagnosed more than two years prior to study contact\n2. Patients with breast cancer diagnosed at \\<50 years of age more than two years prior to study contact\n3. Patients with triple negative breast cancer diagnosed more than two years prior to study contact\n4. Unaffected individuals reporting a family history of ovarian cancer\n5. Unaffected individuals reporting a family history of male breast cancer\n6. Unaffected individuals reporting a family history of breast cancer \\<50 years\n\nExclusion Criteria:\n\n1. Patients who have previously received genetic counseling and/or testing",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

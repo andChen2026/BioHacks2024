@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05768451",
+    "briefTitle": "Ultrasound Radiomics for Predicting Breast Cancer and Axillary Lymph Node Metastasis",
+    "officialTitle": "Accurate Prediction of Breast Cancer and Axillary Lymph Node Metastasis Burden by Multi-modal Ultrasound-based Radiomics",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer, Axillary Lymph Node Metastasis",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Accuracy of differential diagnosis between benign and malignant",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* patients who have not received breast puncture biopsy or neoadjuvant chemotherapy, etc. prior to ultrasonography;\n* patients who are not allergic to the ultrasound contrast agent (SonoVue) and have signed an informed consent form for ultrasonography\n* patients with breast tumors who have undergone surgical treatment at our hospital and have complete case histories.\n\nExclusion Criteria:\n\n* patients with incomplete case data;\n* cases with large breast masses that do not completely show the region of interest (ROI);\n* patients who have undergone breast aspiration biopsy or other treatments such as neoadjuvant chemotherapy or endocrine therapy before ultrasound examination.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

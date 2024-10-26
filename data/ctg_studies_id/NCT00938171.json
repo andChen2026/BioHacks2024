@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00938171",
+    "briefTitle": "Comparing Local Anesthesia With General Anesthesia for Breast Cancer Surgery",
+    "officialTitle": "A Comparison of Local Anesthesia and General Anesthesia for Breast Cancer Surgery, a Prospective Randomized Trial",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Visual Analog Scale (VAS) pain scores",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Biopsy-proven breast cancer Scheduled for mastectomy and axillary node dissection in a single procedure.\n\nExclusion Criteria:\n\n* previous surgery within the preceding 2 wk those other than ASA physical status I or II any contraindication to either local anesthesia or opioid analgesia",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

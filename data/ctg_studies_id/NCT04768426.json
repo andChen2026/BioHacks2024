@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04768426",
+    "briefTitle": "Serial Circulating Tumor DNA (ctDNA) Monitoring During Adjuvant Capecitabine in Early Triple-negative Breast Cancer",
+    "officialTitle": "Phase II Trial of Circulating Tumor DNA Monitoring During Adjuvant Capecitabine in Patients With Triple-negative Breast Cancer and Residual Disease Following Standard Neoadjuvant Chemotherapy",
+    "overallStatus": "RECRUITING",
+    "conditions": "Triple Negative Breast Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Baseline levels of ctDNA detection",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Anatomic stage I - III triple-negative breast cancer at diagnosis\n2. Estrogen receptors (ER) and Progesterone receptors (PR) status \\<10%\n3. Residual disease following at least 4 cycles of neoadjuvant chemotherapy. Patients who received other investigational immunotherapy or targeted therapy during the neoadjuvant phase of treatment are eligible.\n4. \u2265 18 years of age\n5. Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2\n6. All clinically significant toxic effects of prior cancer therapy resolved to Grade \u2264 1 by the National Cancer Institute Common Terminology Criteria for Adverse Events, version 5.0 (NCI CTCAE, v 5.0), except alopecia and G2 neuropathy.\n7. No evidence of metastatic disease.\n8. A minimum 4-week wash out from previous chemotherapy treatment is required.\n9. Adequate hematologic function: Absolute neutrophil count (ANC) \u2265 1,500 cells/\u03bcL (\u2265 1,500/mm3); Platelets \u2265 100,000 cells/\u03bcL (\u2265 100,000/mm3)\n10. Adequate hepatic function: Bilirubin \u2264 1.5 times the specific institutional upper limit of normal (ULN). Exception: If Gilbert's syndrome; then \u2264 5 times ULN. Aspartate transaminase (AST) and alanine transaminase (ALT) each \u2264 2.5 x ULN\n11. Adequate renal function: Serum creatinine \u2264 1.5 x ULN; or calculated creatinine clearance \\> 50 mL/min using the Cockcroft Gault formula.\n12. Planned for 6 months or 8 cycles of adjuvant capecitabine.\n13. Women of childbearing potential (WOCBP) must have a negative pregnancy test.\n14. WOCBP must agree to use effective contraception during the study and for 3 months after the last dose.\n15. Male participants and their female partners of child bearing potential must be willing to use an appropriate method of contraception during the study and for 3 months after the last dose.\n16. Capable of giving signed informed consent, which includes compliance with requirements and restrictions listed in the informed consent form (ICF) and in the protocol\n\nExclusion Criteria:\n\n1. Metastatic breast cancer\n2. Has not had definitive surgical resection\n3. Pregnant or breastfeeding\n4. Has not completed definitive adjuvant radiation if planned\n5. Known human immunodeficiency virus (HIV) positivity or active hepatitis B or C.\n6. Investigational agents within 4 weeks of study initiation\n7. Inability to swallow oral medications",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

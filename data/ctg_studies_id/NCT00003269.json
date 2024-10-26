@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00003269",
+    "briefTitle": "Amifostine Followed by High Dose Chemotherapy in Treating Patients With Hematologic Cancer or Solid Tumors",
+    "officialTitle": "A Phase II, Open-Label, Trial Evaluating the Efficacy of Amifostine in Patients With Cancers Receiving Outpatient Dose-intensive Cyclophosphamide, Etoposide, and Cisplatin (DICEP) Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Drug/Agent Toxicity by Tissue/Organ, Lung Cancer, Lymphoma, Ovarian Cancer, Unspecified Adult Solid Tumor, Protocol Specific",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "duration of neutropenia",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS: Histologically confirmed hematologic malignancies and adult solid tumors, including: Non-Hodgkin's lymphoma Lung cancer Hodgkin's disease Ovarian cancer Breast cancer No refractory disease (less than partial response to induction chemotherapy) No CNS metastases No unilateral bone marrow biopsy within 6 months of study showing at least 20% involvement by fibrosis tumors Hormone receptor status: Not specified\n\nPATIENT CHARACTERISTICS: Age: 18 to 70 Menopausal status: Not specified Performance Status: ECOG 0-2 Life expectancy: At least 16 weeks Hematopoietic: Absolute neutrophil count at least 1,500/mm3 Platelet count at least 100,000/mm3 Hepatic: SGOT or SGPT no greater than 2.5 times upper limit of normal Renal: Creatinine no greater than 2 mg/dL Other: HIV negative Not pregnant or nursing Negative pregnancy test Fertile patients must use effective contraception No underlying medical or psychiatric conditions No concurrent active infection No prior malignancies except nonmelanoma skin cancer\n\nPRIOR CONCURRENT THERAPY: Biologic therapy: At least 4 weeks since prior myeloid growth factor Chemotherapy: At least 4 weeks since prior chemotherapy No more than 1 prior chemotherapy regimen (excluding adjuvant chemotherapy) Endocrine therapy: Not specified Radiotherapy: At least 4 weeks since pelvic, para-aortic, inverted Y, cranial, spinal, or mediastinal radiation Surgery: At least 2 weeks since major surgery Other: No antihypertensive medication within 24 hours of amifostine administration",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

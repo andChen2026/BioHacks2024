@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02035631",
+    "briefTitle": "Prevention of Breast Cancer Recurrence Through Weight Control, Diet, and Physical Activity Intervention",
+    "officialTitle": "Prevention of Breast Cancer Recurrence Through Weight Control, Diet, and Physical Activity Intervention",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms, Recurrence",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "Time to local and distant recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* incident primary breast cancer (ICD-O C50)\n* stage at diagnosis I, II, IIIA (or T1-3, N0-N2, M0)\n* age at diagnosis below 76 years\n* within 3 months since completion of standard treatment (excluding hormonal therapy) and within 15 months since the diagnosis of the disease\n\nExclusion Criteria:\n\n* morbid obesity (BMI \\>40kg/m\u00b2) or underweight (BMI \\<18kg/m\u00b2)\n* ischemic heart disease (coronary syndrome, unstable angina or myocardial infarction) or cerebrovascular incident (ischemic or hemorrhagic) during the previous 12 months\n* diabetes (only if unstable - glycosylated haemoglobin \\>9%)\n* current medical or surgical treatment to lose weight\n* mental illness that would prevent the patient from carrying out the intervention\n* logistical factors which would prevent the patient from carrying out the intervention (distance to travel, work or family commitments)\n* pregnant or planning pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

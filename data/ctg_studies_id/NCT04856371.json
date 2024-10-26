@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04856371",
+    "briefTitle": "Study of CYH33 in Combination With Endocrine Therapy With or Without Palbociclib in Patients With HR+, HER2- Advanced Breast Cancer",
+    "officialTitle": "A Multicenter, Open-label, Phase Ib Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Preliminary Efficacy of CYH33 in Combination With Endocrine Therapy With or Without Palbociclib in Patients With PIK3CA Mutant, HR+, HER2- Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 228,
+    "primaryOutcomeMeasure": "Dose Limiting Toxicities (DLT)",
+    "eligibilityCriteria": "Main Inclusion Criteria:\n\n1. Provide informed consent voluntarily.\n2. Male and female patients \u2265 18 years of age.\n3. Patient must have a histologically or cytologically documented locally advanced, recurrent or metastatic breast cancer.\n4. In case of women, both premenopausal and postmenopausal patients can be enrolled in the study.\n5. Confirmed diagnosis of HR+, HER2- breast cancer.\n6. For Stage 1 dose exploration phase, patients with or without PIK3CA mutation may be enrolled; For Stage 2 dose expansion phase, patients with PIK3CA mutations are required.\n7. Patient must have evidence of disease radiological progression after previous endocrine therapy, or other systemic therapy.\n8. Patient has measurable disease per RECIST v1.1.\n9. ECOG \u2264 1.\n10. Patient must have adequate organ and bone marrow function.\n\nMain Exclusion Criteria:\n\n1. Previously received any anticancer therapy within 28 days or 5 times of half-lives prior to the first dose of the study treatment.\n2. Previously received treatment with any PI3K\u03b1 inhibitor, AKT inhibitor, or mTOR inhibitor.\n3. Radical radiation therapy within 4 weeks prior to the first dose of the study treatment.\n4. Patient with an established diagnosis of diabetes mellitus.\n5. Any other concurrent disease with potential risk of insulin resistance or current use of medication with potential risk of insulin resistance.\n6. Patient with clinically significant cardiovascular disease.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

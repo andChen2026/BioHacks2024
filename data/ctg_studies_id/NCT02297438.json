@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02297438",
+    "briefTitle": "A Study Of Palbociclib (PD-0332991) + Letrozole VS. Placebo+ Letrozole For 1st Line Treatment Of Asian Postmenopausal Women With ER+/HER2- Advanced Breast Cancer [PALOMA-4]",
+    "officialTitle": "A MULTICENTER, RANDOMIZED, DOUBLE-BLIND PHASE 3 STUDY OF PALBOCICLIB (ORAL CDK 4/6 INHIBITOR) PLUS LETROZOLE VERSUS PLACEBO PLUS LETROZOLE FOR THE TREATMENT OF PREVIOUSLY UNTREATED ASIAN POSTMENOPAUSAL WOMEN WITH ER (+), HER2 (-) ADVANCED BREAST CANCER",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 340,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS) Based on Investigator's Assessment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult Asian women with locoregionally recurrent or metastatic disease not amenable to curative therapy\n* Confirmed diagnosis of ER positive breast cancer\n* No prior systemic anti-cancer therapy for advanced ER+ disease\n* Postmenopausal women\n* Measurable disease as per Response Evaluation Criterion in Solid Tumors \\[RECIST\\] or bone-only disease\n* Eastern Cooperative Oncology Group \\[ECOG\\] 0-1\n* Adequate organ and marrow function\n* Patient must agree to provide tumor tissue\n\nExclusion Criteria:\n\n* Confirmed diagnosis of HER2 positive disease\n* Patients with advanced, symptomatic, visceral spread that are at risk of life threatening complication in the short term\n* Known uncontrolled or symptomatic CNS metastases\n* Prior neoadjuvant or adjuvant treatment with a non steroidal aromatase inhibitor (ie, anastrozole or letrozole) with disease recurrence while on or within 12 months of completing treatment\n* Prior treatment with any CDK 4/6 inhibitor",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

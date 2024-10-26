@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04249167",
+    "briefTitle": "Cryoablation, Atezolizumab/Nab-paclitaxel for Locally Advanced or Metastatic Triple Negative Breast Cancer",
+    "officialTitle": "Cryoablation and Anti-PD-L1 Immunotherapy for Triple Negative Breast Cancer (TNBC)",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Anatomic Stage III Breast Cancer AJCC v8, Anatomic Stage IIIA Breast Cancer AJCC v8, Anatomic Stage IIIB Breast Cancer AJCC v8, Anatomic Stage IIIC Breast Cancer AJCC v8, Anatomic Stage IV Breast Cancer AJCC v8, Locally Advanced Breast Carcinoma, Metastatic Triple-Negative Breast Carcinoma, Prognostic Stage III Breast Cancer AJCC v8, Prognostic Stage IIIA Breast Cancer AJCC v8, Prognostic Stage IIIB Breast Cancer AJCC v8, Prognostic Stage IIIC Breast Cancer AJCC v8, Prognostic Stage IV Breast Cancer AJCC v8",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Safety and Feasibility of cryoablation with systemic atezolizumab/nab-paclitaxel",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Locally advanced or metastatic PD-L1 positive TNBC (TNBC is defined as estrogen receptor \\[ER\\] \\< 10%, progesterone receptor \\[PR\\] \\< 10%, and HER2 non-amplified; and PD-L1 positive is defined as \\>= 1%.)\n* Presents with primary breast tumor lesion amenable to cryoablation\n* Have at least one additional distant lesion feasible for biopsies\n* Agreeable to start on atezolizumab and nab-paclitaxel as per standard of care\n* Patients with locally advanced disease must be ineligible for curative surgery for any reason, including but not limited to comorbid status precluding surgery due to safety, unresectability, or patient refusal\n* Patient may have received prior systemic chemotherapy regimens\n\nExclusion Criteria:\n\n* History of autoimmune disease\n* History of human immunodeficiency virus (HIV)\n* Previous immune checkpoint targeting therapies\n* No primary breast lesion amenable for cryoablation due to size (greater than 5 cm) or location (proximity of \\< 0.5 cm to the skin or nipple-areola complex)\n* Pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

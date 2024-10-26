@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01785420",
+    "briefTitle": "Pre Operative Trastuzumab in Operable Breast Cancer",
+    "officialTitle": "A Phase III Double Blind Randomized Placebo Controlled Study of Trastuzumab as Short Duration Preoperative Therapy in Patients With HER2-neu Positive Operable Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Carcinoma Breast Stage I, HER2 Positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1100,
+    "primaryOutcomeMeasure": "Disease Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:a.\n\n1. Female subjects aged 18 years or older.\n2. Histologically and/or cytologically confirmed diagnosis of breast cancer. Clinical stages breast cancer: HER2 positive, T1 or T2 or T3, N0 or N1, resectable T4, or resectable N2, (all M0)\n3. Documentation of erbB-2 gene amplification by FISH (as defined by a ratio \\>2.2) or chromogenic in situ hybridization (CISH, as defined by the manufacturer's kit instruction) or documentation of erbB-2-overexpression by IHC (defined as IHC3+, or IHC2+ with FISH or CISH confirmation) based on local laboratory.\n4. LVEF within institutional range of normal as measured by MUGA or ECHO.\n5. Screening laboratory values within the following parameters:\n\n   1. Absolute neutrophil count (ANC) \u22651.5 x 109 /L (1500/mm3)\n   2. Platelet count \u2265100 x 109/L (100,000/mm3)\n   3. Hemoglobin \u22659.0 g/dL (90 g/L)\n   4. Serum creatinine \u22641.5 x upper limit of normal (ULN)\n   5. Total bilirubin \u22641.5 x ULN (\\<3 ULN if Gilbert's disease) 6Aspartate aminotransferase (AST) and/or alanine aminotransferase (ALT)\n\n      * 2.5 x ULN\n\nExclusion Criteria:\n\n1. Bilateral breast cancer\n2. Active uncontrolled cardiac disease, including cardiomyopathy, CHF (New York Heart Association \\[NYHA\\] functional classification of \u22653), unstable angina, and myocardial infarction (within 12 months of study entry).\n3. Inadequately controlled hypertension (ie, systolic blood pressure \\[BP\\] \\> 180 mm Hg or diastolic BP \\> 100 mm Hg).\n4. Family history of congenital long or short QT syndrome, Brugada syndrome or QT/QTc interval \\> 0.45 second or known history of QT/QTc prolongation or torsade de pointe (TdP).\n5. Significant chronic gastrointestinal disorder with diarrhea as a major symptom (eg, Crohn's disease, malabsorption, or grade \u22652 diarrhea of any etiology at baseline).\n6. Women who are pregnant, breast-feeding.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

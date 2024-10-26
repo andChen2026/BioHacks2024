@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03997539",
+    "briefTitle": "A Study of Pyrotinib Plus Vinorelbine in Comparison With Treatment of Physician's Choice in Participants With HER2-positive Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "A Randomized, Multicenter, Phase II Open-label Study of the Efficacy and Safety of Pyrotinib + Vinorelbine vs. Treatment of Physician's Choice in Patients With HER2-Positive Locally Advanced or Metastatic Breast Cancer Who Have Received Prior Trastuzumab-Based Therapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 256,
+    "primaryOutcomeMeasure": "maximum-tolerated dose (MTD)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* HER2 status must be prospectively, centrally tested and be HER2-positive based on central laboratory assay results\n* Histologically or cytologically confirmed invasive breast cancer\n* Prior treatment for breast cancer in the adjuvant, unresectable, locally advanced, or metastatic setting must include both a taxane, alone or in combination with another agent, and trastuzumab, alone or in combination with another agent\n* Documented progression (which occur during or after most recent treatment or within 6 months after completing of adjuvant therapy) of incurable, unresectable, locally advanced or metastatic breast cancer, defined by the investigator\n* Measurable and/or nonmeasurable disease; participants with central nervous system-only disease are excluded\n* Cardiac ejection fraction greater than or equal to (\\>/=) 50 percent (%) by either echocardiogram or multi-gated acquisition scan\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n\nExclusion Criteria:\n\n* History of treatment with pyrotinib\n* Prior treatment with lapatinib or neratinib\n* History of other malignancy within the last 5 years, except for appropriately treated carcinoma in situ of the cervix, non-melanoma skin carcinoma\n* History of receiving any anti-cancer drug/biologic or investigational treatment within 28 days prior to randomization except hormone therapy\n* Recovery of treatment-related toxicity consistent with other eligibility criteria\n* History of radiation therapy within 28 days of randomization\n* Brain metastases that are untreated, symptomatic, or require therapy to control symptoms, as well as any history of radiation, surgery, or other therapy, including steroids, to control symptoms from brain metastases within 2 months (60 days) of randomization\n* History of symptomatic congestive heart failure or serious cardiac arrhythmia requiring treatment\n* History of myocardial infarction or unstable angina\n* Current severe, uncontrolled systemic disease (for example, clinically significant cardiovascular, pulmonary, or metabolic disease)\n* Pregnancy or lactation\n* Current known active infection with human immunodeficiency virus (HIV) or hepatitis C virus\n* Presence of conditions that could affect gastrointestinal absorption: Malabsorption syndrome, resection of the small bowel or stomach, and ulcerative colitis",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

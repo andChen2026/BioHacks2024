@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05360290",
+    "briefTitle": "CTCs in Breast Cancer After Neoadjuvant Treatment and Surgery: a Multicenter, Prospective Clinical Trial",
+    "officialTitle": "The Value of Circulating Tumor Cells in Patients With Breast Cancer Who Completed Surgery After Neoadjuvant Treatment: a Multicenter, Prospective Clinical Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Circulating Tumor Cell",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 484,
+    "primaryOutcomeMeasure": "invasive disease-free survival (iDFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, aged \u226518 and \u226470 years;\n* Histologically confirmed invasive breast cancer (cT2-4N0-2M0 or cT1N1-3M0 before neoadjuvant treatment);\n* Completed neoadjuvant treamtment and surgery (within 4 years after surgery);\n* Administered neoadjuvant chemotherapy (regardless of chemotherapy regimen);\n* ECOG 0-1\n\nExclusion Criteria:\n\n* Metastatic disease (Stage IV);\n* Female patients who are pregnancy or lactation;\n* Uncontrollable puncture site infection or systemic infection;",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

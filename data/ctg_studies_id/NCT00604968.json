@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00604968",
+    "briefTitle": "Pegylated Liposomal Doxorubicin (Caelyx(R)) as Monotherapy in Elderly Patients With Locally Advanced and/or Metastatic Breast Cancer (Study P05059)",
+    "officialTitle": "Caelyx(R) in Breast Cancer in the Elderly. Pegylated Liposomal Doxorubicin (Caelyx(R)) as Monotherapy in Elderly Patients With Locally Advanced and/or Metastatic Breast Cancer.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Time to Treatment Failure (Defined as Progression of Disease [According to the Response Evaluation Criteria in Solid Tumors (RECIST) or World Health Organization (WHO) Criteria] or Unacceptable Toxicity Leading to Discontinuation of Treatment or Death).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients meeting the following criteria will be eligible for enrollment.\n\n  * Female patients with histologic or cytologic diagnosis of breast cancer that is locally advanced or metastatic, and not amenable to surgery.\n  * Age \\>= 65 years.\n  * World Health Organization (WHO) Performance Status 0 - 2\n  * Measurable disease in accordance with Response Evaluation Criteria in Solid Tumors (RECIST) criteria. Patients with bone metastasis can also be included but will be evaluated according to WHO criteria. Patients with non-measurable disease can also be included.\n  * Left ventricular ejection fraction (LVEF) \\>= 50% verified by ultrasound cardiography (UCG); no clinical signs of heart disease.\n  * Normal organ function, except due to disease involvement, however maximum deviation:\n\n    * S-creatinine \\<= 1.5 x upper normal limit;\n    * Bilirubin \\<= 2 x upper normal limit;\n    * Alanine aminotransferase (ALAT) and/or aspartate aminotransferase (ASAT) \\<= 3 x upper normal limit. In case of liver metastases, ALAT and/or ASAT \\<= 5 x upper normal limit.\n  * Adequate bone marrow function, ie:\n\n    * Platelets \\>= 100 x 10\\^9/L;\n    * Neutrophils \\>= 1.5 x 10\\^9/L;\n    * White Blood Cell (WBC) \\>= 3.0 x 10\\^9/L;\n    * Hemoglobin \\> 90 g/L.\n  * Life expectancy \\>= 12 weeks.\n  * Patients having received oral and written information and having provided written informed consent.\n\nExclusion Criteria:\n\n* Patients will not be enrolled if any of the following conditions apply.\n\n  * Previous chemotherapy for metastatic disease. (The patient may have received previous endocrine therapy or single-drug Herceptin. Intrapleural or intrapericardial Novantrone is allowed.)\n  * Recurrence \\<= 12 months after adjuvant anthracycline-containing treatment and/or prior doxorubicin \\> 300 mg/m\\^2 or epirubicin \\> 540 mg/m\\^2.\n  * Myocardial infarction within 6 months of planned inclusion.\n  * Symptomatic brain metastases.\n  * Human Epidermal growth factor Receptor 2 (HER-2) positivity eligible for treatment with trastuzumab, or estrogen receptor (ER) positivity eligible for hormonal therapy.\n  * Allergy to anthracyclines.\n  * Uncontrolled infection.\n  * Other not radically treated malignancy.\n  * Other disease or condition contraindicating treatment or not allowing follow-up.",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

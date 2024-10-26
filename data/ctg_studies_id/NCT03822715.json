@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03822715",
+    "briefTitle": "NEOBREADS: Neoadjuvant Breast Diet Study",
+    "officialTitle": "IIT2018-25-MITA-NEOBREADS: Neoadjuvant Breast Diet Study",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2,
+    "primaryOutcomeMeasure": "Diet adherence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed breast cancer; clinical T2-T4c, any N, M0 invasive breast cancer by AJCC 7th edition clinical staging, with goal being surgery to complete excision of tumor in the breast and lymph node. Primary tumor must be palpable, largest diameter \\>2.0 cm by physical examination or by radiological assessment.\n* ER/PR+; defined as either ER and/or PR +, 1+ in 10% of cells\n* HER2 Negative; HER2 negative is defined by the following criteria:\n\n  1. 0 or 1+ by IHC and ISH not done\n  2. 0 or 1+ by IHC or ISH ratio (HER2 gene copy/chromosome 17) \\< 2\n  3. 2+ by IHC and ISH ratio (HER2 gene copy/chromosome 17) \\< 2\n* Ability to read, write, and understand English\n* BMI \\>24 kg/m2\n* ECOG performance status 0-2\n* Planning to receive neoadjuvant aromatase inhibitor therapy\n* Written informed consent obtained from subject and ability for subject to comply with the requirements of the study.\n* Age \\> 18 years\n\nExclusion Criteria:\n\n* Already consuming a severely carbohydrate-restricted (i.e. \\<20g total carbohydrates per day) or vegetarian diet\n* Medical comorbidities that in the opinion of the investigator limits the patient's ability to complete this study\n* Candidate for chemotherapy or HER2 directed therapy\n* Treatment for this cancer including surgery, radiation therapy, chemotherapy, biotherapy, hormonal therapy, or investigational agent prior to study entry (initiation of AI within 30 days of diet initiation acceptable)\n* Loss of \\>10% of body weight within the previous 6 months\n* Clinical or radiographic evidence of metastatic disease.\n* Current use of weight loss medications including herbal weight loss supplements or enrolled in a diet/weight loss program",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

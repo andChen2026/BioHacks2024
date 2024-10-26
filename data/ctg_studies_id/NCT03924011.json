@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03924011",
+    "briefTitle": "Photobiomodulation Therapy for the Prevention of Acute Radiodermatitis in Breast Cancer Patients Undergoing Radiotherapy",
+    "officialTitle": "The Use of Photobiomodulation Therapy for the Prevention of Acute Radiodermatitis in Breast Cancer Patients: a Multicentre, Randomized, Placebo-controlled Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Radiodermatitis, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 71,
+    "primaryOutcomeMeasure": "Radiation Dermatitis Grade",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Informed Consent as documented by signature\n* Diagnosis of non-invasive (stage 0) or invasive (stage 1, 2 and 3A) breast adenocarcinoma\n* Treatment with primary breast-sparing surgery (lumpectomy) and/or neoadjuvant (preoperative) or adjuvant (postoperative) chemotherapy or hormonal therapy\n* Scheduled for postoperative radiotherapy at Ziekenhuis Oost-Limburg, Genk:\n* Hypofractionated radiotherapy regimen (i.e. 16 daily fractions of 2.66 Gray to the whole breast followed by a boost of 5 fractions of 2.66 Gray to the tumor bed, 5x/week)\n\nExclusion Criteria:\n\n* Scheduled for postoperative radiotherapy at Jessa Hospital, Hasselt, Belgium\n* Previous irradiation to the same breast\n* Metastatic disease\n* Concurrent chemotherapy\n* Required use of bolus material to deliver radiotherapy (i.e material placed on the to-be- irradiated zone to modulate the delivered dose in order to ensure an optimal distribution of the radiation dose; mostly used for treatment of superficial tumors)\n* Known or suspected non-compliance, drug or alcohol abuse\n* Inability to follow the procedures of the study, e.g. due to language problems, psyschological disorders, dementia, etc. of the participant\n* Seizure\n* Disorders triggered by lighttake anticoagulants\n* Hemorrhagic diatheses\n* Pregnancy\n* Suspected of carrying serious infectious disease\n* HIV positive history",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

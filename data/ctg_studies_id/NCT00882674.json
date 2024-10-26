@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00882674",
+    "briefTitle": "A Study to Evaluate the Biological Activity of R1507 in Women With Operable Breast Cancer",
+    "officialTitle": "An Exploratory Study to Evaluate the Biological Activity of R1507, a Human Monoclonal Antibody Antagonist of the Insulin-like Growth Factor Receptor (IGF-1R) in Women With Operable Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 8,
+    "primaryOutcomeMeasure": "Percent reduction in IGF-1R expression",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female patients, \\>=18 years of age;\n* invasive, and operable, breast cancer;\n* ECOG Performance Status of 0 or 1.\n\nExclusion Criteria:\n\n* evidence of metastatic disease;\n* inflammatory breast cancer;\n* prior hormonal or systemic therapy for breast cancer;\n* prior treatment with an agent targetting the IGF-1R pathway;\n* patients receiving concurrent radiotherapy, or who have received radiotherapy within 28 days prior to receipt of study drug.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

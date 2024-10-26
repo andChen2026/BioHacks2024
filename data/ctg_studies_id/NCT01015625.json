@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01015625",
+    "briefTitle": "Primary Operation in SYnchronous meTastasized InVasivE Breast Cancer",
+    "officialTitle": "Primary Operation in SYnchronous meTastasized InVasivE Breast Cancer, a Multicenter Prospective Randomized Study to Evaluate the Use of Local Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Synchronous Metastasized Breast Cancer, Circulating Tumor Cells",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 90,
+    "primaryOutcomeMeasure": "Overall Survival (OS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients age \u2265 18 years\n* Eastern Cooperative Oncology Group Performance Status is 0 -2\n* Untreated synchronous metastasized invasive carcinoma of the breast with the primary tumor in situ (bilateral synchronous metastasized breast cancer patients are eligible)\n* The primary tumor must be identified and may be any size, however, primary resection with resection free margins must be possible\n* Invasive adenocarcinoma of the breast on histological examination\n* The metastatic site must be identified by radiological assessment(Computer Tomography of the chest and the abdomen OR ultrasound and chest x ray for visceral metastases; bone scan AND/OR computer tomography AND/OR magnetic resonance for bone metastases). A biopsy is not necessary.\n* Written informed consent must be obtained and documented prior to beginning any protocol specific procedures and according to local regulatory requirements\n* able to comply with the protocol requirements during the treatment and follow-up period.\n\nExclusion Criteria:\n\n* Patients in whom a R0 resection (microscopic free margins) is clinically questionable\n* Inflammatory cancer\n* Patients with a brain metastasis\n* Patients who are not eligible for general anesthesia and operations\n* Patients without metastatic breast cancer (patients with a tumor marker value (CEA, CA15-3) above normal levels without the radiological proven evidence of metastases are not eligible for the study)\n* Patients with a second untreated malignancy\n* Any previous malignancy treated with curative intent and the patient has not been disease-free for 5 years - exceptions are: (a)carcinoma in situ of the cervix, (b)squamous carcinoma of the skin, (c)basal cell carcinoma of the skin\n* Patients with any recurrent cancer disease\n* Pregnant or lactating women\n* Patients are not allowed to be part of another local therapy trial",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

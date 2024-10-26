@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03988114",
+    "briefTitle": "A Study of Abemaciclib (LY2835219) in Participants With HR+, HER2- Advanced Breast Cancer",
+    "officialTitle": "A Single-Arm, Global, Phase 4 Study of Abemaciclib, a CDK 4 & 6 Inhibitor, in Combination With Nonsteroidal Aromatase Inhibitors (Anastrozole or Letrozole) in Participants With Hormone Receptor Positive, Human Epidermal Growth Factor Receptor 2 Negative Advanced Breast Cancer With Poor Prognostic Factors",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants must have completed (neo) adjuvant endocrine therapy and have cancer return after at least 12 months or have de novo cancer that has spread to other organs at diagnosis\n* Participants must have 1 or more of the following:\n\n  * A high grade tumor in tissue\n  * Negative progesterone receptor (PR) status\n  * Have cancer that has spread to the liver\n  * Have a treatment-free interval (TFI) \\<36 months\n* Participants must have HR+, HER2- breast cancer\n* Participants must have adequate organ function\n\nExclusion Criteria:\n\n* Participants must not have cancer that has spread to other organs that has severely affected their function\n* Participants must not have cancer that has spread to the brain that is unstable or untreated\n* Participants must not have received endocrine therapy in the metastatic setting\n* Participants must not have known active infection\n* Participants must not have received prior endocrine therapy and had disease return within 12 months from completion of treatment\n* Participants must not have received prior treatment with any cyclin-dependent kinase (CDK) 4 \\& 6 inhibitor or everolimus",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

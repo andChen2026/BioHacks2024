@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05591456",
+    "briefTitle": "Accelerated Hypofractionated 1 Week Radiotherapy in Breast Cancer Patients",
+    "officialTitle": "Accelerated Hypofractionated 1 Week Radiotherapy in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Radiotherapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "detection of breast shrinkage",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histological diagnosis of breast adenocarcinoma\n* prior modified radical mastectomy\n* negative resection margins (3 mm)\n* pathological stage pT1-pT2, N0-2 (AJCC, 2017)\n* no macroscopic evidence of distant metastases at diagnosis\n* Age 18-80 years\n* Normal hematological and biochemical laboratory tests\n* Written informed consent was obtained from all patients\n\nExclusion Criteria:\n\n* locally advanced disease pT3-pT4, N3\n* positive surgical margins\n* prior thoracic radiation\n* synchronous second primary tumor\n* distant metastases\n* pregnancy\n* presence of a concomitant psychiatric disorder precluding an aware informed consent.\n* age \\>80 years",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

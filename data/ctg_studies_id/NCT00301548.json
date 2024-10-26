@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00301548",
+    "briefTitle": "Perioperative Chemotherapy After Primary Chemotherapy for Locally Advanced Breast Cancer",
+    "officialTitle": "Primary Chemotherapy Combined With Perioperative Chemotherapy In Operable Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 172,
+    "primaryOutcomeMeasure": "Reduction in Ki-67 labeling index",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with breast cancer histologically proven \\> 2 cm, ER and PgR \\<20% or Any ER and PgR absent (T2,T3 N0-2, M0)\n* No treatment with previous chemotherapy/hormonotherapy\n* Performance status 0-2 (ECOG scale, Appendix 2)\n* Measurable or evaluable lesions\n* Age between 18-70 years\n* No significant intercurrent illness such as diabetes, cardiovascular, renal or neurologic impairments\n* Absence of psychiatric illness\n* WBC \\> 4,000/mm3; PLTS \\> 100,000/mm3\n* AST, ALT, LDH, gamma-GT \\< 2.5 x upper limit of normal and bilirubin \\< 3 mg/100 ml\n* Informed consent obtained\n* Pregnancy test (in fertile women). An effective contraceptive method must be utilized by fertile women.\n* Baseline examinations (chest X ray, CT scan, ECG etc) performed within one month prior initiation to therapy\n\nExclusion Criteria:\n\n* Uncontrolled infection and metabolite disease\n* Distant metastases\n* Active peripheric and/or central neurological disease\n* Active cardiac disease defined as CHF (NYHA III-IV) significant arrhytmias, bilateral bundle branch block or recent (less than 3 months) history of myocardial infarction\n* History of second malignancy (exception in situ carcinoma of the uterine cervix and basal or squamous cell carcinoma of the skin)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

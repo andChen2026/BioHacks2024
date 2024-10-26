@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01722890",
+    "briefTitle": "CharactHer. ICORG 12-09, V3",
+    "officialTitle": "CharactHer: A Study of the Molecular and Cytogenetic Characteristics of HER2-positive Breast Cancers to Predict Durable Complete Response After Chemotherapy and Trastuzumab",
+    "overallStatus": "TERMINATED",
+    "conditions": "HER2-positive Breast Cancer, TNM Stage II-IV Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 130,
+    "primaryOutcomeMeasure": "Panel of molecular and cytogenetic biomarkers able to predict Durable Complete Response (DCR) after chemotherapy and trastuzumab in patients with HER2-positive locally advanced or metastatic breast cancer.",
+    "eligibilityCriteria": "Inclusion criteria for Cohort 1:\n\n1. Histologically proven AJCC TNM stage II-IV invasive breast cancer\n2. HER2-positivity defined as score 3+ on IHC and/or with HER2/neu amplification on FISH test (HER2/CEP17 ratio \\>2.0 on PathVysion test)\n3. Evidence of complete response (CR) according to RECIST 1.1 criteria lasting for at least 36 months (for stage IV patients only) following a first-line chemotherapy and trastuzumab\n4. Pathological Complete Response (pCR) following a neo-adjuvant chemotherapy (CT) and trastuzumab (for stage II-III patients only). pCR is defined as no evidence of residual invasive carcinoma in the breast (ductal carcinoma in situ (DCIS) is allowed) AND in all the examined lymph nodes (micro-metastases and isolated tumour cells are not allowed).\n5. At least one FFPE archived tissue sample from the primary tumour and/or a metastatic site(s) available for laboratory analyses\n6. Adequate follow up information\n\nInclusion criteria for Cohort 2:\n\n1. Histologically proven AJCC TNM stage II-IV invasive breast cancer\n2. HER2-positivity defined as score 3+ on IHC and/or with HER2/neu amplification on FISH test (HER2/CEP17 ratio\\>2.0 on PathVysion test)\n3. Progression of disease according to RECIST 1.1 while receiving trastuzumab (in association with chemotherapy or as single agent as maintenance therapy) or within 6 months from last dose of trastuzumab (for stage IV patients only)\n4. Residual invasive tumour in the breast larger than 2cm and /or at least one micro- or macro-metastasis in the axillary lymph nodes following pre-operative trastuzumab-containing chemotherapy (for stage II-III patients only)\n5. At least one FFPE archived tissue sample from the primary tumour and/or a metastatic site(s) available for laboratory analyses\n6. Adequate follow up information\n\nExclusion Criteria:\n\n1. Any deviation from the above mentioned Inclusion criteria",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

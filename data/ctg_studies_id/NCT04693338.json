@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04693338",
+    "briefTitle": "Interactive Care Plan for the Monitoring of Symptoms and Recovery in Patients With Stage 0-III Breast Cancer",
+    "officialTitle": "Assessing the Usability and Workflow Impact of a Mobile-Based Breast Cancer Survivorship Care Plan in the Oncology Practice",
+    "overallStatus": "COMPLETED",
+    "conditions": "Anatomic Stage 0 Breast Cancer AJCC v8, Anatomic Stage I Breast Cancer AJCC v8, Anatomic Stage II Breast Cancer AJCC v8, Anatomic Stage III Breast Cancer AJCC v8",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Symptoms assessment response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Recently diagnosed and treated for breast cancer -- having a biopsy-proven, stage 0-III breast cancer and are within 12 months of completion of loco-regional breast cancer treatment and (as indicated) neoadjuvant and/or adjuvant chemotherapy. Ongoing treatment with adjuvant endocrine, bisphosphonate, and single-agent, HER2-directed therapy during the study period is allowed\n* Willing to install an application (APP) on personal smart device\n\nExclusion Criteria:\n\n* Unwilling to return to Mayo Clinic for routine follow-up visits\n* Unwilling to use the Mayo Clinic Mobile App\n* Unable to provide consent\n* Unable to speak or read English\n* Unable to participate in mild activity",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

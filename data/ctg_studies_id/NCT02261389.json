@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02261389",
+    "briefTitle": "Follow-up of Early Breast Cancer by Dynamic Evaluation of CEA and CA 15.3 Followed by 18FDG-PET",
+    "officialTitle": "Three-monthly Dynamic Evaluation of CEA and CA 15.3 vs Usual Practice in the Follow-up of Early Breast Cancer Patients: a Randomized Study",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1507,
+    "primaryOutcomeMeasure": "Time interval between date of randomization and date of diagnosis of disease distant recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or female \u226518 years.\n* Histologically confirmed stage I-III epithelial breast cancer.\n* Adequate surgery of breast and axilla:\n\n  1. patients must have undergone either a total mastectomy or breast conserving surgery\n  2. surgical margins of the resected specimen must be histologically free of invasive tumor.\n* Cohort 1: if chemotherapy and/or radiotherapy are indicated the patients must be randomized between 1 month and 2 months from the end of chemotherapy and/or radiotherapy; if only hormonal adjuvant therapy is indicated the patients must be randomized within 3 months from the completion of surgery\n* Cohort 2: patients must be randomized in the trial after 5 years of follow-up without relapse (but within year 6)\n* Signed informed consent obtained prior to any study-specific procedures.\n\nExclusion Criteria:\n\n* Histologically confirmed stage 0 epithelial breast cancer (carcinoma in situ).\n* Special histologies with a high or low risk of relapse (i.e. sarcoma and tubular carcinoma)\n* T1a and T1b tumors with all the following characteristics: G1-2 and N0 and RE \\> 10%, RPg \\> 10% and HER2 negative and Ki67\u226414%\n* Evidence of distant metastases\n* Patients participating to other clinical trials requiring follow-up not equal to standard\n* Previous history of cancer within 5 years from randomization (except for appropriately treated carcinoma in situ of the cervix, non-melanoma skin carcinoma, stage I uterine cancer, or other non-breast malignancies with an outcome similar to those mentioned above)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

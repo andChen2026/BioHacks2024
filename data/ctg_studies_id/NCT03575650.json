@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03575650",
+    "briefTitle": "Early Detection of Imaging-derived Subclinical Cardiac Injuries",
+    "officialTitle": "Early Detection of Imaging-derived Subclinical Cardiac Injuries After Radiotherapy and Chemotherapy for Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cardiovascular Diseases",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 148,
+    "primaryOutcomeMeasure": "Left Ventricle Global Longitudinal Strain (LV-GLS) assessed by echocardiography",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female unilateral BC patients\n2. Primary breast conserving surgery or mastectomy for stage I-III invasive adenocarcinoma of the breast or ductal carcinoma in situ (DCIS)\n3. Age between 40-70 years at time of chemotherapy/radiotherapy\n4. WHO performance status 0-1\n5. Planned radiotherapy to the breast/chest wall with or without the lymph node areas\n6. Radiotherapy based on planning CT-scan, using either 3D CRT, (partial) IMRT or (partial) VMAT/RapidArc with or without deep inspiration breath-hold\n7. Adjuvant systemic chemotherapy (before or after radiotherapy)\n8. Written informed consent\n\nExclusion Criteria:\n\n1. Male BC patients\n2. M1 disease (metastatic BC)\n3. Previous thoracic or mediastinal radiation\n4. Neo-adjuvant chemotherapy not allowed\n5. Targeted HER2 therapy not allowed\n6. Medical history of coronary artery disease and/or myocardial infarction and/or atrial fibrillation\n7. Contraindications to injection of iodinated contrast such as allergy or renal failure\n8. Pregnancy or lactation\n9. Atrial fibrillation detected during electrocardiogram before chemotherapy/radiotherapy\n10. Abnormal echocardiography before chemotherapy/radiotherapy defined as: LVEF \\<50%, longitudinal strain \\<-16%, longitudinal strain rate \\<-1%, and/or abnormal wall motion\n11. Presence of myocardial infarction detected during cMRI before chemotherapy/radiotherapy\n12. cMRI or cCT results before chemotherapy/radiotherapy requiring revascularisation",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01372527",
+    "briefTitle": "Population-Based Patient-Centric Care: Comprehensive Preventive Cancer Screening Using Health IT",
+    "officialTitle": "Technology for Optimizing Population Care in a Resource-limited Environment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Colorectal Cancer, Cervical Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 103870,
+    "primaryOutcomeMeasure": "Cancer completion for all eligible cancers",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer: Women 42-74 years old\n* Cervical cancer: Women 21-65 years old\n* Colorectal cancer: Women and men 52-75 years old\n\nExclusion Criteria:\n\n* Breast cancer: History of bilateral mastectomy in their EHR\n* Cervical cancer: History of total hysterectomy in their EHR\n* Colorectal cancer: History of total colectomy in their EHR",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

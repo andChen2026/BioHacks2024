@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00359190",
+    "briefTitle": "Pharmacokinetics And Pharmacodynamics Of Lapatinib In Two Dosing Regimens In Treatment-naive Patients With Breast Cancer",
+    "officialTitle": "A Phase I, Open Label Study of the Safety, Pharmacokinetics and Pharmacodynamics of GW572016 in Once Daily Versus Twice Daily Dosing Regimens in Patients With Treatment- Naive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neoplasms, Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "Comparison of the effects of 3 dosing schedules of lapatinib on biomarkers involved in regulating tumor cell proliferation and survival in pre-treatment and post-treatment breast tumor tissue samples.",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Clinical labs are within acceptable ranges.\n* A histologically confirmed, treatment-naive, breast tumor measuring 1 cm or greater that can be readily biopsied.\n* At least 18 years of age.\n* Females must meet certain criteria specified in protocol.\n* Ability to swallow and retain oral medication.\n* Ability to follow and understand directions.\n\nExclusion criteria:\n\n* Female who is pregnant or lactating.\n* Medically unfit by the doctor as a result of the medical interview or physicals.\n* Received treatment of an investigational drug within 4 weeks of study start.\n* Currently receiving treatment with prohibited meds listed in protocol.\n* Had major surgery in previous 2 weeks.\n* Had prior radiation therapy to the chest to treat this incidence of breast cancer.\n* Hypersensitivity reaction or idiosyncrasy to drugs chemically related to the study med.\n* Has a malabsorption syndrome.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

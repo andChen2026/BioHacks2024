@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05933876",
+    "briefTitle": "The Impact of Radiotherapy on Oligometastatic Cancer",
+    "officialTitle": "Stereotactic ABlative Radiotherapy (SABR) in Oligometastatic Cancer (OC): a Radiomics, Multi-omics, and Machine Learning Approach to Clinical Decision-making. The OC-SABR Multicentric Project",
+    "overallStatus": "RECRUITING",
+    "conditions": "Metastasis, Metastatic Breast Cancer, Metastatic Prostate Cancer, Metastatic Colorectal Cancer, Metastatic Lung Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "Radiological rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologic confirmation of primary tumor: breast, prostate, lung, colorectal.\n* 18 years old or older.\n* Up to five metastases located in the bone, lung, node, liver or brain.\n* Eastern Cooperative Oncology Group (ECOG) Performance Status Scale 0 or 1.\n\nExclusion Criteria:\n\n* Non-melanoma skin cancer.\n* Previous radiotherapy in the same anatomic location.\n* Presence of vascular collagen disease.\n* Pregnancy or lactation at the time of inclusion.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

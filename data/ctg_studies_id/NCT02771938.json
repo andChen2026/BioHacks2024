@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02771938",
+    "briefTitle": "Primary Radiotherapy And DIEP flAp Reconstruction Trial",
+    "officialTitle": "Primary Radiotherapy And DIEP flAp Reconstruction Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 33,
+    "primaryOutcomeMeasure": "Number of participants with presence of open breast wound",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women \\>18 years with histopathologically-confirmed breast cancer, who:\n* require mastectomy for any reason (e.g. extensive disease, failed conservative management etc.)\n* adjuvant radiotherapy and who are suitable for DIEP flap reconstruction at the time of mastectomy\n\nExclusion Criteria:\n\n* Inability to give informed consent\n* MDM unable to make recommendation for radiotherapy based on pre-operative histopathological and imaging findings ie mastectomy pathology required for MDM to decide on need/ target volume for post-mastectomy RT\n* Severe chemotherapy toxicity affecting treatment planning schedule",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

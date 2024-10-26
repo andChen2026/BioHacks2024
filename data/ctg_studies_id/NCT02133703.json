@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02133703",
+    "briefTitle": "Decision Support Following Genetic Testing for Breast-Ovarian Cancer Susceptibility",
+    "officialTitle": "Decision Making Interventions for Women Receiving Uninformative BRCA1/2 Test Results or Positive BRCA1/2 Test Results",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Ovarian Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 369,
+    "primaryOutcomeMeasure": "Knowledge",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Undergo BRCA1/2 genetic counseling and testing at one of four study sites\n* Receive positive or uninformative test results\n* English speaking\n\nExclusion Criteria:\n\n* Newly diagnosed breast cancer patients who have not yet initiated definitive breast cancer treatment\n* Previous bilateral mastectomy",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

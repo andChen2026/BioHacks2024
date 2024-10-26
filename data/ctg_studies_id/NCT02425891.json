@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02425891",
+    "briefTitle": "A Study of Atezolizumab in Combination With Nab-Paclitaxel Compared With Placebo With Nab-Paclitaxel for Participants With Previously Untreated Metastatic Triple-Negative Breast Cancer (IMpassion130)",
+    "officialTitle": "A Phase III, Multicenter, Randomized, Placebo-Controlled Study of Atezolizumab (Anti-PD-L1 Antibody) in Combination With Nab-Paclitaxel Compared With Placebo With Nab-Paclitaxel for Patients With Previously Untreated Metastatic Triple-Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 902,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS) According to Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1 (v1.1) in All Randomized Participants",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Metastatic or locally advanced, histologically documented TNBC characterized by absence of human epidermal growth factor 2 (HER2), estrogen receptor (ER), and progesterone receptor (PR) expression\n* No prior chemotherapy or targeted systemic therapy for inoperable locally advanced or metastatic TNBC\n* Eligible for taxane monotherapy (i.e., absence of rapid clinical progression, life-threatening visceral metastases, or the need for rapid symptom and/or disease control)\n* A representative formalin-fixed, paraffin-embedded tumor specimen in paraffin blocks, or at least 20 unstained slides with an associated pathology report documenting ER, PR, and HER2 negativity. Participants with fewer than 20 unstained slides available at baseline, and not fewer than 12 unstained slides will be eligible upon discussion with Medical Monitor\n* Eastern Cooperative Oncology Group performance status of 0 or 1\n* Measurable disease as defined by RECIST v1.1\n* Adequate hematologic and end-organ function\n\nExclusion Criteria:\n\n* Known central nervous system (CNS) disease, except for treated asymptomatic CNS metastases\n* Leptomeningeal disease\n* Pregnancy or lactation\n* History of autoimmune disease\n* Prior allogeneic stem cell or solid organ transplantation\n* Positive test for human immunodeficiency virus\n* Active hepatitis B or hepatitis C\n* Receipt of a live, attenuated vaccine within 4 weeks prior to randomization, during treatment, or within 5 months following the last dose of atezolizumab/placebo",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

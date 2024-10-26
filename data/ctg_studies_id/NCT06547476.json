@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06547476",
+    "briefTitle": "Chidamide and PD-1 Inhibitor Plus Anlotinib for HER2-low Breast Cancer That Has Spread or Cannot be Surgically Removed",
+    "officialTitle": "A Phase 2, Single Arm Study Investigating the Use of Chidamide and PD-1 Antibody Combination With Anlotinib in HER2-low, Unresectable and/or Metastatic Breast Cancer",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Progression-free survival(PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Has pathologically documented breast cancer that:\n\n   * Is unresectable or metastatic\n   * Has low-HER2 expression defined as IHC 2+/ISH- or IHC 1+ (ISH- or untested)\n   * Is HR-positive\n   * Has progressed on, and would no longer benefit from, endocrine therapy\n   * Has been treated with 0 to 1 prior lines of chemotherapy in the recurrent or metastatic setting\n   * Was never previously HER2-positive (ICH 3+ or ISH+) on prior pathology testing (per American Society of Clinical Oncology-College of American Pathologists \\[ASCO-CAP\\] guidelines)\n   * PD-L1 positive \uff08CPS\u22651\uff09\n2. Has documented radiologic progression (during or after most recent treatment)\n3. Has adequate archival tumor samples available or is wiling to provide fresh biopsies prior to randomization for:\n\n   * assessment of HER2 status\n   * assessment of post-treatment status\n4. Has at least 1 measurable lesion per Response Evaluation Criteria In Solid Tumors 1.1\n5. Has protocol-defined adequate cardiac, bone marrow, renal, hepatic and blood clotting functions\n6. Male and female participants of reproductive/childbearing potential, agrees to follow instructions for method(s) of contraception and agrees to avoid preserving ova or sperm for at least 4.5 months after treatment (or longer, per locally approved labels)\n\nExclusion Criteria:\n\n1. Allergies to any monoclonal antibody or tucidinostat preparation have been known, and hypersensitivity reactions of more than 3 levels have occurred\n2. Previously received histone deacetylase inhibitors,or immune checkpoint inhibitor, or angiogenesis inhibitors.\n3. Subjects with any active, known or suspected autoimmune disease or history of autoimmune disease.\n4. Known active CNS metastases and/or carcinomatous meningitis.\n5. Received a live vaccine within 4 weeks of the first dose of study medication.\n6. Major surgery received or severe traumatic injury, fracture, or ulcer occurred within 4 weeks of the first dose of study medication.\n7. Pregnant or lactating female.\n8. Uncontrolled clinically significant systemic diseases, including active infection, unstable angina, angina occurred within 3 months,\u2265 NYHA II congestive heart failure, myocardial infarction occurred within 6 months, severe arrhythmia, liver, kidney, or metabolic disease.\n9. Participate in other clinical trials currently or within 4 weeks prior to enrollment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

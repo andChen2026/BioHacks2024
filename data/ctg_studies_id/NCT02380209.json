@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02380209",
+    "briefTitle": "An Early Phase Clinical Trial to Evaluate the Feasibility of CEST MRI in Patients With Early Stage Breast Cancer",
+    "officialTitle": "An Early Phase Clinical Trial to Evaluate the Feasibility of CEST MRI in Patients With Early Stage Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 8,
+    "primaryOutcomeMeasure": "pH measurement of the tumor will be measured by the CEST MRI.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Newly diagnosed infiltrating ductal carcinoma (IDC) of the breast\n* \\>= 1.0 cm primary tumor\n* Calculated creatinine clearance \\>= 50 mL/min\n* Willing and able to provide informed consent\n* Age \u2265 18 years\n* ECOG performance status 0-2\n* Informed of the investigational nature of this study\n\nExclusion Criteria:\n\n* Allergy to iodinated contrast agent\n* Use of metformin, aminoglycosides, other nephrotoxic medications, or daily use of NSAIDs\n* Diabetes mellitus\n* History of severe claustrophobia\n* Presence of electrically, magnetically, or mechanically activated implants including cardiac pacemakers, cochlear implants, magnetic surgical clips or prosthesis that would preclude MRI\n* Use of \\> 1 antihypertensive drug\n* Pregnancy or breastfeeding\n* Paraproteinemia syndromes or multiple myeloma\n* Collagen vascular disease\n* Active hyperthyroidism\n* Active pharmaceutical treatments for cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00413491",
+    "briefTitle": "National Screening in Denmark With MR Versus Mammography and Ultrasound of Women With BRCA1 or BRCA2 Mutations",
+    "officialTitle": "National Screening i Danmark Med MR-scanning af Brystet Kontra Klinisk Mammografi Hos Kvinder Der er b\u00e6rere af Risikogivende BRCA1 Eller BRCA2 Mutationer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Diagnostic outcome of a yearly screening with MR versus combined mammography and ultrasound of the breast measured by accuracy, sensitivity, specificity, positive and negative predictive values.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women tested positive of BRCA1 or BRCA2 gene mutations\n* referred for screening\n* aged 25 - 70 years\n\nExclusion Criteria:\n\n* general contraindications for MR\n* pregnant or lactating\n* men\n* bilateral mastectomy\n* ongoing treatment with chemotherapy\n* metastatic breast cancer\n* previous breast surgery less than 6 months before MR\n* previous radiation therapy of the breast less than 1 year before\n* incapable of managing her own affairs",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

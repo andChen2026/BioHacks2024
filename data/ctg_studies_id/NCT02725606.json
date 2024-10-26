@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02725606",
+    "briefTitle": "Study to Assess the Safety, Tolerability, and Pharmacokinetics/Pharmacodynamics of GW003 in Patients With Breast Cancer",
+    "officialTitle": "A Phase I Study to Evaluate the Safety, Tolerability, and Pharmacokinetics/Pharmacodynamics of Human Serum Albumin/Human Granulocyte-Colony Stimulating Factor(I) Fusion Protein for Injection (GW003) in Patients With Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Chemotherapy-induced Neutropenia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Frequency of adverse events (AEs) and serious adverse events (SAEs) which are related to GW003 as assessed by CTCAE v4.03",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged 18 years to 70 years, female\n* Patients with histologically-confirmed breast cancer and plan to accept adjuvant chemotherapy(epirubicin plus cyclophosphamide)\n* Have an Eastern Cooperative Oncology Group(ECOG) performance status\u22642\n* Have no clinically significant impairment in cardiac, liver and kidney\n* Adequate hematologic, hepatic and renal function which should meet the following requirements:\n\n  1. Absolute neutrophil count(ANC)\u22651.5 x 10\\^9/L\n  2. Blood platelet(PLT)\u2265100 x 10\\^9/L\n  3. Serum creatinine(sCr)\u22641.5 times the upper limit of normal(ULN)\n  4. Total bilirubin(TBIL)\u22641.5\u00d7ULN\n  5. Aspartate aminotransferase(AST) /serum glutamic-oxaloacetic transaminase(SGOT) and/or alanine aminotransferase(ALT)/serum glutamic pyruvic transaminase(SGPT) \u2264 2.5 x ULN\n  6. Hemoglobin(Hb)\\>9 g/dL\n  7. Alkaline phosphatase(ALP)\u22641.5\u00d7ULN\n* Expected to comply with protocol\n* With urine human chorionic gonadotropin (hCG) negative\n* Signed informed consent\n\nExclusion Criteria:\n\n* With acute infection\n* With history of bone marrow transplant and/or stem cell transplant\n* With primary hematological diseases, such as myelodysplastic syndromes, aplastic anemia, sickle cell anemia\n* Received surgery within 3 weeks before chemotherapy\n* Received G-CSF within 4 weeks before involved in this study\n* Females who are pregnant or lactating\n* Participated in other clinical trials at the same time or within 4 weeks before screening\n* Known allergy to chemotherapy drugs,recombinant human granulocyte-colony stimulating factor rh(rhG-CSF) or any other biological products\n* With cacoethic addiction such as drug abuse or alcoholism\n* With other cases which is not suitable for this study judged by investigator",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

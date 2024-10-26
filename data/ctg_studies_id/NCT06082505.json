@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06082505",
+    "briefTitle": "Salud en Mis Manos - Breast and Cervical Cancer Prevention and Early Detection - Expansion 1",
+    "officialTitle": "A Community Based Program to Increase Breast and Cervical Cancer Screening and HPV Vaccination to Reduce the Impact of Breast and Cervical Cancer Among Latinas.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cervical Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 8262,
+    "primaryOutcomeMeasure": "Number of women 40 years and older who complete mammogram screening",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Self identifies as Hispanic or Latina\n* Lives in Texas\n* Breast cancer screening group: have not had a mammogram in the past 2 years, and are 40 years of age and older\n* Cervical cancer screening group: have not had a Pap test in the past 3 years and are 21 years of age and older\n* HPV vaccination group: are women 21-26 years of age, and have not initiated the HPV vaccine series\n* Age limit for breast cancer screening group: 40 years and older\n* Age limit for cervical cancer screening group (Pap test): 21 years and older\n* Age limit for HPV vaccination group: 21-26 years\n\nExclusion Criteria:\n\n* Current pregnancy\n* Current or prior cancer diagnosis",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

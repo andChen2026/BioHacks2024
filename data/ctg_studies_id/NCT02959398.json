@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02959398",
+    "briefTitle": "Evaluation of Tomosynthesis for Characterization and the Management of Breast Lesions",
+    "officialTitle": "EVALUATION DE LA TOMOSYNTHESE DANS LA CARACTERISATION ET LA PRISE EN CHARGE DES LESIONS MAMMAIRES : \"ETOLE\"",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms, Tomosynthesis, BRCA1 Protein, BRCA2 Protein",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "Breast Imaging-Reporting And Data System (BI-RADS) scale",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient having clinical or breast imaging abnormalities classified as BiRads 3, 4, 5 (Table 1). (5)\n* Patient over 18 years old\n* Signed informed consent\n\nExclusion Criteria:\n\n* Patients at high risk of breast cancer, mutations BRCA 1 (BReast CAncer gene 1) or BRCA 2 (BReast CAncer gene 2) carriers, Li Fraumeni, or history of thoracic radiation will be excluded because of their greater sensitivity to ionizing radiation.\n* Patient unable to give informed consent for physical, mental, or legal reasons.\n* Patient not affiliated with French Social Security Insurance.\n* Patient under treatment for breast cancer.\n* When mammography is not recommended according to good practice by the French Health Authority (HAS).\n* Pregnant patient.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

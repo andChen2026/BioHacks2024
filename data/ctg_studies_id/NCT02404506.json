@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02404506",
+    "briefTitle": "Eribulin as 1st Line Treatment in Elderly Patients With Advanced Breast Cancer",
+    "officialTitle": "Eribulin as 1st Line Treatment in Elderly Patients (\u2265 70 Years) With Advanced Breast Cancer: a Multicenter Phase II Trial",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Adenocarcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 78,
+    "primaryOutcomeMeasure": "Disease Control (DC)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient must give written informed consent according to ICH/GCP regulations before registration\n* Histologically or cytologically confirmed locally advanced or metastatic HER2-neg, hormone receptor positive or negative adenocarcinoma of the breast with measurable or evaluable disease according to RECIST 1.1 criteria\n* At least 6 months since last adjuvant/neoadjuvant chemotherapy administration before registration\n* At least 2 weeks since prior radiotherapy or endocrine therapy and complete recovery from these interventions at time of registration\n* Baseline C-SGA and patient-reported outcome (PRO) forms have been completed\n* Female patient at the age of \u226570 years\n* WHO performance status 0-2\n* Adequate hematological values: hemoglobin \u226580 g/L (transfusions are allowed), neutrophils \u22651.5 x 109/L, platelets \u2265 100 x 109/L\n* Adequate hepatic function: bilirubin \u22641.5 x ULN, AST \u22643 x ULN, alkaline phosphatase (AP) \u22642.5 x ULN (in case of liver metastases \u22645 x ULN or in case of bone metastases \u226410 x ULN)\n* Adequate renal function (calculated creatinine clearance \\>40 mL/min, according to the formula of Cockcroft-Gault)\n\nExclusion Criteria:\n\n* Known CNS metastases\n* Previous malignancy within 3 years with the exception of adequately treated cervical carcinoma in situ or localized non-melanoma skin cancer\n* Prior chemotherapy for advanced disease\n* Concurrent anticancer treatment or treatment in a clinical trial within 30 days prior to registration. Exception: participation in SAKK 96/12\n* Palliative irradiation prior to study entry with more than 30% of marrow-bearing bone irradiated\n* Pre-existing neuropathy \u2265G2 (according to CTCAE v4.0) at registration\n* Severe or uncontrolled cardiovascular disease (congestive heart failure NYHA III or IV (see Appendix 4), unstable angina pectoris, history of myocardial infarction within the last three months, significant arrhythmias, congenital long QT-syndrome)\n* Any concomitant drugs contraindicated for use with the trial drugs according to the approved product information\n* Known hypersensitivity to trial drug or to any component of the trial drug\n* Any serious underlying medical condition (at the judgment of the investigator) which could impair the ability of the patient to participate in the trial (e.g. active autoimmune disease, uncontrolled diabetes)\n* Psychiatric disorder precluding understanding of trial information, giving informed consent, taking part in the geriatric assessment, or interfering with compliance/with the trial protocol\n* Any familial, sociological or geographical condition potentially hampering proper staging and compliance with the trial protocol",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

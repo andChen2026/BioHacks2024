@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03811418",
+    "briefTitle": "A Study to Compare Pertuzumab + Trastuzumab + Vinorelbine vs. Placebo + Trastuzumab + Docetaxel in Previously Untreated HER2-positive Metastatic Breast Cancer",
+    "officialTitle": "Phase III Study to Compare Trastuzumab-biosimilar (Kanjinti\u00ae) Plus Pertuzumab Plus Vinorelbine With Trastuzumab-biosimilar (Kanjinti\u00ae) Plus Pertuzumab Plus Docetaxel as First-line Treatment for HER2-positive Advanced Breast Cancer",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Advanced Breast Cancer, HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Patient-reported health-related quality of life (QoL): FACT-B",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed and dated written informed consent prior to beginning of protocol-specific procedures.\n* Histologically or cytologically confirmed adenocarcinoma of the breast. Locally advanced and inoperable or metastatic disease.\n* HER2-positive disease, defined as IHC status HER2+++ or CISH/FISH status positive.\n* Female patients aged \u2265 18 years.\n* In case of adjuvant treatment, disease-free interval of at least 12 months after completion of adjuvant treatment (excluding hormonal therapy).\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1.\n* Left Ventricular Ejection Fraction (LVEF) \u2265 50%.\n* For women with childbearing potential, defined as physiologically capable of becoming pregnant:\n\n  * Negative pregnancy test.\n  * Agreement to use an effective form of contraception during study treatment and for 7 months after the last dose of study treatment.\n* Life expectancy of at least 12 weeks.\n* Adequate organ and bone marrow function\n* Fluent in spoken and written German and willing to answer the questionnaires\n\nExclusion Criteria:\n\n* Previous systemic treatment in palliative intention (chemotherapy, hormonal therapy and / or biological therapy)\n* Persistent peripheral sensory or motor neuropathy grade 2 or higher (NCI CTCAE v5.0)\n* Evidence of central nervous system metastases. CT or MRI of the brain is only mandatory in case of clinical suspicion of brain metastases\n* Current uncontrolled hypertension (systolic \\> 150 mmHg and / or diastolic \\> 100 mmHg) or clinically significant cardiovascular disease\n* History of LVEF \\< 50% during or after prior (neo)adjuvant therapy with trastuzumab\n* Current severe, uncontrolled systemic disease (e.g. cardiovascular, pulmonary, or metabolic disease, wound healing disorder, ulcers, or bone fractures, or severe fungal, bacterial or viral infection)\n* Major surgery within 28 days prior to start of study medication, or anticipation of the need for major surgery during the course of study treatment\n* Current known infection with HIV, HBV, or HCV (testing not required)\n* Dyspnea at rest due to complications of advanced malignancy, or other diseases requiring continuous oxygen therapy.\n* Known hypersensitivity to any of the study medications or to excipients of recombinant human or humanized antibodies.\n* Participation in investigational studies within 30 days or five half-lives of the respective IMP, whichever is longer, prior randomization.\n* Pregnant or lactating women.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

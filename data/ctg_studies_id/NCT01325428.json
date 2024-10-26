@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01325428",
+    "briefTitle": "Afatinib (BIBW2992) in HER2 (Human Epidermal Growth Factor Receptor 2)-Overexpressing Inflammatory Breast Cancer",
+    "officialTitle": "An Open Label, Phase II Trial of Afatinib With or Without Vinorelbine for the Treatment of HER2-overexpressing Inflammatory Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "Part A: Clinical Benefit (CB) Assessed by Complete Response (CR), Partial Response (PR) or Stable Disease (SD) for at Least 6 Months Using the Response Evaluation Criteria in Solid Tumours (RECIST 1.1).",
+    "eligibilityCriteria": "Inclusion criteria:\n\n1. Female patients \\>=18 years with proven diagnosis of HER2-overexpressing, histologically confirmed breast cancer\n2. Locally advanced or metastatic disease\n3. Must have disease that can be evaluated according to RECIST 1.1 (Response Evaluation Criteria for Solid Tumours version 1.1)\n4. For trastuzumab pre-treated patients, must have failed prior trastuzumab treatment\n5. Investigator-confirmed diagnosis of Inflammatory Breast Cancer\n6. Must have biopsiable disease\n\nExclusion criteria:\n\n1. Prior treatment with HER2-targeted small molecules or antibodies other than trastuzumab (which must have been given in the trastuzumab-failure study population)\n2. Must not have received prior vinorelbine treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

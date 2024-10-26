@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02144194",
+    "briefTitle": "Maintenance Oral Vinorelbine or Observation After Vinorelbine-Docetaxel First Line Chemotherapy in Advanced Breast Ca",
+    "officialTitle": "TNM Trial: Upfront Docetaxel [T] and Alternating iv and Oral Vinorelbine [N] Followed, by Either Maintenance Oral Vinorelbine, or Observation for Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 65,
+    "primaryOutcomeMeasure": "Time To Disease Progression of patients who are treated with Vinorelbine-Docetaxel followed by maintenance oral Vinorelbine vs patients treated with Vinorelbine-Docetaxel without maintenance treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent\n* Patients \\>=18 years of age\n* Histologically or cytologically confirmed adenocarcinoma of the breast that is now metastatic or locally-recurrent and inoperable with curative intent\n* Measurable and/or non-measurable disease\n* The patient's primary and/or metastatic tumor is HER2 neu negative\n* Documented metastatic disease previously untreated with palliative chemotherapy\n* Adjuvant or neo-adjuvant chemotherapy (including treatment with docetaxel or any other chemotherapy) is allowed with a disease free survival of at least 6 months\n* No symptom or sign of brain metastasis\n\nExclusion Criteria:\n\n* Operable local recurrence\n* Ascites or pericardial effusion as only site of metastasis\n* Symptomatic peripheral neuropathy \\> grade 1 according to the NCI Common Toxicity Criteria\n* Radiotherapy to all areas of evaluable disease within the previous 4 weeks\n* Disease significantly affecting absorption\n* Severe hepatic insufficiency\n* Patient previously treated with chemotherapy for their metastatic disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

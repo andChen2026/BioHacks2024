@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02635672",
+    "briefTitle": "Phase I Dose Escalation Study for VIP152 in Patients With Advanced Cancer",
+    "officialTitle": "An Open-label, Multicenter Phase I Dose Escalation Study to Characterize Safety, Tolerability, Preliminary Anti-tumor Activity, Pharmacokinetics and Maximum Tolerated Dose of VIP152 (BAY 1251152) as Monotherapy or Combination Therapy in Subjects With Advanced Cancer.",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 110,
+    "primaryOutcomeMeasure": "Incidence of DLT (Dose limit toxicity) of VIP152 (BAY1251152)",
+    "eligibilityCriteria": "Part 2 (Global), Part 3 (US Only), and Part 4 (US Only)\n\nInclusion Criteria:\n\n* Male or female patients aged \\>/=18 years\n* Patients with a histologically or cytologically confirmed solid tumor or aggressive NHL who are refractory to or have exhausted all available therapies with MYC expression or known C-MYC amplification/alterations\n* Adequate bone marrow, liver, and renal functions\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2\n\nIn the addition to the above Part 3 (US Only) and Part 4 (US Only)\n\n* Must be eligible to use pembrolizumab per USPI\n\nExclusion Criteria:\n\n* Active clinically serious infections of events \\> Grade 2\n* Subjects who have new or progressive brain or meningeal or spinal metastases.\n* Anticancer chemotherapy or immunotherapy during the study or within 1 weeks prior to the first dose of study drug\n* Major surgery or significant trauma within 4 weeks before the first dose of study drug\n* Allogeneic bone marrow transplant or stem cell rescue within 4 months before first dose of study drug; patients must have completed immunosuppressive therapy before enrollment.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

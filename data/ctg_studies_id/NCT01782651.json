@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01782651",
+    "briefTitle": "Treatment Options in Human Epidermal Growth Factor Receptor 2 (HER2) Positive Metastatic Breast Cancer Patients",
+    "officialTitle": "Treatment Options in Human Epidermal Growth Factor Receptor 2 (HER2) Positive Metastatic Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neoplasms, Breast",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "Time to progression (TTP) expressed in weeks and months",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients aged 18 years or older at diagnosis of, or progression to, metastatic breast cancer\n* Patients with a diagnosis of breast cancer with documented metastatic disease and with known date of metastatic disease\n* Patients with a histologically confirmed HER2+ breast cancer (HER2 testing procedures per routine institutional practice; no tissue re-sampling will be performed. If conducted at another site, documented results must be available).\n\nExclusion Criteria:\n\n* Patients receiving care for another primary cancer during the study time period.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

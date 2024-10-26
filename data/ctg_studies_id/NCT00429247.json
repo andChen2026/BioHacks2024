@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00429247",
+    "briefTitle": "Randomized Trial With Trastuzumab Versus Observation in Breast Cancer Patients",
+    "officialTitle": "A Pilot Randomized Phase II Study of Adjuvant Administration of Trastuzumab (HERCEPTIN) Versus Observation After the Completion of Adjuvant Chemotherapy and Radiotherapy in Patients With Stage I-III Breast Cancer Who Have Detectable Disseminated and/or Circulating Tumor Cells (DTCs and/or CTCs) in the Bone Marrow or/and the Peripheral Blood Before or/and After the Completion of Adjuvant Treatment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 75,
+    "primaryOutcomeMeasure": "Compare the disease-free interval of patients with early-stage breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\>= 18 years.\n* Performance status (World Health Organization \\[WHO\\]) \\< 3\n* Adequate bone marrow function (absolute neutrophil count \\> 1000/mm\\^3, platelet count \\> 100000/mm\\^3, hemoglobin \\> 9 gr/mm\\^3)\n* Adequate liver (bilirubin \\< 1.5 times upper limit of normal and SGOT/SGPT \\< 2 times upper limit of normal) and renal function ( creatinine \\< 2 mg/dl)\n* Adequate cardiac function (left ventricular ejection fraction \\[LVEF\\] \\> 50%).\n* Informed consent\n* Histologically or cytologically confirmed breast adenocarcinoma\n* Prior surgical excision of the primary breast tumor\n* Prior completion of standard adjuvant chemotherapy and/or radiotherapy\n* Locally advanced disease after the completion of neo-adjuvant chemotherapy, surgical excision and radiotherapy provided that there was no evidence of local or metastatic disease\n* Absence of any clinical or laboratory evidence of metastatic disease\n* Detection of CTCs and/or DTCs (when it could be feasible) before the initiation and/or after the completion of adjuvant chemotherapy and/or radiotherapy\n* Expression of HER2/c-neu on the primary tumor is not mandatory\n\nExclusion Criteria:\n\n* Other invasive malignancy within the past 5 years except nonmelanoma skin cancer\n* Other concurrent uncontrolled illness\n* Psychiatric illness or social situation that would preclude study compliance\n* Pregnant or nursing\n* Positive pregnancy test\n* History of allergic reaction attributed to trastuzumab (HERCEPTIN)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

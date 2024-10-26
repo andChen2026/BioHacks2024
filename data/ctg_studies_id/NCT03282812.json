@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03282812",
+    "briefTitle": "Metabolomics and Breast Cancer Risk in a Nested Case-control Study of the Cancer Prevention Study-II Nutrition Cohort",
+    "officialTitle": "Cancer Prevention Study-II Nutrition Cohort",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1547,
+    "primaryOutcomeMeasure": "Incident invasive breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* blood sample\n* cancer free at blood draw\n\nExclusion Criteria:\n\n* unverified breast cancer\n* non-invasive breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

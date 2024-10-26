@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06500936",
+    "briefTitle": "Evaluation of an mHealth Intervention to Promote Participation in Breast Cancer Screening in Argentina",
+    "officialTitle": "Evaluation of an mHealth Intervention Using an Automated Text Message (SMS) Invitation System to Increase Participation in Mammography Screening Among Women Aged 50-69 Years in the Province of Santa Fe, Argentina",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Screening",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 248,
+    "primaryOutcomeMeasure": "Effectiveness outcome",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* A woman was eligible if she was 50+years, had not performed a mammography in the last two years, had not a breast cancer diagnosis and was able to provide a mobile phone number\n\nExclusion Criteria:\n\n* Women under 50 years\n* Women who had performed a mammography in the last two years,\n* Women who had breast cancer diagnosis",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

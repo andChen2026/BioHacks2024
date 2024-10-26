@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00213980",
+    "briefTitle": "Bone Mineral Density Effects of Zoledronate in Postmenopausal Women With Breast Cancer",
+    "officialTitle": "Bone Mineral Density Effects of Zoledronate in Postmenopausal Women With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 68,
+    "primaryOutcomeMeasure": "Change in Bone Mineral Density (BMD) From Baseline to 1 Year",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Postmenopausal women, Stage III or axillary node positive\n* Currently disease free of breast cancer and other invasive malignancies at the time of registration\n* No concurrent use of bisphosphonates\n\nExclusion Criteria:\n\n* Metastatic disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

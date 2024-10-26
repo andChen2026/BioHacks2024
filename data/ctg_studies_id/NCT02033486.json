@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02033486",
+    "briefTitle": "Digital Breast Tomosynthesis Guided Tomographic Optical Breast Imaging (TOBI)",
+    "officialTitle": "Digital Breast Tomosynthesis Guided Tomographic Optical Breast Imaging (TOBI)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 375,
+    "primaryOutcomeMeasure": "Area under the curve for distinguishing benign vs malignant lesions",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Any adult female volunteers of any race or ethnic background, between the ages of 30 to 80, either\n\n  * scheduled for a clinically indicated diagnostic mammogram or percutaneous biopsy.\n  * presenting for breast cancer treatment\n\nExclusion Criteria:\n\n* Under 30 years old or over 80 years old\n* Is pregnant or thinks she may become pregnant.\n* Open wounds on breast\n* Breast implants\n* Any condition that impairs the ability to give informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01858116",
+    "briefTitle": "PET Study of Breast Cancer Patients Using [68Ga]ABY-025",
+    "officialTitle": "An Exploratory Study to Evaluate [68Ga]ABY-025 for PET Imaging of HER2 Expression in Subjects With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 16,
+    "primaryOutcomeMeasure": "PET image analysis: Standardized Uptake Value (SUV) and uptake kinetics of [68Ga]ABY-025 in breast cancer lesions and normal tissues",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Subject is \\> 18 years of age\n2. Diagnosis of invasive breast cancer with metastases\n3. Availability of results from HER2 status previously determined on material from the primary tumor, either\n\n   1. HER2-positive, defined as a DAKO HercepTest\u2122 score of 3+ or FISH positive or\n   2. HER2-negative, defined as a DAKO HercepTest\u2122 score of 0 or 1+ or else; if 2+ then FISH negative\n4. Volumetrically quantifiable metastasis lesions on CT or MRI, with at least one lesion \\>= 10 mm in smallest diameter and suitable for biopsy\n5. ECOG performance status of =\\< 2\n6. Life expectancy of at least 12 weeks\n7. Hematological, liver and renal function test results within the following limits:\n\n   White blood cell count: \\> 2.0 x 10\\^9/L Haemoglobin: \\> 80 g/L Platelets: \\> 50.0 x 10\\^9/L ALT, ALP, AST: =\\< 5.0 times Upper Limit of Normal Bilirubin =\\< 2.0 times Upper Limit of Normal Serum creatinine: Within Normal Limits or else normal clearance\n8. A negative pregnancy test (serum beta-human chorionic gonadotropin, beta-HCG) at screening for all female patients of childbearing potential, who must use a medically acceptable form of contraception from study start until at least 30 days after study termination\n9. Subject is able to participate in the diagnostic investigations to be performed in the study\n10. Informed consent\n\nExclusion Criteria:\n\n1. Manifest second, non-breast malignancy\n2. Known HIV positive or chronically active hepatitis B or C\n3. Administration of other investigational medicinal product within 30 days of screening\n4. Ongoing toxicity \\> grade 2 from previous standard or investigational therapies, according to US National Cancer Institute's \"Common Terminology Criteria for Adverse Events v4.0 \\[CTCAE\\]\"\n5. Other ongoing severe disease that may influence the patient's ability to participate in the study\n6. Pregnant or breast-feeding",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

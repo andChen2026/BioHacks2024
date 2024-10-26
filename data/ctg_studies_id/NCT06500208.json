@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06500208",
+    "briefTitle": "Neoadjuvant Adebrelimab and Chemotherapy in High-rish ER+/HER2- BC",
+    "officialTitle": "An Open-label, One-arm Phase II Study of Adebrelimab Combined With Neoadjuvant Chemotherapy for High-risk, Early-stage and Locally Advanced Estrogen Receptor-Positive, Human Epidermal Growth Factor Receptor 2-Negative (ER+/HER2-) Breast Cancer.",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 48,
+    "primaryOutcomeMeasure": "pCR rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* pathologically diagnosed as unilateral primary invasive breast cancer with a) cT1c-T2N1-3 or cT3-4N0-3, b) Tumor Grade 3 or Grade 2 with PR- or Ki67 \\&gt; 20%;\n* IHC ER expression \u22651%; IHC HER2 0 or 1+; IHC HER2 2+ and no amplification in FISH test;\n* At least one measurable lesion according to RECIST 1.1;\n* Available core needle biopsy samples for PD-L1 status testing;\n* ECOG 0 or 1 within 10 days prior to initiation of treatment;\n* Not currently pregnant or breastfeeding, agree to strict contraception during treatment and at least 6 months after last dose;\n* Intact hematologic, liver, renal and heart functions;\n* Signed written informed consent.\n\nExclusion Criteria:\n\n* Bilateral invasive breast cancer or Stage IV breast cancer;\n* Severe heart disease;\n* Diagnosed as immune deficiency or receiving systemic steroid therapy or any form of immuno-suppressive therapy within 7 days prior to the first dose of treatment;\n* Had active autoimmune diseases requiring systemic therapy within the past 2 years;\n* Severe systemic infections or other serious medical conditions;\n* Other malignant tumors in the past 5 years, except for cured carcinoma in situ of the cervix and skin cancer without melanoma;\n* History of HIV infection;\n* Active HBV or HCV infection;\n* Known allergies or intolerance to the therapeutic drug or its excipients;\n* History of application of any immunotherapy targeting PD-1/PD-L1/T cell receptors;\n* Judged by the investigator to be unsuitable to participate in this study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

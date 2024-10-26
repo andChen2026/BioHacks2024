@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04681768",
+    "briefTitle": "Abemaciclib in Combination With Endocrine Therapy as First Line Therapy in Metastatic Breast Cancer Patients",
+    "officialTitle": "Abemaciclib in Combination With Endocrine Therapy as First Line Therapy in Metastatic Breast Cancer Patients With Symp-tomatic Visceral Metastases or High Tumor Burden",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer/ Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "objective response rate (ORR) while being on study treatment using RECIST V1.1.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age \u226518 years\n2. Female patients who will start endocrine therapy (aromatase inhibitor or Fulvestrant) in combination with Abemaciclib as first line treatment for metastatic breast cancer within clinical routine\n3. Signed informed consent\n4. Life expectancy greater or equal to 12 weeks\n5. Histologically proven diagnosed estrogen receptor positive, HER2 negative metastatic breast cancer not amenable to curative treatment\n6. Radiographic evidence of measurable or evaluable visceral disease\n7. Visceral involvement must fulfil one of the following criteria:\n\n   1. Presence of any clinical sign or symptom from visceral disease (at least one of the following: pleural effusion, ascites, abdominal pain from liver or peritoneal metastases, dyspnea from pleural effusion or lymphangiosis of the lung, elevated liver enzymes (\\> 2x ULN), elevated bil-irubin)\n   2. Signs of high tumor burden (at least one of the following: LDH \\>399 U/l with K in normal range, abnormal (\\> 2x ULN) CEA or CA15-3 level, radiographic signs of lymphangiosis of the lung, cytologically proven bone marrow infiltration)\n\nExclusion Criteria:\n\n1. Contraindications for treatment with Abemaciclib, aromatase inhibitor or Fulvestrant according to current SmPC\n2. Prior first line therapy (endocrine or chemotherapy) for metastatic breast cancer\n3. Prior treatment with any CDK4/6 inhibitor (or participation in any CDK4/6 inhibitor clinical trial for which treatment assignment is still blinded)\n4. Bone-only disease\n5. Participation in clinical trials using an IMP within the last four weeks prior to inclusion (ICF)\n6. Treatment with a drug that has not received regulatory approval for any indication within 28 days of initiation of study treatment for a non-myelosuppressive or myelosuppressive agent, respectively\n7. Patients who are pregnant or breast-feeding",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

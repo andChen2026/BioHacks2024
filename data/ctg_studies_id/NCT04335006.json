@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04335006",
+    "briefTitle": "A Phase 3 Study Comparing Carelizumab Plus Nab-paclitaxel and Apatinib, Carelizumab Plus Nab-paclitaxel, and Nab-paclitaxel in Patients With Advanced Triple Negative Breast Cancer.",
+    "officialTitle": "A Multicentre, Open-parallel, Randomized, Controlled Phase \u2162 Study Comparing Carelizumab Plus Nab-paclitaxel and Apatinib, Carelizumab Plus Nab-paclitaxel, and Nab-paclitaxel in Patients With Unresectable Locally Advanced or Metastatic Triple Negative Breast Cancer.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Progression-free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* ECOG Performance Status of 0-1.\n* Expected lifetime of not less than three months\n* Metastatic or locally advanced, histologically documented TNBC (absence of HER2, ER, and PR expression)\n* Cancer stage: locally advanced or metastatic breast cancer; Locally advanced breast cancer not amenable to radical resection.\n* No prior systemic antitumor therapy for metastatic triple-negative breast cancer.\n* Adequate hematologic and organ function\n* Measurable disease according to Response Evaluation Criteria in Solid Tumors v1.1 (RECIST v1.1)\n\nExclusion Criteria:\n\n* Known central nervous system (CNS) disease.\n* Previously received anti-VEGFR small molecule tyrosine kinase inhibitors or anti-PD-1/PD-L1 antibody.\n* A history of bleeding, any serious bleeding events.\n* Uncontrolled pleural effusion, pericardial effusion.\n* Malignancies other than TNBC within 5 years prior to randomisation, or ascites requiring recurrent drainage procedures\n* History of interstitial pneumonitis.\n* Severe chronic or active infections in need of systemic antibacterial, antifungal, or antiviral treatment, including TB, etc.\n* Prior allogeneic stem cell or solid organ transplantation.\n* History of autoimmune disease\n* Active hepatitis B or hepatitis C\n* Pregnancy or lactation.\n* Peripheral neuropathy grade \u22652.\n* Participants with poor blood pressure control;\n* Myocardial infarction incident within 6 months prior to randomisation;\n* Treatment with systemic immunostimulatory agents within 4 weeks prior to randomisation\n* Treatment with systemic immunosuppressive medications within 2 weeks prior to randomisation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

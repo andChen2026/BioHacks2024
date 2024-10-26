@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05523947",
+    "briefTitle": "Clinical Trial of YH32367 in Patients With HER2 Positive Locally Advanced or Metastatic Solid Tumor",
+    "officialTitle": "A Phase 1/2, Open-label, Multicenter, First-in-Human Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Anti-tumor Activity of YH32367 in Patients With HER2-Positive Locally Advanced or Metastatic Solid Tumors",
+    "overallStatus": "RECRUITING",
+    "conditions": "HER2-Positive Solid Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 137,
+    "primaryOutcomeMeasure": "Treatment-emergent adverse events (TEAEs) up to Day 21",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n\\[Dose Escalation Part\\]\n\n* Pathologically confirmed HER2-positive\n* Mandatory provision of tumor tissue sample\n\n\\[Dose Expansion Part\\]\n\n* Patients who have at least one measurable lesion\n* Mandatory provision of tumor tissue sample\n\n  1. Cohort 1: Pathologically confirmed HER2-positive biliary tract cancer\n  2. Cohort 2: Pathologically confirmed HER2-positive metastatic solid tumor malignancy other than breast and gastric or gastroesophageal junction adenocarcinoma and biliary tract cancer\n\nExclusion Criteria:\n\n* Uncontrolled central nervous system (CNS) metastases\n* Spinal cord compression\n* Carcinomatous meningitis\n* Acute coronary syndromes\n* Heart failure\n* Interstitial lung disease (ILD)\n* Pneumonitis\n* History of a second primary cancer\n* Human immunodeficiency virus (HIV)\n* Active chronic hepatitis B\n* Hepatitis C\n* Systemic steroid therapy\n* Autoimmune disease",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

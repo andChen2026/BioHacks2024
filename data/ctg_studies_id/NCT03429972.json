@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03429972",
+    "briefTitle": "Regional Cryotherapy in Preventing Paclitaxel Induced Peripheral Neuropathy in Breast Cancer Patients",
+    "officialTitle": "Regional Cryotherapy in Preventing Paclitaxel Induced Peripheral Neuropathy in Patients With Early and Locally Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 51,
+    "primaryOutcomeMeasure": "Proportion of patients reporting level C and above subjective symptoms, in cryotherapy arm versus controlled arm, based on the Patient Neurotoxicity Questionnaire (PNQ) at 3 months after baseline",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Provision of written informed consent prior to any study specific procedures.\n2. Age \u2265 21 years old\n3. Patients with histologically confirmed early or locally advanced breast cancer\n4. Must be receiving 12x weekly sessions of paclitaxel as part of their adjuvant or neo-adjuvant chemotherapy\n5. Must have routine chemotherapy lab investigations as per institutional practice\n6. Concurrent use of Trastuzumab and/or Pertuzumab for cerbB-2 positive patients as per institutional practice is allowed\n7. Patients are willing and able to comply with the protocol for the duration of the study including undergoing treatment and scheduled visits and examinations.\n\nExclusion Criteria:\n\n1. Patients diagnosed with pre-existing or history of peripheral neuropathy (regardless of cause)\n2. Patients with history of Raynaud's disease\n3. Prior use of taxane-based chemotherapy\n4. Concurrent use of other neuro-toxic chemotherapy with paclitaxel\n5. Patients who have had any axillary clearance surgery and without a central venous access device for chemotherapy administration\n6. Patients with any severe and/or uncontrolled medical condition that would, in the investigator's judgment, contraindicate patient participation in the clinical study.",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

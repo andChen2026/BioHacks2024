@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01484041",
+    "briefTitle": "Dovitinib Plus an Aromatase Inhibitor for Metastatic Breast Cancer",
+    "officialTitle": "A Phase I/II Trial of TKI258 (Dovitinib) in Combination With an Aromatase Inhibitor in Patients With Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 12,
+    "primaryOutcomeMeasure": "Clinical Benefit Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with breast cancer either in the primary or metastatic setting\n* Tumor must be estrogen receptor and/or progesterone receptor positive and Her-2 negative\n* Evidence of disease resistance to an aromatase inhibitor\n* ECOG performance status 0 or 1\n* Age 18 years or older\n* Adequate laboratory values\n* Able to give written informed consent\n* Measurable disease\n* No more than 2 prior chemotherapy regimens in the metastatic setting\n* Unlimited prior hormonal therapy in the metastatic setting\n* Life expectancy of greater than 3 months\n* Post-menopausal\n* Tumor must be available for central testing for FGFR1 amplification by FISH/CISH\n\nExclusion Criteria:\n\n* Brain metastases\n* Another primary malignancy within 3 years prior to starting drug therapy with the exception of adequately treated in-site carcinoma of the uterine cervix or skin cancer\n* Chemotherapy within 3 weeks prior to starting study drug or not recovered from side effects of previous therapy\n* Administration of nitrosurea or mitomycin-C within 6 weeks prior to starting study drug or not recovered from side effects of such therapy\n* Administration of biologic therapy within 6 weeks prior to starting study drug or not recovered from side effects of such therapy\n* Radiotherapy within 4 weeks prior to starting study drug or 2 weeks in the case of localized radiotherapy or not recovered from radiotherapy toxicities\n* major surgery, open biopsy or significant traumatic injury within 4 weeks prior to starting study drug or a minor procedure, percutaneous biopsy or placement of a vascular access device within 1 week prior to starting study drug or not recovered from side effects of such procedure or injury\n* Chronic concomitant bisphosphonate therapy for the prevention of bone metastases. Bisphosphonate/ denosumab therapy for the management of bone metastases or for the treatment of osteoporosis s allowed.\n* Impaired cardiac function or clinically significant cardiac disease\n* Impairment of GI function or GI disease that may significantly alter the absorption of dovitinib\n* Cirrhosis, chronic active hepatitis, or chronic persistent hepatitis\n* Known diagnosis of HIV infection\n* Anticoagulation treatment with therapeutic doses of warfarin\n* Any concurrent severe and/or uncontrolled concomitant medical condition that could cause unacceptable safety risks or compromise compliance with the protocol\n* Pregnant or breast-feeding\n* Unwilling or unable to comply with the protocol",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

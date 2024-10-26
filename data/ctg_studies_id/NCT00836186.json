@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00836186",
+    "briefTitle": "Cytokine Expression During Radiation for Breast Cancer",
+    "officialTitle": "Cytokine Expression During Radiation for Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 82,
+    "primaryOutcomeMeasure": "Number of Proteins Expressed Differently in Response to Receiving Radiation Therapy",
+    "eligibilityCriteria": "INCLUSION CRITERIA:\n\n* Patient must be 18 years of age or older\n* Patients must have histologically confirmed (by routine H\\&E staining) adenocarcinoma of the breast any T, any N, M0 disease\n* Patients must have undergone a segmental mastectomy (SM) with a level I and ll axillary dissection or sentinel lymph node biopsy. Surgical margins at time of local surgery must be negative greater or equal to 2mm for both invasive carcinoma and for non-invasive ductal carcinoma Patients who have post-operative margins which are negative but less than 2mm will be considered eligible if the surgeon states that the margin in question cannot be improved.\n* Patients must be registered such that radiation therapy begins within 10 weeks of last surgery\n* Patients must have a performance status 0 or 1 by Eastern Cooperative Oncology Group (ECOG) criteria or a 80-100 Karnofsky Performance Scale at time of consult\n* Women of all races and ethnic groups are eligible for this trial\n\nEXCLUSION CRITERIA:\n\n* Patients must not have received prior radiation therapy to the breast at any time for any reason\n* Patients with squamous carcinomas or sarcomas of the breast cancer are not eligible\n* Patients treated with a mastectomy are NOT eligible\n* Any patient with active local-regional disease prior to registration is not eligible\n* No other prior malignancy is allowed except for adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, or any other cancer from which the patient has been disease-free for at least 5 years\n* Patients must not be pregnant due to the potential for fetal harm as a result of this treatment regimen. Women of child-bearing potential must use effective non hormonal contraception while undergoing radiation therapy\n* Patients must not have a serious medical or psychiatric illness which prevents informed consent or compliance with treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

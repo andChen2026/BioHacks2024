@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01391143",
+    "briefTitle": "Safety Study of MGA271 in Refractory Cancer",
+    "officialTitle": "A Phase 1 Dose Escalation Study of MGA271 in Refractory Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Prostate Cancer, Melanoma, Renal Cell Carcinoma, Triple-negative Breast Cancer, Head and Neck Cancer, Bladder Cancer, Non-small Cell Lung Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 179,
+    "primaryOutcomeMeasure": "Safety",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed carcinoma (prostate cancer, renal cell carcinoma, head and neck cancer, triple-negative breast cancer, bladder cancer, non-small cell lung cancer) or melanoma that overexpresses B7-H3.\n* Progressive disease during or after last treatment regimen.\n* Appropriate treatment history for histological entity.\n* ECOG Performance Status \\<= 1.\n* Life expectancy \\>= 3 months.\n* Measurable disease or evaluable disease with relevant tumor marker elevation.\n* Acceptable laboratory parameters and adequate organ reserve.\n\nExclusion Criteria:\n\n* Major surgery or trauma within four weeks before enrollment.\n* Known hypersensitivity to murine or recombinant proteins, polysorbate 80, or any excipient contained in the drug formulation.\n* Grade 3 colitis, hepatitis, pneumonitis uveitis, myocarditis, myositis, CNS toxicity or autoimmune related neuromuscular toxicity such as myasthenia gravis associated with the administration of an immune checkpoint inhibitor\n* Second primary malignancy that has not been in remission for greater than 3 years. Treated non-melanoma skin cancer, cervical carcinoma in situ on biopsy, or squamous intraepithelial lesion on PAP smear, localized prostate cancer (Gleason score \\< 6), or resected melanoma in situ are exceptions and do not require a 3 year remission.\n* Active viral, bacterial, or systemic fungal infection requiring parenteral treatment within four weeks of enrollment. Patients requiring any oral antiviral, fungal, or bacterial therapy must have completed treatment within one week of enrollment.\n* Vaccination within 2 weeks of enrollment (except for annual flu vaccine).\n* History of chronic or recurrent infections that require continual use of antiviral, antifungal, or antibacterial agents.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

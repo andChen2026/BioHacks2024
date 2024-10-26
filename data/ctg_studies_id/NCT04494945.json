@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04494945",
+    "briefTitle": "Identifying and Caring for Individuals With Inherited Cancer Syndrome",
+    "officialTitle": "Approaches to Identify and Care for Individuals With Inherited Cancer Syndromes",
+    "overallStatus": "RECRUITING",
+    "conditions": "BRCA1/2-Associated Hereditary Breast and Ovarian Cancer Syndrome, Breast Ductal Carcinoma In Situ, Hematopoietic and Lymphoid System Neoplasm, Hereditary Neoplastic Syndrome, Lynch Syndrome, Malignant Solid Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 27500,
+    "primaryOutcomeMeasure": "Effectiveness and sustainability of heritable cancer syndrome testing in the two novel testing populations",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* ALL COHORTS: 18 years of age or older\n* Retrospective COHORT A: Per HIPAA waiver, Retrospective Cohort A will not actively consent\n* Retrospective COHORT A: Patients may or may not be diagnosed with cancer\n* Retrospective COHORT A: Patients have received genetic counseling in the past 5 years\n* Retrospective COHORT A: Patients have genetic variants that include BRCA1, BRCA2 and/or Lynch syndrome\n* COHORT A: Per Health Insurance Portability and Accountability Act (HIPAA) waiver, Cohort A returns survey as consent\n* COHORT A: Patients may or may not be diagnosed with cancer\n* COHORT A: Patients have received genetic counseling in the past 1 - 2 years\n* COHORT A: Patients have genetic variants that include BRCA1, BRCA2 and/or Lynch syndrome\n* COHORT A: INCLUSIVE of no contact list to exclude from Cohort B\n* COHORT B: Creation of secure Medable account\n* COHORT B: Consent to this project, either hard or electronic signature\n* COHORT B: Consent to the Healthy Oregon Project (HOP) repository, either hard or electronic signature\n* COHORT B: Choosing to submit a deoxyribonucleic acid (DNA) sample\n* COHORT B: Patients diagnosed with any National Cancer Institute (NCI)-reportable cancers, including ductal carcinoma in situ (DCIS) and/or in situ breast cancer\n* COHORT B: Must have had an encounter within past twelve months\n* COHORT B: Exclude Cohort A\n* COHORT C: Creation of secure Medable account\n* COHORT C: Consent to this project, either hard or electronic signature\n* COHORT C: Consent to the HOP repository, either hard or electronic signature\n* COHORT C: Choosing to submit a DNA sample",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

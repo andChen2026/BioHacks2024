@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02252887",
+    "briefTitle": "Gemcitabine, Trastuzumab, and Pertuzumab in the Treatment of Metastatic HER2-Positive Breast Cancer After Prior Trastuzumab/Pertuzumab, or Pertuzumab Based Therapy",
+    "officialTitle": "Phase II Study of Gemcitabine, Trastuzumab, and Pertuzumab in the Treatment of Metastatic HER2-Positive Breast Cancer After Prior Trastuzumab/Pertuzumab- or Pertuzumab-Based Therapy",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Metastatic HER2-Positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "progression free",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 to 18\n* Stage IV HER2 (+) breast cancer\n* Histologically documented HER2 (+) breast cancer as defined as IHC 3+ or FISH amplification of \u2265 2.0 of primary or metastatic site; results from the local lab are acceptable.\n* lECOG performance status 0 -1\n* Prior treatment with trastuzumab + pertuzumab (HP)-based therapy or pertuzumab-based in the neoadjuvantadjuvant, unresectable, locally advanced, or metastatic setting.\n* \u2264 3 prior chemotherapies in the metastatic setting. Prior anthracycline, taxane, gemcitabine, and anti-HER2 agents (i.e. trastuzumab, pertuzumab, lapatinib, neratinib, TDM-1, etc.) are allowed. If patients received prior gemcitabine, it could not have been combined with pertuzumab. Patients should have progression of disease on current therapy.\n* Measurable or non-measurable disease.\n* LVEF \u2265 50%\n* Hematologic parameters: white blood cell (WBC) count of \u2265 3000/ul, absolute neutrophil count (ANC) \u2265 1000/ul, platelets \u2265 100,000/ul, hemoglobin \u226510.0 g/dl\n* Non-hematologic parameters: bilirubin \u2264 1.5 mg/dl, AST/ALT\u2264 2.5 x upper limit of normal (ULN), alkaline phosphatase \u2264 5 x ULN.\n* Creatinine \u2264 1.5 mg/dl\n* Patients with \"treated and stable\" brain lesions of a duration of \u2265 2 months may be enrolled.\n\nExclusion Criteria:\n\n* History of prior unstable angina, myocardial infarction, CHF, uncontrolled ventricular arrhythmias within 12 months\n* History of prior \u2265 G 3 hypersensitivity (HSR) or any toxicity to trastuzumab or pertuzumab that warranted permanent cessation of this agent\n* History of hepatitis B or C\n* Pregnant patients",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

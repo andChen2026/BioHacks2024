@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00024102",
+    "briefTitle": "Comparison of Combination Chemotherapy Regimens in Treating Older Women Who Have Undergone Surgery for Breast Cancer",
+    "officialTitle": "A Randomized Trial of Adjuvant Chemotherapy With Standard Regimens, Cyclophosphamide, Methotrexate and Fluorouracil - (CMF) or Doxorubicin and Cyclophosphamide - (AC), Versus Capecitabine in Women 65 Years and Older With Node Positive or Node-Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 633,
+    "primaryOutcomeMeasure": "Relapse-free Survival Rates at 2.4 Years",
+    "eligibilityCriteria": "1. Patients with operable, histologically confirmed adenocarcinoma of the female breast.\n2. TNM Stage per AJCC Cancer Staging Manual 6th edition:\n\n   * T1-4 (Tumor size \\> 1 cm), N0, M0 or T1-4, N1-3, M0\n   * Patients with bilateral, synchronous breast cancer are eligible as long as one primary tumor meets the criteria above.\n3. Patients with HER2/neu positive, negative or unknown disease are eligible for this trial.\n\n   Patients whose tumors are HER2 positive by either immunohistochemistry 3+ staining or demonstrate gene amplification by FISH will be eligible to receive trastuzumab, as outlined in the protocol.\n4. Age 65 years or older\n5. Performance status 0-2 (Common Toxicity Criteria).\n6. Prior treatment:\n\n   * Surgical resection -\n\n     * All tumor should be removed by either a modified radical mastectomy or a lumpectomy. Patients must be registered \u2264 84 days from mastectomy or within 84 days of axillary dissection if patient's most extensive breast surgery was a breast sparing procedure.\n     * Node dissection: Axillary node dissection is not required. Management of the axilla is at the discretion of the treating physician. There is no restriction on eligibility based on the number of nodes removed.\n     * Mastectomy: There should be no evidence of gross or microscopic invasive tumor at the surgical resection margins noted in the final surgery or pathology reports for patients who have had a modified radical mastectomy. Patients with close margins (tumor \\< 1 mm from margin) are eligible.\n     * Segmental mastectomy (lumpectomy): Although clear margins are preferable, DCIS or LCIS at the surgical resection margin will not render a patient who has undergone a segmental mastectomy ineligible for this study. Invasive tumor at the final resection margin will render a patient ineligible.\n   * No prior chemotherapy for this malignancy.\n   * Patients with a history of hypersensitivity to 5-FU or known dihydropyrimidine dehydrogenase (DPD) deficiency are not eligible to participate.\n   * Patients may receive up to four weeks of tamoxifen therapy for this malignancy and still be eligible for study entry. Patients who received tamoxifen or raloxifene for purposes of chemoprevention (e.g., Breast Cancer Prevention Trial) or for other indications (including previous breast cancer) are eligible. Tamoxifen or raloxifene therapy should be discontinued before the patient is enrolled on this study.\n7. Required Initial Laboratory Data:\n\n   * Granulocytes \\> 1,500/\u00b5l\n   * Platelet count \u2265100,000/\u00b5l\n   * Calculated Creatinine Clearance \\> 30 mL/min\n   * Total bilirubin \u2264 ULN",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

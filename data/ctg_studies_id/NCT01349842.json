@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01349842",
+    "briefTitle": "Circulating Tumor Cells to Guide Chemotherapy for Metastatic Breast Cancer",
+    "officialTitle": "CirCe01 Study: Evaluation of the Use of Circulating Tumour Cells to Guide Chemotherapy From the 3rd Line of Chemotherapy for Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Ductal Infiltrating Metastatic",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 265,
+    "primaryOutcomeMeasure": "Overall Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women over the age of 18 years.\n* WHO performance status: 0 to 4.\n* Metastatic breast cancer.\n* Progression after 2 lines of chemotherapy with decision to initiate third-line chemotherapy.\n* Disease evaluable by CTC (CTC-positive before starting chemotherapy).\n* Histology: lobular or ductal adenocarcinoma.\n* Information of the patient and signature of the informed consent form by the patient or her legal representative.\n\nExclusion Criteria:\n\n* Disease not evaluable by CTC (CTC-negative before starting chemotherapy).\n* History of other potentially metastatic cancer (stage III or IV cancer) different from breast cancer.\n* Histology other than lobular or ductal adenocarcinoma.\n* Pregnant woman, women likely to become pregnant or nursing mothers.\n* Persons deprived of their freedom or under guardianship.\n* Women unable to comply with the medical follow-up of the study for geographical, social or mental reasons.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

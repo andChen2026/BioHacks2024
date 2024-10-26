@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03520218",
+    "briefTitle": "Evaluating Positron Emission Mammography Imaging of Suspicious Breast Abnormalities",
+    "officialTitle": "A Pilot Study to Evaluate Low-Dose Positron Emission Mammography Imaging in Visualization and Characterization of Suspicious Breast Abnormalities",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Evaluating Performance of the R-PEM system as the Dose Decays",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subject is female of any race and ethnicity\n* Subject is at least 26 years old\n* Following routine mammography imaging, subject is categorized as BI-RADS score 4C or 5 because of calcifications, masses, asymmetries or/and architectural distortion will undergo additional tests including biopsy within 30 days of routine imaging\n* Subject is female with a recent breast biopsy confirming breast cancer\n\nExclusion Criteria:\n\n* Subject unable or unwilling to undergo informed consent\n* Subjects who are unable or unwilling to tolerate any of the imaging tests because of claustrophobia, compression, etc.\n* Subjects who are pregnant or who think they may be pregnant\n* Subjects who are breast-feeding\n* Subjects weight exceed table limits of MRI and PET-CT (300-450 lb or 135-205 kg)\n* Subjects with history of allergic reaction to gadolinium or previous history of life-threatening anaphylactic reaction to any contrast.\n* Claustrophobic subjects",
+    "sex": "FEMALE",
+    "minimumAge": "26 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

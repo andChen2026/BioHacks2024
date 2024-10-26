@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04111848",
+    "briefTitle": "Magnesium and Ketamine in Postoperative Analgesia",
+    "officialTitle": "Evaluation of the Effect of Adding Magnesium Sulfate Infusion to Ketamine Infusion on Improvement of the Analgesic Efficacy in Cancer Breast Surgeries.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Postoperative Analgesia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 90,
+    "primaryOutcomeMeasure": "the total amount of morphine required during the first postoperative 24 hours",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with class II physical status (American Society of Anaesthesiologists) ,\n* Age between 18-65 years,\n* Scheduled for breast cancer surgery (e.g. modified radical mastectomy and conservative mastectomy)\n\nExclusion Criteria:\n\n* Patient refusal,\n* Cardiac dysfunction (ejection fraction \\<45%),\n* Diabetic patients\n* Patients with uncontrolled hypertension\n* Patients have any degree of heart block\n* Patients have renal impairment (creatinine \\> 2 mg/dl),\n* Patients have hepatic dysfunction (transaminases \\> 2 times normal),\n* Patients with preexisting neurological or psychiatric disease,\n* Patients who are allergic to one of the study drugs,\n* Patients with communication difficulties,\n* Inability to use the patient controlled analgesia (PCA) device,\n* Female patients who are pregnant\n* Patients who use preoperative calcium channel blockers or narcotic drugs.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00991978",
+    "briefTitle": "VEGF Early Imaging for Breast Cancer",
+    "officialTitle": "Vascular Endothelial Growth Factor (VEGF) Imaging for Early Breast Cancer Detection A Feasibility Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 23,
+    "primaryOutcomeMeasure": "SUV in tumour and lymph nodes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with a breast tumor size \\< 2 cm in diameter (as determined by means of conventional imaging techniques: mammography, ultrasound or MRI) who are scheduled to receive operative intervention either by means of a mastectomy or lumpectomy.\n* histologically proven breast cancer\n* Age \\> 18 years.\n* WHO performance status 0-2 (see: appendix B)\n* Signed written informed consent (approved by the Institutional Review Board \\[IRB\\]/ Independent Ethics Committee \\[IEC\\]) obtained prior to any study specific screening procedures.\n* Able to comply with the protocol.\n\nExclusion Criteria:\n\n* Other invasive malignancy or condition which could affect compliance with the protocol or interpretation of results.\n* Pregnant or lactating women. Documentation of a negative pregnancy test must be available for pre-menopausal women with intact reproductive organs and for women less than two years after menopause.\n* Prior radiotherapy on the involved area.\n* Major surgery within 28 days before the initiation of the study.\n* Clinically significant cardiovascular disease.\n* Prior allergic reaction to immunoglobulins or immunoglobulin allergy.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

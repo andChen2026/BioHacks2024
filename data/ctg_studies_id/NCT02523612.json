@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02523612",
+    "briefTitle": "Study to Validate a Model of Surgical Deescalation in Atypicals Breast Lesions",
+    "officialTitle": "Prospective National Multicentre Study to Validate a Model of Surgical Deescalation in Atypicals Breast Lesions",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Negative Predictive value of the NOMAT model",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women who have had a recent diagnosis of atypical breast lesions (atypical metaplasia, atypical ductal hyperplasia, atypical lobular hyperplasia, lobular carcinoma in situ) on a breast biopsy for microcalcifications on mammography Or for little suspect distortion in ultrasound or mammary MRI.\n* Report of the anatomopathological examination of the biopsy allowing the diagnosis of an atypical lesion available\n* Patient 18 years or more\n* Informed consent signed.\n* Patient affiliated to a system of social security or beneficiary of such plan\n* General condition ECOG-OMS 0 or 1\n\nExclusion Criteria:\n\n* Nodular lesion associated with ultrasound or mammography opacity\n* Palpable nodule\n* Presence of ductal carcinoma in situ or invasive carcinoma associated to biopsy\n* Personal history of breast cancer or homo contralateral\n* Previous history of breast irradiation or breast cancer or other area for malignancy (Hodgkin, etc ...)\n* Women with a BRCA1 or BRCA2 mutation diagnosed or other genetic predisposition to breast cancer and highly penetrant autosomal dominant.\n* Pregnant or nursing women\n* Women with a cons-indication or refusal of surgery\n* Private Women of freedom under guardianship.\n* Presence of aggressive lobular in situ carcinoma (pl\u00e9ioforme, Florida or necrosis)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

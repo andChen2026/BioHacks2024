@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02249208",
+    "briefTitle": "Sentinel Lymph Node Biopsy With Superparamagnetic Iron Oxide for Breast Cancer Patients After Neoadjuvant Treatment.",
+    "officialTitle": "Sentinel Lymph Node Biopsy With Superparamagnetic Iron Oxide vs. Standard Technique After Neoadjuvant Chemotherapy in Patients With Node-Positive Breast Cancer. A Randomized Controlled Trial.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "False Negative Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven primary invasive breast cancer with clinical stage T1 through T3, N1 through N2, M0 according to the American Joint Committee on Cancer (AJCC) Cancer Staging Manual, seventh edition\n* Completed or were planning to undergo neoadjuvant chemotherapy\n* Prechemotherapy axillary nodal disease confirmed by fine-needle aspiration or core-needle biopsy\n* The axilla is clinically and radiologically (by ultrasound) negative (ycN0) postchemotherapy and before surgery\n* Removal of at least two SLNs\n* Signed informed consent from each patient before study entry\n\nExclusion Criteria:\n\n* T4 tumors, cN3 or cM1\n* The axilla is clinically and radiologically (by ultrasound) positive (ycN1) postchemotherapy\n* Intolerance or hypersensitivity to the compounds or iron dextran or superparamagnetic iron oxide or to vital blue dye or radioactive product.\n* Chronic iron overload\n* Pacemaker or other metallic implantable device in the chest wall\n* Failure to submit to medical study for geographical, social or psychological\n* Patient deprived of liberty or under guardianship\n* Pregnant or lactating",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

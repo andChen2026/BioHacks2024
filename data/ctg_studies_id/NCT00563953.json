@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00563953",
+    "briefTitle": "Caelyx as Primary Treatment for Patients With Breast Cancer and a History of Heart Disease and/or Age Over 65 Years",
+    "officialTitle": "A Phase II, Open-Label, Multicenter Clinical Trial of Pegylated Liposomal Doxorubicin (Caelyx\u00ae) as Primary Treatment for Patients With Breast Cancer and a History of Heart Disease or Age Over 65 Years.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Pathological complete response (pCR). pCR is defined as the absence of invasive cancer in the surgical breast specimen. This definition includes evidence of carcinoma in situ only.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed invasive breast cancer (tumor \\> 2 cm).\n* Estrogen receptor-negative or -weakly positive tumors (less than 50% of cells), as evaluated using IHC.\n* Risk factors for developing anthracycline-induced cardiomyopathy.\n\nExclusion Criteria:\n\n* Severe heart failure (NYHA Class III or IV) .\n* Metastatic disease.\n* LVEF \\< 45%.\n* Pregnant or breast-feeding patients.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

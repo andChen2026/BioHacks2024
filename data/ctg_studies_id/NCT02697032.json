@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02697032",
+    "briefTitle": "FDHT PET and Bicalutamide in Metastatic Breast Cancer",
+    "officialTitle": "FDHT-PET to Visualize the Effect on the Androgen Receptor Level by Bicalutamide",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 22,
+    "primaryOutcomeMeasure": "quantify residual AR binding sites in metastatic breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. A history of histological proven AR-positive (i.e. \\>10% staining), HER2-negative metastatic breast cancer (preferably assessment on fresh metastasis biopsy, alternatively archival metastasis biopsy)\n2. Tumor progression after at least one line of systemic treatment\n3. Measurable disease according to RECIST 1.1; or evaluable disease\n4. Age \u2265 18 years\n5. Postmenopausal status defined as one of the following:\n\n   * Age \u226560 years\n   * Previous bilateral oophorectomy\n   * Age \\<60 years and amenorrhea for \\>12 months in the absence of interfering hormonal therapies (such as LH-RH agonists and ER-antagonists\n   * Age \\<60 years using ER antagonists should have amenorrhea for \\>12 months and FSH \\>24U/L and LH\\>14U/L\n6. Adequate hematological, renal and liver function as follows:\n\n   * Absolute neutrophil count \\> 1.5 x 109/L\n   * Platelet count \\>100 x 109/L\n   * White blood cell count \\>3 x 109/L\n   * AST and ALT \\<3.0 x upper limit of normal (ULN)\n   * Alkaline phosphatase \\<2.5 x ULN\n   * Creatinine clearance \\>50mL/min\n   * Lipase/amylase \\<1/5 x ULN\n   * Protrombin time, partial tromboplastin time and INR \\<1.5 x ULN\n7. Written informed consent\n\nExclusion Criteria:\n\n1. Unable to comply with the protocol\n2. Evidence of central nervous metastases\n3. Presence of life-threatening visceral metastases\n4. Corrected QT interval (QTc) \\>500millliseconds at screening\n5. Recent history of cardiac disease, including myocardial infarction, unstable angina pectoris or uncontrolled arrhythmia within 6 months prior to screening; or evidence of severe congestive heart failure with New York Heart Association severity classification \\> class I.\n6. Recent history of trombo-embolic events within 6 months prior to screening\n7. Hepatic impairment (Child-Pugh Class B or C)\n8. Severe concurrent disease, infection, co morbid condition that, in the judgment of the investigator would make the patient inappropriate for enrollment\n9. The concomitant use of strong CYP3A4 inhibitors (see table 1)\n10. Previous anti-androgen treatment\n11. Concurrent use of ER-directed anti hormonal therapies\n12. Radiotherapy or major surgery within 4 weeks before baseline PET scanning",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

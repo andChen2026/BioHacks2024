@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02661204",
+    "briefTitle": "Diagnostic Performance of an Automated Breast Ultrasound System (ABUS)",
+    "officialTitle": "Diagnostic Performance of an Automated Breast Ultrasound System (ABUS): a Single Centre Study",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Implants",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 250,
+    "primaryOutcomeMeasure": "Population A: comparison between ABUS and HHUS with respect to the number of lesions detected with the two devices and their characterization according to the BI-RADS lexicon",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Population A - Inclusion criteria:\n\n   * Age between 20 and 40 years\n   * family history of breast cancer or a proved predisposing gene mutation such as BRCA1 or BRCA2\n2. Population B - Inclusion criteria\n\n   * Age \u2265 18 years\n   * Newly diagnosed breast cancer with no previous history of breast cancer\n   * Availability of pre-operative breast MRI performed for local staging within 4 weeks before the surgery\n   * Breast surgery performed at the Universit\u00e4tsSpital Z\u00fcrich\n3. Population C - Inclusion criteria\n\n   * Age \u2265 18 years\n   * Newly detected BI-RADS 3 or 4 lesion\n   * Availability of follow-up examination or histological results of biopsy and surgery\n4. Population D - Inclusion criteria\n\n   * Age \u2265 18 years\n   * Availability of breast MRI performed for evaluating breast implants integrity\n\nExclusion Criteria:\n\n1) Population A - Exclusion criteria:\n\n* Personal history of breast or ovarian cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

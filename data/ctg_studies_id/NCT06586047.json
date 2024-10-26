@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06586047",
+    "briefTitle": "Breast Cancer PSMA PET",
+    "officialTitle": "Evaluation of PSMA Expression in Triple Negative Breast Cancer Patients Using 18 F-DCFPyL-PET/CT",
+    "overallStatus": "RECRUITING",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Lesion detection sensitivity analysis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female \\>= 18 years of age\n* Patients in distantly metastatic TNBC based on the initial diagnosis biopsy.\n* Patient should have FDG positive metastatic lesions on the initial PET/CT scan performed in this study to be further included.\n\nExclusion Criteria:\n\n* Patients with known active other malignancy.\n* Unable to tolerate PET/CT procedure.\n* Pregnant or breastfeeding.\n* Patients with any medical condition that might compromise the safety of subject during PET acquisitions.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

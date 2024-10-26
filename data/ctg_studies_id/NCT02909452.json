@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02909452",
+    "briefTitle": "Continuation Study of Entinostat in Combination With Pembrolizumab in Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase 1, Randomized, Open-Label, Continuation Study of Entinostat in Combination With Pembrolizumab in Patients With Advanced Solid Tumors (SNDX-275-0141, MK3475-460/KEYNOTE-460)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neoplasms, Neoplasms, Glandular and Epithelial, Neoplasms by Histologic Type, Bronchial Neoplasms, Lung Neoplasms, Respiratory Tract Neoplasms, Thoracic Neoplasms, Digestive System Neoplasms, Endocrine Gland Neoplasms, Carcinoma, Non-Small-Cell Lung, Lung Diseases, Breast Diseases, Renal Neoplasm, Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Incidence of treatment-emergent adverse events (TEAEs), serious adverse events (SAEs), and adverse events (AEs) resulting in the permanent discontinuation of study drug, and deaths occurring within the reporting period required for the study",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Completed Study SNDX-275-0140 (NCT02897778)\n2. Any AE or toxicity experienced in Study SNDX-275-0140 (NCT02897778) is resolved to less than or equal to Grade 1\n3. Continues to meet inclusion criteria for Study SNDX-275-0140 (NCT02897778) at the time of entry into this study\n\nExclusion Criteria:\n\n1. Completed Study SNDX-275-0140 (NCT02897778) more than 30 days prior to Cycle 1 Day 1 of this study\n2. Continues to meet exclusion criteria for Study SNDX-275-0140 (NCT02897778) at the time of entry into this study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02567929",
+    "briefTitle": "Assessment of the Anesthetic Effect on the Activity of Immune Cell in Patient With Breast Cancer",
+    "officialTitle": "Assessment of the Anesthetic Effect on the Activity of Immune Cell in Patient With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 218,
+    "primaryOutcomeMeasure": "CD39 and CD73 on circulating regualtory T cells",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* patient who was planned to undergo colon cancer surgery.\n\nExclusion Criteria:\n\n* age \\< 20 years old\n* history of hypersensitivity reaction in propofol or sevoflurane\n* history of previous cancer\n* patient with ongoing inflammation",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04474652",
+    "briefTitle": "Guide for Prioritisation of Patients for Referral to Breast Clinics",
+    "officialTitle": "Development of a Decision Support Tool for Ruling Out Cancer in Patients Referred From Primary Care for Possible Breast Cancer Diagnosis",
+    "overallStatus": "SUSPENDED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 4000,
+    "primaryOutcomeMeasure": "Primary Outcome",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> or = 18 years old.\n* Males and females referred from primary care for possible breast cancer diagnosis.\n* Informed consent to provide a single blood collection for analysis\n\nExclusion Criteria:\n\n* Age \\< 18 years old.\n* Informed consent to provide a single blood collection for analysis not given",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

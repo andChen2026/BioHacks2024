@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04862429",
+    "briefTitle": "Biopsy of Calcifications Under Contrast Enhancement Guide (BoCCE)",
+    "officialTitle": "Studio BoCCE: Ruolo Della Biopsia Sotto Guida CEM (Mammografia Con Mezzo di Contrasto) Nella Caratterizzazione Delle Calcificazioni Dubbie o Sospette (BIRADS R3, R4, R5) Non Associate a Masse.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Calcification",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Distance in mm between the biopsy site and the area of greatest malignancy/grade in the operating piece.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with clinical mammography and screening recalls with mammographic confirmation of clusters of suspicious calcifications (BIRADS R3 or R4 or R5) not mass-associated will be included, with indication to perform stereotactic biopsy, evaluated at the Breast Care Facility of AUSL-IRCCS in Reggio Emilia.\n\nExclusion Criteria:\n\n* Women with contraindication to the administration of iodized contrast medium will be excluded.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

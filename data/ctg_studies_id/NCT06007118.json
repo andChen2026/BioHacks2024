@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06007118",
+    "briefTitle": "Adjuvant Partial-breast Irradiation Using Stereotactic Body Radiation Therapy",
+    "officialTitle": "Adjuvant Partial-breast Irradiation of Early-stage Breast Cancer Using Stereotactic Body Radiation Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Early-stage Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 85,
+    "primaryOutcomeMeasure": "APBI vs. WBI - toxicity",
+    "eligibilityCriteria": "Patients referred to medical attention for adjuvant radiotherapy of early-stage breast cancer at the Department of Radiation Oncology, Masaryk Memorial Cancer Institute (MMCI) were screened for eligibility. If all inclusion/exclusion criteria will be met, they were invited to participate in the present study.\n\nInclusion Criteria:\n\n1. Age \u226550 years\n2. Karnofsky index \\> 70\n3. Partial mastectomy (breast-conserving surgery)\n4. DCIS G1/2 \u2264 2.5 cm with negative margins (\u2265 3 mm) or invasive (non-lobular) luminal-like HER2 negative carcinoma \u2264 2 cm with negative margins (\u2265 2 mm) without LVI\n5. In the case of invasive carcinoma, performing of axillary dissection (\u22656 negative lymph nodes) or negative sentinel node biopsy\n\nExclusion Criteria:\n\n1. Prior to other chest or breast surgery (including breast reconstruction), the absence of surgical clips in the tumor bed\n2. Prior ipsilateral chest or breast radiotherapy\n3. Neoadjuvant systemic therapy\n4. Adjuvant chemotherapy\n5. Multifocal or multicentric involvement\n6. BRCA 1 or 2 mutations or known mutations in other high penetrance genes\n7. Any systemic illness (collagen vascular diseases) or unstable medical condition that might pose additional risks for the performance of radiotherapy including claustrophobia or jactation\n8. Any other factors that, in the opinion of the site investigators, would interfere with adherence to study requirements\n9. Pregnancy or breastfeeding\n10. Inability or unwillingness of the subject to sign written informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00146549",
+    "briefTitle": "Trastuzumab in Combination With Vinorelbine or Taxane-Based Chemotherapy in Patients With Metastatic Breast Cancer",
+    "officialTitle": "A Randomized Phase III Study of Trastuzumab (Herceptin) in Combination With Either Vinorelbine (Navelbine), or Taxane-based Chemotherapy in Patients With HER2 Overexpressing Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 250,
+    "primaryOutcomeMeasure": "To compare the overall response rate for patients receiving trastuzumab in combination with either vinorelbine or taxane-based chemotherapy.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed invasive breast cancer, with stage IV disease\n* Tumors must be HER2 overexpressing\n* Measurable disease, defined as a least one lesion that can be accurately measured in at least one dimension\n* 18 years of age or older\n* Life expectancy of greater than 6 months\n* ECOG performance status of 0-2\n* ANC count \\> 1,500/mm3\n* Platelets \\> 100,000/mm3\n* Total bilirubin \\< 1.5 mg/dl\n* AST/ALT \\< 115 U/I\n* Creatinine \\< 2.0 mg/dl\n* Glucose \\< 200 mg/dl\n* LVEF \\> 50%\n\nExclusion Criteria:\n\n* Prior chemotherapy or prior trastuzumab therapy for metastatic breast cancer\n* Concurrent hormonal therapy, chemotherapy, or radiation treatments\n* Pregnant or lactating women\n* Known brain metastases or leptomeningeal carcinomatosis\n* History of grade 3 or 4 allergic reactions attributed to compounds of similar chemical or biologic composition to the agents in this study\n* Pre-existing neuropathy from any cause in excess of grade 1\n* Uncontrolled intercurrent illness\n* History of other non-breast cancer malignancy except for carcinoma in situ of the cervix or non-melanoma skin cancer\n* Patients taking macrolide antibiotics, ketoconazole, or AZT",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

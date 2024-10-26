@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00784862",
+    "briefTitle": "ATAC - Pharmacokinetics (PK) Sub-Protocol",
+    "officialTitle": "A Randomised, Double Blind Trial to Assess the Pharmacokinetics of Arimidex Alone, Nolvadex Alone, or Arimidex and Nolvadex in Combination, When Used as Adjuvant Treatment for Breast Cancer in Postmenopausal Women",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 9358,
+    "primaryOutcomeMeasure": "Steady state plasma trough concentrations of tamoxifen, desmethyltamoxifen and anastrozole",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eligible for entry into the main ATAC trial 1033IL/0029\n* Patients must have been taking ATAC trial medication for at least 3 months (i.e. patients must have reached at least visit 2 of the main ATAC study)\n* Patients should be taking their medication in the mornings for at least 3 months\n* Patients must be 100% compliant over the preceding fourteen days\n\nExclusion Criteria:\n\n* Excluded from entry into the main ATAC trial (1033IL/0029)\n* Patients whose concurrent treatment includes diazepam or drugs which might affect tamoxifen steady state levels or steroid hormone status. These include ketoconazole (antifungal) or related compounds",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

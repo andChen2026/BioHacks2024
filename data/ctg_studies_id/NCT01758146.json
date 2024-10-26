@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01758146",
+    "briefTitle": "Impact of Obesity on the Efficacy of Endocrine Therapy With Aromatase Inhibitors",
+    "officialTitle": "Impact of Obesity on the Efficacy of Endocrine Therapy With Aromatase Inhibitors in Postmenopausal Patients With Early Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 412,
+    "primaryOutcomeMeasure": "Disease free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* postmenopausal patients with breast cancer who have hormones receptor positive tumour as defined by the expression of oestrogen receptor (ER) and/or progesterone receptor (PR).\n* patients with a tumour stage IB, IC, or II irrespective of nodal stage (\\< 10 positive nodes)\n\nExclusion Criteria:\n\n* premenopausal patients,\n* ER/PR negative",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

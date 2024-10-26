@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01302821",
+    "briefTitle": "C11 AMT Positron Emission Tomography (PET) Imaging in Patients With Metastatic Invasive Breast Cancer",
+    "officialTitle": "NCI 8701: A Pilot Study Utilizing C11 Alpha Methyl Tryptophan (AMT) PET Functional Imaging in Patients With Metastatic Invasive Breast Cancer Treated With 1 Methyl D Tryptophan Plus the Ad p53 DC Vaccine",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Occurrence of Detected Changes in Regions of Interest (ROIs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must be enrolled on the NCI 8461/MCC 16025 study.\n* Consent for participation in this companion imaging study and be able to successfully complete a minimum of two AMT PET/CT scans.\n\nExclusion Criteria:\n\n* Patients must not meet any of the exclusion criteria for the NCI 8461/ MCC 16025 study.\n* Not have any medical conditions prohibiting the successful completion of a minimum of two AMT PET/CT scans.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00532857",
+    "briefTitle": "Phase II Study of Primary Chemotherapy With Paclitaxel, Gemcitabine, and Trastuzumab",
+    "officialTitle": "Phase II Study of Primary Chemotherapy With Paclitaxel, Gemcitabine, and Trastuzumab in Patients With HER2 Positive Operable Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 53,
+    "primaryOutcomeMeasure": "To evaluate the pathologic complete response rate To assess breast conserving rate after preoperative chemotherapy To evaluate clinical response rate, disease free survival (DFS), and overall survival (OS) To assess the safety profiles of PGH",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All patients must have histologically confirmed and newly diagnosed operable breast cancer\n* HER2 positive (all FISH +)\n* Axillary node positive (by PET or cytologically determine node by sonography) and/or tumor size \\> 5 cm -No prior hormonal, chemotherapy or radiotherapy is allowed.\n* No breast operation other than biopsy to make diagnosis is allowed.\n* Age: 18-years and older, not pregnant pre-, and postmenopausal women with good performance status (ECOG 0-1)\n* Adequate hematopoietic function:\n\nAbsolute granulocyte count \u00b31500/mm3,\n\n* platelet \u00b3100,000/mm3, Hemoglobin \u00b3 10 g/mm3\n* Adequate renal function: Serum creatinine \u00a3 1.5 mg/dl\n* Adequate hepatic function: total bilirubin: \u00a3 1.5 mg/dl, AST/ALT: \u00a3 2 times normal, Alkaline phosphatase: \u00a3 2 times normal-Adequate cardiac function:\n\n  1. normal or nonspecific EKG taken within 1 mo of enrollment\n  2. LVEF \u00b3 50% by MUGA or Echocardiogram taken within 1 mo of enrollment\n* Normal mental function to understand and sign the consent\n\nExclusion Criteria:\n\n* patients who received hormonal, chemotherapy or radiotherapy for breast cancer\n* patients who underwent surgery for breast cancer\n* patients with a history of uncompensated congestive heart failure\n* Patients with node-negative stage IIA (T2N0) breast cancer\n* Patients who have history of cancer other than in situ uterine cervix cancer or nonmelanotic skin cancer",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

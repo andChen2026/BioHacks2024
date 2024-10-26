@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05399329",
+    "briefTitle": "Study to Evaluate Real-world Effectiveness With Palbociclib Plus Endocrine Therapy as First-line/Second-line Treatment for HR+/HER2- Advanced Breast Cancer in Japan",
+    "officialTitle": "Retrospective, Multicenter, Observational Study to Evaluate Real-World Effectiveness of Palbociclib Plus Endocrine Therapy in Japanese Patients With HR+/HER2- Advanced Breast Cancer in First Line or Second Line Settings",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 688,
+    "primaryOutcomeMeasure": "Real-World Progression-Free Survival (rwPFS) of palbociclib plus ET as first line treatment for HR+/HER2- ABC",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of HR+/HER2- ABC\n* Age of 20 years or older at diagnosis of ABC\n* Patients that received palbociclib plus ET in the first line or second line\n* Patients who meet the criteria regarding the medical record below:\n* Patients with any medical records (regardless of palbociclib use) for more than 6 months from palbociclib initiation OR\n* Patients with any medical records for less than 6 months from palbociclib initiation AND who had specific events (death, disease progression, or treatment discontinuation of palbociclib due to adverse events) in the available records\n\nExclusion Criteria:\n\n* Patients who received chemotherapy as first line treatment.\n* Patients who have previously participated or are participating in any interventional clinical trials that include investigational or marketed products.\n\n(Interventional clinical trials for early breast cancer and later line after palbociclib will be acceptable, Besides, patients participating in other investigator-initiated research or noninterventional studies can be included as long as their standard of care is not altered by the study.)",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

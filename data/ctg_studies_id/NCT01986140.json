@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01986140",
+    "briefTitle": "Scalp Cooling to Prevent Chemo-induced Hair Loss",
+    "officialTitle": "Scalp Cooling for Alopecia Prevention (SCALP)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Alopecia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 236,
+    "primaryOutcomeMeasure": "Hair Preservation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* New diagnosis of breast cancer stage 1-2\n* Planning to undergo neoadjuvant or adjuvant chemotherapy with curative intent\n* Chemotherapy must be planned for at least 4 cycles of full-dose anthracycline or taxane based chemotherapy regimen,\n* Defined as one of the following regimens: - Adriamycin 60mg/m2 with cyclophosphamide 600mg/m2 - Epirubicin 90-100mg/m2 with cyclophosphamide 600mg/m2 - Doxorubicin 50mg/m2 with 5-Fluroruacil 500mg/m2 and Cyclophosphamide 500mg/m2 - Paclitaxel 80mg-90/m2 weekly (every three weeks constitute a cycle), or 175 mg/m2 every 2-3 weeks as a single agent - Docetaxel 100mg/m2 as a single agent - Docetaxel 75mg/m2-100mg/m2 with pertuzumab and traztuzumab at standard doses - Docetaxel 75mg/m2 with cyclophosphamide 600mg/m2 - Docetaxel 75mg/m2 with carboplatin AUC of 6 and trastuzumab at standard doses\n* Concurrent traztuzumab at standard doses is allowed\n* Concurrent pertuzumab at standard doses is allowed\n* Administration of chemotherapy on a dose dense schedule is allowed as clinically indicated.\n* Subjects must have TSH collected within 1 year prior to treatment and found within normal range.\n* If patient has a history of diabetes, Hemoglobin A1c must be drawn within 3 months prior to treatment and found to be within normal limits.\n* CBC and CMP should be done within 4 weeks prior to treatment and found to be within acceptable limits.\n\nExclusion Criteria:\n\n* Stage 3 or 4 breast cancer or any other concurrent malignancy including hematological malignancies (i.e. leukemia or lymphoma)\n* Baseline alopecia (defined CTCAE v4.0 grade \\> 0, see appendix B for CTCAE v4.0 scale)\n* Subjects with cold agglutinin disease or cold urticaria\n* Subjects who are scheduled for bone marrow ablation chemotherapy\n* Subjects receiving chemotherapy with concurrent anthracycline and taxane (AT or TAC)\n* Male gender\n* Age \\>= 70 years",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

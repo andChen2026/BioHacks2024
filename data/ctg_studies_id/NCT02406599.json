@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02406599",
+    "briefTitle": "MarginProbe\u00ae System U.S. Post-Approval Study",
+    "officialTitle": "MarginProbe\u00ae System U.S. Post-Approval Study Protocol CP-07-001",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 440,
+    "primaryOutcomeMeasure": "Diagnostic accuracy at the margin level",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women histologically diagnosed with carcinoma of the breast\n* Women with non-palpable malignant lesions, requiring image guided localization.\n* Undergoing lumpectomy (partial mastectomy) procedure\n* Age 18 years or more\n* Signed ICF\n\nExclusion Criteria:\n\n* Multi-centric disease (histologically diagnosed cancer in two different quadrants of the breast)\n* Bilateral disease (diagnosed cancer in both breasts)\n* Neo-adjuvant systemic therapy\n* Previous radiation in the operated breast\n* Prior surgery in the same site in the breast\n* Woman histologically diagnosed by an open biopsy procedure\n* Implants in the operated breast\n* Pregnancy\n* Lactation\n* Participating in any other investigational study for either drug or device which could influence collection of valid data under this study\n* Patients for whom complete cavity shaving is planned (sites where this is the routine practice of the investigator will also be excluded from participation in the study)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

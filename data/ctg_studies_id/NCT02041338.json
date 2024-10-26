@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02041338",
+    "briefTitle": "Study of Optimizing Neoadjuvant Regimens in Subtypes of Breast Cancer",
+    "officialTitle": "Phase 2 Randomized Study of Different Neoadjuvant Regimens in Subtypes of Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Neoadjuvant Chemotherapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "pathological complete response(pCR) rate of breast and axilla after surgery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage IIa-IIIc breast cancer patients plan to receive neoadjuvant chemotherapy\n* Patients have enough tissue sample to do IHC test for subtype classification\n* Patients have at least one measurable lesion according to RECIST1.1\n* KPS\u226580\n* No prior treatment for breast cancer\n* Adequate bone marrow (neutrophil count \u22651500 ml and platelet count \u2265100,000 ml), renal (serum creatinine \\<1.5 times the upper limit of normal \\[ULN\\] or a creatinine clearance of \u226560 ml/minute), hepatic (total bilirubin \u22641.5 ULN; alanine aminotransferase, aspartate aminotransferase, and alkaline phosphatase \u22642.5 ULN), and cardiac function (assessed by electrocardiogram or thoracic radiography) were required.\n\nExclusion Criteria:\n\n* Fertile women were excluded if pregnant or lactating or if they were not using adequate contraception.\n* Previous chemotherapy for breast cancer.\n* history of other serious illness (e.g. congestive heart failure, angina pectoris, uncontrolled hypertension or arrhythmia, clinically significant neurologic or psychiatric disorders, uncontrolled serious infection, AIDS), had an organ allograft, severe gastrointestinal disorder, or other neoplasias (except for in situ cervical cancer, non-melanoma skin cancer, or previous diagnosis of cancer with no evidence of disease for \\>10 years).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

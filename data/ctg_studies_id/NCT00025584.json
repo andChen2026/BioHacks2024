@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00025584",
+    "briefTitle": "PS-341 in Treating Women With Metastatic Breast Cancer",
+    "officialTitle": "Phase II Trial Of PS-341 In Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Recurrent Breast Cancer, Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "Objective tumor response (CR + PR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed invasive breast cancer\n\n  * Clinical and/or radiological evidence of stage IV disease\n* Relapsed or resistant disease within 6-12 months after completion of prior chemotherapy with doxorubicin or epirubicin and/or paclitaxel or docetaxel foradvanced disease or in the adjuvant setting\n* At least 1 unidimensionally measurable lesion\n\n  * At least 20 mm by conventional techniques\n  * At least 10 mm by spiral CT scan\n  * No bone metastases as only measurable site\n  * Pleural or peritoneal effusions not acceptable as measurable disease\n* No known brain metastases\n* Hormone receptor status:\n\n  * Estrogen receptor-negative\n  * Estrogen receptor-positive\n* Female\n* Performance status - ECOG 0-2\n* Performance status - Karnofsky 60-100%\n* More than 12 weeks\n* WBC at least 3,000/mm\\^3\n* Absolute neutrophil count at least 1,500/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n* Bilirubin normal\n* AST or ALT no greater than 2.5 times upper limit of normal\n* Creatinine normal\n* Creatinine clearance at least 60 mL/min\n* No acute ischemia or significant conduction abnormality by EKG\n* No symptomatic congestive heart failure\n* No unstable angina pectoris\n* No cardiac arrhythmia\n* LVEF greater than 50%\n* No uncontrolled concurrent illness\n* No psychiatric illness or social situation that would preclude study\n* No ongoing or active infection\n* No prior allergic reaction(s) to compounds of similar chemical or biologic composition to PS-341\n* No other malignancy within the past 5 years except carcinoma in situ of the cervix or basal cell skin cancer\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective barrier-method contraception\n* See Chemotherapy\n* See Disease Characteristics\n* No more than 1 prior chemotherapy regimen for metastatic disease\n\n  * High-dose regimen or bone marrow transplantation considered 1 prior regimen\n* At least 4 weeks since prior chemotherapy (6 weeks for nitrosoureas or mitomycin) and recovered\n* Prior hormonal therapy for metastatic disease or in adjuvant setting allowed\n* Prior localized radiotherapy allowed if it does not influence the signal evaluable lesion\n* At least 4 weeks since prior radiotherapy and recovered\n* At least 2 weeks since prior minor surgery and recovered\n* At least 4 weeks since prior major surgery and recovered\n* No other concurrent investigational agent\n* No other concurrent investigational or commercial agents or therapies to treat this malignancy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

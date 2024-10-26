@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02992574",
+    "briefTitle": "Trial Evaluating Role of Post Mastectomy Radiotherapy in Women With Node Negative Early Breast Cancer",
+    "officialTitle": "Post-Mastectomy Radiation Therapy in High Risk, Node Negative Women With Early Breast Cancer (PMRT-NNBC)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breastcancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1022,
+    "primaryOutcomeMeasure": "Disease free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with unilateral pT1,2N0M0 breast cancer or multifocal breast cancer if largest discrete tumour at least 2cm or if the tumour area comprises multiple small adjacent foci of invasive carcinoma then overall maximum dimension taken. This must be greater than 2cm.\n* Upfront total mastectomy (with minimum 1 mm margin clear of invasive cancer or DCIS) and axillary staging procedure (clearance, sampling or SNB)\n* T2 tumors with one risk factor or T1 tumors with any of the following two high risk factors such as presence of high grade, lymphovascular invasion, ER/PR negative, HER2 positivity, age \\< 35 years.\n* Fit to receive adjuvant radiation +/- chemotherapy (if indicated) +/- hormonal therapy (if indicated)\n* Written, informed consent\n\nExclusion Criteria:\n\n* Any pTis/3/4, M1 patients\n* Patients who have any pathologically involved axillary nodes (micro-metastasis may be allowed)\n* Patients who have undergone neoadjuvant systemic therapy.\n* Previous or concurrent malignancy other than non melanomatous skin cancer and carcinoma in situ of the cervix\n* Pregnancy\n* Bilateral breast cancer\n* Not fit for surgery, radiotherapy or adjuvant systemic therapy\n* Unable or unwilling to give informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02810743",
+    "briefTitle": "Substantially Improving the Cure Rate of High-risk BRCA1-like Breast Cancer",
+    "officialTitle": "Substantially Improving the Cure Rate of High-risk BRCA1-like Breast Cancer Patients With Personalized Therapy (SUBITO) - an International Randomized Phase III Trial",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 174,
+    "primaryOutcomeMeasure": "Overall survival in all patients",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women and men with stage III adenocarcinoma of the breast harboring signs of a breast cancer with features of homologous recombination deficiency (HRD)\n* Age of 18-65 years\n* The tumor must be HER2-negative\n* Treatment must start within 8 weeks after the last surgical resection\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n\nExclusion Criteria:\n\n* Previous radiation therapy\n* Previous chemotherapy\n* Any previous treatment with a PARP-inhibitor, including olaparib\n* Pre-existing neuropathy from any cause in excess of Grade 1\n* Chronic concomitant use of known strong or moderate CYP3A inducers",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

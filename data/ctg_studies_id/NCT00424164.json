@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00424164",
+    "briefTitle": "Lapatinib and Tamoxifen in Treating Patients With Advanced or Metastatic Breast Cancer",
+    "officialTitle": "Pharmacokinetics Study of Combined Treatment Lapatinib and Tamoxifen in Advanced/Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Pharmacokinetic profile of lapatinib ditosylate and tamoxifen citrate alone and in combination",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed advanced or metastatic breast cancer\n\n  * Progressive disease after aromatase inhibitor therapy\n* Hormone receptor status:\n\n  * Estrogen receptor- and/or progesterone receptor-positive tumor\n* Patients with stable brain metastases (i.e., no neurological symptoms and no corticosteroid treatment) are eligible\n\nPATIENT CHARACTERISTICS:\n\n* Male or female\n* Menopausal status not specified\n* ECOG performance status 0-2\n* Life expectancy \u2265 12 weeks\n* Neutrophil count \\> 1,500/mm\u00b3\n* Platelet count \\> 100,000/mm\u00b3\n* AST and/or ALT \\< 3 times upper limit of normal (ULN)\n* Creatinine \\< 1.5 times ULN\n* Bilirubin \\< 1.5 times ULN\n* Clinically normal cardiac function (i.e., LVEF normal by MUGA or ECHO)\n* No current active hepatic or biliary disease (with exception of patients with Gilbert's syndrome, asymptomatic gallstones, liver metastases, or stable chronic live disease)\n* No ischemic heart disease within the past 6 months\n* Normal 12-lead ECG\n* No active or uncontrolled infections\n* No serious illnesses or medical conditions, including any of the following:\n\n  * Hypercalcemia\n  * Malabsorption syndrome\n  * Chronic alcohol abuse\n  * Hepatitis\n  * HIV\n  * Cirrhosis\n* Able to swallow and retain oral medication\n* No psychological, familial, sociological, or geographical condition potentially hampering study compliance\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception during and for 3 months after completion of study treatment\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* At least 2 days since prior and no concurrent inducers or inhibitors of CYP3A4, including any of the following:\n\n  * Rifabutin\n  * Clarithromycin\n  * Cyclosporine\n  * Voriconazole\n  * Fluoxetine\n  * Paroxetine\n  * Midazolam\n  * Isoniazid\n  * Dihydralazine\n  * Digitoxin\n  * Coumadin\n  * Phenytoin\n  * Verapamil\n  * Diltiazem\n  * Herbal constituents (e.g., bergamottin and glabridin)\n* At least 2 weeks since prior aromatase inhibitor\n\n  * Aromatase inhibitors in the adjuvant and/or metastatic setting allowed\n* At least 1 year since prior tamoxifen citrate\n* No other concurrent anticancer therapy or investigational agents",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

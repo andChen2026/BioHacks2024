@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05754047",
+    "briefTitle": "Tumor Characteristics and Survival Rate of HER2-Low Breast Cancer Patients",
+    "officialTitle": "Tumor Characteristics and Survival Rate of HER2-Low Breast Cancer Patients; a Cross-Sectional Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER2 Low Breast Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 3582,
+    "primaryOutcomeMeasure": "HER2-low OS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nAll breast cancer patients with human epidermal growth factor receptor 2 (HER2) status in the database of the Cancer Research Center (CRC),from April 1991 to March 2022\n\nExclusion Criteria:\n\nThe male gender Patients with indeterminate or missing HER2 status, or patients with missing DFS and OS information",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

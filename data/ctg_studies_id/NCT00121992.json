@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00121992",
+    "briefTitle": "Docetaxel, Doxorubicin (A), Cyclophosphamide (C) (TAC) vs 5-Fluorouracil, A, C (5FAC) Breast Cancer Adjuvant Treatment",
+    "officialTitle": "Phase III Randomized Comparing Docetaxel, Doxorubicin and Cyclophosphamide (TAC) vs 5-Fluorouracil, Doxorubicin and Cyclophosphamide (FAC) as Adjuvant Treatment of High Risk Operable Breast Cancer Patients With Negative Axillary Lymph Nodes",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1060,
+    "primaryOutcomeMeasure": "Disease-free Survival (DFS) Events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent\n* Operable breast cancer patients (T1-T3) with negative axillary lymph nodes (10 axillary nodes dissection) and high risk criteria according to St. Gallen consensus criteria.\n* Histologically proven breast cancer. Interval between surgery and registration is less than 60 days.\n* Definitive surgical treatment must be either mastectomy, or breast conservative surgery. Margins of resected specimen from surgery must be histologically free of invasive adenocarcinoma and ductal carcinoma in-situ (DCIS). Lobular carcinoma in-situ is not considered as positive margin.\n* Patients without proven metastatic disease.\n* Estrogen and progesterone receptors performed on the primary tumour prior to randomization.\n* Age between 18 years and 70 years.\n* Karnofsky performance status index \\> 80 %.\n* Adequate hepatic, renal and heart functions.\n* Adequate hematology levels.\n* Negative pregnancy test\n\nExclusion Criteria:\n\n* Prior systemic anticancer therapy for breast cancer (immunotherapy, hormonotherapy, chemotherapy).\n* Prior anthracycline therapy or taxoids (paclitaxel, docetaxel) for any malignancy.\n* Prior radiation therapy for breast cancer.\n* Bilateral invasive breast cancer.\n* Pregnant, or lactating patients.\n* Patients of childbearing potential must implement adequate non-hormonal contraceptive measures during study treatment .\n* Any T4 or N1-3 or M1 breast cancer.\n* Pre-existing motor or sensory neurotoxicity of a severity grade 2 by NCI criteria.\n* Other serious illness or medical condition\n* Past or current history of neoplasm other than breast carcinoma.\n* Ipsilateral ductal carcinoma in-situ (DCIS) of the breast.\n* Lobular carcinoma in-situ (LCIS) of the breast.\n* Chronic treatment with corticosteroids unless initiated \\> 6 months prior to study entry and at low dose\n* Concurrent treatment with ovarian hormonal replacement therapy. Prior treatment should be stopped before study entry.\n* Definite contraindications for the use of corticosteroids.\n* Concurrent treatment with other experimental drugs.\n* Participation in another clinical trial with any investigational not marketed drug within 30 days prior to study entry.\n* Concurrent treatment with any other anti-cancer therapy.\n* Male patients.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

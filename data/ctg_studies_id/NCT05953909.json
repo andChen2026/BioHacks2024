@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05953909",
+    "briefTitle": "A Study of Eribulin-Based Regimen Versus Other Chemotherpy in Triple-Negative Metastatic Breast Cancer (ERI-Based-01).",
+    "officialTitle": "Efficacy and Safety of Eribulin-Based Regimen in the Treatment of Metastatic Triple-Negative Breast Cancer and Comparison With Other Chemotherapy Regimen: A Single-Center Retrospective Study",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Progression free surviva (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women aged 18-70.\n2. The pathologic diagnosis of unresectable recurrent or metastatic triple-negative breast cancer \uff3bER-negative(IHC\\<1%), PR-negative(IHC\\<1%), HER2-negative\uff08IHC-/+ or IHC++ and FISH/CISH-\uff09\uff3d.\n3. Eastern Cooperative Oncology Group (ECOG) performance status of \u2264 2.\n4. Patients with at least one measuring lesion that was conformed to RECIST v1.1 standard.\n5. Patients receiving eribulin-based therapy received at least two cycles of eribulin-based chemotherapy. Eribulin was treated until disease progression, unacceptable toxicity or patient refusal of treatment.\n6. Adverse events were recorded according to the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE 5.0).\n\nExclusion Criteria:\n\n1. Patients previously treated with eribulin.\n2. Patients with grade \u22653 adverse events did not recover according to CTCAE 5.0 criteria.\n3. Not applicable to combined chemotherapy, or allergic or intolerant to related drugs.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

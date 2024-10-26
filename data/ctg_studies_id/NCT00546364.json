@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00546364",
+    "briefTitle": "Randomized Study Evaluating Ixabepilone Plus Capecitabine or Docetaxel Plus Capecitabine in Metastatic Breast Cancer",
+    "officialTitle": "IXTEND: A Randomized Phase 2 Study to Evaluate the Combination of Ixabepilone Plus Capecitabine or Capecitabine Plus Docetaxel in the Treatment of Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 62,
+    "primaryOutcomeMeasure": "Number of Participants With Best Tumor Response as Assessed With Response Evaluation Criteria in Solid Tumors (RECIST)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants with metastatic breast cancer\n* Measurable disease\n* Up to 1 chemotherapy regimen is acceptable. Participants who have received paclitaxel in the neoadjuvant or adjuvant setting acceptable, only if the last dose of paclitaxel was received 12 months or less before the treatment. There is no timeframe for prior paclitaxel in the metastatic setting.\n* Human epidermal growth factor receptor 2-positive participants allowed if they have progressed after receiving treatment with trastuzumab or lapatinib\n* Eastern Cooperative Oncology Group Performance status of 0-1\n* Age younger than 18 years\n* Women of childbearing potential must be using an adequate method of contraception to avoid pregnancy throughout the study and for at least 4 weeks after the last dose of investigational products\n\nExclusion Criteria:\n\n* More than 1 chemotherapy regimen for the treatment of metastatic breast cancer\n* Prior treatment with any epothilone, capecitabine, or docetaxel\n* Prior radiation must not have included 30% or more of major bone marrow-containing areas (pelvis, lumbar spine). If prior radiation was less than 30%, a minimum interval of 2 weeks must be allowed between the last radiation treatment and administration of study medication. There must be at least 1 week between focal/palliative radiation and administration of study medication.\n* Any current or previous history of brain and/or leptomeningeal metastases\n* Neuropathy greater than Grade 2\n* Any concurrent malignancy other than nonmelanoma skin cancer or carcinoma in situ of the cervix\n* Uncontrolled diabetes mellitus\n* Chronic hepatitis\n* HIV-positive status\n* Administration of trastuzumab, lapatinib, bevacizumab, or other systemic treatment for cancer must be discontinued 28 days prior to study medication. Hormonal anticancer agents must be discontinued at least 14 days prior to study medication. Hormonal replacement therapy is acceptable\n* Biphosphonates for palliation of bone metastases allowed if initiated at least 7 days before study entry",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

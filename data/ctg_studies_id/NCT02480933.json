@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02480933",
+    "briefTitle": "Silent Breast Cancer A Study of the Disease Prevalence Held by Imaging Guided Biopsies in Autopsy Specimens",
+    "officialTitle": "Silent Breast Cancer A Study of the Disease Prevalence Held by Imaging Guided Biopsies in Autopsy Specimens",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Female Breast Cancer, Male Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 768,
+    "primaryOutcomeMeasure": "Silent breast cancer prevalence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female and male cadavers above 40 years\n\nExclusion Criteria:\n\n* Known breast cancer\n* Breast tissue accidental damage",
+    "sex": "ALL",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

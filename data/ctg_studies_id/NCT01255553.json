@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01255553",
+    "briefTitle": "Partial Breast Irradiation in a Low-risk Population Screened With MRI",
+    "officialTitle": "Image Guided Partial Breast Irradiation (PBL) In A Low-Risk Population Screened With Magnetic Resonance Imaging (MRI)",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Rates of toxicity (breast edema/pain, hyperpigmentation, erythema) for patients receiving partial breast irradiation (PBI) compared to historical rates of toxicity of patients receiving whole breast irradiation (WBI)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage 0 or I breast carcinoma\n* 40 years or older\n* Post menopausal\n* Lumpectomy with clear margins (\\>2mm)\n* Patients with invasive disease must have undergone an axillary staging by axillary dissection (with a minimum of 6 axillary nodes) or sentinal node biopsy\n* Gross disease must be unifocal with pathological tumor size 2cm or less\n* Target lumpectomy cavity must be clearly marked with surgical clips (the target lumpectomy cavity/whole breast reference volume must be \\<=30% based on the postoperative imaging)\n* Bilateral MRI of the breasts within previous 6 months of radiation therapy (RT) planning\n* If patient is eligible based on postoperative imaging, partial breast irradiation (PBI) is judged to be technically deliverable\n* Patients with a history of malignancies are eligible if they have stable disease as determined by their attending oncologist\n* Patient must have signed the consent form\n\nExclusion Criteria:\n\n* Men are not eligible\n* Patients with Stage II, II, or IV breast cancer\n* Pre- or peri-menopausal patients\n* Patients with positive lymph nodes\n* Patients with suspicious microcalcifications, densities, or palpable abnormalities unless biopsied and found to be benign\n* Patients with multifocal, multicentric, or bilateral breast cancer\n* Surgical margins that cannot be microscopically assessed or are positive at pathological evaluation\n* Patients with a history of breast cancer\n* Clear delineation of the extent of the target lumpectomy cavity is not possible\n* Breast implants (patients who have had implants removed are eligible)\n* Prior breast or thoracic RT for any condition",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02783222",
+    "briefTitle": "EFficacy and Impact on Function of Two Different Doses of Nab-paclitaxEl in Elderly With advanCed breasT Cancer",
+    "officialTitle": "EFFECT: A Randomized Phase II Study to Evaluate the EFficacy and Impact on Function of Two Different Doses of Nab-paclitaxEl in Elderly Patients With advanCed breasT Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 160,
+    "primaryOutcomeMeasure": "Event-free survival (EFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed breast cancer, locally recurrent and/or metastatic; any estrogen/progesterone receptor status; HER2 receptor negative OR HER2 positive but with contraindication to anti-HER2 therapy (e.g. known congestive cardiac failure).\n* Measurable disease or non-measurable but evaluable disease according to RECIST 1.1 criteria\n* ECOG performance status 0-2\n* Estimated life expectancy of \u2265 12 weeks\n* No known active/symptomatic CNS metastases\n* No previous chemotherapy for breast cancer in the advanced setting\n* Adequate organ function including ( Hemoglobin \u2265 9g/dL; Absolute neutrophil count \u2265 1.5 x 10\\^9/L; Platelets \u2265 100 x 10\\^9/L; Bilirubin \u2264 1.5 mg/dL; ALT and AST \u2264 3 x ULN (with or without known hepatic metastases); ALP \u2264 2.5 x ULN; Serum creatinine \u2264 1.5 ULN or calculated creatinine clearance (CrCl) \u2265 50mL/min according to the Cockcroft Gault formula\n* Written informed consent (according to ICH/GCP and national/local regulations)\n\nExclusion Criteria:\n\n* Significant peripheral neuropathy (significant peripheral neuropathy is defined as \u2265 grade 2 on CTCAE v4.0 criteria)\n* Clinically significant comorbidities including: uncontrolled cardiac arrhythmias (except rate-controlled atrial fibrillation), NYHA class III or IV cardiac failure, uncontrolled diabetes, hypertension or other medical conditions that may interfere with assessment of toxicity\n* Other malignancy within the last 5 years, except for adequately treated non-melanomatous skin cancers, cervical intraepithelial neoplasia or cervical carcinoma in situ\n* Intake of any concomitant medications or therapies that may potentially interact with the trial agent. Any prohibited medication must be discontinued at least 14 days prior to trial entry\n* Presence of any psychological, familial, sociological or geographical condition that may potentially hamper compliance with the study protocol and follow-up schedule; these conditions should be discussed with the patient before trial registration",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

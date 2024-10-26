@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03596658",
+    "briefTitle": "SHR9549 in ER Positive HER2 Negative Advanced Breast Cancer",
+    "officialTitle": "Phase I, Open-Label, Multicentre Study to Assess the Safety, Tolerability, Pharmacokinetics and Preliminary Anti-tumour Activity of Ascending Doses of SHR9549 in Women With ER Positive HER2 Negative Advanced Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "ER+ HER2- Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "Dose Limited Toxicity (DLT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged 18-70 years.\n* Confirmation of ER positive; HER2 negative Advanced breast cancer\n* Documented disease progression after at least 6 months prior endocrine therapy for ER positive breast cancer.\n* Receipt of \u22642 lines of prior chemotherapy for advanced disease.\n* Any menopausal status.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1 and with minimum life expectancy of 12 weeks.\n\nExclusion Criteria:\n\n* Any anti-cancer drugs for the treatment of advanced breast cancer within 14 days of the first dose of study treatment.\n* Any unresolved toxicities from prior therapy greater than CTCAE grade 1 at the time of starting study treatment with the exception of alopecia.\n* Patient who is unsuitable for endocrine therapy alone including presence of life-threatening metastatic visceral disease.\n* uncontrolled central nervous system metastatic disease.\n* Any evidence of severe or uncontrolled systemic diseases.\n* Inadequate bone marrow reserve or organ function.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

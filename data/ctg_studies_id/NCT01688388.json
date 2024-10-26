@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01688388",
+    "briefTitle": "Single Fraction Intraoperative Radiotherapy",
+    "officialTitle": "Single Fraction Intraoperative Radiotherapy With Electrons: An Option in Breast-Conserving Operable Breast Cancer Stages 0, I and II - Prospective, Single-arm Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Invasive Ductal and Invasive Lobular Breast Carcinoma, Stage 0 Breast Carcinoma, Stage I Breast Carcinoma, Stage II Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 250,
+    "primaryOutcomeMeasure": "Toxicity Assessment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological proven invasive breast carcinoma ductal, lobular and/or Ductal Carcinoma in situ\n* Age \\> 40 years\n* Karnofsky performance status \\> 70%\n* Tumor. Single discrete tumor or focal microcalcifications that can be imaged on a specimen radiograph or multifocal disease within the same quadrant with a maximum dimension of equal to or less than 2.5 cm\n* Nodal Status: preoperatively N0\n* Clear surgical margins: R0\n* All grades G1 - G3\n* Any hormonal receptor and HER-2 status\n* Informed consent\n\nExclusion Criteria:\n\n* Gender: male\n* Tumor size: more than 2.5 cm\n* Nodal status greater than or equal to N1 pathologically\n* Multicentricity\n* Previous radiotherapy to the involved breast\n* Karnofsky Index \\< 70%\n* Mixed connective tissue diseases e.g. rheumatoid poly arthritis, thromboangitis obliterans, systemic lupus\n* Distant metastases\n* Pregnancy in woman of child bearing age\n* Unable to provide written consent",
+    "sex": "FEMALE",
+    "minimumAge": "41 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

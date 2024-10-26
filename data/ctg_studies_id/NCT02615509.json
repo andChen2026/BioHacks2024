@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02615509",
+    "briefTitle": "Comparison of the Philips MicroDose Tomosynthesis System to 2D Digital Mammography",
+    "officialTitle": "Comparison of the Philips MicroDose Tomosynthesis System to 2D Digital Mammography",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 347,
+    "primaryOutcomeMeasure": "To Compare the Clinical Performance of the Philips MicroDose Tomosynthesis System Images to Conventional 2D Mammography Images. Clinical Performance Will be Based on the Area Under the Receiver Operating Characteristics Curve.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient is female and at least 40 years of age\n* No contraindication for routine bilateral mammography\n\nScreening Cohort\n\n* Patient presents for a routine screening mammogram Biopsy Cohort\n* Patient is scheduled for a biopsy\n* Patient has a screening detected abnormality\n\nExclusion Criteria:\n\n* Patient is pregnant or believes she may be pregnant; OR,\n* Patient is breast feeding; OR\n* Patient is unable or unwilling to give informed consent, including consent to reuse data for future research; OR,\n* Patient has breast implants; OR\n* Patient has previous surgical biopsy; OR\n* Patient has previous breast cancer; OR\n* Patient presented to screening with clinical symptoms (e.g. palpable lump, nipple discharge, nipple retraction, skin irritation or dimpling)",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

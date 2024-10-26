@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00459628",
+    "briefTitle": "Trial of Tomotherapy in Breast Cancer",
+    "officialTitle": "Randomized Trial Comparing Conventional vs Short-course Reduced Volume Conformal Post-surgery Radiation Treatment in Women With Stage I or II Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 118,
+    "primaryOutcomeMeasure": "Change from baseline in pulmonary function and heart function tests",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Informed consent\n* Histologically proven breast carcinoma\n* Stage I or II (T1-3N0 or T1-2N1 M0, AJCC/TNM 6th edition)\n* Surgery with clear margins\n* Pre-operative medical imaging (at least CT, MRI, and/or PET-scan)\n\nExclusion Criteria:\n\n* Prior breast or thoracic radiotherapy\n* Pregnancy or lactation\n* Fertile patients without effective contraception\n* Psychiatric or addictive disorders",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

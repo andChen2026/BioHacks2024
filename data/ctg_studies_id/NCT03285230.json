@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03285230",
+    "briefTitle": "The French E3N Prospective Cohort Study",
+    "officialTitle": "The French E3N Prospective Cohort Study (Etude Epid\u00e9miologique aupr\u00e8s de Femmes de la Mutuelle G\u00e9n\u00e9rale de l'Education Nationale)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Colo-rectal Cancer, Parkinson Disease, Asthma, Diabetes, Inflammatory Bowel Diseases, Melanoma, Endometriosis, Thyroid Cancer, Hypertension, Endometrial Cancer, Crohn Disease, Depression, Cardiovascular Diseases",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 100000,
+    "primaryOutcomeMeasure": "Anthropometric measurements",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* only women\n* born between 1925 and 1950\n* insured by the Mutuelle G\u00e9n\u00e9rale de l'Education Nationale (MGEN)\n\nExclusion Criteria:\n\n- men",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

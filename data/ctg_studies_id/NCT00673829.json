@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00673829",
+    "briefTitle": "Trial of 2nd Generation Anti-CEA Designer T Cells in Metastatic Breast Cancer",
+    "officialTitle": "Phase Ia/Ib Trial of 2nd Generation Anti-CEA Designer T Cells in Metastatic Breast Cancer",
+    "overallStatus": "SUSPENDED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "Phase Ia:Determine the safety of using modified T-cells by documenting the type and severity of any side effects and establishing the maximum tolerated dose (MTD).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Must have cancer of the breast\n* Must have metastatic or unresectable locally advanced disease\n* Tumor must express CEA by tumor staining or by elevated serum CEA (\\>10 ng/ml)\n* Must have measurable disease radiologically or by physical exam\n* Must have failed potentially curative standard therapy\n* Must be 18 years of age or older\n* Good performance status (PS 0-1)\n\nExclusion Criteria:\n\n* Requiring systemic steroids\n* Serious medical conditions\n* Concurrent malignancies",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

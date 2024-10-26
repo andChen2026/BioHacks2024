@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04639986",
+    "briefTitle": "Asian Study of Sacituzumab Govitecan (IMMU-132) in HR+/HER2- Metastatic Breast Cancer (MBC)",
+    "officialTitle": "A Phase 3 Asian Study of Sacituzumab Govitecan (IMMU-132) Versus Treatment of Physician's Choice (TPC) in Subjects With Hormonal Receptor-positive (HR+)/Human Epidermal Growth Factor Receptor 2 Negative (HER2-) Metastatic Breast Cancer (MBC) Who Have Failed at Least 2 Prior Chemotherapy Regimens",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 331,
+    "primaryOutcomeMeasure": "Progression-free Survival (PFS)",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Female or male individuals aged \u226518 years at the time of signing the informed consent form\n* Documented evidence of hormone receptor-positive HER2-negative (HR+/HER2-) MBC confirmed\n* Refractory to or relapsed after at least 2, and no more than 4, prior systemic chemotherapy regimens for MBC\n* Should have been previously treated with at least 1 taxane in any setting, at least 1 prior anticancer hormonal treatment in any setting\n* Eligible for one of the chemotherapy options listed in the TPC arm\n* Documented radiographic disease progression after the most recent therapy\n* Measurable disease by CT or MRI in accordance with RECIST v 1.1, bone-only disease is not measurable and is not permitted.\n* Adequate bone marrow function, hepatic and renal function\n* Females must not be lactating or pregnant at Screening or Baseline (as documented by a negative beta human chorionic gonadotropin \\[\u00df-hCG\\]\n\nKey Exclusion Criteria:\n\n* Previous treatment with Topoisomerase 1 Inhibitors as a free form or as other formulations\n* Individuals who have known brain metastases.\n* Have an active second malignancy within 3 years prior to providing informed consent\n* Individuals with active hepatitis B virus (HBV), or hepatitis C virus infection (measurable viral RNA load with polymerase chain reaction).\n* Active serious infection requiring systemic antibiotic use within 7 days before Cycle1 Day 1.\n* Other concurrent medical or psychiatric conditions that, in the Investigator's opinion, may be likely to confound study interpretation or prevent completion of study procedures and follow-up examinations.\n* Known hypersensitivity or intolerance to either of the study treatments or any of the excipients.\n\nNote: Other protocol defined Inclusion/Exclusion criteria may apply.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

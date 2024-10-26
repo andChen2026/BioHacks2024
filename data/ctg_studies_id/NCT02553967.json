@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02553967",
+    "briefTitle": "Breast Reconstruction and Body Map : Assessment by Functional MRI (REMASCO)",
+    "officialTitle": "Breast Reconstruction and Body Map : Assessment by Functional MRI (REMASCO)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 49,
+    "primaryOutcomeMeasure": "BOLD signal change (difference in intensity and anatomic location) in the regions activated during breast palpation between the reconstructed breast and the non-operated breast.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patient with an indication of unilateral total mastectomy with immediate breast reconstruction for initial breast cancer or recurrence, Or patient undergoing a unilateral secondary breast reconstruction\n2. WHO performance status less than or equal to 2\n3. Age \u2265 18 years\n4. For patients of childbearing age, use of an effective contraceptive method for the duration of the study\n5. Patient having been informed and having signed an informed consent form for the study.\n\nExclusion Criteria:\n\n1. Patient undergoing a breast reconstruction by exclusive lipomodelling\n2. Contraindication to MRI : claustrophobia, intra-orbital metallic fragment, pregnancy, cochlear implants, incompatible metallic foreign body such as certain pacemaker and mechanical valves\n3. Patient with an indication of preoperative radiotherapy or adjuvant chemotherapy according to regional and/or national standards\n4. History of brain surgery\n5. History of contralateral breast surgery\n6. History of prophylactic total mastectomy\n7. Reconstruction techniques using a mixed procedure (autologous + prosthesis)\n8. Patient on medication that may alter the BOLD signal in MRI\n9. Pregnant or breastfeeding women\n10. Patient under tutorship or guardianship",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

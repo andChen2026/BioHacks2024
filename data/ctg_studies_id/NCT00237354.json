@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00237354",
+    "briefTitle": "PV-10 Chemoablation of Recurrent Breast Carcinoma",
+    "officialTitle": "A Phase 1 Safety and Tolerability Study of PV-10 Chemoablation of Recurrent Breast Carcinoma",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "Systemic and locoregional adverse experience",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Biopsy confirmed recurrent soft tissue breast carcinoma\n* At least one measurable target lesion at least 0.5 cm and no more than 3 cm in longest diameter\n* Performance Status: Karnofsky 70-100% or ECOG 0-2\n* Life Expectancy: At least 6 months\n* Hematopoietic:\n\n  * White blood cell count (WBC) at least 3000/mm3\n  * Absolute neutrophil count (ANC) at least 1.5 (1,500/mm3)\n  * Hemoglobin at least 10 g/dL\n  * Platelet count at least 100,000/mm3\n* Coagulopathy: International Normalized Ratio (INR) at least 1.5.\n* Renal Function: Creatinine = 0.05-0.11 mmol/L\n* Hepatic Function:\n\n  * Bilirubin = 3-21 umol/L\n  * AST/ALT \u2264 3 times the upper limit of normal (ULN)\n* Cardiovascular Function: No major cardiovascular disease\n* Thyroid Function: T3 (serum triiodothyronine), T4 (serum thyroxine) and THS (serum thyrotropin) within normal limits\n* Immunological Function: Adequate immune system function in the opinion of the investigator\n\nExclusion Criteria:\n\n* Radiation therapy to study lesions within 4 weeks\n* Chemotherapy or other systemic cancer therapy within 4 weeks (6 weeks for nitrosoureas or mitomycin)\n* Local treatment (e.g., surgery, cryotherapy, radiofrequency ablation) to the treatment area within 4 weeks\n* Investigational agents within 4 weeks (or 5 half-lives)\n* Anti-tumor vaccine therapy within 12 weeks\n* Concurrent illness:\n\n  * Severe diabetes or extremity complications due to diabetes\n  * Significant concurrent disease or illness, psychiatric disorders, or alcohol or chemical dependence that would, in the opinion of the investigator, compromise subject safety or compliance or interfere with interpretation of study results\n  * Thyroid autoregulatory dysfunction, including thyroid disease (subclinical or ongoing), goiter, partial thyroidectomy, prior radioiodine- or surgically-treated Graves' hyperthyroidism, or cystic fibrosis\n* Pregnancy or fertile female subjects who are not using effective contraception, or who are lactating\n* Known or suspected brain metastases or spinal cord compression.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

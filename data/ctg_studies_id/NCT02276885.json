@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02276885",
+    "briefTitle": "Prone Partial Breast Irradiation (PBI): a Prospective Randomized Trial",
+    "officialTitle": "Prone Partial Breast Irradiation (PBI): A Prospective Randomized Trial Comparing Five Versus Three Fractions",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 320,
+    "primaryOutcomeMeasure": "Proportion of patients with grade 2 or 3 fibrosis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Post-menopausal women defined as either:\n\n  1. at least 2 years without menstrual period\n  2. patients older than 50 with serological evidence of post-menopausal status\n  3. hysterectomized patients of any age with FSH confirmation of post- menopausal status\n* pT1 breast cancer, excised with negative margins. Criteria for low risk-pTis:\n\n  1. Screen-detected\n  2. Low to intermediate nuclear grade\n  3. \\< 2.5cm in size\n  4. Resected with negative margins at \\>3mm)\n* clinically N0 or pN0 or sentinel node negative breast cancer\n\nExclusion Criteria:\n\n* previous radiation therapy to the ipsilateral breast\n* presence of a proportion of DCIS in the core biopsy specimen which is compatible with extensive intraductal component (EIC)",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

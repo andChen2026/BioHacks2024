@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00080041",
+    "briefTitle": "Study of Motexafin Gadolinium and Docetaxel for Advanced Solid Tumors",
+    "officialTitle": "Phase I Trial of Motexafin Gadolinium (MGd) and Docetaxel Administered at 3-Week Intervals for Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Ovarian Neoplasms, Prostatic Neoplasms, Lung Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Determine the Dose Limiting Toxicity at 3 weeks (1 cycle), and the Maximum Tolerated Dose at 24 weeks (6 cycles).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \u2265 18 years old\n* Histologically or cytologically confirmed diagnosis of cancer (i.e., Unresectable locally advanced or metastatic non-small-cell lung carcinoma (NSCLC) that had progressed during or after one or more chemotherapy regimens; Metastatic breast cancer; Hormone-refractory prostate cancer; Recurrent or refractory ovarian cancer; Sarcoma)\n* ECOG performance status score either 0 or 1\n* Willing and able to provide written informed consent\n\nExclusion Criteria:\n\nLaboratory Values of:\n\n* Absolute neutrophil count \\< 2000/\u00b5L\n* Platelet count \\< 100,00/\u00b5L\n* AST or ALT \\> 1.5 x the upper limit of normal\n* Alkaline phosphatase \\> 5 x the upper limit of normal\n* Bilirubin \\> ULN\n* Creatinine \\> 2.0 mg/dL\n\nand\n\n* Peripheral neuropathy NCI CTC Grade 3 or higher\n* Chemotherapy, radiation therapy, immunotherapy, or systemic biologic\n* anticancer therapy within 21 days before beginning study treatment\n* Known history of brain metastases or spinal cord compression\n* Uncontrolled hypertension\n* Myocardial infarction within 6 months before beginning study treatment\n* Unstable angina pectoris, uncontrolled congestive heart failure, or uncontrolled serious arrhythmias\n* Known sensitivity to or intolerable adverse effects from taxanes or polysorbate 80\n* Known history of porphyria (testing not required at screening)\n* Known history of glucose-6-phosphate dehydrogenase (G6PD) deficiency (testing not required at screening)\n* Known history of HIV infection (testing not required at screening)\n* Female who is pregnant or lactating (pregnancy test is required for all female patients of childbearing potential)\n* Female of childbearing potential or sexually active male unwilling to use adequate contraceptive protection\n* Physical or mental condition that makes patient unable to complete specified follow-up assessments",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02263495",
+    "briefTitle": "Eribulin Plus Gemcitabine (EG) vs Paclitaxel Plus Gemcitabine (PG) in HER2-Negative Metastatic Breast Cancer",
+    "officialTitle": "A Phase II, Multicenter, Randomized Trial of Eribulin Plus Gemcitabine (EG) vs.Paclitaxel Plus Gemcitabine (PG) in Patients With HER2-Negative Metastatic Breast Cancer as First -Line Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 118,
+    "primaryOutcomeMeasure": "Progression free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histologically confirmed metastatic, or recurrent breast cancer\n2. HER2-negative breast cancer\n3. age \\> 18 years\n4. ECOG performance status 0 - 2\n5. Pre- or postmenopausal breast cancer patients with measurable or non-measurable lesions, who are candidates for chemotherapy\n6. Life expectancy \u2265 3 months\n7. No prior history of chemotherapy for metastatic, recurrent breast cancer\n8. Patients may have received prior neoadjuvant or adjuvant taxane regimen as long as it has been 12 months since completion of regimen.\n9. Patients either may or may not have a prior anthracycline containing regimen.\n10. Prior hormonal therapy as a treatment of metastatic disease is allowed. But antitumoral hormonal therapy must be terminated prior to enrollment(up to the date of randomization)\n11. Prior radiation therapy allowed as long as \\< 25% of the bone marrow has been treated, and the patients must have recovered from the acute toxic effects of the treatment prior to study enrollment. Prior radiation to the whole pelvis is not allowed. Prior radiotherapy must be completed 2 weeks before study entry.\n12. Bisphosphonates for the treatment of bone metastases should not be initiated following the first dose of randomized therapy. It must be initiated prior to day of treatment (cycle 1, day 1). Patients may continue on bisphosphonates who already established on bisphosphonate therapy for bone metastases\n13. Adequate bone marrow function (\u2265 ANC 1,500/ul, \u2265 platelet 100,000/ul, \u2265 Hemoglobin 9.0 g/dl)\n14. Adequate renal function (\u2264 serum creatinine 1.5 mg/dl or CCr \u2265 50 ml/min)\n15. Adequate liver function (\u2264 serum bilirubin 1.5 mg/dl, \u2264 AST \\& ALTX3 upper normal limit or AST and ALT \u2264 5.0XULN if judged by the investigator to be related to liver metastases)\n16. Written informed consent\n\nExclusion Criteria:\n\n1. Serious uncontrolled intercurrent infections\n2. Serious intercurrent medical or psychiatric illness, including active cardiac disease\n3. Pregnancy or breast feeding\n4. Second primary malignancy(except in situ carcinoma of the cervix or adequately treated nonmelanomatous carcinoma of the skin or other malignancy treated at least 5 years previously with no evidence of recurrence)\n5. Documented parenchymal or leptomeningeal brain metastasis\n6. Peripheral neuropathy \u2265 grade 2\n7. Prior treatment with gemcitabine will not be allowed.\n8. HER-2 overexpressing breast cancer and concomitant trastuzumab treatment is not allowed\n9. Women of childbearing potential, unwilling to use a medically acceptable method of contraception during the trial",
+    "sex": "ALL",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

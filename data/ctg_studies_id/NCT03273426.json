@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03273426",
+    "briefTitle": "Prediction of pCR by Preoperative Biopsy in Breast Cancer With cCR After Neoadjuvant Chemotherapy.",
+    "officialTitle": "Prediction of Pathologic Complete Response by Multiple Core Needle Biopsy or Vacuum Assisted Biopsy Before Surgery in Breast Cancer With Complete Clinical Response After Neoadjuvant Chemotherapy.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Negative Predictive Value",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPatients\n\n* with unilateral primary cancer pathologically confirmed before neoadjuvant chemotherapy (NAC)\n* who received NAC\n* with detectable lesion / clip marker on ultrasound\n* with cT1-T3 tumors\n* clinical and imaging complete or near-complete response on MRI\n* with informed consent\n\nExclusion Criteria:\n\n* Multifocal cancer\n* Residual microcalcification\n* Contralateral breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

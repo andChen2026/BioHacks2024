@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04838756",
+    "briefTitle": "Mammography Screening With Artificial Intelligence (MASAI)",
+    "officialTitle": "A Randomized, Single-blinded, Controlled Trial on the Efficacy of Mammography Screening With Artificial Intelligence - the MASAI Study",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 100000,
+    "primaryOutcomeMeasure": "Interval-cancer rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nWomen eligible for population-based mammography screening.\n\nExclusion Criteria:\n\nNone.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

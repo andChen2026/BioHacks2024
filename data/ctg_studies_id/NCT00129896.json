@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00129896",
+    "briefTitle": "Neoadjuvant Chemotherapy With Myocet/Taxotere/Herceptin for HER2 Positive Breast Cancer Patients",
+    "officialTitle": "Open-label Phase I-II Clinical Trial to Evaluate Treatment With Myocet/Taxotere/Herceptin as Primary Chemotherapy Treatment for HER2neu Positive Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 73,
+    "primaryOutcomeMeasure": "Tolerability (Phase I): Recommended Doses of the combination treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent.\n* Breast cancer stages II and IIIA with histological diagnoses by true-cut.\n* Breast cancer tumours overexpressing HER2neu, centrally confirmed by FISH.\n* No evidence of metastasis: bilateral mammography, thorax x-ray, computed tomography (CT)-scan or abdominal echography and bone scintigraphy.\n* Estrogen and progesterone hormone receptor status, determined before study registration.\n* Age \\>= 18 years old.\n* Performance status (Karnofsky index) \\>= 80.\n* Adequate cardiac function by LVEF in the previous 14 days.\n* Hematology: neutrophils \\>= 2.0 x10\\^9/l; platelets \\>= 100 x10\\^9/l; hemoglobin \\>= 10 g/dl.\n* Adequate hepatic function: total bilirubin \\<= 1x upper normal limit (UNL); SGOT and SGPT \\<= 2.5xUNL; alkaline phosphatase \\<= 2.5xUNL.\n* Adequate renal function: creatinine \\<= 1xUNL; creatinine clearance \\>= 60 ml/min.\n* Patients able to comply with study treatment and follow-up.\n* Negative pregnancy test in the previous 14 days.\n* Adequate contraceptive method during the study and up to 3 months after definitive surgery.\n\nExclusion Criteria:\n\n* HER2neu negative tumours.\n* Prior systemic therapy for breast cancer.\n* Prior treatment with anthracyclines or taxanes (paclitaxel, docetaxel) for any previous malignancy.\n* Prior radiotherapy for breast cancer.\n* Bilateral invasive breast cancer.\n* Pregnant or lactating women.\n* Previous grade \\>= 2 motor or sensorial neurotoxicity (National Cancer Institute Common Toxicity Criteria \\[NCI CTC\\]).\n* Other serious comorbidities: congestive heart failure or unstable angina; prior history of myocardial infarction in previous year; uncontrolled hypertension (HT); high risk arrhythmias; history of significant neurological or psychiatric disorders; uncontrolled active infection; active peptic ulcer; unstable diabetes mellitus; dyspnea at rest; or chronic therapy with oxygen.\n* Previous or current history of neoplasms different from breast cancer, except for skin carcinoma, cervical in situ carcinoma, or any other tumor curatively treated and without recurrence in the last 10 years; ductal in situ carcinoma in the same breast; lobular in situ carcinoma.\n* Chronic treatment with corticosteroids.\n* Contraindications for administration of corticosteroids, anthracyclines, docetaxel, trastuzumab or egg derivates.\n* Concomitant treatment with other therapy for cancer.\n* Males.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

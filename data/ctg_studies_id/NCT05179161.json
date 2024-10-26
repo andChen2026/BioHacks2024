@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05179161",
+    "briefTitle": "Validation of Prone Crawl Radiotherapy for Whole-breast Irradiation After Breast Conserving Surgery",
+    "officialTitle": "Validation of Prone Crawl Radiotherapy for Whole-breast Irradiation After Breast Conserving Surgery",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Setup error",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients\n* Non-metastasized breast carcinoma\n* Multidisciplinary decision of adjuvant radiotherapy after lumpectomy for breast cancer\n* Prone WBI without LNI indicated according to the department's guidelines, treatment schedule of at least 15 fractions\n* Age \u2265 18 years\n* Informed consent obtained, signed and dated before specific protocol procedures\n\nExclusion Criteria:\n\n* \\< 18 years old\n* Mastectomy\n* Need for LNI\n* Bilateral breast irradiation\n* Partial breast irradiation\n* Unable to be treated in prone position\n* Less than 15 treatment fractions planned\n* Situs inversus\n* Pregnant or breastfeeding\n* Mental condition rendering the patient unable to understand the nature, scope and possible consequences of the study\n* Patient unlikely to comply with the protocol; i.e. uncooperative attitude, inability to return for follow-up visits, and unlikely to complete the study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

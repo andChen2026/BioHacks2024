@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00033514",
+    "briefTitle": "Trastuzumab and Erlotinib as First-Line Therapy in Treating Women With Metastatic Breast Cancer Associated With HER2/Neu Overexpression",
+    "officialTitle": "Phase I/II Study Of Herceptin Combined With OSI-774 In The First-Line Treatment Of Metastatic Breast Cancer Associated With HER2/Neu Overexpression",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 27,
+    "primaryOutcomeMeasure": "The Objective Response Rate as Defined as Stable Disease or the Rate of Complete and Partial Responses Determined on Two Consecutive Occasions Greater Than or Equal to 4 Weeks Apart.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged \\> 18 years\n* Histologically documents metastatic breast cancer\n* HER2 positive using Fluorescence In Situ Hybridization (FISH)\n* For phase I, patients who have previously received treatment for their metastatic disease are allowed to participate.\n* For the phase II portion of the study, patients must have measureable disease (\\> 2 cm; \\> 1 cm on spiral CT scan)\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2\n* A life expectancy of \\> 3 months\n* Use of effective means of contraception\n\nExclusion Criteria:\n\n* For Phase II, prior cytotoxic chemotherapy and/or prior Herceptin for their metastatic disease. Prior treatment in the adjuvant setting is allowed.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

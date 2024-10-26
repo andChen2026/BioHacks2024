@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00880009",
+    "briefTitle": "Study Evaluating Bosutinib-Letrozole Combination Versus Letrozole Alone In Post Menopausal Women With Breast Cancer",
+    "officialTitle": "A PHASE 2, RANDOMIZED, OPEN-LABEL STUDY OF BOSUTINIB ADMINISTERED IN COMBINATION WITH LETROZOLE VS. LETROZOLE ALONE AS FIRST LINE THERAPY IN POST-MENOPAUSAL WOMEN WITH LOCALLY ADVANCED OR METASTATIC ER+/PR+/HER2- BREAST CANCER.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 16,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS) Based on Independent Radiologist",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Surgically sterile or post-menopausal women.\n* Confirmed pathologic diagnosis of breast cancer.\n* Locally advanced or metastatic, or loco-regional recurrent breast cancer not amenable to curative treatment with surgery or radiotherapy.\n* Documented ER+ and/or PgR+ and erbB2- tumor based on most recently analyzed biopsy, as documented by a local laboratory.\n* At least 1 radiologically measurable lesion as defined by Response Evaluation Criteria in Solid Tumors (RECIST).\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2.\n\nExclusion Criteria:\n\n* Prior letrozole (except in adjuvant setting), prior bosutinib, or any other prior Src inhibitor.\n* Prior endocrine treatment for locally advanced or metastatic breast cancer (up to one prior adjuvant Aromatase Inhibitor (AI) agent/regimen is permitted).\n* More than 1 prior chemotherapy regimen in locally advanced or metastatic breast cancer.\n* Adjuvant endocrine therapy \\<=12 months prior to day 1 of treatment.\n* Disease refractory (ie, Progressive disease (PD) within 6 months from initiation of therapy) to previous adjuvant antiestrogen therapy.\n* Bone or skin as the only site of disease.\n* Extensive visceral disease or active Central Nervous System (CNS) disease.\n* Any other cancer within 5 years of screening with the exception of ER+ contralateral breast carcinoma, adequately treated cervical carcinoma in situ, or adequately treated basal or squamous cell carcinoma of the skin.\n* Major surgery or radiotherapy within 14 days of treatment day.\n* Inadequate hepatic/renal/bone marrow function.\n* History of clinically significant or uncontrolled cardiac disease.\n* Serious concurrent illness.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

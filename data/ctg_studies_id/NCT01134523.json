@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01134523",
+    "briefTitle": "Regimens Comparison for Breast Cancers of Positive Lymph Nodes",
+    "officialTitle": "Phase 3 Study of Regimens Comparison for Breast Cancers of Positive Lymph Nodes",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "PFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* patients with breast cancer after breast cancer surgery with positive lymph nodes age 18-70 years old\n\nExclusion Criteria:\n\n* with other malignance disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

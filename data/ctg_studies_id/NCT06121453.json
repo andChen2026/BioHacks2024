@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06121453",
+    "briefTitle": "Adherence Intervention in Patients With Metastatic Breast Cancer",
+    "officialTitle": "P50 Supplement: Improving Medications Adherence Equitably Among Patients With Metastatic Breast Cancer and Cardiovascular Disease",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "Number of Participants on multicomponent adherence intervention",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women or men age \\>18 years\n* Diagnosed with stage IV/metastatic breast cancer prescribed endocrine therapy and a CDK4/6i\n* Prescribed at least 1 antihypertensive or statin medication for CVD prevention or treatment\n* Self-report of at least some nonadherence ET/CDK4/6i or CVD medication on nonadherence screener or verbally to a treating clinician, or nonadherent to ET, CDK4/6i, and/or CVD medication on pharmacy fill data in the EHR (proportion of days covered over prior 180 days \\<80%).\n\nExclusion Criteria:\n\n* Non-English or Non-Spanish speaking\n* Not cognitively able to complete study requirements\n* Inability to provide informed consent for any other reason (e.g, severe psychiatric illness, active substance use)\n* Unavailable for 28 weeks of follow-up",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

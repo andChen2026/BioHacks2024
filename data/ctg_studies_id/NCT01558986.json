@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01558986",
+    "briefTitle": "Routine Preoperative Antibiotic Prophylaxis in Modified Radical Mastectomy",
+    "officialTitle": "A Randomized, Double Blinded Placebo-Controlled Trial on the Routine Use of Preoperative Antibiotic Prophylaxis in Modified Radical Mastectomy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Surgical Infection",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 254,
+    "primaryOutcomeMeasure": "Surgical Site Infection (as defined by the Centers for Disease Control and Prevention)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with histologically diagnosed breast cancer of age group 18-80 years old, ECOG 0-1, clinical stage I to IIIB, admitted to the surgery ward, who were scheduled for elective MRM.\n\nExclusion Criteria:\n\n* Women with significant co-morbid factors (diabetes mellitus, severe malnutrition, corticosteroid therapy), those scheduled for simultaneous breast reconstruction or bilateral oophorectomy, with intake of antibiotics within one week prior to surgery, with known allergy to cephalosporins, and those with local infection.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00513058",
+    "briefTitle": "Lapatinib and Vinorelbine in Treating Women With HER2-Overexpressing Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "Phase I Study Evaluating the Combination of Lapatinib + Vinorelbine in Patients With Locally Advanced or Metastatic Breast Cancer Overexpressing HER2",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 33,
+    "primaryOutcomeMeasure": "Toxicity as assessed by NCI CTCAE v3.0",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed advanced breast cancer (metastatic or locally advanced)\n* Tumor overexpressing HER2 (HER2 3+ by IHC OR HER2 2+ by IHC and FISH positive) in samples from the primary and/or secondary tumor\n* Measurable or evaluable disease\n* Cancer is progressive after treatment with at least 1 line or, at most, 2 lines, of chemotherapy that included trastuzumab (Herceptin\u00ae)\n* Patients presenting with treated asymptomatic cerebral metastases or leptomeningeal metastases may be included if they are neurologically stable and have not received steroids or anticonvulsant treatment for at least 4 weeks before study entry\n\nPATIENT CHARACTERISTICS:\n\nInclusion criteria:\n\n* Female\n* Menopausal status not specified\n* Patients must have an estimated survival of at least 3 months\n* WHO performance status (ECOG) 0-2\n* Hemoglobin \u2265 9 g/dL\n* ANC \u2265 1,500/mm\u00b3\n* Platelets \u2265 100,000/mm\u00b3\n* Total bilirubin \u2264 2.5 mg/dL\n* ALT and AST \u2264 3 times upper limit of normal\n* Serum creatinine \u2264 1.5 mg/dL OR creatinine clearance \u2265 40 mL/min\n* LVEF \u2265 50% (echographic or isotopic method)\n* Potentially reproductive patients must agree to use an effective contraceptive method while on study treatment\n* Patients must be affiliated with a Social Security system\n\nExclusion criteria:\n\n* Uncontrolled cardiac pathology\n* Dysphagia or inability to swallow the vinorelbine ditartrate soft capsules\n* Malabsorption syndrome or disease significantly affecting gastrointestinal function\n* Preexisting neuropathy (grade \u2265 2)\n* Pregnant women, women who are likely to become pregnant, or women who are breastfeeding\n* Any psychological, familial, sociological, or geographical condition potentially hampering compliance with the study protocol and follow-up schedule\n* Individuals deprived of liberty\n\nExclusion criteria:\n\n* Prior major resection of stomach or proximal bowel that could affect absorption of oral drugs\n* Prior vinorelbine",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

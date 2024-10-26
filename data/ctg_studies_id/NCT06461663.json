@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06461663",
+    "briefTitle": "CairnSurgical Breast Cancer Locator (BCL) Post-Market Study",
+    "officialTitle": "An Interventional, Post-Market Study to Evaluate the Performance of a Custom-made Medical Device, \"Breast Cancer Locator (BCL)\" System, in Breast-conserving Surgery (BCS)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "Positive Margin Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient Informed consent form (ICF) signed\n* Female Aged \u2265 18 years at the time of the signature of ICF\n* Histologic diagnosis of IBC or DCIS\n* Tumor excision that will require localization because it cannot be definitively defined by palpation\n* The tumor is unifocal; possible satellite lesions \\< 2 cm from primary are eligible\n* The tumor enhances and is greater than or equal to 5mm on prone breast MRI imaging\n* Subject and surgeon agree to perform BCS\n* Willingness to follow all study procedures, including attending all site visits, tests and examinations.\n\nExclusion Criteria:\n\n* Absolute contraindication to MRI, including presence of implanted electrical device (e.g., pacemaker or neurostimulator), aneurysm clip, or metallic foreign body in or near eyes\n* Severe claustrophobia\n* Contraindication to use of gadolinium-based intravenous contrast, including life-threatening allergy\n* Uncontrolled cardiac, renal, or pulmonary disease\n* Uncontrolled systemic disease (e.g., lupus erythematosus or scleroderma)\n* Compromised renal function including chronic, severe kidney disease (GFR \\< 30 ml/min/1.73m2), or acute kidney injury\n* Pregnancy or breast-feeding\n* Subjects who have received or plan to receive neoadjuvant chemotherapy\n* Sternal notch to nipple distance of \\> 32 cm as measured in a sitting or standing position\n* Measurement of widest circumference around breasts and arms \\> 135 cm\n* Known allergy to device components\n* Multicentric tumors (additional tumors \\> 2 cm from primary)\n* Infectious or inflammatory processes near the area of intervention\n* Planned surgery with localization devices including WGL, intraoperative ultrasound guidance, radiofrequency emitting implants, magnetic seeds, radioactive seeds, and tissue inspection devices\n* Simultaneous participation in an interventional study or participation in an interventional study in the last 1 month before study inclusion\n* Known drug and/or alcohol abuse\n* Mental incapacity that precludes adequate understanding or cooperation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03583619",
+    "briefTitle": "Randomized Trial of Accelerated Partial Breast Irradiation",
+    "officialTitle": "A Phase II Randomized Clinical Trial of Accelerated Partial Breast Irradiation Compared With Whole Breast Irradiation With IMRT in Early Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Neoplasm Recurrence, Local",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 140,
+    "primaryOutcomeMeasure": "Number o participants with Grade 2 or more toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Life Expectation: \\> 5 years\n* Enrollment date no more than 12 weeks after breast-conserving surgery or no more than 8 weeks after adjuvant chemotherapy\n* Histologically confirmed diagnosis of invasive ductal carcinoma (grade 1-2), or mucinous carcinoma, or papillary carcinoma, or tubular carcinoma, or medullary carcinoma: primary tumor \u2264 3.0cm in maximum diameter and pN0; or histologically confirmed DCIS: primary tumor \u2264 2.5cm in maximum diameter, low-medium grade\n* Unifocal tumour (confirmed by diagnostic MRI)\n* No lymphovascular invasion\n* ER positive (defined as medium-strongly nuclear staining in \\>1% of the cancer cells)\n* Negative radial resection margins of \\>= 2 mm\n* Surgical clips placed in the tumor bed\n* Written informed consent.\n\nExclusion Criteria:\n\n* Stage \u2161-\u2162\n* Multifocal tumors\n* Histologically confirmed diagnosis of invasive ductal carcinoma (grade 3), - - - invasive micropapillary carcinoma, carcinoma of lobular in situ, invasive - - - lobular carcinoma\n* Paget's disease of the nipple\n* Underwent oncoplastic surgery of ipsilateral breast\n* Underwent neoadjuvant chemotherapy or hormonal therapy\n* Previous or simultaneous contralateral breast cancer\n* Undergone ipsilateral chest wall radiotherapy\n* Active collagen vascular disease.",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

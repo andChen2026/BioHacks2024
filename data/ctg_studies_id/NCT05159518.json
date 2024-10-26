@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05159518",
+    "briefTitle": "A Study of PRT2527 in Participants With Advanced Solid Tumors",
+    "officialTitle": "A Phase 1, Open-Label, Multicenter, Dose Escalation and Confirmation Study of PRT2527 in Participants With Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Sarcoma, Castrate Resistant Prostate Cancer, Hormone Receptor Positive HER2 Negative Breast Cancer, Non-small Cell Lung Cancer, Solid Tumors With Known MYC Amplification",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Dose limiting toxicities (DLT) of PRT2527",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Tumor types under study\n\n  1. Selected sarcomas with a documented gene fusion\n  2. Castrate resistant prostate cancer (CRPC)\n  3. Hormone receptor positive (HR+), HER2 negative (HER2-) breast cancer\n  4. Non-small cell lung cancer (NSCLC)\n  5. MYC amplified solid tumors\n* Must have measurable disease per RECIST 1.1; participants with CRPC or sarcoma may have nonmeasurable but evaluable disease\n* Eastern Cooperative Oncology Group (ECOG) Performance Score of 0 or 1\n* Adequate organ function\n* Must provide tumor tissue sample to the central laboratory for biomarker analysis\n* Participants must have recovered from the effects of prior cancer-related therapy, radiotherapy, or surgery to \u2264 Grade 1\n\nExclusion Criteria:\n\n* Primary malignancies of the CNS, or uncontrolled CNS metastases, including impending spinal cord compression\n* have a corrected QT interval \\>480 msec from prior or baseline\n* have impaired cardiac function or clinically significant cardiac disease\n* Treatment with strong inhibitors or inducers of CYP3A4\n* Prior exposure to a CDK9 inhibitor\n* History of another malignancy except for:\n\n  1. Curatively treated malignancy with no known active disease\n  2. Curatively treated non-melanoma skin cancer without evidence of disease\n  3. Curatively treated carcinoma in situ without evidence of disease\n* have undergone major surgery within 2 weeks prior to Week 1 Day 1\n* have had chemotherapy, biologic therapy, targeted therapy, immunotherapy, extended-field radiotherapy, or investigational agents within 5 half-lives or 28 days (whichever is shorter) prior to administration of the first dose of study drug on Week 1 Day 1.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

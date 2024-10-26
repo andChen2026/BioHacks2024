@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05693766",
+    "briefTitle": "Gene Signatures to Guide HR+MBC Therapy in a Diverse Cohort",
+    "officialTitle": "Integrating Gene Signatures to Guide HR+MBC Therapy in a Diverse Cohort (INSIGHT)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Invasive Mammary Carcinoma, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 64,
+    "primaryOutcomeMeasure": "Progression free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed and dated written informed consent.\n* Subjects \u2265 18 years of age.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1.\n* Clinical stage IV invasive mammary carcinoma or unresectable locoregional recurrence of invasive mammary carcinoma that is:\n\n  * ER (\\>/=1%) and/or PR (\\>/= 1%) by IHC and HER2 negative (by IHC or FISH)\n* Previously exposed to an aromatase inhibitor (AI) or a selective estrogenreceptor modulator/ downregulator (SERM; SERD) + a CDK4/6 inhibitor.\n* Prior radiation permitted (if completed at least 2 weeks prior to study entry. Patients who have received prior radiotherapy must have recovered from toxicity (\u2264 grade 1) induced by this treatment (except for alopecia)\n* Patients with brain metastasis secondary to breast cancer and clinically stable for more than 4 weeks from completion of radiation treatment and off steroids\n* Evaluable disease (measurable or non-measurable)\n\n  * Measurable disease, ie, at least 1 measurable lesion as per RECIST 1.1 (a lesion at a previously irradiated site may only be counted as a target lesion if there is clear sign of progression since the irradiation)\n  * Patients with bone only disease allowed if possible to evaluate on radiological exams (eg.bone scan, PET/CT, CT, MRI) even if lesions are non-measurable according to RECIST1.1.\n* Adequate organ function including:\n\n  * Absolute neutrophil count (ANC) \u2265 1.5 \u00d7 10\\^9/L\n  * Platelets \u2265 100 \u00d7 10\\^9/L\n  * Hemoglobin \u2265 8/g/dL (may have been transfused)\n  * Total serum bilirubin \u2264 1.5 times upper limit of normal (ULN)\n  * Aspartate aminotransferase (AST/SGOT) and alanine aminotransferase (ALT/SGPT) \u2264 2.5 \u00d7 ULN (or \u2264 5 \u00d7 ULN if liver metastases are present)\n  * Serum creatinine \u2264 1.5 x ULN or estimated creatinine clearance \u2265 50mL/min as calculated using the Cockcroft-Gault (CG) equation\n* For randomized patients only: tumors must be diagnosed as non-Luminal A using the Blueprint\u00ae and Mammaprint\u00ae tests\n\nExclusion Criteria:\n\n* Prior chemotherapy in the metastatic setting\n* Previous malignant disease other than breast cancer within the last 2 years with associated competing risk, with the exception of basal or squamous cell carcinoma of the skin, cervical carcinoma in situ, or low-risk cancers considered curatively treated (i.e. complete remission achieved at least 2 years prior to first dose of study drugs AND additional therapy not required while receiving study treatment).\n* Persisting symptoms related to prior therapy that has not reduced to Grade 1 \\[National Cancer Institute Common Toxicity Criteria for Adverse Events (NCI CTCAE) version 5.0\\]; however, menopausal symptoms, alopecia, and sensory neuropathy Grade \u2264 2 is acceptable\n* Pregnant or breastfeeding females.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02225015",
+    "briefTitle": "Cancer Prevention in Women With a BRCA Mutation",
+    "officialTitle": "Cancer Prevention in Women With a BRCA Mutation: A Follow-up Genetic Counselling Intervention",
+    "overallStatus": "UNKNOWN",
+    "conditions": "BRCA1 Gene Mutation, BRCA2 Gene Mutation, Breast Cancer, Ovarian Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Efficacy of FTGC session",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed BRCA mutation\n* Age 35 to 70 years\n* No previous bilateral salpingo-oophorectomy\n* No previous or current ovarian cancer\n* At least 12 months since genetic testing or most recent contact by Narod follow-up study\n* Can speak and understand English\n\nExclusion Criteria:\n\n* Currently receiving treatment for another cancer diagnosis\n* Pregnant\n* Given birth in the last 6 months\n* Booked surgical date for BSO",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

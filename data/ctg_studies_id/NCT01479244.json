@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01479244",
+    "briefTitle": "Efficacy and Safety Study of NeuVax\u2122 (Nelipepimut-S or E75) Vaccine to Prevent Breast Cancer Recurrence",
+    "officialTitle": "PRESENT: Prevention of Recurrence in Early-Stage, Node-Positive Breast Cancer With Low to Intermediate HER2 Expressions With NeuVax\u2122Treatment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer With Low to Intermediate HER2 Expression",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 758,
+    "primaryOutcomeMeasure": "Comparison of DFS in vaccine treated patients and control patients",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Pathological diagnosis of invasive adenocarcinoma of the breast\n* Breast cancer completely excised, or patient receiving neoadjuvant therapy prior to surgery\n* One of these 2 surgical treatments and axillary staging with sentinel lymph node dissection or axillary dissection level I/II:\n\n  1. Total mastectomy-patients with a positive sentinel lymph node must have undergone a completion axillary dissection level I/II\n  2. BCS (lumpectomy)-patients with a positive sentinel lymph node must have undergone a completion axillary dissection level I/II unless they had clinically node negative T1-T2 tumors and fewer than 3 involved lymph nodes\n* Node-positive disease\n* Primary tumor stage T1-3 at initial diagnosis\n* HER2 negative (HER2 1+ by IHC or HER2 2+ by IHC/FISH)\n* HLA-A2 or HLA-A3 haplotype\n* Completed NCCN approved neo-adjuvant/adjuvant chemotherapy or both\n* Completed radiation therapy\n* No evidence of disease\n* Able and willing (or have legal representative) to understand the study and provide consent\n\nKey Exclusion Criteria:\n\n* Bilateral breast malignancy or suspicious mass in opposite breast\n* Inflammatory breast malignancy\n* History of prior breast cancer, ductal carcinoma in situ\n* Prior trastuzumab therapy\n* New York Heart Association Stage 3 or 4 cardiac disease\n* Sensory/motor neuropathy \u2265 Grade 2\n* Autoimmune diseases or immune deficiency disease\n* Subjects on chronic steroid therapy, other immunosuppressive therapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

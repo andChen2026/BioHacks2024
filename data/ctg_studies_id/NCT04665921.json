@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04665921",
+    "briefTitle": "A Study of SGN-STNV in Advanced Solid Tumors",
+    "officialTitle": "A Phase 1 Study of SGN-STNV in Advanced Solid Tumors",
+    "overallStatus": "TERMINATED",
+    "conditions": "Carcinoma, Non-Small Cell Lung, HER2 Negative Breast Neoplasms, Ovarian Neoplasms, Uterine Cervical Neoplasms, Endometrial Neoplasms, Esophageal Neoplasms, Gastroesophageal Junction Carcinoma, Stomach Neoplasms, Colorectal Neoplasms, Exocrine Pancreatic Adenocarcinoma, Appendiceal Adenocarcinoma, Pseudomyxoma Peritonei",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 111,
+    "primaryOutcomeMeasure": "Incidence of adverse events (AEs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Disease indication\n\n  * Must have disease that is relapsed or refractory or be intolerant to standard-of-care therapies and should have no appropriate standard-of-care therapeutic option.\n\n    * Non-small cell lung cancer (NSCLC)\n    * HER2 negative breast cancer\n    * Ovarian cancer\n    * Cervical cancer\n    * Endometrial cancer\n    * Esophageal cancer\n    * Gastric cancer and GEJ carcinoma\n    * Colorectal cancer\n    * Exocrine pancreatic adenocarcinoma\n    * Appendiceal adenocarcinoma and pseudomyxoma peritonei of unknown origin\n* Participants enrolled in the following study parts should have an appropriate tumor site that satisfies the following criteria:\n\n  * Site has tumor that is not a target lesion and has not been previously irradiated (unless progression has occurred since end of radiotherapy)\n  * Site has tumor that is accessible for a minimally invasive biopsy that does not present a significant risk, AND\n  * Participant must agree to a biopsy as follows\n\n    * Disease-specific expansion cohorts: pre-treatment biopsy, unless medically infeasible following consultation with the medical monitor\n    * Biology expansion cohort: pretreatment biopsy (required) and additional on-treatment biopsy during Cycle 1 (unless medically infeasible following consultation with the medical monitor)\n* Measurable disease per the Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v1.1) at baseline\n* An Eastern Cooperative Oncology Group (ECOG) performance status score of 0 or 1\n* Adequate renal, hepatic, and hematologic function\n\nExclusion Criteria\n\n* History of another malignancy within 3 years before the first dose of study drug, or any evidence of residual disease from a previously diagnosed malignancy.\n* Known active central nervous system metastases\n* Carcinomatous meningitis\n* Previous receipt of monomethylauristatin E (MMAE)-containing drugs\n* Pre-existing neuropathy \u2265 Grade 2 per the National Cancer Institute's Common Terminology Criteria for Adverse Events (NCI CTCAE) v5.0\n* Any uncontrolled \u2265 Grade 3 (per the NCI CTCAE, Version 5.0) viral, bacterial, or fungal infection within 2 weeks prior to the first dose of SGN-STNV\n\nThere are additional inclusion and exclusion criteria. The study center will determine if criteria for participation are met.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

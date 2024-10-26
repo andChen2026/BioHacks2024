@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00879086",
+    "briefTitle": "A Study Comparing Eribulin Mesylate and Ixabepilone in Causing or Exacerbating Neuropathy in Participants With Advanced Breast Cancer",
+    "officialTitle": "A Phase II, Multicenter, Randomized, Open-Label Study Comparing Eribulin Mesylate and Ixabepilone in Causing or Exacerbating Neuropathy in Patients With Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 104,
+    "primaryOutcomeMeasure": "Percentage of Participants With Treatment-Emergent Neuropathy Adverse Events (AEs)",
+    "eligibilityCriteria": "Inclusion criteria:\n\n1. Female subjects with confirmed locally recurrent or metastatic carcinoma of the breast who have received prior taxane therapy and at least one prior cytotoxic chemotherapy regimen for advanced disease.\n\nExclusion criteria:\n\n1. Subjects who have received prior ixabepilone therapy.\n2. Subjects with prior participation in an eribulin clinical study, even if not assigned to eribulin treatment.\n3. Subjects with pre-existing neuropathy Grade greater than or equal to 2.\n4. Subjects with a history of diabetes mellitus Type 1 or 2.\n5. Subjects with bilateral mastectomy which included bilateral axillary lymph node dissection.\n6. Subjects with missing digits required for vibration assessment.\n7. Subjects with any other concurrent diseases or conditions that would be expected to interfere with neuropathy assessments, which may include vitamin deficiency, sequelae of cerebrovascular disease, thyroid insufficiency, lumbar or cervical radiculopathy, or alcoholic or inflammatory neuropathy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00793546",
+    "briefTitle": "Study Evaluating Bosutinib-Exemestane Combination Vs Exemestane Alone in Post Menopausal Women With Breast Cancer",
+    "officialTitle": "A Phase 2, Randomized, Open-Label Study Of Bosutinib Administered In Combination With Exemestane Versus Exemestane Alone As Second Line Therapy In Postmenopausal Women With Locally Advanced Or Metastatic ER+/PgR+/ErbB2- Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 42,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS) Based on Independent Radiologist",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Woman aged 18 years or older.\n* Confirmed pathologic diagnosis of breast cancer.\n* Locally advanced, metastatic, or locoregional recurrent breast cancer not amenable to curative treatment with surgery or radiotherapy.\n* Surgically sterile or postmenopausal woman.\n* Documented ER+ and/or PgR+ and erbB2- tumor.\n* Progression of locally advanced or metastatic disease during treatment with a nonsteroidal AI or tamoxifen, or progression during treatment with (or within 6 months of discontinuation of) an adjuvant nonsteroidal AI.\n\nExclusion Criteria:\n\n* Prior exemestane, prior bosutinib, or any other prior anti-Src therapy.\n* More than 1 prior endocrine treatment for locally advanced or MBC.\n* More than 1 prior cytotoxic chemotherapy regimen in metastatic setting.\n* Bone or skin as the only site of disease.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

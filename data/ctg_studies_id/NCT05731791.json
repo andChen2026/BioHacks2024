@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05731791",
+    "briefTitle": "Trial to Compare MRI-guided Precision Prone Irradiation (PPI) Versus CT-guided Breast Irradiation",
+    "officialTitle": "A Prospective Randomized Trial to Compare MRI-guided Precision Prone Irradiation (PPI) Versus CT-guided Breast Irradiation",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 380,
+    "primaryOutcomeMeasure": "Comparing local recurrence rates between patients receiving Standard CT radiation therapy (ARM1) and MRI-based radiation therapy (ARM 2)",
+    "eligibilityCriteria": "Patients \u2265 50 yrs with histologically confirmed unilateral DCIS or Stage I invasive breast cancer; received breast conserving surgery (pN0 or pNx) with tumor pathology \u2264 2 cm and excision margin \u2265 1 mm\n\nInclusion Criteria:\n\n* Women status post segmental mastectomy\n* If unilateral, pT1 breast cancer excised with negative margins AND/OR pTis excised with negative margins.\n* If bilateral, pT1 breast cancer excised with negative margins AND/OR pTis excised with negative margins.\n* Clinically N0 or pN0 or sentinel node negative\n* Ductal carcinoma in situ DCIS with negative margins (no DCIS on inked margins).\n\nExclusion Criteria:\n\n* Previous radiation therapy to the ipsilateral breast.\n* \\> 90 days from last surgery, unless s/p adjuvant chemotherapy\n* \\> 60 days from last chemotherapy\n* Patients unable to tolerate MRI or are otherwise unsuitable for MRI-based RT treatment\n* Metastatic disease",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

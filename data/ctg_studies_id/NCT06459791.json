@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06459791",
+    "briefTitle": "Efficacy of Personalized Tumorogram-based Therapy in Cancer Established From Patient-derived Organoid",
+    "officialTitle": "Efficacy of Personalized Tumorogram-based Therapy in Cancer Established From Patient-derived Biological Avatar: Proof-of-concept Study",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 110,
+    "primaryOutcomeMeasure": "Tumor response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patient over 18 years of age\n2. Advanced breast cancer\n3. Triple-negative phenotype (HR-/HER2-) or HR+/HER2- after hormone resistance (progression after treatment with hormone therapy + CDK4/6 inhibitor)\n4. Tumor measurable according to RECISTv1.1 criteria, accessible to biopsy\n5. Performans Status 0-1\n\nExclusion Criteria:\n\n1. More than 3 lines of chemotherapy in the advanced setting (excluding hormone therapy/CDK4/6 inhibitor)\n2. Progressive brain metastases\n3. Leptomeningeal metastasis",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

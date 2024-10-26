@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01003158",
+    "briefTitle": "Study Assessing Safety and Tolerability of AZD8931 Alone or in Combination With Paclitaxel in Japanese Patients.",
+    "officialTitle": "A Phase I, Open-label, Multiple-dose, Dose-escalation Study To Assess the Safety and Tolerability of AZD8931 Monotherapy in Japanese Patients With Advanced Solid Malignancies and in Combination With Paclitaxel in Japanese Female Patients With Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neoplasms, Metastatic Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 17,
+    "primaryOutcomeMeasure": "Monotherapy part: Assessment of adverse events, laboratory findings, physical examination, vital signs, ECG/UCG, chest X-ray, HRCT, SpO2 and ophthalmological examinations.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Cancer that is refractory to standard therapies, or for which no standard therapies exist (monotherapy part)\n* Patients suitable for Paclitaxel chemotherapy, who are not candidates for hormonal and anthracycline therapy (combination part)\n* Life expectancy more than 12 weeks\n\nExclusion Criteria:\n\n* Inadequate kidney, liver, heart, gastric, lung or eye function\n* Brain metastases\n* Hypersensitive to paclitaxel (combination part)",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

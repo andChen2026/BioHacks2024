@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01934114",
+    "briefTitle": "NIR Hypoxia Imaging of Breast Tumor Response to Neoadjuvant Chemotherapy in Vivo",
+    "officialTitle": "NIR (Near Infrared Spectral Tomography)Hypoxia Imaging of Breast Tumor Response to Neoadjuvant Chemotherapy in Vivo.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 8,
+    "primaryOutcomeMeasure": "Quantify tumor oxygenation response in patients imaged.Determine capability of imaging dynamic to capture oxygenation changes within the tumor.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* NORMAL cohort\n\n  1. Breast size and epithelial integrity adequate to allow NIR imaging exams\n  2. No serious associated psychiatric illnesses\n  3. Female, \u226525 and \\<76 years old\n  4. Written informed consent\n* UNDER TREATMENT cohort\n\n  1. Locally advanced breast cancer, with or without metastatic disease, defined as being clinically appropriate for neoadjuvant therapy\n  2. Breast size and epithelial integrity adequate to allow NIR imaging exams\n  3. No serious associated psychiatric illnesses\n  4. Female, \u226525 and \\<76 years old\n  5. Written informed consent\n\nExclusion Criteria:\n\n* both cohorts\n\n  1. Pre-existing respiratory conditions:\n\n     1. severe chronic obstructive pulmonary disease (including chronic bronchitis and/or emphysema)\n     2. Other respiratory or lung conditions which would place the patient at risk\n     3. presence of any other significant cardiac or pulmonary symptoms, such as moderate or severe dyspnea on exertion, orthopnea, or paroxysmal nocturnal dyspnea\n  2. Congestive heart failure\n  3. Intolerance of hyperoxia or hypercarbia as delivered by the RespirAct breathing circuit\n  4. Pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

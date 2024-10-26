@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00633750",
+    "briefTitle": "Erlotinib in Treating Patients With Breast Cancer That Can Be Removed by Surgery",
+    "officialTitle": "Phase II Trial of OSI-774 (Tarceva), a Human Epidermal Growth Factor (HER) (erbB, Also Known as Epidermal Growth Factor Receptor, EGFR) Tyrosine Kinase Inhibitor, in Treatment-Na\u00efve Operable Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Number of Participants Experiencing in Situ Anti-tumor Effect of Tarceva",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinical stage I or II (T1 or T2, N0 or N1) invasive mammary carcinoma\n\n  * Diagnosis may be made by fine needle aspiration cytology or core biopsy\n\n    * A repeat core biopsy is not required for patients who have a paraffin embedded diagnostic core biopsy specimen available for immunohistochemical staining\n\nExclusion Criteria:\n\n* Patients with locally advanced disease who are planning to undergo preoperative neoadjuvant therapy are not eligible\\*\n\n  * Locally advanced disease includes any of the following:\n\n    * Primary tumor \u2265 5 cm (T3)\n    * Tumor of any size with direct extension to the chest wall or skin (T4a-c)\n    * Inflammatory breast cancer (T4d)\n    * Fixed axillary lymph node metastases (N2)\n    * Metastasis to ipsilateral internal mammary node (N3) NOTE: \\*Patients with primary tumors \u2265 5 cm (T3) or tumors involving the chest wall or skin who are not candidates for preoperative chemotherapy or who decline preoperative chemotherapy are eligible\n* Measurable residual tumor at the primary site\n\n  * Measurable disease is defined as any mass that can be reproducibly measured by physical examination\n* Planning to undergo surgical treatment with either segmental resection or total mastectomy\n* Patients with a prior history of contralateral breast cancer are eligible if they have no evidence of recurrence of their initial primary breast cancer\n* No locally recurrent breast cancer\n* No evidence of distant metastatic disease (i.e., lung, liver, bone, or brain metastases)\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n* ANC \u2265 1,000/mm\\^3\n* Creatinine \u2264 1.5 times upper limit of normal (ULN)\n* Total bilirubin \u2264 1.5 times ULN\n* Serum glutamic oxaloacetic transminase (SGOT) and serum glutamic pyruvic transminase (SGPT) \u2264 1.5 times ULN\n* Must be at least 18 years old\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No serious medical illness that, in the judgement of the treating physician, places the patient at high risk of operative mortality\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior chemotherapy for this primary breast cancer\n* At least 7 days since prior tamoxifen or raloxifene as a preventive agent",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

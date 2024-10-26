@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05130840",
+    "briefTitle": "Monitoring for Cancer Spread to the Central Nervous System (CNS) in People With Breast Cancer",
+    "officialTitle": "Feasibility of Multi-modality Central Nervous System Evaluation in HER2+ Breast Cancer Patients",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Number of eligible patients completing initial MRI",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with Stage IV metastatic HER2+ breast cancer without CNS disease s/p 1 or more lines of HER2 directed therapy\n* Patients with Stage II-III HER2+ breast cancer without CNS disease\n* Male and Female participants Age \u226518 years\n* HER2+ as defined by ASCO/CAP guidelines\\*\n* Ability to undergo bedside Lumbar puncture to obtain cerebrospinal fluid; if beside LP is not successful due to patient discomfort or inability to obtain spinal fluid then patients will be offered LP through interventional radiology and patients will continue to be monitored on study\n* Patients with breast implants and/or tissue expanders are eligible if they are able to safely undergo an MRI\n* Able to provide written informed consent \\*ASCO/CAP guidelines: HER2+ defined as IHC 3+ positive and/or by ISH average copy number \u2265 6 signals/cell\n\nExclusion Criteria:\n\n* Patients who are unable to undergo MRI with gadolinium\n* Patients with CNS Metastases on Screening MRI\n* Patients with Positive Cytology on Screening Bedside lumbar puncture",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

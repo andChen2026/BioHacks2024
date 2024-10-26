@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01290718",
+    "briefTitle": "A Study of Herceptin (Trastuzumab) in Combination With Xeloda (Capecitabine) in Patients With Metastatic or Recurrent HER2-positive Breast Cancer After First-Line or (Neo)Adjuvant Therapy.",
+    "officialTitle": "Study of Trastuzumab Combined With Capecitabine on HER2-positive Metastatic Breast Cancer Patients Pretreated With Trastuzumab and Taxanes or HER2- Positive Breast Cancer Patients Relapsed From (Neo)Adjuvant Therapy of Trastuzumab and Taxanes",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "Percentage of Participants With Overall Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients, 18-65 years of age\n* Histologically confirmed HER2-positive breast cancer with measurable lesions (according to RECIST criteria)\n* Metastatic disease after first-line therapy or recurrent disease after (neo)adjuvant therapy with Herceptin and taxanes\n* ECOG performance status 0-2\n\nExclusion Criteria:\n\n* CNS metastases which are not well controlled\n* Simultaneous treatment with sorivudine\n* History of another malignancy within the last 5 years except for cured basal cell carcinoma of the skin and cured carcinoma in-situ of the uterine cervix\n* Pregnant or lactating women",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

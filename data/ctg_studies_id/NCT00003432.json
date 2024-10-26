@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00003432",
+    "briefTitle": "Immunotherapy in Treating Patients With Metastatic Breast Cancer",
+    "officialTitle": "A Phase I/II Study of Active Immunotherapy With Carcinoembryonic Antigen RNA-Pulsed, Autologous Cultured Dendritic Cells for Patients With Breast Cancer Who Achieve a Complete Response After High Dose Chemotherapy and Stem Cell Support",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "Evaluate the ability of active immunotherapy with carcinoembryonic antigen (CEA) RNA pulsed dendritic cells to induce CEA specific T cells in patients with metastatic breast cancer in complete remission following peripheral blood stem cell transplant.",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed metastatic breast cancer that expresses carcinoembryonic antigen (CEA)\n\n  * At least 25% of the tumor cells must stain positive for CEA with at least moderate intensity\n* Must have achieved either partial response or complete response after high dose chemotherapy and peripheral blood stem cell transplant\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* Karnofsky 70-100%\n\nLife expectancy:\n\n* Greater than 6 months\n\nHematopoietic:\n\n* Absolute neutrophil count at least 1000/mm\\^3\n* Absolute lymphocyte count at least 1000/mm\\^3\n* Hemoglobin at least 9 mg/dL\n* Platelet count at least 100,000/mm\\^3\n\nHepatic:\n\n* Bilirubin less than 2.0 mg/dL\n* No serious ongoing chronic or acute hepatic disease\n\nRenal:\n\n* Creatinine less than 2.5 mg/dL\n\nCardiovascular:\n\n* No serious ongoing chronic or acute cardiac disease (New York Heart Association class III or IV)\n\nPulmonary:\n\n* No serious ongoing chronic or acute pulmonary illness such as asthma, chronic obstructive pulmonary disease, or radiation or drug induced pneumonitis\n\nOther:\n\n* No other prior or concurrent malignancy except nonmelanoma skin cancer or controlled superficial bladder cancer within the past 5 years\n* No history of autoimmune disease such as inflammatory bowel disease, systemic lupus erythematosus, rheumatoid arthritis, ankylosing spondylitis, scleroderma, or multiple sclerosis\n* No inflammatory bowel condition such as active infectious enteritis or eosinophilic enteritis\n* No active acute or chronic infection such as urinary tract infection, HIV, or viral hepatitis\n* Not pregnant or nursing\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* See Disease Characteristics\n* No concurrent immunotherapy\n\nChemotherapy:\n\n* See Disease Characteristics\n* No concurrent chemotherapy\n\nEndocrine therapy:\n\n* At least 4 weeks since steroids\n* No concurrent steroid therapy\n\nRadiotherapy:\n\n* No concurrent radiotherapy\n\nSurgery:\n\n* Not specified\n\nOther:\n\n* No concurrent immunosuppressive agents such as azathioprine or cyclosporine A",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

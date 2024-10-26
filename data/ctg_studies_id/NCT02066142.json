@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02066142",
+    "briefTitle": "Tomosynthesis (TS) Versus Ultrasonography (US) in Women With Dense Breast",
+    "officialTitle": "Tomosynthesis (TS) Versus Ultrasonography (US) in Screening Women With Dense Breast",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 4000,
+    "primaryOutcomeMeasure": "1) Sensitivity of TS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Asymptomatic subjects \\<50 years of age presenting for mammography, with the exception of those that, on previous mammograms are found to have breast density 1-2 according to the Breast Imaging Reporting and Data System (BIRADS D1-2). - Asymptomatic subjects \u2265 50 years of age who request mammography and have breast density BIRADS 3-4.\n* No history of breast cancer - Written informed consent\n\nExclusion Criteria:\n\n* Pregnant and breast feeding women\n* Unable to tolerate breast compression\n* Breast implants\n* Unable to understand or execute written informed consent\n* Unable or unwilling to agree to follow-up during observation period",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

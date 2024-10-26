@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03356444",
+    "briefTitle": "Docetaxel Versus Abiraterone as First-line Treatment in mCRPC Patients With Intraductal Carcinoma of the Prostate",
+    "officialTitle": "The Evaluation of First-line Treatment Efficacy of Docetaxel and Abiraterone in Metastatic Castration-resistant Prostate Cancer Patients With Intraductal Carcinoma of the Prostate and the Exploration of the Genes Related to Treatment Effect",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Prostate Cancer, Castration-resistant Prostate Cancer, Drug",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 140,
+    "primaryOutcomeMeasure": "PSA-Progression free survival (PSA-PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age: \u226540 years old\n2. Positive IDC-P status confirmed by pathological examination.\n3. Bone or visceral metastatic disease confirmed by image examination.\n4. Castration resistant confirmed according to the criteria of 2014 EAU guidelines.\n5. The ECOG score of the patient is \u22641\n6. Expected survival over 3 months\n7. Blood routine test: neutrophil \u22651.5 \u00d7 10\\^9, platelets \\>100 \u00d7 10\\^9 and hemoglobin \u226590g/L\n8. Blood biochemical indexes: bilirubin\u22641.5\u00d7Upper limit of normal; AST\u22642.5\u00d7Upper limit of normal; serum creatinine\u22641.5\u00d7Upper limit of normal; serum calcium\u226412.0mg/dL.\n9. Coagulation function: Prothrombin time \u22641.5\u00d7Upper limit of normal\n10. The following diseases were not found within 12 months: myocardial infarction, severe or unstable angina pectoris, asymptomatic heart failure, cardiovascular and cerebrovascular accident or transient ischemic attack, etc.\n11. All patients should sign informed consent.\n\nExclusion Criteria:\n\n1. Patients who had other types of cancer besides prostate cancer were excluded.\n2. Patients With non-acinar adenocarcinoma except intraductal carcinoma of the prostate, including ductal adenocarcinoma, neuroendocrine carcinoma or small cell carcinoma of the prostate.\n3. Prior chemotherapy or abiraterone for the treatment of mCRPC.\n4. Patients with renal decompensation requiring hemodialysis or peritoneal dialysis.\n5. Patients with severe active clinical infection\n6. Patients with coagulopathy or bleeding\n7. Patients who received major surgery or severe trauma within the first 4 weeks before admission.\n8. Patients with a history of allogeneic organ transplantation or bone marrow transplantation\n9. Patients with known or suspected allergy to research drugs.",
+    "sex": "MALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

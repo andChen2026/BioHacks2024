@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02812589",
+    "briefTitle": "Diffusion Tensor Breast MRI (DTI)",
+    "officialTitle": "Improving the Specificity of Breast MRI Through Diffusion Tensor Breast MRI (DTI)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 267,
+    "primaryOutcomeMeasure": "Validate DTI as a valuable adjunct to improve lesion characterization on breast MRI by using the difference in recall rates",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female of any race, ethnicity and lifetime risk.\n* Eighteen years or older.\n* Known recent diagnosis of a breast cancer and normal clinical breast exam of the contralateral side.\n* Self-detected lump suspicious for breast cancer that it has not been biopsied yet.\n\nExclusion Criteria:\n\n* Inability to understand the consent form\n* Pregnant or nursing\n* Currently taking tamoxifen, evista (raloxifene), or an aromatase inhibitor for adjuvant therapy or chemoprevention\n* Physically unable to lie down on her belly for at least 10 minutes.\n* Have had benign needle biopsy of the breast performed within 3 months, or breast surgery within 1 year prior to MRI exam.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

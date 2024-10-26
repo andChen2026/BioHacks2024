@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02543645",
+    "briefTitle": "A Study of Varlilumab and Atezolizumab in Patients With Advanced Cancer",
+    "officialTitle": "A Phase l/ll, Open Label, Dose-escalation Study of Varlilumab (CDX-1127) in Combination With Atezolizumab (MPDL3280A, Anti-PD-L1) in Patients With Advanced Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Carcinoma, Renal Cell, Kidney Diseases, Kidney Neoplasms, Urogenital Neoplasms, Urologic Diseases, Urologic Neoplasms, Neoplasms by Histologic Type, Neoplasms, Clear-cell Metastatic Renal Cell Carcinoma, Melanoma, Triple Negative Breast Cancer, Bladder Cancer, Head and Neck Cancer, Non-small Cell Lung Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 18,
+    "primaryOutcomeMeasure": "Phase l: Safety and tolerability of varlilumab in combination with atezolizumab as measured by incidence of drug related adverse events (AEs), serious drug related AEs, dose-limiting toxicities and laboratory test abnormalities.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Unresectable stage lll or IV, histologically confirmed diagnosis of one of the following solid tumors:\n\n   * Phase l: Melanoma, RCC, triple negative breast cancer, bladder cancer, head and neck cancer or non-small cell lung cancer.\n2. Documented progressive disease based on radiographic, clinical or pathologic assessment during or subsequent to last therapy.\n3. Progressed or intolerant to at least 1 approved prior anticancer regimen.\n4. Measurable (target) disease.\n5. Life expectancy \u2265 12 weeks.\n6. If of childbearing potential (male or female), agrees to practice an effective form of contraception during study treatment and for at least 90 days following last treatment dose.\n7. Must have available tumor tissue and consent to biopsy while on study.\n8. Patients with asymptomatic treated CNS metastasis may be enrolled after discussion with the Medical Monitor.\n9. ECOG of 0 or 1.\n\nExclusion Criteria:\n\n1. Prior therapy with varlilumab or with an anti-CD27 antibody.\n2. Previous treatment with anti-PD-1, anti-PD-L1 or anti-PD-L2 therapy.\n3. Use of any experimental immunotherapy.\n4. Receipt of anti-CTLA-4 targeted therapies or other checkpoint or co-stimulatory therapy within 3 months prior to start of study treatment.\n5. Chemotherapy within 21 days or at least 5 half-lives (whichever is shorter) prior to the planned state of study treatment.\n6. Systemic radiation therapy within 4 weeks, prior focal radiotherapy within 2 weeks, or radiopharmaceuticals (strontium, samarium) within 8 weeks prior to the first dose of study treatment.\n7. Use of immunosuppressive medications within 4 weeks or systemic corticosteroids within 2 weeks prior to first dose of study treatment.\n8. Other prior malignancy, except for adequately treated basal or squamous cell skin cancer or in situ cancers; or any other cancer from which the patient has been disease-free for at least 3 years.\n9. Active, untreated CNS metastases.\n10. Active autoimmune disease or a documented history of autoimmune disease.\n11. Active diverticulitis.\n12. Significant cardiovascular disease including CHF, leptomeningeal disease, poorly controlled hypertension, or an MI within 6 months prior to dosing.\n13. Known alcohol or drug abuse.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

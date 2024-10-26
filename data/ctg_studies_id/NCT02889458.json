@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02889458",
+    "briefTitle": "Hong Kong Breast Cancer Study",
+    "officialTitle": "Preventing Breast Cancer in Hong Kong Chinese Women Through Personalized Risk Stratification and Characterization: an Epidemiologic Modeling Study and the Development of a Biorepository of Cases and Controls",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Ductal Carcinoma In Situ",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 7000,
+    "primaryOutcomeMeasure": "probability of developing breast cancer",
+    "eligibilityCriteria": "Case Inclusion Criteria:\n\n* Female\n* aged 18 or above\n* Chinese\n* Usually residing in Hong Kong (Definition: Having stayed in HK for at least three months during the six months before the reference time-point)\n* Able to speak Cantonese\n* Newly diagnosed with breast cancer or DCIS in 24 weeks\n\nCase Exclusion Criteria:\n\n* Undergoing treatment for any non-breast cancer\n\nControl Inclusion Criteria\n\n* Female\n* aged 18 or above\n* Chinese\n* Usually residing in Hong Kong\n* Able to speak Cantonese\n\nControl Exclusion Criteria\n\n- History of any cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

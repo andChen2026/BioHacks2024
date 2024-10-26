@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02449993",
+    "briefTitle": "Re-Examination of Tumor Material and Re-Evaluation of Patient Data From Patients Treated With Neo-adjuvant Therapy",
+    "officialTitle": "Evaluation of the MammaTyper Kit, Ref 90020/90021 Performed on Clinical Material Obtained From Patients With Early Breast Cancer: Re-Examination of Tumor Material and Re-Evaluation of Patient Data From Patients Treated With Neo-adjuvant Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 101,
+    "primaryOutcomeMeasure": "Agreement of new subtyping assessed as rate of patients in MammaTyper-subtype groups compared to rate of patients in subtype groups according to immunohistochemical analysis according to St. Gallen Guideline 2013",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 18-70 years with histologically confirmed primary invasive breast cancer stages T2-T4/N0-N2/M0 with a tumor size of \u2265 2 cm as measured by ultrasound\n* The patient provides a written informed consent for analysis of tumor material\n\nExclusion Criteria:\n\n* Prior anticancer therapy with an anthracycline or other prior antitumor therapy for breast cancer\n* Inflammatory or exulcerating breast cancer\n* A second primary malignancy \\[except carcinoma in situ (CIS) of the cervix or adequately treated nonmelanoma skin cancer\\] unless diagnosed and treated \u2265 5 years ago with no evidence of recurrence\n* Any serious concomitant systemic disorder",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

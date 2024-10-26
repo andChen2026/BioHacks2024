@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00054418",
+    "briefTitle": "Risedronate in Preventing Bone Loss in Premenopausal Women Receiving Chemotherapy for Primary Breast Cancer",
+    "officialTitle": "A Phase III Randomized, Placebo-Controlled, Double-Blind Trial Of Risedronate (Actonel) For Prevention Of Bone Loss In Premenopausal Women Undergoing Chemotherapy For Primary Breast Carcinoma",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Osteoporosis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 216,
+    "primaryOutcomeMeasure": "Average intra-patient change in lumbar spine (L2-L4, PA) bone mineral density (BMD) from baseline to one year after study entry",
+    "eligibilityCriteria": "1. Required Characteristics\n\n   1. Premenopausal women\n\n      * \u2264 6 months since last menstrual period\n      * no prior bilateral oophorectomy\n      * not on estrogen replacement therapy\n      * if TAH is performed, with at least one intact ovary, or if \\> 3 months since last menstrual period, then patients must have premenopausal estrogen levels \u2264 1 month of study entry\n   2. Scheduled to undergo adjuvant or neoadjuvant chemotherapy for primary breast cancer (stages I-IIIB)\n   3. \u2265 18 years of age\n   4. ECOG performance status (PS) 0 or 1\n2. Contraindications\n\n   1. Hypercalcemia (calcium level \\> 1mg/dL above UNL \u2264 6 months\n   2. Hypocalcemia (calcium level \\> 0.5 mg/dL below UNL \u2264 6 months\n   3. Inability to stand or sit upright for at least 30 minutes\n   4. Known swallowing disorder\n   5. Bone mineral density T score of \u2264 - 2.0 at the hip or lumbar spine\n\n      * a patient with a T score of - 2.1 is ineligible\n      * a patient with a T score of - 1.9 is eligible\n   6. History of vertebral compression fracture\n\n      * Exception: traumatic fracture of the coccyx would not exclude a patient from participation\n   7. Corticosteroids at doses \\> 5 mg daily of prednison or equivalent for \\> 2 weeks in the past 6 months\n   8. Previous treatment with bisphosphonates\n   9. Diseases affecting bone metabolism (hyperthyroidism, hyperparathyroidism, and hypercortisolism)\n   10. History of severe renal impairment or creatinine \\> 2.0 mg/dL\n   11. Malabsorption syndrome\n   12. Estrogen replacement therapy\n   13. Oral contraceptive use\n   14. Prior bilateral oophorectomy\n   15. Pregnant women\n\n       * Nursing women\n       * Women of childbearing potential who are unwilling to employ adequate contraception (condoms, diaphragm, injections, intrauterine device \\[IUD\\], surgical sterilization, abstinence, etc.)\n       * This study involves an investigational agent whose genotoxic, mutagenic and teratogenic effects on the developing fetus and newborn are unknown\n   16. Dental extraction, root canal, or implants \u2264 3 months prior to registration or planned during study treatment",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

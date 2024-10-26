@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03238703",
+    "briefTitle": "Endocrine Therapy in Treating Patients With HER2 Negative, Low Risk Breast Cancer",
+    "officialTitle": "An Investigator Initiated Registry of Simple Oral Therapy for Low Risk Breast Cancer (SOLR)",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "HER2/Neu Negative, Invasive Breast Carcinoma, Postmenopausal, Stage 0 Breast Cancer, Stage IA Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Conversion from oral endocrine therapy for any reason to guideline-directed therapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Able to provide written informed consent\n* A diagnosis of invasive breast cancer, with or without an in situ component, that is:\n\n  * Originally identified by screening mammography\n  * Characterized by standard diagnostic mammography +/- breast ultrasound\n  * Clinically node negative\n  * Confirmed by breast magnetic resonance imaging (MRI) in a facility that maintains active American College of Radiology (ACR) accreditation to be of low clinical stage (=\\< 2 cm, node negative, unifocal invasive)\n  * Estrogen receptor (ER) and progesterone receptor (PR) Allred scored, each \\> 5/8\n  * Her2 negative using American Society of Clinical Oncology (ASCO)-College of American Pathologists (CAP) guidelines\n  * ki-67 proliferation scored, \\< 20%\n  * Clinical Nottingham grade 1 or 2\n  * Scored on the MammaPrint 70-gene breast cancer recurrence assay as low risk\n* Prior to the discovery of the breast cancer, clinically post-menopausal as defined as: i) one or more years from last menses; or ii) history of oophorectomy; or iii) follicle stimulating hormone (FSH) test result in the post-menopause reference range\n* Willing to accept oral endocrine therapy with a third generation aromatase inhibitor (AI) or selective estrogen receptor modifier (SERM)\n* Willing to undergo routine surveillance with breast ultrasound and/or mammography\n\nExclusion Criteria:\n\n* Known contraindication to aromatase inhibitor or SERM therapy\n* Pregnant at time of or within prior year of diagnosis\n* Clinically detected or palpable disease prior to biopsy in either breast or ipsilateral axilla\n* Prior history of invasive breast cancer or ductal breast carcinoma in situ (DCIS)\n* Prior use of aromatase inhibitor therapy apart from assisted reproduction\n* Prior use of SERM\n* Unmanaged/uncontrolled mental health disorder\n* Life expectancy \\< 6 months (m) for any cause\n* Biopsy confirmed multifocal, multicentric, or contralateral disease that is invasive or non-invasive\n* DCIS with focal invasion",
+    "sex": "FEMALE",
+    "minimumAge": "60 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

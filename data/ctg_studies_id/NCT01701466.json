@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01701466",
+    "briefTitle": "Neoviderm Skin Emulsion in the Prevention of Radiation Dermatitis",
+    "officialTitle": "A Phase II Study Designed to Evaluate the Value of Neoviderm Skin Emulsion in the Prevention of Radiation Dermatitis for Patients Undergoing External Radiation Therapy",
+    "overallStatus": "TERMINATED",
+    "conditions": "Head and Neck Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 14,
+    "primaryOutcomeMeasure": "Maximum skin toxicity",
+    "eligibilityCriteria": "Inclusion criteria: For patients receiving radiation to the breast\n\n1. Patients receiving a dose of at least 50 Gy in 25 fractions with concomitant chemotherapy or treated with the McGill technique.\n2. Patients able to understand and sign an informed consent form.\n3. Patients that do not have active connective tissue disorders.\n4. Patients 18 years or older.\n5. Patients that did not receive any previous radiation.\n6. Patients that do not have any known allergy to any ingredients of the NeoVIDERM cream\n7. Patients need to be able to apply the creams themselves or have help with applying the creams.\n\nInclusion criteria: For patients receiving radiation to the head and neck\n\n1. Patients receiving radiotherapy on fields that include both sides of the neck\n2. Patients able to understand and sign an informed consent form.\n3. Patients that do not have active connective tissue disorders.\n4. Patients 18 years or older.\n5. Patients that did not receive any previous radiation.\n6. Patients that do not have any known allergy to any ingredients of the NeoVIDERM cream\n7. Patients need to be able to apply the creams themselves or have help with applying the creams.\n\nExclusion criteria: For patients receiving radiation to the breast or the head and neck\n\n1. Patients that have a type V or type VI skin type according to the Fitzpatrick scale (because these patients will likely have less radiodermatitis and if they do, it will be harder to evaluate it).\n\n   The Fitzpatrick Scale:\n   * Type I (scores 0-7) White; very fair; freckles. Always burns, never tans\n   * Type II (scores 8-16) White; fair. Usually burns, tans with difficulty\n   * Type III (scores 17-25) Beige; very common. Sometimes mild burn, gradually tans\n   * Type IV (scores 25-30) Beige with a brown tint; typical Mediterranean Caucasian skin.\n\n   Rarely burns, tans with ease\n   * Type V (scores over 30) Dark brown. Very rarely burns, tans very easily\n   * Type VI Black. Never burns, tans very easily\n2. Allergic to any ingredient in Neoviderm cream",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

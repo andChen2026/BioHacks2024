@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00634088",
+    "briefTitle": "Phase I Study of Ixabepilone Plus Lapatinib With or Without Capecitabine in the Treatment of Human Epidermal Growth Factor Receptor 2 (HER2)-Positive Breast Cancer",
+    "officialTitle": "Parallel Phase I Study of Ixabepilone Plus Lapatinib and Ixabepilone Plus Lapatinib Plus Capecitabine in Subjects With HER2 Positive Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Locally Advanced or Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 13,
+    "primaryOutcomeMeasure": "Maximum Tolerated Dose (MTD) and Recommended Phase II Dose (RP2D) of Ixabepilone When Administered With Lapatinib",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females aged 18 years or older with histologic or cytologic diagnosis of adenocarcinoma originating in the breast\n* Radiologic or pathologic evidence that the cancer is metastatic or locally advanced (a T4 tumor and stage IIIB/IIIC disease) and not curable by local measures, such as radiation or surgery\n* Positive status for human epidermal growth factor receptor 2\n* Measurable disease as per Response Evaluation Criteria In Solid Tumors guidelines\n* Karnofsky performance status of 70 to 100\n* Life expectancy of at least 3 months\n\nExclusion Criteria:\n\n* Prior radiation must not have included 30% or more of major bone-marrow containing areas, such as the pelvis and lumbar spine\n* Common Terminology Criteria Grade 2 or greater neuropathy\n* Inadequate hematologic, hepatic, or renal function\n* Known prior severe hypersensitivity reactions to agents containing Cremophor\u00ae EL or known hypersensitivity or prior intolerance to fluoropyrimidine\n* Known or suspected dihydropyrimidine dehydrogenase deficiency\n* More than 3 prior chemotherapy regimens in the metastatic setting\n* Prior treatment with an epothilone or lapatinib; prior treatment with capecitabine within the past 6 months",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

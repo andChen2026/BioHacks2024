@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02883361",
+    "briefTitle": "Motivational Enhancement Therapy to Improve Adherence to Aromatase Inhibitors",
+    "officialTitle": "Motivational Enhancement Therapy to Improve Adherence to Aromatase Inhibitors",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Medication Adherence",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 128,
+    "primaryOutcomeMeasure": "Medication adherence measured using medication possession ratio (MPR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* English-speaking women, prescribed their first aromatase inhibitor medication. Been identified as non-adherent following a 6-month observation run-in period (Phase 1).\n\nExclusion Criteria:\n\n* Unable to comply with protocols; diagnosis of cognitive impairment; severe psychopathology (e.g., schizophrenia); history of drug abuse; terminal condition with low likelihood of survival; living in a long-term care facility.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02115204",
+    "briefTitle": "4 x Epirubicin, Cyclophosphamide, Followed by 4 x Docetaxel Versus 6 x CMF / 6 x CEF",
+    "officialTitle": "Adjuvant Chemotherapy of Breast Cancer: Sequential Chemotherapy vs. Standard Therapy. Prospective Randomised Comparison of 4 x Epirubicin and Cyclophosphamide (EC) --> 4 x Docetaxel (Doc) vs. 6 x CMF / CEF in Patients With 1 to 3 Positive Lymph Nodes",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2011,
+    "primaryOutcomeMeasure": "Comparison of event-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients\n* Age 18-65 years\n* Eastern Cooperative Oncology Group (ECOG) status \\< 2\n* Surgery: R0-resection and \\>= 10 removed axillary lymph nodes\n* M0 by chest x-ray, bone scintigraphy and liver sonography\n\nExclusion Criteria:\n\n* Polyneuropathy\n* Creatinin (serum) \\> 1,4 mg/dl; Bilirubin (serum) \\> 2,0 mg/dl\n* Cardia dysfunction, ejection fraction \\< lower normal value of each institution\n* Hematopoeitic insufficiency: leucocytes \\< 3,5 G/l, thrombocytes \\< 100 G/l\n* second malignant neoplasia, except curatively treated basalioma of the skin\n* Surgery before more the six weeks (42 days)\n* Concurrent pregnancy; patients of childbearing potential must implement a highly effective (less than 1% failure rate) non-hormonal contraceptive measures during the study treatment\n* Breast feeding woman\n* Sequential breast cancer\n* Reasons indicating risk of poor compliance\n* Patients not able to consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

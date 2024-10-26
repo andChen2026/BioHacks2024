@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03444025",
+    "briefTitle": "Neoadjuvant Goserelin for Triple Negative Breast Cancer",
+    "officialTitle": "Prospective Phase II Randomized Trial of Evaluating the Effect of Adding LHRH Analogue to the Neoadjuvant Chemotherapy Treatment of Triple Negative Breast Cancer on Pathologic Complete Response (pCR) Rates",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer Triple Negative",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 180,
+    "primaryOutcomeMeasure": "pathologic complete response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Premenopausal women between 18 and 60 years.\n2. Histologically proven, newly diagnosed invasive carcinoma of breast.\n3. Tumors must be ER, PgR negative and HER2-neu negative.\n4. Stage II or III breast cancer that is indicated for neoadjuvant systemic chemotherapy.\n\nExclusion Criteria:\n\n1. pregnant females at time of diagnosis of breast cancer.\n2. bilateral breast cancer.\n3. already received treatment for breast cancer including surgery, radiation, cytotoxic, or endocrine therapy\n4. history or concomitant diagnosis of another primary malignancy.\n5. concurrent treatment with oral contraceptives or hormone replacement therapy (OCPs or HRT must be stopped at least 4 weeks prior to randomization).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

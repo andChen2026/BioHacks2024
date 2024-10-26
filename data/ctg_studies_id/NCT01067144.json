@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01067144",
+    "briefTitle": "Stanford Accelerated Recovery Trial (START)",
+    "officialTitle": "Stanford Accelerated Recovery Trial (START)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Pain, Breast Cancer, Lung Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 422,
+    "primaryOutcomeMeasure": "Time to Pain Resolution",
+    "eligibilityCriteria": "INCLUSION CRITERIA\n\n* Age 18 to 75\n* Undergoing a scheduled surgery\n* English speaking\n* Ability and willingness to complete questionnaires or use Palm Pilot\n\nEXCLUSION CRITERIA\n\n* Known kidney disease\n* Currently receiving gabapentin or (pregabalin) lyrica already\n* Cognitive impairment\n* Previous history of excessive sedation or adverse reaction to gabapentin (not it was tried but ineffective for nerve pain)\n* Coexisting chronic pain \\> 4/10 disorder in area other than surgical target\n* Plan to move out of state\n* Condition that would in judgment of team member make patient likely to be lost to follow-up\n* Elevated suicidality\n* Known pregnancy\n* Current symptoms of ataxia, dizziness, or sedation\n* Narrow angle glaucoma\n* Severe respiratory insufficiency (ie, severe emphysema or chronic obstructive pulmonary disease)\n* History of gastric bypass surgery and obstructive sleep apnea requiring continuous positive airway pressure (CPAP)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05086731",
+    "briefTitle": "Mobile Health to Improve Oral Chemotherapy Adherence Among Women With Breast Cancer",
+    "officialTitle": "THRIVE Smart - Leveraging Mobile Health to Improve Oral Chemotherapy Adherence Among Women With Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Anatomic Stage I Breast Cancer AJCC v8, Anatomic Stage IA Breast Cancer AJCC v8, Anatomic Stage IB Breast Cancer AJCC v8, Anatomic Stage II Breast Cancer AJCC v8, Anatomic Stage IIA Breast Cancer AJCC v8, Anatomic Stage IIB Breast Cancer AJCC v8, Anatomic Stage III Breast Cancer AJCC v8, Anatomic Stage IIIA Breast Cancer AJCC v8, Anatomic Stage IIIB Breast Cancer AJCC v8, Anatomic Stage IIIC Breast Cancer AJCC v8, Localized Breast Carcinoma, Prognostic Stage I Breast Cancer AJCC v8, Prognostic Stage IA Breast Cancer AJCC v8, Prognostic Stage IB Breast Cancer AJCC v8, Prognostic Stage II Breast Cancer AJCC v8, Prognostic Stage IIA Breast Cancer AJCC v8, Prognostic Stage IIB Breast Cancer AJCC v8, Prognostic Stage III Breast Cancer AJCC v8, Prognostic Stage IIIA Breast Cancer AJCC v8, Prognostic Stage IIIB Breast Cancer AJCC v8, Prognostic Stage IIIC Breast Cancer AJCC v8, Triple-Negative Breast Carcinoma, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 33,
+    "primaryOutcomeMeasure": "Medication adherence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\>= 18 years\n* Breast cancer\n* English speaking\n* New or existing prescription for capecitabine/Xeloda\n* Willingness and ability of the subject to comply with study procedures\n* Have a mobile phone with text message\n* Evidence of an online informed consent indicating that the subject is aware of the risk and benefits of study participation\n\nExclusion Criteria:\n\n* Those who do not receive their capecitabine/Xeloda prescription until a month after enrollment\n* Eastern Cooperative Oncology Group (ECOG) performance status \\> 2",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

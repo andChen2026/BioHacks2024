@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01296893",
+    "briefTitle": "Can Exercise Improve Cancer Associated Cognitive Dysfunction?",
+    "officialTitle": "Can Exercise Improve Cancer Associated Cognitive Dysfunction?",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 31,
+    "primaryOutcomeMeasure": "Stroop Test",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women\n* Completed chemotherapy within past 2 years\n\n  * completed for at least 3 months\n* Self report cognitive dysfunction following chemotherapy\n* Stage I-IIIA breast cancer\n* Physically able to undertake moderate to vigorous physical activity program\n\nExclusion Criteria:\n\n* Self report \\> 90min/week of moderate physical activity (last 6 months)\n* Mini-mental status exam score \\< 23\n* Co-morbid conditions that may alter cognitive testing results (i.e., a clinically diagnosed major depression, anxiety disorder, or other psychiatric condition, meeting DSM IV criteria)\n* History of substance abuse\n* Other neurological disorder (i.e., head injury, epilepsy, tumour, neurodegenerative disease)\n* Ruled ineligible for MRI scanning (i.e., metal implants)",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

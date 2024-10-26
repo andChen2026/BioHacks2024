@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04060342",
+    "briefTitle": "GB1275 Monotherapy and in Combination With an Anti-PD1 Antibody in Patients With Specified Advanced Solid Tumors or in Combination With Standard of Care in Patients With Metastatic Pancreatic Adenocarcinoma",
+    "officialTitle": "A Phase 1/2, First-in-Human, Open-label, Dose Escalation Study of GB1275 Monotherapy and in Combination With an Anti-PD-1 Antibody in Patients With Specified Advanced Solid Tumors or in Combination With Standard of Care in Patients With Metastatic Pancreatic Adenocarcinoma, Followed by Basket Expansion of GB1275 With Standard of Care or in Combination With an Anti-PD-1 Antibody in Patients With Specified Metastatic Solid Tumors",
+    "overallStatus": "TERMINATED",
+    "conditions": "Pancreatic Adenocarcinoma, Esophageal Adenocarcinoma, Esophageal Squamous Cell Carcinoma, Gastric Adenocarcinoma, Gastroesophageal Junction Adenocarcinoma, Triple Negative Breast Cancer, Castration-resistant Prostate Cancer, Microsatellite Stable Colorectal Cancer, Non-small Cell Lung Cancer, Small-cell Lung Cancer, Head and Neck Squamous Cell Carcinoma, Urothelial Carcinoma, Renal Cell Carcinoma, Hepatocellular Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 61,
+    "primaryOutcomeMeasure": "Phase 1 Dose Escalation - Regimens A, B,and C: Incidence of dose limiting toxicities (DLTs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subject has a performance status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) Performance Scale.\n* Women of childbearing potential must use an acceptable method of contraception\n\nPhase 1\n\nSubjects with the the following:\n\n* Regimen A and B:\n\n  * pancreatic adenocarcinoma,\n  * esophageal adenocarcinoma, or esophageal squamous cell carcinoma, or\n  * gastric/gastroesophageal junction adenocarcinoma, or\n  * TNBC, or\n  * prostate cancer, or\n  * colorectal adenocarcinoma, or subjects with tumor types that have progressed after receiving initial treatment benefit rom the last single agent checkpoint inhibitor that is approved for the indication or in combination with standard of care therapy, for example, non-small cell lung cancer, small cell lung cancer, head and neck squamous cell carcinoma, urothelial carcinoma, renal cell carcinoma, and hepatocellular carcinoma, etc.\n* Regimen C: newly diagnosed stage IV pancreatic cancer\n\nPhase 2\n\n* Cohort 1: pancreatic cancer.\n* Cohort 2: colorectal cancer\n* Cohort 3: gastric/GEJ adenocarcinoma\n\nExclusion Criteria:\n\n* History of another malignancy within 2 years prior to first study drug(s) administration, unless the malignancy was treated with curative intent and the likelihood of relapse is \\<5% in 2 years\n* Pregnant or nursing\n* Known history of testing positive for human immunodeficiency virus (HIV)\n* Gastrointestinal (GI) tract disease causing the inability to take oral medication.\n* Positive test for Hepatitis B virus surface antigen (HBsAg) or a and/or positive Hep C antibody result with detectable hepatitis C virus (HCV) ribonucleic acid (RNA) indicating acute or chronic infection.\n\nOther protocol-defined inclusion/exclusion criteria will apply",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

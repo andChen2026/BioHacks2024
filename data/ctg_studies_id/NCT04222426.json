@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04222426",
+    "briefTitle": "89Zr-atezolizumab PET Scan and Lobular Breast Cancer",
+    "officialTitle": "Can 89Zr-atezolizumab PET Scan Identify Patients With Metastatic Invasive Lobular Breast Cancer Who Will Respond to Chemotherapy-immune Checkpoint Inhibition?",
+    "overallStatus": "TERMINATED",
+    "conditions": "Lobular Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "Change in tumor uptake between 89Zr-atezolizumab PET scan at baseline and after two carboplatin induction treatments, defined as decline or increase of standardized uptake value",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. A patient must meet the inclusion criteria of the GELATO trial\n2. Able to give written informed consent and to comply with the ImaGelato protocol\n\nExclusion Criteria:\n\n1. Contra-indication for 89Zr-atezolizumab PET scan\n2. Any approved anti-cancer therapy, including chemotherapy or hormonal therapy within \u226414 days prior to the first 89Zr-atezolizumab injection. Treatment with any other investigational agent or participation in another clinical trial with therapeutic intent within 28 days prior to the first 89Zr-atezolizumab injection.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

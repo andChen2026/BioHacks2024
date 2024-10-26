@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02234466",
+    "briefTitle": "Preoperative Oral Dexamethasone to Improve Recovery After Surgery",
+    "officialTitle": "The Use of Preoperative Oral Dexamethasone to Improve Quality of Recovery After Breast Surgery",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Change from baseline in Quality of recovery at Post operative day 1 (POD1)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults (18 to 80 years of age) undergoing general anesthesia for elective breast surgery (lumpectomy or mastectomy) and providing informed consent.\n* American Society of Anesthesia (ASA) class I, II, \\& III patients\n\nExclusion Criteria:\n\n* ASA class IV and V patients\n* Pregnancy\n* Diabetes\n* History of allergy to any study medications\n* Use of steroids or anti emetics within 1 month of surgery\n* Chronic pain requiring opioid treatment\n* History of alcohol or drug abuse (including smoking tobacco)\n* Severe renal impairment (i.e. serum creatinine more than 160 umol/L)\n* Poor English comprehension or psychiatric/central nervous system disturbance that would preclude completion of the QoR-40 questionnaire",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

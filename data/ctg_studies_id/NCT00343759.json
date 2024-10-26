@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00343759",
+    "briefTitle": "Presurgical Therapy With Lapatinib to Explore Molecular Determinants of Response to EGFR/erbB2 Targeted Therapy",
+    "officialTitle": "N/A",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Change in downstream effector levels in biologic responders to lapatinib as determined by degree of change in proliferation and apoptosis compared to biologic non-responders.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically-confirmed by either core or fine needle biopsy primary invasive carcinoma of the breast;\n* AJCC T2-T3 disease (\\>2.0 cm without chest wall or skin invasion) by at least one imaging modality (either mammogram, ultrasound, or MRI) - entry criteria is based on radiologic staging and not final pathologic staging;\n* ECOG performance status 0-1 (Karnofsky \u2265 70%\n* Any lymph node status, hormone receptor status, and level of erbB2 expression\n* No prior chemotherapy, hormonal therapy or radiation therapy to the affected breast for current or previous malignancy;\n* Cardiac ejection fraction \\>50% or within the institutional range of normal;\n* Patients must have normal organ and marrow function defined as: Leukocyte count \\>3000/uL; Absolute neutrophil count (ANC) \u2265 1,500/mm3, platelets \\> 100,000/mm3, and hemoglobin \u2265 8 gm/dl; Serum creatinine \u2264 1.5 times ULN, or 24-hour creatinine clearance \u2265 75 cc/min; Serum bilirubin \u2264 1.5 times ULN; SGOT \u2264 2.5 times ULN; alkaline phosphatase \u2264 2.5 ULN times ULN.\n* The effects of lapatinib on the developing human fetus at the recommended therapeutic dose are unknown. For this reason, women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation. Should a woman become pregnant or suspect she is pregnant while participating in this study, she must inform her treating physician immediately.\n* Ability to understand and the willingness to sign written informed consent document.\n\nExclusion Criteria:\n\n* AJCC T1, T4, or stage 4 disease;\n* Patients may not have undergone incisional or excisional biopsy of their tumor;\n* Patients may not be receiving any other investigational agents;\n* Absolute contraindication to MRI imaging (cardiac pacemaker or any non-removable metallic foreign object in the body);\n* On chronic therapy with any known inducer or inhibitor of CYP3A4\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Pregnant or lactating women are excluded from this study because lapatinib is a tyrosine kinase inhibitor with the potential for teratogenic or abortifacient effects.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

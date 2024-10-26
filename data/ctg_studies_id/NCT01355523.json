@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01355523",
+    "briefTitle": "The Effect of Melatonin on Depression, Anxiety, Cognitive Function and Sleep Disturbances in Breast Cancer Patients",
+    "officialTitle": "The Effect of Melatonin on Depression, Anxiety, Cognitive Function and Sleep Disturbances in Breast Cancer Patients",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Depression",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 54,
+    "primaryOutcomeMeasure": "Major Depression Inventory (MDI)- Depression at One Point in the Study",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women, age 30-75, with breast cancer who are admitted for a lumpectomy or mastectomy at Herlev Hospital\n* ASA score I-III\n* No sign of depression measured my Major Depression Inventory (MDI)\n* Not pregnant\n\nExclusion Criteria:\n\n* Neoadjuvant chemotherapy\n* Treatment with SSRI, Warfarin or other anticoagulants (except 75 mg ASA daily), MAO inhibitors or calcium blockers\n* Rotor or Dubin-Johnson syndrome\n* Epilepsy\n* Known allergic reaction to melatonin\n* Known and treated sleep apnea\n* Diabetes Mellitus - insulin treated\n* Ongoing or previous medically treated depression or bipolar disorder\n* Known autoimmune diseases - systemic lupus erythematosus (SLE), rheumatoid arthritis (RA), and sclerose\n* Incompensated liver cirrhosis\n* Severe kidney disease\n* Previous or current cancer\n* Known medically treated sleep-disorder (insomnia, restless legs etc)\n* Shift-work and night-work\n* Daily alcohol intake of more than 5 units\n* Pre-operative treatment with psychopharmacological drugs, opioids or anxiolytics (including all sleeping pills)\n* Predicted bad compliance\n* Pregnant or breast-feeding\n* Pre-operative Mini Mental State Evaluation (MMSE) score less than 24",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

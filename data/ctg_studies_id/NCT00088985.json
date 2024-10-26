@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00088985",
+    "briefTitle": "Vaccine Therapy, Trastuzumab, and Vinorelbine in Treating Women With Locally Recurrent or Metastatic Breast Cancer",
+    "officialTitle": "Phase II Trial Evaluating The Efficacy Of A Multiepitope Dendritic Cell Vaccine Given With Trastuzumab And Vinorelbine For The Treatment Of Women With Metastatic Breast Cancer That Express HLA-A0201",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 56,
+    "primaryOutcomeMeasure": "Overall Response Rate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer\n\n  * Locally recurrent or metastatic disease\n* HLA-A0201 positive by DNA genotyping\n* HER2/neu expression at least 1+ by immunohistochemistry of tumor sample\n* Central Nervous System (CNS) metastases allowed provided on therapy for 3 months and stable\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nSex\n\n* Female\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* Eastern Cooperative Oncology Group (ECOG) 0-2\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Absolute neutrophil count \\> 1,500/mm\\^3\n* Platelet count \\> 100,000/mm\\^3\n* Hematocrit \\> 33%\n\nHepatic\n\n* Transaminases \u2264 3 times upper limit of normal\n* Bilirubin \u2264 2 times normal\n* Hepatitis B surface antigen negative\n\nRenal\n\n* Creatinine \\< 2.0 mg/dL\n\nCardiovascular\n\n* Ejection fraction \\> 45% by multigated acquisition scan (MUGA) OR\n* Left ventricular function normal by echocardiogram\n* No serious cardiac condition that would preclude study participation or compliance\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* HIV negative\n* No serious medical or psychiatric condition that would preclude study participation or compliance\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Prior biologic therapy allowed\n\nChemotherapy\n\n* More than 30 days since prior cytotoxic chemotherapy\n* No other concurrent chemotherapy\n\nEndocrine therapy\n\n* More than 30 days since prior hormonal therapy\n* No concurrent hormonal therapy\n* No concurrent systemic steroids\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* Not specified\n\nOther\n\n* Concurrent bisphosphonates for bone metastases allowed",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

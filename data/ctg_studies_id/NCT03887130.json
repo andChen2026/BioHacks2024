@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03887130",
+    "briefTitle": "Study of Oral Vinorelbine Plus Capecitabine Versus Taxane-gemcitabine Combinations as 1st Line Chemotherapy in Metastatic Breast Cancer",
+    "officialTitle": "Randomised Phase II Study of the Combination of Oral Vinorelbine With Capecitabine Versus Gemcitabine in Combination With Paclitaxel Versus Gemcitabine in Combination With Docetaxel as First Line Chemotherapy in Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 152,
+    "primaryOutcomeMeasure": "Disease Control Rate (DCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed adenocarcinoma of the breast;\n* Documented metastatic disease previously untreated by chemotherapy;\n* HER2 negative (assessed by 0-1+ IHC or 2+ IHC with FISH-) on the primary tumor or on metastatic site;\n* Karnofsky Performance Status 70%.\n\nExclusion Criteria:\n\n* Local relapse alone after conservative treatment or contra-lateral tumor;\n* Patients with symptoms suggesting CNS involvement or leptomeningeal metastases;\n* Concomitant hormonal therapy for metastatic breast cancer;\n* Prior chemotherapy in the metastatic setting;\n* Patients previously treated with a vinca-alkaloid, capecitabine, gemcitabine or taxanes;\n* Prior severe and unexpected reaction to fluoropyrimidine therapy (with or without documented DPD deficiency) or known hypersensitivity to 5-fluorouracil.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

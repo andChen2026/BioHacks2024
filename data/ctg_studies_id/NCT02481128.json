@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02481128",
+    "briefTitle": "Surgical Trial to Evaluate the Impact of a Lymphoscintigraphy Prior to Sentinel Node Biopsy in Early Breast Cancer",
+    "officialTitle": "Randomized Controlled Multicenter Surgical Trial to Evaluate the Impact of a Lymphoscintigraphy Prior to Sentinel Node Biopsy in Early Breast Cancer; SenSzi (GBG80)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Early-Stage Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 1198,
+    "primaryOutcomeMeasure": "Average number of histologically detected sentinel lymph nodes per patient",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* invasive mamma carcinoma as verified by core cut biopsy\n* extensive ductal carcinoma in situ as verified by core cut biopsy (at least 5 cm or at least 2,5 cm and G3 grading)\n* clinical stage tumor T1-T3\n* no signs of axillary lymph node metastasis on clinical examination including ultrasound examination\n* no signs of distant metastatic disease\n* male/ female patient in the age not less than 18 years\n* Karnofsky performance status at least 70% or Eastern Cooperative Oncology Group (ECOG) score not higher than 1\n* written patient informed consent\n\nExclusion Criteria:\n\n* suspect axillary lymph nodes on clinical/ultrasound examination\n* positive fine-needle biopsy of axillary lymph nodes\n* sentinel lymph node biopsy to be performed after neoadjuvant chemotherapy\n* recurrence of a mamma carcinoma\n* prior extensive surgery of breast or axilla\n* inflammatory or extramammary breast cancer\n* pregnancy\n* contraindication to the radionuclide\n* inability to understand the studies purpose\n* inability to receive surgery\n* no written patient informed consent",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

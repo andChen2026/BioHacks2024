@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00201929",
+    "briefTitle": "A Decision Aid for Women With Early Stage Breast Cancer",
+    "officialTitle": "Development and Evaluation of Different Versions of the Decision Board for Early Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Patient comprehension",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nChemotherapy Group:\n\n* Female\n* Histologically documented invasive carcinoma of the breast treated with modified radical mastectomy or lumpectomy\n* Axillary node dissection\n* Chemotherapy alone or in addition to tamoxifen as an appropriate treatment option\n\nSurgery Group:\n\n* Female\n* Newly diagnosed carcinoma of the breast diagnosed either by cytology or pathological examination, OR if no biopsy, a strong clinical suspicion of malignancy\n* Clinical stage I or II disease\n* Candidate for breast conserving surgery\n\nExclusion Criteria:\n\nChemotherapy Group:\n\n* Candidate for CEF chemotherapy\n* Clinical evidence of metastatic disease\n* Serious comorbidity that would preclude receiving chemotherapy treatment\n* Unable to speak or read English fluently (including visual impairment)\n* Mentally incompetent including any psychiatric or addictive disorders that would preclude shared decision-making\n\nSurgery Group:\n\n* Previous surgery for breast cancer\n* Previous breast irradiation\n* Pregnant\n* Clinical suspicion of bilateral breast cancer\n* Serious comorbidity that would preclude definitive surgery\n* Unable to speak or read English fluently (including visual impairment)\n* Mentally incompetent including any psychiatric or addictive disorder that would preclude shared decision making",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

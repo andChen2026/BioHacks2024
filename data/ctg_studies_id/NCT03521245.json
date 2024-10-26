@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03521245",
+    "briefTitle": "Molecular Pathway Activation Markers Predicting Efficacy of Trastuzumab Therapy for HER2-positive Breast Cancer",
+    "officialTitle": "Molecular Pathway Activation Markers Predicting Efficacy of Trastuzumab Therapy for HER2-positive Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "HER2-positive Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Tumor response by RECIST v1.1 or pathological response according to Chevallier system",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* adult females\n* histologically confirmed HER2-positive breast cancer\n* available FFPE samples of breast cancer tissue\n* patients treated with Trastuzumab alone or in combination(s) with other regimens of chemotherapy with known outcome according to RECIST 1.1\n* stage II or more\n* patients who have signed an informed consent\n\nExclusion Criteria:\n\n* less than 70% of intact tumor cells in available FFPE samples",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

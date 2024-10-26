@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02651844",
+    "briefTitle": "Mifepristone for Breast Cancer Patients With Higher Levels of Progesterone Receptor Isoform A Than Isoform B.",
+    "officialTitle": "Mifepristone Treatment for Breast Cancer Patients Expressing Levels of Progesterone Receptor Isoform A (PRA) Higher Than Those of Isoform B (PRB): Neoadjuvant Therapy.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Measurable decrease in tumor cell proliferation from baseline to time of surgery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Inclusion criteria\n\n  1. Postmenopausal women (one year after menses stop)\n  2. Confirmed diagnosis of breast cancer\n  3. Tumors with higher expression PR \\> 50 % measured by IHC and PRA/RPB ratio equal or higher than 1.5 measured by WB\n  4. All clinical stages with tumor size greater than 1.5 cm to allow obtaining material from biopsy cores\n  5. OMS condition: 1 Adequate function of organs and systems\n\nHematopoietic parameters:\n\n* Hemoglobin: 10 gr/mL\n* Neutrophil counting: 1.500/mm3\n* CD4 counting: 400/mm3\n* Platelets counting: 100.000/mm3 Liver parameters\n* Total albumin: 1.5 fold normal limit\n* AST/ALT: 1.5 fold normal limit Renal\n* Creatinine: 1.5 fold normal limit 6. Absence of other controlled disease 7. Patients willing to sign consent\n\nExclusion Criteria:\n\n* Exclusion criteria\n\n  1. Patients with no recommended surgery\n  2. Patients which have received any other treatment for this cancer\n  3. Patients expressing ER but expressing PRA/PRB levels lower than 1.5\n  4. Hepatitis infection (HBV o HCV)\n  5. HIV infection.\n  6. Cognitive alterations which limit the understanding of the protocol or compliance to the protocol\n  7. Prolonged QT/QTc basal interval",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

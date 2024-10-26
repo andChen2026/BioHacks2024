@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04397029",
+    "briefTitle": "Assessing the Sensitivity of \"SureTouch\u2122\" in Women Undergoing Diagnostic and Screening Mammography",
+    "officialTitle": "Assessing the Sensitivity of \"SureTouch\u2122\" in Identifying Clinically Significant Masses in Women Undergoing Diagnostic and Screening Mammography",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 213,
+    "primaryOutcomeMeasure": "Primary",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nArm 1:\n\n* Female Subject presenting for screening mammography\n* 30-80 years of age, inclusive\n* Able to provide written informed consent\n\nArm 2:\n\n* Female Subject presenting for diagnostic appointment and/or biopsy\n* 30-80 years of age, inclusive\n* 1-3 masses per breast\n* Masses between 0.5 cm and 3.5 cm only\n\nExclusion Criteria:\n\n* Individuals who are unable to comprehend or unwilling to sign an informed consent form\n* Women younger than 30 or older than 80\n* Pregnant women\n* Women who have undergone bilateral mastectomies\n* Males\n* Prisoners\n* Masses which are larger than 3.5 cm or smaller than 0.5 cm in size\n* Individuals with more than 3 masses per breast will be excluded due to the complexity of these cases",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

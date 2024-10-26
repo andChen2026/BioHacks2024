@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04752267",
+    "briefTitle": "18F-FMAU PET/CT and MRI for the Detection of Brain Tumors in Patients With Brain Cancer or Brain Metastases",
+    "officialTitle": "Novel Dynamic PET Kinetics and MRI Radiomics Analyses in Brain Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Anatomic Stage IV Breast Cancer AJCC v8, Clinical Stage IV Cutaneous Melanoma AJCC v8, Glioma, Malignant Brain Neoplasm, Metastatic Breast Carcinoma, Metastatic Colon Carcinoma, Metastatic Kidney Carcinoma, Metastatic Lung Carcinoma, Metastatic Malignant Neoplasm in the Brain, Metastatic Melanoma, Pathologic Stage IV Cutaneous Melanoma AJCC v8, Prognostic Stage IV Breast Cancer AJCC v8, Stage IV Colon Cancer AJCC v8, Stage IV Lung Cancer AJCC v8, Stage IV Renal Cell Cancer AJCC v8, Stage IVA Colon Cancer AJCC v8, Stage IVA Lung Cancer AJCC v8, Stage IVB Colon Cancer AJCC v8, Stage IVB Lung Cancer AJCC v8, Stage IVC Colon Cancer AJCC v8",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Correlation between multiparametric magnetic resonance imaging (mpMRI) radiomics and dynamic fluorine F 18 (18F)-FAMU (FMAU) positron emission tomography (PET) kinetic analysis parameters",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18 years, both men and women\n* Documented history of either primary brain tumor (e.g. glioma) or metastatic brain tumor from another primary cancer (e.g. lung, breast, colon, melanoma, kidney)\n* Documented radiation therapy regardless of treatments prior to radiation therapy\n\nExclusion Criteria:\n\n* Unable to give consent\n* Inability to remain motionless during imaging studies\n* Intractable seizures\n* Claustrophobia\n* Implantable devices incompatible with magnetic resonance (MR) environment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

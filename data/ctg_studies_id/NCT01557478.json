@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01557478",
+    "briefTitle": "Melatonin as Adjuvant Therapy in Breast Cancer Patients",
+    "officialTitle": "Melatonin in Improving the Quality of Life of Breast Cancer Patients and Reduction of Postoperative Pain and Chemotherapy Induced Toxicity",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Stage II and III Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 166,
+    "primaryOutcomeMeasure": "Quality of Life (FACT-B Version 4)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histologically proven stage II or III breast cancer\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) \u2264 2\n* platelet count \u2265100,000 cells/mm3\n* white blood cell count \u2265 3,000 cell/mm3\n* hemoglobin \u2265 10 g/dL\n* serum creatinine \u2264 1.5 mg/dL\n* bilirubin \u2264 2 mg/dL\n* AST \u2264 2.5 times upper limit of normal (ULN)\n* New York Heart Association grade \u2264 2\n* written consent\n\nExclusion Criteria:\n\n* received prior chemotherapy or biotherapy, radiotherapy or surgery within 1 month preceding randomization,\n* had more than one type of cancer or brain metastasis\n* moderate neuropathy (CTCAE grade \u2265 2)\n* active infection\n* uncontrolled complications (i.e. blood glucose \\> 200 mg/dL, uncontrolled hypertension, unstable angina, history of congestive heart failure or history of myocardial infarction within one year).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

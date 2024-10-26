@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05466760",
+    "briefTitle": "PET/MR Radiomics for Breast Cancer Diagnosis",
+    "officialTitle": "Use of PET/MR Radiomics to Evaluate the Clinical Phenotypes, Response Status of Neoadjuvant Chemotherapy and Long-term Prognosis of Breast Cancer: a Preliminary Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Diagnostic performance of PET/MR imaging metrics in prediction of treatment response to chemotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 1. Women aged 25-75 years old.\n* 2. Women with recently diagnosed breast cancer.\n\nExclusion Criteria:\n\n* 1. Estimated GFR (eGFR) \\< 60 mL/min/1.73 m2 and blood glucose \\> 135 mg/dl; Past/ present history of acute renal failure, renal dialysis, DM.\n* 2. Women with metallic fixation, coronary artery stent in recent 3 months; or women with mechanical valve replacement not compatible with MR magnet; or women with aneurysmal clips, pacemakers.\n* 3. Past history of claustrophobia.\n* 4. Women who are pregnant or who are planning to be pregnant, or who are lactating\n* 5. Past history of breast cancer within recent 5 years\n* 6. Women undergoing chemotherapy for other disease entity in recent 1 year.\n* 7. Women who cannot cooperate with the examinations.",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

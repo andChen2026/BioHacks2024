@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00022087",
+    "briefTitle": "Zoledronate, Calcium, and Vitamin D in Preventing Bone Loss in Women Receiving Adjuvant Chemotherapy for Breast Cancer",
+    "officialTitle": "Phase III Trial of Intravenous Zoledronic Acid (Zometa) in the Prevention of Bone Loss in Localized Breast Cancer Patients With Chemotherapy-Induced Ovarian Failure",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Osteoporosis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 439,
+    "primaryOutcomeMeasure": "Bone mineral density in the lumbar spine",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adenocarcinoma of the breast by fine needle aspirate, biopsy (tru-cut, core, stereotactic), lumpectomy, or modified radical mastectomy\n\n  * Stage I-III (any T, any N, M0)\n  * Stage IV due solely to supraclavicular node involvement allowed\n* Plan to use adjuvant chemotherapy\\* with or without adjuvant endocrine therapy\\*\n\n  * Subsequent adjuvant hormonal therapy with an aromatase inhibitor allowed in women rendered postmenopausal by adjuvant chemotherapy NOTE: \\*Must be specified prior to study entry\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 40 and over\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* See Disease Characteristics\n* Premenopausal, defined as actively menstruating or last menstrual period occurred within 6 months prior to study entry\n\n  * Prior hysterectomy without bilateral oophorectomy and estradiol and follicle-stimulating hormone within premenopausal range prior to the initiation of chemotherapy allowed\n\nPerformance status:\n\n* Not specified\n\nLife expectancy:\n\n* Not specified\n\nHematopoietic:\n\n* Not specified\n\nHepatic:\n\n* Not specified\n\nRenal:\n\n* Not specified\n\nOther:\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* See Disease Characteristics\n* No more than 3 months since prior adjuvant chemotherapy\n\nEndocrine therapy:\n\n* See Disease Characteristics\n\nRadiotherapy:\n\n* Not specified\n\nSurgery:\n\n* See Disease Characteristics\n* See Menopausal status\n\nOther:\n\n* No other concurrent bisphosphonates\n* No concurrent digoxin\n* No concurrent tetracycline\n* Concurrent neoadjuvant therapy allowed\n* Concurrent enrollment on therapeutic adjuvant clinical trials allowed provided the therapeutic trial does not preclude participation in this trial",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

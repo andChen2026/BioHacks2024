@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05395871",
+    "briefTitle": "Behavioural Science Messages in Breast Cancer Screening",
+    "officialTitle": "Investigating the Use of Behavioural Science Informed Messages to Facilitate Attendance at Breast Cancer Screening",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 34047,
+    "primaryOutcomeMeasure": "Percentage uptake of breast cancer screening at three months- Intention to Treat",
+    "eligibilityCriteria": "The inclusion criteria will match those used by the National Health Service Breast Screening Programme, as all invitations will come directly from the programme, as per usual care. These include:\n\n* Aged between 50 to 70 at the time of invitation\n* Lives within London screening region\n* Registered as female with primary care physician\n\nThe exclusion criteria will match those used by the National Health Service Breast Screening Programme, as all invitations will come directly from the programme, as per usual care. These include:\n\n* Previous attendance at breast screening in the current (3-year cycle)\n* Opted out of receiving text messages\n* Opted out of screening\n* Previous bilateral mastectomy",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

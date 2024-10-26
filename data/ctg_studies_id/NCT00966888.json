@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00966888",
+    "briefTitle": "Radiation Therapy or Standard Therapy in Treating Women With Stage II Breast Cancer Who Have Undergone Mastectomy",
+    "officialTitle": "Selective Use of Postoperative Radiotherapy AftEr MastectOmy - SUPREMO",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 3500,
+    "primaryOutcomeMeasure": "Overall survival",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed unilateral invasive breast cancer\n\n  * pT1, pN1, M0 disease\n  * pT2, pN1, M0 disease\n  * pT2, pN0 disease with grade III histology and/or lymphovascular invasion\n  * Multifocal breast cancer meeting both of the following criteria:\n\n    * Largest discrete tumor \u2265 2 cm if N0\n    * Grade III histology and/or lymphovascular invasion\n* No bilateral breast cancer\n* Axillary node negative status by axillary clearance, axillary node sampling, or sentinel node biopsy\n\n  * Patients with axillary node positive (1-3 positive nodes, including micrometastases\\* \\> 0.2 mm and \u2264 2 mm) must have had an axillary node clearance (minimum of 10 nodes removed) performed\n\n    * No more than 3 pathologically involved lymph nodes\n  * No internal mammary nodes visible on sentinel node scintigraphy in the absence of negative histology NOTE: \\*Isolated tumor cells not counted as micrometastases\n* Underwent total mastectomy (with minimum of 1 mm margin clear of invasive cancer and DCIS) and axillary surgery with staging procedure\n\n  * Must have undergone adjuvant systemic chemotherapy if indicated for intermediate-risk breast cancer\n  * Patients undergoing immediate breast reconstruction allowed\n* No known BRCA1 and BRCA2 carriers\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* Not pregnant\n* Fit for adjuvant chemotherapy, adjuvant endocrine therapy, and post-operative radiotherapy\n* No prior or concurrent malignancy except curatively treated nonmelanomatous skin cancer or carcinoma in situ of the cervix\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No concurrent trastuzumab\n* No prior neoadjuvant systemic therapy",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

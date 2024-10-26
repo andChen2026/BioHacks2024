@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04882306",
+    "briefTitle": "The ABC Study: Assessment of Breast Density Classification",
+    "officialTitle": "The ABC Study: Assessment of Breast Density Classification Via Algorithm Development Using Microwave Imaging in Breast Clinics",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 800,
+    "primaryOutcomeMeasure": "The creation of the required dataset to develop the breast density classification algorithm",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* To be eligible to participate in this study, a subject must meet all the following criteria:\n\n  * Attending a symptomatic or assessment breast clinic at the study site\n  * Female sex\n  * 18 years or older\n  * Able to provide informed consent\n  * Not in any identified, vulnerable group\n\nExclusion Criteria:\n\n* A potential subject who meets any of the following criteria will be excluded from participation in this study:\n\n  * Unable to mount MARIA\u00ae patient bed\n  * Unable to lie in the prone position for a period of up to 15 minutes\n  * Patients who have undergone biopsy less than 5 days before the MARIA\u00ae scan\n  * Patients with implanted electronics\n  * Patients with breast implants\n  * Patients with nipple piercings (unless they are removed prior to the MARIA\u00ae scan)\n  * Breast sizes too small or too large to be suitable for the array\n\nParticipants recruited the same day are not subject to any additional screening criteria other than that described above. However, participants being recruited and consenting to the use of previously- taken mammography will need to provide information on key points in order to assess the eligibility of their mammograms for use. This will include information on:\n\n* Whether they have initiated or discontinued use of a hormonal contraceptive since their last mammogram\n* Whether they have initiated or discontinued use of hormone replacement therapy since their last mammogram\n* Whether they believe that they have had a change in menopausal status since their last mammogram Participants who answer yes to any of the above will not be eligible for participation.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

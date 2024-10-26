@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05071105",
+    "briefTitle": "SBRT in Early Breast Cancer in Elderly Women",
+    "officialTitle": "Stereotactic Ablative Body Radiotherapy in Elderly Women With Early Breast Cancer Unsuitable for Surgery and Elected to Receive Primary Endocrine Therapy Alone",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Neoplasm Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Dose-limiting toxicity (DLT)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 75 years\n* Histologically confirmed diagnosis of local disease only (cT1-T2 N0 M0)\n* Luminal like A or B (estrogen receptor positive and/or progesterone receptor positive and Her2 negative Tumors)\n* SBRT within 2 months after hormonal therapy start\n\nExclusion Criteria:\n\n* Metastatic Disease\n* Evidence of loco-regional nodal disease\n* Multifocal or multicentric tumors\n* Prior radiotherapy to the region of the study cancer that would result in overlap of therapy fields\n* Concurrent systemic disorders that contraindicate radiotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "75 Years",
+    "stdAges": "OLDER_ADULT"
+}

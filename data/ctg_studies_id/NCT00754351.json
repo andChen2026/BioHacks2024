@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00754351",
+    "briefTitle": "Docetaxel, Gemcitabine and Bevacizumab for Metastatic Breast Cancer",
+    "officialTitle": "Docetaxel, Gemcitabine and Bevacizumab as Salvage Therapy for Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 48,
+    "primaryOutcomeMeasure": "Overall response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically- or cytologically- confirmed metastatic breast adenocarcinoma\n* No HER2 overexpression or gene amplification\n* At least one previous chemotherapy regimen for metastatic breast cancer\n* Age \u226518 years\n* Performance status (WHO) 0-2\n* Life expectancy of at least 12 weeks\n* Measurable disease as defined by at least 1 bidimensionally measurable lesion \u2265 20 X 10 mm\n* Performance status (WHO) 0-2\n* Adequate liver function (serum bilirubin \\<1.5 times the upper normal limit, AST and ALT \\<2.5 times the upper normal limit in the absence of demonstrable liver metastases, or \\<5 times the upper normal limit in the presence of liver metastases), adequate renal function (serum creatinine \\<1.5 times the upper normal limit) and bone marrow \u2265 1,500/mm3, PLT \u2265 100,000/mm3, Hgb \u2265 9 g/dL) function\n* Written informed consent\n\nExclusion Criteria:\n\n* Pregnant or lactating women\n* Progressive brain metastases according to clinical or radiological criteria\n* Brain metastases without prior radiation therapy\n* Radiation therapy within the previous 4 weeks\n* Previous radiation therapy to the only measurable lesion\n* Proteinuria \u2265 500 mgr of protein daily\n* Uncontrolled hypertension\n* Documented hemorrhagic diathesis or coagulation disorder\n* Cardiovascular disease (class II-IV NYHA congestive heart failure, myocardial infarction within the previous 4 months, unstable angina, LVEF \\< normal, ventricular arrhythmia, uncontrolled hypertension)\n* Thrombotic event within the previous 6 months\n* Concurrent use of aspirin \\> 325 mgr daily, low molecular weight heparin in therapeutic dose, warfarin or acenocoumarol, non-steroid anti-inflammatory agents\n* Major surgical procedure within the previous 4 weeks\n* Presence of nonhealing wound or fracture\n* Peripheral neuropathy \\> grade 2 according to the NCI CTCAE (version 3.0)\n* Any sustained chronic toxicity \\> grade 2 according to the NCI CTCAE (version 3.0)\n* Uncontrolled infection\n* Any serious, uncontrolled comorbidity on the investigator's judgment\n* Other cancer within the previous 5 years, except non-melanoma skin cancer and in situ cervical cancer\n* Serious psychiatric illness",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

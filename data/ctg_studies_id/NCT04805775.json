@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04805775",
+    "briefTitle": "Desflurane and Postoperative Sleep Quality in Patients Undergoing Elective Breast Surgery",
+    "officialTitle": "Effect of Desflurane on Postoperative Sleep Quality in Patients Undergoing Elective Breast Surgery: A Non-inferiority Randomized Controlled Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Desflurane, Propofol, Postoperative Sleep, PSQI, Breast Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 118,
+    "primaryOutcomeMeasure": "Pittsburgh sleep quality index",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Undergoing elective breast surgery\n2. Age 18-75 years old\n3. ASA-PS grade I or II\n4. Those who voluntarily participate in the research and sign the informed consent\n\nExclusion Criteria:\n\n1. Cognitive impairment (MMSE \\<27) before the operation\n2. The patients received adjuvant chemotherapy before the operation\n3. At present, they are taking psychoactive, opioid, anti-anxiety, and hypnotic drugs\n4. Known or treated patients with obstructive sleep apnea\n5. Patients with other cancers",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

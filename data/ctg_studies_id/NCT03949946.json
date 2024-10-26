@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03949946",
+    "briefTitle": "Is Lipid Mapping an Effective Early Detection Tool for Breast Cancer in High-risk Populations?",
+    "officialTitle": "Is Lipid Composition Mapping Using Magnetic Resonance Imaging an Effective Early Detection Tool for Breast Cancer in High Risk Populations?",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Saturated fatty acids in breasts of patients and high-risk group",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female over 18 years old\n* BRCA1/2 or TP53 gene carriers (high-risk group)\n* invasive ductal carcinoma of the breast (patient group)\n* not having any metabolic disorders (e.g., diabetes)\n* not on any long term medications that may affect lipid metabolism (e.g., statins)\n\nExclusion Criteria:\n\n* female under 18 years old\n* male\n* affected by metabolic disorders (e.g., diabetes)\n* on long term medications that affect lipid metabolism (e.g., statins)\n* contraindicated for MR investigations (poor renal function and metal implants)\n* concurrent cancer in other sites\n* concurrent hormone treatment, chemotherapy or underwent surgery\n* non-English speakers",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

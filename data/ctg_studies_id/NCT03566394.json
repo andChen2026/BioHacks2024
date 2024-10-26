@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03566394",
+    "briefTitle": "Prophylactic Gabapentin for Taxane-Induced Arthralgia and Myalgia Syndrome in Breast Cancer Patients Undergoing Adjuvant Chemotherapy",
+    "officialTitle": "Primary Prophylactic Gabapentin for Taxane-Induced Arthralgia and Myalgia Syndrome in Breast Cancer Patients Undergoing Adjuvant Chemotherapy: A Randomized Controlled Trial",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Invasive Breast Cancer, Chemotherapeutic Toxicity, Myalgia, Arthralgia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "\"Worst\" pain score",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* English-speaking\n* Patients must have histologically confirmed, Stage I-III, breast cancer\n* Patient is on an 8-cycle adjuvant anthracycline-cyclophosphamide-taxane containing chemotherapy regimen, and will be starting the taxane-containing portion of chemotherapy within 4 weeks of enrollment.\n* Patient has not received prior taxane chemotherapy\n* ECOG performance status 0 to 2 (on a scale from 0 to 4, with 0 indicating normal activity, 1 symptomatic but ambulatory self-care possible, 2 ambulatory more than 50% of the time, 3 ambulatory 50% of the time or less and nursing care required, and 4 bedridden and possibly requiring hospitalization)\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Patients on FEC-D, ACTW, DCx4 chemotherapy.\n* Metastatic disease\n* Patient currently taking gabapentin or pregabalin for other indications prior to initiating chemotherapy\n* Patients concomitantly taking other drugs known to influence GABA (e.g. barbituates, benzodiazepines, nonbenzodiazepines, baclofen)\n* Patients using selected analgesics (opioids, acetaminophen, aspirin, NSAIDs) in which the dosages have changed in the 2 weeks prior to starting Taxane chemotherapy, or an analgesic medication was discontinued in the last 2 weeks, or a new analgesic medication was started in the last 2 weeks.\n* Patients concomitantly using medical marijuana\n* Known restricting adverse events or allergy to gabapentin or pregabalin supplements.\n* GFR less than 30ml/min\n* Myalgia and/or arthralgia unrelated to chemotherapy, or severe pain syndromes, that could confound the results.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

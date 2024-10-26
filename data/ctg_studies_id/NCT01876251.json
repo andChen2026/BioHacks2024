@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01876251",
+    "briefTitle": "A Study Evaluating The PF-03084014 In Combination With Docetaxel In Patients With Advanced Breast Cancer",
+    "officialTitle": "Phase 1b Study Of Docetaxel + Pf 03084014 In Metastatic Or Locally Recurrent/Advanced Triple Negative Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer Metastatic",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Number of Participants With Dose-limiting Toxicities (DLTs) in Cycle 1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of breast cancer with evidence of a) metastatic or b) locally recurrent/advanced disease.\n\nExclusion Criteria:\n\n* Prior treatment with a gamma secretase inhibitors or other Notch signaling inhibitors.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

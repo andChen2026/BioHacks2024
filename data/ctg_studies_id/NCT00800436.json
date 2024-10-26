@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00800436",
+    "briefTitle": "A Dose-Finding Study of Subcutaneous Herceptin (Trastuzumab) in Healthy Male Volunteers and Human Epidermal Growth Factor Receptor 2 (HER2)-Positive Females",
+    "officialTitle": "An Open-Label, Two-Part, Multi-Centre, Trastuzumab Dose-Finding Study in Healthy Male Volunteers and HER2 Positive Female Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 66,
+    "primaryOutcomeMeasure": "Area Under the Concentration-Time Curve Extrapolated to Infinity (AUCinf) of Trastuzumab",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Healthy Participants (Part 1 only)\n\n  * Males 18 to 45 to years of age\n  * Baseline left ventricular ejection fraction (LVEF) greater than (\\>) 60 percent (%)\n* HER2-Positive Females (Parts 1 and 2)\n\n  * Females greater than or equal to (\u2265) 18 years of age\n  * Eastern Cooperative Oncology Group (ECOG) performance status of 0\n  * Previous non-metastatic operable primary invasive HER2-positive breast cancer\n  * Baseline LVEF \\>55%\n\nExclusion Criteria:\n\n* Healthy Participants (Part 1 only)\n\n  * Clinically significant abnormalities in laboratory test results or electrocardiogram\n  * History of significant allergies, gastrointestinal, renal, hepatic, cardiovascular, or pulmonary disease\n  * History of hypersensitivity or allergic reaction, spontaneous or following drug administration\n  * History of cardiac conditions\n* HER2-Positive Females (Parts 1 and 2)\n\n  * Metastatic disease\n  * Concurrent other malignancy requiring therapy of any modality which may interfere with PK investigations or result in unexpected toxicity\n  * Use of Herceptin in previous 5 months\n  * Serious cardiac illness",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

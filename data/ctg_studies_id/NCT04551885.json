@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04551885",
+    "briefTitle": "FT516 in Combination With Monoclonal Antibodies in Advanced Solid Tumors",
+    "officialTitle": "A Phase I, Open-Label, Multicenter Study of FT516 in Combination With Monoclonal Antibodies in Subjects With Advanced Solid Tumors",
+    "overallStatus": "TERMINATED",
+    "conditions": "Solid Tumor, Adult",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 12,
+    "primaryOutcomeMeasure": "Incidence of Dose-Limiting Toxicities (DLTs) Within Each Dose Level Cohort",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Locally advanced or metastatic solid tumor malignancies that have relapsed or progressed after at least one line of therapy and where the following anti-PD-L1 are approved: avelumab, atezolizumab or durvalumab\n* Capable of giving signed informed consent\n* Aged \u2265 18 years old\n* Willingness to comply with study procedures and duration\n* Measurable disease per iRECIST\n* Contraceptive use for women and men as defined in the protocol\n\nExclusion Criteria:\n\n* Pregnant or breast-feeding women\n* ECOG performance status \u2265 2\n* Evidence of insufficient organ function\n* Clinically significant cardiovascular disease\n* Receipt of therapy within 2 weeks prior to Day 1 or five half-lives, whichever is shorter or any investigational therapy within 28 days prior to Day 1\n* Known active central nervous system (CNS) involvement by malignancy\n* Non-malignant CNS disease such as stroke, epilepsy, CNS vasculitis or neurodegenerative disease or receipt of medications for these conditions\n* Currently receiving or likely to require immunosuppressive therapy\n* Known active infections with Hepatitis B, Hepatitis C or HIV\n* Live vaccine within 6 weeks prior to start of lympho-conditioning\n* Known allergy to albumin (human) or DMSO",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

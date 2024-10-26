@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06059469",
+    "briefTitle": "PSMA-PET/CT to Assess the Expression of Specific Membrane Antigen (PSMA) in Patients With Progressive Triple-negative Breast Cancer.",
+    "officialTitle": "PRISMA: A Single-centre, Prospective Phase II Imaging Study Using PSMA-PET/CT to Assess the Expression of Specific Membrane Antigen (PSMA) in Patients With Progressive Triple-negative Breast Cancer.",
+    "overallStatus": "RECRUITING",
+    "conditions": "TNBC - Triple-Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Assess PSMA expression in progressive metastatic TNBC patients",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent in accordance with institutional guidelines and obtained prior to any study procedure\n* Women with \u2265 18 years-old\n* Eastern Cooperative Oncology Group Performance Status of 0 to 2\n* Confirmed diagnosis of progressive metastatic TNBC and presenting measurable disease on 18F-FDG PET/CT (performed within 2 weeks) or Brain MRI in case of progressive brain metastases (performed within 4 weeks) prior to PSMA PET/CT.\n* Radiolabelled PSMA PET/CT has to be performed before the next treatment line initiation\n\nExclusion Criteria:\n\n* Pregnant or lactating patients\n* Other active neoplastic disease\n* Treatment by another molecule that is the object of investigation within 30 days\n* Skin only metastatic disease\n* Patients with a significant medical, neuro-psychiatric, or surgical condition, which, in the investigator's opinion, may interfere with completion of the study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

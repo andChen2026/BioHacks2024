@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01997333",
+    "briefTitle": "Study of Glembatumumab Vedotin (CDX-011) in Patients With Metastatic, gpNMB Over-Expressing, Triple Negative Breast Cancer",
+    "officialTitle": "A Randomized Multicenter Pivotal Study of CDX-011 (CR011-vcMMAE)in Patients With Metastatic, gpNMB Over-Expressing, Triple Negative Breast Cancer (The METRIC Study)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic gpNMB Over-expressing Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 327,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nAmong other criteria, patients must meet all of the following conditions to be eligible for the study:\n\n1. Diagnosed with metastatic (i.e., cancer that has spread) TNBC\n\n   * minimal or no expression of estrogen and progesterone receptors (ER/PR) \\<10% of cells positive by immunohistochemistry\n   * HER 2 staining 0 or 1+ by IHC or copy number \\<4.0 signals/cell\n2. Documented progression of disease based on radiographic, clinical or pathologic assessment during or subsequent to the last anticancer regimen received.\n3. Breast cancer tumor confirmed to express gpNMB. This will be determined by submitting a tissue sample from the advanced (locally advanced/recurrent or metastatic) disease setting to a central laboratory for analysis.\n4. Received no more than two prior chemotherapy treatments for advanced (locally advanced/recurrent or metastatic) breast cancer.\n5. Prior chemotherapy treatment must have contained an anthracycline (e.g. doxorubicin or Doxil) if clinically indicated and a taxane (eg: Taxol).\n6. ECOG performance status of 0 - 1.\n7. Adequate bone marrow, liver and renal function.\n\nExclusion:\n\nAmong other criteria, patients who meet any of the following conditions are NOT eligible for the study:\n\n1. Progression/recurrence of breast cancer during or within 3 months of completion of neoadjuvant or adjuvant chemotherapy.\n2. Ongoing neuropathy or other chemotherapy or radiation-related toxicities that are moderate (Grade 2) or worse in severity.\n3. Known brain metastases, unless previously treated and asymptomatic for 2 months and not progressive in size or number for 2 months.\n4. Significant cardiovascular disease.\n5. Previously received capecitabine and discontinued due to progression or intolerance; previously received CDX-011 or other MMAE containing agents.\n6. Active systemic infection requiring treatment. Infection controlled by oral therapy will not be exclusionary.\n7. Chronic use of systemic corticosteroids.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

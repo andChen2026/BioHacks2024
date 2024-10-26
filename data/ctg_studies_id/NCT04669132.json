@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04669132",
+    "briefTitle": "Efficacy of Olanzapine, Netupitant and Palonosetron in Controlling Nausea and Vomiting Associated With Highly Emetogenic Chemotherapy in Patients With Breast Cancer",
+    "officialTitle": "Efficacy of Olanzapine, Netupitant and Palonosetron in Controlling Nausea and Vomiting Associated With Highly Emetogenic Chemotherapy in Patients With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Nausea Post Chemotherapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Nausea Complete Response Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer hitologically confirmed\n* 18 Years and older (Adult, Older Adult)\n* Patients about to start use of Doxorubicine 60mg/m2 + Cyclophosfamide 600mg/m2\n* No previous chemotherapy for breast cancer\n\nExclusion Criteria:\n\n* Patients not capable of completing the questionnaire\n* Patients with other condition that could cause nausea and emesis\n* Use of opioids\n* Use of antipsychotic medications\n* Patients not capable of taking medications orally",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

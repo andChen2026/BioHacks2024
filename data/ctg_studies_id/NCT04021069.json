@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04021069",
+    "briefTitle": "Using Clinicopathomic Markers to Predict Neoadjuvant Chemotherapy Response in Breast Cancer",
+    "officialTitle": "Using Clinicopathomic Markers to Predict Neoadjuvant Chemotherapy Response in Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Invasive Ductal Breast Carcinoma, Invasive Lobular Breast Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 800,
+    "primaryOutcomeMeasure": "Pathologic complete response (pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants must be men and women age 18+\n* Biopsy-confirmed diagnosis of invasive breast cancer; (ER+/-, PR+/-, HER2+/-)\n* Any state of disease as described by AJCC v7 criteria\n* Participants must have received and completed neoadjuvant chemotherapy\n\nExclusion Criteria:\n\n* Participants who had other primary cancers prior to breast cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

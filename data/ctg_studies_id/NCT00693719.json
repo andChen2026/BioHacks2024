@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00693719",
+    "briefTitle": "Irinotecan and Etoposide in Treating Patients With Recurrent, Locally Advanced, or Metastatic Breast Cancer",
+    "officialTitle": "A Phase II Study: Irinotecan and Etoposide as Treatment for Refractory, Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 31,
+    "primaryOutcomeMeasure": "Median Time to Progression",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of locally advanced or metastatic breast cancer\n\n  * Recurrent, refractory or progressive disease after receiving prior anthracycline, taxane, and capecitabine therapy\n\n    * Prior anthracycline and taxane therapy may have been as neoadjuvant, or adjuvant therapy if disease progression is documented within a year of completing that agent\n    * Received prior capecitabine therapy for metastatic or recurrent disease\n* Measurable disease\n\n  * Bone metastases requires other disease present that can be measured\n* No brain metastases, unless documented to be controlled post-completion of local therapy (surgery and/or radiation therapy) for at least 4 weeks\n* No meningeal carcinomatosis\n* No malignant effusion as the only site of disease recurrence\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* Performance status of 0-2\n* Creatinine \u2264 1.5 mg/dL OR creatinine clearance \u2265 40 mL/min\n* Hemoglobin \u2265 10 g/dL\n* ANC \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Bilirubin normal or hyperbilirubinemia \\< grade 1 (unless due to Gilbert syndrome with elevated total but normal levels of conjugated bilirubin)\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n* No other non-breast malignancy, except nonmelanoma skin cancer\n* No other serious underlying medical condition, that in the opinion of the treating physician, would make study protocol unreasonably hazardous for the patient or would preclude the patient's ability to comply with the study protocol\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristic\n* Recovered from all prior chemotherapy or radiotherapy to NCI CTC grade \u2264 1\n* Unlimited documented prior chemotherapy regimens allowed\n* No prior irinotecan hydrochloride or etoposide\n* No Hypericum perforatum (St. John's wort) 14 days prior to, during, or 7 days after completion of study therapy\n* At least 7 days since prior and no concurrent phenytoin, carbamazepine, phenobarbital, or any other enzyme-inducing anticonvulsant drug (EIACD)\n* No concurrent aprepitant",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

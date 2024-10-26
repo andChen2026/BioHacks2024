@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00896649",
+    "briefTitle": "Positron Emission Mammography and Standard Mammography in Women at High Risk of Breast Cancer",
+    "officialTitle": "Impact of Dedicated Breast Positron Emission Mammography vs. Conventional Two-View Digital Mammography on Recall Rates and Cancer Detection as a Screening Examination in Underserved Women",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 193,
+    "primaryOutcomeMeasure": "Frequency of Breast Imaging Assessment Reporting and Data System (BI-RADS) \"0\" Call-back in Mammography vs Breast Imaging Assessment Reporting and Data System (BI-RADS) \"0\" in Positron Emission Mammography",
+    "eligibilityCriteria": "Inclusion criteria:\n\nDISEASE CHARACTERISTICS:\n\n* Scheduled to undergo screening mammogram at one of the Boston Medical Center-affiliated primary care clinics and meets 1 of the following criteria:\n\n  * Dense breast tissue\n  * At high-risk for breast cancer\n\nPATIENT CHARACTERISTICS:\n\n* Has 1 of the following racial or ethnic backgrounds based on the patient's country of birth or the mother and father's country of birth:\n\n  * Hispanic\n  * Haitian Creole\n  * African American\n  * Caucasian\n\nPRIOR CONCURRENT THERAPY:\n\n* None specified\n\nExclusion criteria:\n\n* No history of breast cancer, palpable breast mass, abnormal nipple discharge, or other focal complaints warranting diagnostic mammogram",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

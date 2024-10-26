@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05156606",
+    "briefTitle": "Testosterone & Tamoxifen Trial",
+    "officialTitle": "T&T Trial: Adding Testosterone to Tamoxifen in Male Breast Cancer Patients",
+    "overallStatus": "TERMINATED",
+    "conditions": "Male Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 5,
+    "primaryOutcomeMeasure": "Safety profile",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Male\n2. A history of proven ER+ (\\>10% of cells), AR+ (\\>10% of cells), and HER2- metastatic BC\n3. Tumor progression after at least one line of conventional endocrine therapy (tamoxifen, AI, fulvestrant, CDK4/6, \u00b1LHRH analogue).\n4. Age \u2265 18 years\n5. Adequate hematological, renal and liver function as follows:\n\n   * Absolute neutrophil count \\> 1.5 x 109/L\n   * Platelet count \\>100 x 109/L\n   * White blood cell count \\>3 x 109/L\n   * AST and ALT \\<2.5 or \\<5.0 in case of liver metastases x upper limit of normal (ULN)\n   * Creatinine clearance \\>50mL/min\n   * Prothrombin time, partial thromboplastin time and INR \\<1.5 x ULN\n6. Written informed consent\n\nExclusion Criteria:\n\n1. History of prostate, testicular or liver cancer\n2. Patients already using testosterone supplements\n3. Patients using medication with anti-androgenic effects (e.g. spironolactone)\n4. Elevated PSA (\\>4\u03bcg/L) or severe urinary tract problems (as defined with a Prostate Symptom Score \\>19). Patients with known BRCA mutation and PSA \\>3 \u03bcg/L will be referred to the urologist for prostate cancer screening, and can participate if they have no signs of prostate cancer.\n5. Hematocrit \\>50%\n6. Patients with uncontrolled hypertension, diabetes mellitus or other significant cardiovascular morbidity.\n7. Patients with recent history of coronary artery disease or trombo-embolic events within 6 months prior to screening\n8. Severe concurrent disease, infection, co morbid condition that, in the judgment of the investigator would make the patient inappropriate for enrollment\n9. Visceral crisis and/or rapid progression necessitating chemotherapy\n10. Previous allergic reaction to androgen agonists\n11. Contra-indication for PET imaging\n12. Tamoxifen or fulvestrant treatment \\<5 weeks prior to FES-PET.",
+    "sex": "MALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05071677",
+    "briefTitle": "Treatment Decision Making in African American Women Diagnosed With Triple Negative Breast Cancer",
+    "officialTitle": "Determinants of Treatment Decision Making in African American Women Diagnosed With Triple Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Anatomic Stage I Breast Cancer AJCC v8, Anatomic Stage IA Breast Cancer AJCC v8, Anatomic Stage IB Breast Cancer AJCC v8, Anatomic Stage II Breast Cancer AJCC v8, Anatomic Stage IIA Breast Cancer AJCC v8, Anatomic Stage IIB Breast Cancer AJCC v8, Anatomic Stage III Breast Cancer AJCC v8, Anatomic Stage IIIA Breast Cancer AJCC v8, Anatomic Stage IIIB Breast Cancer AJCC v8, Anatomic Stage IIIC Breast Cancer AJCC v8, Invasive Breast Carcinoma, Prognostic Stage I Breast Cancer AJCC v8, Prognostic Stage IA Breast Cancer AJCC v8, Prognostic Stage IB Breast Cancer AJCC v8, Prognostic Stage II Breast Cancer AJCC v8, Prognostic Stage IIA Breast Cancer AJCC v8, Prognostic Stage IIB Breast Cancer AJCC v8, Prognostic Stage III Breast Cancer AJCC v8, Prognostic Stage IIIA Breast Cancer AJCC v8, Prognostic Stage IIIB Breast Cancer AJCC v8, Prognostic Stage IIIC Breast Cancer AJCC v8, Triple-Negative Breast Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Proportion of patients who accept the recommended treatment plan",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* New patient in the MD Anderson Cancer Center Nellie B. Connally Breast Center or Houston Area Locations (HALs) (presenting to the surgery clinic, medical oncology clinic, or multiteam clinic)\n* Women 18 years and older treated at MD Anderson Cancer Center between 1/1/2019 and 12/31/2021\n* Diagnosis of triple negative invasive breast cancer on percutaneous needle biopsy within 60 days of first clinic appointment demonstrated by estrogen receptor (ER) 0% (absence or very low presence of estrogen uptake), progesterone receptor (PR) 0% (absence or very low presence of progesterone uptake), and HER2 negative (immunohistochemistry \\[IHC\\] score of 0 or 1 or fluorescence in situ hybridization \\[FISH\\] non-amplified score 2.0 or less)\n* Tumor size \\>= 1 cm (chemotherapy is not recommended for tumors \\< 1 cm)\n* Breast cancer stage I, II, or III\n* Self-identify as of African descent (African American, African, Black, Afro-Caribbean, etc.)\n* Completion of treatment planning team meeting and receipt of treatment at MD Anderson or local oncologist under the guidance of MD Anderson medical oncologist; no time window for treatment completion\n* Ability to read, write, and speak in English, and provide consent\n\nExclusion Criteria:\n\n* Patients with previous history of breast cancer diagnosis\n* Patients with newly diagnosed bilateral breast cancer\n* Patients with psychiatric disorders that exceed moderate severity documented within patient medical record",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

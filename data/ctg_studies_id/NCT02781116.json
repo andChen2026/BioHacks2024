@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02781116",
+    "briefTitle": "Risk Assessment Tool in Saudi Arabia",
+    "officialTitle": "Risk Assessment Tool for Breast Cancer in Saudi Arabia",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "The number of new breast cancer identified with the new risk assessment model that more applicable for our population",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All female patients attended the breast cancer screening center\n\nExclusion Criteria:\n\n* Refusal of participation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

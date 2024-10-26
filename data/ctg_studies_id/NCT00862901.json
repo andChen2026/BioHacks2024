@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00862901",
+    "briefTitle": "Safety Study Using Photodynamic Therapy Light Therapy for Patients With Chest Wall Progression of Breast Cancer and Satellite Metastases of Melanoma",
+    "officialTitle": "A Phase I Trial of Continuous Low-Irradiance Photodynamic Therapy (CLIPT) for Patients Failing Radiation Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Skin Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 48,
+    "primaryOutcomeMeasure": "Dose Limiting Toxicity (full thickness ulceration and/or necrosis of the skin)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients \\> 18 years of age, with primary or metastatic cutaneous tumors that have been previously irradiated.\n* Patients must have a target lesion and normal peri-umbilical skin that can be covered by the fiber-optic mesh used to deliver CLIPT (10 x 10 cm for Target lesion, and 1 x 1 cm for Control site).\n* Patients must have a target lesion in a location other than the hands, feet, genitals, or face. Lesions in those locations will be excluded.\n* Patients must sign informed consent.\n\nExclusion Criteria:\n\n* Patients must not have received any systemic anti-cancer therapy within 30 days prior to enrolling in this study.\n* Patients must not have received radiation therapy to the target site within 60 days of enrolling on this study.\n* Patients with medical conditions associated with photosensitivity, such as cutaneous porphyria or a collagen vascular disease, or with known allergies to porphyrins will be excluded.\n* Pregnant and nursing patients will be excluded. Women of child-bearing potential must have a negative serum or urine pregnancy test prior to enrollment.\n* Patients taking medications known to cause photosensitivity (tetracyclines, sulfonamides, phenothiazines, sulfonylurea hypoglycemic agents, thiazide diuretics, griseofulvin, and fluoroquinolones) will be excluded.\n* Laboratory values (Note: these are provided by the potential patient):\n* Absolute neutrophil count \\> 1000.\n* Patients with severe hepatic dysfunction (total bilirubin, AST, or ALT \\> five times upper limit of normal) will be excluded.\n* Adequate coagulation status as indicated by platelet count \\> 50,000, PT and PTT \\< 1.5 time the upper limit of normal.\n* Negative Urine or Serum Pregnancy Test\n\nNote: No cost to patient, and no compensation provided.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

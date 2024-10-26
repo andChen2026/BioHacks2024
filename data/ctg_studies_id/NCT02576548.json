@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02576548",
+    "briefTitle": "A Phase 1/2 Study of MEDI4276 in Adults Subjects With Select HER2-expressing Advanced Solid Tumors.",
+    "officialTitle": "A Phase 1/2 Multicenter, Open-label, Dose-escalation, and Dose-expansion Study to Evaluate the Safety, Pharmacokinetics, Immunogencity, and Antitumor Activity of MEDI4276 in Subjects With Select HER2-expressing Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER2 Expressing Breast or Gastric/Stomach Cancers",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 47,
+    "primaryOutcomeMeasure": "Number and percentage of subjects with adverse events (AEs), serious adverse events (SAEs) and dose-limiting (DLTs).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age \u2265 18 years.\n2. Histologically or cytologically documented unresectable, locally advanced or metastatic breast cancer or gastric cancer refractory to standard therapy.\n\n   1. For subjects with breast cancer:\n\n      * Prior treatment with trastuzumab, pertuzumab, and T-DM1, either alone or in combination, is required.\n      * Subjects with a primary tumor that is hormone (estrogen, progesterone, or both) receptor-positive or receptor-negative are eligible.\n      * Prior hormone therapy is allowed, but last dose must be at least 14 days prior to first dose of MEDI4276.\n   2. For subjects with gastric cancer:\n\n      * Prior treatment with a trastuzumab containing chemotherapy regimen is required.\n3. HER2 Positive disease documented as FISH-positive and/or 3+ by IHC on previously collected tumor tissue.\n4. At least one lesion measurable by RECIST Version 1.1.\n\nExclusion Criteria:\n\n1. Receipt of any conventional or investigational anticancer treatment within 28 days prior to the first dose of MEDI4276.\n2. History of exposure to the following cumulative doses of anthracyclines:\n\n   1. Doxorubicin or liposomal doxorubicin \\>350 mg/m\u00b2.\n   2. Epirubicin \\>530 mg/m\u00b2.\n   3. Mitoxantrone \\>90 mg/m\u00b2 and idarubicin \\> 70 mg/m\u00b2.\n   4. If another anthracycline or more than 1 anthracycline has been used, then the cumulative dose must not exceed the equivalent of 350 mg/m\u00b2 of doxorubicin.\n3. Known brain metastases that are untreated, symptomatic, or require therapy to control symptoms; or any radiation, surgery or other therapy to control symptoms from brain metastases within 2 months prior to first dose of MEDI4276.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

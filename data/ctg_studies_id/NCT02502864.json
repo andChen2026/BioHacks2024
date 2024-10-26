@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02502864",
+    "briefTitle": "Multicenter Study of Pharmacokinetic-Guided Docetaxel in Breast Cancer Patients Receiving Docetaxel and Cyclophosphamide",
+    "officialTitle": "Multicenter Study Investigating Utilization of Pharmacokinetic(PK)-Guided Docetaxel in Senior Adult Breast Cancer Patients Receiving Docetaxel and Cyclophosphamide (TC) Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 9,
+    "primaryOutcomeMeasure": "Rate of Achieving Targeted Area Under the Curve (AUC)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Must have histologically confirmed localized or locally advanced breast cancer for which the treatment plan includes chemotherapy with 4 cycles of standard TC (docetaxel 75 mg/m\\^2 and cyclophosphamide 600mg/m\\^2)\n* Age \\>/= 65 years (Senior adult focused study given increased risk for toxicity)\n* Participants must be female\n* Eastern Cooperative Oncology Group (ECOG) performance status \\<2\n* Must have normal organ and marrow function\n* No pre-existing neuropathy grade \\> 1 per the NCI Common Toxicity Criteria for Adverse Effects (CTCAE) version 4.0\n* Be postmenopausal (defined as amenorrheic for at least 12 months)\n* Must be informed of the investigational nature of this study and be willing to provide written informed consent in accordance with Institutional guidelines and Good Clinical Practice (GCP) indicating that they understand the purpose of and procedures required for the study and are willing to participate prior to the beginning of any specific study procedures.\n\nExclusion Criteria:\n\n* Have uncontrolled illness (including, but not limited to, ongoing or active infection, congestive heart failure, angina pectoris, or cardiac arrhythmia) that would limit compliance with study requirements\n* Have psychiatric illness that would limit compliance with study requirements\n* Have history of allergic reactions attributed to compounds of similar chemical or biologic composition to taxanes (docetaxel or paclitaxel) or cyclophosphamide\n* Have known seropositivity for human immunodeficiency virus, hepatitis C virus, hepatitis B surface antigen, or syphilis. Does not require serologic confirmation as a study procedure.\n* Not willing to follow protocol requirements or to give informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

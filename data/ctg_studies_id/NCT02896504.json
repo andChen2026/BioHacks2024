@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02896504",
+    "briefTitle": "Chemotherapy Effect on Brain Structure, Neurophysiology and Psychomotor Behavior in Breast Cancer Patients",
+    "officialTitle": "Chemotherapy Effect on Brain Structure, Neurophysiology and Psychomotor Behavior in Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Change in Structural Integrity of the Corpus Collusum as measure by MRI-DTI",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* For all participants\n\n  1. Female aged 20-70\n  2. Right handed as determined by the Edinburgh Inventory \\[40\\]\n  3. Proficient in English\n* For Cancer patients\n\n  1. Had breast cancer surgery\n  2. Stage I, II, IIIa\n  3. Non metastatic cancer\n  4. Chemotherapy Patients: Scheduled to receive or receiving breast cancer chemotherapy with Anthracycline and/or Taxane\n  5. Hormonal Therapy Patients: Scheduled to receive or receiving hormonal therapy with Aromatase inhibitor\n  6. For patients recruited before adjuvant therapy: Adjuvant therapy starts at least 2 weeks after surgery\n  7. For patients recruited after adjuvant therapy started: Before completing/within 1 month post chemotherapy Within 4 months after starting hormonal therapy\n\nExclusion Criteria:\n\n1. Symptoms for mild or severe depression as determined by a Patient Health Questionnaire (PHQ-8) score \\>14\n2. Significant impairment in ability to understand and analyze information as determined by a Folstein Mini-Mental State Exam score \\<21.\n3. Prior history of cancer (except breast cancer for breast cancer patients), trauma, neurological, psychiatric, physical or psychological diseases or other conditions that may influence nervous system structure and function\n4. Current medication believed to affect cognitive/psychomotor function (i.e., opioid analgesics, anxiolytics or antidepressants)\n5. History of alcohol, smoking and drug abuse\n6. Transcranial Magnetic Stimulation or MRI contraindication",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

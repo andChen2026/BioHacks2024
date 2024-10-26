@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02003560",
+    "briefTitle": "Accelerated Partial Breast Irradiation With 3D-CRT and IMRT",
+    "officialTitle": "Accelerated Partial Breast Irradiation After Breast Conserving Surgery for Low-risk Invasive Breast Cancer: 3D Conformal Radiotherapy (3D-CRT) and Intensity Modulated Radiotherapy (IMRT) - Prospective Phase II Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Radiation Toxicity, Side Effects",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 90,
+    "primaryOutcomeMeasure": "late radiation side-effect",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* previous breast conserving surgery within 12 weeks (in case of adjuvant chemotherapy within 28 days after completion of chemotherapy)\n* patient age \\> 40 years\n* ECOG performance status: 0-1\n* life expectancy \\>5 years\n* invasive ductal, papillary, mucinous, medullary or tubular carcinoma\n* unifocal tumor\n* pathological tumor size \\< or = 30 mm\n* pathological negative axillary nodal status with axillary dissection or sentinel lymph node biopsy\n* surgical clips in the tumor bed\n* pathological surgical free margins of at least 2 mm\n* written informed consent of patients\n\nExclusion Criteria:\n\n* Stage III-IV\n* multifocal tumor\n* extensive intraductal component (EIC)\n* ductal or lobular carcinoma in situ (DCIS or LCIS)\n* invasive lobular cancer (ILC)\n* lymph-vascular invasion (LVI)\n* contralateral breast cancer\n* history of treatment for previous breast cancer\n* lactation or breast feeding women\n* Paget-disease of the nipple\n* psychiatric disorder\n* increased radiosensitivity (e.g. collagen vascular disease)",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

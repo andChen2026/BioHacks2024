@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02993198",
+    "briefTitle": "A Prospective Study of Breast Cancer Patients With Abnormal Strain Imaging",
+    "officialTitle": "A Prospective Study of Early Stage Breast Cancer Patients With Abnormal Myocardial Deformation Treated With Anthracycline and/or Trastuzumab and Pertuzumab-based Cancer Therapy",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "HER2 Positive Breast Cancer, Cardiovascular Abnormalities",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 134,
+    "primaryOutcomeMeasure": "Change in Global Longitudinal Strain",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients \\> 18 years of age with HER2-overexpressing early stage breast cancer (Stages I - III)\n2. Pathology report must include HER2 expression, estrogen and progesterone receptor status\n3. Normal LV function (EF \\> 53%) on baseline echocardiogram\n4. NYHA functional class I-II (no symptoms, dyspnea with more than 2 blocks)\n5. Scheduled to receive treatment with anthracycline and/or trastuzumab and pertuzumab-based regimens\n6. Patients with a history of HTN, hyperlipidemia, diabetes, mild CAD, mild valvular disease are permitted\n7. Patients on concomitant cardiac medications other than beta-blockers (BB) or ace-inhibitors (ACE) therapy are permitted. Other non-cardiac medications are not prohibited.\n8. Women of childbearing potential and sexually active men and women should use effective contraception.\n9. Patients must have a signed informed consent prior to registration\n\nExclusion Criteria:\n\n1. LV dysfunction (EF \\< 53%)\n2. New York Heart Association (NYHA) functional class III-IV (heart failure symptoms at less than 2 blocks to advanced symptoms at rest)\n\n   a. NYHA Classification: I - No limitations to activity II - Slight limitation to ordinary activity, no symptoms at rest III - Marked limitation to less than ordinary activity, no symptoms at rest IV - Inability to carry out activity without symptoms, symptoms at rest\n3. Pre-existing cardiac disease (moderate-severe coronary artery disease, moderate-severe valvular heart disease, constrictive/restrictive cardiomyopathies)\n4. Metastatic breast cancer\n5. Patients who have ever taken BB/ACE therapy are excluded.\n6. 2nd and 3rd degree AV block\n7. Sick sinus syndrome\n8. Patients with severe bradycardia (\\< 50 bpm) or severe hypotension (SBP \\< 85 mmHg)\n9. Severe liver dysfunction defined as Child-Turcotte-Pugh class B \\& C (significant functional compromise - decompensated disease)\n10. Moderate-severe Asthma\n11. Hypersensitivity to beta-blockers\n12. Patients who are pregnant/lactating are not eligible\n13. Unwilling to consent/assent to blood donation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

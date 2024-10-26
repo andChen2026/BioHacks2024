@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00532285",
+    "briefTitle": "Primary Paclitaxel Plus Gemcitabine in Patients With Stage II and III Breast Cancer",
+    "officialTitle": "Phase II Study of Primary Paclitaxel Plus Gemcitabine in Patients With Stage II and III Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 44,
+    "primaryOutcomeMeasure": "To evaluate the clinical and pathologic responses to preoperative administration of Paclitaxel/Gemcitabine (PG)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All patients must have histologically confirmed and newly diagnosed breast cancer: node-positive stage IIA and any stage IIB, III. PET results will determine node positivity. If PET was not utilized, sonographically positive node should be confirmed cytologically by fine needle aspiration.\n* No prior hormonal, chemotherapy or radiotherapy is allowed.\n* No breast operation other than biopsy to make diagnosis is allowed.\n* Age: 18-years and older, not pregnant pre-, and postmenopausal women with good performance status (ECOG 0-1)\n* Adequate hematopoietic function: Absolute granulocyte count \u00b31500/mm3, platelet \u00b3100,000/mm3, Hemoglobin \u00b3 10 g/mm3\n* Adequate renal function: Serum creatinine \u00a3 1.5 mg/dl\n* Adequate hepatic function: total bilirubin: \u00a3 1.5 mg/dl, AST/ALT: \u00a3 two times normal, Alkaline phosphatase: \u00a3 two times normal\n* Adequate cardiac function: normal or nonspecific EKG taken within 1 mo of enrollment\n* Adequate mental function to understand and sign the consent\n\nExclusion Criteria:\n\n* Patients who received hormonal, chemotherapy or radiotherapy for breast cancer\n* Patients who underwent surgery for breast cancer\n* Patients with node-negative stage IIA breast cancer\n* Patients who have history of cancer other than in situ uterine cervix cancer or nonmelanotic skin cancer",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

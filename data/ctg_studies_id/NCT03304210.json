@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03304210",
+    "briefTitle": "PIPAC Nab-pac for Stomach, Pancreas, Breast and Ovarian Cancer",
+    "officialTitle": "Intraperitoneal Aerosolization of Albumin-stabilized Paclitaxel Nanoparticles for Stomach, Pancreas, Breast and Ovarian Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Peritoneal Carcinomatosis, Ovarian Cancer Stage IIIB, Ovarian Cancer Stage IIIC, Ovarian Cancer Stage IV, Breast Cancer Stage IIIB, Breast Cancer Stage IIIc, Breast Cancer Stage IV, Stomach Cancer Stage III, Stomach Cancer Stage IV With Metastases, Pancreas Cancer, Stage III, Pancreas Cancer, Stage IV",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Maximally Tolerated Dose (MTD) of Abraxane",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Phase I study: patients with advanced carcinomatosis from ovarian, breast, gastric, or pancreatic origin. No alternative systemic treatment options are available.\n* Age over 18 years\n* Adequate performance status (Karnofsky index \\> 60%)\n* Absence of intestinal or urinary obstruction\n* Limited size of the majority of peritoneal tumor implants (\\< 5 mm)\n* Absent or limited ascites\n* Ability to understand the proposed treatment protocol and provide informed consent\n* Expected life expectancy more than 6 months\n* Laboratory data\n\n  * Serum creatinine \u2264 1.5 mg/dl or a calculated GFR (CKD-EPI) \u2265 60 mL/min/1.73 m\u00b2\n  * Serum total bilirubin \u2264 1.5 mg/dl, except for known Gilbert's disease\n  * Platelet count \\> 100.000/\u00b5l\n  * Hemoglobin \\> 9g/dl\n  * Neutrophil granulocytes \\> 1.500/ml\n  * No major blood coagulation disorders. Parameters within normal range.\n* Absence of alcohol and/or drug abuse\n* No other concurrent malignant disease\n* Written informed consent\n\nExclusion Criteria:\n\n* Pregnancy or breast feeding. Women who can become pregnant must ensure effective contraception.\n* Active bacterial, viral or fungal infection\n* Active gastro-duodenal ulcer\n* Parenchymal liver disease (any stage cirrhosis)\n* Uncontrolled diabetes mellitus\n* Psychiatric pathology affecting comprehension and judgement faculty\n* General or local (abdominal) contra-indications for laparoscopic surgery\n* Documented intolerance or allergy to paclitaxel\n* Patients who receive other taxane therapy until three weeks before the first experimental treatment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

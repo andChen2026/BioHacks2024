@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06212440",
+    "briefTitle": "Clinical Application of Multi-modal Sentinel Lymph Node Staining Method in Breast Cancer Patients After Neoadjuvant Chemotherapy",
+    "officialTitle": "Clinical Application of Multi-modal Sentinel Lymph Node Staining Method in Breast Cancer Patients Who Receive Neoadjuvant Chemotherapy : Expanded Access Clinical Study in 3 Arms",
+    "overallStatus": "RECRUITING",
+    "conditions": "Sentinel Lymph Node Biopsy, Neoadjuvant Therapy, Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 348,
+    "primaryOutcomeMeasure": "Identification rate of sentinel lymph node",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The patient with locally advanced breast cancer who achieved neoadjuvant chemotherapy\n* Confirmed operability with imaging study after neoadjuvant chemotherapy\n* Age over 20 years old\n* ECOG Performance status : 0-2\n* The patient with written informed consent form\n\nExclusion Criteria:\n\n* The patient with previous ipsilateral breast cancer history\n* The patinet with previous ipsilateral axillary surgical procedure (e.g. excisional or incisional biopsy, axillary dissection)\n* The patient without neoadjuvant chemotherapy\n* Inoperable imaging study after neoadjuvant chemotherapy\n* Inflammatory breast cancer\n* Pregnant patient",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

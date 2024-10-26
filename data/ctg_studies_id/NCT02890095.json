@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02890095",
+    "briefTitle": "Persistent Organic Pollutants and Breast Cancers (POPCASE)",
+    "officialTitle": "Prospective, Multicenter, Epidemiological Case-control Study, to Establish a Possible Correlation Between Persistent Chemical Contaminants (POPs) and Breast Cancer.",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 800,
+    "primaryOutcomeMeasure": "correlation between the individual risk of breast cancer and persistent chemical contaminants",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women \u2265 18 and \\<75 years\n2. According to the arm:\n\n   * Arm A: histologically confirmed diagnosis of invasive breast cancer (only), unilateral or bilateral, outside off recurrence and relapse. Patients who have been supported for a contralateral breast cancer can be included if a period of at least 2-years between the last systemic treatment of inclusion in the study.\n   * Arm B: Any woman operated on for breast plastic surgery (breast lift and breast reduction cure only)\n3. Performance status (WHO) \u2264 1\n\n5. Patient affiliated to a social security scheme, 6. Patient who signed and dated informed consent form 7. Arm A only: unifocal lesion 8. Arm A only: Clinical stage M0\n\nExclusion Criteria:\n\n1. Patient with uncontrolled infection\n2. Patient pregnant or lactating\n3. Patient with a viral infection (HIV, Hepatitis B, Hepatitis C)\n4. Patient cannot be regularly monitored for psychological reasons, social, family or geographical.\n5. Patient Private of liberty or under a guardianship authority / curatorship.\n6. Arm A only: Patient to benefit from neoadjuvant therapy for breast cancer\n7. Arm A only Patient with metastatic breast cancer\n8. Arm A only Patient diagnosed cancer in situ (intra ductal)\n9. Arm A only Patient with BRCA1 or BRCA2 known\n10. Arm B only: previous breast plastic surgery, regardless of the type of intervention",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

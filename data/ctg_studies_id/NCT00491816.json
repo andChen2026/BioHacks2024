@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00491816",
+    "briefTitle": "Erlotinib Plus Chemotherapy for Treatment of Triple Negative Breast Cancer",
+    "officialTitle": "Phase II Trial of Neoadjuvant Erlotinib Plus Chemotherapy for Treatment of ER Negative, PgR Negative and HER-2 Negative Primary Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 32,
+    "primaryOutcomeMeasure": "Pathological complete response rate (pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patient \u2265 18 years of age\n* Histologically proven stage II or III adenocarcinoma of the breast\n* Patients must be candidates for neoadjuvant treatment (tumor size \\> 2 cm, T2, T3, T4 and/or clinical N1 or N2)\n* Estrogen Receptor negative, Progesterone Receptor negative and HER-2 negative disease (IHC 0 or 1+ and/or FISH negative)\n* Performance status of 2 or better\n* No prior chemotherapy or endocrine therapy\n* If female of childbearing potential, pregnancy test is negative and willing to use effective contraception while on treatment and for at least 3 months after the last dose of study drug\n* Adequate bone marrow function: neutrophils \u2265 1500/mm3, platelet count \u2265 100,000/mm3, and hemoglobin \u2265 11 g/dL\n* Adequate kidney function: serum creatinine \u2264 1.5 mg/dl and/or creatinine clearance of \u2265 60 mL/min\n* Adequate hepatic function: transaminases \\< 2 x upper limit of normal and total bilirubin \u2264 1.5 mg/dL\n* Patients must have a serum albumin \u2265 3.0 g/dL\n* Patients must have a Prothrombin Time, Partial Thromboplastin Time within normal limits\n* Patients must be informed of the investigational nature of the study, and must sign an informed consent in accordance with the institutional rules\n* Pretreatment lab values must be performed within 14 days of patient registration, and other baseline studies within 30 days\n* Patients will have a baseline mammogram, bone scan, CT chest and abdomen\n\nExclusion Criteria:\n\n* Patients with metastatic disease are excluded from study\n* The presence of any other medical or psychiatric disorder that, in the opinion of the treating physician, would contraindicate the use of drugs in this protocol or place the subject at undue risk for treatment complications\n* Pregnancy or lactation\n* Prior use of an Epidermal growth factor receptor inhibitor\n* Patients with a history of chronic pulmonary disease are excluded from study\n* Patients with inadequate laboratory values (as defined above) are excluded from study\n* Patients with NCI common toxicity criteria (CTC) grade 2 or greater peripheral neuropathy are excluded from study\n* Patients with active infection are excluded from study\n* Patients with concomitant or previous malignancies within the last 5 years, with the exception of adequately treated basal or squamous cell carcinoma of the skin or carcinoma in situ of the cervix, are excluded from study\n* Patients with emotional limitations are excluded from study\n* Patients with inflammatory breast cancer will be excluded",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02332928",
+    "briefTitle": "Melatonin Supplementation for Cancer-related Fatigue in Patients Receiving Radiotherapy",
+    "officialTitle": "Melatonin Supplementation for Cancer-related Fatigue in Patients Receiving Radiotherapy: A Double Blind Placebo-Controlled Trial",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer - Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Comparison of FACIT-Fatigue Subscale",
+    "eligibilityCriteria": "Inclusion Criteria\n\n1. Ambulatory outpatients with breast (including ductal carcinoma in situ \\[DCIS\\]) cancer.\n2. Patients to be treated with RT for curative intent.\n3. Women \u226518 years of age.\n4. Eastern Cooperative Oncology Group (ECOG) performance status \\<3 (Appendix 4).\n5. Hemoglobin \u2265 9 g/dL\n6. Either post-menopausal, surgically sterilized, or willing to use an acceptable method of birth control during study treatment and for 3 months afterwards.\n7. Subjects who are currently taking melatonin must discontinue melatonin for 5 days before enrolling in the study.\n8. Ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria\n\n1. Fatigue brought on by conditions other than cancer such as (the indicated tests are required only if that mechanism of fatigue is suspected):\n\n   * uncontrolled hypothyroidism (TSH \\>10 IU)\n   * hypercalcemia (calcium \\>11 mg/dL) Calcium (Ca) = Serum Calcium (SerumCa) + 0.8 \\* (NormalAlbumin - PatientAlbumin)\n   * decompensated congestive heart failure\n   * chronic obstructive pulmonary disease requiring oxygen replacement\n2. Patients with a creatinine clearance \\<30 mL/min\n3. Aspartate aminotransferase (AST) \\> 3X upper limit of normal (ULN)\n4. Alanine aminotransferase (ALT) \\> 3X ULN\n5. Bilirubin \\> 1X ULN\n6. Use of systemic steroids, or other pharmacological agents such as methylphenidate for cancer-related fatigue\n7. Current use of American ginseng, remelteon, or warfarin.\n8. Depression \u2265 grade 2 (CTCAE v4.0)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

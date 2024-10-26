@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04683445",
+    "briefTitle": "Efficacy and Safety of Eribulin in the Treatment of Advanced Breast Cancer",
+    "officialTitle": "A Real-world Study: Efficacy and Safety of Eribulin in the Treatment of Advanced Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Progression Free Survival\uff0cPFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Adult female patients (aged 18-80 years, including 18 and 80 years) with metastatic breast cancer confirmed by pathology or imaging are not suitable for surgical resection or radiotherapy for the purpose of cure;\n2. The starting time of eribulin treatment was between January 2021 and December 2021;\n3. They received no more than 2-line chemotherapy in the past;\n4. In HR + / her2-mbc, patients were treated with eribulin monotherapy; in HER2 + MBC, patients were treated with eribulin + anti HER2 targeted therapy; in TNBC, patients were treated with eribulin + immunotherapy / chemotherapy; in patients with HER2 + MBC, patients were treated with eribulin + immunotherapy /chemotherapy;\n\nExclusion Criteria:\n\n1. Patients without pathological diagnosis;\n2. Patients with central nervous system metastasis;\n3. She has received more than two chemotherapy regimens for metastatic breast cancer;\n4. Participating in any intervention drug clinical trials.\n5. Those who have been known to have allergic history to the components of this regimen;\n6. The patient, the patient, or the person with serious harm to the safety of the study.\n7. Any other situation in which the researcher considers that the patient is not suitable for the study may interfere with the concomitant diseases or conditions involved in the study, or there are any serious medical barriers that may affect the safety of the subjects (e.g., uncontrollable heart disease, hypertension, active or uncontrollable infection, active hepatitis B virus infection)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

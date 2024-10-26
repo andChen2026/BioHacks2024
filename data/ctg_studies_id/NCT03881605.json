@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03881605",
+    "briefTitle": "MRI Screening Versus SYMptom-directed Surveillance for Brain Metastases Among Patients With Triple Negative or HER2+ MBC",
+    "officialTitle": "Routine MRI Screening Versus Symptom-directed Surveillance for Brain Metastases Among Patients With Triple Negative and HER2+ Metastatic Breast Cancer (MBC): A Single-centre Randomized Pilot Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasm, Brain Metastases, Triple Negative Breast Cancer, HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Proportion of eligible patients at the Sunnybrook Odette Cancer Centre (SOCC) who i) agree to enroll in the proposed randomized phase II pilot study, and ii) complete the study protocol.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age \u226518\n2. Triple negative or HER2+ breast cancer (ASCO/CAP guidelines 2018)\\*\n3. MBC, as defined as distant disease outside of the breast and local/regional lymph nodes. Physicians' clinical judgment will be used to determine the possible need for biopsy in confirming a MBC diagnosis. However, biopsy of a metastatic site is not required for pathologic confirmation of stage IV disease.\n4. Diagnosis of metastatic disease within 12 weeks prior to study enrollment.\n5. No symptoms of BrM or known asymptomatic BrM at study entry.\n6. Patients with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen may participate.\n\n   * This will generally be based on the primary cancer but in the event that a metastatic site is biopsied eligibility will be based on the ER, PR and HER2 profile of the metastasis.\n\nExclusion Criteria:\n\n1. Inability to participate in an MRI screening program as determined by the patient and/or physician. This may be on the basis of severe claustrophobia, performance status that limits additional testing, or a metal foreign body that would prevent MRI imaging.\n2. Inability to provide informed consent. Notably participants who require translators are allowed to enroll.\n3. Creatinine clearance \\<30 mL/min using the Cockcroft-Gault equation.\n4. Established need for brain imaging apart from the breast cancer diagnosis (e.g surveillance for an aneurysm).\n5. ECOG Performance status \\>2.\n6. Pregnancy.\n7. Grade 3+ allergy to Gadavist IV contrast (CTEP Adverse Event Reporting System).",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

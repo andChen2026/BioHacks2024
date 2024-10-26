@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02827877",
+    "briefTitle": "Cu64-DOTA-trastuzumab PET and Markers Predicting Response to Neoadjuvant Trastuzumab + Pertuzum in HER2+ Breast Cancer",
+    "officialTitle": "Use of 64Cu-DOTA-Trastuzumab PET Imaging and Molecular Markers for Prediction of Response to Trastuzumab and Pertuzum-Based Neoadjuvant Therapy",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "HER2 Positive Breast Carcinoma, Stage IIIA Breast Cancer, Stage IIIB Breast Cancer, Stage IIIC Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 18,
+    "primaryOutcomeMeasure": "Response to Neoadjuvant Chemotherapy Determined at Surgery (Lumpectomy or Mastectomy).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants must be women who have histological confirmation of HER2 positive breast cancer\n* The primary tumor must be \\>= 2.0cm in size and/or have biopsy proven axillary nodes that are \\>= 2.0cm in size by mammography, ultrasound, or magnetic resonance imaging (MRI)\n* The current cancer must over express HER2 as determined by immunohistochemistry (IHC) and/or fluorescence in situ hybridization (FISH)\n* Patients may not have received prior HER2 directed therapies\n* Participants must have normal cardiac ejection fraction (per label, as defined as institutional normal)\n* Planned neoadjuvant therapy with six cycles of combined pertuzumab, trastuzumab and chemotherapy\n* Ability to provide informed consent\n* Negative Serum Pregnancy test\n\nExclusion Criteria:\n\n* Participants who are not considered candidates for pertuzumab + trastuzumab + chemotherapy\n* Concurrent malignancy other than non-melanoma skin cancer\n* Patients must not have known metastatic disease\n* Patients must not have received prior treatment for the current breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

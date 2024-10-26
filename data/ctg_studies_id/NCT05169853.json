@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05169853",
+    "briefTitle": "Programmed Death-Ligand1 Expression in Her-2 Positive and Triple Negative Breast Cancer",
+    "officialTitle": "Correlation Between Programmed Death-Ligand1 Expression and Clinical Outcomes After Neoadjuvant Systemic Therapy in Her-2 Positive and Triple Negative Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Triple Negative Breast Cancer, HER2-positive Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Variation of PD-L1 expression in Her-2 positive and triple negative breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients aged 18 years old or more\n* Histologically proven invasive breast cancer\n* Any T stage, any N Stage with no distant metastasis M0 as evident by clinical examination and sonomammography.\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) of \u2264 2.\n* Patients with Her-2 positive Luminal B subtype, Her-2 enriched or triple negative breast cancer.\n* Patients who completed their systemic neoadjuvant therapy.\n\nExclusion Criteria:\n\n* Second malignancy\n* Patients with early breast cancer clinicallyT1 (\u2264 2 cm) N0\n* Metastatic patients M1\n* Patients with autoimmune diseases (Type I Diabetes mellitus, Systemic Lupus Erythematosus, Rheumatoid Arthritis, Sjogren's syndrome and Behcet disease)\n* Patients on systemic steroids or other immunomodulators (as Methotrexate, Tacrolimus and Cyclosporine)\n* Patients who started but didn't complete neoadjuvant systemic therapy\n* Patients who didn't undergo surgery after neoadjuvant systemic therapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

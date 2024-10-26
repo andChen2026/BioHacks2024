@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03630653",
+    "briefTitle": "Sentinel Lymph Node Procedure in Ipsilateral Invasive Breast Cancer Relapse",
+    "officialTitle": "Feasibility and Accuracy of Lymph-node (LN) Restaging by Sentinel LN Procedure and Axillary LN Dissection in Ipsilateral Invasive Breast Cancer Relapse",
+    "overallStatus": "TERMINATED",
+    "conditions": "Invasive Breast Cancer, Ipsilateral Recurrence, Sentinel Lymph Node Biopsy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "False-negative rate in patients with a second SLNB procedure for IBTR",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients \u2265 18 years old\n2. Invasive recurrence (ductal, lobular, other), homolateral breast carcinoma\n3. Size of the tumor with ultrasound \u2264 5cm\n4. Initial conservative surgery\n5. Patient who has already received SLND for her initial cancer, regardless of the SLND result\n6. Procedure for the detection of lymph node sentinel by isotopic method +/- colorimetric\n7. Minimum delay of one year between the end of radiotherapy for initial breast carcinoma and the treatment / management of ipsilateral recurrence\n8. Pregnancy test (urinary or blood) negative for premenopausal patients\n9. Information of the patient and obtaining written consent, signed by the patient and the investigator\n\nExclusion Criteria:\n\n1. Non-invasive recurrence\n2. History of ipsilateral axillary dissection\n3. History of ipsilateral mastectomy\n4. Patient pN + before surgery\n5. Metastasis\n6. Allergy known to 2 detection products (Blue and radioactive tracer)\n7. Pregnant or lactating woman\n8. Patient protected or under guardianship or unable to give consent\n9. Impossibility of submitting to the medical examination for geographical, social or psychological reasons",
+    "sex": "N/A",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

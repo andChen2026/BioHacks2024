@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04992156",
+    "briefTitle": "Prediction of 18F-FES-PET/CT Parameters on Palbociclib Combined With ET",
+    "officialTitle": "A Retrospective Study of Prediction of 18F-FES-PET/CT Parameters on the Outcome of Palbociclib Combined With Endocrine Therapy in Patients With HR+ and HER2-metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "PFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patients aged 18-70 years.\n2. Metastatic breast cancer included unresectable locally advanced breast cancer, de novo stage IV breast cancer, and recurrent metastatic breast cancer.\n3. HR+ was defined as estrogen receptor- or progesterone receptor-positive status by immunohistochemistry.\n4. HER2 status was determined by immunohistochemistry or fluorescence in situ hybridization.\n5. Palbociclib treatment of metastatic breast cancer for at least one cycle.\n6. Available medical history.\n\nExclusion Criteria:\n\n1.Incomplete medical history.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

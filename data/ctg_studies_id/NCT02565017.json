@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02565017",
+    "briefTitle": "Examining Patient Preferences About the IBM Watson Oncology Clinical Decision Support System",
+    "officialTitle": "Examining Patient Preferences About the IBM Watson Oncology Clinical Decision Support System",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Lung Cancer, Colorectal Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 70,
+    "primaryOutcomeMeasure": "Acceptability of IBM Watson Oncology",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* MSKCC patient 18 years or older\n* Breast, lung, or colorectal cancer MSK patient as per EMR or clinician judgment having either:\n\n  * Chemotherapeutic adjuvant or neoadjuvant treatment with the first chemo visit occurring within the past 8 months and primary treatment (i.e., surgery), occurring within the past 6 months)at MSK\n  * OR chemotherapeutic treatment for metastatic disease with the first chemo visit occurring within the past 8 months at MSK\n  * OR chemotherapeutic treatment through an on-going MSK clinical trial as per clinician\n* Residing in New York metro-area\n\nExclusion Criteria:\n\n* Non-English speakers because we do not have the resources to conduct and translate the focus groups into other languages\n* Patients who are not or will not receive their cancer care at MSKCC.\n* Patient unwilling or unable to provide informed consent",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06114589",
+    "briefTitle": "A Study to Develop Molecular Integrated Predictive Models of Breast Radio-toxicity (Precise-RTox)",
+    "officialTitle": "An Observational Study to Develop Molecular Integrated Predictive Models of Breast Radio-toxicity (Precise-RTox)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 420,
+    "primaryOutcomeMeasure": "Generation of a predictive model for actinic fibrosis.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u226518 years;\n* Ability to express appropriate informed consent to treatment;\n* Distant nonmetastatic breast cancer;\n* Histology: infiltrating NST(no special type)/lobular carcinoma or ductal carcinoma in situ;\n* Stage: pTis; pT1-3 pN1-3 M0;\n* Hormone receptors, HER-2 status: Any;\n* Breast-conserving surgery. Both the sentinel lymph node biopsy and axillary lymphadenectomy. Negative surgical margins.\n* Candidates for postoperative radiation treatment.\n\nExclusion Criteria:\n\n* Refusal of radiotherapy treatment (i.e., absence of signed informed consent);\n* Previous radiation therapy at the same site;\n* Concomitant chemotherapy with anthracyclines or taxanes;\n* Inability to maintain treatment position;\n* Partial breast radiotherapy (PBI);\n* Male breast cancer;\n* Mastectomy surgery.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

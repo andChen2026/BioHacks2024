@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02493569",
+    "briefTitle": "A Multicenter Study of Clinical Epidemiology of Breast Cancer in Shaanxi Province of China",
+    "officialTitle": "A Multicenter Study of Clinical Epidemiology of Breast Cancer in Shaanxi Province of China (Based on Hospital)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 3000,
+    "primaryOutcomeMeasure": "Overall five-year survival for the female breast cancer patients",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients;\n* The hospitalized patients who are confirmed of the primary breast cancer histologically;\n* The date of the inpatients are within the month we chosen;\n* Patients who are within the month we chosen have been received or under receiving the relevant treatment including surgical treatment, chemotherapy and radiotherapy.\n\nExclusion Criteria:\n\n* Male breast cancer patients;\n* Patients with breast cancer who are not under the chosen time;\n* Non hospitalized patients.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

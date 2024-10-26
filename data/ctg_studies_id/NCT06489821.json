@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06489821",
+    "briefTitle": "STereotactic Body Radiotherapy (SBRT) for Oligoprogressive Breast Cancer",
+    "officialTitle": "STereotactic Body Radiotherapy (SBRT) After oligoprogRession Metastatic Breast Cancer (STAR-B)",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Metastatic Breast Cancer, Oligoprogression",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 36,
+    "primaryOutcomeMeasure": "Percentage of patients with change in systemic therapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Diagnosis of progressive metastatic breast cancer on first line systemic therapy, including either hormone receptor positive, Her-2 negative (HR+/Her2-) on endocrine therapy + CDK4/6 inhibitor or Her-2 positive (hormone receptor positive or negative /Her2+) on Her2-targeted therapy regimens.\n2. Progressive disease limited to \"oligoprogression\", defined as progression of 5 or fewer extra-cranial lesions with otherwise controlled systemic disease on current line of systemic therapy.\n3. Patients must have previously controlled disease for at least six months on current systemic therapy\n4. Deemed a candidate for stereotactic body radiotherapy (SBRT) to all OP lesions\n\nExclusion Criteria:\n\n1. Requires change in systemic therapy line at the time of OP as determined by medical oncologist;\n2. Progression on 2nd line or subsequent lines of therapy\n3. Lacks CT or bone scan Imaging within previous 45 days;\n4. Progression in \\>3 sites in the liver or lung;\n5. Hormone positive disease on endocrine therapy only at time of enrollment;\n6. Previous radiotherapy to same site or vicinity preventing definitive SBRT (e.g. within 5 cm);\n7. Lesions deemed not amenable to SBRT due to large size or location;\n8. Unacceptable fracture risk according to clinician judgement for bone lesions;\n9. Brain metastasis or Spinal cord compression;\n10. History of major radiosensitivity syndrome or contraindications to radiotherapy.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

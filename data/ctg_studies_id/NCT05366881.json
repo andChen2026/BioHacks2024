@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05366881",
+    "briefTitle": "cfDNA Assay Prospective Observational Validation for Early Cancer Detection and Minimal Residual Disease",
+    "officialTitle": "cfDNA Assay Multicenter Prospective Observational Validation for Early Cancer Detection, Minimal Residual Disease, and Relapse",
+    "overallStatus": "RECRUITING",
+    "conditions": "Brain Cancer, Breast Cancer, Bladder Cancer, Cervical Cancer, Colorectal Cancer, Endometrial Cancer, Esophageal Cancer, Stomach Cancer, Head and Neck Cancer, Hepatobiliary Cancer, Leukemia, Lung Cancer, Lymphoma, Multiple Myeloma, Ovarian Cancer, Pancreatic Cancer, Prostate Cancer, Renal Cancer, Sarcoma, Thyroid Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 7000,
+    "primaryOutcomeMeasure": "Detection of cancer",
+    "eligibilityCriteria": "Case Inclusion Criteria:\n\n* Newly diagnosed (within 90 days) with cancer or a recurrence of a cancer diagnosed \\>5 years ago of one of the following subtypes: Invasive Brain, Breast, Bladder, Cervical, Colorectal, Endometrial, Esophageal, Gastric, Head and Neck, Hepatobiliary, Lung, Ovarian, Pancreatic, Prostate, Renal, Sarcoma, Thyroid; Leukemia, Lymphoma, Multiple Myeloma\n* Able and willing to provide informed consent\n* \u226540 years of age\n\nCase Exclusion Criteria:\n\n* Currently receiving any treatment for cancer\n* Currently taking any demethylating agents/DNA hypomethylating agents\n* Simultaneously diagnosed with two or more invasive cancers\n* Diagnosed with any invasive or non-invasive cancer in addition to the index cancer in the last 5 years\n* Currently diagnosed with any chronic hematopoietic cancer (e.g. chronic CLL) in addition to the index cancer\n* Currently diagnosed with any myelodysplastic syndromes and/or precursor hematologic conditions (e.g. MGUS) in addition to the index cancer\n* Women who are known to be pregnant (self-reported)\n\nControl Inclusion Criteria\n\n* Not diagnosed with any cancer in the last 5 years (non-invasive cancer is allowed)\n* Able and willing to provide informed consent\n* \u226540 years of age\n\nControl Exclusion Criteria\n\n* Currently receiving any treatment for cancer\n* Currently taking any demethylating agents/DNA hypomethylating agents\n* Women who are known to be pregnant (self-reported)",
+    "sex": "ALL",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

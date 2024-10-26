@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04559308",
+    "briefTitle": "The Effect of Metformin on Breast Cancer Patients",
+    "officialTitle": "The Effect of Metformin on Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Clinical benefit rate (Tumor size)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Non-diabetic breast cancer patients, receiving neoadjuvant chemotherapy treatment.\n2. Female Age between 18- 65 years.\n3. Written informed consent.\n\nExclusion Criteria:\n\n1. Known hypersensitivity reaction to Metformin.\n2. Intolerable Metformin GI complaints.\n3. Patients at risk of lactic acidosis.\n4. Diabetic breast cancer patients.\n5. Body Mass Index \\< 18.5 (underweight breast cancer patients).\n6. Renal impairment, eGFR \\<45 mL/min/1.73 m\u00b2.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

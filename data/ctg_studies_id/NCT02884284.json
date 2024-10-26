@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02884284",
+    "briefTitle": "Prospective and Retrospective Breast Cancer Database",
+    "officialTitle": "Creation of a Prospective and Retrospective Breast Cancer Database",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 10000,
+    "primaryOutcomeMeasure": "Database of patients with breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patient\n* Histologically confirmed breast cancer of any stage\n* Affiliated to a social security system in france\n* Who signed the informed consent\n\nExclusion Criteria:\n\n* Any psychiatric or medical condition that would make the patient unable to give a signed informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

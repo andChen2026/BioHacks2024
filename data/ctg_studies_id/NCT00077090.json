@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00077090",
+    "briefTitle": "Hyperbaric Oxygen Therapy Compared With Standard Therapy in Treating Chronic Arm Lymphedema in Patients Who Have Undergone Radiation Therapy for Cancer",
+    "officialTitle": "Randomized Phase II Trial Of Hyperbaric Oxygen Therapy In Patients With Chronic Arm Lymphoedema After Radiotherapy For Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Lymphedema, Perioperative/Postoperative Complications, Radiation Fibrosis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 63,
+    "primaryOutcomeMeasure": "Volume of the affected limb, expressed as a percentage of the contralateral limb Volume on the day of measurement, as measured by perometer 12 months after baseline assessment",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* History of early breast cancer (T1-3, N0-1, M0)\n* Prior breast surgery with or without axillary dissection\n* Prior breast/chest wall radiotherapy with or without radiotherapy to the supraclavicular fossa and/or axilla, completed at least 2 years ago\n* Arm lymphedema\n\n  * At least 15% increase in arm volume\n* No evidence of cancer recurrence\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* Over 18\n\nSex\n\n* Female or male\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* Not specified\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Not specified\n\nHepatic\n\n* Not specified\n\nRenal\n\n* Not specified\n\nPulmonary\n\n* No chronic obstructive airway disease\n* No bullous lung disease\n* No acute or chronic pulmonary infection\n* No uncontrolled asthma\n* No untreated pneumothorax\n\nOther\n\n* Physically and psychologically fit for HBO therapy\n* No claustrophobia\n* No epilepsy\n* No eustachian tube dysfunction\n* No recurrent attacks of vertigo\n* No contraindication to MRI (e.g., intracranial ferrous material)\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* Not specified\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* See Disease Characteristics\n\nSurgery\n\n* See Disease Characteristics\n* No prior ear operations\n\nOther\n\n* No prior hyperbaric oxygen (HBO) therapy, except as treatment for decompression illness",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

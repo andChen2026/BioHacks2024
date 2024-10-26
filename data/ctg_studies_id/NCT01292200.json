@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01292200",
+    "briefTitle": "Breast Health in Chinese American Women",
+    "officialTitle": "A RCT to Promote Mammography Adherence Among Chinese Immigrant Women",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 954,
+    "primaryOutcomeMeasure": "3rd interview about receipt of mammography screening",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. First generation Chinese women\n2. Aged 42 and older\n3. Have not had a mammogram in the past 2 years\n4. Have never had breast cancer\n5. Lived in the metropolitan DC, southern CA, and NY suburb; AND\n6. Have no mammography screening scheduled in the next 6 month from time of enrollment\n\nExclusion Criteria:\n\n1. Short-term visitors\n2. US-born Chinese Americans",
+    "sex": "FEMALE",
+    "minimumAge": "42 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

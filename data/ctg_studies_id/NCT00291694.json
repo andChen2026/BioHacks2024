@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00291694",
+    "briefTitle": "Protocol for Women at Increased Risk of Developing Breast Cancer",
+    "officialTitle": "A Double-blinded Phase II Study of the Expression of Ki-67/MIB-1 in Women With Hyperplasia of the Breast Randomized to Receive Daily Celecoxib 400 mg BID or Placebo",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 72,
+    "primaryOutcomeMeasure": "Change in Percent of Breast Epithelial Cells Staining Positive for Ki-67",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women who have a high risk of breast cancer\n* older than 18 years\n\nExclusion Criteria:\n\n* anticoagulants\n* marked breast tenderness\n* pregnant or within twelve months of breast feeding/childbirth",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

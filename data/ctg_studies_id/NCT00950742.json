@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00950742",
+    "briefTitle": "Phase I Open Label Trial to Assess Safety of BIBW 2992 (Afatinib) in Combination With Herceptin\u00ae in Patients With HER2-positive Advanced Breast Cancer.",
+    "officialTitle": "Phase I Open Label Trial to Assess Safety of BIBW 2992 in Combination With Herceptin\u00ae in Patients With HER2-positive Advanced Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 18,
+    "primaryOutcomeMeasure": "Number of Participants With Dose Limiting Toxicities (DLT)",
+    "eligibilityCriteria": "Inclusion criteria:\n\n1. Female patients aged \\>18 years.\n2. Advanced or metastatic breast cancer that over-expresses HER2 (immunohistochemistry 3+ or 2+ and gene amplification by FISH). Prior treatment with Herceptin\u00ae or Lapatinib\u00ae (in the adjuvant or metastatic settings) is permitted but not required.\n\nExclusion criteria:\n\nPatients with untreated or symptomatic brain metastases. Prior treatment with EGFR targeting therapies or treatment with EGFR- or HER2 inhibiting drugs within the past four weeks before the start of therapy or concomitantly with this study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

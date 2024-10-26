@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02391480",
+    "briefTitle": "A Study Evaluating the Safety and Pharmacokinetics of ABBV-075 in Subjects With Cancer",
+    "officialTitle": "A Phase 1 Study Evaluating the Safety and Pharmacokinetics of ABBV-075 in Subjects With Advanced Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cancer, Breast Cancer, Non-Small Cell Lung Cancer, Acute Myeloid Leukemia (AML), Multiple Myeloma, Prostate Cancer, Small Cell Lung Cancer, Non-Hodgkins Lymphoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 128,
+    "primaryOutcomeMeasure": "Maximum Tolerated Dose of ABBV-075",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Participant in the dose escalation cohorts must have histological confirmation of locally advanced or metastatic solid tumor that is either refractory after standard of care therapy for the disease or for which standard of care therapy or does not exist.\n2. Participants in the expansion cohorts must have histological confirmation of AML, Multiple Myeloma, breast cancer, NSCLC, prostate cancer, SCLC, or NHL that is either refractory after standard of care therapy or for which standard of care therapy does not exist.\n3. Participant must have an Eastern Cooperative Oncology Group (ECOG) Performance status of: 0 - 1 (dose escalation cohorts) or 0 - 2 (expansion cohorts)\n4. Participants in the dose escalation cohort must have a serum albumin of \u2265 3.2 g/dL at screening.\n5. Adequate bone marrow, renal, and hepatic function.\n6. QTc interval \\< 480 milliseconds (msec) on the baseline electrocardiogram.\n\nExclusion Criteria:\n\n1. Participant has untreated brain or meningeal metastases.\n2. Participant has received anti-cancer therapy including chemotherapy, immunotherapy, biologic or any investigational therapy within a period of 21 days prior to Study Day 1.\n3. Participant has active peptic ulcer disease or other hemorrhagic esophagitis/gastritis.\n4. Symptoms of gross hematuria or gross hemoptysis.\n5. Exhibits symptomatic or persistent, uncontrolled hypertension (BP \\> or = to 140 and/or diastolic pressure of \\> or = to 90 mm Hg).\n6. History of long QT syndrome.\n7. Peripheral neuropathy greater than or equal to grade 2.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

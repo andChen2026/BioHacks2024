@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04881929",
+    "briefTitle": "Study of KN026 in Combination With Docetaxel as Neoadjuvant Therapy in HER2-positive Breast Cancer",
+    "officialTitle": "Study of KN026 in Combination With Docetaxel as Neoadjuvant Therapy in Patients With Early-stage or Locally Advanced HER2-positive Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "tp CR as assessed by local pathologist",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or female subject \\>= 18 years;\n* Histologically or cytologically confirmed HER2-positive breast cancer defined as 3+ determined by validated IHC or positive by in situ hybridization (ISH);\n* Early-stage (T1c or 2, N1, M0; T2 or 3, N0, M0) or locally advanced (T1c or 2 or 3, N2, M0; T3N1M0; T1c or 2 or 3, N3a or 3b, M0) breast cancer;\n* Adequate organ function assessed within 7 days prior to first trial treatment;\n* ECOG score 0 or 1;\n* Left ventricular ejection fraction (LVEF) \u2265 55% at baseline;\n\nExclusion Criteria:\n\n* Stage IV (metastatic) breast cancer;\n* Inflammatory breast cancer;\n* Previous anti-cancer therapy or radiotherapy for any malignancy;\n* Major surgery for any reason within 28 days;\n* History of uncontrolled intercurrent illness;\n* Other medical conditions that at the discretion of investigator interfere with the requirements of the trial in terms of safety or efficacy evaluation, or treatment compliance;",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03201861",
+    "briefTitle": "Addition of Cisplatin to Adjuvant Chemotherapy for Early Stage Breast Cancer in High-Risk Women",
+    "officialTitle": "Phase 3 Study of Weekly Paclitaxel in Combination With Cisplatin as Adjuvant Chemotherapy for Early Stage Human Epidermal Growth Factor Receptor-2 (HER2) Negative Breast Cancer in High-risk Women",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Tubular Breast Cancer, Mucinous Breast Cancer, Invasive Duct Carcinoma of Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 762,
+    "primaryOutcomeMeasure": "Number of Participants With Disease-Free Survival (DFS) Events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women aged \u226518 years and \u226470 years\n2. Have accepted surgical treatment, histologically confirmed early breast cancer, the pathological types of invasive carcinoma\n3. Not received treatment for breast cancer before operation\n4. Triple-negative breast cancer confirmed by pathology, or pathology confirmed as the HR positive breast cancer at the same time meet the following conditions: axillary lymph node positive breast cancer, tumor size\u22652 cm and Ki - 67 \\>20% or tumor size \u22652 cm and grade III or tumor size \u22652cm and aged \\<35 years\n5. HER2 negative: immunohistochemistry HER2 (1 +) or HER2 (0), or fluorescence in situ hybridization (FISH): not amplified\n6. Performance status (PS) 0-1\n7. Adequate bone marrow function:WBC\u22654.0\u00d7109/L, Absolute neutrophil count\uff08ANC\uff09\u22651.5\u00d7109/L, Platelets\uff08PLT\uff09\u2265100\u00d7109/L, Hemoglobin\uff08Hb\uff09\u226590g/L;aspartate aminotransferase(AST),Alanine aminotransferase (ALT)\u22641.5 upper normal limit , creatinine\u22641.5 upper normal limit, bilirubin\u22641.5 upper normal limit\n8. No obvious main organs dysfunction\n\nExclusion Criteria:\n\n1. metastatic breast cancer\n2. Patient is pregnant or breast feeding\n3. Any evidence of sense or motor nerve disorders\n4. Bilateral Primary Breast Cancer (DCIS in one side not included)\n5. Patients with medical conditions taht indicate intolerant to adjuvant chemotherapy, including uncontrolled cardiovascular disease, severe infection\n6. Have received chemotherapy because of any malignancy other than breast cancer\n7. Known severe hypersensitivity to any drugs in this study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

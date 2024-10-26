@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00715832",
+    "briefTitle": "A Phase I Cancer Vaccine Study for Patients With Metastatic Breast Cancer",
+    "officialTitle": "A Phase I Vaccine Study With Autologous Dendritic Cells Loaded With Oncofetal Antigen/iLRP in Patients With Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage IV histologically proven breast cancer as defined by the AJCC Cancer Staging Manual (6 th. Edition 2003).\n* Patients must have completed one prior form of chemo and/or radiation therapy for their disease and have failed to achieve remission.\n* There must be no clinical or radiographic signs of active brain metastases (CT of brain), or disease to the brain that is not considered controlled.\n* At least 4 weeks must have elapsed since chemotherapy or biological therapy and 2 weeks must have elapsed since radiotherapy\n* Female patients must be at least 18 years of age\n* Must be ambulatory with a ECOG performance status of \\<2\n* Must have common recall antigen DTH skin reaction \\>2 mm\n* Must have lab values as following ANC \\> 1.5 x 109/L; platelets \\> 100 x 109/L, Hb\\> 9 g/dL, creatinine \\< 1.8 mg/dL or a creatinine clearance \\> 35 mL/min; total bilirubin \\< 2 the upper limit of normal, AST and ALT \\< 2.5 the upper limit of normal; albumin \\>2.5 g/L\n* If of child bearing potential, must practice a reliable method of contraception at screening and must agree to continue this status until 6 months after receiving the last study vaccine injection. An HCG (pregnancy) test will be done monthly until the 3 vaccinations are complete.\n* Signed informed consent (see Appendix A, Clinical Protocol section 25.1) to be obtained according to ICH GCP guidelines before the patient is subjected to any extra diagnostic procedures performed for evaluation of eligibility for the trial.\n\nExclusion Criteria:\n\n* History of other prior malignancy, with the exception of curatively treated basal cell or squamous cell carcinoma of the skin or cervical cancer stage IB\n* Active infection requiring continuous use of antibiotic therapy\n* Significant cardiac or other medical illness that would limit activity or survival, such as severe congestive heart failure, unstable angina, or serious cardiac arrhythmia\n* Autoimmune disease currently treated with steroids\n* Adverse reactions to vaccines such as anaphylaxis or other serious reactions, e.g. life-threatening reactions to medicine\n* History of immunodeficiency or autoimmune disease such as rheumatoid arthritis,systemic lupus erythematosus, scleroderma, polymyositis dermatomyositis, juvenile onset, insulin dependent diabetes, or a vasculitic syndrome\n* Pregnancy or lactation\n* Any reason why, in the opinion of the investigator, the patient should not participate\n* Patients who have received cytotoxic anti-tumor therapy within 4 weeks prior to vaccination\n* Patients with active hepatitis (B, C) or HIV+ individuals\n* Patients with more than four different lines of chemotherapy in the metastatic setting (excluding adjuvant chemotherapy).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02094742",
+    "briefTitle": "BIG Molecular Screening Feasibility Study",
+    "officialTitle": "The BIG Molecular Screening Feasibility Study:Testing the IT Infrastructure and Logistics of a Molecular Screening Program",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "molecular screening program feasibility",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Written informed consent for all study procedures according to local regulatory requirements prior to enrollment into the study.\n2. Age \u2265 18 years.\n3. Histologically proven metastatic or locally recurrent invasive breast cancer.\n4. Tumor tissue (FFPE and frozen) from recurrent or metastatic lesions available for research purposes.\n\nExclusion Criteria:\n\n1. Eastern Cooperative Oncology Group (ECOG) Performance Status \\>2.\n2. The biopsy procedure is estimated to be too risky for the patient.\n3. Any bevacizumab treatment administered less than 3 weeks before new biopsy procedure.\n4. No appropriate wash-out period for patients on anticoagulation therapy.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

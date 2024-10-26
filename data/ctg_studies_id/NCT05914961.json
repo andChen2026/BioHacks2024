@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05914961",
+    "briefTitle": "Immunotherapy-related CRP Kinetics in Early and Metastatic Triple-negative Breast Cancer",
+    "officialTitle": "ICK-Breast: Immunotherapy-related CRP Kinetics in Early and Metastatic Triple-negative Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "TNBC - Triple-Negative Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 225,
+    "primaryOutcomeMeasure": "Prognostic value of CRP kinetics under ICI therapy on pathologic complete response (PCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women \u2265 18 years of age\n* histologically proven early or advanced or metastatic invasive breast cancer irrespective of therapy line\n* ER-negative and progesterone receptor (PR)-negative and human epidermal growth factor receptor 2 (HER2)-negative (IHC 0-2+, Fluorescence In Situ Hybridization (FISH) neg.)\n* patients with advanced or metastatic disease must be programmed cell death ligand 1 (PD-L1)-positive (IC \u2265 1 or combined positive score (CPS) \u2265 10) in the experimental group\n* planned ICI therapy in combination with chemotherapy in the experimental group\n* written informed consent into ICK-breast\n\nExclusion Criteria:\n\n* ER-positive or PR-positive\n* HER2-positive (IHC 2+, FISH pos or IHC 3+)\n* any systemic breast cancer therapy before inclusion into the trial for early breast cancer patients\n* any ICI therapy before inclusion into the trial\n* pregnant or lactating patients\n* inadequate general condition (not fit for chemotherapy)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

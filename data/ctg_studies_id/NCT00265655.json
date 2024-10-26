@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00265655",
+    "briefTitle": "Satraplatin for Patients With Metastatic Breast Cancer (MBC)",
+    "officialTitle": "Phase II of Oral Satraplatin in Patients With Metastatic Breast Cancer (MBC)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "To determine the objective response rate (ORR) of oral satraplatin in patients with metastatic breast cancer",
+    "eligibilityCriteria": "1. Has cytologically or pathologically confirmed breast cancer that is metastatic\n2. Must have had prior Herceptin\u00d2 therapy if patient has HER2+ (overexpressing) breast cancer. HER2 is considered overexpressed if it is 3+ by IHC or if the gene is amplified by Flourescence in situ hybridization (FISH)\n3. Has had no more than 1 prior chemotherapy regimen for MBC\n4. Has had no prior platinum-based therapy\n5. Has an ECOG Performance Status (PS) 0-2",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00270166",
+    "briefTitle": "The Effect of Epoetin Alfa on the Anemia of Patients With Selected Cancers Receiving Chemotherapy",
+    "officialTitle": "A Placebo-Controlled Study on the Effect of Epoetin Alfa in Patients With Malignancy Receiving Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Anemia, Multiple Myeloma, Lymphoma, Breast Cancer, Ovarian Cancer, Carcinoma, Small Cell Lung, Esophagus Cancer, Prostate Cancer, Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 201,
+    "primaryOutcomeMeasure": "Proportion of patients without transfusion after first month.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of multiple myeloma, lymphoma, breast cancer, ovarian cancer, small-cell lung cancer, esophagus cancer, or prostate cancer\n* receiving treatment with chemotherapy, with at least 3 additional months of chemotherapy planned\n* a self-care performance score of 0 (fully active, no disease restriction) to 3 (capable of only limited self-care, confined to bed or chair more than 50% of waking hours)\n* life expectancy of at least 6 months\n* baseline hemoglobin \\<12 grams per deciliter and baseline count of \\<100,000 microliter for developing red cells\n\nExclusion Criteria:\n\n* Clinically significant disease other than cancer\n* evidence of uncontrolled hypertension or history of seizure\n* transfusion within 1 week of the study\n* radiotherapy within 2 weeks of study start\n* use of corticosteroid or steroid drugs during the study.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00824538",
+    "briefTitle": "Sunitinib in Treating Patients With Stage I, Stage II, or Stage III Breast Cancer Who Have Tumor Cells in the Bone Marrow",
+    "officialTitle": "Pilot Study to Evaluate the Effect of Sunitinib on Occult Tumor Cells in the Bone Marrow of Patients With High Risk Early Stage Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 13,
+    "primaryOutcomeMeasure": "Percent Change From Baseline in Disseminated Tumor Cells (DTC) in Bone Marrow",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed high-risk breast cancer\n\n  * Stage I-III disease\n* Has undergone definitive surgery with or without radiotherapy\n\n  * Completely resected disease\n* Bone marrow aspirate positive for occult tumor cells, defined as \u2265 10 occult tumor cells/mL by IHC and flow cytometry\n\n  * If the patient received either no adjuvant therapy or hormonal therapy alone, the aspiration may have been performed at diagnosis as part of the large micrometastasis study at UCSF, or following diagnosis if the patient underwent initial surgery elsewhere (or underwent surgery following neoadjuvant therapy for breast cancer)\n  * If the patient received adjuvant chemotherapy, the aspiration must have been performed \u2265 3 weeks after completion of chemotherapy\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* ECOG performance status 0-1\n* WBC count normal (3.4-10 x 10\\^9/L)\n* Hemoglobin \\> 9.0 g/dL\n* Platelet count normal (140-450 x 10\\^9/L)\n* ANC normal (1.8-6.8 x 10\\^9/L)\n* Serum creatinine \u2264 1.5 times upper limit of normal (ULN)\n* Total bilirubin \u2264 1.5 times ULN\n* Alkaline phosphatase \u2264 1.5 times ULN\n* AST and ALT \u2264 2.5 times ULN\n* TSH and T4 levels normal\n* LVEF \\> 50%\n* Systolic BP \\< 140 mm Hg and diastolic BP \\< 90 mm Hg\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No history of HIV infection\n* No concurrent severe illness that would likely preclude study compliance\n* No other malignancy within the past 5 years except basal cell carcinoma of the skin\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No prior sunitinib malate\n* Prior adjuvant chemotherapy, including trastuzumab (Herceptin\u00ae), allowed provided it was completed within the past 6 months\n* Prior surgery following neoadjuvant chemotherapy or hormonal therapy allowed\n* No concurrent potent CYP3A4 inducers\n* No concurrent trastuzumab\n* Concurrent hormonal therapy or radiotherapy allowed",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03243331",
+    "briefTitle": "An Initial Safety Study of Gedatolisib Plus PTK7-ADC for Metastatic Triple-negative Breast Cancer",
+    "officialTitle": "An Initial Safety Study of Gedatolisib Plus PTK7-ADC for Metastatic Triple-negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Triple Negative Breast Cancer, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 18,
+    "primaryOutcomeMeasure": "Safety of Gedatolisb + PTK7-ADC using NCI CTCAE v4.0",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Metastatic Triple-negative Breast Cancer\n* Willingness to undergo tumor biopsy\n* Patients must have received at least 1 prior chemotherapy regimen for metastatic disease\n\nExclusion Criteria:\n\n* Previous treatment with mTOR inhibitor\n* Untreated brain metastases",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

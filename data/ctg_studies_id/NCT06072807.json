@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06072807",
+    "briefTitle": "Brain [18F]-FES PET/CT in Patients With Estrogen-Receptor Positive Breast Cancer",
+    "officialTitle": "Brain [18F]-FES PET/CT in the Diagnosis, Treatment Planning and Response Assessment of Brain Metastases in Patients With Estrogen-Receptor Positive Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Brain Metastases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Mean SUV",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Active diagnosis of ER+ breast cancer (biopsy proven) and new or recurrent brain metastases (biopsy proven or suspected based on MRI appearance)\n2. Ability to provide informed consent\n3. Discontinuation of ER modulators for at least 8 weeks, and discontinuation of ER down regulators for at least 28 weeks (as per manufacturer guidelines)\n4. Age \\>=18 years\n5. Eastern Cooperative Oncology Group performance score 0-1\n6. Life expectancy \\>=6 months\n7. Planned for radiation treatment for brain metastases\n\nExclusion Criteria:\n\n1. Pregnancy\n2. Unable to undergo Standard of Care\n3. Allergy to FES.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

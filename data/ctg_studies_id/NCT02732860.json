@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02732860",
+    "briefTitle": "Personalized Patient Derived Xenograft (pPDX) Modeling to Test Drug Response in Matching Host",
+    "officialTitle": "Prospective Evaluation of Freshly Implanted Cancers in Mice to Test Drug Response in Matching Host",
+    "overallStatus": "RECRUITING",
+    "conditions": "Colorectal Neoplasms, Colorectal Cancer, Breast Cancer, Breast Neoplasms, Ovarian Cancer, Ovarian Neoplasm",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Measure of drug sensitive pPDX to a panel of drugs as a predictor of clinical response in matched host",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age \\> 18 years.\n2. Patient diagnosis must be categorized as either (I) OR (II) OR (III) OR (IV):\n\n   (I) Histologically confirmed Triple Negative Breast Cancer by Institutional and American Society of Clinical Oncology (ASCO)/Cancer of American Pathologists (CAP) guidelines, either:\n   * Stage IV (metastatic) disease that has not been treated with systemic therapy in the metastatic setting or\n   * Stage I to III (non-metastatic) with residual mass by clinical exam and/or breast imaging following anthracycline + taxane-containing neoadjuvant chemotherapy\n\n   OR\n\n   (II) Histologically-confirmed Stage IV colorectal cancer treated with \u2264 1 line of systemic therapy in the metastatic setting, either:\n   * Undergoing surgical resection of liver metastases or\n   * With metastatic lesions amenable to biopsy\n\n   OR\n\n   (III) Histologically-confirmed advanced High Grade Serous Ovarian Cancer, either:\n   * Recurrent disease with a life expectancy of at least 12 months or\n   * Stage III or IV with residual disease following neoadjuvant chemotherapy, or at risk of high recurrence\n\n   OR\n\n   (IV) Histologically confirmed solid tumor not meeting criteria for (I), (II) or (III) above, for which evaluation of investigational therapies is of particular interest or where clinical need exists, at the discretion of the PI\n3. Disease amenable to biopsy or surgery for tissue procurement\n4. Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n5. Willingness and ability of patient to provide signed voluntary informed consent.\n\nExclusion Criteria:\n\n1. Clinically significant hepatic, renal, cardiac or other organ dysfunction likely to limit participation in clinical trials.\n2. Known brain metastasis\n3. Any condition that could interfere with a patient's ability to provide informed consent such as dementia or severe cognitive impairment.\n4. Any contraindication to undergoing a biopsy procedure.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

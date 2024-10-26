@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02712645",
+    "briefTitle": "A Multicenter Breast Cancer Biospecimen Registry",
+    "officialTitle": "N/A",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 700,
+    "primaryOutcomeMeasure": "Number of patients with untreated newly diagnosed breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Females of all racial and ethnic groups who are 40 years or older.\n2. Women must:\n\n   1. have suspected neoplasm of the breast (BIRADS 4 or 5) based on the results of any breast screening or diagnostic imaging, such as mammogram, and\n   2. be selected or scheduled for a breast biopsy which has not yet been conducted at the time of enrollment.\n\nExclusion Criteria:\n\n1. Inability to sign informed consent.\n2. More than one radiological finding.\n3. Any current or prior cancer (with the exception of non-melanoma skin cancer or a suspected breast malignancy targeted for biopsy).\n4. Any known or suspected acute illness or condition - including acute infections - at the time of enrollment or within the previous 30 days.\n5. Any surgery, hospitalization, or institutionalization (such as in a nursing home) during the previous 3 months.\n6. Received any experimental therapeutic treatment during the previous 3 months.\n7. Received any blood product transfusion within the previous 3 months.\n8. Use of illegal drugs during the previous 3 months.\n9. Pregnant or nursing at the time of enrollment or in the preceding 12 months.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

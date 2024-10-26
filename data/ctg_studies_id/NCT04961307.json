@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04961307",
+    "briefTitle": "Evaluation of Heart Function in Breast Cancer Patients Using Trastuzumab",
+    "officialTitle": "Evaluation of Heart Function in Breast Cancer Patients Using Trastuzumab",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Cardiotoxicity, Antitumor Drugs, Breast Cancer, Trastuzumab",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Time ending",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with breast cancer (18-70 years old)\n* Patients who are planning to undergo trastuzumab for the first time\n\nExclusion Criteria:\n\n* Organic heart disease such as coronary heart disease, heart valve disease, cardiomyopathy\n* liver and kidney failure\n* severe cerebrovascular disease\n* chronic obstructive pulmonary disease\n* rheumatic immune system disease\n* other tumors",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

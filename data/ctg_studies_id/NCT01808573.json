@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01808573",
+    "briefTitle": "A Study of Neratinib Plus Capecitabine Versus Lapatinib Plus Capecitabine in Patients With HER2+ Metastatic Breast Cancer Who Have Received Two or More Prior HER2 Directed Regimens in the Metastatic Setting",
+    "officialTitle": "A STUDY OF NERATINIB PLUS CAPECITABINE VERSUS LAPATINIB PLUS CAPECITABINE IN PATIENTS WITH HER2+ METASTATIC BREAST CANCER WHO HAVE RECEIVED TWO OR MORE PRIOR HER2-DIRECTED REGIMENS IN THE METASTATIC SETTING (NALA)",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER2+ Metastatic Breast Cancer (MBC)",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 621,
+    "primaryOutcomeMeasure": "Centrally Assessed Progression Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged \u226518 years at signing of informed consent.\n* Histologically confirmed MBC, current stage IV.\n* Documented HER2 overexpression or gene-amplified tumor immunohistochemistry 3+ or 2+, with confirmatory fluorescence in situ hybridization (FISH) +.\n* Prior treatment with at least two (2) HER2-directed regimens for metastatic breast cancer.\n\nExclusion Criteria:\n\n* Received previous therapy with capecitabine, neratinib, lapatinib, or any other HER2 directed tyrosine kinase inhibitor.\n\nNote: There are additional inclusion and exclusion criteria. The study center will determine if you meet all of the criteria.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

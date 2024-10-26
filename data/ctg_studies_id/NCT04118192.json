@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04118192",
+    "briefTitle": "NOSTRA-Feasibility Study: A Study Looking at Ultrasound Guided Biopsies for Breast Cancer",
+    "officialTitle": "Can Patients With Residual Cancer After Chemotherapy for Early Breast Cancer be Identified With Multiple Ultrasound-guided Biopsies?",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 72,
+    "primaryOutcomeMeasure": "Observed number of patients with false negative biopsies",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient with histological diagnosis of operable HER2-positive, ER-negative, early stage invasive breast cancer\n* Tumour size \u2265 1cm and visible on US (T1c to T4d)\n* Patient fit and willing to receive, or is already receiving and has received no more than five cycles of a NOSTRA-Feasibility Study approved treatment regimen, in the opinion of the responsible clinician\n* Eastern Co-operative Group (ECOG) performance status of 0 or 1\n* Women of child-bearing potential, prepared to adopt highly effective contraceptive measures if sexually active for at least 6 months after completion of study medication\n* Female, 18 years or older\n* Able to provide informed consent for the study\n* Availability of embedded paraffin tumour blocks from pre-chemotherapy biopsy\n* The radiology team are able and willing to perform the tumour bed core biopsies\n\nExclusion Criteria:\n\n* Previous ipsilateral invasive breast cancer or Ductal Carcinoma in Situ (DCIS)\n* Unequivocal evidence of distant metastatic disease at registration\n* Multi-focal disease at diagnosis\n* Active malignancy\n* Previous chemotherapy\n* Prior extensive radiotherapy (as judged by the Investigator) to bone marrow\n* Risk factors precluding the safe administration of the intended cytotoxic chemotherapy regimen\n* Patient unsuitable for the planned dual-targeted anti-HER2 treatment in opinion of the Investigator\n* Prior diagnosis of cardiac failure\n* Uncontrolled hypertension, coronary heart disease or other significant cardiac abnormality\n* Bleeding diathesis\n* Any evidence of other disease which in the opinion of the Investigator places the patient at high risk of treatment related complications\n* Pregnant (female patients of child bearing potential must have a urine or blood Human Chorionic Gonadotropin test performed to rule out pregnancy prior to study entry)\n* Patient lactating\n* Patients who have received live vaccine within 4 weeks of the date of study entry\n* Any concomitant medical or psychiatric problems which in the opinion of the Investigator would prevent completion of treatment or follow-up\n* Patient unfit and/or unwilling to undergo surgery\n* Patient unwilling or unable to comply with scheduled visits, treatment plan and study procedures\n* Patient has started protocol non-compliant neo-adjuvant chemotherapy\n* Patient has started approved neoadjuvant chemotherapy but insufficient data is available to complete relevant CRFs\n* Patient has already received more than five cycles of approved neoadjuvant chemotherapy\n\nAdditional Inclusion Criteria for ctDNA Sub-Study\n\n* Patient has not yet started neoadjuvant treatment\n* Patient is willing and able to give blood samples as per ctDNA Sub-Study Guidelines",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

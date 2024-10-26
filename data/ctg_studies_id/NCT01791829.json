@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01791829",
+    "briefTitle": "A Prospective Cohort Study Evaluating Risk of Local Recurrence Following Breast Conserving Surgery and Endocrine Therapy in Low Risk Luminal A Breast Cancer",
+    "officialTitle": "A Prospective Cohort Study Evaluating Risk of Local Recurrence Following Breast Conserving Surgery and Endocrine Therapy in Low Risk Luminal A Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Ipsilateral Breast Tumour Recurrence (IBTR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patient \\> or = 55 years of age with a new diagnosis of invasive carcinoma of the breast (ductal, tubular or mucinous only) with primary tumour \\< or =2cm on microscopic exam, with no evidence of metastatic disease;\n2. ER positive (\\> or =1%) and PR positive (\\>20%) and HER2 negative (Immunohistochemical (IHC) or In Situ Hybridization (ISH) approach);\n3. Treated by BCS with microscopically clear resection margins \\> or = 1mm for invasive and non-invasive disease or no residual disease on re-excision;\n4. Negative axillary node involvement determined by sentinel node biopsy or axillary node dissection.\n\nExclusion Criteria:\n\n1. Clinical or pathological evidence of T4 disease (i.e. extension to chest wall, skin involvement, peau d'orange, or inflammatory breast cancer).\n2. Multifocal or multicentric disease.\n3. Evidence of an extensive intraductal component (defined as a tumour that is composed of 25% or more of DCIS and the DCIS extends beyond the gross dimensions of the tumour), or disease limited to micro invasion only.\n4. Grade 3 histology for invasive disease\n5. Evidence of lymphovascular invasion.\n6. Evidence of disease on pre-operative mammogram, aside from primary cancer treated by breast conserving surgery.\n7. Bilateral malignancy of the breast (synchronous or metachronous).\n8. Known BRCA 1 or 2 mutations.\n9. History of non-breast cancer malignancies if not disease free for \\> 5 years and considered low risk of recurrence with the exception of treated carcinoma in-situ of the cervix, endometrium or colon, melanoma in-situ and basal or squamous cell carcinoma of the skin.\n10. Serious non-malignant disease associated with a life expectancy \\< 10 years.\n11. Inability to be treated with or to tolerate endocrine therapy.\n12. Psychiatric or addictive disorder, which would preclude obtaining informed consent or adherence to protocol.\n13. Geographic inaccessibility for follow-up.\n14. Inability to understand or unable to provide written informed consent.\n15. Inability to be registered on study within 12 weeks of the last surgical procedure on the breast.\n16. Central testing for Ki67 \\> 13.25% consistent with the luminal B subtype",
+    "sex": "FEMALE",
+    "minimumAge": "55 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

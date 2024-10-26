@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03165487",
+    "briefTitle": "Comparison of the Breast Tumor Microenvironment",
+    "officialTitle": "Differential Comparison of the Breast Tumor Microenvironment Between Luminal A and Triple Negative Breast Cancer With and Without Radiation Treatment",
+    "overallStatus": "RECRUITING",
+    "conditions": "Triple Negative Breast Cancer, Hormone Receptor Positive Malignant Neoplasm of Breast",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Number of subjects with significant mean percent change in Tumor Infiltrating Lymphocytes (TILs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, age greater than or equal to 40\n* Core biopsy proven invasive breast carcinoma or ductal carcinoma in situ (DCIS), all subtypes excluding invasive lobular carcinoma due to increased risk for multifocal disease\n* Human epidermal growth factor receptor 2 (HER2) negative regardless of hormone receptor status\n* Clinically less than or equal to 3cm unifocal lesion\n* Clinically node negative\n* Must have diagnostic mammogram performed within last 6 months\n* Eastern Cooperative Oncology Group Performance Status (ECOG PS) less than or equal to 1\n* Appropriate renal, liver, and hematologic lab values\n* Ability to give informed consent\n\nExclusion Criteria:\n\n* Multifocal disease\n* Clinically N1 disease at diagnosis\n* Invasive lobular carcinoma\n* Metastatic disease\n* Patients for whom RT would be contraindicated (e.g., connective tissue disorder or prior ipsilateral breast radiation)\n* Patients with known BRCA1/2 mutations\n* Pregnant or nursing",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

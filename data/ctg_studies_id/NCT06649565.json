@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06649565",
+    "briefTitle": "Prospective Validation and Application of an Artificial Intelligence-based Model for Evaluating the Efficacy of Breast Cancer Patients After Neoadjuvant Therapy",
+    "officialTitle": "Prospective Validation and Application of an Artificial Intelligence-based Model for Evaluating the Efficacy of Breast Cancer Patients After Neoadjuvant Therapy",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Breast MRI radiomics characteristics of breast cancer patients during neoadjuvant therapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients who were treated in the above research centers between January 1, 2024 and October 31, 2025;\n* \u226518 years old, female, ECOG score \u22642;\n* Pathological biopsy confirmed invasive breast cancer;\n* AJCC (8th edition) stage I-III;\n* MRI imaging data before and after neoadjuvant therapy;\n* Planned mastectomy or breast-conserving surgery after neoadjuvant therapy, and postoperative pathological information obtained.\n\nExclusion Criteria:\n\n* Bilateral breast cancer, multiple lesions, or occult breast cancer;\n* Poor MRI data quality;\n* Patients who had received other anti-tumor treatments before enrollment;\n* Patients with other malignant tumors",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

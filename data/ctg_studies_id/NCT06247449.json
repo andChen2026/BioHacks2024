@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06247449",
+    "briefTitle": "MRI Screening for Brain Metastases Among Patients With Triple Negative or HER2+ Stage II or III Breast Cancer",
+    "officialTitle": "MRI Screening for Brain Metastases Among Patients With Triple Negative or HER2+ Stage II or III Breast Cancer: A Multi-centre Prospective Cohort Study",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Asymptomatic brain metastasis frequency among HER2+ patients",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age \\> 18.\n2. Triple Negative OR HER2+ breast cancer (as per 2018 ASCO/CAP guidelines).\n3. Stage II or III disease.\n4. Patients with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen may participate.\n5. Ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n1. Creatinine clearance \\<30 mL/min using the Cockcroft-Gault equation (in accordance with the product monograph for Gadavist IV contrast.\n2. Pregnant women are not permitted to participate given that the safety of IV contrast is unknown in this population.\n3. Patients with central nervous system symptoms that are concerning for brain metastases that would otherwise be referred for brain imaging.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

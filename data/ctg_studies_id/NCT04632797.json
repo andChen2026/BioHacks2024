@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04632797",
+    "briefTitle": "Cryotherapy vs. Cryocompression for Preventing Chemotherapy-induced-peripheral-neuropathy in Women Undergoing Chemotherapy",
+    "officialTitle": "CROPSI Study A Randomized, Observer-blinded Clinical Trial Evaluating Effectiveness of Cryotherapy vs. Cryocompression for Preventing CIPN in Women Undergoing Chemotherapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Chemotherapy-induced Peripheral Neuropathy, Chemotherapeutic Toxicity, Chemotherapeutic Agent Toxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 196,
+    "primaryOutcomeMeasure": "NCV (nerve conduction velocity)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with breast cancer or other gynecological tumors\n* planned neoadjuvant, adjuvant or palliative chemotherapy\n* \\</= two lines chemotherapy as pre-therapy (adjuvant chemotherapy counts as one line)\n* at least three cycles of chemotherapy with taxanes\n* written consent\n* 18 years and older\n\nExclusion Criteria:\n\n* PNP \\>/= 2\n* neuralgia\n* metastases in bones, metastases in soft tissue (located in skin, hands or feet)\n* Raynaud syndrome\n* peripheral arterial ischemia\n* hand-feet syndrome",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

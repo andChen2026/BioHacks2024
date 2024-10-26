@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00294996",
+    "briefTitle": "Trial of Myocet in Metastatic Breast Cancer",
+    "officialTitle": "A Phase III Randomized, Controlled Trial of Myocet, Trastuzumab and Paclitaxel Versus Trastuzumab and Paclitaxel for First-Line Therapy of Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 363,
+    "primaryOutcomeMeasure": "Progression-Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Metastatic Her2+ Breast cancer by FISH analysis\n* No prior chemotherapy for metastatic disease\n* Measurable disease\n* normal left ventricular ejection fraction\n\nExclusion Criteria:\n\n* prior doxorubicin treatment exceeding 300 mg/m2 or epirubicin exceeding 600 mg/m2\n* relapse within 12 months of completion of adjuvant trastuzumab, taxane or anthracycline therapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

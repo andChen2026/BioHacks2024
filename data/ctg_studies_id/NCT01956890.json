@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01956890",
+    "briefTitle": "18F-FLT Positron Emission Tomography and Magnetic Resonance Imaging of the Breast",
+    "officialTitle": "Integrative Diagnosis of 18F-FLT Positron Emission Tomography and Magnetic Resonance Imaging to Evaluate the Suspicious Findings on Mammography and Breast Ultrasound: a Pilot Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "diagnostic accuracy of 18F-FLT PET and MRI",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 1) Women aged between 20 to 80 years 2) women who have localized findings on mammography and / or ultrasound and will receive biopsy 3) The lesions on the conventional imaging measure \\>=1cm 4) WBC count \\>=3000/L, or platelet\\>=75,000/L 5) Liver function, AST or ALT \\<78 U/L 6) Renal function, Creatinine \\<2.0 mg/dl., and estimated GFR(eGFR)\\>60ml/min/1.73m2.\n\nExclusion Criteria:\n\n* 1) Pregnant women or who are planning to be pregnant, or who are lactating. (Eligible women who are premenopausal with reproductive potential should receive urine pregnancy test before the MRI and PET. Women with a positive pregnancy test should be excluded from the study.) 2) Known cancers in other organs. 3) Women who are not able to cooperate with the PET/CT examination, or MRI examination.\n\n  4) Women\u226619 years old. 5) Past history of severe anaphylactoid reaction to MRI-contrast agent or 18F-FLT.\n\n  6) History of mechanical valve replacement, recent coronary artery stent placement, with pacemaker, aneurysmal clip, metallic endotracheal tube, or other procedures with metallic device application.\n\n  7) eGFR\u226660ml/min/1.73m2. 8) History of acute renal failure, or renal dialysis.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

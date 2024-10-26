@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03048942",
+    "briefTitle": "Pilot Study of Cabazitaxel and Paclitaxel in HER2 Negative Breast Cancer",
+    "officialTitle": "A Randomised Phase II Pilot Study of 3 Weekly Cabazitaxel Versus Weekly Paclitaxel Chemotherapy in the First Line Treatment of HER2 Negative Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "HER2 Negative Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 160,
+    "primaryOutcomeMeasure": "Progression free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent\n* Metastatic breast cancer fit to receive cytotoxic chemotherapy for metastatic disease\n* Measurable disease as per RECIST 1.1\n* HER2 negative defined as ICH 0+, 1+ or 2+ and FISH/SISH/CISH(ration\\<2.0) in the case of IHC 2+\n* ECOG performance status 0 or 1\n* ER+ve or ER-ve\n* Female age \u226518 years\n* Anticipated life expectancy \\> 6 months\n* Haemoglobin \\>10.0g/DL\n* Absolute neutrophil count\\>1.5 x 10\\^9/L\n* Platelet count\\>100 x 10\\^9/L\n* ALT/SGPT\\<1.5 X ULN\n* Serum creatinine \\<1.5 x ULN\n* Negative pregnancy test for all women of child bearing potential\n\nExclusion Criteria:\n\n* Grade \u22652 oral mucositis or peripheral or sensory neuropathy\n* History of other malignancy\n* History of severe hypersensitivity \u2265grade 3 to polysorbate 80- containing drugs and taxanes\n* Clinically significant cardiovascular disease\n* Any acute or chronic medical condition\n* Acute infection requiring systemic antibiotics or antifungal medication\n* Sex hormones\n* Administration of any live vaccine within 8 weeks\n* Concurrent or planned treatment with strong inhibitors or strong inducers of cytochrome P450 3A4/5\n* Participation in another clinical trial with an investigational drug within 30 days of randomisation\n* Pregnant or breast feeding women\n* Contraindications to the use of corticosteroid treatment\n* HER2 Positive breast cancer\n* Previous Paclitaxel chemotherapy in the adjuvant setting\n* Previous cytotoxic chemotherapy for metastatic disease\n* Palliative radiotherapy for metastatic disease within 4 weeks of randomisation\n* Symptomatic brain metastases confirmed with CT/MRI brain\n* History of other malignancy\n* Grade 2",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

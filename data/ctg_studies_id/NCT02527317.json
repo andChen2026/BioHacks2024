@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02527317",
+    "briefTitle": "Dose Dense Chemotherapy With Lipegfilgrastim Support in Early Breast Cancer",
+    "officialTitle": "An Observational Study of Dose Dense Chemotherapy With Lipegfilgrastim Support",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "incidence of treatment-related neutropenia",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age \u2265 18 years\n2. Stage I-III Breast Cancer\n3. Eastern Cooperative Oncology Group (ECOG) Performance Status 0-1(see below)\n4. Adequate Bone Marrow Function as defined by neutrophil count of \u22651.0 and platelet count of \u2265 100\n5. Planned chemotherapy with Dose Dense Doxorubicin-Cyclophosphamide (AC) as deemed appropriate by a Consultant Medical Oncologist\n\nGeneral Indications for Dose Dense AC include:\n\n1. T3 or T4 Tumours\n2. N1 - N3 (Node Positive) Disease\n3. Human Epidermal Growth Factor Receptor 2 (HER2) Positive Tumours.\n4. Triple Negative Breast Cancer as evidenced by lack of expression of the estrogen receptor (ER), progesterone receptor (PR) and HER2\n\nExclusion Criteria:\n\n1. Stage IV Breast Cancer\n2. Pregnancy\n3. Previous Chemotherapy Exposure\n4. Prior Exposure to G-CSF\n5. Known positive HIV Status\n6. Cardiac or other concurrent illness, which at the investigator's discretion contraindicates the use of AC",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

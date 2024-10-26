@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01366248",
+    "briefTitle": "Integrative Oncology Outcomes Study in Breast Cancer",
+    "officialTitle": "Breast Cancer Integrative Oncology: Prospective Matched Controlled Outcomes Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 750,
+    "primaryOutcomeMeasure": "Aim 1: Describe treatments received by breast cancer patients receiving physician level practitioner IO care and the cost of IO care.",
+    "eligibilityCriteria": "The patients enrolled into the study will include patients who meet the following criteria:\n\nCohort 1: IO clinic breast cancer patients\n\n1. Confirmed breast cancer of primary breast cancer with ICD9 code of 174.x, 233.0 or V10.3\n2. Female\n3. \u226518 years of age\n4. Can provide signed informed consent\n5. 1st IO clinic visit \u22643 months prior to enrollment\n6. Can read and understand the questionnaires\n\nCohort 1A: Sub-cohort of IO clinic patients (cases) who meet the following additional criteria and for whom matched controls have been found from the CSS database.\n\n1. ICD9 code of 174.x or 233.0\n2. Primary ductal or lobular breast cancer diagnosis \u22642 years prior to 1st IO clinic visit\n3. Minimum of two IO clinic visits within 7 months\n4. Provided Baseline Questionnaire\n\nCohort 2: Matched controls from CSS database for Cohort 1A patients\n\n1. Confirmed breast cancer\n2. Female\n3. \u2265 18 years of age\n4. Can provide informed consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02949310",
+    "briefTitle": "Effectiveness of Nefopam in Breast Cancer Surgery",
+    "officialTitle": "N/A",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasm Malignant Primary",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 88,
+    "primaryOutcomeMeasure": "Change of cumulative analgesia volume infused via intravenous patient-controlled analgesia device",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Total mastectomy\n* Modified radical mastectomy\n* Nipple-sparing mastectomy\n* American Society of Anesthesiologists physical status I or II\n* Postoperative use of intravenous patient-controlled analgesia\n\nExclusion Criteria:\n\n* Chronic analgesia medication\n* Pregnancy\n* Lactating women\n* Previous operation history due to breast cancer\n* Cooperation with other surgery\n* Contraindication of nefopam",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

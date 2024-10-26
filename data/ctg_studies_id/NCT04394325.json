@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04394325",
+    "briefTitle": "Digi-Do - a Digital Information Tool to Help Patients Diagnosed With Breast Cancer",
+    "officialTitle": "Digi-Do - a Digital Information Tool to Help Patients Diagnosed With Breast Cancer to be Involved and Prepared Before, During, and After Start of Radiotherapy Treatment",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Change in distress",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nAdult patients (\\>18 years):\n\n* diagnosed with breast cancer, stage I-II not receiving adjuvant or neo-adjuvant chemotherapy or anti-Her-2 treatment and\n* with RT as additional treatment after surgery.\n* ability to read, write and understand Swedish enough to adhere to the digital information tool and the applied instruments.\n* that have access to a smartphone.\n\nExclusion Criteria:\n\n* not receiving RT have had RT before\n* diagnosed with dementia",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

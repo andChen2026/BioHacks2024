@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02115152",
+    "briefTitle": "Neoadjuvant Trial of Capecitabine for Axillary Lymph Node Positive Operable Breast Cancer",
+    "officialTitle": "Phase II Neoadjuvant Trial of Capecitabine, Cyclophosphamide and Epirubicin for Patients With Axillary Lymph Node Positive Stage II-III Operable Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Stage II Breast Cancer, Stage III Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "pathologic response rates (pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females aged 18-70 with histologically proven, core-biopsied, Stage II-III invasive breast cancer\n* No distant disease\n\nExclusion Criteria:\n\n- Inadequate heart or liver or kidney function",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01620359",
+    "briefTitle": "Study of ExAblate Focused Ultrasound Ablation of Breast Cancer",
+    "officialTitle": "Study of ExAblate Focused Ultrasound Ablation of Breast Cancer Under MR Guidance (MRgFUS) and MRI Evaluation of Ablation",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 14,
+    "primaryOutcomeMeasure": "Adverse Events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women age 18 years with invasive breast cancer\n2. Patient with contrast-enhanced MR imaging confirming a single focal breast lesion less than 2 cm in diameter\n3. Lesion clearly seen on contrast-enhanced MR and in a treatable location\n4. Patient who is willing to undergo and be scheduled for sentinel lymph node biopsy\n5. Patient scheduled and consented to surgical (lumpectomy or mastectomy) resection of the breast cancer\n6. Patient with clinical Stage I disease: T1 M0 N0\n7. Patient who signs an informed consent form for screening, SLNB, ablation, and follow-up visits.\n\nExclusion Criteria:\n\n1. Invasive lobular carcinoma;\n2. DCIS without invasive components on core biopsy;\n3. Tamoxifen, Aromatase Inhibitors, and Neoadjuvant chemotherapy within 30 days prior to ExAblate.\n4. Prior XRT or ablative therapy to the target breast;\n5. Patients currently receiving anticoagulation therapy within the previous 14 days;\n6. Lesions difficult to target (\\<1 cm from skin, nipple or the rib cage), as visualized on pre-therapy MRI;\n7. Microcalcifications as the only sign of breast cancer on imaging studies;\n8. Extensive intraductal components (EIC) on core biopsy.\n9. Patients with breast implants;\n10. Patients with prior surgical clips or other markers at the site of the breast tumor;\n11. Patients with severe cerebrovascular disease (multiple CVA or CVA within 6 months);\n12. hemolytic anemia (hematocrit \\< 30);\n13. Pregnant or lactating, post-partum women;\n14. Patient overall health status of ASA \\>2\n15. Patient with active and ongoing infection at any body site;\n16. Poor blood glucose control.\n17. Severe hypertension\n18. Patients with unstable cardiac status\n19. Contraindication to MR or ExAblate ablation therapy\n20. Patient with history of deep vein thrombosis\n21. With history of pulmonary embolism;\n22. Patient with sleep apnea;\n23. Patient with airway problems;\n24. Patient with severe claustrophobia;\n25. Patient with non-MRI compatible implanted metal devices;\n26. Patient with difficulty lying prone and still for up to 3 hours (180 minutes) in the MR unit;\n27. Patient who cannot fit comfortably in the magnet or patients \\>250 lbs;\n28. Patient with prior reaction to contrast agent;\n29. Patient with history of grand mal seizures;\n30. Patient with severely impaired renal function with estimated glomerular filtration rate \\<30 mL/min/1.73m2 and/or who is on dialysis;",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

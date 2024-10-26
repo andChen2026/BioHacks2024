@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05800132",
+    "briefTitle": "Diagnostic Performance of Breast Cancer Screening Second Reading Process Assisted by AI",
+    "officialTitle": "\u00c9valuation de la Performance Diagnostique du d\u00e9pistage du Cancer du Sein, Pour Une Seconde Lecture Des clich\u00e9s de Mammographie assist\u00e9e du Dispositif m\u00e9dical \u00e0 Base d'Intelligence Artificielle MammoScreen",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 5000,
+    "primaryOutcomeMeasure": "Recall rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Affiliated to the French social security system\n* Whose mammograms meet the following characteristics: 4 (2 per breast, CC and MLO) meeting local regulatory standards and with correct DICOM metadata,\n* Whose mammograms have been determined to be normal or to have benign lesions by the radiologist who performed the first reading of the images (L1) in the framework of the organized breast cancer screening program\n* Having expressed her willingness to participate in the study, to undergo all the procedures and to make herself available for the expected duration of their participation,\n* Having completed and signed the informed consent form.\n\nExclusion Criteria:\n\n* Woman with breast implants,\n* With clinical symptoms of breast cancer,\n* With a history of breast surgery (breast reduction or surgery for benign lesion),\n* Pregnant or breastfeeding,\n* With medical conditions that may interfere with her ability to understand the requirements of the protocol or give informed consent,\n* Deprived of liberty by judicial or administrative order,\n* Participant whose mammogram images have at least one of the following defects: poor quality of the images, non-standard mammography (projection, magnification, compression), ML/LM/SIO/XCCL or XCCM view.",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

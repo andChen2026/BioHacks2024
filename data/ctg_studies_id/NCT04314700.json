@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04314700",
+    "briefTitle": "Intraoperative Use of an Optical Coherence Tomography (OCT) Imaging System to Guide Additional Margin Cavity Shaves in Breast Conserving Surgery (BCS)",
+    "officialTitle": "Intraoperative Use of the OTIS\u2122 (OCT Imaging System) to Guide Additional Margin Cavity Shaves in Breast Conserving Surgery (BCS)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DEVICE_FEASIBILITY",
+    "enrollmentCount": 58,
+    "primaryOutcomeMeasure": "Number of times the surgeon recorded a decision to excise additional tissue based on intra-operative Wide Field Optical Coherence Tomography (WF-OCT) image review in addition to Standard of Care tissue assessment.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female age 18 or older\n* Patients undergoing elective breast conservation surgery for the treatment of Stage 0-III invasive ductal or lobular breast carcinoma and/or ductal carcinoma in situ\n* May include subjects treated with neo-adjuvant endocrine therapy\n* May include subjects treated with neo-adjuvant chemotherapy with confirmed complete clinical response\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Male\n* Stage IV breast cancer\n* Participation in another study that prolongs time to pathologic processing (greater than 1 hour)\n* Neo-adjuvant treated patients with any chemotherapeutic who have not achieved a complete clinical response\n* A surgeon makes an intraoperative decision to conduct a frozen section analysis (Any subject-specific data collected from an enrolled subject until the surgeon's intraoperative decision will not be used in the data analysis of this study. These subjects will be replaced in the study and the surgeon's intraoperative decision to conduct a frozen section analysis will be recorded).\n* Use of cryosurgery\n* Currently lactating\n* Current pregnancy\n* Previous ipsilateral breast surgery for benign or malignant disease in the same quadrant as currently planned surgery",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

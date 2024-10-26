@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00089141",
+    "briefTitle": "Mycophenolate Mofetil (MMF) for Treatment of Chronic Graft-versus-host Disease (GVHD)",
+    "officialTitle": "A Randomized Study to Evaluate The Efficacy of Mycophenolate Mofetil Added to The Systemic Immunosuppressive Regimen First Used For Treatment of Chronic Graft-Versus-Host Disease",
+    "overallStatus": "TERMINATED",
+    "conditions": "Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 151,
+    "primaryOutcomeMeasure": "Cure of Chronic GVHD Without Resorting to Secondary Systemic Therapy",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Newly diagnosed chronic-graft-versus host disease (GVHD)\n* Systemic immunosuppressive treatment indicated AND no contraindication to treatment with mycophenolate mofetil\n* Has undergone prior transplantation with any type of donor, hematopoietic stem cell graft, or conditioning regimen\n* No clinical, laboratory, or image-based evidence known to be present at the time of enrollment and indicating a high probability of subsequent recurrent or progressive disease\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* Any age\n\nPerformance status\n\n* Not specified\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Absolute neutrophil count \u2265 1,500/mm\\^3\n\nHepatic\n\n* Not specified\n\nRenal\n\n* Not specified\n\nPulmonary\n\n* No known bronchiolitis obliterans as a manifestation of chronic GVHD\n\nImmunologic\n\n* No fungal infection without radiographic evidence of improvement during continued antifungal therapy\n* No cytomegalovirus (CMV) pneumonia without major radiographic evidence of improvement\n* No other CMV infection without reduction of antigenemia or viral load during continued antiviral therapy\n* No active disseminated varicella zoster viral infection\n* No known hypersensitivity or allergy to MMF\n\nGastrointestinal\n\n* Able to tolerate oral medication\n* No lactose-intolerant children who are too young to swallow capsules\n* No frank blood from the rectum\n* No melena\n* No known gastrointestinal ulceration\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n\n  * Female patients must use 2 forms of contraception 4 weeks prior to, during, and for 6 weeks after completion of study treatment\n* Not hospitalized at time of enrollment\n* No rare, hereditary deficiency of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT)\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* See Disease Characteristics\n\nChemotherapy\n\n* Not specified\n\nEndocrine therapy\n\n* Prior treatment with prednisone or equivalent allowed provided the dose was \u2264 1.0 mg/kg/day at the time of enrollment\n* Concurrent systemic glucocorticoids allowed\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* Not specified\n\nOther\n\n* Prior mycophenolate mofetil (MMF) for prevention or treatment of acute GVHD allowed provided MMF was discontinued at least 2 weeks before the diagnosis of chronic GVHD was made\n* No prior systemic treatment for chronic GVHD\n* No prior treatment for chronic GVHD\n* Concurrent antacids allowed provided there is at least a 2-hour interval before and after administration of MMF\n* No other concurrent systemic immunosuppressive treatment except cyclosporine, tacrolimus or sirolimus",
+    "sex": "ALL",
+    "minimumAge": "4 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

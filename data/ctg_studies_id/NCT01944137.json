@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01944137",
+    "briefTitle": "Improving Care After Chemotherapy",
+    "officialTitle": "Improving Care After Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Non-small Cell Lung Cancer, Colorectal Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Change from baseline (i.e. first chemotherapy administration visit) in patient-reported symptoms as measured by the Memorial Symptom Assessment Scale-Short Form.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult (age 18 or older)\n* Newly diagnosed stage I-III colorectal cancer, non-small-cell lung cancer, or breast cancer\n* Scheduled to receive neoadjuvant chemotherapy (i.e. pre-surgical cancer-directed therapy with curative intent) or adjuvant chemotherapy (i.e. post-surgical cancer-directed therapy with curative intent)\n* Able to respond to questions in English\n\nExclusion Criteria:\n\n* Already received 1 or more cycles of chemotherapy for the current regimen\n* Unwilling or unable to participate in the study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

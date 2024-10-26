@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00686465",
+    "briefTitle": "Positron Emission Tomography/Computed Tomography (PET/CT) for the Diagnosis of Recurrent Cancer: a Feasibility Study",
+    "officialTitle": "Positron Emission Tomography/Computed Tomography (PET/CT) for the Diagnosis of Recurrent Cancer: a Feasibility Study. PET in Recurrent Cancer(PETREC)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Non-small Cell Lung Cancer, Breast Cancer, Head and Neck Cancer, Ovarian Cancer, Esophageal Cancer, Lymphoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 101,
+    "primaryOutcomeMeasure": "The number of patients recruited in 18 months and the clinical characteristics of patients who are enrolled in the study",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with a previous history of non-small cell lung cancer, breast cancer, head and neck cancer (not thyroid cancer), ovarian cancer, esophageal cancer, or lymphoma (Hodgkin's or non-Hodgkin's) who have suspected recurrence on history and/or physical exam.\n* Conventional imaging (e.g., X-ray, ultrasound, CT, MRI, bone scan) is non-diagnostic.\n\nExclusion Criteria:\n\n* Age less than 18 years.\n* Patient with established recurrence requiring staging of recurrent disease.\n* Patients who, at the time of the initial evaluation, have already undergone PET/CT within 6 months prior to registration.\n* Unable to lie supine for imaging with PET/CT.\n* Pregnant or lactating female.\n* Significant concurrent medical problems (e.g., uncontrolled diabetes, active cardiac disease, significant chronic obstructive pulmonary disease) making the patient unfit for further cancer therapy.\n* Unable to give informed consent.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

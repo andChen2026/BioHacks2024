@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00721903",
+    "briefTitle": "Three Dimensional (3D) Ultrasound in Predicting Response to Breast Cancer Therapies",
+    "officialTitle": "3D Breast Ultrasound In Predicting Response to Breast Cancer Therapies",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancers",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 88,
+    "primaryOutcomeMeasure": "Volume change on spatially registered (aligned) images tracks path. response better than volume change on unregistered images.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Newly diagnosed breast cancer prior to receiving breast cancer therapy.\n* Diagnosis of breast cancer must be confirmed by fine needle aspiration or core biopsy.\n\nExclusion Criteria:\n\n* Poorly controlled diabetes.\n* Contralateral mastectomy prior to neoadjuvant chemotherapy.\n* Not a surgical candidate.\n* No previous axillary lymph node dissection.",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

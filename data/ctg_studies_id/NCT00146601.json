@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00146601",
+    "briefTitle": "Fulvestrant in Premenopausal Women With Hormone Receptor-Positive Breast Cancer",
+    "officialTitle": "A Phase II Study of Fulvestrant in Premenopausal Women With Hormone Receptor-Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "To examine the clinical benefit and response rate of hormone receptor-positive metastatic breast cancer previously treated with anti-estrogen therapy in premenopausal women to treatment with fulvestrant",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed invasive breast cancer, with stage IV disease.\n* Tumors must be positive for estrogen receptors, progesterone receptors, or both.\n* Patients must be premenopausal.\n* Prior anti-estrogen therapy (with or without ovarian suppression)\n* Platelet count \\> 100,000/mm3\n* Age older than 18 years\n* ECOG performance status 0-2\n\nExclusion Criteria:\n\n* Hormonal treatment for metastatic disease\n* Pregnant or breast-feeding women\n* Postmenopausal\n* Concurrent hormonal therapy or chemotherapy\n* Prior fulvestrant therapy\n* More than three prior chemotherapy regimens for metastatic disease\n* Concurrent, long-term anticoagulation therapy\n* Severe, uncontrolled intercurrent illness\n* History of hypersensitivity to castor oil",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

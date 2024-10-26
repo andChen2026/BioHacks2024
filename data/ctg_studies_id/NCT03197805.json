@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03197805",
+    "briefTitle": "Assessment of the Impact of RNA Genomic Profile on Treatment Decision-making in HER2 Equivocal Breast Cancer Patients",
+    "officialTitle": "Prospective Study Assessing the Impact of RNA Genomic Profile Defined by a Genomic Test on Treatment Decision-making in Breast Cancer Patients With an ISH Equivocal HER2 Status- EQUIVOK Study",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "The modification of therapeutical decision between the first and the second multidisciplinary decision-making meeting (MD-MM) using a genomic testing",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Performance status \u2264 2 (according to WHO criteria)\n* Patient with early invasive breast cancer histologically confirmed stage I to IIIA)\n* Positive or negative lymph node involvement\n* Positive or negative Hormonal Receptors (Estrogens and/or Progesterone),\n* Equivocal HER2 status (IHC Score 2 and equivocal ISH defined as HER2/Chr17 ratio \\<2 and 4 \u2264 HER2 gene number copy \\< 6) as assessed on surgical specimen\n* Adequate Hematological, Hepatic, Renal and Cardiac Functions\n* Patient potentially eligible for an anti-HER2 therapy\n* Patient eligible to receive an adjuvant therapy\n* Signed Informed Consent\n* Patient with social insurance.\n\nExclusion Criteria:\n\n* Non-measurable tumor\n* Unknown Hormonal Receptors\n* Unknown node involvement\n* Positive or negative HER2 status (Score 0, 1 or 3 IHC, or Negative or positive ISH)\n* Disease stage \u2265IIIB\n* Patient not able to follow the trial.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

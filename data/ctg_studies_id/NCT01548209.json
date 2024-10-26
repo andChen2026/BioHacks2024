@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01548209",
+    "briefTitle": "Effects of a Dexmedetomidine on Quality of Recovery 40 and Postoperative Nausea and Vomiting in Breast Cancer Surgery",
+    "officialTitle": "Effects of a Single Dose Dexmedetomidine on Postoperative Nausea and Vomiting (PONV) and Quality of Recovery 40 (QoR 40) in Breast Cancer Surgery",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 97,
+    "primaryOutcomeMeasure": "Quality of Recovery 40 (QoR-40)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* ASA I, II\n* aged 20-70 years\n* Undergoing breast cancer surgery\n\nExclusion Criteria:\n\n* CAOD\n* Bradycardia\n* QT prolongation",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05221593",
+    "briefTitle": "Efficacy of Lithium Against Chemotherapy Induced Neutropenia in Breast Cancer Patients",
+    "officialTitle": "Evaluation of Lithium Efficacy Against Chemotherapy Induced Neutropenia in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Neutropenia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "change in white blood cells count",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. All patients presented with breast cancer documented by pathological reports stage I, II and III.\n\nExclusion Criteria:\n\n1. Patients receiving cardiac medication such as diuretics.\n2. Patients on sodium-restricted diet (to avoid lithium toxicity).\n3. Stage IV with expected short overall survival.\n4. Patients with blood or bone marrow cancer (to prevent interference).\n5. Patients with hepatic and renal impairment.\n6. Patient with untreated hypothyroidism.\n7. Pregnant and breast feeding patients.",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

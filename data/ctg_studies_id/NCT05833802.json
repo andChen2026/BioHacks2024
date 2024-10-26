@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05833802",
+    "briefTitle": "Computation Prediction of Drug Response Based on Omics Data",
+    "officialTitle": "A Companion Trial in Silico: Computing Drug Response for Cancer Patients in Clinical Trials\uff08PRincipal-001)",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "consistency",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. clinical diagnosis of triple-negative breast cancer\n2. The subjects agreed to participate in the traditional clinical trial and signed informed consent.\n3. The subjects agreed to participate in the virtual study and signed informed consent.\n\nExclusion Criteria:\n\n1. Subjects do not meet the inclusion criteria of traditional clinical trial.\n2. Subjects suffered from other cancer disease",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

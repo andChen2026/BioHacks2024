@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06370234",
+    "briefTitle": "The Prediction Model of NAC Response for Breast Cancer Based on The Parametric Dynamics Features.",
+    "officialTitle": "The Prediction Model of Neoadjuvant Chemotherapy Response for Breast Cancer Based on The Parametric Dynamics Features of The Pretreatment and Early-Treatment MR-PET and QDS-IR Images.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Chemotherapy Effect, Diffusion Weighted MRI, PET Imaging, Multiparametric Magnetic Resonance Imaging",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Model Prediction power of pathological complete response(pCR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* (a) were \\> 20 years of age,\n* (b) with pathologically confirmed breast cancer with core needle biopsy\n* (c) were willing to undergo NAC\n* (d) were eligible for surgery after NAC\n* (e) were willing to undergo at least three PET/MR scans during NAC: the first \\[R0\\], pre-treatment; and the second \\[R1\\], after two cycles of chemotherapy (post-treatment) and before surgery \\[R2\\]\n\nExclusion Criteria:\n\n* (a) distant metastases or recurrent breast cancer.\n* (b) unable to comply with sequential PET/MR scanning schedule.\n* (c) Impaired renal function, CCR\\>30ml/min.\n* (d) Known aller",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

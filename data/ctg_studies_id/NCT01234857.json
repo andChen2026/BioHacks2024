@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01234857",
+    "briefTitle": "A Study of Ridaforolimus (MK-8669) in Combination With Dalotuzumab (MK-0646) Compared to Standard of Care Treatment in Estrogen Receptor Positive Breast Cancer Patients (MK-8669-041 AM3)",
+    "officialTitle": "A Two-Part Adaptive, Randomized Trial of Ridaforolimus in Combination With Dalotuzumab Compared to Exemestane or Compared to Ridaforolimus or Dalotuzumab Monotherapy in Estrogen Receptor Positive Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 115,
+    "primaryOutcomeMeasure": "Progression free survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria The prospective participant must meet, at least, all of the criteria below to be eligible for study participation.\n\nThe participant:\n\n* Has a confirmed diagnosis of breast cancer that is metastatic or locally advanced and is estrogen receptor positive and human epidermal growth factor receptor 2 (HER-2) negative ;\n* Is post-menopausal;\n* Is at least 18 years of age;\n* Has a life expectancy of at least 3 months;\n* Has had a recurrence or progression of cancer after prior treatment and patient has received at least one line of endocrine therapy for metastatic disease, OR the patient's cancer has recurred within 6 months after the last dose of anastrozole or letrozole;\n* Has an available archival tumor specimen;\n* Has voluntarily agreed to participate by signing informed consent.\n\nExclusion Criteria If the prospective participant meets any of the criteria below (among others determined by the study staff) they will NOT be eligible for study participation.\n\nThe participant:\n\n* Is receiving any other systemic tumor therapy;\n* Has previously received rapamycin or rapamycin analogs;\n* Has received prior treatment with insulin-like growth factor 1 receptor (IGF-1R) inhibitors, phosphoinositide 3-kinase (PI3K) inhibitors, or other experimental agents that target the PI3K, protein kinase B (AKT), or mammalian target of rapamycin (mTOR) pathways;\n* Has known allergy to macrolide antibiotics;\n* Has an active infection that requires antibiotics;\n* Has significant or uncontrolled cardiovascular disease;\n* Has poorly controlled Type 1 or 2 diabetes mellitus;\n* Is known to be human immunodeficiency virus (HIV) positive;\n* Has a known history of active Hepatitis B or C.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

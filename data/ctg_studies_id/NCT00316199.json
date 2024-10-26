@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00316199",
+    "briefTitle": "Efficacy Study of Gemcitabine-Paclitaxel to Treat Metastatic Breast Cancer",
+    "officialTitle": "Phase II Study of Gemcitabine-Paclitaxel 3-Weekly Schedule as First-Line Treatment in Metastatic Breast Cancer After Anthracycline Failure",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Best Overall Tumor Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients of Chinese origin with histologically or cytologically proven diagnosis of breast cancer.\n* Unresectable, locally recurrent breast cancer or stage IV disease.\n* Have at least one measurable lesion as defined by Response Evaluation Criteria In Solid Tumors (RECIST) criteria.\n* Performance Status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) Scale\n* Treatment with an anthracycline-based chemotherapy regimen in the adjuvant/neoadjuvant setting with subsequent disease relapse.\n\nExclusion Criteria:\n\n* Prior chemotherapy for unresectable, locally advanced breast cancer or metastatic disease.\n* Concurrent administration of any other tumor therapy, including cytotoxic chemotherapy, hormonal therapy, and immunotherapy.\n* Known or suspected brain metastasis or second primary malignancy that is clinically detectable at the time of consideration for study enrollment.\n* Active infection or other serious condition.\n* Pregnant or breastfeeding.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00126464",
+    "briefTitle": "Fulvestrant or Tamoxifen in Treating Postmenopausal Women Who Are Undergoing Surgery for Ductal Carcinoma in Situ of the Breast",
+    "officialTitle": "A Pilot Clinical Trial to Evaluate the Biological Activity of Fulvestrant (Faslodex) in Breast Ductal Carcinoma (DCIS)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Molecular markers of the estrogen pathway as measured by immunohistochemistry at 3 weeks",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed ductal carcinoma in situ (DCIS) of the breast\n\n  * T0 disease\n  * Newly diagnosed disease by minimally invasive biopsy (e.g., a vacuum-assisted large core tool \\[mammotome\\] or an equivalent method)\n* Biopsy tissue available for molecular marker analysis\n* Baseline mammography performed within the past 8 weeks\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* Postmenopausal\n\nSex\n\n* Female\n\nMenopausal status\n\n* Postmenopausal, as defined by 1 of the following:\n\n  * Age \u2265 60\n  * Age \u2265 45 AND amenorrheic for \\> 1 year with uterus intact\n  * Underwent bilateral oophorectomy\n  * Follicle-stimulating hormone and estradiol levels in postmenopausal range\n\nPerformance status\n\n* SWOG 0-1\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Absolute granulocyte count \u2265 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Hemoglobin \u2265 8.0 g/dL\n\nHepatic\n\n* SGOT and/or SGPT \u2264 2.5 times upper limit of normal (ULN)\n* Alkaline phosphatase \u2264 2.5 times ULN\n* Bilirubin \u2264 2.0 times ULN\n\nRenal\n\n* Creatinine \u2264 2.0 mg/dL\n\nCardiovascular\n\n* No history of deep vein thrombosis\n\nPulmonary\n\n* No history of pulmonary embolism\n\nOther\n\n* Negative pregnancy test (if clinically indicated)\n* No peripheral neuropathy \\> grade 1\n* No underlying medical, psychiatric, or social condition that would preclude study participation\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* Not specified\n\nEndocrine therapy\n\n* More than 6 months since prior hormonal therapy, including any of the following:\n\n  * Antiestrogens\n  * Estrogen\n  * Selective estrogen-receptor modulators\n  * Progestins\n  * Aromatase inhibitors\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* Not specified\n\nOther\n\n* No prior therapy for DCIS",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04660929",
+    "briefTitle": "CAR-macrophages for the Treatment of HER2 Overexpressing Solid Tumors",
+    "officialTitle": "A Phase 1, First in Human Study of Adenovirally Transduced Autologous Macrophages Engineered to Contain an Anti-HER2 Chimeric Antigen Receptor in Subjects With HER2 Overexpressing Solid Tumors",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "HER2-positive, Adenocarcinoma, Bile Duct Cancer, Biliary Tract Cancer, Bladder Cancer, Breast Cancer, Breast Neoplasm, Carcinoma, Ductal, Carcinoma, Hepatocellular, Cancer, Lung Cancer, Non-Small-Cell, Carcinoma, Ovarian Epithelial, Carcinoma, Small Cell, Carcinoma, Squamous, Carcinoma, Transitional Cell, Colorectal Cancer, Esophagogastric Junction Neoplasms, Inflammatory Breast Cancer, Stomach Neoplasms, Malignant Neoplasms, Ovarian Neoplasms, Pancreatic Cancer, HER2-positive Solid Tumors, HER2-positive Breast Cancer, HER2-positive Gastric Cancer, HER-2 Protein Overexpression, HER-2 Gene Amplification, Prostate Cancer, Head and Neck Cancer, Endometrial Cancer, Lung Cancer, Small Cell",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 48,
+    "primaryOutcomeMeasure": "Assess the safety and tolerability of CT-0508 by estimating the frequency and severity of adverse events in subjects with HER2 overexpressing solid tumors.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* HER2-positive recurrent or metastatic solid tumors for which there are no available curative treatment options.\n\n  * Breast cancer and gastric/gastroesophageal junction cancers must have failed approved HER2-targeted agents.\n  * Other HER2-positive tumor types must have failed standard of care therapies, while prior therapy with anti-HER2 drugs is not required.\n* Subject must be willing and able to undergo tumor tissue biopsy procedures\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Subject has adequate bone marrow and organ function\n\nExclusion Criteria:\n\n* HIV, active hepatitis B or hepatitis C infection.\n* Diagnosis of immunodeficiency or chronic exposure to systemic corticosteroid therapy or any other form of immunosuppressive therapy\n* Untreated or symptomatic central nervous system (CNS) metastases or cytology proven carcinomatous meningitis.\n\n  o Subjects with small, asymptomatic CNS metastases that do not require treatment are permitted to enroll.\n* Left ventricular ejection fraction (LVEF) \\<50% as determined by ECHO or multiple gated acquisition scan (MUGA)\n\nOther protocol-defined Inclusion/Exclusion may apply.\n\nCT-0508 in Combination with Pembrolizumab Substudy Only:\n\nExclusion Criteria:\n\n* Subjects with severe hypersensitivity (\u2265Grade 3) to pembrolizumab and/or any of its excipients\n* Subjects with an active autoimmune disease that has required systemic treatment in past 2 years (i.e., with use of disease modifying agents, corticosteroids or immunosuppressive drugs).\n* Subjects who have a history of (non-infectious) pneumonitis/interstitial lung disease that required steroids or has current pneumonitis/interstitial lung disease\n* Subjects who have had an allogeneic tissue/solid organ transplant",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

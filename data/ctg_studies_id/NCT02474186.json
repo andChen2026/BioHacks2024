@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02474186",
+    "briefTitle": "Phase II Study for Solid Metastatic Tumors",
+    "officialTitle": "Phase II Study of Chemo-Radiation-Induced Abscopal Effect in Metastatic Breast Cancer and in Other Metastatic Sites of Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Metastatic Breast Cancer, Solid Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 41,
+    "primaryOutcomeMeasure": "The proportion of patients with an abscopal response assessed at 7-8 weeks after the initiation of treatment.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with histologically confirmed breast cancer or other cancer which is persistent and metastatic or recurrent and metastatic.\n* Patients with a history of treatment for other prior malignancy will be eligible, provided they remain disease-free \\> 2 years after initial treatment, or were treated for non-melanoma skin cancer, or in situ cervical cancer.\n* Patients must have at least 3 distinct measurable metastatic sites at least 1 cm of larger in their largest diameter.\n* Age \\>18 years.\n* ECOG performance status \\<2 (Karnofsky \\>50%).\n* Life expectancy \\> 3 months.\n\nExclusion Criteria:\n\n* Patients who have had immunotherapy within 4 weeks prior to entering the study.\n* Patients who have had prior allergic reaction to GM-CSF\n* Patients on steroid therapy or other immunosuppressive therapy.\n* Patients undergoing therapy with other investigational agents.\n* Patients with known brain metastases can be included in this clinical trial but brain lesions are not eligible as target or non target lesion.\n* Uncontrolled inter-current illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, myocardial infarction within the past 6 months, unstable angina pectoris, or unstable cardiac arrhythmia requiring assessment for clinical intervention.",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

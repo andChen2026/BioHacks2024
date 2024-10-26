@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03069742",
+    "briefTitle": "Study of Web-based Decision Aids for Increasing Breast Cancer Chemoprevention in the Primary Care Setting",
+    "officialTitle": "Web-based Decision Aids for Breast Cancer Risk Assessment and Increasing Breast Cancer Chemoprevention in the Primary Care Setting: Randomized Controlled Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Chemoprevention uptake rate among high-risk women",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 5-year breast cancer risk \u2265 to 1.67% or lifetime risk \u2265 to 20% according to the Gail risk model; or a 5-year breast cancer risk \u2265 1.67% according to the Breast Cancer Surveillance Consortium (BCSC) model\n* The participant understands and is willing to provide informed consent in English or Spanish\n* Has a primary care provider at Columbia University Medical Center (CUMC) / New York-Presbyterian Hospital\n\nExclusion Criteria:\n\n* Prior use of a selective estrogen receptor modulator (SERM) or aromatase inhibitor (AI) for chemoprevention\n* Prior history of breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

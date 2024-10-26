@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03624088",
+    "briefTitle": "CBPR - BRCA Genetic Testing Among Orthodox Jews",
+    "officialTitle": "Understanding Social, Cultural, and Religious Factors Influencing BRCA Genetic Testing in the Orthodox Jewish Community",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Change in proportion of participants who intend to undergo or have completed genetic testing compared to baseline",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \\>= 25 years of age\n* Completed a previous cross-sectional survey and agreed to future contact\n* Eligible for BRCA testing based on Six Point Scale\n\nExclusion Criteria:\n\n* Personal history of breast or ovarian cancer\n* Prior genetic counseling or genetic testing for BRCA mutations\n* Participated in previous RealRisks workshop",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

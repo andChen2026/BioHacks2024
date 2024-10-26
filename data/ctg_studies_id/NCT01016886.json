@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01016886",
+    "briefTitle": "Multidisciplinary Approach to Novel Therapies in Cardiology Oncology Research",
+    "officialTitle": "A Prospective Study to See if Cardiac Effects of Herceptin Can be Prevented With Standard Heart Medications",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Heart Failure",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 99,
+    "primaryOutcomeMeasure": "The primary objective is to determine if conventional heart failure pharmacotherapy can prevent trastuzumab-mediated left ventricular (LV) remodeling among women with HER2+ early breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologic diagnosis of HER2 positive breast carcinoma\n* Eligible to receive trastuzumab\n* Age \\> 18 years\n* Able to give informed consent\n* No contraindications to MRI\n\nExclusion Criteria:\n\n* Known contraindication to beta-blocker therapy\n* Known contraindication to ACEI therapy\n* Current treatment with ACEI or beta blocker for other indication\n* History of heart failure, cardiomyopathy or baseline LVEF \\< 50%",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

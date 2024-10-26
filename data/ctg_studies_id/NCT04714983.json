@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04714983",
+    "briefTitle": "DNX-2440 for Resectable Colorectal Liver Metastasis",
+    "officialTitle": "A Phase I Safety and Window-of-opportunity Study of Preoperative Intratumoral Injection of OX40-ligand Expressing Oncolytic Adenovirus (DNX-2440) in Patients With Resectable Liver Metastasis",
+    "overallStatus": "SUSPENDED",
+    "conditions": "Liver Metastases, Liver Metastasis Colon Cancer, Colorectal Cancer, Breast Cancer, Gastric Cancer, Periampullary Cancer, Melanoma, Renal Cell Cancer, Sarcoma, Squamous Cell Carcinoma, Gastrointestinal Stromal Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Maximum tolerated dose (MTD) achieved during dose-escalation phase",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Male or female aged \u2265 18 years at time of consent\n* Diagnosis of liver metastases from colorectal, breast, gastric, periampullary, melanoma, renal cell cancer, sarcoma, squamous cell carcinoma or gastrointestinal stromal tumor\n* Multiple (\u2265 2) liver tumors\n* Candidate for curative-intent surgery\n* Stated willingness to comply with all study procedures and availability for the duration of the study.\n* Candidates eligible for targeted therapy, as per standard of care guidelines (and based on mutational status as indicated), must have completed therapy\n* Preoperative chemotherapy is allowed\n\nKey Exclusion Criteria:\n\n* Recurrence of liver metastasis\n* Diagnosis of neuroendocrine tumor liver metastasis\n* Liver metastasis treated with \\> 12 cycles of systemic chemotherapy\n* Condition that requires ongoing systemic immunosuppressive therapy\n* Evidence of inadequate organ function based on lab parameters\n* Liver transaminases (aspartate aminotransferase \\[AST\\] and/or alanine aminotransferase \\[ALT\\]) or total bilirubin \\> 5x the upper limits of normal\n* Males or females who refuse to use a double-barrier form of birth control during the study and for up to 6 months after injection with DNX-2440",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00107497",
+    "briefTitle": "Radiation Therapy in Treating Women With Localized Breast Cancer",
+    "officialTitle": "Prospective Randomised Clinical Trial Testing 5.7 Gy and 6.0 Gy Fractions of Whole Breast Radiotherapy in Terms of Late Normal Tissue Responses and Tumour Control - FAST",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 917,
+    "primaryOutcomeMeasure": "Change in photographic breast appearance",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of invasive carcinoma of the breast\n\n  * Localized disease\n\n    * Pathological tumor size \\< 3.0 cm in diameter\n    * Axillary node negative\n* At average or low risk of local tumor recurrence\n* Must have undergone prior breast-preserving surgery\n\n  * No prior mastectomy\n  * Complete microscopic resection of tumor\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 50 and over\n\nSex\n\n* Female\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* Not specified\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Not specified\n\nHepatic\n\n* Not specified\n\nRenal\n\n* Not specified\n\nOther\n\n* Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* No prior neoadjuvant or adjuvant cytotoxic chemotherapy\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* No concurrent lymphatic radiotherapy\n* No concurrent radiotherapy boost to the breast\n\nSurgery\n\n* See Disease Characteristics",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

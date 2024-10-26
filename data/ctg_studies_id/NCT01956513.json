@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01956513",
+    "briefTitle": "Contribution of MRI in the Evaluation of Apparent Diffusion Coefficient and Prediction of Response to Neoadjuvant Chemotherapy in Breast Cancer",
+    "officialTitle": "Etude ADC Apport de l'IRM Dans l'\u00e9valuation du Coefficient de Diffusion Apparent et pr\u00e9diction de la r\u00e9ponse \u00e0 la chimioth\u00e9rapie n\u00e9oadjuvante Dans le Cancer du Sein",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Assess the Variation of Apparent Diffusion Coefficient",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Variation of apparent diffusion coefficient before / after a cycle of neoadjuvant chemotherapy or before / after modification of the treatment sequence and correlated with histologic response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age\\> 18 years.\n* Patient suffering from a breast tumor, regardless of the stage and size\n* Patient requiring neoadjuvant chemotherapy\n* Patient has the ability to undergo 18F-FDG-PET at baseline, at end of cycle 1 and at the end of neoadjuvant treatment before surgery\n* Compulsory affiliation to a social security system.\n* Obtaining informed consent in writing, signed and dated.\n\nExclusion Criteria:\n\n* Patient with cognitive or psychiatric disorders.\n* Patient deprived of liberty by a court or administrative.\n* Patient with signs against the achievement of MRI, mammography and ultrasound\n* Patient metastatic\n* Patient with prior chemotherapy, radiotherapy and hormone therapy for her breast cancer\n* Pregnant women, current lactation\n* Patient suffering from uncontrolled diabetes (\\> 11 mmol / L)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04066361",
+    "briefTitle": "OPTimizing Treatment Focused Genetic Testing IN Cancer",
+    "officialTitle": "OPTimizing Treatment Focused Genetic Testing IN Cancer - OPT-IN",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Ovarian Cancer, Pancreatic Cancer, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 301,
+    "primaryOutcomeMeasure": "The measurement of genetic testing uptake",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients over the age of 18\n* With a diagnosis of advanced cancer (defined as Stage 3 or 4), or\n* Any stage for pancreatic cancer and\n* No prior cancer genetic panel testing\n\nExclusion Criteria:\n\n* Adults unable to consent\n* Individuals who are not yet adults (infants, children, teenagers)\n* Pregnant women (if known at the time of participation)\n* Prisoners\n* Non-English speakers",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

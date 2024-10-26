@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05916703",
+    "briefTitle": "Smart Optical and Ultrasound Diagnostic of Breast Cancer",
+    "officialTitle": "SOLUS Smart Optical and Ultrasound Diagnostic of Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Disease",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Usability",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women over 18 years of age\n* subject with a breast lesion visible at US, either:\n* benign, classified as benign lesions at previous US and unchanged for at least 2 years or with a previous core biopsy done at least 1 year before or BI-RADS 2 or 3, confirmed at histology after SOLUS examination\n* or malignant, classified as BI-RADS 4 or 5, confirmed at histology after SOLUS examination\n\nExclusion Criteria:\n\n* subject is pregnant, breast feeding\n* subject is unable or unwilling to give informed consent\n* previous core biopsy of the same breast, performed in the last year\n* previous breast surgery of the same breast",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

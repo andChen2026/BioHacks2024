@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04857619",
+    "briefTitle": "Study to Describe the Real-world Treatment Patterns and Associated Outcomes in Patients With HER2-positive Unresectable or Metastatic Breast Cancer",
+    "officialTitle": "A Multicountry, Multicentre, Non-interventional, Retrospective Study to Describe the Real-world Treatment Patterns and Associated Outcomes in Patients With HER2-positive Unresectable or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 763,
+    "primaryOutcomeMeasure": "Percentage of patients receiving each treatment regimen with or without hormonal therapy in each LOT",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult female or male patients \u226518 years old or 'adults' according to the age of majority as defined by the local regulations\n* Patient or next of kin/legal representative willing and able to provide written informed consent according to the local regulations unless a waiver is granted by the local IRB/IEC/EC\n* Patients' medical records showing a diagnosis of HER2-positive unresectable or mBC (can be either de novo advanced disease, progression or recurrence of previous early-stage HER2-positive BC) since the available date of T-DM1 (Kadcyla) through reimbursement or patient access programme as a valid local treatment option or 01 January 2017, whichever is earlier and with the availability of at least 12 months of follow-up data (from the date of diagnosis of unresectable or mBC) in the medical records at the participating site, unless patient died within the first 12 months of diagnosis\n* Patients completing at least 1 LOT for HER2-positive unresectable or mBC\n\nExclusion Criteria:\n\n* Patients with HER2-negative unresectable or mBC at index diagnosis\n* Patients with a change in HER2 status from positive to negative at the progression from early-stage to advanced-stage disease (ie, shown on a repeat biopsy at diagnosis of advanced-stage disease) will be excluded (patients who change from HER2-positive to negative on repeat biopsy during treatment for advanced-stage disease may be included)\n* Patients with concomitant cancer at the time of diagnosis of HER2-positive unresectable or mBC except for the non-metastatic non-melanoma skin cancers, or in situ, or benign neoplasms; a cancer is considered concomitant if it occurs within 5 years of HER2-positive breast cancer diagnosis\n* Patients who at the time of data collection for this study are participating or have participated in an interventional study that remains blinded",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

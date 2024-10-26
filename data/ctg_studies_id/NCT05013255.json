@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05013255",
+    "briefTitle": "Pioglitazone Therapy Targeting Fatigue in Breast Cancer",
+    "officialTitle": "Pioglitazone Therapy Targeting Fatigue in Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Muscle Fatigue",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Muscle Gene Expression",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subjects must have histologically or cytologically confirmed luminal (ER+/PR+ Her2/neu-) Breast Cancer.\n* Subjects must have received no prior therapies besides chemotherapy in the neoadjuvant setting.\n* Subject must have a planned surgical (mastectomy) date within 2 weeks of starting treatment.\n* 5 Subjects must have normal organ as defined below:\n\n  * Hemoglobin within normal institutional limits (or \\>10?)\n  * Fasting Blood Glucose within normal institutional limits\n  * Serum Creatinine within normal institutional limits\n  * Liver Function (AST and ALT, Alk phosphatase, Total Bilirubin) within normal limits\n* Subject does not have a prior diagnosis of diabetes or currently taking any medications to lower blood glucose levels.\n* Subjects must have the ability to understand and the willingness to sign a written informed consent document.\n\nExclusion Criteria:\n\n* Prior diagnosis of Congestive Heart Failure (CHF), Bladder cancer, osteoporosis, bariatric surgery\n* Subjects receiving any other investigational agents or known agents to have a major interaction with PIO to include clopidogrel, gatifloxacin, gemfibrozil, leflunomide, lomitapide, lumateperone, mipomersen, pexideartinib and teriflunomide, insulin, Lyrica, Synthroid.\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to Pioglitazone.\n* Subjects with uncontrolled intercurrent illness including, but not limited to ongoing or active infection, unstable angina pectoris, cardiac arrhythmia, active alcoholism or psychiatric illness/social situations that would limit compliance with study requirements.\n* Pregnant or breastfeeding are excluded from this study because Pioglitazone has the potential for teratogenic or abortifacient effects. Because there is an unknown, but potential risk for adverse events in nursing infants secondary to treatment of the mother with PIO, breastfeeding should be discontinued if the mother is treated with PIO. These potential risks may also apply to other agents used in this study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

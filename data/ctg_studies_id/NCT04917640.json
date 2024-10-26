@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04917640",
+    "briefTitle": "Registry for Accelerated Partial Breast Irradiation With (SBRT) or (IMRT)",
+    "officialTitle": "Accelerated Partial Breast Irradiation (PBI) With Stereotactic Body Radiation Therapy (SBRT) or Intensity Modulated Radiation Therapy (IMRT)",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Number of participants with treatment and toxicity-related adverse events as assessed by CTCAE v4.0\".",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Greater than or equal to 50 years old Low to intermediate DCIS Tumor size \\< or = to 2cm\n\nExclusion Criteria:\n\n* BRCA positive Lobular histology Angiolymphatic invasion",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

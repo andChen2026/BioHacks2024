@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00022152",
+    "briefTitle": "Vinorelbine in Treating Older Women With Stage IV Breast Cancer",
+    "officialTitle": "Phase II Trial of Oral Vinorelbine for the Treatment of Metastatic Breast Cancer in Patients >65 Years of Age: A Trial of Efficacy, Toxicity, and Patients' Perceived Preference for Oral Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "objective response rate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed stage IV breast cancer\n* Eligible to receive first- or second-line chemotherapy\n* At least 1 unidimensionally measurable lesion\n\n  * At least 20 mm in longest diameter\n  * Must be completely outside prior irradiation port unless there is proof of progressive disease after completion of prior radiotherapy\n* No untreated brain metastases\n\n  * Current metastatic CNS disease allowed only if previously treated and clinically stable at study entry\n* No meningeal carcinomatosis\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 65 and over\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* ECOG 0-2\n\nLife expectancy:\n\n* At least 12 weeks\n\nHematopoietic:\n\n* Absolute neutrophil count at least 1,500/mm\\^3\n* Platelet count at least 100,000/mm\\^3\n\nHepatic:\n\n* Total bilirubin no greater than 1.5 times upper limit of normal (ULN) OR\n* Direct bilirubin normal if total bilirubin elevated or less than 2.5 times ULN because of Gilbert's syndrome\n\nRenal:\n\n* Creatinine no greater than 2 times ULN\n\nOther:\n\n* No grade 2 or greater peripheral neuropathy\n* No other significant medical condition that would preclude study\n* No active infection within the past 2 weeks\n* No dysphagia or inability to swallow intact capsules\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* See Disease Characteristics\n* No more than 1 prior chemotherapy regimen for metastatic disease\n* No prior vinca alkaloids\n* At least 4 weeks since other prior chemotherapy and recovered\n\nEndocrine therapy:\n\n* Prior hormonal therapy allowed\n* No concurrent hormonal therapy\n\nRadiotherapy:\n\n* See Disease Characteristics\n* No prior radiotherapy to 25% or more of bone marrow\n* At least 3 weeks since prior radiotherapy and recovered\n\nSurgery:\n\n* At least 3 weeks since prior major surgery",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

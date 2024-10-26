@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06551116",
+    "briefTitle": "QuantifyHER: Quantitative Immunofluorescence and/or RT-qPCR for Measuring HER2 in HER2-low Metastatic Breast Cancer",
+    "officialTitle": "QuantifyHER: Quantitative Immunofluorescence and/or RT-qPCR for Measuring HER2 in HER2-low Metastatic Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "HER2-positive Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Real-World Objective Response Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women and men age \\> 18 years\n* Metastatic breast cancer, histologically- confirmed. Any estrogen receptor (ER) status is allowed. ER status will be determined by local laboratory assessment utilizing ASCO/CAP guidelines.\n* Primary and/or metastatic tumor with 1+ level of expression of HER2 by immunohistochemistry as determined by local laboratory assessment utilizing ASCO/CAP guidelines.\n* Measurable disease by cross-sectional imaging at the start of treatment. Patients with measurable bone-only disease or active brain metastases are eligible.\n* Archival tissue available for biomarker assessment. One specimen should be the most recent metastatic biopsy. If HER2 1+ status was determined on a different specimen (either primary or metastatic tissue), that specimen is also required. Samples obtained from bone metastases that were processed via decalcification methods are not eligible.\n* Intention to initiate therapy with T-DXd (Enhertu) at FDA-approved dose and schedule as next line of therapy. If T-DXd was already initiated, patients must be registered within 30 days of initiation.\n* Ability to provide informed consent\n\nExclusion Criteria:\n\n* Concurrent Her2-overexpressing metastatic breast cancer (as confirmed by a metastatic biopsy with IHC 3+ or IHC 2+ with FISH amplified as per standard ASCO/CAP guidelines)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

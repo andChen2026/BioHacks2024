@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00128843",
+    "briefTitle": "Exemestane Versus Anastrozole as First Line Hormone Therapy in Postmenopausal Metastatic Breast Cancer Patients",
+    "officialTitle": "Phase II Randomized, Multicenter, Crossover Clinical Trial for Administration of Exemestane vs. Anastrozole as First Line Treatment for Postmenopausal Patients With Hormone Receptor Positive Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 103,
+    "primaryOutcomeMeasure": "Overall Response Rate (ORR) in both arms",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathological diagnoses of breast cancer.\n* Postmenopausal women, defined as:\n\n  * Bilateral surgical oophorectomy or amenorrhoea \\>= 5 years;\n  * Age \\>= 56 years old and amenorrhoea \\>= 1 year;\n  * Chemotherapy induced amenorrhoea \\>= 2 years;\n  * Radiotherapy induced amenorrhoea at least 3 months before:\n  * Age \\< 56 and \\< 5 years of amenorrhoea: follicle-stimulating hormone (FSH) levels to confirm postmenopausal status.\n* Metastatic breast cancer (stage IV) or non-operable locally advanced breast cancer (stage IIIB).\n* Positive estrogen and/or progesterone receptors as \\>10% cells or \\>10fmol/mg.\n* Measurable disease as per Response Evaluation Criteria in Solid Tumors (RECIST) criteria.\n* Patients who have received adjuvant tamoxifen are eligible, if progression has been established at least 24 months since treatment start.\n* Neoadjuvant chemotherapy is allowed if progression has been established at least 12 months after end of treatment.\n* Patients may have received a first line of chemotherapy for advanced disease, but treatment must have ended at least 4 weeks before enrolment, and all acute toxicities must be resolved. Previous treatment with Herceptin is allowed.\n* Normal haematological, hepatic and renal functions.\n* Performance status ECOG of 0, 1, 2.\n* Life expectancy superior to 3 months.\n* Written informed consent.\n\nExclusion Criteria:\n\n* Previous hormone treatment for metastatic disease.\n* Previous treatment with aromatase inhibitors.\n* Inflammatory breast cancer, or aggressive metastatic disease, or visceral lesions, or metastasis in the central nervous system (CNS).\n* Non-measurable disease.\n* Second malignancy except for basal skin carcinoma or cervical in situ carcinoma adequately treated. If other malignancies, patient must have a disease-free period superior to 5 years.\n* Treatment with any investigational product in the 4 previous weeks.\n* Patients with negative estrogen and progesterone receptor tumours.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

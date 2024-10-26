@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02575612",
+    "briefTitle": "Diagnosis of Pathological Complete Response by Minimal Invasive Biopsy After Neoadjuvant Chemotherapy in Breast Cancer",
+    "officialTitle": "Can a Pathological Complete Response in the Breast be Diagnosed by Vacuum-assisted, Ultrasound Guided Minimal Invasive Biopsy After Neoadjuvant Chemotherapy in Breast Cancer Patients? A Proof of Concept From a Prospective Cohort Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "false negative rate to diagnose a pathological complete response by vacuum-assisted biopsy for the whole cohort and predefined subgroups",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nThe investigators included patients\n\n* after neoadjuvant chemotherapy (NACT) according to the NACT protocol\n* with at least one detectable mass / marker after NACT in ultrasound\n* with cT1c-cT4a-c tumors\n* after informed consent\n* with unilateral or bilateral primary breast cancer, confirmed histologically prior to chemotherapy\n* with known grading, ER/PgR/HER-2neu- and Ki-67 status\n* with breast ultrasound, mammography (and breast MRI where necessary) before and after NACT\n* clinical / imaging partial or complete response to NACT\n\nExclusion Criteria:\n\nThe investigators excluded patients from the study with\n\n* NACT \\<12 weeks because of termination due to progressive disease, massive adverse events or patient wish\n* non-detectable mass in ultrasound / dislocation of marker (\\> 10mm distance to the initial lesion)\n* cT4d stage (inflammatory breast cancer)\n* M1 stages\n* stable disease according to a multimodal assessment of ultrasound, mammography and breast MRI (if available) according to RECIST",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01433614",
+    "briefTitle": "Epirubicin and Paclitaxel, Alone or Together With Capecitabine as First Line Treatment in Metastatic Breast Cancer",
+    "officialTitle": "Treatment With the Combination of Epirubicin and Paclitaxel Alone or Together With Capecitabine as First Line Treatment in Metastatic Breast Cancer. A Multicenter, Randomized Phase III Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 304,
+    "primaryOutcomeMeasure": "Time to progression",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Morphologically proven breast carcinoma\n* Written patient consent must be obtained\n* Measurable disease (i.e. at least one lesion that can be accurately measured in at least one dimension as \u226520 mm by conventional techniques, or as \u226510 mm by spiral CT scan) as defined in section 8.\n* Lytic and blastic bone metastases as only site of recurrence are allowed\n* Age 18 years or older\n* ECOG performance status 0-2\n* Life expectancy of at least three months\n* Adequate cardiac functions\n* Adequate hematological, renal and hepatic functions\n* Patient must be accessible for treatment and follow-up.\n\nExclusion Criteria:\n\n* Treatment-free interval less than one year, if previous adjuvant, neoadjuvant or after radically treated locoregional recurrence given regimen contained anthracycline, taxane or capecitabine. This limitation does not apply for regimens containing other than the drugs mentioned\n* During adjuvant treatment obtained cumulative doses exceeding 375 mg/m2 for doxorubicin, or 550 mg/m2 for epirubicin, abnormal ECG or reduced cardiac function measured by left ventricular ejection fraction (LVEF).\n* Indication for the use of trastuzumab (Herceptin) as first-line treatment in patients with tumor overexpressing c-erbB2.\n* Any previous chemotherapy for metastatic disease, except for radically treated locoregional relapse\n* Neoplasm other than breast carcinoma, except for non-melanoma skin cancer or curatively treated carcinoma in situ of the cervix, diagnosed during the past five years\n* Pregnancy or lactation\n* Known brain metastases\n* History of atrial or ventricular arrhythmias and/or congestive heart failure, even if medically controlled. History of clinical and electrocardiographically documented myocardial infarction\n* Preexisting motor or sensory neuropathy \u2265 grade 2 according to NCI CTC 2.0 criteria (severe paresthesia and/or mild weakness, or worse)\n* Severe hepatic or renal impairment (for capecitabine: calculated creatinine clearance below 30 ml/min; for calculation, see p. 5.1.4) not allowing for adequate use of the proposed regimens\n* History of known dihydropyrimidine dehydrogenase (DPD) deficiency (severe reaction on previous treatment with fluorouracil, e.g experience of mucositis, hand-foot syndrome, or diarrhea)\n* Active infection or other serious underlying medical condition which would impair the ability of the patient to receive protocol treatment, including prior allergic reactions to drugs containing cremophor, such as teniposide, cyclosporin or vitamin K\n* Dementia or significantly altered mental status that would prohibit the understanding and giving of informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

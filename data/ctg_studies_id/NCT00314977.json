@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00314977",
+    "briefTitle": "Sequential vs Upfront Intensified Neoadjuvant Chemotherapy in Patients With Large Resectable or Locally Advanced Breast Cancer.",
+    "officialTitle": "Sequential vs Upfront Intensified Neoadjuvant Chemotherapy in Patients With Large Resectable and/or Locally Advanced Breast Cancer. The INTENS Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "The pathologic complete response rate to neoadjuvant chemotherapy.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women presenting with large resectable or locally advanced breast cancer (T2 \u22653 cm, T3, or T4, and/or LN positive)\n* Measurable disease (breast and/or lymph nodes)\n* No prior surgery other than biopsy and no prior chemotherapy or radiation therapy\n* Age \u226518 years and age \u226470 years\n* Karnofsky Performance score \u226570%\n* Estrogen and/or progesterone receptor analysis performed on the primary tumour in the biopsy material\n* In case the tumor is ER/PgR \u00b3 50% positive, (neo)adjuvant hormonal therapy in stead of chemotherapy should be considered (e.g. in TEAM II study)\n* Her2/neu receptor analysis performed on the primary tumour in the biopsy material\n* Adequate bone marrow function (within 14 days prior to registration): WBC \u22653.0 x 109/l, neutrophils \u22651.5 x 109/l, platelets \u2265100 x 109/l\n* Adequate liver function (within 4 weeks prior to start treatment): bilirubin \u22641.5 x upper limit of normal (UNL) range, ALAT and/or ASAT \u22642.5 x UNL, Alkaline Phosphatase \u22645 x UNL\n* Adequate renal function (within 4 weeks prior to start treatment): the calculated creatinine clearance should be \u226550 mL/min\n* Patients must be accessible for treatment and follow-up\n* Written informed consent according to the local Ethics Committee requirements\n\nExclusion Criteria:\n\n* Patients with advanced pulmonary disease of any cause (oxygen dependent)- Peripheral neuropathy \\> grade 2 whatever the cause\n* Serious other diseases as recent myocardial infarction, clinical signs of cardiac failure or clinically significant arrythmias\n* Evidence of distant metastases (M1)\n* Patients with a history of breast cancer\n* Patients with a history of another malignancy (except basal cell skin carcinoma and carcinoma-in-situ of the uterine cervix) within 5 years of study entry- Pregnant or lactating women, or potentially fertile women not using adequate contraception",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

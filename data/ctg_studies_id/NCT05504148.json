@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05504148",
+    "briefTitle": "Protection of Cardiovascular Function With Crocin in BrEast Cancer Patients Undergoing Radiotherapy and Chemotherapy",
+    "officialTitle": "Protection of Cardiovascular Function With Crocin in BrEast Cancer Patients Undergoing Radiotherapy and Chemotherapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "The change of LVEF measured by echocardiography",
+    "eligibilityCriteria": "Inclusion criteria:\n\n1. Age 25-80 years old, female;\n2. Patients diagnosed with breast cancer by histopathology;\n3. Patients who plan to receive adjuvant radiotherapy/chemotherapy or combined adjuvant trastuzumab or pertuzumab targeted therapy;\n4. Patients who completed at least 6 cycles of treatment after enrollment;\n\nExclusion criteria:\n\n1. pregnant or breastfeeding women;\n2. Patients with poor echocardiographic image quality;\n3. Persistent atrial fibrillation and severe arrhythmia affect the collection and analysis of ultrasound data;\n4. Patients who are participating in other clinical studies.",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

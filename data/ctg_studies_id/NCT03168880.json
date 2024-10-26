@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03168880",
+    "briefTitle": "A Randomized Controlled Trial of Neoadjuvant Weekly Paclitaxel Versus Weekly Paclitaxel Plus Weekly Carboplatin In Women With Large Operable or Locally Advanced, Triple Negative Breast Cancer",
+    "officialTitle": "A Randomized Controlled Trial of Neoadjuvant Weekly Paclitaxel Versus Weekly Paclitaxel Plus Weekly Carboplatin In Women With Large Operable or Locally Advanced, Triple Negative Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 720,
+    "primaryOutcomeMeasure": "DFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age 18-70 years\n2. All patients with baseline clinical staging T4, N0-3, M0 or T1-4, N2-3, M0 and T3, N1, M0 with triple negative hormone status.\n3. Patients with adequate baseline marrow function defined as ANC \\> 1500/mm3 and Platelet count \\> 1, 00,000/mm3.\n4. Patients with acceptable liver function tests (normal bilirubin and AST/ALT \\< 2 times the upper limit of normal) and normal renal function tests at baseline\n5. Patients willing to provide informed consent\n6. Patients fit for chemotherapy\n\nExclusion Criteria:\n\n1. Prior excision biopsy\n2. Metastatic breast cancer\n3. Women with inflammatory breast cancer\n4. Poor cardiac function at baseline with LVEF \\<40%\n5. Patients with a prior history of a malignancy\n6. Pregnant or lactating women.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

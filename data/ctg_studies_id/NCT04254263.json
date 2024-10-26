@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04254263",
+    "briefTitle": "Adjuvant Study of Pyrotinib in HER-2 Positive Breast Cancer",
+    "officialTitle": "Adjuvant Trastuzumab Plus Pyrotinib for Residual Invasive HER2-positive Breast Cancer After Neoadjuvant Chemotherapy Plus Anti-HER2 Target Therapy",
+    "overallStatus": "RECRUITING",
+    "conditions": "Locally Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 316,
+    "primaryOutcomeMeasure": "Invasive Disease-free Survival (iDFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, Aged \u226518 and \u226470 years;\n* Histologically confirmed invasive HER2 positive breast cancer, early disease(Stage \u2161A-\u2162) ;\n* Completed neoadjuvant therapy, including chemotherapy and trastuzumab;\n* Residual invasive disease was detected pathologically in the surgical specimen of the breast or axillary lymph nodes after completion of neoadjuvant chemotherapy;\n* Been or being treated for early breast cancer with standard of care duration of trastuzumab;\n* Adjuvant treatment regimen needs to be determined before randomization;\n* Duration from Random time to the last use of trastuzumab\u22641 year.\n* Performance Status- Eastern Cooperative Oncology Group (ECOG) 0-1;\n* Required laboratory values including following parameters:ANC: \u2265 1.5 x 109/L; Platelet count: \u2265 100 x 109/L; Hemoglobin: \u2265 9.0 g/dL; Total bilirubin: \u2264 1.5 x upper limit of normal, ULN; ALT and AST: \u2264 1.5 x ULN; BUN and creatine clearance rate: \u2265 50 mL/min; LVEF: \u2265 50%; QTcF: \\< 470 ms\n* Signed informed consent form (ICF) .\n\nExclusion Criteria:\n\n* Metastatic disease (Stage IV) ;\n* Gross residual disease remaining after mastectomy or positive margins after breast-conserving surgery;\n* Progressive disease during neoadjuvant therapy;\n* Subjects that are unable to swallow tablets, or dysfunction of gastrointestinal absorption;\n* Treated or treating with anti-HER2 TKI, including but not limited to pyrotinib, lapatinib and neratinib.\n* Less than 4 weeks from the last clinical trial;\n* History of immunodeficiency, including HIV-positive, suffering from other acquired, congenital immunodeficiency disease, or history of organ transplantation;\n* Subjects had any heart disease, including: (1) angina; (2) requiring medication or clinically significant arrhythmia; (3) myocardial infarction; (4) heart failure; (5) Any heart diseases judged by investigator as unsuitable to participate in the trial;\n* Female patients who are pregnancy, lactation or women who are of childbearing potential tested positive in baseline pregnancy test;Female patients of childbearing age that are reluctant to take effective contraceptive measures throughout the trial period;\n* Evidence of significant medical illness that in the investigator's judgment will substantially increase the risk associated with the subject's participation in and completion of the study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

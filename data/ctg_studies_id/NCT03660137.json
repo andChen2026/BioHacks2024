@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03660137",
+    "briefTitle": "Magnetic Occult Lesion Localization and Imaging (MOLLI)",
+    "officialTitle": "Magnetic Occult Lesion Localization and Imaging (MOLLI) for Non-palpable Breast Lesions: a Phase 0 Pilot Feasibility Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "MOLLI Localization Success Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women 18 years or older with histologically confirmed unifocal breast cancer and identified as a candidate for BCS, this includes patients with high-risk, premalignant (eg. ductal carcinoma in-situ), or malignant (eg. invasive ductal carcinoma) lesions\n* Lesions must be non-palpable and require pre-operative localization for surgical guidance\n* Lesions must be between 1-5 cm in maximum dimensions to facilitate placement of seeds (either radioactive or metallic seeds for RSL or MOLLI procedures, respectively), as determined by preoperative breast mammogram and / or ultrasound imaging. Pre-operative MRI is at the discretion of the treating surgeon\n* The primary lesion must be visible on ultrasound OR mammogram\n\nExclusion Criteria:\n\n* Biologically male patients\n* Multifocal or multi-centric cancer requiring bracketing or multiple resections for complete excision\n* Locally advanced malignant breast cancer\n* Any absolute contraindications to BCS\n* Pregnancy or lactation\n* Unable or unwilling to undergo follow-up at Sunnybrook Health Sciences Centre\n* Prior allergy to magnetic seed components (nickel) or any part of the delivery system",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02187744",
+    "briefTitle": "A Study Of PF-05280014 Or Trastuzumab Plus Taxotere\u00ae And Carboplatin In HER2 Positive Breast Cancer In The Neoadjuvant Setting (REFLECTIONS B327-04)",
+    "officialTitle": "A RANDOMIZED, DOUBLE-BLIND PHARMACOKINETIC STUDY OF PF-05280014 PLUS TAXOTERE (REGISTERED) AND CARBOPLATIN VERSUS HERCEPTIN (REGISTERED) PLUS TAXOTERE (REGISTERED) AND CARBOPLATIN FOR THE NEOADJUVANT TREATMENT OF PATIENTS WITH OPERABLE HER2-POSITIVE BREAST CANCER",
+    "overallStatus": "COMPLETED",
+    "conditions": "Early Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 226,
+    "primaryOutcomeMeasure": "Percentage of Participants With Steady State Drug Concentration Ctrough (Cycle 6 Pre-dose) >20 \u00b5g/mL at Cycle 5.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed HER2 overexpressing invasive breast cancer.\n* Plan for definitive surgical resection of breast tumor (i.e., lumpectomy or mastectomy, and sentinel node (SN) biopsy or axillary lymph node dissection (ALND).\n* Plan for neoadjuvant chemotherapy.\n* Measurable disease in the breast after diagnostic biopsy, defined as longest diameter \u2265 2.0 cm.\n\nExclusion Criteria:\n\n* Bilateral breast cancer.\n* Inflammatory breast cancer.\n* Presence of known distant metastases.\n* Received prior treatment, including chemotherapy, endocrine therapy, biologic therapy, radiation or surgery with the exception of diagnostic biopsy for primary breast cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

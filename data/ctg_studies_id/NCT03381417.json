@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03381417",
+    "briefTitle": "Nanogen Pegcyte Clinical Study for the Prevention of CIN in Breast-cancer Patients.",
+    "officialTitle": "A Randomized, Double-blind, Parallel Study Comparing Efficacy and Safety of Pegcyte (Nanogen) and Reference Product Neulastim (Roche) for Prevention of Chemotherapy (Accelerated AC Regimen)Induced Neutropenia in Breast-cancer Patients.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 128,
+    "primaryOutcomeMeasure": "Percentage of patients who developed Febrile neutropenia in cycle 1,2 and 3",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients aged between 18 - 65 years.\n* Patients with histological confirmed primary invasive breast cancer; stage I, II or III.\n* Patients had no prior chemotherapy treatments.\n* Patients scheduled to undergo myelosuppressive Doxorubicin and Cyclophosphamide chemotherapy for 04 cycles, and Paclitaxel chemotherapy for the next 04 cycles; patients were available for 14 days of each cycle for the first 03 chemotherapy cycles.\n* Patients with baseline ANC \u2265 1.5 x 109/L, PLT \u2265 100 x 109/L, HgB \u2265 9 g/dL, WBC \u2265 3,000/mL and albumin \u2265 3.0 g/dL.\n* Performance status as per ECOG (Eastern Cooperative Oncology Group) score 0, 1 or 2.\n* Willing to give written and signed informed consent.\n\nExclusion Criteria:\n\n* Patients with prior exposure of G-CSF or GM-CSF or its pegylated products in clinical development less than 6 months prior to randomization.\n* Myelotoxic concomitant treatment such as chloramphenicol, methotrexate, immunomodulating agents, interferons during 10 days before randomization.\n* Received systemic antibiotic treatment within 72 hours of chemotherapy.\n* Chronic use of corticosteroids, prior bone marrow or stem cell transplant.\n* Patients who had an immediate/ concurrent exposure to radiotherapy or surgery (within 4 weeks).\n* Severe medical disease: cardiovascular, hepatic, renal, pulmonary...\n* Known cases of hematological disease (sickle cell anemia, AML...)\n* History of HIV positive, active hepatitis.\n* Pregnant and lactating women or patients planning to become pregnant.\n* Known allergic reactions to study medications.\n* Positive to anti-pegfilgrastim antibody test",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04016935",
+    "briefTitle": "EndoPredict\u00ae Extended Endocrine Trial (EXET)",
+    "officialTitle": "EndoPredict\u00ae Extended Endocrine Trial (EXET): A Prospective Registry to Evaluate the Impact of EndoPredict\u00ae Test on Extended Endocrine Treatment Decisions and Patient Outcomes.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Primary Invasive Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 855,
+    "primaryOutcomeMeasure": "Evaluate DRFS of women 5-10 years post diagnosis with ER+, HER2-breast cancer who are low risk according to their EPclin scores",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* At least 18 years of age at time of enrollment\n* Able to provide informed consent\n* ER+, HER2- breast tumor\n* Stage T1-T3\n* Currently receiving endocrine therapy\n* Are between 4 and 6.5 years post-invasive breast cancer diagnosis\n* Have all available information to produce an EPclin score, including treatment-na\u00efve tumor stage, nodal status, and sufficient amount of remaining tissue from biopsy or resection to perform genomic testing (section 9)\n* Patient and physician are willing to consider a change in endocrine therapy\n\nExclusion Criteria:\n\n* Metastatic disease or currently active additional cancer diagnosis (except non- melanoma skin cancer) or any second primary breast cancer (includes ductal and/or lobular carcinoma in situ)\n* Patient received systemic chemotherapy within 1 year of enrollment\n* Currently enrolled in an interventional clinical trial or other clinical trial that precludes freely making decisions regarding extended endocrine therapy\n* More than 3 positive nodes\n* Received neo-adjuvant treatment (new-adjuvant chemotherapy or neo-adjuvant endocrine therapy)\n* Are beyond 7 years post-breast cancer diagnosis",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

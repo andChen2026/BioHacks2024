@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05217381",
+    "briefTitle": "Real-World Data of Clinicopathological Characteristics and Management of Breast Cancer Patients According to HER2 Status",
+    "officialTitle": "Retrospective Observational Study With Real-World Data to Assess Demographic and Clinicopathological Profiles, and Management of Breast Cancer Patients With Positive, Low or Negative Expression of HER2 in Spain",
+    "overallStatus": "COMPLETED",
+    "conditions": "Early Breast Cancer, Metastatic Breast Cancer, Locally Advanced Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 18533,
+    "primaryOutcomeMeasure": "Prevalence of HER2 expression change between initial diagnosis versus any of the subsequent BC relapses",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Male or female patients who have at least 18 years of age at enrollment.\n2. Patients with initial diagnosis of early BC or locally advanced BC or de novo mBC between the 1st of January 2005 and the 31st of December 2021\n3. Pathologically documented BC for:\n\n   * HER2 receptor expression with a validated assay according to American Society of Clinical Oncology - College of American Pathologists (ASCO/CAP) recommendations at the time of diagnosis. HER2 receptor expression can be: o HER2-positive expression: defined as immunohistochemistry (IHC) 3+ or concurrent IHC 2+ with in situ hybridization (ISH) positive or HER2-low expression: defined as IHC 2+ with ISH-negative or IHC 1+ with ISH-negative or untested) or HER2-negative expression: defined as IHC: 0.\n   * Estrogen receptor \\[ER\\]- and/or progesterone receptor \\[PgR\\] with a validated assay according to ASCO/CAP guidelines at the time of diagnosis during early and/or advanced setting. ER/PgR expression can be: positive: ER or PgR \u22651% or negative: ER and PgR \\<1%\n4. Electronic Health Records (EHRs), with guaranteed data to meet requisites, about clinicopathological characteristics, type of surgery, treatment management, disease outcomes, and genomic profile. Centers that agree to participate must commit to include all subjects who meet the inclusion criteria, in order to reduce possible selection bias.\n\nExclusion criteria:\n\n1. Medical charts at Hospital that cannot guarantee reliable and congruent EHRs.\n2. If sufficient data cannot be obtained from EHRs.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00148694",
+    "briefTitle": "Preoperative Cisplatin in Early Stage Breast Cancer",
+    "officialTitle": "A Phase II Trial of Cisplatin in Early Stage ER-, PR-, HER-2 Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 27,
+    "primaryOutcomeMeasure": "To determine the clinical response after preoperative therapy with cisplatin in ER-, PR-, HER-2 negative early breast cancer patients",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* All tumors must be ER-, PR- and HER-2 negative.\n* Age \\> 18 years\n* ECOG performance status of less than or equal to 1\n* Absolute neutrophil count (ANC) \\> 1,500/mm3\n* Hemoglobin \\> 9mm/dl\n* Platelets \\> 100,000/mm3\n* Creatinine \\< 1.5mg/dl\n* Glucose \\< 200mg/dl\n* Bilirubin \\< 1.5 x upper limit of normal (ULN)\n* SGOT \\< 3.0 x ULN\n\nExclusion Criteria:\n\n* Prior chemotherapy treatment\n* Pregnant or breast-feeding women\n* History of serious illness, medical or psychiatric condition requiring medical management\n* Uncontrolled infection\n* Renal dysfunction\n* Active or severe cardiovascular or pulmonary disease\n* Peripheral neuropathy of any etiology that exceeds grade 1\n* Prior history of malignancy\n* Uncontrolled diabetes",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

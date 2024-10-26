@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05142033",
+    "briefTitle": "Avera Cancer Sequencing and Analytics Protocol (ASAP)",
+    "officialTitle": "Implementation of Comprehensive Molecular Profiling and Deep Clinical Annotation of Electronic Health Records in Participants Diagnosed With or at Risk of Developing Cancer (ASAP Study)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cancer, Cancer Diagnosis, Early Detection of Cancer, Breast Cancer, Lung Cancer, Colon Cancer, GI Cancer, Gynecologic Cancer, Ovarian Cancer, Endometrial Cancer, CNS Cancer, Hematologic Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 25000,
+    "primaryOutcomeMeasure": "Percent of patients participating in comprehensive molecular profiling",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Must be at least 18 years of age\n* Must be undergoing a workup or being followed for a premalignant condition or have a diagnosis of cancer\n* Must voluntarily sign and understand the most current IRB-approved consent form prior to study participation\n\nExclusion Criteria:\n\n* Participants incapable of understanding the items listed in the consent form and process\n* Participants with a history of or known psychiatric illness deemed unable to consent or adhere to study requirements",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

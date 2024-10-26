@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02122146",
+    "briefTitle": "A Study Of PF-06664178 In Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase 1, Dose Escalation Study Of Pf-06664178 In Patients With Locally Advanced Or Metastatic Solid Tumors",
+    "overallStatus": "TERMINATED",
+    "conditions": "Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 31,
+    "primaryOutcomeMeasure": "First Cycle Dose Limiting Toxicities (DLTs) In Order to Determine the Maximum Tolerated Dose(MTD)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of solid tumor that is advanced/metastatic and resistant to standard therapy or for whom no standard therapy is available\n* Performance Status of 0 or 1\n* Adequate bone marrow, kidney and liver function\n* Part 2 includes target expressing NSCLC, ovarian or breast cancer patients\n\nExclusion Criteria:\n\n* Brain metastases requiring steroids\n* Major surgery, radiation therapy, or systemic anti-cancer therapy within 4 weeks of study treatment start (6 weeks for mitomycin C or nitrosoureas)\n* Active and clinically significant bacterial, fungal, or viral infection",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

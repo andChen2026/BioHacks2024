@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01610284",
+    "briefTitle": "Phase III Study of BKM120/Placebo With Fulvestrant in Postmenopausal Patients With Hormone Receptor Positive HER2-negative Locally Advanced or Metastatic Breast Cancer Refractory to Aromatase Inhibitor",
+    "officialTitle": "A Phase III Randomized, Double Blind Placebo Controlled Study of BKM120 With Fulvestrant, in Postmenopausal Women With Hormone Receptor-positive HER2-negative Locally Advanced or Metastatic Breast Cancer Which Progressed on or After Aromatase Inhibitor Treatment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1147,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS) Based on Local Investigator Assessment - Full Analysis Set (FAS) in Full Population, Main Study Cohort and PI3K Unknown Cohort",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Locally advanced or metastatic breast cancer\n* HER2-negative and hormone receptor-positive status (common breast cancer classification tests)\n* Postmenopausal woman\n* A tumor sample must be shipped to a Novartis designated laboratory for identification of biomarkers (PI3K activation status)\n* Progression or recurrence of breast cancer while on or after aromatase inhibitor treatment\n* Measurable disease or non measurable disease bone lesions in the absence of measurable disease as per RECIST 1.1\n* Adequate bone marrow and organ function defined by laboratory values\n\nKey Exclusion Criteria:\n\n* Previous treatment with PI3K inhibitors, AKT inhibitors, mTOR inhibitor or fulvestrant\n* More than one prior chemotherapy line for metastatic disease\n* Symptomatic brain metastases\n* Increasing or chronic treatment (\\> 5 days) with corticosteroids or another immunosuppressive agent\n* Active heart (cardiac) disease as defined in the protocol\n* Certain scores on an anxiety and depression mood questionnaires",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

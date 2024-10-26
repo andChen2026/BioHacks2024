@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05601037",
+    "briefTitle": "LymphoVenous Anastomosis to Prevent Breast Cancer Related Lymphedema",
+    "officialTitle": "Lymfo-Veneuse Anastomosen Ter Preventie Van Lymphoedeem",
+    "overallStatus": "RECRUITING",
+    "conditions": "Lymphedema, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "The volume via circumferential measurements: swelling < 5%",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* lymph node + breast cancer requiring dissection\n\nExclusion Criteria:\n\n* previous lymphedema\n* BMI \\>35",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

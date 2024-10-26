@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01403779",
+    "briefTitle": "Comparison of the Cosmetic Outcome of Hypofractionated Versus Normofractionated IMRT in Treatment of Breast Cancer",
+    "officialTitle": "Comparison of the Cosmetic Outcome of Hypofractionated Versus Normofractionated Intensity Modulated Radiotherapy (IMRT) in Treatment of Breast Cancer: The KOSIMA Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Tumors, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 226,
+    "primaryOutcomeMeasure": "acute and chronic cosmetic outcome",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed invasive or in situ breast cancer, tumor stage pTis-pT3, pN0-1a, M0\n* Age \u2265 60 years\n* signed informed consent from the patient\n\nExclusion Criteria:\n\n* Stage pN1b-PN3, pT4 and / or M1\n* incomplete surgical resection\n* after mastectomy of the ipsilateral or contralateral breast\n* breast reconstruction with implant or expander insert\n* bilateral breast cancer\n* Lack of compliance or consent\n* Indications for irradiation of the axillary, supraclavicular or parasternal lymph nodes",
+    "sex": "FEMALE",
+    "minimumAge": "60 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05459454",
+    "briefTitle": "A Digital Solution for Breast Cancer Patients",
+    "officialTitle": "Sidekick Health Digital Health Program (SK-421) for Breast Cancer Patients: a Pilot Study",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 64,
+    "primaryOutcomeMeasure": "Cancer-specific Quality of Life",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female adults diagnosed with breast cancer stage 1, 2, 3 or 4\n* Treatment plan includes surgery and (neo)adjuvant treatments: targeted-, chemo-, endocrine-, or radiotherapy.\n* Fluent in verbal and written Icelandic or English\n* Capacity to give informed consent\n* Capacity to operate a smartphone\n\nExclusion Criteria:\n\n* Not owning a smartphone compatible with the Sidekick Health app or not willing to have it installed on their device\n* Not able to comply with study intervention/scheduled measures and visits, as assessed by oncologist\n* Pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

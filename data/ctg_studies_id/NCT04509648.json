@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04509648",
+    "briefTitle": "Adjuvant Regional Nodal Radiation Therapy for One Week in Breast Cancer",
+    "officialTitle": "One-week Hypofractionated Radiotherapy in Breast Cancer Patients With an Indication for Regional Nodal Irradiation: Prospective, Single-arm Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 197,
+    "primaryOutcomeMeasure": "Cumulative complication rate of \u2265Grade 2 Acute Radiation-induced Toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged \\>18 years old\n* Underwent radical surgery with either mastectomy or breast conserving surgery and axillary lymph node dissection (ALND)\n* Ipsilateral clinically diagnosed and histologically confirmed invasive breast cancer T1-3\n* \\>=1 pathologically positive axillary lymph nodes\n* Karnofsky Performance Status scoring \u226580, and anticipative overall survival \\>5 years\n* Surgery wound healed without infection\n* Negative pathologically surgical margin\n* ER (estrogen-receptor), PR (progesterone-receptor), HER2 (human epidermal growth factor receptor 2) and Ki67 testing can be performed on the primary breast tumor\n* Women of child-bearing potential must agree to use adequate contraception for up to 1 month before study treatment and the duration of study participation\n* Ability to understand and willingness to participate the research and sign the consent forms\n\nExclusion Criteria:\n\n* Pathologically positive ipsilateral supraclavicular lymph node\n* Pathologically or radiologically confirmed involvement of ipsilateral internal mammary lymph nodes\n* Pregnant or lactating women\n* Severe non-neoplastic medical comorbidities\n* History of non-breast malignancy within 5 years with the exception of lobular carcinoma in situ, basal cell carcinoma of the skin, carcinoma in situ of skin, Adenocarcinoma in situ of the lung and carcinoma in situ of the cervix\n* simultaneous contralateral breast cancer\n* Previous radiotherapy to the neck, chest and/or ipsilateral axillary region\n* Active collagen vascular disease\n* Definitive pathological or radiologic evidence of distant metastatic disease\n* Primary T4 tumor\n* Interval between radical surgery (mastectomy or breast conserving surgery) and radiotherapy was more than 12 weeks or interval between last dose of adjuvant chemotherapy and radiotherapy was more than 8 weeks",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

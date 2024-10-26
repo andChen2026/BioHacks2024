@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03491410",
+    "briefTitle": "Breast Cancer Active Surveillance, Alternative Option, Aspirin Included",
+    "officialTitle": "Breast Cancer Active Surveillance Alternative Option, Can Aspirin Make the Difference?",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Overall Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nEvery adult (above 18) y.o.patient with histologic diagnosis of Breast Cancer that refuse or is not suitable for surgical treatment, or with metastatic disease, remaining this way in an \"active surveillance\"\n\nExclusion Criteria:\n\nAllergy or toxicity to aspirin",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

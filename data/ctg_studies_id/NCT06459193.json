@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06459193",
+    "briefTitle": "Trimetazidine Efficacy in Attenuating Paclitaxel-Induced Peripheral Neuropathy",
+    "officialTitle": "Evaluation of Trimetazidine in Alleviating Paclitaxel-Induced Peripheral Neuropathy in Breast Cancer Patients",
+    "overallStatus": "RECRUITING",
+    "conditions": "Peripheral Neuropathy Due to Chemotherapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Incidence of chemotherapy induced-peripheral neuropathy using National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) criteria",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer patients who will receive paclitaxel.\n* Eastern Cooperative Oncology Group (ECOG) performance status from 0 to 2.\n* Adequate bone marrow function (white blood count \u22654,000/mm3, platelet count\u2265100,000/mm3), liver function (serum total bilirubin \\<1.5 mg/dl), renal function (creatinine \\< 1.5 mg/dl).\n\nExclusion Criteria:\n\n* Patients with signs and symptoms of clinical neuropathy at baseline.\n* Patients with diabetes mellitus, alcoholic disease, heart failure, pregnant or lactating women.\n* Patients receiving vitamin/ supplementation drugs that interfere with the study intervention.\n* Patients with contraindications to trimetazidine including Parkinson's disease, Parkinsonian symptoms, tremors, restless leg syndrome, and other related movement disorders.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

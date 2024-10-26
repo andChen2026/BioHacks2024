@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06254066",
+    "briefTitle": "Adebrelimab Combined With Fluzoparib in HRD-positive HR +/HER2- Advanced Breast Cancer",
+    "officialTitle": "An Open-label, Single-arm Study of Adebrelimab Combined With Fluzoparib in HRD-positive HR +/HER2- Advanced Breast Cancer",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Female Breast Cancer Patients, Histopathologically Confirmed Advanced HR +/HER2-invasive Breast Cancer, HRD Positive Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "PFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female breast cancer patients aged \u2265 18 years and \u2264 75 years;\n2. Histopathologically confirmed advanced HR +/HER2-invasive breast cancer according to the latest ASCO/CAP guidelines, meeting the following conditions: HER2 negative: IHC 0/1 + or IHC2 + but ISH negative; ER positive: IHC \u2265 1%, PR positive: IHC \u2265 1%\n3. ECOG score 0 \\~ 2;\n4. In the treatment stage of recurrence and metastasis, \u2264 1 line of chemotherapy is allowed, at least \u2265 1 standard endocrine therapy (including CDK4/6 inhibitor therapy) is allowed, and \u2264 1 antibody-conjugated drug (ADC) is allowed;\n5. HRD positive confirmed, known germline and/or systemic BRCA mutation status and HRR pathway-related gene mutation status allow preferential enrollment;\n6. Appropriate level of organ function\n7. Patients voluntarily participate in and sign the informed consent form, are expected to have good compliance and cooperate with the study according to the requirements of the protocol.\n\nExclusion Criteria:\n\n1. Active or symptomatic brain metastases Systemic anticancer therapy (including chemotherapy, radiotherapy, immunotherapy, endocrine therapy, targeted therapy, biologic therapy, or tumor embolization) within 14 days prior to enrollment\n2. Patients previously received PD-1/PD-L1 antibody, CTLA-4 antibody, or other treatments against PD-1/PD-L1 inhibitors;\n3. Female patients who are pregnant and lactating, female patients who are fertile and have a positive baseline pregnancy test, or female patients of childbearing age who are unwilling to take effective contraceptive measures throughout the trial.4.Have a clear history of neurological or psychiatric disorders, including epilepsy or dementia, and the subject has a known history of psychotropic drug abuse, alcoholism\n\n5.Human immunodeficiency virus (HIV) infection or known acquired immunodeficiency syndrome (AIDS); positive hepatitis B surface antigen (HBsAg) test, or positive hepatitis B core antibody (HBcAb) test followed by positive HBV-DNA test (HBV-DNA test was performed only in patients with negative HBsAg test and positive HBcAb test); positive hepatitis C virus (HCV) antibody test followed by positive HCV-RNA test (HCV-RNA test was performed only in patients with positive HCV antibody test) 6.Any other condition that, in the opinion of the investigator, would make the patient inappropriate for participation in this study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Months",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

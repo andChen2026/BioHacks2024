@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05404087",
+    "briefTitle": "Evaluation of Contrast Enhanced Breast CT for Diagnosis and Staging of Breast Cancer",
+    "officialTitle": "Clinical Evaluation of Contrast Enhanced Breast CT to Improve Staging and Treatment Follow up in Women With Breast Cancer",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 413,
+    "primaryOutcomeMeasure": "Non-inferiority of CEBCT error rate vs DCE MRI error rate, both as compared to the golden standard for tumor staging.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnoses of breast cancer\n* Scheduled for a pre-surgery staging contrast enhanced breast MRI\n* Eligible for primary systemic therapy\n\nExclusion Criteria:\n\n* Women with suspected or confirmed pregnancy\n* Women with prior history of breast cancer\n* Women who are breastfeeding\n* Women who are very frail and unable to cooperate\n* Women who cannot give informed consent\n* Contra indication of iodine contrast (i.e. untreatable contrast allergy, renal function impairment (GFR \\<60 ml/min/1.73m2))\n* Contra indication for irradiation (i.e. genetic mutation that predispose to breast cancer)\n* Male subjects",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

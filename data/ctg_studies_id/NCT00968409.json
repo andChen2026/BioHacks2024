@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00968409",
+    "briefTitle": "Assessment of Progesterone Receptors in Breast Carcinoma by Positron Emission Tomography (PET) Using Fluoro Furanyl Norprogesterone (FFNP)",
+    "officialTitle": "Labeling of Receptor Ligands and Other Compounds With Halogen Radionuclides: Assessment of Progesterone Receptors in Breast Carcinoma by Positron Emission Tomography (PET) Using FFNP",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Diagnostic accuracy of FFNP-PET imaging compared to in-vivo receptor status",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients 18 years of age or older\n* Biopsy-proven breast cancer\n* Tumor estrogen-receptor and progesterone-receptor status already determined or scheduled to be determined at time of surgery without intervening therapy.\n* Primary lesion size \u2265 1.5 cm as determined by imaging studies (ultrasonography, mammography, CT or MRI) or physical examination\n* Able to give informed consent\n* Not currently pregnant or nursing: Subject must be surgically sterile (has had a documented bilateral oophorectomy and / or documented hysterectomy), post menopausal (cessation of menses for more than 1 year), non lactating, or of childbearing potential for whom a urine pregnancy test (with the test performed within the 24 hour period immediately prior to administration of FFNP) is negative.\n\nExclusion Criteria:\n\n* No previous history of hormone therapy; NOTE - subjects who were treated with hormone therapy for reasons other than breast cancer or breast cancer prevention may be allowed to participate after review of history by the primary investigator\n* Patients with other invasive malignancies, with the exception of non-melanoma skin cancer, who had (or have) any evidence of the other cancer present within the last 5 years\n* Unable to tolerate 60-90 minutes of PET imaging per imaging session",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03252717",
+    "briefTitle": "Predictive Role of New Biomarkers for Hypersensitive Patients to Radiation in Breast Cancer (BIORISE)",
+    "officialTitle": "Radiation-induced Late Side-effects: Predictive Role of New Biomarkers for Selecting Hypersensitive Patients to Ionizing Radiation in Breast Cancer (BIORISE)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "blood sample to assess dosage of 5 proteins",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients suitable for adjuvant radiotherapy for cancer of the breast (invasive or in situ) including breast patients receiving neo-adjuvant chemotherapy. Patients receiving chemotherapy should have completed their course of chemotherapy (anthracyclines) at least one month prior to radiotherapy commencing.\n* No other malignancy prior to treatment for the specified tumour types except basal cell or squamous cell carcinoma of the skin\n* No evidence of distant metastases\n* Patients able to provide a venous blood sample\n* Willingness and ability to comply with scheduled visits, treatment plans and available for follow up\n* Greater than 18 years of age; no upper age limit\n* The capacity to understand the patient information sheet and the ability to provide written informed consent\n* Patients must be affiliated to a Social Security System\n\nExclusion Criteria:\n\n* Patients with metastatic disease\n* Prior irradiation at the same site\n* Planned use of protons\n* Breast patients receiving concomitant chemo-radiation\n* Male breast cancer patients\n* Mastectomy patients\n* Bilateral breast cancer\n* Mental disability or patient otherwise unable to give informed consent\n* Limited life expectancy due to co-morbidity\n* Pregnant patients\n* Partial breast irradiation\n* Patients with breast implants if not removed during surgery",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

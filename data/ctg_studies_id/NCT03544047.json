@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03544047",
+    "briefTitle": "Clinical Study on Drug Sensitivity Verification or Prediction of Therapy for Breast Cancer by Patient-Derived Organoid Model",
+    "officialTitle": "Clinical Study on Drug Sensitivity Verification or Prediction of Therapy for Breast Cancer by Patient-Derived Organoid Model",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Organoid",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Overall Response rates (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The age is more than 18 years old;\n* Pathology and immunohistochemical diagnosis of stage II-III breast cancer patients;\n* No prior treatment (such as anti-tumor therapy, immunotherapy, related surgery, etc.) may affect the outcome of the treatment;\n* According to the RECIST standard, the lesion was measured (the diameter of the primary lesion was greater than 1.0cm or the short diameter of the lymph node was greater than 1.5cm);\n* Metastatic lesions or primary lesions can obtain surgical tissue or adequate biopsy tissue;\n* No clinical diagnosis of other malignancies, unstable complications or uncontrolled infection;\n* ECOG PS score: 0-2 points;\n* Life expectancy is greater than 6 month;\n* The main organ function is normal;\n* The subjects volunteered to participate in this study, signed informed consent, followed up with good compliance.\n\nExclusion Criteria:\n\n* Unable to obtain sufficient tumor organizer by operation or biopsy;\n* Pregnant and lactating patients;\n* Patients with peripheral nervous system disorder caused by disease or have significant mental disorders and history of central nervous system disorders;\n* Patients with severe infections or active digestive tract ulcers need to be treated;\n* Allergic to chemotherapy drugs or surgical contraindication;\n* History of other malignant tumors;\n* Severe liver disease (such as cirrhosis), cardiovascular disease, kidney disease, respiratory disease, blood system disease, or uncontrolled diabetes;\n* Participating in or participating in other clinical trials within a month.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04727632",
+    "briefTitle": "[18F]Fluoroestradiol-PET/CT Companion Imaging Study to the FORESEE Trial",
+    "officialTitle": "[18F]Fluoroestradiol-PET/CT Companion Imaging Study to the FORESEE: Functional Precision Oncology for Metastatic Breast Cancer Feasibility Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Estrogen Receptor Positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Number of patients on the FORESEE trial refractory to all combinatorial hormonal therapies that are recruited and imaged with FES-PET/CT prior to switching to non-hormonal therapeutic agents",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults aged 18 years or greater.\n* All patients or legal guardians are willing and able to sign written informed consent and HIPAA authorization in accordance with local and institutional guidelines.\n* Enrolled on the FORESEE trial.\n* Biopsy proven estrogen receptor positive breast cancer.\n* Patient deemed refractory to all combinations of hormonal therapies by FORESEE trial investigators.\n\nExclusion Criteria:\n\n* Patients with known allergic or hypersensitivity reactions to previously administered radiopharmaceuticals. Patients with significant drug or other allergies or autoimmune diseases may be enrolled at the Investigator's discretion.\n* Patients who require monitored anesthesia for PET/CT scanning.\n* Patients who are too claustrophobic to undergo PET/CT scanning.\n* Patients who are pregnant or currently breast feeding.\n* Any patient that is medically unstable defined as a patient requiring inpatient hospitalization or needing evaluation at an acute care or urgent care facility at the time of imaging.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

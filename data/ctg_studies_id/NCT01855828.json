@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01855828",
+    "briefTitle": "Phase 2 Trial of Pertuzumab and Trastuzumab With Weekly Paclitaxel and Chemotherapy for HER2 Positive Breast Cancer",
+    "officialTitle": "Single Arm, Neoadjuvant, Phase II Trial of Pertuzumab and Trastuzumab Administered Concomitantly With Weekly Paclitaxel and FEC for Clinical Stage I-II HER2-Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Her2-Positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Proportion of Participants With a Pathologic Complete Response Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n- Patients with histologically confirmed stage I-III, HER2-positive invasive breast cancer for which adjuvant/neoadjuvant chemotherapy is indicated based on physician judgment following NCCN practice guidelines.\n\nHER2 overexpression or amplification will be based on local test results and is defined as either:\n\n(i) IHC staining of 3+ (uniform, intense membrane staining) in greater than or equal to 10% of invasive tumor cells or, (ii) Fluorescent in situ hybridization (FISH) result of more than six HER2 gene copies per nucleus or, (iii) FISH ratio (HER2 gene signals to chromosome 17 signals) of greater than or equal to 2.0.\n\n* Patients with synchronous bilateral breast cancers are eligible if at least one of the tumors is HER2-positive.\n* Left Ventricular Ejection Fraction (LVEF) greater or equal to 50% at baseline as determined by either ECHO or MUGA, or within the institution's normal limits.\n* Women of childbearing potential must have a negative pregnancy test (serum or urine beta HCG) prior to initiation of chemotherapy. Both female and male breast cancer patients who are sexually active have to agree to practice contraception while participating in the trial and for 3 month after completion of therapy.\n* Adequate bone marrow function as indicated by the following:\n* ANC greater than or equal to 1500/uL\n* Platelets greater than or equal to 100,000/uL\n* Hemoglobin greater than or equal to 10 g/dL\n* Adequate renal function, as indicated by creatinine less than or equal to 1.5 times upper limit of normal (ULN)\n* Adequate liver function, as indicated by bilirubin less than or equal to 1.5 X ULN and AST or ALT less than or equal to 2x ULN.\n* Signed informed consent.\n\nExclusion Criteria:\n\nPatients will be excluded from the study based on any of the following criteria:\n\n* Patients who underwent partial excisional biopsy, lumpectomy, segmental mastectomy, modified radical mastectomy or sentinel node biopsy and, therefore cannot be assessed for pathologic response accurately.\n* Patients who are high risk for developing the following anthracycline, paclitaxel, trastuzumab or pertuzumab related toxicities including:\n\nHistory of congestive heart failure, myocardial infarction or cardiomyopathy, uncontrolled hypertension despite adequate medications Pre-existing peripheral neuropathy \\> grade 3 Prior anthracycline therapy Known hypersensitivity to any of the study medications Patients older than age 65 due to increased risk of cardiotoxicity\n\n* Active infection requiring systemic antibiotic therapy.\n* Pregnant or lactating women",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

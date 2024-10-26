@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03572361",
+    "briefTitle": "Open Label Immunotherapy Trial for Breast Cancer",
+    "officialTitle": "Open Label, One-arm, 3-month Study of Once-daily Tablet of V3-MOMMO as Immunotherapy of Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Effect on tumor size",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of breast cancer positive at least for CEA tumor marker at above normal threshold level\n\nExclusion Criteria:\n\n* Mastectomy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

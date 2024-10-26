@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01483300",
+    "briefTitle": "Effectiveness and Toxicity of Gemcitabine/Lobaplatin Versus Gemcitabine/Cisplatin as Second-line Treatment in Metastatic Breast Cancer",
+    "officialTitle": "N/A",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Overall response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed metastatic breast cancer\n* Disease progression during or after previous 1st line chemotherapy\n* Scheduled to receive 2nd line chemotherapy.\n* Measurable disease, defined as a least one lesion that can be accurately measured in at least one dimension\n* 18 years of age or older\n* ECOG performance status of 0-2\n* Life expectancy of greater than 6 months\n\nExclusion Criteria:\n\n* Previous treatment with one of the study drugs\n* Application of other cytotoxic chemotherapy or radiotherapy\n* Insufficent renal function (creatinine clearance \\< 60ml/min)\n* Clinically unstable brain metastasis\n* Pregancy or lactation\n* History of other malignancy within last 5 years.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

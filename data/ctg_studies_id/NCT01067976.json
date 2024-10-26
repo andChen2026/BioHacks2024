@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01067976",
+    "briefTitle": "Efficacy and Safety of Gadobutrol 1.0 Molar (Gadovist) for Breast MRI",
+    "officialTitle": "An Open Label, Multi-center, Phase 3 Study With Corresponding Blinded Image Reading to Determine the Efficacy and Safety of a Single Intravenous Injection of 0.1 mmol/kg Body Weight of Gadobutrol 1.0 Molar (Gadovist\u00ae) in Patients With Newly Diagnosed Breast Cancer Referred for Contrast-enhanced Breast MRI",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Diagnostic Imaging",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 446,
+    "primaryOutcomeMeasure": "Difference for Sensitivity for Detection of Full Extent of Malignant Breast Disease Using CMRM vs UMRM Per Reader",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Recent histologically proven diagnosis of breast cancer after having obtained X-Ray Mammography (XRM) of both breasts (according to American College of Radiology \\[ACR\\] and performed no longer than 6 weeks prior to enrollment into the study) and has been referred for a contrast-enhanced Magnetic Resonance Mammography (MRM) prior to surgery of the breast.\n* If female, a digital XRM is required if any of the following criteria is met:\n\n  1. patient is younger than 50 years;\n  2. patient has heterogeneously or extremely dense breasts;\n  3. is not post-menopausal (post-menopause defined as at least 12 months prior to inclusion without menstruation).\n* If female of childbearing potential, MRM should be performed on the 7-14th day of the menstrual cycle.\n* Has an estimated glomerular filtration rate (eGFR) value \\>/= 60 mL/min/1.73m\\^2 derived from a serum creatinine result within 2 weeks prior to study enrollment.\n\nExclusion Criteria:\n\n* Is a female patient who is pregnant or lactating\n* Has any contraindication to the MRM examination (e.g. metal implants, phobia) or the use of gadolinium-containing contrast agents.\n* Has received any contrast agent within 24 hours prior to the study MRM, or is scheduled to receive any contrast agent within 24 hours after the study MRM.\n* Has severe cardiovascular disease (e.g., known long QT syndrome, acute myocardial infarction \\[\\< 14 days\\], unstable angina, congestive heart failure New York Heart Association class IV) or acute stroke (\\< 48 hours)).\n* Has acute renal insufficiency of any severity due to hepato-renal syndrome or in the peri-operative liver transplantation period or who has acute or chronic moderate or severe renal insufficiency (glomerular filtration rate \\< 60 mL/min/1.73m\\^2).\n* Has received chemotherapy or hormonal therapy for breast cancer within 6 months.\n* Has received hormone replacement therapy within 4 weeks prior to study drug administration.\n* Is scheduled or likely to require a surgery and/or biopsy in the time period up to 24 hours following study drug application\n* Has prior excisional biopsy or breast surgery less than 6 months before enrollment and between XRM and study MRM",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

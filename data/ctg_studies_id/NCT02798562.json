@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02798562",
+    "briefTitle": "Evaluation of the High-resolution, Contrast Enhanced Low-dose Breast-CT",
+    "officialTitle": "Evaluation of the High-resolution, Contrast Enhanced Low-dose Breast-CT",
+    "overallStatus": "UNKNOWN",
+    "conditions": "BI-RADS 4, BI-RADS 5, BI-RADS 6, High Risk of Breast Cancer Which Indicates a Mamma-MRI",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "Sub-Study 1: comparison of a-posteriori sensitivity using the native, contrast-enhanced or dynamic contrast-enhanced breast CT.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nSub Study 1:\n\n* patients with mammographic or sonographic validated Breast Imaging Reporting and Data System (BI-RADS)-4 or BI-RADS-5-result or in BI-RADS-6-situation, i.e. with an already reliable carcinoma by punch biopsy, for which a clinical indication for a mamma-MRI consists.\n* Age \\>= 40\n* maintained renal function (MDRD with GFR \\>= 60 ml/min/1,73m\u00b2)\n* normal thyroid function, no clinical indication for an endocrine autonomy, normal TSH (not older than 8 weeks)\n* Persons which are able to give written consent and are aware of the nature, meaning and extent of the study\n* signed informed consent\n\nSubstudy 2:\n\n* patients with a doubtful and suspect clinical or mammographic or sonographic result (BI-RADS 3, 4a, 4b, 4c, 5) as well as patients with a reliable carcinoma by punch biopsy (BI-RADS 6), patients with high risk of breast cancer for which a clinical indication for a mamma-MRI consists.\n* Age \\>= 40\n* maintained renal function (MDRD with GFR \\>= 60 ml/min/1,73m\u00b2)\n* normal thyroid function, no clinical indication for an endocrine autonomy, normal TSH (not older than 8 weeks)\n* Persons which are able to give written consent and are aware of the nature, meaning and extent of the study\n* signed informed consent\n\nExclusion Criteria:\n\nSubstudy 1:\n\n* Pregnancy or lactation\n* Women with child-bearing potential without sufficient contraception\n* Age \\<40 years\n* Women with proven pathogenic Breast Cancer (BRCA) 1-mutation or heterozygote risk (\\>= 25%)\n* Hospitalization of patient ordered by the court or local authorities\n* Relationship of dependence or employment to sponsor or investigator\n\nadditionally the following criteria apply, if conducting the dynamic contrast-enhanced breast-CT\n\n* signs of a renal insufficiency (GFR \\< 60ml/min/1,73m\u00b2)\n* clinical signs or signs of the labor chemistry for endocrine autonomy (increase of TSH)\n* Patients with known allergies or intolerance reactions grade II or higher to contrast medium containing iodine\n\nSubstudy 2:\n\n* Pregnancy or lactation\n* Women with child-bearing potential without sufficient contraception\n* Age \\<40 years\n* Women with proven pathogenic BRCA 1-mutation or heterozygote risk (\\>= 25%)\n* Hospitalization of patient ordered by the court or local authorities\n* Relationship of dependence or employment to sponsor or investigator\n\nadditionally the following criteria apply, if conducting the dynamic contrast-enhanced breast-CT:\n\n* end stage or advanced renal insufficiency\n* clinical signs or signs of the labor chemistry for endocrine autonomy (increase of TSH)\n* Patients with known allergies or intolerance reactions grade II or higher to contrast medium containing iodine",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06541769",
+    "briefTitle": "CIPN-prevention Trial Evaluating the Efficacy of Hand-cooling and Hand-compression",
+    "officialTitle": "CIPN-prevention Trial Evaluating the Efficacy of Hand-cooling and Hand-compression in Patients Undergoing (Neo-) Adjuvant Chemotherapy for Primary Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Chemotherapy-induced Peripheral Neuropathy, Onychodystrophy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 122,
+    "primaryOutcomeMeasure": "Incidence of CIPN grade >1 on the interventional hand compared to the non-interventional hand",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n- all female patients with signed informed consent who are starting with (neo-) adjuvant chemotherapy according to the following protocols:\n\n* 4 x Epirubicin/Cyclophosphamid (EC) q3w, followed by 12 x Paclitaxel weekly or 12x Nab-Paclitaxel (+/- Trastuzumab)\n* Paclitaxel or Nab-Paclitaxel weekly without anthracyclines\n* Paclitaxel or Nab-Paclitaxel weekly in combination with Carboplatin\n\nExclusion criteria:\n\n* patients without informed consent\n* ECOG-Status \\> 1\n* age under 18 years\n* previous chemotherapy\n* therapy with SSNRI, SSRI, or tricyclic antidepressants especially duloxetine, gabapentine, pregabaline and amitryptiline.\n* known polyneuropathy (e.g. alcoholic PNP, nephrogenic PNP, diabetic PNP etc.)\n* Patients having diseases connected to PNP:\n\n  * Sj\u00f6gren-syndrome, sarkoidosis, amyloidneuropathy, Morbus Fabry, HSAN (Hereditary Sensoric and Autonome Neuropathy)\n  * Guillain-Barr\u00e9-syndrome, acute intermittent porphyria, critical-illness-PNP\n  * Vaskulitides, HNPP, diabetic amyotrophy, multifokal motoric neuropathy, Lewis-Sumner-syndrome, borreliosis-neuropathy, Zoster-neuritis, neuralgic shoulder amyotrophy\n  * Myelopathy, compression of the myelon, syringomyelia, meningomyelitis, Restless-Legs-syndrome\n  * Sulcus-Ulnaris-syndrome, Loge-de-Guyon-syndrome, Medianus-compression-syndrome, multiple sklerosis, AML, Lupus erythematodes, sklerodermia/systemic sclerosis, Ehlers-Danlos-syndrome, CREST-syndrome, Raynaud-syndrome, cold aglutinin disease, h\u00e4matologic neoplasms, diabetes mellitus, chronic alcohol abuse, hepatitis C, known severe kidney disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

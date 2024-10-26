@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02690805",
+    "briefTitle": "Predicting Neoadjuvant Chemotherapy Response by Using a Combined MRI and Scinti-Mammography (MRI-SMM) System",
+    "officialTitle": "Predicting Neoadjuvant Chemotherapy Response by Using a Combined MRI and Scinti-Mammography (MRI-SMM) System",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 16,
+    "primaryOutcomeMeasure": "Diagnostic accuracy of residual breast cancer after neoadjuvant chemotherapy as assessed by MRI and scinti-mammography",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. A female older than 21 years of age,\n2. Have biopsy-proven breast cancer and decided to receive neoadjuvant chemotherapy.\n3. Are in good health (other than having breast cancer) and can lie still in a prone position for 45 minutes inside MRI scanner.\n\nExclusion Criteria:\n\n1. Pregnant,\n2. Unwilling to give informed consent,\n3. Have implanted prosthetic heart valves, pacemaker, neuro-stimulation devices, surgical clips (hemostatic clips) or other metallic implants,\n4. Have engaged in occupations or activities which may cause accidental lodging of ferromagnetic materials (e.g. iron), or have imbedded metal fragments from military activities,\n5. Have received orthodontic work involving ferromagnetic materials,\n6. Claustrophobic (i.e. feeling very anxious in a confined small space),\n7. Have had allergic response to contrast agents (such as iodine or gadolinium) previously,\n8. Have known history of kidney diseases.",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

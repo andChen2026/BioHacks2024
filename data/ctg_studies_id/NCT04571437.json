@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04571437",
+    "briefTitle": "Letrozole and Metronomic Capecitabine in ER-positive HER2 Negative Advanced Breast Cancer (B-001 Study)",
+    "officialTitle": "Letrozole With or Without Metronomic Capecitabine in First Line Treatment of Patients With ER-positive HER2 Negative Advanced Breast Cancer: A Randomized Phase II Study.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Estrogen Receptor-positive Breast Cancer, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 204,
+    "primaryOutcomeMeasure": "6 months Progression free survival rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female sex\n* Age 18-70\n* ECOG-PS 0-II.\n* Histopathological proof of breast cancer\n* ER positive (Allred score of \u22653 out of 8), and HER2 negative by IHC (or ISH if HER2 +2).\n* Metastatic/recurrent disease as proven by CT scan, bone scan or clinical examination (for skin lesions). Biopsy of the recurrent lesions is encouraged but not mandatory.\n* Either hormone sensitive setting (Denovo metastatic disease or disease progression after more than 1 year of ending adjuvant endocrine therapy) or secondary resistance to tamoxifen therapy (disease relapse after more than 2 years of starting and less than 1 year of ending adjuvant endocrine therapy, or DP of metastatic disease after more than 6 months of first line tamoxifen).\n* Adequate organ function.\n* Signed informed consent\n\nExclusion criteria:\n\n* Inadequate organ functions.\n* Disease progression while on prior aromatase inhibitor therapy.\n* Primary endocrine resistance.\n* Double primary cancer (history of other malignancy apart from a non melanoma skin cancer).\n* Refusal to sign consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

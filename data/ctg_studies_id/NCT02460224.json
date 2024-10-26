@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02460224",
+    "briefTitle": "Safety and Efficacy of LAG525 Single Agent and in Combination With PDR001 in Patients With Advanced Malignancies.",
+    "officialTitle": "A Phase I/II, Open Label, Multicenter Study of the Safety and Efficacy of LAG525 Single Agent and in Combination With PDR001 Administered to Patients With Advanced Malignancies",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 490,
+    "primaryOutcomeMeasure": "Phase 1: Number of Participants With Dose-Limiting Toxicities (DLTs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPhase I part:\n\n- Patients with advanced/metastatic solid tumors, with measurable or non-measurable disease as determined by RECIST version 1.1, who have progressed despite standard therapy or are intolerant of standard therapy, or for whom no standard therapy exists\n\nPhase II part:\n\n* Patients with advanced/metastatic solid tumors, with at least one measurable lesion as determined by RECIST version 1.1, who have had disease progression following their last prior therapy and fit into one of the following groups:\n* Group 1: NSCLC\n* Group 2: Melanoma\n* Group 3: Renal cancer\n* Group 4: Mesothelioma\n* Group 5: TNBC\n* Eastern Cooperative Oncology Group (ECOG) Performance Status \u2264 1\n* Patient must have a site of disease amenable to biopsy, and be a candidate for tumor biopsy.\n\nExclusion Criteria:\n\n* History of severe hypersensitivity reactions to study treatment ingredients or other mAbs\n* Active, known or suspected autoimmune disease\n* Active infection requiring systemic antibiotic therapy\n* HIV infection. Active hepatitis B virus (HBV) or hepatitis C virus (HCV) infection\n* Patients receiving chronic treatment with systemic steroid therapy, other than replacement-dose corticosteroids in the setting of adrenal insufficiency\n* Patients receiving systemic treatment with any immunosuppressive medication\n* Use of live vaccines against infectious disease within 4 weeks of initiation of study treatment\n* Systemic anti-cancer therapy within 2 weeks of the first dose of study treatment.\n* Presence of symptomatic central nervous system (CNS) metastases or CNS metastases that require local CNS-directed therapy or increasing doses of corticosteroids within the prior 2 weeks\n* History of drug-induced pneumonitis or current pneumonitis.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

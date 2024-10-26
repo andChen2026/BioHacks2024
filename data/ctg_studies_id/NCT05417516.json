@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05417516",
+    "briefTitle": "A Randomized Trial of Five Fraction Partial Breast Irradiation (RAPID2)",
+    "officialTitle": "A Randomized Trial of Five-Fraction Partial Breast Irradiation (RAPID2)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Neoplasm Female, Radiotherapy, Cosmetic Outcome",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 910,
+    "primaryOutcomeMeasure": "Local Recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nFor inclusion in this study, patients must fulfill all of the following criteria:\n\n1. Female with a new histological diagnosis of invasive carcinoma of the breast with no evidence of metastatic disease.(AJCC TNM Cancer Staging).\n2. Treated by BCS with microscopically clear resection margins \u2265 1mm for invasive and non-invasive disease or no residual disease on re-excision.\n3. Negative axillary node involvement as determined by either sentinel lymph node biopsy or axillary node dissection.\n\nExclusion Criteria:\n\nPatients who satisfy any of the following exclusion criteria are NOT eligible for this study:\n\n1. Age less than 50 years.\n2. Known to be BRCA 1 and/or BRCA 2 positive.\n3. Tumour size \\>3cm in greatest diameter on pathological examination.\n4. Lobular carcinoma only.\n5. More than one primary tumour in different quadrants of the same breast (patients with multifocal breast cancer are eligible).\n6. Synchronous or previous contralateral breast cancer (patients with contralateral DCIS or LCIS are eligible).\n7. History of non-breast malignancy within the last 5 years other than treated non-melanoma skin cancer or treated in-situ carcinoma.\n8. Known pregnancy or currently lactating.\n9. Inability to localize tumour bed on CT planning (no evidence of surgical clips or seroma).\n10. Inability to plan the patient for the experimental technique.",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

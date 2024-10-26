@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02015676",
+    "briefTitle": "A Study of Herceptin (Trastuzumab) in Combination Chemotherapy in Patients With Metastatic or Locally Advanced Breast Cancer",
+    "officialTitle": "'A Study of the Effect of First Line Treatment With Paclitaxel and Myocet in Combination With Herceptin on Overall Tumor Response in Patients With Metastatic or Locally Advanced Breast Cancer and HER2 Overexpression.'",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 69,
+    "primaryOutcomeMeasure": "Percentage of Participants Achieving Complete Response (CR) or Partial Response (PR) According to World Health Organization (WHO) Handbook for Reporting Results of Cancer Treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women 18-70 years of age;\n* metastatic or locally advanced breast cancer;\n* HER2 overexpression;\n* \\>= 1 measurable lesion.\n\nExclusion Criteria:\n\n* prior treatment for advanced breast cancer;\n* prior treatment with Herceptin;\n* bone or central nervous system metastasis as the only site of disease;\n* history of another malignancy (except basal cell skin cancer and cancer in situ of the uterine cervix, and contralateral breast cancer) within 5 years of study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

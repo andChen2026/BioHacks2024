@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01215162",
+    "briefTitle": "Phase II Study of Intra-Operative Electron Irradiation and External Beam Irradiation After Lumpectomy in Patients With T1N0M0 and T2N0M0 Breast Cancer",
+    "officialTitle": "Phase II Study of Intra-Operative Electron Irradiation and External Beam Irradiation After Lumpectomy in Patients With T1N0M0 and T2N0M0 Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 65,
+    "primaryOutcomeMeasure": "Determine the feasibility and acute patient tolerance of IOERT and EBRT after lumpectomy for patients with stage T1/T2N0M0 breast cancer.",
+    "eligibilityCriteria": "Eligibility:\n\n1. Histologically proven primary invasive breast carcinoma.\n2. Tumor pathologically determined \\<= 5cm in diameter.\n3. Single, discrete, well-defined primary tumor.\n4. Any micro-calcifications must be focal. A specimen radiograph is required after lumpectomy to assure removal of all malignant appearing calcifications.\n5. Pathologically negative surgical margins.\n6. Axillary lymph node status can be determined by level I and II lymph node dissection or sentinel lymph node sampling.\n7. ECOG performance status 0-2.\n\nContraindications:\n\n1. Multicentric disease and/or diffuse malignant appearing microcalcifications.\n2. Evidence of metastatic breast cancer.\n3. Axillary lymph node involvement.\n4. Pre-existing collagen vascular disease except rheumatoid arthritis that does not require immunosuppressive therapy.\n5. Prior irradiation to the ara of planned radiation field.\n6. Pregnant or lactating women.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01125566",
+    "briefTitle": "LUX-Breast 1: BIBW 2992 (Afatinib) in HER2-positive Metastatic Breast Cancer Patients After One Prior Herceptin Treatment",
+    "officialTitle": "LUX-Breast 1; An Open Label, Randomised Phase III Trial of BIBW 2992 and Vinorelbine Versus Trastuzumab and Vinorelbine in Patients With Metastatic HER2-overexpressing Breast Cancer Failing One Prior Trastuzumab Treatment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 508,
+    "primaryOutcomeMeasure": "Progression-free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Histologically confirmed diagnosis of HER2-overexpression breast cancer\n* Stage IV metastatic disease\n* Must have progressed on one prior trastuzumab treatment\n* no more than one prior trastuzumab based therapy regimen (either adjuvant or first-line)\n* Must have received anthracycline and/or taxane based chemotherapy for adjuvant treatment of breast cancer or first-line treatment of metastatic breast cancer\n* Must have (archived) tumour tissue sample available for central re-assessment of HER2-status\n* At least one measurable lesion according to RECIST 1.1.\n* Eastern Cooperative Oncology Group (ECOG) score of 0 or 1 .\n\nExclusion criteria:\n\n* Prior treatment with Epidermal Growth Factor Receptor/Human Epidermal Growth Factor Receptor(EGFR/HER2)-targeted small molecules or antibodies other than trastuzumab\n* Prior treatment with vinorelbine\n* Known pre-existing interstitial lung disease\n* Active brain metastases\n* History or presence of clinically relevant cardiovascular abnormalities such as uncontrolled hypertension, congestive heart failure NYHA classification of 3, unstable angina or poorly controlled arrhythmia. Myocardial infarction within 6 months prior to randomisation.\n* Cardiac left ventricular function with resting ejection fraction of less than 50%.\n* Patients unable to comply with the protocol.\n* Any contraindications for therapy with vinorelbine or trastuzumab.\n* Known hypersensitivity to BIBW 2992 or the excipients of any of the trial drugs.\n* Use of any investigational drug within 4 weeks of randomisation.\n* Inadequate hepatic, renal and haematologic organ function",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

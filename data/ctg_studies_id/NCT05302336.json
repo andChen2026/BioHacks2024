@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05302336",
+    "briefTitle": "AC vs TC in Patients With HR-positive, HER2-negative Early Breast Cancer",
+    "officialTitle": "A Randomized Controlled Study of AC (Doxorubicin Hydrochloride Liposome/Cyclophosphamide) vs TC (Docetaxel/Cyclophosphamide) Regimens for Postoperative Adjuvant Chemotherapy in Patients With HR-positive, HER2-negative Early Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Chemotherapeutic Toxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 402,
+    "primaryOutcomeMeasure": "disease-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age: 18\\~70 years old, female;\n2. Patients with primary breast cancer diagnosed by histopathology and clinical stage of T1b-2 N0;\n3. The expression of HER-2 is negative by immunohistochemistry (IHC). If the expression of HER-2 is 2+, in situ hybridization is required to confirm that the HER-2 gene is not amplified; HR+.\n4. ECOG physical fitness score 0-1 points;\n5. LVEF\u226555%;\n6. Bone marrow function: neutrophils\u22651.5\u00d7109/L, platelets\u2265100\u00d7109/L, hemoglobin\u226590g/L;\n7. Liver and kidney function: serum creatinine \u22641.5 times the upper limit of normal; AST and ALT \u22642.5 times the upper limit of normal; total bilirubin \u22641.5 times the upper limit of normal, or \u22642.5 times the upper limit of normal when the patient has Gilbert's syndrome ;\n8. The patient has good compliance with the planned treatment, can understand the research process of this study and sign the written informed consent.\n\nExclusion Criteria:\n\n1. Received cytotoxic chemotherapy, endocrine therapy, biological therapy or radiation therapy for any reason;\n2. New York Heart Association (NYHA) score identifies patients with heart disease of grade II or above (including grade II);\n3. Patients with severe systemic infection or other serious diseases;\n4. Patients who are known to be allergic or intolerant to chemotherapy drugs or their excipients;\n5. Other malignant tumors have occurred in the past 5 years, except for skin cancer of cured cervical carcinoma in situ and non-melanoma;\n6. Patients of childbearing age who are pregnant or breastfeeding and who refuse to take appropriate contraceptive measures during this trial;\n7. Participated in other experimental studies within 30 days before the administration of the first dose of the investigational drug;\n8. Patients judged by the investigator to be inappropriate to participate in this study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

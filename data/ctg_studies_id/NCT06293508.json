@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06293508",
+    "briefTitle": "mHealth Behavioural Intervention to Increase Breast Cancer Screening Rates Among Members of the Public",
+    "officialTitle": "mHealth Behavioural Intervention to Increase Breast Cancer Screening Rates Among Members of the Public",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Neoplasm Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 1180,
+    "primaryOutcomeMeasure": "Breast cancer screening attendance (either clinical breast examination (CBE) or mammogram).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Malaysian women aged 40 years and above\n2. Possess a smartphone with the predetermined social messaging application (derived from Phase 1 of study) installed.\n3. Have not been diagnosed with cancer before.\n\nExclusion Criteria:\n\n1. Underwent Clinical Breast Examination in the past 12 months.\n2. Mammogram screening in the past 2 years.\n3. Subjects who are deemed to have cognitive impairment and unable to provide consent to the study.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

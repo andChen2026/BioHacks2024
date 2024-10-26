@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00858039",
+    "briefTitle": "Cardiotoxicity of Adjuvant Trastuzumab",
+    "officialTitle": "Prediction of Cardiotoxicity Using Serum N-terminal Pro-B-type Natriuretic Peptide in Breast Cancer Patients Receiving Adjuvant Trastuzumab",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Heart Failure",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 220,
+    "primaryOutcomeMeasure": "Cardiotoxicity (Cardiac death; grade 3/4 arrhythmia or ischaemia; NYHA Class 3 or 4 heart failure decline in LVEF by >10% to a level <55%; decline in LVEF by >5% to a level <50%)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female 18 years or older\n* Histologically confirmed, completely excised invasive breast cancer with Her-2 overexpression\n* Primary surgery less than twelve weeks prior to registration\n* LVEF\\>50% as assessed by transthoracic echocardiogram or gated heart pool scan\n* Eastern Cooperative Oncology Group Performance Status 0-2\n* Adjuvant systemic treatment plan comprises at least three cycles of anthracycline chemotherapy AND 52 weeks of trastuzumab\n* Before patient registration, informed consent must be given according to local regulations.\n\nExclusion Criteria:\n\n* Pregnancy\n* Distant metastases from breast cancer\n* Any systemic chemotherapy prior to study entry",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

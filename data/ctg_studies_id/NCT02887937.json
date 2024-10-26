@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02887937",
+    "briefTitle": "Cystic Breast Masses by Contrast Enhanced Ultrasound (CEUS)",
+    "officialTitle": "Qualitative and Quantitative Analysis of Cystic Breast Masses by Contrast Enhanced Ultrasound: Is Biopsy Necessary?",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 135,
+    "primaryOutcomeMeasure": "lesions of malignant vs. benign biopsy histology",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \\>18 years of age\n* recommended for an ultrasound guided biopsy due to breast mass detection\n\nExclusion Criteria:\n\n* \\< 18 years of age\n* prior history of breast cancer\n* prior history of biopsy for that specific lesion\n* any condition that would be a contraindication to the microbubble contrast agent used in CEUS such as pulmonary hypertension, 3cardiac shunts, and allergy to perflutren.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

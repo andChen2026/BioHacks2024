@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03643861",
+    "briefTitle": "RAD 1802: Pilot Trial of Five Fraction Stereotactic Body Radiotherapy for Early Stage Breast Cancer Patients Eligible for Post-Operative Accelerated Partial Breast Irradiation (APBI)",
+    "officialTitle": "RAD 1802: A Pilot Trial of Five Fraction Stereotactic Body Radiotherapy for Early Stage Breast Cancer Patients Eligible for Post-Operative Accelerated Partial Breast Irradiation (APBI)",
+    "overallStatus": "SUSPENDED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Toxicity levels of 5 fractions SBRT for partial breast irradiation assessed by CTCAE v4.0",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathologically proven invasive mammary carcinoma, Invasive ductal carcinoma (IDC) or ductal carcinoma in situ (DCIS) of the breast. Medullary, papillary, mucinous (colloid) and tubular histologies are allowed.\n* Age\\>50.\n* Maximum pathologic tumor size \\<2.0cm if invasive carcinoma or \\< 2.5cm if pure DCIS.\n* Estrogen receptor (ER) positive (\\>10%).\n* Must be eligible for breast conservation therapy and receive a lumpectomy with pathologic margins of at least 2mm.\n* Must be clinically node negative by physical examination. Sentinel node dissection is not required, but if undertaken, the patient must be pathologically node negative.\n* Zubrod Performance Status 0-2.\n\nExclusion Criteria:\n\n* Multifocal or multicentric cancer.\n* Reception of neoadjuvant chemotherapy.\n* Pure invasive lobular histology.\n* Inability to clearly delineate lumpectomy cavity on post lumpectomy planning scan.\n* Measured maximum PTV of \\>124cc.\n* Lumpectomy cavity within 5mm of body contour.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

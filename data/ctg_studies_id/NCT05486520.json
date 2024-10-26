@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05486520",
+    "briefTitle": "Low-field MRI for Breast Cancer Screening",
+    "officialTitle": "A New Breast Cancer MRI Biomarker Using the Intrinsic T1rho Signal",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Breast Benign, Malignant Neoplasm of Breast, Breast Malignant Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "T1rho dispersion signal",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Informed consent will be obtained from the adult volunteer subjects by the principal investigator, the coinvestigators, or the study staff prior to the imaging session. The investigator obtaining consent will explain in detail the protocol of the study, its purpose, and potential benefits to the society.\n* Subjects will be informed about the minimal risks of ultra-low magnetic fields) and of low-frequency nonionizing RF radiation involved in ultra-low field MR imaging. Subjects will also be informed about small space within the magnet. Unlike high-field scanners, there is essentially no sound produced by the imaging gradients, so hearing protection is not required.\n* Subjects will be informed that if they feel uncomfortable with the study, they can choose to terminate the study at any time. They will be informed that their refusal to participate in the study or choosing to terminate it at some point will have no effect on care and treatment received by them at MGH now or in future.\n* The subjects will be informed that their personal information will be protected as per the HIPAA guidelines.\n* The subjects will have at least 15 minutes to consider participation.\n* Subjects will undergo MR contraindication screening to ensure that they meet the basic inclusion/exclusion criteria for the study and give written informed consent immediately prior to the MR imaging study.\n* Recruit adult female volunteers of any race or ethnic background, between the ages of 20 to 80, who are either scheduled for breast imaging and/or a percutaneous biopsy.\n* All efforts will be taken to find interpreters for volunteers who do not understand English, enabling them to be screened and consented with the short-form consent form so that they may participate in this study.\n\nExclusion Criteria:\n\n* Exclusion criteria include MR contraindications\n* Electronic implants such as cardiac pacemakers or perfusion pumps\n* Ferromagnetic implants such as aneurysm clips, surgical clips, prostheses, artificial hearts, valves with steel parts, metal fragments, shrapnel, tattoos near the eye, or steel implants\n* Ferromagnetic objects such as jewelry or metal clips in clothing\n* Pregnant or breast feeding women\n* A history of uncontrolled seizures\n* Claustrophobia\n* Any greater than normal potential for cardiac arrest\n* Subjects less than 18 years of age or over 80 years of age.",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

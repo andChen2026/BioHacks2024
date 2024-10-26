@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00509691",
+    "briefTitle": "Vaccine Therapy in Treating Patients Who Have Undergone a Donor Stem Cell Transplant and Have Cytomegalovirus Infection That Has Not Responded to Therapy",
+    "officialTitle": "A Phase I Trial to Examine the Safety, Clinical, Immunologic and Virologic Effects of CMV pp65 Specific Cytotoxic T Lymphocytes for Recipients of Allogeneic Stem Cell Transplants With Persistent or Therapy Refractory Infections",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Toxicity",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Cytomegalovirus (CMV) seropositive\n\n  * Patient has had CMV antigenemia for \u2265 2 weeks OR CMV DNA levels \u2265 600 copies/\u03bcg of DNA despite antiviral therapy targeting CMV (ganciclovir or foscarnet)\n* No prior allogeneic stem cell transplantation before the most recent transplantation\n* CMV seropositive donor negative for HIV-1, HIV-2, HTLV-1/2 available\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-2 (for patients \u2264 16 years of age) OR Lansky performance status 70-100%\n* Bilirubin \\< 2.0 mg/dL\n* AST and ALT \\< 2.5 times upper limit of normal\n* Creatinine clearance \\> 50 mL/min\n* Pulse oximetry \\> 95% without supplemental oxygen\n* No history of graft-vs-host disease (GVHD) \u2265 grade 2\n* Not moribund\n* No patients not expected to survive 1 month after T cell infusion due to cardiac, pulmonary, renal, hepatic, or neurologic dysfunction\n\nPRIOR CONCURRENT THERAPY:\n\n* No concurrent systemic immunosuppressive agents for the treatment of GVHD",
+    "sex": "ALL",
+    "minimumAge": "2 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

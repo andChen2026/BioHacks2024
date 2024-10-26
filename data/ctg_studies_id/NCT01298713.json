@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01298713",
+    "briefTitle": "Tamoxifen-RAD001 Versus Tamoxifen Alone in Patients With Anti-aromatase Resistant Breast Metastatic Cancer",
+    "officialTitle": "Phase 2 Study Assessing the Tolerance and Efficacy of Tamoxifen Alone Versus the Association Tamoxifen-RAD001 (Everolimus) in Patients With Anti-aromatase Resistant Breast Metastatic Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, mTor Protein",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 111,
+    "primaryOutcomeMeasure": "Clinical benefit at 24 weeks",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Menopausal female patient aged \\> 18 years\n* Histologically proven breast adenocarcinoma\n* ER and/or PR positive receptors and HER2 negative\n* previously received first or second line of hormonotherapy for metastatic disease\n* previously treated with anti-aromatase in adjuvant and/or in metastatic line\n* presence of one or several mesurable or evaluable metastatic lesion(s)\n* presence of at least one target lesion not previously irradiated\n* ECOG Performance status \\< 2\n* adequate biological values\n* patient who has clearly given her consent by signing on informed consent form prior to participation\n\nExclusion Criteria:\n\n* patient with only local metastatic disease that can be treted by surgery\n* uncotrolled brain metastases, pulmonary carcinomatosal lymphangitis, hepatic metastases\n* Previous treatment by Tamoxifen unless in adjuvant and terminated more than a year before metastatic relapse\n* Patient with a tumor surexpressing HER2 that should be treated by trastuzumab\n* Patient that need an immediate local antalgic radiotherapy\n* Thrombo-embolism disease\n* serious concomitant pathology or uncontrolled that is susceptible to compromise the participation in the study\n* history of another malignancy within past 5 years that could confound diagnosis or staging of breast cancer (with the exception of in situ cacinoma of the cervix or adequately treated basel cell carcinoma of the skin) and cancers cured for at least for 5 years\n* patient with an history of significant cardiovascular impairment (congestive heart failure\\> NYHA grade II, unstable angina or myocardial infraction within the past six months or serious cardiac arrhythmia)\n* patient with any medical or psychiatric condition that, in the opinion of the Principal Investigator, would preclude her from participating in this study\n* patient with a known allergy to one or several of the study compounds\n* patients who may not be regularly available due to geographical, social or family reasons\n* history of renal, hepatic or metabolic pathology that could preclude with metabolism or elimination of the study product\n* deficiencies of the upper intestinal tract, malabsorption syndrome\n* patient who is pregnant, breast-feeding or using inadequate contraception\n* Treatment with experimental drugs (mTor inhibitor or tyrosin kinase inhibitor)\n* Patient treated with molecules that interfer with isoenzyme CYP3A",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

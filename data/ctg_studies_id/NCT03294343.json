@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03294343",
+    "briefTitle": "Risk-Reducing Surgeries for Hereditary Ovarian Cancer",
+    "officialTitle": "Risk-Reducing Surgeries of Salpingo-oophorectomy With/Without Hysterectomy for Carriers With Mutation Genes of Hereditary Ovarian Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Hereditary Breast and Ovarian Cancer Syndrome, Colorectal Neoplasms, Hereditary Nonpolyposis, Ovariectomy, Hysterectomy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "Occult cancer or precancerous lesion in histological specimen",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Carriers with known and definite mutation genes of hereditary ovarian cancer.\n* With children and without further requirement of pregnancy.\n* No less than 35 years for carriers with mutation gene of BRCA1.\n* No less than 40 years for carriers with mutation gene of BRCA2.\n* No less than 45 years for carriers with mutation genes of BRIP1, RAD51C, RAD51D and RAD51.\n* No less than 50 years for carriers with mutation genes of ATM, MSH2, MLH1, SH6, PMS2, EPCAM and STK11.\n\nExclusion Criteria:\n\n* Without children.\n* Not reaching appreciate ages.\n* With contraindications of laparoscopy.\n* Refusal of risk-reducing surgeries.",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

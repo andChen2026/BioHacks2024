@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06046664",
+    "briefTitle": "Oncotype DX DCIS: Impact on Radiotherapy Decision Making",
+    "officialTitle": "A Study Assessing the Impact of the Oncotype DX DCIS Score on Radiotherapy Decision Making in the United Kingdom",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 78,
+    "primaryOutcomeMeasure": "Change in radiotherapy recommendation by clinician",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Confirmed diagnosis of DCIS\n2. DCIS treated with breast conserving surgery\n\nExclusion Criteria:\n\n1. Prior treatment for DCIS or invasive breast cancer in ipsilateral breast.\n2. Patients with contra-indications to radiotherapy, including prior breast radiotherapy\n3. Patients who undergo mastectomy for DCIS\n4. Age \\< 45 years old\n5. Patients with \\> 25mm DCIS\n6. Patients with multifocal DCIS (defined as more than 1 distinct focus of DCIS with at least 50mm of intervening benign tissue)\n7. Patients with invasive (including microinvasion) disease\n8. Patients with positive axillary nodal disease (including isolated tumour cells)\n9. Patients with close (\\<1mm) or positive radial margins (unless maximally surgically excised or no further DCIS on re-excision)\n10. Patients recommended adjuvant endocrine therapy",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

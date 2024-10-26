@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03859492",
+    "briefTitle": "Screening CEDM in Intermediate and High-Risk Patient Populations",
+    "officialTitle": "Screening Contrast Enhanced Mammography (CEDM) in Intermediate and High-Risk Patient Populations",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 461,
+    "primaryOutcomeMeasure": "Breast Cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 35 and had a negative routine mammogram within 6 months.\n* Qualifies as intermediate or high-risk (\\>15% lifetime risk of breast cancer as defined by IBIS version 8).\n\nExclusion Criteria:\n\n* Known breast cancer\n* Previously had negative MBI or MRI within 12 months of study\n* Pregnant or lactating\n* Contraindication to intravenous iodinated contrast\n* Unable to understand or sign informed consent\n* Self-reported signs or symptoms of breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

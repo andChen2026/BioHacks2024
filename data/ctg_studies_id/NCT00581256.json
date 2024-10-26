@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00581256",
+    "briefTitle": "A Randomized Comparison of Radiation Therapy Techniques in the Management of Node Positive Breast Cancer",
+    "officialTitle": "A Randomized Comparison of Radiation Therapy Techniques in the Management of Node Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 54,
+    "primaryOutcomeMeasure": "The Number of Participants With a Significant Increase in Perfusion Defects (PD)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nEligibility Criteria\n\n* Breast cancer diagnosis: Patients must have histologically confirmed adenocarcinoma of the breast requiring comprehensive loco-regional irradiation that includes treatment to the intact breast/chest wall, supraclavicular (SCV), infraclavicular nodes (ICV), and internal mammary nodes (IMN).\n* Patients must have pathologic T 1, 2, 3 or 4, N 1, 2, or 3 Stage II or III disease as defined by the AJCC Staging System, 6th edition. Patients who do not undergo axillary staging but are at risk for nodal involvement may also be treated.\n* All patients must have left-sided breast cancer.\n* Both men and women are eligible.\n* Patients must be adults (18 years of age or older)\n* For women of child-bearing age, effective contraception must be used. A written statement must be obtained that the patient is not pregnant. If there is any question of pregnancy at time of therapeutic RT or at time of each SPECT-CT scan, a pregnancy test will be done to confirm the patient is not pregnant.\n* Performance status should be 0-2 by ECOG criteria.\n* Patients that have received prior RT may be enrolled on the present study if the new breast lesion can be treated with no overlap of RT fields.\n* Patients must be aware of the neoplastic nature of her/his disease.\n* Patients must be informed of the investigational nature of this study and must sign an informed consent in accordance with the Institutional Review Board (IRB) of the University of Michigan and federal guidelines.\n* Patients' blood tests should indicate they are able to tolerate radiotherapy. Tests must be done within 28 days of registration:\n\nCBC with differential and platelet count (Hemoglobin \\> 8.0 g/dl; wbc \\> 2000/mm3; absolute neutrophil count \\> 1000/mm3; platelet count \\> 75,000/mm3.\n\nExclusion Criteria:\n\n* Patients who are pregnant or are nursing are excluded.\n* Pathologically node negative breast cancer unless treated with neo-adjuvant chemotherapy.\n* Performance status \\> 2 by ECOG criteria\n* Patients who are unable to lie on their back and raise their arm above their head in the treatment planning position for radiotherapy\n* Patients with a clinically unstable medical condition\n* Patients with a life-threatening disease state\n* History or suspicion of serious life-threatening allergic reaction to Tc-99m imaging agents.\n* Patients that have had breast-conservation surgery with positive margins or any patient with negative margins with a tumor positive for an extensive intraductal component.\n* Patients that are not able to use the ABC device.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

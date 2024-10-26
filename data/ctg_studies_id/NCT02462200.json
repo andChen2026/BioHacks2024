@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02462200",
+    "briefTitle": "Shave Margins in Breast Conservation Therapy",
+    "officialTitle": "Shave Margins in Breast Conservation Therapy (SMART): A Randomized Controlled Trial",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Cancer of Breast, Cancer of the Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 81,
+    "primaryOutcomeMeasure": "Proportion of patients with positive margins on pathological specimen analysis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Newly diagnosed, biopsy-proven stage 0-II breast cancer.\n* Planning to undergo breast-conserving surgery.\n* At least 18 years of age and no more than 85 years of age.\n* Female.\n* Able to understand and willing to sign an IRB-approved written informed consent document.\n\nExclusion Criteria:\n\n* Prior surgical treatment for this diagnosis.\n* Undergone neoadjuvant chemotherapy.\n* History of prior chest radiation therapy.\n* Known metastatic disease.\n* Pregnant.\n* Preference for mastectomy instead of breast-conserving surgery.\n* History of ipsilateral breast cancer.\n* Goggle assessment substudy: Iodine or seafood allergies.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

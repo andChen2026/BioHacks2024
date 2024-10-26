@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03630913",
+    "briefTitle": "Sentinel Lymph Node After Neoadjuvant Chemotherapy in Breast Carcinoma",
+    "officialTitle": "Sentinel Lymph Node After Neoadjuvant Chemotherapy in Breast Carcinoma",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Invasive Breast Cancer, Axillary Metastases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 385,
+    "primaryOutcomeMeasure": "False negative rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients \u2265 18 years old\n2. Initial diagnosis of operable invasive breast carcinoma\n3. Histologically proven axillary metastasis (cytology or biopsy) before NAC\n4. Patient included in a therapeutic approach of neoadjuvant chemotherapy\n5. Procedure for the detection of sentinel lymph node by isotopic method +/- colorimetric\n6. Information of the patient and obtaining written consent, signed by the patient and the investigator\n7. Affiliated patient or beneficiary of the social security\n\nExclusion Criteria:\n\n1. pT4d (inflammatory breast cancer)\n2. Metastatic breast cancer\n3. Any prior chemotherapy for contralateral breast cancer\n4. Local relapse of breast cancer\n5. Axillary metastasis not histologically proven before NAC\n6. Allergy known to the 2 detection products (Blue and radioactive tracer)\n7. Pregnant or lactating woman\n8. Neo Adjuvant chemotherapy contraindicated\n9. Patient protected or under guardianship or unable to give consent\n10. Impossibility of submitting to the medical examination for geographical, social or psychological",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

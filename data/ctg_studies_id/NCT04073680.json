@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04073680",
+    "briefTitle": "A Phase 1b/2 Study of Serabelisib in Combination With Canagliflozin in Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase 1b/2 Study of Serabelisib in Combination With Canagliflozin in Patients With Advanced Solid Tumors With PIK3CA or KRAS Mutations",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Endometrial Cancer, Lung Cancer, Colo-rectal Cancer, Head and Neck Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Rate of Adverse Events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Have histologically or cytologically confirmed locally advanced or metastatic solid tumors.\n2. Have a tumor harboring a mutation in PIK3CA or KRAS genes.\n3. Have received prior therapy and have recurrent or persistent disease without standard therapies available, or are ineligible to receive standard therapies.\n4. Have measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1\n5. Have Eastern Cooperative Oncology Group performance status (ECOG PS) of \u22642\n6. Have adequate organ function.\n7. Have adequate birth control during the course of the study.\n\n12. Are able to receive canagliflozin\n\nExclusion Criteria:\n\n1. Diagnosis of primary brain tumor\n2. Untreated brain metastasis or history of leptomeningeal disease\n3. Have received prior chemotherapy within 28 days or other anticancer agents within 28 days of 5 half lives (whichever is the shorter duration) before the first administration of study drug. The exception is patients in Cohort 4 (PIK3CA-mutated breast cancer) are allowed to receive ongoing endocrine therapy.\n4. Have diabetes mellitus requiring insulin therapy\n5. Have diabetes mellitus requiring insulin secretagogue therapy\n6. Have poorly controlled diabetes mellitus defined as glycosylated hemoglobin A1c (HbA1c) \\>7.5%\n7. Have a secondary malignancy requiring therapy or are unstable without therapy.\n8. Known impaired cardiac function or clinically significant cardiac disease.\n9. Myocardial infarction or unstable angina within 6 months before the first administration of study drug.\n10. Pregnant (positive serum pregnancy test) or breastfeeding",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

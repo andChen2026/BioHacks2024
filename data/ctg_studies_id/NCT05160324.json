@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05160324",
+    "briefTitle": "T1-T2 Breast Cancer: Comparison Between Removal and Preservation of Axillary Lymph Nodes (SINODAR ONE)",
+    "officialTitle": "T1-T2 Breast Cancer: Comparison Between Removal and Preservation of Axillary Lymph Nodes in the Presence of Sentinel Lymph Node Metastases (SINODAR ONE)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 889,
+    "primaryOutcomeMeasure": "Overall Survival (OS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age: 40 \u226475 years old\n* Breast cancer with infiltrating histology\n* Tumor size \u226450 mm (T1 - T2)\n* Clinically and ultrasound node-negative (cN0) breast cancer\n* No distant metastases (M0)\n* No neoadjuvant therapy\n* Negative history of previous infiltrating neoplasm\n* Maximum number of metastatic sentinel lymph nodes: 2\n* Lymph node macro-metastases \\> 2mm\n\nExclusion Criteria:\n\n* Pregnancy or breastfeeding in progress\n* Inflammatory breast cancer\n* Breast cancer in situ\n* Synchronous contralateral breast cancer\n* Co-morbidities such as to preclude the possible use of adjuvant therapy\n* Conditions that make it impossible to carry out a regular follow-up\n* Other malignancies within the previous 3 years (except carcinoma in situ of the uterine cervix, basalioma or squamous cell ca or non-melanoma skin ca)\n* Breast cancer with non-infiltrating or inflammatory histotype\n* Tumor size\\> 50 mm\n* No sentinel lymph nodes identified\n* No positive sentinel lymph nodes (pN0)\n* Positive sentinel lymph node number \\> 2\n* Lymph node micro-metastases \\<= 2",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

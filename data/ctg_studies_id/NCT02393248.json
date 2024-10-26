@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02393248",
+    "briefTitle": "Open-Label, Dose-Escalation Study of Pemigatinib in Subjects With Advanced Malignancies - (FIGHT-101)",
+    "officialTitle": "A Phase 1/2, Open-Label, Dose-Escalation, Safety and Tolerability Study of INCB054828 in Subjects With Advanced Malignancies (FIGHT-101)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Lung Cancer, Solid Tumor, Gastric Cancer, Urothelial Cancer, Endometrial Cancer, Multiple Myeloma, Myeloproliferative Neoplasms, Breast Cancer, Cholangiocarcinoma, UC, MPN",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 201,
+    "primaryOutcomeMeasure": "Parts 1 and 2 Combined: Number of Participants With Any Treatment-emergent Adverse Event (TEAE)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Male or female subjects, age 18 years or older on day of signing consent\n2. Part 1: Any advanced solid tumor malignancy; Part 2: Subjects with squamous non-small cell lung cancer, cholangiocarcinoma/gastric cancer, urothelial cancer, breast/endometrial cancer, multiple myeloma, or MPNs that have a tumor or malignancy that has been evaluated and confirmed to harbor genetic alterations in FGF or FGFR genes. A subject's fibroblast growth factor (FGF) or fibroblast growth factor receptor (FGFR) alteration may be based on local or central laboratory results. Part 3: Dose finding: subjects with solid tumor malignancies who qualify for combo therapy; dose-expansion: FGF/FGFR+ subjects qualified to receive combo therapy\n3. Has progressed after prior therapy and there is no further effective standard anticancer therapy available (including subject refuses or is intolerant)\n4. Life expectancy \\> 12 weeks\n5. Eastern Cooperative Oncology Group (ECOG) performance status:\n\n   * Part 1: 0 or 1\n   * Part 2 and 3: 0, 1, or 2\n\nExclusion Criteria:\n\n1. Treatment with other investigational study drug for any indication for any reason, or receipt of anticancer medications within 21 days or 5 half-lives before first dose of study drug\n2. Prior receipt of a selective FGFR inhibitor\n3. History of a calcium/phosphate homeostasis disorder\n4. History and/or current evidence of ectopic mineralization/calcification\n5. Current evidence of corneal disorder/keratopathy\n6. Has a history or presence of inadequate liver, renal, hematopoietic and/or cardiac function parameters outside protocol-defined range\n7. Prior radiotherapy within 2 weeks of study treatment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

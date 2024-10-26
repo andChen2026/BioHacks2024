@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05905341",
+    "briefTitle": "Study of PF-07224826, as a Single Agent or in Combination With Endocrine Therapy in Participants With Breast Cancer and Other Advanced Solid Tumors.",
+    "officialTitle": "A PHASE 1, OPEN-LABEL, MULTICENTER, DOSE ESCALATION AND DOSE EXPANSION STUDY TO EVALUATE THE SAFETY, TOLERABILITY, PHARMACOKINETICS, PHARMACODYNAMICS, AND ANTITUMOR ACTIVITY OF PF-07224826, AS A SINGLE AGENT AND IN COMBINATION WITH ENDOCRINE THERAPY IN PARTICIPANTS WITH ADVANCED SOLID TUMORS",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer, Ovarian Cancer, Liposarcoma, Non-small Cell Lung Cancer (NSCLC), Endometrial, Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Part 1: First cycle dose limiting toxicities (DLTs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Part 1:\n\n  * Participants with HR-positive HER2-negative locally advanced or metastatic breast cancer.\n  * Participants with locally recurrent/advanced or metastatic TNBC.\n  * Participants with advanced platinum resistant epithelial ovarian cancer (EOC)/fallopian tube cancer/primary peritoneal cancer (PPC).\n  * Other advanced solid tumor types: Tumors other than BC or Ovarian: NSCLC, prostate, endometrial, liposarcoma, or other tumors with cyclin D (CCND) and cyclin E (CCNE) implicated in pathogenesis either by gene amplification or overexpression.\n* Part 2 (Arm A): Participants with HR positive HER2 negative locally advanced or mBC (post CDK4/6 inhibitors).\n* Part 2 (Arm B): Participants with HR positive HER2 negative locally advanced or mBC (na\u00efve to CDK4/6 inhibitors).\n* Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) 0 or 1.\n* Adequate Bone Marrow Function\n\nExclusion Criteria:\n\n* Known active uncontrolled or symptomatic central nervous system (CNS) metastases, carcinomatous meningitis, or leptomeningeal disease as indicated by clinical symptoms, Cerebral edema, and/or progressive growth. Participants with a history of CNS metastases or cord compression are eligible if they have been definitively treated (eg, radiotherapy, stereotactic surgery) and are clinically stable off anticonvulsants and steroids for at least 4 weeks before enrollment and have no evidence of progression at time of study enrollment.\n* Participants with advanced/metastatic, symptomatic, visceral spread, that are at risk of life-threatening complications in the short term (eg, including participants with massive uncontrolled effusions \\[pleural, pericardial, peritoneal\\], pulmonary lymphangitis, and over 50% liver involvement).\n* Any other active malignancy within 3 years prior to enrollment, except for adequately treated basal cell or squamous cell skin cancer, or carcinoma in situ.\n* Last anticancer treatment within 2 weeks (or 5 half-lives, whichever is shorter), unless the last immediate anticancer treatment contained an antibody-based agent(s) (approved or investigational), then the interval of 4 weeks or 5 half-lives (whichever is shorter) is required prior to receiving the study intervention.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

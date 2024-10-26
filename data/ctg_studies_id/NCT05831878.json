@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05831878",
+    "briefTitle": "RC48-ADC in HER2-low Advanced Breast Cancer",
+    "officialTitle": "Disitamab Vedotin (RC48-ADC) in Patients With HER2-low Advanced Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 36,
+    "primaryOutcomeMeasure": "Objective Response Rate (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients aged 18-70 years (including 18 years and 70 years)\n* Expected survival \u226512 weeks\n* ECOG 0-1\n* Histologically confirmed invasive advanced or metastatic breast cancer that is incurable and unresectable\n* At least one measurable lesion according to the RECIST 1.1\n* No history of antibody-drug conjugate use\n* Up to one previous chemotherapy for advanced disease\n* Available hormone receptor status. Hormone receptor-positive subjects are allowed to receive no more than two previous endocrine therapy for advanced disease\n* HER2-low tumors, defined as IHC1+ or IHC2+ with negative FISH test\n* Adequate organ function\n\nExclusion Criteria:\n\n* History of thromboembolic events\n* Uncontrolled systemic diseases, including diabetes, hypertension, interstitial lung disease, cirrhosis, etc.\n* Active infections requiring systemic treatment\n* Pregnant or lactating\n* Presence of brain metastases and/or carcinomatous meningitis",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

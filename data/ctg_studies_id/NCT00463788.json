@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00463788",
+    "briefTitle": "Cetuximab and Cisplatin in the Treatment of \"Triple Negative\" (Estrogen Receptor [ER] Negative, Progesterone Receptor [PgR] Negative, and Human Epidermal Growth Factor Receptor 2 [HER2] Negative) Metastatic Breast Cancer",
+    "officialTitle": "Randomized Phase II Trial With Cetuximab and Cisplatin in the Treatment of ER-negative, PgR-negative, HER2-negative Metastatic Breast Carcinoma (\"Basal Like\")",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 181,
+    "primaryOutcomeMeasure": "Best Overall Response (BOR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of metastatic breast cancer (Stage IV)\n* Estrogen Receptor \\[ER\\] negative, PgR negative and HER2 less than 3+ expression by immunohistochemistry (IHC)\n* No more than 1 prior chemotherapy received for treating this metastatic breast cancer\n* No more than 1 prior anthracycline and/or taxane regimen (either adjuvant or metastatic setting)\n* Other protocol-defined inclusion criteria may apply\n\nExclusion Criteria:\n\n* Prior platinum agent\n* Prior mitomycin\n* Known history of brain metastases\n* Other protocol-defined exclusion criteria may apply",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

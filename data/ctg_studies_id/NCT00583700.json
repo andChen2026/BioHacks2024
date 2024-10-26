@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00583700",
+    "briefTitle": "Trental & Vitamin E for Radiation-Induced Fibrosis",
+    "officialTitle": "Development of Radiation Fibrosis in Patients Treated With Pentoxyphylline and Vitamin E: a Prospective Randomized Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Fibrosis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 54,
+    "primaryOutcomeMeasure": "Subjective, Objective, Management, and Analytic (SOMA) Score",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with histologically documented cancer of the breast or DCIS or head and neck referred for definitive radiation with curative intent.\n* No evidence of metastatic disease.\n* Minimum life expectancy of at least 12 months.\n* Aged greater than 20 years.\n* If female, pregnancy excluded.\n* No documented history of collagen vascular disease.\n\nExclusion Criteria:\n\n* Cognitively impaired patients\n* Prisoners\n* No histology available\n* Documented metastatic disease\n* Allergy to Trental\n* Life expectance of less than 12 months.\n* Aged less than 20 years\n* Collagen vascular disease present\n* Pregnant\n* History of liver disease\n* Use of anticoagulants",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

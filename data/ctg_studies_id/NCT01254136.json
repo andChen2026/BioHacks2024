@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01254136",
+    "briefTitle": "Safety and Efficacy of INCB007839 With Trastuzumab and Vinorelbine in Patients With Metastatic HER2+ Breast Cancer",
+    "officialTitle": "A Phase I/II Study to Assess the Safety and Therapeutic Effect of INCB007839 in Combination With Trastuzumab and Vinorelbine in Patients With Metastatic HER2+ Breast Cancer.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Evaluation of safety and tolerabilty as determined by monitoring the frequency and severity of adverse events (AEs) and performing clinical assessments and laboratory investigations.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Subject with diagnosis of metastatic (or locally recurrent-inoperable) breast cancer\n* Subject with histological HER2+ status as determined by FISH with a gene amplification score of \u2265 2.2\n* Subject with availability of archival biopsy tissue from primary tumor or metastatic lesions\n* Subject with presence of measurable disease based on RECIST 1.1\n* Subject who has received no more than three prior HER2-directed therapeutic regimens for advanced breast cancer\n\nExclusion Criteria:\n\n* Subject with Left ventricular ejection fraction (LVEF) below institutional normal range\n* Subject with metastasis to the central nervous system UNLESS asymptomatic and clinically stable\n* Subject with current active malignancy other than breast cancer\n* Subject with prior history of other malignancy except for cancers from which the patient is currently disease free\n* Subject with significant renal or hepatic dysfunction\n* Subject with history of venous or arterial thrombosis or risk factor for thrombosis other than history of malignancy\n* Subject with insufficient bone marrow function\n* Subject with contraindication to vinorelbine, trastuzumab, aspirin and/or warfarin therapy.\n* Subject with current active bacterial, Hepatitis B or C, and/or HIV infections",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

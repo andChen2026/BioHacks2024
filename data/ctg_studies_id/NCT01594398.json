@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01594398",
+    "briefTitle": "Study to Assess Food Effect on Pharmacokinetics of Entinostat in Subjects With Breast Cancer or Non-Small Cell Lung Cancer",
+    "officialTitle": "A Phase I Study to Assess the Food Effect on the Pharmacokinetics of Entinostat in Postmenopausal Women With Locally Recurrent or Metastatic ER+ Breast Cancer and Men and Women With Progressive Non-Small Cell Lung Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Lung Cancer, Non Small Cell Lung Cancer (NSCLC), Breast Cancer, Estrogen Receptor Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 14,
+    "primaryOutcomeMeasure": "Difference in pharmacokinetics of entinostat when subjects fed or fasted",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nBreast Cancer Patients Only\n\n* Postmenopausal female patients\n* Histologically or cytologically confirmed ER+ breast cancer at initial diagnosis and now has current disease progression and is a candidate to receive exemestane\n\nNSCLC Patients Only:\n\n* Cytologically or histologically confirmed NSCLC of stage IIIb or IV\n* Received 1 to 2 prior chemotherapy or chemoradiotherapy regimens for advanced NSCLC (excluding erlotinib and valproic acid) and now has disease progression and is a candidate to receive erlotinib\n\nAll Patients:\n\n* Age \u2265 18 years\n* Patient must have the following laboratory parameters at study screening: Hemoglobin \u2265 9.0 g/dL; unsupported platelets \u2265 100.0 10-9/L; ANC \u2265 2.0 x 10-9/L; Creatinine less than 2.5 times the upper limit of normal for the institution; AST and alanine transaminase (ALT) \\< 2.5 times the upper limit of normal for the institution\n* Patients may have a history of brain metastasis as long as certain criteria are met\n\nExclusion Criteria:\n\n* Pregnant or lactating women\n* Patient has rapidly progressive or life-threatening metastases.\n* Patient has had previous treatment with entinostat or any other HDAC inhibitor including valproic acid\n* Patient has a concomitant medical condition that precludes adequate study treatment compliance or assessment, or increases patient risk in the opinion of the investigator, such as but not limited to:\n\nMI or arterial thromboembolic events within 6 months, or experiencing severe or unstable angina, New York Heart Association (NYHA) Class III or IV disease and a QTc interval \\> 0.47 seconds.\n\nUncontrolled heart failure or hypertension, uncontrolled diabetes mellitus, uncontrolled systemic infection.\n\n* Patients with another active cancer (excluding adequately treated basal cell carcinoma or cervical intraepithelial neoplasia \\[CIN / cervical carcinoma in situ\\] or melanoma in situ). Prior history of other cancer is allowed, as long as there is no active disease within the prior 5 years.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

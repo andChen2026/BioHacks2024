@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01204242",
+    "briefTitle": "IRB-HSR# 13957: IV Lidocaine for Patients Undergoing Primary Breast Cancer Surgery:",
+    "officialTitle": "IRB-HSR# 13957: IV Lidocaine for Patients Undergoing Primary Breast Cancer Surgery: Effects on Postoperative Recovery and Cancer Recurrence",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 78,
+    "primaryOutcomeMeasure": "opiate consumption",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. informed consent\n2. age older than 18 to 80 years (inclusive)\n3. scheduled for mastectomy because of breast cancer\n4. American Society of Anesthesiologists (ASA) physical classification classes I - III\n\nExclusion Criteria:\n\n1. Allergy to local anesthetics, fentanyl or morphine\n2. severe cardiovascular disease (myocardial infarction within 6 months), profoundly decreased left ventricular function (ejection fraction \\<40%) or high-grade arrhythmias\n3. severe liver disease (known AST or ALT or billirubin \\>2.5 times the upper limit of normal)\n4. renal impairment (creatinine clearance less than 60)\n5. pregnant or breast feeding\n6. patient is enrolled in another study or have been in one in the last 30 days",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

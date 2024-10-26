@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01286987",
+    "briefTitle": "Study of Talazoparib, a PARP Inhibitor, in Patients With Advanced or Recurrent Solid Tumors",
+    "officialTitle": "A Phase 1, First In Human, Single-arm, Open-label Study Of Once A Day, Orally Administered Talazoparib (Bmn 673) In Patients With Advanced Or Recurrent Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced or Recurrent Solid Tumors, Breast Neoplasms, Ovarian Cancer, Epithelial, Ewing Sarcoma, Small Cell Lung Carcinoma, Prostate Cancer, Pancreas Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 113,
+    "primaryOutcomeMeasure": "Number of Participants With Objective Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically documented, unresectable, locally advanced or metastatic solid tumor\n* Must have available archived tumor tissue (formalin-fixed paraffin-embedded) \\[FFPE\\].\n* 18 years of age or older.\n* Have measurable disease by Response Evaluation Criteria in Solid Tumors (RECIST, v1.1) or increased CA-125 (ovarian cancer) or PSA (prostate cancer) and/or CA 19-9 (pancreatic cancer).\n* Eastern Cooperative Oncology Group (ECOG) performance status \u2264 1.\n* Have adequate organ function\n* Able to take oral medications.\n* Willing and able to provide informed consent.\n* Sexually active patients must be willing to use an acceptable method of contraception.\n* Females of childbearing potential must have a negative serum pregnancy test at screening.\n* Willing and able to comply with all study procedures.\n\nPart 2 Dose Expansion Tumor Types:\n\n* Breast and ovarian cancer patients with deleterious or pathogenic BRCA mutations who have received no more than 4 prior regimens for metastatic disease.\n* Prostate or pancreatic cancer patients with deleterious or pathogenic BRCA mutations who have received no more than 2 prior regimens for metastatic disease.\n* Small cell lung cancer (SCLC) patients who have received no more than one prior regimen for SCLC.\n* Ewing's sarcoma patients who have received no more than 3 prior regimens for metastatic disease.\n\nExclusion Criteria:\n\n* Part 2 Expansion: Prior treatment with a PARP inhibitor.\n* Has history of central nervous system (CNS) metastasis.\n\n  \\* Exception: In patients with SCLC, history of adequately treated brain metastasis who do not require corticosteroids for management of CNS symptoms.\n* Has had major surgery within 28 days before Cycle 1, Day 1.\n* Has active peptic ulcer disease.\n* Active gastrointestinal tract disease with malabsorption syndrome.\n* Pregnant or breastfeeding at screening or planning to become pregnant (in each case, either oneself or one's partner) at any time during the study.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

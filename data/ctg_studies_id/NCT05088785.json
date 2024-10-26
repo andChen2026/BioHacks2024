@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05088785",
+    "briefTitle": "Dynamic and Test-retest Whole Body [18F]FES PET Imaging in Patients With Metastatic ER+ Breast Cancer",
+    "officialTitle": "Dynamic and Test-retest Whole Body [18F]FES PET Imaging in Patients With Metastatic ER+ Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "FES uptake in lesions: Ki (net influx rate) or VT (volume of distribution) values",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven metastatic ER+ (\\>10% positive stained cells using immunohistochemistry) breast cancer on the latest biopsy\n* Postmenopausal females aged 18 years or older at screening. Postmenopausal status is defined as one of the following:\n\n  1. age \u226560 years\n  2. age \\<60 years and amenorrhea for \\>12 months in the absence of interfering hormonal therapies (such as LH-RH agonists and ER-antagonists)\n  3. patient age \\<60 years using LH-RH agonists should continue LH- RH-agonists until after the PET procedures\n  4. previous bilateral oophorectomy or medically confirmed ovarian failure\n* \\[18F\\]FDG PET, CT and/or a bone scan should be performed as part of routine clinical staging (\u22644 weeks prior to screening)\n* Patients should have metastases in the scanning field of view, all located outside of the liver\n* Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0-2\n* Estimated glomerular filtration rate (eGFR) \u226530 ml/min\n* Written and signed informed consent\n\nExclusion Criteria:\n\n* History with another cancer within the last 5 years, except cancer treated with curative intent and no evidence of disease as judged by the treating physician\n* Use of selective estrogen receptor modulators (SERMs) or downregulators (SERDs) for current breast cancer such as Tamoxifen/Fulvestrant (\u22645 weeks prior to screening) or investigational drug therapy\n* Pregnancy or lactating women\n* Any medical, psychological or social condition that may interfere with the subject's safety and participation in the study, will lead to exclusion from this study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

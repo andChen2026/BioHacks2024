@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05164874",
+    "briefTitle": "A Randomized Cluster Trial to Evaluate a Mobile Mammography Unit in Breast Cancer Screening in France (Mammobile)",
+    "officialTitle": "Evaluation of a Mobile Mammography Unit. A Randomized Cluster Trial Protocol of a Population Health Intervention Research to Reduce Breast Cancer Screening Disparities in Normandy, France (Mammobile)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 91982,
+    "primaryOutcomeMeasure": "Aggregated breast cancer screening participation rate 3 months after the last invitation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women eligible to breast cancer screening campaign : aged 50 to 74 years, and with the only risk of breast cancer being age. The previous screening mammography dating from 22 months\n\nExclusion Criteria:\n\n* outside the ages\n* with specific risk of breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

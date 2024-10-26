@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02875626",
+    "briefTitle": "Role of Indocyanine Green (ICG) for Detection of Sentinel Nodes in Breast Cancer",
+    "officialTitle": "Role of Indocyanine Green (ICG) for Detection of Sentinel Nodes in Breast Cancer (FLUO-BREAST)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "The primary endpoint is the SN detection rate during surgery by fluorescence, by isotopes, by combining the two. The detection rate is defined by the number of patient",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female age \\> 18 years\n2. Invasive breast cancer \u2264 5 cm, unifocal bifocal or multifocal\n3. Diagnosis confirmed by biopsy\n4. Breast cancer extended in situ\n5. First surgical treatment\n\nExclusion Criteria:\n\n1. Neoadjuvant chemotherapy or hormone therapy.\n2. Multicentric tumor\n3. Pregnant patient\n4. Ongoing participation in another clinical trial with an investigational drug",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

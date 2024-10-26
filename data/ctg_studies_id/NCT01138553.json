@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01138553",
+    "briefTitle": "Preoperative Testing of the Anti-Progesterone Mifepristone in Early Stage Breast Cancer",
+    "officialTitle": "A Biomarker Study of Mifepristone in Early Stage Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Invasive Breast Cancer, Ductal Carcinoma in Situ",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "Change in proliferation by Ki-67 immunohistochemistry.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female identified as a candidate for primary resection of breast cancer (invasive or ductal carcinoma in situ) by a UCSD Breast Care Unit surgical oncologist\n* Subjects must agree to contact the study coordinator prior to starting any new medications, vitamins or herbals during, or for 2 weeks following, mifepristone use\n* Subjects must agree to abstain from alcohol use while on mifepristone\n* Age \u226518\n* ECOG performance status 0-1\n* Prior to starting mifepristone subjects must have a negative urine (\u03b2HCG combo with on-board control) or blood pregnancy test and must be using one of the following acceptable means of birth control prior to starting study drug; Barrier methods or surgically sterile (tubal ligation, hysterectomy or partner with confirmed vasectomy). Alternatively the subject must be one year post-menopausal defined as greater than 12 months without a menstrual cycle\n* Prior to starting mifepristone subjects must meet the following laboratory criteria; Granulocytes \\> 1.5E9/l (grade \u2264 1); Platelets \u2265 100E9/l; Hemoglobin \\> 10 g/dl (grade \u2264 1); Creatinine \\< 1.5x normal reference range (grade \u2264 1); SGOT, SGPT, alk phos \u2264 1x normal reference range; Total bilirubin \\< 1x normal reference range; Calcium \\< 11.5 mg/dl (grade \u2264 1); HBsAg = Negative; HCV Ab = Negative; INR \\< 1.5;\n* Subjects must provide written informed consent\n\nExclusion Criteria:\n\n* Not scheduled for surgery within 5 days of enrollment\n* Subjects must not be on any therapy to treat breast cancer prior to surgical resection, specifically medications or recent (within 1 month of diagnostic biopsy) withdrawal of estrogen containing medication (eg. hormone replacement therapy)\n* Subjects must not be on any medications, vitamins or herbals that are; potent inhibitors of cytochrome P450 CYP3A4, or sensitive substrates for cytochrome P450 CYP3A4\n* Subjects may not have any history of significant cardiovascular, renal or hepatic disease requiring ongoing medical therapy or clinical intervention\n* Subjects may not have a history of thrombophlebitis, thromboembolic disorder, or cerebral vascular disease.\n* Subjects may not have any known hypersensitivity to mifepristone\n* Subjects may not have a BMI \\> 39\n* Subjects may not have an IUD (Intrauterine contraceptive device), chronic adrenal failure, concurrent long term steroid therapy, history of allergy to mifepristone, hemorrhagic disorders or concurrent anticoagulant therapy, or inherited porphyrias",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

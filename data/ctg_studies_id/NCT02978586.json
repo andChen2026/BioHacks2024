@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02978586",
+    "briefTitle": "A Pilot Study of [Ga-68]PSMA PET/MRI for the Assessment of PSMA-positive Tumors",
+    "officialTitle": "A Pilot Study of [Ga-68]PSMA PET/MRI for the Assessment of PSMA-positive Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Prostate-specific Membrane Antigen Positive Tumors, Prostate Cancer, Breast Cancer, Lung Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 8,
+    "primaryOutcomeMeasure": "Test-retest reproducibility of PET biomarker ([Ga68]-PSMA) uptake using PET/MRI",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with PSMA-positive tumors including prostate cancer, breast cancer, lung cancer, and other tumor types know to express PSMA\n* Patients able to tolerate PET/MRI scans\n* Informed consent must be given and signed\n\nExclusion Criteria:\n\n* Subjects who do not meet the above mentioned inclusion criteria\n* Subjects who refuse to give and/or sign the informed consent\n* Patients who have a history of serious adverse events related to a previous MRI or PET/CT\n* Patients who are unable to undergo MRI scanning due to exclusion by institutional MRI restriction policies as mentioned in the standard institutional MRI informed consent form\n* Patients who are currently pregnant or breast feeding. A pregnancy test within 72 hours of the first PET/MRI will be performed.\n* Anti-cancer treatment (chemotherapy and/or radiation therapy) within the last 2 weeks.\n* Renal insufficiency: elevated Creatinine and/or Glomerular Filtration Rate (GFR)\\<40ml/min/1.7sqm (exclusion criterion only for contrast enhanced MRI)\n* Patients with a known allergy against any component of the contrast enhancing MR agent will not receive MR contrast agents. (exclusion criterion only for contrast enhanced MRI)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

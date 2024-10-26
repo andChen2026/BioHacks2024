@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02659514",
+    "briefTitle": "Study of Poziotinib in Participants With HER2-Positive Metastatic Breast Cancer",
+    "officialTitle": "A Phase 2 Study of Poziotinib in Patients With HER2-Positive Metastatic Breast Cancer (MBC) Who Have Received Prior HER2 Regimens for MBC",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 67,
+    "primaryOutcomeMeasure": "Objective Response Rate (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histopathologically confirmed primary breast cancer with metastatic lesions.\n2. Confirmed HER2 overexpression or gene-amplified tumor\n3. At least two prior HER2-directed therapy regimens for breast cancer, including trastuzumab and trastuzumab emtansine\n4. Measurable disease per Response Evaluation Criteria for Solid Tumors version 1.1 (RECIST v1.1)\n5. Participant is at least 18, and \u226490 years of age.\n6. Adequate hematologic, hepatic, and renal function\n7. Eastern Cooperative Oncology Group (ECOG) performance status \\<= 2\n\nExclusion Criteria:\n\n1. Previous treatment with poziotinib prior to study participation\n2. Brain metastases that are symptomatic or require therapy to control symptoms, as well as any history of radiation, surgery, or other therapy, including steroids, to control symptoms from brain metastases within 15 days of enrollment.\n3. Anticancer chemotherapy, biologics, immunotherapy, cure-intent radiotherapy, or investigational treatment within 15 days, except for hormone therapy, palliative therapy, or supportive therapy.\n4. History of congestive heart failure Class III/IV according to the New York Heart Association (NYHA) Functional Classification or serious cardiac arrhythmias requiring treatment.\n5. Cardiac ejection fraction \\<50%\n6. History of other malignancies within the last 5 years\n7. Participant is pregnant or breast-feeding.\n8. Unable to take drugs orally",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

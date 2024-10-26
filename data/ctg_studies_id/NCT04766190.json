@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04766190",
+    "briefTitle": "DISCO: A Patient Intervention to Reduce the Financial Burden of Cancer",
+    "officialTitle": "DISCO: A Patient Intervention to Reduce the Financial Burden of Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Financial Toxicity, Cancer, Question Prompt List, Breast Cancer, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 260,
+    "primaryOutcomeMeasure": "Self-efficacy in patient-physician interactions. An example item from the PEPPI scale: How confident are you in your ability to know what questions to ask your doctor? Data will be aggregated using means and standard deviations.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Oncologists are eligible if they treat patients with breast, prostate, lung, or colorectal cancers at Karmanos Cancer Institute. Data from oncologists will include their self-report data and video-recorded treatment discussions with participating patients.\n* Patients: Must be able to read and write in English; have an email account; and are newly diagnosed with breast, prostate, lung or colorectal cancer (stage I-IV) for which systemic therapy is a likely recommended treatment. Data from patients will include their self-report data, video-recorded treatment discussions with participating oncologists, and medical record data\n\nExclusion Criteria:\n\n-",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

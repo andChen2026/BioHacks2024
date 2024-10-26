@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02756767",
+    "briefTitle": "Assessing the Impact of Electronic Capture of Patient Reported Outcomes in Radiation Oncology",
+    "officialTitle": "Assessing the Impact of Electronic Capture of Patient Reported Outcomes in Radiation Oncology",
+    "overallStatus": "COMPLETED",
+    "conditions": "Patients With Lung, Breast, Head and Neck, or Pelvic Malignancies",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 75,
+    "primaryOutcomeMeasure": "Number of Surveys completed",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with breast cancer, lung cancer, head and neck cancer, or gynecologic cancer receiving definitive external beam radiotherapy.\n* Must be \u2265 18 years of age\n* Able to read, write, and speak English in order to complete patient reported outcomes.\n\nPatients will be approached about the study at the time of consultation or at the time of simulation by their treating physicians or by a research coordinator. All patients must sign a study-specific informed consent to participate. All patients, including those who do not choose to consent to the study, will be provided with a short survey to assess health literacy using the eHealth Literacy Scale (eHEALS).\n\nFor those not consenting to the study, the survey will be de-identified and will also ask for basic demographic information including age grouping, race, education level, and type of cancer.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

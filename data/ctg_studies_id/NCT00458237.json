@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00458237",
+    "briefTitle": "Dose Escalation Followed by Study of RAD001 in Combination With Trastuzumab in HER2-Positive Metastatic Breast Cancer",
+    "officialTitle": "A Brief Dose Escalation Followed by a Phase 2 Study of RAD001 in Combination With Trastuzumab in HER2-Positive Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 11,
+    "primaryOutcomeMeasure": "Maximum Tolerated Dose (MTD)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed invasive breast cancer, with stage IV disease\n* Measurable disease, defined as at least one lesion that can be accurately measured in at least one dimension as greater than or equal to 20mm with conventional techniques or as greater than or equal to 10mm with spiral CT scan.\n* Primary tumor or metastasis must overexpress HER2\n* Patient must have received 1-2 prior chemotherapeutic regiments for metastatic breast cancer and must have been off treatment for at least three weeks.\n* Patient must have received and progressed on at least 1 prior trastuzumab-containing regimen, but not more than 2, in the metastatic setting.\n* Patients may have received prior radiation therapy\n* Patients may have received hormonal therapy in the adjuvant or metastatic setting\n* 18 years of age or older\n* Life expectancy of greater than 6 months\n* Normal organ and marrow function as defined in the protocol\n* Left ventricular ejection fraction (LVEF) greater than or equal to the institutional lower limit of normal\n\nExclusion Criteria:\n\n* Treatment with any investigational drug within 4 weeks\n* Long-term treatment, over 3 months, with a systemic steroid or another immunosuppressive agent\n* Other malignancies within the past 3 years, except for adequately treated carcinoma of teh cervix or basal-or squamous-cell carcinoma of the skin\n* Impairment of gastrointestinal function or gastrointestinal disease that may significantly alter the absorption of RAD001\n* An active, bleeding diathesis or an oral anti-vitamin K medication\n* Prior treatment with an mTOR inhibitor\n* History of non-compliance with medical regimens\n* Unwillingness or inability to comply with the protocol\n* Major surgery within 2 weeks before study entry\n* Patients with active brain metastases or leptomeningeal carcinomatosis\n* Patients who have experienced grade 1 or grade 2 hypersensitivity reactions to prior trastuzumab therapy are eligible ONLY IF these reactions did not prevent further administration\n* Severe and/or uncontrolled intercurrent medical condition, psychiatric illness or a social situation that could limit their ability to comply with the study requirements.\n* Pregnant or breast-feeding women\n* HIV positive patients\n* Known hypersensitivity to RAD001 (everolimus) or other rapamycins",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

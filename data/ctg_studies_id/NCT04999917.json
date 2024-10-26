@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04999917",
+    "briefTitle": "Specimen PET-CT Imaging for Intraoperative Margin Assessment in Breast Cancer",
+    "officialTitle": "High-resolution PET-CT Imaging for Intraoperative Margin Assessment in Early-stage Breast Cancer: a Prospective Multicentric Interventional Clinical Study",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Breast Cancer Invasive, Breast Cancer in Situ",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 160,
+    "primaryOutcomeMeasure": "Perioperative addressing positive margins of the invasive component in IDC.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* females with an age over 18 years;\n* confirmed breast cancer (IDC, DCIS, ILC) with indication to undergo BCS;\n* a minimal tumor size of 1.0 cm (in at least one dimension):\n\n  * IDC group: assessed preoperatively on ultrasound;\n  * DCIS subgroup: assessed preoperatively on mammogram;\n  * ILC subgroup: assessed preoperatively on ultrasound;\n  * NAT subgroup: assessed after NAT and before surgery on ultrasound;\n* patients with IDC who have received NAT (i.e. chemotherapy, immunotherapy or endocrine therapy until eight weeks before BCS) may participate in the study;\n* vacuum-assisted core breast biopsy is allowed in the DCIS subgroup only;\n* able to understand treatment protocol and informed consent form;\n* estimated by the investigator to be compliant for study participation.\n\nExclusion Criteria:\n\n* general or local contra-indication for BCS;\n* previous breast surgery;\n* inflammatory breast cancer;\n* radiotherapy of the ipsilateral breast;\n* vacuum-assisted core breast biopsy for all patients allocated to the IDC, ILC or NAT subgroup (vacuum-assisted core breast biopsy is allowed in the DCIS subgroup as long as the residual tumor size on mammogram is at least 1.0 cm);\n* patients with DCIS only or ILC, and that have received NAT;\n* blood glucose level over 200 mg/dL on the day of surgery;\n* pregnancy or lactation;\n* participation in other clinical studies with a radiation exposure of more than 1 mSv in the past year;\n* active bacterial, viral or fungal infection.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

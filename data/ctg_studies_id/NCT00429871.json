@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00429871",
+    "briefTitle": "Randomized Phase III Trial With Docetaxel Plus Epirubicine Versus Docetaxel Plus Capecitabine for Metastatic Breast Cancer",
+    "officialTitle": "A Multicenter Randomized Comparative Study of Docetaxel Plus Epirubicin Versus Docetaxel Plus Capecitabine Combinations as First Line Treatment of Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 272,
+    "primaryOutcomeMeasure": "Compare the time to tumor progression between the two treatment arms",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically- or cytologically- confirmed metastatic breast adenocarcinoma.\n* No previous chemotherapy treatment for metastatic disease.\n* No previous anthracycline treatment except as adjuvant therapy at least one year before.\n* Age 19-75 years old\n* Presence of measurable disease\n* Performance status 0-2 (WHO)\n* Adequate cardiac function (LVEF \\>50%) without a recent (within 6 months) history of myocardial infraction and/or unstable or uncontrolled angina.\n* Adequate bone marrow(absolute neutrophil count \\>1500/mm3, platelet count \\>100.000/mm3, hemoglobin \\>10gr/mm3), liver (bilirubin \\<1.5 times upper limit of normal and SGOT/SGPT \\<2 times upper limit of normal) and renal function (creatinine \\<2mg/dl).\n* No previous radiotherapy to more than 25% of marrow-containing bones.\n* Written informed consent\n\nExclusion Criteria:\n\n* Active brain metastases.\n* Psychiatric illness or social situation that would preclude study compliance\n* Other concurrent uncontrolled illness.\n* Other invasive malignancy within the past 5 years except of nonmelanoma skin cancer.\n* Positive pregnancy for premenopausal women.\n* Concurrent antineoplastic treatment e.g. hormonal therapy",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

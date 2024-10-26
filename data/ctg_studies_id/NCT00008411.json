@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00008411",
+    "briefTitle": "Docetaxel in Treating Patients With Metastatic Breast Cancer",
+    "officialTitle": "Phase III Study Comparing the Use of Docetaxel on a Every Three-Week vs. Weekly Schedule in the Treatment of Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 90,
+    "primaryOutcomeMeasure": "Objective Tumor Response Rate",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed metastatic breast cancer\n* Bidimensionally measurable disease\n* No uncontrolled brain metastases or leptomeningeal disease\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* Zubrod 0-2\n\nLife expectancy:\n\n* At least 3 months\n\nHematopoietic:\n\n* Platelet count at least 100,000/mm\\^3\n* Neutrophil count at least 1,000/mm\\^3\n* Hemoglobin at least 8 g/dL\n\nHepatic:\n\n* Bilirubin no greater than upper limit of normal (ULN)\n* SGOT/SGPT no greater than 1.5 times ULN (2.5 times ULN provided alkaline phosphatase no greater than ULN)\n* Alkaline phosphatase no greater than 2.5 times ULN (4 times ULN provided transaminases no greater than ULN)\n\nRenal:\n\n* Creatinine no greater than 2.0 mg/dL\n\nNeurologic:\n\n* No peripheral neuropathy grade 2 or greater\n* Neurologic status must be stable 2 weeks after surgery and/or radiotherapy for brain metastasis\n* No psychiatric disorders\n\nOther:\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No other malignancy within the past 5 years except non-melanoma skin cancer, carcinoma in situ of the cervix, or other curatively treated malignancy\n* No other serious condition or illness, including active infection\n* No history of hypersensitivity to polysorbate 80\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* Recovered from prior chemotherapy\n* No more than 2 prior chemotherapy regimens (no more than 1 prior regimen for metastatic disease)\n* No prior paclitaxel or docetaxel (except in the adjuvant setting)\n* At least 12 months since prior adjuvant taxane (paclitaxel or docetaxel)\n* Prior anthracycline-based therapy allowed\n\nEndocrine therapy:\n\n* Not specified\n\nRadiotherapy:\n\n* At least 2 weeks since prior radiotherapy and recovered\n\nSurgery:\n\n* At least 2 weeks since prior surgery and recovered",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

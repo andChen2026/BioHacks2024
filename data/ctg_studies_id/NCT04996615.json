@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04996615",
+    "briefTitle": "Artificial Intelligence Analysis for Magnetic Resonance Imaging in Screening Breast Cancer in High-risk Women",
+    "officialTitle": "Peking University People's Hospital Breast Center",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Magnetic Resonance Imaging",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 5000,
+    "primaryOutcomeMeasure": "screening yield",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients undergoing full sequence BMRI examination\n* Written informed consent and complete the clinical data questionnaire\n* Through the follow-up database, at least 6 months of follow-up results can be obtained to determine whether the diagnosis result is negative/benign/malignant; for patients who need pathological biopsy, the pathological biopsy results shall prevail to determine the lesion benign/malignant.\n\nExclusion Criteria:\n\n* The breast had received radiotherapy, chemotherapy, biology and other treatments before BMRI.\n* Signs or symptoms of breast disease\n* There are contraindications for breast-enhanced MRI examinations such as allergy to contrast agents.\n* Patients during lactation or pregnancy",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

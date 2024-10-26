@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00409071",
+    "briefTitle": "Placebo-controlled Evaluation of Cocculine\u00ae Efficacy in the Management of Nausea After Chemotherapy in Breast Cancer.",
+    "officialTitle": "Placebo-controlled Evaluation of Homeopathic Remedy (Cocculine\u00ae) Efficacy in the Management of Nausea After Adjuvant Chemotherapy in Non Metastatic Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 431,
+    "primaryOutcomeMeasure": "Score of \"nausea\" calculated using the FLIE questionnaire (Functional Living index for Emesis with 5-day recall)at the time of the 1rst adjuvant CT course",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with histologically proven non metastatic breast cancer\n* No previous chemotherapy\n* Treatment planning including 6 adjuvant CT courses with the first 3 being necessarily of the FAC50, FEC100 or TAC type\n* Age\\>= 18 years\n* ECOG performance status (PS) \\<= 2 (WHO scale)\n* Patient able to read and understand French\n* Written, voluntary, informed consent\n\nExclusion Criteria:\n\n* Previous treatment with chemotherapy (including neo-adjuvant chemotherapy for breast cancer)\n* Previous malignancies (except basal cell skin cancer or cervical cancer in situ or any other curatively treated malignancy in complete remission for more than 5 years)\n* Contraindication to corticosteroids or 5-HT3 receptor antagonists\n* Treatment with Cocculine\u00ae or any other anti-emetic drug in the 15 days before inclusion\n* Pregnant or lactating women\n* Follow-up impossible for social, geographical, familial or psychological reasons\n* Patients who cannot be contacted by phone",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

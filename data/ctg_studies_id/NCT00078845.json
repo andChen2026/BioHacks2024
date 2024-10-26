@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00078845",
+    "briefTitle": "Amifostine in Treating Peripheral Neuropathy Caused by Paclitaxel in Patients With Solid Tumors",
+    "officialTitle": "Phase II Trial Of Subcutaneous Amifostine For Reversal Of Persistent Paclitaxel-Induced Peripheral Neuropathy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Lung Cancer, Neurotoxicity, Ovarian Cancer, Prostate Cancer, Unspecified Adult Solid Tumor, Protocol Specific",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Neurotoxicity secondary to cancer therapy as measured by FACT-GOG-NTX scale",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of a solid tumor, including, but not limited to the following:\n\n  * Ovarian cancer\n  * Lung cancer\n  * Prostate cancer\n  * Breast cancer\n* Previously treated with paclitaxel\n* Peripheral neuropathy (e.g., numbness, tingling, and/or pain in distal extremities) believed to be caused by paclitaxel only or the combination of paclitaxel and carboplatin\n\n  * At least 18 out of 44 on the FACT-GOG-NTX scale\n  * Persistent neuropathy for at least 2, but no more than 12 months after chemotherapy\n  * Not improving\n* No other possible cause of neuropathy (e.g., alcoholism, diabetes, or peripheral vascular disease)\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge\n\n* 18 and over\n\nSex\n\n* Not specified\n\nMenopausal status\n\n* Not specified\n\nPerformance status\n\n* Karnofsky 50-100%\n\nLife expectancy\n\n* More than 2 months\n\nHematopoietic\n\n* Not specified\n\nHepatic\n\n* Bilirubin \u2264 2.0 mg/dL\n\nRenal\n\n* Creatinine \u2264 2.0 mg/dL\n* Calcium \u2265 lower limit of normal\n\nCardiovascular\n\n* See Disease Characteristics\n* No prior cerebrovascular accident\n\nOther\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No other significant comorbid medical condition that would preclude study participation\n* No known sensitivity to aminothiol compounds\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* See Disease Characteristics\n* No prior cisplatin\n* No chemotherapy during and for at least 3 months after study participation\n\nEndocrine therapy\n\n* Not specified\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* Not specified\n\nOther\n\n* No concurrent monoamine oxidase inhibitors",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

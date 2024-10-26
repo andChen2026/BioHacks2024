@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06270355",
+    "briefTitle": "Stockholm Mammography Risk Stratified Trial",
+    "officialTitle": "Stockholm Mammography Risk Stratified Trial",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 70000,
+    "primaryOutcomeMeasure": "Incidence of interval cancers",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Have read, understood and signed the informed consent\n* Perform breast cancer screening at S\u00f6dersjukhuset\n* Females in the age range 40 - 74 years at baseline mammography\n* Using a smartphone or tablet with BankID\n\nExclusion Criteria:\n\n* Pregnant, breast feeding or planning to become pregnant.\n* Previous breast cancer\n* A medical condition that according to the responsible physician would negatively affect the health of the women.\n* Cognitive impairment and / or language ability that would make it difficult for the participant to understand the implication of study and to perform a contrast mammography.\n\nFor women that will be offered contrast enhanced mammography the clinically accepted and applied exclusion criteria will be used. Women who cannot perform a contrast mammography will be offered an automated ultrasound.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

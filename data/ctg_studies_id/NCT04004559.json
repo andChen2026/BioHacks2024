@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04004559",
+    "briefTitle": "MRI Radiomics Assessing Neoadjuvant Chemotherapy in Breast Cancer to Predict Lymph Node Metastasis and Prognosis(RBC-02)",
+    "officialTitle": "Novel Radiomics Signature on MRI Before and After Neoadjuvant Chemotherapy in Breast Cancer to Predict Axillary Lymph Node Metastasis and Prognosis (RBC-02)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Invasive Breast Cancer, Neoadjuvant Chemotherapy, Radiomics, Axillary Lymph Node, Prognosis",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "Disease free survival (DFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Primary lesion diagnosed as invasive breast cancer;\n2. Imaging examination confirmed no distant organ metastasis;\n3. Received neoadjuvant chemotherapy for drugs such as taxanes, anthracyclines, and platinum as planned;\n4. Completed breast MRI examination before or after neoadjuvant chemotherapy;\n5. Accepted breast cancer surgery and axillary lymph node dissection;\n6. Eastern Cooperative Oncology Group performance status 0-2.\n\nExclusion Criteria:\n\n1. History of ipsilateral axillary or breast surgery;\n2. Inflammatory breast cancer;\n3. Bilateral breast cancer;\n4. Malignant tumor history in 5 years;\n5. Patients with cervical or contralateral axillary lymph node metastasis;\n6. Incomplete imaging or medical history data.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

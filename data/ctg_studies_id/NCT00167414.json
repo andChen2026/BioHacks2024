@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00167414",
+    "briefTitle": "Study for Using Radiosurgery on Limited Metastases of Breast Cancer",
+    "officialTitle": "A Phase II Study for Using Radiosurgery on Limited Metastases of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Metastatic",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 49,
+    "primaryOutcomeMeasure": "Overall Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age: no limit\n* Karnofsky performance status (KPS) \u2265 70\n* No more than 5 metastatic sites involving one or more different organs (liver, lung or bone).\n* The size of the lesion must be such that it can be safely treated to sterilizing radiation doses according to the rules in the protocol.\n* Previously treated lesions are not eligible unless the prescribed dose can be safely delivered.\n* Concurrent therapy is allowed and recommended. The chemotherapy protocol type and schedule are at the discretion of the medical oncologist.\n* Informed consent must be obtained.\n* Pregnancy test must be negative for women of child bearing potential\n\nExclusion Criteria:\n\n* Inability of patient to be followed longitudinally as specified by protocol.\n* Technical inability to achieve required dose based on safe dose constraints required for radiosurgery.\n* Women who are pregnant or nursing.\n* Failure to meet requirements in Inclusion Criteria\n* Contraindications to radiation.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

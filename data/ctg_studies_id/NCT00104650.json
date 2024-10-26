@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00104650",
+    "briefTitle": "Study of AMG 162 in Subjects With Advanced Cancer Currently Being Treated With Intravenous (IV) Bisphosphonates",
+    "officialTitle": "A Randomized, Open Label, Active Controlled Study of AMG 162 in Subjects With Advanced Cancer Currently Being Treated With Intravenous Bisphosphonates",
+    "overallStatus": "COMPLETED",
+    "conditions": "Bone Metastases in Men With Hormone-Refractory Prostate Cancer, Bone Metastases in Subjects With Advanced Breast Cancer, Bone Metastases in Subjects With Advanced Cancer or Multiple Myeloma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 111,
+    "primaryOutcomeMeasure": "uNTx (Corrected by Creatinine) < 50 Nmol/mmol at Week 13",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients at least 18 years of age with histologically confirmed solid tumor carcinomas (except lung) or multiple myeloma\n* Radiographic evidence of 1 or more bone lesions or lytic lesion in myeloma\n* Currently receiving IV bisphosphonates\n* Urinary N-Telopeptide (uNTx) greater than 50 nM BCE/mM creatinine\n* Eastern Cooperative Oncology Group (ECOG) 0, 1 or 2\n\nExclusion Criteria:\n\n* More than 2 prior skeletal related events (SRE)\n* Known brain metastases\n* Prior history or current evidence of osteonecrosis/osteomyelitis of the jaw\n* Active dental or jaw conditions which requires oral surgery\n* Non-healed dental/oral surgery\n* Prior administration of AMG 162\n* Evidence of impending fracture in weight bearing bones\n* Pregnancy or breastfeeding. Subjects must be surgically sterile, postmenopausal, or must agree to use effective contraception during the study.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

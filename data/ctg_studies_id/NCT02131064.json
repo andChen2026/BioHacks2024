@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02131064",
+    "briefTitle": "A Study Evaluating Trastuzumab Emtansine Plus Pertuzumab Compared With Chemotherapy Plus Trastuzumab and Pertuzumab for Participants With Human Epidermal Growth Factor Receptor 2 (HER2)-Positive Breast Cancer",
+    "officialTitle": "A Randomized, Multicenter, Open-Label, Two-Arm, Phase III Neoadjuvant Study Evaluating Trastuzumab Emtansine Plus Pertuzumab Compared With Chemotherapy Plus Trastuzumab and Pertuzumab for Patients With HER2-Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 444,
+    "primaryOutcomeMeasure": "Percentage of Participants With Total Pathological Complete Response (tpCR) Assessed Based on Tumor Samples",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed invasive breast cancer with a primary tumor size of greater than (\\>) 2 cm\n* HER2-positive breast cancer\n* Participants with multifocal tumors (more than one tumor confined to the same quadrant as the primary tumor) are eligible provided all discrete lesions are sampled and centrally confirmed as HER2 positive\n* Stage at presentation: cT2-cT4, cN0-cN3, cM0, according to American Joint Committee on Cancer (AJCC) staging system\n* Known hormone receptor status of the primary tumor\n* Participant agreement to undergo mastectomy or breast-conserving surgery after neoadjuvant therapy\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Baseline Left Ventricular Ejection Fraction (LVEF) \\>/= 55 percent (%) measured by echocardiogram (ECHO) or multiple-gated acquisition (MUGA)\n* Effective contraception as defined by protocol\n\nExclusion Criteria:\n\n* Stage IV (metastatic) breast cancer\n* Participants who have received prior anti-cancer therapy for breast cancer except those participants with a history of breast lobular carcinoma in situ (LCIS) that was surgically managed or ductal carcinoma in situ (DCIS) treated exclusively with mastectomy. In case of prior history of LCIS/DCIS, \\>5 years must have passed from surgery until diagnosis of current breast cancer\n* Participants with multicentric (multiple tumors involving more than 1 quadrant) or bilateral breast cancer\n* Participants who have undergone incisional and/or excisional biopsy of primary tumor and/or axillary lymph nodes\n* Axillary lymph node dissection or positive sentinel lymph node prior to start of neoadjuvant therapy\n* History of concurrent or previously non-breast malignancies except for appropriately treated (1) non-melanoma skin cancer and (2) in situ carcinomas, including cervix, colon, and skin. A participant with previous invasive non-breast cancer is eligible provided he/she has been disease-free \\>/= 5 years\n* Treatment with any investigational drug within 28 days prior to randomization\n* Current National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version (v) 4.0\n* Any significant concurrent medical or surgical conditions or findings that would jeopardize the participant's safety or ability to complete the study\n* Current pregnancy or breastfeeding",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

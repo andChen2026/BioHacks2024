@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04555902",
+    "briefTitle": "Evaluation of Mailers Promoting Mammogram Screening",
+    "officialTitle": "Evaluation of Postcard Mailers Enhanced With Behavioral Nudges to Promote Mammogram Screening",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 1342,
+    "primaryOutcomeMeasure": "Mammogram Completion at 6 months (2020)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female Geisinger Health Plan members turning 50 and 64 in that month\n* For the 2020 campaign, birthdays from June 2020 (as opposed to August 2020) will be included due to a temporary suspension of the outreach program due to the COVID-19 pandemic since June\n* For the pre-post examination of the 2019 campaign, all months in that year will be included\n\nExclusion Criteria:\n\n- Members who are on the do not contact list at Geisinger Health Plan",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT"
+}

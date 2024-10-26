@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04538833",
+    "briefTitle": "GM1 in the Treatment of Neurotoxicity Induced by Albumin-bound Paclitaxel",
+    "officialTitle": "Monosialoganglioside in the Treatment of Neurotoxicity Induced by Albumin-bound Paclitaxel : a Multicenter, Double-blind, Randomized Controlled Phase II Clinical Trial",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Early Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "FACT-Ntx score",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patients diagnosed with early breast cancer by histology;\n2. Age \u226518 years old and \u226475 years old\n3. At least 1-2 cycles of standard chemotherapy regimens containing albumin-bound paclitaxel were used in adjuvant / neoadjuvant chemotherapy regimens, The FACT-Ntx score was \u2264 37, and the remaining chemotherapy cycles were at least 2 cycles. the standard regimen included: a, albumin paclitaxel one-week regimen; b, albumin paclitaxel 3-week regimen. Platinum and other types of neurotoxic drugs shall not be included in the regimen.\n4. ECOG score of the patient is \u22641;\n5. Expected survival time \u2265 3 months;\n6. The function level of main organs must meet the following requirements (no blood transfusion and no use of leukocyte or platelet rising drugs within 2 weeks before screening) Blood routine: neutrophil (ANC) \u2265 1.5x 10\\^9 / L; platelet (PLT) \u2265 90x10\\^9 / L; hemoglobin (Hb) \u2265 90g / L; Blood biochemical total bilirubin (TBIL) \u2264 1.5xULN; alanine aminotransferase (AST) and aspartate aminotransferase (AST) not exceeding 2\u00d7ULN; blood urea nitrogen (BUN) and creatinine (CR) below 1.5 \u00d7 ULN;\n7. FACT-Ntx score is 44 points before the adjuvant / neoadjuvant chemotherapy was given;\n8. Sign the informed consent.\n\nExclusion Criteria:\n\n1. Other pathological symptoms or diseases may affect the assessment of adverse neurotoxicity before enrollment\n2. Patients receiving other medications may cause similar adverse neurotoxic effects within 4 weeks before treatment with this regimen, or they may also receive neurotoxic medications at the same time. Including paclitaxel or analogues; vinca alkaloids or analogues; platinums or analogues; cytarabine, thalidomide, bortezomib or cabazine; other drugs or treatments may cause peripheral neurotoxicity;\n3. Patients with poor overall condition and ECOG score\\> 1;\n4. pregnant or lactating women;\n5. Patients who also suffer from other neurological abnormalities cannot accurately record the occurrence and severity of neurotoxicity;\n6. The patient is known to be allergic to the test drug or excipient ingredients of these products;\n7. Patients with hereditary abnormalities of glucose and lipid metabolism (gangliopathies, such as idiopathic and retinopathy of triad families);\n8. Patients not suitable for ganglioside treatment;\n9. Patients with severe concurrent diseases may endanger safety and interfere with scheduled treatment, or the combination of diseases may affect the completion of the study, depending on the judgment of the investigator.\n10. Patients with a clear history of neurological or mental disorders, including epilepsy or dementia.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

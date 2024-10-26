@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02564848",
+    "briefTitle": "Safety and Efficacy of Omission of Sentinel Node Biopsy in Patients with Estrogen-Positive Breast Cancer Over Age 65",
+    "officialTitle": "IIT2015-06-Chung: Safety and Efficacy of Omission of Sentinel Node Biopsy in Patients with Clinical T1-2 Estrogen-Positive Breast Cancer Over Age 65",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Regional recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female age 65 and older\n* Staging:\n\n  1. Patients enrolled prior to surgery: Diagnosis of clinical T1-2N0, ER+, HER2-negative, invasive breast cancer as determined by treating physician. DCIS or LCIS may be present with invasive cancer.\n  2. Patients enrolled after surgery: pT1-2NX, or pT1-2N0, ER+, HER2-negative, invasive breast cancer. DCIS or LCIS may be present with invasive cancer.\n* Plan to undergo lumpectomy within 3 months of study registration, or underwent lumpectomy within 60 days of study registration (without sentinel node biopsy)\n* Patients in whom lymph nodes are palpable and not suspicious who are found to be nodal tumor-free by nodal core needle biopsy are permitted, but those with biopsy-proven nodal metastases are excluded\n\nExclusion Criteria:\n\n* Patients with diagnosis of ductal or lobular carcinoma in situ\n* Patients with diagnosis of inflammatory breast cancer\n* Patients who have undergone neoadjuvant chemotherapy for current primary breast cancer (past treatments for other cancers are acceptable)\n* Patients planning to have mastectomy or had a mastectomy of the ipsilateral breast\n* Prior history of ipsilateral (invasive or DCIS) breast cancer\n* Diagnosis of clinical T3 or T4 breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

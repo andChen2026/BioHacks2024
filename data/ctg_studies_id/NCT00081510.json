@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00081510",
+    "briefTitle": "Anastrozole Plus Lonafarnib (SCH 66336) or Plus Placebo for the Treatment of Advanced Breast Cancer (P03480)",
+    "officialTitle": "A Randomized Double-Blind Phase-2 Study of Anastrozole Plus Lonafarnib (SCH 66336) or Anastrozole Plus Placebo for the Treatment of Subjects With Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 110,
+    "primaryOutcomeMeasure": "Progression-free survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Postmenopausal women who have histologically-confirmed breast cancer with the following characteristics:\n\n  * estrogen and/or progesterone receptor positive,\n  * locally advanced disease\n  * distant metastatic disease, stage 4\n* Subjects eligible for single-agent treatment with aromatase inhibitors for current disease.\n* Subjects taking biophosphonates are allowed if they begin bisphosphonate therapy AT LEAST two weeks prior to randomization.\n* Measurable disease (masses with clearly defined margins on radiological images and at least one diameter \\>=20 mm\\[\\>=10 mm if spiral CT\\]) or evaluable disease (masses with margins not clearly defined on radiological images or with no diameter \\>= 20 mm). Subjects with bone disease only are permitted if disease is evaluable.\n* ECOG Performance Status of 0 or 1.\n* Sufficient bone marrow reserve.\n* Adequate hepatic and renal function: laboratory values within protocol requirements.\n\nExclusion Criteria:\n\n* Subjects who have received more than one regimen of cytotoxic chemotherapy for advanced disease.\n* Subjects with with CLINICALLY APPARENT brain metastases or extensive visceral disease, including extensive hepatic involvement or pulmonary lymphangitic spread of tumor.\n* Subjects with prior treatments with FTIs.\n* Subjects with a known or suspected hypersensitivity to any excipients in the lonafarnib formulation (Providone, Poloxamer 188, croscarmellose sodium, silicon dioxide, and magnesium stearate).",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

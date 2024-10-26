@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02794064",
+    "briefTitle": "A Prototype Tri-modal Imaging Device for Breast Cancer",
+    "officialTitle": "Clinical Evaluation of a Prototype Tri-modal Imaging Instrument for Guiding Breast Cancer Surgery",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Invasive Nos, Primary Invasive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 5,
+    "primaryOutcomeMeasure": "Detect/localize breast tumours and lymph nodes in vivo by using tri-modal imaging",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with biopsy-confirmed first primary invasive unilateral breast cancer\n* 18 years of age or older\n* Have consented to standard of care surgery (lumpectomy, mastectomy) for primary invasive breast cancer, with or without auxiliary lymph node dissection\n* Have had pre-surgical imaging of the affected breast and (where applicable) lymph notes (Note: additional imaging may also be done day of scheduled surgery i.e. mammography, nuclear medicine)\n* Have existing biopsies banked at the hospital\n* Surgery scheduled at Princess Margaret Hospital\n* Tumor size of 1 cm or larger\n\nExclusion Criteria:\n\n* Inability to provide informed consent\n* Pre-operative therapy for current breast cancer (including chemotherapy, endocrine therapy and radiotherapy)\n* history of other previous cancer requiring therapy (including chemotherapy, endocrine therapy and radiotherapy) within the past 12 months\n* History of photosensitivity, skin disease or recurrent disease\n* Pregnancy\n* Absence of in-house biopsy in tissue bank\n* Bilateral breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

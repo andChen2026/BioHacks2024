@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00874458",
+    "briefTitle": "MRI in Assessing Tumor Size in Women With Ductal Carcinoma In Situ",
+    "officialTitle": "Ductal Carcinoma in Situ: Protocol Evaluating the Assessment of Extension of Disease by MRI",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Correlation of tumor extension by MRI with surgical histology",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of ductal breast carcinoma in situ\n\n  * Any grade disease allowed\n* Unifocal disease by mammography\n* No history of breast cancer\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* WHO performance status 0-2\n* Glomerular filtration rate \u2265 30 mL/min\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n* No allergy or contraindication to contrast MRI\n* No pacemaker or vascular clip\n\nPRIOR CONCURRENT THERAPY:\n\n* No prior or concurrent liver transplantation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

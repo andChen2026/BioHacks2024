@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00897702",
+    "briefTitle": "Molecular Mechanisms of Clinical Resistance to Targeted Therapy Among Patients With Breast Cancer",
+    "officialTitle": "Molecular Mechanisms of Clinical Resistance to Targeted Therapy Among Patients With Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 269,
+    "primaryOutcomeMeasure": "To look for mutations in druggable oncogenic pathways in tumors progressing on anti-HER2 therapy or hormonal therapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nAll patients:\n\n* Diagnosed with breast cancer.\n* Patient must be able to consent to a biopsy\n* Patient must be able to safely undergo a secondary biopsy, if needed.\n\nCohort 1\n\n* Patients who previously received treatment with anti-HER2 therapy (including trastuzumab, pertuzumab, TDM1, lapatinib, neratibin, or DS8201) as part of adjuvant chemotherapy and now have progressive or recurrent breast cancer or, patients who previously (or currently) received anti-HER2 therapy as part of a regimen for metastatic breast cancer and subsequently experienced.\n* Evidence of disease progression or recurrence after prior therapy (e.g. radiologic progression by RECIST criteria or new metastasis).\n* Prior tumor biopsy (may be original) defined as HER2+ by amplification by FISH (\\>1.9 gene copy number) or IHC 3+.\n\nCohort 2\n\n* Patients who previously received treatment with hormonal therapy (including aromatase inhibitors or SERMs or SERDs) as a part of adjuvant therapy and now have progressive or recurrent breast cancer or patients who previously (or currently) receive hormonal therapy as part of a regimen for metastatic breast cancer and subsequently experienced evidence of disease progression.\n\nCohort 3\n\n* Patients not eligible for Cohorts 1 or 2.\n\nExclusion Criteria:\n\n* Patients who are unable to consent to a biopsy.\n* Patients for whom a repeat biopsy would be medically unsafe",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

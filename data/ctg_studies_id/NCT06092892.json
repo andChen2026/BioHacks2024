@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06092892",
+    "briefTitle": "IIT2023-09-Chung-UpfrontTAD: Upfront TAD/SNB in Patients With Breast Cancer With Nodal Metastases",
+    "officialTitle": "IIT2023-09-Chung-UpfrontTAD: Upfront TAD/SNB in Patients With Clinical T1-2N0 ER+ Her2- Breast Cancer With Ultrasound Detected Nodal Metastases",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Axillary Nodal Disease, Female Breast Cancer, Axilla; Breast, Mastectomy; Lymphedema, Tumor, Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "Regional recurrence rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women age \u2265 45\n* Clinical T1-2N0 ER+ invasive breast cancer\n* US detected biopsy proven axillary nodal disease\n* Written informed consent obtained from subject and ability for subject to comply with the requirements of the study.\n\nExclusion Criteria:\n\n* Palpable nodes on physical exam\n* Her2+ or ER- invasive breast cancer\n* Extranodal extension \\> 3 mm on nodal biopsy\n* More than 2 suspicious nodes on preoperative imaging",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02337582",
+    "briefTitle": "Colombian Screening Mammography Project",
+    "officialTitle": "Pilot Study for Implementing Breast Cancer Early Detection Programs in Colombia",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 15855,
+    "primaryOutcomeMeasure": "Breast cancer Incidence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nFemale Aged 50-69 Resident in Bogot\u00e1, Colombia or surrounding cities; Had not had a mammogram in the previous two years; No history of breast cancer Attending health-centers for reasons unrelated to breast health\n\nExclusion Criteria:\n\n* see above",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

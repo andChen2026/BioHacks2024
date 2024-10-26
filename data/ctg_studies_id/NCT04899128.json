@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04899128",
+    "briefTitle": "Treatment With Pyrotinib-Based Therapy in Lapatinib Resistant HER2-Positive Metastatic Breast Cancer",
+    "officialTitle": "Treatment With Pyrotinib-Based Therapy in Lapatinib Resistant HER2-Positive Metastatic Breast Cancer: A Real World Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female and 18-70 years old\n* Metastatic or locally recurrent HER2-positive breast cancer\n* Patients received pyrotinib-based therapy after lapatinib failure in treatment for metastasis\n* Complete and accurate medical data\n\nExclusion Criteria:\n\n- Incomplete medical data",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

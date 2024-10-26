@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02183805",
+    "briefTitle": "Chemotherapy Followed by Peripheral Stem Cell Transplantation in Treating Metastatic Triple-negative Breast Cancer",
+    "officialTitle": "Phase II Study of Chemotherapy Followed by Peripheral Stem Cell Transplantation as First Line Therapy for Metastatic Triple-negative Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Carcinoma Breast Stage IV",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Progression free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) 0 or 1.\n* Histologically or cytologically proven diagnosis of breast cancer with evidence of locally recurrent or metastatic disease.\n* Documentation of estrogen and progestin receptor (ER/PR) negative status and HER2/neu receptor negative status (ie, FISH negative or immunohistochemistry 0 or +1).\n* Obtained complete response or Good partial response after first line chemotherapy.\n* Normal organ function required prior to study entry.\n* Willingness to comply with treatment plans and other study procedures.\n\nExclusion Criteria:\n\n* Uncontrolled central nervous system (CNS) involvement with disease\n* Fertile women unwilling to use contraceptive techniques during treatment\n* Females who are pregnant\n* Organ dysfunction.\n* Patients may not be receiving any other investigational agents.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

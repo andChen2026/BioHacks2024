@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05904730",
+    "briefTitle": "Phase I Clinical Trials Investigating the Potential Efficacy of Axitinib in Patients With a BRCA 1/2 Mutations",
+    "officialTitle": "Phase I Clinical Trials Investigating the Potential Efficacy of Axitinib in Patients With a BRCA 1/2 Mutations Independent of HER2 Expression With Progression After Previous Treatment",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Breast Cancer, Ovarian Cancer, Breast Neoplasms, Ovarian Neoplasms, BRCA Mutation, HER2-positive Breast Cancer, HER2-negative Breast Cancer, HER-2 Protein Overexpression",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Antitumor effect of axitinib (INLYTA) among patients with solid tumors with BRCA 1/2 mutations independent of HER2 expression, with progression after previous treatment, including radiotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histologically and immunohistochemically confirmed status of the tumor process\n* \u043cale or female, age \u2265 18 years\n* Karnofsky performance status \u2265 60\n* signed informed consent and willingness/ability to comply with scheduled visits, treatment plans, laboratory tests, and other study procedures\n\nExclusion Criteria:\n\n* Grade 3 bleeding NCI CTCAE prior to study enrollment\n* cardiac arrhythmias \u22652 according to NCI CTCAE with a corrected QT interval (QTcF) on the screening ECG \\>480 ms.\n* pregnancy or breastfeeding. All female subjects of reproductive potential must have a negative pregnancy test (serum) prior to enrollment. Male subjects must be surgically sterile or must consent to the use of effective contraception during therapy.\n* severe acute or chronic psychiatric condition or disorder with risk associated with participation in the study\n* congestive heart failure (CHF) class III or higher according to the New York Heart Association (NYHA)\n* subjects with arterial thrombotic events / venous thrombosis in the previous 12 months (axitinib has never been studied in this population)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

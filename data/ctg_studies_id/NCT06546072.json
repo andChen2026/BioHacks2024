@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06546072",
+    "briefTitle": "Deep Learning With MRI-based Multimodal-data Fusion Enhanced Postoperative Risk Stratification of Breast Cancer",
+    "officialTitle": "Deep Learning With MRI-based Multimodal-data Fusion Enhanced Postoperative Risk Stratification of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1199,
+    "primaryOutcomeMeasure": "DFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed stage I-III invasive BC\n* Age \u2265 18 years\n* The patient having undergone surgery\n* The existence of MRI scans\n\nExclusion Criteria:\n\n* Lacked pathological results\n* Had other, simultaneous malignancies\n* Had MR imaging issues were excluded",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

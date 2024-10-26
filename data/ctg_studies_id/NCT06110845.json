@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06110845",
+    "briefTitle": "CLinical Evaluation Of a comPuter Algorithm To Report BreAst cAncers (CLEOPATRAA)",
+    "officialTitle": "CLinical Evaluation Of a comPuter Algorithm To Report BreAst cAncers",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 800,
+    "primaryOutcomeMeasure": "Concordance",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* all patients with a breast biopsy specimen processed at the pathology laboratory at SJUH, LTHT.\n\nExclusion Criteria:\n\n* Age \\<16 or \\>110 years, non-carcinoma malignancies (e.g., sarcomas, malignant phyllodes tumours), carcinomas not arising from within the breast (e.g., cutaneous malignancies).",
+    "sex": "ALL",
+    "minimumAge": "16 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

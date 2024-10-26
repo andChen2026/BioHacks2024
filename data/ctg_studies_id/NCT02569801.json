@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02569801",
+    "briefTitle": "A Study of GDC-0810 Versus Fulvestrant in Postmenopausal Women With Advanced or Metastatic Breast Cancer Resistant to Aromatase Inhibitor (AI) Therapy",
+    "officialTitle": "A Phase II, Open-Label, Randomized Study of GDC-0810 Versus Fulvestrant in Postmenopausal Women With Advanced or Metastatic ER+ /HER2- Breast Cancer Resistant to Aromatase Inhibitor Therapy",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 71,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS) According to Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v1.1) in Intent-to-Treat (ITT) Population",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Postmenopausal women with histologically or cytologically confirmed invasive, ER+/HER- (defined by local guidelines) metastatic or inoperable, locally advance breast cancer\n* Participants for whom endocrine therapy is recommended and treatment with cytotoxic chemotherapy is not indicated at time of entry into the study\n* Participants must have measurable disease by RECIST v1.1 or non-measurable, evaluable disease with atleast one evaluable bone lesion by RECIST v1.1 based on radiologic scans within 28 days of Day 1 of Cycle 1\n* Participants with radiologic/objective evidence of breast cancer recurrence or progression while on or within 6 months after the end of adjuvant treatment with an AI, or progression while on or within 1 month after the end of prior AI treatment for locally advanced or metastatic breast cancer\n\nExclusion Criteria:\n\n* HER2-positive disease\n* Prior treatment with fulvestrant\n* Prior treatment with greater than (\\>) 1 cytotoxic chemotherapy regimen or \\>2 endocrine therapies for advanced or metastatic disease",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02581839",
+    "briefTitle": "Treatment of Brain Metastases From Breast Cancer With Eribulin Mesylate",
+    "officialTitle": "Treatment of Brain Metastases From Breast Cancer With Eribulin Mesylate",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer, Brain Metastases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 9,
+    "primaryOutcomeMeasure": "Percent of Participants With Central Nervous System (CNS) Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female with histologically confirmed breast cancer.\n* Patients must have evidence of metastatic disease (non measurable disease is eligible).\n* Radiologically confirmed metastatic brain lesion by MRI.\n* Brain metastases from breast cancer with or without prior WBRT, STS of surgical resection. Progression must be documented in an at least one lesion untreated by SRS or in any site after surgery or WBRT.\n* Patients must be neurologically stable and with stable dose steroids and anticonvulsants for at least 1 week prior to obtaining the baseline MRI of the brain, and/or at least 1 week prior to beginning study treatment.\n* No presence of uncontrolled systemic disease or tumor related complication which, in opinion of the investigator, might restrict life expectancy to less than 3 months.\n* Patients may not be on any cytotoxic chemotherapy or hormonal treatment for breast cancer during protocol treatment. Trastuzumab is allowed in HER2 positive patients).\n* Able to comprehend and willing to sign an Informed Consent Form (ICF)\n* Karnofsky performance status \u2265 60\n* No brain radiation therapy \\> 4 weeks\n* No chemotherapy for \\> 3 weeks before planned start of protocol treatment\n* Adequate bone marrow, renal, and hepatic function, per local reference laboratory ranges as follows:\n\n  * Absolute neutrophil count (ANC) \u2265 1,500/mm3\n  * Platelet count \u2265 100,000/mm3\n  * Hemoglobin \u2265 9 g/dL\n  * Calculated creatinine clearance (CrCl) \u2265 30mL/min (Cockcroft-Gault method)\n  * Patients with normal, mild or moderate hepatic dysfunction are eligible.\n  * Calcium \\<10.1 mg/dL (corrected to serum albumin as follows: Corrected Calcium = (0.8 x (4 - patient albumin)) + serum Ca\n* Females of child-bearing potential must have a negative pregnancy test at screening and agree to take appropriate precautions to avoid pregnancy (double barrier method of birth control or abstinence) from screening through 3 months after the last dose of treatment\n* Able to undergo MRI evaluation with and without gadolinium contrast\n\nExclusion Criteria:\n\n* Patients with the presence of an active infection, abscess or fistula\n* Known leptomeningeal disease or CNS midline shifts.\n* Any evidence of severe or uncontrolled systemic disease such as clinically significant cardiovascular, pulmonary, hepatic, renal or metabolic disease.\n* Severe conduction abnormality including significant QTc prolongation \\>450ms.\n* Patients with grade 3/4 peripheral neuropathy.\n* Patients with pacemaker or an ICD devices.\n* Previous treatment with eribulin mesylate.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

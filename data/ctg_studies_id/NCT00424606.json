@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00424606",
+    "briefTitle": "Epirubicin and Docetaxel Combination (ET) or Epirubicin Followed by Docetaxel (E/T) for Node Negative (N0) High Risk Breast Cancer Patients",
+    "officialTitle": "A Multicenter Randomized Phase III Study of Adjuvant Treatment With Epirubicin Followed by Docetaxel (E/T) Versus Epirubicin and Docetaxel Combination (ET) in High Risk Lymph Node Negative Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 658,
+    "primaryOutcomeMeasure": "Disease-free interval between the two treatment arms",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed breast adenocarcinoma.\n* Within 20-45 days after the surgical excision of the primary tumor with tumor-free operation margins; at least 10 axillary lymph nodes have to be removed.\n* Absence of lymph node involvement after eclosion and hormone (E\\&H) staining and light microscopy evaluation.\n* Premenopausal or postmenopausal women with at least one of the following tumor characteristics is required in order to characterize the tumor as high risk:\n\n  * Estrogen receptor (ER) (-) and progesterone receptor (PR)(-);\n  * Ki-67 + \\> 30%; Grade III; HER2 (3+) (after an amendment on 15.05.2008 women with HER2 (3+) were not included); Perineural infiltration or presence of tumor emboli in blood or lymph vessels.\n* Postmenopausal women with tumors 1-2 cm are eligible if the tumor has at least 2 of the above mentioned high risk criteria.\n* Premenopausal and postmenopausal women with tumors measuring \\> 2 cm are eligible irrespectively of the expression of the above adverse prognostic tumor criteria.\n* Absence of any clinical or radiological evidence of local or metastatic disease.\n* Age \\> 18 years.\n* Performance status (WHO) \\< 3.\n* Adequate bone marrow function (absolute neutrophil count \\> 1000/mm\\^3, platelet count \\> 100000/mm\\^3, hemoglobin \\> 9 gr/mm\\^3).\n* Adequate liver (bilirubin \\< 1.5 times upper limit of normal and SGOT/SGPT \\< 2 times upper limit of normal) and renal function (creatinine \\< 2 mg/dl).\n* Adequate cardiac function (LVEF \\> 50%).\n* Negative pregnancy test.\n* Informed consent.\n\nExclusion Criteria:\n\n* Other invasive malignancy within the past 5 years except nonmelanoma skin cancer.\n* Other concurrent uncontrolled illness that could affect compliance with the study.\n* Psychiatric illness or social situation that would preclude study compliance.\n* Pregnant or nursing women.\n* History of allergic reaction attributed to docetaxel.\n* Other concurrent investigational agents.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

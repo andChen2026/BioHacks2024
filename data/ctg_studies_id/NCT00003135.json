@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00003135",
+    "briefTitle": "Whole Body Hyperthermia Combined With Chemotherapy in Treating Patients With Metastatic Breast, Ovarian, Endometrial, or Cervical Cancer",
+    "officialTitle": "A Phase I-II Trial of Mild Whole-Body Hyperthermia Combined With Liposomal Doxorubicin/5-Fluorouracil in Patients With Advanced Malignancy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Cervical Cancer, Endometrial Cancer, Ovarian Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 34,
+    "primaryOutcomeMeasure": "Tumor response",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed metastatic breast, ovarian, endometrial, or cervical carcinoma\n* Measurable and evaluable disease\n* No brain metastases\n* No hepatic involvement greater than 80%\n* No lung involvement greater than 30%\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nSex:\n\n* Not specified\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* Zubrod 0-2\n\nLife expectancy:\n\n* At least 12 weeks\n\nHematopoietic:\n\n* Absolute granulocyte count greater than 1,500/mm\\^3\n* Platelet count greater than 90,000/mm\\^3\n* Normal bone marrow cellularity on bone marrow biopsy\n* Thrombin time less than 17 sec\n* Fibrinogen greater than 200 mg/dL\n* FSP less than 40\n* No coagulopathy\n\nHepatic:\n\n* Bilirubin less than 2.0 mg/dL\n* SGPT less than 2 times normal\n* PT less than 14 sec\n* PTT less than 35 sec\n\nRenal:\n\n* BUN less than 25 mg/dL\n* Creatinine clearance at least 45 mL/min\n\nCardiovascular:\n\n* Normal cardiovascular system\n* Resting ventricular ejection fraction greater than 40%\n* No prior myocardial infarction\n* No symptomatic coronary artery disease\n* No unstable blood pressure\n* No thromboembolic disease\n\nNeurologic:\n\n* No seizures or other CNS disorders\n* Negative computerized tomographic scan of brain\n\nPulmonary:\n\n* FEV_1 greater than 70% of predicted\n* Arterial pressure of oxygen greater than 60 mmHg on room air with appropriate pressure of carbon dioxide and pH values\n* No history of cardiopulmonary or respiratory disease\n\nOther:\n\n* No other serious concurrent medical illness\n* No diabetes mellitus\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* Prior chemotherapy allowed\n\nEndocrine therapy:\n\n* No adrenal corticosteroids\n\nRadiotherapy:\n\n* Not specified\n\nSurgery:\n\n* Not specified\n\nOther:\n\n* No concurrent cardiac glycosides, antianginal therapy, or antiarrhythmics\n* No concurrent vasodilators, anticoagulants, thrombolytic agents, or aspirin",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

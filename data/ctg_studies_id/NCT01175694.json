@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01175694",
+    "briefTitle": "Dose Optimization for Pulsed-dose-rate (PDR)/High-dose-rate (HDR) Brachytherapy Alone for Early Breast Cancer",
+    "officialTitle": "Phase II Study - Dose Optimization PDR/HDR Brachytherapy Alone for Early Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "local control rates",
+    "eligibilityCriteria": "Inclusion criteria\n\n* Stage 0, I or II breast cancer.\n* Invasive ductal, papillary, mucinous, tubular, medullary or lobular carcinoma.\n* Ductal carcinoma in situ (DCIS) alone.\n* No lymph invasion (L0) and no hemangiosis (V0).\n* Lesions of \\< 3 cm diameter, histopathologically assured.\n* pN0 (a minimum of 6 nodes in specimen, or a negative sentinel node is acceptable).\n* M0.\n* Clear resection margins at least 2 mm in any direction; by lobular histology or DCIS histology only the resection margins must be clear at least 5 mm.\n* For DCIS only: lesions must be classified as low or intermediate risk group\n* Unifocal and unicentric DCIS or breast cancer.\n* Age \\> 50 years.\n* Time interval from final definitive breast surgical procedure to the start of external beam therapy or to brachytherapy is less than 12 weeks (84 days). If patients receive chemotherapy the radiotherapy can be started before systemic treatment (within 12 weeks). The radiation therapy can be also given in the interval between the chemotherapy courses. It is also possible to start radiation therapy after chemotherapy is completed according local protocols as soon as possible within 4 weeks after chemotherapy.\n* Signed study-specific consent form\n\nExclusion Criteria:\n\n* Stage III or IV breast cancer.\n* Surgical margins that cannot be microscopically assessed.\n* Extensive intraductal component (EIC).\n* Paget's disease or pathological skin involvement.\n* Synchronous or previous breast cancer.\n* Prior malignancy (\\< 5 years prior to enrollment in study) except non-melanoma skin cancer or cervical carcinoma International Federation of Gynecology and Obstetrics (FIGO) 0 and I if patient is continuously disease-free.\n* Pregnant or lactating women.\n* Collagen vascular disease.\n* The presence of congenital diseases with increased radiation sensitivity, for example Ataxia telangiectatic or similar.\n* Psychiatric disorders.\n* Patient with breast deemed technically unsatisfactory for brachytherapy.",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

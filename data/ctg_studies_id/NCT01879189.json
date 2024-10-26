@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01879189",
+    "briefTitle": "PROSPR/PCIPS Project 3: Communication of Personalized Breast Cancer Risk",
+    "officialTitle": "PROSPR/PCIPS Project 3: Communication of Personalized Breast Cancer Risk Using a Web-based Breast Cancer Screening Decision Aid Tool",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 1302,
+    "primaryOutcomeMeasure": "Mammography Use Correlated to Personal Risk of Breast Cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women ages 39-48\n* Patient of one of the nine primary care or OB/GYN practices that are participating in the study\n* Must have had an appointment at one of these locations in the past 24 months\n* Must have an appointment during the study period\n* Woman has not yet initiated breast cancer screening (no prior mammogram)\n* No history of breast cancer\n\nExclusion Criteria:\n\n* Prior diagnosis of breast cancer\n* Major comorbidity that substantially affects their 10 year mortality\n* Non-English speaker",
+    "sex": "FEMALE",
+    "minimumAge": "39 Years",
+    "stdAges": "ADULT"
+}

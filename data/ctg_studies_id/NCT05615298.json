@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05615298",
+    "briefTitle": "Study to Evaluate Effectiveness of Investigational Device in the Assistance of Detection and Diagnosis of Breast Cancer",
+    "officialTitle": "Multi-reader, Multi-case, Observer-blind, Retrospective, Pivotal Study to Evaluate Effectiveness of Investigational Device in the Assistance of Detection and Diagnosis of Breast Cancer During Screening Mammography Interpretation",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 240,
+    "primaryOutcomeMeasure": "Patient-level FBR (forced BI-RADS) area under the Receiver Operating Characteristic (ROC) curve",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Any ethnic origin\n* Acquired with devices from two manufacturers: Hologic and GE\n* 4 views (RMLO, LMLO, RCC, LCC) images of FFDM (Full-Field Digital mammography)\n\nExclusion Criteria:\n\n* Previous core needle biopsy in breast for past 2 years\n* Previous vacuum-assisted biopsy, surgical biopsy or surgery in breast\n* Previous breast cancer\n* Lactating when taking screening mammograms\n* Presence of a breast implant in screening mammograms\n* Presence of a pacemaker in screening mammograms\n* Inadequate quality status such as insufficient anatomical coverage of screening mammograms",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

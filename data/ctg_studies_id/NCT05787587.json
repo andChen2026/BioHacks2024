@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05787587",
+    "briefTitle": "A Study of PARG Inhibitor IDE161 in Participants With Advanced Solid Tumors",
+    "officialTitle": "A Study of PARG Inhibitor IDE161 in Participants With Advanced Solid Tumors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Advanced or Metastatic Solid Tumors, Breast Cancer, Ovarian Cancer, Pancreas Cancer, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 68,
+    "primaryOutcomeMeasure": "Part 1 (Dose Escalation): To characterize the safety and tolerability of IDE161 monotherapy by evaluating the number of participants with dose limiting toxicities, adverse events, and laboratory abnormalities as graded by NCI CTCAE version 5.0",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Adult participants must be 18 years of age or older\n2. Advanced or metastatic solid tumors excluding primary central nervous system (CNS) tumors\n3. Have documented evidence of genetic alterations conferring homologous recombination deficiency\n4. Participant must have progressed on at least one prior line of therapy in the advanced or metastatic setting that is considered an appropriate standard of care, or for which the participant has documented intolerance\n\nExclusion Criteria:\n\n1. Known primary CNS malignancy\n2. Impairment of GI function or GI disease that may significantly alter the absorption of IDE161\n3. Have active, uncontrolled infection\n4. Clinically significant cardiac abnormalities\n5. Major surgery within 4 weeks prior to enrollment\n6. Radiation therapy within 2 weeks prior to enrollment\n7. Systemic cytotoxic chemotherapy within 4 weeks prior to enrollment\n8. Radioimmunotherapy within 6 weeks of enrollment\n9. Treatment with a therapeutic antibody within 4 weeks prior to enrollment\n10. Treatment with an anti-cancer small molecule within 5 half-lives (t1/2), or 2 weeks, whichever is shorter",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

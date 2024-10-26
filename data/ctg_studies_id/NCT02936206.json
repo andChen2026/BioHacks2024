@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02936206",
+    "briefTitle": "Examination of Breast Cancer Cells of Pre-menopausal and Post-menopausal Women Before and After Exposure to Tamoxifen or Fulvestrant.",
+    "officialTitle": "Comparison in the Change of Proliferation Index Between Fulvestrant and Tamoxifen in Cyclin D1 +, Estrogen Receptor + Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 2,
+    "primaryOutcomeMeasure": "Change in Ki67 Cell Percentage",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent prior to beginning specific protocol procedures, including expected cooperation of the patients for the study treatment regimen and follow-up, must be obtained and documented according to the local regulatory requirements\n* Adult women greater than 18 years old\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0-2\n* New diagnosis of invasive cyclin D1 +, ER+, PR +/-, Her2- breast cancer\n\n  * Cyclin D1 positive as defined as a total immunohistochemical score of 5 or greater\n  * Hormone receptor positive as defined as \u2265 10% positive stained cells\n  * HER2-normal (IHC score 0-1 or FISH negative \\[in-situ hybridization (ISH) ratio \\<= 2.0 status\\])\n* Tumor size at least 5 mm with planned primary surgery at Mount Sinai\n* A negative urine dipstick pregnancy test\n\nExclusion Criteria:\n\n* Estrogen receptor negative invasive breast carcinoma as defined as less than 10% stained cells\n* Prior antiestrogen therapy\n* Tumor size less than 5 mm\n* Prior diagnosis of thrombosis or known hypercoagulable state\n* Known history of bleeding diathesis\n* Known liver disease\n* Prior treatment with neoadjuvant therapy\n* Inflammatory breast cancer defined as clinically significant erythema of the breast and/or documented dermal lymphatic invasion (not direct skin invasion by tumor or peau d'orange without erythema).\n* Current severe or uncontrolled systemic disease\n* Pregnancy or lactation period. Patients of childbearing potential must implement adequate non-hormonal contraceptive measures (barrier methods, intrauterine contraceptive devices) during study treatment.\n* Prior malignancy (including invasive or ductal in-situ breast cancer) within 5 years prior to randomization, except curatively treated basal cell carcinoma of the skin and carcinoma in situ of the cervix.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

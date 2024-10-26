@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04565600",
+    "briefTitle": "Prevention of Taxane-associated Acute Pain Syndrome With Etoricoxib",
+    "officialTitle": "Prevention of Taxane-associated Acute Pain Syndrome With Etoricoxib for Breast Cancer Patients: A Phase II Randomized Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Pain Syndrome",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 144,
+    "primaryOutcomeMeasure": "overall incidence of taxane-associated acute pain syndrome across all cycles of chemotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent\n* Age \u226518 years\n* Stage I-III breast cancer\n* ECOG 0-2\n* Received docetaxel-containing chemotherapy\n\nExclusion Criteria:\n\n* Existed any chronic pain or peripheral neuropathy\n* Prior history of gastrointestinal bleeding or ulcer\n* Long-term history of receiving oral corticoids, nonsteroid anti-inflammatory drugs (NSAIDs) or anti-histamines\n* Allergies to NSAIDs or aspirin\n* Blood creatinine level exceeds 1.5 times of the upper limit of normal range",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

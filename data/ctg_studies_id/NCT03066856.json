@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03066856",
+    "briefTitle": "Dietary Intervention and BRCA Penetrance",
+    "officialTitle": "Lifestyle and the Penetrance of BRCA Mutation",
+    "overallStatus": "COMPLETED",
+    "conditions": "Dietary Modification, BRCA1 Mutation, BRCA2 Mutation, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 502,
+    "primaryOutcomeMeasure": "Reduction of serum levels of IGF-I (ng/mL) (intervention trial).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eligible study subjects are women, aged 18-70, either unaffected or affected with BC, without metastases or previous ovarian cancer, who underwent genetic counselling and fulfilled high-risk selection criteria for genetic testing based on personal and/or family history and resulted carriers of deleterious BRCA mutations.\n\nExclusion Criteria:\n\n* Unaffected BRCA mutation carriers with bilateral prophylactic mastectomy are not included in the cohort or are censored at the time of surgery.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02040935",
+    "briefTitle": "A Study of SC Administration of Trastuzumab (Herceptin) by SID at Home in HER2-Positive EBC Participants",
+    "officialTitle": "HOMERUS: A Local, Open Label, Multicentre, Phase IIIB Study, Investigating Subcutaneous Trastuzumab Administered at Home With Single Injection Device in Patients With HER2-Positive Early Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 128,
+    "primaryOutcomeMeasure": "Percentage of Participants With Adverse Events (AEs) and Serious AEs (SAEs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed non-metastatic primary invasive adenocarcinoma of the breast\n* HER2-positive disease\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n* Hormonal therapy will be allowed as per institutional guidelines\n* Prior use of anti-HER2 therapy will be allowed\n* Left ventricular ejection fraction (LVEF) greater than or equal to (\\>/=) 50 percent (%)\n* No evidence of residual, locally recurrent or metastatic disease after completion of surgery and chemotherapy, or during concurrent chemotherapy (neo-adjuvant or adjuvant)\n* Use of concurrent radiotherapy will be permitted\n* Completion of surgery and chemotherapy (if applicable)\n\nExclusion Criteria:\n\n* History of other malignancy, except for participants with curatively treated carcinoma in situ of the cervix or basal cell carcinoma and participants with other curatively treated malignancies who have been disease-free for the last 5 years\n* Participants with severe dyspnea at rest or requiring supplementary oxygen therapy\n* Participants with other concurrent serious diseases that might interfere with planned treatment, including severe pulmonary conditions/illness\n* Serious cardiac illness or medical conditions that would preclude the use of trastuzumab, specifically: history of documented congestive heart failure, high-risk uncontrolled arrhythmias, angina pectoris requiring medication, clinically significant valvular disease, evidence of transmural infarction on electrocardiogram (ECG), poorly controlled hypertension\n* Pregnant or lactating women\n* Women of childbearing potential and male participants with female partners of childbearing potential who are unable or unwilling to use adequate contraceptive methods during study treatment\n* Concurrent enrollment in another clinical trial using an investigational anti-cancer treatment, including hormonal therapy, biphosphonate therapy and immunotherapy, within 28 days prior to the first dose of study treatment\n* Known hypersensitivity to trastuzumab, murine proteins, to any excipients of Herceptin, including hyaluronidase, or the adhesive of the SC device, or a history of severe allergic or immunological reactions, e.g. difficult to control asthma\n* Inadequate hepatic or renal function",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

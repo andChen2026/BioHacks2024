@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05775549",
+    "briefTitle": "A Study to Characterize the Outcomes of Olaparib Maintenance Monotherapy in Newly Diagnosed BRCAwt Ovarian Cancer",
+    "officialTitle": "FLAME - First Line olAparib Maintenance bEyond BRCA An Observational Cohort Study to Characterize the Outcomes of Olaparib Maintenance Monotherapy Beyond BRCA Mutant Status in Newly Diagnosed Advanced Ovarian Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Ovarian Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Clinical and Demographics characteristics",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female adult, age \u2265 18 years\n* BRCAwt AOC diagnosed with any approved BRCA test\n* Has documented HRD status based on available test results\n* Received 1L olaparib maintenance monotherapy following platinum chemotherapy\n* Patients must have been treated with platinum-based chemotherapy at first-line\n\nExclusion Criteria:\n\n* Received another poly adenosine diphosphate ribose polymerase (PARP) inhibitor or bevacizumab before or while prescribed olaparib\n* Participation in an interventional clinical study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

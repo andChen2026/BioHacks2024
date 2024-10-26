@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02511301",
+    "briefTitle": "Circadian Thermal Sensing to Detect Breast Disease",
+    "officialTitle": "Circadian Thermal Sensing for the Detection of Breast Disease as a Supplemental Cancer Screening System",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Early-Stage Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 173,
+    "primaryOutcomeMeasure": "Predictive Analytic Analysis (PAA) Sensitivity and Specificity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with a BI-RADS category 4 or 5 designation on mammogram\n* Women with a BI-RADS category 4 or 5 designation on breast ultrasound\n* Women with a BI-RADS category 4 or 5 designation on breast MRI\n* Women who are willing to undergo a complete evaluation and/or biopsy procedure if recommended by the treating physician\n\nExclusion Criteria:\n\n* Less than 21 years of age\n* Unable to sign the consent form\n* Pregnant or lactating\n* Physically unable to wear the Cyrcadia CBR\u2122 for 6 hours\n* Previous mastectomy\n* Any breast surgery or biopsy within the last 90 days\n* Any trauma to the breast within the last 90 days\n* Any biopsy or treatment for the BI-RADS category 4 or 5 abnormality\n* Refusal to undergo recommended diagnostic evaluation of the BI-RADS category 4 or 5 abnormality",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

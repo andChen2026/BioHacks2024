@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01424865",
+    "briefTitle": "Cancer Stem Cell Biomarkers as a Predictor of Response to Trastuzumab in Samples From Patients With Breast Cancer Previously Treated in the NSABP-B-31 Trial",
+    "officialTitle": "Evaluation of the Co-Expression of the Cancer Stem Cell Marker ALDH1 and of HER2 as a Predictor of Adjuvant Trastuzumab Response in Breast Cancers of Women in NSABP B31",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1874,
+    "primaryOutcomeMeasure": "ALDH1 expression (percentage of stem cells within the tumor) and association with outcomes regardless of HER2 staining",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Tissue samples from patients with node-positive breast cancer whose tumors overexpress HER2\n* Primary tumor samples that are negative for HER2 using classically accepted cutoffs determined in the metastatic setting\n* Treated with adjuvant therapy comprising doxorubicin hydrochloride, cyclophosphamide, and paclitaxel with or without trastuzumab in the NSABP-B-31 trial\n\nPATIENT CHARACTERISTICS:\n\n* Not specified\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

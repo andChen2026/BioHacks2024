@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01221870",
+    "briefTitle": "Tesetaxel as First-line Therapy for Metastatic Breast Cancer",
+    "officialTitle": "A Phase II Study of Tesetaxel as First-line Therapy for Subjects With Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 81,
+    "primaryOutcomeMeasure": "Response rate (revised RECIST)",
+    "eligibilityCriteria": "Primary Inclusion Criteria:\n\n* Female\n* At least 18 years of age\n* Histologically or cytologically confirmed adenocarcinoma of the breast\n* Stage IV disease\n* HER2 status negative\n* Measurable disease (revised RECIST; Version 1.1)\n* Eastern Cooperative Oncology Group performance status 0 or 1\n* Life expectancy of at least 3 months\n* Chemotherapy na\u00efve or 1 prior chemotherapy regimen in the adjuvant setting (Prior taxane-based adjuvant therapy allowed provided patient had a disease-free interval of at least 12 months after completing this adjuvant therapy)\n* Prior hormonal therapy, aromatase inhibitor therapy, and immunotherapy allowed\n* Prior radiotherapy in the adjuvant setting allowed provided that less than 25% of the bone marrow had been irradiated\n* Adequate bone marrow, hepatic, and renal function, as specified in the protocol\n* At least 4 weeks and recovery from effects of prior surgery, hormonal therapy, aromatase inhibitor therapy, immunotherapy, radiotherapy, or other therapy with an approved or investigational agent\n* Ability to swallow an oral solid-dosage form of medication\n\nPrimary Exclusion Criteria:\n\n* Known metastasis to the central nervous system\n* History of other malignancy within the last 5 years other than curatively treated basal and squamous cell carcinoma of the skin or carcinoma of the cervix in situ\n* Significant medical disease other than Stage IV breast cancer\n* Presence of neuropathy \\> Grade 1 (NCI CTC, Version 4.0)\n* History of hypersensitivity to a taxane\n* Need to continue any regularly-taken medication that is a potent inhibitor or inducer of the CYP3A pathway or P-glycoprotein activity",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

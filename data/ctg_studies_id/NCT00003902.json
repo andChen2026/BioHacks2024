@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00003902",
+    "briefTitle": "Capecitabine and Vinorelbine in Treating Older Women Who Have Metastatic Breast Cancer With or Without Bone Involvement",
+    "officialTitle": "Phase I/II of Capecitabine and Vinorelbine in Elderly Patients (At Least 65 Years) With Metastatic Breast Cancer With or Without Bone Involvement",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "N/A",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 110,
+    "primaryOutcomeMeasure": "Maximum-tolerated dose (phase I)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically proven adenocarcinoma of the breast\n* Phase I: Measurable or evaluable disease\n* Phase II: Bidimensionally measurable disease\n* No CNS metastases\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 65 and over\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* Postmenopausal\n\nPerformance status:\n\n* ECOG/SAKK 0-2\n\nLife expectancy:\n\n* At least 12 weeks\n\nHematopoietic:\n\n* Normal peripheral blood counts\n\nHepatic:\n\n* AST no greater than 2 times upper limit of normal (ULN) (no greater than 3 times ULN if liver metastases present)\n\nRenal:\n\n* Creatinine no greater than 1.5 times ULN\n\nOther:\n\n* No other prior or concurrent malignancy except adequately treated basal or squamous cell skin cancer or carcinoma in situ of the cervix\n* No peripheral neuropathy grade 2 or higher\n* No cognitive impairment or severe psychiatric disorder\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* Not specified\n\nChemotherapy:\n\n* More than 6 months since prior adjuvant chemotherapy\n* No prior chemotherapy for metastatic or locally advanced disease\n* No other concurrent chemotherapy\n\nEndocrine therapy:\n\n* Prior hormonal therapy for metastatic disease allowed\n* No continuous concurrent steroids\n* No concurrent systemic endocrine therapy for breast cancer\n* No other concurrent endocrine therapy\n\nRadiotherapy:\n\n* No concurrent radiotherapy involving greater than 30% of bone marrow or mucosa\n* Radiotherapy to nonindicator lesion allowed\n\nSurgery:\n\n* Not specified\n\nOther:\n\n* Bisphosphonates allowed if indicator lesion in nonbone site",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

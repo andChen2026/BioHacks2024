@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00482391",
+    "briefTitle": "Doxorubicin and Cyclophosphamide Followed by Paclitaxel, Trastuzumab, and Lapatinib in Treating Patients With HER2/Neu-Overexpressed Breast Cancer",
+    "officialTitle": "Phase II Study of Dose-Dense Doxorubicin and Cyclophosphamide (AC) Followed by Weekly Paclitaxel With Trastuzumab and Lapatinib in HER2/NEU-Overexpressed/Amplified Breast Cancer: Feasibility",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 95,
+    "primaryOutcomeMeasure": "Number of Patients Who Completed All Planned Therapy",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adenocarcinoma of the breast\n\n  * Bilateral synchronous breast tumors allowed\n  * Any nodal status or tumor size allowed\n\n    * No stage IV disease\n* HER2/neu-positive disease\n\n  * 3+ by IHC OR FISH-amplified\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Male or female\n* Menopausal status not specified\n* ECOG performance status 0-1\n* Absolute neutrophil count \u2265 1,000/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Bilirubin \u2264 1.1 mg/dL\n* SGOT or SGPT \u2264 2.5 times upper limit of normal (ULN)\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective barrier contraception during and after completion of study therapy\n* LVEF \u2265 50% by MUGA scan\n* No peripheral neuropathy \\> grade 1\n* No active second malignancy within the past 5 years except for adequately treated nonmelanoma skin cancer or in situ carcinoma of the cervix\n* No known allergy or hypersensitivity to doxorubicin hydrochloride, cyclophosphamide, paclitaxel, or other drugs formulated in Cremophor EL\n* No psychiatric illness or concurrent medical conditions that would preclude study treatment\n* No other conditions, including any of the following:\n\n  * Unstable angina\n  * Congestive heart failure\n  * Myocardial infarction within the past 12 months\n  * High-risk uncontrolled arrhythmias (e.g., ventricular tachycardia, high-grade AV block, or supraventricular arrhythmias that are not adequately controlled)\n* No QT prolongation (\\> 500 ms)\n* No active unresolved infections\n* No sensitivity to E. coli derived proteins\n\nPRIOR CONCURRENT THERAPY:\n\n* Prior hormonal therapy for chemoprevention allowed\n* No prior trastuzumab (Herceptin\u00ae)\n* No prior anthracyclines\n* No concurrent hormonal therapy, including hormonal contraception (e.g., birth control pills or ovarian hormonal or replacement therapy)\n* No other concurrent chemotherapy, radiotherapy, immunotherapy, or biotherapy for breast cancer\n* No concurrent drugs that may prolong the QT",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00225056",
+    "briefTitle": "Phase II Study of Capecitabine and Weekly Docetaxel Followed by Capecitabine Maintenance for Patients With Metastatic Breast Carcinoma",
+    "officialTitle": "Phase II Study of Capecitabine and Weekly Docetaxel Followed by Capecitabine Maintenance for Patients With Metastatic Breast Carcinoma",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 43,
+    "primaryOutcomeMeasure": "Overall clinical benefit rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* must have metastatic breast cancer\n* must have cytologically or pathologically confirmed invasive ductal or lobular carcinoma\n* must have measurable or evaluable disease\n* ECOG of 0-1\n* patients may have received 0, 1. or 2 prior treatments for metastatic breast cancer\n* must have adequate organ function\n* must be at least 19 years of age\n* peripheral neuropathy less than or equal to grade 1\n* must have voluntarily signed informed consent\n* patients with brain metastases are eligible provided that other measurable disease exists and brain lesions are controlled\n\nExclusion Criteria:\n\n* patients with other malignancies, except non melanoma of the skin, who have had any evidence of cancer within the last 5 years\n* patients with psychiatric illness or other concurrent severe co-morbid medical condition that would preclude study completion\n* known uncontrolled existing coagulopathy\n* patients with a history of severe hypersensitivity reaction to docetaxel, medications formulated with polysorbate 80 or 5-fluorouracil\n* use of other investigational agents in the last 28 days\n* pregnant or lactating women\n* patients who are known HIV positive\n* patients with life expectancy of less than 3 months\n* sexually active patients unwilling to practice reliable contraception during the study",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00375024",
+    "briefTitle": "Patient Navigator Project",
+    "officialTitle": "Patient Navigator Project",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Colon Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 1267,
+    "primaryOutcomeMeasure": "Questionnaire Results Regarding Time to Diagnosis",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Receive health care at one of the enrolled clinics\n* Newly diagnosed with breast of colorectal cancer or if they have an abnormality that is suspicious for breast (breast lump, or abnormal mammogram) or colorectal cancer (abnormal colon screening test, blood in bowel movement).\n\nExclusion Criteria:\n\n* Persons with previous history of breast or colon cancer will be excluded from the study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

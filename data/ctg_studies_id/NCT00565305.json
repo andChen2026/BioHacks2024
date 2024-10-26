@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00565305",
+    "briefTitle": "Healing Touch, Quality of Life, and Immunity During Breast Cancer Treatment",
+    "officialTitle": "Quality of Life and Immunity During Breast Cancer Treatment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "NK cell activity; sTNFRII; IL-1ra; fatigue (FSI); depression (CES-D); acute skin reactions",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer patients who have received either a mastectomy or breast conservative surgery\n* Diagnosis of Stage I-IIIa breast cancer,\n* Receiving either chemotherapy + radiation or radiation alone\n\nExclusion Criteria:\n\n* Past history of cancer\n* Recurrent cancer\n* Greater than Stage IIIa breast cancer\n* History of immunosuppressive disorders (e.g. HIV, AIDS, hepatitis, etc.)\n* On immunosuppressive medications\n* On corticosteroids (e.g. Prednisone)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

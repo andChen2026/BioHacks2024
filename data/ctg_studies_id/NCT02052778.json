@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02052778",
+    "briefTitle": "A Study of TAS-120 in Patients With Advanced Solid Tumors",
+    "officialTitle": "Phase 1/2 Study of TAS-120 in Patients With Advanced Solid Tumors Harboring FGF/FGFR Aberrations",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cholangiocarcinoma, Urothelial Cancer, Advanced and Metastatic Cancer Patients With Tumors Harboring FGF/FGFR Tumors, Primary CNS Tumors, Breast Cancer, Gastric Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 407,
+    "primaryOutcomeMeasure": "Phase 1: Dose Escalation-Maximum Tolerated Dose (MTD)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Provide written informed consent\n2. Age \u2265 18 years of age\n3. Has histologically or cytologically confirmed, locally advanced or metastatic cancer\n4. The following specific criteria for each study portion\n\n   Phase 1 (Dose Escalation):\n   * Patients with any type of solid tumor\n   * Disease progression following standard therapies or intolerant to prior standard therapies\n\n   Phase 1 (Dose Expansion)\n   * Have at least one FGF/FGFR aberration\n   * Disease progression following standard therapies or were intolerant to prior standard therapies (including prior FGFR inhibitors).\n   * Have measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST) guidelines (version 1.1, 2009) for advanced solid tumors or Response Assessment in Neuro-Oncology criteria (2010) for brain tumors.\n   * Patients with any of the following tumor types\n\n     * Patients with intrahepatic or extrahepatic CCA harboring FGFR2 gene fusions or other FGFR2 aberrations\n     * Patients with primary CNS tumors\n     * Patients with advanced urothelial carcinoma with FGFR3 fusions or FGFR3 activating mutations\n     * Patients with breast cancer or gastric cancer\n     * Patients with other solid tumor types harboring FGFR gene fusions or activating mutations\n     * Patients with solid tumor types and other FGF/FGFR alterations not listed above\n\n   Phase 2\n   * Patients with iCCA and FGFR2 gene rearrangements (incl fusions)\n   * Have been treated with at least one prior systemic gemcitabine and platinum-based chemotherapy\n   * Must have documentation of radiographic progression of disease\n   * No prior FGFR inhibitor\n   * Measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST) guidelines (version 1.1, 2009)\n5. Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n6. Adequate organ function.\n\nExclusion Criteria:\n\n1. History and/or current evidence of clinically significant non-tumor related alteration of calcium-phosphorus homeostasis.\n2. History and/or current evidence of clinically significant ectopic mineralization/calcification.\n3. History and/or current evidence of clinically significant retinal disorder\n4. A serious illness or medical condition(s)\n5. Pregnant or breast-feeding female",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

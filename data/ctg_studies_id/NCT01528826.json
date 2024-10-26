@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01528826",
+    "briefTitle": "Salvage Chemotherapy of Vinorelbine Plus Oxaliplatin in Metastatic Triple-negative Breast Cancer:a Prospective Trial",
+    "officialTitle": "A Prospective Phase II Trial of Vinorelbine Plus Oxaliplatin in Pretreated Metastatic Triple-negative Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "progression free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Females with age between 18 and 70 years old\n2. ECOG performance between 0-2\n3. Life expectancy more than 3 months\n4. Histological proven unresectable recurrent or advanced breast cancer\n5. Triple-negative for estrogen receptor (ER), progestogen receptor (PR), and human epithelial receptor-2 (HER2) by immunohistochemistry (IHC) test. For patients with ER negative, PR negative, Her2 two plus, a negative Her2 gene amplification should be verified with FISH test. Her2 one plus may consider FISH verification.\n6. No more than 2 chemotherapy for metastatic breast cancer.\n7. At least one measurable disease according to the response evaluation criteria in solid tumor (RECIST1.1)\n8. No anticancer therapy within 4 weeks\n9. No neuropathy more than grade I\n10. Adequate hematologic, hepatic, and renal function,No serious medical history of heart, lung, liver and kidney\n11. Provision of written informed consent prior to any study specific procedures\n\nExclusion Criteria:\n\n1. Pregnant or lactating women (female patients of child-bearing potential must have a negative serum pregnancy test within 14 days of first day of drug dosing, or, if positive, a pregnancy ruled out by ultrasound)\n2. Women of child-bearing potential, unwilling to use adequate contraceptive protection during the course of the study\n3. Treatment with an investigational product within 4 weeks before the first treatment\n4. Symptomatic central nervous system metastases\n5. Other active malignancies (including other hematologic malignancies) or other malignancies, except for cured nonmelanoma skin cancer or cervical intraepithelial neoplasia.\n6. Patient having a history of clinically significant cardiovascular, hepatic, respiratory or renal diseases, clinically significant hematological and endocrinal abnormalities, clinically significant neurological or psychiatric conditions\n7. Uncontrolled serious infection\n8. Previous administration of vinorelbine\n9. Patients with bad compliance",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

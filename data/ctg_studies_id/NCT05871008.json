@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05871008",
+    "briefTitle": "Integrated Actionable Aging Assessment for Cancer Patients Pilot",
+    "officialTitle": "Integrated Actionable Aging Assessment for Cancer Patients Pilot",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Hodgkin Lymphoma, Kidney Cancer, Leukemia, Lymphoid Leukemia, Multiple Myeloma, Myeloid Leukemia, Monocytic Leukemia, Prostate Cancer, Bladder Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "Patient reported receipt of quality illness care",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> /= 65\n* Patient must agree to participate in all study-related activities\n* English or Spanish speaking\n* Attending initial visit to oncology\n\nExclusion criteria\n\n* age \\< 65\n* primary language other than English or Spanish",
+    "sex": "ALL",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

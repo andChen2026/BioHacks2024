@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05698056",
+    "briefTitle": "A Retrospective Analysis of Magnetic Resonance Imaging Data for Breast Cancer Screening in the Open Consortium for Decentralized Medical Artificial Intelligence",
+    "officialTitle": "A Retrospective Analysis of Magnetic Resonance Imaging Data for Breast Cancer Screening in the Open Consortium for Decentralized Medical Artificial Intelligence",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 25000,
+    "primaryOutcomeMeasure": "Diagnostic performance for breast cancer detection (Sensitivity and specificity)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* age at the MRI examination from 18-90 years\n\nExclusion Criteria:\n\n* insufficient image quality as judged by a blinded radiologist before start of the analysis\n* non-identifiably ground truth (i.e., diagnosis has not yet been established)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

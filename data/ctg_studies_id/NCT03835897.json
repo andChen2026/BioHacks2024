@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03835897",
+    "briefTitle": "Breast Cancer Screening With Diffusion-weighted MRI in Women at High Risk for Breast Cancer",
+    "officialTitle": "Breast Cancer Screening With Mammography, Ultrasound, Contrast-enhanced MRI, and Diffusion-weighted MRI in Women at High Risk for Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 890,
+    "primaryOutcomeMeasure": "Sensitivity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women aged between 30 years and 75 years at the time of enrollment\n2. Breast cancer high-risk women who meet one or more of the following criteria: 1) BRCA mutation carrier or untested first-degree relative of BRCA mutation carrier 2) Family history of breast cancer in first- or second-degree relatives and lifetime risk \\>20% calculated by the Tyrer-Cuzick model 3) Family history of breast cancer in first- or second-degree relatives and personal history of breast cancer 4) Lobular carcinoma in situ, atypical ductal hyperplasia, or atypical lobular hyperplasia on previous biopsy or surgery and lifetime risk \\>20% calculated by the Tyrer-Cuzick model 5) Thoracic radiation therapy between the ages of 10 and 30\n\nExclusion Criteria:\n\n1. Women with symptoms or signs of breast cancer or recurrence\n2. Women with bilateral mastectomy\n3. Pregnant or lactating women\n4. Women who undergo chemotherapy due to malignancy in other organs\n5. In cases of contraindications to MRI using contrast media (claustrophobia, renal insufficiency GFR\\<30mL/min/1.73m2, metallic foreign body such as pacemaker or clips, history of severe side effects due to MR contrast agent, etc.).",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

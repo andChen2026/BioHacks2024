@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00212069",
+    "briefTitle": "Serum Proteomics to Predict Gemcitabine Sensitivity in Breast Cancer",
+    "officialTitle": "Serum Protein Profiling as a Predictor of Gemcitabine Sensitivity in Breast Cancer With Prior Exposure to Anthracyclines and Taxanes",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "To identify a serum protein profile that predicts gemcitabine/carboplatin sensitivity or resistance in breast cancer patients with prior exposure to anthracyclines and taxanes.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, age \\>= 18 years.\n* Histologic or cytologic diagnosis of breast carcinoma.\n* Stage IV breast cancer with prior exposure to anthracyclines and taxanes, either in the neoadjuvant, adjuvant or metastatic setting.\n* Presence of at least one uni-dimensionally measurable, non-CNS indicator lesion defined by radiologic study or physical examination\n* For patients with previous radiotherapy, the indicator lesion(s) must not be within the previous radiation field. The last dose of radiotherapy should be at least 3 weeks prior to study entry. The total radiotherapy received should not be more than 30% of the bone marrow.\n* Karnofsky performance status of 70 or higher.\n* Estimated life expectancy of at least 12 weeks.\n* Adequate organ function including the following:\n\n  - Bone marrow: White blood cells (WBC) \\>= 3.5 x 109/L Absolute neutrophil (segmented and bands) count (ANC) \\>= 1.5 x 109/L Platelets \\>= 100 x 109/L Haemoglobin \\>= 9g/dL\n\n  - Hepatic: Bilirubin \\<= 1.5 x upper limit of normal (ULN), ALT or AST \\<= 2.5x ULN, (or \\<5 X with liver metastases) Alkaline phosphatase \\<= 2.5x ULN.\n\n  - Renal: Creatinine clearance \\>30ml/minute, based on the Cockcroft formula\n* Signed informed consent from patient or legal representative.\n* Patients with reproductive potential must use an approved contraceptive method if appropriate (eg, intrauterine device, birth control pills, or barrier device) during and for three months after the study. Females with childbearing potential must have a negative serum pregnancy test within 7 days prior to study enrollment.\n\nExclusion Criteria:\n\n* Treatment within the last 30 days with any investigational drug.\n* Concurrent administration of any other tumor therapy, including cytotoxic chemotherapy, hormonal therapy, and immunotherapy.\n* Active infection that in the opinion of the investigator would compromise the patient's ability to tolerate therapy.\n* Pregnancy.\n* Breast feeding.\n* Serious concomitant disorders that would compromise the safety of the patient or compromise the patient's ability to complete the study, at the discretion of the investigator.\n* Second primary malignancy that is clinically detectable at the time of consideration for study enrollment.\n* Symptomatic brain metastasis.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

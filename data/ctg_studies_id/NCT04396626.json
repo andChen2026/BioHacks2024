@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04396626",
+    "briefTitle": "HR+/ HER2- Advanced/ Metastatic Breast Cancer Real World Treatment Patterns and Outcomes",
+    "officialTitle": "Patient Characteristics, Treatment Patterns, and Clinical Outcomes in Patients Diagnosed With HR+/HER2- Advanced/Metastatic Breast Cancer Receiving CDK4/6i + Aromatase Inhibitor (AI) Combination Therapy as Initial Endocrine-based Treatment",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 975,
+    "primaryOutcomeMeasure": "Number of Participants With Different Type of Treatment Regimens",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female or male sex.\n2. Diagnosis (confirmed by clinical review) of A/MBC, defined as breast cancer at stage IIIB, stage IIIC, stage IV or identified as having distant metastasis.\n3. Age \u226518 years at A/MBC diagnosis.\n4. Initiated a CDK4/6i in combination with an AI as initial endocrine-based therapy after A/MBC diagnosis on or after 2/3/2015 and before 4/1/2019.\n\n   \u2022Note that the date of the start of the inclusion period reflects the month that the first CDK4/6i (ie, Palbociclib) received U.S. FDA approval.\n5. Evidence of ER or PR positive disease, or absence of any indication of ER and PR negative disease closest to A/MBC diagnosis (ie, patients are eligible without affirmative indication of ER/PR+ status as long as ER/PR- indication is not present).\n6. Evidence of HER2 negative disease, or absence of any indication of HER2 positive disease closest to A/MBC diagnosis (ie, patients are eligible without affirmative indication of HER2- status as long as HER2+ indication is not present).\n\nExclusion Criteria:\n\n1. Enrollment in an interventional clinical trial for A/MBC during the study observation period.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

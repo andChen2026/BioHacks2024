@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01355393",
+    "briefTitle": "Vaccine Therapy in Combination With Rintatolimod and/or Sargramostim in Treating Patients With Stage II-IV HER2-Positive Breast Cancer",
+    "officialTitle": "Phase I-II Study of HER2 Vaccination With Poly(I) \u2022 Poly(C12U) (Ampligen\u00ae) as an Adjuvant in Optimally Treated Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER2-positive Breast Cancer, Male Breast Cancer, Recurrent Breast Cancer, Stage II Breast Cancer, Stage IIIA Breast Cancer, Stage IIIB Breast Cancer, Stage IIIC Breast Cancer, Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Evaluation of immune response among the different treatment arms in Stage I and II",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with stage II, or III HER2+ breast cancer who have completed definitive standard treatment and are in complete remission - or -\n* Patients with stage IV HER2+ breast cancer treated to:\n\n  * No evidence of disease, or\n  * Stable bone only disease after definitive therapy\n* Patients must have demonstrated HER2 positive disease, by one of the following methods:\n\n  * Immunohistochemical (IHC) staining of 1+, 2+ or 3+ for the HER2 protein, or\n  * Amplification of the HER2 gene on fluorescence in situ hybridization (FISH)\n* Patients must be at least 14 days post cytotoxic chemotherapy prior to enrollment\n* Patients must be at least 14 days post systemic steroids prior to enrollment\n* Patients on bisphosphonates or continued hormone therapy are eligible\n* Men and women of reproductive ability must agree to contraceptive use during the entire study period\n* Patients must have Zubrod Performance Status Score of =\\< 2\n* Patients must have recovered from major infections and/or surgical procedures, and in the opinion of the investigator, not have any significant active concurrent medical illnesses precluding protocol treatment\n* White blood cell count (WBC) \\>= 3000/mm\\^3\n* Hemoglobin (Hgb) \\>= 10 mg/dl\n* Serum creatinine =\\< 2.0 mg/dl or creatinine clearance \\> 60 ml/min\n* Total bilirubin =\\< 1.5 mg/dl\n* Serum glutamic oxaloacetic transaminase (SGOT) =\\< 2.5 times the upper limit of normal\n* Patients on trastuzumab monotherapy must have adequate cardiac function as demonstrated by normal ejection fractions (EF) on multi gated acquisition scan (MUGA) scan or echocardiogram performed within the last 3 months of eligibility sign off\n\nExclusion Criteria:\n\n* Restrictive cardiomyopathy\n* Unstable angina within 6 months prior to enrollment\n* New York Heart Association functional class III-IV heart failure\n* Symptomatic pericardial effusion\n* Patients with any contraindication to receiving rhuGM-CSF based products\n* Patients with any clinically significant autoimmune disease requiring active treatment\n* Patients receiving any concurrent immunomodulators within 30 days of eligibility sign-off\n* Patients who are pregnant or breast-feeding\n* Patients who are simultaneously enrolled in any other treatment study\n* Patients who have received a previous HER2 breast cancer vaccine",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

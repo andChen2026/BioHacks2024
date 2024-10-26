@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04961632",
+    "briefTitle": "Dose-determining and Dose-confirmatory Study to Investigate the Optimal Dose of Tamoxifen in Breast Cancer Patients According to Genotype Status of TCF20 rs932376",
+    "officialTitle": "An Open-label, Single-institution, Dose-determining (Part 1) and Dose-confirmatory (Part II) Study to Investigate the Optimal Dose of Tamoxifen in Breast Cancer Patients Harboring Different TCF20 rs932376 Variant Alleles",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 75,
+    "primaryOutcomeMeasure": "Endoxifen blood concentration",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed stage I to IV breast cancer\n* Age greater than 21 years\n* Estrogen- or progesterone-receptor positive tumours\n* Patients receiving tamoxifen 20mg daily as monotherapy\n* Patients currently taking tamoxifen in either adjuvant or metastatic setting for greater than or equal to 8 weeks (for Dose determination and confirmation phases)\n* Patients who will commence on tamoxifen therapy in either adjuvant or metastatic setting (for Dose confirmation phase only)\n* Written and informed consent from participating patients\n\nExclusion Criteria:\n\n* Patients with expected survival less than 6 months\n* Patients who are human epidermal growth factor receptor 2 (HER2)-postitive\n* Inability to provide informed consent\n* Patients receiving CYP2D6 inhibitors or inducers within the past four weeks from the time of study enrollment. However, patients started in CYP2D6 inhibitors or inducers after commencing on tamoxifen therapy will not be excluded from the study.\n* Pregnancy\n* Patients with prior malignancies other than those who have received curative treatment for basal cell carcinoma of the skin or carcinoma in situ of the uterine cervix\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/ social situations that would limit compliance with study requirements.\n* Patients who have documented prior allergic reaction to tamoxifen",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

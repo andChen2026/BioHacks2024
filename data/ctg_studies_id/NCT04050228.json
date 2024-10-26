@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04050228",
+    "briefTitle": "Use of Quantitative Ultrasound to Guide Adaptive Chemotherapy Among Women With Breast Cancer",
+    "officialTitle": "A Phase II Study of Quantitative Ultrasound to Guide Adaptive Chemotherapy Among Women With Locally Advanced Breast Cancer (LABC)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 240,
+    "primaryOutcomeMeasure": "Measuring the rate of treatment response between the treatment groups",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women \u2265 18 years of age\n2. Diagnosis of breast cancer with a primary tumour \\>2cm in size\n3. With conditions meeting criteria for chemotherapy administration\n4. Normal hematological blood counts (hemoglobin \u2265 100 g/l, platelet count \u2265 100 x 109, absolute neutrophil count \u2265 2.0 x109 cells per L)\n5. Creatinine \u2264175 \u00b5mol/L\n6. Liver enzymes (AST and ALT) \u2264 1.5 times upper limit of normal\n7. Cardiac function (left ventricular ejection fraction) \u226555%\n8. Eligible for neoadjuvant chemotherapy.\n\nExclusion Criteria:\n\n1. Inflammatory breast cancer\n2. Contraindications to neoadjuvant treatment including pregnancy or lactation\n3. Past medical history of connective tissue disease\n4. Past history of dermatologic disease involving the breast\n5. Eastern Cooperative Group Status (ECOG) \u22653\n6. No peripheral neuropathy of a severity of grade \u22652\n7. Evidence of distant metastatic disease\n8. Known sensitivity to components present in ultrasound gel.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04436120",
+    "briefTitle": "Treatment Resistance Following Anti-cancer Therapies",
+    "officialTitle": "TREATMENT RESISTANCE FOLLOWING ANTI-CANCER THERAPIES (TRANSLATE)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Disease Progression",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 38,
+    "primaryOutcomeMeasure": "Change in the frequency of gene alterations between pre treatment tumor samples and post progression tumor biopsies",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological diagnosis of locally advanced (primary or recurrent) or metastatic solid tumors treated as follows:\n* Non small cell lung carcinoma (NSCLC) monotherapy: Disease progression (PD) on 1st line monotherapy anti PD-1/ L1.\n* NSCLC combination: PD on 1st line anti PD-1/ L1 plus standard doublet platinum containing regimen; or PD on 1st-line anti-PD-1/-L1 plus standard doublet platinum-containing regimen followed by continuation of single agent anti-PD-1/-L1).\n* Renal cell carcinoma (RCC) with clear cell component: PD on 2nd line monotherapy anti PD-1/ L1; or PD on 1st line combination of doublet anti-PD-1/ L1 with anti-CTLA-4; or PD on 1st-line combination of avelumab with axitinib or pembrolizumab with axitinib.\n* HR+ HER2 adenocarcinoma of the breast: PD on 1st line combination of doublet palbociclib with hormonal therapy.\n* Castrate resistant adenocarcinoma of the prostate: PD on enzalutamide monotherapy.\n* Castrate resistant adenocarcinoma of the prostate: PD on abiraterone in combination with prednisone.\n* germline mutated BRCA (gBRCAm), HER2- breast cancer: PD on a PARP inhibitor monotherapy in patients previously treated with chemotherapy in the neoadjuvant, adjuvant, or metastatic setting.\n* Radiographic evidence of PD, including the target lesion being subjected to biopsy for the study, on the most recent regimen that requires a change in anti-cancer treatment.\n\nExclusion Criteria:\n\n* Tumor biopsy taken from a bone or an irradiated target lesion.\n* Discontinuation of current or most recent anti cancer therapy due to toxicity and not progressive disease.\n* Initiation of new anti-cancer therapy after disease progression prior to planned biopsy.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

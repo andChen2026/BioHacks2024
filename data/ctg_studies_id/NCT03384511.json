@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03384511",
+    "briefTitle": "The Use of 18F-ALF-NOTA-PRGD2 PET/CT Scan to Predict the Efficacy and Adverse Events of Apatinib in Malignancies.",
+    "officialTitle": "Whether 18F-ALF-NOTA-PRGD2 PET/CT Scan Can Predict the Efficacy and Adverse Events of Apatinib in Patients With Malignancies.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Malignancies, Stomach Cancer, Non-small Cell Lung Cancer, Esophageal Cancer, Breast Cancer, Ovary Cancer, Cervical Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 38,
+    "primaryOutcomeMeasure": "Tumor response defined by RECIST criteria",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Clinical diagnosis of malignancies\n* Scheduled for second- or third-line apatinib therapy\n* Karnofsky performance status (KPS) \u226570\n* Measurable primary tumors according to Response Evaluation Criteria in Solid Tumors (RECIST)\n\nExclusion Criteria:\n\n* Active infection, myocardial infarction within 6 months, symptoms of heart disease, including unstable angina, congestive heart failure or uncontrolled arrhythmias, immunosuppressive therapy\n* The claustrophobic patients and patients with implanted metal objects\n* The pregnancy\n* Inability to complete the required examinations",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04698252",
+    "briefTitle": "Local Therapy for ER/PR-positive Oligometastatic Breast Cancer",
+    "officialTitle": "Local Therapy for Hormone Receptor-positive Oligometastatic Breast Cancer - a Phase II Randomized Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 74,
+    "primaryOutcomeMeasure": "2-year progression-free survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female sex\n* \u2265 18 years of age\n* Histologically confirmed invasive breast cancer, with oligometastatic disease defined as one of the following criteria: 1) One to four bone lesions; 2) One to four lung and/ or hepatic lesions; 3) Distant metastasis limited to ipsilateral cervical lymph nodes; 4) Distant metastasis limited to contralateral axillary lymph nodes\n* Oligometastatic sites amenable to treatment with a local therapy modality, including surgical resection, stereotactic radiotherapy, or radiofrequency ablation\n* Estrogen receptor-positive and/ or progesterone receptor-positive breast cancer\n* Partial response or stable disease after at least six months of systemic therapy for breast cancer\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Measurable or non-measuble disease according to Response Evaluation Criteria in Solid Tumors (RECIST) 1.1\n* Life expectancy of at least 12 weeks\n* For women in childbearing age, negative pregnancy test until 21 days before the date of study enrollment.\n* Signed informed consent form\n* Disposition and aptitude to fulfill the study protocol during the study duration\n\nExclusion Criteria:\n\n* HER2-positive breast cancer\n* Progressive disease during the last systemic treatment received for metastatic disease\n* Previous local therapy for distant metastasis\n* Current or previous history of severe diseases, such as clinically relevant heart failure, acute myocardium infarction in the last six months, chronic obstructive lung disease, HIV infection, chronic active hepatitis B or C infection, current serious uncontrolled infections or other severe diseases that may impact patients' expected survival)\n* Current or previous history of other invasive malignancy within the last five years, excluding non-melanoma skin cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00584753",
+    "briefTitle": "Molecular Imaging of Breast Cancer With Breast PET/CT",
+    "officialTitle": "Molecular Imaging of Breast Cancer With Breast PET/CT",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "End-points of this study are whether women will accept the imaging position and timing, and whether functional properties of breast cancer can be imaged with this device.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n- Normal Adult Volunteers\n\n* Female, at least 18 years of age\n* Ability to lie motionless for up to 20 minutes\n\nPatient Volunteers\n\n* Female, at least 18 years of age\n* Diagnostic findings from prior mammography highly suggestive of invasive breast carcinoma (BI-RADS category 5)\n* Not pregnant or breast-feeding\n* Ability to lie motionless for up to 20 minutes\n\nExclusion Criteria:\n\n* Normal Adult Volunteers\n\n  * Inability to understand the risks and benefits of the study\n\nPatient Volunteers\n\n* Recent breast biopsy\n* Diagnostic findings from prior mammography highly suggestive of noninvasive ductal or lobular carcinoma\n* Uncontrolled diabetes\n* Diabetic and blood sugar level \\> 200 mg/dL\n* Positive urine pregnancy test or currently breast-feeding\n* Inability to understand the risks and benefits of the study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

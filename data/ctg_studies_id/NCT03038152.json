@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03038152",
+    "briefTitle": "Magseed Magnetic Marker in Locating Axillary Lymph Nodes in Patients With Breast Cancer Undergoing Surgery",
+    "officialTitle": "A Prospective, Open Label Study of the Use of Magseed\u00ae and Sentimag\u00ae to Localize Axillary Lymph Nodes With Biopsy-Proven Metastases in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Carcinoma Metastatic in Lymph Node, Stage II Breast Cancer AJCC v6 and v7, Stage IIA Breast Cancer AJCC v6 and v7, Stage IIB Breast Cancer AJCC v6 and v7, Stage IIIA Breast Cancer AJCC v7, Stage IIIB Breast Cancer AJCC v7",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 54,
+    "primaryOutcomeMeasure": "Retrieval rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed cT0-4, N1 breast cancer\n* Axillary lymph node metastasis with pathologic confirmation by needle biopsy\n* Clip placed in the sampled axillary lymph node before completing chemotherapy\n* Received neoadjuvant chemotherapy prior to surgical resection\n* Scheduled for targeted axillary dissection (defined as selective localization and removal of the clipped node and sentinel lymph node dissection \\[SLND\\])\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n\nExclusion Criteria:\n\n* Distant metastases\n* Inflammatory breast cancer\n* Prior surgical axillary procedure including SLND or axillary node excision\n* Prior history of breast cancer in the ipsilateral breast\n* History of lymphoma\n* The subject is known to be pregnant. Premenopausal patients under the age of 50 must have a pregnancy test performed as standard of care before the MagSeed is placed\n* Previous radiation to the breast or axilla\n* Pacemaker of other implantable device in the chest wall",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

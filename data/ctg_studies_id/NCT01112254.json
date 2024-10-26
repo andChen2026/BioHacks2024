@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01112254",
+    "briefTitle": "Evaluation of the Diagnostic Performance of MRI\u00b1Biopsy to Optimize Resection of Ductal Carcinoma In Situ (DCIS) Breast Cancer",
+    "officialTitle": "Evaluation of the Diagnostic Performance of MRI\u00b1Biopsy to Optimize Resection of Ductal Carcinoma In Situ (DCIS) Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 360,
+    "primaryOutcomeMeasure": "Re-excision rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* T0 or T1 breast DCIS revealed by microcalcifications on mammography + breast ultrasound\n* Histological confirmation by percutaneous biopsy : strict DCIS or micro-invasive.\n* Radiological focus \\< 30mm and accessible to conservative treatment.\n* Single microcalcification focus\n* Age : 18 to 80 years old\n* Performance Status \\< 2\n* Patient information and signed informed consent.\n\nExclusion Criteria:\n\n* Invasive carcinoma\n* Non biopsiable microcalcification focus under stereotaxy\n* Bilateral lesions\n* Non feasible MRI (claustrophobic, serious allergy, pace-maker, etc.)\n* Refusal of surgery, including mastectomy if necessary\n* History of homolateral breast cancer\n* patient at risk of breast cancer (BRCA1 or 2 mutation or score 5 INSERM table)\n* Pregnant or possibly pregnant or breastfeeding woman\n* Person deprived of freedom or under guardianship\n* Inability to undergo the medical surveillance of the trial for geographical, social or psychological reasons",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

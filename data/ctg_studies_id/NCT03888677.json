@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03888677",
+    "briefTitle": "Dose-adjusted Adjuvant FEC Compared to Standard FEC for Breast Cancer",
+    "officialTitle": "SBG 2000-1. Individually Dose-adjusted FEC Compared to Standard FEC as Adjuvant Chemotherapy for Node Positive or High-risk Node Negative Breast Cancer. A Randomized Study by the Scandinavian Breast Group",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1535,
+    "primaryOutcomeMeasure": "Distant disease-free survival.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Node positive or 2) High-risk node negative#\n* no major cardiovascular morbidity\n* female age 18-60\n* ECOG/WHO performance status \\<1\n* histologically proven invasive breast cancer\n* written or oral witnessed informed consent according to the local Ethics Committee requirements\n* start of adjuvant chemotherapy within 8 weeks after surgery\n\nExclusion Criteria:\n\n* distant metastases (M1)\n* locally advanced cancer\n* nonradically operated (positive resection margins)\n* pregnancy or lactation\n* leukocyte count \\< 3.5 x109 /l\n* platelets \\< 100 x109 /l\n* other serious medical condition\n* previous or concurrent malignancies at other sites, except basal cell carcinoma and carcinoma cervicis uteri in situ",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

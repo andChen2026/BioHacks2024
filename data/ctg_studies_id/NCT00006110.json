@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00006110",
+    "briefTitle": "Multimodality Treatment for Women With Stage II, Stage III, or Stage IV Breast Cancer",
+    "officialTitle": "Nonrandomized Ph II Study of Multimodality Therapy for Stg IIB, IIIA/B, or Stg IV Breast Cancer w/4 Cycles of Adriamycin and Cytoxan (AC),Followed by 12 Weeks of Paclitaxel w/ or w/o Herceptin Followed by Local Therapy Followed by Wkly Herceptin or no Additional Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 82,
+    "primaryOutcomeMeasure": "Cardiac Toxicity of Weekly Taxol Given With Weekly Herceptin When Delivered Immediately Following Four Cycles of Standard Dose AC.",
+    "eligibilityCriteria": "Inclusion Criteria\n\n* Histologically confirmed stage IIB, IIIA, IIIB, IIIC, or previously untreated stage IV primary carcinoma of the breast\n\n  * Fine needle aspiration, core needle biopsy, or incisional biopsy allowed\n  * No excisional biopsy\n  * Any of the following:\n\n    * Tumor size 2, Nodes 1 (T2N1) or tumor size 3 nodes 0 (T3N0)\n    * Any T with N2 (including axillary lymph nodes matted to one another) or N3\n    * Any T4, including inflammatory breast cancer\n    * Adjuvant patients with at least 4 positive lymph nodes and HER-2 overexpressing tumor\n    * Supraclavicular or infraclavicular positive lymph nodes without distant metastases\n    * Distant metastases with measurable disease in breast or lymph nodes\n* Synchronous bilateral primary breast cancer allowed if the more serious cancer meets entry criteria\n* Measurable or evaluable disease\n\nPATIENT CHARACTERISTICS:\n\nAge: Not specified\n\nSex: Female\n\nMenopausal status: Not specified\n\nPerformance status: Not specified\n\nLife expectancy: Not specified\n\nHematopoietic:\n\nWhite cell count \\> 3000 / mm3 Platelet count \\> 100,000 / mm3\n\nHemoglobin \\> 9 mg / dl Bilirubin \\< 1.5 x normal Creatinine \\< 1.5 x normal left ventricular ejection fraction (LVEF) normal by resting nuclear ventriculogram Not pregnant or nursing Negative pregnancy test Fertile patients must use effective contraception\n\nExclusions\n\nPrior malignancies except:\n\nEffectively treated squamous cell or basal cell skin cancer Carcinoma in situ of the cervix that has been curatively treated by surgery alone Nonbreast malignancy from which patient has been disease-free for 5 years and is at low risk of recurrence",
+    "sex": "FEMALE",
+    "minimumAge": "1 Year",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

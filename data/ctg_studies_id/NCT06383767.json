@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06383767",
+    "briefTitle": "A Phase III Study of ESG401 for Locally Advanced or Metastatic HR+/HER2- Breast Cancer",
+    "officialTitle": "A Open-label, Randomized, Multicenter Phase III Study of ESG401 Versus Investigator's Choice Chemotherapy in Patients With Locally Advanced or Metastatic HR+/HER2- Breast Cancer Who Had Failed at Least One Line of Chemotherapy",
+    "overallStatus": "RECRUITING",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 378,
+    "primaryOutcomeMeasure": "Progression-free survival (PFS) assessed by IRC per RECIST 1.1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Individuals able to understand and give written informed consent.\n* Males or females aged \u2265 18 years ;\n* Histologically and/or cytologically confirmed HR+/HER2- breast cancer who had failed at least one line of systemic chemotherapy in metastatic settings;\n* Patients who are eligible for a chemotherapy regimen in the control group;\n* Patients with at least one measurable lesion per RECIST 1.1 criteria;\n* Eastern Cooperative Oncology Group (ECOG) performance status score of 0 to 1;\n* Expected survival \u2265 12 weeks;\n* Patients with adequate organ and bone marrow function;\n* Female patients of childbearing potential and male patients with partners of childbearing potential who use effective medical contraception from the time of signing the informed consent form until 180 days after the last dose.\n\nExclusion Criteria:\n\n* Received chemotherapy, targeted therapy, immunotherapy, interventional therapy or other systemic anti-cancer therapie within 4 weeks before the first investigational product administration;\n* Toxicities from prior anti-tumor therapy not recovering to \u2264 Grade 1;\n* Received major surgeries 4 weeks prior to the first dose of study treatment or planned to receive major surgeries during the study ;\n* Prior topoisomerase I inhibitor therapy, including antibody-drugconjugate(ADC) therapy, or prior TROP2 targeted therapy, or use of any investigational anti-cancer drug within 28 days or 5 half-lives before the first investigational product administration;\n* New thromboembolic events, intestinal obstruction, gastrointestinal bleeding or perforation within 6 months;\n* Uncontrolled systemic bacterial, viral or fungal infections;\n* Subjects with symptomatic or untreated CNS metastases, or those requiring ongoing treatment for CNS metastases;\n* Patients with Primary CNS malignancy\uff1bor patients with other malignancies within 3 years prior to the first dose;\n* Patients with uncontrollable systemic diseases;\n* Patients with gastrointestinal diseases (such as chronic gastritis, chronic enteritis or gastric ulcers), or with a previous history of severe or chronic diarrhea;\n* Subjects with clinically significant cardiovascular disease;\n* Human Immunodeficiency Virus (HIV) infection;\n* Active hepatitis B or hepatitis C;\n* Known immediate or delayed hypersensitivity reaction to irinotecan or other camptocampin derivatives such as topotecan or to have had grade \u22653 gastrointestinal reactions associated with irinotecan, or allergies, or to any investigational drug or excipient ingredient;\n* Pregnant or lactating women.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00333775",
+    "briefTitle": "A Study of Bevacizumab (Avastin) in Women With HER2 Negative Metastatic Breast Cancer",
+    "officialTitle": "A Randomised, Double Blind, Placebo Controlled, Multicentre Study to Evaluate the Efficacy and Safety of Bevacizumab in Combination With Docetaxel in Comparison With Docetaxel Plus Placebo, as First Line Treatment for Patients With HER2 Negative Metastatic and Locally Recurrent Breast Cancer.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 736,
+    "primaryOutcomeMeasure": "Progression-free Survival",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Female patients \u2265 18 years of age.\n* Human epidermal growth factor receptor 2 (HER2)-negative cancer of the breast with locally recurrent or metastatic disease, suitable for chemotherapy.\n* No adjuvant chemotherapy within 6 months before randomization, and no taxane-based chemotherapy within 12 months before randomization.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.\n\nExclusion criteria:\n\n* Previous chemotherapy for metastatic or locally recurrent breast cancer.\n* Radiotherapy for treatment of metastatic disease.\n* Other primary tumors within last 5 years, except for controlled limited basal cell or squamous cancer of the skin, or cancer in situ of the cervix.\n* Spinal cord compression or brain metastases.\n* Major surgical procedure, open biopsy, or significant traumatic injury within 28 days prior to randomization.\n* Inadequate bone marrow, liver, or renal function.\n* Uncontrolled hypertension.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02345772",
+    "briefTitle": "Neoadjuvant Hormonal Therapy Combined With Chemoimmunotherapy",
+    "officialTitle": "Neoadjuvant Hormonal Therapy Combined With Chemoimmunotherapy (Taxotere, Trastuzumab and Pertuzumab) in Patients With HER2-positive and ER-Positive Breast Cancer (NeoHTTP Study)",
+    "overallStatus": "TERMINATED",
+    "conditions": "HER2-positive Breast Cancer, ER-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "Pathological Complete Remission Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients \u2265 18 years of age with histologically, and radiographically confirmed non-metastatic ER-positive (defined as \u226530% of positive cells) and HER2-positive (defined as overexpression by immunohistochemistry (3+) or 2+ and positive by defined by fluorescence or dual in situ hybridization.) breast cancer with minimal tumor size over 2 cm (\u2265T2 lesion) to receive neoadjuvant chemotherapy recommended by the treating physician\n2. Eastern Cooperative Oncology Group (ECOG) performance status score \\< 1\n3. Absolute neutrophil count \\> 1500 mm3, platelet count \u2265 100\u00d7109 L, hemoglobin \u2265 8.5 g/dL\n4. Serum creatinine \u22641.5 times the upper limit of the normal range, total bilirubin \u2264 1.5 X ULN (\u2264 3 mg/dL if clinically diagnosed with Gilbert syndrome) AST/ALT \u2264 2.5 X ULN (AST/ALT \u2264 5X ULN if clinically diagnosed with Gilbert syndrome)\n5. Women of child-bearing potential (i.e., women who are pre-menoposaul or not surgically sterile) must have a negative serum pregnancy test within 2 weeks prior to beginning treatment\n\nExclusion Criteria:\n\n1. Uncontrolled cardiac disease, such as angina, hypertension or significant arrhythmias\n2. LVEF (left ventricular ejection fraction) \\< 50% on any prior assessment. Note: Assessment of LVEF is done before and after trastuzumab-based chemotherapy as standard of care\n3. Pregnant or lactating females\n4. Inability to complete informed consent process and adhere to the protocol treatment plan and follow-up requirements\n5. Concurrent severe illness such as active infection, or psychiatric illness/social situations that would limit safety and compliance with study requirements",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

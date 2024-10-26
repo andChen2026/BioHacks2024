@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00433602",
+    "briefTitle": "Incidence of Blood Clots in Patients Undergoing Chemotherapy for Solid Tumors",
+    "officialTitle": "TEACH Survey (Thrombo-Embolism And Chemotherapy) A Prospective Survey on the Incidence of Venous Thromboembolic Events During Chemotherapy for Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Colorectal Cancer, Gastric Cancer, Lung Cancer, Ovarian Cancer, Pancreatic Cancer, Prostate Cancer, Thromboembolism",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 64,
+    "primaryOutcomeMeasure": "Incidence of asymptomatic proximal deep vein thrombosis (DVT) of the lower limbs as assessed by bilateral compression ultrasound at baseline and at 3 months",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Cytologically or histologically confirmed diagnosis of 1 of the following:\n\n  * Metastatic breast cancer\n  * Colorectal cancer\n  * Gastric cancer\n  * Lung cancer\n  * Ovarian cancer\n  * Pancreatic cancer\n  * Hormone-refractory prostate cancer\n* Scheduled to undergo chemotherapy for \u2265 3 months\n\n  * Chemotherapy for colorectal, gastric, lung, ovarian, or pancreatic cancer may be administered in the neoadjuvant, adjuvant, or palliative setting\n* History of deep vein thrombosis or pulmonary embolism allowed if treatment and secondary prevention of the last episode was completed prior to study entry\n\n  * Negative baseline bilateral compression ultrasonography\n\nPATIENT CHARACTERISTICS:\n\n* Life expectancy \\> 3 months\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* More than 6 weeks since prior chemotherapy\\*\n\n  * Hormonal therapy alone is not considered chemotherapy\n* More than 4 weeks since prior major surgery, including surgery for cancer\n\n  * Minor surgery (e.g., implant of a port-a-cath) within the past 4 weeks allowed\n* No concurrent major surgery, including surgery for cancer, during the observation period\n* Radiotherapy before or during the observation period allowed\n* Concurrent chemotherapy\\* in combination with additional hormonal therapy allowed\n* Concurrent treatment (with the exception of antithrombotic therapy) in any other clinical trial allowed\n* No concurrent or scheduled use of thromboprophylaxis or any anticoagulant therapy, including any of the following:\n\n  * Parenteral anticoagulants (e.g., heparin, low molecular-weight heparin, or other agents, such as fondaparinux or bivalirudin)\n  * Oral anticoagulants (e.g., vitamin K antagonists)\n  * Thrombolytic agents\n\n    * Chronic treatment with antiplatelet agents, such as low-dose aspirin (\u2264 300 mg/day) or clopidogrel allowed NOTE: \\*Chemotherapy is defined as treatment with any antineoplastic agent, including biologicals",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

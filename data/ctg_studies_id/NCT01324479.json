@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01324479",
+    "briefTitle": "Study of INC280 in Patients With c-MET Dependent Advanced Solid Tumors",
+    "officialTitle": "A Phase I Open-label Dose Escalation Study With Expansion to Assess the Safety and Tolerability of INC280 in Patients With c-MET Dependent Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Solid Tumors",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 131,
+    "primaryOutcomeMeasure": "Incidence rate of dose-limiting toxicities and adverse events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Must have evidence of c-MET dysregulation from either local data or the results of molecular pre-screening evaluations.\n* Confirmed diagnosis of a solid tumor.\n* Measureable lesion.\n* Refractory to currently available treatment or no therapies available.\n* 18 years or older.\n* ECOG performance status of 0, 1, or 2.\n* Obtained written informed consent.\n\nAdditional inclusion criteria for NSCLC patients EGFRwt with high c-MET expression:\n\n* Written documentation of EGFRwt NSCLC.\n* Written documentation of c-MET positivity.\n* Patients should not have received more than three prior lines of antineoplastic therapy for NSCLC.\n* Presence of at least one measurable lesion as determined by modified RECIST version 1.1\n\nExclusion Criteria:\n\nHCC with liver dysfunction greater than Child-Pugh A. Previous treatment with a c-MET inhibitor or HGF-targeting therapy. Symptomatic CNS metastases that are neurologically unstable or requiring increasing doses of steroids to control their CNS disease.\n\nAny CNS deficits. For patients with GBM, CNS symptoms grade 2 or greater. Subjects with significant or uncontrolled cardiovascular disease (eg, uncontrolled hypertension, peripheral vascular disease, congestive heart failure, cardiac arrhythmia, or acute coronary syndrome) within 6 months of starting study treatment or heart attack within 12 months of starting study treatment.\n\nReceiving anti-epileptic drugs that are known to be strong inducers of CYP3A4. Prior or current anti-angiogenic therapy for patients with GBM. Radiation therapy within \u2264 4 weeks (\\< 12 for GBM) prior to the first dose of study drug or limited field radiotherapy within \u2264 2 weeks (\\< 12 weeks GBM) prior to the start of study treatment. Any persistent side effect of prior radiotherapy must be resolved to \u2264 Grade 1 prior to the first dose of study drug.\n\nAdditional exclusion criteria for NSCLC patients EGFRwt with high c-MET expression:\n\n* Patients who have received more than three prior lines of antineoplastic therapies\n* Any unresolved toxicity (CTCAE grade \\> 1) from previous anti-cancer therapy or radiotherapy, except alopecia\n* Patients have received anti-cancer therapies within the following time frames prior to the first dose of study treatment:\n\n  * Conventional cytotoxic chemotherapy: \u22644 weeks (\u22646 weeks for nitrosoureas and mitomycin-C)\n  * Biologic therapy (e.g., antibodies): \u22644 weeks\n  * Non-cytotoxic small molecule therapeutics: \u22645 half-lives or \u22642 weeks (whichever is longer)\n  * Other investigational agents: \u22644 weeks\n  * Radiation therapy (palliative setting is allowed.): \u22644 weeks\n  * Major surgery: \u22642 weeks\n\nOther protocol-defined inclusion/exclusion criteria may apply.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

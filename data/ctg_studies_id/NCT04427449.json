@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04427449",
+    "briefTitle": "4SCAR-CD44v6 T Cell Therapy Targeting Cancer",
+    "officialTitle": "Multi-center Phase I/II Clinical Trial of 4SCAR-CD44v6 T Cells for Treating Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Cancers Which Are CD44v6 Positive",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Safety of infusion",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age older than 6 months.\n2. Confirmed expression of CD44v6 in tumor specimens by immuno-histochemical staining or flow cytometry.\n3. Karnofsky performance status (KPS) score is higher than 70 and life expectancy \\> 3 months.\n4. Adequate bone marrow, liver and renal function as assessed by the following laboratory requirements: cardiac ejection fraction \u2265 50%, oxygen saturation \u2265 90%, creatinine \u2264 2.5 \u00d7 upper limit of normal, aspartate aminotransferase (AST) and alanine aminotransferase (ALT) \u2264 3 \u00d7 upper limit of normal, total bilirubin \u2264 2.0mg/dL.\n5. Hgb\u226580g/L.\n6. No cell separation contraindications.\n7. Abilities to understand and the willingness to provide written informed consent.\n\nExclusion Criteria:\n\n1. Sever illness or medical condition, which would not permit the patient to be managed according to the protocol, including active uncontrolled infection.\n2. Active bacterial, fungal or viral infection not controlled by adequate treatment.\n3. Known HIV, hepatitis B virus (HBV) or hepatitis C virus (HCV) infection.\n4. Pregnant or nursing women may not participate.\n5. Use of glucocorticoid for systemic therapy within one week prior to entering the trial.\n6. Receive treatment related to CD44v6 targeted therapy.\n7. Patients, in the opinion of investigators, may not be able to comply with the study.",
+    "sex": "ALL",
+    "minimumAge": "6 Months",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

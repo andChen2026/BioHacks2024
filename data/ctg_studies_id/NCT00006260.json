@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00006260",
+    "briefTitle": "Combination Chemotherapy in Treating Patients With Metastatic Breast Cancer",
+    "officialTitle": "A Phase II Study Of An OutPatient Three Day VIP Regimen With Oral Mesna For Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 36,
+    "primaryOutcomeMeasure": "Determine the objective response rate in patients with metastatic breast cancer treated with etoposide, ifosfamide with mesna, and cisplatin.",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically proven progressive metastatic breast cancer\n* Measurable disease\n\n  * Any lesion measurable in 2 dimensions\n  * Hepatic metastases if the sum of the measurements below the costal margin in the midclavicular line and the tip to the xiphoid process is greater than 5 cm during quiet respiration\n  * Hepatic defects that are clearly measurable by radionuclide, CAT, or MRI scans\n  * Bone metastases are not considered measurable disease\n  * Evaluable disease allowed if measurable disease also present\n* No brain metastases, carcinomatous meningitis, or spinal cord compression\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* Not specified\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* ECOG 0-2\n\nLife expectancy:\n\n* At least 3 months\n\nHematopoietic:\n\n* Hemoglobin at least 10 g/dL\n* WBC at least 4,000/mm3\n* Platelet count at least 100,000/mm3\n\nHepatic:\n\n* Bilirubin no greater than 2.0 mg/dL\n\nRenal:\n\n* Creatinine no greater than 1.5 mg/dL\n* No bladder outlet obstruction\n\nCardiovascular:\n\n* No symptomatic cardiovascular disease (e.g., congestive heart disease) or inability to tolerate a fluid load\n\nOther:\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No active infection\n* No prior malignancies except adequately treated basal or squamous cell skin cancer or carcinoma in situ of the cervix\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* No greater than 1 prior biologic response modifier treatment for metastatic disease\n\nChemotherapy:\n\n* No greater than 1 prior chemotherapy regimen for metastatic disease allowed\n* Patients who relapsed during or within 6 months after adjuvant chemotherapy are considered to have failed 1 regimen\n* Patients who relapsed more than 6 months after adjuvant chemotherapy are considered to not have had a prior regimen\n* Greater than 4 weeks since prior chemotherapy (greater than 6 weeks for mitomycin or nitrosoureas) and recovered\n* No prior cisplatin, etoposide, or ifosfamide\n\nEndocrine therapy:\n\n* Prior medical or surgical hormonal therapy allowed\n\nRadiotherapy:\n\n* Prior radiation therapy to areas of measurable disease allowed if indicator lesion increased in size by greater than 25% after treatment\n* Recovered from effects of prior radiotherapy\n\nSurgery:\n\n* Recovered from effects of major surgery\n\nOther:\n\n* At least 7 days since prior nephrotoxic drugs (e.g., aminoglycosides, diuretics, lithium, intravenous contrast, or nonsteroidal antiinflammatory drugs)",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04617236",
+    "briefTitle": "Cultivando la Salud: A Breast and Cervical Cancer Screening Promotion Program for Low-Income Puerto Rican Women",
+    "officialTitle": "Cultivando la Salud: A Breast and Cervical Cancer Screening Promotion Program for Low-Income Puerto Rican Women",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Cervical Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 444,
+    "primaryOutcomeMeasure": "Number of participants aged 21 and older who completed a cervical cancer screening (Pap test)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged 21 and older for Pap cohort\n* Women aged 40 and older for Mammography cohort\n\nExclusion Criteria:\n\n* Having completed a Papanicolau test in the past 3 years if participant is between the ages of 21-65.\n* Having completed a Mammography screening in the past year if participant is aged 40 or older\n* Have a hysterectomy\n* Currently pregnant\n* History of any type of cancer",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

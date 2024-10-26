@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01031238",
+    "briefTitle": "Comparison of PEM Uptake Value (PUV) and Standardized Uptake Value (SUV) in Patients With Malignancies of the Breast",
+    "officialTitle": "Pilot Study to Compare the PEM Uptake Value (PUV) and Standardized Uptake Value (SUV) in Patients With Malignancies of the Breast",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 5,
+    "primaryOutcomeMeasure": "Correlation between PUV and SUV of breast malignancies in patients undergoing [18F]-FDG-PET/CT scanning",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. A signed informed consent.\n2. Known or suspected malignancy involving the breast as determined by biopsy, physical examination or noninvasive imaging studies including plain films, CT, MR, ultrasound or nuclear medicine imaging.\n3. Scheduled for routine clinical imaging at the ACB PET/CT facility.\n4. Participant must be at least 18 years of age.\n\nExclusion Criteria:\n\n1. Uncontrolled blood glucose levels (\\>200 mg/dl).\n2. Patient is unable to comprehend the requirements of the study.\n3. Patient is unable to undergo scanning of the known or suspected lesion with the high-resolution PEM (PET) scanner (due to body habitus, inability to comply with positioning requirements, etc.).",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

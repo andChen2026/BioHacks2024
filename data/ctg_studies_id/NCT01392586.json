@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01392586",
+    "briefTitle": "Systemic Therapy With or Without Upfront Surgery in Metastatic Breast Cancer",
+    "officialTitle": "Systemic Therapy With or Without Up Front Surgery of the Primary Tumor in Breast Cancer Patients With Distant Metastases at Initial presenTation",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Newly diagnosed primary distant metastatic breast cancer (M1)\n* Anticipated survival of at least 6 months\n* Histologically proven breast cancer\n* Hormonal and HER2Neu status should be known\n* T1-T3, resectable T4 status, N0-N3\n* Performance status of the patient should allow surgery / systemic therapy\n* Co-morbidity of the patient should allow surgery / systemic therapy\n* Age \\> 18 years\n* Written informed consent\n\nExclusion Criteria:\n\n* Primary invasive breast cancer in medical history\n* Other malignancy within the last 10 years, besides basal cell carcinoma of the skin or early stage cervical cancer\n* Surgical treatment / radiotherapy of this breast tumor before randomization\n* Irresectable T4 breast tumor\n* Synchronous bilateral breast cancer",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

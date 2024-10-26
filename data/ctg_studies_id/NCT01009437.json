@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01009437",
+    "briefTitle": "Ritonavir and Its Effects on Biomarkers in Women Undergoing Surgery for Newly Diagnosed Breast Cancer",
+    "officialTitle": "A Phase I/II Trial of Short Course Pre-Operative Ritonavir To Determine Akt Inhibition in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "Inhibition of breast cancer by targeting Hsp90-Akt pathway",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Newly diagnosed biopsy proven breast cancer for which a lumpectomy or mastectomy is planned.\n\n  * Control Selection\n* ER+, HER2-: estrogen receptor positive (ER+) and human epidermal growth factor receptor 2 negative (HER2 -) as defined according to institutional standards.\n\n  * Phase I Selection\n* ER+, HER2-\n* ER+, HER2+\n* ER-, HER2+\n* ER-, PR+, HER2-\n* ER-, PR-, HER2-\n\n  * Phase II Selection\n* ER+HER2-: as defined for controls Menstrual status will be noted as either pre- or postmenopausal. For the purpose of this study, postmenopausal is defined as no menstrual period for 12 months or longer or bilateral oophorectomy\n* Sufficient tumor tissue from the diagnostic core biopsy, either as a block or a minimum of 5 slides\n* Tumor must be greater than 1 centimeter as measured by clinical exam, mammogram, ultrasound or MRI. - No prior treatment for breast cancer in the affected breast.\n* Karnofsky performance status \\>70%\n* No prior treatment for breast cancer in the affected breast\n* Adequate organ function for receiving study drug within 14 days 1st dose of study drug\n* Women of childbearing potential are required to use an effective method of contraception\n* Voluntary written consent\n\nExclusion criteria:\n\n* Pregnant or lactating.\n* Known positive HIV status or on medications for HIV\n* Diagnosis of diabetes due to potential problems with insulin resistance and hyperglycemia\n* Any pre-existing gastrointestinal complaints including nausea, abdominal pain and/or diarrhea\n* Known hypersensitivity to ritonavir or any of the tablet ingredients\n* Co-administration of ritonavir is contraindicated with any of the drugs - Contraindicated Drugs because competition for primarily CYP3A by ritonavir could result in inhibition of the metabolism of these drugs and create the potential for serious and/or life-threatening reactions such as cardiac arrhythmias, prolonged or increased sedation, and respiratory depression. Voriconazole is an exception in that co-administration of ritonavir and voriconazole results in a significant decrease in plasma concentrations of voriconazole. If the patient cannot discontinue a contraindicated drug, she is not eligible for the trial.\n* Incompatible Drugs",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

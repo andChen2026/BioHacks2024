@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02760030",
+    "briefTitle": "Endocrine Therapy Fulvestrant & Palbociclib or Aromatase Inhibitor Therapy in Treating Older Patients With Hormone Responsive Breast Cancer That Cannot Be Removed by Surgery",
+    "officialTitle": "Phase II Trial of Primary Endocrine Therapy With Combination of Fulvestrant or an Aromatase Inhibitor and Palbociclib in Elderly Patients With Hormone Responsive Breast Cancer Who Have Inoperable Tumor Or Operable Tumor But Cannot Undergo Surgery Due to Frailty Or Who Refuse Surgery",
+    "overallStatus": "RECRUITING",
+    "conditions": "Estrogen Receptor and/or Progesterone Receptor Positive, HER2/Neu Negative, Stage IA Breast Cancer, Stage IB Breast Cancer, Stage IIA Breast Cancer, Stage IIB Breast Cancer, Stage IIIA Breast Cancer, Stage IIIB Breast Cancer, Stage IIIC Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 37,
+    "primaryOutcomeMeasure": "Treatment failure-free survival (TFFS) defined as the proportion of study subjects who remain on treatment from the 1st day of therapy to one year",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Newly diagnosed invasive, estrogen receptor (ER) and/or progesterone receptor (PR)-positive, HER2 negative breast cancer; ER-and/or PR-positive breast cancer is defined by \\> 10% staining by immunohistochemistry\n* Patients must be vulnerable or frail by Balducci Criteria or the patient is refusing breast surgery; vulnerable patients are defined as those with dependence in some instrumental activities of daily living, well controlled co-morbidities, and early symptoms of geriatric syndrome; frail patients are defined as those with three or more co-morbidities, dependence in one or more activities of daily living, or a clinically significant geriatric syndrome; geriatric syndromes include: dementia, delirium, incontinence (fecal and/or urinary), osteoporosis or spontaneous fractures, polypharmacy, visual/hearing impairment, sarcopenia and neglect or abuse\n* The patient's refusal to proceed with curative breast surgery has to be documented by the surgeon's and medical oncologist's note\n* Absolute neutrophil count (ANC) \\> 1000/uL\n* Platelets \\> 75,000/L\n* Serum creatinine 1.5 X institutional upper limit of normal (ULN)\n* Total bilirubin \\< 1.5 X ULN\n* Aspartate aminotransferase (AST)/alanine aminotransferase (ALT) 2.5 ULN\n* Ability to understand and the willingness to sign a written informed consent document\n\nExclusion Criteria:\n\n* Prior aromatase inhibitor therapy\n* Evidence of distant metastases\n* Psychiatric illness, which would prevent the patient from giving informed consent\n* Patients receiving strong inducers or inhibitors of cytochrome P450 3A4 (CYP3A4)",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

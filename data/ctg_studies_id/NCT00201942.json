@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00201942",
+    "briefTitle": "PET Imaging to Determine the Role of PET in the Assessment of Regional Disease in Breast Cancer (PET PREDICT Trial)",
+    "officialTitle": "A Prospective Study to Determine the Role of 2-[18F]Fluoro-2-Deoxy-D-Glucose (FDG)Positron Emission Tomography (PET)in the Assessment of Regional Nodal Spread of Disease in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 336,
+    "primaryOutcomeMeasure": "The primary outcomes are the sensitivity and specificity of FDG-PET in axillary node assessments using axillary node assessment [Sentinel Node Biopsy(SNB) with or without Axillary Node Dissection (AND)] as the reference standard.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologic diagnosis of invasive breast cancer,\n* Resectable primary cancer.\n\nExclusion Criteria:\n\n* The diagnosis of invasive breast cancer was made more than 3 months prior to registration,\n* Patient and/or surgeon are not willing to proceed with a SNB or AND after the PET scan is completed,\n* Patient and/or surgeon are not willing to proceed with a level I and II AND if the SNB is positive, if the PET scan shows increased uptake in the ipsilateral axilla, or if the surgeon is still gaining experience in the performance of SNB,\n* SNB or AND has already been done,\n* Chemotherapy has been given or will be given prior to PET scan or SNB or AND,\n* Significant serious concurrent medical problems (e.g., uncontrolled diabetes),\n* Patient is pregnant or lactating,\n* Patient is unable to lie supine and with both arms above their heads for PET scan,\n* Known hypersensitivity to FDG,\n* Clinical evidence of regional nodal metastases (fixed, matted axillary nodes),\n* Clinical evidence of distant metastases.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

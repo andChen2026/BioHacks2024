@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00770809",
+    "briefTitle": "Paclitaxel and Trastuzumab With or Without Lapatinib in Treating Patients With Stage II or Stage III Breast Cancer That Can Be Removed by Surgery",
+    "officialTitle": "Randomized Phase III Trial of Paclitaxel +Trastuzumab + Lapatinib Versus Paclitaxel + Trastuzumab as Neoadjuvant Treatment of HER2-Positive Primary Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Male Breast Carcinoma, Stage IIA Breast Cancer AJCC v6 and v7, Stage IIB Breast Cancer AJCC v6 and v7, Stage IIIA Breast Cancer AJCC v7, Stage IIIB Breast Cancer AJCC v7, Stage IIIC Breast Cancer AJCC v7",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 305,
+    "primaryOutcomeMeasure": "pCR Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Pathologic confirmation of invasive breast cancer; patients with inflammatory breast cancer are not eligible\n* Clinical stage II-III operable invasive breast cancer with intent to perform surgical resection after neoadjuvant therapy\n\n  * Patients with multicentric or bilateral disease are eligible as long as the target lesion meets the eligibility criteria for this study\n  * Staging to rule out metastatic disease is recommended for clinical stage III patients\n* Tumors must be HER2 positive defined as HER2 3+ by immunohistochemical (IHC) assays or gene amplification by fluorescence in situ hybridization (FISH) with a ratio of \\>= 2 on invasive tumor\n* Estrogen receptor (ER) and progesterone receptor (PgR) status must be known\n* The target lesion in the breast must be \\>= 1 cm on physical examination or by radiographic measurement; palpable axillary adenopathy will be documented but not serve as measurable disease for the primary endpoint; patients with axillary disease only are not eligible to participate\n* Patient agrees to provide pretreatment biopsies\n* No prior chemotherapy, hormone therapy, biologic, or radiation therapy with therapeutic intent for this cancer\n* Cardiac ejection fraction must be \\>= 50% by echocardiogram or multiple gated acquisition (MUGA) scan\n* Eastern Cooperative Oncology Group (ECOG) (Zubrod) performance status 0-1\n* Patients must not be pregnant or nursing\n* Absolute neutrophil count (ANC) \\>= 1,000/ul\n* Platelet count \\>= 100,000/ul\n* Bilirubin =\\< 1.5 times upper limit of normal\n* Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) =\\< 2.5 times upper limit of normal (ULN)\n* Serum beta-human chorionic gonadotropin (HCG) negative (in female patients unless status-post (s/p) hysterectomy or menopausal or no menses for 24 consecutive months); assay must have a sensitivity of at least 50 mIU/mL",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

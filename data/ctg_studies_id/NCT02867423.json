@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02867423",
+    "briefTitle": "Hypofractionated Radiation by CyberKnife as a Mean of the Tumor Site's Radiation After Conventional Breast Radiation.",
+    "officialTitle": "PHASE II STUDY : Hypofractionated Radiation by CyberKnife as a Mean of Radiation of the Tumor Site After Conventional Breast Radiation.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 29,
+    "primaryOutcomeMeasure": "EORTC score for erythema, telangiectasia, edema, pain",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. unifocal breast cancer histologically proven\n2. Age\\> 18 years old, in good general condition (ECOG 0-2)\n3. No cons-indication for radiotherapy\n4. Patient who underwent lumpectomy and axillary dissection or sentinel node technique.\n5. carcinoma histology ductal or lobular carcinoma\n6. surgical margins microscopically without residual disease (\\> 1 mm)\n7. tumors classes T1 or T2, N0\n\nExclusion criteria\n\n1. residual calcifications on X-ray examination\n2. Inflammatory breast cancer, ductal (and / or in situ) and invasive lobular\n3. multifocal breast Cancer\n4. prior Breast radiotherapy\n5. Patient who received chemotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

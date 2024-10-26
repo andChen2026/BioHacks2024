@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02389686",
+    "briefTitle": "Intra-operative Radiotherapy For Breast Cancer Women After NSM",
+    "officialTitle": "Intra-operative Radiotherapy For Women With Ductal Carcinoma in Situ Breast Cancer After Nipple-sparing Mastectomy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 110,
+    "primaryOutcomeMeasure": "Ipsilateral breast tumor recurrence rate after surgery within five years",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Tumor diameter \u22643 cm\n* Tumor from the papilla\\>2cm\n* Low grade ductal carcinoma in situ\n* Candidate for breast-conserving surgery\n* Must have undergone lumpectomy with negative margins or minimal margin involvement\n* Currently undergoing re-excision of the biopsy cavity and/or sentinel lymph node biopsy or axillary lymph node dissection\n* No evidence of metastatic disease\n* Informed consent\n\nExclusion Criteria:\n\n* No informed consent\n* Tumor size \\> 3 cm\n* Tumor from the papilla\u22642cm\n* Intermediate or high grade ductal carcinoma in situ\n* Invasive carcinoma\n* No indication for a boost",
+    "sex": "FEMALE",
+    "minimumAge": "17 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

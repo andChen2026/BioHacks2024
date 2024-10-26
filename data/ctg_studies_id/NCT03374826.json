@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03374826",
+    "briefTitle": "PET-MRI for Axillary Staging in Node Negative Breast Cancer Patients",
+    "officialTitle": "Non-invasive Axillary Lymph Node Staging in Breast Cancer With PET-MRI",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Breast Neoplasms, Breast Diseases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 125,
+    "primaryOutcomeMeasure": "Accuracy of dedicated hybrid PET/MRI",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patient with histologically confirmed breast cancer and clinically confirmed negative lymph nodes in the axilla, scheduled to undergo SLNB\n2. Patients who are willing and able to undergo the study procedures\n3. The patient has provided personally written informed consent\n\nExclusion Criteria:\n\n1. Patients treated with neoadjuvant systemic therapy prior to axillary nodal staging\n2. Patients with clinically positive axillary lymph nodes\n3. Age \\< 18 years\n4. Inability to provide informed consent\n5. Pregnancy\n6. Weight \\>100 kg (because of the format of the PET/MRI scanner)\n7. General contraindications for MRI (such as pacemaker, aneurysm clips, metallic device in their body, severe claustrophobia) or PET (i.e. known allergy to 18F-FDG)\n8. Hyperglycaemia (\\> 11 mmol/L) at the time of 18F-FDG injection",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

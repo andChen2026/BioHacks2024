@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00605397",
+    "briefTitle": "PET Imaging With Cu-64 Labeled Trastuzumab in HER2+ Metastatic Breast Cancer",
+    "officialTitle": "Pilot Trial of PET Imaging With Cu-64 Labeled Trastuzumab in HER2+ Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 11,
+    "primaryOutcomeMeasure": "test safety & feas of (PET) imaging w radiolabeled 64Cu-trastuzumab to determine dosimetry & biodistribution of trastuzumab, using a radiotracer dilution technique w copper-64 labeled trastuzumab",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Registered patient at MSKCC\n* Age \u226518 years\n* Patients with HER2+ metastatic breast cancer (either 3+ by immunohistochemistry or with evidence of gene amplification (\\>2.0) by fluorescence in situ hybridization (FISH))\n* Measurable or evaluable disease\n* Currently taking or about to commence treatment with trastuzumab at a dosing schedule of 2 mg/kg weekly or 6 mg/kg every three weeks, as per standard of care\n* Karnofsky Performance Score \u2265 60\n* Signed informed consent\n\nExclusion Criteria:\n\n* Previous Grade 3 or higher allergic reaction to trastuzumab that resulted in discontinuation of trastuzumab therapy\n* Claustrophobia/pain leading to inability to lie still for the duration of the scanning procedure.\n* Pregnancy Test to be performed on female patients of childbearing potential within 24hrs before administration of radioactive material.\n* Inability to provide written informed consent.\n* Patients with liver metastases as the only site of distant disease\n* Patients with known sensitivity or contraindication to Herceptin.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

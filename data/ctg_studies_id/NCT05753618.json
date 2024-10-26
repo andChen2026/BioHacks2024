@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05753618",
+    "briefTitle": "Evaluating Omission of Granulocyte Colony-stimulating Factors in Breast Cancer Patients Receiving Paclitaxel Portion of Dose-dense Adriamycin-cyclophosphamide and Paclitaxel Chemotherapy",
+    "officialTitle": "A Randomized Pragmatic Trial Evaluating Omission of Granulocyte Colony-stimulating Factors in Breast Cancer Patients Receiving Paclitaxel Portion of Dose-dense Adriamycin-cyclophosphamide and Paclitaxel Chemotherapy (REaCT-OGF)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Early-stage Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 240,
+    "primaryOutcomeMeasure": "Patient-reported bone pain during cycle 1 of paclitaxel",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with early-stage or locally-advanced breast cancer receiving neoadjuvant or adjuvant DD-AC/T chemotherapy requiring primary febrile neutropenia prophylaxis with G-CSF\n* Able to provide verbal consent\n* Able to complete questionnaires in English or French\n\nExclusion Criteria:\n\n* No access to pegfilgrastim or filgrastim prior to randomization\n* Metastatic cancer\n* Known hypersensitivity to filgrastim or pegfilgrastim or one of its components\n* Patients received prior cytotoxic chemotherapy within the last 5 years\n* Patients with uncontrolled inter-current illness that would limit compliance with study requirements or other significant diseases or disorders that, in the investigator's opinion, would exclude the subject from participating in the study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00981864",
+    "briefTitle": "Concurrent Boost Radiotherapy",
+    "officialTitle": "A Feasibility Study to Evaluate Intensity Modulated Radiation Therapy (IMRT) for Concomitant Boost Breast Radiotherapy (CBRT)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 17,
+    "primaryOutcomeMeasure": "To evaluate the feasibility of delivering 42.5 Gy to the breast with a concomitant 10 Gy boost to the tumour bed in 16 fractions without major treatment deviation.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patient with a new histological diagnosis of invasive carcinoma OR ductal carcinoma-in-situ (DCIS) of the breast and no evidence of metastatic disease.\n2. Any of the following indications for boost radiotherapy to tumour bed:\n\n   1. Age \u2264 60 years\n   2. Positive or close resection margins (\u2264 2 mm)\n   3. Lymphovascular space invasion\n   4. Extensive intraductal component (DCIS \\>25% of tumour volume)\n3. Three or fewer axillary nodes involved as determined either by:\n\n   1. Sentinel node biopsy OR\n   2. Axillary node dissection OR\n   3. Clinical exam for patients with DCIS only or age greater than 70 years of age.\n4. Informed consent.\n\nExclusion Criteria:\n\n1. Age \\< 18 years.\n2. Seroma or surgical cavity on CT estimated to be \\> 30% of the breast volume.\n3. More than one primary tumour in different quadrants of the same breast.\n4. Previous irradiation to the ipsilateral breast that would preclude whole breast irradiation.\n5. Presence of an ipsilateral breast implant or pacemaker.\n6. Serious non-malignant disease (e.g. cardiovascular, pulmonary, systemic lupus erythematosus (SLE), scleroderma) which would preclude definitive radiation treatment.\n7. For patients not treated with adjuvant chemotherapy: unable to commence radiation therapy within 12 weeks of the last surgical procedure on the breast.\n8. For patients treated with adjuvant chemotherapy: unable to commence within 8 weeks of the last dose of chemotherapy.\n9. Previous or concomitant malignancies except for patients with nonmelanoma skin cancer, contralateral non-invasive breast cancer or carcinoma in situ of any other site. In addition, patients with invasive cancers treated more than 5 years previously and without evidence of recurrence will be eligible.\n10. Currently pregnant or lactating.\n11. Psychiatric or addictive disorders which would preclude obtaining informed consent or adherence to protocol.\n12. Geographic inaccessibility for follow-up.\n13. Regional lymphatic irradiation planned.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

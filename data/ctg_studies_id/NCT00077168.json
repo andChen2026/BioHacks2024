@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00077168",
+    "briefTitle": "Adjuvant Radiation Therapy Compared With Observation After Surgery in Treating Women With Estrogen Receptor Positive or Progesterone Receptor Positive Ductal Carcinoma In Situ of the Breast Who Are Receiving Tamoxifen or Anastrozole",
+    "officialTitle": "Randomised Trial Testing Observation (No Radiotherapy) Against Radiotherapy In Women With Low-Risk Completely Excised ER Positive Ductal Carcinoma In Situ (DCIS) Of The Breast On Adjuvant Endocrine Therapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2000,
+    "primaryOutcomeMeasure": "Local tumor control (invasive and in situ local recurrence)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of unifocal ductal carcinoma in situ of the breast without an invasive component\n\n  * Microinvasion (defined as 1 or more foci of invasion each \\< 1 mm) allowed\n* Prior complete microscopic excision (within the past 6 months) with a minimum radial margin of 1 mm by specimen x-ray required\n* Maximum microscopic tumor diameter \\< 30 mm (\\< 15 mm if grade 3 tumor)\n* Planning to receive adjuvant tamoxifen or anastrozole for 5 years\n\n  * Eligible patients may receive adjuvant endocrine therapy on ICR-IBIS-II\n* Hormone receptor status:\n\n  * Estrogen receptor positive OR\n  * Progesterone receptor positive\n  * More than 10% tumor staining for receptor OR a cutpoint of \u2265 2\n\nPATIENT CHARACTERISTICS:\n\nSex\n\n* Female\n\nMenopausal status\n\n* Premenopausal, perimenopausal, or postmenopausal\n\nPerformance status\n\n* Not specified\n\nLife expectancy\n\n* Not specified\n\nHematopoietic\n\n* Not specified\n\nHepatic\n\n* Not specified\n\nRenal\n\n* Not specified\n\nCardiovascular\n\n* No prior deep vein thrombosis\n\nPulmonary\n\n* No prior pulmonary embolus\n\nOther\n\n* No unexplained postmenopausal bleeding\n* No contraindication to full-dose radiotherapy to the breast\n* No other cancer within the past 5 years except nonmelanoma skin cancer or carcinoma in situ of the cervix\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy\n\n* Not specified\n\nChemotherapy\n\n* Not specified\n\nEndocrine therapy\n\n* See Disease Characteristics\n* No prior tamoxifen or raloxifene use for more than 3 months in duration\n\nRadiotherapy\n\n* Not specified\n\nSurgery\n\n* See Disease Characteristics\n* No prior mastectomy\n\nOther\n\n* No concurrent anticoagulants",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

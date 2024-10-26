@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03432429",
+    "briefTitle": "Real Time Tissue Characterisation Using Mass Spectrometry REI-EXCISE iKnife Study",
+    "officialTitle": "Rapid Evaporative Ionisation Mass Spectrometry for Examination of Circumferential Surgical Excision Margins",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Surgery",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 158,
+    "primaryOutcomeMeasure": "Diagnostic accuracy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* BCS for ductal carcinoma in situ (B5a)\n* BCS for invasive ductal carcinoma (B5b)\n* BCS for invasive lobular carcinoma (B5b)\n* B3 lesions undergoing surgical excision\n\nExclusion Criteria:\n\n* Pregnant or lactating\n* 18 years or younger\n* Diagnostic excision biopsy for classical lobular carcinoma in situ (LCIS) (current practice is that classical LCIS at a surgical resection margin would not mandate wider excision)\n\nOr if the patient is diagnosed with\n\n\u2022 Non-epithelial breast tumour (phyllodes, lymphoma)\n\nNote on patients receiving Neo-adjuvant Chemotherapy (NACT):\n\nPatients selecting to receive NACT will be eligible for participation. However, the data for patients receiving NACT will be analysed separately as a pre-planned subgroup and these patients will not contribute data to the n=35 patients with positive margins required for this feasibility trial. Data from NACT cases have not been used to generate the validated multispectral database since eccentric fibrosis made the histological analysis more complex, which limited the number of patients in whom tissue was available for research.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

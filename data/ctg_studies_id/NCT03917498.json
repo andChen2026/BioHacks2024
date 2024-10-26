@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03917498",
+    "briefTitle": "Single Pre-Operative Radiation Therapy - With Delayed Surgery for Low Risk Breast Cancer",
+    "officialTitle": "Single Pre-Operative Radiation Therapy - With Delayed Surgery (SPORT-DS) for Low Risk Breast Cancer: A Phase 1 Study",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "rate of pathological complete response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female aged 65 years or older\n2. World Health Organization (WHO) performance status 0-2\n3. Invasive ductal carcinoma proven by biopsy done \u2264 12 weeks from treatment start\n4. Unifocal disease on preoperative staging ultrasound done \u2264 12 weeks from treatment start\n5. Tumors less than 2cm clinically on physical exam, as well as on breast ultrasound\n6. No clinical evidence of nodal disease (i.e. cN0), on physical examination done \u2264 12 weeks from treatment start, as well as on breast ultrasound\n7. Estrogen receptor status (ER) positive on biopsy\n8. Her2 negative on biopsy\n9. Grade 1 or 2 on biopsy\n10. Planned surgery is a partial mastectomy with sentinel lymph node biopsy\n11. Localisation markers placed before treatment\n\nExclusion Criteria:\n\n1. Age less than 65 years\n2. A known deleterious mutation in BRCA 1 and/or BRCA 2\n3. Clinical tumor size \\> 2.0 cm in greatest diameter on staging ultrasound\n4. Tumor histology limited to lobular carcinoma only\n5. Clinically positive axillary nodes (cN+)\n6. Lymphovascular invasion on biopsy\n7. Pure ductal or lobular carcinoma in situ on biopsy\n8. Extensive intraductal component on biopsy\n9. Neoadjuvant hormonal manipulation or chemotherapy\n10. Prior history of cancer (Patients with prior or concurrent basal cell or squamous cell skin cancers are eligible for the trial)\n11. More than one primary tumor in different quadrants of the same breast\n12. Diffuse microcalcifications on mammography\n13. Paget's disease of the nipple\n14. Previous irradiation to the ipsilateral breast\n15. Presence of an ipsilateral breast implant or pacemaker\n16. Serious non-malignant disease (e.g. cardiovascular, pulmonary, systemic lupus erythematosus (SLE), scleroderma) which would preclude definitive radiation treatment\n17. Estrogen receptor status (ER) not known\n18. Currently pregnant or lactating\n19. Psychiatric or addictive disorders which would preclude obtaining informed consent or adherence to protocol\n20. Geographic inaccessibility for follow-up\n21. Lack of preoperative staging with breast and axillary ultrasound\n22. Inability to adequately plan the patient for the experimental technique",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

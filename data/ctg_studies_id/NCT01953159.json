@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01953159",
+    "briefTitle": "Assessment of Paclitaxel-Induced Neuropathy",
+    "officialTitle": "Validation of a Polygenic Neurotoxicity Risk Score in Patients With Unusually Severe Paclitaxel-Induced Neuropathy",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Cancer, Breast Cancer, Ovarian Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 43,
+    "primaryOutcomeMeasure": "Validation of polygenic risk score",
+    "eligibilityCriteria": "Inclusion Criteria (Severe Toxicity Group):\n\n* Diagnosis of cancer (including, but not limited to, breast and ovarian cancer)\n* Females aged 18 and older\n* History of grade 3 or higher peripheral neurotoxicity, any neuromotor, neurocortical, or neurocerebellar toxicity, myalgias or arthralgias refractory to non-steroidal anti-inflammatory drugs and steroids, ong-term persistence (\\> 6 months) of grade 2 or higher peripheral neuropathy, or other unusually severe neurotoxicity approved for inclusion in study by Principal Investigator after completion of paclitaxel chemotherapy regimen or history of peripheral neuropathy that required treatment with narcotics or grade 2 or higher peripheral neuropathy after only 1 to 2 doses of paclitaxel.\n\nInclusion Criteria (Control Group):\n\n* History of no neurotoxicity (grade 0) after completion of a standard paclitaxel-containing chemotherapy regimen\n* Females age 18 and older\n* Matched to a specified subject with neurotoxicity based on age (within 10 years), tumor type, chemotherapy regimen or total paclitaxel dosage, race, and ethnicity\n\nExclusion Criteria :\n\n* Treatment with other severely neurotoxic chemotherapy (i.e. cisplatin) prior to or concomitantly with paclitaxel. Carboplatin therapy is allowed.\n* Presence of peripheral neuropathy prior to paclitaxel therapy\n* Poorly controlled or insulin-dependent diabetes or other condition likely to predispose to neurotoxicity (alcoholism, Charcot-Marie-Tooth disease)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

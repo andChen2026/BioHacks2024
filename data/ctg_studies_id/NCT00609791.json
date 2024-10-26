@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00609791",
+    "briefTitle": "Paclitaxel Albumin-Stabilized Nanoparticle Formulation in Treating Patients of Different Ages With Metastatic Breast Cancer",
+    "officialTitle": "Age-Related Changes in Nanoparticle Albumin Bound (Nab) Paclitaxel Pharmacokinetics and Pharmacodynamics",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Mean Area Under the Curve Over 24 Hours (AUC24)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\nInclusion criteria:\n\n* Diagnosis of metastatic breast cancer\n* Any estrogen receptor, progesterone receptor, or HER-2/neu status allowed as long as the patient will receive paclitaxel albumin-stabilized nanoparticle formulation alone\n* First- or second-line chemotherapy treatment for metastatic disease planned\n\nExclusion criteria:\n\n* Untreated CNS metastases or symptomatic CNS metastases requiring escalating doses of corticosteroids\n\nPATIENT CHARACTERISTICS:\n\n* Karnofsky performance status 70-100%\n* WBC \u2265 3,000/mm\u00b3\n* ANC \u2265 1,500/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Hemoglobin \u2265 9.0 g/dL\n* AST and ALT \u2264 2.5 times upper limit of normal (ULN)\n* Alkaline phosphatase \u2264 2.5 times ULN (unless bone metastases are present in the absence of liver metastases)\n* Bilirubin \u2264 1.5 mg/dL\n* Peripheral neuropathy \u2264 grade 1\n* Creatinine clearance \u2265 30 mL/min (calculated or 24-hour)\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* Not pregnant or nursing\n* No known history of allergic reactions to paclitaxel\n* No serious or uncontrolled infection\n* Ability to understand and the willingness to sign a written informed consent document\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No \u2265 grade 2 toxicity from prior therapy (other than alopecia)\n* No taxane for adjuvant therapy or metastatic disease within the past 12 months\n* No other concurrent investigational agents\n* No other concurrent anticancer therapy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

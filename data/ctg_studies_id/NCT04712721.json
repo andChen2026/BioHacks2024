@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04712721",
+    "briefTitle": "Study of [68Ga]-FF58 in Patients With Selected Solid Tumors Expected to Overexpress \u03b1v\u03b23 and \u03b1v\u03b25 Integrins.",
+    "officialTitle": "Phase I, Open-label, Multicenter Study to Evaluate the Imaging Performance, Safety, Biodistribution and Dosimetry of [68Ga]-FF58 in Adult Patients With Selected Solid Tumors Expected to Overexpress \u03b1v\u03b23 and \u03b1v\u03b25 Integrins.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Glioblastoma Multiforme, Brain Neoplasms, Gastroesophageal Adenocarcinoma, Pancreatic Ductal Adenocarcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 14,
+    "primaryOutcomeMeasure": "Time-activity curves (TACs) from 68Ga-FF58 PET/CT images",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent must be obtained prior to participation in the study\n* Patients with histologically or cytologically confirmed and documented r/r GBM that has progressed after prior radiation therapy and have not received prior bevacizumab OR patients with BC that has metastasized to the brain and who should have at least one newly diagnosed brain metastasis that has not been resected or irradiated, or has been irradiated and progressed OR patients with histologically or cytologically confirmed and documented locally advanced or metastatic GEA (i.e., adenocarcinoma of the stomach (intestinal subtype), esophagus, or gastroesophageal junction), either untreated or r/r after one or more lines of treatment OR patients with histologically or cytologically confirmed and documented locally advanced or metastatic PDAC, either untreated or r/r after one or more lines of treatment.\n\nExclusion Criteria:\n\n* Creatinine clearance (calculated using Cockcroft-Gault formula) \\<40 mL/min.\n* Unmanageable bladder outflow obstruction or urinary incontinence.\n* QTcF \\> 480 msec on screening ECG or congenital long QT syndrome.\n* Any condition that requires chronic treatment with anticoagulants or antiplatelet agents\n* Patients with a known bleeding disorder\n* Administration of a radiopharmaceutical within a period corresponding to 10 half-lives of the radionuclide used prior to injection of \\[68Ga\\]-FF58.\n* Pregnant women. Women who are breastfeeding must express and discard breast milk for 12 hours after \\[68Ga\\]-FF58 administration and must also stop breast feeding during this same period. Males and females must abstain from sexual intercourse for 12 hours after \\[68Ga\\]-FF58 administration.\n* Total bilirubin \\> 1.5 x ULN (except for patients with Gilbert's syndrome who are excluded if total bilirubin \\> 3.0 x ULN) or direct bilirubin \\> 1.5 x ULN\n* Alanine aminotransferase (ALT) \\> 3 x ULN, except for patients that have tumor involvement of the liver, who are excluded if ALT \\> 5 x ULN\n* Aspartate aminotransferase (AST) \\> 3 x ULN, except for patients that have tumor involvement of the liver, who are excluded if AST \\> 5 x ULN",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

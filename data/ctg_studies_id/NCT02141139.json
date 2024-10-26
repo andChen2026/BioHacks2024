@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02141139",
+    "briefTitle": "Perioperative Inflammation and Breast Cancer Outcome",
+    "officialTitle": "Suppression of Inflammation by Using NSAIDs During Peri-operative Period Can Affect the Prognosis of Breast Cancer.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1568,
+    "primaryOutcomeMeasure": "disease free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer patients who took the surgery\n\nExclusion Criteria:\n\n* underlying medical disease (major heart disease, lung disease, coagulopathy)\n* major psychologic disease (major depression, schizophrenia, manic disorder)\n* pregnancy\n* rheumatic disease patients",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

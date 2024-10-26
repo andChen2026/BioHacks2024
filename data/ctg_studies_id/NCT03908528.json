@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03908528",
+    "briefTitle": "Alpha-Lipoic Acid in Breast Cancer Patients",
+    "officialTitle": "Role of Alpha-Lipoic Acid Against Chemotherapy Induced Toxicities in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Chemotherapeutic Toxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 64,
+    "primaryOutcomeMeasure": "Cardiotoxcity assessment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. All patients age \u2265 18 and \\< 70 years old with confirmed stage from stage I to stage III.\n2. No evidence of metastases at initial assessment.\n3. Patients has to have a good performance status (ECOG 0-2) according to Eastern Cooperative Oncology Group (ECOG) score.\n4. Adequate baseline hematologic values (absolute neutrophilic count \u2265 1.5 \u00d7 109/L, platelet count \u2265 100 \u00d7 109/L, and hemoglobin level \u2265 10g/dL).\n5. Patients with adequate liver function (serum creatinine \\< 1.5 mg/dL) and adequate renal function (serum creatinine \\< 1.5 mg/dL, creatinine clearance (CrCl) \\> 45 ml/min).\n6. Either pre operative or post operative chemotherapy are allowed.\n\nExclusion Criteria:\n\n1. Evidence of metastases at initial assessment.\n2. Pregnancy or breast-feeding patients.\n3. Prior exposure to neurotoxic chemotherapy was not allowed (no carboplatin, vincristine, vinblastine, paclitaxel, or docetaxol ) for 6 months prior study treatment.\n4. Clinical evidence of serious cardiac illness (myocardial dysfunctional, angina pectoris requiring anti-angina medication, poorly controlled hypertension, and uncontrolled arrhythmias).\n5. Patients with a reduced cardiac output with a left ventricular ejection fraction (LVEF) ejection fraction \\< 50%.\n6. Patients who had evidence of pre-existing peripheral neuropathy resulting from another reason (diabetes).\n7. Patients with a history of allergy to alpha-lipoic acid.\n8. Concomitant use of multivitamins (vitamin E), opioids, anticonvulsants, tricyclic antidepressants, other neuropathic pain medication modifying agents (e.g., gabapentin, lamotrigine, carbamazepine, phenytoin, or tricyclic antidepressants) are not allowed",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

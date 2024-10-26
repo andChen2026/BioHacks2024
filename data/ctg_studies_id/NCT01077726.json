@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01077726",
+    "briefTitle": "A Study of Xeloda (Capecitabine) in Breast Cancer Patients With Central Nervous System (CNS) Progression",
+    "officialTitle": "A Single Arm, Open-label Trial Assessing the Effect of Capecitabine (Xeloda\u00ae ) on Progression-free Survival Rate at Four Months in Breast Cancer Patients With CNS Progression After Whole Brain Radiotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 3,
+    "primaryOutcomeMeasure": "Progression-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female patients, \\>=18 years of age;\n* breast cancer;\n* CNS progression after radio-surgery + whole brain radiotherapy, or whole brain radiotherapy alone;\n* at least one measurable lesion;\n* ECOG performance status 0-2.\n\nExclusion Criteria:\n\n* prior systemic treatment of brain metastases;\n* prior disease progression while on Xeloda treatment;\n* previous history of cancer (other than curatively treated basal and squamous cell cancer of the skin or in situ cancer of the cervix) in previous 5 years;\n* clinically significant cardiovascular disease.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

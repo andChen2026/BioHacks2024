@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03907800",
+    "briefTitle": "Neoadjuvant Nab-paclitaxel in Triple-negative or HER2-positive Breast Cancer",
+    "officialTitle": "Neoadjuvant Nab-paclitaxel in Triple-negative or HER2-positive Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Triple Negative Breast Cancer, HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Pathological complete response (ypT0/is ypN0) rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Written informed consent for all study according to local regulatory requirements prior to beginning specific protocol procedures.\n2. Age at diagnosis \u2265 18 years, female.\n3. Histologically confirmed diagnosis of HER2-opsitive or triple-negative breast cancer. ER/PR-negativity is defined as \u22641% stained cells\uff1b HER2-positivity is defined as IHC 3+ or in-situ hybridisation (ISH) ratio \\>2.0.\n4. cT2-4NanyM0 or cTanyN1-3M0\n5. ECOG \u2264 1, LVEF \u2265 55%.\n6. Laboratory requirements: for hematology, absolute neutrophil count (ANC) \u2265 1.5 \u00d7 109 / L and platelets \u2265 100 \u00d7 109 / L and hemoglobin \u2265 90 g/L; for hepatic function, total bilirubin \u2264 1.5 \u00d7 UNL, AST and ALT \u2264 2.5 \u00d7 UNL; for renal function, SCr \u2264 1.5 \u00d7 UNL\n7. Patients must be available and compliant for treatment and follow-up.\n\nExclusion Criteria:\n\n1. Prior chemotherapy, endocrine therapy or radiation therapy for any malignancy.\n2. Known or suspected congestive heart failure (\\> NYHA I)\n3. Currently active infection or severe symptomatic visceral disease.\n4. Definite contraindications for the use of corticosteroids or known hypersensitivity reaction to one of the compounds or incorporated substances used in this protocol\n5. rior malignancy with a disease-free survival of \\< 5 years, except curatively treated basalioma of the skin, pTis of the cervix uteri.\n6. Participation in another clinical trial with any investigational, not marketed drug within 30 days prior to study entry.\n7. Pregnant or lactating patients. Patients of childbearing potential must implement adequate non-hormonal contraceptive measures (barrier methods, intrauterine contraceptive devices, sterilization) during study treatment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

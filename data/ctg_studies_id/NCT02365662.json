@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02365662",
+    "briefTitle": "A Study Evaluating Safety and Pharmacokinetics of ABBV-221 in Subjects With Advanced Solid Tumor Types Likely to Exhibit Elevated Levels of Epidermal Growth Factor Receptor",
+    "officialTitle": "A Phase 1 Study of ABBV-221 in Subjects With Advanced Solid Tumor Types Likely to Exhibit Elevated Levels of Epidermal Growth Factor Receptor",
+    "overallStatus": "TERMINATED",
+    "conditions": "Head and Neck Squamous Cell Carcinoma, Non-small Cell Lung Cancer, Triple Negative Breast Cancer, Colorectal Carcinoma, Glioblastoma Multiforme",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "Number of participants with adverse events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 2.\n* Has a solid tumor likely to exhibit elevated levels of EGFR (e.g. head and neck squamous cell carcinoma, non-small cell lung cancer, triple negative breast cancer ,colorectal carcinoma and glioblastoma multiforme).\n* Has an archived, diagnostic tumor tissue available for analysis.\n* Has adequate hematologic, renal, cardiac and hepatic function.\n* Expanded Safety Cohort participants must have confirmed metastatic lung cancer and progressed after receiving prior platinum-containing chemotherapy.\n\nExclusion Criteria:\n\n* Previously received an EGFR-directed monoclonal antibody within the past 4 weeks.\n* Has unresolved, clinically significant toxicities from prior anti-cancer therapy defined as \\> Grade 1 on Common Terminology Criteria for Adverse Events.\n* History of major immunologic reaction to any IgG containing agent.\n* Any medical condition which in the opinion of the investigator places the participant at an unacceptably high risk for toxicities.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

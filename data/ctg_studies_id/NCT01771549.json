@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01771549",
+    "briefTitle": "Kinetics of Troponin and BNP in Breast Cancer Chemotherapy With Adriamycin and Trastuzumab",
+    "officialTitle": "Pilot Study of the Kinetics of High Sensitivity Troponin and Brain Natriuretic Peptide in Breast Cancer Chemotherapy With Adriamycin and Trastuzumab",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "Area under the curve",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female adult patients aged 18+\n* Group 1: beginning clinically- indicated chemotherapy for breast cancer with a dose-dense (every 2 weeks) regimen including adriamycin (n=10).\n* Group 2: patients who receive trastuzumab in and adjuvant, (neo) adjuvant, or metastatic setting in a regimen that does not include simultaneous adriamycin.\n\nExclusion Criteria:\n\n* Inability to return to the clinic for regular phlebotomy\n* Baseline hemoglobin \\< 10 gm/dl\n* Creatinine clearance \\< 60 ml/minute (this effects troponin clearance)\n* Recent (\\< 3 months) cardiac surgery, myocardial infarction, unstable angina, or hospitalization for congestive heart failure",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

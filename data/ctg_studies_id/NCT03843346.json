@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03843346",
+    "briefTitle": "The Impact of the Gene Recurrence Score on Chemotherapy Prescribing in ER Positive, Lymph Node Positive Early Stage Breast Cancer",
+    "officialTitle": "The Impact of the 21 Gene Recurrence Score (RS) on Chemotherapy Prescribing in Estrogen Receptor Positive, Lymph Node Positive Early Stage Breast Cancer in Ireland",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 87,
+    "primaryOutcomeMeasure": "Recommended Chemotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nGeneral Inclusion Criteria (All Patients)\n\n1. Age 18 years of age or older\n2. ER Positive Tumours (\u22651% positive cells or Allred score \u2265 2 (Appendix 1))\n3. Human Epidermal Growth Factor Receptor 2 (HER2) negative breast cancer (0-1 by IHC or FISH \\<2.0)\n4. No evidence of metastatic disease on CT, bone scan or other imaging\n5. Fit for consideration of chemotherapy as determined by the Investigator\n6. Adequate performance status (Eastern Cooperative Oncology Group (ECOG) 0 or 1 (Appendix 2))\n\nInclusion Criteria - Cohort 1 (Postoperative Patients): N= 75\n\n1. Adequate surgical excision of breast tumour (mastectomy or lumpectomy) and lymph nodes (sentinel lymph biopsy or axillary dissection)\n2. Any tumour size (T stage (Appendix 3))\n3. Involvement of 1-3 lymph nodes (N1, including micrometastases)\n\nInclusion Criteria - Cohort 2 (Preoperative Patients): N= 75\n\n1. Candidates for preoperative therapy for early breast cancer\n2. T2-T4 tumours\n3. Involvement of at least one lymph node, (including micrometastases) on biopsy\n4. Adequate tissue from core biopsy for 21 gene RS testing (approximate minimum 5mm)\n\nExclusion Criteria (All patients):\n\n1. ER negative tumour (Allred score 0-1)\n2. HER2 positive tumours as defined by IHC 3+ or FISH \u2265 2.0\n3. Node negative disease, including those with Isolated tumour cells only (node negative i+/i-)\n4. Known metastatic breast cancer\n5. Performance status \u2265 2\n6. Patients not considered by their treating physician to be fit to undergo chemotherapy.\n7. Men with breast cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

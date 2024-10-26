@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02617043",
+    "briefTitle": "Hypofractionated Whole-breast Irradiation With Simultaneously Integrated Boost For Early-Stage Breast Cancer After Breast-conserving Surgery",
+    "officialTitle": "Hypofractionated Whole-breast Irradiation With Simultaneously Integrated Boost For Early-Stage Breast Cancer After Breast-conserving Surgery",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Numbers of participants with treatment-related toxicity assessed by CTCAE v4.0",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* 18-60 years old\n* Treated with breast conversing surgery and sentinel lymph node biopsy or axillary lymph node dissection\n* Pathologically confirmed invasive breast cancer\n* A pathological T1-2N0M0 tumor\n* Tumor bed is labeled with Titanium clips\n* Negative surgical margins\n* Written informed consent.\n\nExclusion Criteria:\n\n* KPS\\<70\n* Treated with neoadjuvant chemotherapy\n* Sentinel lymph nodes only containing isolated tumour cells (\\<0.2 mm)\n* With severe comorbidity\n* Previous breast cancer or other malignant tumor history\n* Previous radiotherapy for breast or thorax\n* Medical contraindication for radiotherapy\n* Pregnant or nursing",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03587259",
+    "briefTitle": "Innovation in Mammography: Tomosynthesis Pathways",
+    "officialTitle": "Innovation in Mammography: Tomosynthesis Pathways",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 6000,
+    "primaryOutcomeMeasure": "the cumulative incidence of advanced screen-detected cancers (T2 +) and the cumulative incidence of advanced interval cancers (T2 +)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 45-46 years old women resident in the screening area\n\nExclusion Criteria:\n\n* previous breast cancer\n* written refusal to participate in the screening programme\n* pregnancy, breastfeeding\n* presence of prostheses;\n* ongoing chemotherapy;\n* impossibility to submit the informed consent for linguistic problems or for inability of women to provide informed consent;\n* verified presence of BRCA1 - BRCA2 (Breast Related Cancer Antigens 1 - Breast Related Cancer Antigens 2) genetic mutation or involvement in surveillance path for heredo-familial tumor;\n* previous known tomosynthesis.",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT"
+}

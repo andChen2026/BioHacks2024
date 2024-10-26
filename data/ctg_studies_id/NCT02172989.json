@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02172989",
+    "briefTitle": "Clinical Application of Near-infrared Fluorescence Guided Localization on Breast Surgery in Benign Breast Neoplasm.",
+    "officialTitle": "Clinical Application of Near-infrared Fluorescence Guided Localization on Breast Surgery in Benign Breast Neoplasm ; Observational Pilot Study for 20 Patients.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Benign Breast Neoplasm",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "non-palpable lesion localization rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* nonpalpable benign breast lesion \u2264 2cm in patients with breast cancer.\n* patients who need breast biopsy as treatment for breast cancer.\n* Eastern Cooperative Oncology Group Performance status 0 or 1\n* consented patients with more than 20 years, less than 70 years\n\nExclusion Criteria:\n\n* nonpalpable benign breast lesion \u2265 2cm in patients with breast cancer.\n* pregnancy\n* history of severe allergy to ICG(Indocyanine Green)\n* iode hypersensitiveness",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03429101",
+    "briefTitle": "A Study of Poziotinib in Combination With T-DM1 in HER2-Positive Breast Cancer",
+    "officialTitle": "A Phase 1b Study of Poziotinib in Combination With T-DM1 in Women With Advanced or Metastatic HER2-Positive Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 6,
+    "primaryOutcomeMeasure": "Objective Response Rate (ORR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient must be female, at least 18 years of age, but not older than 90 years, with advanced or metastatic HER2+ breast cancer and a life expectancy of more than 6 months\n* Patient must have confirmed HER2 overexpression or gene-amplified tumor via immunohistochemistry \\[IHC\\] with IHC 3+ or IHC 2+ with confirmatory fluorescence in situ hybridization \\[FISH\\]+ or \\[ISH\\]+\n* Patients must have had at least 1 line of anti-HER2 directed therapy either in the metastatic or early-stage disease setting\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n\nExclusion Criteria:\n\n* Patient has had previous treatment with poziotinib.\n* Patient has received anticancer chemotherapy, TKIs, biologics, immunotherapy, radiotherapy, or investigational treatment within 15 days. (There is no washout for hormonal therapy for breast cancer).\n* Patient has a life expectancy less than 3 years due to other malignancies.\n* Patient is pregnant or breast-feeding.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

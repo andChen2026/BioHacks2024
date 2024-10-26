@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01272817",
+    "briefTitle": "Nonmyeloablative Allogeneic Transplant",
+    "officialTitle": "Nonmyeloablative Allogeneic Hematopoietic Stem Cell Transplantation Using Antithymocyte Globulin With Either Melphalan and Cladribine or Total Lymphoid Irradiation",
+    "overallStatus": "COMPLETED",
+    "conditions": "Aplastic Anemia, Paroxysmal Nocturnal Hemoglobinuria, Acute Myelogenous Leukemia, Acute Lymphocytic Leukemia, Myelodysplastic Syndrome, Chronic Myelogenous Leukemia, Chronic Lymphocytic Leukemia, Hodgkin's Lymphoma, Non-Hodgkin's Lymphoma, Mantle Cell Lymphoma, Multiple Myeloma, Waldenstrom Macroglobulinemia, Breast Cancer, Renal Cell Carcinoma, Melanoma, Sarcoma, Ovarian Cancer, Thymoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 36,
+    "primaryOutcomeMeasure": "Engraftment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age \\> 55 years or\n2. Age \\< 55 and LVEF \\< 45% or creatinine clearance \\< 60 ml/min\n3. Ability to cover the cost of the transplant, necessary medications, and transportation/housing.\n4. Caregiver must be available while outpatient\n\nGuidelines for Cladribine-Melphalan-based conditioning:\n\n* Bone Marrow Failure States Severe Aplastic Anemia (relapsed following immunosuppressive therapy) Paroxysmal Nocturnal Hemoglobinuria (poor prognostic features or hemosiderosis)\n* AML (first CR except for t(15;17), inv16, t(8,21); second CR; relapse failing second induction attempt)\n* ALL (first CR with at least one poor prognostic feature; second or greater CR; relapse failing reinduction attempt)\n* MDS (RAEB, RAEBiT, CMMoL)\n* CML (chronic phase; accelerated phase; blast phase following reinduction attempt; 2nd chronic or accelerated phase following gleevec therapy\n* Hodgkin's lymphoma (first or greater relapse)\n* Non-Hodgkin's Lymphoma\n* Aggressive Histology (includes T Cell NHL) Incomplete response to induction Second CR Sensitive or refractory relapse\n* Indolent Histology Second or greater relapse\n* Mantle Cell Lymphoma (any Stage - must have received induction chemotherapy)\n* Multiple Myeloma (10% residual plasmacytosis following anthracycline-based chemotherapy or residual disease following autologous transplant)\n* Waldenstrom Macroglobulinemia (must have failed either purine analogue-based chemotherapy (Fludara or 2CdA) or standard CVP therapy; hyperviscosity or cytopenias)\n\nGuidelines for total lymphoid irradiation-based conditioning\n\n* MDS (RA, RARS)\n* CLL (Rai stage III or IV - must have received at least two different treatment regimens in the past)\n* Breast Cancer (symptomatic metastatic disease, who have failed standard chemotherapy)\n* Renal Cell Cancer (metastatic disease at multiple sites)\n* Malignant Melanoma (metastatic disease at multiple sites)\n* Sarcoma (all subtypes presently, unresectable metastatic disease)\n* Ovarian Cancer (stage III or IV, platinum insensitive disease, i.e. progression within 6 months of initial platinum chemotherapy)\n* Thymoma (unresectable disease)\n\nExclusion Criteria:\n\n1. Prior allogeneic stem cell or bone marrow transplant\n2. Current or past history of invasive mycotic infection\n3. Breast Feeding",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

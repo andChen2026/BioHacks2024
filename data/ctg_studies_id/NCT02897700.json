@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02897700",
+    "briefTitle": "A Randomized Trial of Chemotherapy in Surgical Patients With Infiltrating Ductal Carcinoma of Breast",
+    "officialTitle": "A Phase I Multi-Center Study to Evaluate the Safety, Tolerability, and Efficacy of Chemotherapeutic Regiments in Surgical Patients With Infiltrating Ductal Carcinoma of Breast",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Incidence of treatment-emergent adverse events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients \u2265 18 years of age with histologically proven infiltrating ductal carcinoma of breast\n* no severe major organ dysfunction\n* Patients must have adequate hematopoietic function as evidenced by:\n\nwhite blood cells (WBC) \u2265 3,000/\u03bcl absolute neutrophil count (ANC) \u2265 1,500/\u03bcl Platelet count \u2265 100,000/\u03bcl hemoglobin (HGB) \u2265 10 g/dl and not transfusion dependent\n\n* Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) \u2264 10% above upper limit of normal\n* Individuals of child-bearing potential must have a negative serum or urine pregnancy test within 72 hours of Cycle 1 Day 1.\n* World Health Organization (WHO) performance status of 0 or 1\n* No prior or concurrent cancer-associated chemotherapy, no initiation of new hormonal therapy\n* Hormone receptor (estrogen receptor (ER), progesterone receptor (PR), epidermal growth factor receptor 2 (Her2)) status not specified\n* Menopausal status not specified\n* Patients or their legal representatives must be willing and able to provide written informed consent\n* A Clinical Stage \u2265 I subtype A (IA) (T1a, N0, M0) of Beast Cancer but without diagnosed distant metastasis (according to the 1997 revision of the International Union Against Cancer-PrimaryTumor, Regional Nodes and Metastasis (TNM) staging system) as determined by a preoperative evaluation that included a chest computed tomography (CT) scan and/or X-ray mammography.\n\nExclusion Criteria:\n\n* Age \\< 18\n* Severe major organ dysfunction\n* WHO performance status of \\>1\n* Prior cancer chemotherapy\n* Stage IV\n* Patients with symptomatic central nervous system (CNS) metastases from breast cancer\n* Patients with a history of another invasive malignancy within the last 3 years\n* History of loss of consciousness or transient ischemic attack within 12 months before study treatment initiation.\n* Patients who have known active HIV, Hepatitis B, or Hepatitis C infections.\n* Patients with any other condition which in the opinion of the investigator would preclude participation in the study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

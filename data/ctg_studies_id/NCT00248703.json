@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00248703",
+    "briefTitle": "Secondary Adjuvant Treatment for Patients With Isolated Tumor Cells in Bone Marrow",
+    "officialTitle": "Secondary Adjuvant (Rescue) Treatment With Docetaxel (Taxotere) and Detection of Isolated Tumor Cells in Bone Marrow as a Surrogate Marker for Effect in Node Positive and High Risk Node Negative Breast Cancer After Standard Adjuvant Epirubicin-containing Treatment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1128,
+    "primaryOutcomeMeasure": "Disease free survival related to presence or absence of disseminated tumor cells",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Breast cancer with node positive disease or high risk node negative disease (pT1c/T2GII-IIIN0, pT3N0, cT3N0). Patients \\< 35 years with pT1a-bN0G2-3.\n2. Primary surgery for breast cancer completed\n3. Completed 6 cycles of adjuvant (or neoadjuvant) chemotherapy containing anthracycline\n4. Age \u2265 18 and \\< 70 years\n5. Eastern Cooperative Oncology Group or WHO performance status \\< 2\n6. Written informed consent prior to beginning protocol specific procedures\n7. Laboratory requirements (within 5 weeks prior to end of radiation treatment or within 5 weeks prior to completion of baseline examinations):\n\n   Neutrophils \u2265 1.1 10\\^9/l, Platelets \u2265 100 10\\^9/l, Hemoglobin \u2265 10 g/dl, ASAT and ALAT \u2264 x 2.5 UNL (If ALP \\> 2.5 \u2264 x 5 UNL, then ASAT and ALAT \u2264 x 1.5 UNL), ALP \u2264 x 5 UNL (If ASAT and ALAT \\> 1.5 \u2264 x 2.5 UNL, then ALP \u2264 2.5 x UNL), Creatinine \u2264 175 umol/l\n8. Completed staging analysis including chest X-ray, bone scintigraphy or MRI, liver ultrasound or liver CT scan\n\nExclusion Criteria:\n\n1. Other (than breast carcinoma) earlier or concomitant carcinoma, except for skin and in situ cervix cancer\n2. M1 breast cancer or locoregional recurrence of previously diagnosed breast cancer.\n3. Earlier treatment with paclitaxel or docetaxel.\n4. Pre-existing motor or sensory neurotoxicity of a severity \u2265 grade 2 by NCI criteria (see appendix II)\n5. Cardiac disease with symptoms classified as NYHA \u2265 2\n6. Definite contraindications for the use of corticosteroids\n7. Concurrent treatment with other experimental drugs\n8. Concurrent treatment with any other anti-cancer therapy (except for endocrine therapy and trastuzumab)\n9. Pregnancy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

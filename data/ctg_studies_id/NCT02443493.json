@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02443493",
+    "briefTitle": "Laser Therapy for the Prevention of Radiodermatitis in Breast Cancer Patients",
+    "officialTitle": "Low-level Laser Therapy as a Tool for the Prevention of Radiodermatitis in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 139,
+    "primaryOutcomeMeasure": "Radiation Dermatitis Grade",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of non-invasive (stage 0) or invasive (stage 1, 2 and 3A) breast adenocarcinoma\n* Treatment with primary breast-sparing surgery (lumpectomy) and/or neoadjuvant (preoperative) or adjuvant (postoperative) chemotherapy or hormonal therapy\n* Scheduled for postoperative radiotherapy with standard technique (isocentric) and fractionation regime (i.e. 25 daily fractions of 2 Gray to the whole breast followed by a boost of 8 fractions of 2 Gray to the tumor bed, 5/week)\n* Signed informed consent\n\nExclusion Criteria:\n\n* Previous irradiation to the same breast\n* Metastatic disease\n* Concurrent chemotherapy\n* Required use of bolus material to deliver radiotherapy (i.e. material placed on the to- be-irradiated zone to modulate the delivered dose in order the ensure an optimal distribution of the radiation dose; mostly used for treatment of superficial tumors)",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04803539",
+    "briefTitle": "A Prospective, Phase II Trial Using ctDNA to Initiate Post-operation Boost Therapy After Adjuvant Chemotherapy in TNBC",
+    "officialTitle": "A Prospective, Phase II Trial Using ctDNA to Initiate Post-operation Boost Therapy After Adjuvant Chemotherapy in TNBC (Artemis)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 260,
+    "primaryOutcomeMeasure": "Invasive Disease Free Survival(IDFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient is \u2265 18 years-old at the time of consent to participate this trial\n* Stage II - III primary triple negative breast cancer patients(TNBC), TNBC is defined as ER \\<=1%, PR \\<=1%\uff1bHER2 receptor IHC=1, or IHC=2 and FISH negative.\n* positive ctDNA after curative surgery and/or adjuvant chemotherapy\n* ECOG 0-2\n* If indicated, patient agree to receive adjuvant radiotherapy according to the institutional guidelines\n* Patient receives adjuvant chemotherapy according to the NCCN guidelines\n* Patient has available tumor tissue from the surgical specimen for next generation sequencing(NCS)\n* Patient agrees to give blood samples for ctDNA tests every 3 months in 5 years\n\nExclusion Criteria:\n\n* Patient has previously received any PD1/PDL1 blockage treatment\n* Pregnant or breast-feeding (lactating) women or women who plan to become pregnant or breast-feed during the trial\n* Patient with distant metastases of breast cancer beyond regional lymph nodes (stage IV according to AJCC 8th edition)\n* Patient participates another interventional clinical trial\n* Patient has a concurrent invasive malignancy or a prior invasive malignancy whose treatment was completed within 3 years before randomization\n* Patient with autoimmune disease preventing the use of camrelizumab\n* Patient has any other concurrent severe and/or uncontrolled medical condition that would, in the Investigator's judgment, cause unacceptable safety risks, contraindicate patient participation in the clinical trial or compromise compliance with the protocol",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

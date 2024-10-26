@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00121420",
+    "briefTitle": "Study of Motexafin Gadolinium With Whole Brain Radiation Therapy Followed by Stereotactic Radiosurgery Boost in the Treatment of Patients With Brain Metastases",
+    "officialTitle": "Phase II Trial of Motexafin Gadolinium With Whole Brain Radiation Therapy Followed by Stereotactic Radiosurgery Boost in the Treatment of Patients With Brain Metastases",
+    "overallStatus": "TERMINATED",
+    "conditions": "Neoplasm Metastasis, Brain Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "Rate of irreversible Grade 3 or any Grade 4 or 5 neurologic radiation toxicities occuring within 3 months following SRS boost",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 years\n* Karnofsky performance status (KPS) \u2265 70\n* Histologically confirmed malignancy with the presence of one to four intraparenchymal brain metastases\n* Each patient must sign a study-specific Informed Consent form\n\nExclusion Criteria:\n\n* Previous cranial radiation\n* Complete resection of all known brain metastases\n* Known leptomeningeal metastases\n* Known liver metastases\n* Clinical or radiologic evidence of progression (other than study lesion\\[s) within 1 month prior to enrollment\n* Patients with metastases within 10 mm of the optic apparatus\n* Patients with metastases in the brainstem, midbrain, pons, or medulla\n* Planned chemotherapy during WBRT and/or SRS\n* Uncontrolled hypertension\n* Women who are pregnant or lactating\n\nand Laboratory values as follows:\n\n* LDH \\> 1.3 x upper limit of normal (ULN)\n* ANC \\< 1500/mm3\n* Platelets \\< 50,000/mm3\n* Creatinine \\> 2.0 mg/dL\n* AST or ALT \\> 3 x ULN\n* Total bilirubin \\> 2 x ULN",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

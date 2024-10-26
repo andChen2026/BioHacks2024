@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00719966",
+    "briefTitle": "Effect of Aromatase Inhibitor Therapy on Blood Vessel Function in Postmenopausal Women With Breast Cancer",
+    "officialTitle": "Effect of Aromatase Inhibitor Therapy for Breast Cancer on Endothelial Function",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 109,
+    "primaryOutcomeMeasure": "Endothelial dysfunction as a result of aromatase inhibitor therapy",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of breast cancer\n* Ductal carcinoma in situ (DCIS) allowed provided the patient will not receive tamoxifen as part of treatment for their cancer\n* May not have had a prior mastectomy with requirement for mastectomy of the contralateral breast\n* No requirement for axillary lymph node dissection with a history of contralateral mastectomy and/or contralateral axillary lymph node dissection\n* Hormone receptor status meeting 1 of the following criteria:\n\n  * Hormone receptor negative and not eligible for aromatase inhibitor therapy (AI)\n  * Hormone receptor positive and are not receiving an AI\n\nPATIENT CHARACTERISTICS:\n\n* Postmenopausal\n* No known or symptomatic coronary artery disease\n* No significant co-morbidities, including any of the following conditions:\n\n  * Active renal or hepatic disease\n  * Known uncontrolled and/or untreated peripheral arterial disease\n  * Uncontrolled and/or untreated hypertension\n  * Uncontrolled and/or untreated diabetes\n  * Uncontrolled and/or untreated hyperlipidemia\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* More than 7 days since prior hormone replacement therapy or hormone-based contraception\n* More than 12 months since prior and no concurrent tamoxifen or aromatase inhibitor therapy for this disease\n* More than 12 months since prior and no concurrent chemotherapy for this disease\n* No prior bilateral mastectomy",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01222052",
+    "briefTitle": "6xFU/Epirubicin/Cyclophosphamide (FEC) Compared to 3xFEC-3xDocetaxel in High-risk Node-negative Breast Cancer Patients",
+    "officialTitle": "Randomized Multicenter Study Comparing 6xFEC With 3xFEC-3xDoc in High-risk Node-negative Patients With Operable Breast Cancer: Comparison of Efficacy and Evaluation of Clinico-pathological and Biochemical Markers as Risk Selection Criteria",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4150,
+    "primaryOutcomeMeasure": "Disease-Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological proven primary breast cancer\n* Tumour size \\>0.5 cm and \\<5 cm (pT1b-pT2, pN0, M0)\n* Axillary lymph nodes tumour free (node-negative disease)\n* Adequate surgical procedure: R0-resection and axillary dissection with more than 10 lymph nodes examined or adequate sentinel procedure in a qualified centre\n* Frozen tumour tissue available (for analysis of biological markers and microarrays, centres with biological risk assessment only). The material has to be stored in liquid nitrogen immediately after excision.\n* Paraffin blocks or (at least) pathology slides of primary tumour (stained and unstained) and axillary nodes (stained) available for central review.\n* HER-2/neu determination by immunohistochemistry. Patients will be stratified to be HER-2/neu-negative or HER-2/neu-positive (HER-2/neu Score 3+, or HER-2/neu Score 2+ and FISH positive).\n* No distant metastasis\n* Age \\>18 years, \\<70 years\n* Performance status ECOG \\<2 (WHO Performance Status 0-1)\n* Adequate cardiac function (echocardiographically measured left ventricular ejection fraction (LVEF) or shortening fraction (SF) within the normal limits, i.e. \u226555%)\n* Adequate bone function (neutrophil count \\>1.5 x109 /l and platelet count \\>100 x109 /l)\n* Adequate renal function (serum creatinine \\<120 \u00b5mol/l or 1.35 mg/dl) and hepatic function (serum bilirubin \\<1 x UNL, ASAT or ALAT (SGOT or SGPT) \\<2,5 x UNL)\n* Before patient registration/randomization, written informed consent must be obtained according to ICH/EU GCP, and national/local regulations\n\nExclusion Criteria:\n\n* Chemotherapy contraindicated\n* Inflammatory breast cancer, tumour infiltrated axillary lymph nodes including the sentinel node.\n* Other concomitant pathology compromising survival (at entry), or preventing the administration of chemotherapy with either FEC or Docetaxel\n* Other serious illness or medical condition that may interfere with the understanding and giving of informed consent and the conduct of the study\n* Estimated life-expectancy \\<10 years (irrespective of breast cancer diagnosis)\n* Patient not accessible for treatment and follow up\n* Endocrine treatment not according to the latest standard recommendations of the AGO Kommission \"Mamma\"\n* Pregnancy, lactation (sufficient non-hormonal contraception in fertile women required)\n* Surgery more than six weeks ago at the start of chemotherapy\n* Pre-existing polyneuropathy\n* Previous or concomitant other malignancy (including contralateral breast cancer) except adequately treated basal or squamous cell carcinoma of the skin or in situ carcinoma of the cervix\n* Prior chemotherapy or radiotherapy or endocrine therapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

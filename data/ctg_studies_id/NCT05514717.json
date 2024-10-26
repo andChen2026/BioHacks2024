@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05514717",
+    "briefTitle": "A Study of XMT-2056 in Advanced/Recurrent Solid Tumors That Express HER2",
+    "officialTitle": "A Phase 1, First-in-Human, Dose Escalation and Expansion, Multicenter Study of XMT-2056 in Participants With Advanced/Recurrent Solid Tumors That Express HER2",
+    "overallStatus": "RECRUITING",
+    "conditions": "HER2-positive Breast Cancer, HER2-positive Gastric Cancer, HER2-positive Non-Small Cell Lung Cancer, HER2-positive Colorectal Cancer, HER2-positive Tumors, HER2 Low Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 162,
+    "primaryOutcomeMeasure": "Frequency of dose-limiting toxicities (DLTs) associated with XMT-2056 during the first cycle of treatment (Dose Escalation)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Participant has recurrent or metastatic solid tumors with HER2 expression and has disease progression after treatment, is intolerant to treatment, or is contraindicated with available anti-cancer therapies known to confer benefit, based on investigator's judgement. Note: Participants must have HER2 positivity per the results of their most recent tumor tissue testing, defined as IHC 3+ or IHC 2+ in combination with in situ hybridization (ISH)+. Participants with ERBB2-activating mutations or ERBB2 gene amplification in the absence of HER2 positivity are considered ineligible.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1.\n* Participant must have measurable disease as defined by RECIST version 1.1.\n* Participant has fresh tumor biopsy tissue available for submission to central laboratory. If obtaining fresh tumor tissue is medically contraindicated, archival tumor tissue can be submitted following written approval of the request by the study Medical Monitor. Samples must be obtained after the participant's most recent HER2-targeting therapy unless determined to be medically contraindicated after discussion with the medical monitor.\n\nExclusion Criteria:\n\n* \u2022 Participant is receiving immunosuppressive doses of systemic medications, (doses \\>10 mg/day prednisone or equivalent) that cannot be discontinued for at least 2 weeks before the first dose and during study drug treatment administration. Note: physiologic hormone replacement therapy is an exception.\n* Participant has received prior treatment targeting STING pathway.\n* Diagnosis of additional malignancy that required active treatment (including surgery, systemic therapy, and radiation) within the last 2 years, expect for adequately treated basal cell or squamous cell skin cancer or carcinoma in situ of the breast or the cervix. Participants with an additional malignancy that has a low risk for recurrence may be eligible after discussion with the study Medical Monitor.\n* Participants have untreated CNS metastases (including new and progressive brain metastases), history of leptomeningeal metastasis, or carcinomatous meningitis.\n\n  1. Participants are eligible if CNS metastases are adequately treated and participants are neurologically stable for at least 2 weeks prior to enrollment.\n  2. In addition, participants must be either off corticosteroids, or on a stable/decreasing dose of \u2264 10 mg prednisone daily (or equivalent).",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

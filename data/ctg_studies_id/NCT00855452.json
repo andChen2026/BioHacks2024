@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00855452",
+    "briefTitle": "Activated Allogeneic Lymphocytes for Induction Graft Versus Tumor Effect in Metastatic Solid Tumors",
+    "officialTitle": "rIL-2 Activated Allogeneic Lymphocytes for the Induction of Graft Versus Tumor Effect (GVT) in Metastatic Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer, Malignant Melanoma, Renal Cell Cancer, Gastrointestinal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "CR:disappearance of disease.PR:<50% decrease in the total tumor load of the lesions SD:<50% reduction and 25% increase in the sum of the products of the longest perpendicular diameters of the measured lesions.PD:>25% increase in the size of lesion.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nConsenting patients (age 12-70) will be eligible for participation in the study involving anti-tumor immunotherapy provided the following criteria are met:\n\n1. Evidence of cancer not expected to be cured with conventional modalities:\n\n   Pediatric patients: Chemotherapy-resistant neuroblastoma stage 4 \\& sarcomas. Adult patients: Metastatic breast cancer, malignant melanoma, renal cell cancer and selected cases of ovary cancer, gastrointestinal cancer, small-cell and non-small cell lung cancer with non-bulky metastatic disease, metastatic prostate cancer.\n2. Patients with measurable disease evaluable for response with anticipated life expectancy \\>3 months.\n3. Patients must be \\>2 weeks off anti-cancer or potentially immunosuppressive treatment.\n4. Adequate ambulatory performance status (Karnofsky \\>80%; ECOG 0-1) to enable outpatient treatment (see Appendix 1).\n5. Compliant and cooperative patients anticipated to be evaluable for response according to investigator's assessment.\n6. HLA-noncompatible (partial matched or mismatched) donor available.\n\nExclusion Criteria:\n\nPatients will be excluded from participation in the study if any of the following criteria are met:\n\n1. Any of the above criteria are not met.\n2. Patients with a significant history or current evidence of potentially severe cardiovascular disease.\n3. Hepatic and/or renal failure.\n4. Abnormal PT and PTT.\n5. Patients with abnormal hemogram (PMN\\<1.0x109/L; HB\\<10; Plts\\<50x109/L)\n6. Evidence of serious active infection requiring antibiotic therapy.\n7. Evidence of active disease requiring steroid or cytotoxic therapy.\n8. Pregnancy.\n9. Contraindication for donation due to donor disease: HIV-1; HBsAg positivity.",
+    "sex": "ALL",
+    "minimumAge": "12 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

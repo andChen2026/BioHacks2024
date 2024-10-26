@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05460273",
+    "briefTitle": "A Study of Dato-DXd in Chinese Patients With Advanced Non-Small Cell Lung Cancer, Triple-negative Breast Cancer and Other Solid Tumors (TROPION-PanTumor02)",
+    "officialTitle": "Phase 1/2, Multicentre, Open-label, Multiple-cohort Study of Dato-DXd in Chinese Patients With Advanced Non-small-cell Lung Cancer, Triple-negative Breast Cancer, Gastric/Gastroesophageal Junction Cancer, Urothelial Cancer, and Other Solid Tumours (TROPION-PanTumor02)",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Carcinoma, Non-Small-Cell Lung, Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 119,
+    "primaryOutcomeMeasure": "Confirmed Objective Response Rate(ORR) assessed by independent central review(ICR).",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Capable of giving signed informed consent.\n* Participant must be \u2265 18 years at the time of screening.\n* Eastern Cooperative Oncology Group performance status of 0 or 1.\n* At least one lesion not previously irradiated that qualifies as a RECIST 1.1 target lesion at baseline and can be accurately measured at baseline and is suitable for accurate repeated measurements.\n\nAdditional Inclusion Criteria for Cohort 1 (NSCLC):\n\n- Histologically or cytologically documented Stage IIIB or IIIC NSCLC disease not amenable for surgical resection or definitive chemoradiation or Stage IV NSCLC disease at the beginning of study intervention.\n\nFor the subset of participants without AGAs:\n\n* Documented negative test results for EGFR and ALK genomic alterations. If test results for EGFR and ALK are not available, participants are required to undergo testing performed locally for these genomic alterations.\n* Participants must meet one of the required prior therapy requirements for advanced or metastatic NSCLC.\n\nFor the subset of participants with AGAs:\n\n- Documented positive test results for one or more actionable genomic alteration: EGFR, ALK, ROS1, METex14 skipping, RET or other AGAs with approved therapies\n\n- Received one or two prior lines of applicable targeted therapy for the participant's genomic alteration at the time of screening.\n\nAdditional Inclusion Criteria for Cohort 2 (TNBC)\n\n* Pathologically documented oestrogen and progesterone receptor-negative and HER2-negative expression.\n* Inoperable locally advanced or metastatic breast cancer.\n* Received at least 2 prior chemotherapy regimens for locally advanced or metastatic breast cancer and previously treated with a taxane in any setting.\n\nKey Exclusion Criteria:\n\n* Has leptomeningeal carcinomatosis or metastasis\n* Has clinically significant corneal disease\n* Has known active hepatitis or uncontrolled hepatitis B or C infection\n* Has a history of non-infectious ILD/pneumonitis that required steroids, has current ILD/pneumonitis, or where suspected ILD/pneumonitis cannot be ruled out by imaging at screening.\n* Prior exposure to specific therapies without an adequate treatment washout period prior to enrolment.\n\nAdditional Exclusion Criteria for Cohort 1 (NSCLC):\n\n- Has mixed SCLC and NSCLC histology.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05377229",
+    "briefTitle": "MarginProbe 2.0 Data Collection Protocol",
+    "officialTitle": "MarginProbe 2.0 Data Collection Protocol",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women over 18 years of age\n2. Diagnosed with cancer, undergoing lumpectomy or partial mastectomy procedure\n3. Signed Informed Consent Form\n\nExclusion Criteria:\n\n1. Undergoing re-excision procedure\n2. Concurrent infectious disease\n3. Pregnancy\n4. Lactation\n5. Previous surgery in the same site including open biopsy procedure, previous breast reduction or mastopexy in the operated breast\n6. Prior radiation treatment in the operated breast\n7. Participating in any other investigational study for either drug or device which can influence collection of valid data under this study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

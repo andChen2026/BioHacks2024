@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04637308",
+    "briefTitle": "Succinylated Gelatin for Prevention of Fluid Retention in Patients With Breast Cancer Receiving Docetaxel Chemotherapy",
+    "officialTitle": "A Randomized, Phase II Study of Succinylated Gelatin for Prevention of Fluid Retention in Patients With Breast Cancer Receiving Docetaxel Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Fluid Retention",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 216,
+    "primaryOutcomeMeasure": "Total incidence of fluid retention",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent\n* Age \u226518 years\n* Diagnosed with breast cancer\n* ECOG 0-2\n* Received chemotherapy with docetaxel\n\nExclusion Criteria:\n\n* Existed peripheral edema, ascites and pleural or pericardial effusion\n* Serum creatinine exceeds 1.5 times of the upper normal limit\n* Total serum bilirubin exceeds 1.25 times of the upper normal limit, or ASAT exceeds 2 times of the upper normal limit",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

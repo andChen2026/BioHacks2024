@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01807754",
+    "briefTitle": "Simulated Screening Study for Breast Imaging",
+    "officialTitle": "Simulated Screening Study of Combined Digital X-Ray, Ultrasound and Photoacoustic Breast Imaging",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cysts, Breast Tumors",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 41,
+    "primaryOutcomeMeasure": "Evaluation of new breast imaging devices",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with possible masses\n* All women should have had mammograms at University of Michigan Health System within 1 year before this research study.\n\nExclusion Criteria:\n\n* Women who are physically unable to tolerate the length of the scan.\n* Women who are less than 30 years of age or older than 80 years of age\n* Women who are pregnant or lactating\n* Women whose mass is in an area of the breast which makes it difficult to see in the research scans\n* Womens with a single diagnosis of mammographic calcifications\n* Women who have had a breast cancer with lumpectomy\n* Women who are prisoners\n* Women who are students or staff of investigators\n* Women who cannot give consent\n* Women with mammograms classified as probably benign because of follow-up of a recent benign biopsy.\n* Women with breast pain who have been categorized as BIRADS(Breast Imaging Reporting and Data System) category 0(incomplete) on their most recent mammograms.\n* Males, because their breast tissue is not easily imaged and numbers of potential cases are too few.",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

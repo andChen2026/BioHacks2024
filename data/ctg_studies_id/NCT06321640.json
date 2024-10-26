@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06321640",
+    "briefTitle": "Study for the Multidimensional Analyses of Resistance and Toxicity to Immune- and Targeted-therapies.",
+    "officialTitle": "POSITive: Prospective Observational Study for the Multidimensional Analyses of Resistance and Toxicity to Immune- and Targeted-therapies",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Lung Cancer, Melanoma, Head and Neck Cancer, Urothelial Carcinoma, Colorectal Cancer, Liver Metastases, Lung Metastases",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 265,
+    "primaryOutcomeMeasure": "Percentage of patients in each cohort that will obtain a full \"core\" omic characterization.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* age\\>18 yrs old\n* histological diagnosis of any cancer\n* signed informed consent\n* fulfills criteria described in cohort definition\n* Clinical indication for a diagnostic biopsy\n\nExclusion Criteria:\n\nPerformance Status (ECOG) \\>2\n\n* life expectancy \\< 3 months\n* unwilling to receive treatment at IEO for at least 6 months after enrolment\n* active pregnancy at the moment of enrolment\n* for cohort F: use of steroids (higher than 10 mg prednisone-equivalent) or other major immunosuppressive drug (e.g. tocilizumab) in the 14 days prior to the baseline sample collection.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

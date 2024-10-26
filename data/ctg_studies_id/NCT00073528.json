@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00073528",
+    "briefTitle": "Study Comparing Lapatinib (GW572016) And Letrozole Versus Letrozole In Subjects With Advanced Or Metastatic Breast Cancer",
+    "officialTitle": "A Randomized, Double-Blind, Placebo-Controlled, Multicenter Phase III Study Comparing GW572016 and Letrozole Versus Letrozole in Subjects With Estrogen/Progesterone Receptor- Positive Advanced or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1286,
+    "primaryOutcomeMeasure": "Number of Participants With Progression Free Survival (PFS) in the Human Epidermal Growth Factor Receptor 2 (HER2)-Positive Advanced or Metastatic Breast Cancer as Assessed by the Investigator",
+    "eligibilityCriteria": "Key inclusion criteria\n\n1. Signed informed consent;\n2. Subjects with histologically confirmed invasive breast cancer with stage IV disease at primary diagnosis or at relapse after curative-intent surgery;\n\n   * Subjects with either measurable or non-measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST).\n   * If the disease was restricted to a solitary lesion, its neoplastic nature was confirmed by cytology or histology.\n3. Tumors that were ER+ and/or PgR+;\n4. Post-menopausal female subjects \u2265 18 years of age.\n5. ECOG Performance Status of 0 or 1;\n6. Subjects who had archived tumor tissue available to compare tumor response with intra-tumoral expression of ErbB1 and ErbB2.\n7. Adjuvant therapy with an aromatase inhibitor and / or trastuzumab was allowed; however, treatment was to stop more than 1 year prior (\\>12 months) to the first dose of randomized therapy.\n8. Subjects must have ended hormonal replacement therapy (HRT) at least 1 month (30 days) prior to receiving the first dose of randomized therapy.\n\nKey exclusion criteria:\n\n1. Pre-menopausal, pregnant, or lactating;\n2. Received prior chemotherapy, hormonal therapy, immunotherapy, biologic therapy, or anti-ErbB1/ErbB2 therapy for advanced or metastatic disease;\n3. Bisphosphonate therapy for bone metastases was allowed; however, treatment was to be initiated prior to the first dose of randomized therapy. Prophylactic use of bisphosphonates in subjects without bone disease, except for the treatment of osteoporosis, was not permitted;\n4. Used an investigational drug within 30 days or 5 half-lives, whichever is longer, preceding the first dose of randomized therapy (lapatinib or placebo);\n5. Subjects with known history of/clinical evidence of CNS metastases or leptomeningeal carcinomatosis; and / or subjects on concurrent anti-cancer therapies other than letrozole; and / or who have not recovered from toxicities related to prior adjuvant therapy (surgery, radiotherapy, chemotherapy etc.)\n6. Subjects with active or uncontrolled infection and/ or with history of uncontrolled or symptomatic angina, arrhythmias, or congestive heart failure.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

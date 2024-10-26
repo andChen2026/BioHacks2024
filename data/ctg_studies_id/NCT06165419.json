@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06165419",
+    "briefTitle": "Definitive Radiation for High-Risk Spine Metastases",
+    "officialTitle": "A Phase II Study Evaluating Definitive Radiosurgical Decompression in Patients With High-Risk Spinal Metastases",
+    "overallStatus": "RECRUITING",
+    "conditions": "Metastatic Cancer, Metastatic Lung Cancer, Metastatic Breast Cancer, Metastatic Tumor, Metastatic Tumor of Bone, Metastatic Tumor to the Spine, Spine Metastases, Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "Cumulative incidence of spinal surgery/stabilization within 6 months following SBRT",
+    "eligibilityCriteria": "Eligible patients must have:\n\n* Any pathologically proven solid tumor diagnosis not of central nervous system origin with radiographic or pathologic evidence of metastatic disease\n* Metastatic spine involvement documented by imaging\n* Involvement of maximum 3 contiguous vertebral bodies at the index site\n* Intact neurologic function, or only minor neurologic deficits with muscle strength greater or equal to 4 out of 5 with or without steroids\n* An evaluation by an radiation oncology and orthopedic spine/neurosurgery attending\n* ECOG Performance Status of 0-3\n\nPatients are ineligible if they have:\n\n* An unstable spine defined as a Spinal Instability Neoplastic Score (SINS) greater than 12\n* Had previous surgery or radiation to address the target spinal metastases\n* Radiosensitive tumors (e.g. small cell lung cancer, lymphoma, multiple myeloma, and germ-cell tumors)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

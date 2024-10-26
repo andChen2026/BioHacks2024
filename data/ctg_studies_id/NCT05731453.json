@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05731453",
+    "briefTitle": "Clinical Pilot Study for Personalized Risk-based Breast Cancer Screening",
+    "officialTitle": "Clinical Pilot Study for Personalized Risk-based Breast Cancer Screening",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Assessment of breast cancer risk by polygenetic risk score in the study population",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women referred for clinical mammography in the Vestre Viken Breast Centre\n* Breast density BI-RADS a or d\n* 40-50 y.o.\n\nExclusion Criteria:\n\n* Prior history of breast cancer or premalignant breast disease\n* Prior genetic counselling/testing",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT"
+}

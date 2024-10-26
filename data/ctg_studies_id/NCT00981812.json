@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00981812",
+    "briefTitle": "Positron Emission Mammography (PEM) Biopsy Accessory for the Diagnosis of Breast Cancer",
+    "officialTitle": "Clinical Utility and Initial Experience With PEM Flex Solo II PET Scanner and Stereo Navigator Biopsy Accessory for the Diagnosis of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Feasibility That Breast Biopsy Can be Performed Using PEM and Stereo Navigator Software After Diagnostic PEM on the Same Day.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female\n* subject is 25-100 years of age\n* subjects has at least one breast imaging finding on mammography and/or ultrasound which is assessed as highly suggestive of malignancy and recommended to biopsy\n* subject is able to provide informed consent\n\nExclusion Criteria:\n\n* subject is pregnant\n* subject is actively lactating or discontinued breastfeeding less than 2 months ago\n* subject has breast implants\n* subject is scheduled for sentinel node procedure using radioactive Tc-99m within 24 hours of the PEM study\n* subject has contraindications for core biopsy and other invasive procedures\n* subject has Type I diabetes mellitus or poorly controlled Type II diabetes mellitus\n* subject has had surgery or radiation therapy on the study breast or has had chemotherapy within the past 12 months\n* subject has not fasted for 4-6 hours prior to the procedure and/or have a fasting blood glucose level greater than 140 mg/dl on day of PEM imaging",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

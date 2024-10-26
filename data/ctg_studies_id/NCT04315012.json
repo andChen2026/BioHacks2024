@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04315012",
+    "briefTitle": "Training With Mobile Application in Breast Cancer",
+    "officialTitle": "The Effect of E-mobile Education on The Quality of Life in Breast Cancer Women",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 64,
+    "primaryOutcomeMeasure": "Functional Assessment for the Cancer Treatment - Endocrine Symptoms Quality of Life Scale (FACT-ES QLS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosed with primary breast cancer,\n* Non-metastatic,\n* Hormone receptor positive (ER positive and/or PR positive)\n* For whom adjuvant EHT was implemented at least for three months\n\nExclusion Criteria:\n\n* Diagnosed with secondary breast cancer,\n* Metastatic,\n* Hormone receptor negative (ER negative and/or PR negative)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

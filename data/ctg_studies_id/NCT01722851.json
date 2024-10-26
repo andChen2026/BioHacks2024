@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01722851",
+    "briefTitle": "Circulating miRNAs.",
+    "officialTitle": "Novel Breast Cancer Biomarkers and Their Use for Guiding and Monitoring Response to Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Newly Diagnosed Breast Cancer, Recurrent Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 255,
+    "primaryOutcomeMeasure": "Relationship between changes in a patients circulating miRNA expression levels over the course of their systemic therapy, and their response to that treatment.",
+    "eligibilityCriteria": "Inclusion Criteria\n\n1. Patient must meet the criteria for either:\n\n   Cohort 1: All patients with a new diagnosis of breast cancer, who are destined to undergo neoadjuvant chemotherapy.\n\n   OR Cohort 2: All breast cancer patients who present with metastatic disease, disease recurrence or progression who will receive up-front chemotherapy \u00b1 hormonal therapy.\n\n   OR Cohort 3: All breast cancer patient who present with metastatic disease who are commencing hormonal therapy only.\n2. Patients must be aged 18 years or over.\n3. Patients must be able to give written informed consent.\n\nExclusion Criteria\n\nAll patients, who do not fulfil the inclusion criteria mentioned above.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

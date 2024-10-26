@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00453635",
+    "briefTitle": "Study With Docetaxel, Carboplatin and Herceptin Versus Vinorelbine and Herceptin in HER-2 (+) Metastatic Breast Cancer Patients",
+    "officialTitle": "A Multicenter Randomized Phase II Study of First Line Treatment With Sequential Administration of Docetaxel, Carboplatin and Herceptin Versus the Administration of Vinorelbine and Herceptin Combination in HER-2 Positive Patients With Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 88,
+    "primaryOutcomeMeasure": "Time to progression between the two treatment arms",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Performance status (WHO) 0-2\n* Histologically confirmed metastatic breast adenocarcinoma (stage IV) without any prior chemotherapy received\n* HER-2 overexpression 2+ or 3+ using IHC or FISH +\n* Measurable disease not in a prior irradiation field (no other concurrent chemotherapy agents)\n* No more than 25% of myeloproductive bone marrow irradiated (more than 4 weeks since prior radiotherapy and recovered)\n* More than 6 months since prior adjuvant or neoadjuvant chemotherapy and recovered\n* No prior first line chemotherapy for metastatic disease\n* Endocrine therapy is allowed as adjuvant or first line treatment for metastatic disease\n* Paraffin block from the primary tumor available in the research lab\n* Adequate bone marrow function (absolute neutrophil count \\> 1000/mm\\^3, platelet count \\> 100000/mm\\^3, hemoglobin \\> 9 gr/mm\\^3)\n* Adequate liver (Bilirubin \\< 1.5 times upper limit of normal and SGOT/SGPT \\< 2 times upper limit of normal) and renal function (creatinine \\< 2mg/dl)\n* Adequate cardiac function (LVEF \\> 50%)\n* Informed consent\n\nExclusion Criteria:\n\n* Pregnant or nursing\n* Concurrent agents ketoconazole, macrolide antibiotics, zidovudine which may induce P-450 cytochrome\n* Positive pregnancy test\n* Motor or sensory neuropathy \\> grade 1 according to NCIC \u03a4oxicity Criteria\n* Patients with brain metastatic disease who has not been irradiated or uncontrolled brain metastatic disease after irradiation\n* History of allergic reaction attributed to docetaxel\n* Psychiatric illness or social situation that would preclude study compliance\n* Other concurrent uncontrolled illness.\n* Other invasive malignancy within the past 5 years except cured basal cell skin carcinoma and cervical carcinoma in situ",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

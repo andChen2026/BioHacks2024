@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00452140",
+    "briefTitle": "Phase II Study With the Trifunctional Antibody Ertumaxomab to Treat Metastatic Breast Cancer Progressing After Endocrine Treatment",
+    "officialTitle": "Phase II Study for Repeated Dosing of the Trifunctional Bispecific Anti-HER-2/Neu x Anti-CD3 Antibody Ertumaxomab in Patients With HER-2/Neu 1+ or 2+/FISH Negative Expressing Advanced or Metastatic Breast Cancer (Stage IIIb/IV) Progressing After Endocrine Treatment",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer, Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Clinical efficacy measured by objective response rate (best response during the course of the study)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed and dated informed consent form\n* Women \u2265 18 years, negative pregnancy test at screening life expectancy of at least 6 months\n* Locally advanced (stage IIIb) or metastatic (stage IV) and not curable adenocarcinoma of the breast\n* Measurable disease, defined as at least one lesion that is measurable in one dimension (RECIST)\n* HER-2/neu expression 1+ or 2+ / FISH negative\n* Estrogen Receptors (ERs) and/or Progesterone Receptors (PRs) positive\n* Prior adequate endocrine therapy for advanced or metastatic disease\n* Disease progression during or after endocrine therapy\n* No prior treatment with mouse or rat antibodies\n* ECOG performance score of \u2264 1\n* Adequate hematological, liver and kidney function\n\nExclusion Criteria:\n\n* Women who are pregnant or breast-feeding\n* Known HIV infection or Presence of autoimmune disease or other Concurrent non-malignant co-morbidities that are uncontrolled\n* History or symptoms indicative of brain or CNS metastases\n* Prior diagnosis of any malignancy not cured by surgery alone less than 5 years before study entry (except in situ carcinoma of the cervix or adequately treated basal cell carcinoma of the skin)\n* Documented acute or chronic infection requiring antibiotic treatment\n* Any concurrent chemo-, hormonal, immuno- or corticoid therapy\n* Any prior chemotherapy for advanced or metastatic disease\n* Any concurrent investigational treatment for advanced or metastatic disease\n* History of relevant cardiovascular disease as follows:\n\n  * Left ventricular ejection fraction (LVEF) below the institution's lower limit of normal, based on echocardiography (ECG) at rest\n  * Uncontrolled or symptomatic congestive heart failure (New York Heart Association (NYHA) \\> 2\n  * Uncontrolled or symptomatic arrhythmia and/or angina pectoris\n  * Myocardial infarction during the last 2 years",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

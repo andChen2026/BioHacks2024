@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02721433",
+    "briefTitle": "4-weekly Versus 12-weekly Administration of Bone-targeted Agents in Patients With Bone Metastases",
+    "officialTitle": "A Pragmatic Randomised, Multicentre Trial Comparing 4-weekly Versus 12-weekly Administration of Bone-targeted Agents in Patients With Bone Metastases From Either Castration-resistant Prostate Cancer or Breast Cancer - The REaCT-BTA Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Prostate Cancer, Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 263,
+    "primaryOutcomeMeasure": "Health related quality of life scores measured with European Organization for Research and Treatment of Cancer (EORTC) QLQ-C30 Functional Domain (Physical Subdomain)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with either radiologically and/or histologically confirmed bone metastases from castrate resistant prostate cancer (36) or breast cancer.\n* About to start or currently receiving BTA therapy.\n* Serum creatinine \\>30 ml/min and corrected serum calcium \u2265 2 mmol/l\n* Age \u2265 18 years.\n* Able to provide verbal consent\n\nExclusion Criteria:\n\n* For CRPC patients - Definite contraindication for denosumab at baseline (e.g. hypocalcaemia \\[Albumin-corrected serum calcium \\< 2.0 mmol/l\\]).\n* History of or current evidence of osteonecrosis of the jaw.\n* Radiotherapy or surgery to the bone planned within 4 weeks after randomization.\n* Known hypersensitivity to trial drug or hypersensitivity to any other component of the trial drug (e.g. fructose).\n* Any psychological, familial, sociological or geographical condition potentially hampering compliance with the trial protocol.",
+    "sex": "ALL",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

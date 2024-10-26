@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00779129",
+    "briefTitle": "A Study to Evaluate Safety and Efficacy of Caelyx in Combination With Cyclophosphamide in the Treatment of Metastatic Breast Cancer (P02948)",
+    "officialTitle": "Phase II Trial of Caelyx and Cyclophosphamide in Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 70,
+    "primaryOutcomeMeasure": "Time to response; Duration of response; Time to progression; Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female, aged \\>=18 years.\n* Subject must have histologic diagnosis of breast carcinoma.\n* Subject must have documented measurable metastatic breast cancer by appropriate radiologic imaging.\n* Subject must have previous anthracyclin-based adjuvant regimen and disease-free status for at least one year following the completion of adjuvant therapy.\n* Subject must have ECOG performance status 0, 1, or 2.\n* Subject must have life expectancy \\> 6 months\n* Subject must have left ventricular ejection fraction \\>=55% as determined by MUGA scan.\n* Subject must have normal organ function, except if abnormal due to tumor involvement:\n\n  * Adequate bone marrow function (platelets \\>=100 X 10\\^9/L, hemoglobin \\>=90 g/L, Neutrophils \\>=1.5 X 10\\^9/L)\n  * Adequate renal function (serum creatinine \\< 2 X the upper limit of normal (ULN)\n  * Adequate liver function (bilirubin \\< 2 times ULN, AST or ALT \\< 2 times ULN in the absence of liver metastasis, AST or ALT \\< 5 times ULN in the presence of liver metastasis.\n* Women of childbearing potential must be using adequate contraception and have a negative pregnancy test at the time of enrollment.\n* Subject must be able to understand and give informed consent.\n\nExclusion Criteria:\n\n* Age \\> 75 years old.\n* Subject who is pregnant or breastfeeding or is unwilling to use adequate contraception.\n* Subject who has had a previous chemotherapy for metastatic disease.\n* Subject who has history of cardiac disease, with New York Heart Association Class II or greater with congestive heart failure.\n* Subject who has clinically significant hepatic disease in regard to Hepatitis B, Hepatitis C, cirrhosis, or other liver diseases unrelated to the underlying metastatic breast cancer.\n* Subject who has uncontrolled bacterial, viral, or fungal infection.\n* Subject who exhibits confusion or disorientation.\n* Subject with any condition which would prevent adequate follow-up.\n* Subject who has received radiotherapy in the last 4 weeks.\n* Subject with any other active primary tumor under treatment, except basal cell carcinoma of the skin, or carcinoma in situ of the cervix.\n* Subject who has brain metastasis.\n* Subject who is not able to give informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

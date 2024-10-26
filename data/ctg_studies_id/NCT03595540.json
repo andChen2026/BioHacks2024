@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03595540",
+    "briefTitle": "Fasting-mimicking Diet in Patients Undergoing Active Cancer Treatment",
+    "officialTitle": "Phase II Clinical Study of a Fasting-mimicking Diet in Patients Undergoing Oncologic Treatment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cancer, Breast Cancer, Colorectal Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 90,
+    "primaryOutcomeMeasure": "percentage of prescribed diet consumed and intake of any extra food",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent\n* Age \\> 18 years\n* Patients with solid or hematologic tumors undergoing active treatment, including patients who are preparing to start a new treatment with chemotherapeutic regimens, hormone therapies, other molecularly targeted therapies (including kinase inhibitors), biologics (including trastuzumab) , pertuzumab, cetuximab and bevacizumab) or inhibitors of immune checkpoints (eg Opdivo, Keytruda), ie patients in whom treatment is already underway;\n* ECOG performance status 0-1\n* Adequate organ function\n* BMI \\>21 kg/m2 (with possibility to also enroll patients with 19\\<BMI\\<21 based on the judgement of the treating physician)\n* Low nutritional risk according to nutritional risk screening (NRS)\n\nExclusion criteria:\n\n* Diabetes mellitus;\n* Previous therapy with IGF-1 inhibitors;\n* Food allergies to the components of the FMD;\n* BMI \\<19 kg/m2;\n* bio-impedance phase angle \\<5.0\u00b0;\n* medium/high nutritional risk according to NRS;\n* Any metabolic disorder that can affect gluconeogenesis or ability to adapt to fasting periods;\n* Patients who live alone or are not adequately supported by the family context;\n* Treatment in progress with other experimental therapies.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05326360",
+    "briefTitle": "Ramosetron on Late PONV (Postoperative Nausea and Vomiting)",
+    "officialTitle": "The Effect of Additional Administration of Ramosetron on Late PONV (Postoperative Nausea and Vomiting) in Patients Undergoing Breast Surgery",
+    "overallStatus": "COMPLETED",
+    "conditions": "Postoperative Nausea and Vomiting, Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 144,
+    "primaryOutcomeMeasure": "number of PONV",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* age over 18 years\n* American Society of Anesthesiologists (ASA) physical status I or II\n* requesting IV PCA (patient control of analgesia) for pain control\n* the high-risk group of PONV with a score of 3 or more as measured by the Apfel's score.\n\nExclusion Criteria:\n\n* emergency operation\n* re-operation\n* drug abuse, allergy\n* major organ disease (gastrointestinal, cardiovascular, respiratory, cerebral, renal or hepatic disease)\n* smoker\n* pregnancy\n* lactation\n* previously use of antiemetics or systemic steroids within 48 before surgery",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

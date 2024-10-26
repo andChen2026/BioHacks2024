@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03206333",
+    "briefTitle": "Automated Quantification of Coronary Artery Calcifications on Radiotherapy Planning CTs for Cardiovascular Risk Prediction in Breast Cancer Patients: the BRAGATSTON Study",
+    "officialTitle": "Automated Quantification of Coronary Artery Calcifications on Radiotherapy Planning CTs for Cardiovascular Risk Prediction in Breast Cancer Patients: the BRAGATSTON Study",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Cardiovascular Diseases",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 16000,
+    "primaryOutcomeMeasure": "Incident (non-)fatal (cardiovascular) diseases",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer patients treated with radiotherapy in UMC Utrecht, Erasmus Medical Center or Radboudumc between 2004-16\n* Planning CT scan available\n* Age: \u226518 years\n* Gender: both genders\n\nExclusion Criteria:\n\n* Not applicable",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

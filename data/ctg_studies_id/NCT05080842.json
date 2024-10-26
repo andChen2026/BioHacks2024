@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05080842",
+    "briefTitle": "A Study of AC682 for the Treatment of Locally Advanced or Metastatic ER+ Breast Cancer",
+    "officialTitle": "A Phase I Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Preliminary Anti-Tumor Activity of AC682 in Patients With Estrogen Receptor Positive/Human Epidermal Growth Factor Receptor 2 Negative (ER+/HER2-) Locally Advanced or Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 21,
+    "primaryOutcomeMeasure": "Incidence of dose limiting toxicities (DLTs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed written informed consent form (ICF)\n* Patients must be \u226518 years-of-age at the time of signing of the ICF\n* Female patients must be postmenopausal\n* Eastern Cooperative Oncology Group (ECOG) Performance Status score of 0 or 1\n* Histologically and/or cytologically confirmed advanced estrogen receptor positive (ER+) human epidermal growth factor 2 negative (HER2-) breast cancer\n* Patients with life expectancy \u22653 months\n* Patients who have adequate organ functions at baseline\n* At least 1 measurable lesion that meets the definition in Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1 or at least 1 non-target lesion is required.\n\nExclusion Criteria:\n\n* Treatment with any of the following: systemic anti-cancer chemotherapy, biologic, or hormonal agent from a previous treatment regimen or clinical study within 4 weeks prior to the first dose of AC682; systemic small molecules from a previous treatment regimen or clinical study within 14 days or 5 half-lives (whichever is longer) prior to the first dose of AC682 (at least 10 days must have elapsed between the last dose of such agent and the first dose of study drug)\n* Radiation therapy such as wide-field radiotherapy administered \u226428 days of first dose of AC682\n* Major surgery (excluding placement of vascular access) within 4 weeks of first dose of AC682\n* Known symptomatic brain metastases requiring the use of steroids\n* Any condition that impairs a patient's ability to swallow whole pills. Impairment of gastrointestinal function (GI) or GI disease or other condition at baseline that will interfere significantly with the absorption, distribution, or metabolism of AC682.\n* Use of prophylactic growth factors and blood transfusions \u226414 days prior to the first dose of AC682 and during dose limiting toxicity observation period",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

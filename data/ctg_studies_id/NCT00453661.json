@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00453661",
+    "briefTitle": "Cancer Prevention and Treatment Demonstration for Ethnic and Racial Minorities",
+    "officialTitle": "Cancer Prevention and Treatment Demonstration for Hispanic Medicare Eligible Beneficiaries - CMS",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Cervical Cancer, Prostate Cancer, Colorectal Cancer, Lung Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2472,
+    "primaryOutcomeMeasure": "Screening Rates",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. All participants must have Medicare Part A and Part B\n2. All participants must be Latino / Hispanic American\n3. All participants must be at least 40 years of age\n4. All Cancer Screening Group participants must be a Medicare-eligible beneficiary from Region 6 (Central Gulf Coast) as defined by Texas Department of State Health Services.\n5. All Cancer Treatment Group participants must have been diagnosed with breast, cervix, prostate, colorectal, and/or lung cancer within the past 5 years.\n6. All Cancer Treatment Group participants must be a Medicare-eligible beneficiary from Texas.\n\nExclusion Criteria:\n\n1. All participants must not be enrolled in a managed care plan (also called an HMO, Medicare + Choice, or Medicare Advantage)\n2. All participants must not be enrolled in hospice\n3. All Cancer Screening Group participants must not have been diagnosed with cancer within the last 5 years.\n4. All Cancer Treatment Group participants must not be a Medicare-eligible beneficiary outside of Region 6 (Central Gulf Coast) unless treated at MD Anderson.",
+    "sex": "ALL",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

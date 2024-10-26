@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06265077",
+    "briefTitle": "Novel Preventive Approach Against Filgrastim-Induced Bone Pain in Cancer Patients",
+    "officialTitle": "Efficacy and Safety of Loratadine and Famotidine Combination on Preventing Filgrastim-Induced Bone Pain in Breast Cancer Patients",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer, Filgrastim Adverse Reaction",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "The incidence of grade 2 or 3 bone pain in cycle 1 according to Common Terminology Criteria for Adverse Events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Eligible patients were 18 years or older.\n2. Confirmed diagnosis of breast cancer.\n3. Patients completed adriamycin and cyclophosphamide (AC) regimen and are planned to receive four cycles or more of paclitaxel chemotherapy with G-CSF support starting in cycle 1 and continuing throughout each of the four paclitaxel cycles.\n4. Eastern Cooperative Oncology Group (ECOG) performance status from 0 to 2.\n\nExclusion Criteria:\n\n1. Patients with signs and symptoms of grade 2 or 3 bone pain at baseline.\n2. Patients receiving famotidine in the previous 72 hours.\n3. Patient receiving any antihistaminic in the previous 72 hours.\n4. Hypersensitivity to famotidine or loratadine.\n5. Patient receiving opioid or adjuvant analgesic.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

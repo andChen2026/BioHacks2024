@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01236053",
+    "briefTitle": "Cancer in Patients With Gabapentin (GPRD)",
+    "officialTitle": "Risk of Cancer in Patients Exposed to Gabapentin in the GPRD",
+    "overallStatus": "COMPLETED",
+    "conditions": "Pain, Neuropathic, Epilepsy, Renal Pelvis Cancer, Pancreatic Cancer, Breast Cancer, Nervous System Cancer, Chronic Pancreatitis, Stomach Cancer, Renal Cell Carcinoma, Diabetes, Bladder Cancer, Bone and Joint Cancer, Penis Cancer, Anal Cancer, Cancer, Renal Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2323608,
+    "primaryOutcomeMeasure": "Number of All-Cancer Cases and Matched Controls With the Indicated Exposure to Gabapentin",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The study cohort from which cases and controls are drawn is all subjects in the UK GPRD 1993-2008. Entry into the study cohort begins Jan 1, 1993 for all those who are registered in GPRD before that time, and at the time of registration if later than Jan 1, 1993. Follow-up ends Dec 31, 2008, or earlier if the subject leaves the GPRD for any reason including death.\n\nExclusion Criteria:\n\n* Subjects are excluded from the GPRD cohort if they have a cancer diagnosis or a history of cancer prior to the cohort entry date. Cases and controls will be required to have at least 2 years of follow-up in the study cohort before their index date (For cases, the index date is the date of first diagnosis of the respective cancer. The index date for controls is set as the date at which the follow-up time from cohort entry is the same as the case.) Cases must have no history of any other cancer diagnosis prior to the index date. Controls are required to be free of cancer diagnosis in the database up to the control's index date.",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

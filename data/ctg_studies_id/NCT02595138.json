@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02595138",
+    "briefTitle": "Zoledronic Acid as Adjuvant Treatment of Triple-negative Breast Cancer",
+    "officialTitle": "N/A",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 430,
+    "primaryOutcomeMeasure": "disease free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \u2022Adult women (\u2265 18 years of age) with early stage breast cancer(stage II-III).\n\n  * Histological confirmation of estrogen and/or progesterone-receptor negative (ER-), human epidermal growth factor receptor 2 negative (HER2 -) breast cancer.\n\nER/PR negative: nuclear reaction\\< 1%, HER2 negative: HER2; IHC 0,1+ or FISH/CISH (-) in case of IHC 2+\n\n* axillary lymph node positive with other high risk factors: LVI, T\\>5CM, Grade III\n* Patients finish standard chemotherapy and/or radiotherapy\n* ECOG performance status of 0,1\n* Adequate bone marrow, hepatic, and renal function\n* Adequate bone marrow and coagulation function as shown by:\n* Absolute neutrophil count (ANC) \u2265 1.5 109/L;Platelets\\>100 x109/L;Hemoglobin (Hgb) \\> 9.0g/dLINR \\< 2\n* Adequate liver function as shown by:\n* Serum aspartate aminotransferase (AST) and alanine aminotransferase (ALT) \\< 2.5x ULN\n* Total serum bilirubin \\< 1.5 x ULN\n* Adequate renal function as shown by:\n* Serum creatinine\\< 1.5 x ULN\n* Fasting serum cholesterol \\<300 mg/dL or 7.75 mmol/L and fasting triglycerides \\<2.5 x ULN. In case one or both of these thresholds are exceeded, the patient can only be included after initiation of statin therapy and when the above mentioned values have been achieved.\n* Written informed consent\n\nExclusion Criteria:\n\n* \u2022Another malignancy within 5 years prior to enrollment with the exception of adequately treated in-situ carcinoma of the cervix, uteri, basal or squamous cell carcinoma or non-melanomatous skin cancer.\n\n  * Any severe and/or uncontrolled medical conditions, eg. currently active infection\n  * Pregnant or lactating\n  * Patients unwilling to or unable to comply with the protocol",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

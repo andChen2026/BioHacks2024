@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01969032",
+    "briefTitle": "Induction Preoperative Chemotherapy for Patients With Locally Advanced Triple Negative Breast Cancer",
+    "officialTitle": "Phase 2 Study of Two Consequent Chemotherapy Regimens as Induction Preoperative Therapy for Patients With Locally Advanced Triple Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 41,
+    "primaryOutcomeMeasure": "The pathological complete response rate to two consequent induction preoperative chemotherapy regimens",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients, age \u226518 years\u226475\n* Histologically confirmed invasive ER-, PR-, and HER2-negative (triple-negative) adenocarcinoma of the breast\n* Stages \u04222-4 N 2-3 M0\n* Signed inform consent\n\nExclusion Criteria:\n\n* Previous treatment for this breast cancer\n* History of malignancy treated with curative intent within the previous 5 years with the exception of skin cancer, cervical carcinoma in situ, or follicular thyroid cancer. Patients with previous invasive cancers (including breast cancer) are eligible if the treatment was completed more than 5 years prior to initiating current study treatment, and there is no evidence of recurrent disease\n* Pregnancy or breast-feeding\n* Serious concurrent diseases or conditions that may alter chemotherapy conduction",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

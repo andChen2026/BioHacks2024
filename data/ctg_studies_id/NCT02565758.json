@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02565758",
+    "briefTitle": "ABBV-085, an Antibody Drug Conjugate, in Subjects With Advanced Solid Tumors",
+    "officialTitle": "A Multicenter, Phase 1, Open-Label, Dose-Escalation Study of ABBV-085, an Antibody Drug Conjugate, in Subjects With Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Solid Tumors, Undifferentiated Pleomorphic Sarcoma, Squamous Cell Carcinoma of the Head and Neck, Carcinoma of the Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 85,
+    "primaryOutcomeMeasure": "Terminal elimination half life of ABBV-085.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Participants with advanced solid tumor that is not amenable to surgical resection or other approved therapeutic options.\n2. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 to 2.\n3. Participants must have measurable disease per Response Evaluation Criteria In Solid Tumors (RECIST) version 1.1 or disease evaluable by assessment of tumor antigens:\n\n   - Participants with non-evaluable or non-measurable cancer are eligible if they have a confirmed increase in tumor antigens \\>=2 x upper limit of normal (ULN).\n4. All participants must consent to provide archived diagnostic formalin-fixed paraffin embedded (FFPE) tumor tissue and on study biopsies.\n5. Participant has adequate bone marrow, renal, hepatic and cardiac function.\n6. Women of childbearing potential must have a negative serum pregnancy test within 14 days prior to initiation of treatment.\n\nExclusion Criteria:\n\n1. Participant has received anticancer therapy or any investigational therapy within a period of 21 days prior to the first dose of ABBV-085.\n2. Uncontrolled metastases to the central nervous system (CNS). Participants with brain metastases are eligible provided they have shown clinical and radiographic stable disease for at least 4 weeks after definitive therapy and have not used steroids for at least 4 weeks prior to first dose of ABBV-085.\n3. Unresolved adverse events \\>= Grade 2 from prior anticancer therapy, except for alopecia.\n4. Participant has ongoing hemolysis.\n5. Major surgery within \\<=28 days prior to the first dose of ABBV-085.\n6. Clinically significant uncontrolled condition(s).\n7. Participant has history of major immunologic reaction to any auristatin-based and /or Immunoglobulin G (IgG) containing agent.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

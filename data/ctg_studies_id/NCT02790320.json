@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02790320",
+    "briefTitle": "Eribulin [Halaven] Use For the Treatment of Advanced Breast Cancer",
+    "officialTitle": "Eribulin [Halaven] Use For the Treatment of Advanced Breast Cancer: Observational Retrospective Analysis",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 112,
+    "primaryOutcomeMeasure": "Clinical benefit rate",
+    "eligibilityCriteria": "Inclusion criteria:\n\n1. Patients diagnosed with locally recurrent or metastatic advanced breast cancer, previously treated with taxanes and anthracyclines, unless these were not indicated.\n2. Clinical and/or radiological documentation of location and extension of the disease at the time of starting treatment with eribulin. Patients with measurable diseases and those patients who only have non-measurable lesions are eligible.\n3. Medical history documentation including analytical control data (blood count and serum chemistry including hepatic and renal functions) carried out at least one week before starting treatment with eribulin. (Determining the CA15-3 tumor marker is not indispensable).\n4. Eribulin monotherapy (at least 1 dose) between April 2011 and March 2012, both inclusive.\n5. Availability of a medical history allowing monitoring of clinical progression of the patients during and after treatment with eribulin.\n\nExclusion criteria:\n\n1. Diagnosis of any type of cancer in the last 5 years, except for non-melanoma skin cancer, cervical intraepithelial neoplasia or contralateral breast cancer.\n2. Patients having received any other anti-tumor treatment, whether conventional or experimental, during the week prior to starting treatment with eribulin. Treatment with bisphosphonate and corticoids is allowed if they are clinically indicated and started 28 days before treatment with eribulin.\n3. Lack of clinical status documentation after completing treatment with eribulin or, at least, after having been administered 3 initial cycles. This can arise in any of the following cases (they are not excluding):\n\n   1. Patients whose Medical History does not state the reason and date for interruption of treatment with eribulin and their subsequent clinical progression.\n   2. Patients still undergoing treatment with eribulin on March 31, 2012, for whom there is no data for at least the first 3 cycles.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00120939",
+    "briefTitle": "Study of Motexafin Gadolinium and Docetaxel for Advanced Cancer",
+    "officialTitle": "Phase I Trial of Motexafin Gadolinium (MGd) and Docetaxel Chemotherapy in the Treatment of Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Ovarian Neoplasms, Prostatic Neoplasms, Lung Neoplasms, Gastrointestinal Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Determine the Dose Limiting Toxicity at 8 weeks (2 cycles), and the Maximum Tolerated Dose at 24 weeks.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* At least 18 years old\n* Metastatic, or unresectable solid tumors from breast, head, and neck, gastrointestinal, genitourinary, lung, or ovarian cancer or recurrent glioblastoma multiforme\n* ECOG performance status score either 0, 1, or 2\n* Willing and able to provide written informed consent\n\nExclusion Criteria:\n\n* Greater than two prior cytotoxic regimens\n* Laboratory values showing adequate function of bone marrow, liver, and kidneys\n* Uncontrolled hypertension\n* Known sensitivity to or intolerable adverse effects from taxanes (eg. paclitaxel, docetaxel) or polysorbate 80",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

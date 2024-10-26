@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01708798",
+    "briefTitle": "Study of the Effect of Eplerenone on Heart Function in Women Receiving Anthracycline Chemotherapy for Breast Cancer",
+    "officialTitle": "A Prospective Randomized Placebo-controlled Study of the Effect of Eplerenone on Left Ventricular Diastolic Function in Women Receiving Anthracycline Therapy for Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 44,
+    "primaryOutcomeMeasure": "Change in average E' (averaged septal E' and lateral E')",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage I-III breast cancer\n* Scheduled to undergo treatment with doxorubicin-based chemotherapy regimen\n* Able to provide informed consent\n\nExclusion Criteria:\n\n* Use of anthracycline agents other than doxorubicin\n* Baseline LVEF \u226450% by any modality (nuclear, echo, MRI)\n* Atrial fibrillation or flutter\n* Mitral valve disease (More than mild mitral stenosis or regurgitation, previous mitral valve replacement or repair)\n* Inability to obtain adequate echo images for required analysis\n* Hyperkalemia (K+ \\>5.0)\n* Glomerular filtration rate (GFR) \\<30 ml/min/1.73m2\n* Uncontrolled hypertension, defined as having a systolic blood pressure \\> 180 mmHg and/or a diastolic blood pressure \\>110 mmHg\n* Symptomatic hypotension or systolic blood pressure \\<85 mmHg\n* History of hypersensitivity to eplerenone or spironolactone\n* Significant hepatic disease (e.g., previously documented positive serology for viral hepatitis) or aspartate aminotransferase (AST) and/or alanine aminotransferase (ALT) \\>3 times the upper limits of normal\n* Concomitant treatment with spironolactone, potassium-sparing diuretics, potassium supplements, or strong inhibitors of cytochrome P450 3A4 (CYP3A4) (i.e. ketoconazole, itraconazole, nefazodone, troleandomycin, clarithromycin, ritonavir, nelfinavir)\n* History of alcohol and/or any other drug abuse\n* Women who are either pregnant, lactating or of childbearing potential and not using an acceptable method of contraception\n* Other severe acute or chronic medical or psychiatric condition or laboratory abnormality that may increase the risk associated with trial participation or investigational product administration or may interfere with the interpretation of trial results and, in the judgment of the investigator, would make the subject inappropriate for entry into this trial",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

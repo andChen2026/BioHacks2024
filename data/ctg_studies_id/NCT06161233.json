@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06161233",
+    "briefTitle": "Pilot Study of the eHealth Application \"Cancer Patients Better Life Experience\" (CAPABLE) - Italy",
+    "officialTitle": "Pilot Study of the eHealth Application \"Cancer Patients Better Life Experience\" (CAPABLE) - Italy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Renal Cell Carcinoma Metastatic, Breast Cancer, Head and Neck Cancer, Thyroid Cancer, Ovary Cancer, Lung Cancer, Stomach Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 56,
+    "primaryOutcomeMeasure": "Change in health-related QoL outcomes in RCC patients",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adults (age \\>=18 years)\n* Sufficient understanding of the Italian language\n* Patients or their caregiver (upon patient's consent) can use a smartphone\n* Histologically or cytologically confirmed diagnosis of RCC, lung, breast, thyroid o head and neck cancer\n* Candidate to systemic treatment (targeted agents, immune checkpoint inhibitors, or a combination of the two)\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1 at the start of the treatment.\n\nExclusion Criteria:\n\n* Recruitment and consent denial\n* Not able of understanding and complying with the protocol requirements (including basic technological abilities)\n* Given the fact that each subject involved in the clinical study must be able to understand and sign the informed consent presented by the researcher, lack of this capability represents a specific exclusion criterion in the study protocol.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

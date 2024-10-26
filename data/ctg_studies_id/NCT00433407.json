@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00433407",
+    "briefTitle": "T-Cell Response in Patients Receiving Trastuzumab and/or Chemotherapy for HER2-Positive Solid Tumors",
+    "officialTitle": "A Study to Assess HER2-Specific T Cell Responses in Patients Receiving Trastuzumab for Solid Tumor Treatment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Lung Cancer, Ovarian Cancer, Prostate Cancer, Sarcoma, Unspecified Adult Solid Tumor, Protocol Specific",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 12,
+    "primaryOutcomeMeasure": "T-cell activation in blood samples",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of solid epithelial tumor, including, but not limited to, the following:\n\n  * Breast cancer\n  * Ovarian cancer\n  * Lung cancer\n  * Uterine cancer\n  * Prostate cancer\n* HER2/neu-positive disease by immunohistochemistry or fluorescent in situ hybridization\n* Must be receiving trastuzumab (Herceptin\u00ae) and/or chemotherapy (e.g., paclitaxel, docetaxel, fluorouracil, or estramustine)\n\nPATIENT CHARACTERISTICS:\n\n* Absolute neutrophil count \\> 1,000/mm\\^3\n* Absolute lymphocyte count \\> 400/mm\\^3\n* Platelet count \\> 90,000/mm\\^3\n* Hemoglobin \\> 8 g/dL\n\nPRIOR CONCURRENT THERAPY:\n\n* No other chemotherapy within the past 4 weeks",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

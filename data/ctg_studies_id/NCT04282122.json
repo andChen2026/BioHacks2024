@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04282122",
+    "briefTitle": "Clinical Database of Safe Personalized Adjuvant Breast Radiotherapy Based on Individual Radiosensitivity",
+    "officialTitle": "Establishment of a Prospective Evaluation of Daily Practice Including the Individual Radiosensitivity Test to the Decision of Daily Practice",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Acute and late breast fibrosis rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Compliant women \u2265 65 years old.\n2. Conservative breast cancer surgery.\n3. T1-T2; N sentinel negative/N0.\n4. Luminal A tumors.\n5. Tumor negative margins.\n6. Indication of whole breast irradiation only.\n7. Extension evaluation of disease will be proven negative (M0).\n8. Must be geographically accessible for follow-up.\n9. Written and dated informed consent.\n10. Affiliated to the French social security system.\n\nExclusion Criteria:\n\n1. Patients with distant metastases.\n2. Indications of node irradiation.\n3. Synchronous bilateral breast cancer.\n4. Patients treated by radical mastectomy.\n5. Patients with neoadjuvant therapy.\n6. Patients with previous or concomitant other (not breast cancer) malignancy within the past 3 years EXCEPT adequately treated basal or squamous cell carcinoma of the skin or in situ carcinoma of the cervix. Patients who have had a previous other malignancy must have been disease free for at least three years.\n7. Patients with other unstable or untreated non-malignant systemic diseases (cardiovascular, renal, hepatic, lung embolism, etc.) which would prevent prolonged follow-up.\n8. Patients treated with systemic investigational drugs within the past 30 days",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06401590",
+    "briefTitle": "Sensitivity and Predictive Value of Frozen Section of Sentinel Lymph Node Biopsy in Post Neoadjuvant Setting",
+    "officialTitle": "Sensitivity and Predictive Value of Frozen Section of Sentinel Lymph Node Biopsy in Post Neoadjuvant Setting",
+    "overallStatus": "COMPLETED",
+    "conditions": "Lymph Node Metastasis, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 286,
+    "primaryOutcomeMeasure": "Number of patients with discrepant frozen and permanent biopsy results",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients greater than 18 years of age\n2. All diagnosed breast carcinoma patients ranging from T1 to T4 and N0 to N1, who have received neoadjuvant chemotherapy will be included.\n\nExclusion Criteria:\n\n1. Poorly preserved biopsy material, insufficient to assess all the histological features.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

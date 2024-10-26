@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00667641",
+    "briefTitle": "Paclitaxel and Bortezomib in Treating Patients With Metastatic or Unresectable Malignant Solid Tumors",
+    "officialTitle": "Phase I Study of Paclitaxel (Taxol) and Bortezomib (Velcade) in Patients With Refractory Solid Tumor Malignancies Involving an Activated MAPK Pathway",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Colorectal Cancer, Head and Neck Cancer, Lung Cancer, Melanoma (Skin), Ovarian Cancer, Pancreatic Cancer, Prostate Cancer, Unspecified Adult Solid Tumor, Protocol Specific",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 16,
+    "primaryOutcomeMeasure": "Maximum tolerated dose of paclitaxel in combination with bortezomib",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed malignant solid tumor that involves an activated Ras/Raf/MAPK pathway, including the following:\n\n  * Breast cancer\n  * Prostate cancer\n  * Colon cancer\n  * Pancreatic cancer\n  * Ovarian cancer\n  * Non-small cell lung cancer\n  * Melanoma\n  * Papillary thyroid cancer\n* Metastatic or unresectable disease\n* Standard curative or palliative measures do not exist or are no longer effective\n* No newly diagnosed, untreated, or uncontrolled brain metastases\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-2\n* ANC \u2265 1,500/\u03bcL\n* WBC \u2265 3,500/\u03bcL\n* Platelet count \u2265 100,000/\u03bcL\n* Total bilirubin \u2264 1.5 times upper limit of normal (ULN)\n* AST/ALT \u2264 2.5 times ULN (\u2264 5 times ULN for tumor involvement of the liver)\n* Creatinine \u2264 2 times ULN\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No neuropathy \u2265 grade 1 with pain within the past 14 days\n* No active infections\n* No myocardial infarction within the past 6 months\n* No NYHA class III or IV heart failure\n* No uncontrolled angina\n* No severe uncontrolled ventricular arrhythmias\n* No evidence of acute ischemia or active conduction system abnormalities by ECG\n\n  * Any ECG abnormality at screening must be documented by the investigator as not medically relevant\n* No hypersensitivity to bortezomib, boron, or mannitol\n* No serious medical or psychiatric illness likely to interfere with study participation\n\nPRIOR CONCURRENT THERAPY:\n\n* Prior paclitaxel or bortezomib allowed\n* At least 4 weeks since prior chemotherapy and/or radiotherapy\n* More than 14 days since other prior investigational drugs\n* No other concurrent investigational agents\n* No other concurrent anticancer agents, including chemotherapy and biologic agents\n* No concurrent recombinant interleukin-11 (Neumega\u00ae)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01548534",
+    "briefTitle": "A Randomised Study of Docosahexaenoic Acid (DHA) in Metastatic Breast Cancer",
+    "officialTitle": "A Phase III Randomized, Multicenter, Two Arms Double-blind Trial Versus Placebo, Evaluating the Interest of a Dietary Supplementation With Docosahexaenoic Acid (DHA) During Chemotherapy for Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer, Progesterone Receptor Positive Tumor, Estrogen Receptor Positive Tumor, HER-2 Negative Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 65,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Metastatic breast cancer requiring first-line taxanes or anthracyclines based chemotherapy\n* HER2 negative, HR positive\n* Life expectancy \\> 3 months\n* ECOG Performance Status \\< or = 2 within 15 days before randomization\n* Measurable and/or evaluable disease according to RECIST criteria 1.1\n* Age \\> or = 18 years and \\< or = 80 years\n* Body Mass Index (BMI)\\>17 for patients \\< 70 years and BMI\\>21 for patients \\> 70 years, within 15 days before randomization\n* Hepatic parameters : total bilirubin strictly normal, AST and ALT \\< or = 3xULN (5 if liver metastases) within 15 days before randomization\n* Signed written informed consent\n\nExclusion Criteria:\n\n* Triple negative breast cancer or HER2 over expression\n* Symptomatic central nervous system metastases\n* Previous chemotherapy for metastatic breast cancer\n* Obesity with BMI \\> 35 within 15 days before randomization\n* Presence of another invasive cancer\n* Uncontrolled Cardiac disease or uncontrolled hypertension\n* Milk protein intolerance\n* Known food allergy to fish\n* Women of childbearing potential not using adequate contraceptive measures, pregnant or breast feeding.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

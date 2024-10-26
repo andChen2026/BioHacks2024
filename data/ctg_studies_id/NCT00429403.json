@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00429403",
+    "briefTitle": "Goserelin Acetate Study for Ovarian Function in Patients With Primary Breast Cancer",
+    "officialTitle": "Phase III Randomized Study of a Goserelin Acetate for Preservation of Ovarian Function in Patients With Primary Breast Cancer (PBC)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "Number of Patients With Response (FSH Level + Vaginal Bleeding)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patients older than 15 years and younger than 46 years.\n2. Primary breast cancer (Stage I, II, or III).\n3. Pathologically confirmed invasive breast carcinoma.\n4. Negative hormone-receptor status. (Negative defined as ER- and PR- staining in less than 10% of tumor cells, or tumors with less than or equal to 3 fm/mg cytosol protein on ligand-binding or enzyme-linked immunoassay).\n5. Premenopausal, verified before chemotherapy is begun as satisfying both:\n\n   * Cyclic vaginal bleeding.\n   * Follicle-stimulating hormone (FSH) is less than or equal to 15 IU/L. If patients are taking oral contraceptives, FSH must be measured 1-2 weeks after discontinuation. If FSH is greater than 15 and the patient has regular menses, gynecologic consultation will be required for a decision on premenopausal status.\n6. Candidates for neoadjuvant and/or adjuvant chemotherapy for primary breast cancer.\n7. Treatment with at least four (4) cycles of chemotherapy as planned.\n8. Zubrod performance score of 0 or 1.\n9. Must consent to preservation of their ovarian function and indicate their awareness of the investigational nature of this study, in keeping with institutional policy.\n10. Willingness to use barrier contraception if sexually active.\n\nExclusion Criteria:\n\n1. Pregnancy. Women must have a negative serum pregnancy test before initiation of injection.\n2. Hypersensitivity to any GnRH analog.\n3. Previous receipt of systemic chemotherapy.\n4. To receive at least 4 cycles of neoadjuvant and/or adjuvant chemotherapy with CMF.\n5. Stage IV breast cancer.\n6. Prothrombin time (PT) and partial prothrombin time (PTT) with INR \\> 1.5\n7. Platelets \\< 50,000/mm\\^3",
+    "sex": "FEMALE",
+    "minimumAge": "15 Years",
+    "stdAges": "CHILD, ADULT"
+}

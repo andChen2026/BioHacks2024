@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00888589",
+    "briefTitle": "Detection of Aggressive Breast Tumors Using Tc-99m-NC100692",
+    "officialTitle": "Improved Sensitivity for the Detection of Aggressive Breast Tumors Using 99mTc-NC100692 and a Dual-headed Small Field of View CZT Gamma Camera.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Evidence of disease confirmed by surgery, or benign disease confirmed by biopsy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Have a lesion on mammogram, ultrasound or breast MRI that measured \\< 15 mm in diameter, is considered suggestive or highly suggestive of malignancy according to the Breast Imaging Reporting and Data System Atlas criteria (BIRADS 4b, 4c or 5), and is scheduled for biopsy (needle biopsy and/or surgical biopsy).\n\nOR\n\n* Have a lesion on mammogram, ultrasound or breast MRI that measured \\> 15 mm in diameter, is known to be malignant and is scheduled for surgery.\n* Patient age \\> 18 years of age.\n* Have a negative pregnancy test on the first day of the study, or must be postmenopausal or surgically sterilized.\n\nExclusion Criteria:\n\n* Patients will be excluded if they have a small lesion (\\< 15 mm) and have undergone prior needle biopsy of the lesion (such biopsy may effectively remove all or part of the lesion and angiogenesis associated with wound healing might confound imaging results with 99mTc-NC100692).\n* Patient's pregnancy is not negative on the first day of the study, or the patient is unable to complete the pregnancy test\n* Patient is unable to sit on a chair for 40 minutes",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

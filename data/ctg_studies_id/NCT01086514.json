@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01086514",
+    "briefTitle": "Digital Mammography for the Detection and Preoperative Staging of Breast Cancer",
+    "officialTitle": "Dual Energy Contrast Enhanced Digital Mammography for the Detection and Preoperative Staging of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 82,
+    "primaryOutcomeMeasure": "To estimate additional measures of accuracy of DE CEDM and MRI, such as the predictive values and ROC curves where applicable, for detecting multifocal or multicentric disease in the ipsilateral breast.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with newly diagnosed unilateral breast cancer proven through core biopsy or FNA who are planned to have (preoperative) MRI within 30 days of DE CEDM to assess extent of disease/multifocality. (All women will have bilateral digital mammography as per standard of care.) The preoperative MRI will be based on the surgeon's recommendation.\n* Both breasts are present.\n* Women consenting to a bilateral DE CEDM examination.\n\nExclusion Criteria:\n\n* Women under 21.\n* Women who have already had a lumpectomy. (Index lesion has been removed and therefore, not evaluable for the purpose of this study.)\n* Women undergoing neoadjuvant chemotherapy, hormone treatment, or radiation therapy.\n* Known pregnancy.\n* Women who have a contraindication to the intravenous use of iodinated or gadolinium-chelated contrast agent.\n* Women with breast implants.\n* Women with pacemakers.\n* Women with aneurysm clips that don't allow for MRI.\n* Women too claustrophobic to undergo MRI.",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

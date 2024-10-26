@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01432002",
+    "briefTitle": "FDG-PET/CT for Simulation and Radiation Treatment Planning of Early Breast Cancer",
+    "officialTitle": "Application of 18F-[FDG] PET/CT to Simulation and Planning of Radiotherapy (RT) for Breast Cancer. Definition of Target Volume for 3-D RT and for Partial Breast Irradiation (PBI) by IMRT Technique",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Neoplasm",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Drawing of target volumes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed breast carcinoma\n* Clinical stage T1-2 N0 M0\n* Age \\> 18 years\n* Signed informed consent\n\nExclusion Criteria:\n\n* WHO performance index 3\n* Premenopausal women without contraception\n* Gestation\n* Lactating\n* Prior surgery or radiotherapy on the same breast\n* Unable to understand study participation\n* Bilateral breast cancer\n* Prior CT thorax-abdomen and breast MRI within 4 months of interview\n* Presence of electromechanical implant and/or body ferromagnetic material\n* Previous history of renal insufficiency requiring dialysis and/or hospitalisation\n* Ureum and/or creatinine within 2 weeks of interview above lab's reference limits\n* History of contrast allergy\n* Hyperthyroidy\n* Claustrophobia.",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

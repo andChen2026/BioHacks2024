@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02668588",
+    "briefTitle": "Extended-release of Octreotide (LF-PB) for the Treatment of Seroma",
+    "officialTitle": "A Multicentre, Double Blind, Randomized Placebo Controlled Trial to Assess the Effect of LF-PB on Seroma Formation in Women With Breast Cancer Undergoing Axillary Lymph Node Dissection",
+    "overallStatus": "COMPLETED",
+    "conditions": "Seroma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 48,
+    "primaryOutcomeMeasure": "Incidence of seromas requiring an aspiration",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent form;\n* Undergoing breast cancer surgery with axillary lymph node dissection during the current clinical trial;\n* Negative serum pregnancy test for women of childbearing potential;\n* Aspartate aminotransferase and alanine aminotransferase \\< 2 x the upper limit of normal;\n* ECOG PS \u2264 1.\n\nExclusion Criteria:\n\n* Previous axillary surgery on the same armpit (sentinel lymph node surgery is not exclusionary);\n* Previous radiotherapy within five years from study drug administration on the same armpit undergoing surgery in this study;\n* Concomitant participation to other clinical trial;\n* Uncontrolled diabetes;\n* Cholelithiasis;\n* Human immunodeficiency virus or hepatitis B or C by screening serology;\n* Uncontrolled hypothyroidism: if patient is being administered Eutirox/ Levothyroxine (or analogues) and levels of T3, T4 and TSH are confirmed to be within the normal ranges at screening, the patient can be enrolled in this study;\n* Pregnant or lactating;\n* Ascertained or presumptive hypersensitivity to the active principle and/or the ingredients of the study drug formulation;\n* Corrected QT (using the Bazett formula, QTc) interval at screening or baseline \\> 450 msec (as the mean of 3 consecutive readings 5 minutes apart);\n* Presence of any disease or use of concomitant medication known to increase the QT interval;\n* Clinically significant or relevant abnormal medical history, vital sign, physical examination or laboratory evaluation finding;\n* Corticosteroid treatment on a long-term basis (i.e. treatment for more than 3 consecutive days);\n* Current or recurrent disease that could affect the results of the clinical or laboratory assessment required for the study.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

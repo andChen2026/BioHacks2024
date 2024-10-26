@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00849030",
+    "briefTitle": "ATAC - Arimidex, Tamoxifen Alone or in Combination",
+    "officialTitle": "A Randomised, Double Blind Trial Comparing Arimidex Alone With Nolvadex Alone With Arimidex and Nolvadex in Combination, as Adjuvant Treatment in Post-Menopausal Women With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 9358,
+    "primaryOutcomeMeasure": "Time to recurrence of breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with histologically proven operable invasive breast cancer\n* Patients who have completed all primary surgery and chemotherapy (if given), and are candidates to receive hormonal adjuvant therapy\n* Women defined as post-menopausal\n\nExclusion Criteria:\n\n* Patients in whom there is any clinical evidence of metastatic disease\n* Patients who, for whatever reason (e.g. confusion, infirmity, alcoholism), are unlikely to comply with trial requirements\n* Patients whose chemotherapy was started more than 8 weeks (ie 56 days) after completion of primary surgery or whose chemotherapy was completed more than 8 weeks (ie 56 days) before starting randomised treatment",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

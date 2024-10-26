@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05763641",
+    "briefTitle": "TAD After Chemotherapy in Locally Advanced Breast Cancer",
+    "officialTitle": "Target Axillary Dissection After Neoadjuvant Chemotherapy in Locally Advanced Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Sentinel Lymph Node, Breast Cancer, Locally Advanced",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 162,
+    "primaryOutcomeMeasure": "TAD validation in locally advanced breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Axillary lymph node metastasis proven by cytology\n* Clinical or radiological N2a (at least 4 suspicious lymph nodes on axillary ultrasound at diagnosis)\n* Extensive T4 subsidiary to axillary lymphadenectomy according to current clinical criteria\n* Neoadjuvant chemotherapy\n\nExclusion Criteria:\n\n* cN3 verified by imaging tests\n* N2 due to internal mammary involvement (N2b).\n* Tumors whose surrogate molecular subtype is luminal A.\n* Patients undergoing neoadjuvant endocrine therapy\n* Patients with local recurrences and metastatic tumors.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02422199",
+    "briefTitle": "A Study of Pyrotinib Plus Capecitabine Versus Lapatinib Plus Capecitabine in Patients With HER2+Metastatic Breast Cancer Who Have Prior Received Anthracyclin, Taxane or Trastuzumab",
+    "officialTitle": "A Study of Pyrotinib Plus Capecitabine Versus Lapatinib Plus Capecitabine in Patients With HER2+Metastatic Breast Cancer Who Have Prior Received Anthracyclin, Taxane or Trastuzumab",
+    "overallStatus": "UNKNOWN",
+    "conditions": "HER2 Positive Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 128,
+    "primaryOutcomeMeasure": "Safety(adverse Events [AEs] and Serious Adverse Events [SAEs])",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged \u226518 and \u226470 years.\n* ECOG performance status of 0 to 1.\n* Life expectancy of more than 12 weeks.\n* At least one measurable lesion exists.(RECIST 1.1).\n* Histologically or cytologic confirmed HER2 positive advanced breast cancer which failed prior therapies.\n* Required laboratory values including following parameters:\n\nANC: \u2265 1.5 x 10\\^9/L;Platelet count: \u2265 100 x 10\\^9/L;Hemoglobin: \u2265 9.0 g/dL;Total bilirubin: \u2264 1.5 x upper limit of normal (ULN);ALT and AST: \u2264 1.5 x ULN;BUN and creatine clearance rate: \u2265 50 mL/min;LVEF: \u2265 50%;QTcF: \\< 470 ms for female and \\< 450 ms for male.\n\n* Signed informed consent\n\nExclusion Criteria:\n\n* Received previous therapy with lapatinib, neratinib, pyrotinib or any other HER2 directe tyrosine kinase inhibitor.\n* Received previous therapy with capecitabine within 3 months.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

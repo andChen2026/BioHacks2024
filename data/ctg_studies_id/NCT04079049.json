@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04079049",
+    "briefTitle": "BreCLIM-2 - A RCT Investigating Local Treatment for Breast Cancer Liver Metastases",
+    "officialTitle": "Breast Cancer Liver Metastases-2 - A Multicentre Randomized Clinical Trial Investigating Local Treatment for Breast Cancer Liver Metastases",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Liver Metastases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent\n* \\>18 years old\n* ECOG 0-1\n* Breast cancer history\n* Breast cancer liver metastasis verified by biopsy\n* Patient amendable for liver surgery and pre- and postoperative oncological treatment\n* 1-4 liver metastasis amendable to surgery with functional liver remnant volume \\>30%\n* Liver metastasis (and skeletal metastasis) stable or responding to preoperative oncological treatment\n\nExclusion Criteria:\n\n* Non-skeletal extrahepatic disease\n* Non-resected primary tumour\n* Pregnancy\n* Progression of disease upon oncological treatment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

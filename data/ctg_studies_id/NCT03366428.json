@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03366428",
+    "briefTitle": "Phase 1 Study to Evaluate the Effect of DS-8201a on the QT/QTc Interval and Pharmacokinetics in HER2-Expressing Breast Cancer",
+    "officialTitle": "Phase 1, Multicenter, Open-label, Multiple-dose Study of DS-8201a to Assess the Effect on the QT Interval and Pharmacokinetics in Subjects With HER2-expressing Metastatic and/or Unresectable Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Malignant Neoplasm of Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 51,
+    "primaryOutcomeMeasure": "Changes in QTcF After Treatment With DS-8201a in Participants With HER2-expressing Metastatic and/or Unresectable Breast Cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Has a pathologically documented unresectable or metastatic breast cancer with HER2 expression (immunohistochemistry \\[IHC\\] 3+, IHC 2+, IHC 1+ and/or in situ hybridization \\[ISH\\] +) that is refractory to or intolerable with standard treatment, or for which no standard treatment is available\n* Has a left ventricular ejection fraction (LVEF) \u2265 50%\n* Has an Eastern Cooperative Oncology Group performance status (ECOG PS) score of 0 or 1\n\nExclusion Criteria:\n\n* Has a medical history of myocardial infarction within 6 months before enrollment\n* Has a medical history of ventricular arrhythmias, other than rare occasional premature ventricular contractions\n* Has uncontrolled or significant cardiovascular disease",
+    "sex": "ALL",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

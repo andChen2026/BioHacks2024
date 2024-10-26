@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03706534",
+    "briefTitle": "Breast Ultrasound Image Reviewed With Assistance of Deep Learning Algorithms",
+    "officialTitle": "Breast Ultrasound Image Reviewed With Assistance of Deep Learning",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Breast Lesions, Breast Mass",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DEVICE_FEASIBILITY",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Concordance rate",
+    "eligibilityCriteria": "1. Inclusion Criteria:\n\n   * Adult females or males recommended for ultrasound-guided breast lesion biopsy or ultrasound follow-up with at least one suspicious lesion\n   * Age \\> 18 years\n   * Able to provide informed consent\n2. Exclusion Criteria:\n\n   * Unable to read and understand English\n   * Unable or unwilling to provide informed consent\n   * A patient with current or previous diagnosis of breast cancer in the same quadrant\n   * Unable or unwilling to undergo study procedures\n3. Subject Characteristics\n\n   1. Number of Subjects: 300 subjects from 300 separate breast lesions can be acquired. If a subject has more than 1 suspicious lesion, each may be chosen by the radiologist attending as suitable for \"second review\".\n   2. Gender and Age of Subjects: Adult females or males aged 18 years or older who meet all of the inclusion criteria and none of the exclusion criteria will be considered for enrollment. Minors are excluded as breast cancer is very rare in this age group.\n   3. Racial and Ethnic Origin: There are no enrollment exclusions based on economic status, race, or ethnicity. Based on local and United States census data, the expected ethnic distribution will be approximately 26 Hispanic (approx. 16%) and 134 non-Hispanic people. Furthermore, the expected racial distribution is expected to be approximately 126 White (approx. 79% of the whole study), 21 Black or African America (13%), 8 Asian (5%), and 5 of other categories (3%).\n   4. Vulnerable Subjects: It is unlikely that any UR students or employees will be enrolled unless their primary physician refers them to UR Medicine Breast Imaging at Red Creek for breast ultrasound and a suspicious lesion is found. We do not expect any of these referrals to be from staffs who work directly with the PIs.",
+    "sex": "ALL",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

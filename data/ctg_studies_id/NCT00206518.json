@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00206518",
+    "briefTitle": "Taxotere and Adriamycin/Cytoxan (AC) Validation in Breast Cancer Patients",
+    "officialTitle": "A Randomized Multicenter Trial of Neoadjuvant Taxotere (T) and Adriamycin/Cytoxan (Ac): A Validation",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 167,
+    "primaryOutcomeMeasure": "Pathological Tumor Response to Neoadjuvant Chemotherapy (Taxotere and AC)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. All patients must be female.\n2. Signed informed consent.\n3. Primary breast cancers must be of clinical and/or radiologic size \\>3 cm, and deemed surgically operable.\n4. Negative serum pregnancy test (bHCG) within 7 days of starting study, if of child-bearing potential.\n5. Adequate bone marrow function:\n\n   * Hematocrit of greater than 30%,\n   * total neutrophil count must be \\>1.5 x 10\\^9/L and\n   * platelets of \\> 100 x 10\\^9/L prior to the start of any cycle.\n6. Renal function tests:\n\n   * creatinine within 1.5 times of the institution's upper limit of normal (ULN).\n7. Liver function tests:\n\n   * Total serum bilirubin within ULN, and\n   * liver transaminases within 2.5 times ULN, and\n   * alkaline phosphatase within 5 times ULN.\n8. Electrocardiogram showing no acute ischemic changes.\n9. Performance status (World Health Organization \\[WHO\\] scale) \\<2.\n10. Age \\> 18 years.\n11. Patients older than 70 years of age should have left ventricular ejection fraction within ULN by multigated acquisition scan (MUGA) or 2D echocardiogram.\n\nExclusion Criteria:\n\n1. Patients with metastatic breast cancer.\n2. Pregnancy or unwillingness to use a reliable contraceptive method in women of child-bearing potential.\n3. Women who are lactating or breastfeeding.\n4. Severe underlying chronic illness or disease.\n5. Peripheral neuropathy - grade 2 or greater.\n6. Patients on other investigational drugs while on study will be excluded.\n7. Severe or uncontrolled hypertension, history of congestive heart failure, acute myocardial infarction, or severe coronary arterial disease.\n8. Prior taxane or anthracycline chemotherapy for malignancy.\n9. Patients with a history of severe hypersensitivity reaction to Taxotere or other drugs formulated with polysorbate 80.\n10. No previous or current malignancies at other sites within the last 5 years, with exception of adequately treated cone-biopsied in situ carcinoma of the cervix uteri and basal or squamous cell carcinoma of the skin.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

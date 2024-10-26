@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00738777",
+    "briefTitle": "Pre-operative Hormonal Treatment for Hormone Receptor Positive Breast Cancer",
+    "officialTitle": "A Randomized, Prospective Trial of 2-6 Weeks Pre-operative Hormonal Treatment for Hormone Receptor Positive Breast Cancer: Anastrozole +/- Fulvestrant or Tamoxifen Exposure - Response in Molecular Profile (AFTER-study).",
+    "overallStatus": "SUSPENDED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 250,
+    "primaryOutcomeMeasure": "Decrease in tumor cell proliferation and induced apoptosis.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with proven invasive adenocarcinoma of the breast\n* Any tumor with a size \u2265 1cm (NOT inflammatory breast cancer)\n* WHO-performance score 0 or 1\n* Written informed consent\n\nExclusion Criteria:\n\n* Clues of metastatic disease by clinical examination according to most recent NABON guidelines\n* Multicentric breast cancer\n* Inflammatory breast cancer\n* Hormone replacement during the last 12 months\n* Other systemic treatment during the waiting time till surgery\n* Already planned date for surgery within the next 2 weeks\n* Any psychological, familial, sociological or geographical condition potentially hampering adequate informed consent or compliance with the study protocol\n* Patient's refusal to undergo a core biopsy procedure of the primary tumor before the start of treatment\n\nNB: a concomitant malignancy within the last five years is not an exclusion criterium, because survival is not the primary endpoint. Just as prior invasive breast cancer or DCIS within the last 15 years is not an exclusion criterium.\n\nNB: Patients of childbearing potential must implement adequate non-hormonal contraceptive measures during the study.",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04955808",
+    "briefTitle": "Biospecimen Collection in Identifying Genetic Changes in Patients With Breast, Prostate, Colorectal, Liver, or Kidney Cancer or Multiple Myeloma Undergoing Surgery",
+    "officialTitle": "Early Onset Malignancies Initiative (EOMI): Molecular Profiling of Breast, Colon, Kidney, Liver, Multiple Myeloma, and Prostate Among Racially and Ethnically Diverse Populations",
+    "overallStatus": "SUSPENDED",
+    "conditions": "Breast Carcinoma, Colon Carcinoma, Invasive Carcinoma, Kidney Carcinoma, Liver Carcinoma, Malignant Solid Neoplasm, Multiple Myeloma, Prostate Carcinoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 2400,
+    "primaryOutcomeMeasure": "Acquisition of tissue, blood, and other biospecimens for research purposes",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with either:\n\n  * Histologically confirmed invasive carcinoma or multiple myeloma OR\n  * Clinical diagnosis of carcinoma or multiple myeloma OR\n  * Suspected clinical diagnosis of multiple myeloma\n* Patients with one of following tumor types and age ranges:\n\n  * Breast cancer diagnosis at ages 18-45\n  * Colon cancer diagnosis at ages 18-55\n  * Kidney cancer at diagnosis at ages 18-50 (American Indian or Alaska Native \\[AIAN\\] and non-Hispanic Whites \\[NHW\\] only)\n  * Liver cancer diagnosis at ages 18-55\n  * Prostate cancer diagnosis at ages 18-55\n  * Multiple myeloma diagnosis at ages 18-50\n* Patients whose tumor specimen was collected or will be collected during one of the following routine procedures:\n\n  * Surgery to remove cancer OR\n  * Routine biopsy procedures performed to confirm a histologic diagnosis OR\n  * Routine biopsy procedure performed to obtain additional tumor material for routine prognostic or predictive biomarkers OR\n  * Routine procedure to place a vascular access device prior for systemic therapy\n* Patients who have received no therapy for their cancer other than surgery, irrespective of stage\n* Collection of specimens from living patients:\n\n  * Ability to understand and willingness to sign a written informed consent document indicating their willingness to have their tissue or biologic fluid specimens used for research as outlined in this protocol\n* Collection of specimens from deceased patients:\n\n  * Banked tissue samples and/or banked biologic fluid specimens of deceased patients may be used as long as all samples or specimens are properly de- identified prior to submission\n* Sites must use the Central Institutional Review Board for the National Cancer Institute (NCI CIRB).\n\nExclusion Criteria:\n\n* Patients who do not meet criteria for an early onset malignancy\n* Prior systemic therapy or radiation therapy for their malignancy\n* Tumor does not meet quality metrics\n* Patient refused consent for use of tissue for research activities included in the Early Onset Malignancies Initiative\n* A diagnosis of a synchronous invasive malignancy\n* Patients with a history of invasive cancer or hematologic malignancy in preceding 5 years",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

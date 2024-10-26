@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03518268",
+    "briefTitle": "Vivomixx for Prevention of Bone Loss in Women With Breast Cancer Treated With an Aromatase Inhibitor",
+    "officialTitle": "The Efficacy of the Probiotic Supplement Vivomixx on Prevention of Bone Loss in Early Menopausal Women With Breast Cancer Treated With an Aromatase Inhibitor",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Osteoporosis, Osteopenia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Collagen type 1 cross-linked C-telopeptide (CTX)",
+    "eligibilityCriteria": "Inclusion criteria\n\n1. Age\u2265 35 years\n2. Breast cancer stages 1-3 (non metastatic)\n3. Under treatment with aromatase inhibitors\n4. In menopausal status for \u226410y\n5. Estrogen receptor positive tumor\n6. CTX \u2265300 pg/ml\n\nExclusion criteria\n\n1. Distant metastases\n2. Additional active primary malignancy\n3. Metabolic bone disease (primary hyperparathyroidism, hyperthyroidism, paget, osteomalacia etc)\n4. Glucocorticoid treatment (chronic or high dose \\>7.5 mg in the last three months)\n5. Bisphosphonate treatment for more than 3 months in the last 2 years\n6. Bone densitometry (DXA) T-Score \\<-2 unless not a candidate for antiresorptive therapy (unwilling/unable to take treatment)\n7. Lactose intolerant subjects",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

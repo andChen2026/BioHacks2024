@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00242203",
+    "briefTitle": "Evaluation of Chemotherapy Prior to Surgery With or Without Zometa for Women With Locally Advanced Breast Cancer",
+    "officialTitle": "Impact of Neoadjuvant Chemotherapy With or Without Zometa on Occult Micrometastases and Bone Density in Women With Locally Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Evaluate the impact of Zometa (zoledronic acid) on the clearance of bone marrow micrometastases",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Newly diagnosed primary invasive ductal or invasive lobular breast adenocarcinoma\n* Tumor classified as clinically large T2 (2-5 cm), T3, T4 or any T with N1, N2\n* Prior malignancies: limited to curatively treated basal or squamous carcinoma of the skin or history of previous malignancies, treated and now \\> 5 years disease free\n* \\>= 18 years of age\n* Normal left ventricular function by echocardiogram or radioventriculogram\n* Karnofsky Performance \\>= 70\n\nExclusion Criteria:\n\n* No evidence of distant metastasis present by CT, Bone scan, or physical exam\n* If the bone scan or CT scans demonstrate indeterminate lesions, the nature of these lesions may be further clarified by additional testing such as PET or MRI\n* No current treatment with Zometa or other bisphosphonates\n* No serious functional disorders of the liver or kidneys:\n* Serum Creatinine \\<=2\n* ALT/AST/ALK Phos \\<= 1.5 x upper limit of institutional normal.\n* Bili \\<= 1.5 x upper limit of institutional normal.\n* Currently not pregnant",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

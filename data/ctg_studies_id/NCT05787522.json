@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05787522",
+    "briefTitle": "Efficacy and Safety of AI-assisted Radiotherapy Contouring Software for Thoracic Organs at Risk",
+    "officialTitle": "Prospective, Multicenter and Controlled Evaluation of Efficacy and Safety of AI-assisted Radiotherapy Contouring Software in CT Images for Thoracic Organs at Risk",
+    "overallStatus": "RECRUITING",
+    "conditions": "Lung Cancer, Breast Cancer, Esophageal Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "DICE",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. \u226518 years old, no gender limit\uff1b\n2. patients suffering from breast cancer or lung cancer or esophageal cancer, undergoing thoracic CT scan, ready for radiotherapy\uff1b\n3. CT slice thickness \u22645mm\uff1b\n4. patients understand the goal of the trial, are willing to attend the trial and sign the informed consent.\n\nExclusion Criteria:\n\n1. congenital malformation or anatomical anomaly in scanned sites;\n2. artifact, prosthesis or implantation causing images undistinguishable;\n3. CT images not conforming to DICOM standards\uff1b\n4. investigators consider not suitable.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

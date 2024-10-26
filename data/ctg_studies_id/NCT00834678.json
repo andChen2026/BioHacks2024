@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00834678",
+    "briefTitle": "Bendamustine and Erlotinib in Treating Patients With Stage IIIB, Stage IIIC, or Stage IV Breast Cancer",
+    "officialTitle": "Phase I/II Study of Bendamustine and Erlotinib for Metastatic or Locally Advanced Triple Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 11,
+    "primaryOutcomeMeasure": "Maximum-tolerated Dose of Bendamustine Hydrochloride (Phase I)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed breast cancer meeting 1 of the following criteria:\n\n  * Unresectable stage IIIB or IIIC disease\n  * Stage IV disease\n* Must be negative for all of the following:\n\n  * Estrogen receptor (\\< 10%)\n  * Progesterone receptor (\\<10%)\n  * HER-2 (negative FISH, IHC 0 - 1+, or IHC +2 with negative FISH)\n* Measurable or evaluable disease\n* No symptomatic or progressive CNS (central nervous system) metastases\n\n  * Previously treated CNS metastases allowed provided all of the following criteria are met:\n\n    * At least 8 weeks since prior radiation to brain or CNS metastases\n    * No concurrent steroids\n    * No leptomeningeal disease\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* ECOG (Eastern Cooperative Oncology Group) performance status 0-2\n* Life expectancy \u2265 6 months\n* WBC \\> 1,500/mm\u00b3\n* Platelet count \\> 100,000/mm\u00b3\n* Creatinine clearance \\> 40 mL/min\n* Normal electrolytes (i.e., Na, K, and Ca normal; minor deviations are allowed if they do not impact on patient safety in the clinical judgment of the treating physician)\n* Bilirubin \u2264 1.5 times upper limit of normal (ULN)\n* ALT and AST \u2264 2.5 times ULN (\u2264 5 times ULN in the presence of documented liver metastases)\n* Alkaline phosphatase \u2264 2.5 times ULN (\u2264 5 times ULN in the presence of liver or bone metastases)\n* Not pregnant or nursing\n* Fertile patients must use effective barrier contraception\n* No uncontrolled intercurrent illness\n* No active infection requiring systemic therapy\n* Able to swallow oral medications and with no medical problems or prior surgeries that may interfere with the absorption of oral medications including the following:\n\n  * Uncontrolled nausea, vomiting, or diarrhea\n  * Lack of the physical integrity of the upper gastrointestinal tract\n  * Malabsorption syndrome\n* No known hypersensitivity to bendamustine hydrochloride, mannitol, or erlotinib hydrochloride\n* No prior malignancy in the past 5 years except for adequately treated basal cell or squamous cell skin carcinoma, or adequately treated stage I-II cancer for which the patient is in complete remission\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* Prior adjuvant or neoadjuvant chemotherapy and 1 prior chemotherapy regimen in the metastatic setting allowed provided recovered from all acute toxicities\n* No prior bendamustine hydrochloride or EGFR-directed therapy\n* No other concurrent antineoplastic treatments, including radiotherapy, chemotherapy, biological therapy, hormonal therapy, immunotherapy, gene therapy, and surgery\n\n  * Intravenous bisphosphonates allowed\n* No concurrent antiretroviral therapy for HIV-positive patients\n* No other concurrent investigational agents",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

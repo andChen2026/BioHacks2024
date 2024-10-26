@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01287624",
+    "briefTitle": "Gemcitabine Plus Cisplatin Versus Gemcitabine Plus Paclitaxel in Triple Negative Breast Cancer (TNBC)",
+    "officialTitle": "A Phase III, Multicenter, Open-Label, Randomized Study of Gemcitabine Plus Cisplatin (GP) Versus Gemcitabine Plus Paclitaxel (GT) as First-Line Treatment in Patients With Advanced Triple-Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 240,
+    "primaryOutcomeMeasure": "PFS (Progression Free Survival)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Females with age between 18 and 70 years old\n2. Histological proven unresectable recurrent or advanced breast cancer\n3. Triple-negative for estrogen receptor (ER), progestogen receptor (PR), and human epithelial receptor-2 (HER2) by immunohistochemistry (IHC) test. For patients with ER negative, PR negative, Her2 two plus, a negative Her2 gene amplification should be verified with FISH test. Her2 one plus may consider FISH verification.\n4. No prior chemotherapy for metastatic breast cancer. Prior use of taxanes in the adjuvant/neoadjuvant setting is acceptable if completed 6 months prior to enrollment\n5. At least one measurable disease according to the response evaluation criteria in solid tumor (RECIST)\n6. Performance status not more than 1\n7. All patients enrolled are required to have adequate hematologic, hepatic, and renal function\n8. Life expectancy greater than 12 weeks\n9. No serious medical history of heart, lung, liver and kidney\n10. Provision of written informed consent prior to any study specific procedures\n11. Patients with good compliance\n\nExclusion Criteria:\n\n1. Pregnant or lactating women (female patients of child-bearing potential must have a negative serum pregnancy test within 14 days of first day of drug dosing, or, if positive, a pregnancy ruled out by ultrasound)\n2. Women of child-bearing potential, unwilling to use adequate contraceptive protection during the course of the study\n3. Treatment with radiotherapy at the axial skeleton within 4 weeks before the first treatment or has not recovered from all toxicities of previously administered radiotherapy\n4. Treatment with an investigational product within 4 weeks before the first treatment\n5. Symptomatic central nervous system metastases, except for patients with stable and asymptomatic brain metastases who have completed a course of cranial irradiation, and have at least one measurable lesion outside the brain. Radiotherapy should be completed within 4 weeks prior to the registration\n6. Other active malignancies (including other hematologic malignancies) or other malignancies within the last 5 years, except for cured nonmelanoma skin cancer or cervical intraepithelial neoplasia.\n7. Patient having a history of clinically significant cardiovascular, hepatic, respiratory or renal diseases, clinically significant hematological and endocrinal abnormalities, clinically significant neurological or psychiatric conditions\n8. Uncontrolled serious infection",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

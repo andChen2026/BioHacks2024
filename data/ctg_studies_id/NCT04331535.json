@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04331535",
+    "briefTitle": "The Genomic Medicine at VA Study",
+    "officialTitle": "Pragmatic Randomized Trial of Polygenic Risk Scoring for Common Diseases in Primary Care",
+    "overallStatus": "RECRUITING",
+    "conditions": "Coronary Artery Disease, Atrial Fibrillation, Type 2 Diabetes, Colorectal Cancer, Breast Cancer, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 1076,
+    "primaryOutcomeMeasure": "Time-to-new diagnosis of common complex disease",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 50-70 years at enrollment\n* No known diagnosis of the following conditions, initially screened by the International Classification of Disease (ICD) codes or other electronic health record (EHR) data using validated methods and then confirmed with potential patient-participants during recruitment: coronary artery disease, atrial fibrillation, type 2 diabetes, colorectal cancer, breast cancer, prostate cancer\n\nExclusion Criteria:\n\n* Patients will be ineligible if they:\n\n  * Have a known diagnosis of at least one of the six diseases of interest\n  * Are younger than age 50 or older than age 70\n  * Are pregnant\n  * Are incarcerated or institutionalized",
+    "sex": "ALL",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

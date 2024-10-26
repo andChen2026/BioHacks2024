@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06464341",
+    "briefTitle": "Nodal Burden and Nodal Recurrence in Patients With Isolated Tumor Cells After Neoadjuvant Chemotherapy Treated With Axillary Dissection or Nodal Radiation: the OPBC-05/EUBREAST-14R/ICARO Study",
+    "officialTitle": "Nodal Burden and Nodal Recurrence in Patients With Isolated Tumor Cells After Neoadjuvant Chemotherapy Treated With Axillary Dissection or Nodal Radiation: the OPBC-05/EUBREAST-14R/ICARO Study",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 583,
+    "primaryOutcomeMeasure": "Number of Axillary Lymph Node Dissection (ALND)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Consecutive patients affected with T1-4 N0-3 breast cancer\n* For cN+: Biopsy proven confirmation is required\n* For cN0: any axillary staging technique including palpation is allowed\n* Residual ITCs in the SLN or clipped node\n* At least 1-year follow-up (12/2021 or later depending on the time of data collection)\n* For cN0: SLNB with single or dual tracer mapping\n* For cN+: SLNB with dual mapping or targeted axillary dissection (TAD: imaging-guided localization of sampled node in combination with SLN procedure with or without dual mapping)\n* Underwent TAD/SLNB +/- ALND +/- axillary RT\n\nExclusion Criteria:\n\n* Male patients\n* Patients with nodal pCR\n* Patients with residual nodal micro- or macrometastases\n* Stage IV disease at presentation\n* Inflammatory breast cancer (T4d) at presentation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

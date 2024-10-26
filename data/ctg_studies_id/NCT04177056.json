@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04177056",
+    "briefTitle": "Stereotactic Body Radiotherapy for Osseous Low Alpha-Beta Resistant Metastases for Pain Relief",
+    "officialTitle": "Stereotactic Body Radiotherapy for Osseous Low Alpha-Beta Resistant Metastases for Pain Relief",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Bone Metastases, Prostate Cancer, Breast Cancer, Renal Cell Carcinoma, Melanoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Overall Pain Response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of prostate cancer, renal cell carcinoma, or melanoma\n* Radiographic evidence of bone metastases requiring treatment for pain\n* Brief Pain Inventory score of \u2265 2\n\nExclusion Criteria:\n\n* Spinal lesions\n* Severe or progressive neurological deficit\n* Impending or existing pathological fracture\n* Bone metastasis in a previously irradiated site\n* Active systemic therapy\n* \\>5 lesions requiring treatment\n* Lesions \\>5 cm in largest diameter\n* Life expectancy \\< 3 months\n* Age \\< 18\n* Karnofsky Performance Status \\< 50\n* Unable to provide informed consent",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

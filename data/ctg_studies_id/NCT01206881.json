@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01206881",
+    "briefTitle": "Neoadjuvant Pegylated Liposomal Doxorubicin and Cyclophosphamide +/- Trastuzumab Followed by Docetaxel in Breast Cancer",
+    "officialTitle": "A Phase II Study of Neoadjuvant Treatment With Pegylated Liposomal Doxorubicin (Caelyx) and Cyclophosphamide +/- Trastuzumab Followed by Docetaxel in Patients With Locally Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "clinical response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* pathologically proven breast cancer\n* inflammatory, locally advanced breast cancer or a tumor \\> 5 cm\n* ECOG performance status \\< 2\n* LVEF \\> 50% measured by MUGA (HER2 positive patients)\n* adequate bone marrow, liver and renal function\n* written informed consent must be obtained\n\nExclusion Criteria:\n\n* another malignancy within 5 years prior to study entry\n* concurrent treatment with an investigational agent\n* other disease or condition that contraindicates participation in the study\n* pregnant or lactating females",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

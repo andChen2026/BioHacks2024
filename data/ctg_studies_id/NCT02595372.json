@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02595372",
+    "briefTitle": "Inhibiting Fatty Acid Synthase to Improve Efficacy of Neoadjuvant Chemotherapy",
+    "officialTitle": "Inhibiting Fatty Acid Synthase to Improve Efficacy of Neoadjuvant Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Cancer of the Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 42,
+    "primaryOutcomeMeasure": "Percentage of Patients With Pathological Complete Response (pCR) in Patients Who Have Fatty Acid Synthase (FASN) Expression",
+    "eligibilityCriteria": "Inclusion Criteria\n\n1. Newly diagnosed triple negative breast cancer (TNBC) clinical stage Ic, II, or III\n\n   * ER and PR \\< 10%\n   * HER2 negative based on one of the following:\n\n     * IHC 0 or 1+\n     * IHC 2+ and FISH negative\n     * IHC 2+ and FISH equivocal and no indication for HER2 targeted therapy based on the treating investigators discretion (i.e., HER2: CEP17 ratio \\< 2.0 or HER2 total copy number \\<6)\n2. Planned neoadjuvant treatment with anthracycline and taxane containing chemotherapy\n3. \u2265 18 years old at the time of informed consent\n4. ECOG Performance Status 0-1\n5. Ability to provide written informed consent and HIPAA authorization\n6. Women of childbearing potential definition must have a negative pregnancy test within 14 days of registration. All women (regardless of sexual orientation, having undergone a tubal ligation, or remaining celibate by choice) are considered to have childbearing potential unless they meet one of the following criteria:\n\n   * Prior hysterectomy or bilateral oophorectomy;\n   * Has not had menses at any time in the preceding 24 consecutive months\n7. Adequate organ function for anthracycline and taxane based therapy\n\n   * LVEF \\> LLN based on cardiac ECHO or MUGA\n   * Hgb \\> 8.5\n   * ANC \\> 1,000\n   * Platelets \\> 100,000\n   * Creatinine \\< 1.5\n   * T. bili \\< 1.3\n   * AST \\< 2.5 x ULN\n\nExclusion Criteria\n\n1. Use of prescription PPIs within 12 months prior to study entry \\[Dexlansoprazole (Dexilant), Pantoprazole (Protonix), Rabeprazole (Aciphex), Esomeprazole (Nexium), Lansoprazole (Prevacid), Omeprazole (Prilosec, Zegerid)\\]\n2. Use of OTC PPIs within 6 months prior to study entry \\[Esomeprazole (Nexium), Lansoprazole (Prevacid), Omeprazole (Prilosec, Zegerid)\\]\n3. Use of Orlistat or any other known FASN inhibitor within 6 months prior to study entry\n4. Nursing mothers are excluded\n5. Known hypersensitivity to any component of the formulation or substituted benzimidazoles\n6. Prior osteoporotic fracture",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

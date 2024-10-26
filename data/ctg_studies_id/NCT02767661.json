@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02767661",
+    "briefTitle": "Metronomic Capecitabine Plus Aromatase Inhibitor for First Line Treatment in HR(+), Her2(-) Metastatic Breast Cancer",
+    "officialTitle": "A Phase 3 Randomized Controlled Study of Metronomic Capecitabine Combined With Aromatase Inhibitor Versus Aromatase Inhibitor Alone for First Line Treatment in Hormone Receptor-positive, Her2-negative Metastatic Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 240,
+    "primaryOutcomeMeasure": "Progress-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult women with locoregionally recurrent or metastatic disease not amenable to curative therapy\n* Confirmed diagnosis of ER positive/Her2-negative breast cancer\n* No prior systemic anti-cancer therapy for locoregionally recurrent or metastatic disease\n* Any menopausal status, but premenopausal or perimenopausal patients are required to receive LHRHa treatment\n* Measurable disease defined by RECIST version 1.1, or bone-only disease\n* Eastern Cooperative Oncology Group (ECOG) 0-2, and life expectancy \u2265 3 months\n* Adequate organ and marrow function\n* Resolution of all toxic effects of prior therapy or surgical procedures\n\nExclusion Criteria:\n\n* Patients who have progressed within 2 years of adjuvant endocrine therapy\n* Patients who have not received prior endocrine therapy and are eligible to receive fulvestrant as initial therapy\n* Patients with advanced, symptomatic, visceral spread that are at risk of life threatening complication in the short term\n* Known uncontrolled or symptomatic central nervous system metastases\n* Diagnosis of any other malignancy within 3 years prior to randomization (except adequately treated basal or squamous cell skin cancer or cervical carcinoma in situ)\n* Serious uncontrolled intercurrent infections or intercurrent medical or psychiatric illness",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

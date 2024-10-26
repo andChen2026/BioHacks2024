@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06558084",
+    "briefTitle": "Real-World Clinical Outcomes and Toxicity in Metastatic Breast Cancer Patients Treated With First or Second Line CDK 4/6 Inhibitors and Endocrine Therapy",
+    "officialTitle": "Real-World Clinical Outcomes and Toxicity in Metastatic Breast Cancer Patients Treated With First or Second Line CDK 4/6 Inhibitors and Endocrine Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Toxicity, Drug, Progression, Disease",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 64,
+    "primaryOutcomeMeasure": "Adverse effect",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer patients aged 18 years old or more\n* Female patients\n* Histologically proven invasive breast cancer\n* Histologically proven HR-positive and HER2-negative breast cancer\n* Metastatic breast cancer (Stage 4 according to AJCC 8th edition 2017)\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 to 3.\n* Adequate hematological and organs function\n* Patients receiving CDK 4/6 inhibitor combined with endocrine therapy(Aromatase inhibitors , GnRH agonists, fulvastrent). as a first or second line treatment\n\nExclusion Criteria:\n\n* - Male breast cancer patients\n* Patients in, visceral crisis (defined as : severe organ dysfunction, as assessed by signs and symptoms, laboratory studies and rapid progression of disease ) that are at risk of life threatening complication in the short term.\n* Prior treatment with any CDK 4/6 inhibitor.\n* History of any other cancer , unless in complete remission with no therapy for a minimum of 3 years.\n* Have active bacterial or fungal infection, or detectable viral infection.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

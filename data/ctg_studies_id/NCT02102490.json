@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02102490",
+    "briefTitle": "A Study of Abemaciclib (LY2835219) In Participants With Previously Treated Breast Cancer That Has Spread",
+    "officialTitle": "A Phase 2 Study of LY2835219 for Patients With Previously Treated Hormone Receptor Positive, HER2 Negative Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 132,
+    "primaryOutcomeMeasure": "Percentage of Participants With Complete Response (CR) or Partial Response (PR) (Objective Response Rate [ORR])",
+    "eligibilityCriteria": "Inclusion Criteria.\n\n* Have a diagnosis of Hormone Receptor Positive (HR+), Human Epidermal Growth Factor Receptor 2 Negative (HER2-) breast cancer.\n* Recurrent, locally advanced, unresectable or metastatic breast cancer with disease progression following anti-estrogen therapy.\n* Prior treatment with at least 2 chemotherapy regimens:\n\n  * At least 1 of these regimens must have been administered in the metastatic setting.\n  * At least 1 of these regimens must have contained a taxane.\n  * No more than 2 prior chemotherapy regimens in the metastatic setting.\n* Have a performance status (PS) of 0 to 1 on the Eastern Cooperative Oncology Group scale.\n* Have discontinued all previous therapies for cancer.\n* Have the presence of measureable disease as defined by Response Evaluation Criteria in Solid Tumors Version 1.1.\n\nExclusion Criteria:\n\n* Have either a history of central nervous system (CNS) metastasis or evidence of CNS metastasis on the magnetic resonance image of brain obtained at baseline.\n* Received prior therapy with another cyclin-dependent kinases 4 and 6 (CDK4/6) inhibitor.\n* Have received treatment with a drug that has not received regulatory approval for any indication within 14 or 21 days of the initial dose of study drug.\n* Have had major surgery within 14 days of the initial dose of study drug.\n* Have a history of any other cancer (except non-melanoma skin cancer or carcinoma in-situ of the cervix).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

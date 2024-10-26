@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00640861",
+    "briefTitle": "Vaccine Therapy in Treating Patients With Previously Treated Stage II or Stage III Breast Cancer",
+    "officialTitle": "MUC1/HER-2/Neu Peptide Based Immunotherapeutic Vaccines for Breast Adenocarcinomas",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 45,
+    "primaryOutcomeMeasure": "Percentage of CD4+ T cells, CD8+ T cells, B cells, monocytes, and dendritic cells in a patient's peripheral blood sample as estimated by flow cytometry with a panel of monoclonal antibodies",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adenocarcinoma of the breast\n\n  * Clinical stage II or III disease\n  * No radiographic evidence of disease at the time of enrollment\n  * Has undergone surgery, adjuvant chemotherapy, and/or radiotherapy\n\n    * Completed \"standard first-line therapy\" only (including adjuvant therapy) for breast cancer within the past 3 months and currently with no evidence of disease\n  * Patients with stage I breast cancer with high-risk features are eligible provided 1 of the following criteria are met:\n\n    * HER2 over-expression or amplification\n    * Triple-negative (i.e., no expression of ER, PR, or over-expression of HER2 on routine immunohistochemical staining)\n* .\n* MUC1-positive breast cancer\n* HLA-A2 positive\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Menopausal status not specified\n* ECOG performance status 0-2\n* Hemoglobin \u2265 8.0 g/dL\n* Platelet count \u2265 75,000/\u03bcL\n* ANC \u2265 1,500/uL\n* Creatinine \u2264 2 times upper limit of normal (ULN)\n* AST \u2264 2 times ULN\n* No uncontrolled infection\n* No known HIV infection\n* No other circumstances (e.g., concurrent use of systemic immunosuppressants or immunocompromising condition) that in the opinion of the physician would render the patient a poor candidate for this trial\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No prior invasive malignancies within the past 5 years (with the exception of curatively-treated basal cell or squamous cell carcinoma of the skin or carcinoma in situ of the cervix)\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* Fully recovered from acute, reversible effects of any prior breast cancer therapy\n* No more than 3 years since prior surgery for primary breast cancer\n* Concurrent anti-estrogen therapy is allowed\n* No other concurrent chemotherapy, immunotherapy, radiotherapy, or any ancillary therapy considered investigational (utilized for a non-FDA-approved indication and in the context of a research investigation)\n* No concurrent enrollment in any other study involving a pharmacologic agent (drugs, biologics, immunotherapy approaches, gene therapy) whether for symptom control or therapeutic intent",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03343145",
+    "briefTitle": "A Study to Evaluate the Efficacy, Safety and Immunogenicity of Leucostim\u00ae Versus Neupogen\u00ae in Breast Cancer Patients",
+    "officialTitle": "A Randomized, Open-label, Active-controlled, Multi-center, Phase III Study to Evaluate the Efficacy, Safety and Immunogenicity of Leucostim\u00ae Versus Neupogen\u00ae in Breast Cancer Patients Receiving Myelosuppressive Chemotherapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 143,
+    "primaryOutcomeMeasure": "Mean duration of Grade 4 Neutropenia (i.e. ANC < 500/mm3) in Cycle 1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Willing to provide a written informed consent\n2. Men or women \u2265 18 and \u2264 70 years of age\n3. Histologically or cytologically confirmed breast cancer (Stage II to Stage IV)\n4. Be scheduled to receive TAC regimen as adjuvant therapy\n5. Subjects who meet the conditions at screening test as follows;\n\n   * Absolute Neutrophil Count (ANC) \u2265 1,500/mm3\n   * Platelet Count \u2265 100,000/mm3\n   * ECOG Performance Status : 0\\~2\n6. Adequate renal function (Creatinine \u2264 1.5 x ULN at screening test)\n7. Adequate hepatic function at screening test (Total bilirubin/AST/ALT \u2264 1.5 x ULN, ALP \u2264 2.5 x ULN at screening test)\n\nExclusion Criteria:\n\n1. Prior chemotherapy experiences\n2. Prior bone marrow or stem cell transplantation\n3. History of treatment with hematopoietic growth factors (e.g. G-CSF, peg-G-CSF, erythropoietin)\n4. History of prior malignancy other than breast cancer or surgically cured malignancies within 5 years of informed consent date\n5. Participation in any other clinical study within 4 weeks of informed consent date or planning to simultaneously participate in another clinical study\n6. Currently receiving radiation therapy or having completed radiation therapy within 4 weeks of informed consent date\n7. Active infection which may require systemic antimicrobial or antiviral therapy during the study (e.g. ANC \u2265 12,000/mm3 or Body Temperature \\> 38.2 degrees C (100.8 degrees F))\n8. History of systemic antibiotic use within 72 hours prior to chemotherapy\n9. History of hypersensitivity to the investigational product, components or similar products\n10. HIV positive\n11. Pregnant or lactating women, or women of child-bearing potential who are not willing to follow a reliable and effective contraceptive measure during the course of the study and for at least one month after the completion of the study\n12. Any other cases that is considered by the investigator as an exclusion",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02450058",
+    "briefTitle": "Adjuvant FEC Versus EP in Breast Cancer (MIG5)",
+    "officialTitle": "Fluorouracil, Epirubicin and Cyclophosphamide Versus Concurrent Epirubicin and Paclitaxel in Node Positive Early Breast Cancer Patients: a Randomized, Phase III Trial of Gruppo Oncologico Nord-Ovest - Mammella Intergruppo Group",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Chemotherapy, Adjuvant",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1055,
+    "primaryOutcomeMeasure": "overall survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with histologically confirmed breast cancer who had undergone radical mastectomy or breast-conserving surgery in addition to full ipsilateral axillary lymph node dissection\n* Lymph node-positive disease with less than 10 involved axillary lymph nodes\n* Surgery performed not more than 5 weeks before randomization\n* ECOG performance status 0\n* Absolute neutrophil count \u2265 2,000/mm\u00b3\n* WBC \u2265 3,000/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Bilirubin \u2264 1.5 times upper limit of normal (ULN)\n* AST and ALT \u2264 1.5 times ULN\n* Postoperative regional radiotherapy limited to the remaining breast admitted for patients who received breast-conserving surgery\n* Written informed consent\n\nExclusion Criteria:\n\n* Prior or concurrent ipsilateral or contralateral invasive breast carcinoma within the last 10 years\n* Metastatic disease, including metastasis in the ipsilateral supraclavicular lymph nodes\n* Prior chemotherapy or prior cytotoxic regimens or prior hormonal therapy\n* Pregnant or nursing\n* Other serious medical illness requiring medication, uncontrolled infections\n* Other malignancy except adequately treated, cone-biopsied in situ carcinoma of the cervix or basal cell or squamous cell carcinoma of the skin\n* Recent myocardial infarction, congestive heart failure, or serious arrhythmia",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

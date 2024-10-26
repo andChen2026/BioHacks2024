@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00172029",
+    "briefTitle": "Study Comparing Full-dose Radiotherapy Versus Reduced Dose in the Management of Bone Metastasis in Patients With Breast Cancer Receiving Zoledronic Acid",
+    "officialTitle": "Study Comparing Full-dose Radiotherapy Versus Reduced Dose in the Management of Bone Metastasis in Patients With Breast Cancer Receiving Zoledronic Acid",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer With Metastatic Bone Disease",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 116,
+    "primaryOutcomeMeasure": "Percentage of patients showing complete response in bone pain palliation without having any analgesic treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients aged \u2265 18 years.\n* Histologically confirmed diagnosis of breast cancer with at least one bone metastases.\n* Radiologically documented solitary or multiple osteolytic or osteoblastic lesions in axial skeleton or in the extremities in which radiotherapy is indicated.\n* Pain and/or analgesic score \u2265 3 (see section 3.5.2) at the bone site to be irradiated.\n* ECOG performance status \u2264 2.\n* Life expectancy more than 6 months.\n\nExclusion Criteria:\n\n* Patients in whom the target lesion(s) is not detectable by conventional techniques (i.e. X-rays MRI or CT scan).\n* Presence of pathological fracture in the target lesion(s).\n* Prior irradiation of the painful area(s) to be irradiated.\n* Known hypersensitivity to zoledronic acid or other biphosphonates.\n* Previous treatment with bisphosphonates for the current disease; any treatment with biphosphonates for other indications should anyway have been discontinued at least two years before randomization into the study.\n* Skeleton-related complications (e.g., pathological fractures, orthopedic intervention to treat or stabilize an osteolytic defect, spinal cord compression) during the last 3 weeks prior to the first infusion of trial medication.\n* Change in anticancer therapy within the 2 weeks prior to screening assessments and/or test treatment start.\n* Patients with severe renal function (serum creatinine \\> 400 umol/l or \\> 4.5 mg/dl or calculated creatinine clearance \u2264 30 ml/minute) or with prior renal transplantation. Creatinine clearance will be calculated using the following formula:\n\nCreatinine clearance = (140-age\\[yr\\])(body weight \\[kg\\]) x 0.85 (72) (serum creatinine \\[mg/dL\\]) or Creatinine clearance = (140-age\\[yr\\])(body weight \\[kg\\]) x 0.85 (0.814) (serum creatinine \\[\u00b5mol/L\\])\n\n* Corrected (adjusted for serum albumin) serum calcium concentration \\< 8.0 mg/dl (2.00 mmol/L).\n* Patients with clinically symptomatic brain metastases\n* Bone metabolism disorder, e.g. Paget disease, primary hyperparathyroidism\n* Serious intercurrent illness other than breast cancer that can interfere with the evaluation of the effect of the therapy.\n* Pregnancy and lactation.\n* Women of childbearing potential not on an effective form of contraception.\n* Known history or present abuse of alcohol or drugs (accepted social alcohol usage will not exclude the patient)\n* Patients who, in the opinion of the investigator, are unlikely to cooperate fully during the study.\n\nOther protocol-defined inclusion/exclusion criteria may apply.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

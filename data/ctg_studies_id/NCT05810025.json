@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05810025",
+    "briefTitle": "FHIR-Enhanced RealRisks to Improve Accuracy of Breast Cancer Risk Assessments",
+    "officialTitle": "Integrating EHR and Patient-generated Health Data for Breast Cancer Risk Assessment and Decision Support in a Diverse Multiethnic Population",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 55,
+    "primaryOutcomeMeasure": "Patient Activation",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women, age 35-74 years\n* High-risk defined as 5-year invasive breast cancer risk \u22651.7% or 10 risk \u226520% according to the BCSC or GAIL models\n* English- or Spanish-speaking\n* Able to sign informed consent.\n\nExclusion Criteria:\n\n* Women with a personal history of breast cancer\n* Women who previously participated in a sub-study (Aim 1) of the awarded grant.",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

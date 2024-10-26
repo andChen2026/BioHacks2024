@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00268918",
+    "briefTitle": "Docetaxel and PTK787 in Metastatic Breast Cancer Patients and Gynecological Cancer Patients",
+    "officialTitle": "A Phase I Trial of Docetaxel and PTK787 in Metastatic Breast Cancer Patients and Recurrent or Refractory Gynecological Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Ovarian Cancer, Endometrial Cancer, Cervical Cancer, Fallopian Tube Cancer, Peritoneal Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "To determine the maximum tolerated dose and the dose limiting toxicity of weekly Taxotere patients treated with PTK787.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Recurrent gynecological cancers or metastatic breast cancer. Initial diagnosis must be confirmed histologically.\n* Measurable disease or nonmeasurable disease\n* Age \\> 18 years\n* ECOG performance 0,1,2\n* 4 weeks or greater since major surgery, 3 weeks or greater since chemotherapy\n* Certain lab values\n* Negative for proteinuria\n\nExclusion Criteria:\n\n* Four or more treatment regimens\n* History or presence of uncontrolled CNS disease\n* Prior biologic or immunotherapies less than 3 weeks prior to registration\n* Prior full field radiotherapy less than 4 weeks or limited field radiotherapy less than 2 weeks prior to registration\n* Prior therapy with anti-VEGF agents\n* Peripheral neuropathy with functional impairment \\> CTC grade 2\n* Pregnant or breast feeding\n* Concurrent severe and/or uncontrolled medical condition\n* Chronic renal disease\n* Acute or chronic liver disease\n* Impairment of gastrointestinal function or GI disease\n* Confirmed diagnosis of HIV infection are excluded at the investigators discretion\n* Therapeutic warfarin sodium or similar oral anticoagulants that are metabolized by the cytochrome p450 system.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

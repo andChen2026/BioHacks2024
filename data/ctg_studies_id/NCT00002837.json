@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00002837",
+    "briefTitle": "High-Dose Combination Chemotherapy and Peripheral Stem Cell Transplantation in Treating Patients With Breast Cancer",
+    "officialTitle": "Phase I-II Study of Dose Intense Doxorubicin, Paclitaxel And Cyclophosphamide With Peripheral Blood Progenitor Cells (PBPC) And Cytokine Support In Patients With Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 21,
+    "primaryOutcomeMeasure": "Maximum Tolerated Doses (MTD) of 4 courses Doxorubicin, Paclitaxel, + Cyclophosphamide followed by PBSC and G-CSF Support",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS: Histologically confirmed breast cancer that is metastatic or recurrent Poor-prognosis status required for Phase I portion of the study, i.e.: Estrogen receptor and progesterone receptor-negative tumor OR Failed hormonal therapy and with bulky disease or liver metastasis Bone marrow involvement less than 15% No active CNS metastases\n\nPATIENT CHARACTERISTICS: Age: 15 to 60 Sex: Not specified Performance status: Zubrod 0 or 1 Hematopoietic: WBC greater than 3,500/mm3 Absolute granulocyte count greater than 2,000/mm3 Platelet count greater than 100,000/mm3 Hepatic: Liver function tests less than twice normal Renal: Creatinine clearance (calculated) at least 60 mL/min Cardiovascular: Left ventricular ejection fraction greater than 50% No symptomatic cardiac disease requiring antiarrhythmic or inotropic therapy Pulmonary: DLCO greater than 50% of predicted Other: No pre-existing peripheral neuropathy greater than grade 1 No severe concomitant medical or psychiatric disease\n\nPRIOR CONCURRENT THERAPY: Biologic therapy: More than 3 weeks since any immunotherapy Chemotherapy: No prior doxorubicin or paclitaxel Patients with up to 150 mg per square meter doxorubicin or up to 4 courses of paclitaxel and who have responding disease are eligible for dose-intensive portion of protocol therapy Endocrine therapy: Not specified Radiotherapy: More than 3 weeks since any radiotherapy Surgery: Not specified",
+    "sex": "ALL",
+    "minimumAge": "15 Years",
+    "stdAges": "CHILD, ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04034953",
+    "briefTitle": "Prevention of Obesity-related Cancers: Setting up of a Multi-Cancer Education and Prevention Program in Hong Kong",
+    "officialTitle": "Prevention of Obesity-related Cancers: Setting up of a Multi-Cancer Education and Prevention Program in Hong Kong",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Obesity, Colorectal Cancer, Prostate Cancer, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 10000,
+    "primaryOutcomeMeasure": "Colorectal cancer detection rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 40 to 75 years depending on risk factor(s);\n* Measured BMI \u2265 25 kg/m2; or waist circumference \\>80cm \\[women\\] or \\>90 cm \\[men\\]; and\n* Absence of existing or previous symptoms suggestive of CRC and breast cancer\n\nExclusion Criteria:\n\n* Having received updated CRC screening tests (FIT in the past 2 year; flexible sigmoidoscopy in the past 5 years; colonoscopy in the past 10 years);\n* Having received updated prostate or breast screening test in the past 2 years;\n* Having personal of CRC, prostate or breast cancers;\n* Having personal history of colonic adenoma, diverticular disease or inflammatory bowel disease;\n* Having medical conditions which were contraindications for colonoscopy, like cardiopulmonary insufficiency and the use of double antiplatelets, etc.; and\n* Having medical conditions and disabling conditions with limited life expectancy",
+    "sex": "ALL",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

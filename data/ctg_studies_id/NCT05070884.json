@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05070884",
+    "briefTitle": "Clinical Validation of Radiomics Artificial Intelligence: Application to Breast Cancer Treatment Planning",
+    "officialTitle": "Clinical Validation of Radiomics Artificial Intelligence: Application to Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 5000,
+    "primaryOutcomeMeasure": "Percentage of patients non-respondents vs respondents in neoadjuvant breast cancer treatment (Estimate tumor aggressiveness)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females \u2265 18 years up to 85 years old\n* Individuals referred to hospitals for diagnosis of breast cancer\n* Availability of radiological images: 2D mammography or 2D synthetic digital tomosynthesis, ultrasound, or magnetic resonance\n* Availability of pathological report (surgical specimen)\n* Availability of (Neoadjuvant) treatment allocation (scheme, duration, benefit)\n* Availability of treatment response\n\nExclusion Criteria:\n\n* Patient with incomplete or low-quality data (radiological, pathological or clinical)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00459771",
+    "briefTitle": "Evaluating the Effect of Candesartan vs Placebo in Prevention of Trastuzumab-associated Cardiotoxicity",
+    "officialTitle": "Prospective, Randomized, Pharmacological Intervention Study; Evaluating Effect of the Angiotensin II-receptor (AT1) Blocker Candesartan vs Placebo in Prevention of Trastuzumab-associated Cardiotoxicity in Patients Treated With Trastuzumab",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 210,
+    "primaryOutcomeMeasure": "The occurrence of cardiotoxicity, defined as a decline in LVEF (MUGA) of more than 15% or a decrease of less than 15% to an absolute value below 45%.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged \u226518 years\n* WHO: \u2264 2\n* Strongly HER2-positive breast cancer, defined as an immunohistochemistry score of 3+ using the HercepTestTM, or gene amplification by fluorescence in situ hybridization, or chromogenic in situ hybridization (CISH).\n* Serum creatinine \\<140 umol/l or creatinine clearance \\> 50 ml/min (by Cockcroft-Gault formula)\n* Thyroid stimulating hormone between 0.5-3.9 MU/l\n* Blood pressure systolic \u2265 140 mmHg and diastolic \u2265 90 mmHg is acceptable at randomization. However prior to the first administration of trastuzumab blood pressure should be regulated and should be systolic \u2265 100 mmHg and \u2264 180 mmHg and diastolic \u2265 60 mmHg and \u2264 100 mmHg. (blood pressure should be regulated according to the guidelines of appendix 5)\n* LVEF \u00b3 50% assessed by multigated angiography (MUGA) or cardiac ultrasound\n* Adjuvant regimen: trastuzumab start \u2265 3 weeks after day 1 of the last anthracycline chemotherapy cycle\n* Trastuzumab treatment according to standard medical care\n* Written informed consent to participate in the study\n\nExclusion Criteria:\n\n* Prior anthracycline chemotherapy regimen or anti-HER2 therapy, or other prior biologic or immunotherapy for breast cancer treatment or any malignancy\n* Previous malignancy requiring chemotherapy or radiotherapy\n* Uncontrolled serious concurrent illness\n* Patients with New York Heart Association (NYHA) class II/III/IV congestive heart failure\n* Myocardial infarction \\< 6 months before randomization\n* Treatment with ACE inhibitor, ATII blocker, or lithium. Patients treated with ACE inhibitor, or ATII blocker can switch (after randomization and during the chemotherapy period) to alternative antihypertensive therapy; see appendix 5.\n* History of hypersensitivity to the study medication\n* Pregnancy or breast feeding",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

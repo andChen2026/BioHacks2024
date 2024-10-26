@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02986360",
+    "briefTitle": "Informed Implementation of Breast Density Reporting",
+    "officialTitle": "Informed Implementation of Breast Density Reporting",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Density, Breast Cancer Prevention",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Knowledge of overall breast cancer risk",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* undergoing screening mammography at participating hospital facility\n* normal mammogram result\n* no prior history of Ductal carcinoma in situ (DCIS) or invasive breast cancer\n* must have email account\n\nExclusion Criteria:\n\n* non-English speaking\n* prior history of Ductal Carcinoma in situ (DCIS) or invasive breast cancer\n* no email",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

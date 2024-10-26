@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02958033",
+    "briefTitle": "Shandong Cancer Hospital Affiliated to Shandong University",
+    "officialTitle": "Shandong Cancer Hospital Affiliated to Shandong University",
+    "overallStatus": "RECRUITING",
+    "conditions": "Early-stage Breast Cancer, Breast Conserving Surgery",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Degree of acute skin toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patients has had breast conserving surgery\n2. age \u2265 18 and \u2264 65 years\n3. with a histological diagnosis of invasive carcinoma of the breast\n4. with pathological stage of T1-2N0-1M0\n5. multidisciplinary decision of adjuvant WBI with a boost to the tumor bed\n6. informed consent obtained, signed and dated before specific protocol procedures\n\nExclusion Criteria:\n\n1. patients treated with Mastectomy\n2. Need for lymph node irradiation\n3. positive or close(\u2264 1 mm) surgical margin\n4. treated with neoadjuvant chemotherapy before surgery\n5. Bilateral malignancy of the breast (synchronous or metachronous)\n6. Pregnant or breastfeeding\n7. Mental condition rendering the patient unable to understand the nature, scope and possible consequences of the study\n8. Patient unlikely to comply with the protocol; i.e. uncooperative attitude, inability to return for follow-up visits, and unlikely to complete the study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

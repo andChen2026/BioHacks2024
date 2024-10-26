@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05683418",
+    "briefTitle": "A Study to Evaluate the Safety and Tolerability of TOS-358 in Adults With Select Solid Tumors",
+    "officialTitle": "A Study to Evaluate the Safety and Tolerability of the Covalent Phosphoinositide-3-Kinase (PI3K)-Alpha Inhibitor, TOS-358, in Adult Subjects With Select Solid Tumors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Colorectal Cancer, Gastric Cancer, HER2-negative Breast Cancer, Non-small Cell Lung Cancer, Squamous Cell Carcinoma of Head and Neck, Urothelial Carcinoma, Cervical Cancer, Ovarian Cancer, Endometrial Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 241,
+    "primaryOutcomeMeasure": "Determine the rate of dose-limiting toxicities (DLTs)",
+    "eligibilityCriteria": "Key Inclusion Criteria\n\n* Locally advanced, recurrent, or metastatic, incurable (any number of previous lines of therapy is allowed), histologically or cytologically confirmed: colorectal cancer; gastric cancer; non-small cell lung cancer; HER2- breast cancer; squamous cell carcinoma of the head and neck; urothelial cancer; or select gynecologic cancer (ovarian cancer, cervical cancer, or endometrial cancer)\n* Willing and able to provide written informed consent for this study\n* Adults \u2265 18 years old at time of consent\n* Known PIK3CA mutations or amplifications as determined at a CAP/CLIA-certified or equivalently accredited diagnostic laboratory using a validated test\n* Measurable disease by RECIST 1.1\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Life expectancy \u2265 3 months, as determined by the investigator\n* Adequate bone marrow, liver, and kidney function within 14 days prior to first dose of investigational product\n* Fasting plasma glucose \\< 126 mg/dL AND hemoglobin A1c (HbA1c) \\< 5.7%\n* Available archived or fresh tumor tissue sample for detection of PIK3CA mutation by central laboratory test\n\nKey Exclusion Criteria\n\n* Recent systemic anticancer treatment prior to start of treatment\n* Prior treatment with any PI3K, AKT, or mTOR inhibitor, or any agent whose mechanism of action is to inhibit the PI3K-AKT-mTOR pathway, except for patients with breast cancer\n* Second malignancy (solid or hematologic) within the past 3 years except: Adequately treated basal cell or squamous cell skin cancer; carcinoma in situ of the cervix, or prostate cancer with Gleason score \\< 6 and undetectable prostate specific antigen over 12 months ;ductal breast carcinoma in situ with full surgical resection (ie, negative margins); treated medullary or papillary thyroid cancer; metaplastic breast cancer\n* History of diabetes of any type\n* Body mass index (BMI) \u2265 30\n* Cushing syndrome\n* Congestive heart failure (New York Heart Association Class III to IV), symptomatic ischemia, conduction abnormalities uncontrolled by conventional intervention, or myocardial infarction within 6 months prior to the first dose of investigational product\n* Known active central nervous system (CNS) metastases.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

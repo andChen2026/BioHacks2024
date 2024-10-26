@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02841722",
+    "briefTitle": "Evaluation and Modeling of the G-CSF Effect on the Evolution of Neutrophils During Chemotherapy Based on Eribulin",
+    "officialTitle": "Evaluation and Modeling of the G-CSF Effect on the Evolution of Neutrophils During Chemotherapy Based on Eribulin",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 95,
+    "primaryOutcomeMeasure": "Variation of Neutrophils concentration in patient treated with G-CSF (Granulocyte-Colony Stimulating Factor)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women\n* over 18 years\n* Patient with locally or metastatic advanced breast cancer histologically documented who received at least one chemotherapy regimen that includes an anthracycline and a taxane unless in patients who can not receive these treatments\n* Patient to be treated with eribulin\n* Patient that should preventively receive granulocyte growth factors at the first cycle (patient who already experienced febrile neutropenia, patient with a low neutrophil count at baseline, patient with a Performance Status altered or any other condition requiring administration of granulocyte colony stimulating factor as recommended by the oncologist)\n* Neutrophils\\> 1500 / mm3; platelets\\> 100,000 / mm3\n* Dated and signed Informed consent\n* For patients of childbearing age, effective contraception during treatment and up to 3 months after stopping treatment\n\nExclusion Criteria:\n\n* Patient with against-indication to treatment with eribulin such as hypersensitivity to the active substance or to any of the excipients, congenital long QT syndrome\n* Patient already being treated with eribulin\n* Patient with clinically detectable brain metastases\n* Patient with against-indication to treatment with G-CSF such as hypersensitivity to the active substance or to any of the excipients\n* Pregnant women or nursing\n* Patient under guardianship or subject to major people protection regime\n* Patient not affiliated with a social security scheme (beneficiary or beneficiary)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

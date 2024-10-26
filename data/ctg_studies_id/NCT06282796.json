@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06282796",
+    "briefTitle": "Early Prediction and Warning for Cardiotoxicity Due to Anthracycline-Based Breast Cancer Chemotherapy",
+    "officialTitle": "Early Prediction and Warning for Cardiotoxicity Due to Anthracycline-Based Breast Cancer Chemotherapy: a Prospective, Multicenter, Clinical Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 600,
+    "primaryOutcomeMeasure": "Left ventricular ejection fraction(unit: %) in all breast cancer patients treated with anthracycline-based chemotherapy.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u226518 years\n* Histologically or cytopathological confirmed stage I-III HER2+ breast cancer, scheduled to receive consecutive anthracycline chemotherapy or subsequent sequential trastuzumab targeted therapy\n* LVEF\u226553% before chemotherapy\n\nExclusion Criteria:\n\n* life expectancy \u226412 months\n* Participating in other ongoing oncology clinical trials\n* Prior treatment with anthracyclines or chest radiation therapy\n* Pregnant or lactating women\n* Ultrasound images of the heart are of very poor quality",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

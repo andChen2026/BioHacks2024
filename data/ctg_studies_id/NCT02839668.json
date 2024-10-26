@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02839668",
+    "briefTitle": "The Impact of Intravenous Anaesthesia on Angiogenesis in Patients With Breast Cancer (TIVA/TCI-BC)",
+    "officialTitle": "The Impact of Intravenous Anaesthesia on Angiogenesis in Patients With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "serum concentration of vascular endothelial growth factor A (VEGF-A)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* diagnosis of breast cancer\n* ASA risk class I-III\n* no metastatic disease\n\nExclusion Criteria:\n\n* hepatic, pulmonary metastasis\n* type I and II diabetes\n* rheumatoid arthritis\n* osteoarthritis\n* ischemic cardiovascular disease (history of myocardial infarction, angina)\n* peripheral vascular disease\n* endometriosis\n* allergies to lidocaine, fentanyl, propofol, sevoflurane, atracurium, midazolam, acetaminophen, tramadol\n* neuropsychiatric disorders\n* incapacity of understanding the study\n* refusal of participation",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

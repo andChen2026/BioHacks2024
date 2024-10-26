@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00247975",
+    "briefTitle": "Ability of L-carnitine to Prevent Heart Damage in Breast Cancer Patients Receiving Anthracycline Chemotherapy",
+    "officialTitle": "Primary Prevention of Anthracycline-Induced Cardiotoxicity With L-Carnitine in Patients With Breast Cancer (PPACC)-Pilot Study",
+    "overallStatus": "TERMINATED",
+    "conditions": "Heart Failure",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 36,
+    "primaryOutcomeMeasure": "To compare the effects of L-carnitine therapy versus placebo on left ventricular (LV) ejection fraction (EF) as a marker of anthracycline induced cardiotoxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients must have histologically or cytologically indicated breast cancer (stages I, II, III) eligible for adjuvant anthracycline chemotherapy \\[FEC100 or AC-Taxol(paclitaxel) every 21 days.\n* HER2 negative or HER2 positive breast cancer by immunohistochemistry (IHC3+) and/or fluorescent in-situ hybridization.\n* Eastern cooperative oncology group (ECOG) performance status = 0, 1, 2\n* Age \u2265 18 years old.\n* Ability to understand and the willingness to sign a written informed consent document.\n* The effects of L-carnitine on the developing human fetus at the recommended therapeutic dose are unknown. For this reason, women of child-bearing potential must agree to use adequate contraception prior to study entry and for the duration of study participation. Should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately.\n\nExclusion Criteria:\n\n* Patients with evidence of metastatic breast cancer.\n* Resting LV ejection fraction \\< 50%.\n* Patients having received previous anthracycline therapy or contraindication to anthracycline.\n* Patients having a contraindication to L-carnitine therapy\n* Dexrazoxane therapy at the time of enrollment.\n* Patients with abnormal baseline bloodwork:\n\n  * hemoglobin \u2264 100 mg/L\n  * platelets \u2264 100 x 10\\^9/L\n  * white blood cells \u2264 4 x 10\\^9/L\n  * creatinine, AST, ALT, bilirubin \\> 1.5 x the upper normal limits\n* Participation in another randomized clinical trial.\n* Patients having significant cardiac disease (previous myocardial infarction, congestive heart failure, or hemodynamically significant valvular heart disease) that would limit compliance with study requirements.\n* Patients taking medication that may affect LV function (b-blockers, amiodarone, ACE-inhibitors, calcium channel blockers, or digoxin).\n* Patients with symptoms of heart failure.\n* Patients unable to participate in a study requiring long term follow up.\n* Pregnant or lactating women.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

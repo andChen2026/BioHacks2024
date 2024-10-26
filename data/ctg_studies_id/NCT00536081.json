@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00536081",
+    "briefTitle": "Various G-CSF Regimens to Prevent Infection During Chemotherapy",
+    "officialTitle": "Primary G-CSF Prophylaxis During the First Two Cycles Only or Throughout All Chemotherapy Cycles in Breast Cancer Patients at Risk of Febrile Neutropenia",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Chemotherapy, Febrile Neutropenia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 172,
+    "primaryOutcomeMeasure": "number of febrile neutropenia episodes costs per treatment arm",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer patients \u226518 years.\n* Indication for 3-weekly chemotherapy.\n* Considered fit enough to receive chemotherapy, with adequate renal and hepatic function.\n* Planned a chemotherapy regime in adjuvant, neo-adjuvant, advanced setting with an increased risk of febrile neutropenia, i.e.:\n* Regimes with \\>20% risk of febrile neutropenia:\n\n  * e.g. TAC (docetaxel, adriamycin, cyclophosphamide)\n  * AT (adriamycin, docetaxel)\n* Regimes with 10-20% risk of febrile neutropenia (e.g. AC, doxorubicin and vinorelbine, or docetaxel monotherapy) in the presence of \u22651 patient risk factor (\\>65 yrs, extensive bone marrow involvement or prior extensive radiotherapy on bone tissue\n* Prior chemotherapy\n* ECOG performance status of 2 or more, grade 2 or higher liver function abnormalities).\n* That is, patients starting with docetaxel as second part of FEC-D are eligible for the last 3 docetaxel cycles, if there is an increased risk of febrile neutropenia, e.g. by elderly age.\n* Able to comply with the protocol.\n* Written informed consent obtained prior to any study specific screening.\n\nExclusion Criteria:\n\n* Active uncontrolled infection.\n* Inadequate renal or hepatic function.\n* Any evidence or history of hypersensitivity or other contraindications to G-CSF medication.\n* Not recovered from acute toxicities of prior therapies.\n* Absolute neutrophil count (ANC) \\<1.5 x 109/l, not caused by bone marrow involvement.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

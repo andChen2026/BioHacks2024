@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04098926",
+    "briefTitle": "Highly Accelerated Dose-Integrated Radiotherapy in 5 Fractions in Breast Cancer",
+    "officialTitle": "Evaluation of Dose Integrated Accelerated Irradiation in Older Women (\u2265 70 Year) With Early and Loco-regionally Advanced Stages of Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Radiotherapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 70,
+    "primaryOutcomeMeasure": "Breast retraction (LENTSOMA)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \u2265 70 years old\n* AND breast conserving surgery or mastectomy for breast carcinoma\n* AND multidisciplinary decision of adjuvant irradiation\n* AND absence of distant metastases\n* AND informed consent obtained, signed and dated before specific protocol procedures\n\nExclusion Criteria:\n\n* Bilateral breast irradiation\n* In case of mastectomy: positive resection margin, needing boost\n* Mental condition rendering the patient unable to understand the nature, scope and possible consequences of the study\n* Patient unlikely to comply with the protocol; i.e. uncooperative attitude, inability to return for follow-up visits, and unlikely to complete the study\n* History of previous radiation treatment to the same region",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

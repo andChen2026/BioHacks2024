@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04166253",
+    "briefTitle": "Protective Role of Vitamin D in Breast Cancer Patients Treated With Doxorubicin",
+    "officialTitle": "The Potential Protective Effects of Vitamin (D) Against Doxorubicin Induced Cardiotoxicity in Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Troponin-T in ng/l",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients has a good performance status (ECOG 0-2) according to eastern cooperative oncology group (ECOG) score.\n* Adequate complete blood picture patients.\n* Females from (30-65) years of old.\n* Normal renal and liver functions.\n\nExclusion criteria:\n\n* Cardiac diseased or reduced cardiac output with left ventricular ejection fraction less than 50%.\n* Hepatic impaired patients.\n* Pregnancy or breast feeding or child bearing state.\n* Patient with history of allergy to vitamin D.\n* Concomitant use of other vitamins.\n* Renal impaired patients.\n* History of breast cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

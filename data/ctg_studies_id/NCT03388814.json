@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03388814",
+    "briefTitle": "Speeding Recovery From Pain and Opioid Use",
+    "officialTitle": "Speeding Recovery From Pain and Opioid Use After Mastectomy and Breast Reconstruction Surgery",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Pain, Postoperative, Breast Cancer, Opioid Use, Surgery",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Modeled worst pain intensity using the numeric rating scale (NRS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients scheduled for unilateral mastectomy with immediate issue expander and implant based reconstruction.\n* Age \u2265 18 years\n* Ability to understand, read, and write English, and the willingness to sign an IRB-approved informed consent document.\n* Patients who receive a tissue expander placement will be included in the study.\n* American Society of Anesthesiologists physical status I-III patients.\n\nExclusion Criteria:\n\n* Patients who receive an autologous tissue reconstruction.\n* Patients who receive a bilateral reconstruction.\n* Patients who receive a direct to permanent implant reconstruction\n* Patients with diagnosis of opioid misuse disorder or on high dose opioid therapy (greater than 100 mg equivalents of oral morphine per day)\n* Patients who are wards of the state\n* Patients who cannot read or speak English\n* History of allergic reactions attributed to compounds with known or suspected cross-sensitivity to bupivacaine.\n* Pregnant or breast feeding\n* Inability to access to the internet on a daily basis",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

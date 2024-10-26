@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01315015",
+    "briefTitle": "Breast Cancer Screening With MRI in Women Aged 50-75 Years With Extremely Dense Breast Tissue: the DENSE Trial",
+    "officialTitle": "Breast Cancer Screening With MRI in Women Aged 50-75 Years With Extremely Dense Breast Tissue: the DENSE Trial",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 40373,
+    "primaryOutcomeMeasure": "The number of interval cancers will be compared between the MRI group and the control group",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Dutch breast cancer screening participants, aged 50-75 years\n* \\> 75% mammographic density\n* Negative mammographic examination (BIRADS 1 or 2)\n\nExclusion Criteria:\n\nContraindications for MRI\n\n* The presence of intracorporeal metals\n* Adverse reaction to a (gadolinium-based) contrast agent in the past\n* Severely impaired renal function (GFR \\< 40 mL/min)\n* Pregnant or lactating women\n* Claustrophobia\n* Adiposity (\\> 150 kg)",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

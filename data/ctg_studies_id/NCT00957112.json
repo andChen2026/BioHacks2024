@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00957112",
+    "briefTitle": "Acupuncture or Self-Acupuncture in Managing Cancer-Related Fatigue in Women Who Have Received Chemotherapy for Stage I, Stage II, or Stage IIIA Breast Cancer",
+    "officialTitle": "The Efficacy of Acupuncture and Self-acupuncture in Managing Cancer-related Fatigue in Breast Cancer Patients: a Pragmatic Randomised Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Anxiety Disorder, Breast Cancer, Depression, Fatigue",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 320,
+    "primaryOutcomeMeasure": "General fatigue as measured by the Multidimensional Fatigue Inventory",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of breast cancer\n\n  * Stage I, II, or IIIA disease\n* Completed prior chemotherapy for \u2265 1 month and up to 5 years\n\n  * No needling on the ipsilateral arm of patients who have undergone axillary dissection\n  * No needling on the lymphedematous limbs\n* Score of \u2265 5 on a 0-10 single-item screening fatigue scale, where 0 is no fatigue at all and 10 is extremely fatigued\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Life expectancy \u2265 6 months\n* Menopausal status not specified\n* Platelet count \u2265 50,000/mm\\^3\n* Hemoglobin \u2265 10 g/dL\n* Hematocrit \u2265 30%\n* Not pregnant\n* No needle phobia\n* No co-morbidity with any of the following:\n\n  * Bleeding disorder\n  * Thyroid dysfunction\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No planned concurrent chemoradiotherapy\n* No concurrent steroids\n* No concurrent epoetin alfa or transfusion for anemia\n* No other concurrent complementary therapies",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00952679",
+    "briefTitle": "Computed Tomography (CT) Based Lymphatic Mapping and Localization of Sentinel Lymph Node in Breast Cancer Patients",
+    "officialTitle": "Computed Tomography (CT) Based Lymphatic Mapping and Localization of Sentinel Lymph Node in Breast Cancer Patients",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "all cause mortality",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast cancer patients\uff08T1-T2N0\uff09\n* Age 18-70\n* Accept of SLNB\n* Accept our protocol in the informed consent\n\nExclusion Criteria:\n\n* LABC patients\n* Age \\< 18\n* History of epilepsy\n* History of thyrotoxicosis\n* Pregnant women",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

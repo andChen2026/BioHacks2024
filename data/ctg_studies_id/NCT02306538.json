@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02306538",
+    "briefTitle": "Evaluation of Myocardial Changes During BReast Adenocarcinoma Therapy to Detect Cardiotoxicity Earlier With MRI",
+    "officialTitle": "Evaluation of Myocardial Changes During BReast Adenocarcinoma Therapy to Detect Cardiotoxicity Earlier With MRI - The EMBRACE MRI Study",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 180,
+    "primaryOutcomeMeasure": "The presence of myocardial edema stratified by the presence or absence of conventionally defined cardiotoxicity (this is a binary outcome).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Scheduled to undergo treatment with one of the following regimens: (a) 5-fluorouracil, epirubicin, cyclophosphamide, followed by docetaxel and trastuzumab, (b) adriamycin, cyclophosphamide, followed by docetaxel and trastuzumab, (c) adriamycin-cyclophosphamide with weekly paclitaxel and trastuzumab, or (d) dose dense adriamycin and cyclophosphamide followed by dose dense paclitaxel and trastuzumab\n* Able to tolerate five \\~60 minute CMR examinations over 15 months\n* Able to give informed consent\n\nExclusion Criteria:\n\n* Life expectancy \\< 12 months\n* Participating in a clinical trial of a new cancer drug\n* Having received previous anthracycline\n* History of myocardial infarction or previous heart failure\n* Current unstable angina, persistent atrial fibrillation or other irregular rhythm, or a history of more than mild regurgitant or stenotic valvular heart disease\n* Severely reduced renal function (GFR \u2264 30 milliliters/minute)\n* General MRI contraindications\n* Baseline LVEF \\<55% by echo\n* echocardiography image quality inadequate for strain analysis",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

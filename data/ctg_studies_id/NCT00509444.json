@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00509444",
+    "briefTitle": "Cancer Prevention and Treatment Among African American Older Adults: Treatment Trial",
+    "officialTitle": "Cancer Prevention and Treatment Among African American Older Adults",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Colon Cancer, Rectum Cancer, Cervix Cancer, Prostate Cancer, Lung Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "The primary outcome variable will be difference between the two intervention groups in the time to initiation of therapy, beginning on the date of randomization.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 65 or older\n* Enrolled in Medicare Part A\n* Enrolled in Medicare Part B of Title XVIII of the Social Security Act\n* Provided Informed Consent\n* Diagnosed with breast, cervical, colorectal, prostate, or lung cancer AND 1) have not yet begun treatment for this cancer; or 2) are currently receiving treatment or received a last treatment within the past five years; or 3) received a last treatment 5 or more years ago but have been in remission less than 5 years; AND 4) intend to receive cancer treatment from either Johns Hopkins Hospital (JHH) or from Johns Hopkins Bayview Medical Center (JHBMC)\n\nExclusion Criteria:\n\n* Age less than 65\n* Enrollment in Medicare managed care (Part C)\n* Residence in a chronic care facility or otherwise institutionalized\n* Planning to move within the next year\n* Unable or unwilling to give informed consent\n* Another member of the household enrolled in the demonstration project\n* Diagnosed with breast, cervical, colorectal, prostate, or lung cancer and received a last treatment for this cancer 5 or more years ago and have been in remission for 5 or more years\n* Currently receiving treatment or will be receiving treatment soon for a non-study cancer\n* Currently diagnosed with a non-study cancer and have not received treatment yet for this cancer but returning for additional tests and observation\n* Diagnosed with a non-study cancer and received the last treatment within the last 5 years\n* Diagnosed with a non-study cancer and received the last treatment for this cancer 5 or more years ago and have been in remission less than 5 years\n* Diagnosed with a non-study cancer and received the last treatment for this cancer 5 or more years ago and have been in remission for 5 or more years\n* Diagnosed with a study cancer and being treated outside of Johns Hopkins Medical Institutions",
+    "sex": "ALL",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

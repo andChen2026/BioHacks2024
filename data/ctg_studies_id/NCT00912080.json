@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00912080",
+    "briefTitle": "Utilization of Genomic Signature as Decision-making for Adjuvant Treatment of Breast Cancer",
+    "officialTitle": "Utilisation of Genomic Signature as Decision-making for Adjuvant Treatment of Breast Cancer: A Prospective Cohort Study.",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 375,
+    "primaryOutcomeMeasure": "Estimation of metastasis free survival at 5 years of the patients who had a good genomic signature. The metastasis free survival is defined by the time between the histological diagnosis of the breast cancer and the apparition of the first metastasis.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged between 18 and 70\n* Patient with life condition \\< 2 (WHO scale)\n* One-sided breast adenocarcinoma with a histological evidence (all type)\n* Clinical presentation which allowed a complete surgery with healthy limits\n* Absence of metastasis detectable at clinical examination or radiology\n* Histological evidence for homolateral axillary ganglionic invasion, whatever is the number of node invaded (N \\> 1)\n* The beginning of the chemotherapy within 6 weeks following the primary surgery\n\nExclusion Criteria:\n\n* All metastatic affect\n* Tumor classed \\>= T4a: cutaneous invasion, deep adherence, inflammatory breast\n* All chemotherapy, hormonotherapy or radiotherapy before surgery\n* Tumoral residue not removed\n* Any suspect clinic or radiologic lesion, in the contralateral breast, which is not controlled\n* History of invasive neoplasm, mammary or other (except in situ carcinoma of cervix uteri and epithelioma)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

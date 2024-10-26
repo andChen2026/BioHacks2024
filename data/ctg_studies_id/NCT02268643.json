@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02268643",
+    "briefTitle": "Ultrasound-based Breast Cancer Screening in Chinese Women",
+    "officialTitle": "Ultrasound-based Breast Cancer Screening in Chinese Women",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 20000,
+    "primaryOutcomeMeasure": "number of cancer detected in the high-risk group",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent\uff1b\n* residence from community or working units\n\nExclusion Criteria:\n\n* pregnancy\uff1b\n* lactation\uff1b\n* known metastatic cancer\uff1b\n* signs or symptoms of breast disease\uff1b\n* presence of breast implants, breast surgery within prior 12 months\uff1b\n* had mammography or ultrasound exam within prior 12 months\n* males.",
+    "sex": "FEMALE",
+    "minimumAge": "35 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

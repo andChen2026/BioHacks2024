@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03775213",
+    "briefTitle": "Acceptability of Active Monitoring (AM) as a Treatment Option for Ductal Carcinoma in Situ (DCIS)",
+    "officialTitle": "The Mathematics of Breast Cancer Overtreatment: Improving Treatment Choice Through Effective Communication of Personalized Cancer Risk",
+    "overallStatus": "COMPLETED",
+    "conditions": "Ductal Carcinoma in Situ",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 322,
+    "primaryOutcomeMeasure": "Number of Participants Who Chose Active Monitoring (AM).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Sex: Female\n* Age: 50-79 years\n* Has had a negative mammographic screen in the past 12 months\n\nExclusion Criteria:\n\n* Personal history of breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

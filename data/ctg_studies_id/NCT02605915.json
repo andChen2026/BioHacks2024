@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02605915",
+    "briefTitle": "Safety and Pharmacokinetics of Atezolizumab Combination Treatments in Participants With HER2-Positive and HER2-Negative Breast Cancer",
+    "officialTitle": "A Phase Ib, Open-Label Study Evaluating the Safety and Pharmacokinetics of Atezolizumab (Anti-PD-L1 Antibody) in Combination With Trastuzumab Emtansine or With Trastuzumab and Pertuzumab (With and Without Docetaxel) in Patients With HER2-Positive Breast Cancer and Atezolizumab With Doxorubicin and Cyclophosphamide in HER2-Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER2-Positive Metastatic Breast Cancer, HER2-Negative Metastatic Breast Cancer, Locally Advanced or Early Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 98,
+    "primaryOutcomeMeasure": "Percentage of Participants With Dose Limiting Toxicities (DLT) - Cohort 1A, 1B, 1C, 1D, 1F",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically documented HER2-positive and HER2-negative (cohort E only) breast cancer\n* Metastatic breast cancer that is measurable (Stage 1) or early breast cancer with a primary tumor size greater than (\\>) 2 centimeter (cm) (Stage 2)\n* Eastern cooperative oncology group (ECOG) performed status of 0, 1 or 2; 0 or 1 (cohort E only)\n* Life expectancy of 12 or more weeks\n* Adequate hematologic and end-organ function\n* Left ventricular ejection fraction greater than or equal to (\\>=) 50 percentage (%); \\>=55% (cohort E only)\n\nExclusion Criteria:\n\n* Known central nervous system (CNS) disease, except for treated asymptomatic CNS metastases\n* Leptomeningeal disease\n* Pregnancy or lactation\n* History of autoimmune disease\n* Prior allogeneic stem cell or solid organ transplantation\n* Positive test for human immunodeficiency virus (HIV)\n* Active hepatitis B or hepatitis C",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

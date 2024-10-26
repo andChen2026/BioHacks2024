@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01837095",
+    "briefTitle": "Dose Escalation of POL6326 in Combination With Eribulin in Patients With Metastatic Breast Cancer",
+    "officialTitle": "A Phase I Dose Escalation Study of POL6326 With Eribulin in Patients With Relapsed, Triple Negative and Hormone Refractory ER Positive Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 54,
+    "primaryOutcomeMeasure": "Safety and tolerability of POL6326 in combination with eribulin in patients with metastatic breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed invasive cancer of the breast.\n* Presence of at least one measurable lesion per RECIST 1.1 criteria\n* Stage IV disease by AJCC criteria (7th edition).\n* HER2 negative (IHC 0,1 or FISH HER2:CEP17 ratio \\< 2.0)\n* Must have had treatment with at least 2 but no more than 3 previous regimens in the metastatic setting. Previous treatment must have included an anthracycline and taxane in either the adjuvant or metastatic setting.\n* At least 21 days from the completion of any previous cytotoxic chemotherapy or biological therapy at time of initiation of POL6326.\n* ECOG performance status \\< 2\n\nExclusion Criteria:\n\n* Previously received eribulin.\n* Peripheral neuropathy \\> Grade 2.\n* Receipt of any other investigational agent within the 28 days prior to Day 1.\n* Receipt of colony stimulating factor filgrastim, pegfilgrastim, or sargramostim within 14 days prior to Day 1.\n* Radiation therapy within the 14 days prior to Day 1.\n* Severe concurrent illness or psychiatric illness/social situation that would limit compliance with study requirements.\n* History of other malignancy \u2264 5 years previous with the exception of basal cell or squamous cell carcinoma of the skin which were treated with local resection only or carcinoma in situ of the cervix.\n* Pregnant or breastfeeding.\n* Known HIV positivity on combination antiretroviral therapy; these patients are at increased risk of lethal infections when treated with marrow-suppressive therapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

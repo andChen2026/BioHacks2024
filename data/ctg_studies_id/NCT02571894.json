@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02571894",
+    "briefTitle": "The Cardio-Oncology Breast Cancer Study",
+    "officialTitle": "Effects of Identifying and Treating Early, Subclinical Cardiotoxicity on the Long-Term Incidence of Clinical Cardiotoxicity in Women With Breast Cancer, A Prospective Randomized Study: The Cardio-Oncology Breast Cancer Study (COBC)",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Cardiotoxicity, Cardiomyopathies, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 320,
+    "primaryOutcomeMeasure": "Event free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with newly diagnosed breast cancer who are eligible to receive neo-adjuvant or adjuvant chemotherapy, with or without trastuzumab, according to the guidelines for breast cancer.\n* Written informed consent must be given.\n\nExclusion Criteria:\n\n* A history of heart disease; ischemic heart disease, arrhythmias, heart failure, and valve diseases.\n* Previously received oncological treatment for any malignancy.\n* Other disease or conditions that complicates or precludes the patient from following the study protocol.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

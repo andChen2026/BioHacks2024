@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01001728",
+    "briefTitle": "SuPr Study (Supine Versus Prone Treatment Position in Breast Radiotherapy)",
+    "officialTitle": "A Randomised Trial Investigating the Prone Treatment Position as a Method of Sparing Healthy Tissues in Women Prescribed Breast Radiotherapy (SuPr Study)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 25,
+    "primaryOutcomeMeasure": "Interfraction reproducibility of tumour bed position (Reproducibility of tumour bed position in supine versus prone positions compared using the difference in mean daily displacement in tumour bed centre of gravity over a course of radiotherapy in 3D).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Complete microscopic excision of early stage invasive ductal or lobular carcinoma (pT1-3b N0-1 M0) with breast preservation.\n* Paired titanium clips marking anterior, posterior, and radial walls of excision cavity\n* Breast cup size C or above\n* Recommendation for whole breast radiotherapy\n* No requirement for nodal irradiation\n* Ability to lie prone on breast board\n* For left-sided breast cancer patients, cardiac and LAD doses must be \u226410% greater than those predicted for the supine position.\n* For all patients, the following absolute dose constraints should be met: \u22645% of heart volume to receive 18Gy and \u226410% of ipsilateral lung volume to receive \u226520Gy\n* Age \u226518\n* PS \u22641\n* No previous radiotherapy to the affected breast\n* No concomitant herceptin\n* Absence of any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule.\n* Written informed consent given according to ICH/GCP before registration/ randomisation.\n* Patients can only be randomised into this trial once.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

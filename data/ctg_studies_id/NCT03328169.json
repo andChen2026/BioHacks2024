@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03328169",
+    "briefTitle": "Comparative Effectiveness Feasibility Trial for Insomnia Among Breast Cancer Survivors",
+    "officialTitle": "Comparative Effectiveness Feasibility Trial for Insomnia Among Breast Cancer Survivors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female, Insomnia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "Change in Insomnia",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* American Joint Committee on Cancer (AJCC) Stage I-III or Eastern Cooperative Oncology Group (ECOG) 0-1 breast cancer\n* completed active treatment (surgery, radiation, chemotherapy) at least three months prior\n* within 5 years of treatment or still on adjuvant therapy\n* Completes informed consent to participate\n\nExclusion Criteria:\n\n* sleep apnea or restless leg syndrome\n* practicing mindfulness techniques \\>1/wk",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

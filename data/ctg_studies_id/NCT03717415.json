@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03717415",
+    "briefTitle": "A Study of Rebastinib (DCC-2036) in Combination With Carboplatin in Patients With Advanced or Metastatic Solid Tumors",
+    "officialTitle": "An Open Label, Multicenter, Phase 1b/2 Study of Rebastinib (DCC-2036) in Combination With Carboplatin to Assess Safety, Tolerability, and Pharmacokinetics in Patients With Advanced or Metastatic Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Locally Advanced or Metastatic Solid Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 117,
+    "primaryOutcomeMeasure": "Adverse Events (Part 1 and Part 2)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Male or female patients \u226518 years of age at the time of informed consent.\n2. Part 1 (Dose Escalation). Histologically confirmed diagnosis of a locally advanced or metastatic solid tumor for which carboplatin is considered appropriate treatment.\n3. Part 2 (Dose Expansion)\n\n   * Previously treated, triple-negative breast cancer.\n   * Recurrent platinum-sensitive ovarian cancer.\n   * Histologically confirmed pleural or peritoneal malignant mesothelioma.\n4. ECOG performance status of \u22642.\n5. Able to provide an archival tumor tissue sample.\n6. Adequate organ function and bone marrow reserve.\n7. If a female of childbearing potential, must have a negative pregnancy test prior to enrollment.\n8. Patient must provide signed consent to participate in the study and is willing to comply with study-specific procedures.\n\nExclusion Criteria:\n\n1. Received prior anticancer or other investigational therapy within 28 days or 5\u00d7 the half-life (whichever is shorter) prior to the first dose.\n2. Not recovered from prior-treatment toxicities to Grade \u22641 or baseline.\n3. Peripheral neuropathy of any etiology \\>Grade 1.\n4. Concurrent malignancy.\n5. Known active CNS metastases.\n6. Use of systemic corticosteroids.\n7. Known retinal neovascularization, macular edema or macular degeneration.\n8. History or presence of clinically relevant cardiovascular abnormalities.\n9. QTcF \\>450 ms in males or \\>470 ms in females.\n10. Left ventricular ejection fraction (LVEF) \\<50% at screening.\n11. Arterial thrombotic or embolic events.\n12. Symptomatic venous thrombotic event.\n13. Active infection \u2265Grade 3.\n14. Known HIV or HCV infection only if taking medications excluded per protocol, active HBV, or active HCV infection.\n15. Use of proton pump inhibitors.\n16. If female, the patient is pregnant or lactating.\n17. Major surgery 4 weeks prior to the first dose of study drug.\n18. Malabsorption syndrome or other illness which could affect oral absorption.\n19. Known allergy or hypersensitivity to any component of rebastinib or any of its excipients.\n20. Any other clinically significant comorbidities.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06570031",
+    "briefTitle": "ONO-4578-06:Phase I Study of ONO-4578 and Letrozole Plus CDK4 /6 Inhibitors in Breast Cancer",
+    "officialTitle": "ONO-4578-06: Phase I , Open-label, Non-blind, First-line Endocrine Therapy With ONO-4578 and Standard Treatment Letrozole and CDK4/6 Inhibitors (Palbociclib or Abemaciclib) in Patients With Metastatic or Recurrent Postmenopausal Hormone Receptor-positive HER2-negative Breast Cancer",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Hormone Receptor-positive Breast Cancer, HER2-negative Breast Cancer, Metastatic Breast Cancer, Recurrent Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "Adverse events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with postmenopausal metastatic or recurrent breast cancer\n2. Patients with ECOG Performance Status 0 to 1\n3. ER-positive, PgR-positive and HER2-negative patients\n\nExclusion Criteria:\n\n1. Patients are unable to swallow oral medications\n2. Patients with severe complication",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

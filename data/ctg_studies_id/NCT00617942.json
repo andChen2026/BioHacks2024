@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00617942",
+    "briefTitle": "Neoadjuvant Carboplatin, Weekly Abraxane and Trastuzumab in HER2+ Breast Cancer",
+    "officialTitle": "BrUOG-BR-211B q3week Carboplatin With Weekly Abraxane and Trastuzumab As Neoadjuvant Therapy in Resectable and Unresectable HER2+ (Stage IIa-IIIb) Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Number of Patients With Complete Pathologic Response Rate, Observed Following Treatment With q3week Carboplatin, Weekly Abraxane and Weekly Trastuzumab in Resectable and Unresectable LABC;",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically documented adenocarcinoma of the breast\n* ANC \\> 1000 cells\n* Female; age \\> 18; Zubrod PS 0-1\n* Platelets \\> 100,000\n* Stage IIA-IIIB disease\n* Total bilirubin \\< or = ULN\n* No evidence of metastatic disease Not pregnant or lactating\n* No prior systemic therapy for this breast cancer\n* Serum Creatinine \\< 1.5 mg/dl or Creat Cl \\> 30 ml/min\n* Serum ALT \\< 2.5 x ULN\n* ER, PR and HER2 status required\n* LVEF (MUGA/echo)WNL\n* No baseline \\> 2 neuropathy\n* Hemoglobin \\> 9.0 gm/dl\n* HER2+, defined by IHC 3+ or FISH ratio \\> 2.0",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

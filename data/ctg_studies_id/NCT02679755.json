@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02679755",
+    "briefTitle": "Palbociclib In Combination With Letrozole As Treatment Of Post-Menopausal Women With HR+, HER2- Advanced Breast Cancer",
+    "officialTitle": "A STUDY OF PALBOCICLIB IN COMBINATION WITH LETROZOLE AS TREATMENT OF POST-MENOPAUSAL WOMEN WITH HORMONE RECEPTOR-POSITIVE, HER2-NEGATIVE ADVANCED BREAST CANCER FOR WHOM LETROZOLE THERAPY IS DEEMED APPROPRIATE",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 252,
+    "primaryOutcomeMeasure": "Number of Participants With Treatment-Emergent Adverse Events (All Causalities)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Post-menopausal women (\\>=18 years of age) with proven diagnosis of advanced carcinoma of the breast (ER(+) and/or PgR(+) and HER2(-)) who are appropriate for letrozole therapy (in the first-line advanced/metastatic disease setting).\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2.\n* Adequate bone marrow, liver, and renal function.\n\nExclusion Criteria:\n\n* Prior treatment with any CDK inhibitor .\n* QTc \\>480 msec; history of QT syndrome, Brugada syndrome or known history of QTc prolongation, or Torsade de Pointes.\n* High cardiovascular risk, including, but not limited to myocardial infarction, severe/unstable angina, severe cardiac dysrhythmias, and symptomatic pulmonary embolism in the past 6 months of enrollment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

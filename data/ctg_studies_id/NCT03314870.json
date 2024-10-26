@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03314870",
+    "briefTitle": "Development of a Response Signature to Neoadjuvant Chemotherapy for Breast Cancer",
+    "officialTitle": "Development of a Response Signature to Neoadjuvant Chemotherapy for Breast",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 220,
+    "primaryOutcomeMeasure": "The number of molecular signatures predictive of response to neoadjuvant chemotherapy which would be able to discriminate between patient groups based on their epithelio-mesenchymal transition status and their immune status.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women and men with breast cancer\n* Treated with neoadjuvant chemotherapy\n\nExclusion Criteria:\n\n* None",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

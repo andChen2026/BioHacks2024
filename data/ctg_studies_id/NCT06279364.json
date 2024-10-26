@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06279364",
+    "briefTitle": "A Study of SKB264 Versus Investigator's Choice Chemotherapy in Patients With Unresectable Recurrent or Metastatic Triple-Negative Breast Cancer",
+    "officialTitle": "A Randomized, Open-Label, Multicenter Phase 3 Study of SKB264 Versus Investigator's Choice Chemotherapy as First-Line Treatment in Patients With Unresectable Recurrent or Metastatic Triple-Negative Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 524,
+    "primaryOutcomeMeasure": "Overall Survival (OS)",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n1. Histologically and/or cytologically confirmed TNBC.\n2. De novo metastatic or relapsed \u2265 6 months post completion of treatment with curative intent.\n3. No prior systemic anti-cancer therapy for unresectable recurrent or metastatic disease.\n4. Participants whose tumours are PD-L1-negative, or participants whose tumors are PD-L1 positive and have relapsed after prior anti-PD-1/PD-L1 inhibitor for early-stage disease.\n5. At least one measurable lesion per RECIST v1.1.\n6. Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1 with no worsening within 2 weeks prior to randomization.\n7. A life expectancy of at least 3 months.\n8. Eligible for the chemotherapy options listed as investigator's choice chemotherapy (paclitaxel, nab-paclitaxel, capecitabine, eribulin, or carboplatin) as assessed by the investigator.\n9. Adequate organ and bone marrow function.\n\nKey Exclusion Criteria:\n\n1. Active second malignancy.\n2. Uncontrolled or clinical significant cardiovascular disease.\n3. History of noninfectious pneumonitis/interstitial lung disease (ILD) that required steroids or has current pneumonitis/ILD.\n4. Active infection requiring systemic therapy within 2 weeks of randomization.\n5. Active hepatitis B or hepatitis C virus infection.\n6. Human immunodeficiency virus (HIV) positive or history of acquired immunodeficiency syndrome (AIDS); known active syphilis infection.\n7. Known hypersensitivity to SKB264 or its excipients.\n8. Previously received TROP2-targeted therapy or topoisomerase 1 inhibitors.\n9. Prior treatment with the same investigator's choice chemotherapy (except taxane).\n10. Pregnant or lactating women.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

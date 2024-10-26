@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00930475",
+    "briefTitle": "Everolimus (RAD001) and Carboplatin in Pretreated Metastatic Breast Cancer",
+    "officialTitle": "Everolimus (RAD001) in Combination With Intravenous Carboplatin in Taxane- and Anthracycline-pretreated Patients With Progressive Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 54,
+    "primaryOutcomeMeasure": "Phase I: dose limiting toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* adult female patients\n* at least two prior chemotherapies due to metastatic or inoperable breast cancer\n* Karnofsky performance status of at least 60%\n* pretreatment with at least one taxane and one anthracycline\n\nExclusion Criteria:\n\n* previous treatment with mTOR-inhibitors, carboplatin, cisplatin or oxaliplatin\n* inadequate organ function including bone marrow function\n* bleeding tumours\n* known uncontrolled metastases in CNS or carcinomatous meningosis\n* patients who have been treated during the last five days with inhibitors or inducers of CYP3A\n* serious pulmonary, neurological, endocrinological or other disorders interfering with this study medication, especially patients with known lung fibrosis, emphysema or severe COPD",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

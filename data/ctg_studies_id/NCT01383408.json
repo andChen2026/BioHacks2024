@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01383408",
+    "briefTitle": "Distinction Between Lung Cancer and Gynecological Cancers by Canine Scent Detection",
+    "officialTitle": "Distinction Between Lung Cancer and Gynecological Cancers by Exhalation Analysis and Canine Scent Detection",
+    "overallStatus": "TERMINATED",
+    "conditions": "Lung Cancer, Breast Cancer, Ovarian Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 752,
+    "primaryOutcomeMeasure": "Specificity for Lung Cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* histologically confirmed lung or breast or ovarian cancer\n\nExclusion Criteria:\n\n* other cancers\n* previous medical intervention within the last 14 days before gathering of the breath sample",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

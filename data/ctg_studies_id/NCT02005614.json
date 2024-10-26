@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02005614",
+    "briefTitle": "A Pilot/Phase II Study of Gamma Knife Radiosurgery for Brain Metastases Using 3Tesla MRI and Rational Dose Selection",
+    "officialTitle": "A Pilot/Phase II Study of Gamma Knife Radiosurgery for Brain Metastases Using 3Tesla MRI and Rational Dose Selection",
+    "overallStatus": "TERMINATED",
+    "conditions": "Melanoma, Renal Cell Carcinoma, Sarcoma, Breast Cancer, Lung Cancer, Colorectal Cancer, Gastrointestinal Cancers, Brain Metastases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 39,
+    "primaryOutcomeMeasure": "Rate of Local Control Over time (RECIST Criteria)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed malignancy (not leukemia or lymphoma). There must be metastatic brain disease apparent on magnetic resonance imaging which offers a medical indication for brain radiation. - Age \\> 18\n* Karnofsky Performance Status \\> 70\n* MRI performed within 4 weeks of trial enrollment\n* Medical oncologist or consenting physician verifies that chemotherapy options exist after treatment with intracranial therapy, and that chemotherapy is planned to initiate after completion of radiation. Or, survival as estimated by the medical oncologist or enrolling physician is \\> 3 months.\n\nExclusion Criteria:\n\n* Extremely radiosensitive tumor (lymphoma, leukemia)\n* Radiosensitivity syndrome (scleroderma, dermatomyositis, other genetic syndrome that predisposes to adverse radiotherapy complications)\n* Evidence of leptomeningeal dissemination\n* Resection of brain metastases, otherwise untreated with radiation for those brain lesions (presenting for postoperative consolidative radiotherapy)\n* Presence of a medical device (pacemaker, stent) or allergy that precludes contrast enhanced MRI\n* Patient is unable to tolerate placement of a stereotactic headframe\n* Pregnancy",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

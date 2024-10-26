@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00148681",
+    "briefTitle": "Preoperative Herceptin and Navelbine for Breast Cancer",
+    "officialTitle": "Preoperative Herceptin and Navelbine in Early Stage, HER-2 Positive Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Stage II Breast Cancer, Stage III Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 49,
+    "primaryOutcomeMeasure": "To assess the complete response rate after preoperative herceptin and navelbine in HER-2 positive breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* EGOG performance status of 0-1\n* HER2 overexpressing (IHC 3+ or FISH +)\n* Stage II or III breast cancer. Clinical T1N1M) and inflammatory (T4) breast cancer are eligible\n* Patients with metastatic breast cancer (Stage IV) which is limited to supraclavicular and/or infraclavicular node positivity are eligible\n* 18 years of age or older\n\nExclusion Criteria:\n\n* Prior therapy with herceptin, paclitaxel or other taxane, doxorubicin or other anthracycline-type chemotherapy, navelbine\n* Pregnant or lactating women\n* Uncontrolled infections, including AIDS\n* History or symptoms diagnostic of systemic connective tissue or inflammatory disease\n* Active or severe cardiovascular or pulmonary disease, including recent myocardial infarction or deep-venous thrombosis/pulmonary embolism, congestive heart failure, uncontrolled hypertension, or steroid-dependent asthma.\n* Left ventricular ejection fraction \\< 50%\n* Peripheral neuropathy of any etiology that exceeds grade 1\n* Prior history of malignancy treated without curative intent\n* Uncontrolled diabetes",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

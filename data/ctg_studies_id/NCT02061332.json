@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02061332",
+    "briefTitle": "DC Vaccine for Patients With Ductal Carcinoma In Situ",
+    "officialTitle": "A Randomized Trial of HER-2/Neu Pulsed DC1 Vaccine for Patients With DCIS",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, DCIS",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 58,
+    "primaryOutcomeMeasure": "Blood Pressure",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18 years.\n* Subjects with biopsy-proven DCIS, DCIS with microinvasion, DCIS with invasive disease under 5 mm, or Paget's Disease of the nipple (DCIS of the nipple) who have not yet received definitive treatment.\n* HER-2/neu positive tumor as determined by \\>5% of tumor population expressing this marker by immunohistochemical staining 2+ using anti-HER-2/neu verified by Dr. Paul Zhang in the Department of Pathology.\n* Women of childbearing age with a negative pregnancy test documented prior to enrollment.\n* Subjects with ECOG Performance Status Score of 0 or 1 (Appendix D).\n* Subjects willing to use birth control if necessary\n* Subjects who have voluntarily signed a written Informed Consent in accordance with institutional policies after its contents have been fully explained to them.\n\nExclusion Criteria:\n\n* Pregnant or lactating females (pregnancy testing to be performed within 7 days prior to administration of first dose of vaccine).\n* Subjects who have had a complete excisional biopsy of their tumor.\n* Subjects with suspicion of invasive disease \\> 5mm by MRI performed within 2 months of study recruitment.\n* Screen and exclude subjects with positive HIV or hepatitis C at baseline.\n* Subjects with coagulopathies, including thrombocytopenia with platelet count \\<75,000, INR \\> 1.5 and partial thromboplastin time \\> 50 sec\n* Subjects with major cardiac illness MUGA \\< 50% EF.\n* Subjects with pre-existing medical illnesses or medications which might interfere with the study.\n* Subjects with laboratory tests reflecting \u00ac\\> grade 1 toxicity by NCI CTC version 3.0 including CBC, liver function tests, urinalysis, EKG if cannot be corrected on repeat test in 7 days.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

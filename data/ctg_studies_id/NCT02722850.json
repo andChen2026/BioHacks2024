@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02722850",
+    "briefTitle": "Web-based Study for Cancer Survivors",
+    "officialTitle": "A Lifestyle Intervention Via Email (ALIVE) for Cancer Survivors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Physical Activity, Dietary Modification",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 258,
+    "primaryOutcomeMeasure": "Mean metabolic equivalent minutes of physical activity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Previously diagnosed with breast cancer;\n* 18-80 years old at time of cancer diagnosis;\n* English-Speaking;\n* Have access to high-speed internet.\n\nExclusion Criteria:\n\n* Be currently enrolled in another intervention study or recently completed a study promoting healthy lifestyle behaviors (diet and/or exercise).\n* Participants answering 'Yes' to one or more of the questions on the physical activity readiness questionnaire (PAR-Q) will need to obtain approval from a physician before they can participate in the intervention.\n* Pregnant women will be excluded from the protocol.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

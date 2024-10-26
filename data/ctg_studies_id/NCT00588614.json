@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00588614",
+    "briefTitle": "High Risk Screening Breast MR Using a Rapid Imaging Exam",
+    "officialTitle": "High Risk Screening Breast MR Using a Rapid Imaging Exam",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 140,
+    "primaryOutcomeMeasure": "The primary aim of the study is to estimate the negative predictive value (NPV) of the abbreviated exam for screening purposes, using a full length diagnostic study for confirmation and one year follow-up exams.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. High risk for the development of breast cancer. For the purposes of this study high risk women will be defined as those having one of the following:\n\n   1. One or more first degree blood relative(s), maternal or paternal, with known primary breast cancer, PLUS a Gail model calculated 5 year risk of greater than or equal to 1.67%\n   2. First, and/or second degree blood relative(s) with a family history suggestive of a BRCA mutation (those families having a member(s) with primary breast cancer diagnosed at or before the age of 40, primary breast cancer and ovarian cancer within the same family or family member, male relative with primary breast cancer, a relative with bilateral breast cancer, or multiple generations of family members with primary breast and/or ovarian cancer)\n   3. A known BRCA mutation\n   4. A family member carrying a known BRCA mutation\n   5. A personal history of a high risk breast lesion, including lobular carcinoma in situ and atypical hyperplasia\n   6. A personal history of primary breast cancer (invasive or in-situ) treated with unilateral mastectomy\n2. Patients must have a mammogram performed within the last 6 months, and the mammography images must be available for review at the time of the MR interpretation.\n3. Age 25-75\n4. Female\n\nExclusion Criteria:\n\n1. They are unable to return in one year for follow-up exam\n2. Medical history includes:\n\n   1. Previous breast cancer treated with breast conservation\n   2. History of benign excisional biopsy in the previous 24 months\n   3. History of a benign core needle biopsy or FNA in the previous 12 months\n   4. History of metastatic cancer\n3. 45 minute prone scan cannot be tolerated\n4. Pregnant, as a mammogram for correlation with MR is required\n5. History of breast MR in the last 6 months",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

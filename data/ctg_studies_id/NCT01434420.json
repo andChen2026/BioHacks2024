@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01434420",
+    "briefTitle": "Triple Negative Breast Cancer: Study of Molecular and Genetic Factors",
+    "officialTitle": "Triple Negative Breast Cancer: Study of Molecular and Genetic Factors",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 200,
+    "primaryOutcomeMeasure": "incidence of BRCA1/2, PALB2, PTEN, PALB2 mutations",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women \\> 18\n* non metastatic breast cancer\n* triple negative\n* 5 years follow-up\n* signed informed consent\n\nExclusion Criteria:\n\n* other cancer (except in situ)\n* metastases at diagnosis\n* impossibility of follow-up",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

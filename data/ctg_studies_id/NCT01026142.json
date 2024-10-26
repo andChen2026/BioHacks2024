@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01026142",
+    "briefTitle": "A Study of a Combination of Trastuzumab and Capecitabine With or Without Pertuzumab in Patients With HER2-positive Metastatic Breast Cancer (PHEREXA)",
+    "officialTitle": "A Multicenter Randomized Phase III Study to Compare the Combination Trastuzumab and Capecitabine, With or Without Pertuzumab, in Patients With HER2-Positive Metastatic Breast Cancer That Have Progressed After One Line of Trastuzumab-Based Therapy in the Metastatic Setting (PHEREXA)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 452,
+    "primaryOutcomeMeasure": "Progression Free Survival (Independent Assessment)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult female patients \\>/=18 years of age\n* Metastatic HER2 positive breast cancer\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n* Disease progression during or following trastuzumab-based therapy for 1st line metastatic breast cancer (trastuzumab must have been part of the last prior treatment regimen)\n* Prior treatment with taxane-containing regimen\n* Left ventricular ejection fraction (LVEF) \\>/=50 percent\n* For women of childbearing potential agreement to use highly effective non-hormonal form of contraception or two effective forms of non-hormonal contraception by patient and/or partner. Contraception must continue for duration of study treatment and for at least 6 months after last dose of study drug treatment\n\nExclusion Criteria:\n\n* Prior treatment with pertuzumab or capecitabine\n* Concurrent treatment with other experimental drug\n* Concurrent immunotherapy or anticancer hormonal therapy\n* Serious concurrent disease (e.g. active infection, uncontrolled hypertension, cardiovascular disease)\n* Central nervous system (CNS) metastases, which are not well controlled\n* History of exposure to anthracycline cumulative dose equivalent to 360mg/m2\n* History of congestive heart failure of any New York Heart Association criteria, or serious cardiac arrhythmia requiring treatment\n* History of myocardial infarction within 6 months prior to randomization\n* History of LVEF decline to below 50% during or after prior trastuzumab therapy or other cardiac toxicity during previous trastuzumab treatment that necessitated discontinuation of trastuzumab\n* History of another cancer which could affect compliance or result interpretation\n* Inadequate organ function\n* Pregnant or breastfeeding women\n* life expectancy \\< 12 weeks",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

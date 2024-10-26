@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02455154",
+    "briefTitle": "Traditional Chinese Medicine as Preventive Method for Osteoporosis Induced by Adjuvant Endocrine Therapy",
+    "officialTitle": "Traditional Chinese Medicine as Preventive Method for Osteoporosis in Early Breast Cancer Patients Receiving Adjuvant Endocrine Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Osteoporosis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 278,
+    "primaryOutcomeMeasure": "Change of Bone Mineral Density",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed invasive breast cancer;\n* Post-surgery, primary lesion been removed;\n* Post-Menopausal patients or pre-menopausal patients who will receive ovarian function suppression;\n* Histologically confirmed ER and/or PR positive ;\n* Receiving adjuvant AIs therapy in the following one years;\n* Leukocyte \u2265 3\\*10(9)/L; Platelets \u2265 75\\*10(9)/L;\n* Serum glutamate oxaloacetate(AST/SGOT) or serum glutamic-pyruvic transaminase(ALT/SGPT) \\<2.5 times of upper limit of normal range;\n* Serum creatinine/blood urea nitrogen(BUN) \u2264 upper limit of normal (UNL) range;\n* Written informed consent according to the local ethics committee equirements;\n\nExclusion Criteria:\n\n* Metastatic Breast Cancer;\n* Received Neo-Adjuvant Endocrine Therapy;\n* History of pelvic fracture or bone metabolic disease;\n* Received drugs interfering bone metabolism in the last 12 months;\n* Baseline Bone Mineral Density: T \\< -2SD;\n* With other primary malignant disease;\n* With severe non-malignant co-morbidity that will influence long-term follow up;\n* Known severe hypersensitivity to any drugs in this study;",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

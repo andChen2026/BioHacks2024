@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03592004",
+    "briefTitle": "Radiomics of Mp-MRI Assessing NAC Outcome in Breast Cancer",
+    "officialTitle": "Radiomics of Multiparametric MRI for Neoadjuvant Chemotherapy Outcomes Assessment in Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Radiomics, Neoadjuvant Chemotherapy, Multi-parametric MRI",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "predicting pathological complete response (pCR) or no response (NR)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* biopsy-proven invasive breast cancer;\n* received complete neoadjuvant chemotherapy and no treatment has been done before;\n* surgery was performed after completion of neoadjuvant chemotherapy, after which pCR was confirmed by postoperative pathological examination;\n* pretreatment MRI data within a month before the start of the treatment was eligible, including T2WI, DWI and DCE-MRI.\n\nExclusion Criteria:\n\n* not completing neoadjuvant chemoradiotherapy;\n* not undergoing surgery at our hospital, or pCR was not assessed;\n* lack of T2WI, or DWI or DCE-MRI data;\n* insufficient MRI quality to obtain measurements (e.g., owing to motion artifacts);\n* had unilateral multifocal cancers, and the correlation between the tumor in MR images and postoperative pathological examination was uncertain.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

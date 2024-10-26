@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02054338",
+    "briefTitle": "A Study of Vinflunine Plus Gemcitabine Versus Paclitaxel Plus Gemcitabine in Patients With Advanced Breast Cancer",
+    "officialTitle": "Phase III Study of Vinflunine Plus Gemcitabine Versus Paclitaxel Plus Gemcitabine in Patients With Unresectable, Locally Recurrent or Metastatic Breast Cancer After Prior Anthracycline-based Adjuvant Chemotherapy",
+    "overallStatus": "TERMINATED",
+    "conditions": "Advanced Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1004,
+    "primaryOutcomeMeasure": "Progression Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female patients\n* 18 years or older but less than 75 years old\n* histologically/cytologically confirmed breast cancer\n* documented locally recurrent or metastatic breast cancer\n* HER-2 negative or unknown\n* prior neo- and/or adjuvant anthracycline-based chemotherapy\n* measurable or non-measurable disease according to Response Evaluation Criteria In Solid Tumors (RECIST) 1.0\n* adequate haematological, hepatic and renal functions\n* ECG without any clinically relevant abnormality\n\nExclusion Criteria:\n\n* known or clinical evidence of brain metastases or leptomeningeal involvement\n* history of second primary malignancy\n* patients having as sole tumour lesion: malignant effusion, lymphangitis, cystic lesion, bone lesion, and any other lesion not assessed by imaging techniques or colour photography\n* pre-existing motor/sensory grade \\> 1 peripheral neuropathy\n* prior therapy with vinca alkaloids and/or gemcitabine\n* history of severe hypersensitivity to vinca alkaloids and/or gemcitabine or contraindication to any of these drugs\n* pregnancy or breast feeding",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

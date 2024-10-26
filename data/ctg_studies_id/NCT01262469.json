@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01262469",
+    "briefTitle": "Evaluating Lapatinib + Capecitabine in Patients Aged 70 and Over With HER2 Metastatic Breast Cancer.",
+    "officialTitle": "PHASE II STUDY Evaluating the Toxicity and Activity of the Combination Lapatinib + Capecitabine in Elderly Patients Aged 70 and Over With Metastatic Breast Cancer Over Expressing HER2",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer, 70 Years Old Patients and Over, After One Line of Chemotherapy With Trastuzumab",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "Efficacy assessment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 70\n* Histological confirmed advanced breast cancer (metastatic or locally advanced)\n* Tumor over expressing HER2 (HER2 3+ in IHC or IHC 2+ and Fish positive) in sample from the primary and/or secondary tumor\n* WHO performance status (EGOG) from 0 to 2\n* MMS \\> 25\n* Measurable disease (RECIST criteria)\n* Progression of disease after one metastatic line of chemotherapy associated with trastuzumab (must be stopped at least 3 weeks before beginning the trial)\n* Adequate hematological function (Hb \u2265 10g/dl, ANC \u2265 1500/mm3, platelets \u2265 100 000/mm3)\n* Adequate hepatic function (total bilirubine \u2264 1.5ULN, ASAT and ALAT \u2264 3ULN)\n* Adequate renal function (measured or calculated creatinine clearance \u2265 40 ml/min - Cockroft)\n* LVEF \u2265 50% (US or isotopic method)\n* Absence of treatment by enzymatic inhibitors or inducers or any gastric pH modifying agent/drug within a 7-to-14 day period preceding the first administration of one of the trial's products and within the overall duration of the study (see medication list)\n* Patients must be affiliated to a Social Security System\n* Patient information and written informed consent form signed\n\nExclusion Criteria:\n\n* Life expectancy \\< 3 months\n* Prior treatment with capecitabine or lapatinib\n* Concomitant radiotherapy except for palliative reason and more than 25% of the BM\n* Patients with pre-existing toxicity \u2265 grade 2 (excepted alopecia)\n* Patients with dysphagia, or inability to swallow the capsules.\n* Patient with malabsorption syndrome or disease significantly affecting gastro-intestinal function or with major resection of stomach or proximal bowel that could affect absorption of oral drugs\n* Patient already included in another therapeutic trial using an experimental drug within 30 days preceding entry into the study\n* Individual deprived of liberty or placed under the authority of a tutor\n* Patient with any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol and follow-up schedule.",
+    "sex": "ALL",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

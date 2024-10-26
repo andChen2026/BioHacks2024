@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04251507",
+    "briefTitle": "VR Ultrasound Guided Breast Localization",
+    "officialTitle": "The Use of Virtual Reality During Breast Localization Procedures",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasm Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Subjective Pain Assessment: Visual Analog Scale",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Informed consent is obtained from the patient\n* Females \u2265 18 years of age\n* Patient is schedule for preoperative ultrasound guided breast localization procedure\n\nExclusion Criteria:\n\n* Patient is scheduled for or switched to a stereotactic localization procedure\n* The patient has motion sickness\n* The patient has severe cognitive disabilities or language barriers that inhibit study form completion in English\n* Refusal of patient to sign consent",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

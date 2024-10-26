@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02798796",
+    "briefTitle": "Brazilian Randomized Study - Impact of MRI for Breast Cancer",
+    "officialTitle": "Brazilian Randomized Study - Impact of Preoperative Magnetic Resonance in the Evaluation for Breast Cancer Conservative Surgery",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 372,
+    "primaryOutcomeMeasure": "False positive rate, false negative rate, positive predictive value and negative predictive value MRI in the Breast Cancer conservative surgery",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female,\n* Over 18 years with breast cancer\n* Clinical stages I, II and III candidates for conservative surgery\n\nExclusion Criteria:\n\n* Contra-indication for breast MRI (ex. Metal implant)\n* Claustrophobia\n* Impossibility to stay in the prone position for more than an hour\n* History of allergic reaction to the paramagnetic contrast\n* History of chronic kidney disease on dialysis\n* Personal history of breast cancer treated surgically in the last 12 months.\n* Pregnancy or breastfeeding past 6 months",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

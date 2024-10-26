@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00379509",
+    "briefTitle": "Lapatinib and Radiation Therapy in Treating Patients With Locally Recurrent or Chemotherapy-Refractory Locally Advanced or Metastatic Breast Cancer",
+    "officialTitle": "Phase I Radiosensitization Study of GW572016 With Biologic Correlates in Locoregionally Recurrent Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 20,
+    "primaryOutcomeMeasure": "Toxicity as assessed by NCI CTCAE v3.0",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of breast cancer meeting 1 of the following criteria:\n\n  * Locally recurrent disease\n  * Locally advanced disease AND meets the following criterion:\n\n    * Chemotherapy-refractory disease (achieved \\< partial response to \u2265 3 courses of neoadjuvant chemotherapy)\n  * Metastatic disease\n* Evaluable disease by exam and/or imaging studies\n\n  * Amenable to serial biopsies by skin punch, core biopsy, or fine-needle aspiration\n* Unresectable disease after standard neoadjuvant chemotherapy\n\n  * Resectability must be determined by a surgical oncologist prior to treatment\n* Stable CNS metastases allowed\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\n* Male or female\n* Menopausal status not specified\n* Life expectancy \\> 12 weeks\n* ECOG performance status 0-2\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* Able to swallow and retain oral medication\n* WBC \u2265 3,000/mm\u00b3\n* ANC \u2265 1,500/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Total bilirubin normal\n* AST and ALT \u2264 2.5 times upper limit of normal\n* Creatinine normal OR creatinine clearance \u2265 60 mL/min\n* Cardiac ejection fraction normal by ECHO or MUGA\n* No other malignancy within the past 5 years\n* No concurrent disease or condition that would preclude study participation\n* No ongoing coagulopathy\n* No active severe infection\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* Recovered from prior therapy\n* At least 3 weeks since prior and no other concurrent systemic therapy for breast cancer\n* At least 14 days since prior and no concurrent herbal or alternative medicine\n* At least 14 days since prior and no concurrent dietary supplement\n* At least 14 days since prior CYP3A4 inducers\n* At least 7 days since prior CYP3A4 inhibitors\n* No antacid within 1 hour before or after study drug administration\n* Concurrent bisphosphonate allowed\n* No concurrent oral glucocorticosteroid \\> 1.5 mg of dexamethasone (or equivalent)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

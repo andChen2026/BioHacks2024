@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05058183",
+    "briefTitle": "Safe De-escalation of Chemotherapy for Stage 1 Breast Cancer",
+    "officialTitle": "Safe De-escalation of Chemotherapy for Stage 1 Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "Incidence of patients with ctDNA detection treated with surgery for stage 1 breast cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age 18 years or older.\n2. Patients with histologically confirmed breast cancer that is either\n\n   A) HER2 positive as defined by 2018 ASCO-CAP guidelines determined by local testing B) Triple negative defined as ER negative (ER staining in \\<1% tumour cells or ER Allred score \\<3/8) and PR negative (PR staining in \\<10% tumour cells or PR Allred score \\<6/8) and HER2 negative by 2018 ASCO-CAP guidelines determined by local testing. Patients without PR testing results may enrol on the basis of ER and HER2 results.\n\n   Note that patients negative for ER and PR may enrol whilst awaiting HER2 testing results\n3. Stage 1 cancer excluding pT1aN0 cancer, defined as\n\n   A) Patients prior to surgery with primary tumour size on imaging 6-20mm and a normal axilla ultrasound or a biopsy negative axilla\n\n   Patients who enrol prior to surgery will only continue further testing in the trial if their pathological staging fits the after surgery criteria.\n\n   B) Patients after surgery with either\n   * Primary tumour size pT1b or pT1c (6-20mm) and pN0 or pN1mi (micrometastasis).\n   * Primary tumour size pT1a (1-5mm) and pN1mi\n\n   Note that patients consenting after surgery may not enrol with pT1aN0 stage disease\n4. Patients should consent prior to surgery (preferred) or within 2 weeks of surgery. Patients who consent after surgery may extend consent to 4 weeks after surgery, although this will delay the receipt of ctDNA results.\n5. Planned and fit enough to receive full standard post-operative chemotherapy, with HER2 targeting as appropriate.\n6. Ability to give informed consent and comply with study procedures including blood tests and follow-up for five years.\n\nExclusion Criteria:\n\n1. Distant metastatic disease.\n2. Multifocal invasive cancer\n3. Diagnosis of alternative cancer within the last 5 years other than resected non-melanoma skin cancer or cervical intraepithelial neoplasia.\n4. Any prior treatment (including neo-adjuvant chemotherapy) for the current breast cancer with the exception of surgical resection for patients enrolling after surgery.\n5. Known HIV or hepatitis B or hepatitis C infection.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

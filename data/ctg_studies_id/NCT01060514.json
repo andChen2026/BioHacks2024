@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01060514",
+    "briefTitle": "Pazopanib + Vinorelbine in Non Small Cell Lung Cancer (NSCLC) and Breast Cancer",
+    "officialTitle": "Phase I Study of Pazopanib in Combination With Vinorelbine in Patients With Metastatic Non-Small Cell Lung Cancer (NSCLC) and Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Non Small Cell Lung Cancer, Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 8,
+    "primaryOutcomeMeasure": "To determine the maximum tolerated dose (MTD), and the recommended Phase II dose to be used in patients with metastatic NSCLC and breast cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18 years\n* Patients must have diagnosis of breast cancer or non small cell lung cancer\n* Patients must have evaluable disease\n* Women of childbearing potential and sexually active males must commit to the use of effective contraception while on study.\n* Patients must have given signed, informed consent prior to registration on study.\n\nExclusion Criteria:\n\n* Patients must not be pregnant and/or lactating.\n* Patients must not be receiving any other investigational agents.\n* No prior exposure to vinorelbine or other VEGF inhibitors as treatment for metastatic disease\n* Patients must not have received prior therapy (including radiation, surgery, and/or chemotherapy) within 30 days\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to pazopanib or vinorelbine.\n* Patients cannot have received more than 2 prior chemotherapy regimens for lung cancer or 3 prior chemotherapy regimens for breast cancer. This criterion can be discussed further with the study doctor.\n* Must not have uncontrolled illness including, but not limited to: ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmic, psychiatric illness/social situations that would limit compliance with study requirements.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

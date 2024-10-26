@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04224922",
+    "briefTitle": "Phase II Study of Neoadjuvant Weekly Paclitaxel and Carboplatin Followed by Dose Dense Epirubicin and Cyclophosphamide in Stage II and III Triple Negative Breast Cancer",
+    "officialTitle": "A Prospective, Belgian Multi-center, Single-arm, Phase II Study of Neoadjuvant Weekly Paclitaxel and Carboplatin Followed by Dose Dense Epirubicin and Cyclophosphamide in Stage II and III Triple Negative Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 63,
+    "primaryOutcomeMeasure": "-The rate of pCR in the breast and axilla (ypT0/is, ypN0)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Stage II-III operable triple negative (ER and PR \\< 10%; Her2 IHC 0-1 or FISH \\<2.0) breast cancer in women age \\> 18. For patients aged 65 or older the G8 geriatric screening test should be \\> 14 (on a total of 17).\n* Baseline mammography, US. MR of the breast on clinical indication.\n* FNA of suspicious axillary lymph node is indicated\n* Pre-treatment SN biopsy is indicated in clinical N0\n* Measurable loco-regional disease\n* Adequate bone marrow function, defined as\n\n  * Absolute neutrophil count(ANC) \\>1500\\*109/L\n  * Platelet count \\>100.000\\*109/L\n* Adequate liver function defined as\n\n  * Serum(total) bilirubin \\<1.5\\*upper limit of normal(ULN), unless the patient has documented Gilbert's Syndrome\n  * AST and/or ALT \\<2.5\\*ULN\n  * Alkaline phosphatase \\<2.5\\*ULN\n* Normal cardiac function measured by ultrasound with a left ventricular function \\> 55%\n* Creatinine clearance \\> 40 ml/min according to local laboratory standard (MDRD, CDK-epi, Cockroft-Gault, or other established formula to calculate renal function)\n\nExclusion Criteria:\n\n* T4d breast tumor\n* Bilateral breast cancer\n* Other invasive cancer in the past except for a localized squamous cell cancer or basal cell of the skin or an in situ squamous cell cancer of the cervix.\n* Pregnant or lactating patients",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

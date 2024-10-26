@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06032390",
+    "briefTitle": "Artificial Intelligence in Mammography Screening in Norway",
+    "officialTitle": "Artificial Intelligence in BreastScreen Norway - a Randomized Controlled Trial",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 150000,
+    "primaryOutcomeMeasure": "Screen-detected breast cancers",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women attending the population-based mammography screening program BreastScreen Norway providing a signed, informed consent\n\nExclusion Criteria:\n\n* Women attending the population-based mammography screening program BreastScreen Norway not providing a signed, informed consent, or with breast implants",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

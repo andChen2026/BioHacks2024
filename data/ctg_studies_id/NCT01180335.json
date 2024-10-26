@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01180335",
+    "briefTitle": "Standard Neoadjuvant Chemotherapy Versus Genomic Driven Chemotherapy in Patients With Breast Cancer",
+    "officialTitle": "Randomized Trial Comparing Standard Neoadjuvant Chemotherapy to Genomic Driven Chemotherapy Regimen in Patients With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 303,
+    "primaryOutcomeMeasure": "Complete response rate based on the histology",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Invasive breast cancer not eligible for conservative surgery\n* Her2 negative\n* Amount of tumor cells \\>30% on HES slides\n* RIN\\>6 and amount of RNA\\>1 ug\n* No metastases\n* Subject, age \\> 18 years and \\<65 years old\n* Signed written informed consent\n* PS 0-1\n* No previous treatment for breast cancer\n* Adequate organ function\n* FEVG \\>50%\n\nExclusion Criteria:\n\n* In situ carcinoma\n* Multifocal cancers\n* Her2+\n* Presence of metastasis\n* Genomic testing not feasible because of tumor cells \\<30%, RIN\\<6, insufficient amount of RNA\n* Organ dysfunction that contraindicates chemotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04129216",
+    "briefTitle": "The Effects of Short-term Preoperative Treatment With Hormonal Therapy on Gene Profiles in Breast Cancer",
+    "officialTitle": "The Effects of Short-term Preoperative Treatment With Hormonal Therapy on Gene Profiles in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "BASIC_SCIENCE",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Change in Percent Expression of Ki67 Measured by Immunohistochemistry (IHC)",
+    "eligibilityCriteria": "Inclusion criteria\n\n* Treatment-na\u00efve, histologically confirmed invasive ductal breast cancer between stages 1 to 3.\n* Co-enrollment in the FLEX Registry\n* Estrogen Receptor Positive (ER+) Progesterone Receptor Positive (PR+) confirmed hormone receptor status measured by immunohistochemistry (IHC)\n* Patients should understand patients' condition and be able to give informed consent to participate\n\nExclusion criteria\n\n* History of hormonal therapy, chemotherapy, radiation therapy, or novel therapy to treat the current breast cancer.\n* Allergic reactions/hypersensitivity to tamoxifen, letrozole, or exemestane or any of the ingredients of these drugs.\n* Any contraindication to hormonal therapy, such as history of thromboembolic disease or uterine cancer.\n* Patients without invasive disease (stage 0)\n* Patients with metastatic breast cancer(stageIV)\n* Patients that are Human Epidermal Growth Factor 2+(HER2+) by IHC/Fluorescence in situ hybridization (FISH).",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

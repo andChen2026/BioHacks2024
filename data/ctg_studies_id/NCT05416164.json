@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05416164",
+    "briefTitle": "DESCARTES: De-ESCAlation of RadioTherapy in Patients With Pathologic Complete rESponse to Neoadjuvant Systemic Therapy",
+    "officialTitle": "DESCARTES: De-ESCAlation of RadioTherapy in Patients With Pathologic Complete rESponse to Neoadjuvant Systemic Therapy",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 595,
+    "primaryOutcomeMeasure": "Local recurrence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women, aged \u2265 18 years\n* Invasive HR positive/Her2 negative, Her2+ (ER/PR +/-) or TN breast cancer\n* Primary tumor (T) clinical stage cT1-2\n* Unifocal disease\n* Clinical nodal stage 0; absence of lymph node metastases should be confirmed by ultrasound or FDG-PET/CT\n* Neoadjuvant systemic treatment (NST) and breast-conserving surgery\n* Sentinel node biopsy performed before or after NST\n* Pathologic complete response in breast and lymph nodes, i.e. no residual tumor cells detected\n* Written informed consent\n\nExclusion Criteria:\n\n* Primary tumor (T) clinical stage cT3-4\n* DCIS associated with invasive carcinoma or elsewhere in ipsilateral breast\n* Pre- or post-NST diagnosis of nodal disease including isolated tumour cells\n* Patients without axillary ultrasound or FDG-PET/CT pre-NST\n* History of breast cancer ipsilateral breast\n* Synchronous contralateral breast cancer or DCIS\n* Synchronous M1 disease\n* Carrier of gene mutation associated with increased risk of breast cancer, i.e. BRCA1, BRCA2, CHEK2, TP53 or PALB-2",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

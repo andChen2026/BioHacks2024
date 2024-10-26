@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00620295",
+    "briefTitle": "Bortezomib and Gemcitabine in Treating Older Patients With Advanced Solid Tumors",
+    "officialTitle": "Phase I Study of Bortezomib and Gemcitabine in Elderly Patients With Solid Tumors (X05227)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Colorectal Cancer, Head and Neck Cancer, Kidney Cancer, Lung Cancer, Ovarian Cancer, Pancreatic Cancer, Prostate Cancer, Sarcoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 17,
+    "primaryOutcomeMeasure": "Maximum tolerated dose of bortezomib and gemcitabine",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed diagnosis of advanced non-hematologic malignancy, including any of the following:\n\n  * Breast cancer\n  * Lung cancer\n  * Colon cancer\n  * Pancreatic cancer\n  * Head and neck cancer\n  * Sarcoma\n* Must have failed or become intolerant to prior standard therapy and is no longer likely to respond to such therapy (for all diseases except pancreatic cancer)\n\n  * Pancreatic cancer patients may be enrolled with no prior therapy requirements since gemcitabine is the current standard of care 1st line therapy\n* Measurable or nonmeasurable disease\n* Concurrent enrollment in the University of Minnesota study \"Population Pharmacokinetics and Pharmacogenetics of Gemcitabine in Adult Patients with Solid Tumors\" (Human Subjects Code 0508M72989) required\n* ECOG performance status of 0-1\n* Absolute neutrophil count \u2265 1,500/mm\u00b3\n* Platelet count \u2265 100,000/mm\u00b3\n* Hemoglobin \u2265 10 g/dL\n* Bilirubin \u2264 1.5 times upper limit of normal (ULN)\n* Alkaline phosphatase \u2264 3.0 times ULN (5 times ULN if liver has tumor involvement)\n* Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) \u2264 3.0 times ULN (5 times ULN if liver has tumor involvement)\n* Calculated or measured creatinine clearance \\> 30 mL/minute\n* Fertile patients must use effective contraception during and for 3 months after study participation\n* Recovered from all prior therapy\n* Prior systemic chemotherapy, immunotherapy, or biological therapy allowed\n* At least 3 months since prior bortezomib and/or gemcitabine\n* At least 2 weeks since prior systemic therapy\n* At least 3 weeks since prior investigational agents (for reasons other than the treatment of cancer)\n* At least 2 weeks since prior radiotherapy\n\nExclusion Criteria:\n\n* Symptomatic brain metastases\n* Serious concomitant medical or psychiatric disorders (e.g., active infection or uncontrolled diabetes) that, in the opinion of the investigator, would compromise the safety of the patient or compromise the patient's ability to complete the study\n* Myocardial infarction within the past 6 months\n* New York Heart Association (NYHA) Class III or IV heart failure\n* Uncontrolled angina\n* Severe uncontrolled ventricular arrhythmias\n* Electrocardiographic evidence of acute ischemia or active conduction system abnormalities\n* Peripheral neuropathy \u2265 grade 2\n* Known hypersensitivity to bortezomib, boron or mannitol\n* Prior radiotherapy to \u2265 25% of the bone marrow\n* Prior radiotherapy to the whole pelvis\n* Concurrent filgrastim (G-CSF) or other hematologic support during course 1 of study treatment",
+    "sex": "ALL",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04113096",
+    "briefTitle": "Dibenzyl Trisulphide (GUINEAHEN WEED) for Stage IV Cancer",
+    "officialTitle": "Use of Dibenzyl Trisulphide as a Chemotherapeutic Agent in Stage Four Cancer of the Breast, Prostate, Cervix and Colon",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Stage IV Prostate Cancer, Stage IV Colon Cancer, Stage IV Breast Cancer, Stage IV Cancer of the Cervix",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 104,
+    "primaryOutcomeMeasure": "Prostate Cancer",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age: Greater than 12 years.\n* Documented histologic evidence of cancer\n* Staged as stage IV\n* World Health Organization (WHO) Performance Status of between 0 and 2\n* Radiological confirmation of metastases with bone scan or X ray, CT and/or MRI scan Exclusion Criteria\n\n  * Cancer stages less than stage 4\n  * Pregnant women\n  * Children 0 - 12 years",
+    "sex": "ALL",
+    "minimumAge": "12 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

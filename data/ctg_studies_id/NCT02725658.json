@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02725658",
+    "briefTitle": "Monitoring and Predicting Breast Cancer Neoadjuvant Chemotherapy Response Using DOSI",
+    "officialTitle": "Monitoring and Predicting Breast Cancer Neoadjuvant Chemotherapy Response Using Diffuse Optical Spectroscopic Imaging in a Multi-Center Setting",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Concentration of oxy-hemoglobin (HbO2), in blood.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females between the ages of 21 and 80. Specific to Study part #1\n* Diagnosed with a Breast Imaging-Reporting and Data System score of 4 or higher breast abnormality greater than 1cm in size Specific to Study part #2\n* Enrolled in study part #1\n* Diagnosed with histologically-proven invasive breast cancer\n* Prescribed neoadjuvant chemotherapy for breast cancer\n\nExclusion Criteria:\n\n* Pregnant\n* Unable to give written, informed consent.",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

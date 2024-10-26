@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01209182",
+    "briefTitle": "In Vitro Detection of Tissue Abnormality",
+    "officialTitle": "In Vitro Detection of Tissue Abnormality",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 121,
+    "primaryOutcomeMeasure": "\u2022Accuracy of LS BioPath TOUCH device compared to pathology",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients aged 25-80 who are scheduled for surgical excision of tissue.\n\nExclusion Criteria:\n\n* No prior history of surgery at location of current surgery.",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

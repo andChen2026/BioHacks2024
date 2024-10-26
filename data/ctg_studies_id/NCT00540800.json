@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00540800",
+    "briefTitle": "BREAST-10: Three-weekly Versus Weekly First-line Chemotherapy for Metastatic or Locally Advanced Breast Cancer",
+    "officialTitle": "Phase III Multicenter Study of the Effects on Quality of Life of Three-weekly Versus Weekly First-line Chemotherapy for Metastatic or Locally Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 139,
+    "primaryOutcomeMeasure": "quality of life",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological diagnosis of breast cancer\n* Inoperable locally advanced or metastatic disease not yet treated with first-line chemotherapy\n* Age \\< 70 years\n* ECOG performance status \\< 2\n* Written informed consent\n\nExclusion Criteria:\n\n* Previous or concomitant malignant neoplasm (excluding adequately treated baso or spinocellular skin carcinoma or carcinoma in situ of the cervix)\n* Previous treatment with docetaxel\n* Symptomatic brain metastases\n* Neutrophil \\< 2000/mm3, platelets \\< 100,000/mm3, haemoglobin \\< 10 g/dl\n* Creatinine \\> 1.25 x the upper normal limits\n* GOT and/or GPT \\> 1.25 x the upper normal limits in absence of hepatic metastases\n* GOT and/or GPT \\> 2.5 x the upper normal limits in presence of hepatic metastases\n* Bilirubin \\> 1.5 x the upper normal limit\n* Any concomitant pathology that would, in the investigator's opinion, contraindicate the use of the drugs in this study\n* Inability to provide informed consent\n* Inability to comply with follow-up",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

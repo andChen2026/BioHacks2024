@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01625286",
+    "briefTitle": "Investigating Safety, Tolerability and Efficacy of AZD5363 When Combined With Paclitaxel in Breast Cancer Patients",
+    "officialTitle": "A Phase I/II Study of AZD5363 Combined With Paclitaxel in Patients With Advanced or Metastatic Breast Cancer. Comprising a Safety Run-In and a Placebo-controlled Randomised Expansion in ER+ve Patients Stratified by PIK3CA Mutation Status",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced or Metastatic Breast Cancer, ER+ve Advanced or Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 148,
+    "primaryOutcomeMeasure": "Dose-limiting Toxicity (DLT) Events - Part A",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Provision of informed consent.\n* Female patient.\n* Aged at least 18 years.\n* Histological or cytological confirmation of breast cancer with evidence of advanced or metastatic disease (must be ER+ve, HER2-ve, in Part B).\n* World Health Organisation (WHO) performance status 0-1 with no deterioration over the previous 2 weeks and minimum life expectancy of 12 weeks.\n\nExclusion Criteria:\n\n* Clinically significant abnormalities of glucose metabolism.\n* Spinal cord compression or brain metastases unless asymptomatic, treated and stable (not requiring steroids).\n* Evidence of severe or uncontrolled systemic diseases, including active bleeding diatheses or active infections including hepatitis B, C and HIV.\n* Any prior exposure to agents which inhibit AKT as the primary pharmacological activity.\n* Part A: more than two prior courses of chemotherapy (including taxanes) for advanced or metastatic breast cancer.\n\nPart B: any prior chemotherapy for advanced or metastatic breast cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

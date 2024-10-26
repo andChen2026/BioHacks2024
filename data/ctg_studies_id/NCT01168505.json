@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01168505",
+    "briefTitle": "Iron Supplement in the Prevention of Anemia in Female Breast Cancer Patients",
+    "officialTitle": "The Role of Intravenous Iron to Prevent Anemia in Women With Breast Cancer Receiving (Neo)Adjuvant Chemotherapy",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 100,
+    "primaryOutcomeMeasure": "Evaluate the efficacy of intravenous iron supplementation in the prevention of anemia in patients receiving (neo)adjuvant breast cancer regimens",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women older than 18 years\n2. Patient with operated breast cancer with indication for (NEO)adjuvant therapy\n3. They must have hemoglobin levels within the normal range (\\> 12g/dL), absence of renal and hepatic dysfunction as assessed by serum levels of urea, creatinine, AST, ALT.\n4. Lack of folic acid deficiency and vitamin B12\n5. Able to provide written informed consent.\n\nExclusion Criteria:\n\n1. Use of any oral supplement containing iron;\n2. Patients who have iron overload as defined by serum ferritin\\> 800 microg / L or transferrin saturation\\> 40%;\n3. Patients who are pregnant or breastfeeding;\n4. History of active infection or active bleeding except menstruation;\n5. History of HIV or hepatitis B or C - clinically important; -",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

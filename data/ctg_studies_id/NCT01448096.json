@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01448096",
+    "briefTitle": "Study in Patients With Primary Breast Diffuse Large B-cell Lymphoma",
+    "officialTitle": "Multi-center Phase II Study of the Combination of R-CHOP (RItuximab Plus Cyclophosphamide, Adriamycin, Vincristine, and Prednisolone) and Prophylactic Intrathecal Chemotherapy With Methotrexate in Patients With CD20+ Primary Breast Diffuse Large B-cell Lymphoma",
+    "overallStatus": "COMPLETED",
+    "conditions": "Large B Cell Diffuse Lymphoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 33,
+    "primaryOutcomeMeasure": "progression-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed CD20 positive primary breast DLBCL\n* age \u2264 70\n* No prior chemotherapy or radiotherapy for DLBCL\n* Performance status (ECOG) \u2264 2\n* Cardiac ejection fraction \u2265 50 % as measured by MUGA or 2D ECHO without clinically significant abnormalities\n* Adequate renal function: serum creatinine level \\< 2 mg/dL (177 \u03bcmol/L)\n* Adequate liver functions: Transaminase (AST/ALT) \\< 3 X upper normal value, Bilirubin \\< 2 X upper normal value\n* Adequate BM functions: hemoglobin \u2265 9 g/dL absolute neutrophil count (ANC) \u2265 1,500/\u03bcL and platelet count \u2265 75,000/\u03bcL\n* A negative serum or urine pregnancy test prior to treatment must be available both for pre menopausal women and for women who are \\< 1 years after the onset of menopause\n* Life expectancy more than 6 months\n* Informed consent\n\nExclusion Criteria:\n\n* other subtype primary breast non-Hodgkin's lymphoma than DLBCL\n* secondary breast DLBCL\n* Patients with a known history of HIV seropositivity or HCV (+). Patients who have HBV (+) are eligible. However, primary prophylaxis using antiviral agents (i.e. lamivudine) is recommended for HBV carrier to prevent HBV reactivation during whole treatment period.\n* Any other malignancies within the past 5 years except curatively treated non-melanoma skin cancer or in situ carcinoma of cervix uteri\n* Pregnant or lactating women, women of childbearing potential not employing adequate contraception\n* Other serious illness or medical conditions\n\n  * Unstable cardiac disease despite treatment, myocardial infarction within 6 months prior to study entry\n  * History of significant neurologic or psychiatric disorders including dementia or seizures\n  * Active uncontrolled infection (viral, bacterial or fungal infection)\n  * Other serious medical illnesses\n* Known hypersensitivity to any of the study drugs or its ingredients (i.e., hypersensitivity to Polysorbate 20, CHO cell products, or recombinant human antibodies)\n* Concomitant administration of any other experimental drug under investigation, or concomitant chemotherapy, hormonal therapy, or immunotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

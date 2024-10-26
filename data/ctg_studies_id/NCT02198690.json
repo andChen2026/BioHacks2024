@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02198690",
+    "briefTitle": "Trial of a Mammography Decision Aid for Women Aged 75 and Older",
+    "officialTitle": "Randomized Trial of a Mammography Decision Aid for Women Aged 75 and Older",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer Screening",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 541,
+    "primaryOutcomeMeasure": "Receipt of mammography screening",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* English-speaking women\n* Aged 75 to 89 years\n* Scheduled for a routine visit or physical with their PCP in the next 4-12 weeks\n* Women who have not had a mammogram in 6 months but have had one in 2 years.\n\nExclusion Criteria:\n\n* Women who have it documented in their screening sheet that they have chosen to stop screening\n* Women with a history of atypical ductal hyperplasia (ADH) or non-invasive or invasive breast cancer\n* Women with dementia (on problem list/reported by PCP).\n* Women without capacity for informed consent.\n* Women that report \\<7th grade education (the reading level of study materials)\n* Patients from PCPs that participated in the pilot or are study investigators.\n* Women whose PCPs already had 25 patients participate in the study (the cap per PCP)",
+    "sex": "FEMALE",
+    "minimumAge": "75 Years",
+    "stdAges": "OLDER_ADULT"
+}

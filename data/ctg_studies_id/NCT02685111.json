@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02685111",
+    "briefTitle": "Intermittent G-CSF in Patients With Breast Cancer Receiving Adjuvant Docetaxel, Doxorubicin, and Cyclophosphamide (TAC)",
+    "officialTitle": "Intermittent Every Other Days of 5 Shot-filgrastim Compared With Single Pegfilgrastim in Breast Cancer Patients Receiving Adjuvant Docetaxel, Doxorubicin, and Cyclophosphamide Chemotherapy (Intermittent G-CSF 105)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Neutropenia, Febrile Neutropenia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 22,
+    "primaryOutcomeMeasure": "Cumulative incidence of febrile neutropenia",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* The patients who underwent surgery for pathologically diagnosed early breast cancer (high risk stage II or stage III) or completely resected stage IV, and anticipated to undergo adjuvant chemotherapy with TAC regimen (docetaxel, doxorubicin, and cyclophosphamide)\n* The patients satisfying laboratory findings below before the enrollment of clinical trials: A. Absolute Neutrophil Count(ANC) \u2265 1,500/mm\u00b3; B. Platelet Count \u2265 100,000/mm\u00b3; C. Adequate renal functions (Cr \\< 1.5 X ULN); and D. Adequate liver function (Bilirubin \\< 1.5 X ULN, AST/ALT \\< 2.5 X ULN)\n* ECOG Performance status: 0-1\n* Cardiac ejection fraction \u2265 50% as measured by MUGA or 2D echocardiography without clinically significant abnormalities\n* Voluntarily participated in this study, and written informed consent of the patient\n\nExclusion Criteria:\n\n* Past history of immunotherapy or chemotherapy\n* Past history of autologous stem cell transplantation or bone marrow transplantation\n* The patient undergone radiation therapy within 4 weeks after written informed consent\n* Patient with any other concurrent malignancies or who are currently cured with past history within 5 years (excluding completely resected stage I early skin cancer)\n* Pregnant or lactating women, women of childbearing potential not employing adequate contraception\n* Other serious illness or medical conditions inadequate to chemotherapy: A. Unstable cardiac disease (i.e. congestive heart failure, arrhythmia, symptomatic coronary artery disease) despite treatment, myocardial infarction within 6 months prior to study entry; B. History of significant neurological or psychiatric disorders including dementia or seizures; Active uncontrolled infection (viral, bacterial or fungal infection); and D. Other serious medical illnesses\n* Known hypersensitivity to any of the study drugs or its ingredients\n* Concomitant administration of any other experimental drug under investigation, or concomitant chemotherapy, hormonal therapy, or immunotherapy.\n* Past history of usage of granulocyte-colony stimulating factors\n* Patients with a known history of HIV (+) or HCV (+). However, HBV(+) patients who undergo primary prophylaxis are eligible.\n* Other serious illness or medical conditions determined by investigator",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

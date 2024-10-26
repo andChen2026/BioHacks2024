@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01587248",
+    "briefTitle": "Use of Harmonic in Breast Surgery",
+    "officialTitle": "Harmonic Scalpel vs. Electrocautery Dissection in Modified Radical Mastectomy: A Randomized Controlled Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Modified Radical Mastectomy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 152,
+    "primaryOutcomeMeasure": "Duration of drains (days)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult females with biopsy proven breast cancer underwent MRM\n\nExclusion Criteria:\n\n* Simultaneous procedure (Reconstruction, Sentinel lymph node biopsy)",
+    "sex": "FEMALE",
+    "minimumAge": "16 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

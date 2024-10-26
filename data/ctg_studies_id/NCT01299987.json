@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01299987",
+    "briefTitle": "Prospective Phase II Study of Intraoperative Radiotherapy (IORT) in Elderly Patients With Small Breast Cancer",
+    "officialTitle": "TARGIT-E(Elderly) Prospective Phase II Study of Intraoperative Radiotherapy (IORT) in Elderly Patients With Small Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Breast Diseases, Neoplasm Recurrence, Local, Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 541,
+    "primaryOutcomeMeasure": "Local Relapse",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* cT1c cN0 cM0\n* \u2265 70 years old\n* invasive-ductal histology\n* compliance\n* informed consent\n\nExclusion Criteria:\n\n* extensive intraductal component (EIC)\n* multifocality /-centricity\n* lymph vessel invasion (L1)\n* clinical signs of distant metastases or clinically suspicious lymph nodes\n* other histology\n* \\< 70 years old\n* missing informed consent or non-compliance\n* bilateral breast cancer at time of diagnosis\n* known BRACA 1/2 mutations (genetic testing not required)",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

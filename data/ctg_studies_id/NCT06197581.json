@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06197581",
+    "briefTitle": "Safety Assessment of Concurrent Radiotherapy and Novel Systemic Therapy for Breast Cancer",
+    "officialTitle": "Safety Assessment of Concurrent Radiotherapy and Novel Systemic Therapy for Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Familial Male, Radiotherapy; Complications, Chemotherapeutic Toxicity, Immune Checkpoint Inhibitor, CDK4/6 Inhibitor, Trastuzumab, Pertuzumab, PARP Inhibitor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 148,
+    "primaryOutcomeMeasure": "Grade 3 adverse events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nECOG 0-2. Aged 18-70 years old. Pathologically diagnosed as breast cancer. Need to receive radiotherapy according to guidelines. Radiotherapy target volume included chest wall/breast with or without lymph node regions.\n\nNeed to receive one of the following therapies according to guidelines, capetabine, CDK4/6 inhibitor, PARP inhibitor , ICIs , HER2 inhibitors.\n\nExclusion Criteria:\n\nMale breast cancer. Allergy to the upper medicines before. Will receive trastuzumab alone during and/or after radiotherapy. With severe other disease.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

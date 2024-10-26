@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02765620",
+    "briefTitle": "PERCIST Criteria for Response Evaluation With Solid Tumors",
+    "officialTitle": "PERCIST Criteria for Response Evaluation of Non-surgical Therapy in Patients With Solid Tumors:Prospective Multicenter Study",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Lung Neoplasms, Breast Neoplasms, Colonic Neoplasms, Lymphoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 150,
+    "primaryOutcomeMeasure": "Evaluate treatment response by PERCIST to RECIST 1.1 criteria in early stage of treatment",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 30-80 years old ( might differ based on certain cancer type)\n* Newly diagnosis of solid tumor proved by imaging\n* Pathology proved to be primary solid tumor\n* First PET/CT scan was performed before any kinds of anti-tumor treatment including surgery\n* No other anti-tumor treatments except for that required during the trial\n* Written and informed consent with signature before the study\n* Complete medical history and clinical record (including physical examination, electrocardiogram, hematology, biochemistry, tumor pathology etc)\n* Follow-up of PSF and OS over a year\n\nExclusion Criteria:\n\n* Pregnancy, lactation, and impaired renal or liver function\n* Receive additional anti-tumor treatments (including surgery) other than that required during the trial\n* Poorly controlled diabetes\n* Poor compliance\n* Failed to perform scans\n* Contrary to the standard operating procedures\n* Without a definite pathologic diagnosis or follow-up results\n* Not suitable for clinical trials (for example with mental illness)",
+    "sex": "ALL",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

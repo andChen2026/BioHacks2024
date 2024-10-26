@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03841747",
+    "briefTitle": "Paclitaxel Plus Pembrolizumab vs. Paclitaxel Weekly in ER+ Luminal B Metastatic Breast Cancer",
+    "officialTitle": "A Phase II, Randomized Study of Paclitaxel Weekly Plus Pembrolizumab Versus Paclitaxel Weekly in ER-positive, Luminal B Metastatic Breast Cancer",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Progression-free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Willing and able to provide written informed consent\n2. Ability to comply with the protocol\n3. Female \u2265 18 years of age\n4. Histologically confirmed metastatic or locally advanced breast cancer that is Luminal B, ER+ve, HER2-ve.\n5. Patients must have measurable disease.\n6. Representative formalin-fixed paraffin embedded breast tumour samples from the primary or recurrent cancer.\n7. ECOG performance status 0-1\n8. Adequate haematologic and end-organ function within 28 days prior to the first study treatment\n9. Patients of childbearing potential are eligible provided they have a negative serum or urine pregnancy test on Day 1 Cycle 1 (within 72 hours) of study treatment, preferably as close to the first dose as possible.\n\nExclusion Criteria:\n\n1. Luminal A breast cancer\n2. Prior chemotherapy for advanced or metastatic disease\n3. Prior treatment with paclitaxel in the (neo)adjuvant setting within 12 months from the end of paclitaxel treatment and randomisation into this study\n4. Patients with neuropathy \u2265 Grade 2\n5. Previous systemic treatment for other neoplasms within 5 years prior to randomisation.\n6. Patients with prior allogeneic stem cell or solid organ transplantation.\n7. Prior treatment with CD137 agonists, AKT inhibitors, anti-CTLA-4, anti-OX-40, anti-programmed death-1 (PD-1), or anti-PD-L1 therapeutic antibody or pathway-targeting agents.\n8. Patients must not have a diagnosis of immunodeficiency or receiving chronic systemic steroid therapy.\n9. Received therapeutic oral or intravenous antibiotics within 14 days prior to randomisation.\n10. Administration of a live vaccine within 30 days prior to the first dose of study drug.\n11. Treatment with systemic immunostimulatory agents (including but not limited to interferons or interleukin \\[IL\\] -2) within 28days or five half-lives of the drug, whichever is shorter, prior to randomisation.\n12. History of autoimmune disease.\n13. History of idiopathic pulmonary fibrosis, drug-induced pneumonitis, organizing pneumonia requiring steroids, or evidence of active pneumonitis on screening chest CT scan.\n14. Active infection requiring systemic therapy.\n15. History of HIV infection\n16. Known active hepatitis infection.\n17. Known history of active tuberculosis",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

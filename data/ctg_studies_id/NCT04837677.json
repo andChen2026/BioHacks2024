@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04837677",
+    "briefTitle": "A Study of PRT1419 in Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase 1, Open-Label, Multicenter, Dose Escalation Study of PRT1419 in Patients With Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Sarcoma, Melanoma, Lung Cancer, Breast Cancer, Esophageal Cancer, Cervical Cancer, Head and Neck Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "Dose limiting toxicities (DLT) of PRT1419",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) performance status of \u2264 2\n* Adequate organ function (bone marrow, hepatic, renal, cardiovascular)\n* Left ventricular ejection fraction of \u2265 50%\n* Female patients of childbearing potential must have a negative pregnancy test within 7 days of the start of treatment and must agree to use a highly effective method of contraception during the trial\n* Patients must have recovered from the effects of any prior cancer related therapy, radiotherapy or surgery (toxicity \u2264 Grade 1)\n* All patients on prior investigational agents must wait at least 5 half-lives of the agent in question, or 28 days, whichever is longer before study entry\n* Most recent lab values meet the following criteria:\n\n  * Absolute neutrophil count \\> 1.0 x 10\\^3/\u03bcL;\n  * Platelet count \\> 75,000/\u03bcL;\n  * Hemoglobin \\> 9.0 g/dL\n* Histologically confirmed advanced or metastatic solid tumor indicated below that is relapsed, refractory, or intolerant to available therapies with known benefit:\n\n  * Sarcoma not amendable to curative treatment with surgery or radiotherapy;\n  * Melanoma (non-resectable or metastatic);\n  * Small cell lung cancer (extensive-stage);\n  * Non-small cell lung cancer;\n  * Triple negative breast cancer (histopathologically or cytologically confirmed).\n  * Esophageal cancer\n  * Cervical cancer\n  * Head and neck cancer\n\nExclusion Criteria:\n\n* Known hypersensitivity to any of the components of PRT1419\n* Primary malignancies of the CNS, or uncontrolled CNS metastases, including impending spinal cord compression\n* Female patients who are pregnant or lactating\n* Inflammatory disorders of the gastrointestinal tract, or subjects with GI malabsorption\n* Mean QTcF interval of \\>480 msec\n* History of heart failure, additional risk factors for arrhythmias or requiring concomitant medications that prolong the QT/QTc interval\n* HIV positive; known active hepatitis B or C\n* Uncontrolled intercurrent illnesses\n* Treatment with strong inhibitors of CYP2C8\n* Prior exposure to an MCL1 inhibitor\n* History of another malignancy except:\n\n  * Malignancy treated with curative intent with no known active disease for \\>2 years at study entry;\n  * Adequately treated non-melanoma skin cancer or lentigo maligna without evidence of disease;\n  * Adequately treated carcinoma in situ without evidence of disease;\n  * Other concurrent low-grade malignancies (i.e chronic lymphocytic leukemia (Rai 0)) may be considered after consultation with Sponsor.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

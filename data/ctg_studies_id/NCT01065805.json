@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01065805",
+    "briefTitle": "A Study to Demonstrate the Safety and Preliminary Efficacy of 18F-FLT in Patients With Solid Tumours or Lymphoma",
+    "officialTitle": "A Contiguous, Sequential Phase I/II Imaging Study of 18F-fluoro-3'-L-fluorothymidine (18F-FLT) in Patients With Known or Suspected Carcinoma of the Lung, Breast, Renal Cell, Pancreas, or Brain, and With Gastrointestinal Malignancies, Neuroendocrine Tumours or Lymphoma",
+    "overallStatus": "TERMINATED",
+    "conditions": "Brain Cancer, Cancer, Solid Tumor, Lymphoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 94,
+    "primaryOutcomeMeasure": "Phase I: to determine the safety of 18 F-FLT.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or female greater than or equal to 16 years of age. If female of child-bearing potential and outside of the window of 10 days since the first day of last menstrual period, a negative pregnancy test is required.\n* Patients with known primary or suspected primary, recurrent or metastatic carcinoma of the lung, breast, renal cell, pancreas or brain (including GGM, oligodendrogliomas, and brain metastases from any primary tumour) and with gastrointestinal malignancies, neuroendocrine tumours (including carcinoid and islet cell malignancies, or lymphoma, with at least one lesion \\>1 cm in diameter.\n* Biochemical parameters as measured are required to be within 5 times the normal limits for age.\n* Able and willing to follow instruction and comply with the protocol\n* Provide written informed consent prior to participation in the study\n* Karnofsky Performance Scale Score 50-100\n\nExclusion Criteria:\n\n* Previous removal of entire tumour\n* Biochemical parameters as measured outside 5 times the normal limits for age\n* Unable or unwilling to follow instructions and comply with the protocol\n* Unable or unwilling to provide written informed consent prior to participation in the study\n* Karnofsky Performance Scale Score \\< 50\n* Nursing or pregnant females\n* Age less than 16 years",
+    "sex": "ALL",
+    "minimumAge": "16 Years",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

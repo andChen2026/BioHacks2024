@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02527434",
+    "briefTitle": "Study of Tremelimumab in Patients With Advanced Solid Tumors",
+    "officialTitle": "A Phase II, Multi-Center, Open-Label Study of Tremelimumab Monotherapy in Patients With Advanced Solid Tumors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Urothelial Bladder Cancer, Triple-negative Breast Cancer, Pancreatic Ductal Adenocarcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 64,
+    "primaryOutcomeMeasure": "Percentage of Patients With Confirmed Overall Response During Tremelimumab Monotherapy Phase",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. histologically or cytologically documented solid tumor malignancies, including but not limited to 1 of the following: UBC, Metastatic PDAC, TNBC; Are intolerant, are ineligible for, or have refused treatment with standard first-line therapy; 2. At least 1 lesion, not previously irradiated, that can be accurately measured at baseline as \u226510 mm in the longest diameter (except lymph nodes, which must have short axis \u226515 mm) with computed tomography (CT) (preferred) or magnetic resonance imaging (MRI) scans and that is suitable for accurate repeated measurements.\n\nExclusion criteria:\n\n1. Any concurrent chemotherapy, biologic, or hormonal therapy for cancer Treatment; 2. History of leptomeningeal carcinomatosis; 3. Active or prior documented autoimmune or inflammatory disorders; 4. Brain metastases or spinal cord compression unless asymptomatic or treated and stable off steroids and anti-convulsants for at least 14 days prior to study treatment start; 5. QT interval corrected for heart rate using Fridericia's formula (QTcF) \u2265470 ms; 6. Known allergy or hypersensitivity to IP or any IP excipient",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

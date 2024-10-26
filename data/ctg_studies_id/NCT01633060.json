@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01633060",
+    "briefTitle": "A Phase III Study of BKM120 With Fulvestrant in Patients With HR+,HER2-, AI Treated, Locally Advanced or Metastatic Breast Cancer Who Progressed on or After mTORi",
+    "officialTitle": "A Phase III Randomized, Double Blind, Placebo Controlled Study of BKM120 With Fulvestrant, in Postmenopausal Women With Hormone Receptor-positive HER2-negative AI Treated, Locally Advanced or Metastatic Breast Cancer Who Progressed on or After mTOR Inhibitor Based Treatment",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 432,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS) Based on Local Investigator Assessment - Full Analysis Set (FAS)",
+    "eligibilityCriteria": "Key inclusion criteria\n\n* Female patients age 18 years or older\n* Histologically and/or cytologically confirmed diagnosis of breast cancer\n* Radiologic evidence of inoperable locally advanced or metastatic breast cancer\n* Adequate tumor tissue for the analysis of PI3K-related biomarkers\n* Human epidermal growth factor receptor-2 (HER2) negative disease, and a known positive hormone receptor status\n* Postmenopausal women\n* Prior treatment with aromatase inhibitors\n* Evidence of progression to the combination of mTORi and endocrine therapy given as the last therapy prior to study entry\n* Adequate bone marrow and organ function\n* ECOG performance status \u2264 2\n\nKey exclusion criteria\n\n* Previous treatment with PI3K inhibitors, protein kinase B inhibitors or fulvestrant\n* More than one chemotherapy line for metastatic disease\n* Hypersensitivity to any of the excipients of buparlisib or fulvestrant\n* Symptomatic central nervous system metastases\n* Concurrent malignancy or malignancy within 3 years of study enrollment\n* Certain drugs or radiation within 2-4 weeks of enrollment\n* Increasing or chronic treatment (\\>5 days) with corticosteroids or another immunosuppressive agent\n* Certain scores on an anxiety and depression mood questionnaire given at screening\n* Acute viral hepatitis or a history of chronic or active hepatitis B virus or hepatitis C virus\n* Active cardiac disease or a history of cardiac dysfunction",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

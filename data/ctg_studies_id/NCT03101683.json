@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03101683",
+    "briefTitle": "Radiotherapy After Mastectomy for Breast Cancer Patients at Increased Risk of Local Recurrence",
+    "officialTitle": "Partial Chest Wall Radiation Therapy After Total/Skin Sparing Mastectomy and Immediate Implant-based Reconstruction for Breast Cancer Patients at Increased Risk of Local Recurrence",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "Assess feasibility , defined as patient set-up reproducibility, plan reproducibility through in vivo dosimetry and dosimetrical reduction of PCWRT vs. conventional chest wall radiotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of in situ ductal carcinoma (pTis) or invasive breast carcinoma (pT1 and pT2), submitted to NAC sparing mastectomy with prosthetic-based breast reconstruction (expander or prosthesis) and:\n* Group A)\n\nNegative sentinel node dissection or axillary clearance (pN0) and all the following risk factors:\n\n* Close (less than 1 mm) or positive (ink on tumor margin) surgical margin in a single breast quadrant\n* Tumor diameter \\>2 cm\n* Age \u226450 years\n* Grade 3 histology\n\n  * Group B)\n\nPositive sentinel dissection (pN1a) followed by axillary clearance (or primary axillary clearance) with only 1 positive node and any of the following risk factors:\n\n* Close (less than 1 mm) or positive (ink on tumor margin) surgical margins in a single breast quadrant\n* Age \u226450 years\n* Tumor diameter \\>2 cm\n* Grade 3 histology\n* Lymphovascular invasion\n* HER-2 overexpression/amplification\n* Triple negativity\n\n  * Patients must be older than 18 and less than 81 years of age\n  * WHO (ECOG) Performance Status of 0-2\n  * Patients must consent to return for scheduled treatments and follow up\n  * Written informed consent document signed\n\nExclusion Criteria:\n\n* Stages IIIB, IIIC and IV (any T4, any N3 or M1)\n* Pathological metastasis in \u22652 axillary lymph nodes, clinically apparent metastasis in internal mammary and/or supraclavicular lymph nodes\n* Close (less than 1 mm) or positive (ink on tumor margin) surgical margin in multiple breast quadrants\n* Patients submitted to neoadjuvant chemotherapy\n* Recurrence of breast cancer following mastectomy and/or adjuvant chemotherapy.\n* Concomitant primary cancer in the contralateral breast\n* History of other malignancy except carcinoma in situ of the cervix or non-melanoma skin cancer\n* Pregnant or breast-feeding\n* Other severe concomitant disease that could impact upon the ability to deliver treatment or increase the risk of toxicity (such as uncompensated congestive heart failure, unstable coronary heart disease, uncompensated chronic obstructive pulmonary disease, collagen vascular diseases including systemic lupus erythematosus, systemic sclerosis, dermatomyositis, and ataxia telangiectasia)\n* Contraindications to radiation therapy (such as previous irradiation of the breast or chest wall)\n* Severe psychiatric disorder that may interfere with the process of informed consent and/or treatment or follow-up compliance",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06317948",
+    "briefTitle": "Improving the Quality of Radiotherapy by Multi-Institution Knowledge-Based Planning Optimization Models (Acronym: MIKAPOCo, Multi-Institutional Knowledge-based Approach in Plan Optimization for the Community)",
+    "officialTitle": "Improving the Quality of Radiotherapy by Multi-Institution Knowledge-Based Planning Optimization Models",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Breast Cancer, Prostate Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1000,
+    "primaryOutcomeMeasure": "model interchangeability",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* real life consecutive (or randomly chosen) plan data of patients treated for prostate cancer during the last 10 years;\n* real life consecutive (or randomly chosen) plan data of patients treated for breast cancer during the last 10 years;\n* real life consecutive (or randomly chosen) plan data of patients treated for selected SBRT situations (spine and prostate, according to RTOG 0631 and 0938 schemes respectively) during the last 10 years.\n\nExclusion Criteria:\n\n-",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

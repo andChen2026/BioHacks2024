@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01095913",
+    "briefTitle": "Fluorescent Dyes for Lymph Node Mapping",
+    "officialTitle": "Near-Infrared Imaging of Fluorescent Dyes for Lymph Node Mapping",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Percentage of Nodes Identified by ICG Among All Resected Lymph Nodes for Each Patient",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Subjects must be 18 years of age or older\n2. Diagnosis of breast cancer requiring axillary nodal dissection\n3. Negative urine pregnancy test within 72 hours prior to study drug administration, if female of childbearing potential\n4. Females of childbearing potential who agree to use a medically accepted method of contraception for a period of one month following the study. Medically acceptable contraceptives include (i) hormonal contraceptives (such as birth control pills, Depo-Provera, or Lupron Depot) if such use is approved by the subject's Oncologist; (ii) barrier methods (such as a condom or diaphragm) used with a spermicide, or (iii) an intrauterine device (IUD).\n5. Continuation of Inclusion #4: Non-childbearing potential is defined as physiologically incapable of becoming pregnant, including any female who is post-menopausal; postmenopausal is defined as the time after which a woman has experienced 12 consecutive months of amenorrhea (lack of menstruation).\n6. Patients with a positive fine needle aspirate or core biopsy of their axillary nodes\n\nExclusion Criteria:\n\n1. Women who are pregnant or breast-feeding\n2. Persons who are allergic to iodine\n3. A female of child-bearing potential who does not agree to use an approved contraceptive for one month after study participation\n4. History of ipsilateral axillary surgery including sentinel node biopsy\n5. Any patient who does not meet inclusion criteria for study",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

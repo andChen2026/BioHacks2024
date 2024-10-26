@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02755896",
+    "briefTitle": "Trial to Compare Radiation Fibrosis With Five Versus Three Fractions",
+    "officialTitle": "Prone Partial Breast Irradiation (PBI): Prospective Randomized Controlled Non-inferiority Trial to Compare Radiation Fibrosis With Five Versus Three Fractions",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Malignant Neoplasm of Breast Stage I",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 350,
+    "primaryOutcomeMeasure": "Number of participants with grade 2 or 3 fibrosis between the two treatment groups will be compared.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Post-menopausal women with status post segmental mastectomy defined as either 1) at least 2 years without menstrual period or 2) or patients older than 50 with serological evidence of post-menopausal status or 3) hysterectomized patients of any age with Follicle Stimulating Hormone (FSH) confirmation of post-menopausal status.\n2. Stage 1 (pT1) breast cancer, excised with negative margins.\n3. clinically N0 or No Regional Lymph node (pN0) or sentinel node negative\n\nExclusion Criteria:\n\n1. Previous radiation therapy to the ipsilateral breast.\n2. Presence of a proportion of Ductal Carcinoma in-situ (DCIS) in the core biopsy specimen which is compatible with extensive intraductal component (EIC).",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

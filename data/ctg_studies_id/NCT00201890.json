@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00201890",
+    "briefTitle": "Trial of Decongestive Lymphatic Therapy for Lymphedema in Women With Breast Cancer \"DELTA STUDY\"",
+    "officialTitle": "DELTA - A Randomized Trial of Decongestive Lymphatic Therapy for Lymphedema in Women With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Lymphedema",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 103,
+    "primaryOutcomeMeasure": "Percent reduction in excess arm volume as calculated from circumferential arm measurements",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with a histological diagnosis of breast cancer experiencing edema in the ipsilateral arm such that there is a minimum 15% increase in arm volume over the opposite arm.\n* Patients must have completed all primary and adjuvant treatments (surgery, chemotherapy, radiotherapy) prior to randomization. This is to ensure that scheduling difficulties with daily treatments do not arise. Patients may be currently taking tamoxifen or similar hormonal treatment.\n\nExclusion Criteria:\n\n* Clinical or radiological evidence of active disease, either local or metastatic.\n* History of contralateral cancer, axillary surgery, radiation or bilateral arm edema. (Edema volume will be taken as the increase in volume compared to the unaffected arm; previous therapy in the opposite arm will reduce the accuracy of measuring excess volume related to lymphedema.)\n* Previous surgery involving nodal dissection or radiotherapy to other major node-bearing areas in the body such as the mediastinum or pelvis. Disruption of lymphatic flow in these potentially alternate routes may be compromised by such interventions. Patients are eligible after a simple hysterectomy (+/- oophorectomy).\n* Previously undergone massage therapy for arm edema, or has used compression sleeve within the last month.\n* Serious non-malignant disease, such as renal or cardiac failure, which would preclude daily treatment and follow up.\n* Patients for whom massage is contraindicated, such as those with untreated infections or thromboses in the affected arm.\n* Unable to commence therapy within 7 days of randomization.\n* Psychiatric or addictive disorders which preclude obtaining informed consent or adherence to the protocol.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

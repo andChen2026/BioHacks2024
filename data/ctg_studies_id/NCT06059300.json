@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06059300",
+    "briefTitle": "Digital Breast Tomosynthesis for the Dutch National Breast Cancer Screening Program",
+    "officialTitle": "Digital Breast Tomosynthesis for the Dutch National Breast Cancer Screening Program",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Breast Cancer Screening",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 18200,
+    "primaryOutcomeMeasure": "The effect of DBT screening on breast cancers diagnosed at an advanced stage at screening or in between rounds of screening. (detection rate of stage II+ cancers per 1000 screens and interval cancer rate per 1000 screens)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women who are invited to participate to the Dutch Breast Cancer Screening program in the age group 50-72 years..\n\nExclusion Criteria:\n\n* Disabled women\n* Women who are wheelchair bound",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

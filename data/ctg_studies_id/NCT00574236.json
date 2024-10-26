@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00574236",
+    "briefTitle": "Phase II Trial of Bortezomib and Doxorubicin in Metastatic Breast Cancer",
+    "officialTitle": "A Phase II Trial of Bortezomib and Doxorubicin in Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 4,
+    "primaryOutcomeMeasure": "Overall Response Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Cytologically or histologically confirmed metastatic breast cancer\n* Measurable or evaluable disease\n* Age \\> 18, PS 0,1,2\n* MUGA \\> 45%\n* Received one or fewer chemotherapies or investigational regimens for metastatic disease, no limit to the number of prior hormonal therapies. May have had single agent Herceptin and/or Herceptin plus single-agent chemotx.\n* Must meet designated laboratory criteria within 14 days of enrollment\n\nExclusion Criteria:\n\n* Doxorubicin for metatstatic disease.\n* Pregnant or lactating.\n* Active infections, no myocardial infarction within 2 months of enrollment.\n* Investigational drugs within 14 days of enrollment.\n* Chemotherapy, radiotherapy, hormonal therapy or other investigational therapy within 4 weeks of enrollment.\n* Neuropathy that is \\> grade 2.\n* Active brain mets.\n* Hypersensitivity to bortezomib, boron, or mannitol.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02003599",
+    "briefTitle": "Laser InGaAlP (660Nm) to Prevent Radiodermatitis in Breast Cancer Patients Submitted to Radiation Therapy",
+    "officialTitle": "Laser InGaAlP (660Nm) to Prevent Radiodermatitis in Breast Cancer Patients Submitted to Radiation Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Radiotherapy; Adverse Effect, Dermatitis or Eczema, Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 52,
+    "primaryOutcomeMeasure": "Evaluate the effects of Laser InGaAIP 660Nm in preventing radiodermatitis in women submitted to adjuvant radiotherapy.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age at least 18 years, female gender only.\n2. Patients with histological diagnosis of breast cancer (invasive ductal carcinoma, invasive lobular and other types), stages I-III\n3. Patients who underwent breast-conserving surgery or mastectomy without breast reconstruction\n4. Patients undergoing to adjuvant radiotherapy with conventional dose according to Barretos Cancer's Hospital protocol\n5. Patients in the radiotherapy planning , presenting :\n\n   * In the central court : \" Hot Spot \" ( ICRU ) \u2264 107 %\n   * At full volume : \" Hot Spot \" ( ICRU ) \u2264 110 %\n\nExclusion Criteria:\n\n* Patients undergoing mastectomy with immediate breast reconstruction\n* Patients without histological diagnosis of breast cancer\n* Patients with indication for radiotherapy without conventional dose\n* Patient with indication for treatment in supraclavicular fossa\n* Patients suffering from collagen\n* Patients who do not meet the criteria for planning radiotherapy",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

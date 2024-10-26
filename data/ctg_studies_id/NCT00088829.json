@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00088829",
+    "briefTitle": "Genetic Testing in Predicting Response to Paclitaxel in Women With Breast Cancer",
+    "officialTitle": "A Pilot Study to Establish a Standardized Protocol for Gene Microarray Analysis in Patients Receiving Neoadjuvant Chemotherapy for Breast Cancer: Identifying Factors Predictive of a Response to Paclitaxel",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 22,
+    "primaryOutcomeMeasure": "Overall Response",
+    "eligibilityCriteria": "Inclusion:\n\n* Histologically confirmed infiltrating carcinoma of the breast\n\n  * Unresected disease\n  * High-risk (\\> 50% risk of relapse) disease, including any of the following high-risk markers:\n\n    * Estrogen receptor- and progesterone receptor- negative\n    * Palpable axillary lymph nodes\n    * Grade 3 histology\n    * S phase fraction \\> 10%\n    * Ki67 \\> 30%\n* Disease that warrants combination therapy with doxorubicin, cyclophosphamide, and paclitaxel\n* HER2/neu negative or positive\n* Hormone receptor status:\n\n  * Not specified\n\nMenopausal status\n\n* Known\n\nPerformance status\n\n* ECOG 0-2\n* Absolute neutrophil count \\> 1,500/mm\\^3\n* Platelet count \u2265 100,000/mm\\^3\n* Bilirubin \u2264 1. 5 times normal (except for patients with known Gilbert's disease)\n* Creatinine \u2264 1.5 times normal\n\nExclusion:\n\n* uncontrolled congestive heart failure\n* myocardial infarction within the past 6 months\n* unstable angina\n* uncontrolled hypertension\n* pregnant or nursing\n* serious bacterial, viral, or fungal infection requiring ongoing treatment\n* severe peripheral neuropathy\n* poor psychiatric risk\n* history of any other known serious co-morbid medical or psychiatric condition\n* prior cytotoxic therapy for breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

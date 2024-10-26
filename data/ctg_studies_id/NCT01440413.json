@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01440413",
+    "briefTitle": "Study of the Response to a Neoadjuvant Chemotherapy Based on the Antitumor Immune Response in Localized Breast Cancer",
+    "officialTitle": "Study of the Response to a Neoadjuvant Chemotherapy Based on the Antitumor Immune Response in Localized Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Determine the correlation between histopathological response (pCR) and induction of tumor immunity in response to neoadjuvant chemotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically proven localized breast cancer required anthracycline chemotherapy +/- trastuzumab before surgery\n* Age \\> 18 years\n* Chemotherapy with 3 anthracycline cycles to begin (doxorubicin or epirubicin)\n* Any previous treatment for this cancer\n* Performance Status \\<= 1\n* Agreement for the conservation of biological samples\n* Covered by an medical insurance\n* Signed written informed consent form\n* Availability of tumoral sample collected at diagnosis\n\nExclusion Criteria:\n\n* Previous surgery for the breast cancer\n* Already under chemotherapy before the first blood sample\n* Previous Antitumoral treatment\n* Under immunosuppressive treatment\n* Under corticoids during the 15 days before enrollment\n* History of concomitant cancer except if it has been cured for at least 5 years\n* History of lymphoma or breast sarcoma\n* History of chronic inflammatory disease or autoimmune disease, hepatitis B or C or immune dysfunction disease (including HIV-positive stage AIDS) known\n* History of other disease which is discrepant with this study\n* Deprived of liberty by court or administrative decision\n* Pregnant or breastfeeding women or with no use of effective birth control methods for women of childbearing potential",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

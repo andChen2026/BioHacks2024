@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00377780",
+    "briefTitle": "Liposomal Doxorubicin, Trastuzumab, and Docetaxel in HER2 Positive Metastatic Breast Cancer",
+    "officialTitle": "Phase II Multicentre Open Label Study Evaluating the Efficacy and Safety of Liposomal Doxorubicin, Trastuzumab, Docetaxel as First-line Treatment of Patients With HER2 Positive Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Neoplasm Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Cardiotoxicity (definite or probable cardiac death)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with histologically documented metastatic or locally advanced metastatic HER2/neu positive breast cancer at 1st line of palliative chemotherapy.\n* In the case of previous adjuvant or neoadjuvant chemotherapy with anthracyclines or taxanes, this must have been completed more than 12 months before inclusion.\n* In the case of previous adjuvant or neoadjuvant chemotherapy, cumulative anthracycline dose \u2264 240 mg/m2 of doxorubicin or 450 mg/m2 of epirubicin or 75 mg/m2 of mitoxantrone on inclusion.\n* Previous endocrine therapy is authorized (endocrine therapy other than goserelin must be stopped before starting treatment).\n* Previous radiotherapy is authorized, if discontinued \u2265 4 weeks prior to inclusion in the study and if \\< 10% of the bone marrow was within the irradiated area.\n* Age \u2265 18 years.\n* Performance status 0,1, or 2.\n* Life expectancy \u2265 3 months.\n* Evaluable disease.\n* Normal LVEF (multigated acquisition \\[MUGA\\] scan or echocardiography).\n* Normal haematological, hepatic and renal parameters: neutrophils \u2265 1.5 x 10\\^9/l; platelets \u2265 100 x 10\\^9/l; hemoglobin (Hb) \u2265 6 mmol/L; total bilirubin \u2264 1.5 times the upper limit of normal (ULN); transaminases \u2264 2.5 x ULN; alkaline phosphatase \u2264 2.5 x ULN; creatinine \u2264 1.5 x ULN.\n* Dated and signed written informed consent.\n\nExclusion Criteria:\n\n* Previous chemotherapy for metastatic disease.\n* History of other cancer, except for cervical carcinoma in situ treated by cone resection or basal cell or squamous cell skin cancer.\n* History of congestive heart failure or myocardial infarction \u2264 1 year; cardiac function: NYHA \u2265 2 or LVEF \\< 50%.\n* Uncontrolled significant heart disease, such as unstable angina.\n* Poorly controlled hypertension.\n* Performance status 3, 4.\n* Symptomatic or progressive brain metastases.\n* Active infection or other serious underlying disease.\n* Concomitant participation in other clinical trials.\n* Pregnant women or nursing mothers; patients of childbearing potential without effective contraception.\n* Absolute medical contraindication to the use of corticosteroid premedication.\n* Allergy to polysorbate 80, doxorubicin, or egg lecithin.\n* NCI-CTC grade \\> 1 peripheral neuropathy.\n* Patients not able to comply with regular medical follow-up",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

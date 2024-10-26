@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04925817",
+    "briefTitle": "3D Ultrasound Microvessel Imaging for Breast Masses",
+    "officialTitle": "3D Ultrasound Microvessel Imaging for Breast Masses",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Ultrasound diagnostic accuracy using McNemar's test",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with solid breast lesion who are scheduled for a clinically indicated ultrasound-guided biopsy.\n* Lesion size of 3 mm or larger.\n* Age 18 or greater.\n\nExclusion Criteria:\n\n* Women with previous breast surgery or breast implant.\n* Lacking the capacity to consent.\n* Women who are pregnant or lactating.\n* Women who are receiving cancer therapy such as chemotherapy or radiation therapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

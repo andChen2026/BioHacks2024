@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03686098",
+    "briefTitle": "The Malaysian Soy and Mammographic Density Study",
+    "officialTitle": "The Malaysian Soy and Mammographic Density (MiSo) Study: A Randomized, Three-arm, Controlled Clinical Trial to Investigate the Impact of Soy Isoflavone Intake on Mammographic Density as a Biomarker of Breast Cancer Risk",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Mammographic Density",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 282,
+    "primaryOutcomeMeasure": "Mammographic Density",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Enrolled in the Malaysian Mammography Study and agreed to be contacted\n* Aged between 45 and 65 years old at study recruitment (i.e. as of June 2018)\n* No genetic predisposition to breast cancer (carriers of the BRCA1 and BRCA2 mutations)\n* Measurable amount of mammographic density (at least 4.5% Volpara percent mammographic density).\n\nExclusion Criteria:\n\n* Personal history of breast cancer\n* Personal history of other cancers, stroke, and other serious health conditions\n* Personal history of benign breast disease\n* Pre-menopausal (regular menstrual periods) or early peri-menopausal women (irregular menstrual period with a menstrual period in the past 3 months)\n* Women who have a history of high uric acid, gout and associated conditions\n* Women who have been diagnosed as diabetic or pre-diabetic\n* Women who have been diagnosed with hypothyroidism\n* Women who have gastrointestinal conditions (i.e. irritable bowel syndrome)\n* Women who are allergic or intolerant to soy and soy products\n* Currently (within the last 6 months) on hormone replacement therapy drugs, including alternative and traditional therapies for menopause symptom management\n* Currently (within the last 6 months) a smoker\n* Women who report a high soy diet (consuming soy foods at least once a day or are currently taking soy supplements\n* Women who have had a mammogram in the past 12 months\n* Women with breast augmentation\n* Women with an abnormal or suspicious mammogram at recruitment. This includes women who are scored 2-5 using American College of Radiology's BIRADS (Version 5), unless reported as normal after additional tests (i.e. ultrasound). For women with dense breast, we will exclude women with an abnormal ultrasound (indicative of benign or malignant disease).",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04893421",
+    "briefTitle": "Magnetic Occult Lesion Localization Instrument (MOLLI) Guidance System for Breast Lesion Localization",
+    "officialTitle": "A Registry Study Evaluating the Magnetic Occult Lesion Localization Instrument (MOLLI) Guidance System for Breast Lesion Localization",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 41,
+    "primaryOutcomeMeasure": "MOLLI Localization Success Rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women 18 years or older with histologically confirmed unifocal breast lesion and identified as a candidate for BCS, this includes patients with high-risk, premalignant (eg. ductal carcinoma in-situ), or malignant (eg. invasive ductal carcinoma) lesions\n* Lesions must be non-palpable and require pre-operative localization for surgical guidance\n* Lesions must be visible as determined by preoperative breast mammogram and / or ultrasound imaging. Pre-operative MRI is at the discretion of the treating surgeon.\n\nExclusion Criteria:\n\n* Biologically male patients\n* Locally advanced malignant breast cancer\n* Any absolute contraindications to BCS\n* Pregnancy or lactation\n* Existing allergy to metallic seed materials\n* Patients requiring MRI after MOLLI seed placement",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

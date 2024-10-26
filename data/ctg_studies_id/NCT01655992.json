@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01655992",
+    "briefTitle": "A Trial Comparing S1 Generic With Capecitabine in Metastatic Breast Cancer (MBC)",
+    "officialTitle": "A Randomized Open Label Multicenter Phase 3 Trial Comparing S1 Generic With Capecitabine in Patients With Metastatic Breast Cancer.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 386,
+    "primaryOutcomeMeasure": "progression free survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed breast cancer\n* Pretreated metastatic breast cancer not more than 2 lines chemotherapy\n* Have not been previously treated with capecitabine,oral fluracil\n* ECOG performance status of \u2264 1\n* Be female and \u2265 18 and \u2264 75 years of age\n* Have at least one target lesion according to the RECIST criteria 1.1\n\nExclusion Criteria:\n\n* Pregnant or lactating women\n* ECOG \u2265 2\n* Have been treated with capecitabine\n* Evidence of CNS metastasis\n* History of another malignancy within the last five years except cured basal cell carcinoma of skin and carcinoma in-situ of uterine cervix or a contralateral breast cancer\n* Abnormal laboratory values: hemoglobin \\< 10.0 g/dl, absolute neutrophil count \\< 1.5\u00d710\\^9/L, platelet count \\< 100\u00d710\\^9/L, serum creatinine \\> upper limit of normal (ULN), serum bilirubin \\> ULN, ALT and AST \\> 5\u00d7ULN, AKP \\> 5\u00d7ULN\n* Serious uncontrolled intercurrent infection\n* Life expectancy of less than 3 months",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

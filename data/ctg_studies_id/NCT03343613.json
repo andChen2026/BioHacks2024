@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03343613",
+    "briefTitle": "A Study of LY3381916 Alone or in Combination With LY3300054 in Participants With Solid Tumors",
+    "officialTitle": "A Phase 1a/1b Study of an Anti-IDO-1 Agent (LY3381916) Administered Alone or in Combination With Anti- PD-L1 Checkpoint Antibody (LY3300054) in Solid Tumors",
+    "overallStatus": "TERMINATED",
+    "conditions": "Solid Tumor, Non Small Cell Lung Cancer, Renal Cell Carcinoma, Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Number of Participants with Dose Limiting Toxicities (DLTs)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Dose escalation phase: Participant must have histological or cytological evidence of a diagnosis of cancer that is advanced and/or metastatic.\n* Dose expansion B1: Metastatic TNBC participants who have not received prior PD-1/L1 treatment.\n* Dose expansion B2: Metastatic NSCLC participants who have progressed on prior PD-L1/L1 treatment.\n* Dose expansion B3: Metastatic clear cell carcinoma RCC who have progressed on prior PD-L1/L1 treatment.\n* Have adequate organ function.\n* Have a performance status (PS) of \u22641 on the Eastern Cooperative Oncology Group (ECOG) scale.\n* Are able and willing to provide required, newly acquired tumor biopsies.\n* Have discontinued previous treatments for cancer.\n* Are able to swallow capsules.\n\nExclusion Criteria:\n\n* Currently enrolled in a clinical study.\n* Have known symptomatic central nervous system metastases or carcinomatous meningitis.\n* Have a serious concomitant systemic disorder.\n* Have a symptomatic human immunodeficiency virus infection or symptomatic activated/reactivated hepatitis B or C.\n* Have a significant cardiac condition.\n* Have previously received an indoleamine- 2,3-dioxygenase (IDO) inhibitor.\n* Have an active autoimmune disease or currently require immunosuppression of \\>10 milligrams of prednisone or equivalent per day.\n* Have interstitial lung disease or (noninfectious) pneumonitis, participants with a history of (noninfectious) pneumonitis that required steroids to assist with management.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

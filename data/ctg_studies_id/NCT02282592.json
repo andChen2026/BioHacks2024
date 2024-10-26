@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02282592",
+    "briefTitle": "Metabolic Syndrome and Female Breast Cancer",
+    "officialTitle": "Metabolic Syndrome and Female Breast Cancer: a Case-control Study in Southern Brazil",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 164,
+    "primaryOutcomeMeasure": "Odds Ratio for Breast Cancer according to the presence of Metabolic Syndrome and its components",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* For cases: having newly diagnosed breast cancer without adjuvant or neoadjuvant treatment;\n* For controls: having no evidence of cancer; be matched for age and menopausal status with controls\n\nExclusion Criteria:\n\n* Women with a recidivated tumor, HIV infection, renal, heart or liver disease, hypothyroidism or hyperthyroidism, mobility or neurological limitations, chronicle use of corticosteroids, pacemakers or identified with severe edema were excluded.",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

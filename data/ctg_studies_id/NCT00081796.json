@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00081796",
+    "briefTitle": "Breast Cancer Trial of RPR109881 Versus Capecitabine in Male or Female Patients With Advanced Breast Cancer",
+    "officialTitle": "A Randomized, Open-Label, Phase III Study of RPR109881 IV Every 3 Weeks Versus Capecitabine (Xeloda) Tablets Twice Daily for 2 Weeks in 3-Week Cycles in Patients With Metastatic Breast Cancer Progressing After Taxanes and Anthracycline Therapy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Metastases",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 438,
+    "primaryOutcomeMeasure": "Time to tumor progression.",
+    "eligibilityCriteria": "Eligibility Criteria\n\nIn order to be eligible for this trial you must:\n\n* Have a diagnosis of breast cancer that is now metastatic (meaning the cancer has spread beyond its original location) or a recurrence of the cancer in its original location that cannot be removed by surgery.\n* Have received previous treatment with anthracyclines (e.g., adriamycin, Doxorubicin) and taxanes (e.g., paclitaxel, docetaxel, Taxol\u00ae, Taxotere\u00ae) for your breast cancer and your doctor has determined that these treatment are no longer of benefit to you.\n* Be at least 18 years of age.\n* Not be taking other treatments for your cancer at the time you enter this trial.\n* Not be pregnant.\n\nAdditionally, there are other criteria for study entry that a doctor participating in this study will need to review in detail with you and clinical assessments may need to be performed (e.g., lab tests, CT scans).",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

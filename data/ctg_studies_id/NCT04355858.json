@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04355858",
+    "briefTitle": "Molecularly Targeted Umbrella Study in Luminal Advanced Breast Cancer",
+    "officialTitle": "Precision Treatment of Luminal Advanced Breast Cancer Based on Molecular Subtyping",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Metastatic Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 319,
+    "primaryOutcomeMeasure": "ORR",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females \u226518 years old;\n* Histologically confirmed HR + / HER2- invasive breast cancer (specific definition: immunohistochemical detection of ER\\> 10% tumor cell positive is defined as ER positive, PR\\> 10% tumor cell positive is defined as PR positive, ER and / or PR Positive is defined as HR positive; HER2 0-1 + or HER2 is ++ but negative followed by FISH detection, no amplification, defined as HER2 negative);\n* Locally advanced breast cancer (incapable of radical local treatment) or recurrent metastatic breast cancer;\n* Patients with HR+/HER2- advanced breast cancer who were previously treated with CDK4 / 6 inhibitor except for Arm 5E-5F;\n* Measurable disease according to Response Evaluation Criteria in Solid Tumors v1.1 (RECIST v1.1)\n* Has adequate bone marrow function: absolute neutrophil count \\> 1.5x10\u02c69 /L; platelet count \\> 75x10\u02c69 /L, hemoglobin \\> 9g/dL;\n* Has adequate liver function: alanine aminotransferase (ALT) \u22641.5\u00d7upper limit of normal (ULN), aspartate aminotransferase (AST) \u22643\u00d7ULN, alkaline phosphatase (AKP) \u22643\u00d7ULN, total bilirubin (TBIL) \u2264 1.5\u00d7ULN.\n* Has adequate kidney function: serum creatinine \u22641\u00d7ULN.Endogenous creatinine clearance\\> 50 ml / min (Cockcroft-Gault formula);\n* Did not receive radiation, molecular targeted therapy or surgery within 3 weeks before the study began, and has recovered from the acute toxicity of previous treatment (if surgery, the wound has completely healed); no peripheral neuropathy or first degree peripheral neurotoxicity ;\n* ECOG score \u2264 2 and life expectancy \u2265 3 months;\n* Participants voluntarily joined the study, has signed informed consent before any trial related activities are conducted, has good compliance and has agreed to follow-up.\n\nExclusion Criteria:\n\n* Treatment with chemotherapy, radiotherapy, immunotherapy or surgery (outpatient clinic surgery excluded)within3 weeks prior to initiation of study treatment(bisphosphonates can be used for bone metastasis);\n* Symptomatic, untreated, or actively progressing CNS metastases(glucocorticoids or mannitol needed to control symptoms);\n* Significant cardiovascular disease(including congestive heart failure, angina pectoris, myocardial infarction or ventricular arrhythmia in the last 6 months);\n* Grade \u2265 1 adverse reactions that are ongoing due to previous treatment. Exceptions to this are hair loss or the investigator's opinion should not be ruled out. Such cases should be clearly documented in the investigator's notes;\n* Is pregnant or breast feeding;\n* Malignant tumors in the past five years (except cured skin basal cell carcinoma and cervical carcinoma in situ).",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

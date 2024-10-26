@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03155802",
+    "briefTitle": "Novel Biomarkers and Echocardiography for Subclinical Cardiac Toxicity in Breast Cancer Patients Receiving Anthracyclines",
+    "officialTitle": "Use of Novel Biomarkers and Echocardiography to Assess Subclinical Cardiac Toxicity in Breast Cancer Patients Receiving Anthracyclines",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Cardiotoxicity, Heart Failure, Breast Cancer, Anthracycline Induced Cardiomyopathy, Biomarkers, Echocardiography",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 35,
+    "primaryOutcomeMeasure": "Association of Heart Failure Biomarkers with Global Longitudinal strain rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female subjects aged 18-85 years old\n2. Biopsy-proven diagnosis of invasive breast cancer carcinoma\n3. Plan for anthracycline inclusive chemotherapy (+/- taxanes, +/- trastuzumab)\n\nExclusion Criteria:\n\n1. History of major heart disease at the time of breast cancer diagnosis (myocardial infarction or known left ventricular dysfunction (LVD) at baseline (defined as ejection fraction \\<40%)\n2. History of known obstructive coronary artery disease (CAD), or coronary revascularization within the past 1 year\n3. History of clinical heart failure or previous heart failure hospitalization\n4. Patients with elevations in NT-pro BNP (above 3x ULN), or ST2 (above 2x ULN), galectin-3 (above 2x ULN), or hs troponin (above 2x ULN) during baseline screening\n5. Patients with metastatic disease or recurrent breast cancer at diagnosis\n6. History of other chemotherapy treated malignancy",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

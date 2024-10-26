@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03790813",
+    "briefTitle": "Informative Tools to Optimize Neoadjuvant Therapy in ER Positive, HER2 Negative Breast Cancers",
+    "officialTitle": "Informative Tools to Optimize Neoadjuvant Therapy in ER Positive, HER2 Negative Breast Cancers",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Feasibility of neoajduvant Ki-67 and Oncotype DX, defined as >=75% enrollment rate for all screened patients",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patient must be between the ages (inclusive) of 18-89.\n2. Patient has adequate performance status (PS ECOG 0,1 or Karnofsky performance status \u226570) and is a medically fit candidate for treatment of their cancer with systemic chemotherapy and/or hormonal therapy with no contra-indications to both systemic therapy options.\n3. Patient is medically fit enough to be a surgical candidate.\n4. Patient must be able to give informed consent directly or through the assistance of an interpreter.\n5. Pathological confirmation of breast cancer by core biopsy.\n6. Ductal or lobular breast cancer.\n7. Breast cancer with a primary tumour (clinically selected T2-T4) OR clinically node positive.\n8. Breast cancer is clinically palpable either in the breast, axilla or other nodal site.\n9. ER positive by IHC (Allred \\>=4).\n10. Her2Neu negative by IHC (0 or 1+) or FISH by current ASCO/CAP guidelines.\n\nExclusion Criteria:\n\n1. Patient is a male with breast cancer.\n2. Patients have ER negative tumors (ER-) by local or central BCCA assessment.\n3. Patients have HER2 positive tumors by local or central BCCA assessment.\n4. Patients have known metastatic breast cancer or develop metastatic disease prior to surgery.\n5. Patients are unable to give consent or understand written language.\n6. Patients with poor performance status (ECOG 2-4) in whom consideration of neoadjuvant chemotherapy OR hormonal therapy would be contraindicated.\n7. Patients who are not fit enough to be a surgical candidate.\n8. Pregnant women in whom consideration of neoadjuvant chemotherapy or neoadjuvant hormonal therapy would be contraindicated.\n9. Patients who receive less than 2 weeks of neoadjuvant systemic therapy.\n10. Patients who have not undergone surgical resection 12 months after enrollment.\n\nFor intervention 1 only:\n\n1. Patients with tumors that on GHI central pathological review appears inadequate for the Oncotype DX\u00ae assay.\n2. Patients with tumors that on BCCA pathological review appears inadequate for Ki-67 immunohistochemistry.\n\nFor intervention 2 only:\n\n1. Patients with a pacemaker or contra-indication to MRI.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

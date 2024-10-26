@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02823262",
+    "briefTitle": "A Breast Cancer Treatment Decision Aid for Women Aged 70 and Older",
+    "officialTitle": "A Breast Cancer Treatment Decision Aid for Women Aged 70 and Older",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Estrogen Receptor Positive Breast Cancer, Node-negative Breast Cancer, Human Epidermal Growth Factor 2 Negative Carcinoma of Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 65,
+    "primaryOutcomeMeasure": "Change in Decisional Conflict Scale at 1 week",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Phase I\n\n  * Patient age \u2265 70 yrs\n  * Female patient diagnosed with a first primary ER+, HER2-, LN-, 3cm or less breast cancer \\>6 months ago but \\<2 years ago\n  * Caregiver age \\>21 years\n  * English speaking\n* Phase II\n\n  * Female patient age \u2265 70 yrs newly diagnosed with a first primary ER+, HER2-, LN-, 3cm or less breast cancer\n  * Women newly diagnosed with breast cancer on the day of surgical consult\n\nExclusion Criteria:\n\n* Phase I\n\n  * Patient Age \\< 70 years\n  * Women diagnosed with Paget's disease, inflammatory breast cancer or a phyllodes tumor\n  * Signs of Dementia\n  * Score \\>10 on the Orientation-Memory-Concentration (OMC) test\n  * Non-English Speaking;\n  * Caregiver age \\< 21 years\n  * Women who do not have capacity to participate. --- Before enrolling women in this study, possible participants will be asked 7 questions about the benefits and risks of the study. Women that answer 3 or more of these questions incorrectly will be excluded.\n* Phase II\n\n  * Women with a history of breast cancer (invasive and non-invasive)\n  * Diagnosed with Paget's disease, inflammatory breast cancer or a phyllodes tumor\n  * Signs of Dementia\n  * Score \\>10 on the OMC test (indicative of dementia).\n  * Women who do not have capacity to participate. --- Before enrolling women in this study, possible participants will be asked 7 questions about the benefits and risks of the study. Women that answer 3 or more of these questions incorrectly will be excluded.",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

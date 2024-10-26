@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00881361",
+    "briefTitle": "Surgery to Remove the Sentinel Lymph Node and Axillary Lymph Nodes After Chemotherapy in Treating Women With Stage II, Stage IIIA, or Stage IIIB Breast Cancer",
+    "officialTitle": "A Phase II Study Evaluating the Role of Sentinel Lymph Node Surgery and Axillary Lymph Node Dissection Following Preoperative Chemotherapy in Women With Node Positive Breast Cancer (T1-4, N1-2, M0) at Initial Diagnosis",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 756,
+    "primaryOutcomeMeasure": "False Negative Rate (FNR) for Sentinel Lymph Node (SLN) Surgery After Chemotherapy When at Least 2 SLNs Were Excised in Women Initially Presenting With Biopsy-proven cN1 Breast Cancer [cN1 Cohort]",
+    "eligibilityCriteria": "Eligibility Criteria:\n\n1. \u2265 18 years old\n2. ECOG/Zubrod Performance Status 0-1\n3. Female. Note: Men are excluded from this study because the number of men with breast cancer is insufficient to provide a statistical basis for assessment of effects in this subpopulation of people with breast cancer.\n4. Histologic diagnosis of invasive breast cancer, clinical stage T0-4 N1-2 M0 (excluding inflammatory breast cancer).\n5. FNA biopsy or core needle biopsy of an axillary node documenting nodal disease at time of diagnosis and prior to preoperative chemotherapy.\n6. Preoperative chemotherapy must be completed or planned for patient. NOTE: Patients enrolling on studies involving preoperative chemotherapy (through cooperative groups or institutional studies) may be eligible for this study, provided sentinel node surgery prior to preoperative chemotherapy was not required in the other studies.\n7. No prior ipsilateral axillary surgery, such as excisional biopsy of lymph node(s) or treatment of hidradenitis.\n8. No prior SLN surgery/excisional lymph node biopsy for pathological confirmation of axillary status.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

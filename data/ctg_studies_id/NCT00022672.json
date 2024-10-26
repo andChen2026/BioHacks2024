@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00022672",
+    "briefTitle": "A Study to Evaluate the Efficacy and Safety of Herceptin\u00ae (Trastuzumab) in Combination With Arimidex\u00ae (Anastrozole) an Aromatase Inhibitor Compared to Arimidex\u00ae Alone in Patients With Metastatic Breast Cancer",
+    "officialTitle": "A Randomized, Open-label Study of the Effect of Herceptin Plus Arimidex Compared With Arimidex Alone on Progression-free Survival in Patients With HER2-positive and Hormone-receptor Positive Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 208,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* postmenopausal women;\n* metastatic breast cancer suitable for endocrine therapy;\n* positive hormone receptor status;\n* Human epidermal growth factor receptor 2 (HER2) overexpression.\n\nExclusion Criteria:\n\n* patients on hormone replacement therapy;\n* previous chemotherapy for metastatic disease;\n* uncontrolled cardiac disease and history of cardiac failure.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

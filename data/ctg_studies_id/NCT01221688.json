@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01221688",
+    "briefTitle": "Sentinel Lymph Node Detection After Neoadjuvant Chemotherapy for Large Operable Breast Cancer",
+    "officialTitle": "Evaluation of Sentinel Lymph Node Detection After Neoadjuvant Chemotherapy for Large Operable Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 958,
+    "primaryOutcomeMeasure": "false-negative (FN) rate for the Sentinel Lymph Node Detection",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* T2-T3 operable infiltrating breast carcinoma\n* No allergy to Patent Blue\n* Pre-operative diagnosis of unifocal infiltrating breast carcinoma.\n* Patient planned to be treated by NAC.\n* Informed consent.\n* Surgery available 4 to 6 weeks after the last chemotherapy course (radical or conservative surgery)\n\nExclusion Criteria:\n\n* pT4d (inflammatory breast cancer)\n* Locally advanced or metastatic breast cancer\n* Any previous chemotherapy of contra-lateral breast cancer.\n* Breast cancer local relapse\n* Previous surgical removal of breast Cancer.\n* Inadequate biopsy for pathological analysis.\n* Dementia or altered mental disorder\n* Pregnant woman or breast feeding or without efficacious contraceptive method.\n* Contra-indication to NAC NAC interrupted due to progressive disease.\n* Neoadjuvant radiotherapy.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

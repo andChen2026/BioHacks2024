@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02555657",
+    "briefTitle": "Study of Single Agent Pembrolizumab (MK-3475) Versus Single Agent Chemotherapy for Metastatic Triple Negative Breast Cancer (MK-3475-119/KEYNOTE-119)",
+    "officialTitle": "A Randomized Open-Label Phase III Study of Single Agent Pembrolizumab Versus Single Agent Chemotherapy Per Physician's Choice for Metastatic Triple Negative Breast Cancer (mTNBC) - (KEYNOTE-119)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 622,
+    "primaryOutcomeMeasure": "Overall Survival in Participants With Programmed Cell Death Ligand 1 (PD-L1) With Combined Positive Score (CPS) \u226510",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Centrally confirmed Stage IV/M1 mTNBC\n* Newly obtained tumor biopsy from metastatic site\n* Central determination of programmed cell death ligand 1 (PD-L1) tumor status\n* Received either one or two prior systemic treatments for metastatic breast cancer and have documented disease progression on or after the most recent therapy\n* Previously treated with an anthracycline and/or taxane in the neoadjuvant/adjuvant or metastatic setting\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 within 10 days prior to study start\n* Adequate organ function\n\nExclusion Criteria:\n\n* Participation in another clinical trial within 4 weeks\n* Monoclonal antibody (mAb) for direct anti-neoplastic treatment within 4 weeks\n* Chemotherapy, targeted small molecule therapy, or radiation therapy within at least 2 weeks\n* Active autoimmune disease that required systemic treatment in the past 2 years\n* Diagnosed with immunodeficiency or receiving systemic steroid therapy or another form of immunosuppressive therapy within 7 days\n* Known additional malignancy that required treatment or progressed in last 5 years\n* Known active brain metastases and/or carcinomatous meningitis\n* Prior therapy with an anti-programmed cell death (PD)-1, anti-PD-ligand-1 (anti-PD-L1), anti-PD-L2 agent or with an agent directed to another co-inhibitory T-cell receptor (e.g. cytotoxic T-lymphocyte associated protein 4 \\[CTLA-4\\], OX-40, CD137) or previously participated in any pembrolizumab (MK-3475) clinical studies",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

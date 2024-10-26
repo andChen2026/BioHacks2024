@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04827459",
+    "briefTitle": "Sleep Coach: A Mobile App to Address Insomnia Symptoms Among Cancer Survivors",
+    "officialTitle": "Sleep Coach: A Mobile App to Address Insomnia Symptoms Among Cancer Survivors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Insomnia, Breast Cancer, Prostate Cancer, Colon Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Percentage of participants engaging with the app at least 4 days/week",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* Has completed curative-intent treatment (chemo, surgery, RT) for prostate, colon or breast cancer at least three months and not more than 5 years prior to study entry. Note: Ongoing hormonal therapy (i.e., tamoxifen, aromatase inhibitors, casodex), Herceptin and maintenance therapies are allowed.\n* Ability to read and write English\n* Ability to complete questionnaire(s) by themselves or with assistance.\n* Reports trouble falling asleep or staying asleep on at least 3 nights per week (most weeks) for the last 3 months.\n* Own an Android phone version 8 or higher (The latest version of Android is 11.0) or an iPhone running iOS 11 or higher (The latest version of iOS is 14.3.)\n* Ability to provide informed written consent.\n\nExclusion Criteria:\n\n* Inability to read and write English\n* Diagnosis of a sleep disorder other than insomnia (e.g. sleep apnea, restless legs syndrome, narcolepsy)\n* Diagnosis of Insomnia prior to cancer diagnosis\n* Reports physical symptoms that interfere with sleep, such as shortness of breath, pain, hot flashes, frequent urination\n* Major psychiatric or medical condition other than cancer suspected to contribute to their sleep disturbance\n* Evidence of active cancer (i.e. not considered NED)\n* Currently or previously received CBT-I\n* Patients who are night shift workers or subject to other external restrictions on their opportunity to sleep at night.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

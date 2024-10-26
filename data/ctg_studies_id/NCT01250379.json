@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01250379",
+    "briefTitle": "A Study of Avastin (Bevacizumab) in Combination With Chemotherapy in Patients With Breast Cancer Progressing After First-Line Therapy With Avastin and Chemotherapy (TANIA)",
+    "officialTitle": "A Phase III Randomized Study Evaluating the Efficacy and Safety of Continued and Re-induced Bevacizumab in Combination With Chemotherapy for Patients With Locally Recurrent or Metastatic Breast Cancer After First-line Chemotherapy and Bevacizumab Treatment",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 494,
+    "primaryOutcomeMeasure": "Percentage of Participants With Second-Line Progression-Free Survival (PFS) According to Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1 (v1.1)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients, \\>/= 18 years of age\n* Histologically confirmed HER2-negative breast cancer\n* Disease progression during or following first-line treatment with Avastin and chemotherapy for locally recurrent or metastatic breast cancer\n* Avastin treatment in first-line setting must have been a minimum of 4 cycles (15 mg/kg) or 6 cycles (10 mg/kg) in combination with chemotherapy\n* ECOG performance status 0-2\n* At least 28 days since prior radiation therapy or surgery and recovery from treatment\n\nExclusion Criteria:\n\n* Anti-angiogenic therapy or anti-vascular endothelial growth factors other than Avastin for first-line treatment\n* Active malignancy other than superficial basal cell and superficial squamous cell carcinoma of the skin, or in situ carcinoma of the cervix or breast within the last 5 years\n* Inadequate renal function\n* Clinically relevant cardio-vascular disease\n* Known CNS disease except for treated brain metastases\n* Chronic daily treatment with high-dose aspirin (\\>325 mg/day) or clopidogrel (\\>75 mg/day)\n* Pregnant or lactating women",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

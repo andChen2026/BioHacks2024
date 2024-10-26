@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04461808",
+    "briefTitle": "Tomosynthesis as Primary Test for Breast Cancer Screening",
+    "officialTitle": "Tomosynthesis as Primary Test for Breast Cancer Screening: A Multicenter Randomized Controlled Trial",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 10156,
+    "primaryOutcomeMeasure": "advanced cancer incidence",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women scheduled for a new round of mammographic screening\n* resident in the province\n\nExclusion Criteria:\n\n* previous breast cancer diagnosis\n* pregnancy or suspicion of pregnancy\n* presence of BRCA1/2 gene mutation\n* Previous Digital Breast Tomosynthesis performed\n* unable to understand informed consent\n* chemotherapy in progress\n* presence of breast implant",
+    "sex": "FEMALE",
+    "minimumAge": "45 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

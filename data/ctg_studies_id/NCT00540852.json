@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00540852",
+    "briefTitle": "Monitoring the Response of Chemotherapy on Breast Cancer Tumor by Photon Migration Spectroscopy",
+    "officialTitle": "Monitoring the Response of Chemotherapy on Breast Cancer Tumor by Photon Migration Spectroscopy",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DEVICE_FEASIBILITY",
+    "enrollmentCount": 77,
+    "primaryOutcomeMeasure": "Diagnostic tool",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female non-pregnant and age greater than or equal to 21 years old but less than 75 years old\n* Diagnosed with breast cancer and will be receiving neoadjuvant chemotherapy\n\nExclusion Criteria:\n\n* Female pregnant and age less than 21 years old and have no diagnosis of breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

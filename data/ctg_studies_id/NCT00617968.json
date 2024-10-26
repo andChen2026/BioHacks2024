@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00617968",
+    "briefTitle": "GETNA2 Neoadj. TAX+Femara vs Femara in g I/II Breast Cancer",
+    "officialTitle": "A Multicenter, Randomized, Open-label, Phase II Study to Evaluate the Efficacy and Safety of Neoadjuvant Treatment Consisting of Either a Docetaxel - Letrozole Combination or Letrozole Alone in Women Over 60 Years of Age Suffering From Grade I or II Operable Hormone Receptor-positive Breast Tumor.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 5,
+    "primaryOutcomeMeasure": "Rate of clinical and radiological response evaluated according to RECIST criteria",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female patients with breast cancer histologically proven by microbiopsy (14G or 16G) enabling confirmation of the diagnosis, and evaluation of the histological prognostic grade, hormonal receptors and HER2 status.\n* Tumor T2 or T3, non-metastasized, non-inflammatory, unilateral\n* Clinically or radiologically measurable lesion greater than 2 cm (ultrasound and/or mammogram)\n* Receptors RE+ and/or RP+ (positive status determined according to the criteria of the investigating centers)\n* HER 2 / neu status of 0, 1+ or 2+ in immunohistochemistry\n* Histological grade I or II\n* Menopausal patients aged greater than or equal to 60 years\n* Patients with ECOG PS greater than or equal to 2\n* Satisfactory hematological, hepatic and renal functions:\n* Hemoglobin greater than or equal to 10 g/dL\n* Platelet count greater than or equal to 100x109/L\n* Polynuclear neutrophil count greater than 1.5x109/L\n* Creatinine less than or equal to \u2264 1.5 ULN\n* AST/ALT less than or equal to 1.5 ULN\n* Alkaline phosphatases less than or equal to 2.5 ULN\n* Patients able to be followed throughout the study\n* Patient's consent obtained.\n\nExclusion Criteria:\n\n* Inflammatory or T4 breast cancer\n* T1 tumor\n* Patients whose tumor is deemed by the doctor to be difficult to evaluate\n* Tumor that is metastatic from the outset (M1) or locally advanced and inoperable from the outset\n* RE and RP receptors negative or unknown\n* HER 2/neu positive at 3 +\n* Non-menopausal patients\n* Surgical biopsy and/or ganglion dissection before neoadjuvant treatment\n* Significant poorly controlled cardiac disorders, such as unstable angina pectoris, poorly controlled heart failure, arrhythmia requiring treatment, or myocardial infarction within the last 3 months\n* Cardiovascular, hepatic, neurological or endocrine disease, or other major systemic disease that makes it difficult to conduct the protocol or to interpret the results\n* Previous history of cancer that occurred within the last 10 years, with the exception of cervical cancers and basocellular skin cancers that were properly treated\n* Allergy to polysorbate 80\n* Hypersensitivity to docetaxel\n* Participation in another clinical trial with one of the study medicinal products during the 30 days prior to entry in the study\n* Patients who are unable to undergo medical monitoring for geographical, social or psychological reasons",
+    "sex": "FEMALE",
+    "minimumAge": "60 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

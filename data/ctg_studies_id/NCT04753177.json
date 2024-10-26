@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04753177",
+    "briefTitle": "The Neoadjuvant Combined Hormone Therapy in Premenopausal Women With Locally Advanced ER+/HER2- Breast Cancer",
+    "officialTitle": "The Neoadjuvant Combined Hormone Therapy in Premenopausal Women With Locally Advanced ER+/HER2- Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "The Neoadjuvant Therapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2, PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "frequency of objective response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female\n* Age \u2265 18 years\n* Women with a newly diagnosed breast cancer who have not previously received specific treatment, with a tumor stage: cT1-3N1-2M0.\n* Immunohistochemical tumor markers: ER-positive (ER+ is defined \u2265 10% and/or and Allred of 2 or more); HER2 negative (HER2 negative is defined as having an IHC of 1+ without ISH OR IHC 2+ and ISH non-amplified with ratio less than 2.0 and if reported, average HER2 copy number \\< 4 signals/cells OR ISH non-amplified with ratio less than 2.0 and if reported, average HER2 copy number \\< 4 signals/cells (without IHC)\n* Premenopausal women.\n* Signed consent to participate in a clinical trial.\n* The consent of the patient to carry out, if possible, organ-preserving surgery with previous radiation therapy.\n* General state of ECOG (PS) 0 or 1.\n* Adequate Bone Marrow Function including:\n\nAbsolute Neutrophil Count (ANC) \u22651500/\u03bcL or \u22651.5 x109/L; Platelets \u2265100000/\u03bcL or \u2265100 x 109/L; Hemoglobin \u2265 9 g/dL.\n\n* Adequate Renal Function including: Serum creatinine \u2264 1.5 x upper limit of normal (ULN) or estimated creatinine clearance \u2265 60 ml/min as calculated using the method standard for the institution.\n* Adequate Liver Function, including all of the following parameters:\n\nTotal serum bilirubin \u2264 1.0 x ULN unless the subject has documented Gilbert syndrome (in which case up to 3 x ULN is acceptable) ; Aspartate and Alanine Aminotransferase (AST and ALT) \u2264 1.5 x ULN; Alkaline phosphatase \u2264 2.5 x ULN.\n\n* Female subjects of child bearing potential and their partners, who are sexually active, must agree to the use of two highly effective forms of contraception in combination throughout the period of taking study treatment and for at least 90 days after last dose of study drug, or they must totally/truly abstain from any form of sexual intercourse. Use of oral hormonal contraceptive agents in this study is not permitted.\n* Absence of mutations in the BRCA1 and BRCA2 genes (revealed by PCR blood analysis)\n* Providing histological materials to determine the status of mutations in the PIK3CA gene\n\nExclusion Criteria:\n\n* Primary multiple synchronous tumors (except for detected basal multiple cancer of the skin or cervix in situ, which can be radically treated without adjuvant treatment for breast cancer)\n* HIV positive status\n* Known hypersensitivity to study drugs or excipients.\n* Pregnancy and lactation\n* Any chronic disease in the acute stage",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT"
+}

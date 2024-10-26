@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03983395",
+    "briefTitle": "Study of ISB 1302 (CD3 Bispecific Ab) in HER2-positive Metastatic Breast Cancer",
+    "officialTitle": "A Phase 1/2, Open-Label, Dose-Escalation Study of ISB 1302 in Subjects With HER2-Positive Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1,
+    "primaryOutcomeMeasure": "MTD: Number of DLTs (dose limiting toxicities) during the first 28 days after the first administrations of study drug (i.e. Cycle 1) in each cohort.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Females with HER2-positive \\[IHC 2 +, with FISH confirmation\\] or 3+ \\[IHC or FISH\\] metastatic breast cancer that has progressed on last therapy. No more than 4 lines of therapy in metastatic setting (of which no more than 2 lines should be anti-HER2 antibody-based therapy).\n* Measurable disease, defined as per RECIST v1.1.\n* Eastern Cooperative Oncology Group (ECOG ) performance-status score of 2 or less\n* Adequate bone marrow, renal, and liver function.\n* Recovered from any previous surgery and no history of major surgery within the last 28 days prior to start of study drug\n* Must be willing to undergo pre-treatment and on-treatment biopsies in Part 1 and Part 2.\n\nExclusion Criteria:\n\n* Any suspected or proven immunocompromised state, or infections, such as history of positive human immunodeficiency virus (HIV), known active or chronic hepatitis B virus (HBV) or hepatitis C virus (HCV).\n* Any history or evidence of clinically significant cardiovascular disease.\n* Evidence of clinically significant cardiovascular and respiratory conditions\n* Previous antineoplastic treatment with immune checkpoint regulator or comparable immunotherapy within 8 weeks of starting study drug.\n* Chemotherapy, radiotherapy, molecular-targeted therapy, or biological therapies (including HER2-directed therapies) within 4 weeks of starting study drug\n* Hormone therapy within 2 weeks of starting study medications.\n* Diagnosed with another malignancy that requires active therapy\n* Brain metastases that require directed therapy.\n* Has not recovered from any therapy related toxicities from previous treatments.\n* Use of any investigational drug within 4 weeks from the start of study drug.\n* Any condition that, in the opinion of the Investigator, would interfere with evaluation of the study drug or interpretation of subject safety or study results.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

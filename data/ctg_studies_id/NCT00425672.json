@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00425672",
+    "briefTitle": "ONTAK\u00ae in Treating Patients With Advanced Breast Cancer That Did Not Respond to Previous Treatment",
+    "officialTitle": "Phase I-II Study of Denileukin Diftitox (ONTAK\u00ae) in Patients With Advanced Refractory Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Male Breast Cancer, Recurrent Breast Cancer, Stage IIIA Breast Cancer, Stage IIIB Breast Cancer, Stage IIIC Breast Cancer, Stage IV Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 15,
+    "primaryOutcomeMeasure": "Safety Evaluated by Collecting Study Related Toxicity as Assessed by CTCAE v3.0",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with advanced stage refractory breast cancer\n* Progressive or relapsed disease following standard therapy\n* Patients must have measurable disease that can include, but is not limited to bone; specifically, patients must have measurable extraskeletal disease that can be accurately measured in at least one dimension as \\>= 20 mm with conventional CT techniques or \\>= 10 mm with spiral CT scan; measurable (bi-dimensional) chest wall disease will also be allowed\n* Patients must be at least 14 days out from last cytotoxic chemotherapy; patients on bisphosphonates are eligible\n* White blood cell count (WBC) \\> 3.0 THOU/ul\n* ANC \\> 1.0 THOU/ul\n* Platelets \\>= 100 THOU/ul\n* Serum creatinine =\\< 2.0 mg/dL or creatinine clearance (calculated) \\>= 60 ml/min\n* ALT/AST =\\< 2.0 x upper limit of normal\n* Total bilirubin =\\< 1.5 x upper limit of normal\n* Albumin \\>= 3.0 g/dL\n* Subjects must have a Performance Status Score (ECOG Scale) =\\< 2\n* Subjects must have recovered from major infections and/or surgical procedures and, in the opinion of the investigator, not have a significant active concurrent medical illness precluding protocol treatment\n* Men and women of reproductive ability must agree to contraceptive use during the study and for 1month after ONTAK treatment is discontinued\n\nExclusion Criteria:\n\n* Prior treatment with ONTAK (DAB389 IL-2) or DAB486 IL-2\n* Known history of hypersensitivity to diphtheria toxin or IL-2\n* Active autoimmune disease\n* Known history of pulmonary disease except controlled asthma\n* History of or pre-existing, cardiovascular disease as defined by New York Heart Association (NYHA) Class III-IV categorization\n* Pregnant or breast-feeding women",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

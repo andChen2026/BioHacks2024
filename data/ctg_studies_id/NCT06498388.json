@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06498388",
+    "briefTitle": "Predicting Breast Cancer With the BRAVE System",
+    "officialTitle": "Building the Predictive Model of the BRA-based ViscoElastography (BRAVE) System for Detecting Breast Cancer Tumors (BRAVE Discovery Study)",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Mass, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 300,
+    "primaryOutcomeMeasure": "Stiffness of the breasts",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \u226518 years old\n* Able and willing to provide signed informed consent in French or English\n* Recent mammogram (\\< 6 months)\n* Breast mass newly identified by palpation, mammography, sonography, or MRI and have been referred for additional imaging or evaluation.\n\nSpecific inclusion Criteria:\n\nGroup 1 - Normal Mammographic Breast Density (NMBD): Breast density A or B Group 2 - Elevated Mammographic Breast Density (EMBD): Breast density C or D\n\nExclusion Criteria:\n\n* Pregnant or breast-feeding women\n* Breast implants or prior surgery/biopsy to breasts\n* Any disease or condition limiting the capacity to complete the examination process\n* Any previous or prescribed treatment against cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

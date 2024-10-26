@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03288792",
+    "briefTitle": "A Evaluation of 3D Functional MIRA System in Women With Mammographically Dense Breasts",
+    "officialTitle": "A Prospective Multicenter Evaluation of Three Dimensional Functional Metabolic and Risk Assessment System in Women With Mammographically Dense Breasts",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 435,
+    "primaryOutcomeMeasure": "Difference in the area under the ROC curve when comparing mammography plus RI8 result to mammography alone.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nA. Subjects whose most recent (within 18 months) prior mammogram interpreted as heterogeneously dense (ACR BI-RADS Breast Density C) or extremely dense (ACR BI-RADS Breast Density D) breast tissue.\n\nAND\n\nB. Subjects who are asymptomatic and scheduled to undergo routine screening mammography.\n\nOR\n\nC. Subjects scheduled for image-guided needle biopsy as a result of findings obtained during standard of care imaging modalities (mammography, ultrasound and/or MRI) performed at the clinical site that participates in the study.\n\nExclusion Criteria:\n\n1. Male by birth.\n2. Individual is less than 40 and greater than 70 years old.\n3. Contraindication to bilateral mammography or MRI.\n4. Subjects who are unable to read, understand and execute the informed consent procedure.\n5. Subjects who have had mammography, ultrasound or MRI examination performed on the day of the study prior to RI8 scan.\n6. Subjects who are pre-menopausal and are between the 14th and 28th day after the start of the menstrual cycle\n7. Subjects who have significant existing breast trauma.\n8. Subjects who have undergone lumpectomy/mastectomy.\n9. Subjects who have undergone breast reduction or breast augmentation.\n10. Subjects who have undergone any other type of breast surgery, including surgical biopsy.\n11. Subjects who have large breast scar / breast deformation\n12. Subjects who have undergone a breast needle biopsy within the 6-week period prior to their intended enrollment into the study.\n13. Subjects who have a temperature \\> 100\u00b0 F (37.8C) degrees on the day of the RI8 imaging.\n14. Subjects who are pregnant or lactating.\n15. Subjects with known Raynaud's Disease.\n16. Subjects with known Mastitis.\n17. Subjects diagnosed with epileptic seizures.\n18. Subjects with weight \\> 135kg (\\~300 Lbs.).\n19. Subjects who are claustrophobic or have physical limitations that do not allow them to sit in the system chair for the required imaging session.\n20. Subjects with implanted pacemaker/defibrillator, implanted venous access device (portacath) or other implanted devices.\n21. Subject with kidney failure\n22. Subject with known allergy to gadolinium\n23. Subject with a history of multiple contrast MRI scans (more than 4 MRI scans over the past two year)\n24. Inmates (45 CFR 46.306) or mentally disabled individuals.\n25. Subjects with a BI-RADS category 6 (e.g. for which mammogram was performed for the purpose of planning cancer therapy).\n26. Subjects currently participating in another investigational clinical study.\n27. Subject scheduled for a biopsy due to suspicious symptomatic lump\n28. Subjects who participated in the Validation Phase will not be able to participate in the Testing Phase",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

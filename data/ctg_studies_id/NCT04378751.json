@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04378751",
+    "briefTitle": "Promoting Genetic Counseling Among African American Women With a Family History of Breast Cancer",
+    "officialTitle": "Promoting Genetic Counseling Among African American Women With a Family History of Breast Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "High Risk for Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 106,
+    "primaryOutcomeMeasure": "Genetic Counseling Attendance",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Are female\n2. Identify as African American\n3. Are age 25 or older\n4. Speak and understand English\n5. Completed a cancer genetic risk assessment (CGRA) as part of clinic intake\n6. Are classified as high risk for developing breast cancer per CGRA\n7. Have not previously received genetic counseling\n\nExclusion Criteria:\n\n1. Are not female\n2. Do not identify as African American\n3. Are age 24 or younger\n4. Do not speak and understand English\n5. Did not complete a cancer genetic risk assessment (CGRA) as part of clinic intake\n6. Are not classified as high risk for developing breast cancer per CGRA\n7. Have previously received genetic counseling",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

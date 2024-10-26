@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00431106",
+    "briefTitle": "Vinorelbine and Gemcitabine Versus Capecitabine in Pretreated Metastatic Breast Cancer",
+    "officialTitle": "A Multicenter Randomized Phase III Study of Combination Treatment With Vinorelbine and Gemcitabine Versus Capecitabine Monotherapy in Metastatic Breast Cancer Patients Following Treatment Failure With the Combination of a Taxane and an Anthracycline",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 144,
+    "primaryOutcomeMeasure": "Time to tumor progression between the two treatment arms",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 19-75 years.\n* Performance status World Health Organization (WHO) 0-2.\n* Histologically confirmed breast adenocarcinoma.\n* Clinical or radiological evidence of metastatic disease that has progressed after combination treatment of a taxane and an anthracycline (Taxotere + Mitoxantrone or Taxotere + Farmorubicine).\n* Measurable disease.\n* No metastatic central nervous system (CNS) disease.\n* Less than 25% of myeloproductive bone marrow irradiated.\n* Adequate bone marrow function (absolute neutrophil count \\> 1000/mm\\^3, platelet count \\> 100000/mm\\^3, hemoglobin \\> 9 gr/mm\\^3).\n* Adequate liver (bilirubin \\< 1.5 times upper limit of normal and SGOT/SGPT \\< 2 times upper limit of normal) and renal function (creatinine \\< 2 mg/dl).\n* Informed consent.\n\nExclusion Criteria:\n\n* Pregnancy or nursing.\n* Positive pregnancy test.\n* Psychiatric illness or social situation that would preclude study compliance.\n* Other concurrent uncontrolled illness.\n* Other invasive malignancy within the past 5 years except nonmelanoma skin cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "19 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

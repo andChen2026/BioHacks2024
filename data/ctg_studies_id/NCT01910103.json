@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01910103",
+    "briefTitle": "Comparison of Diagnostic Performance of Digital Breast Tomosynthesis and Ultrasound in Women With Dense Breasts",
+    "officialTitle": "Comparison of Diagnostic Performance of Digital Breast Tomosynthesis and Ultrasound in Women With Dense Breasts",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 825,
+    "primaryOutcomeMeasure": "Diagnostic performance (AUC: area of under ROC curve) of DBT and US",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women aged at 20 years\n* Women who had heterogeneously dense or extremely dense parenchyma, either by prior mammography report or by review of prior mammograms\n* Signed study-specific informed consent prior to registration\n\nExclusion Criteria:\n\n* Had breast surgery\n* Had breast core biopsy performed within the prior 6 months on the study",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

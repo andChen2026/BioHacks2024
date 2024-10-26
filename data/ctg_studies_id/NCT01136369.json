@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01136369",
+    "briefTitle": "Clinical Evaluation of OSNA Breast Cancer System to Test Sentinel Lymph Nodes From Patients With Breast Cancer",
+    "officialTitle": "Clinical Evaluation of LS-03M/LS-04R for the Detection of Sentinel Lymph Node Metastasis From Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Breast Diseases",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 496,
+    "primaryOutcomeMeasure": "The study will determine the sensitivity, specificity, negative predictive value and positive predictive value of the OSNA Breast Cancer System by comparing its performance to permanent section staining.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or Female patients, over the age of 18, diagnosed pre-surgically with T1 or T2 breast cancer and scheduled for surgery including sentinel node dissection.\n* Patients who have read and understand the informed consent form and are capable and willing to provide written informed consent.\n\nExclusion Criteria:\n\n* Patients diagnosed pre-surgically with large or locally advanced (T3 and T4) breast cancers.\n* Patients diagnosed with inflammatory breast cancer.\n* Patients diagnosed with ductal carcinoma in situ (DCIS) when breast conserving is to be done.\n* Patients who are pregnant, as confirmed by a patient/treating physician interview.\n* Patients with suspicious palpable axillary lymph nodes.\n* Patients currently being treated for or previously diagnosed with, another type of carcinoma.\n* Patients who have undergone prior non-oncologic breast surgery or axillary surgery.\n* Patients who have received pre-operative systemic therapy.\n* Patients who are incapable of providing written informed consent.\n* Patients who have been judged to be inappropriate by a medical care provider (i.e. surgeon, oncologist, pathologists, etc.).",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00293865",
+    "briefTitle": "Study of Sentinel Lymph Node Assessment Following Previous Surgical Biopsy for Early Breast Cancer",
+    "officialTitle": "Prospective Multicentric Study of Sentinel Lymph Node Assessment Following Previous Surgical Biopsy for Early Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 203,
+    "primaryOutcomeMeasure": "false negatives",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18 years\n* Previous conservative surgical biopsy\n* Secondary pathological diagnosis of infiltrative cancer\n* No clinically involved axillary node (N0)\n* No previous neoadjuvant treatment\n* Performance status European Cancer Conference (ECCO) Grade \u2264 1\n* Patient's written informed consent to participate in the study according to French law\n* Surgeon must have performed its learning curve\n\nExclusion Criteria:\n\n* Lack of infiltrative breast carcinoma (in situ) pT4d \\> N0\n* Breast cancer relapse\n* Pregnancy\n* Known patent blue allergy\n* Indication for radical or partial mastectomy\n* Patient unable to understand the trial",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

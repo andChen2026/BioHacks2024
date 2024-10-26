@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06067061",
+    "briefTitle": "\"neoBREASTIM\": Atezolizumab Plus RP1 Oncolytic Immunotherapy in the NeoAdjuvant Setting of Triple-Negative Breast Cancer",
+    "officialTitle": "\"neoBREASTIM\": A Phase 2 Study of Atezolizumab Plus RP1 Oncolytic Immunotherapy in the NeoAdjuvant Setting of Triple-Negative Breast Cancer (TNBC)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Triple Negative Breast Neoplasms",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 51,
+    "primaryOutcomeMeasure": "Safety of the combination Atezolizumab plus RP1 oncolytic during the safety run-in phase",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female subject\n2. Age \u2265 18 years old.\n3. Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) \u2264 1.\n4. Newly diagnosed Triple-Negative Breast Cancer (TNBC), defined as the absence of estrogen expression and progesterone expression, and of Human Epidermal growth factor Receptor 2 (HER2) overexpression, must be determined by local testing of a screening tumor sample as defined by American Society of Clinical Oncology/College of American Pathologists guidelines.\n5. TNBC defined as the following combined primary tumor (T), regional lymph node (N), and metastatic (M) American Joint Committee on Cancer staging criteria: cT \u226515 - \u226430 mm, N0, M0 according to Mammogram, breast Ultrasound and MRI, and PET-CT. In case of a difference in the measurement of the primary tumor among different imaging methods, the breast MRI measurement is the reference.\n6. Unicentric, unifocal and unilateral disease.\n7. Tumor-infiltrating lymphocytes (TILs) \u2265 30%, as defined by the International TILs Working Group 2014.\n8. ctDNA dosing at baseline.\n9. Agreement to provide tissue samples (tumor biopsy at screening and on-treatment), and at surgery for immune monitoring and translational research activities.\n10. Agreement to perform blood samples at screening, on-treatment, and at surgery for immune monitoring and translational research activities.\n\nExclusion Criteria:\n\n1. Inflammatory breast cancer.\n2. Prior treatment with an oncolytic virus-based therapy.\n3. Patients with active significant herpetic infections or prior complications of Herpes Simplex Virus-1 (HSV-1) infection.\n4. Patients who require intermittent or chronic use of systemic (oral or IV) antivirals with known antiherpetic activity (e.g., acyclovir).\n5. Diagnosis of immunodeficiency.\n6. Has active autoimmune disease (e.g. inflammatory bowel disease, systemic lupus erythematosus, ankylosing spondylitis, scleroderma, and multiple sclerosis, celiac disease, Wegener's granulomatosis) that has required systemic treatment in the past 3 years (i.e. with use of disease modifying agents, corticosteroids or immunosuppressive drugs).\n7. Prior systemic immunosuppressive medication (except physiologic corticosteroid replacement therapy) within 30 days of planned start of study therapy.\n8. Any live (attenuated) vaccine within 14 days of planned start of study therapy.\n9. Prior immunotherapy, including tumor vaccine, cytokine, anti-CTLA4, PD-1/PD-L1 blockade or similar agents, T cell receptor-based (TCR-based) or Chimeric Antigen Receptor-T (CAR-T) cell based adoptive cell therapy.\n10. Known history of, or any evidence of active, non-infectious pneumonitis.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

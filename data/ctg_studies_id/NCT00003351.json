@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00003351",
+    "briefTitle": "Irinotecan in Treating Patients With Refractory Metastatic Breast Cancer",
+    "officialTitle": "Randomized Phase II Trial of Irinotecan (CPT-11) In Patients With Refractory Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 104,
+    "primaryOutcomeMeasure": "Time to progression",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS: Histologically confirmed adenocarcinoma of the breast with progressing locoregional or metastatic disease Measurable or evaluable indicator lesion No uncontrolled CNS metastases\n\nPATIENT CHARACTERISTICS: Age: 18 and over Performance status: ECOG 0-2 Life expectancy: Greater than 3 months Hematopoietic: Absolute neutrophil count at least 1,500/mm3 Platelet count at least 100,000/mm3 Hepatic: Bilirubin no greater than 0.3 mg/dL above upper limit of normal (ULN) AST no greater than 3 times ULN Renal: Creatinine no greater than 1.0 mg/dL above ULN Cardiovascular: No New York Heart Association class III or IV heart disease Other: No uncontrolled infection No chronic debilitating disease Not pregnant or lactating Fertile patients must use effective contraception\n\nPRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: At least 4 weeks since chemotherapy No more than 2 prior chemotherapy regimens for metastatic disease No more than 1 prior chemotherapy regimen in the adjuvant setting At least 1 prior regimen containing taxane or doxorubicin for metastatic disease or in the adjuvant setting Endocrine therapy: Not specified Radiotherapy: No radiotherapy to greater than 25% of bone marrow No prior treatment with strontium 89 Surgery: At least 4 weeks since major surgery Other: No concurrent metoclopramide",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00490646",
+    "briefTitle": "A Phase II Combination of Trastuzumab and Ixabepilone Versus Trastuzumab and Docetaxel in Patients With Advanced and/or Metastatic Breast Cancer",
+    "officialTitle": "Randomized Phase II Study of Ixabepilone Plus Trastuzumab vs. Docetaxel Plus Trastuzumab in Female Subjects With Her2+ Locally Advanced and/or Metastatic Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "Percentage of Participants With Objective Response (OR; Assessed by Response Evaluation Criteria in Solid Tumors [RECIST] Version 1.1)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Locally advanced or metastatic HER2+ breast cancer not previously treated with chemotherapy or trastuzumab.\n* Subjects who had received prior (neo)adjuvant chemotherapy or trastuzumab were eligible except if they relapsed within 12 months after the last dose of a taxane or trastuzumab given as (neo)adjuvant therapy.\n* Measurable disease\n* Left Ventricular Ejection Fraction (LVEF) \u226550%\n\nExclusion Criteria:\n\n* Prior chemotherapy or trastuzumab for metastatic breast cancer (MBC)\n* Relapse within 1 year after (neo)adjuvant taxane or trastuzumab\n* Neuropathy \\> Grade 1\n* Significant cardiovascular disease\n* Any brain metastases",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

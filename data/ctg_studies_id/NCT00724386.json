@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00724386",
+    "briefTitle": "Concomitant Chemoradiotherapy With Weekly Paclitaxel and Vinorelbine and Granulocyte Colony Stimulating Factor (GCSF) Support in Patients With Advanced Breast Cancer",
+    "officialTitle": "A Phase I Study of Concomitant Chemoradiotherapy With Weekly Paclitaxel and Vinorelbine With Filgrastim Granulocyte Colony Stimulating Factor (GCSF) Support in Patients With Advanced Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 26,
+    "primaryOutcomeMeasure": "feasibility of administering study therapy to limit skin toxicity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the male or female breast (male or female) with gross, uncontrolled, unresectable breast and/or chest wall disease including:\n\n  1. patients with locally advanced unresectable stage IIIa or IIIb;\n  2. patients with locally recurrent (including locoregional lymph nodes) disease for which curative surgery is not thought possible\n  3. patients with metastatic disease AND uncontrolled locoregional disease are eligible.\n* Prior chemotherapy allowed, except for nitrosoureas and mitomycin chemotherapy or high dose chemotherapy with marrow or stem cell rescue.\n* Prior palliative radiation to sites of metastases allowed (i.e. bone, brain, lung)\n* 4 weeks since any prior treatments (excluding hormonal therapy). Concurrent hormonal therapy is not allowed.\n* Aged 18 years or older\n* CALGB performance status of 0 - 2\n* Life expectance of at least 12 weeks\n* Initial Laboratory Data:\n\n  * ANC Count \\> 1500/mm3\n  * Platelet Count \\> 100,000/mm3\n  * Creatine \u2264 2.0 mg/dl\n  * Bilirubin \u2264 1.5 mg/dl\n  * ALT (SGPT) \u2264 3 times the upper limit of normal\n* Signed informed consent\n\nExclusion Criteria:\n\n* Prior breast or chest wall radiation is not allowed unless the proposed site radiation port does not overlap with prior ports\n* Subjects must not be pregnant (females able to have children must have negative pregnancy test and agree to use adequate contraception)\n* Patients with a documented hypersensitivity to E.coli derived proteins are excluded.\n* No other serious medical condition such as uncontrolled infection that in the opinion of the investigators places patient at undue risk for study treatment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

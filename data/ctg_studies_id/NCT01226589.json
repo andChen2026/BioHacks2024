@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01226589",
+    "briefTitle": "Pharmacist Discharge Medication Reconciliation Study",
+    "officialTitle": "The Impact of Pharmacist Discharge Medication Reconciliation on Unintentional Medication Discrepancies From Inpatient Discharges at the Alberta Cancer Board Cross Cancer Institute",
+    "overallStatus": "COMPLETED",
+    "conditions": "Medication Reconciliation",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "MRS Correlation with Treatment Response.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Cancer inpatients under the care of Dr. Follett or Dr. Candler\n* Cancer inpatients to be discharged from the CCI\n* Patients \\>18 years of age\n* Patients that are taking \\>1 medications or herbals total at home.\n\nExclusion Criteria:\n\n* Cancer inpatients that are considered radioactive or in \"hot rooms\" (ie. Selectron patients or patients receiving radiation treatment for thyroid)\n* Patients that do not remain in hospital \\>72 hours\n* Patients without a home phone number or equivalent contact number.\n* Language barrier (patients unable to speak or understand English).\n* Patients that are readmitted and already included into the study.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

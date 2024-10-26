@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00171847",
+    "briefTitle": "Study of the Efficacy and Safety of Letrozole Combined With Trastuzumab in Patients With Metastatic Breast Cancer",
+    "officialTitle": "An Open Label, Randomized Comparison of Femara\u00ae 2.5mg Once Daily With or Without Weekly Herceptin\u00ae Until Disease Progression as First-line Treatment in Postmenopausal Women With Advanced Breast Cancer.",
+    "overallStatus": "TERMINATED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE4",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 93,
+    "primaryOutcomeMeasure": "Time to progression as assessed by clinical palpation and radiologic imaging every 3 months",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Postmenopausal\n* Her-2 overexpression and ER and/or PgR positive\n* Metastatic Breast Cancer\n\nExclusion Criteria:\n\n* Previous treatment with trastuzumab\n* Significant Liver or renal impairment\n* Erbb2 negative and/or ER and PgR negative\n\nOther protocol-defined inclusion / exclusion criteria may apply.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

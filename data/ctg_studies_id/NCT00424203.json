@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00424203",
+    "briefTitle": "Doxorubicin and Cyclophosphamide in Treating Older Women With Stage I, Stage II, or Stage III Breast Cancer That Has Been Removed By Surgery",
+    "officialTitle": "Multicenter Pilot Clinical Study of Adjuvant Chemotherapy for Subjects Over 70 Years: Impact on the Independence and Quality of Life of the Administration of Anthracycline-Based Chemotherapy in Adjuvant Setting for Patients Presenting With Immediately Operable Breast Cancer, Hormone Receptor Negative (RH-), and Lymph Node Positive (pN+) or pN0 But of Scarff-Bloom-Richardson* Grade III and \u2265 2cm [GERICO]",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Cognitive/Functional Effects, Depression, Malnutrition, Psychosocial Effects of Cancer and Its Treatment",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 40,
+    "primaryOutcomeMeasure": "Percentage of patients maintaining their independence as assessed by Activities of Daily Living (ADL) score on 6 items after the fourth course of chemotherapy",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed invasive adenocarcinoma of the breast\n\n  * Stage I, II or III disease\n\n    * pN+ or pN0 with grade III disease (tumor size \u2265 2 cm)\n    * No metastatic disease\n* Must have undergone prior conservative or radical surgery that included axillary lymph node or sentinel node dissection\n\n  * No residual tumor\n  * Negative margins\n* Hormone receptor status:\n\n  * Estrogen receptor and progesterone receptor negative\n\nPATIENT CHARACTERISTICS:\n\n* Female\n* Postmenopausal\n* Absolute neutrophil count \\> 1,500/mm\u00b3\n* Platelet count \\> 100,000/mm\u00b3\n* Hemoglobin \\> 10 g/dL\n* Alkaline phosphatase \\< 2.5 times upper limit of normal (ULN)\n* Bilirubin \\< 1.25 times ULN\n* AST and ALT \\< 2.5 times ULN\n* Creatinine clearance \u2265 40 mL/min\n* No contraindication to receiving anthracyclines or alkalizing agents\n* FEV normal\n* Activities of Daily Living (ADL) score \u2265 5\n\n  * No decrease of \u2265 1 point within the past 3 months\n* None of the following at baseline:\n\n  * Cognitive deficiency (Folstein Mini-Mental State \\< 25)\n  * Severe depression (Geriatric Depression Scale \u2265 20)\n  * Severe malnutrition (Mini-Nutritional Assessment \u2264 17)\n* No other serious comorbid condition (Cumulative Illness Rating Scale - Geriatrics grade 3-4), including any of the following:\n\n  * Cardiac insufficiency\n  * Unstable angina\n  * Myocardiopathy\n  * Myocardial infarction within the past year\n  * Uncontrolled hypertension\n  * Uncontrolled high-risk arrhythmia\n  * Severe medullary insufficiency\n  * Neurological or psychological condition that would preclude study consent\n  * Uncontrolled or active infection\n  * Severe urinary tract infection\n  * Preexisting hematuria\n  * Active ulcer\n  * Uncontrolled diabetes\n* No other cancer within the past 5 years except for basal cell skin cancer or carcinoma in situ of the cervix\n* No familial, geographical, social, or psychological condition that would preclude study participation\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* At least 60 days since prior therapeutic surgery\n* At least 4 weeks since prior investigational drugs",
+    "sex": "FEMALE",
+    "minimumAge": "70 Years",
+    "stdAges": "OLDER_ADULT"
+}

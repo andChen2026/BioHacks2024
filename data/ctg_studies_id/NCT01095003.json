@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01095003",
+    "briefTitle": "Trial of Vinflunine Plus Capecitabine in Advanced Breast Cancer",
+    "officialTitle": "A Phase III Trial of Vinflunine Plus Capecitabine Versus Capecitabine Alone in Patients With Advanced Breast Cancer Previously Treated With or Resistant to an Anthracycline and Who Are Taxane Resistant.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 770,
+    "primaryOutcomeMeasure": "Progression Free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* female patients\n* 21 years of age or older\n* histologically/cytologically confirmed carcinoma of the breast\n* documented locally recurrent or metastatic disease not amenable to curative surgery or radiotherapy\n* either one, two or three prior chemotherapy regimens\n* prior treatments including both an anthracycline and a taxane and patient no longer candidate for these drugs\n* measurable or non-measurable disease according to RECIST 1.1\n* Karnofsky performance score of at least 70 %\n* adequate haematological, hepatic and renal functions\n* ECG without clinically relevant abnormality\n\nExclusion Criteria:\n\n* known or clinical evidence of brain metastasis or leptomeningeal involvement\n* pulmonary lymphangitis or symptomatic pleural effusion\n* any serious, concurrent uncontrolled medical disorder\n* history of second primary malignancy\n* preexisting motor/sensory peripheral neuropathy\n* known history of HIV infection\n* prior therapy with capecitabine and/or vinca-alkaloids\n* history of severe hypersensitivity to vinca alkaloids and/or to fluoropyrimidine or contra indication to any of these drugs\n* known or suspected dihydropyrimidine dehydrogenase (DPD) deficiency\n* pregnancy or breast feeding",
+    "sex": "FEMALE",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

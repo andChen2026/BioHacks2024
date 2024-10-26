@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01202591",
+    "briefTitle": "Safety and Efficacy of AZD4547 in Combination With Fulvestrant vs. Fulvestrant Alone in ER+ Breast Cancer Patients",
+    "officialTitle": "A Randomised Double-blind Phase IIa Study (With Combination Safety Run-in) to Assess the Safety and Efficacy of AZD4547 in Combination With Fulvestrant vs. Fulvestrant Alone in ER+ Breast Cancer Patients With FGFR1 Polysomy or Gene Amplification Who Have Progressed Following Treatment With Prior Endocrine Therapy (Adjuvant or First-line Metastatic) (GLOW)",
+    "overallStatus": "COMPLETED",
+    "conditions": "FGFR Inhibition, Pharmacokinetics, Biomarkers, ER+ Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 127,
+    "primaryOutcomeMeasure": "Safety and Tolerability in Terms of Number of Patients With Adverse Events (Serious and Non-serious)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Post-menopausal women (either through bilateral oophorectomy or amenorrhoeic for 24 months)\n* Histological confirmation of Breast Cancer with documented ER+ receptor status\n* Safety run-in: Relapsing during/within 12 months of completion of a single regimen of adjuvant endocrine therapy with non-steroidal AI and/ tamoxifen or progression following 1st line endocrine therapy with non-steroidal AL\n* Rand phase IIa: Received at least 1 prior endocrine therapy in the metastatic setting or have relapsed during/ within 6 months of completion of adjuvant endocrine therapy (either non-steroidal AI or tamoxifen or a combination of both). Chemotherapy administered in the adjuvant setting is permitted.\n* Rand phase IIa: Mandatory provision of tumour sample to confirm FGFR1 polysomy or gene amplification. At least one measurable lesion that can be accurately assessed by CT/MRI/x-ray at baseline and follow up visits\n\nExclusion Criteria:\n\n* Prior exposure to exemestane (safety run-in) / fulvestrant (randomized phase IIa), or any agent known to inhibit FGFRs.\n* More than 1 prior regimen of chemotherapy for breast cancer\n* ECG recordings that demonstrate significant abnormalities in cardiac rate, rhythm or conduction\n* History of hypersensitivity to active or inactive excipients of AZD4547 or exemestane (safety run-in ) or fulvestrant (Randomized phase), including castor oil, or drugs with a similar chemical structure or class to AZD4547 or exemestane or fulvestrant.\n* Randomized phase IIa: bleeding/blood clotting conditions that would prevent the administration of the fulvestrant injection into the buttocks",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

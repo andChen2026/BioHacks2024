@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04389216",
+    "briefTitle": "Radiofrequency Ablation (RFA) in Breast Tumors",
+    "officialTitle": "Radiofrequency Ablation in Breast Tumors in Early Stages",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer Female",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "MRI post-RFA",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Infiltrating ductal carcinoma according the biopsy of the breast,\n* Tumor visible by ultrasound, smaller than 2 cm,\n* Located \\> 1 cm from the chest wall and the skin.\n\nExclusion Criteria:\n\n* Personal antecedents of breast cancer\n* Multifocality or intraductal carcinoma\n* Lobular infiltrating carcinoma\n* Neoadjuvant therapy",
+    "sex": "FEMALE",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00324324",
+    "briefTitle": "Moxifloxacin in Preventing Bacterial Infections in Patients Who Have Undergone Donor Stem Cell Transplant",
+    "officialTitle": "Randomized, Double Blinded, Placebo-Controlled Trial of Antibacterial Prophylaxis for the Prevention of Bacterial Infections in the Post-Engraftment Phase After Allogeneic Hematopoeitic Stem Cell Transplantation",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer, Chronic Myeloproliferative Disorders, Gestational Trophoblastic Tumor, Infection, Leukemia, Lymphoma, Multiple Myeloma and Plasma Cell Neoplasm, Myelodysplastic Syndromes, Myelodysplastic/Myeloproliferative Neoplasms, Neuroblastoma, Ovarian Cancer, Testicular Germ Cell Tumor",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 240,
+    "primaryOutcomeMeasure": "Safety and tolerability",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Must be planning to undergo or have completed allogeneic stem cell transplantation (ASCT)\n\n  * Must not be undergoing a nonmyeloablative ASCT\n* Must not require antibiotic prophylaxis against bacterial pathogens during the post-engraftment phase as per ASCT protocol\n* No known colonization with an antimicrobial-resistant organism normally sensitive to quinolones that is known to increase infection incidence (i.e., ciprofloxacin-resistant Pseudomonas not allowed; vancomycin-resistant Enterococcus and methicillin-resistant Staphylococcus aureus allowed)\n\nPATIENT CHARACTERISTICS:\n\n* Life expectancy \u2265 100 days\n* Not pregnant or nursing\n* Fertile patients must use effective contraception\n* Negative pregnancy test\n* No known hypersensitivity to fluoroquinolones\n* No prolonged QTc interval on EKG (i.e., QTc \\> 440 milliseconds)\n* No uncontrolled hypokalemia\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* No concurrent class IA (e.g., quinidine or procainamide) or class III (e.g., amiodarone or sotalol) antiarrhythmics\n* No concurrent intravenous antibiotics for pre-enrollment infections except vancomycin, linezolid, dalfopristin, or quinupristin (Synercid\u00ae)",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05425550",
+    "briefTitle": "Evaluation of the Medidux\u2122 Digital Health Application in Patients with HER2-positive Breast Cancer During Chemotherapy in Combination with HER2-targeted Therapy or Antibody-drug Conjugate Therapy.",
+    "officialTitle": "Evaluation of the Medidux\u2122 Digital Health Application in Patients with HER2-positive Breast Cancer During Chemotherapy in Combination with HER2-targeted Therapy (including Tyrosine Kinase Inhibitors [TKI]) or an Antibody-drug Conjugate Therapy: a Multicenter Randomized Controlled Trial.",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 585,
+    "primaryOutcomeMeasure": "Number of Adverse events (AEs) (CTCAE severity >2) and serious AEs (SAE) within the observation period.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with signed informed consent.\n2. Female and male patients, age at diagnosis 18 years and older.\n3. Patients with HER2-positive breast carcinoma\\* (confirmed by a local pathologist).\n4. Patients with breast carcinoma with positive or negative hormone receptor status.\n5. Patients prior to initiation of neoadjuvant, adjuvant or palliative chemotherapy\\*\\* in combination with HER2-targeted therapy (including tyrosine kinase inhibitors \\[TKI\\]) or an antibody-drug conjugate therapy.\n6. ECOG performance Status \u2264 1.\n7. Sufficient command of the German language as assessed by the investigator.\n8. Presence of a personal smartphone with iOS or Android system. The operating system must be updated to the latest, second or third most recent major version and the medidux\u2122 app must be installed prior to the start of the first treatment cycle.\n\n   * \\* HER2-positive in the context of the study defined as \"eligible for an approved HER2-targeted therapy,\" i.e., in addition to immunohistochemistry (IHC) scores of 3+ and 2+ with positive results of in-situ hybridization (ISH+), also according to new standard HER2 low (IHC 1+ and 2+ with simultaneous negative result of in-situ-hybridization (ISH-))\n   * \\*\\* Patients receiving chemotherapy in combination with HER2-targeted therapy as part of a (neo)adjuvant sequence therapy (e.g. as second part after previous EC therapy) may be included. Accordingly, the PRO2 study will not start until patients begin combination of chemotherapy and HER2-targeted therapy.\n\nExclusion Criteria:\n\n1. Patients for whom it is questionable whether they will follow the study protocol, e.g., due to psychological problems or their private life situation.\n2. Patients with insufficient knowledge about the use of smartphones.\n3. Patients at the start of therapy with an ECOG performance status \u2265 2.\n4. Patients who have already used the medidux\u2122 app or its predecessor consilium care\u2122 before admission to the study.\n5. Patients with breast carcinoma who are to be treated exclusively with HER2-targeted antibody monotherapy or TKI-therapy without simultaneous chemotherapy. The sole administration of antibody-drug conjugates alone is permitted/prescribed by the SmPC.\n6. Simultaneous participation in an interventional clinical trial.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

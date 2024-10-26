@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03318263",
+    "briefTitle": "CIrCuLAting Dna ESr1 Gene Mutations Analysis",
+    "officialTitle": "Monitoring of ESR1, PIK3CA and AKT ctDNA Mutations During Real-life Followup of Patients With Metastatic Breast Cancer Treated With Aromatase Inhibitors",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 146,
+    "primaryOutcomeMeasure": "incidence of ESR1 mutations",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female patient aged 18 and older\n2. Histologically confirmed estrogen-receptor-positive, HER2-negative breast cancer\n3. Proven metastatic (AJCC stage IV) or loco-regionally advanced (AJCC stage III) breast cancer, not amenable to surgery or radiation with curative intent.\n4. Indication to treat with first-line endocrine therapy for palliative care.\n\n   * Patients already receiving first-line endocrine therapy can be enrolled up to 6 weeks after start of endocrine therapy.\n   * Endocrine therapy can be prescribed in combination with a CDK4/6 inhibitor.\n   * One prior regimen of chemotherapy for the treatment of advanced disease is allowed.\n   * Prior (neo)adjuvant chemotherapy and/or (neo)adjuvant endocrine therapy is/are allowed; patients with recurrence while on adjuvant endocrine therapy can be enrolled.\n5. Patients who can benefit from an additional blood sample of 10ml. The total volume of each sample meets with the indications of the Order in force establishing the list of researches mentioned in 2 \u00b0 of Article L. 1121-1 of the Public Health Code.\n6. Informed consent explained to, understood by and signed by patient. Patient must be given a copy of informed consent.\n7. Patients affiliated to a social security scheme or benefit from a social regime\n\nThe prescription of medicinal product(s) is clearly separated from the decision to include the subject in this ISMRC.\n\nExclusion Criteria:\n\n1. Pregnant or breast-feeding woman.\n2. Patient who received any prior systemic hormonal therapy for advanced breast cancer; no more than one prior regimen of chemotherapy for the treatment of advanced disease is allowed.\n3. Chemotherapy in combination with endocrine therapy.\n4. Targeted therapy, except CDK 4/6 inhibitor, in combination with endocrine therapy.\n5. Planned surgery or radiation with curative intent.\n6. Other active malignancy.\n7. Any concurrent severe and/or uncontrolled medical condition(s) which could compromise participation in the study.\n8. Patient whose general state and / or conditions do not permit the collection of the additional blood sample.\n9. Patients under guardianship, under curatorship or deprived of liberty.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

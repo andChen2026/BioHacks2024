@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05806671",
+    "briefTitle": "Dalpiciclib Plus Fulvestrant With Pyrotinib in Hormone Receptor-positive, HER2-low Advanced Breast Cancer That Progressed on Previous CDK4/6i Plus AI Therapy",
+    "officialTitle": "A Phase II, Single Arm, Open-label Trial of Dalpiciclib Plus Fulvestrant With Pyrotinib in Hormone Receptor-positive, HER2-low Advanced Breast Cancer That Progressed on Previous CDK4/6i Plus AI Therapy",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 30,
+    "primaryOutcomeMeasure": "Progression-Free Survival (PFS) as Assessed by the Investigator",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Men or women at least 18 years of age with histologically or cytologically confirmed adenocarcinoma of the breast with unresectable or metastatic disease.\n2. Most recent tumor biopsy or surgical resection specimen must be either estrogen-receptor (ER) positive, progesterone receptors (PgR) positive, or both, as defined by immunohistochemistry (IHC) \u22651% (as per the American Society of Clinical Oncology (ASCO)-College of American Pathologists (CAP) guidelines).\n3. HER2-low breast cancer defined as IHC 2+/ISH- or IHC 1+ (ISH- or untested). (as per the ASCO-CAP guidelines).\n4. Postmenopausal status or receiving ovarian ablation with a GnRH agonist such as goserelin. Postmenopausal status is defined by any one of the following criteria:\n\n   * Prior bilateral oophorectomy.\n   * Age \u226560 years.\n   * Age \\<60 and amenorrhea for 12 or more months (in the absence of chemotherapy, tamoxifen, toremifen, or ovarian suppression) and FSH, LH, and estradiol in the postmenopausal range per local normal If the patient does not meet criteria for postmenopausal status but is receiving ovarian ablation therapy with a gonadotropin-releasing hormone (GnRH) agonist such as goserelin, the patient is eligible for this study, provided that the GnRH agonist is started at least 2 weeks prior to C1D1 of anti-estrogen therapy.\n5. Patient must have either measurable disease by RECIST 1.1 or only bone lesions in absence of measurable disease.\n6. Eastern Cooperative Group (ECOG) performance status of 0 or 1.\n7. Previously treated on CDK 4/6 inhibitor(palbociclib, abemaciclib or ribociclib) with AI for at least 6 months\n8. Adequate bone marrow and organ function.\n\nExclusion Criteria:\n\n1. Patient with symptomatic visceral disease or any disease burden.\n2. Patient has received more than one line of chemotherapy for advanced disease.\n3. Previous treatment with Dalpiciclib /Pyrotinib /ADCe for advanced disease.\n4. Progressed on more than one CDK 4/6 inhibitor\n5. Patients with persistent symptoms and unstable brain metastases;\n6. Any condition that makes the patient ineligible for endocrine therapy per the investigator's best judgment",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

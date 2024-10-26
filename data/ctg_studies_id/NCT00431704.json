@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00431704",
+    "briefTitle": "VinCaT: Vinorelbine, Carboplatin and Trastuzumab in Advanced Her-2 Positive Breast Cancer",
+    "officialTitle": "Vinorelbine, Carboplatin and Trastuzumab in Advanced Her-2 Positive Breast Cancer, a Phase 2 Study",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 39,
+    "primaryOutcomeMeasure": "objective response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histological or cytological diagnosis of breast cancer\n* Stage IV disease\n* None or at most one prior treatment for metastatic disease (prior treatment with trastuzumab for metastatic disease is not permitted)\n* Overexpression of HER-2 (immunohistochemistry 3+) or genetic amplification of c-erbB2/neu (FISH+)\n* ECOG Performance Status 0-2\n* Age \\>18 and \\< 75 years\n* Left Ventricular Ejection Fraction (LVEF) \\>50%\n* Life expectancy \\>3 months\n* Signed informed consent\n\nExclusion Criteria:\n\n* Absence of measurable or evaluable disease\n* Life expectancy \\< 3 months\n* ECOG performance status \\> 2\n* History of prior malignancy in the last 5 years (other than adequately treated non-melanoma skin cancer or excised cervical carcinoma in situ).\n* Previous chemotherapy with vinorelbine or carboplatin (as adjuvant therapy or for metastatic disease)\n* Previous therapy with trastuzumab for metastatic disease (previous adjuvant therapy with trastuzumab is permitted)\n* Neutrophil \\< 2000/mm3, platelets \\< 100,000/mm3, haemoglobin \\< 9 g/dl\n* Creatinine \\> 1.5 x the upper normal limits\n* GOT and/or GPT \\> 2.5 x the upper normal limits and/or Bilirubin \\> 1.5 x the upper normal limits in absence of hepatic metastases\n* GOT and/or GPT \\> 5 x the upper normal limits and/or Bilirubin \\> 3 x the upper normal limits in presence of hepatic metastases\n* Congestive hearth failure or history of congestive heart failure, unstable angina pectoris even if it is medically controlled, myocardial infarction, clinically significant valve disease, uncontrolled arrhythmia\n* Any concomitant pathology that would, in the investigator's opinion, contraindicate the use of the drugs in this study\n* Male gender\n* Pregnant or lactating women\n* Refusal or incapacity to provide informed consent\n* Inability to comply with follow up",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

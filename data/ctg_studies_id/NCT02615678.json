@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02615678",
+    "briefTitle": "Acupuncture for CIPN in Breast Cancer Patients",
+    "officialTitle": "Acupuncture for Chemotherapy-Induced Peripheral Neuropathy in Breast Cancer Patients- A Case Series",
+    "overallStatus": "COMPLETED",
+    "conditions": "Sensation Disorders, Neuropathy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Changes in perceived neuropathy as measured by EORTC CIPN-20",
+    "eligibilityCriteria": "Inclusion criteria:\n\n1. Minimum of 18 years of age\n2. Currently receiving neurotoxic chemotherapy\n3. Experiencing symptoms of chemotherapy induced neuropathy for at least 1 month\n4. Have a minimum score of 3 on the VAS should have a grade II CIPN on NCICTC\n5. Willing to sign an informed consent\n6. Stable treatment for more than two months before screening\n\n   * Stable treatment is defined as no change in the type and dose of medications 2 months prior to enrollment.\n   * Once enrolled, the patients will be asked to remain on the same type and dose of the medications for neuropathy\n\nExclusion Criteria:\n\n1. Receiving any treatment to prevent neuropathy 2 weeks prior to the screening\n2. Pre-existing peripheral neuropathy due to any other cause than chemotherapy\n3. Pre-existing conditions like pregnancy, uncontrolled diabetes, hypertension, cardiovascular disorders, bleeding disorders, depression (BDI \\> 21)\n4. Unwilling to follow the protocol\n5. Individuals who are receiving government disability assistance",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

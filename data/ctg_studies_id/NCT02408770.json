@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02408770",
+    "briefTitle": "Breast Cancer - Anti-Progestin Prevention Study 1",
+    "officialTitle": "A Pilot Prevention Study of the Effects of the Anti-progestin Ulipristal Acetate (UA) on Surrogate Markers of Breast Cancer Risk",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "change in the proliferation of normal breast epithelium, assessed by Ki67",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Premenopausal females aged between 25 and 45 years\n* Regular menses\n* Known BRCA1 or BRCA2 mutation or moderate to high risk of developing BC defined as \\>17% lifetime risk from age 20 or \\>3% risk between 40-50 years\n* Ovulatory menstrual cycles\n* eGFR \u2265 40mls/min/1.73m2\n\nExclusion Criteria:\n\n* Personal history of breast, uterine, cervical or ovarian cancer\n* Breast feeding within the last 3 months\n* Pregnant or planning for pregnancy in the next 6 months.\n* Known hypersensitivity to radiological contrast media or to ulipristal acetate or its excipients\n* Current treatment with:\n\nAnti-estrogens, GnRH analogues or hormonal contraceptives, corticosteroids or antiplatelet/anticoagulant therapy or moderate or potent inhibitors or inducers of CYP3A4\n\n* APTT and PT outside the normal institutional ranges. Hb \\<100g/l and platelet count \\<150x109/l. Serum creatinine, bilirubin, ALT, ALP or LDH \\>1,5xULN.\n* Contraindications to MRI\n* Prior breast enhancement/augmentation surgery\n* Genital bleeding of unknown aetiology",
+    "sex": "FEMALE",
+    "minimumAge": "25 Years",
+    "stdAges": "ADULT"
+}

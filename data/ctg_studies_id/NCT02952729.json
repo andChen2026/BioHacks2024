@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02952729",
+    "briefTitle": "Study of Antibody Drug Conjugate in Patients With Advanced Breast Cancer Expressing HER2",
+    "officialTitle": "A Phase 1b, First-in-Human, Dose Escalation and Expansion Study of XMT-1522 in Patients With Advanced Breast Cancer and Other Advanced Tumors Expressing HER2",
+    "overallStatus": "COMPLETED",
+    "conditions": "Advanced Breast Cancer, Advanced Nonsmall Cell Lung Cancer, Advanced Gastric Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Maximum tolerated dose or recommended Phase 2 dose",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Able and willing to give informed consent\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Measurable disease via RECIST\n* Resolution of all toxic side effects from prior oncology treatments\n* Adequate organ function as measured by various blood parameters\n* Not pregnant or lactating, willing to prevent pregnancy while on study and for 6 months after the last dose of XMT-1522\n* Histologically or cytologically confirmed adenocarcinoma of the breast with unresectable locally advanced disease, or metastatic disease and HER2 IHC 1+ or 2+ OR\n* Histologically or cytologically confirmed adenocarcinoma of the breast with unresectable locally advanced disease, or metastatic disease and HER2 IHC 3+ or positive for HER2 gene amplification\n* Progressed following all standard of care therapies for advanced breast cancer. OR\n* Histologically or cytologically confirmed locally advanced or metastatic gastric cancer and HER2 IHC 3+ or positive for HER2 gene amplification OR\n* Histologically or cytologically confirmed Stage IIIb or IV non-small cell lung cancer HER2 IHC 2+ or 3+ by local laboratory assessment.\n\nExclusion Criteria:\n\n* Major surgery, radiation therapy, or systemic anti-cancer therapy within 28 days of starting study treatment.\n* Some types of brain metastases\n* Peripheral neuropathy of Grade 2 within 3 weeks prior to the first study therapy\n* History of exposure to cumulative doxorubicin dose \u2265 360 mg/meter squared. If another anthracycline or more than one anthracycline has been used, then the cumulative dose must not exceed the equivalent of 360 mg/meter squared of doxorubicin\n* History of clinically significant cardiac dysfunction\n* Current known active infection with HIV, hepatitis B virus, or hepatitis C virus\n* Current severe, uncontrolled systemic disease\n* Severe dyspnea at rest, due to complications of advanced malignancy, or requiring supplementary oxygen therapy.\n* History of other malignancy within the last 5 years, except for appropriately treated carcinoma in situ of the cervix, non-melanoma skin carcinoma, or other malignancy with a similar expected curative outcome\n\nPatients who participate in the dose escalation segment of the study cannot participate in the expansion segment of the study.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

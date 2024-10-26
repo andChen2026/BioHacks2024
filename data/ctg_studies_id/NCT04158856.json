@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04158856",
+    "briefTitle": "Adjuvant Dual Anti-HER2 Therapy in Patients With Small, Node-negative, HER2-positive Breast Cancer",
+    "officialTitle": "Adjuvant Dual Anti-HER2 Therapy in Patients With Tumors < 8mm, Node-negative, HER2-positive Breast Cancer :a Single-group Arm, Open-label, Prospective, Phase 2 Study",
+    "overallStatus": "NOT_YET_RECRUITING",
+    "conditions": "HER2-positive Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 60,
+    "primaryOutcomeMeasure": "Disease-free Survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Women aged 18-70 years old\n2. Have finished radical operation\n3. Histologically confirmed invasive ductal carcinoma (IDCA)\n4. According to AJCC ,pT\\<8mm, pN0, no evidence for metastasis\n5. Operation specimens are available for ER, progesterone receptor (PR) and HER2 detection, patients should be HER2 positive tumor (IHC staining of 3+ \\[uniform, intense membrane staining of \\>30% of invasive tumor cells\\], or a FISH result of .6 HER2 gene copies per nucleus or a FISH ratio \\[HER2 gene signals to chromosome 17 signals\\] of \\>2.2), nuclear grade 3.\n6. Should have tumor tissue available and sufficient for multi-spots sampling.\n7. It has been \\<84 days since the date of definitive surgery, and there is adequate wound healing as determined by the Treating Physician.\n8. Has Eastern Cooperative Oncology Group (ECOG) Performance Score 0-1, expected survival time \\> 12 months\n9. Cardiac function had to be within normal limits (left ventricular ejection fraction \\[LVEF\\] \u226550%), as established by multiple gated acquisition scan or echocardiography.\n10. Adequate bone marrow function, adequate liver and renal function, and adequate coagulation function.\n11. Women with potential child-bearing must have a negative pregnancy test (urine or serum) within 7 days of drug administration and agree to use an acceptable and effective method of contraception to avoid pregnancy during the study.\n12. Written informed consent according to the local ethics committee requirements.\n\nExclusion Criteria:\n\n1. pT\u22658mm or node positive\n2. Metastatic breast cancer\n3. Any prior systemic or loco-regional treatment of breast cancer, including chemotherapy in 28 days\n4. With a history of malignant tumor except uterine cervix cancer in situ or skin basal cell carcinoma\n5. Patients with medical conditions that indicate intolerant to adjuvant target therapy and related treatment, including severe infection, coagulation disorder, active peptic ulcer, coagulation disorder, connective tissue disease or myelo-suppressive disease\n6. Has symptomatic peripheral neuropathy \\> grade 2 according to NCI\n7. Known severe allergy to any drugs in this study\n8. Has cardiac dysfunction or lung dysfunction defined as follows:\n\n   * grade \u22653 CHF according to NCI CTCAE v 5.0 or NYHA\u2265II\n   * angina which requires drug control, cardiac infraction, and any other vascular disease with apparent clinical symptoms\n   * uncontrolled high-risk arrhythmia\n   * uncontrolled hypertension\n9. Has active hepatitis B or hepatitis C with abnormal liver function tests (LFTs) or is known to be HIV positive\n10. Patient is pregnant or breast feeding",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

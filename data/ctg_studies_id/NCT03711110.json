@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03711110",
+    "briefTitle": "Cardiovascular Prevention Strategies in Elderly Patients With Cancer (CARTIER Clinical Trial)",
+    "officialTitle": "Cardiotoxicity in the Elderly. Comparative Clinical Trial Between Primary Versus Secondary Cardiovascular Prevention Strategies",
+    "overallStatus": "RECRUITING",
+    "conditions": "Cancer (Colon Cancer, Breast Cancer, Lymphoma, Chronic Lymphoma Leukemia, Multiple Myeloma), Elderly, Antineoplastic Agents, Cardiotoxicity",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 514,
+    "primaryOutcomeMeasure": "All-cause mortality",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \\> 65 years old\n* Expected survival \\>1 year\n* Colon cancer, breast cancer, lymphoma, chronic lymphoma leukemia, chronic myeloid leukemia, myeloma\n* Signature on the informed consent\n\nExclusion Criteria:\n\n* Patients included in clinical trials will be excluded if they interfere with the CARTIER follow-up protocol. If they do not interfere they can be included\n* Patients who had received previous potentially cardiotoxic anticancer treatment",
+    "sex": "ALL",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

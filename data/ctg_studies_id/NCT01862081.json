@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01862081",
+    "briefTitle": "A Dose-escalation Study to Assess the Safety, Tolerability, and Pharmacokinetics of GDC-0032 in Combination With Docetaxel or With Paclitaxel in Patients With HER2-negative Locally Recurrent or Metastatic Breast Cancer or Non-small Cell Lung Cancer",
+    "officialTitle": "N/A",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Non-small Lung Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "Safety: Incidence of adverse events",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\>=18 years\n* For paclitaxel combination arms: histologically or cytologically documented adenocarcinoma of the breast with locally recurrent or metastatic disease\n* For docetaxel combination arms: histologically or cytologically documented adenocarcinoma of the breast with locally recurrent or metastatic disease or histologically documented advanced (Stage IV) or recurrent NSCLC\n* For participants with breast cancer: HER2-negative disease as defined by local clinical guidelines\n* Participants with NSCLC to be treated with docetaxel need to have received at least one prior anti-cancer treatment regimen in an advanced setting and to have docetaxel be considered appropriate treatment\n* Evaluable or measurable disease per response evaluation criteria in solid tumors (RECIST) v.1.1\n* Life expectancy \\>=12 weeks\n* Eastern cooperative oncology group (ECOG) performance status of 0 or 1 at screening\n* Adequate hematologic and end organ function\n* Use of highly effective form of contraception\n\nExclusion Criteria:\n\n* Prior anti-cancer therapy\n* Prior treatment with phosphoinositide 3-kinase (PI3K) inhibitor\n* Known significant hypersensitivity to any components of study treatment\n* Grade \\>=2 peripheral neuropathy\n* Type 1 or Type 2 diabetes\n* Grade \\>=2 hypercholesterolemia or hypertriglyceridemia\n* Congenital long QT syndrome\n* Active congestive heart failure or ventricular arrhythmia",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

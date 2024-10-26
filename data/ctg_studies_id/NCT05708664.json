@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05708664",
+    "briefTitle": "Precision Breast Conserving Surgery With Guidance.",
+    "officialTitle": "Precision Breast Conserving Surgery With the Guidance of Localization Combined With Multidetector CT 3-dimensional Image Reconstruction: a Single Center, Prospective, Cohort Study.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 92,
+    "primaryOutcomeMeasure": "The sum of located margin resection widths",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* women with T1/T2 invasive breast cancer confirmed by core biopsy\n* be suitable for BCS\n* the tumor should be unilateral and unifocal which is clearly visible with US\n\nExclusion Criteria:\n\n* patients with an extensive intraductal component in invasive cancer\n* patients who were pregnant or breast-feeding\n* patients receiving neoadjuvant therapies.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

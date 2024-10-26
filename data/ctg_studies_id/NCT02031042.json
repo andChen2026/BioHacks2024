@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02031042",
+    "briefTitle": "Sentinel Node Biopsy Before and/or After Neoadjuvant Chemotherapy in Breast Cancer",
+    "officialTitle": "Sentinel Node Biopsy Before and/or After Neoadjuvant Chemotherapy in Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 224,
+    "primaryOutcomeMeasure": "False negative rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* clinically node-negative (or unclear nodal status) substudy I\n* signed consent from the study participant\n\nExclusion Criteria:\n\n* inflammatory breast cancer\n* cytologically verified lymph node metastasis/es at diagnosis (substudy I), but these patients can be included in substudy II\n* patients not able to give an informed consent\n* hypersensitivity or allergy against blue dye or isotope",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

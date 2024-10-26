@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05715255",
+    "briefTitle": "Adaptive Symptom Self-Management Immunotherapy Study",
+    "officialTitle": "Adaptive Symptom Self-Management to Reduce Psychological Distress and Improve Symptom Management for Survivors on Immune Checkpoint Inhibitors",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Colon Cancer, Lung Cancer, Skin Cancer, Rectum Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SUPPORTIVE_CARE",
+    "enrollmentCount": 400,
+    "primaryOutcomeMeasure": "Change in patient reported psychological distress in Interviews.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 or older\n* Within 12 weeks after starting ICI treatment for cancer\n* Cognitively oriented to person, place and time (determined by recruiter)\n* Able to speak and understand English or Spanish\n* Access to a telephone\n* Severity score of 1 (mild) or higher on at least 1 of the 3 indicators of psychological distress from the PRO-CTCAE (i.e., the three items of anxious, discouraged, sad) library\n\nExclusion Criteria:\n\n* Currently receiving regular behavioral counseling",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

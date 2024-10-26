@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03638648",
+    "briefTitle": "Recurrence Score-guiding Chemotherapy in Non-pCR HR Positive HER2 Negative Breast Cancer After Neoadjuvant Therapy",
+    "officialTitle": "Multi Gene Detection Tool Based Recurrence Score-guiding Chemotherapy in Non-pathologic Complete Response HR Positive and HER2 Negative Breast Cancer After Neoadjuvant Treatment",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 80,
+    "primaryOutcomeMeasure": "2-year DFS",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Invasive breast cancer at the first diagnosed\n2. Clinical stage cT1-4cN0-3M0 (AJCC 8th), receiving neoadjuvant chemotherapy at least 6 cycles\n3. Neoadjuvant chemotherapy regimen should include anthracyclines and taxane\n4. Primary tumor HR+(ER+ or PR+) and HER2 negative before neoadjuvant chemotherapy\n5. Pathological evaluation non-pCR after neoadjuvant chemotherapy (residual invasive cancer in primary tumor)\n\nExclusion Criteria:\n\n1. Metastasis, recurrent breast cancer or receiving other treatment before neoadjuvant chemotherapy\n2. Pregnant breast cancer\n3. IHC or FISH test of primary tumor confirmed HER2 positive at anytime\n4. Complete fewer than 6 cycles chemotherapy before surgery\n5. Deficiency of surgery after neoadjuvant\n6. Contraindication of chemotherapy or surgery",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

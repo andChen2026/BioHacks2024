@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01304797",
+    "briefTitle": "Safety and Pharmacokinetic Study of MM-302 in Patients With Advanced Breast Cancer",
+    "officialTitle": "A Phase 1, Multi-Center, Open-Label, Dose-Escalation, Safety, and Pharmacokinetic Clinical Study of Intravenously Administered MM-302 Monotherapy and in Combination With Trastuzumab With or Without Cyclophosphamide in Patients With Advanced HER2 Positive Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 75,
+    "primaryOutcomeMeasure": "The severity and the number of adverse events related to escalating doses of the MM-302.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Locally advanced/unresectable or metastatic breast cancer\n* Eighteen years of age or above\n* Able to understand and sign an informed consent (or have a legal representative who is able to do so)\n* Measurable disease according to RECIST v1.1\n* ECOG Performance Score of 0 or 1\n* Adequate bone marrow, hepatic, renal and cardiac function\n* Willing to abstain from sexual intercourse or to use an effective form of contraception during the study and for 90 days following the last dose of MM-302\n\nExclusion Criteria:\n\n* Patients for whom potentially curative anticancer therapy is available\n* Active infection or fever \\> 38.5\u00b0C during screening visits or on the first scheduled day of dosing\n* Symptomatic CNS disease\n* Known hypersensitivity to any of the components of MM-302 or who have had hypersensitivity reactions to fully human monoclonal antibodies\n* Received other recent antitumor therapy\n* Pregnant or breast feeding\n* Patients with any other medical or psychological condition, deemed by the Investigator to be likely to interfere with a patient's ability to sign informed consent, cooperate and participate in the study, or interfere with the interpretation of the results",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

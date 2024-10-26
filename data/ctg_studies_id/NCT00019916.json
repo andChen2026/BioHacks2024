@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00019916",
+    "briefTitle": "Vaccine Therapy Plus Interleukin-2 in Treating Women With Stage IV, Recurrent, or Progressive Breast or Ovarian Cancer",
+    "officialTitle": "Vaccine Therapy With Tumor Specific p53 Peptides in Adult Patients With Adenocarcinoma of the Breast or Ovary",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Ovarian Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": "N/A",
+    "primaryOutcomeMeasure": "Cellular immunity as measured by Elipsot assay and 51 Cr-release assay at baseline, and every 3 weeks",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Histologically proven adenocarcinoma of the breast or ovary\n* Stage IV, recurrent, or progressive disease with no chemotherapy or radiotherapy options available that would increase survival\n* Tumor tissue available for determination of p53 protein expression and genetic mutation\n\n  * p53-positive tumor by immunohistochemical analysis\n* HLA-A2.1 positive\n* No prior CNS metastases\n* Hormone receptor status:\n\n  * Not specified\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nSex:\n\n* Female\n\nMenopausal status:\n\n* Not specified\n\nPerformance status:\n\n* ECOG 0 or 1\n\nLife expectancy:\n\n* More than 3 months\n\nHematopoietic:\n\n* Platelet count at least 100,000/mm\\^3\n\nHepatic:\n\n* Bilirubin no greater than 2.0 mg/dL\n* SGOT or SGPT no greater than 4 times normal\n* Hepatitis B surface antigen negative\n* Hepatitis C antibody negative\n\nRenal:\n\n* Creatinine no greater than 2.0 mg/dL\n\nCardiovascular:\n\n* No New York Heart Association class III or IV heart disease\n* No myocardial infarction within past 6 months\n* No prior congestive heart failure\n* No prior ventricular arrhythmias or other arrhythmias requiring therapy\n\nImmunologic:\n\n* Must have positive intradermal delayed hypersensitivity test for 1 of the following:\n\n  * Mumps\n  * Trichophyton\n  * Tetanus\n  * Candida\n  * PPD\n* No underlying immune deficiency\n* No prior autoimmune disease including, but not limited to, the following:\n\n  * Autoimmune neutropenia, thrombocytopenia, or hemolytic anemia\n  * Systemic lupus erythematosus, Sj\u00f6gren's syndrome, or scleroderma\n  * Myasthenia gravis\n  * Goodpasture's syndrome\n  * Addison's disease\n  * Hashimoto's thyroiditis\n  * Active Graves' disease\n* No active infection requiring antibiotics\n* HIV negative\n\nOther:\n\n* Not pregnant or nursing\n* Negative pregnancy test\n* Fertile patients must use effective contraception\n* No other active malignancy within the past 2 years except curatively treated carcinoma in situ of the cervix or basal cell skin cancer\n\nPRIOR CONCURRENT THERAPY:\n\nBiologic therapy:\n\n* At least 4 weeks since prior immunotherapy and recovered\n* At least 1 year since prior bone marrow transplantation\n\nChemotherapy:\n\n* At least 4 weeks since prior chemotherapy and recovered\n\nEndocrine therapy:\n\n* Prior anticancer hormonal therapy allowed\n* At least 4 weeks since prior systemic steroids and recovered\n\nRadiotherapy:\n\n* At least 4 weeks since prior radiotherapy and recovered\n\nSurgery:\n\n* Not specified\n\nOther:\n\n* Chronic suppressive antibiotics allowed",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

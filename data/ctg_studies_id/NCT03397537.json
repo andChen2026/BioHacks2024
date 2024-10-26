@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03397537",
+    "briefTitle": "Neoadjuvant Endocrine Therapy in Breast Cancer",
+    "officialTitle": "Letrozole as Neoadjuvant Treatment in Postmenopausal and Premenopausal Patients With Highly Endocrine Responsive Operable Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Highly Endocrine Responsive Operable Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 46,
+    "primaryOutcomeMeasure": "ORR",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Females \u226518 years\n2. ER-positive (\u226550%), PgR-positive (\u226550% ), HER2-negative, and previously untreated, non-metastatic primary invasive BC.\n3. The tumour size had to be \\>1 cm.\n\nExclusion Criteria:\n\n1. male patients;\n2. patients with inflammatory breast cancer or distant metastasis;\n3. patients who were previously treatment treated with chemotherapy, radiation therapy or prior treatment with AIs or antiestrogens for breast cancer;\n4. patients with a second concomitant neoplasm;\n5. patients who could not meet the eligibility criteria.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

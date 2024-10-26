@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT06266026",
+    "briefTitle": "ThermoBreast - Non-contact Breast Cancer Imaging Using AI-enhanced Thermography.",
+    "officialTitle": "ThermoBreast - Non-contact Breast Cancer Imaging Using AI-enhanced Thermography. An International, Multicenter, Prospective Development and Validation Trial.",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 28000,
+    "primaryOutcomeMeasure": "Sensitivity (true-positive rate)",
+    "eligibilityCriteria": "Inclusion criteria\n\n* Screening cohort\n\n  * Female subjects aged 40 to 74 years old (inclusive) presenting for routine mammography/tomosynthesis breast cancer screening according to national/regional guidelines\n  * Subjects who are willing to give written informed consent for study participation\n  * Subjects who are able to understand the character and individual consequences of the clinical trial and who are ready to comply with the study related visits and procedures\n* High-risk screening cohort\n\n  * Female subjects aged 18 and above presenting for intensified high-risk breast cancer screening due to genetic predisposition or family history according to national/regional guidelines\n  * Subjects who are willing to give written informed consent for study participation\n  * Subjects who are able to understand the character and individual consequences of the clinical trial and who are ready to comply with the study related visits and procedures\n* Diagnostics cohort\n\n  * Female subjects aged 18 and above presenting for intensified aftercare after a history of breast cancer, patients with symptoms (nipple discharge, breast lump based on physician physical exam or self-breast exam), patients who were referred for additional examination (MRI, Ultrasound, fine-needle aspiration cytology (FNAC) or biopsy) based on suspicious imaging findings in either breast\n  * Subjects who are willing to give written informed consent for study participation\n  * Subjects who are able to understand the character and individual consequences of the clinical trial and ready to comply with the study related visits and procedures\n\nExclusion Criteria\n\n\u2022 (High-risk) Screening and Diagnostics cohort\n\n* Subjects who are pregnant or lactating\n* Subjects who have undergone lumpectomy or mastectomy in the last 4 months at the time of study enrollment\n* Subjects who have undergone cancer therapy (chemotherapy, start of hormonal therapy, radiotherapy, surgery) in the last 4 months at the time of study enrollment\n* Subjects who have undergone a breast biopsy in the last 2 months at the time of study enrollment\n* No subject will be allowed to enrol in this trial more than once.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

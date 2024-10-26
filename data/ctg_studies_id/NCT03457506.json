@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03457506",
+    "briefTitle": "Intra-individual Comparison of Conventional and Digital PET/CT Scanners",
+    "officialTitle": "Intra-individual Patient-based Comparison of Conventional and Digital PET/CT Scanners",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Lung Cancer, Esophageal Cancer, Miscellaneous Neoplasm",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 225,
+    "primaryOutcomeMeasure": "Diagnostic outcome of the PET/CT study",
+    "eligibilityCriteria": "Inclusion criteria\n\nIn order to be eligible to participate in this study, a subject must meet all of the following criteria:\n\n* referred to Isala for a clinically indicated FDG-PET/CT scan\n* suspected or proven lung cancer, esophageal cancer, breast cancer or miscellaneous cancer, either as a primary diagnosis or follow-up study\n* signed informed consent\n\nExclusion criteria\n\nA potential subject who meets any of the following criteria will be excluded from participation in this study:\n\n* age \\< 18 years\n* incapacitated adults\n* prisoners\n* pregnant patients\n* unable to undergo two consecutive PET/CT scans",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

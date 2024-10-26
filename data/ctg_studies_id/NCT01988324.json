@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01988324",
+    "briefTitle": "AR and ER Imaging in Metastatic Breast Cancer",
+    "officialTitle": "Androgen Receptor and Estrogen Receptor Imaging in Metastatic Breast Cancer Patients",
+    "overallStatus": "COMPLETED",
+    "conditions": "Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 24,
+    "primaryOutcomeMeasure": "Sensitivity/ specificity",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Metastatic breast cancer, with at least one known metastasis outside of the liver\n2. Presence of a lesion that is safely accessible for tumor biopsy (may be liver lesion)\n3. Postmenopausal status defined as one of the following:\n\n   * age \u226560 years\n   * previous bilateral oophorectomy\n   * age \\<60 years and amenorrhea for \\>12 months in the absence of interfering hormonal therapies (such as LH-RH agonists and ER-antagonists)\n   * patients age \\<60 years using an ER-antagonist should have amenorrhea for \\> 12 months and FSH \\>24 U/L and LH \\>14 U/L e. patient age \\<60 years using LH-RH agonists should continue LH-RH-agonists until after the PET procedures\n4. Initially ER-positive tumor histology.\n5. ECOG performance status 0-2.\n6. Signed written informed consent\n7. Able to comply with the protocol\n\nExclusion Criteria:\n\n1. Use of estrogen receptor ligands, including tamoxifen, fulvestrant or estrogens, or androgen receptor ligands, during the 6 weeks before entry into the study\n2. Life-expectancy \u2264 3 months",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00379743",
+    "briefTitle": "Partnership for Healthy Seniors",
+    "officialTitle": "Cancer Prevention and Treatment Among African American Older Adults: Screening Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Colon Cancer, Rectum Cancer, Cervix Cancer, Prostate Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 2593,
+    "primaryOutcomeMeasure": "Difference between the two intervention groups in the proportion of participants who complete at least one of the recommended screenings.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 65 or older;\n* Residence in Baltimore;\n* Enrolled in Medicare Part A;\n* Enrolled in Medicare Part B of Title XVIII of the Social Security Act;\n* Provided informed consent;\n* Must be free from cancer or in remission for 5 years or more\n\nExclusion Criteria:\n\n* Age less than 65;\n* Residence outside of Baltimore;\n* Enrollment in Medicare managed care (Part C);\n* Residence in a chronic care facility or otherwise institutionalized;\n* Planning to move within the next year;\n* Unable or unwilling to give informed consent;\n* Diagnosed with cancer within 5 years or less;\n* Diagnosed with cancer more than 5 years ago, but cancer in remission for less than 5 years",
+    "sex": "ALL",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

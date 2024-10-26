@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03149549",
+    "briefTitle": "PROCLAIM-CX-2009: A Trial to Find Safe and Active Doses of an Investigational Drug CX-2009 for Patients With Selected Solid Tumors",
+    "officialTitle": "A Phase 1-2, Open-Label, Dose-Finding, Proof of Concept, First-in-Human Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of CX-2009 in Adults With Metastatic or Locally Advanced Unresectable Solid Tumors (PROCLAIM-CX-2009)",
+    "overallStatus": "TERMINATED",
+    "conditions": "Solid Tumor, Adult, Breast Cancer, Non Small Cell Lung Cancer, Head and Neck Cancer, Ovarian Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 99,
+    "primaryOutcomeMeasure": "The Number of Subjects Experiencing a Dose Limiting Toxicity at Various Dose Levels When Given CX-2009 as a Monotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Histologically confirmed diagnosis of metastatic or locally advanced unresectable tumors\n2. Patients demonstrating disease progression after treatment with available therapies that are known to confer clinical benefit, or who are intolerant to treatment,\n3. Agreement to provide mandatory archival tissue or fresh biopsy.\n4. At least 18 years of age.\n\nExclusion Criteria:\n\n1. Active or chronic corneal disorder, history of corneal transplantation, active herpetic keratitis, and active ocular conditions requiring ongoing treatment/monitoring\n2. Serious concurrent illness, including clinically relevant active infection\n3. History of or current active autoimmune diseases\n4. Significant cardiac disease such as recent myocardial infarction\n5. History of multiple sclerosis or other demyelinating disease, Eaton-Lambert syndrome (para-neoplastic syndrome), history of hemorrhagic or ischemic stroke within the last 6 months, or alcoholic liver disease;\n6. Non-healing wound(s) or ulcer(s) except for ulcerative lesions caused by the underlying neoplasm;\n7. History of severe allergic or anaphylactic reactions to previous monoclonal antibody therapy;\n8. Currently receiving anticoagulation therapy with warfarin;\n9. Major surgery (requiring general anesthesia) within 3 months prior to dosing.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

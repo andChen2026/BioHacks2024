@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00996710",
+    "briefTitle": "Genomic Structural Variation in Cancer Susceptibility",
+    "officialTitle": "Genomic Structural Variation in Cancer Susceptibility",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer, Colon Cancer, Germ Cell Cancer, Neuroblastoma, Rectal Cancer, Sarcoma",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1275,
+    "primaryOutcomeMeasure": "To determine the frequency of de novo germline copy number variants (CNVs) in cancer affected probands using an ascertainment of \"trios\" consisting of cancer patients and their unaffected biologic parents",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Proband must have living unaffected biologic mother and father available and eligible for participation in the study with one of the following (both incident and prevalent cases will be collected):\n\n  * Colorectal cancer diagnosed at or under the age of 50.\n  * Breast cancer diagnosed at or under the age of 45.\n  * Germ cell tumor diagnosed at or under the age of 40.\n  * Pediatric cancer of any type diagnosed at or under the age of 21\n  * Adult cancer or pre-neoplastic condition of any type diagnosed at or under the age of 40\n  * Cancer at any age in 2 or more siblings suggestive of a genetic etiology, such as brothers with testicular germ cell tumor or sisters with breast cancer and ovarian cancer\n* Parents:\n\n  * Must be the biologic mother and biologic father of affected proband.\n  * Must have (by self-report) no history of cancer other than non-melanomatous skin cancer or cervical cancer in situ except in the case of inclusion criteria #6..\n  * In certain clinical situations, parent(s) with cancer may be included at the discretion of the Principal Investigator, if the Principal Investigator deems that the etiology of cancer in the parent(s) and proband are biologically unrelated.\n* Sibling(s):\n\n  * Must be age 18 or older and have same biologic parents as proband.\n\nExclusion Criteria:\n\n* Known genetic mutation in proband or a family history that is indicative of hereditary cancer susceptibility.",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

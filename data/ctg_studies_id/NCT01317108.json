@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01317108",
+    "briefTitle": "Prognostic and Predictive Impact of uPA/PAI-1",
+    "officialTitle": "Adjuvant Chemotherapy in Node-negative Breast Cancer: Chemo N0",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "DIAGNOSTIC",
+    "enrollmentCount": 689,
+    "primaryOutcomeMeasure": "Prognostic impact of uPA/PAI-1: Number of patients disease-free in low vs. high risk groups according to uPA/PAI-1",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* N0 breast cancer patients tumor size \\>/= 1 and \\</= 5 cm in diameter undergoing standard loco-regional treatment\n\nExclusion Criteria:\n\n* M1 status",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

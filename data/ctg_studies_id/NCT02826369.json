@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02826369",
+    "briefTitle": "Use of Compressed Sensing in Breast MRI",
+    "officialTitle": "Use of Compressed Sensing in Breast MRI",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "OTHER",
+    "enrollmentCount": 13,
+    "primaryOutcomeMeasure": "Agreement between compressed sensing and standard image acquisition",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient to benefit a MRI in the assessment for a breast carcinoma\n* Age \\>18 years old\n* Assessment on 3.0 Tesla in Magnetic Resonance Imaging\n* ECOG performance status \u2264 3\n* Ability to provide an informed written consent form\n\nExclusion Criteria:\n\n* Age \\< 18 years old\n* Claustrophobia\n* Contraindication to the injection of gadolinium contrast medium\n* Contraindication to MRI\n* Persons deprived of liberty or under supervision",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT"
+}

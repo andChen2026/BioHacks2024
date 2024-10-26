@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05429684",
+    "briefTitle": "Precise Therapy for Refractory HER2 Positive Advanced Breast Cancer",
+    "officialTitle": "Precise Targeted Therapy for Refractory HER2 Positive Advanced Breast Cancer Based on Genome Signature and Drug Sensitivity of PDO Model",
+    "overallStatus": "UNKNOWN",
+    "conditions": "HER2+ Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "ORR",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. 18-70 years old;\n2. Women;\n3. ECOG score 0-2;\n4. Locally advanced or metastatic breast cancer confirmed by histopathology;\n5. Positive HER2 expression in cancer tissues (IHC 3 +, or IHC 2 + but FISH amplification);\n6. Resistant to trastuzumab (including disease progression during or after withdrawal of trastuzumab);\n7. There were enough specimens for immunohistochemistry, gene detection and establishment of PDO model;\n8. Hematology and liver and kidney function were normal within 2 weeks before treatment;\n9. Imaging examination showed measurable lesions (according to RECIST v1.1);\n10. Women of childbearing age agree to contraception or take contraceptive measures;\n11. Be able to understand the research program and participate voluntarily.\n\nExclusion Criteria:\n\n1. Symptomatic, untreated or progressive central nervous system metastases;\n2. Severe heart disease (poor cardiac function);\n3. Within 5 years, there was a history of other malignant tumors other than breast cancer;\n4. In this study, chemotherapy, radiotherapy, immunotherapy or surgery were performed within 3 weeks before the first treatment;\n5. Patients who are pregnant or lactating, or plan to become pregnant during enrollment.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

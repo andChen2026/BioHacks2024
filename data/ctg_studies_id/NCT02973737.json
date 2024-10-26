@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02973737",
+    "briefTitle": "A Study of Pyrotinib Plus Capecitabine in Patients With HER2+ Metastatic Breast Cancer",
+    "officialTitle": "Pyrotinib Plus Capecitabine Versus Placebo Plus Capecitabine in Patients With HER2+ Metastatic Breast Cancer:a Randomised, Double-blind, Multicentre, Phase 3 Trial",
+    "overallStatus": "UNKNOWN",
+    "conditions": "HER2 Positive Metastatic Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 279,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Aged \u226518 and \u226475 years.\n2. ECOG performance status of 0 to 1.\n3. Life expectancy of more than 12 weeks.\n4. According to RECIST 1.1, at least one measurable lesion exists\n5. Histologically or cytologic confirmed HER2 positive advanced breast cancer which failed prior therapies.\n6. Prior treatment with trastuzumab(\u22652 cycles in the metastatic setting, or \u22653 months in adjuvant setting), and the patients are not available for the trastuzumab or lapatinib\n7. Previously reveived both Anthracyclin and Taxane.\n8. Required laboratory values including following parameters:\n\n   ANC: \u2265 1.5 x 10\\^9/L; Platelet count: \u2265 90 x 10\\^9/L; Hemoglobin: \u2265 9.0 g/dL; Total bilirubin: \u2264 1.5 x upper limit of normal (ULN); ALT and AST: \u2264 2 x ULN(patients with liver metastases: \\</= 5 x ULN); BUN and Creatinine: \u2264 1.5 x ULN;LVEF: \u2265 50%;QTcF: \\< 470 ms.\n9. Signed informed consent\n\nExclusion Criteria:\n\n1. Received previous therapy with lapatinib, neratinib, pyrotinib or any other HER2 directe tyrosine kinase inhibitor.\n2. Received previous therapy with capecitabine.\n3. History of receiving chemotherapy, target-therapy or investigational treatment within 28 days prior to randomization. Received hormone therapy within 7 days prior to randomization.\n4. Brain metastases that are untreated, symptomatic, or require therapy to control symptoms.\n5. Current severe, uncontrolled systemic disease.\n6. Unable or unwilling to swallow tablets.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

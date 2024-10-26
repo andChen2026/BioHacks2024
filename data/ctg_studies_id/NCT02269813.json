@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02269813",
+    "briefTitle": "PRospective Study to Measure the Impact of MammaPrint on Adjuvant Treatment in Hormone Receptor-positive HER2-negative Breast Cancer Patients (PRIMe)",
+    "officialTitle": "PRospective Study to Measure the Impact of MammaPrint on Adjuvant Treatment in Hormone Receptor-positive HER2-negative Breast Cancer Patients (PRIMe)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 452,
+    "primaryOutcomeMeasure": "Measure the impact of MammaPrint on adjuvant treatment decisions in discordant groups (ET/POOR and CT/GOOD) in stage-1/2, HR+, HER2- breast cancer and test whether these impacts each exceed a pre-determined compliance threshold.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women with histologically proven invasive stage 1 and 2 breast cancer\n* Hormone receptor positive according to local standards\n* HER2 negative - i.e. IHC 0-1+, or FISH or other ISH non-amplified (locally assessed)\n* Axillary lymph node status: 0-3 involved (macro metastases i.e. \\>2mm OR micro metastases i.e. \\>0.2-2mm)\n* \u2265 18 years of age at time of consent\n* Patients must be eligible to receive adjuvant chemotherapy and endocrine therapy as defined by a good Karnofsky index, no hematological, cardiological or hepatic contraindications nor any impeding comorbidity\n* Written informed consent\n\nExclusion Criteria:\n\n* \u22654 involved axillary nodes\n* Multi-centric disease with more than 2 clinically relevant lesions\n* HR negative OR HER2 positive/amplified (locally assessed)\n* Previous diagnosis of malignancy unless disease free for 10 years\n* Metastatic disease\n* Tumor sample shipped to Agendia with \u2264 30% tumor cells or that fails QA or QC criteria\n* Women who have started or completed adjuvant chemotherapy or neo-adjuvant chemotherapy for current breast cancer",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

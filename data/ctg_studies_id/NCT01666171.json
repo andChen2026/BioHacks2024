@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01666171",
+    "briefTitle": "Studying Changes in Breast Density in Patients With Early-Stage Breast Cancer Treated With Metformin Hydrochloride or Placebo on CAN-NCIC-MA.32",
+    "officialTitle": "Change in Mammographic Density With Metformin Use: A Companion Study to NCIC Study MA.32",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 458,
+    "primaryOutcomeMeasure": "Change in percent mammographic breast density in contralateral (unaffected) breast from baseline to 1 year using two-sample t-test or Wilcoxon rank-sum test",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Patients must either be concurrently enrolling or previously enrolled to Canada (CAN) National Cancer Institute of Canada (NCIC) study MA.32 (CAN-NCIC-MA.32) (MA.32); eligible patients may be either pre- or post-menopausal\n* Patients must have hormone receptor-negative breast cancer\n* Patients must have breast density \u2265 25% (correlating with the Breast Imaging-Reporting and Data \\[BIRAD\\]-2 category of \"scattered fibroglandular densities\" or greater)\n* Baseline digital mammograms taken within 12 months prior to registration to MA.32, with at least a craniocaudal (CC) view used for enrollment to MA.32 must be available for submission; if the patient has previously enrolled to MA.32 and one year has elapsed from baseline mammograms, one-year mammograms must also be available for submission\n* Contralateral unaffected breast in place (with no prior cancer or radiation, no implants, and no plan for breast surgery on contralateral breast over the course of the study); women with a prior biopsy on the unaffected breast are eligible\n\nPATIENT CHARACTERISTICS:\n\n* Not specified\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* Women receiving endocrine therapy (e.g., tamoxifen, aromatase inhibitors) are not eligible",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00475670",
+    "briefTitle": "A Study of Herceptin (Trastuzumab) in Women With Metastatic Breast Cancer",
+    "officialTitle": "An Open-label Study of the Effect of First-line Herceptin Alone or in Combination With a Taxane on Tumor Response and Disease Progression in Patients With Metastatic Breast Cancer Who Relapsed After Receiving Adjuvant Herceptin for HER2-positive Early Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 44,
+    "primaryOutcomeMeasure": "Percentage of Participants Achieving Complete Response (CR) or Partial Response (PR) According to the Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.0 Guidelines",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* at least 10 months of Herceptin treatment for HER2-positive early breast cancer;\n* metastatic breast cancer \\>=12 months after discontinuation of Herceptin;\n* measurable disease.\n\nExclusion Criteria:\n\n* previous chemotherapy for metastatic breast cancer;\n* brain metastases;\n* invasive malignancy other than metastatic breast cancer.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02066025",
+    "briefTitle": "Blood Test for Breast Cancer Associated Auto Antibodies - Improvement of Octava Blood Test",
+    "officialTitle": "Blood Test for Breast Cancer Associated Auto Antibodies - Improvement of Octava Blood Test",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1425,
+    "primaryOutcomeMeasure": "Number of participants in each of the clinicaly defined groups (0,1 and 2).",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Female subjects 18 years or over.\n* Subjects following a mammography test.\n* Subject with pathological evaluation after mammography with BIRADS 3-4-5-6.\n\nExclusion Criteria:\n\n* Female Subjects less than 18 years of age\n* Previous or concurrent malignancies\n* Autoimmune disorders diagnosed subjects\n* Hematological malignancies\n* Subjects under active chemotherapy treatment or chemotherapy in the past 6 months\n* Steroid treatment in the past 3 months\n* Subject undergoing immunosuppressive treatments\n* Subject with verified breast cancer other than invasive ductal or invasive lobular as verified by biopsy/cytology",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

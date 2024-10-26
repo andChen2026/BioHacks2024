@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04665986",
+    "briefTitle": "Neoadjuvant Study of Navelbine in Patients With HER2 Positive Breast Cancer",
+    "officialTitle": "A Study to Evaluate Navelbine in Combination With Trastuzumab Plus Pertuzumab in Patients With HER2 Positive Early Stage or Locally Advanced Breast Cancer in Neoadjuvant Treatment",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 50,
+    "primaryOutcomeMeasure": "pCR",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nFemale patients, 18 years \u2264 age \u2264 80 years\uff1b Performance Status- Eastern Cooperative Oncology Group (ECOG) 0-1 Histologically confirmed invasive breast cancer\uff08early stage or locally advanced\uff09 HER2 positive (HER2+++ by IHC or FISH+) Known hormone receptor status. Cardiovascular: Baseline left ventricular ejection fraction (LVEF)\u226555% measured by ECHO Signed informed consent form (ICF)\n\nExclusion Criteria:\n\nMetastatic disease (Stage IV) or inflammatory breast cancer Previous or current history of malignant neoplasms, except for curatively treated: Basal and squamous cell carcinoma of the skin, Carcinoma in situ of the cervix.\n\nClinically relevant cardiovascular disease: Known history of uncontrolled or symptomatic angina, clinically significant arrhythmias, congestive heart failure, transmural myocardial infarction, uncontrolled hypertension \u2265180/110); Unable or unwilling to swallow tablets.",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

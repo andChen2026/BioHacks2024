@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05902988",
+    "briefTitle": "A Phase I/II Study of VLS-1488 in Subjects with Advanced Cancer",
+    "officialTitle": "A Phase I/II Study of VLS-1488 (an Oral KIF18A Inhibitor) in Subjects with Advanced Cancer",
+    "overallStatus": "RECRUITING",
+    "conditions": "Advanced Solid Tumor, High Grade Serous Adenocarcinoma of Ovary, Squamous Non-small-cell Lung Cancer, Triple Negative Breast Cancer, Gastric Adenocarcinoma, Colorectal Adenocarcinoma, Esophageal Squamous Cell Carcinoma, Esophageal Adenocarcinoma, Gastroesophageal Junction Adenocarcinoma, Transitional Cell Carcinoma of Bladder, Head and Neck Squamous Cell Carcinoma, Ovarian Carcinosarcoma, Uterine Carcinosarcoma, Uterine Serous Carcinoma, Endometrium Cancer, Chromosomal Instability",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1, PHASE2",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Dose Escalation: Incidence of Dose Limiting Toxicities (DLTs) in DLT-evaluable subjects",
+    "eligibilityCriteria": "Key Inclusion Criteria:\n\n* All Parts: Age \u2265 18 years, ECOG Performance Status \u2264 1, at least 1 site of measurable disease evaluable by CT scan or MRI per RECIST 1.1, able to take oral medication without alteration\n* Dose Escalation: No available therapeutic options to provide clinically meaningful benefits in the following tumor types: High Grade Serous Ovarian Cancer, Squamous Non -Small Cell Lung Cancer, Triple Negative Breast Cancer, Gastric Adenocarcinoma (not EBV+), Colorectal, Esophageal Squamous Cell Carcinoma, Esophageal Adenocarcinoma, Gastroesophageal Junction, Bladder (transitional cell), Head and Neck Squamous Cell Carcinomas (not nasopharynx, sinonasal or lip), Ovarian Carcinosarcoma, CN-high Endometrial/Uterine\n* Dose Expansion: Must have been previously treated with several lines of standard of care treatment specified in the protocol in the following tumor types: High Grade Serous Ovarian Cancer, Squamous Non-Small Cell Lung Cancer, Triple Negative Breast Cancer, Gastric Adenocarcinoma (not EBV+), Colorectal, Esophageal Squamous Cell Carcinoma, Esophageal Adenocarcinoma, Head and Neck Squamous Cell Carcinomas (not nasopharynx, sinonasal or lip), CN-high Endometrial/Uterine\n\nKey Exclusion Criteria:\n\n* MSI-H, dMMR, POLE gene hotspot mutated, or known hypermutator phenotype\n* Previously received KIF18A inhibitor\n* Current CNS metastases or leptomeningeal disease\n* Cardiac parameters: MI or stroke \u2264 1 year, unstable angina/PE/DVT/CABG \u2264 6 months, NYHA Class \u2265 II, LVEF \\< 50%\n* Inability to comply with concomitant medication restrictions with respect to strong inhibitors and inducers of CYP3A, and clinical inhibitors of MDR1 (P-gp) and BCRP\n* Any clinically significant ascites or pleural effusions at time of enrollment, or any therapeutic paracentesis or thoracentesis within 28 days of planned first dose of study drug\n* Bowel obstruction or GI perforation within 6 months of planned first dose of study drug",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02752893",
+    "briefTitle": "Estrogen Receptor-Positive Breast Cancer Patient-Derived Xenografts",
+    "officialTitle": "Estrogen Receptor-Positive Breast Cancer Patient-Derived Xenografts",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Xenograft success rate, defined as the percentage of patient tumors that yield a growing xenograft in mice.",
+    "eligibilityCriteria": "Inclusion criteria\n\n1. Men and women \\> age 18 with histologically documented ER+/HER2- breast cancer or with a history of ER+/HER2- breast cancer, for whom a tumor biopsy or surgical resection is clinically indicated and will be performed as standard of care.\n\n   Tumor specimens may be from breast (progressive or recurrent) or metastatic sites. Patients with multicentric or bilateral disease are eligible.\n2. Patients must have disease progression during neoadjuvant therapy, recurrence after neoadjuvant or adjuvant therapy, or progression after systemic therapy for metastatic disease.\n3. ER positivity is defined as \\>10% of malignant tumor cells staining positively for ER by immunohistochemistry (IHC).\n\n   HER2 negativity is defined as IHC 0-1+, or with a fluorescence in situ hybridization (FISH) ratio of \\<1.8 if IHC is 2+ or if IHC has not been done.\n4. Excess LIVE tumor tissue must be available from the surgically resected tumor specimen, or from 1-3 extra core needle or incisional biopsy. LIVE tumor tissue must be available within 2 hours of removal from patient (shorter time is preferable).\n5. A recurrent or progressing breast cancer must be greater than 1 cm in greatest diameter.\n6. Prior therapy is allowed as long as excess viable tumor tissue is available from the biopsy or surgical excision procedure.\n7. Patients must be willing to provide 6 mL of blood, which can be obtained during a routine clinically indicated blood draw (ideally, done on the same day as the tumor biopsy/surgery).\n8. Ability to give signed informed consent.\n\nExclusion Criteria\n\n1. Fine needle aspirates and effusions of bodily fluids are not eligible as sources of tumor cells.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

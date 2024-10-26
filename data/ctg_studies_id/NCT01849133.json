@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01849133",
+    "briefTitle": "Randomized Trial on Intraoperative Radiotherapy Full Dose Vs External Radiotherapy",
+    "officialTitle": "Randomized Clinical Trial: Comparison Between Quadrantectomy Followed by External Fractionated Radiotherapy and Quadrantectomy Associated With Intraoperative Radiotherapy in Women >= 48 Years of Age Affected by Early-stage Breast Carcinoma.",
+    "overallStatus": "COMPLETED",
+    "conditions": "Carcinoma Breast",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1305,
+    "primaryOutcomeMeasure": "Number of local relapses",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 48 and \\< 75\n* Clinical mammographic/ultrasound diagnosis of unicentric carcinoma, with ultrasound diameter \u22642.5 cm. Advisable, but not mandatory, the execution of mammoscintigraphy with MDP-99mTc (Methyl diphosphonate technetium-99m) : this procedure allows the bone staging and the mapping of eventual multi-focality/multi-centricity of the breast neoplasm.\n* No previous therapy (biopsy included) for breast cancer in other Institutions.\n* Patients with non-palpable lesions will undergo preoperative centering and stereotactic and/or ultrasound-guided cytology (the execution of this last procedure is not mandatory).\n* Adequate information to the patient and informed consent.\n\nExclusion Criteria:\n\n* Ductal or lobular non-infiltrating carcinoma.\n* Paget disease.\n* Tumor in close proximity to the skin.\n* Tumor in the axillary tail.\n* Documented multi-centricity/multi-focality of the tumor.\n* Patients who underwent excisional biopsy in other Institutions.\n* Histology different from carcinoma.\n* Personal anamnesis positive for malignancy (basocellular carcinoma, in situ carcinoma of the cervix, contralateral breast cancer free of disease after 15 years of follow-up excluded).\n* General contraindications to regular follow-up or radiotherapy.",
+    "sex": "FEMALE",
+    "minimumAge": "48 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

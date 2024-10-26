@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01196455",
+    "briefTitle": "Capecitabine and Mitomycin C in Treatment of Patients With Metastatic Breast Cancer",
+    "officialTitle": "Phase II Clinical Study of Capecitabine in Combination With Mitomycin C as First-Line Treatment in Patients With Metastatic Breast Cancer",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Breast Cancer, Metastasis",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 39,
+    "primaryOutcomeMeasure": "Response rate",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically/cytologically confirmed breast cancer\n* Metastatic breast cancer, having at least one target lesion according to the RECIST criteria. Bone metastases, leptomeningeal disease, ascites, pleural or pericardial effusions, inflammatory breast disease, lymphangitic spread or cystic lesions are not acceptable as target lesions. Target lesions must be \u2265 10 mm longest diameter measured in one dimension using spiral CT, or \u2265 20 mm longest diameter measured in one dimension using conventional techniques. In addition to the definitions pertaining to the target lesion(s) from the RECIST criteria above, the target lesion(s) must not have been previously irradiated (newly arising lesions in previously irradiated areas are acceptable).\n* Age \\> 18 years\n* Signed informed consent obtained prior to initiation of any study-specific procedures or treatment\n\nExclusion Criteria:\n\n* Prior cytotoxic chemotherapy or active/passive immunotherapy for metastatic breast disease\n* Prior usage of capecitabine or mitomycin as adjuvant or neoadjuvant treatment\n* Life expectancy \\< 3 months\n* Not-ambulatory or with an ECOG performance status \\> 1\n* Insufficient hematological, renal and hepatic functions:\n* hemoglobin \\< 8.0 g/dL\n* absolute neutrophils count (ANC) \\< 1.5 x 109/L\n* platelet count \\< 100 x 109/L\n* serum creatinine \\> 1.25 x N\\*\n* total bilirubin \\> 2.0 x N\\*\n* ASAT and/or ALAT \\> 2.5 x N\\* (in case of liver metastases \\> 5 x N\\*)\n* alkaline phosphatase \\> 2.5 x N\\* (in case of liver metastases \\> 5 x N\\*, in case of bone metastases \\> 10 x N\\*) \\*N = upper limit of standard range\n* Severe renal impairment \\[creatinine clearance \\< 30 mL/min (calculated according to cockcroft and Gault)\\]",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

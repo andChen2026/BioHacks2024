@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03772197",
+    "briefTitle": "Parallel Comparison of 18 Gene Classifiers and Oncotype DX (Nanostring)",
+    "officialTitle": "Head-to-Head Comparison of 18-Gene-Based Clinical-Genomic Model and Oncotype DX 21-Gene Assay for Predicting Recurrence of Early-stage Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer, Recurrence",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 138,
+    "primaryOutcomeMeasure": "The locoregional recurrence (LRR) rate, within 5 years after surgery.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients who have performed (Oncotype Dx) genetic testing methods before June 30, 2017.\n2. Surgery (mastectomy or breast preservation) as the first treatment.\n3. ER or PR IHC positive\n4. HER2 negative\n5. N0-N1 patient\n6. Available with FFPE tumor tissue\n\nExclusion Criteria:\n\n1. T3-T4 or N2-N3\n2. With distant metastasis before surgery\n3. Preoperative chemotherapy / radiotherapy\n4. Insufficient FFPE tumor samples",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

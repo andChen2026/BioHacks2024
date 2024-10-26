@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01598077",
+    "briefTitle": "A Phase I Study of LJM716 in Squamous Cell Carcinoma of Head and Neck, or HER2+ Breast Cancer or Gastric Cancer",
+    "officialTitle": "A Phase I Study of LJM716 in Patients With Squamous Cell Carcinoma of Head and Neck, or HER2 Overexpressing Metastatic Breast Cancer or Gastric Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "HER2 + Breast Cancer, HER2 + Gastric Cancer, Squamous Cell Carcinoma of Head and Neck, Esophageal Squamous Cell Carcinoma, HER2 + Breast Cancer, HER2 + Gastric Cancer, Squamous Cell Carcinoma of Head and Neck, Esophageal Squamous Cell Carcinoma",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE1",
+    "allocation": "NON_RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 54,
+    "primaryOutcomeMeasure": "Dose-limiting toxicities (DLTs)",
+    "eligibilityCriteria": "Inclusion criteria:\n\n* Patients with HER2+ breast cancer, or HER2+ gastric cancer, or squamous cell carcinoma of head and neck, or esophageal squamous cell carcinoma\n* Site of disease that can be safely biopsied\n\nExclusion criteria:\n\n* Patients received prior anti-HER3 antibody treatment\n* Patients with impaired cardiac function\n* Brain metastases that have not been adequately treated\n* Malignant disease other than that being treated in this study\n* Pregnant or nursing (lactating) women\n* Laboratory abnormalities as specified in the protocol Other protocol-defined inclusion/exclusion criteria may apply",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

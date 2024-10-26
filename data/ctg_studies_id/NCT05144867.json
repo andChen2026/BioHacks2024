@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05144867",
+    "briefTitle": "Stereotactic Radiosurgery vs Whole Brain Radiotherapy in Breast Cancer With Brain Oligometastasis",
+    "officialTitle": "Stereotactic Radiosurgery vs Whole Brain Radiotherapy in Breast Cancer With Brain Oligometastasis- A Randomised Controlled Phase 3 Trial",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Brain Metastases, Adult, Stereotactic Radiosurgery, Whole Brain Radiotherapy",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 98,
+    "primaryOutcomeMeasure": "Overall survival",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\>=18 years\n* Willing to provide informed consent\n* Histologically confirmed malignancy with metastatic disease detected on imaging.\n* ECOG performance status 0-1\n* 1 to 3 brain metastases, each with a maximum diameter of no more than 3 cm on contrast enhanced magnetic resonance imaging(MRI) scans\n\nExclusion Criteria:\n\n* Serious medical comorbidities\n* ECOG \\>= 2\n* Prior Brain Radiotherapy\n* \\>3 brain metastasis\n* Maximum diameter \\>4cm on MRI",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

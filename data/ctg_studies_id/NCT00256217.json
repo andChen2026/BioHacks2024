@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00256217",
+    "briefTitle": "Chemoprevention Trial - Anastrozole in Ductal Carcinoma In Situ (DCIS) in Postmenopausal Women",
+    "officialTitle": "Phase II Chemoprevention Trial - Anastrozole in the DCIS and Early Invasive Breast Cancer in Postmenopausal Women",
+    "overallStatus": "COMPLETED",
+    "conditions": "DCIS",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 42,
+    "primaryOutcomeMeasure": "Number of Participants With a Change in Ki-67 Level",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients must have suspicion of DCIS or early invasive breast cancer on mammography.\n* Patients must have histologically confirmed diagnosis of DCIS or early invasive breast cancer on core biopsy for final registration.\n* Patients must be over 18 years of age\n* \"Patients must be postmenopausal as defined by one of the following criteria:\n\n  1. Prior bilateral oophorectomy OR\n  2. \\> 12 months since LMP with no prior hysterectomy OR\n  3. a \\& b not applicable AND age \\>=50\n* Patients must be positive for either ER or PR or both\n* Patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines.\n\nExclusion Criteria:\n\n* Patients must not have diagnosis of osteoporosis (T-score -2.5 according to the WHO)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

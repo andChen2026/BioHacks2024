@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04629612",
+    "briefTitle": "Regional Anesthesia in Breast Surgery",
+    "officialTitle": "Regional Anesthesia in Non-intubated Breast Surgery, a Randomized Controlled Trial",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Neoplasms, Pain, Analgesia, Regional Anesthesia",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 120,
+    "primaryOutcomeMeasure": "Post-operative opioid use",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Breast neoplasm require surgical resection of tumor\n* Surgical type: non-intubated breast surgery under intravenous anesthesia\n\nExclusion Criteria:\n\n* Contraindication for regional anesthesia: coagulopathy, infection\n* Previous breast surgery\n* Body mass index \\> 40\n* Chronic opioid use\n* Allergy to intravenous and regional anesthesia agents: Propofol, remifentanil, bupivacaine",
+    "sex": "FEMALE",
+    "minimumAge": "20 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

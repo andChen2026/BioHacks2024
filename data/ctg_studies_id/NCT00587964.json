@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00587964",
+    "briefTitle": "Phase II Trial of Stereotactic Radiosurgery Boost Following Surgical Resection for Brain Metastases",
+    "officialTitle": "Phase II Trial of Stereotactic Radiosurgery Boost Following Surgical Resection for Brain Metastases",
+    "overallStatus": "COMPLETED",
+    "conditions": "Brain Metastasis, Bladder Cancer, Breast Cancer, Cervical Cancer, Colon Cancer, HEENT Cancer, Lung Cancer, Melanoma, Pancreatic Cancer, Prostate Cancer, Rectal Cancer, Sarcoma, Testicular Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 51,
+    "primaryOutcomeMeasure": "Local Control",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed malignancy with the presence of one or two intraparenchymal brain metastases (newly diagnosed patients may be registered based on radiologic confirmation if pathology is unavailable)\n* Age \u2265 18 years\n* Karnofsky performance status \u2265 70\n* Neurologic Function Status 0-2\n* Patients may have extracranial sites of metastatic disease\n* Adequate bone marrow reserve (hemoglobin \u2265 8 grams, absolute neutrophil count \u2265 1000/mm3, platelets \u2265 50,000/mm3)\n* Patient must sign a study specific informed consent form.\n\nExclusion Criteria:\n\n* Major medical illness including poor cardiac, pulmonary or renal status which would result in patient being a high risk candidate for neurosurgical procedure\n* Inability to obtain histologic proof of malignancy\n* Patients with leptomeningeal metastases documented by MRI or CSF evaluation Patients with metastases within 10 mm of the optic apparatus so that some portion of the optic nerve or chiasm would be included in the high dose SRS boost field\n* Patients with metastases in the brainstem, midbrain, pons, or medulla\n* Patients with small cell lung cancer, germ-cell tumors, lymphoma, leukemia and multiple myeloma are not eligible\n* Younger than 18 years of age\n* Karnofsky performance status of \u2264 60\n* Prior history of whole brain radiation therapy\n* Concomitant use of chemotherapy or targeted biological therapy (within a week of the SRS treatment)\n* \u2265 3 metastases in the brain\n* Allergy to both CT and MR contrast dyes\n* Platelet count of \\< 100,000 or coagulation disorders that cannot be corrected or would render the surgery a high-risk procedure",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

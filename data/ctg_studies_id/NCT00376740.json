@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00376740",
+    "briefTitle": "Effectiveness of Zoledronic Acid in the Prevention of Osteoporosis in Early Breast Cancer Patients Receiving Letrozole",
+    "officialTitle": "Phase 3 Study of the Effect of Zoledronic Acid in the Prevention of Osteoporosis in Early Breast Cancer Patients Receiving the Aromatase Inhibitor, Letrozole, in the Adjuvant Setting",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 90,
+    "primaryOutcomeMeasure": "bone mineral density",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Postmenopausal women with histologically documented early (non-metastatic) breast cancer\n* Previous treatment with tamoxifen for at least 2.5 years and not more than 3.5 years\n* Assigned to receive letrozole treatment\n* Karnofsky performance status \u2265 70\n* Life expectancy \u2265 16 weeks\n* Signed informed consent after full explanation of study by participating clinician and prio to any study specific procedures\n* Adjuvant or neoadjuvant chemotherapy is allowed\n* No clinical and/or radiologic evidence of distant metastases\n* No prior treatment with an aromatase inhibitor\n* Able to comply with treatment and scheduled follow-up visits\n* Age between 18 and 82 years\n\nExclusion Criteria:\n\n* Pregnant or lactating women or women with child bearing potential\n* Patients with other malignancies except except adequately treated basal cell carcinoma of the skin or in-situ cervix carcinoma\n* Active infection or other serious underlying medical condition which would impair the ability of the patient to receive protocol treatment\n* Clinical and/or radiological evidence of distant metastases.\n* Evidence of pathological fracture\n* Prior treatment with an aromatase inhibitor\n* Prior administration of any intravenous bisphosphonate during the last year.\n* Oral bisphosphonate must be discontinued within 4 weeks of enrollment\n* Administration of long-term systemic corticosteroids within the last 12 months (short term steroid treatment is allowed.)\n* Prior use of parathyroid hormone treatment for more than 1 week\n* Use of any drug known to affect the skeleton (calcitonin, mithramycin, gallium nitrate) within two weeks prior to enrollment\n* Abnormal renal function: creatinine clearance must be above 30 ml/min (calculated by Cockroft formula)\n* Evidence of metabolic bone disease( Paget's, osteogenesis imperfecta, hyperparathyroidism within the 12 months prior to enrollment)\n* Baseline lumbar spine and or total hip Bone Mineral Density T score below -2\n* Known hypersensitivity to zoledronic acid\n* Psychological, familial, sociologic, or geographic conditions which do not permit medical follow-up and compliance with the study protocol\n* White blood cell \u2264 3.0 x 10exp9 /L or granulocytes \u2264 1.5 x 10exp9/L or platelets \u2264100 x 10exp9\n* Total bilirubin\\> 1.5 x upper normal limit, SGOT and SGPT \\> 2.5 x upper normal limit\n* Unable to undergo DXA bone density scanning (spine deformity, severe scoliosis, lumbar sacral spine surgery)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

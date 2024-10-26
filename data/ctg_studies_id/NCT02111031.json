@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02111031",
+    "briefTitle": "Clinical Utility of CTC Test in Medicare-Eligible Metastatic Breast Cancer Patients",
+    "officialTitle": "Registry to Demonstrate the Clinical Utility of CELLSEARCH\u00ae Circulating Tumor Cell (CTC) Test in Medicare-Eligible Metastatic Breast Cancer Patients",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Metastatic Breast Cancer, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Percentage of treatment decisions that are indicated to be changed by the availability CTC results, stratified by relevant criteria (e.g. patient and tumor characteristics, concordance and discordance with other test results)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPatient has documented (histologically/pathologically confirmed) mBC diagnosis\n\n* Patient is at least 65 years of age at time of mBC diagnosis\n* Patient is male or female\n* Patient is being actively treated at the cancer center by a physician who uses or plans to use CTC testing on his mBC patients at lease every quarter.\n\nExclusion Criteria:\n\n* Patients breast cancer is secondary not primary",
+    "sex": "ALL",
+    "minimumAge": "65 Years",
+    "stdAges": "OLDER_ADULT"
+}

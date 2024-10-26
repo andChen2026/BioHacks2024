@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04802941",
+    "briefTitle": "Neoadjuvant Chemotherapy in Breast Cancer",
+    "officialTitle": "Optimizing Neoadjuvant Systemic Treatment for Breast Cancer by Clinical Decision Support System",
+    "overallStatus": "UNKNOWN",
+    "conditions": "Decision Support Systems, Clinical",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 1200,
+    "primaryOutcomeMeasure": "Number of patients with pathological complete response",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed infiltrating breast cancer\n* Stage II or stage III disease. Nodal status must be examined by ultrasound, fine needle aspiration, sentinel node biopsy, or FDG-PET scan.\n* Age \u226518\n* Eastern Cooperative Oncology Group performance status \u22641\n* Adequate bone marrow function (ANC \\>1.5 x 109/l, platelets \\>100 x 109/l)\n* Adequate hepatic function (ALAT, ASAT and bilirubin \\<2.5 times upper limit of normal)\n* Adequate renal function (creatinine clearance \\>50 ml/min)\n* LVEF \u226550% measured by echocardiography or MUGA\n* Absence of any psychological, familial, sociological, or geographical condition potentially hampering compliance with the study protocol and follow-up schedule\n* Absence of any medical condition that would place the patient at unusual risk.\n* Signed written informed consent\n\nExclusion Criteria:\n\n* previous radiation therapy or chemotherapy\n* other malignancy except carcinoma in situ, unless the other malignancy was treated \u22655 years ago with curative intent without the use of chemotherapy or radiation therapy.\n* current pregnancy or breastfeeding. Women of childbearing potential must use adequate contraceptive protection\n* evidence of distant metastases. Evaluation of the presence of distant metastases may include chest X-ray, liver ultrasound, isotope bone-scan, CT-scan of chest and abdomen and/or FDG-PET scan, according to local procedures.\n* evidence of bilateral infiltrating breast cancer. Evaluation of the presence of bilateral infiltrating breast cancer may include mammography, breast ultrasound and/or MRI breast.\n* concurrent anti-cancer treatment or another investigational drug.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

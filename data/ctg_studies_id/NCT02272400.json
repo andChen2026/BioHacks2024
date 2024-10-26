@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02272400",
+    "briefTitle": "Image Guided Radiotherapy (IGRT) for Prone Partial Breast Irradiation",
+    "officialTitle": "Image Guided Radiotherapy (IGRT) for Prone Partial Breast Irradiation (PBI)",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 310,
+    "primaryOutcomeMeasure": "Measure the outcome of applying IGRT to PBI",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Post-menopausal women defined as either:\n\n  1. at least 2 years without menstrual period or\n  2. patients older than 50 with serological evidence of post-menopausal status or\n  3. hysterectomized patients of any age with FSH confirmation of post-menopausal status\n* pT1 breast cancer, excised with negative margins\n* pN0 or sentinel node negative or N0 clinically if the tumor is \\< 1 cm in size\n\nExclusion Criteria:\n\n* Previous radiation therapy to the ipsilateral breast\n* Presence of a proportion of DCIS in the core biopsy specimen which is compatible with extensive intraductal component (EIC)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

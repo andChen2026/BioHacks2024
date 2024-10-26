@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00536939",
+    "briefTitle": "Trial of Paclitaxel, Bevacizumab, and Enzastaurin Versus Paclitaxel, Bevacizumab and Placebo for Breast Cancer",
+    "officialTitle": "A Randomized, Double-Blind, Phase 2 Trial of Paclitaxel Plus Bevacizumab and Enzastaurin Versus Paclitaxel Plus Bevacizumab and Placebo for Locally Recurrent or Metastatic Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2,
+    "primaryOutcomeMeasure": "Progression Free Survival (PFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Must have signed an inform consent document\n* Have histologic or cytologic diagnosis of breast cancer with evidence of unresectable locally recurrent or metastatic disease\n* Have not received any prior chemotherapy for locally recurrent or metastatic disease\n* Have not had adjuvant or neoadjuvant taxane therapy within 12 months prior to assignment to study treatment\n* Age 18 years or older at time of informed consent\n\nExclusion Criteria:\n\n* Have any clinical evidence of central nervous system (CNS) metastases\n* Have a history of seizure\n* Have had a major surgical procedure within 4 weeks prior to assignment to study treatment\n* Have had a minor surgical procedure, placement of an access device, or fine needle aspiration within 7 days prior to assignment to study treatment\n* Have symptomatic peripheral vascular disease",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

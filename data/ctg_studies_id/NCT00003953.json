@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00003953",
+    "briefTitle": "Chemotherapy Followed by Surgery in Treating Women With Stage II or Stage III Breast Cancer",
+    "officialTitle": "A Phase II Study of Preoperative Dose-Dense Chemotherapy With Sequential Doxorubicin and Docetaxel for Initial Treatment of Operable and Inoperable Stage II-IIIB Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 39,
+    "primaryOutcomeMeasure": "Determine the clinical response of these patients to treatment",
+    "eligibilityCriteria": "Eligibility Criteria:\n\n* Women with a diagnosis of breast cancer established by tissue obtained by needle biopsy or incisional biopsy.\n* There must be a residual measurable breast and/or axillary mass after biopsy.\n* Clinical stage T1, N1-3, Mo or T2-4, N0-3, Mo. T2N0 lesions \\< 4cm in maximum dimension are eligible only if breast conservation is not feasible or practical without preoperative tumor shrinkage.\n* Patients must be willing to undergo a mastectomy or breast sparing procedure plus axillary lymph node dissection.\n* There must be no evidence of systemic metastases.\n* No prior chemotherapy. Patients may have received up to 14 days of tamoxifen. 3.1.7 Patients \\> 18years are eligible.\n* ECOG performance status 0-1.\n* Normal hematologic function defined as white blood cell count \\> 3500/111 or neutrophil count \\> 1500411 and platelets \\>100,000/4\n* Normal renal function defined as serum creatinine \\<1.5 mg/di.\n* Adequate hepatic function. Bilirubin must be \\< institutional upper limit of normal (ULN). Transaminases (SGOT and/or SGPT) may be up to 2.5 X institutional ULN if alkaline phosphatase is \\< ULN, or alkaline phosphatase may be up to 4 X ULN if transaminases are \\< ULN. However, patients who have both transaminase elevation \\> 1.5 X ULN and alkaline phosphatase \\> 2.5 X ULN are not eligible for this study (due to decreased clearance of docetaxel and increased risk of toxicity).\n* Patients with prior CIS of cervix or nonmelanoma skin cancers are eligible. Patients with prior DCIS or LCIS of breast are eligible if not previously treated with radiation or chemotherapy. Patients with prior malignancies including contralateral breast cancers treated with curative intent more than 5 years before enrollment are eligible.\n* Patients must have signed informed consent.\n\nExclusion Criteria:\n\n* Patients with a prior history of malignancy other than those mentioned in section 3.1.12 are ineligible.\n* Patients must not have severe concurrent medical or psychiatric illness (i.e. no severe diabetes mellitus, poorly controlled ischemic heart disease or congestive heart failure, or severe chronic obstructive or restrictive pulmonary disease).\n* The interval between initial diagnosis of breast cancer and the start of treatment must not be greater than 8 weeks.\n* Due to anticipated toxicities to an unborn fetus, and excretion of chemotherapy in breast milk, patients must not be pregnant or lactating and must use effective contraception during treatment.\n* No history of hypersensitivity reaction to preparation containing polysorbate 80, 3.2.6 Patients must not have peripheral neuropathy grade 2 or higher.\n* Patients must not have had prior radiation to \\>25% of bone marrow",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

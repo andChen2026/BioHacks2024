@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01988870",
+    "briefTitle": "IORT (Intra-operative Radiation Therapy) in Early Stage Breast Cancer",
+    "officialTitle": "A Pilot, Single Arm, Study of the Safety and Feasibility of Single-Fraction Intraoperative Radiation Treatment (IORT) With CT-On-Rails-Guided HDR Brachytherapy for the Treatment of Early-Stage Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 28,
+    "primaryOutcomeMeasure": "IORT (Intra-operative Radiation Therapy) treatment interval",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women 50 years of age of older\n* Patient has elected breast conserving surgical treatment for early-stage breast cancer\n* Patient meets American Society for Therapeutic Radiation Oncology (ASTRO) criteria for a \"suitable\" or \"cautionary\" patient\n* Life expectancy of more than 2 years\n* Tumor size 4cm or less\n* Women of childbearing potential must agree to use adequate contraception\n\nExclusion Criteria:\n\n* Male\n* Pregnant or nursing\n* Any contraindication to radiotherapy\n* Breast cancer that involves skin or chest wall, bilateral breast cancer or history of breast cancer in ipsilateral breast\n* Patient meets any of the ASTRO criteria for an \"unsuitable\" patient\n* Patient requires chemotherapy within two weeks of IORT\n* Breast implants\n* A serious uncontrolled medical disorder\n* Significant history of uncontrolled cardiac disease or CNS disease",
+    "sex": "FEMALE",
+    "minimumAge": "50 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

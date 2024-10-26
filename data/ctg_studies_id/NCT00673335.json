@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00673335",
+    "briefTitle": "Letrozole in Preventing Breast Cancer in Postmenopausal Women With a BRCA1 or BRCA2 Mutation",
+    "officialTitle": "Prevention of Breast Cancer by Letrozole in Post-menopausal Women Carrying a BRCA1/BRCA2 Mutation",
+    "overallStatus": "COMPLETED",
+    "conditions": "brca1 Mutation Carrier, brca2 Mutation Carrier, Breast Cancer, Hereditary Breast/Ovarian Cancer (brca1, brca2)",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "PREVENTION",
+    "enrollmentCount": 170,
+    "primaryOutcomeMeasure": "Survival without contralateral or unilateral invasive breast cancer at 5 years (prior breast cancer)",
+    "eligibilityCriteria": "DISEASE CHARACTERISTICS:\n\n* Must meet the following criteria:\n\n  * With or without invasive unilateral breast cancer more than 5 years ago, with no recurrence\n\n    * No evidence of breast cancer by mammography or MRI within the past year\n  * Carrier of the BRCA1/BRCA2 deleterious mutation (nonsense mutation or stop)\n  * Refused preventive mastectomy\n* No prior bilateral breast cancer\n* No prior bilateral mastectomy\n* Hormone receptor status not specified\n\nPATIENT CHARACTERISTICS:\n\nInclusion criteria:\n\n* Menopausal status as indicated by 1 of the following criteria:\n\n  * Age \\> 60 years\n  * Bilateral oophorectomy\n  * Age \u2264 60 years with no hysterectomy or amenorrhea within the past 12 months\n  * Age \u2264 60 years with prior hysterectomy or FSH \\> 20 IU/L\n* Eastern Cooperative Oncology Group (ECOG) or WHO performance status 0-1\n* absolute neutrophil count (ANC) \\> 2,000/mm\\^3\n* Platelet count \\> 100,000/mm\\^3\n* Hemoglobin \\> 10 g/dL\n* Bilirubin normal\n* ALT and AST \\< 2.5 times upper limit of normal\n* Creatinine clearance \u2265 60 mL/min\n* Adequate cardiovascular function (e.g., no history of myocardial infarction, angina pectoris, or heart failure)\n* No osteoporosis by bone density scan (DEXA) within the past 2 years or prior osteoporotic fracture (femur, lumbar spine T score \\> -2 DS)\n\nExclusion criteria:\n\n* Invasive cancer diagnosed in the past 5 years, except for basal cell or squamous cell skin cancer or carcinoma in situ of the cervix\n* Prior cerebrovascular accident\n* Prior cardiac ischemia\n* Hypersensitivity to letrozole or its excipients, especially titanium oxide\n* Renal or hepatocellular insufficiency, cholestasis, or cytolysis\n* Geographical, social, or psychological reasons that preclude medical monitoring in this study\n* Deprived of liberty or guardianship\n\nPRIOR CONCURRENT THERAPY:\n\n* See Disease Characteristics\n* At least 3 months since prior and no concurrent hormone replacement therapy (e.g., thyroid-stimulating hormone)\n* No prior hormonal therapy in the past year\n* No concurrent participation in another therapeutic study with an experimental drug",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

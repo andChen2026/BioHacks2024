@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05403177",
+    "briefTitle": "Marathon of Hope Cancer Centres Network Study for Ontario (MOHCCN-O)",
+    "officialTitle": "Marathon of Hope Cancer Centres Network Study for Ontario (MOHCCN-O)",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Colorectal Cancer, Pancreas Cancer, Kidney Cancer, Prostate Cancer, Ovary Cancer, Head and Neck Cancer, Leukemia, Lymphoma, Lung Cancer, Melanoma, Solid Tumor",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 500,
+    "primaryOutcomeMeasure": "Number of patients included in a pan-Canadian cohort with comprehensive clinical and genomic data",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients with histological and cytological confirmation of blood or solid tumor malignancies.\n2. All patients must be able to satisfy the required minimum data elements for the 15k gold standard cohort through:\n\n   * existing data that satisfies the minimal requirements of a gold standard case, AND/OR\n   * previously collected and sufficient biospecimens (tumor and/or blood samples) for whole-genome and transcriptome sequencing and immunophenotype characterization, AND/OR\n   * new blood collection and/or tumor biopsy\n3. Agrees to share anonymized clinical and genomic data.\n\nExclusion Criteria:\n\nNone.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT04460911",
+    "briefTitle": "Treatment Patterns and Clinical Outcomes Among Patients With HR+/HER2- mBC Receiving Palbociclib Combination Therapy in the US Community Oncology Setting.",
+    "officialTitle": "Treatment Patterns And Clinical Outcomes Among Patients With Hormone Receptor-Positive/Human Epidermal Growth Factor Receptor 2-Negative Metastatic Breast Cancer (mBC) Receiving Palbociclib in Combination With Fulvestrant (PB+FUL) In The US Community Oncology Setting",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 317,
+    "primaryOutcomeMeasure": "Time to Chemotherapy",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Documented diagnosis of HR+/HER2- mBC\n2. Initiated palbociclib + fulvestrant as first-line therapy in the metastatic setting and had at least 2 visits following the index date\n3. Received care at a US oncology site(s) utilizing the full EHR at time of treatment and data are available for research purposes\n\nExclusion Criteria:\n\n1. Enrollment in an interventional clinical trial during the study period\n2. Evidence of prior treatment with CDK4/6 inhibitors in the metastatic setting\n3. Receipt of treatment indicated for another primary cancer during the study period or history of another primary cancer documented within the US Oncology EHR.",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

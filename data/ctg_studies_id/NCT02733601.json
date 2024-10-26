@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02733601",
+    "briefTitle": "Epidemiology of Breast Cancer in Women Based on Diagnosis Data From Oncologists and Breast Surgeons in Algeria",
+    "officialTitle": "BreCaReAl: Breast Cancers Registry in Algeria",
+    "overallStatus": "COMPLETED",
+    "conditions": "Oncology, Epidemiology, Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 1500,
+    "primaryOutcomeMeasure": "Survival status at 05 years (percentage of patients still alive at 05 years)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\nPatients will be eligible to participate to the study if they fulfil all of the following criteria:\n\n* Female patients\n* Aged 18 years and over\n* Newly diagnosed with breast cancer all stages confirmed during the study period by an anatomopathologist, defined as a first diagnosis of breast cancer based on anatomopathological results from at least a microbiopsy\n* Provision of subject informed consent.\n\nExclusion Criteria:\n\nPatients will not be eligible to participate if any of the following criteria are present:\n\n* Informed consent not obtained.\n* Patients with a mental or psychological disorder according to their treating clinicians\n* Patients participating in an interventional study or already included in the study. A patient could be consulted and treated in two different centres, thus a codification system will be generated to avoid duplicate participation",
+    "sex": "FEMALE",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}

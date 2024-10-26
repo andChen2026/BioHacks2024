@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05031065",
+    "briefTitle": "Prognostic Indicators for Radiation-induced Breast Fibrosis",
+    "officialTitle": "Identifying Prognostic Indicators for the Development of Radiation-induced Breast Fibrosis",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 27,
+    "primaryOutcomeMeasure": "Measurement of the ATX-LPA (ATX) inflammatory response to standard RT for breast cancer as a prognostic marker for RT-induced fibrosis.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female participants capable of giving informed consent, or if appropriate, participants having an acceptable individual capable of giving consent on the participant's behalf\n2. Age 40 and above.\n3. Treatment with breast conserving surgery.\n4. Intended adjuvant whole breast radiotherapy dose to a dose of 40-42.5 Gy in 15-16 fractions.\n5. Luminal A subtype as determined by clinipathologic factors (ER/PR positive, Her-2 negative, low Ki-67 or low OncotypeDx recurrence score\n\nExclusion Criteria:\n\n1. Women who have smoked within the last 5 years\n2. Patients requiring adjuvant chemotherapy.\n3. Requirement for regional nodal radiotherapy.\n4. Requirement for tumour bed boost.\n5. Breast implants\n6. Patients to be treated with partial breast irradiation.\n7. Uncontrolled intercurrent illness or active infection.\n8. Patients who have previously received chemotherapy.\n9. Patients who have previously received chemotherapy.",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

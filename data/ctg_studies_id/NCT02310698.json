@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT02310698",
+    "briefTitle": "Comparison of Whole Breast Screening Ultrasound and Contrast Enhanced Mammography for Supplemental Breast Cancer Screening",
+    "officialTitle": "Comparison of Whole Breast Screening Ultrasound and Contrast Enhanced Mammography for Supplemental Breast Cancer Screening",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "conditions": "Breast Cancer Screening",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 487,
+    "primaryOutcomeMeasure": "The number of cancers and false positive findings identified on a CEDM and WBUS as a measure of sensitivity and specificity.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women scheduled for screening WBUS and a screening FFDM on the same day or within the following 30 days of each other\n* Women scheduled for screening CEDM alone\n* Women scheduled for WBUS and screening CEDM on the same day or within 30 days of one another\n\nExclusion Criteria:\n\n* Age \\< 30 years old\n* Male patients\n* Patients with any clinical breast symptoms (palpable mass, nipple discharge, etc)\n* Patients with known diagnosis of breast cancer\n* Patients with any breast surgery or biopsy within 90 days prior to the study\n* Patients who have had a lumpectomy for breast cancer within 18 months prior to the study\n* Patients who are thought to have a breast MRI within 1 year prior to the study\n* Patients with contraindication to the intravenous use of iodinated contrast agent (i.e. allergy to iodinated contrast or severely impaired renal function with a creatinine level \u22651.3)",
+    "sex": "FEMALE",
+    "minimumAge": "30 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

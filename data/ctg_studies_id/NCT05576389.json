@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05576389",
+    "briefTitle": "Neoadjuvant Fluzoparib Combined With Camrelizumab in Germline BRCA-mutated HER2-negative Breast Cancer",
+    "officialTitle": "Neoadjuvant Fluzoparib Combined With Camrelizumab in Germline BRCA-mutated HER2-negative Breast Cancer: An Open-label, Single-arm, Multicenter Trial",
+    "overallStatus": "ENROLLING_BY_INVITATION",
+    "conditions": "Germline BRCA-mutated HER2-negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE2",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 94,
+    "primaryOutcomeMeasure": "tpCR\uff08ypT0/is ypN0\uff09",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Women \u2265 18 and \u2264 70 years of age with treatment-na\u00efve breast cancer\n* Histopathologically confirmed early or locally advanced HER2-negative invasive breast cancer as defined by the ASCO/CAP guidelines while meeting the following conditions:\n\nHER2 negative: IHC 0/1 + or IHC2 + but ISH negative; Tumor stage: II-III; Primary tumor size: \u2265 1 cm Nodal Status: N0-3\n\n* ECOG score 0 \\~ 1;\n* Centrally confirmed BRCA1 or BRCA2 germline mutation;\n* At least one measurable lesion according to RECIST 1.1\n* Eligible level of organ function\n\nExclusion Criteria:\n\n* Patients with metastatic breast cancer or bilateral breast cancer;\n* Patients with inflammatory breast cancer;\n* Participated in other drug trials or received any anti-tumor therapy within 4 weeks before enrollment, including endocrine therapy, bisphosphonate therapy, immunotherapy, biological therapy or tumor embolization;\n* Previously received PD-1/PD-L1 antibody, CTLA-4 antibody, or other therapies against PD-1/PD-L1 inhibitors;\n* Previously received PARP inhibitors;\n* Human immunodeficiency virus (HIV) infection or known acquired immunodeficiency syndrome (AIDS); active hepatitis or combined hepatitis B and C co-infection; autoimmune hepatitis;\n* Confirmed history of heart failure or systolic dysfunction (LVEF \\< 50%); high risk uncontrolled cardiac arrhythmias, such as atrial tachycardia; angina requiring antianginal medication\n* Female patients who are pregnant or lactating\n* History of definite neurological or psychiatric disorders, including epilepsy or dementia\n* Presence of interstitial lung disease, pneumonitis, or uncontrolled systemic disease (eg, diabetes mellitus, pulmonary fibrosis, acute pneumonitis, etc.)",
+    "sex": "FEMALE",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

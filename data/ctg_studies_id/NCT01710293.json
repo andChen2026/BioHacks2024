@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT01710293",
+    "briefTitle": "Intervention Protocol for Automated Point-of-Care Surveillance of Outpatient Delays in Cancer Diagnosis",
+    "officialTitle": "Automated Point-of-Care Surveillance of Outpatient Delays in Cancer Diagnosis",
+    "overallStatus": "WITHDRAWN",
+    "conditions": "Lung Cancer, Bladder Cancer, Colorectal Cancer, Hepatocellular Carcinoma, Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+    "enrollmentCount": 0,
+    "primaryOutcomeMeasure": "Median Time from Initial Follow-up Delay to Follow-up Action",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient charts: Medical charts of Veteran patients who receive care from participating VA facility (Madison VAH, Jesse Brown VAMC, Hines VAH, Michael E. DeBakey VAMC, and Minneapolis VAMC) providers during the one year study period (tentatively October 2016-October 2017) and who have potential delays in diagnostic evaluation for lung, colorectal, liver, bladder, or breast cancer will be reviewed as part of the study.\n* Providers: Providers who have seen primary care outpatients in any of the participating facilities or their outpatient clinics within the year-long study period.\n\nExclusion Criteria:\n\n* Patient Charts: Medical charts of patients who are not receiving care from participating facility providers or charts of patients who do not have potential follow-up delays for lung, colorectal, liver, bladder, or breast cancer in the time period of interest.\n* Providers: Providers who have not seen primary care outpatients in any of the participating facilities or their outpatient clinics within the time period of interest.",
+    "sex": "ALL",
+    "minimumAge": "21 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

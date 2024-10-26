@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05460975",
+    "briefTitle": "Breast Cancer Risk From Sonographic Glandular Tissue Component (or International GTC Study)",
+    "officialTitle": "Association of Sonographic Glandular Tissue Component With Breast Cancer Risk Among Women With Dense Breasts: A Prospective, Multinational Validation Study",
+    "overallStatus": "RECRUITING",
+    "conditions": "Breast Cancer, Screening",
+    "studyType": "OBSERVATIONAL",
+    "phase": "N/A",
+    "allocation": "N/A",
+    "primaryPurpose": "N/A",
+    "enrollmentCount": 16164,
+    "primaryOutcomeMeasure": "Incident breast cancer within 3 months to 7 years after the assessment of sonographic GTC",
+    "eligibilityCriteria": "Inclusion Criteria\n\n1. be \u2265 40 and \\<70 years old at time of US\n2. No history of previous breast cancer including DCIS\n3. have dense breasts (BI-RADS category C and D on mammography performed within 12 months of breast US) and negative/benign BI-RADS assessment categories on mammography (BI-RADS 1, 2)\n4. undergoing screening breast US using either automated or handheld device\n\nExclusion Criteria\n\n1. history of bilateral prophylactic mastectomy\n2. history of bilateral foreign body injection\n3. history of bilateral breast implants\n4. history of bilateral breast reduction surgery or surgical excision\n5. currently pregnant or breast feeding in the preceding 6 months\n6. Known distant metastasis from other primary cancer",
+    "sex": "FEMALE",
+    "minimumAge": "40 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

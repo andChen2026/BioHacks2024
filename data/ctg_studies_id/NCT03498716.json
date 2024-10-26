@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT03498716",
+    "briefTitle": "A Study Comparing Atezolizumab (Anti PD-L1 Antibody) In Combination With Adjuvant Anthracycline/Taxane-Based Chemotherapy Versus Chemotherapy Alone In Patients With Operable Triple-Negative Breast Cancer",
+    "officialTitle": "A Phase III, Multicenter, Randomized, Open-Label Study Comparing Atezolizumab (Anti PD-L1 Antibody) in Combination With Adjuvant Anthracycline/Taxane-Based Chemotherapy Versus Chemotherapy Alone in Patients With Operable Triple Negative Breast Cancer",
+    "overallStatus": "TERMINATED",
+    "conditions": "Triple Negative Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "PHASE3",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 2199,
+    "primaryOutcomeMeasure": "Invasive Disease-Free Survival (iDFS)",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Non-metastatic operable Stage II-III breast cancer\n* Histologically documented TNBC (Triple Negative Breast Cancer)\n* Confirmed tumor PD-L1 evaluation as documented through central testing of a representative tumor tissue specimen\n* Adequately excised: Patients must have undergone either breast-conserving surgery or mastectomy/nipple- or skin-sparing mastectomy\n* Adequate hematologic and end-organ function\n* For women of childbearing potential: agreement to remain abstinent (refrain from heterosexual intercourse) or use contraceptive measures\n* For men: agreement to remain abstinent (refrain from heterosexual intercourse) or use contraceptive measures and agreement to refrain from donating sperm.\n* No more than 8 weeks (56 days) may elapse between definitive breast surgery and randomization.\n* Representative formalin-fixed, paraffin embedded (FFPE) tumor specimen from surgical resection in paraffin blocks (preferred) or at least 25 unstained slides.\n\nExclusion Criteria\n\n* Prior history of invasive breast cancer\n* For the currently diagnosed breast cancer, any previous systemic anti-cancer treatment (e.g., neoadjuvant or adjuvant), including, but not limited to, chemotherapy, anti-HER2 therapy.\n* Previous therapy with anthracyclines or taxanes for any malignancy\n* Cardiopulmonary dysfunction\n* Prior malignancies within 5 years prior to randomization, with the exception of those with a negligible risk of metastasis or death and treated with expected curative outcome\n* Active or history of autoimmune disease or immune deficiency\n* History of idiopathic pulmonary fibrosis, organizing pneumonia, drug-induced pneumonitis, idiopathic pneumonitis, or evidence of active pneumonitis on screening chest computed tomography (CT) scan\n* Urinary outflow obstruction\n* Active tuberculosis\n* Major surgical procedure other than for diagnosis within 4 weeks prior to initiation of study treatment or anticipation of need for a major surgical procedure during study treatment or within 5 months following the last dose of Atezolizumab (for patients randomized to Atezolizumab)\n* Prior allogeneic stem cell or solid organ transplant\n* Treatment with systemic immunosuppressive medications within 2 weeks prior to initiation of study treatment or anticipation of need for systemic immunosuppressive medication during the study",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

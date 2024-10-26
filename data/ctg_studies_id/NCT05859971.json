@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT05859971",
+    "briefTitle": "ICG and SLN Mapping",
+    "officialTitle": "Use of ICG-fluorescent Imaging for Sentinel Lymph Node Mapping in Patients With Breast Cancer",
+    "overallStatus": "COMPLETED",
+    "conditions": "Breast Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "EARLY_PHASE1",
+    "allocation": "NA",
+    "primaryPurpose": "TREATMENT",
+    "enrollmentCount": 10,
+    "primaryOutcomeMeasure": "Concordance Between Detection of Sentinel Lymph Nodes by ICG Versus Technetium-99, at the Lymph Node Level",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* \u2265 18 years of age\n* Diagnosis of clinical T1 or T2 breast cancer clinically node negative breast cancer requiring surgical lymph node evaluation\n* Surgery at University of Wisconsin Hospital and Clinic\n\nExclusion Criteria:\n\n* Pregnant: It is not known whether indocyanine green can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Women of child-bearing age will undergo a urine pregnancy test on the day of surgery, which is standard of care prior to anesthesia.\n* Breastfeeding: It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when indocyanine green is administered to a nursing woman. Study team will exclude women who are breastfeeding.\n* Unable to provide informed consent\n* Allergy to indocyanine green\n* History of ipsilateral breast or axillary surgery",
+    "sex": "ALL",
+    "minimumAge": "18 Years",
+    "stdAges": "ADULT, OLDER_ADULT"
+}

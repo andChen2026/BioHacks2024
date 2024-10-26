@@ -1,0 +1,17 @@
+{
+    "nctId": "NCT00380055",
+    "briefTitle": "Reducing Cancer Disparities for American Indians in the Rural Intermountain West",
+    "officialTitle": "Reducing Cancer Disparities for American Indians in the Rural Intermountain West",
+    "overallStatus": "COMPLETED",
+    "conditions": "Prostate Cancer, Colorectal Cancer, Breast Cancer, Cervical Cancer, Lung Cancer",
+    "studyType": "INTERVENTIONAL",
+    "phase": "NA",
+    "allocation": "RANDOMIZED",
+    "primaryPurpose": "SCREENING",
+    "enrollmentCount": 1800,
+    "primaryOutcomeMeasure": "Proportion of individuals receiving recommended screening for prostate, breast, colorectal, and cervical cancer.",
+    "eligibilityCriteria": "Inclusion Criteria:\n\n* Enrolled in Medicare Part B\n* Self-reported American Indian\n\nExclusion Criteria:\n\n* Have cancer other than study cancer\n* Medicare Part C enrolled",
+    "sex": "ALL",
+    "minimumAge": "N/A",
+    "stdAges": "CHILD, ADULT, OLDER_ADULT"
+}
