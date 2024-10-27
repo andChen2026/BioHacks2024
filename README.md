@@ -2,7 +2,7 @@
 
 The repository contains the code to address the problem statement of Realyze Health, which is to "Use LLMs to understandoncology clinical trials form clincaltrials.org andstructure the inclusion and exclusion criteria sopatients can be match in real time." We propose a novel technical solution for clinical trial coordinators to query what clinical trials are suitable for them. The outline of our product is as follows:
 
-![Image](clinical2patients.png)
+![Image](panel.jpg)
 
 # Data
 
