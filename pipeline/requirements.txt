@@ -1,0 +1,9 @@
+langchain 
+langchain-pinecone 
+langchain-aws 
+langchain-community 
+transformers 
+pandas 
+tqdm
+sentence-transformers 
+huggingface_hub
